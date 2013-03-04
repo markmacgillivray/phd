@@ -2,19 +2,10 @@
 
 {% block content %}
 
-      <div class="row-fluid">
-        <div class="span7">
-          <div class="hero-unit" style="height:120px;">
-            <h3>some great website</h3>
-          </div>
+    <div id="contentblock" class="contentblock">
+        <div class="contentsection" data-source="{{ rid }}" id="{{ rid }}">
+        {{ content|safe }}
         </div>
-
-        <div class="span5">
-          <div class="hero-unit" style="height:120px;">
-            <p>Some options</p>
-          </div>
-        </div>
-
-      </div>
+    </div>
 
 {% endblock %}
