@@ -18,6 +18,15 @@ import portality.auth as auth
 from werkzeug import generate_password_hash, check_password_hash
 from flask.ext.login import UserMixin
 
+
+class Reference(DomainObject):
+    __type__ = 'reference'
+
+
+class Wikipedia(DomainObject):
+    __type__ = 'wikipedia'
+
+
 class Account(DomainObject, UserMixin):
     __type__ = 'account'
 
