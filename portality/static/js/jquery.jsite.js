@@ -273,7 +273,7 @@
 
 	                });
 	            }
-                $('#form_content').val(record['content']);
+                $('#form_content').val(options.data.content);
             }
             $('#collab_edit').height( $(window).height() - 70 );
             $('#padid').html(id);
