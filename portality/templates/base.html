@@ -56,7 +56,7 @@
     <script type="text/javascript" src="/static/portality/vendor/jquery.textfill.js"></script>
 
     <script type="text/javascript" src="/static/js/jquery.oaptools.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.jsite.js"></script>
+    <script type="text/javascript" src="/static/portality/js/jquery.jsite.js"></script>
 
     <script type="text/javascript" src="/static/portality/vendor/d3/d3.min.js"></script>
 
@@ -69,49 +69,27 @@
 
 </head>
 
-<body data-spy="scroll" data-target=".subnav" data-offset="50">
+<body>
 
-<div class="navbar navbar-fixed-top">
-    <div>
-        <div class="container-fluid">
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </a>
-            <div class="nav-collapse">
-                <ul id="mainnavlist" class="nav">
-                    <li><a href="/topics">topics</a></li>
-                    <li><a class="contents" href="/contents">contents</a></li>
-                    <li><a class="presentation" href="/references">presentation</a></li>
-                    <li><a href="/figures">figures</a></li>
-                    <li><a href="/data">data</a></li>
-                    <li><a href="/references">references</a></li>
-                    <li><a href="/history">history</a></li>
-                    <li><a href="/versions">versions</a></li>
-                    <li><a href="/download">download</a></li>
-                    <li><a href="/help">help</a></li>
-                    {% if current_user.is_anonymous() %}
-                    <li><a href="{{url_for('account.login')}}">login</a></li>
-                    {% else %}
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><strong>options</strong> <b class="caret"></b></a>
-                        <ul id="admin_options" class="dropdown-menu">
-                            <li><a class="pagesettings" href="">page settings</a></li>
-                            <li><a class="edit_page" href="">edit this page</a></li>
-                            <li><a class="package_page" href="">save for download</a></li>
-                            <li><a href="/account/logout">logout</a></li>
-                        </ul>
-                    </li>
-                    {% endif %}
-                    <li id="padid"></li>
-                </ul>
-            </div>
-        </div>
-    </div>
+<div id="meta" style="position:fixed;top:0;left:0;z-index:100000;">
+{% if current_user.is_anonymous() %}
+<p><a href="{{url_for('account.login')}}">login</a></p>
+{% else %}
+<ul>
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><strong>options</strong> <b class="caret"></b></a>
+    <ul id="admin_options" class="dropdown-menu">
+        <li><a class="pagesettings" href="">page settings</a></li>
+        <li><a class="edit_page" href="">edit this page</a></li>
+        <li><a class="package_page" href="">save for download</a></li>
+        <li><a href="/account/logout">logout</a></li>
+    </ul>
+</li>
+</ul>
+{% endif %}
 </div>
 
-<div class="container-fluid" style="margin-top:60px;">
+<div id="main" class="container-fluid" style="margin-top:60px;"> <!-- main ID is needed for jquery.jsite.js to know where to put things -->
     <div class="row-fluid">
         <div class="alert-messages">
         {% with messages = get_flashed_messages(with_categories=True) %}
@@ -127,8 +105,10 @@
         </div>
     </div>
 
+    <div id="article"> <!-- article ID is needed for jquery.jsite.js to know where to put things -->
     {% block content %}{% endblock %}
-
+    </div>
+    
 </div>
 
 </body>

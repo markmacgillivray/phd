@@ -55,7 +55,7 @@
         // take a snapshot of the page as it currently stands and package it so it can be viewed statically or downloaded
         var packagepage = function(event) {
             event ? event.preventDefault() : false;
-            var currstate = $('#contentblock').clone();
+            var currstate = $('#index').clone();
             currstate.find('script').remove();
             currstate.find('#metaopts').remove();
             currstate.prepend( '<h1>Contents</h1>' + $('#oap_TOC').clone() );
@@ -99,7 +99,7 @@
                 $('.oap_header').remove();
                 $('.contents').unbind('click',contents);
                 // rebuild
-                $('#contentblock').oap_headers().oap_refs().oap_toc();
+                $('#index').oap_headers().oap_refs().oap_toc();
                 $('#oap_TOC').hide();
                 var contents = function(event) {
                     event ? event.preventDefault() : false;
@@ -125,16 +125,16 @@
                 event ? event.preventDefault() : false;
                 if ( $(this).hasClass('active') ) {
                     $(this).removeClass('active');
-                    $('#contentblock').jmpress('deinit');                
+                    $('#index').jmpress('deinit');                
                 } else {
                     $(this).addClass('active');
-                    $('#contentblock').jmpress();
+                    $('#index').jmpress();
                 }
             }
             $('.presentation').bind('click',presentation);
             
             // enable inline edit if logged in
-            options.loggedin ? $('.contentsection').bind('click',editinline) : false;
+            options.loggedin ? $('#index').bind('click',editinline) : false;
         
             // put any facetviews into any facetview divs
             $('.facetview').each(function() {
