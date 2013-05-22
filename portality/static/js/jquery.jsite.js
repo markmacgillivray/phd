@@ -119,6 +119,7 @@
                 $.ajax({"url": src, "success": embed, "into": $(this)});
             });
             updatechildren(options.data,children);
+
             
             // enable presentation trigger buttons
             var presentation = function(event) {

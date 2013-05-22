@@ -56,6 +56,7 @@
     <script type="text/javascript" src="/static/portality/vendor/jquery.textfill.js"></script>
 
     <script type="text/javascript" src="/static/js/jquery.oaptools.js"></script>
+    <script type="text/javascript" src="/static/js/phd.js"></script>
     <script type="text/javascript" src="/static/portality/js/jquery.jsite.js"></script>
 
     <script type="text/javascript" src="/static/portality/vendor/d3/d3.min.js"></script>
@@ -63,6 +64,7 @@
     <script type="text/javascript">
         jQuery(document).ready(function () {
             var opts = {{ jsite_options|safe }};
+            opts['post_pagebuild_callback'] = prepoaptools;
             $('body').jsite(opts);
         });
     </script>
@@ -73,19 +75,18 @@
 
 <div id="meta" style="position:fixed;top:0;left:0;z-index:100000;">
 {% if current_user.is_anonymous() %}
-<p><a href="{{url_for('account.login')}}">login</a></p>
+<p><a href="{{url_for('account.login')}}">..</a></p>
 {% else %}
-<ul>
-<li class="dropdown">
-    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><strong>options</strong> <b class="caret"></b></a>
+<div class="row-fluid">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog" style="margin:5px;border:1px solid #999;-moz-border-radius:5px;border-radius:5px;-webkit-border-radius:5px;"></i></a>
     <ul id="admin_options" class="dropdown-menu">
+        <li><a class="dynamicpagenav" href="">dynamic page nav</a></li>
         <li><a class="pagesettings" href="">page settings</a></li>
         <li><a class="edit_page" href="">edit this page</a></li>
         <li><a class="package_page" href="">save for download</a></li>
         <li><a href="/account/logout">logout</a></li>
     </ul>
-</li>
-</ul>
+</div>
 {% endif %}
 </div>
 
