@@ -30,12 +30,10 @@
     <link rel="stylesheet" type="text/css" media="all" href="/static/css/bootstrap-readable.min.css" />
     <link rel="stylesheet" type="text/css" media="all" href="/static/portality/vendor/bootstrap/css/bootstrap-responsive.min.css" />
     <link rel="stylesheet" type="text/css" media="all" href="/static/css/style.css" />
-    <link rel="stylesheet" type="text/css" media="all" href="/static/portality/vendor/tweet/jquery.tweet.css" />
     <link rel="stylesheet" type="text/css" media="all" href="/static/portality/vendor/facetview/css/facetview.css" />
 
     <script type="text/javascript" src="/static/portality/vendor/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="/static/portality/vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script language="javascript" src="/static/portality/vendor/tweet/jquery.tweet.js" type="text/javascript"></script>
 
     <script type="text/javascript" src="/static/portality/vendor/facetview/vendor/linkify/1.0/jquery.linkify-1.0-min.js"></script>
     <script type="text/javascript" src="/static/portality/vendor/facetview/jquery.facetview.js"></script>
@@ -53,6 +51,9 @@
 
     <link rel="stylesheet" href="/static/portality/vendor/jquery-ui-1.8.18.custom/jquery-ui-1.8.18.custom.css">
     <script type="text/javascript" src="/static/portality/vendor/jquery-ui-1.8.18.custom/jquery-ui-1.8.18.custom.min.js"></script>
+
+    <!-- get graphview -->
+    <script type="text/javascript" src="/static/portality/vendor/graphview/jquery.graphview.js"></script>
 
     <script type="text/javascript" src="/static/portality/vendor/jmpress.js"></script>
 
@@ -78,7 +79,7 @@
 
 <div id="meta" style="position:fixed;top:0;left:0;z-index:100000;">
 {% if current_user.is_anonymous() %}
-<p><a href="{{url_for('account.login')}}">..</a></p>
+<p>&nbsp;<a href="{{url_for('account.login')}}">..</a></p>
 {% else %}
 <div class="row-fluid">
     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog" style="margin:5px;border:1px solid #999;-moz-border-radius:5px;border-radius:5px;-webkit-border-radius:5px;"></i></a>

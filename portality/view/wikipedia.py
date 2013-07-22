@@ -4,6 +4,20 @@ import sys, re, json
 import urllib, urllib2, httplib
 import traceback
 
+'''
+from topia.termextract import extract
+from html2text import html2text
+         
+def term_extractor(content):
+    # http://pypi.python.org/pypi/topia.termextract/
+    # remove html first
+    text = html2text(content)
+    extractor = extract.TermExtractor()
+    extractor.filter = extract.DefaultFilter(singleStrengthMinOccur=2)
+    terms = extractor(text)
+    return terms
+'''
+
 def repl(matchobj):
     return matchobj.group(0)
 
