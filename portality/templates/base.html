@@ -8,6 +8,7 @@
 {% else %}
 <div class="row-fluid">
     <div class="span12">
+        {% if record %}
         {% if record.data %}
         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog" style="margin:5px;border:1px solid #999;-moz-border-radius:5px;border-radius:5px;-webkit-border-radius:5px;"></i></a>
         <ul id="admin_options" class="dropdown-menu">
@@ -17,6 +18,7 @@
         </ul>
         {% else %}
         <p style="margin:5px;"><a href="{{record.url}}">back</a></p>
+        {% endif %}
         {% endif %}
     </div>
 </div>

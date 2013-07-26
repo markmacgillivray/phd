@@ -16,7 +16,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>SIOS {% if record.data %} | {{ record.data['title'] }}{% endif %}</title>
+    <title>SIOS {% if record %}{% if record.data %} | {{ record.data['title'] }}{% endif %}{% endif %}</title>
 
     <link href="/static/favicon.ico" rel="icon" type="image/x-icon" />
 
