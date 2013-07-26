@@ -3,9 +3,7 @@
 <body>
 
 <div id="meta" style="position:fixed;top:0;left:0;z-index:100000;">
-{% if current_user.is_anonymous() %}
-<p>&nbsp;<a href="{{url_for('account.login')}}">..</a></p>
-{% else %}
+{% if not current_user.is_anonymous() %}
 <div class="row-fluid">
     <div class="span12">
         {% if record %}
