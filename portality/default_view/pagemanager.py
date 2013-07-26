@@ -160,6 +160,7 @@ def manage():
 def pagemanager(path=''):
 
     url = '/' + path.lstrip('/').rstrip('/')
+    if url == '/': url = '/index'
     if url.endswith('.json'): url = url.replace('.json','')
     rec = models.Pages.pull_by_url(url)
         

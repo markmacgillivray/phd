@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>GraphView</title>
+    <meta name="description" content="GraphView">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- get jquery -->
+    <script type="text/javascript" src="vendor/jquery/1.7.1/jquery-1.7.1.min.js"></script>
+
+    <!-- get bootstrap js and css -->
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap-responsive.min.css">
+    <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>  
+
+    <!-- get jquery-ui js and css -->
+    <link rel="stylesheet" href="vendor/jquery-ui-1.8.18.custom/jquery-ui-1.8.18.custom.css">
+    <script type="text/javascript" src="vendor/jquery-ui-1.8.18.custom/jquery-ui-1.8.18.custom.min.js"></script>
+                
+    <!-- get select2-->
+    <link rel="stylesheet" href="vendor/select2-release-3.2/select2.css">
+    <script type="text/javascript" src="vendor/select2-release-3.2/select2.min.js"></script>
+
+    <!-- get d3 -->
+    <script type="text/javascript" src="vendor/d3/d3.min.js"></script>
+
+    <!-- get graphview and launch -->
+    <script type="text/javascript" src="jquery.graphview.js"></script>
+    <!--<link rel="stylesheet" href="graphview.css"> there isnt any graphview css yet -->
+    <script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $('#graph').css({"height":$(window).height() - 5});
+        $('#graph').graphview({
+            //"target": 'http://192.168.1.12:9200/occ/record/_search',
+            "target": 'http://localhost:9200/phd/mission/_search',
+            "pushstate": false,
+            "titlefield": "university",
+            "defaultquery": {
+                "query": {
+                    "bool": {
+                        "must":[]
+                    }
+                },
+                "from":0,
+                "size":300,
+                "facets":{
+                    "university": {"term":{"field":"university.exact","suggest":true}},
+                    "department": {"term":{"field":"department.exact","suggest": true, "node": true}},
+                    "group affiliation": {"term":{"field":"group.exact","suggest":true}},
+                    "mission terms": {"term":{"field":"missionprocessed.exact","suggest": true, "node": true}}
+                }
+            },
+            "nodesize": 10,
+            "focusdepth": 1,
+            "showlinks":true
+        });
+    });
+    </script>
+
+</head>
+
+<body>
+
+<div id="graph" style="width:100%;"></div>
+
+</body>
+</html>
