@@ -68,6 +68,7 @@ MAPPINGS = {
     }
 }
 
+MAPPINGS['survey'] = {'survey':MAPPINGS['record']['record']}
 MAPPINGS['pages'] = {'pages':MAPPINGS['record']['record']}
 MAPPINGS['mission'] = {'mission':MAPPINGS['record']['record']}
 MAPPINGS['reference'] = {'reference':MAPPINGS['record']['record']}
