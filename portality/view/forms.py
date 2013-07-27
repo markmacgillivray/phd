@@ -69,7 +69,8 @@ def form(ftype='record'):
         except:
             # else default behavious is just to overwrite the record
             # you probably want at least some validation here
-            for k, v in request.values.items():
+            newdata = request.json if request.json else request.values;
+            for k, v in newdata.items():
                 if k not in ['submit']:
                     f.data[k] = v
             f.save()
