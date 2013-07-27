@@ -30,6 +30,10 @@ class Survey(DomainObject):
     __type__ = 'survey'
 
 
+class Mission(DomainObject):
+    __type__ = 'mission'
+
+
 class Account(DomainObject, UserMixin):
     __type__ = 'account'
 
