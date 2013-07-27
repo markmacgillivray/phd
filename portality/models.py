@@ -34,6 +34,10 @@ class Mission(DomainObject):
     __type__ = 'mission'
 
 
+class Scholarship(DomainObject):
+    __type__ = 'scholarship'
+
+
 class Account(DomainObject, UserMixin):
     __type__ = 'account'
 
