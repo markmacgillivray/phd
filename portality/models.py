@@ -5,6 +5,8 @@ from portality.core import app
 
 from portality.dao import DomainObject as DomainObject
 
+import requests
+
 '''
 Define models in here. They should all inherit from the DomainObject.
 Look in the dao.py to learn more about the default methods available to the Domain Object.
@@ -36,6 +38,27 @@ class Mission(DomainObject):
 
 class Scholarship(DomainObject):
     __type__ = 'scholarship'
+        
+    def save_from_form(self,request):
+        for key in request.form.keys():
+            if key not in ['submit']:
+                self.data[key] = request.form[key]
+
+        try:
+            src = requests.get('http://api.hostip.info/get_json.php?position=true&ip=' + request.remote_addr)
+            try:
+                self.data['country_name'] = src.json()['country_name']
+                self.data['country_code'] = src.json()['country_code']
+                self.data['city'] = src.json()['city']
+                self.data['ip'] = src.json()['ip']
+                self.data['lat'] = src.json()['lat']
+                self.data['long'] = src.json()['lng']
+            except:
+                pass
+        except:
+            pass
+        
+        self.save()
 
 
 class Account(DomainObject, UserMixin):
