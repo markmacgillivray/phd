@@ -74,7 +74,7 @@ def form(ftype='record'):
                 if k not in ['submit']:
                     f.data[k] = v
             f.save()
-        return ''
+        return redirect('/survey_complete')
 
 
 # get dropdown info required for the form
