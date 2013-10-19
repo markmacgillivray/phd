@@ -40,25 +40,36 @@ class Scholarship(DomainObject):
     __type__ = 'scholarship'
         
     def save_from_form(self,request):
-        for key in request.form.keys():
-            if key not in ['submit']:
-                self.data[key] = request.form[key]
+        spam = False
+        if request.form.get('scholarship','') not in ['OPEN','CLOSED','']: spam = True
+        if request.form.get('research','') not in ['COLLABORATIVE','COMPETITIVE','']: spam = True
+        if request.form.get('output','') not in ['SHARED','RESTRICTED','']: spam = True
+        if request.form.get('methods','') not in ['INCLUSIVE','EXCLUSIVE','']: spam = True
+        if request.form.get('contribute','') not in ['CHEAP','PROFITABLE','']: spam = True
+        if request.form.get('access','') not in ['FREE','COSTLY','']: spam = True
+        if request.form.get('review','') not in ['PUBLIC','ANONYMOUS','']: spam = True
+        if request.form.get('attribution','') not in ['PROVENANCE','ACKNOWLEDGEMENT','']: spam = True
 
-        try:
-            src = requests.get('http://api.hostip.info/get_json.php?position=true&ip=' + request.remote_addr)
+        if not spam:
+            for key in request.form.keys():
+                if key not in ['submit']:
+                    self.data[key] = request.form[key]
+
             try:
-                self.data['country_name'] = src.json()['country_name']
-                self.data['country_code'] = src.json()['country_code']
-                self.data['city'] = src.json()['city']
-                self.data['ip'] = src.json()['ip']
-                self.data['lat'] = src.json()['lat']
-                self.data['long'] = src.json()['lng']
+                src = requests.get('http://api.hostip.info/get_json.php?position=true&ip=' + request.remote_addr)
+                try:
+                    self.data['country_name'] = src.json()['country_name']
+                    self.data['country_code'] = src.json()['country_code']
+                    self.data['city'] = src.json()['city']
+                    self.data['ip'] = src.json()['ip']
+                    self.data['lat'] = src.json()['lat']
+                    self.data['long'] = src.json()['lng']
+                except:
+                    pass
             except:
                 pass
-        except:
-            pass
-        
-        self.save()
+            
+            self.save()
 
 
 class Account(DomainObject, UserMixin):
