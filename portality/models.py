@@ -50,6 +50,8 @@ class Scholarship(DomainObject):
         if request.form.get('review','') not in ['PUBLIC','ANONYMOUS','']: spam = True
         if request.form.get('attribution','') not in ['PROVENANCE','ACKNOWLEDGEMENT','']: spam = True
 
+        if request.form.get('email_check','') != "": spam = True
+
         if not spam:
             for key in request.form.keys():
                 if key not in ['submit']:
