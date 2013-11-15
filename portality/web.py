@@ -14,7 +14,7 @@ import portality.models as models
 from portality.core import app, login_manager
 
 from portality.view.account import blueprint as account
-from portality.view.sitemap import blueprint as sitemap
+from portality.view.nav import blueprint as nav
 from portality.view.media import blueprint as media
 from portality.view.admin import blueprint as admin
 from portality.view.graph import blueprint as graph
@@ -25,10 +25,11 @@ from portality.view.package import blueprint as package
 from portality.view.forms import blueprint as forms
 from portality.view.pagemanager import blueprint as pagemanager
 from portality.view.feed import blueprint as feed
+from portality.view.hooks import blueprint as hooks
 
 
 app.register_blueprint(account, url_prefix='/account')
-app.register_blueprint(sitemap, url_prefix='/sitemap')
+app.register_blueprint(nav, url_prefix='/nav')
 app.register_blueprint(media, url_prefix='/media')
 app.register_blueprint(admin, url_prefix='/admin')
 app.register_blueprint(graph, url_prefix='/graph')
@@ -37,6 +38,7 @@ app.register_blueprint(query, url_prefix='/query')
 app.register_blueprint(stream, url_prefix='/stream')
 app.register_blueprint(package, url_prefix='/package')
 app.register_blueprint(forms, url_prefix='/forms')
+app.register_blueprint(hooks, url_prefix='/hooks')
 app.register_blueprint(feed)
 app.register_blueprint(pagemanager)
 

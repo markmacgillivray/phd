@@ -65,6 +65,12 @@ class DomainObject(UserDict.IterableUserDict):
 
         r = requests.post(self.target() + self.data['id'], data=json.dumps(self.data))
 
+    def save_from_form(self,request):
+        newdata = request.json if request.json else request.values
+        for k, v in newdata.items():
+            if k not in ['submit']:
+                self.data[k] = v
+        self.save()
 
     @classmethod
     def bulk(cls, bibjson_list, idkey='id', refresh=False):
@@ -99,6 +105,15 @@ class DomainObject(UserDict.IterableUserDict):
             return None
 
     @classmethod
+    def pull_by_key(cls,key,value):
+        res = cls.query(q={"query":{"term":{key+app.config['FACET_FIELD']:value}}})
+        if res.get('hits',{}).get('total',0) == 1:
+            return cls.pull( res['hits']['hits'][0]['_source']['id'] )
+        else:
+            return None
+
+
+    @classmethod
     def keys(cls,mapping=False,prefix=''):
         # return a sorted list of all the keys in the index
         if not mapping:
@@ -129,10 +144,32 @@ class DomainObject(UserDict.IterableUserDict):
         if recid and not recid.endswith('/'): recid += '/'
         if isinstance(q,dict):
             query = q
+            if 'bool' not in query['query']:
+                boolean = {'bool':{'must': [] }}
+                boolean['bool']['must'].append( query['query'] )
+                query['query'] = boolean
+            if 'must' not in query['query']['bool']:
+                query['query']['bool']['must'] = []
         elif q:
-            query = {'query': {'query_string': { 'query': q }}}
+            query = {
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'query_string': { 'query': q }}
+                        ]
+                    }
+                }
+            }
         else:
-            query = {'query': {'match_all': {}}}
+            query = {
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'match_all': {}}
+                        ]
+                    }
+                }
+            }
 
         if facets:
             if 'facets' not in query:
@@ -179,4 +216,8 @@ class DomainObject(UserDict.IterableUserDict):
     def delete(self):        
         r = requests.delete(self.target() + self.id)
 
+    @classmethod
+    def delete_all(cls):
+        r = requests.delete(cls.target())
+        r = requests.put(cls.target() + '_mapping', json.dumps(app.config['MAPPINGS'][cls.__type__]))
 

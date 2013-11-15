@@ -29,6 +29,14 @@ class Wikipedia(DomainObject):
 class Account(DomainObject, UserMixin):
     __type__ = 'account'
 
+    @classmethod
+    def pull_by_email(cls,email):
+        res = cls.query(q='email:"' + email + '"')
+        if res.get('hits',{}).get('total',0) == 1:
+            return cls(**res['hits']['hits'][0]['_source'])
+        else:
+            return None
+
     def set_password(self, password):
         self.data['password'] = generate_password_hash(password)
 
@@ -70,10 +78,6 @@ class Pages(DomainObject):
 
     def update_from_form(self, request):
         newdata = request.json if request.json else request.values
-        self.data['editable'] = False
-        self.data['accessible'] = False
-        self.data['visible'] = False
-        self.data['comments'] = False
         for k, v in newdata.items():
             if k == 'tags':
                 tags = []
@@ -459,7 +463,7 @@ class Archive(DomainObject):
     __type__ = 'account'
 
     @classmethod
-    def get_by_email(cls,email):
+    def pull_by_email(cls,email):
         res = cls.query(q='email:"' + email + '"')
         if res.get('hits',{}).get('total',0) == 1:
             return cls(**res['hits']['hits'][0]['_source'])

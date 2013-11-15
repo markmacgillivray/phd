@@ -1,4 +1,6 @@
 from flask import Blueprint, request, abort, make_response
+from flask.ext.login import current_user
+
 from portality import models as models
 from portality.core import app
 
@@ -33,15 +35,32 @@ def feed(path=None, title=None):
 
 
 def get_feed_resp(title, query, req):
+    # get the records from elasticsearch
     # build an elastic search query, which gives us all accessible, visible pages 
     # which conform to the supplied query string.  We obtain a maximum of 20 entries
     # or the amount in the configuration
-    qs = {'query': {'query_string': { 'query': "accessible:true AND visible:true AND (" + query + ")"}}}
-    qs['sort'] = [{"last_updated.exact" : {"order" : "desc"}}]
-    qs['size'] = app.config.get('MAX_FEED_ENTRIES',20)
-    
-    # get the records from elasticsearch
-    resp = models.Pages.query(q=qs)
+    qtype = app.config.get('FEED_INDEX',"Pages")[0].capitalize() + app.config.get('FEED_INDEX',"Pages")[1:]
+    klass = getattr(models, qtype )
+    qs = {
+        "query": {
+            "bool": {
+                "must": [
+                    {"query_string": { "query": query }}
+                ]
+            }
+        },
+        "size": app.config.get('MAX_FEED_ENTRIES',20)
+    }
+
+    if 'sort' not in qs and app.config.get('DEFAULT_SORT',False):
+        if qtype.lower() in app.config['DEFAULT_SORT'].keys():
+            qs['sort'] = app.config['DEFAULT_SORT'][qtype.lower()]
+
+    if current_user.is_anonymous() and app.config.get('ANONYMOUS_SEARCH_TERMS',False):
+        if qtype.lower() in app.config['ANONYMOUS_SEARCH_TERMS'].keys():
+            qs['query']['bool']['must'] = qs['query']['bool']['must'] + app.config['ANONYMOUS_SEARCH_TERMS'][qtype.lower()]
+
+    resp = klass().query(q=qs)
     records = [r.get("_source") for r in resp.get("hits", {}).get("hits", []) if "_source" in r]
     
     # reconstruct the original request url (urgh, why is this always such a pain)

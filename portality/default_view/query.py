@@ -23,9 +23,13 @@ blueprint = Blueprint('query', __name__)
 def query(path='Pages'):
     pathparts = path.strip('/').split('/')
     subpath = pathparts[0]
-    if subpath.lower() in app.config.get('NO_QUERY_VIA_API',[]):
+    if subpath.lower() in app.config.get('NO_QUERY',[]):
         abort(401)
-    klass = getattr(models, subpath[0].capitalize() + subpath[1:] )
+
+    try:
+        klass = getattr(models, subpath[0].capitalize() + subpath[1:] )
+    except:
+        abort(404)
     
     if len(pathparts) > 1 and pathparts[1] == '_mapping':
         resp = make_response( json.dumps(klass().query(endpoint='_mapping')) )
@@ -35,7 +39,7 @@ def query(path='Pages'):
         else:
             rec = klass().pull(pathparts[1])
             if rec:
-                if ( not app.config.get('ANONYMOUS_SEARCH_FILTER_TERMS',False) ) or ( app.config.get('ANONYMOUS_SEARCH_FILTER_TERMS',False) and rec.get('visible',False) and rec.get('accessible',False) ):
+                if not current_user.is_anonymous() or (app.config.get('PUBLIC_ACCESSIBLE_JSON',True) and rec.data.get('visible',True) and rec.data.get('accessible',True)):
                     resp = make_response( rec.json )
                 else:
                     abort(401)
@@ -52,17 +56,33 @@ def query(path='Pages'):
         elif 'source' in request.values:
             qs = json.loads(urllib2.unquote(request.values['source']))
         else: 
-            qs = ''
+            qs = {'query': {'match_all': {}}}
+
         for item in request.values:
             if item not in ['q','source','callback','_'] and isinstance(qs,dict):
                 qs[item] = request.values[item]
-        if 'sort' not in qs and app.config.get('SEARCH_SORT',False):
-            qs['sort'] = {app.config['SEARCH_SORT'].rstrip(app.config['FACET_FIELD']) + app.config['FACET_FIELD'] : {"order":app.config.get('SEARCH_SORT_ORDER','asc')}}
-        if app.config.get('ANONYMOUS_SEARCH_FILTER_TERMS',False) and current_user.is_anonymous():
-            terms = app.config['ANONYMOUS_SEARCH_FILTER_TERMS']
-        else:
-            terms = ''
-        resp = make_response( json.dumps(klass().query(q=qs, terms=terms)) )
+
+        if 'sort' not in qs and app.config.get('DEFAULT_SORT',False):
+            if path.lower() in app.config['DEFAULT_SORT'].keys():
+                qs['sort'] = app.config['DEFAULT_SORT'][path.lower()]
+
+        if current_user.is_anonymous() and app.config.get('ANONYMOUS_SEARCH_TERMS',False):
+            if path.lower() in app.config['ANONYMOUS_SEARCH_TERMS'].keys():
+                if 'bool' not in qs['query']:
+                    pq = qs['query']
+                    qs['query'] = {
+                        'bool':{
+                            'must': [
+                                pq
+                            ]
+                        }
+                    }
+                if 'must' not in qs['query']['bool']:
+                    qs['query']['bool']['must'] = []
+                qs['query']['bool']['must'] = qs['query']['bool']['must'] + app.config['ANONYMOUS_SEARCH_TERMS'][path.lower()]
+
+        resp = make_response( json.dumps(klass().query(q=qs)) )
+
     resp.mimetype = "application/json"
     return resp
 
