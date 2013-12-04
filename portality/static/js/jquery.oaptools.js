@@ -71,6 +71,10 @@
     $.fn.oap_toc = function(options) {
         // specify the defaults
         var defaults = {
+            prependto: this,
+            depth: 10,
+            statictoo: false,
+            statictoodepth: 3
         };
         // and add in any overrides from the call
         var options = $.extend(defaults, options);
@@ -95,17 +99,60 @@
                 return output;
             };
 
-            // add a TOC div to the page
-            obj.prepend('<div id="oap_TOC"><ul style="list-style-type:none;"></ul></div>');
+            // add a TOC div to the page where required
+            $(options.prependto).prepend('<div id="oap_TOC"><ul style="list-style-type:none;"></ul></div>');
+
+            if ( options.statictoo ) {
+                // put a contents nav on the top that shows when contents is not in view
+                $('body').append('<div id="oap_nav" style="display:none;z-index:1000000000;position:fixed;top:0;left:5px;padding:4px 6px 4px 6px;background-color:#333;color:#ccc;-webkit-border-radius: 0 0 4px 4px;-moz-border-radius: 0 0 4px 4px;border-radius: 0 0 4px 4px;-webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.05);-moz-box-shadow: inset 0 3px 5px rgba(0,0,0,.05);box-shadow: inset 0 3px 5px rgba(0,0,0,.05);"><ul style="list-style-type:none;margin:0px;"><li><a id="oap_navopts" style="color:#ccc;" href="#">CONTENTS</a></li></ul></div>');
+            }
 
             // for each header in the apdoc,
             $(':header', obj).each(function() {
-                // define the anchor name
-                var anchorname = $(this).oap_textonly().replace(/\s/gi,'');
-                // create the anchor tag and push it onto the TOC
-                $(this).append('<a class="oap_anchor" name="' + anchorname + '"></a>');
-                $('#oap_TOC ul').append('<li>' + $(this).oap_indent() + $(this).find('.oap_header').html() + ' <a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
+                var d = jQuery(this)[0].nodeName.replace(/[A-z]/,'');
+                if ( d <= options.depth ) {
+                    // define the anchor name
+                    var anchorname = $(this).oap_textonly().replace(/\s/gi,'');
+                    // create the anchor tag and push it onto the TOC
+                    $(this).append('<a class="oap_anchor" name="' + anchorname + '"></a>');
+                    var hdr = $(this).find('.oap_header').html();
+                    hdr == null ? hdr = '' : hdr = hdr + ' ';
+                    $('#oap_TOC ul').append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
+                    if ( options.statictoo && d <= options.statictoodepth ) {
+                        $('#oap_nav ul').append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
+                    }
+                };
             });
+
+            if ( options.statictoo ) {
+                // show the contents nav as appropriate, in expanded or collapsed form
+                var offtop = $('#oap_TOC').offset().top;
+                var offbottom = $('#oap_TOC').offset().top + $('#oap_TOC').height();
+                $(window).scroll(function() {
+                    if ( (offtop < $(window).scrollTop() && $(window).scrollTop() < offbottom) || $(window).scrollTop() < 200 ) {
+                        $('#oap_nav').hide();
+                    } else {
+                        $('#oap_nav').show();                    
+                    }
+                });
+
+                var origmrg = '';
+                var oap_navopts = function(event) {
+                    event.preventDefault();
+                    if ( $(this).hasClass('collapsed') ) {
+                        $(this).removeClass('collapsed');
+                        $(this).parent().siblings().show();
+                        origmrg = obj.css('marginLeft');
+                        obj.css({'margin-left':$('#oap_nav').width() + 'px'});
+                    } else {
+                        $(this).addClass('collapsed');
+                        $(this).parent().siblings().hide();
+                        obj.css({'margin-left':origmrg});
+                    }
+                };
+                $('#oap_navopts').bind('click',oap_navopts);
+                $('#oap_navopts').trigger('click');
+            }
 
         }); // end of the function  
     };
@@ -124,6 +171,7 @@
         // specify the defaults
         var defaults = {
             identifier: '.ref',
+            appendto: this
         };
         // and add in any overrides from the call
         var options = $.extend(defaults, options);
@@ -173,7 +221,7 @@
             	var refdiv = '<div class="oap_references">' + 
             	    '<span class="oap_tocite">[' + counter + ']<a class="oap_reftocite" href="' + counter + '"> ^^ </a></span>' + 
             	    '<span class="oap_theref">' + reference + '</span></div>';
-                obj.append(refdiv);
+                $(options.appendto).append(refdiv);
                 if ( link.length > 0 ) {
                     $('.oap_references:last .oap_theref').append(' : <a href="' + link + '">' + link + '</a>');
                 }
