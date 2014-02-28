@@ -36,6 +36,18 @@ class Mission(DomainObject):
     __type__ = 'mission'
 
 
+class Annotation(DomainObject):
+    __type__ = 'annotation'
+
+    @classmethod
+    def all(cls):
+        annotations = []
+        res = cls.query(size=1000000000)
+        if res is not None:
+            annotations = [i['_source']  for i in res.get('hits',{}).get('hits',[])]
+        return annotations
+        
+
 class Scholarship(DomainObject):
     __type__ = 'scholarship'
         

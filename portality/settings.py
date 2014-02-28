@@ -74,4 +74,5 @@ MAPPINGS['mission'] = {'mission':MAPPINGS['record']['record']}
 MAPPINGS['scholarship'] = {'scholarship':MAPPINGS['record']['record']}
 MAPPINGS['reference'] = {'reference':MAPPINGS['record']['record']}
 MAPPINGS['wikipedia'] = {'wikipedia':MAPPINGS['record']['record']}
+MAPPINGS['annotation'] = {'annotation':MAPPINGS['record']['record']}
 
