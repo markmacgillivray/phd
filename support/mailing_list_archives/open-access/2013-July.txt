@@ -1,0 +1,858 @@
+From pm286 at cam.ac.uk  Thu Jul  4 16:43:53 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 4 Jul 2013 16:43:53 +0100
+Subject: [Open-access] Principles of "Open Access"
+Message-ID: <CAD2k14NyBrZytN-Q8BGPbqgrhMRdbujO8xb82f8-i7HiqwnL4g@mail.gmail.com>
+
+Mike Taylor has just been interviewed by Richard Poynder -
+poynder.blogspot.fi/2013/07/open-access-where-are-we-what-still.html and I
+think what he says is core to what the OKF interpretaion of OA is (as
+expressed by the motivation of this list).
+
+It's clear that the wider movement is floundering. Mike notes the great
+increase in momentum, but also hints at the lack of coherence. Given the
+bickering and worse of the last year or so it's not surprising that
+genuinely motivated newcomers are perplexed.
+
+I think it would be useful for this list to create a clear simple guide to
+(Fully) open OA. The BOAI is clear but has been downgraded. We need to
+state not only principles but some absolute positions. Such as Mike's "we
+don't need publishers and should walk away".
+
+I am going to try to marshal my thoughts by commenting on Mike's analysis
+and have started at :
+http://blogs.ch.cam.ac.uk/pmr/2013/07/02/mike-taylors-brilliant-analysis-of-openaccess/
+I believe more is needed, especially on rights and also on WHY we need Open
+Access (I wish there was a new term and maybe we should strive for that).
+
+Simply: The position is critical and critically balanced and the OKF can
+make a significant difference.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130704/538bc010/attachment.htm>
+
+From grahamtriggs at gmail.com  Fri Jul  5 21:37:21 2013
+From: grahamtriggs at gmail.com (Graham Triggs)
+Date: Fri, 5 Jul 2013 21:37:21 +0100
+Subject: [Open-access] [open-science] Principles of "Open Access"
+In-Reply-To: <CAD2k14NyBrZytN-Q8BGPbqgrhMRdbujO8xb82f8-i7HiqwnL4g@mail.gmail.com>
+References: <CAD2k14NyBrZytN-Q8BGPbqgrhMRdbujO8xb82f8-i7HiqwnL4g@mail.gmail.com>
+Message-ID: <CAOoxy7Kw8Eoyh9JcShoKUdCoYPGmW8weT6T-TrZ2f07ZTr-8Gw@mail.gmail.com>
+
+On 4 July 2013 16:43, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> I think it would be useful for this list to create a clear simple guide to
+> (Fully) open OA. The BOAI is clear but has been downgraded.
+>
+
+I do agree with this. Imho, subdividing OA into Gold, Green, Libre, Gratis,
+etc. is not helpful. Especially when half (or more) of the definitions
+remove "open" from "open access".
+
+There is nothing wrong with "free access" - both as a concept and a term.
+Free access is nearly as important as open access, and shares the same
+values, if not all of the benefits - that we need to ensure that
+researchers are not prevented from getting access to published research.
+But it should be clear that free is not open.
+
+I believe more is needed, especially on rights and also on WHY we need Open
+> Access (I wish there was a new term and maybe we should strive for that).
+>
+
+Or, seeing as "open" is well understood pretty much everywhere else it is
+invoked, why not just defend the meaning and chase out the terms that
+dilute it? There is no need for it - the alternatives are simply clearer.
+
+G
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130705/3c48b785/attachment.htm>
+
+From sanglorian at gmail.com  Sun Jul  7 03:44:49 2013
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sat, 6 Jul 2013 22:44:49 -0400
+Subject: [Open-access] FOSsil Bank Update (7 July 2013)
+Message-ID: <CAMuj-eJNqXYOQNcA2QFzHcGkXHPgvuD2y_MVVFp0daio+vJEww@mail.gmail.com>
+
+Hi folks,
+
+Here?s the second half of the monster FOSsil Bank Update.
+
+As always, please get in touch if you?ve found any libre or shareable
+content and I?ll chuck it on the wiki.
+#FundFreeCulture
+
+Commonly has launched the Open Bundle, with assets (sprites, art,
+soundtracks) for several games. Pay what you want. If they raise more than
+$10,000, everything is CC0 licensed. (9 days left; $6,348/$10,000)
+
+Librivox, one of the stalwarts of the free culture scene - offering
+thousands of public domain audiobooks - is asking for $50,000 in
+contributions by the 10th of August.
+<http://librivox.org/2013/07/03/librivox-needs-your-help-2/>
+
+The Subaqueous: USB Splash Drive and Remix Album
+Kickstarter<http://www.kickstarter.com/projects/cotec/subaqueous-usb-splash-drive-and-remix-album>
+made
+it! (CC BY-SA; $2,930/$2,222)
+
+28 hours left for the second Future of Copyright Contest on
+IndieGoGo<http://www.indiegogo.com/projects/future-of-copyright-contest-2-0>.
+Already a proven
+success<http://www.indiegogo.com/projects/future-of-copyright-contest>
+from
+last year. (CC BY-SA; 28 hours left; $503/$500)
+
+Assets from an abandoned Blender game project were ransomed on
+IndieGoGo.<http://www.indiegogo.com/projects/free-game-resources-for-blender-3d-and-more?c=home>
+Quite
+a few assets have already been shared. (CC0; $675/$500)
+
+Data Dealer  <http://www.kickstarter.com/projects/cuteacute/data-dealer>is
+an online game about collecting and selling personal data (CC BY-SA; 4 days
+left; $28,720/$50,000)
+
+Lunduke <http://lunduke.com/?p=4446>, a game designer and comic creator, is
+releasing all of his works as libre to try to make a living off of it.
+
+The Foundations for an Open Source
+City<http://hibbets.net/blog/2013/06/18/now-available-on-lulu-and-amazon-the-foundation-for-an-open-source-city/>
+is
+now on Lulu and Amazon. (CC BY-SA; $7 EPUB, $7 Kindle, $15 hardcopy)
+
+The Software Freedom Conservancy <https://sfconservancy.org/campaign/> is
+running a fundraising campaign to develop an open source non-profit
+accounting software. ($52,867/$75,000)
+
+Tabletop Games
+
+Fate Accelerated
+Edition<http://fossilbank.wikidot.com/entry:fate-accelerated-edition>is
+a lite version of the fractal tabletop roleplaying game Fate. CC BY
+and
+OGL
+
+Fate Core System <http://fossilbank.wikidot.com/entry:fate-core-system> is
+the extended version of the fractal tabletop roleplaying game Fate. CC BY
+and OGL
+
+The d6 System <http://fossilbank.wikidot.com/engine:d6-system> is a
+tabletop game engine. OGL
+
+HG Wells <http://fossilbank.wikidot.com/source:hg-wells> is a famous
+author. Public domain
+
+Ryan St <http://fossilbank.wikidot.com/source:ryan-st> is a tabletop game
+designer. OGL
+
+Otherkind Dice <http://fossilbank.wikidot.com/engine:otherkind-dice> is an
+engine for tabletop games.
+
+TakeOnRules <http://fossilbank.wikidot.com/source:takeonrules> publishes
+supplements for Dungeon World. CC BY
+
+James D Hargrove <http://fossilbank.wikidot.com/source:james-d-hargrove> is
+a tabletop game designer. OGL
+
+Wizards of the Coast <http://fossilbank.wikidot.com/source:wotc> is a
+tabletop game publisher. OGL
+
+Ronin Arts <http://fossilbank.wikidot.com/source:ronin-arts> is a tabletop
+game publisher. OGL
+Spanish Language
+
+Cosmo Noticias <http://fossilbank.wikidot.com/entry:cosmo-noticias> has
+information about space in Spanish. CC BY-SA
+
+OpenLibra <http://fossilbank.wikidot.com/entry:openlibra> is catalogue of
+English and Spanish books. While the site is CC BY, I?m not sure about the
+books themselves.
+
+Linvix <http://fossilbank.wikidot.com/entry:linvix> is a Spanish Linux
+magazine. CC BY-SA
+
+Yorokobu <http://fossilbank.wikidot.com/entry:yorokobu> is a Spanish
+language magazine about innovation, inspiration, trends, sustainability and
+the adventures of entrepreneurs. CC BY-SA
+
+Diagonal <http://fossilbank.wikidot.com/entry:diagonal> is a Spanish
+language periodical. CC BY-SA
+
+Traficantes de Sue?os<http://fossilbank.wikidot.com/entry:traficantes-de-suenos>is
+a Spanish book publisher. CC BY-SA
+
+4uPress <http://fossilbank.wikidot.com/entry:4upress> is a crowdsourced
+Spanish newspaper. CC BY-SA
+
+Quomun <http://fossilbank.wikidot.com/entry:qomun> is a directory of
+shareable works (most in Spanish). The site describes itself simultaneously
+as CC BY-SA and CC BY-NC-ND.
+Proprietary Shareable Works
+
+The WIRED CD <http://fossilbank.wikidot.com/entry:the-wired-cd> is a
+collection of songs (most from major artists like the Beastie Boys). CC
+Sampling or CC NC-Sampling
+
+Smarthistory <http://fossilbank.wikidot.com/entry:smarthistory>, hosted by
+Khan Academy, is an OER for art history. CC BY-NC-SA
+
+Balloon Suite <http://fossilbank.wikidot.com/entry:balloon-suite> is the
+soundtrack for the computer game Balloon Diaspora. CC BY-NC-ND
+
+Hacking Politics <http://fossilbank.wikidot.com/entry:hacking-politics> is
+a book about the defeat of SOPA. CC BY-NC-SA
+
+Berin Kinsman <http://fossilbank.wikidot.com/source:berin-kinsman> is a
+game designer with a couple under his belt. CC BY-NC-SA or CC BY-NC
+
+Independent Australia<http://fossilbank.wikidot.com/entry:independent-australia>publishes
+most, maybe all, articles under CC BY-NC-ND.
+
+Practical Survivor
+<http://fossilbank.wikidot.com/entry:practical-survivor>has advice on
+how to survive in the wild. CC BY-NC-ND
+
+Dynamo <http://fossilbank.wikidot.com/entry:dynamo> is a sci-fi/fantasy
+webseries. CC BY-NC-SA
+
+Always/Never/Now <http://fossilbank.wikidot.com/entry:always-never-now> is
+a Lady Blackbird-esque tabletop RPG. CC BY-NC-SA
+
+Thou Shal<http://fossilbank.wikidot.com/entry:thou-shalt-not-commit-logical-fallacies>t
+Not Commit Logical
+Fallacies<http://fossilbank.wikidot.com/entry:thou-shalt-not-commit-logical-fallacies>is
+a website that has information on logical fallacies presented in an
+engaging way. CC BY-NC
+
+Numeros Rojos <http://fossilbank.wikidot.com/entry:numeros-rojos> is a
+Spanish magazine. CC BY-NC-SA
+
+No Rock Solo <http://fossilbank.wikidot.com/entry:no-rock-solo> is a
+Spanish music blog-magazine. CC BY-NC
+
+
+Till next time,
+
+Chris
+
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130706/a1dd1462/attachment.htm>
+
+From tom.olijhoek at gmail.com  Tue Jul 16 12:51:20 2013
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 16 Jul 2013 13:51:20 +0200
+Subject: [Open-access] [open-science] New book chapter on Open Licensing
+ in the context of academia (OER's)
+In-Reply-To: <CAOayPe=y_3d0=vwcqe+JJd_RMF9=JUBXFEb5ELu7=qLKQEzhMQ@mail.gmail.com>
+References: <CAOayPe=y_3d0=vwcqe+JJd_RMF9=JUBXFEb5ELu7=qLKQEzhMQ@mail.gmail.com>
+Message-ID: <CAGyWN8bhmKDR7zxY8QLjyzE3D_1kW3zmxrHh_Qj29PRo6HWK4Q@mail.gmail.com>
+
+Hi Ross,
+
+Many thanks for the share.I recommend reading it to everyone on these
+lists.  It is a very useful publication. Open access to (scientific)
+information and open education are very closely linked.
+
+
+On Tue, Jul 16, 2013 at 12:31 PM, R Mounce OKF <ross.mounce at okfn.org> wrote:
+
+> I've tweeted this out a few times now, but I thought I'd also share this
+> with the mailing list.
+>
+> Thanks to this blog from the OA team at Oxford Uni:
+>
+> http://openaccess.ox.ac.uk/cc-by-what-does-it-mean-for-scholarly-articles-3/
+>
+> I've become aware of another published article explaining the history and
+> practicalities of creative commons licences published in a recent (2013)
+> book called: Perspectives on Open and Distance Learning: Open Educational
+> Resources: Innovation, Research and Practice
+> openly available from here:
+> http://www.col.org/resources/publications/Pages/detail.aspx?PID=446
+>
+> I've cut the open book PDF down to just Norm Friesen's chapter 6
+> 'Realising the Open in Open Educational Resources: Practical Concerns and
+> Solutions' here if you want to read it right away...
+> https://dl.dropboxusercontent.com/u/757135/Friesen2013chap6.pdf
+>
+> (all perfectly legal thanks to the CC BY-SA licence the book is published
+> under)
+>
+>
+> It's great to have more third-party reviewed evidence in support of the
+> use of CC BY for published academic materials whether OER or publications.
+>
+> Best,
+>
+> Ross
+>
+> --
+> *
+>
+> Ross Mounce
+>
+> Community Coordinator, Open Science  |  @rmounce<https://twitter.com/rmounce>
+>
+> The Open Knowledge Foundation <http://okfn.org/>
+>
+> Empowering through Open Knowledge
+>
+> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+> *
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+Tom Olijhoek
+Codex Consult
+www.codexconsult.eu
+coordinator @ccess open access working group  at OKF
+DOAJ  member of Advisory Board
+freelance advisor for the WorldBank Publishing Group
+TEL +(31)645540804
+SKYPE tom.olijhoek
+LinkedIn  http://nl.linkedin.com/in/tomolijhoek/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130716/bac5185f/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Jul 17 09:34:26 2013
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 17 Jul 2013 09:34:26 +0100
+Subject: [Open-access] Open Science for Development Project
+Message-ID: <CABPM+wrspwhvnozamnUFJPOGBxsocc65k+DbyK4nZZJJo=rOug@mail.gmail.com>
+
+Dear All
+
+We are delighted to announce that OKF is collaborating with the OpenUCT
+Initiative at the University of Cape Town in an International Development
+Research Centre funded project to develop a southern led research agenda
+for open science for development.
+
+We hope to use this as an opportunity not only to explore research into
+open science but also to really push community building efforts in the
+global south and identify a strong network of open science advocates and
+practitioners - maybe setting up some new local open science groups along
+the way!
+
+You can read more in out project proposal:
+https://docs.google.com/document/d/1UGgPpd7PQtYuX-mOGE58fEbXVJgohs4O_XiBrBZph8k/edit
+
+A small group met in London last week to set the ground work for a larger
+workshop in *Cape Town 11-13 September 2013* and the results of that
+meeting will be available online shortly.
+
+We hope you are as excited about this opportunity as we are and in the
+spirit of the exercise we will be making both the process and outcomes as
+open as possible. Therefore, if you would like to apply to participate in
+the Cape Town meeting please send us a *brief* half page introduction to
+yourself including answers to the following questions:
+
+
+   - Why is this project of interest?
+
+
+   - What expertise and experience do you bring?
+
+
+   - What would you like to see come out of this project?
+
+
+Preference will be given to participants from developing countries in order
+to further the aims of the project and full funding will be provided.
+
+There is a short deadline of *24 July 2013* so please spread this
+invitation through your networks, particularly contacts you might have in
+the global south. If selected, we will organise travel and flights as soon
+as possible.
+
+Best wishes
+
+Jenny
+
+Jenny Molloy
+
+Open Science Working Group Coordinator | @okfnscience
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130717/359399fa/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jul 17 11:06:46 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 17 Jul 2013 11:06:46 +0100
+Subject: [Open-access] Open Science for Development Project
+In-Reply-To: <CABPM+wrspwhvnozamnUFJPOGBxsocc65k+DbyK4nZZJJo=rOug@mail.gmail.com>
+References: <CABPM+wrspwhvnozamnUFJPOGBxsocc65k+DbyK4nZZJJo=rOug@mail.gmail.com>
+Message-ID: <CAD2k14Nb-4OtuNFocraLx+jJA9qjFfK5NL5gQyheT+zknGi=Fg@mail.gmail.com>
+
+This is impressive! Kudos to all involved.
+
+Since science is such a large field it's great that the OKF has identified
+an area where progress needs to be and can be made.
+
+
+On Wed, Jul 17, 2013 at 9:34 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> We are delighted to announce that OKF is collaborating with the OpenUCT
+> Initiative at the University of Cape Town in an International Development
+> Research Centre funded project to develop a southern led research agenda
+> for open science for development.
+>
+> We hope to use this as an opportunity not only to explore research into
+> open science but also to really push community building efforts in the
+> global south and identify a strong network of open science advocates and
+> practitioners - maybe setting up some new local open science groups along
+> the way!
+>
+> You can read more in out project proposal:
+>
+> https://docs.google.com/document/d/1UGgPpd7PQtYuX-mOGE58fEbXVJgohs4O_XiBrBZph8k/edit
+>
+> A small group met in London last week to set the ground work for a larger
+> workshop in *Cape Town 11-13 September 2013* and the results of that
+> meeting will be available online shortly.
+>
+> We hope you are as excited about this opportunity as we are and in the
+> spirit of the exercise we will be making both the process and outcomes as
+> open as possible. Therefore, if you would like to apply to participate in
+> the Cape Town meeting please send us a *brief* half page introduction to
+> yourself including answers to the following questions:
+>
+>
+>    - Why is this project of interest?
+>
+>
+>    - What expertise and experience do you bring?
+>
+>
+>    - What would you like to see come out of this project?
+>
+>
+> Preference will be given to participants from developing countries in
+> order to further the aims of the project and full funding will be provided.
+>
+> There is a short deadline of *24 July 2013* so please spread this
+> invitation through your networks, particularly contacts you might have in
+> the global south. If selected, we will organise travel and flights as soon
+> as possible.
+>
+> Best wishes
+>
+> Jenny
+>
+> Jenny Molloy
+>
+> Open Science Working Group Coordinator | @okfnscience
+>
+> The Open Knowledge Foundation <http://okfn.org/>
+>
+> Empowering through Open Knowledge
+>
+> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+>
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130717/e9362453/attachment-0001.htm>
+
+From ross.mounce at okfn.org  Tue Jul 16 11:31:49 2013
+From: ross.mounce at okfn.org (R Mounce OKF)
+Date: Tue, 16 Jul 2013 11:31:49 +0100
+Subject: [Open-access] New book chapter on Open Licensing in the context of
+	academia (OER's)
+Message-ID: <CAOayPe=y_3d0=vwcqe+JJd_RMF9=JUBXFEb5ELu7=qLKQEzhMQ@mail.gmail.com>
+
+I've tweeted this out a few times now, but I thought I'd also share this
+with the mailing list.
+
+Thanks to this blog from the OA team at Oxford Uni:
+http://openaccess.ox.ac.uk/cc-by-what-does-it-mean-for-scholarly-articles-3/
+
+I've become aware of another published article explaining the history and
+practicalities of creative commons licences published in a recent (2013)
+book called: Perspectives on Open and Distance Learning: Open Educational
+Resources: Innovation, Research and Practice
+openly available from here:
+http://www.col.org/resources/publications/Pages/detail.aspx?PID=446
+
+I've cut the open book PDF down to just Norm Friesen's chapter 6 'Realising
+the Open in Open Educational Resources: Practical Concerns and Solutions'
+here if you want to read it right away...
+https://dl.dropboxusercontent.com/u/757135/Friesen2013chap6.pdf
+
+(all perfectly legal thanks to the CC BY-SA licence the book is published
+under)
+
+
+It's great to have more third-party reviewed evidence in support of the use
+of CC BY for published academic materials whether OER or publications.
+
+Best,
+
+Ross
+
+-- 
+*
+
+Ross Mounce
+
+Community Coordinator, Open Science  |  @rmounce<https://twitter.com/rmounce>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130716/3a36c632/attachment.htm>
+
+From wga at zpid.de  Wed Jul 17 13:11:24 2013
+From: wga at zpid.de (Erich Weichselgartner)
+Date: Wed, 17 Jul 2013 14:11:24 +0200
+Subject: [Open-access] Open Science - Open Access - Open Metadata: New
+ Psychology Resource PubPsych
+Message-ID: <51E689EC.5090400@zpid.de>
+
+Dear All
+
+Amongst the discussion on Open Access to full texts and research data 
+don't forget metadata.
+
+We are glad to announce http://pubpsych.eu/, a free psychology resource. 
+PubPsych aggregates metadata records on psychological literature, tests, 
+treatment programs and research data from European and American 
+scientific information producers.
+
+Please spread the word,
+thank you,
+Erich
+
+
+-- 
+
+   Erich Weichselgartner, PhD		     Fon: +49 (0)651 201-2056
+   Deputy Director			     Fax: +49 (0)651 201-2604
+   ZPID-Institute for Psychology Information  E-Mail: wga at zpid.de
+   Trier University, 54286 Trier, Germany     Web: http://www.zpid.de/
+
+
+From punk.kish at gmail.com  Wed Jul 17 15:37:51 2013
+From: punk.kish at gmail.com (Mr. Puneet Kishor)
+Date: Wed, 17 Jul 2013 07:37:51 -0700
+Subject: [Open-access] [okfn-discuss] Open Science for Development
+	Project
+In-Reply-To: <CABPM+wrspwhvnozamnUFJPOGBxsocc65k+DbyK4nZZJJo=rOug@mail.gmail.com>
+References: <CABPM+wrspwhvnozamnUFJPOGBxsocc65k+DbyK4nZZJJo=rOug@mail.gmail.com>
+Message-ID: <089E1989-89DD-405E-A2D3-CAD7CF7E45E5@gmail.com>
+
+Fully, completely, and totally (did I make myself clear?) behind this wonderful initiative. We need more like this in other parts of the world, and I will be happy to do my part.
+
+
+On Jul 17, 2013, at 1:34 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+> 
+> We are delighted to announce that OKF is collaborating with the OpenUCT
+> Initiative at the University of Cape Town in an International Development
+> Research Centre funded project to develop a southern led research agenda
+> for open science for development.
+> 
+> We hope to use this as an opportunity not only to explore research into
+> open science but also to really push community building efforts in the
+> global south and identify a strong network of open science advocates and
+> practitioners - maybe setting up some new local open science groups along
+> the way!
+> 
+> ..
+
+
+
+
+--
+Puneet Kishor
+Policy Coordinator for Science and Data
+Creative Commons
+
+
+From tickets at govtoday.co.uk  Thu Jul 18 07:18:25 2013
+From: tickets at govtoday.co.uk (Sustainable Transport Conference)
+Date: Thu, 18 Jul 2013 06:18:25 +0000
+Subject: [Open-access] =?utf-8?q?Early_bird_rate_ends_in_two_days_-_book_n?=
+ =?utf-8?q?ow_and_save_up_to_=C2=A3249?=
+Message-ID: <ODA4NTE2MgAC186861Y308BAMTM3NDEyODMwNTg3MzUy@www.govtoday.co.uk>
+
+Overview ( http://www.greeningtransport.co.uk/overview ) | Delegate List ? 2012 ( http://www.greeningtransport.co.uk/Transport2012_delegate_list.xls
+) | Programme ( http://www.greeningtransport.co.uk/programme ) | Where and When (
+http://www.greeningtransport.co.uk/?option=com_gtvenue&view=venue_view&view_type=venue&venueid=3&Itemid=262 ) | Contact Us (
+http://www.greeningtransport.co.uk/contact-govtoday )
+
+Early bird rate ends in two days - book now and save up to ?249 (
+http://www.greeningtransport.co.uk/index.php?option=com_gtereg&subid=186861&refcode=ST031013&Itemid=262 )
+
+Dear colleague,
+
+Govtoday are delighted to be hosting the 4th Annual National Sustainable Transport Conference, Unlocking the door-to-door journey, in association with
+Sustrans, Passenger Focus and the British Parking Association which will be held on Thursday 3rd October at the Brewery, The City of London.
+
+Sustainable Transport 2013 ? Unlocking the door-to-door journey ( http://www.greeningtransport.co.uk/ ) Conference and Exhibition will examine the
+Government?s latest policy ?Cleaner, greener transport, door to door? and how this will provide a modern, sustainable transport infrastructure
+in support of the core priorities of localism, decentralisation and deregulation, whilst taking stock of the sustainable travel choices available now
+and how the nation will combat domestic transport emissions.
+
+Delegates:
+
+Don?t miss out on this fantastic opportunity. There are two ways to book:
+
+BOOK YOUR PLACE TODAY FOR ?350 ( http://www.greeningtransport.co.uk/index.php?option=com_gtereg&subid=186861&refcode=ST031013&Itemid=262 )
+
+* Public sector rate (standard) = ?499
+ * Private sector rate (standard) =?599
+
+OR call our booking hotline on:
+
++ 44 (0) 161 979 0010
+
+Sponsorship:
+
+If you are interested in showcasing your company at this prestigious event, then please, contact:
+
+Richard Taylor, Event Director 
+ Tel: + 44 (0) 7769 615 110
+ Email: richard.taylor at govtoday.co.uk ( mailto:richard.taylor at govtoday.co.uk?subject=Early bird rate ends in two days - book now and save up to ?249
+)
+
+Speakers INCLUDE:
+
+Norman Baker (CONFIRMED) ( http://www.greeningtransport.co.uk/speakers )
+Minister for Sustainable Transport
+Department for Transport (Dft)
+
+Allan Williams (CONFIRMED) ( http://www.greeningtransport.co.uk/speakers )
+Policy Advisor
+Sustrans
+
+David Sidebottom (CONFIRMED) ( http://www.greeningtransport.co.uk/speakers )
+Passenger Director
+Passenger Focus
+
+Dr Keith Bevis (CONFIRMED) ( http://www.greeningtransport.co.uk/speakers )
+Managing Director
+Evalu8 Transport Innovations
+
+Kelvin Reynolds (CONFIRMED) ( http://www.greeningtransport.co.uk/speakers )
+Director of Policy and Public Affairs
+British Parking Association
+
+Dr Stephen Hickey (CONFIRMED) ( http://www.greeningtransport.co.uk/speakers )
+Chair
+Community Transport Association UK
+
+CONFERENCE SUPPORTERS
+
+IN ASSOCIATION WITH
+
+SPONSORS
+
+Debate
+
+Forums ( http://www.securingthefuture.co.uk/forum/index/24-govtoday?user=&passw=1 )
+
+Twitter ( https://twitter.com/STFSeries )
+
+Opinion
+
+Editor's Feature ( http://www.securingthefuture.co.uk/index.php?option=com_gtdisplay&view=archives&user=&passw=1 )
+
+Event Reaction ( http://www.securingthefuture.co.uk/index.php?option=com_gtdisplay&view=gtevents&show=1&user=&passw=1 )
+
+Events
+
+Greening Government 2013 ( http://www.greeninggovernment.co.uk/ )
+
+NHS Sustainable Development 2013 ( http://092013.nhssd.co.uk/ )
+
+Sustainable Transport 2013 ( http://www.greeningtransport.co.uk/ )
+
+Resources
+
+Document Library ( http://www.securingthefuture.co.uk/index.php?option=com_gtresources&Itemid=&user=&passw=1 )
+
+Media ( http://www.securingthefuture.co.uk/index.php?option=com_gtmed&user=&passw=1 )
+
+This email is from Govtoday Limited whose registered office is at The Landing, Blue Tower, MediaCityUK, M50 2ST, registered number 06708985.
+
+If you would prefer not to receive any further communications from us, please click the link below.
+Unsubscribe (
+http://www.govtoday.co.uk/index.php?subid=186861&option=com_acymailing&ctrl=user&task=out&mailid=308&key=b372319db5aa0fd228514dbfeb7b2d09 )
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130718/fab724d2/attachment-0001.htm>
+
+From michelle.brook at okfn.org  Wed Jul 24 14:50:38 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Wed, 24 Jul 2013 14:50:38 +0100
+Subject: [Open-access] HEFCE consultation on Open Access
+Message-ID: <CABOTVX_5PC=jG-VKsoSSTx2idbjx2Uffwqof8XWnxFkOx3O7yw@mail.gmail.com>
+
+Dear all,
+
+The Higher Education Funding Council for England (HEFCE) has just announced
+a consultation on Open Access in the post-2014 Research Excellence
+Framework. http://www.hefce.ac.uk/pubs/year/2013/201316/#d.en.82765
+
+Deadline for responses is *30 October 2013*.
+
+I thought this may be of interest to some members of this list.
+
+Best wishes,
+Michelle
+
+-- 
+*
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | *http://linkedup-project.eu|
+@LinkedUpProjec<http://twitter.com/LinkedUpProject>
+*t* | linking data for education
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130724/23bb4d1d/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jul 26 13:14:18 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 26 Jul 2013 13:14:18 +0100
+Subject: [Open-access] HEFCE consultation on Open Access
+In-Reply-To: <CABOTVX_5PC=jG-VKsoSSTx2idbjx2Uffwqof8XWnxFkOx3O7yw@mail.gmail.com>
+References: <CABOTVX_5PC=jG-VKsoSSTx2idbjx2Uffwqof8XWnxFkOx3O7yw@mail.gmail.com>
+Message-ID: <CAD2k14O+pfjZrX5R09zX-HkWnUsNS0GnqSD+-Y5WPvwv0d6p8w@mail.gmail.com>
+
+Yes, it would be good to reply.
+FWIW this is *England", not UK. But I think we could have a global
+response:-)
+
+
+On Wed, Jul 24, 2013 at 2:50 PM, Michelle Brook <michelle.brook at okfn.org>wrote:
+
+> Dear all,
+>
+> The Higher Education Funding Council for England (HEFCE) has just
+> announced a consultation on Open Access in the post-2014 Research
+> Excellence Framework.
+> http://www.hefce.ac.uk/pubs/year/2013/201316/#d.en.82765
+>
+> Deadline for responses is *30 October 2013*.
+>
+> I thought this may be of interest to some members of this list.
+>
+> Best wishes,
+> Michelle
+>
+> --
+> *
+>
+> Michelle Brook
+>
+> Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+>
+> The Open Knowledge Foundation <http://okfn.org/>
+>
+> Empowering through Open Knowledge
+>
+> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+>
+>
+> LinkedUp | *http://linkedup-project.eu| @LinkedUpProjec<http://twitter.com/LinkedUpProject>
+> *t* | linking data for education
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130726/cbecc179/attachment.htm>
+

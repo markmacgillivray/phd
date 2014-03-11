@@ -1,0 +1,557 @@
+From jonathan.gray at okfn.org  Tue Nov  1 15:19:55 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 1 Nov 2011 16:19:55 +0100
+Subject: [open-bibliography] Open Data in Cultural Heritage: Finding your
+ way through the license labyrinth, London, 24th November 2011
+Message-ID: <CANQ_vu0xw4G1DpSfcHxSYVQrnk3A_SBG6EQZf5mS=nBvE1AfQQ@mail.gmail.com>
+
+Thought this might be of interest!
+
+http://blog.okfn.org/2011/11/01/open-data-in-cultural-heritage-finding-your-way-through-the-license-labyrinth-london-24th-november-2011/
+
+J.
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From adrian.pohl at okfn.org  Wed Nov  2 08:32:52 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 2 Nov 2011 09:32:52 +0100
+Subject: [open-bibliography] Norwegian translation of openbiblio principles
+Message-ID: <CAOtd05FKB2Pm8z1CfYTuRr742b_s9PuKoZ8PZXi5AhjKbo=Z=g@mail.gmail.com>
+
+Hello,
+
+thanks to Unni Knutsen yesterday a Norwegian translation of the
+Principles on Open Bibliogaphic Data was published:
+
+ http://openbiblio.net/principles/no/
+
+We'd very much appreciate the contribution of further translations.
+
+All the best
+Adrian
+
+
+From adrian.pohl at okfn.org  Thu Nov  3 13:25:32 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 3 Nov 2011 14:25:32 +0100
+Subject: [open-bibliography] Next virtual meeting: 2011-11-08, 16:00 GMT
+Message-ID: <CAOtd05F0g4TVR-W4yrfq4V6hHDPVx8z3KQ-Owus+pUE7j=_kkw@mail.gmail.com>
+
+Hello,
+
+this time the announcement comes a bit earlier: The next virtual
+meeting of the OKFN openbiblio group will take place next Tuesday (8th
+of November) from 16:00 until 17:00 GMT.
+
+!!!Please note the new time due to change to wintertime in Europe. See
+http://is.gd/15thopenbibliomeeting for your local time!!!
+
+Please suggest .meeting topics on the etherpad:
+http://okfnpad.org/15th-open-bibliography-meeting
+
+We will gather on th Etherpad and if less than eight people attend the
+meeting will be held via Skype. I will send a reminder on Tuesday.
+
+All the best
+Adrian
+
+
+From krichel at openlib.org  Thu Nov  3 17:03:55 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Thu, 3 Nov 2011 18:03:55 +0100
+Subject: [open-bibliography] Introducing Knowledge for All
+In-Reply-To: <CANWCp4-J8MWTzSwizHyJ1S6i0aiGu2jDy7o-J1vYzHvnn_0_BA@mail.gmail.com>
+References: <CANWCp4_rMfU0nMde3OAig9spM_qke47B3T-hPXsnekCLqW79_w@mail.gmail.com>
+	<20111024212813.GP10426@openlib.org>
+	<20111024220853.B60797E8F@bibserver.Berkeley.EDU>
+	<0A19CC1A-31FB-4EB0-80E0-FDA2D2D22CC4@k4all.ca>
+	<20111025153221.GB17221@openlib.org>
+	<CANWCp4-J8MWTzSwizHyJ1S6i0aiGu2jDy7o-J1vYzHvnn_0_BA@mail.gmail.com>
+Message-ID: <20111103170355.GC31297@openlib.org>
+
+  Amanda Stevens writes
+
+> We have published our Software Requirements Specification
+> document<http://www.k4all.ca/strategic-plan/technology-strategy/software-requirements-specification>for
+> the Knowledge for All system on our website.
+
+  I read the entire paper. It is certainly an ambitious project.
+
+  Since you need data, you could start with the set in 3lib.org.
+  The current set on the web site is not complete because of 
+  disk space problems I have mentioned previously. But I can
+  give you access to the accounnt that produces the data and
+  you can rsync the data and the scripts that transform it.
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From adrian.pohl at okfn.org  Thu Nov  3 20:33:20 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 3 Nov 2011 21:33:20 +0100
+Subject: [open-bibliography] German legal guide for open library data
+	published
+Message-ID: <CAOtd05GcQeJuwAvC0mjjc=_iNLAPiuGOf6+7wnKZq1cOx2Wo_A@mail.gmail.com>
+
+Hello,
+
+I am happy to announce that the hbz has today published a legal guide
+about opening up catalogue databases from libraries and related
+institutions. See the post on openbiblio.net:
+http://openbiblio.net/2011/11/03/german-guide-for-open-library-catalogue-data/
+
+All the best
+Adrian
+
+
+From krichel at openlib.org  Fri Nov  4 21:06:07 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Fri, 4 Nov 2011 22:06:07 +0100
+Subject: [open-bibliography] Message from the Scitopia partner societies
+In-Reply-To: <OF2E31C074.84DEDFA1-ON8525793E.00642CC4-8525793E.006900C9@ieee.org>
+References: <OF2E31C074.84DEDFA1-ON8525793E.00642CC4-8525793E.006900C9@ieee.org>
+Message-ID: <20111104210607.GA10807@openlib.org>
+
+
+  T.Schoch at ieee.org writes
+
+> Following is a response to recent postings regarding the Scitopia 
+> federated search tool. The Scitopia society partners had planned to 
+> release a formal announcement about the future of the service in the next 
+> few days but thought it important to move the timing up to explain what is 
+> happening and dispel any misunderstandings. 
+> 
+> The Scitopia partners regret to announce that the Scitopia free federated 
+> search portal will be discontinued after 31 December 2011. The federated 
+> search service will go offline and all links from partner sites to 
+> Scitopia will be deactivated. 
+> 
+> Scitopia.org was created through the imagination and collaboration of 
+> leading science and engineering societies. Seeking a better way to help 
+> researchers quickly discover the quality content they need, these society 
+> publishers developed a gateway to the research most cited in scholarly 
+> work and patents.  Over the past few years, Scitopia.org was able to build 
+> up a quality reputation for search efficiency and precision that has been 
+> adopted by many researchers around the world. 
+> 
+> Why is the portal coming to an end? While traffic to the site initially 
+> was healthy, it has proved a challenge for a free service such as Scitopia 
+> to maintain or expand usage given the size, scope, and resources of 
+> competitive search engines. At our current level of usage, the cost of 
+> maintaining the service could no longer be justified by the society 
+> partners. 
+
+  Can you make the data freely available in bulk, say on an oai-pmh
+  repository, or an ftp site, for others to use in search engines or
+  other value-added services hat they may build?
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From krichel at openlib.org  Sun Nov  6 14:09:06 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Sun, 6 Nov 2011 15:09:06 +0100
+Subject: [open-bibliography] 3lib
+In-Reply-To: <4C40B430-8AB3-45D2-8949-CC2B93DB7410@k4all.ca>
+References: <CANWCp4_rMfU0nMde3OAig9spM_qke47B3T-hPXsnekCLqW79_w@mail.gmail.com>
+	<20111024212813.GP10426@openlib.org>
+	<20111024220853.B60797E8F@bibserver.Berkeley.EDU>
+	<0A19CC1A-31FB-4EB0-80E0-FDA2D2D22CC4@k4all.ca>
+	<20111025153221.GB17221@openlib.org>
+	<CANWCp4-J8MWTzSwizHyJ1S6i0aiGu2jDy7o-J1vYzHvnn_0_BA@mail.gmail.com>
+	<20111103170355.GC31297@openlib.org>
+	<4C40B430-8AB3-45D2-8949-CC2B93DB7410@k4all.ca>
+Message-ID: <20111106140906.GA1986@openlib.org>
+
+
+  Mark Leggott writes
+
+> Hi Thomas - I thought I would start an offline
+
+  you mean offlist ;-)
+
+> thread so we don;t need to discuss details on list...
+
+  I think we should because there are other people that may start to
+  work with this. We need a re-usable base of bibliographic data that
+  is shared so we can build services on top of that data understand
+  each other. So when, say, AuthorClaim says that user X has
+  disclaimed document D, that information is reusable.  Or when k4all
+  say that D has been access 200 times in November, that information
+  is reusable. AuthorClaim can report this to user X.
+
+  This is how RePEc works. I started this in 1993, and it's been quite
+  successful.
+
+> How much disk space do you need? Depending on what your requirements
+> are we may be able to host the full set if that is useful.
+
+  There are two parts to this.
+
+  The first is the 3lib dataset as used in AuthorClaim and
+  AuthorProfile.  This only contains titles, authors and
+  URLs. Recently, on the source machine
+
+krichel at wotan:~$ du -s /home/mamf/opt/amf/3lib/
+42022232        /home/mamf/opt/amf/3lib/
+
+  This data is free because it is factual. I think the HAL data also
+  has abstracts and for selected sources we may start adding
+  abstract. Call that the AMF data.
+
+  Then, there are other parts of the data that are sources of the AMF
+  data, and scripts used to transform the data from source to AMF. Off
+  the top of my head, this includes PubMed that I can't redistribute
+  for licensing reasons. There is CrossRef data the status of which is
+  also dodgy. 
+
+  For the OKFN machine, I export all that is in the home of  mamf
+
+mamf at wotan:~$ crontab -l | grep sofca
+53 22  * * * rsync -aq --delete --delete-during --exclude-from ~/etc/sofca.exclude ~/ flib at sofca:opt/wotan/home/mamf
+
+  except
+
+mamf at wotan:~$ cat etc/sofca.exclude
+*~
+# .ssh
+_darcs
+# data
+# lib
+public_html
+# usr
+var
+# Mail
+medlease
+medleasebaseline
+opt/spires
+opt/tmp
+opt/amf/ap
+var/log
+base
+base_norm
+base_org
+
+  I can try to make that list longer, but I would also have to change
+  the 3lib.org documentation.
+
+  I can't go through all of this now, it's a big body of work. I will
+  have quite a bit of time to work on this from mid January to
+  September next year. Right now I am maintaining stuff.
+
+  I suggest you get the AMF data soon, it will give you something to
+  play with. As your business plan says, you want some data that is
+  essentially cc0. The AMF set is not necessarily de jure CC0, but
+  de facto it is. 
+
+  Send me a public key to authorize.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From adrian.pohl at okfn.org  Tue Nov  8 10:50:07 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 8 Nov 2011 11:50:07 +0100
+Subject: [open-bibliography] Reminder: Virtual Meeting today, 2011-11-08,
+	16:00 GMT
+Message-ID: <CAOtd05HkZipHz5zeR=16k+JbSyebbU0gnsYa5JyCbMrdUbzKJw@mail.gmail.com>
+
+Hello,
+
+the virtual meeting of the OKFN openbiblio group will take place today
+(8th of November) from 16:00 until 17:00 GMT.
+
+!!!Please note the new time due to change to wintertime in Europe. See
+http://is.gd/15thopenbibliomeeting for your local time!!!
+
+Please suggest meeting topics on the etherpad:
+http://okfnpad.org/15th-open-bibliography-meeting
+
+We will gather on th Etherpad and if less than eight people attend the
+meeting will be held via Skype.
+
+All the best
+Adrian
+
+
+From adrian.pohl at okfn.org  Tue Nov  8 15:58:01 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 8 Nov 2011 16:58:01 +0100
+Subject: [open-bibliography] Last Reminder: Virtual Meeting today, 2011-11-08,
+	16:00 GMT
+Message-ID: <CAOtd05FKhmgtVD1Yfw0z8Wf04GYFtXEABWi28aR+6uXn0ULOfQ@mail.gmail.com>
+
+The meeting will start in two minutes.
+
+Adrian
+
+2011/11/8 Adrian Pohl <adrian.pohl at okfn.org>:
+> Hello,
+>
+> the virtual meeting of the OKFN openbiblio group will take place today
+> (8th of November) from 16:00 until 17:00 GMT.
+>
+> !!!Please note the new time due to change to wintertime in Europe. See
+> http://is.gd/15thopenbibliomeeting for your local time!!!
+>
+> Please suggest meeting topics on the etherpad:
+> http://okfnpad.org/15th-open-bibliography-meeting
+>
+> We will gather on th Etherpad and if less than eight people attend the
+> meeting will be held via Skype.
+>
+> All the best
+> Adrian
+>
+
+
+From pitman at stat.Berkeley.EDU  Tue Nov  8 16:11:34 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 08 Nov 2011 08:11:34 -0800
+Subject: [open-bibliography] Last Reminder: Virtual Meeting today,
+ 2011-11-08, 16:00 GMT
+In-Reply-To: <CAOtd05FKhmgtVD1Yfw0z8Wf04GYFtXEABWi28aR+6uXn0ULOfQ@mail.gmail.com>
+References: <CAOtd05FKhmgtVD1Yfw0z8Wf04GYFtXEABWi28aR+6uXn0ULOfQ@mail.gmail.com>
+Message-ID: <20111108161134.B04327E9D@bibserver.Berkeley.EDU>
+
+Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> The meeting will start in two minutes.
+
+Sorry I'm late. avail now
+Jim
+
+>
+> Adrian
+>
+> 2011/11/8 Adrian Pohl <adrian.pohl at okfn.org>:
+> > Hello,
+> >
+> > the virtual meeting of the OKFN openbiblio group will take place today
+> > (8th of November) from 16:00 until 17:00 GMT.
+> >
+> > !!!Please note the new time due to change to wintertime in Europe. See
+> > http://is.gd/15thopenbibliomeeting for your local time!!!
+> >
+> > Please suggest meeting topics on the etherpad:
+> > http://okfnpad.org/15th-open-bibliography-meeting
+> >
+> > We will gather on th Etherpad and if less than eight people attend the
+> > meeting will be held via Skype.
+> >
+> > All the best
+> > Adrian
+> >
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From sam.leon at okfn.org  Thu Nov 10 14:16:30 2011
+From: sam.leon at okfn.org (Sam Leon)
+Date: Thu, 10 Nov 2011 14:16:30 +0000
+Subject: [open-bibliography] Introducing myself: Sam Leon (Community
+	Coordinator)
+Message-ID: <CAOn=SAZ850h5JsEfE7qW-tHacf3Z4M+qw+xb=NOPQ_S3DXN7BA@mail.gmail.com>
+
+Hi everyone,
+
+Slightly belated introduction as some of you have already met me on Skype,
+in Cambridge or in the London office, but hello anyway! I joined the
+community team last week and am very happy to be on board with such a great
+group of people. I just spent the weekend at the Mozilla Festival where I
+was unsuspectingly pictured with my colleagues alongside a couple of foxes
+http://instagr.am/p/Ssu8d/.
+
+I studied philosophy and history at university, and hope that I can bring
+my passion for these two subjects into some of my work at the OKF. I'll be
+focusing my work on supporting cultural heritage and public domain related
+projects, and trying to get the proposed Open Philosophy
+project<http://jonathangray.org/2011/11/04/ideas-for-openphilosophy-org/>off
+the ground. I will also be helping to streamline the various OKF
+blogs,
+generating interest and debate around the Ideas
+Incubator<http://ideas.okfn.org/>and, in the next couple of weeks, I
+will begin running the weekly OKF
+hangout sessions - so come and say hi if you come down to them!
+
+I really look forward to working with you all,
+
+Sam
+
+-- 
+Sam Leon
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111110/86829ba4/attachment.htm>
+
+From adrian.pohl at okfn.org  Wed Nov 16 08:36:24 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 16 Nov 2011 09:36:24 +0100
+Subject: [open-bibliography] Minutes for last meeting / Questions about CKAN
+	as data repository
+Message-ID: <CAOtd05FviEHyTE3Fr=2WD=r6Rv-4ZMyhoSxUwE7N-67DN2FRJw@mail.gmail.com>
+
+Hello,
+
+I finally posted the last meeting's minutes to the openbiblio blog:
+http://openbiblio.net/2011/11/16/minutes-14th-virtual-meeting-of-the-okfn-openbiblio-group-2/
+
+Jim, some answers to your questions regarding CKAN/the data hub being
+a data repository are included in the minutes.
+
+All the best
+Adrian
+
+
+From adrian.pohl at okfn.org  Mon Nov 21 11:41:00 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 21 Nov 2011 12:41:00 +0100
+Subject: [open-bibliography] Recommendations for libraries on publishing
+	open data
+Message-ID: <CAOtd05E8d1+6Lcm4N_5adaD8=JTez9GyhYFEgfROVYHZS9qjjw@mail.gmail.com>
+
+Hello,
+
+last week the German KIM-DINI working group published recommendations
+for libraries and related institutions on releasing open data. Besides
+descriptive metadata which is already covered in other documents also
+non-sensitive data produced by libraries and related institutions is
+subject of the recommendations, e.g. statistical data or circulation
+data. Furthermore, the recommendations don?t only cover open licensing
+but also open access, open standards and the documentation,
+sustainability as well as other apsects of open data.
+
+To read more about it and my first first stab at an English
+translation see
+http://openbiblio.net/2011/11/21/recommendations-on-releasing-library-data-as-open-data/
+
+All the best
+Adrian
+
+
+From J.Neubert at zbw.eu  Fri Nov 25 10:53:52 2011
+From: J.Neubert at zbw.eu (Neubert Joachim)
+Date: Fri, 25 Nov 2011 11:53:52 +0100
+Subject: [open-bibliography] Livestream SWIB11
+Message-ID: <3A59BB6451C972429019B12996F92DAD048FA5A5@frodo.zbw-nett.zbw-kiel.de>
+
+For this years SWIB (Semantic Web in Libraries) conference in Hamburg,
+we strive to provide a video livestream:
+ 
+at 29./30. November, from 8 to 16.30 (GMT) on www.livestream.com/swib
+ 
+For the schedule and the conference in general (which is organized by
+hbz and ZBW again) please have a look at 
+ 
+http://swib.org/swib11   (Twitter #swib11)
+ 
+(The talks which have English titles are hold in English)
+ 
+Cheers, Joachim
+ 
+--
+Joachim Neubert
+IT Development
+ 
+German National Library of Economics (ZBW)
+Leibniz Information Centre for Economics
+
+Hamburg Branch
+Neuer Jungfernstieg 21
+20347 Hamburg
+ 
+Phone:  +49-40-42834-462
+E-Mail: j.neubert at zbw.eu
+Web: http://www.zbw.eu <http://www.zbw.eu/> 
+
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111125/0429d320/attachment.htm>
+
+From piguet at trialog.ch  Fri Nov 25 13:30:20 2011
+From: piguet at trialog.ch (Michel Piguet)
+Date: Fri, 25 Nov 2011 08:30:20 -0500
+Subject: [open-bibliography] Livestream SWIB11
+In-Reply-To: <3A59BB6451C972429019B12996F92DAD048FA5A5@frodo.zbw-nett.zbw-kiel.de>
+References: <3A59BB6451C972429019B12996F92DAD048FA5A5@frodo.zbw-nett.zbw-kiel.de>
+Message-ID: <BA6C98A1-7D1F-4BC1-BCBE-D086D0D6E4AE@trialog.ch>
+
+Liebe beide, habt ihr Gelegenheit, in diesen Livestream am 29. Und 30.11 reinzuschauen? Das ist auch unser Thema.
+
+LG Michel
+
+
+
+******************************************
+Michel Piguet
+Trialog AG
+Piguet at trialog.ch
+
+El 25/11/2011, a las 05:53, "Neubert Joachim" <J.Neubert at zbw.eu> escribi?:
+
+> For this years SWIB (Semantic Web in Libraries) conference in Hamburg, we strive to provide a video livestream:
+>  
+> at 29./30. November, from 8 to 16.30 (GMT) on www.livestream.com/swib
+>  
+> For the schedule and the conference in general (which is organized by hbz and ZBW again) please have a look at
+>  
+> http://swib.org/swib11   (Twitter #swib11)
+>  
+> (The talks which have English titles are hold in English)
+>  
+> Cheers, Joachim
+>  
+> --
+> Joachim Neubert
+> IT Development
+>  
+> German National Library of Economics (ZBW)
+> Leibniz Information Centre for Economics
+> 
+> Hamburg Branch
+> Neuer Jungfernstieg 21
+> 20347 Hamburg
+>  
+> Phone:  +49-40-42834-462
+> E-Mail: j.neubert at zbw.eu
+> Web: http://www.zbw.eu
+>  
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111125/16b4cfc8/attachment.htm>
+

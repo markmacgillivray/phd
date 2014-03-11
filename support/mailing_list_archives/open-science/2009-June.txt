@@ -1,0 +1,783 @@
+From jonathan.gray at okfn.org  Tue Jun  2 13:20:55 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 2 Jun 2009 14:20:55 +0200
+Subject: [open-science] Reminder: Working Group on Open Data in Science
+	virtual meeting today!
+Message-ID: <54ca21750906020520n33cf58ana7d6bd6cec739041@mail.gmail.com>
+
+A reminder that the  Working Group on Open Data in Science virtual
+meeting will take place later today:
+
+  * When: 1600 GMT (1700 BST, 1800 CEST)
+  * Where: #okfn IRC channel on oftc.net (connect via mibbit at
+http://ur1.ca/4fh)
+  * Wiki page: http://wiki.okfn.org/wg/science/1
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From jonathan.gray at okfn.org  Tue Jun  2 14:03:19 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 2 Jun 2009 15:03:19 +0200
+Subject: [open-science] Fwd: Just out today: "Dissemination and publication
+	of datasets in taxonomy"
+In-Reply-To: <e74b7bec0906011129h4b43bb5cqffa4b69a0d2f8f65@mail.gmail.com>
+References: <e74b7bec0906011129h4b43bb5cqffa4b69a0d2f8f65@mail.gmail.com>
+Message-ID: <54ca21750906020603n1bcdf4cbla6a93d4daf645e68@mail.gmail.com>
+
+Many thanks for this Tom! I've forwarded to the open-science list!
+
+Jonathan
+
+---------- Forwarded message ----------
+From: Tom Moritz <tom.moritz at gmail.com>
+Date: Mon, Jun 1, 2009 at 8:29 PM
+Subject: Just out today: "Dissemination and publication of datasets in taxonomy"
+To: John Wilbanks <wilbanks at creativecommons.org>, Jonathan Gray
+<jonathan.gray at okfn.org>
+
+
+http://pensoftonline.net/zookeys/index.php/journal
+
+I jumped into this at "the 11th hour" -- tried editing and revising as
+best I could...
+
+Comments are welcome...
+T.
+
+
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034
+USA
++1 310 963 0199 (cell)
++1 202 657 4198 (Skype)
+http://www.linkedin.com/in/tmoritz
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From gavin at gavinbaker.com  Wed Jun 10 18:47:49 2009
+From: gavin at gavinbaker.com (Gavin Baker)
+Date: Wed, 10 Jun 2009 13:47:49 -0400
+Subject: [open-science] Student organizations call for Open Access to
+	research
+Message-ID: <4A2FF1C5.10200@gavinbaker.com>
+
+http://www.arl.org/sparc/media/09-0610.shtml
+http://www.righttoresearch.org/
+
+National student organizations call for Open Access to research
+
+Washington, DC -- A coalition of national and regional college student
+associations today issued a "Student Statement on the Right to
+Research," calling on universities, research funders, and researchers to
+take action in support of Open Access to research. The American Medical
+Student Association, the Student PIRGs, Students for Free Culture, and
+Universities Allied for Essential Medicines, as well as the Trinity
+University Association of Student Representatives and the California
+Institute of Technology Graduate Student Council have signed the statement.
+
+Students rely on access to academic journal literature for their
+research and education. However, even before the recent economic crisis
+many colleges have struggled with the high costs of journal
+subscriptions, restricting access for students and scientists alike. The
+statement reads, in part:
+
+"Learning and inquiry are impeded when scholars lack access to fellow
+researchers' work, and when students lack access to the work of scholars
+before them.
+
+At the same time, digital technologies have opened new opportunities for
+research. New tools facilitate faster discoveries, speed the development
+of new technologies, and accelerate the progress of science. Patients
+could have access to the latest medical research, citizens could
+evaluate scientific information on environmental impacts, and developing
+countries could apply the most recent scholarship to public health and
+development efforts. But access barriers leave these opportunities
+under-explored.
+
+Open Access is an alternative to the traditional closed,
+subscription-access system of scholarly communication. Open Access makes
+the results of scholarly research available online for free, immediately
+upon publication, and removes barriers for scholarly and educational
+re-use. Entire journals can be open-access, or an author can provide
+Open Access to an individual article by posting a copy on an openly
+accessible Web site.  All forms of open-access publication depend on
+rigorous methods of quality control, including peer review."
+
+The full text of the statement is online at http://www.righttoresearch.org.
+
+"As both taxpayers and students, we deserve access to the research that
+our tuition and tax dollars have financed," said Nick Shockey, recent
+graduate and Student Senator at Trinity University in San Antonio. "Our
+education should not be limited by the number of journal subscriptions
+our library can afford -- a number that is drastically shrinking with
+recession-induced budget cuts at universities across the country."
+
+Laura Janneck of the American Medical Student Association added, "As
+medical students, we need full access to the best and latest research to
+have the most accurate and up-to-date education. As future doctors, we
+know patients deserve access to the same research. Open Access ensures
+that students, scientists, and the public can all access the best
+information, to improve health, education, and scholarship."
+
+"The student voice is growing louder, more clear, and more compelling in
+the discussion on access to research," said Heather Joseph, Executive
+Director of SPARC (the Scholarly Publishing and Academic Resources
+Coalition). "Financial pressures are driving libraries, universities and
+colleges, as well as students to more closely examine the return on
+their investment in resources. Our young colleagues, whose education
+relies on access to quality scholarship, are absolutely right to make
+research access a focal cause." SPARC helped to coordinate discussions
+that led to the launch of this statement and sponsors the statement Web
+site.
+
+The "Student Statement on the Right to Research" closes with a call to
+action -- urging universities, governments and other research funders,
+researchers, and additional student organizations to support Open Access
+-- and a commitment to back Open Access in their activities.
+
+Student organizations are invited to sign the statement at
+http://www.righttoresearch.org.
+
+-- 
+Gavin Baker
+http://www.gavinbaker.com/
+gavin at gavinbaker.com
+
+In the unlikely story that is America, there has never been anything
+false about hope.
+    Barack Obama
+
+
+From rufus.pollock at okfn.org  Thu Jun 11 12:28:52 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 11 Jun 2009 12:28:52 +0100
+Subject: [open-science] Summary of first Working Group meeting last week
+Message-ID: <b68e90820906110428j298ddfe3uc44bcd84e65b2ba8@mail.gmail.com>
+
+Just wanted to let everyone know that the IRC transcript from last
+week's Open Data in Science Working Group meeting are up on the
+meeting page:
+
+<http://wiki.okfn.org/wg/science/1>
+
+I've also tried to create a rough summary which can be found below (if
+anyone wants to amend or add to this summary please do -- it's just a
+wiki page).
+
+Rufus
+
+== Summary ==
+
+1. Draft "Panton Principles" were discussed.
+
+  * Draft text is now up at <http://wiki.okfn.org/wg/science/panton_principles>
+  * Seemed to be general consensus that these should focus on
+exhortation (i.e. "strongly recommend" rather than "thou shalt" or RFC
+"must")
+  * Suggestion to create appendices relating to specific issues (e.g.
+formats, specific discussion of non-commercial)
+
+2. Prize was discussed
+
+  * What form should prize take and should it be general or focused on
+particular disciplines
+  * Is money needed? (Is prestige enough)
+  * How do we make it prestigious
+  * Who could help fund/support it
+
+3. Discussion of recent developments (see irc)
+
+  * Also general ask to the community (e.g. open-science list) for
+news items on open data in science
+
+== Participants ==
+
+  * Cameron Neylon
+  * John Wilbanks
+  * Jonathan Gray
+  * Rufus Pollock
+  * Jenny Molloy
+  * Puneet Kishor
+  * Egon Willighagen
+  * Tom Keays
+  * Amrapali Zaveri
+  * Michele Mattioni
+  * Shreyasee Pradhan
+  * + several lurkers!
+
+
+From stuart.macdonald at ed.ac.uk  Thu Jun 18 15:21:39 2009
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Thu, 18 Jun 2009 15:21:39 +0100
+Subject: [open-science] Beyond the Repository Fringe 2009 - Call for
+	Participation
+Message-ID: <4A3A4D73.7040607@ed.ac.uk>
+
+Beyond the Repository Fringe 2009 ? Call for Participation
+
+Place:		Informatics Forum, University of Edinburgh
+Date:		30th/31st July 2009
+Wiki: 		http://wiki.repositoryfringe.org/
+Email:		rf09 at ed.ac.uk
+Hashtag: 	#RF09
+
+Sponsored by JISC, the Beyond the Repository Fringe 2009 event will be 
+hosted by the University of Edinburgh with support from the Digital 
+Curation Centre, the School of Informatics, EDINA, and Information 
+Services, as well as UKOLN and EPrints.
+
+This year the Repository Fringe organisers aim to draw on and showcase a 
+range of inspirational repository developments, including those produced 
+from the JISC Rapid Innovation and Repository and Preservation 
+programmes, plus various ?barcamps?, ?hackdays? and repository challenges.
+
+Designed for an audience of developers, repository managers and 
+practitioners, the programme retains an ?unconference? feel to it, and 
+seeks to canvass contribution from a wide range of repository actors for:
+
+?	Live demonstrations of innovative work;
+?	"Pecha Kucha" presentations on any subject relating to current, or 
+future repository endeavours i.e. a presenter shows 20 images for 20 
+seconds apiece, for a total time of 6 minutes, 40 seconds;
+?	Round Table discussions;
+?	Formal presentations or tutorials on related topics;
+?	A ?Code Challenge? (details to be announced shortly).
+
+Keynote speakers will open and close Beyond the Repository Fringe 2009 
+and to accompany this event there will be a DCC Associates' Network 
+meeting (delegates will be able to join the network and participate on 
+the day) and a DISC-UK DataShare workshop on ?research data requirements 
+and digital repositories?.
+
+The dates of the event coincide with the start of the buzzing Edinburgh 
+Festival season, which includes the Jazz and Blues Festival (31 July ? 9 
+Aug), the Festival Fringe (7 Aug ? 31 Aug), the Edinburgh International 
+Festival (14 Aug ? 6 Sept), and the Edinburgh Book Festival (15 Aug - 31 
+Aug), as well as the usual impromptu street theatre, musicians and 
+sideshows.
+
+Register for this free event and sign up for a ?performance? of your 
+choice at: http://beyondtherepositoryfringe-emailinvite.eventbrite.com/
+
+University accommodation is available at pre-Festival prices on a 
+first-come, first-served basis. To book please contact the Bed and 
+Breakfast Team on 0131 651 2007 or email them at bed.breakfast at ed.ac.uk. 
+Alternatively visit: 
+http://www.edinburghfirst.com/accommodation/availability.asp
+
+
+For further enquiries contact: rf09 at ed.ac.uk.
+
+
+regards
+Stuart Macdonald
+on behalf of Repository Fringe Organising Committee
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+From stuart.macdonald at ed.ac.uk  Thu Jun 25 13:54:19 2009
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Thu, 25 Jun 2009 13:54:19 +0100
+Subject: [open-science] Beyond the Repository Fringe -  Code Challenge!
+Message-ID: <4A43737B.40200@ed.ac.uk>
+
+Repository Fringe Challenge 2009
+
+See http://wiki.repositoryfringe.org/index.php/The_Challenge
+
+We have flipped the idea of a Challenge on its head: instead of coming
+to the event, and having two days to work on something of your own
+devising, we have come up with the "Problem", and are giving you a full
+month to come up with a solution!
+
+The Challenge
+
+     "Design a REPOSITORY FOCUSED/ENHANCEMENT service to a
+researcher/academic/teacher that they would feel is intuitively useful
+TO THEM PERSONALLY"
+
+One caveat:
+
+     The only information the researcher will type in and give your
+service is their name, email, and possibly their current institution.
+
+     Any other details that the service asks for will have to be hard
+fought for and must provide instant positive results from the point of
+view of the researcher.
+
+Ideas
+
+Some ideas for useful services:
+
+     * 1-click deposit from any application or any item in any form?
+No... We ask for miracles!
+     * mining repos, research council data and other centres for the
+abstracts of projects that the researcher has worked on, and use that to
+get keywords which the service uses to find collegues working in similar
+areas.
+     * Compiling a list blog pages, tweets, journals, and websites which
+mention the researcher and/or the researcher's work and providing the
+researcher with a way to track how their individual efforts ripple
+through their network.
+
+Entering
+
+So people, come to the event and pitch your ideas (based on the above
+criteria) to a panel of judges. You are allowed to present anything from
+a paper prototype, to a screencast, to a working UI, to a full-blown
+prototype. The presentations will be part of the "Show and Tell"
+sessions on the Friday afternoon.
+
+The submissions are judged on both their appropriateness and their
+technical achievability: this means that a paper prototype might well
+beat working code if it satisfies these criteria AND is technically
+feasible. If there is doubt about the feasibility of a design, the onus
+is on the entrant to demonstrate this - so working code, all other
+things being equal, will count for something.
+
+The reward
+
+Isn't taking part enough of a reward?
+
+OK... there will be a first prize and two runners-up prizes. Details to
+follow.
+
+Also, if the judges so like a particular submission, then they may
+recommend it for a small (up to ?5,000) grant to give the developer some
+time to develop the idea into a working prototype. The actual amount
+recommended will be at the discretion of the judges and will be based on
+their assessment of how many days development might best be spent on this.
+
+Register for this free event and sign up for a ?performance? of your
+choice at: http://beyondtherepositoryfringe-emailinvite.eventbrite.com/
+
+University accommodation is available at pre-Festival prices on a
+first-come, first-served basis. To book please contact the Bed and
+Breakfast Team on 0131 651 2007 or email them at bed.breakfast at ed.ac.uk.
+Alternatively visit:
+http://www.edinburghfirst.com/accommodation/availability.asp
+
+
+For further enquiries contact: rf09 at ed.ac.uk.
+
+
+Stuart Macdonald
+RF09 Organising Committee
+
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From kanzure at gmail.com  Thu Jun 25 14:32:38 2009
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Thu, 25 Jun 2009 08:32:38 -0500
+Subject: [open-science] Fwd: [tt] A conversation with Freeman Dyson
+In-Reply-To: <20090625125509.GL23524@leitl.org>
+References: <20090625125509.GL23524@leitl.org>
+Message-ID: <55ad6af70906250632x29e2d05cv1420342eece6334e@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Eugen Leitl <eugen at leitl.org>
+Date: Thu, Jun 25, 2009 at 7:55 AM
+Subject: [tt] A conversation with Freeman Dyson
+To: tt at postbiota.org
+
+
+
+http://plus.maths.org/issue26/features/dyson/index.html
+
+A conversation with Freeman Dyson
+
+by Helen Joyce
+
+Freeman Dyson has had a long and distinguished career in physics. The holder
+of a Professorship at the Princeton Institute for Advanced Study for more
+than 40 years, he did fundamental work on internal physics of stars and the
+interactions of subatomic particle beams. He is the author of several popular
+science books, advocates space colonisation and the search for
+extraterrestrial life, and is a passionate speaker on topics as wideranging
+as GM crops and the search for world peace.
+
+He describes the way he does physics as "a sort of architecture done with
+equations, rather than with bits of wood and steel". A self-confessed
+optimist, he says that having unsolved problems is what makes life
+interesting.
+
+In the summer of 2003, Dyson gave the annual Dirac lecture at the University
+of Cambridge, entitled Looking for Life in Unlikely Places. Afterwards, Plus
+spoke to him about his life in science.
+
+You can watch, or just listen to, the interview and lecture at
+http://www.xscite.com/FreemanDyson.
+
+Freeman Dyson
+
+Freeman Dyson in the grounds of St. Johns College after delivering the Dirac
+Lecture, June 2003. ?Photo and copyright Anna N. Zytkow
+
+Why do you find maths fascinating?
+
+I've never remembered a time when I wasn't in love with calculating. One of
+the first memories I have was when I was still being put down for a nap in
+the afternoons. I was in the crib and not able to climb out, and I was
+calculating the infinite series, 1+1/2+1/4+1/8+1/16... and discovered that it
+came out to 2. I remember that very vividly. It was a big moment when I found
+that out. I just loved calculating. It's something you're born with - it
+certainly didn't come from outside as far as I know.
+
+The kind of math that I've done all my life is old-fashioned math. I never
+became a modern mathematician, never learned any of the abstract stuff. What
+I do is really nineteenth century, and it turns out of course that that is
+what you need for applied math. The nineteenth century is a good place to
+start if you want to be useful!
+
+Is it possible, or desirable, to do physics without maths?
+
+Yes. Dick Feynman, who was my mentor as a physicist, had very little math. He
+never really thought in terms of mathematics; he had a very concrete
+imagination. He drew pictures instead of making calculations, and somehow got
+the right answers.
+
+But of course he was really a unique character, not only in his work but also
+in his personality. He had this remarkable vision of things, he called it the
+space-time approach. It meant he could reconstruct the whole of physics from
+his own point of view, without much in the way of equations. Instead of
+writing down an equation and solving it he would just write down the answer,
+which other people can't do. It was combined with some sort of geometrical
+pictures he had in his head. There have been others like that - he's not the
+only one - but it is unusual.
+
+I work completely from a mathematical point of view, I was just the opposite.
+I have to have an equation that I can solve. So I do it the old-fashioned
+way, and then of course the fun was to understand what he was doing from my
+point of view, which turned out to be very interesting - I was able to
+translate his style into old-fashioned mathematics so other people could use
+it.
+
+What has your mathematical training brought to what you have done?
+
+My main teacher as a mathematician was a wonderful gentleman called
+Besicovitch who lived here in Cambridge. He was an emigre Russian, he talked
+with a very thick Russian accent - he was a great character. My style as a
+mathematician was strongly influenced by Besicovitch.
+
+He worked on the borderline between geometry and set theory, both of which
+are kind of nineteenth century. He did beautiful proofs which are kind of
+architectural. Besicovitch's style was to take some rather simple question
+and build up an enormously elaborate construction to show that such a thing
+worked or didn't work and then get a very simple answer at the end. And
+that's typical of the way I do physics. It's a sort of architecture done with
+equations, rather than with bits of wood and steel.
+
+Freeman Dyson and Martin Rees
+
+Freeman Dyson with Martin Rees (centre) and Douglas Gough in the grounds of
+St Johns College, Cambridge, June 2003. ?Photo and copyright Anna N. Zytkow
+
+In your popular books you comment on topics that are not directly related to
+your work as a physicist. So you obviously feel that mathematicians and
+scients have a wide role to play in society as commentators or guides. What
+motivates you in this wider search for meaning and truth?
+
+I suppose the fact that my interests have always been very much broader than
+my skills! My skills have always been just playing around with equations, but
+there is much more to life than equations. I've been interested in big human
+problems, and growing up through World War II I had an acute experience of
+war. I was involved with the bombing campaign in World War II, so it gave me
+the feeling that war and peace was something we have to deal with. So that's
+always been a big driving force for me, coming to grips with the problems of
+war and peace.
+
+Freeman Dyson and Mike Green
+
+Freeman Dyson with Mike Green, Martin Rees and John Barrow in the background,
+in the grounds of St Johns College, Cambridge, June 2003. ?Photo and
+copyright Anna N. Zytkow
+
+I think the reason why scientists can deal with that is because we have an
+additional qualification which is nothing to do with the technical parts of
+science, which is that we are operating in an international community.
+Science is about the most international activity there is. We have friends
+and colleagues all over the world, including countries that are not supposed
+to be respectable. It's a great tradition in science that you talk to
+everybody and that you all understand the same things and you all understand
+them in more or less the same way. So as scientists we're setting a model for
+the world - how to operate a global enterprise without coming into collision.
+I think that's something we can do much better than the politicians.
+
+I worked for a while in the United States in the Disarmament Agency which was
+the part of Government concerned with arms control. That was during the
+Kennedy administration, so it was forty years ago. The Disarmament Agency was
+just new then. It was only about 100 people in the whole administration. Ten
+of us were scientists, and the other ninety were mostly ex-ambassadors and
+diplomatic types and the ten scientists were doing all of the work, not
+because we were experts on bombs, but because we were accustomed to talking
+with the Russians and the Chinese and the other people who were supposed to
+be bad guys, and the diplomats weren't. We really believed in coming to
+agreements much more than the diplomats did.
+
+I suppose that could be true of all academics - do you think it is more true
+of scientists?
+
+Well, I wouldn't say that dogmatically, but I do think it is true. Science
+does translate much better than, say, history or law or literature. We can
+read other people's literature, but that is for most people an effort; most
+people rely on translations, so it's very different. In science you don't
+need translations.
+
+Do you feel that modern scientists have an ethical role to play in the world?
+
+Very definitely. Of course we don't all agree about ethics, but still the
+ethics of science I think is extremely important to most of us. First of all,
+not claiming to know more than you know. That's the most important thing,
+that science is about uncertainty rather than about certainty. So it's very
+different from law where everything has to be in black and white, and it's
+different from religion too. This tradition of admitting when you're wrong is
+very important. In science when you're proved wrong you just goodhumouredly
+say 'well, yes, I was wrong', which other people find not so easy.
+
+You describe yourself as an optimist - why is this?
+
+The reason I'm optimistic is easy to see; it's because I came through the
+1930s. I was a teenager in the 1930s, when things were from every point of
+view much worse than they ate, it's an opportunity for doing better.
+
+Freeman Dyson with the statue of Fred Hoyle
+
+Freeman Dyson with the statue of Fred Hoyle in the grounds of the Institute
+of Astronomy, Cambridge, June 2003. ?Photo and copyright Anna N. Zytkow
+
+So there are many reasons, but I think having lived through bad times is the
+main reason. World War II was bad enough, but it was nothing like as bad as
+we expected. We had read Aldous Huxley's Brave New World and he starts out
+with anthrax bombs - well, we expected anthrax bombs, there's nothing new
+about anthrax. It never happened, so we were lucky.
+
+In all sorts of ways we were lucky; of course England had a better war than
+many places. But still, it was a tough war and nevertheless we survived, so,
+having lived through that, I can't take the present problems so seriously. I
+think none of the present-day problems are as bad as what we faced then.
+
+And you see science and technology as being part of the solution?
+
+It has been, yes, especially if you go to China and countries in Africa. They
+have a very different view of science because they know they absolutely need
+it. You can't imagine China in its present state of economic growth without
+modern technology, and of course China has got enormously more prosperous
+just in the last ten years. They have a very positive attitude toward
+technology, including genetic engineering.
+
+The same is true of the people I know in Africa. For them, science really is
+a necessity of life. They don't have such mixed feelings about it.
+
+Do we have a job to do as scientists here in the rich world, to persuade
+people that the doomsaying isn't necessarily correct?
+
+Yes - but I don't try to impose my views on everybody. It's quite good to
+have some people to go around preaching gloom and doom, but I don't happen to
+agree with them. And I think it's unfair if we try to impose those views on
+the Chinese and the Africans.
+
+What have you found fun about being a scientist?
+
+The thing I have found most delightful is having friends all over the world.
+I just spent a couple of weeks in China. You are greeted there as a friend
+and colleague, and immediately you talk the same language, even if it is not
+Chinese! I don't have a word of Chinese, but still we could communicate
+pretty well.
+
+Without the science I would just be a tourist and it does make a huge
+difference, having a professional contact. Of course, there are other
+professions which have the same kind of international spread - if you're a
+musician it's the same - but not for most.
+
+And what about the actual doing of science?
+
+That of course is always fun, because, especially being a theorist, I am free
+to jump around. I don't have to deal with apparatus, so if I get bored with a
+problem I can just scrap it and start on something else, which is what I
+frequently do. So I have great freedom, and especially in astronomy, we're
+never running out of problems.
+
+At the moment, the two most vigorously active branches of science are
+astronomy and biology, and in both of them there is no shortage of
+interesting things to do, and not likely to be for the next hundred years.
+
+There is a theorem proved by Kurt Godel in 1931, which is the Incompleteness
+Theorem for mathematics. The theorem says that if you have any finite
+formulation of mathematics, that is, a finite set of equations and a finite
+set of rules of logical inference, then you can write down statements within
+the language that is defined that way, and you can prove that they cannot be
+proved and that they cannot be disproved.
+
+So given any finite system of mathematics, there are statements within the
+system that you can't decide whether they are true or untrue by using the
+rules, which is a very powerful and profound result. It means that any
+formulation of mathematics is incomplete; there are always questions that you
+can't answer within the system.
+
+In fact it means that mathematics is inexhaustible - given any particular set
+of rules there are questions that you can't answer. You always have to invent
+new rules in order to decide new questions. So it's guaran end of problems
+either.
+
+I think you finding that consoling is probably the definition of being an
+optimist!
+
+The point is that having unsolved problems is what makes life interesting. To
+me the idea of solving all the problems in science or in anything else is the
+most gloomy prospect I can imagine.
+
+About this article
+
+Professor Freeman Dyson is now retired from his Professorship in Physics at
+the Institute for Advanced Study in Princeton, where he spent most of his
+working life. On 16th June, 2003, he gave the annual Dirac Lecture at the
+Centre for Mathematical Sciences in Cambridge. His talk, entitled "Looking
+for life in unlikely places: reasons why planets may not be the best places
+to look for life", was recorded and edited by Bjorn Hassler and Adrian
+Cullum-Hanshaw of the Department of Applied Mathematics and Theoretical
+Physics at Cambridge.
+
+You can watch, or just listen to, this interview and the Dirac Lecture at
+http://www.xscite.com/FreemanDyson.
+
+Dr. Anna N. Zytkow of the Institute of Astronomy in Cambridge very kindly
+allowed Plus to use photographs she took during Professor Dyson's visit to
+Cambridge in June 2003.
+_______________________________________________
+tt mailing list
+tt at postbiota.org
+http://postbiota.org/mailman/listinfo/tt
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From shibinmohamed at gmail.com  Fri Jun 26 20:55:54 2009
+From: shibinmohamed at gmail.com (Shibin Mohamed)
+Date: Fri, 26 Jun 2009 23:55:54 +0400
+Subject: [open-science] open science mailing list submission
+Message-ID: <59097b0f0906261255v24eaf03bw6a252f8df4002d6e@mail.gmail.com>
+
+please add to me the open science mailing list
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090626/8caf14e6/attachment.htm 
+
+From Tim.Schweizer at luther.edu  Fri Jun 26 21:22:55 2009
+From: Tim.Schweizer at luther.edu (Tim Schweizer)
+Date: Fri, 26 Jun 2009 15:22:55 -0500
+Subject: [open-science] Fwd: Biodiversity Databases Spread,
+	Prompting Unification Call
+Message-ID: <93f340550906261322w7f0613e0w17313a838a482a52@mail.gmail.com>
+
+Is open-science part of this?
+-Tim
+
+Tim Schweizer, Ph.D.
+Office: (001) 563.387.1131
+Mobile: (001) 563.581.9716
+E-mail: Tim.Schweizer at luther.edu
+
+
+*Science* 26 June 2009:
+Vol. 324. no. 5935, pp. 1632 - 1633
+DOI: 10.1126/science.324_1632News of the Week Biodiversity Databases Spread,
+Prompting Unification Call * Claire Thomas *
+
+Scientists increasingly recognize the value of collaborative, open-access
+data sharing for understanding the world. But there's still a wide gap
+between wanting to share and figuring out how to do it right, discovered
+those who attended an international meeting on biodiversity this month. The
+goal of e-Biosphere 09, a meeting for creators and users of the Encyclopedia
+of Life, the Consortium for the Barcode of Life, the Catalogue of Life, and
+other major efforts to build and manage open-access biodiversity databases,
+was to figure out how to combine data from at least 100 systems into one
+gigantic, online, open-access database that will eventually cover all life
+on Earth, with lots of information, including primary research. But whether
+these researchers are ready to create one-stop shopping for biodiversity
+remains to be seen.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090626/6a2984cf/attachment.htm 
+
+From rufus.pollock at okfn.org  Mon Jun 29 12:28:47 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 29 Jun 2009 12:28:47 +0100
+Subject: [open-science] Open Database License (ODbL) v1.0 Released
+Message-ID: <b68e90820906290428yb8d882ay291aba5f07de21ed@mail.gmail.com>
+
+[Apologies for any cross-posting] Open Data Commons have released v1.0
+of the Open Database License (ODbL) a share-alike license for data and
+databases. See the full announce below.
+
+This is big news for anyone working on open data so please
+redistribute to all interested individuals and communities.
+
+Regards,
+
+Rufus
+
+  ~~ Open Database License (ODbL) v1.0 Released ~~
+
+<http://www.opendatacommons.org/2009/06/29/open-database-license-odbl-v10-released/>
+
+Open Data Commons are delighted to announce the release of v1.0 of the
+Open Database License (ODbL):
+
+  <http://www.opendatacommons.org/licenses/odbl/>
+
+The Open Database License (ODbL) is an open license for data and
+databases which gives users freedom to use, reuse and redistribute
+subject only to the requirement of attribution and share-alike.
+
+This license, the first of its kind, is a major step forward for open
+data. There are currently very few licenses available suited to data
+and databases and none which provide for share-alike (existing
+share-alike licenses such as the GPL, GFDL and CC By-SA are all
+unsuitable for data).
+
+The development of the ODbL, has been a major effort extending over
+more than one and half years with an intensive consultation and review
+period for the last 6 months. We'd like to express our thanks to the
+communities and individuals who have contributed during this time.
+Have fun using it!
+
+### About Open Data Commons
+
+Open Data Commons, http://www.opendatacommons.org/, exists to provide
+legal solutions for open data. In March 2008 it launched the first
+ever open data license: the Public Domain Dedication and License. Open
+Data Commons is an Open Knowledge Foundation project run by its
+advisory council and like the Foundation is a not-for-profit effort
+working for the benefit of the general open knowledge community.
+
+

@@ -1,0 +1,3864 @@
+From egon.willighagen at gmail.com  Sat Sep  1 10:58:36 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sat, 1 Sep 2012 11:58:36 +0200
+Subject: [open-science] Is It Open Data? status?
+Message-ID: <CAMPqvY_iaX=PgmuLoueFZQb9M9TnvjKQ7jC8TCum=jjbsvv3rw@mail.gmail.com>
+
+Hi all,
+
+I have not looked at Is It Open Data? recently... honestly, the lack
+of response we get is depressing...
+
+In a discussion last week it came up that "we" need to look at it...
+there is apparently some SPAM, and the latest message is of
+questionable quality...
+
+When is the next open science wg meeting?
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From pm286 at cam.ac.uk  Sat Sep  1 11:19:02 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 1 Sep 2012 11:19:02 +0100
+Subject: [open-science] Is It Open Data? status?
+In-Reply-To: <CAMPqvY_iaX=PgmuLoueFZQb9M9TnvjKQ7jC8TCum=jjbsvv3rw@mail.gmail.com>
+References: <CAMPqvY_iaX=PgmuLoueFZQb9M9TnvjKQ7jC8TCum=jjbsvv3rw@mail.gmail.com>
+Message-ID: <CAD2k14NxoH8ASwOh9i3PrAPOgM04ErTz7ct4p1OF2yoc=7=1eA@mail.gmail.com>
+
+On Sat, Sep 1, 2012 at 10:58 AM, Egon Willighagen <
+egon.willighagen at gmail.com> wrote:
+
+> Hi all,
+>
+> I have not looked at Is It Open Data? recently... honestly, the lack
+> of response we get is depressing...
+>
+
+Yes. But not surprising.
+
+We don't win everything first time. I reckon I have launched about 10
+significant tools on the Internet over the last 20 years and about 30% have
+taken off. I think that's what we can expect. Some need funding.
+
+I suspect that IIOD was launched in advance of its time. Its time is
+coming. We may need to reconfigure.
+
+It's the sort of thing that is now very relevant to funders' requirements
+for ensuring that their funded projects create Open Data. I and others are
+talking with funders about how OKF tools can be relevant to their
+needs.based
+
+I was inspired by the success of MySociety in creating various information
+tools such as WhatDoTheyKnow (FOI) and WriteToThem MPs) and suggested IIOD.
+I am grateful to those who put in the work - it was significant. But WDTK
+and WTT have major advantages:
+* responses are required by law
+* MS are funded
+* they are approved by government.
+
+None of this applies at present to IIOD. But it may. Substitute
+"government" by "researchFunder" and it starts to look very valuable and
+feasible. I think the next stage may be to get Funder sponsorship
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120901/112960c1/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Sat Sep  1 12:07:17 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Sat, 1 Sep 2012 12:07:17 +0100
+Subject: [open-science] Is It Open Data? status?
+In-Reply-To: <CAD2k14NxoH8ASwOh9i3PrAPOgM04ErTz7ct4p1OF2yoc=7=1eA@mail.gmail.com>
+References: <CAMPqvY_iaX=PgmuLoueFZQb9M9TnvjKQ7jC8TCum=jjbsvv3rw@mail.gmail.com>
+	<CAD2k14NxoH8ASwOh9i3PrAPOgM04ErTz7ct4p1OF2yoc=7=1eA@mail.gmail.com>
+Message-ID: <CABPM+wr_eNVzTFXL_w43nFCf-h2mYHOj7G+iqPCw1mBPq7Codw@mail.gmail.com>
+
+Hi All
+
+The IIOD? site has been retired and archived during a recent OKFN website
+clear up (see Rufus' email below). I haven't tried to make a query but I'm
+assuming you no longer can. I agree with Peter that the project definitely
+still has scope and with some care, attention and publicity  (and possibly
+funding) could rise again and have been meaning to contact the list about
+this so thanks for taking the initiative Egon!
+
+
+   We can definitely discuss at the next working group meeting, which I'll
+   set for after OKFest and maybe get some people looking at it during the
+   October working group hackday.
+
+
+   Meanwhile, if everyone could make their thoughts known on this that
+   would be great - do you think the site is useful in its current form? What
+   changes would you like to see? Would you be willing to help move it forward?
+
+For those who have not come across Is It Open Data, the site is still live
+in read-only mode so check it out. http://www.isitopendata.org/
+
+Jenny
+
+
+   ---------- Forwarded message ----------
+   From: Rufus Pollock <rufus.pollock at okfn.org>
+   Date: Tue, Aug 7, 2012 at 7:21 PM
+   Subject: [okfn-discuss] Archiving and retiring a few OKFN sites:
+   http://getthedata.org/, http://ideas.okfn.org, http://isitopendata.org/
+   To: okfn-discuss <okfn-discuss at lists.okfn.org>
+
+
+   Hi All,
+
+   I just wanted to let people know that we have retired (and archived) a
+   few sites:
+
+   http://getthedata.org/
+   http://ideas.okfn.org
+   http://isitopendata.org/
+
+   Note that all sites will be preserved online in read-only mode so no
+   content has been lost.
+
+   In all cases the immediate reason is that we are re-organizing and
+   rationalizing our sysadmin setup as we move hosting provider and
+   archiving these sites allowed us to decommission the underlying web
+   application. The more general reasons are:
+
+   GetTheData: interesting experiment, initially quite active but lately
+   much less so and increasing spam issues plus the underlying software
+   no longer seems actively maintained (OSQA). Going forward we want this
+   either to StackOverflow or integrate with something like School of
+   Data or DataHub
+
+   ideas.okfn.org: the underlying software (OSQA) no longer actively
+   maintained. ideas.okfn.org has been very useful but we think we can
+   support similarly functionality using other services going forward.
+
+   isitopendata.org: IsItOpenData has served its purpose incredibly well
+   and is now relatively little used. It is reasonably complex bespoke
+   web-app so retiring it means we have one less moving part to maintain.
+   In addition, should the functionality provided turn out to be widely
+   missed we could resurrect it as part of other sites (notably the
+   DataHub)
+
+   Lastly, please note that we are migrating our Wordpress "farm" which
+   runs many of our sites (okfn.org/ and *.okfn.org among others) this
+   Wednesday so there may be some brief downtime [1].
+
+   Regards,
+
+   Rufus
+
+   [1]: http://lists.okfn.org/pipermail/okfn-help/2012-August/002057.html
+
+   _______________________________________________
+   okfn-discuss mailing list
+   okfn-discuss at lists.okfn.org
+   http://lists.okfn.org/mailman/listinfo/okfn-discuss
+
+
+On Sat, Sep 1, 2012 at 11:19 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Sat, Sep 1, 2012 at 10:58 AM, Egon Willighagen <
+> egon.willighagen at gmail.com> wrote:
+>
+>> Hi all,
+>>
+>> I have not looked at Is It Open Data? recently... honestly, the lack
+>> of response we get is depressing...
+>>
+>
+> Yes. But not surprising.
+>
+> We don't win everything first time. I reckon I have launched about 10
+> significant tools on the Internet over the last 20 years and about 30% have
+> taken off. I think that's what we can expect. Some need funding.
+>
+> I suspect that IIOD was launched in advance of its time. Its time is
+> coming. We may need to reconfigure.
+>
+> It's the sort of thing that is now very relevant to funders' requirements
+> for ensuring that their funded projects create Open Data. I and others are
+> talking with funders about how OKF tools can be relevant to their
+> needs.based
+>
+> I was inspired by the success of MySociety in creating various information
+> tools such as WhatDoTheyKnow (FOI) and WriteToThem MPs) and suggested IIOD.
+> I am grateful to those who put in the work - it was significant. But WDTK
+> and WTT have major advantages:
+> * responses are required by law
+> * MS are funded
+> * they are approved by government.
+>
+> None of this applies at present to IIOD. But it may. Substitute
+> "government" by "researchFunder" and it starts to look very valuable and
+> feasible. I think the next stage may be to get Funder sponsorship
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120901/f5edc9e9/attachment.htm>
+
+From jenny.molloy at okfn.org  Sat Sep  1 12:22:19 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sat, 1 Sep 2012 12:22:19 +0100
+Subject: [open-science] Open Science WG Meeting: 26 September, 17:30 UTC
+Message-ID: <CABPM+wpeVwSJQ_Naa1H5V_+DiUd5msW0fykQJQDk9qhgKKb81g@mail.gmail.com>
+
+Hi All
+
+The next working group meeting will be an opportunity to reflect on OKFest,
+discuss the fate of Is It Open Data?, get up to date on some of the latest
+citizen science/DIY BIO activity in Europe as well as voicing your opinions
+on projects we should be getting involved in or initiating.
+
+Got an idea for an open science project that you need help with? Bring it
+to the group and we'll do our best to assist and put you in touch with
+relevant people around the OKF network.
+
+When: Wednesday 26 September at 17:30 UTC/GMT (18:30 UK time)
+Location: Etherpad http://okfnpad.org/sciencewg-26Sep2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-26Sep2012
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Hope to speak to some of you there!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120901/44109561/attachment.htm>
+
+From egon.willighagen at gmail.com  Sun Sep  2 07:40:54 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sun, 2 Sep 2012 08:40:54 +0200
+Subject: [open-science] Is It Open Data? status?
+In-Reply-To: <CABPM+wr_eNVzTFXL_w43nFCf-h2mYHOj7G+iqPCw1mBPq7Codw@mail.gmail.com>
+References: <CAMPqvY_iaX=PgmuLoueFZQb9M9TnvjKQ7jC8TCum=jjbsvv3rw@mail.gmail.com>
+	<CAD2k14NxoH8ASwOh9i3PrAPOgM04ErTz7ct4p1OF2yoc=7=1eA@mail.gmail.com>
+	<CABPM+wr_eNVzTFXL_w43nFCf-h2mYHOj7G+iqPCw1mBPq7Codw@mail.gmail.com>
+Message-ID: <CAMPqvY_efwG0J_sW=zFbNnVXd-NTxDLZX9dCOtjH3m8ayU1Dzw@mail.gmail.com>
+
+Hi Jenny,
+
+On Sat, Sep 1, 2012 at 1:07 PM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> The IIOD? site has been retired and archived during a recent OKFN website
+> clear up (see Rufus' email below). I haven't tried to make a query but I'm
+> assuming you no longer can.
+
+The latest post (a really bad one) and the top query if you 'browse'
+is of less than two months ago...
+
+http://www.isitopendata.org/enquiry/view/47bf83e5-dcb6-41cb-a4a8-d8cb2ce0ff15/
+
+> I agree with Peter that the project definitely
+> still has scope and with some care, attention and publicity  (and possibly
+> funding) could rise again and have been meaning to contact the list about
+> this so thanks for taking the initiative Egon!
+
+I do not think I'd suggest to resurrect it... we tried it, but from
+the input I got, it did more bad than good... I liked the idea, but it
+just did not work out. CKAN is probably better, allowing us to add
+license info (or lack thereof) to data sets, summarize that and send
+out reports that USA governmental organization releases 75% as
+non-public domain, despite.... (or whatever...) Less personal,
+statistically more relevant, and not asking individuals to overrule
+their organizational history...
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From pm286 at cam.ac.uk  Sun Sep  2 08:27:55 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 2 Sep 2012 08:27:55 +0100
+Subject: [open-science] Is It Open Data? status?
+In-Reply-To: <CAMPqvY_efwG0J_sW=zFbNnVXd-NTxDLZX9dCOtjH3m8ayU1Dzw@mail.gmail.com>
+References: <CAMPqvY_iaX=PgmuLoueFZQb9M9TnvjKQ7jC8TCum=jjbsvv3rw@mail.gmail.com>
+	<CAD2k14NxoH8ASwOh9i3PrAPOgM04ErTz7ct4p1OF2yoc=7=1eA@mail.gmail.com>
+	<CABPM+wr_eNVzTFXL_w43nFCf-h2mYHOj7G+iqPCw1mBPq7Codw@mail.gmail.com>
+	<CAMPqvY_efwG0J_sW=zFbNnVXd-NTxDLZX9dCOtjH3m8ayU1Dzw@mail.gmail.com>
+Message-ID: <CAD2k14N-KVCHuV6udtX2NDOOCAozUrUZYRq5EhNT2o3tnVP_jw@mail.gmail.com>
+
+On Sun, Sep 2, 2012 at 7:40 AM, Egon Willighagen <egon.willighagen at gmail.com
+> wrote:
+
+> Hi Jenny,
+>
+
+Thanks Egon
+
+
+> > I agree with Peter that the project definitely
+> > still has scope and with some care, attention and publicity  (and
+> possibly
+> > funding) could rise again and have been meaning to contact the list about
+> > this so thanks for taking the initiative Egon!
+>
+> I do not think I'd suggest to resurrect it... we tried it, but from
+> the input I got, it did more bad than good... I liked the idea, but it
+> just did not work out. CKAN is probably better, allowing us to add
+> license info (or lack thereof) to data sets, summarize that and send
+> out reports that USA governmental organization releases 75% as
+> non-public domain, despite.... (or whatever...) Less personal,
+> statistically more relevant, and not asking individuals to overrule
+> their organizational history...
+>
+> Maybe a hybrid. CKAN is taken as the place that people mainly interact
+with and  has annotations, but also a tool to send a request to a potential
+owner.
+
+P.
+
+Egon
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Researcher
+> Department of Bioinformatics - BiGCaT
+> Maastricht University (http://www.bigcat.unimaas.nl/)
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120902/99b49e3e/attachment.htm>
+
+From laura.newman at okfn.org  Mon Sep  3 09:27:07 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Mon, 3 Sep 2012 09:27:07 +0100
+Subject: [open-science] Fwd: [okfn-volunteers] OKFestival accomodation
+In-Reply-To: <CAC33kz55XQP3P8YfxSKqrC+T9XMr8CzELTLpr+XcZWPeHnuqgQ@mail.gmail.com>
+References: <CAC33kz4v7eATd40WzKGML5Z5Wp+_aJEw6WGCLtSoLrYekcZOzQ@mail.gmail.com>
+	<CAC33kz55XQP3P8YfxSKqrC+T9XMr8CzELTLpr+XcZWPeHnuqgQ@mail.gmail.com>
+Message-ID: <CAMQ+bMa5m+44kTKzzyLB7BLJAvkW+PsTA5=qHbfOv0s56P5SPg@mail.gmail.com>
+
+Hi all,
+
+If any of you are still thinking about coming to OKFest, there is an option
+to share accommodation... See below!
+
+It's going to be a fantastic week, with an amazing science programme lined
+up (everything from the European Commission to Figshare to the World Bank
+to Wikimedia and beyond!). Do take a look at:
+http://okfestival.org/open-research-and-education/
+
+Cheers,
+Laura
+
+
+
+---------- Forwarded message ----------
+From: Lieven Janssen <lieven.janssen at okfn.org>
+Date: Wed, Aug 29, 2012 at 7:09 AM
+Subject: [okfn-volunteers] OKFestival accomodation
+To: okfn-volunteers at lists.okfn.org
+
+
+Dear all,
+
+are there people that did not book an accomodation yet for OKFestival?
+
+We (Pieter Colpaert, Lieven Janssen, Nieke Jahja and Kat Borlongan) would
+like to rent an appartment from sunday 16 till saturday 22 and we are
+looking for 3 to 4 extra people to stay there and pay a part of the rent.
+
+The appartment:
+http://<http://www.redappleapartments.com/helsinki/en/apartmentdetail/view/idapartment/2885/checkin//checkout//guests//bedrooms/>
+www.redappleapartments.com<http://www.redappleapartments.com/helsinki/en/apartmentdetail/view/idapartment/2885/checkin//checkout//guests//bedrooms/>
+/helsinki/en/apartmentdetail/view/idapartment/2885/checkin//checkout//guests//bedrooms/<http://www.redappleapartments.com/helsinki/en/apartmentdetail/view/idapartment/2885/checkin//checkout//guests//bedrooms/>
+
+The price would be around ?1.584 (+/- ?250 p.p. if we can find enough
+people)
+
+Would you be interested to join us and get to know likeminded people?
+Please drop me an email asap.
+
+Best Regards,
+
+Lieven Janssen
+
+_______________________________________________
+okfn-volunteers mailing list
+okfn-volunteers at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-volunteers
+
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120903/d12104f6/attachment.htm>
+
+From vcs at stanford.edu  Tue Sep  4 19:47:03 2012
+From: vcs at stanford.edu (Victoria C Stodden)
+Date: Tue, 4 Sep 2012 11:47:03 -0700 (PDT)
+Subject: [open-science] help with open data / open code
+In-Reply-To: <48246804.19867137.1346784005567.JavaMail.root@zm04.stanford.edu>
+Message-ID: <1948806613.19875893.1346784423074.JavaMail.root@zm04.stanford.edu>
+
+Dear folks,
+
+I've been working in the reproducible research movement for quite a few years, building systems and legal standards to encourage scientists to openly release the data and code that underlies published results. I'm a founder of http://www.RunMyCode.org , which is designed to do just that.
+
+We're looking for developers to join us in building out the site, creating "companion pages" for published research, and engaging in outreach to the scientific community. Our job announcement is here: http://www.stanford.edu/~vcs/HiringRMC.html and follows this email below.
+
+I would really appreciate your help in getting the word out. Please forward widely and if you know anyone who might be interested (including yourself!) just let me know - jobs at stodden.net
+
+many thanks,
+Victoria 
+
+Job Announcement: RunMyCode.org is seeking an Associate Research Scientist
+
+Position Title: Associate Research Scientist
+
+Position Description: The Department of Statistics in the Faculty of Arts and Sciences of Columbia University in the City of New York invites applications for an Associate Research Scientist position. The appointment will be made through the Department of Statistics. We are seeking a researcher experienced in technical computing to expand the RunMyCode.org research sharing platform. RunMyCode.org is a novel cloud-based platform that enables scientists to openly share the code and data that underlies their research publications.
+
+The research position will involve multidisciplinary collaborations with RunMyCode.org faculty members and academics from the fields of statistics, biostatistics, economics, and other areas of computational science. The candidate?s responsibilities include the creation of executable webpages associated with research publications, building new features on the RunMyCode.org website and backend, and conducting outreach to the scientific community. We expect there will be opportunities to contribute to or author research publications and academic presentations. The position will report to Victoria Stodden, Assistant Professor of Statistics at Columbia.
+
+Two years or more experience in a strong research environment are sought, but experienced newly graduated researchers will be considered. Candidates with a demonstrated record of technical expertise, including knowledge of cloud computing environments such as EC2 and languages such as C++, are strongly preferred. Additional knowledge of scientific computing languages such as MATLAB, R, fortran, and python will also be preferred. A record of successful multidisciplinary collaboration will be a positive attribute in evaluation of candidates.
+
+Remote candidates considered.
+
+Position Start Date: Available immediately
+
+Please send curriculum vitae and cover letter to jobsATstodden.net
+
+Columbia University is an Equal Opportunity/Affirmative Action employer.
+
+
+From laura.newman at okfn.org  Wed Sep  5 15:24:18 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Wed, 5 Sep 2012 15:24:18 +0100
+Subject: [open-science] OKFest - tickets are selling out!
+Message-ID: <CAMQ+bMa0SooXFibtbFAX0N8K3rY5Pj8QEsD2sSYsE+9yFooT3Q@mail.gmail.com>
+
+Hi all,
+
+Just a final post to warn you that tickets for OKFest are beginning to sell
+out! If you haven't yet bought yours, get it here:
+http://okfestival.org/early-bird-okfest-tickets/
+
+We have an exciting series of sessions lined up for Open Science and Open
+Access, and it would be great to see an equally strong representation of
+scientists in the audience.
+
+Highlights include:
+** Mat Todd* from the University of Sydney talking about Open Source Drug
+Discovery; *
+* Carl-Christian Buhr *from the Cabinet of Neelie Kroes leading a workshop
+on the Commission's new open access policy;
+* Sessions on *Crowdsourcing Data*, *Communicating Science*, *Open Access
+in Practice*, *Immediate Access to Raw Data from Experiments* and more,
+with a great line up of speakers from the World Bank, Ushahidi, Wikimedia,
+FigShare and beyond.
+
+More details on the Science sessions:
+http://okfestival.org/open-research-and-education/
+And on the wider programme:
+http://blog.okfn.org/2012/09/05/okfest-2week-bulletin/
+
+If you can't make the main event, there is also a **FREE** science hackday
+in Helsinki on Tuesday 18th. Sign-up here:
+http://okfestival.org/open-culture-and-science-hackday/
+
+There are fewer than 100 tickets remaining, so please do share this with
+friends, colleagues and around any mailing lists you may be part of. It
+would be great to get some more scientists together in the final fortnight!
+
+Kind regards,
+Laura
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120905/7f4f3e1f/attachment.htm>
+
+From mark.wainwright at okfn.org  Thu Sep  6 14:01:03 2012
+From: mark.wainwright at okfn.org (Mark Wainwright)
+Date: Thu, 6 Sep 2012 14:01:03 +0100
+Subject: [open-science] Using CKAN for research data management
+Message-ID: <CAHoq+O1RYbhdHzVjyMtro21TdNEH46sop+JusgMYzYff1DkVRQ@mail.gmail.com>
+
+There is a very nice new post by Joss Winn of the Orbital project at
+Lincoln University on using CKAN for research data management:
+
+http://orbital.blogs.lincoln.ac.uk/2012/09/06/choosing-ckan-for-research-data-management/
+
+To steal Joss's thunder slightly, he concludes "It seems odd to me
+that [CKAN] has such a low profile in academia and I do think that the
+time has come to embrace CKAN and acknowledge the efforts of OKFN more
+widely."
+
+Orbital recently decided to adopt CKAN as the basis for their RDM
+platform. More background at
+
+http://ckan.org/2012/08/20/welcome-to-orbital/
+http://orbital.blogs.lincoln.ac.uk/2012/08/17/hello-ckan/
+
+Mark
+
+-- 
+Mark Wainwright, CKAN Community Co-ordinator
+Open Knowledge Foundation http://okfn.org/
+CKAN on Twitter: @CKANproject
+
+
+From pm286 at cam.ac.uk  Thu Sep  6 14:30:41 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 6 Sep 2012 14:30:41 +0100
+Subject: [open-science] Using CKAN for research data management
+In-Reply-To: <CAHoq+O1RYbhdHzVjyMtro21TdNEH46sop+JusgMYzYff1DkVRQ@mail.gmail.com>
+References: <CAHoq+O1RYbhdHzVjyMtro21TdNEH46sop+JusgMYzYff1DkVRQ@mail.gmail.com>
+Message-ID: <CAD2k14PHn+dztk6T6jsNn5kWTwT7A7E1DXZFK_hFhk1c6+iDHg@mail.gmail.com>
+
+I would be Very happy to give a demo at the Oxford Digital Research meeting
+next week if there are some publicly available data. We have a slot which
+has been compressed in time but we are planning to do something with Open
+Biblio and this would be a very nice addendum.
+
+Is there any data in the system at present ?
+
+
+On Thu, Sep 6, 2012 at 2:01 PM, Mark Wainwright <mark.wainwright at okfn.org>wrote:
+
+> There is a very nice new post by Joss Winn of the Orbital project at
+> Lincoln University on using CKAN for research data management:
+>
+>
+> http://orbital.blogs.lincoln.ac.uk/2012/09/06/choosing-ckan-for-research-data-management/
+>
+> To steal Joss's thunder slightly, he concludes "It seems odd to me
+> that [CKAN] has such a low profile in academia and I do think that the
+> time has come to embrace CKAN and acknowledge the efforts of OKFN more
+> widely."
+>
+> Orbital recently decided to adopt CKAN as the basis for their RDM
+> platform. More background at
+>
+> http://ckan.org/2012/08/20/welcome-to-orbital/
+> http://orbital.blogs.lincoln.ac.uk/2012/08/17/hello-ckan/
+>
+> Mark
+>
+> --
+> Mark Wainwright, CKAN Community Co-ordinator
+> Open Knowledge Foundation http://okfn.org/
+> CKAN on Twitter: @CKANproject
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120906/0fc8418d/attachment.htm>
+
+From punkish at eidesis.org  Thu Sep  6 15:03:35 2012
+From: punkish at eidesis.org (Mr. Puneet Kishor)
+Date: Thu, 6 Sep 2012 07:03:35 -0700
+Subject: [open-science] at OK Festival
+Message-ID: <B84F367D-E528-4C3E-867E-7409C8A7A8F2@gmail.com>
+
+(cross posted to Open Science and OKFN Discuss lists)
+
+
+
+Dear Open Science and OKFN folks,
+
+I will be attending my first OK Festival in a few days. I am hoping to meet as many of you as possible and have one-on-one meetings to talk about how we can work together toward our common goal of making science data accessible and usable by everyone with little or no impedance. 
+
+If you are going to be in Helsinki, and are interested in a chat, long or short, with or without an espresso, please, I would love to hear from you.
+
+
+
+--
+Puneet Kishor
+
+From laura.newman at okfn.org  Thu Sep  6 18:12:36 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Thu, 6 Sep 2012 18:12:36 +0100
+Subject: [open-science] at OK Festival
+In-Reply-To: <B84F367D-E528-4C3E-867E-7409C8A7A8F2@gmail.com>
+References: <B84F367D-E528-4C3E-867E-7409C8A7A8F2@gmail.com>
+Message-ID: <CAMQ+bMaPVDp0W-jQnmvUHMpdM9n53ZdK7LhAN3YVa-h_sHcsMQ@mail.gmail.com>
+
+Hi Puneet,
+
+Your email is well-timed, because I am just arranging details of an Open
+Science themed dinner to be held as part of OKFest!
+
+This will take place on the evening of Wednesday 19th September,
+immediately following Mat Todd's keynote speech.
+
+Basically, it will be an opportunity for anyone who is interested in open
+science and open access to socialise together in a relaxed and informal
+setting. Everyone is warmly invited to attend!
+
+It would be great to see both yourself and others there. More details and a
+sign-up link at: http://science.okfnpad.org/okfest-dinner
+
+All the best,
+Laura
+
+
+
+
+On Thu, Sep 6, 2012 at 3:03 PM, Mr. Puneet Kishor <punkish at eidesis.org>wrote:
+
+> (cross posted to Open Science and OKFN Discuss lists)
+>
+>
+>
+> Dear Open Science and OKFN folks,
+>
+> I will be attending my first OK Festival in a few days. I am hoping to
+> meet as many of you as possible and have one-on-one meetings to talk about
+> how we can work together toward our common goal of making science data
+> accessible and usable by everyone with little or no impedance.
+>
+> If you are going to be in Helsinki, and are interested in a chat, long or
+> short, with or without an espresso, please, I would love to hear from you.
+>
+>
+>
+> --
+> Puneet Kishor
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120906/8e25f682/attachment.htm>
+
+From punkish at eidesis.org  Thu Sep  6 19:04:57 2012
+From: punkish at eidesis.org (Puneet Kishor)
+Date: Thu, 6 Sep 2012 11:04:57 -0700
+Subject: [open-science] at OK Festival
+In-Reply-To: <CAMQ+bMaPVDp0W-jQnmvUHMpdM9n53ZdK7LhAN3YVa-h_sHcsMQ@mail.gmail.com>
+References: <B84F367D-E528-4C3E-867E-7409C8A7A8F2@gmail.com>
+	<CAMQ+bMaPVDp0W-jQnmvUHMpdM9n53ZdK7LhAN3YVa-h_sHcsMQ@mail.gmail.com>
+Message-ID: <986B6495-01ED-48AB-993D-CAE543674EF6@eidesis.org>
+
+Thanks Laura, signed up. Look forward to seeing a bunch of folks there. 
+
+I do also want to meet up with folks one-on-one. My intent is to start a long-term conversation about how OKFN and Creative Commons can work *together* toward our common goals. Meeting folks personally is my main intent on this visit.
+
+
+On Sep 6, 2012, at 10:12 AM, Laura Newman <laura.newman at okfn.org> wrote:
+
+> Hi Puneet,
+> 
+> Your email is well-timed, because I am just arranging details of an Open
+> Science themed dinner to be held as part of OKFest!
+> 
+> This will take place on the evening of Wednesday 19th September,
+> immediately following Mat Todd's keynote speech.
+> 
+> Basically, it will be an opportunity for anyone who is interested in open
+> science and open access to socialise together in a relaxed and informal
+> setting. Everyone is warmly invited to attend!
+> 
+> It would be great to see both yourself and others there. More details and a
+> sign-up link at: http://science.okfnpad.org/okfest-dinner
+> 
+> All the best,
+> Laura
+> 
+> 
+> 
+> 
+> On Thu, Sep 6, 2012 at 3:03 PM, Mr. Puneet Kishor <punkish at eidesis.org>wrote:
+> 
+>> (cross posted to Open Science and OKFN Discuss lists)
+>> 
+>> 
+>> 
+>> Dear Open Science and OKFN folks,
+>> 
+>> I will be attending my first OK Festival in a few days. I am hoping to
+>> meet as many of you as possible and have one-on-one meetings to talk about
+>> how we can work together toward our common goal of making science data
+>> accessible and usable by everyone with little or no impedance.
+>> 
+>> If you are going to be in Helsinki, and are interested in a chat, long or
+>> short, with or without an espresso, please, I would love to hear from you.
+>> 
+>> 
+>> 
+>> --
+>> Puneet Kishor
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+> 
+> 
+> 
+> -- 
+> Laura Newman
+> Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org/
+> Skype: lauranewmanonskype
+> Twitter: @Newmanlk
+
+
+
+From gutam2000 at gmail.com  Fri Sep  7 06:22:26 2012
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Fri, 7 Sep 2012 10:52:26 +0530
+Subject: [open-science] at OK Festival
+In-Reply-To: <986B6495-01ED-48AB-993D-CAE543674EF6@eidesis.org>
+References: <B84F367D-E528-4C3E-867E-7409C8A7A8F2@gmail.com>
+	<CAMQ+bMaPVDp0W-jQnmvUHMpdM9n53ZdK7LhAN3YVa-h_sHcsMQ@mail.gmail.com>
+	<986B6495-01ED-48AB-993D-CAE543674EF6@eidesis.org>
+Message-ID: <CA+4KT3r_TvNmuT3-zXP2eB8VtNaiUU6SxSxefL2sUgkAYqbgBA@mail.gmail.com>
+
+Hi Puneet,
+
+Great to know that you would be there at OKFest... Just now I spoke with K.
+Srikanth, Bangalore who would also be present at OKFest (he would join from
+Berlin)...
+
+I am following u since a long time... now I would get an opportunity to
+meet and discuss on common issues... with reference to India - Open
+Knowledge and sharing of Materials (seeds in Open Access mode)....
+
+Waiting for the 16th Sept....
+
+Thanks
+
+Sridhar
+__________________________________________________________
+Sridhar Gutam PhD, ARS, Patent Laws (NALSAR), IP & Biotech. (WIPO)
+Senior Scientist (Plant Physiology) Central Institute for Subtropical
+Horticulture <http://www.cishlko.org>
+Joint Secretary, Agricultural Research Service Scientists'
+Forum<http://www.icar.org.in/en/node/1168>
+Convener, Open Access India <https://www.facebook.com/oaindia>
+Rehmankhera, Kakori Post
+Lucknow 227107, Uttar Pradesh, India
+Phone: +91-522-2841022/23/24; Fax: +91-522-2841025
+Mobile:+91-9005760036/8005346136
+Publications: http://works.bepress.com/sridhar_gutam/
+Google Scholar:
+http://scholar.google.co.in/citations?hl=en&user=6W1MSSwAAAAJ<http://goo.gl/EQAwr>
+<https://www.facebook.com/gutamsridhar>
+<http://www.linkedin.com/in/sridhargutam>
+<http://twitter.com/gutam2000><http://works.bepress.com/sridhar_gutam/rss.html>
+
+
+On 6 September 2012 23:34, Puneet Kishor <punkish at eidesis.org> wrote:
+
+> Thanks Laura, signed up. Look forward to seeing a bunch of folks there.
+>
+> I do also want to meet up with folks one-on-one. My intent is to start a
+> long-term conversation about how OKFN and Creative Commons can work
+> *together* toward our common goals. Meeting folks personally is my main
+> intent on this visit.
+>
+>
+> On Sep 6, 2012, at 10:12 AM, Laura Newman <laura.newman at okfn.org> wrote:
+>
+> > Hi Puneet,
+> >
+> > Your email is well-timed, because I am just arranging details of an Open
+> > Science themed dinner to be held as part of OKFest!
+> >
+> > This will take place on the evening of Wednesday 19th September,
+> > immediately following Mat Todd's keynote speech.
+> >
+> > Basically, it will be an opportunity for anyone who is interested in open
+> > science and open access to socialise together in a relaxed and informal
+> > setting. Everyone is warmly invited to attend!
+> >
+> > It would be great to see both yourself and others there. More details
+> and a
+> > sign-up link at: http://science.okfnpad.org/okfest-dinner
+> >
+> > All the best,
+> > Laura
+> >
+> >
+> >
+> >
+> > On Thu, Sep 6, 2012 at 3:03 PM, Mr. Puneet Kishor <punkish at eidesis.org
+> >wrote:
+> >
+> >> (cross posted to Open Science and OKFN Discuss lists)
+> >>
+> >>
+> >>
+> >> Dear Open Science and OKFN folks,
+> >>
+> >> I will be attending my first OK Festival in a few days. I am hoping to
+> >> meet as many of you as possible and have one-on-one meetings to talk
+> about
+> >> how we can work together toward our common goal of making science data
+> >> accessible and usable by everyone with little or no impedance.
+> >>
+> >> If you are going to be in Helsinki, and are interested in a chat, long
+> or
+> >> short, with or without an espresso, please, I would love to hear from
+> you.
+> >>
+> >>
+> >>
+> >> --
+> >> Puneet Kishor
+> >> _______________________________________________
+> >> open-science mailing list
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >>
+> >
+> >
+> >
+> > --
+> > Laura Newman
+> > Community Coordinator
+> > Open Knowledge Foundation
+> > http://okfn.org/
+> > Skype: lauranewmanonskype
+> > Twitter: @Newmanlk
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120907/4eaa603b/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Sep  7 09:35:24 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 7 Sep 2012 09:35:24 +0100
+Subject: [open-science] Fwd: Gates Foundation Grant Opportunities - New
+ Grand Challenges Explorations Topics
+In-Reply-To: <473F9803-3D36-4F75-9C99-EB466C0B8D45@cam.ac.uk>
+References: <9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01-71b2e5bb94314c72a4b924cee07ebaf9@notifications.gatesfoundation.org>
+	<473F9803-3D36-4F75-9C99-EB466C0B8D45@cam.ac.uk>
+Message-ID: <CAD2k14Macg8-xUDMwAWxq4wV6sEPOHcw0T6zz22j6YVx_mnzkQ@mail.gmail.com>
+
+Can we mash up a proposal at OKFest - this looks potentially very exciting.
+
+---------- Forwarded message ----------
+
+*From: *Bill & Melinda Gates Foundation <
+gates at notifications.gatesfoundation.org>
+*Date: *5 September 2012 19:13:32 BST
+*To: *hrnj1 at cam.ac.uk
+*Subject: **Gates Foundation Grant Opportunities - New Grand Challenges
+Explorations Topics*
+*Reply-To: *Bill & Melinda Gates Foundation <
+grandchallenges at grandchallenges.org>
+
+Dear Colleagues:
+
+The Bill & Melinda Gates Foundation is now accepting grant proposals for
+Round 10 of Grand Challenges Explorations, an initiative to encourage
+innovative and unconventional global health and development solutions.
+Applicants can be at any experience level; in any discipline; and from any
+organization, including colleges and universities, government laboratories,
+research institutions, non-profit organizations and for-profit companies.
+
+Two-page grant proposals are being accepted online until November 7, 2012
+on the following topics:
+
+* Labor Saving Innovations for Women Smallholder Farmers
+* New Approaches in Model Systems, Diagnostics, and Drugs for Specific
+Neglected Tropical Diseases
+* New Approaches for the Interrogation of Anti-malarial Compounds
+* Aid is Working. Tell the World.
+
+Initial grants will be US $100,000 each, and projects showing promise will
+have the opportunity to receive additional funding of up to US $1 million.
+Full descriptions of the topics and application instructions are available
+at: www.grandchallenges.org/gce
+
+To learn more about the Grand Challenges Explorations program and the Grand
+Challenges in Global Health program:
+
+* View our Interactive Map that gives information on 813 grants that have
+been awarded for projects in 49 countries:
+www.grandchallenges.org/Pages/GrantsMap.aspx
+* Meet the Grand Challenges community through videos at
+www.grandchallenges.org/Pages/VideoGalleries.aspx and project slideshows at
+www.grandchallenges.org/Pages/PhotoGalleries.aspx
+
+We look forward to receiving innovative ideas from around the world and
+from all disciplines. If you have a great idea, apply here:
+www.grandchallenges.org/gce. If you know someone who may have a great idea,
+please forward this message.
+
+Thank you for your commitment to solving the world's greatest health and
+development challenges.
+
+_____________________________________
+
+Guided by the belief that every life has equal value, the Bill & Melinda
+Gates Foundation works to help all people lead healthy, productive lives.
+
+
+Visit our site
+http://response.notifications.gatesfoundation.org/t?ctl=43BC2E3:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+
+Privacy Policy
+http://response.notifications.gatesfoundation.org/t?ctl=43BC2E4:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+
+Unsubscribe
+http://response.notifications.gatesfoundation.org/u?id=9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&g=http://www.gatesfoundation.org/Pages/unsubscribe.aspx
+
+PO Box 23350
+Seattle, WA. 98102
+
+(C) 1999-2012 Bill & Melinda Gates Foundation.
+All Rights Reserved.
+
+
+
+---------------------------------------------
+Dr Howard Jones
+Academic Secretary
+Department of Chemistry
+Lensfield Road
+Cambridge
+CB2 1EW
+Tel:   +44 (0)1223 336068
+Fax:  +44 (0)1223 336067
+E-mail:   hrnj1 at cam.ac.uk
+
+
+Please reply to the sender NOT the list
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120907/016ec79b/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Sep  7 10:04:21 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 7 Sep 2012 11:04:21 +0200
+Subject: [open-science] Gates Foundation Grant Opportunities - New Grand
+ Challenges Explorations Topics
+In-Reply-To: <CAD2k14Macg8-xUDMwAWxq4wV6sEPOHcw0T6zz22j6YVx_mnzkQ@mail.gmail.com>
+References: <9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01-71b2e5bb94314c72a4b924cee07ebaf9@notifications.gatesfoundation.org>
+	<473F9803-3D36-4F75-9C99-EB466C0B8D45@cam.ac.uk>
+	<CAD2k14Macg8-xUDMwAWxq4wV6sEPOHcw0T6zz22j6YVx_mnzkQ@mail.gmail.com>
+Message-ID: <CAGyWN8YYZ46-7b-qMyo7mh093J+jyA+VWedis-XiNeZDFU3Zbw@mail.gmail.com>
+
+I am all for it!
+
+Tom
+
+On Fri, Sep 7, 2012 at 10:35 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> Can we mash up a proposal at OKFest - this looks potentially very exciting.
+>
+> ---------- Forwarded message ----------
+>
+> *From: *Bill & Melinda Gates Foundation <
+> gates at notifications.gatesfoundation.org>
+> *Date: *5 September 2012 19:13:32 BST
+> *To: *hrnj1 at cam.ac.uk
+> *Subject: **Gates Foundation Grant Opportunities - New Grand Challenges
+> Explorations Topics*
+> *Reply-To: *Bill & Melinda Gates Foundation <
+> grandchallenges at grandchallenges.org>
+>
+> Dear Colleagues:
+>
+> The Bill & Melinda Gates Foundation is now accepting grant proposals for
+> Round 10 of Grand Challenges Explorations, an initiative to encourage
+> innovative and unconventional global health and development solutions.
+> Applicants can be at any experience level; in any discipline; and from any
+> organization, including colleges and universities, government laboratories,
+> research institutions, non-profit organizations and for-profit companies.
+>
+> Two-page grant proposals are being accepted online until November 7, 2012
+> on the following topics:
+>
+> * Labor Saving Innovations for Women Smallholder Farmers
+> * New Approaches in Model Systems, Diagnostics, and Drugs for Specific
+> Neglected Tropical Diseases
+> * New Approaches for the Interrogation of Anti-malarial Compounds
+> * Aid is Working. Tell the World.
+>
+> Initial grants will be US $100,000 each, and projects showing promise will
+> have the opportunity to receive additional funding of up to US $1 million.
+> Full descriptions of the topics and application instructions are available
+> at: www.grandchallenges.org/gce
+>
+> To learn more about the Grand Challenges Explorations program and the
+> Grand Challenges in Global Health program:
+>
+> * View our Interactive Map that gives information on 813 grants that have
+> been awarded for projects in 49 countries:
+> www.grandchallenges.org/Pages/GrantsMap.aspx
+> * Meet the Grand Challenges community through videos at
+> www.grandchallenges.org/Pages/VideoGalleries.aspx and project slideshows
+> at www.grandchallenges.org/Pages/PhotoGalleries.aspx
+>
+> We look forward to receiving innovative ideas from around the world and
+> from all disciplines. If you have a great idea, apply here:
+> www.grandchallenges.org/gce. If you know someone who may have a great
+> idea, please forward this message.
+>
+> Thank you for your commitment to solving the world's greatest health and
+> development challenges.
+>
+> _____________________________________
+>
+> Guided by the belief that every life has equal value, the Bill & Melinda
+> Gates Foundation works to help all people lead healthy, productive lives.
+>
+>
+> Visit our site
+>
+> http://response.notifications.gatesfoundation.org/t?ctl=43BC2E3:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+>
+> Privacy Policy
+>
+> http://response.notifications.gatesfoundation.org/t?ctl=43BC2E4:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+>
+> Unsubscribe
+>
+> http://response.notifications.gatesfoundation.org/u?id=9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&g=http://www.gatesfoundation.org/Pages/unsubscribe.aspx
+>
+> PO Box 23350
+> Seattle, WA. 98102
+>
+> (C) 1999-2012 Bill & Melinda Gates Foundation.
+> All Rights Reserved.
+>
+>
+>
+> ---------------------------------------------
+> Dr Howard Jones
+> Academic Secretary
+> Department of Chemistry
+> Lensfield Road
+> Cambridge
+> CB2 1EW
+> Tel:   +44 (0)1223 336068
+> Fax:  +44 (0)1223 336067
+> E-mail:   hrnj1 at cam.ac.uk
+>
+>
+> Please reply to the sender NOT the list
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120907/e454678e/attachment.htm>
+
+From gutam2000 at gmail.com  Fri Sep  7 10:47:24 2012
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Fri, 7 Sep 2012 15:17:24 +0530
+Subject: [open-science] Fwd: Gates Foundation Grant Opportunities - New
+ Grand Challenges Explorations Topics
+In-Reply-To: <CAD2k14Macg8-xUDMwAWxq4wV6sEPOHcw0T6zz22j6YVx_mnzkQ@mail.gmail.com>
+References: <9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01-71b2e5bb94314c72a4b924cee07ebaf9@notifications.gatesfoundation.org>
+	<473F9803-3D36-4F75-9C99-EB466C0B8D45@cam.ac.uk>
+	<CAD2k14Macg8-xUDMwAWxq4wV6sEPOHcw0T6zz22j6YVx_mnzkQ@mail.gmail.com>
+Message-ID: <CA+4KT3qsEuRtS+-bOzw-PeRk6ROPopSmWZbSOes9w_c9UHWgLQ@mail.gmail.com>
+
+Hi All,
+
+I am Agriculture Science and wish to collaborate on Labor Saving
+Innovations for Women Smallholder Farmers
+
+sridhar
+__________________________________________________________
+Sridhar Gutam PhD, ARS, Patent Laws (NALSAR), IP & Biotech. (WIPO)
+Senior Scientist (Plant Physiology) Central Institute for Subtropical
+Horticulture <http://www.cishlko.org>
+ Joint Secretary, Agricultural Research Service Scientists'
+Forum<http://www.icar.org.in/en/node/1168>
+Convener, Open Access India <https://www.facebook.com/oaindia>
+Rehmankhera, Kakori Post
+Lucknow 227107, Uttar Pradesh, India
+Phone: +91-522-2841022/23/24; Fax: +91-522-2841025
+Mobile:+91-9005760036/8005346136
+Publications: http://works.bepress.com/sridhar_gutam/
+Google Scholar:
+http://scholar.google.co.in/citations?hl=en&user=6W1MSSwAAAAJ<http://goo.gl/EQAwr>
+<https://www.facebook.com/gutamsridhar>
+<http://www.linkedin.com/in/sridhargutam>
+<http://twitter.com/gutam2000><http://works.bepress.com/sridhar_gutam/rss.html>
+
+
+On 7 September 2012 14:05, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> Can we mash up a proposal at OKFest - this looks potentially very exciting.
+>
+> ---------- Forwarded message ----------
+>
+> *From: *Bill & Melinda Gates Foundation <
+> gates at notifications.gatesfoundation.org>
+> *Date: *5 September 2012 19:13:32 BST
+> *To: *hrnj1 at cam.ac.uk
+> *Subject: **Gates Foundation Grant Opportunities - New Grand Challenges
+> Explorations Topics*
+> *Reply-To: *Bill & Melinda Gates Foundation <
+> grandchallenges at grandchallenges.org>
+>
+> Dear Colleagues:
+>
+> The Bill & Melinda Gates Foundation is now accepting grant proposals for
+> Round 10 of Grand Challenges Explorations, an initiative to encourage
+> innovative and unconventional global health and development solutions.
+> Applicants can be at any experience level; in any discipline; and from any
+> organization, including colleges and universities, government laboratories,
+> research institutions, non-profit organizations and for-profit companies.
+>
+> Two-page grant proposals are being accepted online until November 7, 2012
+> on the following topics:
+>
+> * Labor Saving Innovations for Women Smallholder Farmers
+> * New Approaches in Model Systems, Diagnostics, and Drugs for Specific
+> Neglected Tropical Diseases
+> * New Approaches for the Interrogation of Anti-malarial Compounds
+> * Aid is Working. Tell the World.
+>
+> Initial grants will be US $100,000 each, and projects showing promise will
+> have the opportunity to receive additional funding of up to US $1 million.
+> Full descriptions of the topics and application instructions are available
+> at: www.grandchallenges.org/gce
+>
+> To learn more about the Grand Challenges Explorations program and the
+> Grand Challenges in Global Health program:
+>
+> * View our Interactive Map that gives information on 813 grants that have
+> been awarded for projects in 49 countries:
+> www.grandchallenges.org/Pages/GrantsMap.aspx
+> * Meet the Grand Challenges community through videos at
+> www.grandchallenges.org/Pages/VideoGalleries.aspx and project slideshows
+> at www.grandchallenges.org/Pages/PhotoGalleries.aspx
+>
+> We look forward to receiving innovative ideas from around the world and
+> from all disciplines. If you have a great idea, apply here:
+> www.grandchallenges.org/gce. If you know someone who may have a great
+> idea, please forward this message.
+>
+> Thank you for your commitment to solving the world's greatest health and
+> development challenges.
+>
+> _____________________________________
+>
+> Guided by the belief that every life has equal value, the Bill & Melinda
+> Gates Foundation works to help all people lead healthy, productive lives.
+>
+>
+> Visit our site
+>
+> http://response.notifications.gatesfoundation.org/t?ctl=43BC2E3:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+>
+> Privacy Policy
+>
+> http://response.notifications.gatesfoundation.org/t?ctl=43BC2E4:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+>
+> Unsubscribe
+>
+> http://response.notifications.gatesfoundation.org/u?id=9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&g=http://www.gatesfoundation.org/Pages/unsubscribe.aspx
+>
+> PO Box 23350
+> Seattle, WA. 98102
+>
+> (C) 1999-2012 Bill & Melinda Gates Foundation.
+> All Rights Reserved.
+>
+>
+>
+> ---------------------------------------------
+> Dr Howard Jones
+> Academic Secretary
+> Department of Chemistry
+> Lensfield Road
+> Cambridge
+> CB2 1EW
+> Tel:   +44 (0)1223 336068
+> Fax:  +44 (0)1223 336067
+> E-mail:   hrnj1 at cam.ac.uk
+>
+>
+> Please reply to the sender NOT the list
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120907/6a0d505d/attachment.htm>
+
+From matthew.todd at sydney.edu.au  Sat Sep  8 04:56:43 2012
+From: matthew.todd at sydney.edu.au (Matthew Todd)
+Date: Sat, 8 Sep 2012 13:56:43 +1000
+Subject: [open-science] Gates Foundation Grant Opportunities - New Grand
+ Challenges Explorations Topics
+In-Reply-To: <CAGyWN8YYZ46-7b-qMyo7mh093J+jyA+VWedis-XiNeZDFU3Zbw@mail.gmail.com>
+References: <9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01-71b2e5bb94314c72a4b924cee07ebaf9@notifications.gatesfoundation.org>
+	<473F9803-3D36-4F75-9C99-EB466C0B8D45@cam.ac.uk>
+	<CAD2k14Macg8-xUDMwAWxq4wV6sEPOHcw0T6zz22j6YVx_mnzkQ@mail.gmail.com>
+	<CAGyWN8YYZ46-7b-qMyo7mh093J+jyA+VWedis-XiNeZDFU3Zbw@mail.gmail.com>
+Message-ID: <CADOXZMzo1BCfCGCEr=Ven3QWwUeSGwgAxOiK-BDQUY9Tg4Zpaw@mail.gmail.com>
+
+Guys,
+I'm at a tropical medicine conference (
+http://www.viewdocsonline.com/document/jdiio3) in London right before
+coming to Helsinki, and will try to get some information on what the call
+is really about. The malaria component is very focussed, and the NTD one
+too has nuances that make me wonder if they're looking for something quite
+specific.
+Cheers,
+Mat
+
+
+On 7 September 2012 19:04, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+
+> I am all for it!
+>
+> Tom
+>
+>
+> On Fri, Sep 7, 2012 at 10:35 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> Can we mash up a proposal at OKFest - this looks potentially very
+>> exciting.
+>>
+>> ---------- Forwarded message ----------
+>>
+>> *From: *Bill & Melinda Gates Foundation <
+>> gates at notifications.gatesfoundation.org>
+>> *Date: *5 September 2012 19:13:32 BST
+>> *To: *hrnj1 at cam.ac.uk
+>> *Subject: **Gates Foundation Grant Opportunities - New Grand Challenges
+>> Explorations Topics*
+>> *Reply-To: *Bill & Melinda Gates Foundation <
+>> grandchallenges at grandchallenges.org>
+>>
+>> Dear Colleagues:
+>>
+>> The Bill & Melinda Gates Foundation is now accepting grant proposals for
+>> Round 10 of Grand Challenges Explorations, an initiative to encourage
+>> innovative and unconventional global health and development solutions.
+>> Applicants can be at any experience level; in any discipline; and from any
+>> organization, including colleges and universities, government laboratories,
+>> research institutions, non-profit organizations and for-profit companies.
+>>
+>> Two-page grant proposals are being accepted online until November 7, 2012
+>> on the following topics:
+>>
+>> * Labor Saving Innovations for Women Smallholder Farmers
+>> * New Approaches in Model Systems, Diagnostics, and Drugs for Specific
+>> Neglected Tropical Diseases
+>> * New Approaches for the Interrogation of Anti-malarial Compounds
+>> * Aid is Working. Tell the World.
+>>
+>> Initial grants will be US $100,000 each, and projects showing promise
+>> will have the opportunity to receive additional funding of up to US $1
+>> million. Full descriptions of the topics and application instructions are
+>> available at: www.grandchallenges.org/gce
+>>
+>> To learn more about the Grand Challenges Explorations program and the
+>> Grand Challenges in Global Health program:
+>>
+>> * View our Interactive Map that gives information on 813 grants that have
+>> been awarded for projects in 49 countries:
+>> www.grandchallenges.org/Pages/GrantsMap.aspx
+>> * Meet the Grand Challenges community through videos at
+>> www.grandchallenges.org/Pages/VideoGalleries.aspx and project slideshows
+>> at www.grandchallenges.org/Pages/PhotoGalleries.aspx
+>>
+>> We look forward to receiving innovative ideas from around the world and
+>> from all disciplines. If you have a great idea, apply here:
+>> www.grandchallenges.org/gce. If you know someone who may have a great
+>> idea, please forward this message.
+>>
+>> Thank you for your commitment to solving the world's greatest health and
+>> development challenges.
+>>
+>> _____________________________________
+>>
+>> Guided by the belief that every life has equal value, the Bill & Melinda
+>> Gates Foundation works to help all people lead healthy, productive lives.
+>>
+>>
+>> Visit our site
+>>
+>> http://response.notifications.gatesfoundation.org/t?ctl=43BC2E3:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+>>
+>> Privacy Policy
+>>
+>> http://response.notifications.gatesfoundation.org/t?ctl=43BC2E4:9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&
+>>
+>> Unsubscribe
+>>
+>> http://response.notifications.gatesfoundation.org/u?id=9A21A330B2D2A4D54F2BE9C36B3768B236066002D9DB0F01&g=http://www.gatesfoundation.org/Pages/unsubscribe.aspx
+>>
+>> PO Box 23350
+>> Seattle, WA. 98102
+>>
+>> (C) 1999-2012 Bill & Melinda Gates Foundation.
+>> All Rights Reserved.
+>>
+>>
+>>
+>> ---------------------------------------------
+>> Dr Howard Jones
+>> Academic Secretary
+>> Department of Chemistry
+>> Lensfield Road
+>> Cambridge
+>> CB2 1EW
+>> Tel:   +44 (0)1223 336068
+>> Fax:  +44 (0)1223 336067
+>> E-mail:   hrnj1 at cam.ac.uk
+>>
+>>
+>> Please reply to the sender NOT the list
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>
+>
+
+
+-- 
+MATTHEW TODD | Senior Lecturer and Honours Coordinator
+School of Chemistry | Faculty of Science
+
+THE UNIVERSITY OF SYDNEY
+Rm 519, F11 | The University of Sydney | NSW | 2006
+T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+E matthew.todd at sydney.edu.au  | W
+http://sydney.edu.au/science/chemistry/research/todd.html
+
+CRICOS 00026A
+This email plus any attachments to it are confidential. Any unauthorised
+use is strictly prohibited. If you receive this email in error, please
+delete it and any attachments.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120908/f4180895/attachment.htm>
+
+From tom.olijhoek at gmail.com  Mon Sep 10 10:11:08 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Mon, 10 Sep 2012 11:11:08 +0200
+Subject: [open-science] libraries as knowledgenetworks
+Message-ID: <CAGyWN8Zjzi8VMTM6A2xLdvBK7f=eV5t+k7=WaM5XGijX4n_fXA@mail.gmail.com>
+
+Hi all,
+
+Excuse for any cross-posting, I thought this article is well worth pointing
+out:
+David weinberger  Libraries as platform
+http://lj.libraryjournal.com/2012/09/future-of-libraries/by-david-weinberger/
+
+cheers
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120910/1d8257c4/attachment.htm>
+
+From Tom_Roche at pobox.com  Tue Sep 11 01:04:17 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Mon, 10 Sep 2012 20:04:17 -0400
+Subject: [open-science] fw: [ecoinfo] Morpho 1.10.0 Released
+In-Reply-To: <9AA4F9D5-4621-4A3D-AA7F-DDB0A85860B9@nceas.ucsb.edu>
+References: <9AA4F9D5-4621-4A3D-AA7F-DDB0A85860B9@nceas.ucsb.edu>
+Message-ID: <87r4q9e872.fsf@pobox.com>
+
+
+some US activity ...
+
+From: ben leinfelder <Leinfelder at nceas.ucsb.edu>
+Date: Mon, 10 Sep 2012 16:35:06 -0700
+Subject: [ecoinfo] Morpho 1.10.0 Released
+
+> We are pleased to announce the release of Morpho 1.10.0, an
+> application for managing and sharing ecological and environmental data
+> through the creation of structured metadata (data documentation).
+> Morpho enables data sharing among scientists through Knowledge Network
+> for Biocomplexity servers. The new release of Morpho can be downloaded
+> from:
+
+> http://knb.ecoinformatics.org/morphoportal.jsp
+
+> ---------------------
+
+> Version 1.10.0 is a significant update, most notably it now supports
+> [Ecological Metadata Language] EML 2.1.1 for multi-lingual metadata
+> translations.
+
+> Other enhancements include:
+> -Fully compatible with Metacat 2.0.x versions of the metadata server
+> -More robust CSV parsing during data import
+> -Support for using special characters in query terms (accents, etc)
+> -Internationalized access control rule display
+
+> ---------------------
+
+> We hope that this software is useful to you. We welcome feedback and
+> comments that will make the application more useful in the future.
+> Please submit bugs and problems through our bug tracking system
+> (http://bugzilla.ecoinformatics.org) and send general feedback to
+> 'morpho-dev at ecoinformatics.org'.
+
+> Current development of Morpho was supported by the National Science
+> Foundation for the Semtools project (Grant #0743429), the DataONE
+> project (OCI #0830944) and by the National Center for Ecological
+> Analysis and Synthesis, a Center funded by NSF (Grant #EF-0553768),
+> the University of California, Santa Barbara, and the State of
+> California.
+
+> The Morpho Development Team
+> National Center for Ecological Analysis and Synthesis (NCEAS)
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Tue Sep 11 12:35:09 2012
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Tue, 11 Sep 2012 12:35:09 +0100
+Subject: [open-science] White paper on implementing CC0 for data in
+	peer-reviewed journals
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA062F85DF@SEGBLOGR0008.springer-sbm.com>
+
+Dear all,
+
+ 
+
+Matt Cockerill and I at BioMed Central have published in BMC Research
+Notes a detailed proposal for implementing Creative Commons CC0 for data
+published in peer-reviewed journals and are seeking responses to a
+number of proposals in the paper. The proposals include implementing
+Open Bibliography.
+
+ 
+
+Paper:
+
+http://www.biomedcentral.com/1756-0500/5/494/abstract
+
+ 
+
+And a summary including the key questions we are soliciting responses to
+is on the BMC Blog:
+
+http://blogs.biomedcentral.com/bmcblog/2012/09/10/put-the-open-in-open-d
+ata/ 
+
+ 
+
+Any help in soliciting responses - and responses - from this group would
+be greatly appreciated. I'm particularly keen to hear from the
+"unconverted".
+
+ 
+
+Questions we seek the scientific community's input on:
+- How appropriate is public domain dedication for data you (already)
+publish in journals?
+- How do you define data - what data file types do you commonly publish
+as additional files (supplementary material)?
+- How might removing legal restrictions on data sharing benefit (or
+harm) your research?
+
+ 
+
+This follows our Publishing Open Data Working Group meeting in June 2011
+(attended by a number of this group)
+http://blogs.biomedcentral.com/bmcblog/2011/08/08/report-from-the-publis
+hing-open-data-working-group-meeting-17th-june-2011/
+
+ 
+
+and draft Open Data Statement in September 2010
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/join_the_data_deb
+ate_draft 
+
+ 
+
+Feel free to contact me directly with any questions.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Publisher, Open Science
+BioMed Central
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120911/aa3ec1ae/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Sep 12 06:56:39 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 12 Sep 2012 07:56:39 +0200
+Subject: [open-science] Fwd: An Open Call: I have a brain cancer.
+In-Reply-To: <00f901cd9006$eec31be0$cc4953a0$@gmail.com>
+References: <504EFDC7.4070808@furtherfield.org>
+	<00f901cd9006$eec31be0$cc4953a0$@gmail.com>
+Message-ID: <CANQ_vu1Xf8xojuiDpre_3ZNh5RXWQami0WvnSy3QkfBsd3ov3A@mail.gmail.com>
+
+-----Original Message-----
+
+An Open Call: I have a brain cancer.
+
+"A brain cancer. Some very personal Open Data. An opportunity."
+
+http://www.artisopensource.net/cure/
+
+Salvatore Iocanesi, has put out an open call for all to grab the information
+about his disease, and create a video, an artwork, a map, a text, a poem, a
+game, or try to find a solution for his health problem.
+
+Info:
+
+Yesterday I went to get my digital medical records: I have to show them to
+many doctors.
+
+Sadly they were in a closed, proprietary format and, thus, I could not open
+them using my computer, or send them in this format to all the people who
+could have saved my life.
+
+I cracked them.
+
+I opened them and converted the contents into open formats, so that I could
+share them with everyone.
+
+Just today I have been able to share the data about my health condition
+(about my brain cancer) with 3 doctors.
+
+2 of them already replied.
+
+I have been able to do it because the data used open, accessible
+formats: they have been able to open the files using their computers, their
+tablets. They have been able to reply from home, on sunday.
+
+I will progressively publish all the replies I will receive, using open
+formats, so that anyone with my same disease will be able to benefit from
+the solutions I will find.
+
+This is a CURE. This is my OPEN SOURCE CURE.
+
+This is an open invitation to take part in the CURE.
+
+CURE, in different cultures, means different things.
+
+There are cures for the body, for spirit, for communication.
+
+Grab the information about my disease, if you want, and give me a CURE:
+create a video, an artwork, a map, a text, a poem, a game, or try to find a
+solution for my health problem.
+
+Artists, designers, hackers, scientists, doctors, photographers,
+videomakers, musicians, writers. Anyone can give me a CURE.
+
+Create your CURE using the content which you find in the DATI/DATA section
+here on this site, and send it to info at artisopensource.net.
+
+All CURES will be displayed here.
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From jonathan.gray at okfn.org  Wed Sep 12 22:26:00 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 12 Sep 2012 23:26:00 +0200
+Subject: [open-science] [Open-access] BOAI10 - Recommendations for Open
+	Access
+In-Reply-To: <3613DBB1-CA96-4638-914F-A79C7B9E8924@cameronneylon.net>
+References: <3613DBB1-CA96-4638-914F-A79C7B9E8924@cameronneylon.net>
+Message-ID: <CANQ_vu2V++cZFf0iXaBNdtyrq3iFgWUNGtNspqF74G9pTPXvwQ@mail.gmail.com>
+
+Very exciting news!
+
+We've just blogged about this here:
+
+http://blog.okfn.org/2012/09/12/new-open-access-recommendations-ten-years-on-from-budapest-open-access-initiative/
+
+All the best,
+
+Jonathan
+
+On Wed, Sep 12, 2012 at 6:02 PM, cameronneylon.net <cn at cameronneylon.net> wrote:
+> From Melissa Hagemann at the Open Society Foundations:
+>
+> Dear friends,
+>
+> The BOAI10 Recommendations will be released at 11am EDT. Here are the
+> relevant links:
+>
+> Press Release for BOAI10 Recommendations
+> http://www.soros.org/press-releases/scientists-foundations-libraries-universities-and-advocates-unite-and-issue-new
+>
+> Ten years on from the Budapest Open Access Initiative: setting the default
+> to open (2012)
+> http://www.soros.org/openaccess/boai-10-recommendations
+>
+> BOAI10 Meeting Participants
+> http://www.soros.org/openaccess/participants
+>
+> BOAI10 Translations (so far we have three with three more to come soon)
+> http://www.soros.org/openaccess/boai-10-translations
+>
+> Budapest Open Access Initiative (2002)
+> http://www.soros.org/openaccess/read
+>
+> I?ve also pasted a plain copy of the release below if this is easier to
+> share with discussion forums. Please circulate the release to your press
+> contacts and through your social networks. Also, please let me know if you
+> see anything that needs fixing!
+>
+> This has been a long journey and we would like to thank all of your hard
+> work!!
+>
+> All the best,
+> Melissa
+>
+> ********************
+>
+> FOR IMMEDIATE RELEASE: September 12, 2012
+>
+> CONTACT: Andrea Higginbotham, SPARC, andrea at arl.org; 202-296-2296
+> Amy Weil, Open Society Foundations, aweil at sorosny.org; 212-548-0381
+>
+> Scientists, Foundations, Libraries, Universities, and Advocates Unite and
+> Issue New Recommendations to Make Research Freely Available to All Online
+>
+> WASHINGTON -- In response to the growing demand to make research free and
+> available to anyone with a computer and an internet connection, a diverse
+> coalition today issued new guidelines
+> (http://www.soros.org/openaccess/boai-10-recommendations) that could usher
+> in huge advances in the sciences, medicine, and health.
+>
+> The recommendations were developed by leaders of the Open Access movement
+> (http://www.soros.org/openaccess/participants), which has worked for the
+> past decade to provide the public with unrestricted, free access to
+> scholarly research?much of which is publicly funded. Making the research
+> publicly available to everyone?free of charge and without most copyright and
+> licensing restrictions?will accelerate scientific research efforts and allow
+> authors to reach a larger number of readers.
+>
+> ?The reasons to remove restrictions as far as possible are to share
+> knowledge and accelerate research. Knowledge has always been a public good
+> in a theoretical sense. Open Access makes it a public good in practice,?
+> said professor Peter Suber, director of the Open Access Project at Harvard
+> University and a senior researcher at SPARC (The Scholarly Publishing and
+> Academic Resources Coalition).
+>
+> The Open Access recommendations include the development of Open Access
+> policies in institutions of higher education and in funding agencies, the
+> open licensing of scholarly works, the development of infrastructure such as
+> Open Access repositories and creating standards of professional conduct for
+> Open Access publishing. The recommendations also establish a new goal of
+> achieving Open Access as the default method for distributing new
+> peer-reviewed research in every field and in every country within ten years?
+> time.
+>
+> ?Science and scholarship are activities funded from the public purse because
+> society believes they will lead to a better future in terms of our health,
+> environment, and culture,? said Heather Joseph, executive director of SPARC.
+> ?Anything that maximises the efficacy and efficiency of research benefits
+> every one of us. Open Access is a major tool in that quest. These new
+> recommendations will underpin future developments in communicating the
+> results of research over the next decade.?
+>
+> Today, Open Access is increasingly recognized as a right rather than an
+> abstract ideal. The case for rapid implementation of Open Access continues
+> to grow. Open Access benefits research and researchers; increases the return
+> to taxpayers on their investment in research; and amplifies the social value
+> of research, funding agencies, and research institutions.
+>
+> The Open Access recommendations are the result of a meeting hosted earlier
+> this year by the Open Society Foundations, on the tenth anniversary of the
+> landmark Budapest Open Access Initiative
+> (http://www.soros.org/openaccess/read), which first defined Open Access.
+>
+> ?Foundations rarely have the good fortune to be actively present at the
+> birth of a world-wide movement that fundamentally changes the rules of the
+> game and provides immediate benefit to the world,? said Istv?n R?v, director
+> of the Open Society Archives and a member of the Open Society Foundations
+> Global Board. ?This is what happened when the Open Society Foundations
+> initiated a meeting at the end of 2001 that gave birth to the Open Access
+> movement.?
+>
+> ###
+>
+> SPARC (Scholarly Publishing and Academic Resources Coalition), with SPARC
+> Europe and SPARC Japan, is an international alliance of more than 800
+> academic and research libraries working to create a more open system of
+> scholarly communication. SPARC?s advocacy, educational, and publisher
+> partnership programs encourage expanded dissemination of research. SPARC is
+> on the Web at http://www.arl.org/sparc.
+>
+> The Open Society Foundations work to build vibrant and tolerant democracies
+> whose governments are accountable to their citizens. Working with local
+> communities in more than 100 countries, the Open Society Foundations support
+> justice and human rights, freedom of expression, and access to public health
+> and education. The Open Society Foundations is on the Web at
+> http://www.soros.org.
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From pm286 at cam.ac.uk  Wed Sep 12 23:21:27 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 12 Sep 2012 23:21:27 +0100
+Subject: [open-science] [Open-access] BOAI10 - Recommendations for Open
+	Access
+In-Reply-To: <CANQ_vu2V++cZFf0iXaBNdtyrq3iFgWUNGtNspqF74G9pTPXvwQ@mail.gmail.com>
+References: <3613DBB1-CA96-4638-914F-A79C7B9E8924@cameronneylon.net>
+	<CANQ_vu2V++cZFf0iXaBNdtyrq3iFgWUNGtNspqF74G9pTPXvwQ@mail.gmail.com>
+Message-ID: <CAD2k14O3Cq96ttz4unhhbVYhzfTG9G_BE9mdkUMmbq6vyczGXA@mail.gmail.com>
+
+This is tremendous. (I'm not dreaming?) They have reasserted the centrality
+of BOAI. This is exactly what is required - everything else follows. This
+is the only effective definition of OA libre.
+
+And I have spent a whole day having to challenge Stevan Harnad at the
+Digital Research 2012 meeting (and, immodestly) I think the proper BOAI
+approach prevailed.
+
+Maybe the OKF should create something that helps reinforce the BOAI
+declaration.
+
+BTW I am continuing to pickup vibes that Panton, Open Biblio principles and
+Open Content Manifesto are gathering interest. Perhaps we should package
+these with OKD and promote the universality of the philosophy. Sophie K has
+made Panton postcards and maybe we could create siblilngs where we list the
+various definitions
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120912/e9f6e277/attachment.htm>
+
+From cwiljes at cit-ec.uni-bielefeld.de  Fri Sep 14 12:49:29 2012
+From: cwiljes at cit-ec.uni-bielefeld.de (Cord Wiljes)
+Date: Fri, 14 Sep 2012 13:49:29 +0200
+Subject: [open-science] CFP 10th ESWC 2013 - Semantics and Big Data -
+	Montpellier, France.
+In-Reply-To: <505318BB.7070806@cit-ec.uni-bielefeld.de>
+References: <505318BB.7070806@cit-ec.uni-bielefeld.de>
+Message-ID: <505319C9.9010900@cit-ec.uni-bielefeld.de>
+
+10th ESWC 2013 -- Semantics and Big Data
+May 26-30, 2013, Montpellier, France.
+http://2013.eswc-conferences.org/
+
+General Chair:
+Philipp Cimiano (Bielefeld University, DE)
+
+Program Chairs
+Valentina Presutti (STLab, ISTC-CNR, IT)
+Oscar Corcho (UPM, ES)
+
+==== *Call for Papers* ====
+
+ESWC is the premier European-based annual conference for researchers and practitioners in the field of semantic technologies. ESWC is the ideal venue for the discussion of the latest scientific insights and novel applications of semantic technologies.
+
+The leading motto of the 10th edition of ESWC will be "Semantics and Big Data". A crucial challenge that will guide the efforts of many scientific communities in the years to come is the one of making sense of large volumes of heterogeneous and complex data. Application-relevant data often has to be processed in real time and originates from diverse sources such as Linked Data, text and speech, images, videos and sensors, communities and social networks, etc. ESWC, with its focus on semantics, can offer an important contribution to global challenge.
+
+ESWC 2013 will feature nine thematic research tracks (see below) as well as an in-use and industrial track. In line with the motto "Semantics and Big Data", the conference will feature a special track on "Semantic Technologies for Big Data Analytics in Real Time". In order to foster the interaction with other disciplines, this year's edition will also feature a special track on "Cognition and Semantic Web".
+
+For the research and special tracks, we welcome the submission of papers describing theoretical, analytical, methodological, empirical, and application research on semantic technologies. For the In-Use and Industrial track we solicit the submission of papers describing the practical exploitation of semantic technologies in different domains and sectors. Submitted papers should describe original work, present significant results, and provide rigorous, principled, and repeatable evaluation. We strongly encourage and appreciate the submission of papers including links to data sets and other material used for the evaluation as well as to live demos or source code for tool implementations.
+
+Submitted papers will be judged based on originality, awareness of related work, potential impact on the Semantic Web field, technical soundness of the proposed methods, and readability. Each paper will be reviewed by at least three program committee members in addition to one track chair. This year a rebuttal phase has been introduced in order to give authors the opportunity to provide feedback to reviewers' questions. The authors' answers will support reviewers and track chairs in their discussion and in taking final decisions regarding acceptance.
+
+** Important Dates (11:59pm Hawaii Time) **
+
+Abstract submission: December 5th, 2012
+Full paper submission: December 12th, 2012
+Authors' rebuttals: February 11th-12th, 2013
+Acceptance Notification: February 22nd, 2013
+Camera ready: March 9th, 2013
+Conference: May 26th-30th, 2013
+
+** Submission information **
+
+All papers and abstracts have to be submitted via the conference submission page:https://www.easychair.org/conferences/?conf=eswc2013
+Each submitted paper must be associated with one of the available tracks.
+Abstract submission is a strict requirement.
+
+Papers will be published by Springer in the  Lecture Notes in Computer Science (LNCS) series. Papers must be in English, should not exceed fifteen (15) pages in length and must be formatted according to the LNCS guidelines. More information about Springer's LNCS series are available on the Springer LNCS Web site. Papers must be submitted in PDF (Adobe's Portable Document Format) format and will not be accepted in any other format. Papers that exceed 15 pages or do not follow the LNCS guidelines can be rejected automatically without a review.
+
+Authors of accepted papers will be required to provide semantic annotations for the abstract of their submission at the time of acceptance. At least one author of each accepted paper must register for the conference and present the paper there.
+  
+All tracks and associated chairs are listed below. Additional information, track descriptions, and list of topics of interest can be found on the conference web site:http://2013.eswc-conferences.org/.
+
+
+** ESWC 2013 Research Tracks **
+
+Ontologies
+Chairs
+	Aldo Gangemi (LIPN-Paris 13-Sorbonne Cit?, FR and STLab ISTC-CNR, IT)
+	Eva Blomqvist (Link?ping University, SE)
+
+Reasoning
+Chairs
+	Pascal Hitzler (Wright State University Dayton, Ohio-USA)
+	Luciano Serafini (FBK, Trento, IT)
+
+Linked Open Data
+Chairs
+	Jun Zhao (University of Oxford, UK)
+	Jens Lehmann (University of Leipzig, DE)
+
+Semantic Data Management
+Chairs
+	Mar?a Esther Vidal (Universidad Sim?n Bolivar, Venezuela)
+	Axel Polleres (Siemens AG ?sterreich, AT)
+
+Social Web and Web Science
+Chairs
+	Marta Sabou (MODUL University Vienna, AT)
+	Andreas Hotho (University of W?rzburg, DE)
+
+Natural Language Processing and Information Retrieval
+Chairs
+	Alfio Gliozzo (IBM Watson Research Center, USA)
+	Malvina Nissim (University of Bologna, IT)
+
+Machine Learning
+Chairs
+	Claudia d'Amato (University of Bari, IT)
+	Dunja Mladenic (J. Stefan Institute Ljubljana, SI)
+
+Mobile Web, Sensors and Semantic Streams
+Chairs
+	Josiane Parreira (DERI, IR)
+	Payam Barnaghi (University of Surrey, UK)
+
+Services, Processes and Cloud Computing
+Chairs
+	Terry Payne (University of Liverpool, UK)
+	Jos? Luis Ambite (University of Southern California, US)
+
+** ESWC 2013 In-use & Industrial Track **
+
+Chairs
+	Sofia Angeletou (BBC, UK)
+	Jos? Manuel G?mez-P?rez (iSOCO, ES)
+	
+** ESWC 2013 Special Tracks **
+
+Semantic Web for Big Data Analytics in Real Time
+Chair
+	S?ren Auer (University of Leipzig, DE)
+	TBA
+
+Cognition and Semantic Web
+Chairs	
+	Krzysztof Janowicz (University of California, USA)
+	Kai-Uwe Kuehnberger (University of Osnabr?ck, DE)
+
+For more detailed information, please visit the conference website:http://2013.eswc-conferences.org/
+
+
+
+From ross.mounce at gmail.com  Sun Sep 16 00:42:11 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Sun, 16 Sep 2012 00:42:11 +0100
+Subject: [open-science] at OK Festival
+In-Reply-To: <CAMQ+bMaPVDp0W-jQnmvUHMpdM9n53ZdK7LhAN3YVa-h_sHcsMQ@mail.gmail.com>
+References: <B84F367D-E528-4C3E-867E-7409C8A7A8F2@gmail.com>
+	<CAMQ+bMaPVDp0W-jQnmvUHMpdM9n53ZdK7LhAN3YVa-h_sHcsMQ@mail.gmail.com>
+Message-ID: <CAJr+OEz7ZC4egVgs8zb5PVE3rnS4QD9REowaFpYCAowFgcQSnQ@mail.gmail.com>
+
+Anyone fancy informally doing an Open Science Sauna?
+
+I'm intrigued by the http://www.opensauna.org/ idea, but don't quite get
+how it works.
+Perhaps we could all just arrange to meet at a particular sauna and time
+ourselves?
+
+I believe most Finnish saunas are strictly separate sexes(???), so we might
+need to make sure we have enough of each gender (hence I'm specifically
+pinging Laura, Jenny and Sophie [hi!], my girlfriend Avril is very much up
+for sauna-ing too).
+
+Is anyone interested in that idea?
+
+Best,  (and very much looking forward to Helsinki!)
+
+Ross
+
+PS for music fans, I've earmarked Thursday night for an indie gig at one of
+Helsinki's most famous venues, Tavastia:
+http://www.tavastiaklubi.fi/tapahtuma/23654 14EUR entry on the door :)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120916/ae355071/attachment.htm>
+
+From jenny.molloy at okfn.org  Mon Sep 17 22:31:00 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 17 Sep 2012 22:31:00 +0100
+Subject: [open-science] Hack 4 Health - 4 Nov, London
+Message-ID: <CABPM+wrYcTSmjO=Utp4r4R1+CnxkHrsEEt0UMkV+8drw4DddNg@mail.gmail.com>
+
+Hi All
+
+Some of you may be interested in participating in the Hack 4 Health
+http://hack4health.co.uk/ co-organised by OKFN - more details below!
+At previous hackdays open science working group members have worked on Open
+Research Reports, collating healthcare and biomedical publications and data
+for different audiences, including patient groups. If anyone would like to
+continue working on this or has different ideas and would like to form a
+team, get in touch with the list!
+
+Jenny
+
+Hack4Health is a weekend long hackathon for entrepreneurs and developers to
+work with some of the latest health datasets and develop innovative new
+products taking place from Friday 2nd November through to Sunday 4th
+November 2012 at Google Campus.
+
+Attendees will be provided with space, food and fellow health enthusiasts
+and will spend the whole weekend working on any project you choose (with a
+health focus of course!), mingling with existing digital health startups,
+leading industry representatives and mentors throughout.
+
+The weekend closes with the opportunity for teams to pitch their project to
+a panel of experts, with fabulous prizes being awarded to the best teams
+and the overall winner presenting their project at the launch of the Open
+Data Institute to Tim Berners-Lee.
+
+Hack4Health aims to highlight some of the newest digital innovations
+happening in health while also highlighting the possibilities of open data.
+The weekend is being jointly organised by Coadec, Healthbox, Open Data
+Institute, NHS, Cabinet Office and the Open Knowledge Foundation.
+
+Spaces will fill up quickly, so subscribe to the mailing list using the
+link below to be informed as soon tickets are available or email info [at]
+hack4health [dot] co [dot] uk.
+
+
+ <http://eepurl.com/podjD>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120917/b442cdf0/attachment.htm>
+
+From laura.newman at okfn.org  Wed Sep 19 07:48:51 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Wed, 19 Sep 2012 07:48:51 +0100
+Subject: [open-science] Live streaming from OKFest
+Message-ID: <CAMQ+bMbrCC7UFq_Vq-PJ3y4=rWw8y200Q-Eh0pu+jgRdkuzHnA@mail.gmail.com>
+
+Hi all,
+
+For those of you not lucky enough to be at OKFest in person, science events
+are being live-streamed today!
+
+See: http://okfestival.org/streams/
+
+The first three sessions will take place in Aalto Pro, and the final
+Keynote is in the Inspire Auditorium. All times are Finnish local time (GMT
++3).
+
+Do feel free to log in!
+
+All the best,
+Laura
+
+
+
+Session 1: 11:30-13:00, Aalto Pro. Introductions, Lightning Talks &
+Communicating Science
+Paul Ylioja (University of Sydney), Johanna Lilja (Federation of Finnish
+Learned Societies), Daniel Mietchen (OKFN DE, Wikimedian in Residence)
+
+Session 2: 14:00-15:30, Aalto Pro. Open Access in Pratice - How?
+Tim Hubbard (Sanger Institute), Carlos Rossel (World Bank), Tom Olijhoek &
+Mark MacGillivray (Open Access Index), Ross Mounce (OKFN Panton Fellow).
+
+Session 3: 16:00-17:30, Aalto Pro. Access to Raw Data from Experiments &
+OKFN Panton Fellows
+Mark Hahnel (Figshare), Mark Wainwright (CKAN), Joss Winn (Orbital)
+
+Session 4: KEYNOTE, 18:00-19:30, Inspire Auditorium. Open Source Drug
+Discovery
+Mat Todd (University of Helsinki)
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120919/b18d99b0/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Sep 19 16:11:26 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 19 Sep 2012 16:11:26 +0100
+Subject: [open-science] #OKFest Open Drug Discovery Keynote
+Message-ID: <CABPM+woFVgTursggN4TnXcwnN1TToJVQmGbogQO-YswO37AF9Q@mail.gmail.com>
+
+Hi All
+
+Just a note that Mat Todd's keynote on Open Source Drug Discovery is now in
+progress, you can follow online on the Inspire Auditorium stream
+http://okfestival.org/streams/
+Video will also be available online after the talk.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120919/9b83e7c0/attachment.htm>
+
+From laura.newman at okfn.org  Thu Sep 20 09:41:04 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Thu, 20 Sep 2012 09:41:04 +0100
+Subject: [open-science] OKFest today
+Message-ID: <CAMQ+bMYOq7R2XxVCaM78FZ+x0RxU6ZZ3+ERz3qfJEJnKYp5yMA@mail.gmail.com>
+
+Hi,
+
+For those of you streaming in from afar, a session on crowdsourcing data
+for development is kicking off right now. This is a collaborative effort
+from the Open Science and Open Development stream, and is already off to a
+great start!
+
+Live-stream here: http://okfestival.org/streams/inspire-meeting-room/
+
+Plus a big event of today is the interactive discussion with Carl-Christian
+Buhr from the cabinet of Neelie Kroes at the European Commission. That will
+take place at 4pm in Helsinki (UTC+3).
+
+It will be live-streamed here: http://okfestival.org/streams/meet-8th-floor/
+
+I am trying to stay on top of Twitter. If you're streaming in and want to
+tweet at me (@Newmanlk), I can try to ask questions on your behalf! Other
+people to follow for news and updates include @jenny_molloy,
+@petermurrayrust, @rmounce and @scilib.
+
+More soon! :)
+
+Laura
+
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120920/627e73b2/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Sep 20 09:44:14 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 20 Sep 2012 10:44:14 +0200
+Subject: [open-science] [Open-access] OKFest today
+In-Reply-To: <CAMQ+bMYOq7R2XxVCaM78FZ+x0RxU6ZZ3+ERz3qfJEJnKYp5yMA@mail.gmail.com>
+References: <CAMQ+bMYOq7R2XxVCaM78FZ+x0RxU6ZZ3+ERz3qfJEJnKYp5yMA@mail.gmail.com>
+Message-ID: <CANQ_vu1HRt9_gir4vRo0VsiYUcM2zVyja-eXeCv8nEJ+9D6z7A@mail.gmail.com>
+
+Thanks Laura!
+
+If you have a chance, it would be great discuss possible ideas for
+what we could do for Open Access Week 2012 in October. ;-)
+
+http://www.openaccessweek.org/
+
+J.
+
+On Thu, Sep 20, 2012 at 10:41 AM, Laura Newman <laura.newman at okfn.org> wrote:
+> Hi,
+>
+> For those of you streaming in from afar, a session on crowdsourcing data for
+> development is kicking off right now. This is a collaborative effort from
+> the Open Science and Open Development stream, and is already off to a great
+> start!
+>
+> Live-stream here: http://okfestival.org/streams/inspire-meeting-room/
+>
+> Plus a big event of today is the interactive discussion with Carl-Christian
+> Buhr from the cabinet of Neelie Kroes at the European Commission. That will
+> take place at 4pm in Helsinki (UTC+3).
+>
+> It will be live-streamed here: http://okfestival.org/streams/meet-8th-floor/
+>
+> I am trying to stay on top of Twitter. If you're streaming in and want to
+> tweet at me (@Newmanlk), I can try to ask questions on your behalf! Other
+> people to follow for news and updates include @jenny_molloy,
+> @petermurrayrust, @rmounce and @scilib.
+>
+> More soon! :)
+>
+> Laura
+>
+>
+>
+>
+> --
+> Laura Newman
+> Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org/
+> Skype: lauranewmanonskype
+> Twitter: @Newmanlk
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From cwiljes at cit-ec.uni-bielefeld.de  Thu Sep 20 12:19:40 2012
+From: cwiljes at cit-ec.uni-bielefeld.de (Cord Wiljes)
+Date: Thu, 20 Sep 2012 13:19:40 +0200
+Subject: [open-science] Call for Tutorials - 10th ESWC 2013 - Semantics and
+ Big Data - May 26-30, 2013 - Montpellier, France.
+In-Reply-To: <507830934.1088486.1348073917696.JavaMail.root@inria.fr>
+References: <507830934.1088486.1348073917696.JavaMail.root@inria.fr>
+Message-ID: <505AFBCC.7030604@cit-ec.uni-bielefeld.de>
+
+10th ESWC 2013 -- Semantics and Big Data
+May 26-30, 2013. Montpellier, France.
+http://2013.eswc-conferences.org/
+
+==== Call for Tutorials ====
+
+ESWC 2013 invites tutorials that address the interests of its varied audience: people new to the Semantic Web, Semantic Web researchers and practitioners that wish to learn new technologies, users of Semantic Web technologies, and representatives of government and funding agencies as well as potential private investors in Semantic Web technologies. We welcome submissions of tutorial proposals on all major topics related to semantic technologies.
+
+We especially solicit proposals for tutorials of the following types:
+
+- Tutorials with a coherent theme providing an introduction to new semantic technologies and trends.
+- Tutorials describing the application of semantic technologies in specific domains (e.g., life-sciences, e-government, e-commerce etc.).
+- Tutorials presenting techniques from other research fields that are of relevance for Semantic Web research especially in relationship to the tracks of the conference (e.g., techniques from social science, database techniques, NLP techniques etc.).
+
+Tutorials can be half a day or a full day.
+
+We advise having more than one presenter and no more than three, preferably from different institutions, bringing different perspectives to the workshop topic.
+
+Tutorials may focus entirely on theoretical aspects; however, we encourage organisers to incorporate hands-on sessions where appropriate. The tutorials should reach a good balance between the topic coverage and its relevance to the community.	
+
+Timeline for Tutorials
+----------------------
+Proposals due: Nov 23, 2012 - 23:59 Hawaii Time
+Notification of acceptance: Dec 7, 2012 - 23:59 Hawaii Time
+Tutorial Web site due: Dec 17, 2012 - 23:59 Hawaii Time
+Camera-ready material due: Apr 29, 2013 - 23:59 Hawaii Time
+Tutorial days: May 26 and May 27, 2013
+
+Responsibilities
+----------------
+Organizers of accepted tutorials are responsible for preparing and maintaining a Web site that describes the tutorial and includes all relevant information. Organizers are also responsible for submitting the material to be given to attendees (slide sets, additional teaching material, software installation and usage guides for practical hands-on sessions, etc.) to the Tutorial Chair. The ESWC 2013 Organizing Committee is responsible for providing publicity for the tutorials as part of the conference publicity activities, and on-site logistical support to the organizers and attendees.
+
+General Information
+-------------------
+Organizers of workshops and tutorials will get a free registration for workshop and tutorials, i.e. they will only have to pay the main conference fees. Further, each workshop or tutorial that attracts more than 15 registered participants (excluding the organizers) will get one full registration for the conference. This registration can be used for example to pay for an invited speaker.
+
+Submission details
+------------------
+Tutorial proposals should not exceed 5 pages, using an 11 pt font for the body of the text of the proposal and should contain the following information:
+
+- Abstract (200 words maximum, for inclusion on the ESWC 2013 website).
+         
+- Tutorial description: More specifically, it should specify the objectives of the tutorial and relevance to ESWC 2013, include enough details on the scope of the material to be covered and the depth to which it will be covered and specify the intended audience and any prerequisite knowledge. Appropriate references to the material to be covered by the tutorial must be included.
+
+- Tutorial length. The tutorial can be full or half day (if the tutorial can be either length, please be sure to identify which material is included for each length).
+         
+- Specify other venues to which the tutorial or part thereof has or will be presented, in addition to explaining how the current tutorial differs from the other editions. Links to the slides of those tutorial editions should be included in the proposal.
+         
+- Brief professional biography of the presenter(s) indicating previous training and speaking experience (such as teaching and tutorial presentation).
+
+Each proposal will be reviewed by the members of the tutorial programme committee, and ranked based on the overall quality of the proposal and the tutorial's fit to the conference. Their recommendation will determine the final decision on the acceptance/rejection of each proposal.
+
+Submission
+----------
+
+Submission will be through the Easychair system: https://www.easychair.org/conferences/?conf=eswc2013tutorials
+
+
+Programme Committee
+-------------------
+Avi Bernstein
+Carole Goble
+Craig Knoblock
+Marko Grobelnik
+Pascal Hitzler
+S?ren Auer
+Tom Heath
+
+
+Tutorials Chair
+---------------
+Stefan Schlobach
+
+
+
+
+
+
+From cwiljes at cit-ec.uni-bielefeld.de  Thu Sep 20 12:20:41 2012
+From: cwiljes at cit-ec.uni-bielefeld.de (Cord Wiljes)
+Date: Thu, 20 Sep 2012 13:20:41 +0200
+Subject: [open-science] Call for Workshops - 10th ESWC 2013 - Semantics and
+ Big Data - May 26-30, 2013 - Montpellier, France.
+In-Reply-To: <505AFB6C.5090901@cit-ec.uni-bielefeld.de>
+References: <505AFB6C.5090901@cit-ec.uni-bielefeld.de>
+Message-ID: <505AFC09.8010507@cit-ec.uni-bielefeld.de>
+
+10th ESWC 2013 -- Semantics and Big Data
+May 26-30, 2013. Montpellier, France.
+http://2013.eswc-conferences.org/
+
+==== Call for Workshops ====
+
+The organizers the 10th ESWC cordially invite you to submit a workshop proposal. ESWC is a major venue for discussing the latest scientific results and innovations in the field of Semantic Web technologies.
+
+Co-located workshops at ESWC conferences are distinguished meeting points for discussing ongoing work and latest ideas related to semantics and the Semantic Web. Of particular interest are workshop proposals with an interdisciplinary standpoint, proposals focusing on a specific technology of general interest, or gathering a sub-community. We encourage the submission of workshop proposals on:
+
+- Fundamental problems of the semantic web such as heterogeneity, scalability and distribution,
+- Applications of Semantic Web technologies in specific domains,
+- Important enabling technologies and their adaptation to the needs of the Semantic Web, and
+- Aspects of Semantic Web research that have been neglected so far.
+
+*** General Information and Criteria ***
+
+Each proposal will be reviewed by the members of the workshop programme committee, and ranked based on the overall quality of the proposal and the workshop's fit to the conference as detailed below. Their recommendation will determine the final decision on the acceptance/rejection of each proposal, which is to be taken by the workshop and tutorial chairs as well as by the local and the general chair of ESWC 2013.
+
+The criteria for judging the quality of workshop proposals are as follows:
+
+- Co-located workshops cover topics falling in the general scope of the ESWC conference (refer to http://www.eswc-conferences.org).
+- Workshops are intended to be genuine interactive events and not mini-conferences.
+- We welcome workshops with creative structures and organizations that attract various types of contributions and ensure rich interactions.
+- They are clearly focused.
+- There is potentially a significant community interested in the workshop's topic.
+- Workshop duration can be half a day or a full day.
+- We advise having more than one organizer and no more than four, preferably from different institutions, bringing different perspectives to the workshop topic.
+
+In case overlapping workshops are proposed, the workshop chair may contact the organisers to discuss the possibility of merging workshops. Please note that the duration of a workshop might need to be adjusted based on the overall number of submissions received. Further, workshops that receive less than 5 submissions or have less than 10 people registered at the early registration deadline might be canceled.
+
+The organizers of accepted workshops will be responsible for their own reviewing process, publicity (e.g., website and call for papers), and proceedings production. They will be required to closely cooperate with the Workshop Chair and the ESWC 2013 local organizers to finalize all organizational details. Workshop attendees must pay the ESWC 2013 workshop registration fee, as well as the conference registration fee.
+
+Organizers of workshops and tutorials will get a free registration for workshop and tutorials, i.e. they will only have to pay the main conference fees.
+Further, each workshop or tutorial that attracts more than 15 registered participants (excluding the organizers) will get one full registration for the conference. This registration can be used for example to pay for an invited speaker.
+
+*** Submission Guidelines ***
+
+Workshop proposals have to be submitted via Easychair (https://www.easychair.org/conferences/?conf=eswc2013workshops). Each proposal must consist of a single PDF document, not longer than 3 pages, which contains the following information:
+
+1. The title and brief technical description of the workshop, specifying its goals and motivation.
+2. A brief discussion of why the topic is of particular interest at this time.
+3. A brief description of why and to whom the workshop is of interest, the workshop audience, as well as the expected number of participants.
+4. A brief description (draft outline) of the proposed workshop format, discussing the mix of events such as paper presentations, invited talks, panels, hacking session, or general discussion.
+5. A list of (potential) members of the program committee (at least 50% have to be known and confirmed at the time of the proposal).
+6. An indication of whether the workshop should be considered for a half-day or full-day event.
+7. If there have been previous editions of the workshop, their short description, including URLs as well as some statistics about submissions and acceptance rate, plus number of participants.
+8. The names and contact information (web page, email address) of the proposed organizing committee and short description of their relevant experience. Preferably a single contact person per submission.
+
+The best papers of each workshop will be included in the supplementary proceedings of ESWC 2013, which will appear in the Springer LNCS series.
+
+*** Workshop Chair ***
+
+Johanna V?lker (University of Mannheim, DE)
+voelker at informatik.uni-mannheim.de
+
+*** Programme Committee ***
+
+Chris Bizer (University of Mannheim, DE)
+Dieter Fensel (University of Innsbruck, AT)
+Aldo Gangemi (CNR Institute of Cognitive Sciences and Technology, IT)
+Asuncion Gomez-Perez (Universidad Polit?cnica de Madrid, ES)
+Frank van Harmelen (VU University Amsterdam, NL)
+Pascal Hitzler (Kno.e.sis Center, Wright State University, Dayton, US)
+Enrico Motta (The Open University, Milton Keynes, UK)
+
+*** Important Dates ***
+
+Workshop proposals due: Nov 23, 2012 - 23:59 Hawaii Time
+Notification of acceptance: Dec 7, 2012 - 23:59 Hawaii Time
+Workshop Web site due: Dec 17, 2012 - 23:59 Hawaii Time
+Workshop camera-ready proceedings due: Apr 29, 2013 - 23:59 Hawaii Time
+Workshop days: May 26 and May 27, 2013
+
+*** Suggested Timeline for Workshops ***
+
+Submission deadline: March 4, 2013
+Notifications: April 1, 2013
+Camera ready version: April 15, 2013
+
+
+
+
+From matthew.todd at sydney.edu.au  Thu Sep 20 12:23:22 2012
+From: matthew.todd at sydney.edu.au (Matthew Todd)
+Date: Thu, 20 Sep 2012 21:23:22 +1000
+Subject: [open-science] open data week?
+Message-ID: <CADOXZMy5jtRoH0AYoGz7=pvsn+2Zr7PEMt0nXEEbyTom6GXfUQ@mail.gmail.com>
+
+All,
+
+Well, I'm wondering if we ought to rename open access week "Open Data
+Week"...
+
+Following the Australian Research Council's excellent decision last week to
+back, to some extent, open access, Alex Holcombe and I have written an open
+letter to the ARC's new CEO to ask him to support open data. The letter is
+here:
+
+https://docs.google.com/document/d/1bcrrzu4Ljono5V_UqdJogtB-043XmxWVkm-jH9kw3m0/edit
+
+Please consider adding your name to the end. The letter, with a little
+context, will be published in The Conversation next week, with a link to
+the original online version.
+
+Cheers from a wonderful OKFest in Helsinki,
+
+Mat
+
+
+-- 
+MATTHEW TODD | Senior Lecturer and Honours Coordinator
+School of Chemistry | Faculty of Science
+
+THE UNIVERSITY OF SYDNEY
+Rm 519, F11 | The University of Sydney | NSW | 2006
+T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+E matthew.todd at sydney.edu.au  | W
+http://sydney.edu.au/science/chemistry/research/todd.html
+
+CRICOS 00026A
+This email plus any attachments to it are confidential. Any unauthorised
+use is strictly prohibited. If you receive this email in error, please
+delete it and any attachments.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120920/da13520a/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Sep 20 15:34:17 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 20 Sep 2012 15:34:17 +0100
+Subject: [open-science] open data week?
+In-Reply-To: <CADOXZMy5jtRoH0AYoGz7=pvsn+2Zr7PEMt0nXEEbyTom6GXfUQ@mail.gmail.com>
+References: <CADOXZMy5jtRoH0AYoGz7=pvsn+2Zr7PEMt0nXEEbyTom6GXfUQ@mail.gmail.com>
+Message-ID: <CAD2k14PviwGLFzpLskRcyHb9dVm47Ew1wzBqAZnuCR20baPn5g@mail.gmail.com>
+
+On Thu, Sep 20, 2012 at 12:23 PM, Matthew Todd
+<matthew.todd at sydney.edu.au>wrote:
+
+> All,
+>
+> Well, I'm wondering if we ought to rename open access week "Open Data
+> Week"...
+>
+
+Good idea. But I suspect the best strategy would be to create an
+independent and possibly parallel Open Data Week. I think it could be a
+real bottom-up (unlike OA which is top-down). Since a lot of Open Data has
+already been bottom-up I think we could get a lot of concerted support from
+the current active people (which includes research organizations and
+funders).
+
+>
+> Following the Australian Research Council's excellent decision last week
+> to back, to some extent, open access, Alex Holcombe and I have written an
+> open letter to the ARC's new CEO to ask him to support open data. The
+> letter is here:
+>
+>
+> https://docs.google.com/document/d/1bcrrzu4Ljono5V_UqdJogtB-043XmxWVkm-jH9kw3m0/edit
+>
+> Please consider adding your name to the end. The letter, with a little
+> context, will be published in The Conversation next week, with a link to
+> the original online version.
+>
+
+Have signed.
+
+
+>
+> Cheers from a wonderful OKFest in Helsinki,
+>
+> Mat
+>
+>
+> --
+> MATTHEW TODD | Senior Lecturer and Honours Coordinator
+> School of Chemistry | Faculty of Science
+>
+> THE UNIVERSITY OF SYDNEY
+> Rm 519, F11 | The University of Sydney | NSW | 2006
+> T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+> E matthew.todd at sydney.edu.au  | W
+> http://sydney.edu.au/science/chemistry/research/todd.html
+>
+> CRICOS 00026A
+> This email plus any attachments to it are confidential. Any unauthorised
+> use is strictly prohibited. If you receive this email in error, please
+> delete it and any attachments.
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120920/4a5c94ff/attachment.htm>
+
+From laura.newman at okfn.org  Mon Sep 24 09:12:13 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Mon, 24 Sep 2012 09:12:13 +0100
+Subject: [open-science] [Open-access] OKFest today
+In-Reply-To: <CANQ_vu1HRt9_gir4vRo0VsiYUcM2zVyja-eXeCv8nEJ+9D6z7A@mail.gmail.com>
+References: <CAMQ+bMYOq7R2XxVCaM78FZ+x0RxU6ZZ3+ERz3qfJEJnKYp5yMA@mail.gmail.com>
+	<CANQ_vu1HRt9_gir4vRo0VsiYUcM2zVyja-eXeCv8nEJ+9D6z7A@mail.gmail.com>
+Message-ID: <CAMQ+bMZpLk=BBUgOQF0RiKXj-RK7dQ7b4WQu7rHxkTUxS8UCAg@mail.gmail.com>
+
+We didn't get much of a chance to discuss it at OKFest (at least, I
+didn't!), but I have added Open Access week to the agenda for the next WG
+call.
+
+The next Open Science working group call is taking place this Wednesday
+(26th Sept) at 17:30 UTC (18:30 BST, 19:30 CEST etc).
+
+The etherpad is here: http://okfnpad.org/sciencewg-26Sep2012
+
+Perhaps the Open Access group can also discuss it on their next call on
+Friday?
+
+Cheers,
+Laura
+
+
+
+On Thu, Sep 20, 2012 at 9:44 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Thanks Laura!
+>
+> If you have a chance, it would be great discuss possible ideas for
+> what we could do for Open Access Week 2012 in October. ;-)
+>
+> http://www.openaccessweek.org/
+>
+> J.
+>
+> On Thu, Sep 20, 2012 at 10:41 AM, Laura Newman <laura.newman at okfn.org>
+> wrote:
+> > Hi,
+> >
+> > For those of you streaming in from afar, a session on crowdsourcing data
+> for
+> > development is kicking off right now. This is a collaborative effort from
+> > the Open Science and Open Development stream, and is already off to a
+> great
+> > start!
+> >
+> > Live-stream here: http://okfestival.org/streams/inspire-meeting-room/
+> >
+> > Plus a big event of today is the interactive discussion with
+> Carl-Christian
+> > Buhr from the cabinet of Neelie Kroes at the European Commission. That
+> will
+> > take place at 4pm in Helsinki (UTC+3).
+> >
+> > It will be live-streamed here:
+> http://okfestival.org/streams/meet-8th-floor/
+> >
+> > I am trying to stay on top of Twitter. If you're streaming in and want to
+> > tweet at me (@Newmanlk), I can try to ask questions on your behalf! Other
+> > people to follow for news and updates include @jenny_molloy,
+> > @petermurrayrust, @rmounce and @scilib.
+> >
+> > More soon! :)
+> >
+> > Laura
+> >
+> >
+> >
+> >
+> > --
+> > Laura Newman
+> > Community Coordinator
+> > Open Knowledge Foundation
+> > http://okfn.org/
+> > Skype: lauranewmanonskype
+> > Twitter: @Newmanlk
+> >
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> >
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Head of Community
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> http://twitter.com/jwyg
+>
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120924/0533c34b/attachment.htm>
+
+From jenny.molloy at okfn.org  Mon Sep 24 18:40:11 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 24 Sep 2012 18:40:11 +0100
+Subject: [open-science] Reminder: Open Science WG Meeting: 26 September,
+	17:30 UTC
+Message-ID: <CABPM+woSio2cP5sr3SbaR07CHM_Q0ee3rNEv8PxSDNNPriDicw@mail.gmail.com>
+
+Hi All
+
+Instructions for joining the working group Skype call are in the email
+below, it's been a while since we spoke and with OKFest out of the way,
+there are open science ideas positively brimming over from attendees and
+working group members. It's going to be tough fitting it all into 45mins
+(we are going slightly shorter this month due to an open science local
+group meetup).  If you have an idea to propose, would like help with a
+project, or simply want to update people on an open science topic, please
+add to the agenda on the Etherpad. The current agenda includes:
+
+* OKFest: How did it go? Contacts, ideas and projects forthcoming
+* Update on Open Research Data Handbook
+* What should we do with 'Is It Open Data?'?
+* Update on citizen science/DIY Bio activity
+* What should we do for open access week (22nd-28th October) -
+http://www.openaccessweek.org/
+* Do we want an Open Data week?
+* How can we help the open medicine/open clinical trial data community?
+* Project Ideas
+* AOB
+
+I look forward to speaking to you on Wednesday!
+
+Jenny
+
+On Sat, Sep 1, 2012 at 12:22 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Hi All
+>
+> The next working group meeting will be an opportunity to reflect on
+> OKFest, discuss the fate of Is It Open Data?, get up to date on some of the
+> latest citizen science/DIY BIO activity in Europe as well as voicing your
+> opinions on projects we should be getting involved in or initiating.
+>
+> Got an idea for an open science project that you need help with? Bring it
+> to the group and we'll do our best to assist and put you in touch with
+> relevant people around the OKF network.
+>
+> When: Wednesday 26 September at 17:30 UTC/GMT (18:30 UK time)
+> Location: Etherpad http://okfnpad.org/sciencewg-26Sep2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-26Sep2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even
+> if you can't make it yourself, just make sure you add enough details).
+>
+> Hope to speak to some of you there!
+>
+> Jenny
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120924/3ea083bb/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Sep 24 22:16:58 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 24 Sep 2012 22:16:58 +0100
+Subject: [open-science] Reminder: Open Science WG Meeting: 26 September,
+ 17:30 UTC
+In-Reply-To: <CABPM+woSio2cP5sr3SbaR07CHM_Q0ee3rNEv8PxSDNNPriDicw@mail.gmail.com>
+References: <CABPM+woSio2cP5sr3SbaR07CHM_Q0ee3rNEv8PxSDNNPriDicw@mail.gmail.com>
+Message-ID: <CAD2k14NZSAvmG3h+-VPFB=jk7v3o3pwW4bqA6Pn1ZBNy+98C=g@mail.gmail.com>
+
+My apologies - not free.
+
+On Mon, Sep 24, 2012 at 6:40 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Hi All
+>
+> Instructions for joining the working group Skype call are in the email
+> below, it's been a while since we spoke and with OKFest out of the way,
+> there are open science ideas positively brimming over from attendees and
+> working group members. It's going to be tough fitting it all into 45mins
+> (we are going slightly shorter this month due to an open science local
+> group meetup).  If you have an idea to propose, would like help with a
+> project, or simply want to update people on an open science topic, please
+> add to the agenda on the Etherpad. The current agenda includes:
+>
+> * OKFest: How did it go? Contacts, ideas and projects forthcoming
+> * Update on Open Research Data Handbook
+> * What should we do with 'Is It Open Data?'?
+> * Update on citizen science/DIY Bio activity
+> * What should we do for open access week (22nd-28th October) -
+> http://www.openaccessweek.org/
+> * Do we want an Open Data week?
+> * How can we help the open medicine/open clinical trial data community?
+> * Project Ideas
+> * AOB
+>
+> I look forward to speaking to you on Wednesday!
+>
+> Jenny
+>
+> On Sat, Sep 1, 2012 at 12:22 PM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+>
+>> Hi All
+>>
+>> The next working group meeting will be an opportunity to reflect on
+>> OKFest, discuss the fate of Is It Open Data?, get up to date on some of the
+>> latest citizen science/DIY BIO activity in Europe as well as voicing your
+>> opinions on projects we should be getting involved in or initiating.
+>>
+>> Got an idea for an open science project that you need help with? Bring
+>> it to the group and we'll do our best to assist and put you in touch
+>> with relevant people around the OKF network.
+>>
+>> When: Wednesday 26 September at 17:30 UTC/GMT (18:30 UK time)
+>> Location: Etherpad http://okfnpad.org/sciencewg-26Sep2012 and Skype (add
+>> your Skype ID to the Etherpad and I'll bring you into the conference
+>> call)
+>>
+>> Please add your name and Skype ID to the list of attendees on
+>> http://okfnpad.org/sciencewg-26Sep2012
+>> Add anything you'd like to be discussed or new ideas to the agenda (even
+>> if you can't make it yourself, just make sure you add enough details).
+>>
+>> Hope to speak to some of you there!
+>>
+>> Jenny
+>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120924/cd600dce/attachment.htm>
+
+From tom.olijhoek at gmail.com  Tue Sep 25 16:53:10 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 25 Sep 2012 17:53:10 +0200
+Subject: [open-science] how open is it
+Message-ID: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+
+A very important announcement I think
+
+judge for yourself
+
+http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120925/36cf24ae/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Sep 25 17:54:22 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 25 Sep 2012 17:54:22 +0100
+Subject: [open-science] [Open-access] how open is it
+In-Reply-To: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+Message-ID: <CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+
+On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> A very important announcement I think
+>
+> judge for yourself
+>
+> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+>
+
+YES. It's about time something like this happened - SPARC has been quiet
+and I look to them for some guidance. I haven't read the booklet, but
+comment on the abstract
+
+
+? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+? Clarify the definition of OA
+? Standardize terminology
+? Illustrate a continuum of ?more open? versus ?less open?
+? Enable people to compare and contrast publications and policies
+? Broaden the understanding of OA to a wider audience
+
+These are all critical. Until recently there was nowhere they could be
+discussed without the discussion being destroyed.
+
+But now we have OKF open-access !!
+
+Let's offer this organ to the world and let's finally try to get a decent
+discussion going.
+
+P.
+
+
+> TOM
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120925/88274fa0/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Sep 25 18:03:20 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 25 Sep 2012 19:03:20 +0200
+Subject: [open-science] [Open-access] how open is it
+In-Reply-To: <CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+Message-ID: <CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+
+Had a quick look. One comment (which I also submitted on the form):
+
+  * "Generous reuse & remixing rights (CC-BY license)" - The allusion
+to CC-BY is helpful, but it would also be good if this box explicitly
+mentioned OpenDefinition.org as a standard for fully open licenses -
+e.g. for cases where there may be bespoke or custom licenses.
+
+J.
+
+On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com>
+> wrote:
+>>
+>> A very important announcement I think
+>>
+>> judge for yourself
+>>
+>> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+>
+>
+> YES. It's about time something like this happened - SPARC has been quiet and
+> I look to them for some guidance. I haven't read the booklet, but comment on
+> the abstract
+>
+>
+> ? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+> ? Clarify the definition of OA
+> ? Standardize terminology
+> ? Illustrate a continuum of ?more open? versus ?less open?
+> ? Enable people to compare and contrast publications and policies
+> ? Broaden the understanding of OA to a wider audience
+>
+> These are all critical. Until recently there was nowhere they could be
+> discussed without the discussion being destroyed.
+>
+> But now we have OKF open-access !!
+>
+> Let's offer this organ to the world and let's finally try to get a decent
+> discussion going.
+>
+> P.
+>
+>>
+>> TOM
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From jonathan.gray at okfn.org  Tue Sep 25 19:59:44 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 25 Sep 2012 20:59:44 +0200
+Subject: [open-science] [Open-access] how open is it
+In-Reply-To: <9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+Message-ID: <CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+
+On Tue, Sep 25, 2012 at 8:54 PM, cameronneylon.net <cn at cameronneylon.net> wrote:
+> On 25 Sep 2012, at 19:03, Jonathan Gray wrote:
+>>  * "Generous reuse & remixing rights (CC-BY license)" - The allusion
+>> to CC-BY is helpful, but it would also be good if this box explicitly
+>> mentioned OpenDefinition.org as a standard for fully open licenses -
+>> e.g. for cases where there may be bespoke or custom licenses.
+>
+> Without wishing to re-open old wounds, the OpenDefinition isn't really appropriate in this context as it isn't strong enough as a definition for interoperability of bespoke licences. We're adopting the BOAI original definition alongside the recommendations of BOAI10 here that CC-BY is best practice (for journal *articles*...not really referring strongly to data here) ie share-alike is not "open enough" in this domain.
+
+Point very much taken Cameron. In which case - what about
+"OpenDefinition compliant 'attribution style' licensing" which
+shouldn't cause interoperability issues?
+
+Or perhaps it isn't worth broadening from CC-BY (as it might have been
+a few years ago) as people are much more likely to use CC-BY than to
+roll their own, which of course should be encouraged.
+
+J.
+
+> But feel free to comment!
+>
+> Cheers
+>
+> Cameron
+>
+>> J.
+>>
+>> On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>>
+>>>
+>>> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com>
+>>> wrote:
+>>>>
+>>>> A very important announcement I think
+>>>>
+>>>> judge for yourself
+>>>>
+>>>> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+>>>
+>>>
+>>> YES. It's about time something like this happened - SPARC has been quiet and
+>>> I look to them for some guidance. I haven't read the booklet, but comment on
+>>> the abstract
+>>>
+>>>
+>>> ? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+>>> ? Clarify the definition of OA
+>>> ? Standardize terminology
+>>> ? Illustrate a continuum of ?more open? versus ?less open?
+>>> ? Enable people to compare and contrast publications and policies
+>>> ? Broaden the understanding of OA to a wider audience
+>>>
+>>> These are all critical. Until recently there was nowhere they could be
+>>> discussed without the discussion being destroyed.
+>>>
+>>> But now we have OKF open-access !!
+>>>
+>>> Let's offer this organ to the world and let's finally try to get a decent
+>>> discussion going.
+>>>
+>>> P.
+>>>
+>>>>
+>>>> TOM
+>>>>
+>>>> _______________________________________________
+>>>> open-access mailing list
+>>>> open-access at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Head of Community
+>> The Open Knowledge Foundation
+>> http://www.okfn.org
+>>
+>> http://twitter.com/jwyg
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From jonathan.gray at okfn.org  Wed Sep 26 09:00:20 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 26 Sep 2012 10:00:20 +0200
+Subject: [open-science] [Open-access] how open is it
+In-Reply-To: <BD9BDAA8-3B7A-4419-94FD-7244641A1E27@inria.fr>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<984FEEBC-E07D-4634-B059-437F25507BE0@cameronneylon.net>
+	<CACnMvBYTGACLuVrWs27219QcVNzMi6ym+Fziqbs8f7cqgw_jdg@mail.gmail.com>
+	<BD9BDAA8-3B7A-4419-94FD-7244641A1E27@inria.fr>
+Message-ID: <CANQ_vu2fw3ErkiD9zL7-JNw0v32TQdPcXxE=Qcb-xCRyuvyJNw@mail.gmail.com>
+
+Great. In which case perhaps the chart could just say that stronger OA at
+the top should *be* CC-BY, rather than a liberal license like CC-BY? My
+comment below re: licensing standard was intended to guard against liberal
+interpretations of 'open' - that might include, e.g. NC or ND restrictions.
+
+On Wednesday, September 26, 2012, Laurent Romary wrote:
+
+> That's exactly the direction that the TEI consortium adopted (see
+> http://www.tei-c.org/Guidelines/access.xml): a combination of CC-BY and
+> BSD-2-clauses.
+> I guess we could get some institutions follow the trend if we were to go
+> along with a strong statement.
+> Laurent
+>
+> Le 26 sept. 2012 ? 09:42, Mike Taylor a ?crit :
+>
+> > Strong agreement here. There is enormous value in organisations using
+> > CC BY, not only because it's a good licence but because everyone who
+> > cares about such issues already knows what it means. Instant
+> > recognition is very valuable. No-one wants to read pages of legalese
+> > only to emerge on the other side thinking, "Oh, so it's just like CC
+> > BY, then".
+> >
+> > -- Mike.
+> >
+> >
+> >
+> > On 26 September 2012 08:08, cameronneylon.net <cn at cameronneylon.net>
+> wrote:
+> >> My personal view, built on the idea that the key issue is
+> interoperability, is that we should just require CC-BY as the Gold
+> Standard. Much simpler and much less risk of unexpected problems arising
+> due to license incompatibilities downstream. It always bothers me that
+> people *want* a bespoke license. What does this achieve? And what is the
+> motivation?
+> >>
+> >> So I think working towards a very strong statement of best practice for
+> research/science is valuable and it seems that there is some movement
+> towards CC-BY/ccZero/BSD for content, data and code respectively (code is
+> the least worked out and has the least agreement as yet) as a standard.
+> >>
+> >> Cheers
+> >>
+> >> Cameron
+> >>
+> >>>> Without wishing to re-open old wounds, the OpenDefinition isn't
+> really appropriate in this context as it isn't strong enough as a
+> definition for interoperability of bespoke licences. We're adopting the
+> BOAI original definition alongside the recommendations of BOAI10 here that
+> CC-BY is best practice (for journal *articles*...not really referring
+> strongly to data here) ie share-alike is not "open enough" in this domain.
+> >>>
+> >>> Point very much taken Cameron. In which case - what about
+> >>> "OpenDefinition compliant 'attribution style' licensing" which
+> >>> shouldn't cause interoperability issues?
+> >>>
+> >>> Or perhaps it isn't worth broadening from CC-BY (as it might have been
+> >>> a few years ago) as people are much more likely to use CC-BY than to
+> >>> roll their own, which of course should be encouraged.
+> >>>
+> >>> J.
+> >>>
+> >>>> But feel free to comment!
+> >>>>
+> >>>> Cheers
+> >>>>
+> >>>> Cameron
+> >>>>
+> >>>>> J.
+> >>>>>
+> >>>>> On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> >>>>>>
+> >>>>>>
+> >>>>>> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <
+> tom.olijhoek at gmail.com>
+> >>>>>> wrote:
+> >>>>>>>
+> >>>>>>> A very important announcement I think
+> >>>>>>>
+> >>>>>>> judge for yourself
+> >>>>>>>
+> >>>>>>> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+> >>>>>>
+> >>>>>>
+> >>>>>> YES. It's about time something like this happened - SPARC has been
+> quiet and
+> >>>>>> I look to them for some guidance. I haven't read the booklet, but
+> comment on
+> >>>>>> the abstract
+> >>>>>>
+> >>>>>>
+> >>>>>> ? Move the conversation from ?Is It Open Access?? to ?How Open Is
+> It??
+> >>>>>> ? Clarify the definition of OA
+> >>>>>> ? Standardize terminology
+> >>>>>> ? Illustrate a continuum of ?more open? versus ?less open?
+> >>>>>> ? Enable people to compare and contrast publications and policies
+> >>>>>> ? Broaden the understanding of OA to a wider audience
+> >>>>>>
+> >>>>>> These are all critical. Until recently there was nowhere they could
+> be
+> >>>>>> discussed without the discussion being destroyed.
+> >>>>>>
+> >>>>>> But now we have OKF open-access !!
+> >>>>>>
+> >>>>>> Let's offer this organ to the world and let's finally try to get a
+> decent
+> >>>>>> discussion going.
+> >>>>>>
+> >>>>>> P.
+> >>>>>>
+> >>Laurent Romary
+> INRIA & HUB-IDSL
+> laurent.romary at inria.fr <javascript:;>
+>
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org <javascript:;>
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/71f4d61d/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Sep 26 09:56:23 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 26 Sep 2012 09:56:23 +0100
+Subject: [open-science] [Open-access]  how open is it
+In-Reply-To: <984FEEBC-E07D-4634-B059-437F25507BE0@cameronneylon.net>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<984FEEBC-E07D-4634-B059-437F25507BE0@cameronneylon.net>
+Message-ID: <CAD2k14P4k5zUWW=GApcu8Yhp6E9QXFym6TXYtFc0RzPWi7P8_A@mail.gmail.com>
+
+On Wed, Sep 26, 2012 at 8:08 AM, cameronneylon.net <cn at cameronneylon.net>wrote:
+
+> My personal view, built on the idea that the key issue is
+> interoperability, is that we should just require CC-BY as the Gold
+> Standard. Much simpler and much less risk of unexpected problems arising
+> due to license incompatibilities downstream. It always bothers me that
+> people *want* a bespoke license. What does this achieve? And what is the
+> motivation?
+>
+> So I think working towards a very strong statement of best practice for
+> research/science is valuable and it seems that there is some movement
+> towards CC-BY/ccZero/BSD for content, data and code respectively (code is
+> the least worked out and has the least agreement as yet) as a standard.
+>
+
++1
+
+The Open Access movement is still fragmented and lacks a useful neutral
+exposition. Its complicate because it is so religious and factional. So any
+of my and other attempts to create a discussion are shot down, often with
+inaccuracies. There is no useful document giving an idea of the rationale
+and opportunities in OA. They are, for example, all predicated on the idea
+that there is a 15 billion USD publishing industry, mainly for profit, and
+that this is ordained as the optimal and unchanging way to publish.
+Journals are still largely sacrosanct. The megajournals will somwhat change
+this as will article metrics but who is administering this? T/R decide what
+is and what is not an indexable journal and what a citation is. Within this
+mess it is very difficult to provide best practice. However a  "neutral"
+statement would be extremely valuable.
+
+Data is easier at this stage because (a) most people haven't engaged (b)
+there is very little commercial involvement and (c) we already have the
+Panton Principles.  We *have* to get the mainstream involved in this -
+especially funders. The almost total indifference of mainstream publishers
+(BMC, PLoS? excepted)  to Panton, open Biblio principles and Open Content
+Mining means we have a great deal of advocacy to do. But IMO this is
+undoubtedly the way that we in OKF should go. Get clear principles, get the
+community to discuss, refine them and then aggressively advocate. BOAI
+is/was a great document, but the Harnadistas should never have been allowed
+to corrupt it. And uncertainty and division is worth huge amounts to
+commerce, who then make things worse if unconstrained.
+
+Code. The only distinction for me is whether or not to allow viral
+copyleft. My impression is that many people now deliberately choose one or
+the other. I would not use GPL as I wish industry to use and re-use my
+code. (I have to bite my lip when I see the distortions in chemistry from
+some industry who rebadge and re-use without permission but the public/open
+domain has few effective champions).  I can't say I would wish to require
+BSD and forbid GPL and I think it's too late for that. And within the
+BSD-like family you really have to be a lawyer to see al the ramifications.
+I have personally had considerable problems being pressured to relicence my
+LGPL (sic) code as BSD when a company (nameless here) was vitrioloc about
+the Blue Obelisk but demanded a change of licence because it made static
+linking easier for them. BTW I didn't choose LGPL - my code was part of a
+larger system.
+
+We *have* to insist on CC-BY for articles. It's simple and the good thing
+is that funders understand and support it. We should create a simple
+statement for what we want an article to be. Avoid all use of Green and
+Gold. Kill the CC-NC serpent. I think this would be acceptable to current
+CC-BY publishers.I think it would help to sway CC-not-quite-libre and
+homebrewed licences. We would avoid all mention of fees etc.
+
+Something like:
+"For scientific communication and re-use of information it is essential to
+license the article and all copies specifically and clearly. Terms such as
+'open Access' should be avoided".
+"The licence must explicitly allow use, reuse and redistribution consistent
+with BOAI. We strongly recommend CC-BY (without the SA variant).
+Non-commercial restrictions should be avoided at all costs"
+"Where 'publications' consist of several components it is essential that
+all carry a licence. In some cases (e.g. data-rich) it may be appropriate
+to licence these as CC0 or PDDL".
+
+IOW we come up with a Panton approach to scholarly articles. I think this
+could now be compelling, engaging and for all except those with entrenched
+minds valuable and adoptable.
+
+I've got quite excited about this!
+
+P.
+
+Cheers
+>
+> Cameron
+>
+> >> Without wishing to re-open old wounds, the OpenDefinition isn't really
+> appropriate in this context as it isn't strong enough as a definition for
+> interoperability of bespoke licences. We're adopting the BOAI original
+> definition alongside the recommendations of BOAI10 here that CC-BY is best
+> practice (for journal *articles*...not really referring strongly to data
+> here) ie share-alike is not "open enough" in this domain.
+> >
+> > Point very much taken Cameron. In which case - what about
+> > "OpenDefinition compliant 'attribution style' licensing" which
+> > shouldn't cause interoperability issues?
+> >
+> > Or perhaps it isn't worth broadening from CC-BY (as it might have been
+> > a few years ago) as people are much more likely to use CC-BY than to
+> > roll their own, which of course should be encouraged.
+> >
+> > J.
+> >
+> >> But feel free to comment!
+> >>
+> >> Cheers
+> >>
+> >> Cameron
+> >>
+> >>> J.
+> >>>
+> >>> On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> >>>>
+> >>>>
+> >>>> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com
+> >
+> >>>> wrote:
+> >>>>>
+> >>>>> A very important announcement I think
+> >>>>>
+> >>>>> judge for yourself
+> >>>>>
+> >>>>> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+> >>>>
+> >>>>
+> >>>> YES. It's about time something like this happened - SPARC has been
+> quiet and
+> >>>> I look to them for some guidance. I haven't read the booklet, but
+> comment on
+> >>>> the abstract
+> >>>>
+> >>>>
+> >>>> ? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+> >>>> ? Clarify the definition of OA
+> >>>> ? Standardize terminology
+> >>>> ? Illustrate a continuum of ?more open? versus ?less open?
+> >>>> ? Enable people to compare and contrast publications and policies
+> >>>> ? Broaden the understanding of OA to a wider audience
+> >>>>
+> >>>> These are all critical. Until recently there was nowhere they could be
+> >>>> discussed without the discussion being destroyed.
+> >>>>
+> >>>> But now we have OKF open-access !!
+> >>>>
+> >>>> Let's offer this organ to the world and let's finally try to get a
+> decent
+> >>>> discussion going.
+> >>>>
+> >>>> P.
+> >>>>
+> >>>>>
+> >>>>> TOM
+> >>>>>
+> >>>>> _______________________________________________
+> >>>>> open-access mailing list
+> >>>>> open-access at lists.okfn.org
+> >>>>> http://lists.okfn.org/mailman/listinfo/open-access
+> >>>>>
+> >>>>
+> >>>>
+> >>>>
+> >>>> --
+> >>>> Peter Murray-Rust
+> >>>> Reader in Molecular Informatics
+> >>>> Unilever Centre, Dep. Of Chemistry
+> >>>> University of Cambridge
+> >>>> CB2 1EW, UK
+> >>>> +44-1223-763069
+> >>>>
+> >>>> _______________________________________________
+> >>>> open-access mailing list
+> >>>> open-access at lists.okfn.org
+> >>>> http://lists.okfn.org/mailman/listinfo/open-access
+> >>>>
+> >>>
+> >>>
+> >>>
+> >>> --
+> >>> Jonathan Gray
+> >>>
+> >>> Head of Community
+> >>> The Open Knowledge Foundation
+> >>> http://www.okfn.org
+> >>>
+> >>> http://twitter.com/jwyg
+> >>>
+> >>> _______________________________________________
+> >>> open-access mailing list
+> >>> open-access at lists.okfn.org
+> >>> http://lists.okfn.org/mailman/listinfo/open-access
+> >>
+> >
+> >
+> >
+> > --
+> > Jonathan Gray
+> >
+> > Head of Community
+> > The Open Knowledge Foundation
+> > http://www.okfn.org
+> >
+> > http://twitter.com/jwyg
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/91283afc/attachment.htm>
+
+From pierre.chrzanowski at gmail.com  Wed Sep 26 14:20:39 2012
+From: pierre.chrzanowski at gmail.com (Pierre Chrzanowski)
+Date: Wed, 26 Sep 2012 15:20:39 +0200
+Subject: [open-science] Franco-British Workshop on Big Data in Science
+Message-ID: <CAB-gMsvPpOUbsgTyzPOQhhkEhmtANCschau9aUV7pKa3jbjqhQ@mail.gmail.com>
+
+Hi All,
+
+The Science and Technology Dpt of the French Embassy is organizing a 2 days
+Workshop/Conference on Big Data in Science in London on the 6 and 7th of
+November.
+You can register here : http://bigdatainscience.eventbrite.com/
+
+This is is not an event primarily focused on Open Science, but the subject
+would be present in the discussions as it will address access to scientific
+data, information sharing policy and e-infrastructures issues. Hope this
+will be of your interest !
+
+Regards
+
+Pierre Chrzanowski
+(Former) Science and Technology Officer for the French Embassy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/941aa998/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Sep 26 14:36:17 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 26 Sep 2012 14:36:17 +0100
+Subject: [open-science] Reminder: Open Science WG Meeting TONIGHT: 26
+	September, 17:30 UTC
+Message-ID: <CABPM+wqKWG8CNkbVXCYhTrE73M4R4L_W1MzTaVxxfQBhLj6ZbQ@mail.gmail.com>
+
+Hi All
+
+Only four sign ups so far so we'll keep it short tonight - if you have half
+an hour free then sign up here! http://okfnpad.org/sciencewg-26Sep2012
+
+Jenny
+
+On Mon, Sep 24, 2012 at 6:40 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Hi All
+>
+> Instructions for joining the working group Skype call are in the email
+> below, it's been a while since we spoke and with OKFest out of the way,
+> there are open science ideas positively brimming over from attendees and
+> working group members. It's going to be tough fitting it all into 45mins
+> (we are going slightly shorter this month due to an open science local
+> group meetup).  If you have an idea to propose, would like help with a
+> project, or simply want to update people on an open science topic, please
+> add to the agenda on the Etherpad. The current agenda includes:
+>
+> * OKFest: How did it go? Contacts, ideas and projects forthcoming
+> * Update on Open Research Data Handbook
+> * What should we do with 'Is It Open Data?'?
+> * Update on citizen science/DIY Bio activity
+> * What should we do for open access week (22nd-28th October) -
+> http://www.openaccessweek.org/
+> * Do we want an Open Data week?
+> * How can we help the open medicine/open clinical trial data community?
+> * Project Ideas
+> * AOB
+>
+> I look forward to speaking to you on Wednesday!
+>
+> Jenny
+>
+> On Sat, Sep 1, 2012 at 12:22 PM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+>
+>> Hi All
+>>
+>> The next working group meeting will be an opportunity to reflect on
+>> OKFest, discuss the fate of Is It Open Data?, get up to date on some of the
+>> latest citizen science/DIY BIO activity in Europe as well as voicing your
+>> opinions on projects we should be getting involved in or initiating.
+>>
+>> Got an idea for an open science project that you need help with? Bring
+>> it to the group and we'll do our best to assist and put you in touch
+>> with relevant people around the OKF network.
+>>
+>> When: Wednesday 26 September at 17:30 UTC/GMT (18:30 UK time)
+>> Location: Etherpad http://okfnpad.org/sciencewg-26Sep2012 and Skype (add
+>> your Skype ID to the Etherpad and I'll bring you into the conference
+>> call)
+>>
+>> Please add your name and Skype ID to the list of attendees on
+>> http://okfnpad.org/sciencewg-26Sep2012
+>> Add anything you'd like to be discussed or new ideas to the agenda (even
+>> if you can't make it yourself, just make sure you add enough details).
+>>
+>> Hope to speak to some of you there!
+>>
+>> Jenny
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/4b794ac2/attachment.htm>
+
+From ross.mounce at gmail.com  Wed Sep 26 14:58:22 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 26 Sep 2012 14:58:22 +0100
+Subject: [open-science] Reminder: Open Science WG Meeting TONIGHT: 26
+ September, 17:30 UTC
+In-Reply-To: <CABPM+wqKWG8CNkbVXCYhTrE73M4R4L_W1MzTaVxxfQBhLj6ZbQ@mail.gmail.com>
+References: <CABPM+wqKWG8CNkbVXCYhTrE73M4R4L_W1MzTaVxxfQBhLj6ZbQ@mail.gmail.com>
+Message-ID: <CAJr+OEx+kpNvPPArnW9VifoQxvftLFY6_EThAd0uD5GdKhMO3Q@mail.gmail.com>
+
+Thought I could make this meeting, but sorry I really can't, going to a
+leaving-do tonight.
+
+1 update of interest to note:
+
+* I'm doing something for Open Access Week at the University of Bath, I'll
+give a 30min talk as part of our social media week
+
+details are still TBC but it's likely to be held at lunchtime Friday 26th
+October on campus.
+I don't even know if Bath has ever done anything for this event before, so
+this small act in itself might be pioneering!
+
+I will also try and write up a blog post on my blog (and cross post to OKFN
+Science if wanted) about the OKFest ASAP
+
+Best,
+
+Ross
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/c54427ba/attachment.htm>
+
+From serenacangiano at gmail.com  Wed Sep 26 16:01:10 2012
+From: serenacangiano at gmail.com (Serena Cangiano)
+Date: Wed, 26 Sep 2012 11:01:10 -0400
+Subject: [open-science] Call for participation - on-line survey on the uses
+ of research social networking applications
+Message-ID: <CAP0yJMzq=OXprRT7MQO511sda=Z36JxWD5bR+b1WXmikTbe08g@mail.gmail.com>
+
+Dear Open Science mailing list members,
+
+i'm Serena Cangiano, PhD Candidate at IUAV University of Venice and
+research assistant at SUPSI, the University of Applied Sciences and Arts of
+Southern Switzerland.
+
+I'm doing a research concerning the use of research social networks (i.e.
+Academia.edu, ResearchGate.net etc) within the academia.
+I need to collect data about how these tools satisfy the researchers? needs
+and which functionalities supports better the tasks of networking and
+disseminating within the academic community.
+
+Even if the use of this kind of application is now widespread, according to
+my preliminary analysis there is still the need to understand how those
+applications facilitate research activities.
+
+I have already completed a benchmarking study of the existing tools and
+applications that i will make available during the next weeks on the
+research official blog: http://researchsocialnetworks.wordpress.com/
+
+Unfortunately i wasn't able to share the results with you during the open
+science session at OKFestival.
+I hope next year i could be part of your topic stream since the beginning.
+
+So, i write to kindly ask to to participate to this on-line survey about
+the uses and users's needs.
+The survey takes about 7 minutes.
+
+This is the direct link to the survey:
+http://lcvsupsi.wufoo.com/forms/research-social-networking-applications/
+
+If you have question or should require more information about the project,
+feel free to contact me here or by email serena.cangiano at supsi.ch
+
+Thank you in advance for your collaboration.
+Regards
+Serena
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/62a89d49/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Wed Sep 26 19:26:07 2012
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Wed, 26 Sep 2012 19:26:07 +0100
+Subject: [open-science] Hack 4 Health - 4 Nov, London
+In-Reply-To: <CABPM+wrYcTSmjO=Utp4r4R1+CnxkHrsEEt0UMkV+8drw4DddNg@mail.gmail.com>
+References: <CABPM+wrYcTSmjO=Utp4r4R1+CnxkHrsEEt0UMkV+8drw4DddNg@mail.gmail.com>
+Message-ID: <CAChagODoGL0qyET1LJjdZXaVeLkwc7N24MaDJA5uB977nk+2zQ@mail.gmail.com>
+
+Dear all,
+
+We are currently looking for data resources and APIs for the Hack4Health
+hackday.
+
+Please let us know if you have any ideas and you like to present an idea /
+a challenge during the event.
+
+Best wishes,
+
+Velichka
+
+On Mon, Sep 17, 2012 at 10:31 PM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> Some of you may be interested in participating in the Hack 4 Health
+> http://hack4health.co.uk/ co-organised by OKFN - more details below!
+> At previous hackdays open science working group members have worked on
+> Open Research Reports, collating healthcare and biomedical publications and
+> data for different audiences, including patient groups. If anyone would
+> like to continue working on this or has different ideas and would like to
+> form a team, get in touch with the list!
+>
+> Jenny
+>
+> Hack4Health is a weekend long hackathon for entrepreneurs and developers
+> to work with some of the latest health datasets and develop innovative new
+> products taking place from Friday 2nd November through to Sunday 4th
+> November 2012 at Google Campus.
+>
+> Attendees will be provided with space, food and fellow health enthusiasts
+> and will spend the whole weekend working on any project you choose (with a
+> health focus of course!), mingling with existing digital health startups,
+> leading industry representatives and mentors throughout.
+>
+> The weekend closes with the opportunity for teams to pitch their project
+> to a panel of experts, with fabulous prizes being awarded to the best teams
+> and the overall winner presenting their project at the launch of the Open
+> Data Institute to Tim Berners-Lee.
+>
+> Hack4Health aims to highlight some of the newest digital innovations
+> happening in health while also highlighting the possibilities of open data.
+> The weekend is being jointly organised by Coadec, Healthbox, Open Data
+> Institute, NHS, Cabinet Office and the Open Knowledge Foundation.
+>
+> Spaces will fill up quickly, so subscribe to the mailing list using the
+> link below to be informed as soon tickets are available or email info [at]
+> hack4health [dot] co [dot] uk.
+>
+>
+>  <http://eepurl.com/podjD>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Velichka Dimitrova
+Coordinator for Economics and Energy Projects
+Open Knowledge Foundation
+http://okfn.org | http://openeconomics.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120926/10436b17/attachment.htm>
+
+From ross.mounce at gmail.com  Thu Sep 27 01:11:13 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Thu, 27 Sep 2012 01:11:13 +0100
+Subject: [open-science] A short Science/Open Access based review of
+	OKFestival 2012
+Message-ID: <CAJr+OEx7TojJ8RqDJdSWTsQudEV4Vgf9D4ieJhORqFmFDpbOxg@mail.gmail.com>
+
+Hi all,
+
+just to let you know, I've written a short summary of my experience at
+OKFestival 2012 here:
+http://rossmounce.co.uk/2012/09/26/the-open-knowledge-festival-2012-helsinki-some-notes/
+
+It's not an exhaustive recap of everything I saw - there were simply too
+many excellent talks and hack events to do that, inevitably I have had to
+leave some things out. But hopefully it might provide an interesting post
+to point to with a couple of embedded videos of the Science / Open Access
+talks.
+
+
+Best,
+
+Ross
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120927/67fe5311/attachment.htm>
+

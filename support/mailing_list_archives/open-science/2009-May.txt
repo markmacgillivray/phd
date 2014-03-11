@@ -1,0 +1,254 @@
+From yishaym at gmail.com  Thu May 14 07:26:20 2009
+From: yishaym at gmail.com (Yishay Mor)
+Date: Thu, 14 May 2009 07:26:20 +0100
+Subject: [open-science] Fwd: Zotero [free alternative to EndNote] and
+	Thomson-Reuters
+In-Reply-To: <4A0B38FF.9010606@gmail.com>
+References: <4A0B38FF.9010606@gmail.com>
+Message-ID: <e5fbfda10905132326u5567bc25if348741a752f20b9@mail.gmail.com>
+
+a case of corporate powers blocking open scholarly, by simple tweeks of
+interface. I wonder if there's something to be done.
+e.g. can we campaign for an academic boycott of bibliographic indices that
+do not provide a BibTex interface?
+
+By the way, I personally much prefer Bibsonomy to Zotero, but that's beside
+the point.
+
+___________________________
+ Yishay Mor, Researcher, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+  http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+  +44-20-78378888 x5737
+
+
+
+-----Original Message-----
+
+There was discussion on this list last year on the law suit that
+Thomson-Reuters were taking against George Mason Uni to try to shut down
+Zotero, the F/OSS alternative to EndNote. See
+http://dltj.org/article/endnote-zotero-lawsuit/ or
+http://www.zotero.org/blog/offical-statement/
+
+Yesterday I was updating my teaching presentation on the use of on-line
+bibliographic resources. In the course of doing so I discovered that T-R
+have re-jigged the ISI site so you it no longer presents its result in a
+form readable by Zotero.
+
+This seems to me morally, if not in law, an abuse of T-R's growing
+monopolistic power over key resources essential to the academic
+community and something we should regard with the deepest suspicion.
+
+I hope that list members will make this abuse widely known.
+
+Mike Cushman   [ mailto:m.cushman at lse.ac.uk]
+Information Systems  and Innovation Group
+Department of Management
+London School of Economics and Political Science
+Houghton Street
+London       WC2A 2AE
+Phone: +44 (0)20 7955 7426      Fax: +44 (0)20 7955 7385
+http://is.lse.ac.uk/
+
+--~--~---------~--~----~------------~-------~--~----~
+You received this message because you are subscribed to the Google Groups
+"Learning Sciences and Educational Technology" group.
+To post to this group, send email to learning-sciences at googlegroups.com
+To unsubscribe from this group, send email to
+learning-sciences+unsubscribe at googlegroups.com<learning-sciences%2Bunsubscribe at googlegroups.com>
+For more options, visit this group at
+http://groups.google.com/group/learning-sciences?hl=en
+-~----------~----~----~----~------~----~------~--~---
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090514/fcabc19a/attachment.htm 
+
+From delfanti at sissa.it  Thu May 14 16:15:23 2009
+From: delfanti at sissa.it (Alessandro Delfanti)
+Date: Thu, 14 May 2009 17:15:23 +0200
+Subject: [open-science] Call for articles: deadline extended. User-led,
+	P2P Science
+Message-ID: <20090514171523.721g3j17kk8c808s@webmail.sissa.it>
+
+Call for articles:
+User-led, P2P Science - A special issue of JCOM, Journal of Science  
+Communication
+
+Deadline: June 1st, 2009
+http://jcom.sissa.it/call
+
+Science is increasingly being produced, discussed and deliberated with  
+cooperative tools by web users and without the istitutionalized  
+presence of scientists. "Popular science" or "Citizen science" are two  
+of the traditional ways of defining science grassroots produced  
+outside the walls of laboratories. But the internet has changed the  
+way of collecting and organising the knowledge produced by people -  
+peers - who do not belong to the established scientific community. In  
+this issue we want to discuss:
+
+- How web tools are changing and widening this way of participating in  
+the production of scientific knowledge. Do this increase in  
+participation consist in a real shift towards democratizing science or  
+on the contrary is merely a rhetoric which do not affect the  
+asymmetrical relationships between citizens and institutions?
+
+- The ways in which both academic and private scientific institutions  
+are appropriating this knowledge and its value. Do we need a new model  
+to understand these ways of production and appropriation? Are they  
+part of a deeper change in productive paradigms?
+
+We would like to collect both theoretical contributions and research  
+articles which address for example case studies in social media and  
+science, peer production, the role of private firms in exploiting web  
+arenas to collect scientific/medical data from their costumers, online  
+social movements challenging communication incumbents, web tools for  
+development.
+
+Interested authors should submit an extended abstract of no more than  
+500 words (in English) to the issue editor by June 1st, 2009. We will  
+select three to five papers for inclusion in this special issue.  
+Abstracts should be sent to the JCOM's editorial office  
+(jcom-eo at jcom.sissa.it) by email.
+
+Please help us and spread this call in your mailing lists, blogs, websites.
+The JCOM staff
+
+-- 
+Alessandro Delfanti
+ICS, Innovations in the Communication of Science
+Sissa, Trieste, Italy
+delfanti at sissa.it
+http://people.sissa.it/~delfanti/
+
+----------------------------------------------------------------
+   SISSA Webmail https://webmail.sissa.it/
+   Powered by Horde http://www.horde.org/
+
+
+
+
+From jonathan.gray at okfn.org  Fri May 22 17:04:16 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 22 May 2009 18:04:16 +0200
+Subject: [open-science] EMBL puts data in the public domain via CC0
+Message-ID: <54ca21750905220904q79c534dbxfae625e99883618b@mail.gmail.com>
+
+Just in case anyone hasn't seen it, EMBL has used CC0 for some of
+their data. Great news!
+
+I've entered the material in CKAN at:
+
+  http://ckan.net/package/read/embl-sider
+
+Jonathan
+
+
+---------- Forwarded message ----------
+
+EMBL puts data in the public domain via CC0
+
+May 7th, 2009 by Kaitlin Thaney
+
+EMBL - the European Molecular Biology Laboratory, has made part of
+their SIDER Side Effect Resource available to the public free of
+restriction via CC0, placing it in the public domain.
+
+The database, SIDER, contains information on marketed medicines and
+their recorded adverse side effects and drug reactions. Included in
+this dataset is information on the frequency of these drug reactions,
+other drug and side effect classifications as well as links to other
+relevant resources. To date, 888 drugs are listed in the database, a
+tremendous resource for research and drug discovery.
+
+The mapping of labels and euphoria-related side effects are now public
+domain, with some other side effect information available for download
+under a CC-BY-NC-SA license.
+
+Have you made your information available using CC0? We?re love to hear
+about it. Drop us a note.
+
+For more information about our data policy and reasoning, see our
+Database Protocol or ?Freedom to Research? available for download over
+at our Reading Room.
+
+--
+http://sciencecommons.org/weblog/archives/2009/05/07/embl-data-cc0/
+
+--------------------------------------
+Kaitlin Thaney
+Program Manager
+Science Commons, a project of Creative Commons
+http://sciencecommons.org
+http://creativecommons.org
+kaitlin at creativecommons.org
+--------------------------------------
+
+_______________________________________________
+sc-announce mailing list
+sc-announce at lists.ibiblio.org
+http://lists.ibiblio.org/mailman/listinfo/sc-announce
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From jonathan.gray at okfn.org  Thu May 28 14:49:08 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 28 May 2009 15:49:08 +0200
+Subject: [open-science] Virtual meeting for Working Group on Open Data in
+	Science
+Message-ID: <54ca21750905280649v39e1de58yf81a8a1230d1c258@mail.gmail.com>
+
+Next Tuesday 2nd June the Working Group on Open Data in Science will
+have their first meeting. While the meeting will focus on the Working
+Group?s activities, anyone is welcome to participate. Details are as
+follows:
+
+    * When: 2nd June 2009, 1600 GMT
+    * Where: #okfn IRC channel on oftc.net (you can connect via Mibbit
+at http://ur1.ca/4fh)
+    * Wiki: http://wiki.okfn.org/wg/science/1
+
+The agenda currently includes:
+
+    * Panton Principles for Open Data in Science
+    * Open Data in Science prize
+    * Brief summaries of benefits of openness in different domains
+    * Is It Open Data? Service
+    * CKAN for open data in science
+
+Participants so far will include:
+
+    * Jean-Claude Bradley, Drexel University
+    * Jonathan Gray, Open Knowledge Foundation
+    * Tim Hubbard, Wellcome Trust Sanger Institute
+    * Puneet Kishor, Nelson Institute, UW-Madison + Open Source
+Geospatial Foundation
+    * Jenny Molloy, University of Cambridge
+    * Peter Murray-Rust, Cambridge University
+    * Cameron Neylon, Science and Technology Facilities Council
+    * Rufus Pollock, Open Knowledge Foundation
+    * John Wilbanks, Science Commons
+
+Please feel free to circulate this to potentially interested friends
+and colleagues!
+
+URL: http://blog.okfn.org/2009/05/28/virtual-meeting-for-working-group-on-open-data-in-science/
+Short URL: http://ur1.ca/4v21
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+

@@ -1,0 +1,1555 @@
+From adrian.pohl at okfn.org  Fri Jun  1 14:06:37 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 1 Jun 2012 15:06:37 +0200
+Subject: [open-bibliography] Next monthly virtual meeting on June, 5th,
+	15:00 GMT
+Message-ID: <CAOtd05F_p9uMb1Zk0CY2Kpr+RwASGPxJEL+hFLhzALaNOd2e3g@mail.gmail.com>
+
+Hello,
+
+ the next virtual meeting will take place on June, 5th on 15:00 GMT.
+
+See the etherpad at
+<http://okfnpad.org/22nd-open-bibliography-meeting> for more
+information and add agenda if you like.
+
+I'll send a reminder on Tuesday.
+
+All the best
+Adrian
+
+
+From adrian.pohl at okfn.org  Tue Jun  5 10:56:36 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 5 Jun 2012 11:56:36 +0200
+Subject: [open-bibliography] Reminder: Virtual meeting today, 2012-06-05,
+	15:00 GMT
+Message-ID: <CAOtd05FkKO_CyR-wDhyS5a8xj6LYNSWda31jGr5xWzoqj5Raaw@mail.gmail.com>
+
+See the etherpad at <http://okfnpad.org/22nd-open-bibliography-meeting>.
+
+Adrian
+
+
+From todd.d.robbins at gmail.com  Thu Jun 21 04:08:10 2012
+From: todd.d.robbins at gmail.com (todd.d.robbins at gmail.com)
+Date: Wed, 20 Jun 2012 20:08:10 -0700
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC 23
+ released as linked data at dewey.info
+Message-ID: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+
+Just a few links to go with the fabulous news:
+
+http://www.oclc.org/us/en/news/releases/2012/201238.htm
+http://dataliberate.com/2012/06/oclc-worldcat-linked-data-release-significant-in-many-ways/
+http://www.essepuntato.it/lode/http://purl.org/library/
+http://www.oclc.org/data.html
+
+Also:
+http://ddc.typepad.com/025431/2012/06/ddc-23-released-as-linked-data-at-deweyinfo.html
+
+-- 
+Tod Robbins
+MLIS 2012 | University of Washington
+todrobbins.com | @todrobbins <http://www.twitter.com/#!/todrobbins>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120620/bcd12ecc/attachment.htm>
+
+From tom.oinn at okfn.org  Sat Jun 23 13:05:37 2012
+From: tom.oinn at okfn.org (Tom Oinn)
+Date: Sat, 23 Jun 2012 13:05:37 +0100
+Subject: [open-bibliography] Source of bibliographic refs for humanities?
+Message-ID: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+
+Hi all,
+
+Is there a BibServer instance I could point at which is likely to
+contain the kind of references a scholar in the humanities would wish
+to use as citations? I'm thinking of philosophy in particular but a
+broader index would be fine.
+
+-- 
+Tom Oinn
++44 (0) 20 8123 5142 or Skype ID 'tomoinn'
+http://www.crypticsquid.com
+
+
+From mathias.schindler at gmail.com  Sun Jun 24 13:21:27 2012
+From: mathias.schindler at gmail.com (Mathias Schindler)
+Date: Sun, 24 Jun 2012 14:21:27 +0200
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+Message-ID: <CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+
+On Thu, Jun 21, 2012 at 5:08 AM, todd.d.robbins at gmail.com
+<todd.d.robbins at gmail.com> wrote:
+> Just a few links to go with the fabulous news:
+>
+> http://www.oclc.org/us/en/news/releases/2012/201238.htm
+> http://dataliberate.com/2012/06/oclc-worldcat-linked-data-release-significant-in-many-ways/
+> http://www.essepuntato.it/lode/http://purl.org/library/
+> http://www.oclc.org/data.html
+>
+
+OCLC later released a statement that there won't be a data dump of the
+ODC-by-licensed data for what they describe as technical reasons.
+
+Mathias
+
+
+From pm286 at cam.ac.uk  Sun Jun 24 14:22:13 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 24 Jun 2012 14:22:13 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+Message-ID: <CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+
+On Sun, Jun 24, 2012 at 1:21 PM, Mathias Schindler <
+mathias.schindler at gmail.com> wrote:
+
+> On Thu, Jun 21, 2012 at 5:08 AM, todd.d.robbins at gmail.com
+> <todd.d.robbins at gmail.com> wrote:
+> > Just a few links to go with the fabulous news:
+> >
+> > http://www.oclc.org/us/en/news/releases/2012/201238.htm
+> >
+> http://dataliberate.com/2012/06/oclc-worldcat-linked-data-release-significant-in-many-ways/
+> > http://www.essepuntato.it/lode/http://purl.org/library/
+> > http://www.oclc.org/data.html
+> >
+>
+> OCLC later released a statement that there won't be a data dump of the
+> ODC-by-licensed data for what they describe as technical reasons.
+>
+
+
+From kcoyle at kcoyle.net  Sun Jun 24 15:01:56 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 24 Jun 2012 07:01:56 -0700
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+Message-ID: <4FE71DD4.5060307@kcoyle.net>
+
+Peter, I assume that the "technical difficulty" is the size of the 
+database -- something on the order of 180 million bibliographic records. 
+... Ah, no, I just looked it up in their annual report:
+235,822,950 records, of which 189,421,960 are for books. And that's from 
+a year ago.
+
+It would be very interesting to be able to slice-n-dice that database, 
+which, perhaps except for the secret database that Google holds, is the 
+largest bibliographic database in the world. For example, their records 
+for some less-populous languages may constitute a more complete 
+bibliography of the writings of that culture than even the relevant 
+national library has.
+
+I plan to write to some of the OCLC folks and ask if they will be 
+setting up the needed index to encourage the re-spidering of this data 
+by the major search engines. If so, I wonder if those search engines 
+then can become an entry point to the data. I also have not seen mention 
+of a SPARQL end point for searching the database, but I probably haven't 
+encountered all of the technical information.
+
+kc
+
+On 6/24/12 6:22 AM, Peter Murray-Rust wrote:
+>
+>
+> On Sun, Jun 24, 2012 at 1:21 PM, Mathias Schindler
+> <mathias.schindler at gmail.com <mailto:mathias.schindler at gmail.com>> wrote:
+>
+>     On Thu, Jun 21, 2012 at 5:08 AM, todd.d.robbins at gmail.com
+>     <mailto:todd.d.robbins at gmail.com>
+>     <todd.d.robbins at gmail.com <mailto:todd.d.robbins at gmail.com>> wrote:
+>      > Just a few links to go with the fabulous news:
+>      >
+>      > http://www.oclc.org/us/en/news/releases/2012/201238.htm
+>      >
+>     http://dataliberate.com/2012/06/oclc-worldcat-linked-data-release-significant-in-many-ways/
+>      > http://www.essepuntato.it/lode/http://purl.org/library/
+>      > http://www.oclc.org/data.html
+>      >
+>
+>     OCLC later released a statement that there won't be a data dump of the
+>     ODC-by-licensed data for what they describe as technical reasons.
+>
+>
+>  From (4) in the Open Defintions I quote:
+>
+>
+>       4. Absence of Technological Restriction
+>
+> The work must be provided in such a form that there are no technological
+> obstacles to the performance of the above activities. This can be
+> achieved by the provision of the work in an open data format, i.e. one
+> whose specification is publicly and freely available and which places no
+> restrictions monetary or otherwise upon its use.
+>
+> I am not familiar with the details of what OCLC is releasing but it I
+> would have thought the provider had a duty to make it possible to access
+> all the content in some way (dumps and iterators are the two things that
+> come to mind). Do OCLC give an indication of how to get all the data?
+> Because simply saying "our data is Open but you can't get it" isn't
+> really Open.
+>
+> I have some sympathy for data providers as I have had to create a set of
+> crawlers to download Open Data that I have collected. It's a non-trivial
+> problem.
+>
+>
+>     Mathias
+>
+>     _______________________________________________
+>     open-bibliography mailing list
+>     open-bibliography at lists.okfn.org
+>     <mailto:open-bibliography at lists.okfn.org>
+>     http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From pm286 at cam.ac.uk  Sun Jun 24 15:47:03 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 24 Jun 2012 15:47:03 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <4FE71DD4.5060307@kcoyle.net>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+Message-ID: <CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+
+Thanks Karen,
+
+On Sun, Jun 24, 2012 at 3:01 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Peter, I assume that the "technical difficulty" is the size of the
+> database -- something on the order of 180 million bibliographic records.
+> ... Ah, no, I just looked it up in their annual report:
+> 235,822,950 records, of which 189,421,960 are for books. And that's from a
+> year ago.
+>
+> It would be very interesting to be able to slice-n-dice that database,
+
+
+Indeed
+
+
+> which, perhaps except for the secret database that Google holds, is the
+> largest bibliographic database in the world. For example, their records for
+> some less-populous languages may constitute a more complete bibliography of
+> the writings of that culture than even the relevant national library has.
+>
+> I plan to write to some of the OCLC folks
+
+
+Excellent
+
+
+> and ask if they will be setting up the needed index to encourage the
+> re-spidering of this data by the major search engines.
+
+
+And I hope also by US (the Open bibliographic community)!
+
+
+> If so, I wonder if those search engines then can become an entry point to
+> the data. I also have not seen mention of a SPARQL end point for searching
+> the database, but I probably haven't encountered all of the technical
+> information.
+>
+
+200 million complete records (whatever a complete record is - and that's
+part of the problem) in RDF will slaughter most systems (we found that 20
+million from Pubmed was a problem). But 20 million in BibJSON with the most
+important fields is quite possible. I am not sure  about 200 million - but
+it could be possible. Mark McG may comment.
+
+I might upset some purists but I suspect that a collection with the main
+details (as we have listed in the Open Bibliographic Principles - author,
+data, publisher, title) coukld be extremely valuable for a very wide range
+of people who currently don't use bibliography at all. It might not be full
+enough for library management, but it would do very well for
+undergraduates, hobbyists, citation lists in articles, and Wikipedia, etc.
+
+If they expose an API then it should be possible to distribute the load of
+extracting the metadata.
+
+Of course there is always a problem in making sure this info is up-to-date
+but this is an excellent place to start deploying such systems.
+
+On the assumption that OCLC want to world to have the totality of their
+data and are looking for suggestions as to how to make that happen, I thank
+them.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120624/0dd76703/attachment.htm>
+
+From kcoyle at kcoyle.net  Sun Jun 24 19:38:46 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 24 Jun 2012 11:38:46 -0700
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+Message-ID: <4FE75EB6.9070401@kcoyle.net>
+
+On 6/24/12 7:47 AM, Peter Murray-Rust wrote:
+
+
+>
+> I might upset some purists but I suspect that a collection with the main
+> details (as we have listed in the Open Bibliographic Principles -
+> author, data, publisher, title) coukld be extremely valuable for a very
+> wide range of people who currently don't use bibliography at all. It
+> might not be full enough for library management, but it would do very
+> well for undergraduates, hobbyists, citation lists in articles, and
+> Wikipedia, etc.
+
+The records themselves are not huge, at least not in the native MARC 
+format -- they tend to be in the 1K-1.5K range, and by ignoring some of 
+the more obscure data would be smaller - perhaps even half that amount. 
+It's the sheer number of fields that I think becomes an issue, not so 
+much their size. I would guess at an average of 10 fields per record, 
+although that depends on how you break out the data (e.g. if published 
+date is considered a separate field or part of the same string with the 
+publisher name).
+
+>
+> If they expose an API then it should be possible to distribute the load
+> of extracting the metadata.
+
+Note that OCLC *does* have an API for worldcat:
+   http://www.oclc.org/worldcatapi/default.htm
+
+I couldn't get through all of the legal jargon to figure out if 1) one 
+has to be an OCLC member and 2) what uses were allowed. A non-jargon'd 
+explanation would be of great benefit.
+
+This newly announced function, though, is not aimed at API-type 
+extraction from the database but instead serves the functions addressed 
+by schema.org, which is improved search engine access. If 
+Google/Bing/Yahoo do indexing on schema.org fields we should be able to 
+actually do an author or title search in Google rather than the 
+scattershot keyword search that exists today.
+
+kc
+
+>
+> Of course there is always a problem in making sure this info is
+> up-to-date but this is an excellent place to start deploying such systems.
+>
+> On the assumption that OCLC want to world to have the totality of their
+> data and are looking for suggestions as to how to make that happen, I
+> thank them.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From jenny.molloy at okfn.org  Sun Jun 24 21:40:39 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 24 Jun 2012 21:40:39 +0100
+Subject: [open-bibliography] Reminder: Open Science Hackday: 7 Jul, London
+Message-ID: <CABPM+wr0L8_euQETvK8MVyEM8kJ-e_EL-egum7L2d5gyTUd9Og@mail.gmail.com>
+
+Hi All
+
+Just a reminder that the next Open Science hackday will be taking place in
+a couple of weeks and it would be great to see some of you in person or
+online! Please sign up as soon as you can for numbers and so we can see
+what interesting projects people are interested in working on.
+
+When: Saturday 7 July 2012, 1000-1700 UTC+1
+Where: Centre for Creative Collaboration (
+http://www.creativecollaboration.org.uk/ ), London
+OR
+OKFN IRC channel (#okfn on irc.oftc.net and full details of how to connect
+(including via a web browser) can be found at: http://okfn.org/contact/)
+
+Sign up: http://okfnpad.org/sciencewg-hackday-jul7
+
+Our last outing to the Barbican saw a small but dedicated group working on
+projects as diverse as services for open access policies, extracting
+phylogenetic tree information from PDFs, storing crowdsourced data in CKAN
+and more. This time we're going to be bigger and better with a dedicated
+space which will hopefully be filled by YOU.
+
+If you'd like to come along, please add yourself to the Etherpad
+http://okfnpad.org/sciencewg-hackday-jul7 and if you have a specific idea
+you'd like to work on, add that too and you'll have a couple of minutes at
+the start of the hackday to tell everyone about it so we can link you up
+with people who'd like to help.
+
+You don't need to have an idea for anything to work on or even any coding
+skills to join, there are plenty of opportunities to get stuck in with
+other people's projects and many non-technical tasks, especially if you
+like writing or design.
+
+If you have any questions don't hesitate to ask and I look forward to
+seeing many of you on 7 July!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120624/7780a201/attachment.htm>
+
+From rufus.pollock at okfn.org  Mon Jun 25 08:52:47 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 25 Jun 2012 08:52:47 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+Message-ID: <CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+
+On 24 June 2012 15:47, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> Thanks Karen,
+>
+> On Sun, Jun 24, 2012 at 3:01 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>>
+>> Peter, I assume that the "technical difficulty" is the size of the
+>> database -- something on the order of 180 million bibliographic records. ...
+>> Ah, no, I just looked it up in their annual report:
+>> 235,822,950 records, of which 189,421,960 are for books. And that's from a
+>> year ago.
+>>
+>> It would be very interesting to be able to slice-n-dice that database,
+>
+>
+> Indeed
+
+That's certainly what the BL did - albeit on a much smaller DB:
+
+<http://datahub.io/dataset/bluk-bnb>
+
+I also wonder if there is any way to extract a core dataset -- e.g. all books.
+
+Rufus
+
+
+From pm286 at cam.ac.uk  Mon Jun 25 09:21:51 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 25 Jun 2012 09:21:51 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <4FE75EB6.9070401@kcoyle.net>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<4FE75EB6.9070401@kcoyle.net>
+Message-ID: <CAD2k14NfFm_pPJj+ZHJ=aP5SSBFOwTUR8iJkQvnfb7RXbfAiTw@mail.gmail.com>
+
+Thanks Karen,
+
+On Sun, Jun 24, 2012 at 7:38 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Note that OCLC *does* have an API for worldcat:
+>  http://www.oclc.org/**worldcatapi/default.htm<http://www.oclc.org/worldcatapi/default.htm>
+>
+> I couldn't get through all of the legal jargon to figure out if 1) one has
+> to be an OCLC member and 2) what uses were allowed. A non-jargon'd
+> explanation would be of great benefit.
+>
+
+Yes.
+
+>
+> This newly announced function, though, is not aimed at API-type extraction
+> from the database but instead serves the functions addressed by schema.org,
+> which is improved search engine access. If Google/Bing/Yahoo do indexing on
+> schema.org fields we should be able to actually do an author or title
+> search in Google rather than the scattershot keyword search that exists
+> today.
+>
+
+My key driver is to be able to *build our own* information systems rather
+than relying on Google/Bing/Yahoo. The more this happens, the more
+libraries become marginalised. I don't want Google to "do chemistry" - it
+won't.
+
+If the result of this is that we transfer one walled garden (OCLC) to
+another (GBY) then we haven't gained much.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/11c2898c/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Jun 25 09:23:46 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 25 Jun 2012 09:23:46 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+Message-ID: <CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+
+On Mon, Jun 25, 2012 at 8:52 AM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+
+> That's certainly what the BL did - albeit on a much smaller DB:
+>
+> <http://datahub.io/dataset/bluk-bnb>
+>
+> I also wonder if there is any way to extract a core dataset -- e.g. all
+> books.
+>
+> I think this is a good idea. We shouldn't try to be comprehensive but to
+create something with new value.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/71576c4d/attachment.htm>
+
+From ianibbo at gmail.com  Mon Jun 25 11:05:34 2012
+From: ianibbo at gmail.com (ianibbo at gmail.com)
+Date: Mon, 25 Jun 2012 11:05:34 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+	<CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+Message-ID: <CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+
+Hate to sound like a broken record :D but OAI is a perfectly good protocol
+for synchronizing large quantities of discrete metadata like bib records.
+It's one way to address the stream-of-constant-updates problem and I'd much
+rather have an OAI endpoint than a massive datafile any day. The RDF-ers
+amonst you can use OAI-ORE. It's a well understood, easy to implement,
+-standard- mechanism for this problem... Yet it seems so unpopular, and I
+can't for the life of me figure out why :D
+
+
+On 25 June 2012 09:23, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Mon, Jun 25, 2012 at 8:52 AM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+>
+>> That's certainly what the BL did - albeit on a much smaller DB:
+>>
+>> <http://datahub.io/dataset/bluk-bnb>
+>>
+>> I also wonder if there is any way to extract a core dataset -- e.g. all
+>> books.
+>>
+>> I think this is a good idea. We shouldn't try to be comprehensive but to
+> create something with new value.
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Ian Ibbotson
+W: http://ianibbo.me
+E: ianibbo at gmail.com
+skype: ianibbo
+twitter: ianibbo
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/ebd81b32/attachment.htm>
+
+From sam.leon at okfn.org  Mon Jun 25 11:07:34 2012
+From: sam.leon at okfn.org (Sam Leon)
+Date: Mon, 25 Jun 2012 11:07:34 +0100
+Subject: [open-bibliography] Philosophy/humanities Bibsoup
+In-Reply-To: <CAOn=SAYGCfg9zbfbBeS5WxxB0stM864HY+qvo9pibTLb=2_ZGQ@mail.gmail.com>
+References: <CAOn=SAYWxBVkKNR0JrJhE76DAC5mm0KbBV3UkE-M3Pbvd7gAEA@mail.gmail.com>
+	<CAOn=SAYGCfg9zbfbBeS5WxxB0stM864HY+qvo9pibTLb=2_ZGQ@mail.gmail.com>
+Message-ID: <CAOn=SAbGq9zcBvv=ZrtvFYs_iEh3upd_JFBJRmg=LBWYrmz-Hg@mail.gmail.com>
+
+Hi All,
+
+(Apologies for cross-posting)
+
+Tom Oinn has been busy this week integrating Bib Sever facet view with
+TEXTUS. The results are looking good, even if they're still a bit rough
+round the edges. You can check out what's been done so far by going to
+http://beta.openphilosophy.org, logging in, uploading a text and going to
+the Accept/Reject tab where you will have option to manually input
+bibliographic information or search an existing collection of Bibsoup
+records.
+
+Two of the key pieces of functionality this will give us is to:
+
+(a) Associate Bib JSON records found in a Bibsoup with a text you are
+importing. A great effect of this will be the re-association of high
+quality metadata with text from places like Project Gutenberg where
+metadata tends to be lost;
+(b) Annotate a chunk of text with a reference to a Bib JSON object that
+refers to a text that is inside or outside of TEXTUS
+
+Currently TEXTUS is pointing to a BIbsoup that contains no relevant
+data. In order to really make this great part of TEXTUS work, we need to
+start building a humanities specific Bibsoup that contains as many
+references as possible that people are likely to want to refer to when
+working with texts in a given instance of TEXTUS such as OpenPhilosophy.org
+or OpenLiterature.org .
+
+I'm aware that we now have some massive openly licensed MARC dumps from
+places like the Harvard Library on the Data Hub -- but has anyone begun
+extracting humanities specific bibliographic references and populating a
+Bib Server instance for them?
+
+If not, then this is something I would like to start doing in the near
+future. Perhaps asking some of the Philosophy Libraries we are currently in
+touch with if they would allows us to use their bibliographic records to
+kick start our TEXTUS Bib Server instance and make it immediately useful to
+those who will be working with OpenPhilosophy.org.
+
+Cheers,
+Sam
+
+-- 
+Sam Leon
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Twitter: @noeL_maS
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/62e02236/attachment-0001.htm>
+
+From krichel at openlib.org  Mon Jun 25 11:12:51 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 25 Jun 2012 12:12:51 +0200
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+	<CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+	<CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+Message-ID: <20120625101251.GD22135@openlib.org>
+
+
+  ianibbo at gmail.com writes
+
+> Yet it seems so unpopular, and I
+> can't for the life of me figure out why :D
+
+  OAI-PMH is compliated, it has features nobody uses... It creates work
+  for humans that machines would be better at. 
+
+  I prefer plain files and ftp or better rsync. 
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From pm286 at cam.ac.uk  Mon Jun 25 11:42:24 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 25 Jun 2012 11:42:24 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <20120625101251.GD22135@openlib.org>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+	<CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+	<CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+	<20120625101251.GD22135@openlib.org>
+Message-ID: <CAD2k14MSq0_3JTPAK78xvk4UrtQCG1XctACXDUJhqNYTWWkg3g@mail.gmail.com>
+
+On Mon, Jun 25, 2012 at 11:12 AM, Thomas Krichel <krichel at openlib.org>wrote:
+
+>
+>  ianibbo at gmail.com writes
+>
+> > Yet it seems so unpopular, and I
+> > can't for the life of me figure out why :D
+>
+>   OAI-PMH is compliated, it has features nobody uses... It creates work
+>  for humans that machines would be better at.
+>
+>  I prefer plain files and ftp or better rsync.
+>
+
+The main problem is that it's an "academic-only" format. That means its use
+depends on support *and development*  by the academic community whereas
+other methods such as rsync, RESTful methods, RSS, etc are in widespread
+use. There isn't anything specific that academics need over the rest of the
+world.
+
+But having said that IF OCLC expose OAI-PMH then I am sure it can be
+incrementally downloaded. With these endpoints the main problem is knowing
+what is *in* the repo and ho far through you have got.
+
+But do OCLC have an Open OAI endpoint?
+
+
+>
+>  Cheers,
+>
+>  Thomas Krichel                    http://openlib.org/home/krichel
+>                                      http://authorprofile.org/pkr1
+>                                               skype: thomaskrichel
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/7e01ee79/attachment.htm>
+
+From bosteen at gmail.com  Mon Jun 25 11:50:51 2012
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Mon, 25 Jun 2012 11:50:51 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAD2k14MSq0_3JTPAK78xvk4UrtQCG1XctACXDUJhqNYTWWkg3g@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+	<CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+	<CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+	<20120625101251.GD22135@openlib.org>
+	<CAD2k14MSq0_3JTPAK78xvk4UrtQCG1XctACXDUJhqNYTWWkg3g@mail.gmail.com>
+Message-ID: <CA+zvE8iMyL_F3KOhWzZ46qL+XoO+vH=fWT0-iop12SLa8ShKvA@mail.gmail.com>
+
+That's the key - as long as OCLC can find a clear way to say what version
+the repo is at and/or (preferably) what has changed since, then we are
+fine. If they want to throw more resources at it and run a service like an
+AtomPub instance or OAI-PMH, then so much the better.
+
+Either service relies on the knowledge of what has changed since 'x' time -
+without that, it will be a very computationally painful thing to reverse
+engineer.
+
+Ben
+
+On Monday, 25 June 2012, Peter Murray-Rust wrote:
+
+>
+>
+> On Mon, Jun 25, 2012 at 11:12 AM, Thomas Krichel <krichel at openlib.org<javascript:_e({}, 'cvml', 'krichel at openlib.org');>
+> > wrote:
+>
+>>
+>>  ianibbo at gmail.com <javascript:_e({}, 'cvml', 'ianibbo at gmail.com');>writes
+>>
+>> > Yet it seems so unpopular, and I
+>> > can't for the life of me figure out why :D
+>>
+>>   OAI-PMH is compliated, it has features nobody uses... It creates work
+>>  for humans that machines would be better at.
+>>
+>>  I prefer plain files and ftp or better rsync.
+>>
+>
+> The main problem is that it's an "academic-only" format. That means its
+> use depends on support *and development*  by the academic community whereas
+> other methods such as rsync, RESTful methods, RSS, etc are in widespread
+> use. There isn't anything specific that academics need over the rest of the
+> world.
+>
+> But having said that IF OCLC expose OAI-PMH then I am sure it can be
+> incrementally downloaded. With these endpoints the main problem is knowing
+> what is *in* the repo and ho far through you have got.
+>
+> But do OCLC have an Open OAI endpoint?
+>
+>
+>>
+>>  Cheers,
+>>
+>>  Thomas Krichel                    http://openlib.org/home/krichel
+>>                                      http://authorprofile.org/pkr1
+>>                                               skype: thomaskrichel
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org <javascript:_e({}, 'cvml',
+>> 'open-bibliography at lists.okfn.org');>
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/b26e0b6c/attachment.htm>
+
+From mark at cottagelabs.com  Mon Jun 25 12:25:21 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Mon, 25 Jun 2012 12:25:21 +0100
+Subject: [open-bibliography] Source of bibliographic refs for humanities?
+In-Reply-To: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+References: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+Message-ID: <CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+
+Hmm, Etienne has been working on putting up an instance that contains
+multiple national bibliographies. Perhaps that would contain something of
+interest to humanities people? Apart from that, we do not yet have any
+specific humanities datasets, but we could easily put one up if anyone has
+such a collection they would like us to use.
+
+Mark
+
+
+
+On Sat, Jun 23, 2012 at 1:05 PM, Tom Oinn <tom.oinn at okfn.org> wrote:
+
+> Hi all,
+>
+> Is there a BibServer instance I could point at which is likely to
+> contain the kind of references a scholar in the humanities would wish
+> to use as citations? I'm thinking of philosophy in particular but a
+> broader index would be fine.
+>
+> --
+> Tom Oinn
+> +44 (0) 20 8123 5142 or Skype ID 'tomoinn'
+> http://www.crypticsquid.com
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/01c2d93f/attachment.htm>
+
+From mark at cottagelabs.com  Mon Jun 25 12:30:07 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Mon, 25 Jun 2012 12:30:07 +0100
+Subject: [open-bibliography] Philosophy/humanities Bibsoup
+In-Reply-To: <CAOn=SAbGq9zcBvv=ZrtvFYs_iEh3upd_JFBJRmg=LBWYrmz-Hg@mail.gmail.com>
+References: <CAOn=SAYWxBVkKNR0JrJhE76DAC5mm0KbBV3UkE-M3Pbvd7gAEA@mail.gmail.com>
+	<CAOn=SAYGCfg9zbfbBeS5WxxB0stM864HY+qvo9pibTLb=2_ZGQ@mail.gmail.com>
+	<CAOn=SAbGq9zcBvv=ZrtvFYs_iEh3upd_JFBJRmg=LBWYrmz-Hg@mail.gmail.com>
+Message-ID: <CAFxzj8RpU2bwATMyv4sG1omxGMkEq1vPGoJm6HP+EyBf2ibe0g@mail.gmail.com>
+
+Hi Sam, Etienne has been working with the national bibliographies and is
+putting them up in a large index soon, so that may be useful.
+
+If any of your contacts have specific collections they would like to see in
+bibsoup, we could certainly get them in there too.
+
+I think also Ed / Etienne was looking at the Harvard data... not sure what
+has been done with it yet though.
+
+Mark
+
+
+
+On Mon, Jun 25, 2012 at 11:07 AM, Sam Leon <sam.leon at okfn.org> wrote:
+
+> Hi All,
+>
+> (Apologies for cross-posting)
+>
+> Tom Oinn has been busy this week integrating Bib Sever facet view with
+> TEXTUS. The results are looking good, even if they're still a bit rough
+> round the edges. You can check out what's been done so far by going to
+> http://beta.openphilosophy.org, logging in, uploading a text and going to
+> the Accept/Reject tab where you will have option to manually input
+> bibliographic information or search an existing collection of Bibsoup
+> records.
+>
+> Two of the key pieces of functionality this will give us is to:
+>
+> (a) Associate Bib JSON records found in a Bibsoup with a text you are
+> importing. A great effect of this will be the re-association of high
+> quality metadata with text from places like Project Gutenberg where
+> metadata tends to be lost;
+> (b) Annotate a chunk of text with a reference to a Bib JSON object that
+> refers to a text that is inside or outside of TEXTUS
+>
+> Currently TEXTUS is pointing to a BIbsoup that contains no relevant
+> data. In order to really make this great part of TEXTUS work, we need to
+> start building a humanities specific Bibsoup that contains as many
+> references as possible that people are likely to want to refer to when
+> working with texts in a given instance of TEXTUS such as OpenPhilosophy.org
+> or OpenLiterature.org .
+>
+> I'm aware that we now have some massive openly licensed MARC dumps from
+> places like the Harvard Library on the Data Hub -- but has anyone begun
+> extracting humanities specific bibliographic references and populating a
+> Bib Server instance for them?
+>
+> If not, then this is something I would like to start doing in the near
+> future. Perhaps asking some of the Philosophy Libraries we are currently in
+> touch with if they would allows us to use their bibliographic records to
+> kick start our TEXTUS Bib Server instance and make it immediately useful to
+> those who will be working with OpenPhilosophy.org.
+>
+> Cheers,
+> Sam
+>
+> --
+> Sam Leon
+> Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org/
+> Twitter: @noeL_maS
+> Skype: samedleon
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/8ccd9ec3/attachment.htm>
+
+From okfn.sam.leon at gmail.com  Mon Jun 25 12:29:21 2012
+From: okfn.sam.leon at gmail.com (Sam Leon)
+Date: Mon, 25 Jun 2012 12:29:21 +0100
+Subject: [open-bibliography] Source of bibliographic refs for humanities?
+In-Reply-To: <CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+References: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+	<CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+Message-ID: <32268791-5C3F-49F1-8D69-BAA5AA8D8A6F@gmail.com>
+
+Tom and I will be up in Cambridge doing a TEXTUS workshop at the philosophy library there.
+
+I would be keen to see if they would be interested in sharing the data they have in their own collection.
+
+Another option could be to parse some of the larger data dumps we now see on The Data Hub for relevant material. The success of this would I guess depend on their being a topic field.
+
+Sam
+
+Sent from a mobile device
+
+On 25 Jun 2012, at 12:25, Mark MacGillivray <mark at cottagelabs.com> wrote:
+
+> Hmm, Etienne has been working on putting up an instance that contains multiple national bibliographies. Perhaps that would contain something of interest to humanities people? Apart from that, we do not yet have any specific humanities datasets, but we could easily put one up if anyone has such a collection they would like us to use.
+> 
+> Mark
+> 
+> 
+> 
+> On Sat, Jun 23, 2012 at 1:05 PM, Tom Oinn <tom.oinn at okfn.org> wrote:
+> Hi all,
+> 
+> Is there a BibServer instance I could point at which is likely to
+> contain the kind of references a scholar in the humanities would wish
+> to use as citations? I'm thinking of philosophy in particular but a
+> broader index would be fine.
+> 
+> --
+> Tom Oinn
+> +44 (0) 20 8123 5142 or Skype ID 'tomoinn'
+> http://www.crypticsquid.com
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/11dc57c8/attachment.htm>
+
+From kcoyle at kcoyle.net  Mon Jun 25 15:22:29 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 25 Jun 2012 07:22:29 -0700
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <CAD2k14MSq0_3JTPAK78xvk4UrtQCG1XctACXDUJhqNYTWWkg3g@mail.gmail.com>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+	<CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+	<CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+	<20120625101251.GD22135@openlib.org>
+	<CAD2k14MSq0_3JTPAK78xvk4UrtQCG1XctACXDUJhqNYTWWkg3g@mail.gmail.com>
+Message-ID: <4FE87425.10701@kcoyle.net>
+
+This discussion is going forward on the presumption that OCLC will allow 
+significantly large downloads to the general public. I may have missed 
+some announcement, but I am not sure that is the case. Before 
+speculating further it might be good to clarify that point.
+
+To reiterate, this most recent announcement relates to the addition of 
+data to WorldCat displays for search engine optimization. My 
+understanding is that OCLC is open to search engines, and they do 
+provide a sitemap:
+
+http://www.worldcat.org/libraries/sitemap_index.xml
+
+Beyond that it's greek to me, but perhaps someone on this list can 
+figure out what is and isn't possible.
+
+kc
+
+On 6/25/12 3:42 AM, Peter Murray-Rust wrote:
+>
+>
+> On Mon, Jun 25, 2012 at 11:12 AM, Thomas Krichel <krichel at openlib.org
+> <mailto:krichel at openlib.org>> wrote:
+>
+>
+>     ianibbo at gmail.com <mailto:ianibbo at gmail.com> writes
+>
+>      > Yet it seems so unpopular, and I
+>      > can't for the life of me figure out why :D
+>
+>       OAI-PMH is compliated, it has features nobody uses... It creates work
+>       for humans that machines would be better at.
+>
+>       I prefer plain files and ftp or better rsync.
+>
+>
+> The main problem is that it's an "academic-only" format. That means its
+> use depends on support *and development*  by the academic community
+> whereas other methods such as rsync, RESTful methods, RSS, etc are in
+> widespread use. There isn't anything specific that academics need over
+> the rest of the world.
+>
+> But having said that IF OCLC expose OAI-PMH then I am sure it can be
+> incrementally downloaded. With these endpoints the main problem is
+> knowing what is *in* the repo and ho far through you have got.
+>
+> But do OCLC have an Open OAI endpoint?
+>
+>
+>
+>       Cheers,
+>
+>       Thomas Krichel http://openlib.org/home/krichel
+>     http://authorprofile.org/pkr1
+>                                                    skype: thomaskrichel
+>
+>     _______________________________________________
+>     open-bibliography mailing list
+>     open-bibliography at lists.okfn.org
+>     <mailto:open-bibliography at lists.okfn.org>
+>     http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From pitman at stat.Berkeley.EDU  Mon Jun 25 19:17:38 2012
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 25 Jun 2012 11:17:38 -0700
+Subject: [open-bibliography] Source of bibliographic refs for humanities?
+In-Reply-To: <CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+References: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+	<CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+Message-ID: <20120625181738.D9EF478C0A5@student.Berkeley.EDU>
+
+> On Sat, Jun 23, 2012 at 1:05 PM, Tom Oinn <tom.oinn at okfn.org> wrote:
+> > Is there a BibServer instance I could point at which is likely to
+> > contain the kind of references a scholar in the humanities would wish
+> > to use as citations? I'm thinking of philosophy in particular but a
+> > broader index would be fine.
+
+I suggest you approach David Bourget http://www.dbourget.com/  maintainer of http://philpapers.org/ for permission
+to run a BibServer instance over PhilPapers data:
+"PhilPapers is a comprehensive directory of online philosophical articles and books by academic philosophers. 
+We monitor journals in many areas of philosophy, as well as archives and personal pages. 
+We also accept articles directly from users, who can provide links or upload copies."
+
+--Jim P.
+
+----------------------------------------------
+Jim Pitman
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From pm286 at cam.ac.uk  Mon Jun 25 19:21:39 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 25 Jun 2012 19:21:39 +0100
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <4FE87425.10701@kcoyle.net>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<CAEvtuKpvQWep63f7Cj8+_y_NURGA2paNHzipLNbk31Mj9=upFQ@mail.gmail.com>
+	<CAD2k14OmeCUCsY0qhHtbbksbpJzk-nizGn-ca+C0c0MeBRKvcQ@mail.gmail.com>
+	<CALc79pP8Ahtq1TA-r=XinJOjfKYaW=Ak5N5ZLN07M1KaZhu4+g@mail.gmail.com>
+	<20120625101251.GD22135@openlib.org>
+	<CAD2k14MSq0_3JTPAK78xvk4UrtQCG1XctACXDUJhqNYTWWkg3g@mail.gmail.com>
+	<4FE87425.10701@kcoyle.net>
+Message-ID: <CAD2k14M-MU2zpzB1-T+87CxWguKBtWKo4nL2wQH=eHa7CC3Egw@mail.gmail.com>
+
+On Mon, Jun 25, 2012 at 3:22 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> This discussion is going forward on the presumption that OCLC will allow
+> significantly large downloads to the general public. I may have missed some
+> announcement, but I am not sure that is the case. Before speculating
+> further it might be good to clarify that point.
+>
+
+My point is simple:
+
+* if someone says that their data is made available under an Open Database
+licence the absolute implication is that - barring technical aspects - all
+the data can be accessed. If this is not the case they have to say: "the
+following subset is made available as Open Data".
+
+>
+> To reiterate, this most recent announcement relates to the addition of
+> data to WorldCat displays for search engine optimization. My understanding
+> is that OCLC is open to search engines, and they do provide a sitemap:
+>
+
+Open to search engines but not open to you and me is NOT OPEN.
+
+
+> http://www.worldcat.org/**libraries/sitemap_index.xml<http://www.worldcat.org/libraries/sitemap_index.xml>
+>
+> Beyond that it's greek to me, but perhaps someone on this list can figure
+> out what is and isn't possible.
+>
+
+I see many cases of the word "Open" that includes untenable restrictions.
+Maybe I am prejudging here - but I am outlining what I think are absolutes.
+
+>
+> kc
+>
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120625/44b21f97/attachment.htm>
+
+From captsolo at gmail.com  Tue Jun 26 16:31:55 2012
+From: captsolo at gmail.com (Uldis Bojars)
+Date: Tue, 26 Jun 2012 18:31:55 +0300
+Subject: [open-bibliography] OCLC adds Linked Data to WorldCat.org | DDC
+ 23 released as linked data at dewey.info
+In-Reply-To: <4FE75EB6.9070401@kcoyle.net>
+References: <CAM9_6uMwzH+TJfP3=6bXgdNmbhuH8C8jU5vDN8evCb=yfpWfcw@mail.gmail.com>
+	<CA+LWsp0d09Yk3EHyfUhhARJ_Rdt6Qki2K-WVdzjNs2f8Dykicw@mail.gmail.com>
+	<CAD2k14N22+K1S6S+Hkio4qSP_AhKoareiQHVACSybUzU2pB9qA@mail.gmail.com>
+	<4FE71DD4.5060307@kcoyle.net>
+	<CAD2k14MaJoVxyDC7vCNV5n=Q4A_XkCwqMnfYovXbofhVg0z2Jw@mail.gmail.com>
+	<4FE75EB6.9070401@kcoyle.net>
+Message-ID: <CAJjMrEM5wSKY-QqBUw+MG14fc0Z3wB17GdRafqbQqS2Mab6MYg@mail.gmail.com>
+
+On Sun, Jun 24, 2012 at 9:38 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> The records themselves are not huge, at least not in the native MARC format
+> -- they tend to be in the 1K-1.5K range, and by ignoring some of the more
+> obscure data would be smaller - perhaps even half that amount. It's the
+> sheer number of fields that I think becomes an issue, not so much their
+> size. I would guess at an average of 10 fields per record, although that
+> depends on how you break out the data (e.g. if published date is considered
+> a separate field or part of the same string with the publisher name).
+
+Publishing the whole data dump should not be a big technical problem
+(apart from reserving disk space for it).
+
+It would not be much larger than the billion triple dataset (
+http://km.aifb.kit.edu/projects/btc-2011/ ) consisting of ~2bn
+triples, which archived is ~20Gb (for users' convenience it is divided
+into ~200 gzipped N-triples files).
+
+Ability to process such a large dataset is another question. If the
+full dump is available, then other volunteers could "digest" the
+dataset and provide fellow open data users with smaller, easier-to-use
+subsets. This slicing can be done using a regular home computer
+provided that ntriples files are processed "on-the-fly". Thus OCLC
+would shift the work of slicing the dataset into the hands of
+volunteers and would only need to provide raw data.
+
+Others could provide SPARQL interfaces [to the full dataset or slices
+of it] though that would require a lot more resources. Probably can be
+done by research centres or companies that develop RDF data stores.
+
+Technical questions that remain are:
+1) converting data into a format that is convenient for data dumps
+2) providing updates (dumps with new/changed records?)
+
+P.S. Looks like N-triples is the format of choice when providing RDF data dumps.
+
+Uldis
+
+
+From mark at cottagelabs.com  Wed Jun 27 09:57:38 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Wed, 27 Jun 2012 09:57:38 +0100
+Subject: [open-bibliography] Source of bibliographic refs for humanities?
+In-Reply-To: <20120625181738.D9EF478C0A5@student.Berkeley.EDU>
+References: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+	<CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+	<20120625181738.D9EF478C0A5@student.Berkeley.EDU>
+Message-ID: <CAFxzj8QS5xKqE_NQsXoycUbOT8bdqxztbxN-F1hWX-6HTQt1pQ@mail.gmail.com>
+
+Hi Sam,
+
+Philpapers has an OAI-PMH interface onto user-uploaded content, but does
+not share any other info due to licensing restrictions. However, at least
+some of their content is open access, and their terms and conditions
+restrict use for things like sale and so on.
+
+If you contact David as Jim suggests, and find out if they would be willing
+to provide a dump of all or some of their data, we could build a bibsoup
+collection out of it and use it for your textus demos. Also, I note on
+their API page that they say a JSON API is coming soon - so if we can get
+them interested by offering bibsoup functionality on their pages, which
+would give them a JSON interface, then all the better.
+
+Mark
+
+
+
+On Mon, Jun 25, 2012 at 7:17 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+> > On Sat, Jun 23, 2012 at 1:05 PM, Tom Oinn <tom.oinn at okfn.org> wrote:
+> > > Is there a BibServer instance I could point at which is likely to
+> > > contain the kind of references a scholar in the humanities would wish
+> > > to use as citations? I'm thinking of philosophy in particular but a
+> > > broader index would be fine.
+>
+> I suggest you approach David Bourget http://www.dbourget.com/  maintainer
+> of http://philpapers.org/ for permission
+> to run a BibServer instance over PhilPapers data:
+> "PhilPapers is a comprehensive directory of online philosophical articles
+> and books by academic philosophers.
+> We monitor journals in many areas of philosophy, as well as archives and
+> personal pages.
+> We also accept articles directly from users, who can provide links or
+> upload copies."
+>
+> --Jim P.
+>
+> ----------------------------------------------
+> Jim Pitman
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970  fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120627/8e155a1f/attachment.htm>
+
+From sam.leon at okfn.org  Wed Jun 27 10:12:54 2012
+From: sam.leon at okfn.org (Sam Leon)
+Date: Wed, 27 Jun 2012 10:12:54 +0100
+Subject: [open-bibliography] Source of bibliographic refs for humanities?
+In-Reply-To: <CAFxzj8QS5xKqE_NQsXoycUbOT8bdqxztbxN-F1hWX-6HTQt1pQ@mail.gmail.com>
+References: <CAPUK1paJMZw_FjPLcpWWZC-Oo_wSkm8CdWVeON2nkZgHkUATMQ@mail.gmail.com>
+	<CAFxzj8Qu73aysx4OeK-ioB+syd_pS1C91hEyWSg-2Lp_pf6uhg@mail.gmail.com>
+	<20120625181738.D9EF478C0A5@student.Berkeley.EDU>
+	<CAFxzj8QS5xKqE_NQsXoycUbOT8bdqxztbxN-F1hWX-6HTQt1pQ@mail.gmail.com>
+Message-ID: <CAOn=SAYT1qj1cTnEwWhdJ38nbbtPvGS9xUj+S0Tuxz77yrDdQA@mail.gmail.com>
+
+Excellent suggestions Jim and Mark.
+
+I will contact David this week, and feedback to the list.
+
+All the best,
+
+Sam
+
+On Wed, Jun 27, 2012 at 9:57 AM, Mark MacGillivray <mark at cottagelabs.com>wrote:
+
+> Hi Sam,
+>
+> Philpapers has an OAI-PMH interface onto user-uploaded content, but does
+> not share any other info due to licensing restrictions. However, at least
+> some of their content is open access, and their terms and conditions
+> restrict use for things like sale and so on.
+>
+> If you contact David as Jim suggests, and find out if they would be
+> willing to provide a dump of all or some of their data, we could build a
+> bibsoup collection out of it and use it for your textus demos. Also, I note
+> on their API page that they say a JSON API is coming soon - so if we can
+> get them interested by offering bibsoup functionality on their pages, which
+> would give them a JSON interface, then all the better.
+>
+> Mark
+>
+>
+>
+> On Mon, Jun 25, 2012 at 7:17 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+>
+>> > On Sat, Jun 23, 2012 at 1:05 PM, Tom Oinn <tom.oinn at okfn.org> wrote:
+>> > > Is there a BibServer instance I could point at which is likely to
+>> > > contain the kind of references a scholar in the humanities would wish
+>> > > to use as citations? I'm thinking of philosophy in particular but a
+>> > > broader index would be fine.
+>>
+>> I suggest you approach David Bourget http://www.dbourget.com/ maintainer of
+>> http://philpapers.org/ for permission
+>> to run a BibServer instance over PhilPapers data:
+>> "PhilPapers is a comprehensive directory of online philosophical articles
+>> and books by academic philosophers.
+>> We monitor journals in many areas of philosophy, as well as archives and
+>> personal pages.
+>> We also accept articles directly from users, who can provide links or
+>> upload copies."
+>>
+>> --Jim P.
+>>
+>> ----------------------------------------------
+>> Jim Pitman
+>> Professor of Statistics and Mathematics
+>> University of California
+>> 367 Evans Hall # 3860
+>> Berkeley, CA 94720-3860
+>>
+>> ph: 510-642-9970  fax: 510-642-7892
+>> e-mail: pitman at stat.berkeley.edu
+>> URL: http://www.stat.berkeley.edu/users/pitman
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+
+
+-- 
+Sam Leon
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Twitter: @noeL_maS
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120627/09f0dc65/attachment.htm>
+
+From etienne.posthumus at okfn.org  Wed Jun 27 10:14:05 2012
+From: etienne.posthumus at okfn.org (Etienne Posthumus)
+Date: Wed, 27 Jun 2012 11:14:05 +0200
+Subject: [open-bibliography] Philosophy/humanities Bibsoup
+In-Reply-To: <CAOn=SAbGq9zcBvv=ZrtvFYs_iEh3upd_JFBJRmg=LBWYrmz-Hg@mail.gmail.com>
+References: <CAOn=SAYWxBVkKNR0JrJhE76DAC5mm0KbBV3UkE-M3Pbvd7gAEA@mail.gmail.com>
+	<CAOn=SAYGCfg9zbfbBeS5WxxB0stM864HY+qvo9pibTLb=2_ZGQ@mail.gmail.com>
+	<CAOn=SAbGq9zcBvv=ZrtvFYs_iEh3upd_JFBJRmg=LBWYrmz-Hg@mail.gmail.com>
+Message-ID: <CAC=qKDGDtDe9a_Gu9G9GQCnTSrV_jwdQbVperFGapRNGR7gCpw@mail.gmail.com>
+
+Hi Sam
+
+An option is to add your own collection of humanities texts to
+BibSoup, which could then be used to link to from TEXTUS. Here is a
+blog posting showing how to create a BibSoup collection from a
+Wikipedia search as a starting point.
+http://openbiblio.net/2012/06/27/using-wikipedia-to-build-a-philosophy-or-other-sort-of-collection-in-bibsoup/
+
+Once you have a collection with some results, you can also download
+the BibJSON to your local machine and edit it in yout favourite text
+editor, and possible re-upload your edited version to BibSoup again.
+You can either download the BibJSON for an entire collection from the
+link in the top-right hand corner of a collection view (Download as
+BibJSON) or by viewing the raw data for an upload ticket tfrom the
+ticket overview screen. The ticket overview can be seen on the
+/ticket/ URL on a BibServer or from the button on the Upload form.
+
+cheers,
+
+Etienne Posthumus
+
+
+From adrian.pohl at okfn.org  Fri Jun 29 18:49:49 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 29 Jun 2012 20:49:49 +0300
+Subject: [open-bibliography] Next virtual meeting: 2012-06-10, 15:00 GMT
+Message-ID: <CAOtd05GksG7AQO-yR2RUyqmcZQ6Y5uuXR2Zcy_xspEmfZYbW+A@mail.gmail.com>
+
+Hello,
+
+as I am on holidays, itthe next virtual meeting will be postponed to
+Tuesday, 10th of July. I already created an etherpad for the meeting
+at <http://okfnpad.org/23rd-open-bibliography-meeting>. Free to add
+agenda points:
+
+All the best
+Adrian
+
+

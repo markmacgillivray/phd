@@ -1,0 +1,1991 @@
+From jonathan.gray at okfn.org  Mon Feb  7 17:34:29 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 7 Feb 2011 18:34:29 +0100
+Subject: [open-science] Open data discussion with Peter Murray-Rust and
+	Jordan Hatcher is now online
+Message-ID: <AANLkTi=+x+POyZMNXc7CgvFzebCoEhGP0x7WV3-t87uA@mail.gmail.com>
+
+FYI
+
+http://poynder.blogspot.com/2011/02/audio-of-discussion-on-open-data-now.html
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Tue Feb  8 12:32:39 2011
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Tue, 8 Feb 2011 12:32:39 -0000
+Subject: [open-science] BMC Research Notes launches data sharing series
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA035D90A1@SEGBLOGR0008.springer-sbm.com>
+
+Hi all,
+
+ 
+
+If not already seen via Twitter or the BMC Blog, we recently published
+the first article in BMC Research Notes received in response to our call
+for contributions on data standards, sharing and publication that went
+out in September:
+
+ 
+
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/bmc_research_note
+s_launches_a1
+
+ 
+
+Thanks to those on this list (especially the Editors) who have helped
+with this project. If anyone would like to contribute or knows anyone
+who might please let me know.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+Skype: iainh_z
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110208/42633857/attachment.htm>
+
+From auer at informatik.uni-leipzig.de  Sat Feb 12 19:56:42 2011
+From: auer at informatik.uni-leipzig.de (=?ISO-8859-15?Q?S=F6ren_Auer?=)
+Date: Sat, 12 Feb 2011 20:56:42 +0100
+Subject: [open-science] Making science more accountable and efficient
+Message-ID: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+
+Hi all,
+
+I just subscribed to the list, so please forgive me if you discussed a 
+similar topic already earlier.
+
+I'm regularly doing reviews for journals and conferences in computer 
+science and I notice, that still many papers describe approaches and/or 
+systems, but the underlying software and data is not (publicly) 
+available. From my point of view this substantially hinders 
+reproducability, reusability, and peer-reviewing of scientific results 
+and thus efficiency and accountability of science in general.
+
+I know there are the Panton Principles, but I think (although its good 
+to have them) they are too strict to be applied in the general case for 
+the following reasons:
+
+1. its not only about data, also algorithms and their implementations in 
+terms of software need to be made available
+
+2. sometimes it is acceptable to have this data, algorithms, software be 
+releases publicly, but not under an open license.
+
+I imagine some kind of manifesto, which stresses the importance of 
+making scientific artifacts (i.e. data, software, models etc.) 
+available, maybe in different gradations similar to the LOD start badges 
+[1]. The gradations could be:
+
+0. The scientific artifacts underlying a scientific publication are not 
+made available.
+
+1. The scientific artifacts underlying a scientific publication are made 
+available in a limited way, which do not yet enable complete 
+reproducability.
+
+2. All scientific artifacts underlying a scientific publication are made 
+available to the public, they enable complete reproducability but the 
+license they are made available under imposes restrictions potentially 
+limiting the reuse.
+
+3. Data is published according to the panton principles and all software 
+underlying a scientific publication is made available under an 
+open-source compatible license.
+
+Once such a manifesto with these gradations is produced, journals and 
+conferences can link to it and require submissions to classify 
+themselves according to these criteria (and maybe that precedence will 
+be given to more works).
+
+Has someone of you seen something like this already? If not do you think 
+the creation of such a manifesto is useful and would you be interested 
+to work with me on that?
+
+Have a nice Sunday everybody,
+
+S?ren
+
+[1] http://lab.linkeddata.deri.ie/2010/lod-badges/
+
+
+From koltzenburg at w4w.net  Sat Feb 12 20:35:02 2011
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Sat, 12 Feb 2011 21:35:02 +0100
+Subject: [open-science] Making science more accountable and efficient
+In-Reply-To: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+References: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+Message-ID: <20110212203404.M32722@ctt-journal.com>
+
+Hi Soeren,
+
+great!
+
+> Has someone of you seen something like this already?
+
+no, sorry
+
+> If not do you think 
+the creation of such a manifesto is useful and would you be interested 
+to work with me on that?
+
+yes,
+cheers,
+Claudia
+
+On Sat, 12 Feb 2011 20:56:42 +0100, S?ren Auer wrote
+> Hi all, 
+> 
+> I just subscribed to the list, so please forgive me if you discussed a 
+> similar topic already earlier. 
+> 
+> I'm regularly doing reviews for journals and conferences in computer 
+> science and I notice, that still many papers describe approaches and/or 
+> systems, but the underlying software and data is not (publicly) 
+> available. From my point of view this substantially hinders 
+> reproducability, reusability, and peer-reviewing of scientific results 
+> and thus efficiency and accountability of science in general. 
+> 
+> I know there are the Panton Principles, but I think (although its good 
+> to have them) they are too strict to be applied in the general case for 
+> the following reasons: 
+> 
+> 1. its not only about data, also algorithms and their implementations in 
+> terms of software need to be made available 
+> 
+> 2. sometimes it is acceptable to have this data, algorithms, software be 
+> releases publicly, but not under an open license. 
+> 
+> I imagine some kind of manifesto, which stresses the importance of 
+> making scientific artifacts (i.e. data, software, models etc.) 
+> available, maybe in different gradations similar to the LOD start badges 
+> [1]. The gradations could be: 
+> 
+> 0. The scientific artifacts underlying a scientific publication are not 
+> made available. 
+> 
+> 1. The scientific artifacts underlying a scientific publication are made 
+> available in a limited way, which do not yet enable complete 
+> reproducability. 
+> 
+> 2. All scientific artifacts underlying a scientific publication are made 
+> available to the public, they enable complete reproducability but the 
+> license they are made available under imposes restrictions potentially 
+> limiting the reuse. 
+> 
+> 3. Data is published according to the panton principles and all software 
+> underlying a scientific publication is made available under an 
+> open-source compatible license. 
+> 
+> Once such a manifesto with these gradations is produced, journals and 
+> conferences can link to it and require submissions to classify 
+> themselves according to these criteria (and maybe that precedence will 
+> be given to more works). 
+> 
+> Has someone of you seen something like this already? If not do you think 
+> the creation of such a manifesto is useful and would you be interested 
+> to work with me on that? 
+> 
+> Have a nice Sunday everybody, 
+> 
+> S?ren 
+> 
+> [1] http://lab.linkeddata.deri.ie/2010/lod-badges/ 
+> 
+> _______________________________________________ 
+> open-science mailing list 
+> open-science at lists.okfn.org 
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110212/8f20d277/attachment.htm>
+
+From wilbanks at creativecommons.org  Sun Feb 13 06:44:07 2011
+From: wilbanks at creativecommons.org (john wilbanks)
+Date: Sat, 12 Feb 2011 22:44:07 -0800
+Subject: [open-science] Making science more accountable and efficient
+In-Reply-To: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+References: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+Message-ID: <4D577DB7.8060908@creativecommons.org>
+
+You should check out Victoria Stodden's work on Reproducible Research.
+
+http://www.stanford.edu/~vcs/talks/VictoriaStoddenCommuniaJune2009-2.pdf
+http://www.stanford.edu/~vcs/papers/ERROLSI03092009.pdf
+
+jtw
+
+On 2/12/2011 11:56 AM, S?ren Auer wrote:
+> Hi all,
+>
+> I just subscribed to the list, so please forgive me if you discussed a
+> similar topic already earlier.
+>
+> I'm regularly doing reviews for journals and conferences in computer
+> science and I notice, that still many papers describe approaches and/or
+> systems, but the underlying software and data is not (publicly)
+> available. From my point of view this substantially hinders
+> reproducability, reusability, and peer-reviewing of scientific results
+> and thus efficiency and accountability of science in general.
+>
+> I know there are the Panton Principles, but I think (although its good
+> to have them) they are too strict to be applied in the general case for
+> the following reasons:
+>
+> 1. its not only about data, also algorithms and their implementations in
+> terms of software need to be made available
+>
+> 2. sometimes it is acceptable to have this data, algorithms, software be
+> releases publicly, but not under an open license.
+>
+> I imagine some kind of manifesto, which stresses the importance of
+> making scientific artifacts (i.e. data, software, models etc.)
+> available, maybe in different gradations similar to the LOD start badges
+> [1]. The gradations could be:
+>
+> 0. The scientific artifacts underlying a scientific publication are not
+> made available.
+>
+> 1. The scientific artifacts underlying a scientific publication are made
+> available in a limited way, which do not yet enable complete
+> reproducability.
+>
+> 2. All scientific artifacts underlying a scientific publication are made
+> available to the public, they enable complete reproducability but the
+> license they are made available under imposes restrictions potentially
+> limiting the reuse.
+>
+> 3. Data is published according to the panton principles and all software
+> underlying a scientific publication is made available under an
+> open-source compatible license.
+>
+> Once such a manifesto with these gradations is produced, journals and
+> conferences can link to it and require submissions to classify
+> themselves according to these criteria (and maybe that precedence will
+> be given to more works).
+>
+> Has someone of you seen something like this already? If not do you think
+> the creation of such a manifesto is useful and would you be interested
+> to work with me on that?
+>
+> Have a nice Sunday everybody,
+>
+> S?ren
+>
+> [1] http://lab.linkeddata.deri.ie/2010/lod-badges/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+John Wilbanks
+VP for Science
+Creative Commons
+web: http://creativecommons.org/science
+blog: http://scienceblogs.com/commonknowledge
+twitter: @wilbanks
+
+
+From pm286 at cam.ac.uk  Sun Feb 13 09:43:22 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 13 Feb 2011 09:43:22 +0000
+Subject: [open-science] Making science more accountable and efficient
+In-Reply-To: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+References: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+Message-ID: <AANLkTimsdYOPF65JQ9EwvTQcSGm9cFhv=u_8vfkRpVGC@mail.gmail.com>
+
+On Sat, Feb 12, 2011 at 7:56 PM, S?ren Auer
+<auer at informatik.uni-leipzig.de>wrote:
+
+> Hi all,
+>
+> I just subscribed to the list, so please forgive me if you discussed a
+> similar topic already earlier.
+>
+> I'm regularly doing reviews for journals and conferences in computer
+> science and I notice, that still many papers describe approaches and/or
+> systems, but the underlying software and data is not (publicly) available.
+> From my point of view this substantially hinders reproducability,
+> reusability, and peer-reviewing of scientific results and thus efficiency
+> and accountability of science in general.
+>
+
+I think we woudl all agree this. For example Cameron Neylon is heading up a
+new Open Access journal:
+http://www.openresearchcomputation.com/
+
+
+>
+> I know there are the Panton Principles, but I think (although its good to
+> have them) they are too strict to be applied in the general case for the
+> following reasons:
+>
+> They are many people trying to develop approaches to "Open Science" where
+the whole experiment (hypothesis, design, methodology, materials, data,
+programs, artefacts, etc.) is available.
+
+The reason for Panton was that the role of data was poorly formalised and we
+felt that the process for making it Open could be formalised and
+evangelised. In a sense this is already true for software - if it's Open
+Source then it's available and the challenge is to persuade mor people to
+make software Open Source - evangelism/advocacy rather than mechanics.
+
+Processes are much more difficult to describe but I suspect that we shall
+start to see efforts to define Open Scientific processes including
+intrumentation, data capture, methodology and materials.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110213/4c86aca5/attachment.htm>
+
+From auer at informatik.uni-leipzig.de  Sun Feb 13 13:33:37 2011
+From: auer at informatik.uni-leipzig.de (=?ISO-8859-1?Q?S=F6ren_Auer?=)
+Date: Sun, 13 Feb 2011 14:33:37 +0100
+Subject: [open-science] Making science more accountable and efficient
+In-Reply-To: <8F2B431D-B15D-4C02-8D4E-5FE48A97FEFF@cameronneylon.net>
+References: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+	<8F2B431D-B15D-4C02-8D4E-5FE48A97FEFF@cameronneylon.net>
+Message-ID: <4D57DDB1.2090703@informatik.uni-leipzig.de>
+
+Dear Cameron, others,
+
+Thanks for your comments so far.
+
+> There have been a lot of efforts along these lines. Many have come
+> from different angles but the idea of "levels" of certification for
+> openness has been a common theme. There is a message inherent in the
+> fact that there have been a bunch of efforts and most of us have
+> never heard of them.
+
+Can you give me some pointers to these related initiatives?
+
+> The message is that this is hard because you're trying to tackle a
+> bunch of things at the same time. First get some agreement on what
+> standards of openess are.
+
+I think for software (Open Source), creative works (CC) and data (Open 
+Data) we have these standards already, what other scientific artifacts 
+are there? Maybe models (like UML models, ontologies, taxonomies, 
+experimental architecture models) - I guess one of the other categories 
+might fit for them too, e.g. ontologies/taxonomies could be considered 
+as Open Data or creative works in terms of CC.
+
+Also, openness (as I said in my initial email) is not the most important 
+issue here - if an artifact is not open for good reasons, but it is at 
+least made available to the scientific community and public for 
+peer-review evaluation purposes, this is already a big step forward to 
+what we have now.
+
+> Second problem is that you need to go from zero adoption to wide
+> adoption before you can have an effect.
+
+I think you have already an effect if one conference or journal requires 
+authors to classify their work according to the suggested criteria. All 
+authors submitting to this journal or conference will have to think 
+about it and since the rule applies to all submission to this particular 
+science outlets its also fair. In fact if we would manage to get a few 
+good science outlets in a certain field on board this could be the start 
+of a paradigm shift in that field.
+
+> My suggestion would be that it is easier and probably more effective
+> to bite of small chunks of the problem.
+> This is what we tried to do with the Panton principles, and various
+> people are looking at generalising them beyond data (not without some
+> disagreement).
+
+I think this fragmentation actually is counter productive. Ideally this 
+would be tackled with one set of principles and/or manifesto and I would 
+be more than happy if my ideas, for example, could be integrated into 
+the Panton principles (although I doubt this would be possible, since it 
+would require quite some substantial changes).
+
+> As John pointed out Victoria Stodden has essentially described what
+> the gold standard should be.
+
+I think making openness the gold standard and requiring scientists to 
+release their data under CC0 can not be a model for science in general. 
+There are many cases where its actually acceptable that data, software 
+etc. to be released under different terms and this should not be 
+neglected. However, the terms should be made explicit and there should 
+be always a publicly available version for peer-review and evaluation 
+purposes. At least for computer science, I think this would in the end 
+indirectly dramatically facilitate openness, currently I have the 
+impression many computer science researchers "hide" their artifacts more 
+because their implementations are not robust and usable enough than 
+because they are against openness. If there is preassure (from journals 
+and conferences) to make it publicly available, they have to improve 
+usability and robustness anyway and then they will also make it 
+available in truly open ways.
+
+S?ren
+
+
+From m.kempe at qmul.ac.uk  Sun Feb 13 14:17:36 2011
+From: m.kempe at qmul.ac.uk (Marius Kempe)
+Date: Sun, 13 Feb 2011 14:17:36 +0000
+Subject: [open-science] Making science more accountable and efficient
+In-Reply-To: <4D57DDB1.2090703@informatik.uni-leipzig.de>
+References: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+	<8F2B431D-B15D-4C02-8D4E-5FE48A97FEFF@cameronneylon.net>
+	<4D57DDB1.2090703@informatik.uni-leipzig.de>
+Message-ID: <AANLkTi=zurz2dWGcNFd5hWfqxcj3nGNK0qD7qOwA+f6r@mail.gmail.com>
+
+Lance McKee mentioned something about a month ago that seems close to what
+you're talking about:
+
+for an image, see
+http://lists.okfn.org/pipermail/open-science/attachments/20110112/988b8c83/attachment-0001.png
+
+for more info, see
+http://lists.okfn.org/pipermail/open-science/2011-January/000613.html
+
+On Sun, Feb 13, 2011 at 1:33 PM, S?ren Auer
+<auer at informatik.uni-leipzig.de>wrote:
+
+> Dear Cameron, others,
+>
+> Thanks for your comments so far.
+>
+>  There have been a lot of efforts along these lines. Many have come
+>> from different angles but the idea of "levels" of certification for
+>> openness has been a common theme. There is a message inherent in the
+>> fact that there have been a bunch of efforts and most of us have
+>> never heard of them.
+>>
+>
+> Can you give me some pointers to these related initiatives?
+>
+>  The message is that this is hard because you're trying to tackle a
+>> bunch of things at the same time. First get some agreement on what
+>> standards of openess are.
+>>
+>
+> I think for software (Open Source), creative works (CC) and data (Open
+> Data) we have these standards already, what other scientific artifacts are
+> there? Maybe models (like UML models, ontologies, taxonomies, experimental
+> architecture models) - I guess one of the other categories might fit for
+> them too, e.g. ontologies/taxonomies could be considered as Open Data or
+> creative works in terms of CC.
+>
+> Also, openness (as I said in my initial email) is not the most important
+> issue here - if an artifact is not open for good reasons, but it is at least
+> made available to the scientific community and public for peer-review
+> evaluation purposes, this is already a big step forward to what we have now.
+>
+>  Second problem is that you need to go from zero adoption to wide
+>> adoption before you can have an effect.
+>>
+>
+> I think you have already an effect if one conference or journal requires
+> authors to classify their work according to the suggested criteria. All
+> authors submitting to this journal or conference will have to think about it
+> and since the rule applies to all submission to this particular science
+> outlets its also fair. In fact if we would manage to get a few good science
+> outlets in a certain field on board this could be the start of a paradigm
+> shift in that field.
+>
+>  My suggestion would be that it is easier and probably more effective
+>> to bite of small chunks of the problem.
+>> This is what we tried to do with the Panton principles, and various
+>> people are looking at generalising them beyond data (not without some
+>> disagreement).
+>>
+>
+> I think this fragmentation actually is counter productive. Ideally this
+> would be tackled with one set of principles and/or manifesto and I would be
+> more than happy if my ideas, for example, could be integrated into the
+> Panton principles (although I doubt this would be possible, since it would
+> require quite some substantial changes).
+>
+>  As John pointed out Victoria Stodden has essentially described what
+>> the gold standard should be.
+>>
+>
+> I think making openness the gold standard and requiring scientists to
+> release their data under CC0 can not be a model for science in general.
+> There are many cases where its actually acceptable that data, software etc.
+> to be released under different terms and this should not be neglected.
+> However, the terms should be made explicit and there should be always a
+> publicly available version for peer-review and evaluation purposes. At least
+> for computer science, I think this would in the end indirectly dramatically
+> facilitate openness, currently I have the impression many computer science
+> researchers "hide" their artifacts more because their implementations are
+> not robust and usable enough than because they are against openness. If
+> there is preassure (from journals and conferences) to make it publicly
+> available, they have to improve usability and robustness anyway and then
+> they will also make it available in truly open ways.
+>
+> S?ren
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110213/16b5b3b2/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Feb 13 16:06:21 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 13 Feb 2011 16:06:21 +0000
+Subject: [open-science] Making science more accountable and efficient
+In-Reply-To: <4D57DDB1.2090703@informatik.uni-leipzig.de>
+References: <4D56E5FA.3040304@informatik.uni-leipzig.de>
+	<8F2B431D-B15D-4C02-8D4E-5FE48A97FEFF@cameronneylon.net>
+	<4D57DDB1.2090703@informatik.uni-leipzig.de>
+Message-ID: <AANLkTimamEvNTSSPSE_egxQvxovvM_Yn6d68Ea1Zk0xw@mail.gmail.com>
+
+On Sun, Feb 13, 2011 at 1:33 PM, S?ren Auer
+<auer at informatik.uni-leipzig.de>wrote:
+
+>
+>  My suggestion would be that it is easier and probably more effective
+>> to bite of small chunks of the problem.
+>> This is what we tried to do with the Panton principles, and various
+>> people are looking at generalising them beyond data (not without some
+>> disagreement).
+>>
+>
+> I think this fragmentation actually is counter productive. Ideally this
+> would be tackled with one set of principles and/or manifesto and I would be
+> more than happy if my ideas, for example, could be integrated into the
+> Panton principles (although I doubt this would be possible, since it would
+> require quite some substantial changes).
+>
+> This is one of the fundamental problems which may only be resolved by
+experimentation, campaigning, etc.
+
+The Open Access movement effectively split (or at least bent) over whether
+papers should be simply visible (self-archiving) or whether they should be
+certified as Open (e.g. CC-BY) and points on the specturm. Stefan Harnad's
+argument was that we should first campaign for "green" OA and when all
+authors had self-archived, only then should we aim for "gold" or CC-BY (I'm
+conflating the concepts slightly).
+
+With Panton we felt that :
+* there was an identified problem (data was published and not labelled)
+* that there was an unawareness of the need to publish data
+* that the initiative could be taken forward without assembling large
+committees
+* that it would have a catalystic effect bot on data and also other types of
+publication.
+* that it had a good probability of success.
+
+Most of these are sociopolitical, not ethical concerns, and based on
+pragmatism. So we would argue that Panton has helped to take one section
+forward, created high awareness and has not done harm to the wider cause
+(i.e. people are not saying  "we've solved data, there's nothing left to
+worry about").
+
+We have the same spectrum as in politics. For example in campaigning for
+human rights some people will address a specific area (e.g. prisoners) where
+others will address the world political process, other address education,
+etc.
+
+So (for me at least) it's a matter of judgment not logic or conflicting
+ultimate goals.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110213/c86c7361/attachment.htm>
+
+From koltzenburg at w4w.net  Mon Feb 14 21:11:12 2011
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Mon, 14 Feb 2011 22:11:12 +0100
+Subject: [open-science] new term sought for: open[ly editable for authors]
+	Fw: [BOAI] last call for a terminology suggestion
+In-Reply-To: <EMEW3|c6f83c4aba179cff19eba017f073f3b4n1DKA012boai-forum-bounces|ecs.soton.ac.uk|AANLkTi=d88=c0QNz-Mv=5Kq+o0_XCfpNo9PtAN_5Xm5s@mail.gmail.com>
+References: <AANLkTi=d88=c0QNz-Mv=5Kq+o0_XCfpNo9PtAN_5Xm5s@mail.gmail.com>
+	<EMEW3|c6f83c4aba179cff19eba017f073f3b4n1DKA012boai-forum-bounces|ecs.soton.ac.uk|AANLkTi=d88=c0QNz-Mv=5Kq+o0_XCfpNo9PtAN_5Xm5s@mail.gmail.com>
+Message-ID: <20110214210910.M42997@ctt-journal.com>
+
+... thought there might be some creative bytes around here ;-) fyi, Claudia
+
+---------- Forwarded Message -----------
+From: Peter Suber <peter.suber at gmail.com> 
+To: SOAF post <SPARC-OAForum at arl.org>, BOAI Forum post <boai-forum at ecs.soton.ac.uk> 
+Sent: Mon, 14 Feb 2011 14:53:09 -0500 
+Subject: [BOAI] ?last call for a terminology suggestion
+
+In the February issue of SOAN, I called for?reader help in coming up with a short, sweet term for author-side openness, for example, the openness of wikis to user edits. ?If "open access" is openness to readers and other users, human and machine, what's a good analogous term for openness to authors?
+
+http://www.earlham.edu/~peters/fos/newsletter/02-02-11.htm#contest
+
+This is a last call for suggestions before I start to write up the results for the March issue of SOAN. ?Send me your ideas at peter [dot] suber [at] gmail [dot] com. ?I'll assume that I may name and quote you unless you tell me that I shouldn't.?
+
+?? ? Thanks,
+
+?? ? Peter
+
+Peter Suber
+
+bit.ly/suber?
+
+------- End of Forwarded Message -------
+
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110214/f2e3e3b1/attachment.htm>
+-------------- next part --------------
+        
+--      
+To unsubscribe from the BOAI Forum, use the form on this page:
+http://www.soros.org/openaccess/forum.shtml?f
+
+
+
+From jcmcoppice12 at gmail.com  Mon Feb 14 21:45:18 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Mon, 14 Feb 2011 21:45:18 +0000
+Subject: [open-science] Working Group Meeting - Wed 16 Feb, 17.30 GMT
+In-Reply-To: <AANLkTin=BVAGs2mwp9hgnVL5LFpCdhBfDR3W=qXgqVX=@mail.gmail.com>
+References: <AANLkTin=BVAGs2mwp9hgnVL5LFpCdhBfDR3W=qXgqVX=@mail.gmail.com>
+Message-ID: <AANLkTik=NuDauRYz_6WCyU-7mHkPmvWqVtU=vNDn_LFt@mail.gmail.com>
+
+Dear All
+
+Just a reminder about the meeting on Wednesday - hope to see you there!
+
+Best wishes
+
+Jenny
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jcmcoppice12 at gmail.com>
+Date: Wed, Jan 26, 2011 at 10:41 PM
+Subject: Working Group Meeting - Wed 16 Feb, 17.30 GMT
+To: open-science at lists.okfn.org
+
+
+Dear All
+
+Our last meeting was very productive, and as the current Panton Papers are
+due to be at first draft stage by 15th Feb (get collaborating at
+http://science.okfnpad.org/PantonPapers!), we'll meet again just after that
+deadline. This is quite advance notice so I'll send a reminder closer to the
+date!
+
+When:      Wednesday 16th February at 17.30 GMT
+Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh) and
+Skype (add your Skype ID to http://okfnpad.org/sciencewg-16Feb2011)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-16Feb2011
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Thanks very much, and I look forward to speaking to you all soon.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110214/65078827/attachment.htm>
+
+From m.kempe at qmul.ac.uk  Mon Feb 14 22:11:26 2011
+From: m.kempe at qmul.ac.uk (Marius Kempe)
+Date: Mon, 14 Feb 2011 22:11:26 +0000
+Subject: [open-science] Working Group Meeting - Wed 16 Feb, 17.30 GMT
+In-Reply-To: <AANLkTik=NuDauRYz_6WCyU-7mHkPmvWqVtU=vNDn_LFt@mail.gmail.com>
+References: <AANLkTin=BVAGs2mwp9hgnVL5LFpCdhBfDR3W=qXgqVX=@mail.gmail.com>
+	<AANLkTik=NuDauRYz_6WCyU-7mHkPmvWqVtU=vNDn_LFt@mail.gmail.com>
+Message-ID: <AANLkTinyg4JZm1qdrB_YeDwqbRrAjVoV76+ogT=BiOzX@mail.gmail.com>
+
+Out of interest, what is the rationale for requiring a password to access
+the Panton Papers etherpad?
+
+On Mon, Feb 14, 2011 at 9:45 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Dear All
+>
+> Just a reminder about the meeting on Wednesday - hope to see you there!
+>
+> Best wishes
+>
+> Jenny
+>
+> ---------- Forwarded message ----------
+> From: Jenny Molloy <jcmcoppice12 at gmail.com>
+> Date: Wed, Jan 26, 2011 at 10:41 PM
+> Subject: Working Group Meeting - Wed 16 Feb, 17.30 GMT
+> To: open-science at lists.okfn.org
+>
+>
+> Dear All
+>
+> Our last meeting was very productive, and as the current Panton Papers are
+> due to be at first draft stage by 15th Feb (get collaborating at
+> http://science.okfnpad.org/PantonPapers!), we'll meet again just after
+> that deadline. This is quite advance notice so I'll send a reminder closer
+> to the date!
+>
+> When:      Wednesday 16th February at 17.30 GMT
+> Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh)
+> and Skype (add your Skype ID to http://okfnpad.org/sciencewg-16Feb2011)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-16Feb2011
+> Add anything you'd like to be discussed or new ideas to the agenda (even if
+> you can't make it yourself, just make sure you add enough details).
+>
+> Thanks very much, and I look forward to speaking to you all soon.
+>
+> Jenny
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110214/1a99929f/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Feb 14 22:41:34 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 14 Feb 2011 22:41:34 +0000
+Subject: [open-science] new term sought for: open[ly editable for
+ authors] Fw: [BOAI] last call for a terminology suggestion
+In-Reply-To: <20110214210910.M42997@ctt-journal.com>
+References: <AANLkTi=d88=c0QNz-Mv=5Kq+o0_XCfpNo9PtAN_5Xm5s@mail.gmail.com>
+	<EMEW3|c6f83c4aba179cff19eba017f073f3b4n1DKA012boai-forum-bounces|ecs.soton.ac.uk|AANLkTi=d88=c0QNz-Mv=5Kq+o0_XCfpNo9PtAN_5Xm5s@mail.gmail.com>
+	<20110214210910.M42997@ctt-journal.com>
+Message-ID: <AANLkTinTo70Kn=0RaniorPgbKhjXHF3-fT6fUZ2XRfnt@mail.gmail.com>
+
+I have posted some comments at:
+*http://blogs.ch.cam.ac.uk/pmr/2011/02/14/open-writing-and-scholarly-html/*
+
+On Mon, Feb 14, 2011 at 9:11 PM, <koltzenburg at w4w.net> wrote:
+
+>   ... thought there might be some creative bytes around here ;-) fyi,
+> Claudia
+> *
+> ---------- Forwarded Message -----------*
+> From: Peter Suber <peter.suber at gmail.com>
+> To: SOAF post <SPARC-OAForum at arl.org>, BOAI Forum post <
+> boai-forum at ecs.soton.ac.uk>
+> Sent: Mon, 14 Feb 2011 14:53:09 -0500
+> Subject: [BOAI]  last call for a terminology suggestion
+>
+> In the February issue of SOAN, I called for reader help in coming up with
+> a short, sweet term for author-side openness, for example, the openness of
+> wikis to user edits.  If "open access" is openness to readers and other
+> users, human and machine, what's a good analogous term for openness to
+> authors?
+> http://www.earlham.edu/~peters/fos/newsletter/02-02-11.htm#contest
+>
+>
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110214/26ffb83c/attachment.htm>
+
+From m.kempe at qmul.ac.uk  Mon Feb 14 23:09:13 2011
+From: m.kempe at qmul.ac.uk (Marius Kempe)
+Date: Mon, 14 Feb 2011 23:09:13 +0000
+Subject: [open-science] Working Group Meeting - Wed 16 Feb, 17.30 GMT
+In-Reply-To: <AANLkTinJn7gjaSQx=A32jtS=gk8wXe=X+Ng_z0SyRF1Y@mail.gmail.com>
+References: <AANLkTin=BVAGs2mwp9hgnVL5LFpCdhBfDR3W=qXgqVX=@mail.gmail.com>
+	<AANLkTik=NuDauRYz_6WCyU-7mHkPmvWqVtU=vNDn_LFt@mail.gmail.com>
+	<AANLkTinyg4JZm1qdrB_YeDwqbRrAjVoV76+ogT=BiOzX@mail.gmail.com>
+	<AANLkTikiY-2E7zQMULaz90gL9nVvjdpSiZe7hKtUD2Xe@mail.gmail.com>
+	<AANLkTinJn7gjaSQx=A32jtS=gk8wXe=X+Ng_z0SyRF1Y@mail.gmail.com>
+Message-ID: <AANLkTim88P3wOJkWYgz+uvp+28yt5JJxfmiJ3rR0sjkt@mail.gmail.com>
+
+Yes, thanks! To everybody else: the correct URL is
+http://science.okfnpad.org/PantonPapers
+
+On Mon, Feb 14, 2011 at 10:28 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Looks like Gmail has hyperlinked a ! typo in my message, the address should
+> be http://science.okfnpad.org/PantonPapers
+>
+> Does that work?
+>
+> Jenny
+>
+>
+> On Mon, Feb 14, 2011 at 10:24 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+>
+>> Hi Marius
+>>
+>> I wasn't aware there was a password on it! Which URL are you trying?
+>>
+>> Jenny
+>>
+>>
+>> On Mon, Feb 14, 2011 at 10:11 PM, Marius Kempe <m.kempe at qmul.ac.uk>wrote:
+>>
+>>> Out of interest, what is the rationale for requiring a password to access
+>>> the Panton Papers etherpad?
+>>>
+>>> On Mon, Feb 14, 2011 at 9:45 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+>>>
+>>>> Dear All
+>>>>
+>>>> Just a reminder about the meeting on Wednesday - hope to see you there!
+>>>>
+>>>> Best wishes
+>>>>
+>>>> Jenny
+>>>>
+>>>> ---------- Forwarded message ----------
+>>>> From: Jenny Molloy <jcmcoppice12 at gmail.com>
+>>>> Date: Wed, Jan 26, 2011 at 10:41 PM
+>>>> Subject: Working Group Meeting - Wed 16 Feb, 17.30 GMT
+>>>> To: open-science at lists.okfn.org
+>>>>
+>>>>
+>>>> Dear All
+>>>>
+>>>> Our last meeting was very productive, and as the current Panton Papers
+>>>> are due to be at first draft stage by 15th Feb (get collaborating at
+>>>> http://science.okfnpad.org/PantonPapers!), we'll meet again just after
+>>>> that deadline. This is quite advance notice so I'll send a reminder closer
+>>>> to the date!
+>>>>
+>>>> When:      Wednesday 16th February at 17.30 GMT
+>>>> Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh)
+>>>> and Skype (add your Skype ID to http://okfnpad.org/sciencewg-16Feb2011)
+>>>>
+>>>> Please add your name and Skype ID to the list of attendees on
+>>>> http://okfnpad.org/sciencewg-16Feb2011
+>>>> Add anything you'd like to be discussed or new ideas to the agenda (even
+>>>> if you can't make it yourself, just make sure you add enough details).
+>>>>
+>>>> Thanks very much, and I look forward to speaking to you all soon.
+>>>>
+>>>> Jenny
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>>
+>>>> open-science at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>>
+>>>
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110214/59517487/attachment-0001.htm>
+
+From greg at grossmeier.net  Wed Feb 16 16:13:39 2011
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Wed, 16 Feb 2011 11:13:39 -0500
+Subject: [open-science] Working Group Meeting - Wed 16 Feb, 17.30 GMT
+In-Reply-To: <AANLkTin=BVAGs2mwp9hgnVL5LFpCdhBfDR3W=qXgqVX=@mail.gmail.com>
+References: <AANLkTin=BVAGs2mwp9hgnVL5LFpCdhBfDR3W=qXgqVX=@mail.gmail.com>
+Message-ID: <20110216161339.GB2644@grossmeier.net>
+
+<quoting name="Jenny Molloy" date="2011-01-26" time="22:41:29 +0000">
+> Dear All
+> 
+> Our last meeting was very productive, and as the current Panton Papers are
+> due to be at first draft stage by 15th Feb (get collaborating at
+> http://science.okfnpad.org/PantonPapers!), we'll meet again just after that
+> deadline. This is quite advance notice so I'll send a reminder closer to the
+> date!
+
+My deepest apologies, but I am scheduled to give a presentation today 
+during our meeting time so I won't be able to make it.
+
+I did update the agenda with my update of the DataRights PantonPaper to 
+keep everyone in the loop.
+
+Best,
+
+Greg
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From jcmcoppice12 at gmail.com  Thu Feb 17 23:38:38 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Thu, 17 Feb 2011 23:38:38 +0000
+Subject: [open-science] Minutes from WG Meeting Feb 16 2011
+Message-ID: <AANLkTi=9GcysQt8jj3x3NWZVQR8OffSRgbGZnWQ+-xvT@mail.gmail.com>
+
+Dear All
+
+See below for a summary of key points from the WG meeting on Feb 16 2011,
+I've listed here the main updates, followed by a list of things you could
+contribute to and any interesting events that are coming up. If you'd like
+more detailed updates on projects or to view the full minutes, visit
+http://okfnpad.org/sciencewg-16Feb2011
+
+The next meeting will be Wednesday 9th March, 17:30 GMT.
+
+-------------------
+Updates:
+
+Panton Papers Drafts:
+The PP drafts are ongoing, please see the meeting Etherpad for an update
+from Greg on his Intellectual Property and Data paper and see previous
+emails for more information on who is doing what.
+
+Advertising the working group and collaborative activities:
+There are many groups with similar interests to our own, a few potential
+groups to get in touch with are listed on the Etherpad but please feel free
+to add others!
+
+CKAN Package Parties/Hack sessions:
+One way to collaborate with other subject specific groups could be to
+organise short time periods where we work to add/curate data packages on
+CKAN within a certain theme and make Is It Open? requests as applicable.
+
+Egon Willighagen introduced the meeting to the topic of linked open drug
+data http://www.w3.org/wiki/HCLSIG/LODD/Data. There is already a group of
+packages added to CKAN http://ckan.net/package/lodd_group but we could add
+others and send requests where the openness of data is not clear. A package
+party is provisionally scheduled for Monday March 7th at 19:00 GMT, for
+about an hour. More details to follow, but please put the date in your
+diary! If you know any other open sciencers in your area, why not make it a
+physical meet up? Preferably with cake, which always improves both
+attendance and productivity.
+
+Hopefully this will be a regular activity, so if there is an open science
+data theme you think needs attention, please bring it up at a future
+meeting.
+
+OKCon Science Participation:
+The call for participation at the Open Knowledge Conference 2011 can be
+found here http://okcon.org/2011/cfp/. It would be great to get plenty of
+open scientific data related proposals, so please forward this to any people
+or organisations you think would be interested.
+
+There is a list of where the CFP has already been sent on the OKCon Etherpad
+http://okcon.okfnpad.org/2011.
+
+Open Science Working Group page:
+The home of the working group http://science.okfn.org/ currently has a
+lovely but irrelevant landscape as its page header. Suggestions were sought
+for a new image and Amrapali has offered to generate an open science themed
+word cloud using http://www.wordle.net/.
+Watch this space for an image revamp!
+
+We also hope to embed or link to a calendar listing all meeting dates and
+relevant conferences and events submitted by group members or tagged as open
+science related on http://lanyrd.com/.
+
+------------------
+Things to Do!
+
+1) Join the linked open drug data package party on Monday 7th March, 19:00
+GMT
+2) Send the OKCon CFP to any people/organisations you think might be
+interested in participating http://okcon.org/2011/cfp/<http://bit.ly/cFgi94>
+3) Continue collaborating and commenting on Panton Paper drafts, see the
+meeting minutes at http://okfnpad.org/sciencewg-16Feb2011 and
+http://okfnpad.org/sciencewg-meetings for more information.
+
+----------------
+OKF/Open Science Related Events:
+
+30 Jun/1 Jul - OKCon at Kalkscheune, Berlin (www.kalkscheune.de), see the
+website at http://okcon.org/2011/ for more details and to register.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110217/47501d66/attachment.htm>
+
+From egon.willighagen at gmail.com  Mon Feb 21 08:32:40 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Mon, 21 Feb 2011 09:32:40 +0100
+Subject: [open-science] Minutes from WG Meeting Feb 16 2011
+In-Reply-To: <AANLkTi=9GcysQt8jj3x3NWZVQR8OffSRgbGZnWQ+-xvT@mail.gmail.com>
+References: <AANLkTi=9GcysQt8jj3x3NWZVQR8OffSRgbGZnWQ+-xvT@mail.gmail.com>
+Message-ID: <AANLkTimM-XtOM+MwnKVyWF1N733V-tX-avSM1XWgvZ2a@mail.gmail.com>
+
+Hi all,
+
+On Fri, Feb 18, 2011 at 12:38 AM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> Egon Willighagen introduced the meeting to the topic of linked open drug
+> data http://www.w3.org/wiki/HCLSIG/LODD/Data. There is already a group of
+> packages added to CKAN http://ckan.net/package/lodd_group
+
+Actually, that record is not a group, but a catalog record itself...
+see my thoughts I wrote up this morning:
+
+http://chem-bla-ics.blogspot.com/2011/02/ckan-and-rdf-nice-example-on-why.html
+
+I did create an actual group, to which I will add the currently listed
+12 data sets LODD 'redistributes'...
+
+http://ckan.net/group/hclsig_lodd
+
+> but we could add
+> others and send requests where the openness of data is not clear. A package
+> party is provisionally scheduled for Monday March 7th at 19:00 GMT, for
+> about an hour. More details to follow, but please put the date in your
+> diary! If you know any other open sciencers in your area, why not make it a
+> physical meet up? Preferably with cake, which always improves both
+> attendance and productivity.
+
+I have send around this meeting within the LODD group, and several
+participants will join in.
+
+Right now, it would be good to get those CKAN definitions tuned for
+what is supposed to be in a record. I have outlined some problems in
+that blog post given earlier, and hope that this can be the start of a
+general clean up effort...
+
+Whom should we talk to, to get those definitions of what is a
+'dataset' worked out?
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From jason.kitcat at okfn.org  Mon Feb 21 12:22:02 2011
+From: jason.kitcat at okfn.org (Jason Kitcat)
+Date: Mon, 21 Feb 2011 12:22:02 +0000
+Subject: [open-science] Invitation to OKCon 2011 in Berlin
+Message-ID: <9A3B946F-2EC8-4D46-BC23-3EA0454FD168@okfn.org>
+
+Dear working group members,
+
+The 6th Annual Open Knowledge Conference (OKCon) will take place on 30th June ? 1st July 2011 in Berlin, Germany.
+
+	Website: http://okcon.org/2011
+	Call for participation: http://okcon.org/2011/cfp/
+
+We are delighted to invite you to OKCon 2011. It's of great importance to have a good representation of all Working Groups and their work at OKFN at OKCon 2011. 
+
+We would like to encourage you to get actively involved with OKCon! Especially it would be great if you could contribute with submissions for presentations and workshops to make sure the work of this WG is present and shared with others at OKCon 2011! There are several ways to participate (the deadline is May 1st). Please have a look at the How To Participate Section below. 
+
+We also want to make sure that all Working Groups are represented in the Programme Committee. Please see
+
+	http://wiki.okfn.org/okcon/2011/committee
+
+If you think your Working Group is not jet represented in the committee, please let us know your suggestions directly at: okcon at okfn.org
+
+We are looking forward for your participation! It would be great to meet some you at OKCon 2011 in Berlin. 
+
+Regards,
+Jason
+
+
+[Apologies for cross-posting]
+
+
+Announcement
+
+The 6th Annual Open Knowledge Conference (OKCon) will take place on 30th June ? 1st July 2011 in Berlin. OKCon is a wide-ranging conference that brings together individuals and organizations from across the open knowledge spectrum for two days of presentations, workshops and exchange of ideas.
+
+Open knowledge promises significant social and economic benefits in a wide range of areas from governance to science, culture to technology. Opening up access to content and data can radically increase access and reuse, bridge gaps, improve transparency and thus foster innovation and increase societal welfare.
+
+In Berlin, we will be surrounded by a variety of interesting communities. These include open access and open bibliography communities to the OpenStreetMap, hacker and artist groups to the various free culture and commons research communities. We look forward to jointly discussing with all of them the latest developments and aspects of open knowledge in their work.
+
+This is a time of great change. In addition to high profile initiatives such as Wikipedia, OpenStreetMap and the Human Genome Project, there is enormous growth among open knowledge projects and communities at all levels and in many countries. Moreover, in the last year, many governments across the world have begun opening up their data.
+
+And it doesn?t stop there. In academia, open access to both publications and data has been gathering momentum, and similar calls to open up learning materials have been heard in education. Furthermore this gathering flood of open data plus content is the creator and driver of massive technological change. How can we make this data available, how can we connect it together, how can we use it to collaborate and share our work? We will explore these issues, and more, at OKCon 2011 in Berlin.
+
+Topic areas
+
+We welcome proposals on any aspect of creating, publishing or reusing content or data that is open in accordance with http://opendefinition.org. Topics include but are not limited to:
+
+Open Data Technology
+	? Storage and processing tools including nosql, triplestores, ETL and analytics
+	? Visualization tools
+	? Semantic Web and Linked Open Data
+	? Platforms, methods and tools for creating, sharing and curating material
+	? Light-weight, adaptive interaction models
+	? Open, decentralized social network applications
+	? Open geospatial data
+
+Open Science and Open Data in Academic Research
+	? Open license models for scientific data, adaption of licenses for special domain requirements
+	? Supporting scientific workflows with open knowledge models
+	? Open models for scientific innovation, for funding and for publication (?open-access?)
+	? Tools for analysing and visualizing open data
+
+Open Law, Society and Democracy
+	? Open licensing, legal tools and the Public Domain
+	? Open government data and content (public sector information)
+	? Open knowledge and international development
+	? Opening up access to the law and lawmaking processes
+
+Open Culture, Education and Commons Research
+	? Open educational tools and resources, open textbooks
+	? Public Domain digitisation initiatives
+	? Incentives and rewards for open-knowledge contributors
+	? P2P production and sustainability models for open content
+	? Governance of the knowledge commons
+
+Important Dates
+	? Submission deadline: Mai 1st, 2011
+	? Notification of acceptance: June 1st, 2011
+	? OKCon: 30th June & 1st July, 2011
+
+How To Participate
+OKCon 2011 will have several formats and ways in which you can participate:
+
+	? presentation sessions
+	? lightning talks
+	? hands on workshops
+	? open space
+	? exhibition spaces
+	? open design and fablab
+	? hackspace
+
+We are especially interested, if you want to organize a an event in one of the above formats and topic areas. You are also more than welcome to propose additional formats and topics. If you would like to organise, participate or have a proposal of another format please submit your ideas and proposals here: http://okcon.org/2011/submit/
+
+OKCon Formats & Submission Details
+
+Presentation Sessions
+To reserve a slot in one of the presentation sessions you can apply in the following manner: You can submit an extended abstract of 2-4 pages describing the topic of your presentation. OKCon also has an academic stream and will publish proceedings. If you additionally want your submission to be included in the conference proceedings please prepare an extended 5-10 page paper submission and format it according to the LNCS Style
+
+Please Note: Proceedings of OKCon will be published at http://ceur-ws.org.
+
+To make a submission for the presentation session and proceedings please visit:https://www.easychair.org/conferences/?conf=okcon2011
+
+Lightning Talks
+Lightning talks are short presentations, which last 2-3 minutes with 2-3 slides. Submission of lightning talks can be done directly at the conference up to 5 minutes before the Lightning talk session starts. Make sure you get your message through and please: don?t be boring ;)
+
+Hands-on Workshops
+The hands on workshops is the format where you can intensively work with a relatively small group of people on your presented topic or project. This is not for lectures but for hands-on collaboration, exchange and skill sharing. If you are interested to run a workshop on OKCon 2011 please submit your proposal here: http://okcon.org/2011/submit/
+
+Open Space
+The open space offers a place for all kind of spontaneous interventions, meetings and the like following the concept of the open space technology. The open space area will be close to the exhibition space area and is open for you all the time. The open space can be used all times by anybody without submission. However, if you would like top run an event at the open space you might submit your idea here: http://okcon.org/2011/submit/ to help us planning.
+
+Exhibition Space
+The exhibition space is an open area where people, projects and organisations can present their ideas and projects to the public. Projects can have a permanent desc for a point of reference of their project. If you want to be present in the exhibition space at OKCon 2011 please submit your proposal here: http://okcon.org/2011/submit/
+
+Open Design and FabLab work area
+The open design and Fab Lab (fabrication laboratory) is an area dedicated to open processes in creating, sharing, reusing and producing of all kind of art, designs and other products. If you are interested in contributing to the open design and fablab work area at OKCon 2011 please submit your proposal here: http://okcon.org/2011/submit/
+
+Hackspace / Hackathon
+The hackspace is a dedicated space for you hackers. This is the right place to get your hand dirty and organise your hackathon. A hackathon is a collaborative decentraliced event of short timespan like one or two days with the aim to having a lot of fun with code & data. If you are interested to run a hackathon at OKCon 2011 please submit your proposal here:http://okcon.org/2011/submit/
+
+From giota.alevizou at gmail.com  Mon Feb 21 13:18:35 2011
+From: giota.alevizou at gmail.com (Giota Alevizou)
+Date: Mon, 21 Feb 2011 13:18:35 +0000
+Subject: [open-science] Call for participation: Survey on barriers to
+ Wikipedia participation among scientists/academics
+Message-ID: <AANLkTi=xq5T07oSBvvgN--pYFLDS2J-w1UJ2DH36Qooq@mail.gmail.com>
+
+Dear all,
+
+
+[Apologies for cross-posting]
+
+We would value your contribution to a survey we launched some days ago to
+understand expert barriers to participation to Wikipedia:
+http://bit.ly/ExpertBarriers.
+
+
+Context
+
+Wikipedia is increasingly used by university students for "pre-research", to
+gain context and explore ideas for course assignments and research projects
+[1]. Yet many among scientists,
+
+academics and other experts are reluctant to contribute to Wikipedia,
+despite a growing number of calls from the scientific community to join the
+project [2-3].
+
+The initiative
+
+The Wikimedia Research Committee [4] has just launched a survey to
+understand why scientists, academics and other experts do (or do not)
+contribute to Wikipedia and other collaborative projects, and whether
+individual motivation aligns with shared perceptions of Wikipedia within
+expert communities. We hope this may help us identify ways around barriers
+to expert participation. The survey is anonymous and takes about 20 min to
+complete. Please help us circulate the link among your colleagues and
+collaborators:
+
+
+http://bit.ly/ExpertBarriers
+
+
+Dario Taraborelli
+
+Panagiota Alevizou
+
+Daniel Mietchen
+
+
+[1] http://chronicle.com/article/article-content/125899/
+
+[2] http://www.jmir.org/2011/1/e14/
+
+[3]
+http://www.psychologicalscience.org/index.php/members/aps-wikipedia-initiative/
+
+[4] http://meta.wikimedia.org/wiki/Research_Committee
+
+
+
+------------
+
+
+Dr Panagiota Alevizou
+
+Research Fellow
+
+Centre for Research in Education and Educational Technology
+
+The Open University, Walton Hall
+
+Milton Keynes, MK7 6AA
+
+
+Email: p.alevizou at open.ac.uk
+
+Website: http://iet.open.ac.uk/people/p.alevizou
+
+________________________________________
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110221/538604b5/attachment.htm>
+
+From giota.alevizou at gmail.com  Mon Feb 21 13:19:53 2011
+From: giota.alevizou at gmail.com (Giota Alevizou)
+Date: Mon, 21 Feb 2011 13:19:53 +0000
+Subject: [open-science] Call for participation: Survey on barriers to
+ Wikipedia participation among scientists/academics
+Message-ID: <AANLkTimjtt8XTxhM8US-Wws3Tju3JRvbO3uKS3SddWJV@mail.gmail.com>
+
+Dear all,
+
+
+[Apologies for cross-posting]
+
+We would value your contribution to a survey we launched some days ago to
+understand expert barriers to participation to Wikipedia:
+http://bit.ly/ExpertBarriers.
+
+
+Context
+
+Wikipedia is increasingly used by university students for "pre-research", to
+gain context and explore ideas for course assignments and research projects
+[1]. Yet many among scientists,
+
+academics and other experts are reluctant to contribute to Wikipedia,
+despite a growing number of calls from the scientific community to join the
+project [2-3].
+
+The initiative
+
+The Wikimedia Research Committee [4] has just launched a survey to
+understand why scientists, academics and other experts do (or do not)
+contribute to Wikipedia and other collaborative projects, and whether
+individual motivation aligns with shared perceptions of Wikipedia within
+expert communities. We hope this may help us identify ways around barriers
+to expert participation. The survey is anonymous and takes about 20 min to
+complete. Please help us circulate the link among your colleagues and
+collaborators:
+
+
+http://bit.ly/ExpertBarriers
+
+
+Dario Taraborelli
+
+Panagiota Alevizou
+
+Daniel Mietchen
+
+
+[1] http://chronicle.com/article/article-content/125899/
+
+[2] http://www.jmir.org/2011/1/e14/
+
+[3]
+http://www.psychologicalscience.org/index.php/members/aps-wikipedia-initiative/
+
+[4] http://meta.wikimedia.org/wiki/Research_Committee
+
+
+
+------------
+
+
+Dr Panagiota Alevizou
+
+Research Fellow
+
+Centre for Research in Education and Educational Technology
+
+The Open University, Walton Hall
+
+Milton Keynes, MK7 6AA
+
+
+Email: p.alevizou at open.ac.uk
+
+Website: http://iet.open.ac.uk/people/p.alevizou
+
+________________________________________
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110221/a4ada76a/attachment-0001.htm>
+
+From jcmcoppice12 at gmail.com  Tue Feb 22 00:26:52 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Tue, 22 Feb 2011 00:26:52 +0000
+Subject: [open-science] LODD on CKAN (was Minutes from WG Meeting Feb 16
+	2011)
+Message-ID: <AANLkTinEwwvwN6exZ9ztkGNzf60quQHMGLLgHbpd_hS0@mail.gmail.com>
+
+Hi All
+
+I've posted this to the CKAN discuss list as well because they may be better
+placed to address the points raised by Egon here:
+http://chem-bla-ics.blogspot.com/2011/02/ckan-and-rdf-nice-example-on-why.html
+
+For those who are new to this thread, the Open Science working group are
+planning a package party/hack session on linked open drug data (Monday 7th
+March, 19.00 GMT), but a couple of things have been identified which it
+would be good to clear up first.
+
+If someone with a good knowledge of CKAN workings would also be able to join
+in with us on the night via the OKF IRC channel that would be fantastic :)
+
+Jenny
+
+---------- Forwarded message ----------
+From: Egon Willighagen <egon.willighagen at gmail.com>
+Date: Mon, Feb 21, 2011 at 8:32 AM
+Subject: Re: [open-science] Minutes from WG Meeting Feb 16 2011
+To: Jenny Molloy <jcmcoppice12 at gmail.com>
+Cc: open-science at lists.okfn.org
+
+
+Hi all,
+
+On Fri, Feb 18, 2011 at 12:38 AM, Jenny Molloy <jcmcoppice12 at gmail.com>
+wrote:
+> Egon Willighagen introduced the meeting to the topic of linked open drug
+> data http://www.w3.org/wiki/HCLSIG/LODD/Data. There is already a group of
+> packages added to CKAN http://ckan.net/package/lodd_group
+
+Actually, that record is not a group, but a catalog record itself...
+see my thoughts I wrote up this morning:
+
+http://chem-bla-ics.blogspot.com/2011/02/ckan-and-rdf-nice-example-on-why.html
+
+I did create an actual group, to which I will add the currently listed
+12 data sets LODD 'redistributes'...
+
+http://ckan.net/group/hclsig_lodd
+
+> but we could add
+> others and send requests where the openness of data is not clear. A
+package
+> party is provisionally scheduled for Monday March 7th at 19:00 GMT, for
+> about an hour. More details to follow, but please put the date in your
+> diary! If you know any other open sciencers in your area, why not make it
+a
+> physical meet up? Preferably with cake, which always improves both
+> attendance and productivity.
+
+I have send around this meeting within the LODD group, and several
+participants will join in.
+
+Right now, it would be good to get those CKAN definitions tuned for
+what is supposed to be in a record. I have outlined some problems in
+that blog post given earlier, and hope that this can be the start of a
+general clean up effort...
+
+Whom should we talk to, to get those definitions of what is a
+'dataset' worked out?
+
+Egon
+
+--
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+
+
+---------- Forwarded message ----------
+From: Egon Willighagen <egon.willighagen at gmail.com>
+Date: Sun, Feb 20, 2011 at 6:06 PM
+Subject: Work/Hack session on LODD / IsItOpenData
+To: public-semweb-lifesci at w3.org
+
+
+Hi all,
+
+on February 16 there was an OpenScience Workgroup [0] meeting of the
+Open Knowledge Foundation, where we scheduled a work session for
+Monday March 7th at 19:00 GMT, for about an hour, to work on
+clarifying the data licensing of LODD data sets, such as those listed
+on CKAN. For some data sets the license is clear, others have
+non-commercial clauses (which is not considered "Open Data"), and
+others do not specify the terms, or are not open at all. For example,
+the below diagram a CAS node which is not open data at all:
+
+http://www.w3.org/wiki/HCLSIG/LODD/Data
+
+In fact, the unclear license issue was one of the referee comments on
+the LODD contribution to the thematic issue on RDF in chemistry
+(coordinated by Matthias).
+
+Please let me know if interested in joining the meeting,
+
+Egon
+
+0.http://science.okfn.org/
+
+--
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110222/c5a8ba56/attachment.htm>
+
+From tk at deveha.com  Wed Feb 23 10:35:16 2011
+From: tk at deveha.com (Duong Tam Kien)
+Date: Wed, 23 Feb 2011 11:35:16 +0100
+Subject: [open-science] Mining the digital traces of science - 22-25.03
+Message-ID: <AANLkTi=K4querS_TRdk=Zfq3fUVuC4b-Z0V2dh_RrBXA@mail.gmail.com>
+
+http://iscpif.fr/tiki-index.php?page=MDTS11
+
+The MDTS11 workshop is sponsoring a data challenge. The challenge builds
+atop a dataset from Thomson ISI WoS with a focuses on embryology and
+embryonic science from 1956 to 2010. We invite you to download the dataset,
+explore it, learn something interesting about it, and submit a contribution
+about it on the MDRS11 webpage (http://iscpif.fr/MDTS11). The workshop
+itself will feature presentations by authors on march 25 as well as a
+broader discussion of data issues and science mapping issues.
+
+Until the submission is closed, people are invited to share pre-processing
+of the data on the workshop website. Pre-processing and contribution
+submission are independent. People don't need to submit to the challenge to
+be eligible for the best preprocessing.
+*Awards** :*
+
+   1.
+
+   400? for the best pre-processing,
+   2.
+
+   600? for the best contribution and first author position for the
+   collective paper of the workshop.
+
+The best contributions will be gathered in a collective paper for which
+first author will be the winner of the data challenge. The workshop will
+hire a reviewer to insure the final rewriting of the paper.
+*Important Dates *
+
+   -
+
+   *February 11 **2011 **:* Registration is
+open<http://iscpif.fr/tiki-index.php?page=mdts11registration>,
+   Embryology data set is online, registration is open
+   -
+
+   *February 11 **2011 **: *Preprocessing propositions are open Share a
+   preprocessing <http://iscpif.fr/mdts11newpreproc> | view the list of
+   propositions <http://iscpif.fr/mdtsppplist>
+   -
+
+   *March 22 2001 : *Collaborative working session to first draft the
+   collective paper
+   -
+
+   *March 2*3* 2011 :* Deadline for challenge submission
+   - *March 25 2011 :* Data challenge presentation and award
+
+
+
+---
+Tam-Kien Duong - tk at deveha.com
+
+Research
+  tamkien.duong at ehess.fr
+
+Design/work
+  http://formism.net
+
+Flavors
+  http://flavors.me/tk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110223/9571b492/attachment.htm>
+
+From egon.willighagen at gmail.com  Thu Feb 24 07:49:06 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Thu, 24 Feb 2011 08:49:06 +0100
+Subject: [open-science] LODD on CKAN (was Minutes from WG Meeting Feb 16
+	2011)
+In-Reply-To: <AANLkTinEwwvwN6exZ9ztkGNzf60quQHMGLLgHbpd_hS0@mail.gmail.com>
+References: <AANLkTinEwwvwN6exZ9ztkGNzf60quQHMGLLgHbpd_hS0@mail.gmail.com>
+Message-ID: <AANLkTinNhk0N-AXcLibbcK=AddoEwXp_fCynq0Tdx0Bu@mail.gmail.com>
+
+Hi all,
+
+On Tue, Feb 22, 2011 at 1:26 AM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> I've posted this to the CKAN discuss list as well because they may be better
+> placed to address the points raised by Egon here:
+> http://chem-bla-ics.blogspot.com/2011/02/ckan-and-rdf-nice-example-on-why.html
+
+I have started an etherpad with details, where people can add their names:
+
+http://okfnpad.org/sciencewg-loddhack-201103
+
+But...
+
+I do like to focus on the Open Data side of the LODD data sets, and
+use CKAN for annotation. I do not want the hour to be spend on finding
+out how CKAN works; we'll have to do that on beforehand (and I already
+started a group for this, linked in Jenny's email), and possibly
+afterwards and use if they way we can.
+
+Instead... in this hour I like to focus really on getting the 'Open
+Data' nature of the LODD data sets clear. In particular, there are two
+or three data for which we need to write an 'Is It Open Data?' letter
+because they have no clear license/waiver/copyright information... and
+we write letters for a few data sets which have a non-commercial
+clause, making the data non-open, according to the Panton Principles
+and CKAN too, I think.
+
+That should have priority in this hour, IMHO, so that all participants
+can sign. I do not want this hour to be a general information session
+on Open Data licensing. That too, must be resolved before or
+afterwards.
+
+Does that make sense?
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From rufus.pollock at okfn.org  Thu Feb 24 11:30:25 2011
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 24 Feb 2011 11:30:25 +0000
+Subject: [open-science] LODD on CKAN (was Minutes from WG Meeting Feb 16
+	2011)
+In-Reply-To: <AANLkTinNhk0N-AXcLibbcK=AddoEwXp_fCynq0Tdx0Bu@mail.gmail.com>
+References: <AANLkTinEwwvwN6exZ9ztkGNzf60quQHMGLLgHbpd_hS0@mail.gmail.com>
+	<AANLkTinNhk0N-AXcLibbcK=AddoEwXp_fCynq0Tdx0Bu@mail.gmail.com>
+Message-ID: <AANLkTi=hcSTHpOUwhxFBdA6vkWPQv2w+rW27Ym31jKXg@mail.gmail.com>
+
+On 24 February 2011 07:49, Egon Willighagen <egon.willighagen at gmail.com> wrote:
+> Hi all,
+>
+> On Tue, Feb 22, 2011 at 1:26 AM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+>> I've posted this to the CKAN discuss list as well because they may be better
+>> placed to address the points raised by Egon here:
+>> http://chem-bla-ics.blogspot.com/2011/02/ckan-and-rdf-nice-example-on-why.html
+>
+> I have started an etherpad with details, where people can add their names:
+>
+> http://okfnpad.org/sciencewg-loddhack-201103
+>
+> But...
+>
+> I do like to focus on the Open Data side of the LODD data sets, and
+> use CKAN for annotation. I do not want the hour to be spend on finding
+> out how CKAN works; we'll have to do that on beforehand (and I already
+> started a group for this, linked in Jenny's email), and possibly
+> afterwards and use if they way we can.
+
+We've started a simple '2 minute' user guide for CKAN:
+
+<http://wiki.ckan.net/Using_the_Web_Interface>
+
+Please add/amend it as necessary.
+
+> Instead... in this hour I like to focus really on getting the 'Open
+> Data' nature of the LODD data sets clear. In particular, there are two
+> or three data for which we need to write an 'Is It Open Data?' letter
+> because they have no clear license/waiver/copyright information... and
+> we write letters for a few data sets which have a non-commercial
+> clause, making the data non-open, according to the Panton Principles
+> and CKAN too, I think.
+
+Strictly CKAN.net has no restriction on the license of the data that
+can re registered there though obviously we strongly encourage open
+data (as per the open data buttons and the links to
+isitopendata.org/).
+
+> That should have priority in this hour, IMHO, so that all participants
+> can sign. I do not want this hour to be a general information session
+> on Open Data licensing. That too, must be resolved before or
+> afterwards.
+
+Big +1.
+
+> Does that make sense?
+
+This makes a lot of sense :)
+
+Rufus
+
+
+From pm286 at cam.ac.uk  Thu Feb 24 15:27:41 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Feb 2011 15:27:41 +0000
+Subject: [open-science] LODD on CKAN (was Minutes from WG Meeting Feb 16
+	2011)
+In-Reply-To: <AANLkTi=hcSTHpOUwhxFBdA6vkWPQv2w+rW27Ym31jKXg@mail.gmail.com>
+References: <AANLkTinEwwvwN6exZ9ztkGNzf60quQHMGLLgHbpd_hS0@mail.gmail.com>
+	<AANLkTinNhk0N-AXcLibbcK=AddoEwXp_fCynq0Tdx0Bu@mail.gmail.com>
+	<AANLkTi=hcSTHpOUwhxFBdA6vkWPQv2w+rW27Ym31jKXg@mail.gmail.com>
+Message-ID: <AANLkTikCKnYWMfofyCrWT1F7qTGm+3Q7xsCAg0BvJ1hn@mail.gmail.com>
+
+Some of us were discussing on Tuesday aspects of coordination in the OKF and
+particularly what activities newcomers could be involved in. The idea that
+emegred was that a significant core part of OKF activity was requesting and
+annotating Open Data. In particular we felt that newcomers to OKF could get
+a feel for the ethos and community by making data requests using
+IsItOpenData.
+
+This is an activity that scales well (by country, language, discpline, etc.)
+so that a newcomer to OKF can usually find something that is relevant to
+them. By carrying out an IIOD/LODD activity in their area of expertise they
+will find out those others in OKF who have similar interests.  If we can
+identify clear simple tasks in this area it's a good way af getting
+newcomers active and involved.
+
+P.
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110224/0638b7f1/attachment.htm>
+
+From jonathan.gray at okfn.org  Mon Feb 28 13:20:29 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 28 Feb 2011 14:20:29 +0100
+Subject: [open-science] Fwd: Managing Research Data -- gravitational waves
+In-Reply-To: <852E47B5-B0AC-4468-90A4-9C625D19A356@ASTRO.GLA.AC.UK>
+References: <852E47B5-B0AC-4468-90A4-9C625D19A356@ASTRO.GLA.AC.UK>
+Message-ID: <AANLkTinUrjAiaFdrZ7b33GcD=K5zeiR9ExA2G4YmOBfV@mail.gmail.com>
+
+Thought this might be of interest!
+
+
+---------- Forwarded message ----------
+
+Greetings, all.
+
+We've been funded, for the last year or so, to study the way that ?big
+science? projects manage and distribute their data, and to make
+recommendations for how they should preserve this into the future.
+This has culminated in a report which describes the way this is
+managed now (it's rather different from the way it's managed in other
+areas), some of the case for data preservation, and an account of the
+practicalities and costs of managing data on this scale.
+
+This report is now available in draft, and we welcome all comments. We
+are particularly interested in comments on the recommendations that we
+make. Are they practical? Should they be more specific? Do they cover
+our remit appropriately?
+
+The end of the MRD-GW project is imminent, and the report will be
+finalised towards the end of March. If you can get comments to us by,
+say, 14 March, we'll be able to incorporate them into the final
+version.
+
+The report is located at
+
+http://purl.org/nxg/projects/mrd-gw/report
+
+Please quote this URL rather than the one it resolves to, as the
+document it resolves to may change and not all versions will be
+immediately public (it's complicated). At the time of posting, that
+document is version 6 of the report.
+
+Do pass on the URL. Thanks for any thoughts.
+
+Best wishes,
+
+Norman
+
+[MRD-GW blog at
+http://www.astro.gla.ac.uk/users/norman/projects/mrd-gw/blog/feed.atom]
+
+
+--
+Norman Gray ?: ?http://nxg.me.uk
+School of Physics and Astronomy, University of Glasgow, UK
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From amrapali.j.zaveri at gmail.com  Mon Feb 28 21:38:51 2011
+From: amrapali.j.zaveri at gmail.com (Amrapali J Zaveri)
+Date: Mon, 28 Feb 2011 22:38:51 +0100
+Subject: [open-science] Image Revamp
+Message-ID: <AANLkTi=k+3K8HP=sNEiniiRpXNkSVpD7pvsNwUcB-tmx@mail.gmail.com>
+
+Hi all,
+
+Attached are a few Wordles for replacing the image on the home page:
+http://science.okfn.org/.
+Please take a look and indicate your choice for the best option:
+http://doodle.com/fc45rkc8pu9atcys
+Any other suggestions are welcome.
+
+Thanks.
+Regards,
+Amrapali J Zaveri
+
+
+On Fri, Feb 18, 2011 at 1:00 PM, <open-science-request at lists.okfn.org>wrote:
+
+> Send open-science mailing list submissions to
+>        open-science at lists.okfn.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>        http://lists.okfn.org/mailman/listinfo/open-science
+> or, via email, send a message with subject or body 'help' to
+>        open-science-request at lists.okfn.org
+>
+> You can reach the person managing the list at
+>        open-science-owner at lists.okfn.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of open-science digest..."
+>
+>
+> Today's Topics:
+>
+>   1. Minutes from WG Meeting Feb 16 2011 (Jenny Molloy)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Thu, 17 Feb 2011 23:38:38 +0000
+> From: Jenny Molloy <jcmcoppice12 at gmail.com>
+> Subject: [open-science] Minutes from WG Meeting Feb 16 2011
+> To: open-science at lists.okfn.org
+> Message-ID:
+>        <AANLkTi=9GcysQt8jj3x3NWZVQR8OffSRgbGZnWQ+-xvT at mail.gmail.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> Dear All
+>
+> See below for a summary of key points from the WG meeting on Feb 16 2011,
+> I've listed here the main updates, followed by a list of things you could
+> contribute to and any interesting events that are coming up. If you'd like
+> more detailed updates on projects or to view the full minutes, visit
+> http://okfnpad.org/sciencewg-16Feb2011
+>
+> The next meeting will be Wednesday 9th March, 17:30 GMT.
+>
+> -------------------
+> Updates:
+>
+> Panton Papers Drafts:
+> The PP drafts are ongoing, please see the meeting Etherpad for an update
+> from Greg on his Intellectual Property and Data paper and see previous
+> emails for more information on who is doing what.
+>
+> Advertising the working group and collaborative activities:
+> There are many groups with similar interests to our own, a few potential
+> groups to get in touch with are listed on the Etherpad but please feel free
+> to add others!
+>
+> CKAN Package Parties/Hack sessions:
+> One way to collaborate with other subject specific groups could be to
+> organise short time periods where we work to add/curate data packages on
+> CKAN within a certain theme and make Is It Open? requests as applicable.
+>
+> Egon Willighagen introduced the meeting to the topic of linked open drug
+> data http://www.w3.org/wiki/HCLSIG/LODD/Data. There is already a group of
+> packages added to CKAN http://ckan.net/package/lodd_group but we could add
+> others and send requests where the openness of data is not clear. A package
+> party is provisionally scheduled for Monday March 7th at 19:00 GMT, for
+> about an hour. More details to follow, but please put the date in your
+> diary! If you know any other open sciencers in your area, why not make it a
+> physical meet up? Preferably with cake, which always improves both
+> attendance and productivity.
+>
+> Hopefully this will be a regular activity, so if there is an open science
+> data theme you think needs attention, please bring it up at a future
+> meeting.
+>
+> OKCon Science Participation:
+> The call for participation at the Open Knowledge Conference 2011 can be
+> found here http://okcon.org/2011/cfp/. It would be great to get plenty of
+> open scientific data related proposals, so please forward this to any
+> people
+> or organisations you think would be interested.
+>
+> There is a list of where the CFP has already been sent on the OKCon
+> Etherpad
+> http://okcon.okfnpad.org/2011.
+>
+> Open Science Working Group page:
+> The home of the working group http://science.okfn.org/ currently has a
+> lovely but irrelevant landscape as its page header. Suggestions were sought
+> for a new image and Amrapali has offered to generate an open science themed
+> word cloud using http://www.wordle.net/.
+> Watch this space for an image revamp!
+>
+> We also hope to embed or link to a calendar listing all meeting dates and
+> relevant conferences and events submitted by group members or tagged as
+> open
+> science related on http://lanyrd.com/.
+>
+> ------------------
+> Things to Do!
+>
+> 1) Join the linked open drug data package party on Monday 7th March, 19:00
+> GMT
+> 2) Send the OKCon CFP to any people/organisations you think might be
+> interested in participating http://okcon.org/2011/cfp/<
+> http://bit.ly/cFgi94>
+> 3) Continue collaborating and commenting on Panton Paper drafts, see the
+> meeting minutes at http://okfnpad.org/sciencewg-16Feb2011 and
+> http://okfnpad.org/sciencewg-meetings for more information.
+>
+> ----------------
+> OKF/Open Science Related Events:
+>
+> 30 Jun/1 Jul - OKCon at Kalkscheune, Berlin (www.kalkscheune.de), see the
+> website at http://okcon.org/2011/ for more details and to register.
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> http://lists.okfn.org/pipermail/open-science/attachments/20110217/47501d66/attachment-0001.htm
+> >
+>
+> ------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> End of open-science Digest, Vol 28, Issue 7
+> *******************************************
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110228/5179bcf8/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Wordles.zip
+Type: application/zip
+Size: 680073 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110228/5179bcf8/attachment-0001.zip>
+

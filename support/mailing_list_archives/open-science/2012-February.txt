@@ -1,0 +1,2152 @@
+From pm286 at cam.ac.uk  Thu Feb  2 08:32:36 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 2 Feb 2012 08:32:36 +0000
+Subject: [open-science] Survey of OA practice
+Message-ID: <CAD2k14MDBQ=R86+Yf4C8EYByCvD=X_M=1x3GT_Kgwe9MxwNsKw@mail.gmail.com>
+
+A recent survey may be of interest
+
+Dear all,
+please find attached a policy paper on the Open Access Policy of the
+Austrian Science Fund (FWF) and the situation in Austria. The paper
+primarily addresses the Austrian scientific community and research policy
+but could be also of interest elsewhere:
+http://www.fwf.ac.at/en/downloads/pdf/free-research-needs-the-free-circulation-of-ideas.pdf
+
+All the best,
+Falk
+
+
+
+______________________________
+_____________________________________
+Falk Reckling, PhD
+Humanities & Social Science
+Strategic Analysis, Open Access
+
+Department Head
+
+Austrian Science Fund
+Sensengasse 1
+A-1090 Vienna
+Tel: +43-1-505 67 40-8301
+Mobile: +43-699-19010147
+Email: falk.reckling at fwf.ac.at
+http://www.fwf.ac.at/en/contact/personen/reckling_falk.html
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120202/64f5d994/attachment.htm>
+
+From raphael.ritz at incf.org  Thu Feb  2 08:44:05 2012
+From: raphael.ritz at incf.org (Raphael Ritz)
+Date: Thu, 02 Feb 2012 09:44:05 +0100
+Subject: [open-science] Thousands of Scientists Vow to Boycott Elsevier to
+ Protest Journal Prices - ScienceInsider
+Message-ID: <4F2A4CD5.6090602@incf.org>
+
+Hi,
+
+just spreading the word:
+
+http://news.sciencemag.org/scienceinsider/2012/02/thousands-of-scientists-vow-to-b.html?ref=em
+
+Raphael
+
+
+
+From u.herb at scinoptica.com  Tue Feb  7 07:26:57 2012
+From: u.herb at scinoptica.com (Ulrich Herb)
+Date: Tue, 07 Feb 2012 08:26:57 +0100
+Subject: [open-science] Licences of publishers do not cover new developments
+Message-ID: <4F30D241.2010206@scinoptica.com>
+
+Dear all,
+
+
+
+here you can find the results of a Knowledge Exchange (KE) workshop of 
+licencing in scholarly communication:
+http://www.knowledge-exchange.info/Default.aspx?ID=62&M=News&PID=147&NewsID=137
+incl. a full report: 
+http://www.knowledge-exchange.info/Admin/Public/DWSDownload.aspx?File=%2fFiles%2fFiler%2fdownloads%2fLicensing%2fWorkshop+New+Developments%2fReport+licensing+workshop+2011_def.pdf
+
+KE is a crossnational cooperation of funding agencies from the 
+Netherlands, UK, Denmark, Germany.
+
+
+best regards
+
+
+ulrich herb
+
+-- 
+POB 10 13 13
+D-66013 Saarbr?cken
+http://www.scinoptica.com/pages/en/start.php?lang=EN
++49-(0)157 84759877
+http://twitter.com/#!/scinoptica
+
+
+From bschmidt at sub.uni-goettingen.de  Tue Feb  7 15:26:04 2012
+From: bschmidt at sub.uni-goettingen.de (Birgit Schmidt)
+Date: Tue, 07 Feb 2012 16:26:04 +0100
+Subject: [open-science] OpenAIRE - Release of "Studies on Subject-Specific
+ Requirements for Open Access Infrastructure"
+Message-ID: <4F31428C.9030806@sub.uni-goettingen.de>
+
+** Apologies for cross-posting **
+
+OpenAIRE has recently released its "Studies on Subject-Specific 
+Requirements for Open Access Infrastructure". Designed as a comparative 
+study covering five disciplines (Health, Climate, Agriculture, ICT, 
+e-infrastructures) it provides in-depth insight into researchers' 
+behaviour and current practices. With a focus on research workflows, 
+literature and data management the case studies address key questions on 
+how subject-specific needs can be represented in an Open Access 
+infrastructure. Moreover, each case study provides a vision and 
+principles for future information services to further exploit OA 
+principles from a disciplinary perspective as well as advices to future 
+directions for funding agencies.
+
+The study is available both as an ebook and in individual chapters, 
+consisting of an introduction, six subject-specific case studies from 
+highly qualified subject specialists and a comparative conclusion.
+
+C. Meier zu Verl, & W. Horstmann (Eds.). 2011. Studies on 
+Subject-Specific Requirements for Open Access Infrastructure. Bielefeld: 
+Universit?tsbibliothek.
+Overview: http://bit.ly/openaire_studies
+DOI: http://dx.doi.org/10.2390/PUB-2011-1
+ISBN: 978-3-943363-00-5
+
+About OpenAIRE
+OpenAIRE (Open Access Infrastructure for Research in Europe) is a 3-year 
+European Commission (EC) funded initiative that supports the 
+implementation of the EC's Open Access Pilot and the European Research 
+Council's Guidelines for Open Access. Together with the recently 
+launched OpenAIREplus project both initiatives work towards the goal to 
+develop an Open Access participatory infrastructure for scientific 
+information.
+Further information: www.openaire.eu
+
+-- 
+******************************************************
+Dr. Birgit Schmidt
+Scientific Manager
+
+Goettingen State and University Library
+- Electronic Publishing -
+Platz der Goettinger Sieben 1
+D-37073 Goettingen
+
+Tel. +49 551 39-5228
+Fax  +49 551 39-5222
+bschmidt at sub.uni-goettingen.de
+______________________________________________________
+
+COAR www.coar-repositories.org
+OpenAIRE www.openaire.eu
+OAPEN www.oapen.org
+Open Access www.open-access.net
+
+
+
+From rufus.pollock at okfn.org  Wed Feb  8 11:25:50 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 8 Feb 2012 11:25:50 +0000
+Subject: [open-science] Fwd: call for open data experts
+In-Reply-To: <F949E4E362C20B41B1C95FA9E2F12ABA1C83A6E1@EXCHMBX01.fed.cclrc.ac.uk>
+References: <F949E4E362C20B41B1C95FA9E2F12ABA1C83A6E1@EXCHMBX01.fed.cclrc.ac.uk>
+Message-ID: <CAEvtuKo-AGiQYvcTfbf33wP4yzeL0xu5pjPa+gG_5OiRNmdEEw@mail.gmail.com>
+
+This could be of interest to the list.
+
+
+---------- Forwarded message ----------
+From:  <michael.wilson at stfc.ac.uk>
+Date: 7 February 2012 13:45
+Subject: call for open data experts
+To: ode-project at cern.ch
+
+
+With this call for contributions, the EU funded ENGAGE project aims to
+attract high-quality innovative contributions, in the form of short
+papers that depict sound positions and views for advancing the
+provision, usage and final utilization of open data by scientists of
+all scientific domains, citizens and businesses. Up to 5 authors of
+the best papers submitted under this call will be invited to join the
+ENGAGE Experts Scientific Committee.
+
+
+
+See here: http://www.engage-project.eu/engage/wp/?page_id=193
+
+
+
+Please retweet and promote towards your links.
+
+
+
+
+
+Prof Michael Wilson
+
+STFC e-Science
+
+http://www.stfc.ac.uk/e-Science/People/22379.aspx
+
+
+
+
+
+
+
+
+
+
+
+
+--
+Scanned by iCritical.
+
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From jenny.molloy at okfn.org  Fri Feb 10 12:30:38 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 10 Feb 2012 12:30:38 +0000
+Subject: [open-science] Citizen Cyberscience Hackday
+Message-ID: <CABPM+wpRgkbhDMXU6teVYGRez6xZTh572c=ttdq9AZyng5Vv2Q@mail.gmail.com>
+
+Hi All
+
+If anyone can make it to London on Saturday 18th Feb the Citizen
+Cyberscience Summit is hosting a hackday
+http://cybersciencesummit.org/35-2/the-hackday/ featuring multiple
+challenges http://cybersciencesummit.org/challenges/ including one focused
+around PyBOSSA which was developed by OKFN folk:
+
+---------------
+Create your own volunteer thinking project with PyBossa
+http://cybersciencesummit.org/portfolio/create-your-own-volunteer-thinking-project-with-pybossa/
+Develop volunteer thinking projects based on the new open source PyBossa
+platform that the Citizen Cyberscience Centre has developed with the Open
+Knowledge Foundation.Do you have a project where you need human
+collaboration? Humans are very capable of reading handwritting, identifying
+objects in pictures, doing transcriptions, thinking in 3D, collaborating,
+etc. For instance, if we ask a person if he can see a human in a photo it
+will be easy to answer, but it could be complicated for an algorithm.
+________
+
+Another suggested challenge encourages non-coders to add information on
+citizen cyberscience projects to Data Hub so strong OKFN involvement would
+be fantastic to see!
+
+"How many citizen cyberscientists are there in the world?"* *
+Participants in this challenge will  hunt down and enter relevant data
+about the numbers of citizen cyberscientists participating in various
+projects, in an effort to quantify the level of citizen cyberscience
+worldwide. Data will be stored and visualized using OKFN's DataHub. The
+core challenge of gathering and entering data is suitable for participants
+who are not major league hackers. For participants with relevant software
+skills, the work can extend to developing ways of automating data
+collection from sites that publish citizen cyberscience stats regularly (eg
+BOINCstats).
+------------
+
+Do you have ideas for further challenges? Send them to the list and we'll
+forward them to the summit team.
+
+You can register for the hackday and the rest of what looks set to be a
+fantastic event here: http://cybersciencesummit.org/register-2/ - drop me a
+line if you're going and especially if you have experience with
+CKAN/DataHub and would be willing to assist with the challenges!
+
+Best wishes
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120210/682ac917/attachment.htm>
+
+From laura.newman at okfn.org  Mon Feb 13 14:11:46 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Mon, 13 Feb 2012 14:11:46 +0000
+Subject: [open-science] **Panton Fellowships** - application deadline
+	approaching
+Message-ID: <CAMQ+bMZdk0UBstH3cSfD8395MY1P0s4_7RYy_JHNWrj1=5Po-g@mail.gmail.com>
+
+Hi all,
+
+** The application deadline for the Panton Fellowships is 24th February.
+Visit the Panton Principles
+website<http://pantonprinciples.org/panton-fellowships/>for details **
+
+Panton Fellowships offer *?8,000 *to scientists who promote open data in
+science. Fellowships can be held whilst you are working or studying, and
+should supplement your current funding.
+
+Fellowships last for one year. The scheme is designed to be flexible, and
+there is scope for Fellows to carry out a range of activities. Fellows may
+wish to:
+
+* Initiate discussion about the role and value of openness,
+* Explore practical solutions for making data open
+* Catalyse the scientific community and for push change.
+
+Panton Fellowships are open to all, and are particularly suited to graduate
+students and early-stage career stage scientists. The scheme is overseen by
+a distinguished Advisory Board of scientists and open data advocates.
+
+Panton Fellowships are not intended to cover full economic costs, and are
+not full-time positions. Fellows should continue to work and/or study at
+their current institution for the duration of the Fellowship. You should
+ensure that you have permission from employers/funders before applying.
+
+Applicants should send a CV and covering letter to jobs [@] okfn.org by
+*24th February*. In your covering letter, you should explain as a Panton
+Fellow, what you would do, make or change.
+
+To be eligible, applicants must have the relevant rights to work in the UK,
+and should reasonably expect to be working and/or studying in the UK until
+March 2013.
+
+See the Panton Principles
+website<http://pantonprinciples.org/panton-fellowships/>for full
+details. If you have any questions, please contact laura.newman
+[@] okfn.org.
+
+Please circulate this email to any relevant mailing lists, and to anyone
+who may be interested.
+
+Kind regards,
+Laura
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120213/27169c17/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue Feb 14 11:08:30 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 14 Feb 2012 11:08:30 +0000
+Subject: [open-science] Open Data in Science Working Group Hackday - 31
+	March, London
+Message-ID: <CABPM+wqwqb2fk+Yju-eEmaGs2hWYuifv9_1oncH6HnzP=sAaiw@mail.gmail.com>
+
+Dear All
+
+At the last working group meeting it was decided that we should run a
+hackday on open science, spending the day driving forward coding projects
+and coming up with new ideas.
+So, come along and join us in person in the London Barbican foyer or
+virtually via Skype, IRC and Etherpad!
+
+There are several tasks which don't require the ability to programme so
+don't be put off if you're not a coder, we'd still love to have you along!
+All that's required is enthusiasm and interest.
+
+Date: Saturday 31 March 2012
+Time: 10am to 6pm (and later for those who want to carry on)
+Location: Barbican Foyer and online
+Sign up for numbers here: http://okfnpad.org/sciencewg-hackday-mar12
+
+Possible ideas we could work on are below, although feel free to add some
+to the pad linked above or bring your own on the day and we'll pick a few
+to focus on:
+- Open Research Reports (continuation of work from SWAT4LS hackathon).
+- Generating a Data Watch website.
+- Pulling data from citizen cyberscience projects straight into CKAN.
+
+Hope to see you soon!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120214/136d1ba0/attachment.htm>
+
+From rufus.pollock at okfn.org  Tue Feb 14 18:33:37 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 14 Feb 2012 18:33:37 +0000
+Subject: [open-science] [open-science-dev] Citizen Cyberscience Hackday
+In-Reply-To: <CAA+7z9GHWLS=_7S6Bh4skNfPPDZ=gVeJPiUNbQ2ycdR7Fc3oGg@mail.gmail.com>
+References: <CABPM+wpRgkbhDMXU6teVYGRez6xZTh572c=ttdq9AZyng5Vv2Q@mail.gmail.com>
+	<CAA+7z9GHWLS=_7S6Bh4skNfPPDZ=gVeJPiUNbQ2ycdR7Fc3oGg@mail.gmail.com>
+Message-ID: <CAEvtuKqtwT4BZOCTOj=_JM9gysB4nO0WzGFCSiEmE+8pyx7r=w@mail.gmail.com>
+
+On 14 February 2012 14:01, Lucas Ferreira Mation <lucasmation at gmail.com> wrote:
+> Dear all,
+>
+> as I said in the other email tread I have a "challenge" for the hackday.
+> Using PyBossa to create a Table-Transcription platoform for extracting data
+> from tables in scanned pages. This would be a general platform, but one use
+> is to extract historical data on demography, heath and crime in XIX Brazil.
+
+We're on it :-)
+
+> We already worked a little bit on the Berlin-hackfest last year, and also
+> there has been some development in Brasil. Using all that it is possible
+> that a working solution could emerge from the hackday.
+
+My big plan is to work to upgrade data digitizer to be a proper table
+transcription system.
+
+Can I suggest you boot an issue on the issue tracker where we can
+discuss and plan this work:
+
+<https://github.com/citizen-cyberscience-centre/pybossa/issues>
+
+Rufus
+
+> I saw in the program that the hackdays start friday the 17th in the aftenoo,
+> is that correct? If so I could participate remotelly in the hackday.
+>
+> In any case, let me know if there is interest in developing this in the
+> HackFest.
+>
+> regards
+> Lucas
+>
+>
+>
+>
+> On Fri, Feb 10, 2012 at 10:30 AM, Jenny Molloy <jenny.molloy at okfn.org>
+> wrote:
+>>
+>> Hi All
+>>
+>> If anyone can make it to London on Saturday 18th Feb the Citizen
+>> Cyberscience Summit is hosting a hackday
+>> http://cybersciencesummit.org/35-2/the-hackday/ featuring multiple
+>> challenges http://cybersciencesummit.org/challenges/?including one focused
+>> around PyBOSSA which was developed by OKFN folk:
+>>
+>> ---------------
+>>
+>> Create your own volunteer thinking project with
+>> PyBossa?http://cybersciencesummit.org/portfolio/create-your-own-volunteer-thinking-project-with-pybossa/
+>>
+>> Develop volunteer thinking projects based on the new open source PyBossa
+>> platform that the Citizen Cyberscience Centre has developed with the Open
+>> Knowledge Foundation.Do you have a project where you need human
+>> collaboration? Humans are very capable of reading handwritting, identifying
+>> objects in pictures, doing transcriptions, thinking in 3D, collaborating,
+>> etc. For instance, if we ask a person if he can see a human in a photo it
+>> will be easy to answer, but it could be complicated for an algorithm.
+>> ________
+>>
+>> Another suggested challenge encourages non-coders to add information on
+>> citizen cyberscience projects to Data Hub so strong OKFN involvement would
+>> be fantastic to see!
+>>
+>> "How many citizen cyberscientists are there in the world?"
+>> Participants in this?challenge?will ?hunt down and enter relevant data
+>> about the numbers of citizen cyberscientists participating in various
+>> projects, in an effort to quantify the level of citizen cyberscience
+>> worldwide. Data will be stored and visualized using OKFN's DataHub. The
+>> core?challenge?of gathering and entering data is suitable for participants
+>> who are not major league hackers. For participants with relevant software
+>> skills, the work can extend to developing ways of automating data collection
+>> from sites that publish citizen cyberscience stats regularly (eg
+>> BOINCstats).
+>> ------------
+>>
+>> Do you have ideas for further challenges? Send them to the list and we'll
+>> forward them to the summit team.
+>>
+>> You can register for the hackday and the rest of what looks set to be a
+>> fantastic event here:?http://cybersciencesummit.org/register-2/?- drop me a
+>> line if you're going and especially if you have experience with CKAN/DataHub
+>> and would be willing to assist with the challenges!
+>>
+>> Best wishes
+>>
+>> Jenny
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science-dev mailing list
+>> open-science-dev at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science-dev
+>>
+>
+>
+> _______________________________________________
+> open-science-dev mailing list
+> open-science-dev at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science-dev
+>
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From jenny.molloy at okfn.org  Wed Feb 15 11:00:55 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 15 Feb 2012 11:00:55 +0000
+Subject: [open-science] Final Call! Citizen Cyberscience Summit 2012 16-18
+	Feb 2012
+Message-ID: <CABPM+woiKnzHpGEpuh9nvCE4hxxNYLbK6hr_mOpUc7Cy1581sg@mail.gmail.com>
+
+Hi All
+
+Just a reminder that the Citizen Cyberscience Summit kicks off tomorrow!
+There are a few tickets remaining for the plenary day at the Royal
+Geographical Society, the Friday Session is sold out but you can still
+register for the hackday on Saturday. All tickets available here
+http://cybersciencesummit.org/register-2/
+
+Two challenges relate to OKFN projects (you can see the complete list and
+more details here http://cybersciencesummit.org/challenges/ )
+---------------
+Create your own volunteer thinking project with PyBossa
+http://cybersciencesummit.org/portfolio/create-your-own-volunteer-thinking-project-with-pybossa/
+Develop volunteer thinking projects based on the new open source PyBossa
+platform that the Citizen Cyberscience Centre has developed with the Open
+Knowledge Foundation.Do you have a project where you need human
+collaboration? Humans are very capable of reading handwritting, identifying
+objects in pictures, doing transcriptions, thinking in 3D, collaborating,
+etc. For instance, if we ask a person if he can see a human in a photo it
+will be easy to answer, but it could be complicated for an algorithm.
+________
+
+*How many cyberscientists can you count?*
+Search and gather data about the world?s Citizen Cyberscientists, to be
+stored in the OKF Data Hub.* *There are many brilliant cyberscience
+projects out there but they are widely dispersed. The Challenge is to
+search and gather relevant data about the numbers of citizen
+cyberscientists participating in various projects, in an effort to quantify
+the level of citizen cyberscience worldwide.
+------------
+If you can't attend in person but would like to participate in the
+challenges above remotely either on Friday afternoon or Saturday, fill in
+your details here and we'll make sure you have the links to the challenge
+documentation and are in contact with someone at the hackday:
+http://okfnpad.org/cccs2012-hackday
+
+If you're interested in taking part in any of the other challenges
+remotely, do try checking out the challenge pages for contact details of
+organisers and get in touch with them directly.
+
+I hope to see some of you on Friday :)
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120215/b691fc7f/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Feb 15 13:39:05 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 15 Feb 2012 13:39:05 +0000
+Subject: [open-science] [open-science-dev] Citizen Cyberscience Hackday
+In-Reply-To: <CAA+7z9GHWLS=_7S6Bh4skNfPPDZ=gVeJPiUNbQ2ycdR7Fc3oGg@mail.gmail.com>
+References: <CABPM+wpRgkbhDMXU6teVYGRez6xZTh572c=ttdq9AZyng5Vv2Q@mail.gmail.com>
+	<CAA+7z9GHWLS=_7S6Bh4skNfPPDZ=gVeJPiUNbQ2ycdR7Fc3oGg@mail.gmail.com>
+Message-ID: <CAD2k14MFfAKu+w=aVk4SG23KtFiG0QYd9Qgk6gEbBiXxghhiSw@mail.gmail.com>
+
+FWIW I have registered for Thursday evening and Saturday
+
+On Tue, Feb 14, 2012 at 2:01 PM, Lucas Ferreira Mation <
+lucasmation at gmail.com> wrote:
+
+> Dear all,
+>
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120215/2d8a9a55/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Feb 15 21:45:59 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 15 Feb 2012 21:45:59 +0000
+Subject: [open-science] Minutes from WG Meeting 25 Jan
+Message-ID: <CABPM+wrGG+an-gipg+JdmopwuJ7Ch1onHFFhbYSC_pdAYyKwUA@mail.gmail.com>
+
+Hi All
+
+Apologies for the delay but the updates from the working grop meeting on 25
+Jan are now up on the website (which has now been upgraded to the new OKFN
+theme and will be seeing something of a content reshuffle over the next few
+weeks). Please check them out and as ever get in touch with me or via the
+list if you have any suggestions or want to get involved with any projects.
+
+http://science.okfn.org/2012/02/15/working-group-meeting-25-jan-2012/
+
+The next meeting will be Wednesday 6 March, 17:30 GMT. You can sign up and
+add agenda items at http://okfnpad.org/sciencewg-6Mar2012
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120215/7be23e98/attachment.htm>
+
+From u.herb at scinoptica.com  Thu Feb 16 14:17:49 2012
+From: u.herb at scinoptica.com (Ulrich Herb)
+Date: Thu, 16 Feb 2012 15:17:49 +0100
+Subject: [open-science] Arrow & Orphan works
+Message-ID: <4F3D100D.6060001@scinoptica.com>
+
+Dear all,
+
+
+although many of you might know Arrow, this might be of interest for 
+some of you:
+
+Arrow, a registry of orphan works: http://www.arrow-net.eu/
+
+
+best regards
+
+
+uli herb
+
+
+-- 
+POB 10 13 13
+D-66013 Saarbr?cken
+http://www.scinoptica.com
++49-(0)157 84759877
+http://twitter.com/#!/scinoptica
+
+
+From pm286 at cam.ac.uk  Thu Feb 16 15:09:14 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 16 Feb 2012 15:09:14 +0000
+Subject: [open-science] Response to Hargreaves proposal on copyright reform
+Message-ID: <CAD2k14Nu2YoM8OqmT-X96-Br86CBrWgFWxpCju946yyJ1ehCmA@mail.gmail.com>
+
+Ben Hawes from the Uk's Intellectual Property Office (ipo.gov.uk) picked up
+my blogging on problems of textmining and invited me to IPO in Bloomsbury -
+we talked for about an hour. Ben is formally neutral but wants to see
+cogent arguments from the Open community that can be included in a
+response. Briefly the Hargreaves report has recommended changes to UK
+copyright law which inter alia would allow text- and data-mining for NC
+uses. (The NC comes from European law - if we feel strongly (as I do) then
+it's worth pursuing it).  The response will be collated by IPO, offered for
+public consultation and then drafted for legislative changes.
+
+I THINK IT'S CRITICAL THAT THE OKF RESPOND - we have till March 21. - see
+http://www.ipo.gov.uk/consult-2011-copyright.pdf
+
+Although this is a UK activity it will probably have important impact
+esleweher in Europe which - as far as I know - is not as far down this road.
+
+I'v copied 3 lists. It's not just science, but that's an important area and
+has the features that none of the work is for profit - this may be
+self-evident to us, but the point needs making. I've included discuss, to
+pick up general views. It also overlaps with current thinking on access.
+We'll need to identify a coordination mechanism soon.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120216/d2f42c14/attachment.htm>
+
+From raphael.ritz at incf.org  Fri Feb 17 11:39:45 2012
+From: raphael.ritz at incf.org (Raphael Ritz)
+Date: Fri, 17 Feb 2012 12:39:45 +0100
+Subject: [open-science] Scoap3
+Message-ID: <4F3E3C81.8060707@incf.org>
+
+Hi,
+
+sorry if I'm spreading old news but I couldn't find any mention
+of this on the list so maybe people find this interesting:
+
+http://scoap3.org/
+
+SCOAP^3 - Sponsoring Consortium for Open Access Publishing in Particle 
+Physics <http://scoap3.org/index.html>
+Towards Open Access publishing in High Energy Physics
+
+While limited in scope to high energy physics I think the
+business model can serve as role model for other fields
+as well - if not the future of scientific publishing in general.
+
+Raphael
+
+-- 
+Dr. Raphael Ritz
+Scientific Officer
+
+International Neuroinformatics Coordinating Facility
+Karolinska Institutet
+Nobels v?g 15 A
+SE-171 77  Stockholm
+Sweden
+
+Email: raphael.ritz at incf.org
+Phone: +46 8 524 87017
+Fax: +46 8 524 87150
+web: www.incf.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120217/5d080f79/attachment-0001.htm>
+
+From egon.willighagen at gmail.com  Sat Feb 18 08:25:10 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sat, 18 Feb 2012 09:25:10 +0100
+Subject: [open-science] the infectious character of CC-SA works like ... ?
+Message-ID: <CAMPqvY8vSX6aKe0tG=EyTXVcrLK9FXUMKSjy_OYKOUwOhzeKfw@mail.gmail.com>
+
+Hi all,
+
+does anyone here have some experience with the legal interpretation of
+the ShareAlike clause of the Creative Commons licenses?
+
+In particular, I was wondering if the SA that applies to derivatives,
+works like the copylefting in the GNU GPL, or as in the GNU *Affero*
+GPL?
+
+The context is data behind a website providing functionality based on
+that data (for example, any website that allows you to search that
+data, visualize slices, etc). Now, I am not interested into getting
+into the argument that data should not be using CC-SA at all, and just
+face CC-SA data, where this issue comes up.
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From cameron.neylon at stfc.ac.uk  Sat Feb 18 10:09:53 2012
+From: cameron.neylon at stfc.ac.uk (cameron.neylon at stfc.ac.uk)
+Date: Sat, 18 Feb 2012 10:09:53 +0000
+Subject: [open-science] the infectious character of CC-SA works like ...
+ ?
+In-Reply-To: <CAMPqvY8vSX6aKe0tG=EyTXVcrLK9FXUMKSjy_OYKOUwOhzeKfw@mail.gmail.com>
+References: <CAMPqvY8vSX6aKe0tG=EyTXVcrLK9FXUMKSjy_OYKOUwOhzeKfw@mail.gmail.com>
+Message-ID: <BBA4BF2D-39C5-4EBA-A304-E7BD0AFB0683@stfc.ac.uk>
+
+IANAL but there's a fundamental problem here. You can ask two different questions here. One is what is the legal position? This will differ by jurisdiction but basically hasn't been tested anywhere I am aware of for data. The likely case is that a court would through out a case based on CC-BY-SA for Darwin most jurisdictions. In any case it would be a mess and difficult to predict.
+
+The other question is what is the intention? Well the drafters of the SA licence didn't want to consider data really so in a sense their intentions aren't relevant. If you look closely at the CC terms in 3.0  you will see that people are largely giving any non copyright rights up, which doesn't leave much for data. So then you're reduced to respecting what you think the wishes of the data providers are. So you can either ask them, or take the most conservative path, erring on e side of caution. I would guess that when people apply SA terms what they mostly are thinking of is GPL style protections.
+
+It would be great if you could document what you end up doing and why. We need real stories of how these different licensing choices interact with reality so we can stop talking so much about abstract possibilities and look at real evidence when we encourage people to take certain approaches.
+
+Cheers
+
+Cameron
+
+On 18 Feb 2012, at 08:28, "Egon Willighagen" <egon.willighagen at gmail.com> wrote:
+
+> Hi all,
+> 
+> does anyone here have some experience with the legal interpretation of
+> the ShareAlike clause of the Creative Commons licenses?
+> 
+> In particular, I was wondering if the SA that applies to derivatives,
+> works like the copylefting in the GNU GPL, or as in the GNU *Affero*
+> GPL?
+> 
+> The context is data behind a website providing functionality based on
+> that data (for example, any website that allows you to search that
+> data, visualize slices, etc). Now, I am not interested into getting
+> into the argument that data should not be using CC-SA at all, and just
+> face CC-SA data, where this issue comes up.
+> 
+> Egon
+> 
+> -- 
+> Dr E.L. Willighagen
+> Postdoctoral Researcher
+> Department of Bioinformatics - BiGCaT
+> Maastricht University (http://www.bigcat.unimaas.nl/)
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+-- 
+Scanned by iCritical.
+
+
+From egon.willighagen at gmail.com  Sat Feb 18 10:26:58 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sat, 18 Feb 2012 11:26:58 +0100
+Subject: [open-science] the infectious character of CC-SA works like ...
+	?
+In-Reply-To: <BBA4BF2D-39C5-4EBA-A304-E7BD0AFB0683@stfc.ac.uk>
+References: <CAMPqvY8vSX6aKe0tG=EyTXVcrLK9FXUMKSjy_OYKOUwOhzeKfw@mail.gmail.com>
+	<BBA4BF2D-39C5-4EBA-A304-E7BD0AFB0683@stfc.ac.uk>
+Message-ID: <CAMPqvY8zRb_1F97uTdSVpFbEBOJp8nP+4C0uEAaJK7jO=bcOmw@mail.gmail.com>
+
+Hi Cameron,
+
+On Sat, Feb 18, 2012 at 11:09 AM,  <cameron.neylon at stfc.ac.uk> wrote:
+> The other question is what is the intention? Well the drafters of the SA licence didn't want to consider data really so in a sense their intentions aren't relevant. If you look closely at the CC terms in 3.0 ?you will see that people are largely giving any non copyright rights up, which doesn't leave much for data. So then you're reduced to respecting what you think the wishes of the data providers are. So you can either ask them, or take the most conservative path, erring on e side of caution.
+
+We already have asked to providers, but that is kind of asking for
+additional rights... so, my question is indeed a bit theoretical, and
+I am seeking real-world stories indeed. I will document whatever
+replies I get.
+
+> I would guess that when people apply SA terms what they mostly are thinking of is GPL style protections.
+
+Yes, but like GPL *or* like Affero GPL...
+
+The difference for source code is tremendous... the GPL is only
+"infectious" if the software is distributed. So, what people started
+doing was take GPL software, host that online, modify and improve, but
+not share those improvements. Since they are not distributing the
+software, they are not required to open source their improvemens.
+That's what the "Affero GPL", ummm, solves.
+
+Now, the same can happen to data. Someone picks up some CC-SA database
+from chemistry, host this, enrich that with cool new stuff, fixing
+typos in the original database... but, would those typo fixes need to
+be shared under CC-SA?
+
+Possible answers:
+
+Yes, SA works like the Affero GPL.
+No, they are not redistributing the data as such, and the SA bit does not apply.
+
+I can imagine many answers, and many intentions. But what I am looking
+for mostly, is how others have put the SA clause into practice.
+
+> It would be great if you could document what you end up doing and why. We need real stories of how these different licensing choices interact with reality so we can stop talking so much about abstract possibilities and look at real evidence when we encourage people to take certain approaches.
+
+Yes, and those stories I am indeed seeking :)
+
+But, given the state of Open Data, I am a bit skeptic in getting any
+reply at all :/
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From karol.langner at gmail.com  Sat Feb 18 11:34:02 2012
+From: karol.langner at gmail.com (Karol M. Langner)
+Date: Sat, 18 Feb 2012 12:34:02 +0100
+Subject: [open-science] Polish petition for open access to scientific content
+Message-ID: <20120218113402.GA31244@niuma>
+
+Hi,
+
+For all the Polish-speaking memers of this list (are there any others?), here is a new petition organized by Warsaw University/ICM, calling for the open publication of publically funded research:
+http://otwartymandat.pl/
+
+Unfortunately, there is no English translation yet.
+
+Best,
+Karol
+
+-- 
+written by Karol M. Langner
+Sat Feb 18 12:26:44 CET 2012
+
+
+From ps at pawelszczesny.org  Sat Feb 18 12:41:17 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Sat, 18 Feb 2012 13:41:17 +0100
+Subject: [open-science] Polish petition for open access to scientific
+	content
+In-Reply-To: <20120218113402.GA31244@niuma>
+References: <20120218113402.GA31244@niuma>
+Message-ID: <CADfaFZq4NiUWhSkzABVXc2RLR4VmGVY_HyW=ZDyWg+BC5gWFRw@mail.gmail.com>
+
+Thanks for the share. It's already a big news in academic circles.
+
+To make it clear for non-Polish members - it's not a petition for some
+precise solution (it calls for open mandate without specifying any
+details). It's rather an attempt to start a final (see below)
+discussion on the subject (using petition authors' report on OA -
+which is probably the best publication in Polish on the subject that
+was released so far - as a starting point).
+
+For those of you who are not familiar with OA subject in Poland,
+here's a piece of a bigger picture: there's an ongoing discussion on
+nation-wide OA mandate (or/and its field-specific versions similar to
+NIH mandate) since 2009. A proposal of a legislation never reached the
+green table (for reasons you are all too familiar with: variations of
+disagreement on gold vs green), however already twice the office of PM
+introduced into different legislations requirement for open PhD
+theses. Respective paragraphs were removed before the voting due to
+resistance of academic community (PhD students especially). In the
+meantime, during signing a new "big deal", Ministry of Science agreed
+to cover Springer Open Choice fee on each publication from Polish
+institution (if applicable). However, no news yet on covering the PLoS
+or BMC fees. The current atmosphere suggests that some decisions are
+going to be made relatively soon - even economists are calling for OA
+(more specifically: for OA plus open data).
+
+Best wishes
+PS
+
+
+On Sat, Feb 18, 2012 at 12:34 PM, Karol M. Langner
+<karol.langner at gmail.com> wrote:
+> Hi,
+>
+> For all the Polish-speaking memers of this list (are there any others?), here is a new petition organized by Warsaw University/ICM, calling for the open publication of publically funded research:
+> http://otwartymandat.pl/
+>
+> Unfortunately, there is no English translation yet.
+>
+> Best,
+> Karol
+>
+> --
+> written by Karol M. Langner
+> Sat Feb 18 12:26:44 CET 2012
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+From jenny.molloy at okfn.org  Tue Feb 21 15:36:22 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 21 Feb 2012 15:36:22 +0000
+Subject: [open-science] The Scientific Evolution: Open Science and the
+	Future of Publishing
+Message-ID: <CABPM+wpiSq=Je-pmebO-uYLzrny6J++xHqcod+PNh3XDVGR9OQ@mail.gmail.com>
+
+Dear All
+
+Info on an event on scientific publishing in Oxford featuring Cameron
+Neylon and with myself and Peter Murray-Rust in the audience - if you're
+available please do come along and let us know so we can make sure to say
+hi!
+
+If not, I'll let you all know when the video is out. There is a flyer
+available at www.EvolutionOfScience.org<https://legacy.nexus.ox.ac.uk/OWA/redir.aspx?C=46bfecd718d541d69c2d536cf84bc33a&URL=http%3a%2f%2fwww.EvolutionOfScience.org>
+if
+you happen to be in a position to post it somewhere.
+
+Jenny
+
+
+On leap-Wednesday the 29th Feb, a rare chance to meet an eminent panel of
+speakers and debate
+
+The Scientific Evolution: Open Science and the Future of Publishing
+
+The panel includes speakers from Nature, Elsevier, and the Wellcome trust,
+together with Lord Robert Winston, Cameron Neylon and Victor Henning, CEO
+of Mendeley.
+
+We'll address question like,
+Do we still need science journals in the internet age?
+Is there something better than peer review?
+How will scientific papers evolve?
+Is the Elsevier boycott (thecostofknowledge.com) the start of something big?
+
+The change has already begun: SOPA and the RWA, the boycott of Elsevier.
+Science is evolving to become more open. How will you make the most of the
+change? Come to discover, to debate, and come to take action.
+
+
+From pm286 at cam.ac.uk  Tue Feb 21 16:05:19 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 21 Feb 2012 16:05:19 +0000
+Subject: [open-science] The Scientific Evolution: Open Science and the
+ Future of Publishing
+In-Reply-To: <CABPM+wpiSq=Je-pmebO-uYLzrny6J++xHqcod+PNh3XDVGR9OQ@mail.gmail.com>
+References: <CABPM+wpiSq=Je-pmebO-uYLzrny6J++xHqcod+PNh3XDVGR9OQ@mail.gmail.com>
+Message-ID: <CAD2k14NXO_t1XH4JaHXOy3Gq=i94OBZ5MqFw3PnnhOZtn5mnag@mail.gmail.com>
+
+On Tue, Feb 21, 2012 at 3:36 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> Info on an event on scientific publishing in Oxford featuring Cameron
+> Neylon and with myself and Peter Murray-Rust in the audience - if you're
+> available please do come along and let us know so we can make sure to say
+> hi!
+>
+> If not, I'll let you all know when the video is out. There is a flyer
+> available at www.EvolutionOfScience.org<https://legacy.nexus.ox.ac.uk/OWA/redir.aspx?C=46bfecd718d541d69c2d536cf84bc33a&URL=http%3a%2f%2fwww.EvolutionOfScience.org> if
+> you happen to be in a position to post it somewhere.
+>
+
+This asks for a password
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120221/1292c837/attachment-0001.htm>
+
+From jenny.molloy at okfn.org  Tue Feb 21 16:25:48 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 21 Feb 2012 16:25:48 +0000
+Subject: [open-science] The Scientific Evolution: Open Science and the
+	Future of Publishing
+In-Reply-To: <CABPM+wpiSq=Je-pmebO-uYLzrny6J++xHqcod+PNh3XDVGR9OQ@mail.gmail.com>
+References: <CABPM+wpiSq=Je-pmebO-uYLzrny6J++xHqcod+PNh3XDVGR9OQ@mail.gmail.com>
+Message-ID: <CABPM+wojmDvdqKtuw3XF4xKhCVrt5=YirAdxivbv3HVNUCsCHw@mail.gmail.com>
+
+Something dodgy happen with the link to the website there, the URL
+www.evolutionofscience.org is correct and this one will hopefully now
+direct to the right place!
+
+Jenny
+
+On Tue, Feb 21, 2012 at 3:36 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> Info on an event on scientific publishing in Oxford featuring Cameron
+> Neylon and with myself and Peter Murray-Rust in the audience - if you're
+> available please do come along and let us know so we can make sure to say
+> hi!
+>
+> If not, I'll let you all know when the video is out. There is a flyer
+> available at www.EvolutionOfScience.org<https://legacy.nexus.ox.ac.uk/OWA/redir.aspx?C=46bfecd718d541d69c2d536cf84bc33a&URL=http%3a%2f%2fwww.EvolutionOfScience.org> if
+> you happen to be in a position to post it somewhere.
+>
+> Jenny
+>
+>
+> On leap-Wednesday the 29th Feb, a rare chance to meet an eminent panel of
+> speakers and debate
+>
+> The Scientific Evolution: Open Science and the Future of Publishing
+>
+> The panel includes speakers from Nature, Elsevier, and the Wellcome trust,
+> together with Lord Robert Winston, Cameron Neylon and Victor Henning, CEO
+> of Mendeley.
+>
+> We'll address question like,
+> Do we still need science journals in the internet age?
+> Is there something better than peer review?
+> How will scientific papers evolve?
+> Is the Elsevier boycott (thecostofknowledge.com) the start of something
+> big?
+>
+> The change has already begun: SOPA and the RWA, the boycott of Elsevier.
+> Science is evolving to become more open. How will you make the most of the
+> change? Come to discover, to debate, and come to take action.
+>
+> From 3:30pm on 29th Feb, Wednesday of 7th Week: be at Rhodes House in
+> Oxford to take part in shaping the future of publishing.
+>
+> The event is free, and you can optionally email
+> victoria at EvolutionOfScience.org to reserve a seat.
+>
+> www.EvolutionOfScience.org<https://legacy.nexus.ox.ac.uk/OWA/redir.aspx?C=46bfecd718d541d69c2d536cf84bc33a&URL=http%3a%2f%2fwww.EvolutionOfScience.org>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120221/d2c968ab/attachment.htm>
+
+From a.p.swan at talk21.com  Wed Feb 22 20:31:38 2012
+From: a.p.swan at talk21.com (Alma Swan)
+Date: Wed, 22 Feb 2012 20:31:38 +0000
+Subject: [open-science] Open Access event in Oxford, 29 February 2012
+In-Reply-To: <CABPM+wojmDvdqKtuw3XF4xKhCVrt5=YirAdxivbv3HVNUCsCHw@mail.gmail.com>
+Message-ID: <CB6B012A.1917B%a.p.swan@talk21.com>
+
+Forwarding from Simon Benjamin
+The Senior Fellow in Quantum Materials,
+Dept Materials, Oxford.
+www.qunat.org
+-------------------------------------
+
+On leap-Wednesday the 29th Feb, a rare chance to meet an eminent panel of
+speakers and debate:
+
+The Scientific Evolution: Open Science and the Future of Publishing
+
+The panel includes speakers from Nature, Elsevier, and the Wellcome trust,
+together with Lord Robert Winston, Cameron Neylon and Victor Henning, CEO of
+Mendeley.
+
+We'll address question like,
+Do we still need science journals in the internet age?
+Is there something better than peer review?
+How will scientific papers evolve?
+Is the Elsevier boycott (thecostofknowledge.com) the start of something big?
+
+The change has already begun: SOPA and the RWA, the boycott of Elsevier.
+Science is evolving to become more open. How will you make the most of the
+change? Come to discover, to debate, and come to take action.
+
+
+From daniel.mietchen at googlemail.com  Thu Feb 23 12:20:19 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Thu, 23 Feb 2012 13:20:19 +0100
+Subject: [open-science] Copyright transfer agreements
+Message-ID: <CAN6n2b2e5VReuXAmPELVwRyCav7NnQz4i5vcWdUn5UXhdi8r7A@mail.gmail.com>
+
+Dear all,
+
+I recently started
+http://en.wikipedia.org/wiki/Copyright_transfer_agreement
+and am looking for improvements, especially illustrations.
+
+Do any of you know of a journal that recently switched from
+toll-access to open access and may be in a position to provide a
+suitably licensed copy of their former Copyright transfer agreement?
+
+Thanks,
+
+Daniel
+
+
+From pm286 at cam.ac.uk  Thu Feb 23 12:36:16 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 23 Feb 2012 12:36:16 +0000
+Subject: [open-science] [Open-access] Copyright transfer agreements
+In-Reply-To: <CAN6n2b2e5VReuXAmPELVwRyCav7NnQz4i5vcWdUn5UXhdi8r7A@mail.gmail.com>
+References: <CAN6n2b2e5VReuXAmPELVwRyCav7NnQz4i5vcWdUn5UXhdi8r7A@mail.gmail.com>
+Message-ID: <CAD2k14PfiJ3QwuQozJu7hUe+-Wrbswh7EeV-AFtLwXbEaonn4g@mail.gmail.com>
+
+On Thu, Feb 23, 2012 at 12:20 PM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> Dear all,
+>
+> I recently started
+> http://en.wikipedia.org/wiki/Copyright_transfer_agreement
+> and am looking for improvements, especially illustrations.
+>
+> Do any of you know of a journal that recently switched from
+> toll-access to open access and may be in a position to provide a
+> suitably licensed copy of their former Copyright transfer agreement?
+>
+
+Does  it have to be a journal that switched? Or do you just want CTAs under
+Open licences (for the CTAs)? I wouldn't have thought that was too difficult
+
+> Thanks,
+>
+> Daniel
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120223/936f7dad/attachment.htm>
+
+From peters at earlham.edu  Thu Feb 23 16:10:36 2012
+From: peters at earlham.edu (Peter Suber)
+Date: Thu, 23 Feb 2012 11:10:36 -0500
+Subject: [open-science] Copyright transfer agreements
+In-Reply-To: <CAN6n2b2e5VReuXAmPELVwRyCav7NnQz4i5vcWdUn5UXhdi8r7A@mail.gmail.com>
+References: <CAN6n2b2e5VReuXAmPELVwRyCav7NnQz4i5vcWdUn5UXhdi8r7A@mail.gmail.com>
+Message-ID: <CAB0+At4p0M-Gu1RoP_H9zvKdLkz28A2Fv8XjXS-DXe0xBaiH2Q@mail.gmail.com>
+
+Hi Daniel,
+
+See the Open Access Directory list of journals that converted from TA to OA.
+http://oad.simmons.edu/oadwiki/Journals_that_converted_from_TA_to_OA
+
+The list is fairly comprehensive but not completely current. For more
+recent conversions, see the items tagged with "oa.conversions" for the OA
+Tracking Project.
+http://www.connotea.org/tag/oa.conversions
+
+     Peter
+
+Peter Suber
+gplus.to/petersuber
+
+
+
+On Thu, Feb 23, 2012 at 7:20 AM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> Dear all,
+>
+> I recently started
+> http://en.wikipedia.org/wiki/Copyright_transfer_agreement
+> and am looking for improvements, especially illustrations.
+>
+> Do any of you know of a journal that recently switched from
+> toll-access to open access and may be in a position to provide a
+> suitably licensed copy of their former Copyright transfer agreement?
+>
+> Thanks,
+>
+> Daniel
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120223/a5b2acb1/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Fri Feb 24 14:10:09 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Fri, 24 Feb 2012 15:10:09 +0100
+Subject: [open-science] February 25 is [[Copyright transfer agreement]] day
+Message-ID: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+
+Dear all,
+
+with the subject line, I mean that Alex Holcombe's video of a dialogue
+between publisher and researcher about signing the copyright transfer
+agreement
+( http://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv )
+is going to be featured on the main page of Wikimedia Commons
+(http://commons.wikimedia.org/wiki/Main_Page )
+under Media of the Day, with a link to
+http://en.wikipedia.org/wiki/Copyright_transfer_agreement .
+
+If you were thinking about blogging on such agreements or related
+issues, tomorrow may be a good day for that.
+
+Cheers,
+
+Daniel
+
+
+From daniel.mietchen at googlemail.com  Fri Feb 24 15:54:42 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Fri, 24 Feb 2012 16:54:42 +0100
+Subject: [open-science] Copyright transfer agreements
+In-Reply-To: <CAB0+At4p0M-Gu1RoP_H9zvKdLkz28A2Fv8XjXS-DXe0xBaiH2Q@mail.gmail.com>
+References: <CAN6n2b2e5VReuXAmPELVwRyCav7NnQz4i5vcWdUn5UXhdi8r7A@mail.gmail.com>
+	<CAB0+At4p0M-Gu1RoP_H9zvKdLkz28A2Fv8XjXS-DXe0xBaiH2Q@mail.gmail.com>
+Message-ID: <CAN6n2b22o=wN5JG2Qr-KooqkR4DTDb7n4m36tnxzRJMqTX666w@mail.gmail.com>
+
+Thanks, Peter - this list is instructive, especially in the cases
+where some explanation is provided for the conversion. Nothing sprang
+to mind in terms of illustration, though.
+
+Daniel
+
+
+On Thu, Feb 23, 2012 at 5:10 PM, Peter Suber <peters at earlham.edu> wrote:
+> Hi Daniel,
+>
+> See the Open Access Directory list of journals that converted from TA to OA.
+> http://oad.simmons.edu/oadwiki/Journals_that_converted_from_TA_to_OA
+>
+> The list is fairly comprehensive but not completely current. For more recent
+> conversions, see the items tagged with "oa.conversions" for the OA Tracking
+> Project.
+> http://www.connotea.org/tag/oa.conversions
+>
+> ? ? ?Peter
+>
+> Peter Suber
+> gplus.to/petersuber
+>
+>
+>
+> On Thu, Feb 23, 2012 at 7:20 AM, Daniel Mietchen
+> <daniel.mietchen at googlemail.com> wrote:
+>>
+>> Dear all,
+>>
+>> I recently started
+>> http://en.wikipedia.org/wiki/Copyright_transfer_agreement
+>> and am looking for improvements, especially illustrations.
+>>
+>> Do any of you know of a journal that recently switched from
+>> toll-access to open access and may be in a position to provide a
+>> suitably licensed copy of their former Copyright transfer agreement?
+>>
+>> Thanks,
+>>
+>> Daniel
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+From daniel.mietchen at googlemail.com  Sat Feb 25 00:18:38 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Sat, 25 Feb 2012 01:18:38 +0100
+Subject: [open-science] February 25 is [[Copyright transfer agreement]]
+	day
+In-Reply-To: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+Message-ID: <CAN6n2b3ze1QpPRH0wWL3SEtLwGgay37M5jM_EV+0H7pWetnrBQ@mail.gmail.com>
+
+The file is now live:
+http://commons.wikimedia.org/wiki/Main_Page
+http://www.webcitation.org/65hebsXVT
+
+Daniel
+
+On Fri, Feb 24, 2012 at 3:10 PM, Daniel Mietchen
+<daniel.mietchen at googlemail.com> wrote:
+> Dear all,
+>
+> with the subject line, I mean that Alex Holcombe's video of a dialogue
+> between publisher and researcher about signing the copyright transfer
+> agreement
+> ( http://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv )
+> is going to be featured on the main page of Wikimedia Commons
+> (http://commons.wikimedia.org/wiki/Main_Page )
+> under Media of the Day, with a link to
+> http://en.wikipedia.org/wiki/Copyright_transfer_agreement .
+>
+> If you were thinking about blogging on such agreements or related
+> issues, tomorrow may be a good day for that.
+>
+> Cheers,
+>
+> Daniel
+
+
+From pm286 at cam.ac.uk  Sat Feb 25 09:26:31 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 25 Feb 2012 09:26:31 +0000
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAN6n2b3ze1QpPRH0wWL3SEtLwGgay37M5jM_EV+0H7pWetnrBQ@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAN6n2b3ze1QpPRH0wWL3SEtLwGgay37M5jM_EV+0H7pWetnrBQ@mail.gmail.com>
+Message-ID: <CAD2k14P3-5TPe-pzW8U9z-oh_Kn4T2hZ6Yh=bwEuOtmQLZdcvA@mail.gmail.com>
+
+On Sat, Feb 25, 2012 at 12:18 AM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> The file is now live:
+> http://commons.wikimedia.org/wiki/Main_Page
+> http://www.webcitation.org/65hebsXVT
+>
+> Daniel
+>
+> On Fri, Feb 24, 2012 at 3:10 PM, Daniel Mietchen
+> <daniel.mietchen at googlemail.com> wrote:
+> > Dear all,
+> >
+> > with the subject line, I mean that Alex Holcombe's video of a dialogue
+> > between publisher and researcher about signing the copyright transfer
+> > agreement
+> > (
+> http://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv)
+> > is going to be featured on the main page of Wikimedia Commons
+> > (http://commons.wikimedia.org/wiki/Main_Page )
+> > under Media of the Day, with a link to
+> > http://en.wikipedia.org/wiki/Copyright_transfer_agreement .
+> >
+> > If you were thinking about blogging on such agreements or related
+> > issues, tomorrow may be a good day for that.
+>
+
+The movie itself has no declaration of rights (unless I have missed it).
+Embedding the movie in Wikimedia pages is fragile declaration of rights. A
+simple CC-BY or CC0 on the credits is needed.
+
+We discussed this on open-access meetup yesterday. Can we come up with a
+simple digital means for stamping images and movies as CC-BY/0/PDDL? It's
+not difficult to see how it could be done for images (create a bitmap,
+replace the pixels with "@access CC0" or whatever. I'm sure I'm not the
+first to think of it.
+
+
+> >
+> > Cheers,
+> >
+> > Daniel
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120225/957059eb/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Sat Feb 25 13:59:14 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Sat, 25 Feb 2012 14:59:14 +0100
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAD2k14P3-5TPe-pzW8U9z-oh_Kn4T2hZ6Yh=bwEuOtmQLZdcvA@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAN6n2b3ze1QpPRH0wWL3SEtLwGgay37M5jM_EV+0H7pWetnrBQ@mail.gmail.com>
+	<CAD2k14P3-5TPe-pzW8U9z-oh_Kn4T2hZ6Yh=bwEuOtmQLZdcvA@mail.gmail.com>
+Message-ID: <CAN6n2b30x4EX9eebgByckc9LLgGc2qX67GZK4Kk=aTc+Rh5VxA@mail.gmail.com>
+
+Not sure whether I follow you, Peter - surely, embedding on a
+Wikimedia page doesn't say much about copyright and licensing terms,
+but if you click on the video's preview image (rather than the play
+button), you are brought to the page with the metadata. That is
+standard on MediaWiki, and I thought you were aware of that.
+Or what am I missing?
+
+Daniel
+
+
+On Sat, Feb 25, 2012 at 10:26 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Sat, Feb 25, 2012 at 12:18 AM, Daniel Mietchen
+> <daniel.mietchen at googlemail.com> wrote:
+>>
+>> The file is now live:
+>> http://commons.wikimedia.org/wiki/Main_Page
+>> http://www.webcitation.org/65hebsXVT
+>>
+>> Daniel
+>>
+>> On Fri, Feb 24, 2012 at 3:10 PM, Daniel Mietchen
+>> <daniel.mietchen at googlemail.com> wrote:
+>> > Dear all,
+>> >
+>> > with the subject line, I mean that Alex Holcombe's video of a dialogue
+>> > between publisher and researcher about signing the copyright transfer
+>> > agreement
+>> > (
+>> > http://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv
+>> > )
+>> > is going to be featured on the main page of Wikimedia Commons
+>> > (http://commons.wikimedia.org/wiki/Main_Page )
+>> > under Media of the Day, with a link to
+>> > http://en.wikipedia.org/wiki/Copyright_transfer_agreement .
+>> >
+>> > If you were thinking about blogging on such agreements or related
+>> > issues, tomorrow may be a good day for that.
+>
+>
+> The movie itself has no declaration of rights (unless I have missed it).
+> Embedding the movie in Wikimedia pages is fragile declaration of rights. A
+> simple CC-BY or CC0 on the credits is needed.
+>
+> We discussed this on open-access meetup yesterday. Can we come up with a
+> simple digital means for stamping images and movies as CC-BY/0/PDDL? It's
+> not difficult to see how it could be done for images (create a bitmap,
+> replace the pixels with "@access CC0" or whatever. I'm sure I'm not the
+> first to think of it.
+>
+>>
+>> >
+>> > Cheers,
+>> >
+>> > Daniel
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+
+From daniel.mietchen at googlemail.com  Sat Feb 25 16:02:04 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Sat, 25 Feb 2012 17:02:04 +0100
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAN6n2b30x4EX9eebgByckc9LLgGc2qX67GZK4Kk=aTc+Rh5VxA@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAN6n2b3ze1QpPRH0wWL3SEtLwGgay37M5jM_EV+0H7pWetnrBQ@mail.gmail.com>
+	<CAD2k14P3-5TPe-pzW8U9z-oh_Kn4T2hZ6Yh=bwEuOtmQLZdcvA@mail.gmail.com>
+	<CAN6n2b30x4EX9eebgByckc9LLgGc2qX67GZK4Kk=aTc+Rh5VxA@mail.gmail.com>
+Message-ID: <CAN6n2b0AwBiQ1mxkcVHF-51v3qqFdVYjmTpg8BW2MFYXYoTbCw@mail.gmail.com>
+
+The video has been taken down as a supposed copyright violation,
+primarily because of unclear provenance.
+https://twitter.com/EvoMRI/status/173436700838723584 .
+
+Daniel
+
+On Sat, Feb 25, 2012 at 2:59 PM, Daniel Mietchen
+<daniel.mietchen at googlemail.com> wrote:
+> Not sure whether I follow you, Peter - surely, embedding on a
+> Wikimedia page doesn't say much about copyright and licensing terms,
+> but if you click on the video's preview image (rather than the play
+> button), you are brought to the page with the metadata. That is
+> standard on MediaWiki, and I thought you were aware of that.
+> Or what am I missing?
+>
+> Daniel
+>
+>
+> On Sat, Feb 25, 2012 at 10:26 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>>
+>> On Sat, Feb 25, 2012 at 12:18 AM, Daniel Mietchen
+>> <daniel.mietchen at googlemail.com> wrote:
+>>>
+>>> The file is now live:
+>>> http://commons.wikimedia.org/wiki/Main_Page
+>>> http://www.webcitation.org/65hebsXVT
+>>>
+>>> Daniel
+>>>
+>>> On Fri, Feb 24, 2012 at 3:10 PM, Daniel Mietchen
+>>> <daniel.mietchen at googlemail.com> wrote:
+>>> > Dear all,
+>>> >
+>>> > with the subject line, I mean that Alex Holcombe's video of a dialogue
+>>> > between publisher and researcher about signing the copyright transfer
+>>> > agreement
+>>> > (
+>>> > http://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv
+>>> > )
+>>> > is going to be featured on the main page of Wikimedia Commons
+>>> > (http://commons.wikimedia.org/wiki/Main_Page )
+>>> > under Media of the Day, with a link to
+>>> > http://en.wikipedia.org/wiki/Copyright_transfer_agreement .
+>>> >
+>>> > If you were thinking about blogging on such agreements or related
+>>> > issues, tomorrow may be a good day for that.
+>>
+>>
+>> The movie itself has no declaration of rights (unless I have missed it).
+>> Embedding the movie in Wikimedia pages is fragile declaration of rights. A
+>> simple CC-BY or CC0 on the credits is needed.
+>>
+>> We discussed this on open-access meetup yesterday. Can we come up with a
+>> simple digital means for stamping images and movies as CC-BY/0/PDDL? It's
+>> not difficult to see how it could be done for images (create a bitmap,
+>> replace the pixels with "@access CC0" or whatever. I'm sure I'm not the
+>> first to think of it.
+>>
+>>>
+>>> >
+>>> > Cheers,
+>>> >
+>>> > Daniel
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+
+
+From punkish at eidesis.org  Sat Feb 25 16:10:01 2012
+From: punkish at eidesis.org (Puneet Kishor)
+Date: Sat, 25 Feb 2012 10:10:01 -0600
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAN6n2b0AwBiQ1mxkcVHF-51v3qqFdVYjmTpg8BW2MFYXYoTbCw@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAN6n2b3ze1QpPRH0wWL3SEtLwGgay37M5jM_EV+0H7pWetnrBQ@mail.gmail.com>
+	<CAD2k14P3-5TPe-pzW8U9z-oh_Kn4T2hZ6Yh=bwEuOtmQLZdcvA@mail.gmail.com>
+	<CAN6n2b30x4EX9eebgByckc9LLgGc2qX67GZK4Kk=aTc+Rh5VxA@mail.gmail.com>
+	<CAN6n2b0AwBiQ1mxkcVHF-51v3qqFdVYjmTpg8BW2MFYXYoTbCw@mail.gmail.com>
+Message-ID: <758B87DD-D229-4DD4-A993-B2C791465177@eidesis.org>
+
+
+On Feb 25, 2012, at 10:02 AM, Daniel Mietchen wrote:
+
+> The video has been taken down as a supposed copyright violation,
+> primarily because of unclear provenance.
+> https://twitter.com/EvoMRI/status/173436700838723584 .
+> ..
+
+
+It is still cached at http://www.webcitation.org/65hebsXVT (just viewed it 10 secs ago), and, it is quite nice actually. In vein of those Geico commercials.
+
+Just slap a CC0 banner on top (easy to do with home movie programs such as iMovie) and put it up again.
+
+Really nice job.
+
+
+
+
+--
+Puneet Kishor http://punkish.org
+science http://earth-base.org
+advocacy http://creativecommons.org
+
+
+
+
+From tom.olijhoek at gmail.com  Sat Feb 25 17:37:49 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Sat, 25 Feb 2012 18:37:49 +0100
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+Message-ID: <CAGyWN8Z3GOPhDeqZ3uVSW44CED+LP0E0xMYS1PPdZUWCPF_aUQ@mail.gmail.com>
+
+Hi all,
+
+In one of our national newspapers Volkskrant of today I read an article on
+the new company United Academics, who want to build communities of
+scientists with their own lit databases and new models of publication. It
+has to grow into a facebook for scientists.
+There is at least one comparable company ReserchGate, as far as I know
+Our ideas (@ccess) of building communities are different as we don't focus
+on scientists only. But we do want to build communities, implement new
+publishing systems, provide platforms for interaction. provide access to as
+much information as possible. For all this we have the poassible
+collaboration in the Github Science projectand the new Bibsoup system,  big
+advantages.
+When entrepreneurs are seeing possibilities, I am the more convinced that
+we have something going that can become very successful indeed
+
+
+TOM
+
+On Fri, Feb 24, 2012 at 3:10 PM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> Dear all,
+>
+> with the subject line, I mean that Alex Holcombe's video of a dialogue
+> between publisher and researcher about signing the copyright transfer
+> agreement
+> (
+> http://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv)
+> is going to be featured on the main page of Wikimedia Commons
+> (http://commons.wikimedia.org/wiki/Main_Page )
+> under Media of the Day, with a link to
+> http://en.wikipedia.org/wiki/Copyright_transfer_agreement .
+>
+> If you were thinking about blogging on such agreements or related
+> issues, tomorrow may be a good day for that.
+>
+> Cheers,
+>
+> Daniel
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120225/f89c6f85/attachment-0001.htm>
+
+From tom.olijhoek at gmail.com  Sat Feb 25 20:10:14 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Sat, 25 Feb 2012 21:10:14 +0100
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <71297970.20120225200553@gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAGyWN8Z3GOPhDeqZ3uVSW44CED+LP0E0xMYS1PPdZUWCPF_aUQ@mail.gmail.com>
+	<71297970.20120225200553@gmail.com>
+Message-ID: <CAGyWN8aiA4epEtSPvi6G1B5tQVCsqm_v20tN_Z_PdEfaj5zEEg@mail.gmail.com>
+
+Hi Bjoern,
+
+more or less, yes. They () have clearly as a main objective to do
+business.and see opportunities.
+As long as we have the better cards, as I think we have, it's OK. We should
+be careful however to guard some of the less developed ideas that we just
+started working on.
+
+TOM
+
+On Sat, Feb 25, 2012 at 8:05 PM, Bj?rn Brembs <b.brembs at googlemail.com>wrote:
+
+> Tom Olijhoek wrote:
+>
+> > When entrepreneurs are seeing possibilities, I am the more convinced that
+> > we have something going that can become very successful indeed
+>
+> You mean those entrepreneurs hoping to become the next
+> Elseviers?
+>
+> :-)
+>
+> Just kidding - mostly...
+>
+> Bjoern
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurobiology
+> Freie Universit?t Berlin
+> Germany
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120225/34de34d1/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Sun Feb 26 11:05:08 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Sun, 26 Feb 2012 12:05:08 +0100
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAGyWN8aiA4epEtSPvi6G1B5tQVCsqm_v20tN_Z_PdEfaj5zEEg@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAGyWN8Z3GOPhDeqZ3uVSW44CED+LP0E0xMYS1PPdZUWCPF_aUQ@mail.gmail.com>
+	<71297970.20120225200553@gmail.com>
+	<CAGyWN8aiA4epEtSPvi6G1B5tQVCsqm_v20tN_Z_PdEfaj5zEEg@mail.gmail.com>
+Message-ID: <CAN6n2b2d_UwTVNCJiaKHh9DUH1qRBQeDTeTk8d+KA5K5L9owgQ@mail.gmail.com>
+
+Next twist to the story - the file has now been nominated for deletion:
+http://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Scientist-meets-publisher-English.ogv
+
+Could it be that Alex didn't have the right to release the video under
+CC0 if it was produced using the Xtranormal software, even though he
+paid for using it?
+
+Xtranormal's terms of service are at http://www.xtranormal.com/tos/ .
+
+Daniel
+
+On Sat, Feb 25, 2012 at 9:10 PM, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+> Hi Bjoern,
+>
+> more or less, yes. They () have clearly as a main objective to do
+> business.and see opportunities.
+> As long as we have the better cards, as I think we have, it's OK. We should
+> be careful however to guard some of the less developed ideas that we just
+> started working on.
+>
+> TOM
+>
+>
+> On Sat, Feb 25, 2012 at 8:05 PM, Bj?rn Brembs <b.brembs at googlemail.com>
+> wrote:
+>>
+>> Tom Olijhoek wrote:
+>>
+>> > When entrepreneurs are seeing possibilities, I am the more convinced
+>> > that
+>> > we have something going that can become very successful indeed
+>>
+>> You mean those entrepreneurs hoping to become the next
+>> Elseviers?
+>>
+>> :-)
+>>
+>> Just kidding - mostly...
+>>
+>> Bjoern
+>>
+>>
+>>
+>>
+>> --
+>> Bj?rn Brembs
+>> ---------------------------------------------
+>> http://brembs.net
+>> Neurobiology
+>> Freie Universit?t Berlin
+>> Germany
+>>
+>
+
+
+From pm286 at cam.ac.uk  Sun Feb 26 15:01:05 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 26 Feb 2012 15:01:05 +0000
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <CAN6n2b2d_UwTVNCJiaKHh9DUH1qRBQeDTeTk8d+KA5K5L9owgQ@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAGyWN8Z3GOPhDeqZ3uVSW44CED+LP0E0xMYS1PPdZUWCPF_aUQ@mail.gmail.com>
+	<71297970.20120225200553@gmail.com>
+	<CAGyWN8aiA4epEtSPvi6G1B5tQVCsqm_v20tN_Z_PdEfaj5zEEg@mail.gmail.com>
+	<CAN6n2b2d_UwTVNCJiaKHh9DUH1qRBQeDTeTk8d+KA5K5L9owgQ@mail.gmail.com>
+Message-ID: <CAD2k14NTxUwE-wNuXT1nx4KNr+co47=PAfRbB_+Z=SkJrgnK0g@mail.gmail.com>
+
+On Sun, Feb 26, 2012 at 11:05 AM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> Next twist to the story - the file has now been nominated for deletion:
+>
+> http://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Scientist-meets-publisher-English.ogv
+>
+> Oh dear. What a world we live in.
+
+
+> Could it be that Alex didn't have the right to release the video under
+> CC0 if it was produced using the Xtranormal software, even though he
+> paid for using it?
+>
+> Xtranormal's terms of service are at http://www.xtranormal.com/tos/ .
+>
+> Daniel
+>
+
+The animals in #animalgarden are very upset . We could make a #animalgarden
+slide show to replace it
+
+>
+> On Sat, Feb 25, 2012 at 9:10 PM, Tom Olijhoek <tom.olijhoek at gmail.com>
+> wrote:
+> > Hi Bjoern,
+> >
+> > more or less, yes. They () have clearly as a main objective to do
+> > business.and see opportunities.
+> > As long as we have the better cards, as I think we have, it's OK. We
+> should
+> > be careful however to guard some of the less developed ideas that we just
+> > started working on.
+> >
+> > TOM
+> >
+> >
+> > On Sat, Feb 25, 2012 at 8:05 PM, Bj?rn Brembs <b.brembs at googlemail.com>
+> > wrote:
+> >>
+> >> Tom Olijhoek wrote:
+> >>
+> >> > When entrepreneurs are seeing possibilities, I am the more convinced
+> >> > that
+> >> > we have something going that can become very successful indeed
+> >>
+> >> You mean those entrepreneurs hoping to become the next
+> >> Elseviers?
+> >>
+> >> :-)
+> >>
+> >> Just kidding - mostly...
+> >>
+> >> Bjoern
+> >>
+> >>
+> >>
+> >>
+> >> --
+> >> Bj?rn Brembs
+> >> ---------------------------------------------
+> >> http://brembs.net
+> >> Neurobiology
+> >> Freie Universit?t Berlin
+> >> Germany
+> >>
+> >
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120226/2c74d52b/attachment.htm>
+
+From takowl at gmail.com  Sun Feb 26 15:10:48 2012
+From: takowl at gmail.com (Thomas Kluyver)
+Date: Sun, 26 Feb 2012 15:10:48 +0000
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+ transfer agreement]] day
+In-Reply-To: <CAN6n2b2d_UwTVNCJiaKHh9DUH1qRBQeDTeTk8d+KA5K5L9owgQ@mail.gmail.com>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAGyWN8Z3GOPhDeqZ3uVSW44CED+LP0E0xMYS1PPdZUWCPF_aUQ@mail.gmail.com>
+	<71297970.20120225200553@gmail.com>
+	<CAGyWN8aiA4epEtSPvi6G1B5tQVCsqm_v20tN_Z_PdEfaj5zEEg@mail.gmail.com>
+	<CAN6n2b2d_UwTVNCJiaKHh9DUH1qRBQeDTeTk8d+KA5K5L9owgQ@mail.gmail.com>
+Message-ID: <CAOvn4qjWorDc=EEC7tWQgANsqLrsJVtpQJ9n9in_5Adnfn7Azw@mail.gmail.com>
+
+On 26 February 2012 11:05, Daniel Mietchen
+<daniel.mietchen at googlemail.com> wrote:
+> Could it be that Alex didn't have the right to release the video under
+> CC0 if it was produced using the Xtranormal software, even though he
+> paid for using it?
+
+Regrettably, it looks like that's the case. Note that it's not just
+produced using Xtranormal software, it's produced using their
+characters, scenes, animations, and voices. I imagine all those
+elements are subject to copyright, so you only have what rights they
+grant you:
+
+"As a Commercial User, you are granted a limited, non-exclusive,
+revocable, non-transferable right to create, display, use, play and
+download Xtranormal Videos during the Term and within the Scope of
+Use:..."
+
+Clearly that grant isn't sufficient to release the result as CC0.
+
+Thomas
+
+
+From daniel.mietchen at googlemail.com  Mon Feb 27 16:20:43 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Mon, 27 Feb 2012 17:20:43 +0100
+Subject: [open-science] [Open-access] February 25 is [[Copyright
+	transfer agreement]] day
+In-Reply-To: <4F4B7B03.80203@qmul.ac.uk>
+References: <CAN6n2b2Fko+BOD9MVaAgvz3FZOc4XcQmfhBjewg7SY7Fwf428Q@mail.gmail.com>
+	<CAGyWN8Z3GOPhDeqZ3uVSW44CED+LP0E0xMYS1PPdZUWCPF_aUQ@mail.gmail.com>
+	<71297970.20120225200553@gmail.com>
+	<CAGyWN8aiA4epEtSPvi6G1B5tQVCsqm_v20tN_Z_PdEfaj5zEEg@mail.gmail.com>
+	<CAN6n2b2d_UwTVNCJiaKHh9DUH1qRBQeDTeTk8d+KA5K5L9owgQ@mail.gmail.com>
+	<CAD2k14NTxUwE-wNuXT1nx4KNr+co47=PAfRbB_+Z=SkJrgnK0g@mail.gmail.com>
+	<4F4B7B03.80203@qmul.ac.uk>
+Message-ID: <CAN6n2b3mPc2Mzt_vrK1Z1U6SBeJ=2qkOsEpOWcyatujLP6sn_Q@mail.gmail.com>
+
+I asked them yesterday:
+https://twitter.com/EvoMRI/status/173878385028763649 .
+So did Alex, I think.
+No reply either way so far.
+Daniel
+
+On Mon, Feb 27, 2012 at 1:45 PM, Kuan Hon <w.hon at qmul.ac.uk> wrote:
+> On 26/02/2012 15:01 Peter Murray-Rust wrote:
+>>
+>> On Sun, Feb 26, 2012 at 11:05 AM, Daniel Mietchen<
+>> daniel.mietchen at googlemail.com> ?wrote:
+>>
+>>> Next twist to the story - the file has now been nominated for deletion:
+>>>
+>>>
+>>> http://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Scientist-meets-publisher-English.ogv
+>>>
+>>> Oh dear. What a world we live in.
+>>
+>>
+>>
+>>> Could it be that Alex didn't have the right to release the video under
+>>> CC0 if it was produced using the Xtranormal software, even though he
+>>> paid for using it?
+>>>
+>>> Xtranormal's terms of service are at http://www.xtranormal.com/tos/ .
+>
+>
+> Has anyone asked Xtranormal?
+>
+> Their TOS isn't the clearest (very few are!) but further down that page it
+> says:
+>
+> 'Please note that if you want to create a video, post it on YouTube to
+> benefit from their advertising revenue sharing program you do not need a
+> ?Business? or ?Reselling? account.'
+>
+> This suggests that they might regard 'personal use' as including posting
+> online for free, *without* benefit of ad revenue. Or even if they don't,
+> maybe they'll consent to the Wikimedia posting anyway - great free publicity
+> for them?
+>
+> Kuan
+
+
+From cboettig at gmail.com  Mon Feb 27 17:03:15 2012
+From: cboettig at gmail.com (Carl Boettiger)
+Date: Mon, 27 Feb 2012 09:03:15 -0800
+Subject: [open-science] Fwd: [License-review] CC withdrawl of CC0 from OSI
+	process
+In-Reply-To: <87sjhzq3fy.fsf@grumps.lan>
+References: <87sjhzq3fy.fsf@grumps.lan>
+Message-ID: <CAN_1p9wRM9HYy_VrFACpvEjJmKyfyUmMRBZ7VbXYA=pEse5QUA@mail.gmail.com>
+
+Hi Open Science,
+
+A few weeks ago Creative Commons submitted the CC0 license to the Open
+Source Initiative (OSI) for approval as an open source license.  Three days
+ago they withdrew the application after concerns that it's fallback licence
+explicitly stated that it refers to copyright, not patents,  (section 4a).
+ I am forwarding their withdrawal message below.  The full thread can be
+found on the OSI archive:
+http://projects.opensource.org/pipermail/license-review/2012-February/
+
+I think this is very unfortunate. I do not know of a widely recognized open
+source license that is appropriate to share data, code, figures,
+documentation and text may be found in a single object, such as my lab
+notebook, R packages, or dynamic document (in which code and data are
+embedded).
+
+Carl
+
+
+---------- Forwarded message ----------
+From: Christopher Allan Webber <cwebber at creativecommons.org>
+Date: Fri, Feb 24, 2012 at 2:20 PM
+Subject: [License-review] CC withdrawl of CC0 from OSI process
+To: license-review at opensource.org
+
+
+Hello all,
+
+We've discussed this internally, and unfortunately we agree that it's
+best to withdraw CC0 from the OSI review process at this time.  There
+have been several issues raised around the language declaring patents
+out of scope in the tool (that they weaken equitable estoppel defenses
+against patents or that they heighten risk by putting someone "on
+notice" about patent risks in the associated code).
+
+There have been questions about why that lanugage is there.  First of
+all, speculation that we did not anticipate CC0 usage for software at
+the time is true.  The patent language that exists comes out of
+conversations with the scientific data community, whom were a large
+target of adoption for the tool.  This community felt strongly that
+there was a need to clearly waive something into the public domain
+without also waiving patents in the process.  Hence the language.
+
+It has been suggested that CC simply remove this text from the CC0
+legalcode.  This would of course require releasing a new version, as
+we can't change the 1.0 legalcode once it has been released.
+Unfortunately, even doing a small versioning of something with as
+straightforward of an action as this is not as simple as it might
+sound.  First of all, releasing a new version of a legal tool,
+including CC0, requires a large conversation between many parties and
+experts, and thus inevitably is not a quick task.  On top of this, the
+CC 4.0 process is in full swing, and there is not enough bandwidth
+within the organization to do a CC0 revisioning at the same time.
+Thus, beginning the process for a new version of CC0 would have to
+wait until CC 4.0 is out, which means that won't start until at
+least 2013.
+
+That said, this experience has certainly been informative, and will be
+taken into consideration in possible future CC0 versioning, should
+that happen.
+
+ - Christopher Allan Webber and Creative Commons
+_______________________________________________
+License-review mailing list
+License-review at opensource.org
+http://projects.opensource.org/cgi-bin/mailman/listinfo/license-review
+
+
+
+-- 
+Carl Boettiger
+UC Davis
+http://www.carlboettiger.info/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120227/07f0cb59/attachment-0001.htm>
+
+From a.clearn at stmarys-belfast.ac.uk  Tue Feb 28 19:23:49 2012
+From: a.clearn at stmarys-belfast.ac.uk (Anthony Clearn)
+Date: Tue, 28 Feb 2012 19:23:49 +0000
+Subject: [open-science] The Life Scientific BBC Radio4 28th February 2012
+Message-ID: <D0C2A78502C7734CAE42E1AC76F0A53A0146FEC6783C@ex1b.stmarys-belfast.ac.uk>
+
+In The Life Scientific on BBC Radio4 on 28th February 2012 http://www.bbc.co.uk/programmes/b01cjwtd with Iain Chalmers, Open Data was discussed.
+
+Regards,
+Anthony
+
+#####################################################################################
+This e-mail message has been scanned for Viruses and Content and cleared 
+by MailMarshal
+#####################################################################################
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120228/d9857c53/attachment.htm>
+

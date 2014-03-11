@@ -1,0 +1,1719 @@
+From adrian.pohl at okfn.org  Mon Aug  1 08:57:55 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 1 Aug 2011 09:57:55 +0200
+Subject: [open-bibliography] Fwd: Open Bibliographic Data and E-LIS
+In-Reply-To: <258A3D54-5D52-4EC1-A7DE-8FC6B888D78B@lis.upatras.gr>
+References: <258A3D54-5D52-4EC1-A7DE-8FC6B888D78B@lis.upatras.gr>
+Message-ID: <CAOtd05GOXnE_q8Sz0Mt3d2SiUN7-uMYRX8+F8V7t6ooLWO96aA@mail.gmail.com>
+
+Hello,
+
+I forward a mail by Giannis Tsakonas of E-LIS, "an international open
+access archive for e-prints related to Librarianship, Information
+Science and Technology, and related application disciplines."[1]
+Contacting them months ago via isitopendata.org led to a discussion at
+E-LIS about the openness of E-LIS metadata and the appropriate license
+to choose. Obviously, they decided for OdbL, the attribution and
+share-alike license for databases by Open Data Commons.[2]
+
+Giannis asks the community how E-LIS could contribute its data. As far
+as I know they are thinking about publishing Linked Open Data and were
+quite impressed by the data that resulted from the JISC openbiblio
+project. Are there any best practices for openbiblio data under OdbL?
+I don't think so as all of the projects I know of have chosen a Public
+Domain Waiver...
+
+All the best
+Adrian
+
+[1] http://eprints.rclis.org/
+
+[2] http://opendatacommons.org/licenses/odbl/
+
+---------- Forwarded message ----------
+From: Giannis Tsakonas <john at lis.upatras.gr>
+Date: 2011/7/8
+Subject: Open Bibliographic Data and E-LIS
+To: Adrian Pohl <adrian.pohl at okfn.org>
+Cc: elis-executive-board at googlegroups.com
+
+
+Dear Adrian hi,
+
+I hope you are fine.I would like to deeply apologize for my long-term
+absence and the lack of information on the actions taken by E-LIS on
+the issue of Open Bibliographic Data. Many things occurred in the
+meantime that prevented me to get in contact with you.
+
+I would like to inform you that the E-LIS Executive Board decided to
+re-inforce the statements about the openness of our metadata by
+choosing the Open Data Commons Open Database License (OdbL). It is one
+of the conforming licenses that we feel that matches well with our
+strategy and our content. We plan to alter our statements accordingly
+in our repository.
+
+We would like your guidance on the best practices that exist in the
+area and that could forward our work to this direction. The examples
+that you list in the "datasets section" of the openbiblio website are
+impressive and if there are any ideas about how E-LIS could
+contribute, then it would be very helpful for us.
+
+I am looking forward hearing from you.
+
+With kind regards
+
+Giannis
+
+Giannis Tsakonas, PhD
+Library & Information Center
+University of Patras
+Patras, Greece
+john at lis.upatras.gr
+
+
+From jonathan.gray at okfn.org  Mon Aug  1 10:32:46 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 1 Aug 2011 11:32:46 +0200
+Subject: [open-bibliography] Fwd: Open Bibliographic Data and E-LIS
+In-Reply-To: <CAOtd05GOXnE_q8Sz0Mt3d2SiUN7-uMYRX8+F8V7t6ooLWO96aA@mail.gmail.com>
+References: <258A3D54-5D52-4EC1-A7DE-8FC6B888D78B@lis.upatras.gr>
+	<CAOtd05GOXnE_q8Sz0Mt3d2SiUN7-uMYRX8+F8V7t6ooLWO96aA@mail.gmail.com>
+Message-ID: <CANQ_vu3CezqRhgQTt5opODOvnVSHwgS-8M6ksXt492uGGmFb8A@mail.gmail.com>
+
+This is fantastic news!
+
+Giannis: could you start a (holding) page for your data on
+TheDataHub.org, if there isn't one already? You can update this with
+further info about your data as more details become available:
+
+http://thedatahub.org/package/new
+
+Also would you be willing to send us a 2-3 sentences on your use of
+the ODbL for the Open Data Commons blog?
+
+All the best,
+
+Jonathan
+
+On Mon, Aug 1, 2011 at 9:57 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> I forward a mail by Giannis Tsakonas of E-LIS, "an international open
+> access archive for e-prints related to Librarianship, Information
+> Science and Technology, and related application disciplines."[1]
+> Contacting them months ago via isitopendata.org led to a discussion at
+> E-LIS about the openness of E-LIS metadata and the appropriate license
+> to choose. Obviously, they decided for OdbL, the attribution and
+> share-alike license for databases by Open Data Commons.[2]
+>
+> Giannis asks the community how E-LIS could contribute its data. As far
+> as I know they are thinking about publishing Linked Open Data and were
+> quite impressed by the data that resulted from the JISC openbiblio
+> project. Are there any best practices for openbiblio data under OdbL?
+> I don't think so as all of the projects I know of have chosen a Public
+> Domain Waiver...
+>
+> All the best
+> Adrian
+>
+> [1] http://eprints.rclis.org/
+>
+> [2] http://opendatacommons.org/licenses/odbl/
+>
+> ---------- Forwarded message ----------
+> From: Giannis Tsakonas <john at lis.upatras.gr>
+> Date: 2011/7/8
+> Subject: Open Bibliographic Data and E-LIS
+> To: Adrian Pohl <adrian.pohl at okfn.org>
+> Cc: elis-executive-board at googlegroups.com
+>
+>
+> Dear Adrian hi,
+>
+> I hope you are fine.I would like to deeply apologize for my long-term
+> absence and the lack of information on the actions taken by E-LIS on
+> the issue of Open Bibliographic Data. Many things occurred in the
+> meantime that prevented me to get in contact with you.
+>
+> I would like to inform you that the E-LIS Executive Board decided to
+> re-inforce the statements about the openness of our metadata by
+> choosing the Open Data Commons Open Database License (OdbL). It is one
+> of the conforming licenses that we feel that matches well with our
+> strategy and our content. We plan to alter our statements accordingly
+> in our repository.
+>
+> We would like your guidance on the best practices that exist in the
+> area and that could forward our work to this direction. The examples
+> that you list in the "datasets section" of the openbiblio website are
+> impressive and if there are any ideas about how E-LIS could
+> contribute, then it would be very helpful for us.
+>
+> I am looking forward hearing from you.
+>
+> With kind regards
+>
+> Giannis
+>
+> Giannis Tsakonas, PhD
+> Library & Information Center
+> University of Patras
+> Patras, Greece
+> john at lis.upatras.gr
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From john at lis.upatras.gr  Mon Aug  1 17:37:53 2011
+From: john at lis.upatras.gr (Giannis Tsakonas)
+Date: Mon, 1 Aug 2011 19:37:53 +0300
+Subject: [open-bibliography] Fwd: Open Bibliographic Data and E-LIS
+In-Reply-To: <CANQ_vu3CezqRhgQTt5opODOvnVSHwgS-8M6ksXt492uGGmFb8A@mail.gmail.com>
+References: <258A3D54-5D52-4EC1-A7DE-8FC6B888D78B@lis.upatras.gr>
+	<CAOtd05GOXnE_q8Sz0Mt3d2SiUN7-uMYRX8+F8V7t6ooLWO96aA@mail.gmail.com>
+	<CANQ_vu3CezqRhgQTt5opODOvnVSHwgS-8M6ksXt492uGGmFb8A@mail.gmail.com>
+Message-ID: <CBA496B3-0D0A-41D4-9E51-86B1D07E064C@lis.upatras.gr>
+
+Dear Jonathan
+
+I will be happy to. Allow me some time to prepare something valid and useful for the community.
+
+With kind regards
+
+G
+
+
+On Aug 1, 2011, at 12:32 PM, Jonathan Gray wrote:
+
+> This is fantastic news!
+> 
+> Giannis: could you start a (holding) page for your data on
+> TheDataHub.org, if there isn't one already? You can update this with
+> further info about your data as more details become available:
+> 
+> http://thedatahub.org/package/new
+> 
+> Also would you be willing to send us a 2-3 sentences on your use of
+> the ODbL for the Open Data Commons blog?
+> 
+> All the best,
+> 
+> Jonathan
+> 
+> On Mon, Aug 1, 2011 at 9:57 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>> Hello,
+>> 
+>> I forward a mail by Giannis Tsakonas of E-LIS, "an international open
+>> access archive for e-prints related to Librarianship, Information
+>> Science and Technology, and related application disciplines."[1]
+>> Contacting them months ago via isitopendata.org led to a discussion at
+>> E-LIS about the openness of E-LIS metadata and the appropriate license
+>> to choose. Obviously, they decided for OdbL, the attribution and
+>> share-alike license for databases by Open Data Commons.[2]
+>> 
+>> Giannis asks the community how E-LIS could contribute its data. As far
+>> as I know they are thinking about publishing Linked Open Data and were
+>> quite impressed by the data that resulted from the JISC openbiblio
+>> project. Are there any best practices for openbiblio data under OdbL?
+>> I don't think so as all of the projects I know of have chosen a Public
+>> Domain Waiver...
+>> 
+>> All the best
+>> Adrian
+>> 
+>> [1] http://eprints.rclis.org/
+>> 
+>> [2] http://opendatacommons.org/licenses/odbl/
+>> 
+>> ---------- Forwarded message ----------
+>> From: Giannis Tsakonas <john at lis.upatras.gr>
+>> Date: 2011/7/8
+>> Subject: Open Bibliographic Data and E-LIS
+>> To: Adrian Pohl <adrian.pohl at okfn.org>
+>> Cc: elis-executive-board at googlegroups.com
+>> 
+>> 
+>> Dear Adrian hi,
+>> 
+>> I hope you are fine.I would like to deeply apologize for my long-term
+>> absence and the lack of information on the actions taken by E-LIS on
+>> the issue of Open Bibliographic Data. Many things occurred in the
+>> meantime that prevented me to get in contact with you.
+>> 
+>> I would like to inform you that the E-LIS Executive Board decided to
+>> re-inforce the statements about the openness of our metadata by
+>> choosing the Open Data Commons Open Database License (OdbL). It is one
+>> of the conforming licenses that we feel that matches well with our
+>> strategy and our content. We plan to alter our statements accordingly
+>> in our repository.
+>> 
+>> We would like your guidance on the best practices that exist in the
+>> area and that could forward our work to this direction. The examples
+>> that you list in the "datasets section" of the openbiblio website are
+>> impressive and if there are any ideas about how E-LIS could
+>> contribute, then it would be very helpful for us.
+>> 
+>> I am looking forward hearing from you.
+>> 
+>> With kind regards
+>> 
+>> Giannis
+>> 
+>> Giannis Tsakonas, PhD
+>> Library & Information Center
+>> University of Patras
+>> Patras, Greece
+>> john at lis.upatras.gr
+>> 
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> 
+> 
+> 
+> 
+> -- 
+> Jonathan Gray
+> 
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+> 
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+
+Giannis Tsakonas, PhD
+Library & Information Center
+University of Patras
+Patras, Greece
+john at lis.upatras.gr
+
+
+
+From announce at dublincore.net  Mon Aug  1 18:38:24 2011
+From: announce at dublincore.net (DCMI Announce)
+Date: Mon, 1 Aug 2011 10:38:24 -0700
+Subject: [open-bibliography] NISO/DCMI Webinar: International Bibliographic
+ Standards, Linked Data, and the Impact on Library Cataloging
+Message-ID: <CAP884EyQ362sgHcO9mmvj_DvzZ++U=aAV-9RagRGNfPBs-bnYw@mail.gmail.com>
+
+NISO/DCMI August webinar announcement
+
+***Please excuse cross-posting***
+
+--------------------------------------------------------------------------------------------
+NISO/DCMI Webinar: "International Bibliographic Standards, Linked Data,
+    and the Impact on Library Cataloging"
+DATE: 24 August 2011
+TIME: 1:00pm - 2:30pm EDT (17:00-19:30 UTC)
+REGISTRATION: http://www.niso.org/news/events/2011/dcmi/linked
+--------------------------------------------------------------------------------------------
+
+ABOUT THE WEBINAR
+
+The International Federation of Library Associations and Institutions (IFLA)
+is responsible for the development and maintenance of International Standard
+Bibliographic Description (ISBD), UNIMARC, and the "Functional Requirements"
+family for bibliographic records (FRBR), authority data (FRAD), and subject
+authority data (FRSAD). ISBD underpins the MARC family of formats used by
+libraries world-wide for many millions of catalog records, while FRBR is a
+relatively new model optimized for users and the digital environment. These
+metadata models, schemas, and content rules are now being expressed in the
+Resource Description Framework language for use in the Semantic Web.
+
+This webinar provides a general update on the work being undertaken. It
+describes the development of an Application Profile for ISBD to specify the
+sequence, repeatability, and mandatory status of its elements. It discusses
+issues involved in deriving linked data from legacy catalogue records based
+on monolithic and multi-part schemas following ISBD and FRBR, such as the
+duplication which arises from copy cataloging and FRBRization. The webinar
+provides practical examples of deriving high-quality linked data from the
+vast numbers of records created by libraries, and demonstrates how a shift
+of focus from records to linked-data triples can provide more efficient and
+effective user-centered resource discovery services.
+
+SPEAKERS:
+
+Gordon Dunsire is a freelance consultant with 25 years of experience working
+in academic libraries and ten years in digital library research. He is a
+member of IFLA's ISBD/XML Study Group and FRBR Review Group, and he chairs
+the IFLA Namespaces Task Group. He is currently a member of a W3C Incubator
+Group on Library Linked Data.
+
+Thomas Baker, Chief Information Officer (Communications, Research and
+Development) of the Dublin Core Metadata Initiative, was recently co-chair
+of the W3C Semantic Web Deployment Working Group and currently co-chairs a
+W3C Incubator Group on Library Linked Data.
+
+REGISTRATION:
+
+For registration and webinar technical information, see
+http://www.niso.org/news/events/2011/dcmi/linked .  Registration closes at
+12:00 pm Eastern on 24 August 2011.  Webinar presentation slides and Q&A
+will be posted to the site following the live webinar.  Registrants will
+receive access information to the archived webinar following the event. An
+e-mail message containing archive access instructions will be sent within 48
+hours of the event.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110801/bbc4d690/attachment.htm>
+
+From adrian.pohl at okfn.org  Mon Aug  1 22:14:57 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 1 Aug 2011 23:14:57 +0200
+Subject: [open-bibliography] Virtual meeting 2011-08-02, 15:00 GMT
+Message-ID: <CAOtd05HeAVV84uHgrgP1N4CRrnYsPCVvZF3gJcNgu21zk2KR1A@mail.gmail.com>
+
+Hello,
+
+the 14th virtual meeting of the OKFN Working Group on Open
+Bibliographic Data is scheduled tomorrow (August, 2nd) at 15:00 GMT.
+
+I won't be able to attend the meeting, it would be nice if someone
+else could host & moderate the call. Anyone?
+
+Here are the local times for the meeting:
+
+http://timeanddate.com/worldclock/fixedtime.html?msg=14th+Virtual+Meeting+of+the+OKFN+Openbiblio+Group&iso=20110802T17&p1=311&ah=1
+
+And this is the etherpad:
+
+http://okfnpad.org/14th-open-bibliography-meeting
+
+Please add agenda points. It would be really nice if the meeting took place...
+
+All the best
+Adrian
+
+
+From pm286 at cam.ac.uk  Mon Aug  1 22:20:52 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 1 Aug 2011 22:20:52 +0100
+Subject: [open-bibliography] NISO/DCMI Webinar: International
+ Bibliographic Standards, Linked Data, and the Impact on Library Cataloging
+In-Reply-To: <CAP884EyQ362sgHcO9mmvj_DvzZ++U=aAV-9RagRGNfPBs-bnYw@mail.gmail.com>
+References: <CAP884EyQ362sgHcO9mmvj_DvzZ++U=aAV-9RagRGNfPBs-bnYw@mail.gmail.com>
+Message-ID: <CAD2k14PARsUTfMRkTPLa+-mJx2a6uC_SJunqWm2BHVXZtK7P2Q@mail.gmail.com>
+
+Thanks,
+
+On Mon, Aug 1, 2011 at 6:38 PM, DCMI Announce <announce at dublincore.net>wrote:
+
+> NISO/DCMI August webinar announcement
+>
+> ***Please excuse cross-posting***
+>
+>
+Maybe we can use this or similar occasions as an opportunity to advertise
+Open Bibliography and its principles. These have not yet gone viral and we
+need to think about how to do this. Especially if people ar e talking about
+linked data - as the speakers are. Perhaps we should simply mail them and
+explain OB.
+
+I talked with JonathanG and JasonK today and they suggested we came up with
+a 1-page explaining Open Bibliography. I completely agree. Do we have
+anything to hand? If not perhaps we can hack something during repofringe?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110801/a9d456f1/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Aug  1 22:51:01 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 1 Aug 2011 22:51:01 +0100
+Subject: [open-bibliography] Virtual meeting 2011-08-02, 15:00 GMT
+In-Reply-To: <CAOtd05HeAVV84uHgrgP1N4CRrnYsPCVvZF3gJcNgu21zk2KR1A@mail.gmail.com>
+References: <CAOtd05HeAVV84uHgrgP1N4CRrnYsPCVvZF3gJcNgu21zk2KR1A@mail.gmail.com>
+Message-ID: <CAD2k14OGshH_1C1F73omUgXtDzzxBvH3RC_EFnWR=FuLZ9-N-A@mail.gmail.com>
+
+On Mon, Aug 1, 2011 at 10:14 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> the 14th virtual meeting of the OKFN Working Group on Open
+> Bibliographic Data is scheduled tomorrow (August, 2nd) at 15:00 GMT.
+>
+> I am afraid I cannot make it as I shall be on a train to the repofringe at
+Edinburgh - where we hope to talk a lot about Bibliography. It's critical we
+keep the momentum going.  ?There may be a critical mass IRL in Ediburgh for
+the meeting?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110801/12565df3/attachment.htm>
+
+From pitman at stat.Berkeley.EDU  Tue Aug  2 06:07:12 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 01 Aug 2011 22:07:12 -0700
+Subject: [open-bibliography] Virtual meeting 2011-08-02, 15:00 GMT
+In-Reply-To: <CAD2k14OGshH_1C1F73omUgXtDzzxBvH3RC_EFnWR=FuLZ9-N-A@mail.gmail.com>
+References: <CAOtd05HeAVV84uHgrgP1N4CRrnYsPCVvZF3gJcNgu21zk2KR1A@mail.gmail.com>
+	<CAD2k14OGshH_1C1F73omUgXtDzzxBvH3RC_EFnWR=FuLZ9-N-A@mail.gmail.com>
+Message-ID: <20110802050712.78E5C804D@bibserver.Berkeley.EDU>
+
+Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> > I am afraid I cannot make it as I shall be on a train to the repofringe at
+> Edinburgh - where we hope to talk a lot about Bibliography. It's critical we
+> keep the momentum going.  ?There may be a critical mass IRL in Ediburgh for
+> the meeting?
+
+I can make it, but with Adrian and Peter missing I suggest we postpone.
+I added a few items to the pad for when we do meet.
+--Jim
+
+
+From owen at ostephens.com  Tue Aug  2 09:56:39 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Tue, 2 Aug 2011 09:56:39 +0100
+Subject: [open-bibliography] University of Cambridge and University of
+	Lincoln
+Message-ID: <588CC51E-DDBB-486B-BB66-8EFFBDEC29AA@ostephens.com>
+
+You may already be aware of these but a couple of JISC projects completed at the end of July which are publishing open bibliographic data:
+
+Cambridge University Library (following it's earlier release of MARC records) has now released 2.2 million records as RDF/Linked Data under ODC-PDDL (see http://data.lib.cam.ac.uk/datasets.php)
+University of Lincoln have released a variety of datasets including library catalogue records, institutional repository records, e-journal (title) records and journal table of contents information - records are available via an API as RDF/XML, JSON or RIS. Data is licensed as CC0 except the tables of contents stuff which is CC-BY. See http://jerome.blogs.lincoln.ac.uk/2011/08/01/its-the-final-blog-post/ for more details.
+
+Both projects have also produce a range of open source tools/software that would enable other institutions to do the same - some already available and some 'coming soon'
+
+Owen
+
+Owen Stephens
+Owen Stephens Consulting
+Web: http://www.ostephens.com
+Email: owen at ostephens.com
+Telephone: 0121 288 6936
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110802/5c162803/attachment-0001.htm>
+
+From mark at odaesa.com  Tue Aug  2 15:42:13 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 2 Aug 2011 15:42:13 +0100
+Subject: [open-bibliography] Virtual meeting 2011-08-02, 15:00 GMT
+In-Reply-To: <20110802050712.78E5C804D@bibserver.Berkeley.EDU>
+References: <CAOtd05HeAVV84uHgrgP1N4CRrnYsPCVvZF3gJcNgu21zk2KR1A@mail.gmail.com>
+	<CAD2k14OGshH_1C1F73omUgXtDzzxBvH3RC_EFnWR=FuLZ9-N-A@mail.gmail.com>
+	<20110802050712.78E5C804D@bibserver.Berkeley.EDU>
+Message-ID: <CAJ9UX45wAitgZOiweCxtrya09Zu60AK4fbpcV=ctoRS7arKd0g@mail.gmail.com>
+
+i also cant make it due to preparations for the RepoFringe this week.
+However, as Jim suggests, postponing may be useful - Peter and I may
+get some useful information at the conference, so we could perhaps
+have a more fruitful meeting next week instead.
+
+Mark
+
+
+
+On Tue, Aug 2, 2011 at 6:07 AM, Jim Pitman <pitman at stat.berkeley.edu> wrote:
+> Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>> > I am afraid I cannot make it as I shall be on a train to the repofringe at
+>> Edinburgh - where we hope to talk a lot about Bibliography. It's critical we
+>> keep the momentum going. ??There may be a critical mass IRL in Ediburgh for
+>> the meeting?
+>
+> I can make it, but with Adrian and Peter missing I suggest we postpone.
+> I added a few items to the pad for when we do meet.
+> --Jim
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From kcoyle at kcoyle.net  Tue Aug  2 16:31:13 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 02 Aug 2011 08:31:13 -0700
+Subject: [open-bibliography] University of Cambridge and University of
+ Lincoln
+In-Reply-To: <588CC51E-DDBB-486B-BB66-8EFFBDEC29AA@ostephens.com>
+References: <588CC51E-DDBB-486B-BB66-8EFFBDEC29AA@ostephens.com>
+Message-ID: <20110802083113.29834l748cpbggu9@kcoyle.net>
+
+Wow. I feel like LOD is just become something like an avalanche --  
+unstoppable movement.
+
+I was looking at a number of LOD projects the other day and for many I  
+couldn't find a statement of properties used, list of vocabularies,  
+etc. That would be VERY helpful for re-use of the data. Could we do  
+something to encourage this kind of documentation accompanying the  
+data sets? I feel like the community might be ready for some  
+"publishing data best practices," and documentation is a good start, no?
+
+kc
+
+Quoting Owen Stephens <owen at ostephens.com>:
+
+> You may already be aware of these but a couple of JISC projects  
+> completed at the end of July which are publishing open bibliographic  
+> data:
+>
+> Cambridge University Library (following it's earlier release of MARC  
+> records) has now released 2.2 million records as RDF/Linked Data  
+> under ODC-PDDL (see http://data.lib.cam.ac.uk/datasets.php)
+> University of Lincoln have released a variety of datasets including  
+> library catalogue records, institutional repository records,  
+> e-journal (title) records and journal table of contents information  
+> - records are available via an API as RDF/XML, JSON or RIS. Data is  
+> licensed as CC0 except the tables of contents stuff which is CC-BY.  
+> See  
+> http://jerome.blogs.lincoln.ac.uk/2011/08/01/its-the-final-blog-post/ for  
+> more details.
+>
+> Both projects have also produce a range of open source  
+> tools/software that would enable other institutions to do the same -  
+> some already available and some 'coming soon'
+>
+> Owen
+>
+> Owen Stephens
+> Owen Stephens Consulting
+> Web: http://www.ostephens.com
+> Email: owen at ostephens.com
+> Telephone: 0121 288 6936
+>
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From mo.mcroberts at bbc.co.uk  Tue Aug  2 19:06:03 2011
+From: mo.mcroberts at bbc.co.uk (Mo McRoberts)
+Date: Tue, 2 Aug 2011 19:06:03 +0100
+Subject: [open-bibliography] University of Cambridge and University of
+	Lincoln
+In-Reply-To: <20110802083113.29834l748cpbggu9@kcoyle.net>
+References: <588CC51E-DDBB-486B-BB66-8EFFBDEC29AA@ostephens.com>
+	<20110802083113.29834l748cpbggu9@kcoyle.net>
+Message-ID: <7F85DE20-5230-4CB9-8BD0-3D1257631EFD@bbc.co.uk>
+
+
+On 2 Aug 2011, at 16:31, Karen Coyle wrote:
+
+> Wow. I feel like LOD is just become something like an avalanche -- unstoppable movement.
+> 
+> I was looking at a number of LOD projects the other day and for many I couldn't find a statement of properties used, list of vocabularies, etc. That would be VERY helpful for re-use of the data. Could we do something to encourage this kind of documentation accompanying the data sets? I feel like the community might be ready for some "publishing data best practices," and documentation is a good start, no?
+
+This is a good start too:
+
+http://patterns.dataincubator.org/book/
+
+M.
+
+-- 
+Mo McRoberts - Data Analyst - Digital Public Space,
+Zone 1.08, BBC Scotland, 40 Pacific Quay, Glasgow G51 1DA,
+Room 7066, BBC Television Centre, London W12 7RJ,
+0141 422 6036 (Internal: 01-26036) - PGP key 0x663E2B4A
+
+
+
+From Corine.Deliot at bl.uk  Wed Aug  3 14:52:33 2011
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Wed, 3 Aug 2011 14:52:33 +0100
+Subject: [open-bibliography] More data added to the Linked Open BNB
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE7D8@w2k3-bspex2.ad.bl.uk>
+
+Hello all,
+
+ 
+
+We've added more data to the Linked Open BNB. The dataset now includes
+about 2.6 million records and generated 80, 249,538 triples. We've made
+some changes based on the feeback we got on the preview subset, such as
+adding links from creators/contributors back to the bibliographic
+resources (thanks William!).  This is still work in progress and we're
+working on resolving some known issues. More details are available at:
+http://www.bl.uk/bibliographic/datafree.html
+
+ 
+
+Feedback is always welcome. Please contact us at metadata at bl.uk
+
+ 
+
+Many thanks
+
+ 
+
+Corine
+
+ 
+
+***********************************
+
+Corine Deliot
+
+Metadata Standards Analyst
+
+The British Library
+
+Boston Spa, Wetherby
+
+email: metadata at bl.uk
+
+***********************************
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110803/c9c3e47b/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug  3 16:05:45 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 3 Aug 2011 16:05:45 +0100
+Subject: [open-bibliography] More data added to the Linked Open BNB
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE7D8@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE7D8@w2k3-bspex2.ad.bl.uk>
+Message-ID: <CAD2k14MhCarCTT-6=SyD-i1p_1x8r4PkJ7_QGYGP8ay+=F+u4w@mail.gmail.com>
+
+Thanks very much Corine,
+Nothing to add other than encouragement
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110803/d6c38716/attachment.htm>
+
+From kefo at loc.gov  Wed Aug 10 19:17:03 2011
+From: kefo at loc.gov (Ford, Kevin)
+Date: Wed, 10 Aug 2011 14:17:03 -0400
+Subject: [open-bibliography] Names Added to ID.LOC.GOV
+Message-ID: <1D525027B29706438707F336D75A279F1AB5236B95@LCXCLMB03.LCDS.LOC.GOV>
+
+Announcement:  New Vocabulary Data Added to LC Authorities and Vocabularies Service 
+
+The Library of Congress is pleased to make available additional vocabularies from its Authorities and Vocabularies web service (ID.LOC.GOV), which provides access to Library of Congress standards and vocabularies as Linked Data. The new dataset is: 
+
+* Library of Congress Name Authority File (LC/NAF)
+
+In addition, the service has been enhanced to provide separate access to the following datasets which have been a part of the LCSH dataset access:
+
+* Library of Congress Genre/Form Terms
+* Library of Congress Children's Headings
+
+The LC/NAF data are published in RDF using the MADS/RDF and SKOS/RDF vocabularies, as are the other datasets. Individual concepts are accessible at the ID.LOC.GOV web service via a web browser interface or programmatically via content-negotiation. The vocabulary data are available for bulk download in MADS and SKOS RDF (the Name file and main LCSH file will be available by Friday, August 12).
+
+**Please explore it for yourself at http://id.loc.gov. **
+
+Contact Us about ID:  
+As always, your feedback is important and welcomed. Though we are interested in all forms of constructive commentary on all topics related to ID, we're particularly interested in how the data available from ID.LOC.GOV is used. Your contributions directly inform service enhancements.  
+
+The addition of Names has resulted in considerable changes to the ID.LOC.GOV backend.  Although we have endeavored to bring the service up with all pieces in place, please be patient as we work out any remaining "kinks".  
+
+You can send comments or report any problems to us via the ID feedback form or ID listserv (see the web site).
+
+Background:
+The Authorities and Vocabularies web service was first made available in May 2009 and offered the Library of Congress Subject Headings (LCSH), the Library's initial entry into the Linked Data environment. In part by assigning each vocabulary and each data value within it a unique resource identifier (URI), the service provides a means for machines to semantically access, use, and harvest authority and vocabulary data that adheres to W3C recommendations, such as Simple Knowledge Organization System (SKOS), and the more detailed vocabulary MADS/RDF. In this way, the Authorities and Vocabularies web service also makes government data publicly and freely available in the spirit of the Open Government directive. Although the primary goal of the service is to enable machine access to Library of Congress data, a web interface serves human users searching and browsing the vocabularies.  The new datasets join the term and code lists already available through the service: 
+
+* Library of Congress Subject Headings (LCSH)
+* Thesaurus of Graphic Materials
+* MARC Code List for Relators
+* MARC Code List for Countries (which reference their equivalent ISO 3166 codes)
+* MARC Code List for Geographic Areas
+* MARC Code List for Languages (which have been cross referenced with ISO 639-1, 639-2, and 639-5, where appropriate)
+* PREMIS vocabularies for Cryptographic Hash Functions, Preservation Events, and Preservation Level Roles 
+
+The above code lists also contain links with appropriate LCSH and LC/NAF headings.  Additional vocabularies will be added in the future, including additional PREMIS controlled vocabularies.
+
+
+--
+Kevin Ford
+Digital Project Coordinator
+Network Development & MARC Standards Office
+Library of Congress
+101 Independence Avenue, SE
+Washington, DC 20540-4402
+
+Email: kefo at loc.gov
+Tel: 202 707 3526
+
+
+From pm286 at cam.ac.uk  Thu Aug 11 20:07:52 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 11 Aug 2011 20:07:52 +0100
+Subject: [open-bibliography] Proposal for a Retraction index
+Message-ID: <CAD2k14Mtvig_edkmGV5-yLKGchASqtmtU3+3h0M7JK8j_Em-Ug@mail.gmail.com>
+
+Apparently scientific retractions are increasing at a ptremendous rate
+http://pipeline.corante.com/archives/2011/08/11/scientific_retractions_a_growth_industry.php
+(A retraction is where a  previously published paper is retracted. This may
+mean it is expunged form the scientific record by the publisher or simply
+stamped as RETRACTED). Retractions are usually because of sloppy science (ca
+75%) or fraud (25%) - Ben O'Steen has done a nice piece of work showing the
+citation network relating to the retracted MMR vaccine paper.
+In
+http://retractionwatch.wordpress.com/
+there is a call for a retraction index. Note that the original retracted
+paper may be unaltered (especially if it's been copied to a personal
+machine) and it won't be obviously "wrong"
+
+If we created a BibJSON Open Retraction index I think there would be a lot
+of interest. It would also allow us to label other papers which
+(recursively) consumed retracted work.
+
+There's currently a few hundred or lwo thousands  retracted papers so it's a
+feasible project for a hackathon or an obsessive human.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110811/9b68cfd6/attachment.htm>
+
+From adrian.pohl at okfn.org  Thu Aug 11 20:43:32 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 11 Aug 2011 21:43:32 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+	in Alma
+In-Reply-To: <BANLkTinCsgLMpVhggMgbALorB0AgAC=MfA@mail.gmail.com>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+	<20110622072701.136717a4tem86zzp@kcoyle.net>
+	<BANLkTinCsgLMpVhggMgbALorB0AgAC=MfA@mail.gmail.com>
+Message-ID: <CAOtd05FGp1hmb5u53syo-xd3grc2OdSuZOH1Orm=x8zu1EF7DA@mail.gmail.com>
+
+Carl Grant from Ex Libris has answered some questions I asked him
+after the announcement of the expert group. I posted his response on
+openbiblio.net and the OKFN blog, see e.g.
+
+http://openbiblio.net/2011/08/11/ex-libris-alma-and-open-data/.
+
+By now, he calls the group "Community Zone Advisory Group", the "open
+data" part has disappeared. Nonetheless it seems as if Ex Libris
+really takes an open approach for the new system, as the agreement for
+the Alma community zone "replicates the key terms of the Creative
+Commons PDDL license for customer-contributed records".
+
+All the best
+Adrian
+
+2011/6/23 Peter Murray-Rust <pm286 at cam.ac.uk>:
+>
+>
+> On Wed, Jun 22, 2011 at 3:27 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>>
+>> Actually, I know very little about it myself at this point, but I will
+>> provide info when I get it. My goal is to push toward openness of the data,
+>> and I believe that is also the goal of Ex Libris. As a company, they cannot
+>> do anything about "legal" openness, they can only enter into a contract with
+>> their users about the data they manage. Making the bibliographic data in
+>> their system open is undoubtedly related to a marketing advantage, but
+>> having a major vendor take up the question, with openness as a goal, is a
+>> good thing.
+>>
+>> kc
+>
+> Just to be boringly clear.
+>
+> They may or may not make data more easily accessible and more widely
+> distributed and this may be a good thing. It's the use of the term "Open
+> Data" that is the point. "Open" has often been used as a marketing slogan,
+> like "healthy" or "green". If this term is used, and if this is the goal of
+> the advisory group then nothing less than full Open Data (OKD-compliant)
+> including the format is acceptable. Adopting this stance at the beginning of
+> the project could be useful - aiming for something less is no value for Open
+> Data.
+>
+> P.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From kcoyle at kcoyle.net  Thu Aug 11 21:00:15 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 11 Aug 2011 13:00:15 -0700
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+ in Alma
+In-Reply-To: <CAOtd05FGp1hmb5u53syo-xd3grc2OdSuZOH1Orm=x8zu1EF7DA@mail.gmail.com>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+	<20110622072701.136717a4tem86zzp@kcoyle.net>
+	<BANLkTinCsgLMpVhggMgbALorB0AgAC=MfA@mail.gmail.com>
+	<CAOtd05FGp1hmb5u53syo-xd3grc2OdSuZOH1Orm=x8zu1EF7DA@mail.gmail.com>
+Message-ID: <20110811130015.38246wm04yrievgv@kcoyle.net>
+
+Adrian, there isn't a name change -- the group is still working to  
+describe open data in Alma -- that was adjectival, not a name.
+
+I'm still trying to figure out the underlying design, but it seems  
+that Alma will have a primary database of bibliographic records that  
+will be shared among the users and that must be under a PD-type  
+license, either CC0 or PDDL. It will also allow local, private  
+databases for library records that cannot be shared openly (e.g. ones  
+that come to the libraries from the book vendors and have license  
+conditions). So each library will have some records in the general  
+pool plus a private section of its own, if needed. The Alma policy is  
+only about the "community" pool of data.
+
+To me the key thing is that the libraries using Alma can do whatever  
+they want with records they have attached their holdings to -- they  
+can make them available to anyone. (It is up to them to decide if they  
+can share records in their private area.) This is the thing that they  
+cannot do with OCLC records. Ex Libris is not claiming any rights in  
+anything other than its own software.
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Carl Grant from Ex Libris has answered some questions I asked him
+> after the announcement of the expert group. I posted his response on
+> openbiblio.net and the OKFN blog, see e.g.
+>
+> http://openbiblio.net/2011/08/11/ex-libris-alma-and-open-data/.
+>
+> By now, he calls the group "Community Zone Advisory Group", the "open
+> data" part has disappeared. Nonetheless it seems as if Ex Libris
+> really takes an open approach for the new system, as the agreement for
+> the Alma community zone "replicates the key terms of the Creative
+> Commons PDDL license for customer-contributed records".
+>
+> All the best
+> Adrian
+>
+> 2011/6/23 Peter Murray-Rust <pm286 at cam.ac.uk>:
+>>
+>>
+>> On Wed, Jun 22, 2011 at 3:27 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>>>
+>>> Actually, I know very little about it myself at this point, but I will
+>>> provide info when I get it. My goal is to push toward openness of the data,
+>>> and I believe that is also the goal of Ex Libris. As a company, they cannot
+>>> do anything about "legal" openness, they can only enter into a  
+>>> contract with
+>>> their users about the data they manage. Making the bibliographic data in
+>>> their system open is undoubtedly related to a marketing advantage, but
+>>> having a major vendor take up the question, with openness as a goal, is a
+>>> good thing.
+>>>
+>>> kc
+>>
+>> Just to be boringly clear.
+>>
+>> They may or may not make data more easily accessible and more widely
+>> distributed and this may be a good thing. It's the use of the term "Open
+>> Data" that is the point. "Open" has often been used as a marketing slogan,
+>> like "healthy" or "green". If this term is used, and if this is the goal of
+>> the advisory group then nothing less than full Open Data (OKD-compliant)
+>> including the format is acceptable. Adopting this stance at the beginning of
+>> the project could be useful - aiming for something less is no value for Open
+>> Data.
+>>
+>> P.
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From kefo at loc.gov  Thu Aug 11 21:13:37 2011
+From: kefo at loc.gov (Ford, Kevin)
+Date: Thu, 11 Aug 2011 16:13:37 -0400
+Subject: [open-bibliography] Bulk Download of Names Available
+Message-ID: <1D525027B29706438707F336D75A279F1AB5236BDE@LCXCLMB03.LCDS.LOC.GOV>
+
+Bulk downloads of the Library of Congress *Name* Authority File (NAF) are now available.  The current bulk download is only MADS/RDF.  We'll make a SKOS/RDF download available in the near future.  We are offering two serializations:  n-triples and RDF/XML.
+
+The LC *Subject* Heading (LCSH) file continues to be available for download as SKOS/RDF, but now LCSH is also available in MADS/RDF (in the same serializations).  The MADS/RDF enables the identification of types for subject headings and subheadings.  
+
+They may be downloaded here:  http://id.loc.gov/download/
+
+The data dumps are very much a work in progress. Please report problems, issues, and wishes on the ID.LOC.GOV listserv: 
+
+http://listserv.loc.gov/cgi-bin/wa?SUBED1=ID&A=1
+
+
+--
+Kevin Ford
+Digital Project Coordinator
+Network Development & MARC Standards Office Library of Congress
+101 Independence Avenue, SE
+Washington, DC 20540-4402
+
+Email: kefo at loc.gov
+Tel: 202 707 3526
+
+
+From daniel.mietchen at googlemail.com  Fri Aug 12 08:02:08 2011
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Fri, 12 Aug 2011 09:02:08 +0200
+Subject: [open-bibliography] Proposal for a Retraction index
+In-Reply-To: <CAD2k14Mtvig_edkmGV5-yLKGchASqtmtU3+3h0M7JK8j_Em-Ug@mail.gmail.com>
+References: <CAD2k14Mtvig_edkmGV5-yLKGchASqtmtU3+3h0M7JK8j_Em-Ug@mail.gmail.com>
+Message-ID: <CAN6n2b0AzWqbVfy+fDgciRbc4KfGBtaUhvQb2GjCcbz5idf0Ug@mail.gmail.com>
+
+Hi Peter,
+
+there is http://pmretract.heroku.com/journals that pulls retraction
+information from PubMed. I am CCing Neil who coded that and may have
+some insights as to how to implement your suggestion.
+
+Cheers,
+
+Daniel
+
+
+On Thu, Aug 11, 2011 at 9:07 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> Apparently scientific retractions are increasing at a ptremendous rate
+> http://pipeline.corante.com/archives/2011/08/11/scientific_retractions_a_growth_industry.php
+> (A retraction is where a? previously published paper is retracted. This may
+> mean it is expunged form the scientific record by the publisher or simply
+> stamped as RETRACTED). Retractions are usually because of sloppy science (ca
+> 75%) or fraud (25%) - Ben O'Steen has done a nice piece of work showing the
+> citation network relating to the retracted MMR vaccine paper.
+> In
+> http://retractionwatch.wordpress.com/
+> there is a call for a retraction index. Note that the original retracted
+> paper may be unaltered (especially if it's been copied to a personal
+> machine) and it won't be obviously "wrong"
+>
+> If we created a BibJSON Open Retraction index I think there would be a lot
+> of interest. It would also allow us to label other papers which
+> (recursively) consumed retracted work.
+>
+> There's currently a few hundred or lwo thousands? retracted papers so it's a
+> feasible project for a hackathon or an obsessive human.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From rufus.pollock at okfn.org  Fri Aug 12 17:23:46 2011
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 12 Aug 2011 17:23:46 +0100
+Subject: [open-bibliography] Bulk Download of Names Available
+In-Reply-To: <1D525027B29706438707F336D75A279F1AB5236BDE@LCXCLMB03.LCDS.LOC.GOV>
+References: <1D525027B29706438707F336D75A279F1AB5236BDE@LCXCLMB03.LCDS.LOC.GOV>
+Message-ID: <CAEvtuKomHTJ7o=YQBhzp01fE7L82aLV91ngc2cxs0h2jnFEbRQ@mail.gmail.com>
+
+Hi Kevin,
+
+This is really great to see - and I've added a data package on
+<http://theDataHub.org> for this:
+
+<http://thedatahub.org/package/library-of-congress-name-authority-file>
+
+One question. What is the exact license under which this data is
+released? I was presuming 'Public Domain' given this statement on the
+about page:
+
+<quote>
+The Library of Congress has prepared this vocabulary terminology
+system and is making it available as a public domain data set. While
+it has attempted to minimize inaccuracies and defects in the data and
+services furnished, THE LIBRARY OF CONGRESS IS PROVIDING THIS DATA AND
+THESE SERVICES "AS IS" AND DISCLAIMS ANY AND ALL WARRANTIES, WHETHER
+EXPRESS OR IMPLIED.
+</quote>
+
+Regards,
+
+Rufus
+
+On 11 August 2011 21:13, Ford, Kevin <kefo at loc.gov> wrote:
+> Bulk downloads of the Library of Congress *Name* Authority File (NAF) are now available. ?The current bulk download is only MADS/RDF. ?We'll make a SKOS/RDF download available in the near future. ?We are offering two serializations: ?n-triples and RDF/XML.
+>
+> The LC *Subject* Heading (LCSH) file continues to be available for download as SKOS/RDF, but now LCSH is also available in MADS/RDF (in the same serializations). ?The MADS/RDF enables the identification of types for subject headings and subheadings.
+>
+> They may be downloaded here: ?http://id.loc.gov/download/
+>
+> The data dumps are very much a work in progress. Please report problems, issues, and wishes on the ID.LOC.GOV listserv:
+>
+> http://listserv.loc.gov/cgi-bin/wa?SUBED1=ID&A=1
+>
+>
+> --
+> Kevin Ford
+> Digital Project Coordinator
+> Network Development & MARC Standards Office Library of Congress
+> 101 Independence Avenue, SE
+> Washington, DC 20540-4402
+>
+> Email: kefo at loc.gov
+> Tel: 202 707 3526
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From mark.macgillivray at okfn.org  Mon Aug 15 13:05:34 2011
+From: mark.macgillivray at okfn.org (Mark MacGillivray)
+Date: Mon, 15 Aug 2011 13:05:34 +0100
+Subject: [open-bibliography] suggesting regular meetings
+Message-ID: <CAJ9UX4508kvEb5AEzXRuJOT82RkcP8MMBMAONsv9XMnoktzSnw@mail.gmail.com>
+
+Hello open biblio people,
+
+I would like to suggest some more regular meetings for the working
+group. Perhaps every two weeks. These could be open to anyone wishing
+to join in.
+
+Adrian already usually organises meetings on the first Tuesday of
+every month - would it be worth having another meeting that week over
+and above that? Or should we just add another say in the middle of
+each month? What would people prefer?
+
+Perhaps a meeting this week to discuss would be useful for those
+interested? If so I propose we talk on Wednesday 17th August at 1600
+UK time (currently GMT + 1).
+
+Please let us know if what you think of this idea, and let me know if
+you want to attend on Wednesday, and I will initiate a call then.
+
+
+Mark MacGillivray
+
+
+From Micah_Altman at harvard.edu  Tue Aug 16 12:25:49 2011
+From: Micah_Altman at harvard.edu (Dr. Micah Altman)
+Date: Tue, 16 Aug 2011 07:25:49 -0400
+Subject: [open-bibliography] suggesting regular meetings
+In-Reply-To: <CAJ9UX4508kvEb5AEzXRuJOT82RkcP8MMBMAONsv9XMnoktzSnw@mail.gmail.com>
+References: <CAJ9UX4508kvEb5AEzXRuJOT82RkcP8MMBMAONsv9XMnoktzSnw@mail.gmail.com>
+Message-ID: <CAF0mVs0eRsxjn8w1WYZzQU0H8fZPqu-SdLN-Bdsv0kVFgM2MkQ@mail.gmail.com>
+
+Hi Mark,
+
+So far, I've participated only in a few of the meetings ... and those
+at the kick-off. If the meeting schedule happens to be when I'm
+available and on a topic of
+special interest I'll join in future. But in any case, it has been
+useful to be able to look at meeting notes/minutes etc to track
+developments, so I'm hoping that will continue.
+
+best,
+
+Micah
+
+
+On Mon, Aug 15, 2011 at 8:05 AM, Mark MacGillivray
+<mark.macgillivray at okfn.org> wrote:
+> Hello open biblio people,
+>
+> I would like to suggest some more regular meetings for the working
+> group. Perhaps every two weeks. These could be open to anyone wishing
+> to join in.
+>
+> Adrian already usually organises meetings on the first Tuesday of
+> every month - would it be worth having another meeting that week over
+> and above that? Or should we just add another say in the middle of
+> each month? What would people prefer?
+>
+> Perhaps a meeting this week to discuss would be useful for those
+> interested? If so I propose we talk on Wednesday 17th August at 1600
+> UK time (currently GMT + 1).
+>
+> Please let us know if what you think of this idea, and let me know if
+> you want to attend on Wednesday, and I will initiate a call then.
+>
+>
+> Mark MacGillivray
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+________________________________________________________________________
+Micah Altman, Ph.D.? ?? Senior Research Scientist, Institute for
+Quantitative Social Science
+? ? ? ? ? ? ? ? ? ? ? ? Archival Director, Henry A. Murray Research Archive
+Contact info, etc.:? ?? http://maltman.hmdc.harvard.edu/
+?? * Disclaimer: This is an unofficial, unsigned, document.? (Copyright 2011) *
+"Entia non sunt multiplicanda sine necessitate" - Dr. Invincibilis
+(Corollary, "Ad indicia spectate.")
+
+
+From rufus.pollock at okfn.org  Tue Aug 16 16:00:06 2011
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 16 Aug 2011 16:00:06 +0100
+Subject: [open-bibliography] [openbiblio-dev] suggesting regular meetings
+In-Reply-To: <CAJ9UX4508kvEb5AEzXRuJOT82RkcP8MMBMAONsv9XMnoktzSnw@mail.gmail.com>
+References: <CAJ9UX4508kvEb5AEzXRuJOT82RkcP8MMBMAONsv9XMnoktzSnw@mail.gmail.com>
+Message-ID: <CAEvtuKrrNAHuh0jrmzxkRe-epgQLvO0mutbmf_VqAfbz_MrqoA@mail.gmail.com>
+
+On 15 August 2011 13:05, Mark MacGillivray <mark.macgillivray at okfn.org> wrote:
+> Hello open biblio people,
+>
+> I would like to suggest some more regular meetings for the working
+> group. Perhaps every two weeks. These could be open to anyone wishing
+> to join in.
+
+I think we should distinguish general working group meeting (monthly)
+and some 'dev' meetings which could occur more frequently e.g. every 2
+weeks.
+
+> Adrian already usually organises meetings on the first Tuesday of
+> every month - would it be worth having another meeting that week over
+> and above that? Or should we just add another say in the middle of
+> each month? What would people prefer?
+
+I'd suggest not. Rather, I'd propose a 30m 'dev' meeting either before
+or after that main meeting. One can then run one other dev meeting in
+the month 2-weeks offset from the main meeting.
+
+> Perhaps a meeting this week to discuss would be useful for those
+> interested? If so I propose we talk on Wednesday 17th August at 1600
+> UK time (currently GMT + 1).
+
+I'll aim to make this.
+
+rufus
+
+> Please let us know if what you think of this idea, and let me know if
+> you want to attend on Wednesday, and I will initiate a call then.
+>
+>
+> Mark MacGillivray
+>
+> _______________________________________________
+> openbiblio-dev mailing list
+> openbiblio-dev at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/openbiblio-dev
+>
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From mark at odaesa.com  Tue Aug 16 15:42:12 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 16 Aug 2011 15:42:12 +0100
+Subject: [open-bibliography] suggesting regular meetings
+In-Reply-To: <CAF0mVs0eRsxjn8w1WYZzQU0H8fZPqu-SdLN-Bdsv0kVFgM2MkQ@mail.gmail.com>
+References: <CAJ9UX4508kvEb5AEzXRuJOT82RkcP8MMBMAONsv9XMnoktzSnw@mail.gmail.com>
+	<CAF0mVs0eRsxjn8w1WYZzQU0H8fZPqu-SdLN-Bdsv0kVFgM2MkQ@mail.gmail.com>
+Message-ID: <CAJ9UX46iXfxd3By4aT5Aw1TLZFKtLx3Ga9vYegwHXuwNDgTw5A@mail.gmail.com>
+
+Hi Micah,
+
+Sure, we will keep putting up meeting notes and you are free to join
+any time it suits you!
+
+In order to make this easier, I will put up an etherpad before each
+meeting to list some relevant topics.
+
+
+Mark
+
+
+
+On Tue, Aug 16, 2011 at 12:25 PM, Dr. Micah Altman
+<Micah_Altman at harvard.edu> wrote:
+> Hi Mark,
+>
+> So far, I've participated only in a few of the meetings ... and those
+> at the kick-off. If the meeting schedule happens to be when I'm
+> available and on a topic of
+> special interest I'll join in future. But in any case, it has been
+> useful to be able to look at meeting notes/minutes etc to track
+> developments, so I'm hoping that will continue.
+>
+> best,
+>
+> Micah
+>
+>
+> On Mon, Aug 15, 2011 at 8:05 AM, Mark MacGillivray
+> <mark.macgillivray at okfn.org> wrote:
+>> Hello open biblio people,
+>>
+>> I would like to suggest some more regular meetings for the working
+>> group. Perhaps every two weeks. These could be open to anyone wishing
+>> to join in.
+>>
+>> Adrian already usually organises meetings on the first Tuesday of
+>> every month - would it be worth having another meeting that week over
+>> and above that? Or should we just add another say in the middle of
+>> each month? What would people prefer?
+>>
+>> Perhaps a meeting this week to discuss would be useful for those
+>> interested? If so I propose we talk on Wednesday 17th August at 1600
+>> UK time (currently GMT + 1).
+>>
+>> Please let us know if what you think of this idea, and let me know if
+>> you want to attend on Wednesday, and I will initiate a call then.
+>>
+>>
+>> Mark MacGillivray
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> ________________________________________________________________________
+> Micah Altman, Ph.D.? ?? Senior Research Scientist, Institute for
+> Quantitative Social Science
+> ? ? ? ? ? ? ? ? ? ? ? ? Archival Director, Henry A. Murray Research Archive
+> Contact info, etc.:? ?? http://maltman.hmdc.harvard.edu/
+> ?? * Disclaimer: This is an unofficial, unsigned, document.? (Copyright 2011) *
+> "Entia non sunt multiplicanda sine necessitate" - Dr. Invincibilis
+> (Corollary, "Ad indicia spectate.")
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From announce at dublincore.net  Tue Aug 16 16:44:31 2011
+From: announce at dublincore.net (DCMI Announce)
+Date: Tue, 16 Aug 2011 08:44:31 -0700
+Subject: [open-bibliography] DC-2011, The Hague - early registration closing
+Message-ID: <CAP884EzLrgkoCVx8P3apu5C9a0RpTnuEaYX1HVWvWNNFx6y3NA@mail.gmail.com>
+
+Apologies for cross-posting
+
+*** EARLY REGISTRATION CLOSING ***
+
+=================================================
+METADATA HARMONIZATION: BRIDGING LANGUAGES OF DESCRIPTION
+DC-2011 -- 21-23 September, The Hague, Netherlands
+=================================================
+CONFERENCE WEBSITE: http://purl.org/dcevents/dc-2011
+ONLINE REGISTRATION OPEN:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/registration-2011
+
+--VENUE: Koninklijke Bibliotheek (National Library of the Netherlands)
+
+--EARLY REGISTRATION FEES (Euro):
+   Conference (Early): 300 (150 students)
+   Pre-Conference Tutorials (Early): 150 (75 students)
+   Pre-Conference Vocabulary Session (Early): 150 (75 students)
+
+--EARLY REGISTRATION RATES AVAILABLE THROUGH 21 AUGUST (Seoul Time)
+For local times for the change to Regular Rates, see World Clock at
+http://www.timeanddate.com/worldclock/fixedtime.html?iso=20110822T00&amp;p1=235
+
+
+=================================================
+
+The DC-2011 International Conference on Dublin Core and Metadata
+Applications keynote speakers are Mikael Nilsson, Google (Title: "Metadata
+Harmonization for Fun and Profit") and Emmanuelle Bermes, Centre Pompidou
+(Title: "Towards Linked Data for Libraries, Archives and Museums").  The
+remainder of the conference program on 22-23 September consists of peer
+reviewed papers, project reports and posters.
+
+Pre-conference activities on 21 September include either:
+
+(1) a full day of tutorials with Stephanie Taylor (UKOLN), Antoine Issac
+(Web an Media Group, Vrije Universiteit Amsterdam), Paul Hermans
+(Erfgoedplus.be ('heritage-plus')), and Emma Tonkin (UKOLN); or
+
+(2) a full day special session on Vocabulary Management and Alignment
+including time devoted to presentations and discussion of the
+state-of-the-art and current trends in vocabulary management infrastructure
+and vocabulary discovery, mapping and alignment.
+
+The preliminary program, abstracts, DCMI Workshops and speaker biographies
+are available at the conference website: http://purl.org/dcevents/dc-2011.
+
+Keep up with the conference at the following:
+ --Twitter:  http://twitter.com/#!/DCMI11
+ --LinkedIn:
+http://events.linkedin.com/DC-2011-International-Conference-Dublin/pub/605770
+ --Lanyrd: http://lanyrd.com/2011/dc2011/
+
+DC-2011 is collocated at the Koninklijke Bibliotheek with the UDC Seminar,
+2011 (http://seminar.udcc.org/2011/), occurring on 19-20 September.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110816/cb381938/attachment.htm>
+
+From announce at dublincore.net  Mon Aug 22 22:49:08 2011
+From: announce at dublincore.net (DCMI Announce)
+Date: Mon, 22 Aug 2011 14:49:08 -0700
+Subject: [open-bibliography] Invitation to Vocabulary Management and
+ Alignment pre-conference session (DC-2011)
+Message-ID: <CAP884Ewi0-6pY0Xi831tiZx0dc0pnSD69gvGXXWpM5kWAhgJpQ@mail.gmail.com>
+
+***Please excuse cross-posting***
+
+-----------------------------------------------------------------------
+DC-2011 Pre-conference Session: "Vocabulary Management and Alignment"
+DATE: 21 September 2011
+TIME: 9:00 - 17:00
+PLACE: National Library of the Netherlands, The Hague
+REGISTRATION:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/registration-2011
+   [Registration is available for this special day-long session only or for
+the full conference]
+----------------------------------------------------------------------
+
+We are writing to invite you to participate in a Dublin Core special session
+being planned for DC-2011 at The Hague.[1] The day-long pre-conference
+special session is intended as a forum for managers of structured data
+vocabularies as well as researches and practitioners working on metadata
+management and controlled vocabularies.[2] The session will be focused on
+the shared needs for vocabulary management infrastructure, the policy issues
+surrounding vocabulary management, and the possibility of mapping between
+vocabularies. The topics listed are only suggestions--attendees will be able
+to influence the direction of discussion. A poll will be circulated to
+registrants prior to the meeting to gather additional background information
+and help set the agenda.
+
+At DC-2010, Mike Bergman's keynote address strongly suggested that DCMI has
+a potential role in promoting co-operation among vocabulary managers and in
+providing best practices for vocabulary alignment and interoperability. The
+inevitable and useful proliferation of vocabularies emerging in the linked
+data space demonstrates a need for increased vocabulary reuse and tools to
+facilitate this reuse, as well as central reference vocabularies and tools
+to manage and encourage vocabulary mapping. The purpose of this day-long
+special session at DC-2011 is to explore the issues identified by Bergman
+among others and DCMI's potential role in supporting vocabulary alignment,
+interoperability and preservation across the metadata ecosystem.
+
+If travel is not an option for any of you, remote participation may be
+possible through IRC. Please note that early-bird registration ends on 5
+September.
+
+We very much hope some or all of you may be able to attend what we expect to
+be a very useful event.
+
+Cordially,
+
+Tom Baker, DCMI, United States
+Corey Harper, New York University, United States
+Diane Hillmann, DCMI, United States
+Gordon Dunsire, Consultant, United Kingdom
+Johannes Keizer, Food and Agriculture Organization of the United Nations
+(FAO), Italy
+Jon Phipps, Metadata Management Associates, United States
+
+
+[1] http://purl.org/dcevents/dc-2011
+[2]
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/specialSessions-2011
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110822/01cc786d/attachment.htm>
+
+From announce at dublincore.net  Fri Aug 26 22:35:08 2011
+From: announce at dublincore.net (DCMI Announce)
+Date: Fri, 26 Aug 2011 14:35:08 -0700
+Subject: [open-bibliography] Invitation to DC-2011 pre-conference tutorials
+Message-ID: <CAP884Ew4quZAJdYtBCv9+4u=fmNvwU=85r=2YRM9V3c6FSdrXg@mail.gmail.com>
+
+***Please excuse cross-posting***
+
+-----------------------------------------------------------------------
+DC-2011 Pre-conference Tutorials
+TUTORIAL ABSTRACTS:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/tutorials-2011
+DATE: 21 September 2011
+TIME: 9:00 - 17:00
+PLACE: National Library of the Netherlands, The Hague
+REGISTRATION:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/registration-2011
+   [Registration is available for this special day-long session only or for
+the full conference]
+----------------------------------------------------------------------
+
+We are writing to invite you to participate in Dublin Core tutorials planned
+for DC-2011 at The Hague. Registration for the pre-conference includes all
+four tutorials.  The topics of the tutorials range from an introduction to
+Dublin Core through migration of an XML/HTML encoded Dublin Core metadata
+application to a linked data version. The following four tutorials are
+programmed:
+
+TUTORIAL TITLE: An Introduction to Dublin Core
+PRESENTER: Stephanie Taylor
+ABSTRACT: This tutorial will provide a basic introduction to the Dublin Core
+(DC) metadata set, starting with a brief overview of how and why DC began
+and how it has developed to the present day. Simple DC and Qualified DC will
+be explained, with practical examples of real-life usage to illustrate the
+application of DC in different working environments. The tutorial will have
+a 'hands on' approach, giving participants an opportunity to explore the
+elements through group work and to use both Simple and Qualified DC to
+describe objects.
+
+TUTORIAL TITLE: Even More Dublin Core
+PRESENTER: Emma Tonkin
+ABSTRACT: Dublin Core, like many things in life, is many things to many
+people. This tutorial starts by taking a quick tour through the conceptual
+landscape of the DCMI. We then move on to practical exploration,
+demonstrating the role of Dublin Core as a helpful Swiss Army knife in a
+well-stocked metadata toolbox. Using the vocabularies, schemas, concepts and
+processes behind Dublin Core?such as the Singapore Framework, we work
+through practical examples of: describing a set of resources; developing an
+application profile for a given purpose; building metadata records on the
+basis of a newly constructed application profile; and marking up web-based
+data with microformats. Finally, the tutorial takes a look at how Dublin
+Core fits in with the world of Linked Data.
+
+TUTORIAL TITLE: SKOS (Simple Knowledge Organization System)
+PRESENTER: Antoine Isaac
+ABSTRACT: SKOS is a data model to represent and network knowledge
+organization systems (thesauri, classification systems, etc) in RDF. SKOS is
+meant to be as easy of use as possible, fitting existing practices while
+keeping general enough to fit a high number of use cases and KOS
+configurations. In this tutorial, an introduction to the various features of
+SKOS will be given, illustrating how they can be used to represent existing
+KOS data. The tutorial will present how the vision of leveraging existing
+KOS on the web of data is being adopted in a number of projects, in the
+Cultural Heritage sector and beyond. Available tooling and methods for
+creating and publishing SKOS as well as porting legacy KOS data to SKOS will
+also be discussed.
+
+TUTORIAL TITLE: From Dublin Core to Linked Data
+PRESENTER: Paul Hermans
+ABSTRACT: In this tutorial we will learn in a concrete way how to migrate an
+XML/HTML encoded Dublin Core metadata application to a linked data version
+hereof. We cover all the needed steps to:
+define the identifiers (URI's) of the resources choose the right models,
+vocabularies generate links to different datasets convert to the needed
+representations (RDF/XML, turtle, HTML) and publish the data as
+dereferenceable linked data. We will also address also some FAQ's: reusing
+vocabularies or building your own, SKOS (concepts) or OWL (classes), how to
+model temporal constraints, how to apply closed world constraints. In
+closing, we give an overview of the tools and technologies which can be
+used.
+
+We very much hope some or all of you may be able to attend what we expect to
+be a very useful event.
+
+Cordially,
+
+Muriel Foulonneau, Henri Tudor Research Centre
+Seth van Hooland, Universit? Libre de Bruxelles
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110826/5ae21eeb/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug 31 09:27:22 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 31 Aug 2011 09:27:22 +0100
+Subject: [open-bibliography] Best (or least bad) bibliographic
+	interchange format?
+In-Reply-To: <7142D08969601D489D1E05BE5A09373005FB82CC@exch08.mh-hannover.local>
+References: <CAHK=5jTTnFO9bhy-+td3xzv0ptZYTguBcKoA66CwSuNyOseadw@mail.gmail.com>
+	<CAGQnt7U51MoMtayMhRC4Mbm_EW2aGjnkZdhvk7yi=LyX2p=tBw@mail.gmail.com>
+	<27855231.606.1314757546821.JavaMail.geo-discussion-forums@vbrg10>
+	<7142D08969601D489D1E05BE5A09373005FB82CC@exch08.mh-hannover.local>
+Message-ID: <CAD2k14Of7+QXZNk05v2cT5X-vyKAYd3rBuurpZ-rmgy1Ahm3uQ@mail.gmail.com>
+
+I have forwarded this to the Open Bibliography group of the Open Knowledge
+Foundation. We have developed an approach the Open Bibliography based on
+JSON (BibJSON, Jim Pitman) . Many of the OKF-OB team will be present at
+ScienceOnline
+
+On Wed, Aug 31, 2011 at 8:51 AM, <Fenner.Martin at mh-hannover.de> wrote:
+
+> **
+> I second Peter in that a format based on JSON is probably better than a
+> legacy format. The JSON input format for CSL is a good starting point, I
+> don't know whether there are alternative JSON-based formats.
+>
+> The CSL input format needs to define the citation type "dataset", citation
+> of datasets will hopefully soon be a common practice.
+>
+> Best,
+>
+> Martin
+>
+> P.S. I hope to see some people on this list at the Science Online
+> Conference in London <http://www.scienceonlinelondon.org> this Friday and
+> Saturday. We will discuss several topics relevant to "Beyond the PDF".
+> ------------------------------
+>  *Von:* beyond-the-pdf at googlegroups.com [mailto:
+> beyond-the-pdf at googlegroups.com] *Im Auftrag von *Carl Leubsdorf, Jr.
+> *Gesendet:* Mittwoch, 31. August 2011 04:26
+> *An:* beyond-the-pdf at googlegroups.com
+> *Cc:* Bruce D'Arcus; ptsefton at gmail.com
+> *Betreff:* Re: Best (or least bad) bibliographic interchange format?
+>
+>
+> Peter Sefton wrote:
+>>
+>> I forwarded this to Bruce D'Arcus who invented CSL - the Stylesheet
+>> processing language used by Zotero and Mendeley.
+>>
+>
+> Thanks for passing that along.
+>
+>  > But this general approach (with focus probably on JSON) would, in my
+>> > view, be better than the legacy formats.
+>>
+>
+> I can see the value of this approach.  But (and not to be too short-sighted
+> on this) how immediately useful are future formats for people who, today,
+> have hundreds or thousands of references already compiled in legacy formats?
+>  I suppose one answer is to import them into Zotero or Mendeley and then
+> export to CSL.
+>
+> We also may take the approach, since we need to save to NLM-DTD, to simply
+> store the citations in a subset of the NLM tag suite, and work on
+> CSL-compatibility for a later version.
+>
+>  JISC has just funded some work on HTML5 in the UK which I will be
+>> involved in - one of the things we're looking at is how to represent
+>> citations in HTML - I think that microdata compatible with the
+>> Zotero/Mendeley/CSL format will be worth investigating. We will be
+>> looking at automated bibliography formatting using CSL, probably in
+>> Javascript - maybe you could work with us on that?
+>>
+>>
+>> I'm definitely willing to work on this; I suspect there will be some
+> interest at NLM in this work as well.
+>
+> In the meantime I will have a closer look at CSL.
+>
+> Thanks!
+>
+>>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110831/c205d373/attachment.htm>
+

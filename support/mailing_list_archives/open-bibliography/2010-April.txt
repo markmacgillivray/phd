@@ -1,0 +1,1136 @@
+From david.shotton at zoo.ox.ac.uk  Thu Apr  1 00:04:21 2010
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Thu, 01 Apr 2010 00:04:21 +0100
+Subject: [open-bibliography] Open Access licences and the OpenDOAR
+	Policy Tool
+In-Reply-To: <EMEW3|7f5b3d73c1377e4ede72585e9a82c3e8m2PA0W03cjg|ecs.soton.ac.uk|4BAC85B9.1040907@ecs.soton.ac.uk>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>	<54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>	<3497E70397DB184AB3C1BF4666611142011396C9@struik.uva.nl>	<b68e90821003010252m1aa9df99yc524507faf4c4c0@mail.gmail.com>	<48502b481003241736v33a8e17al60ecde2d5ac3f22f@mail.gmail.com>	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>	<4BAB7358.3020302@ecs.soton.ac.uk>	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>	<4BABD887.9050408@zoo.ox.ac.uk>
+	<b68e90821003260251y5313ec4ey220585af060789f8@mail.gmail.com>
+	<4BAC85B9.1040907@ecs.soton.ac.uk>
+	<EMEW3|7f5b3d73c1377e4ede72585e9a82c3e8m2PA0W03cjg|ecs.soton.ac.uk|4BAC85B9.1040907@ecs.soton.ac.uk>
+Message-ID: <4BB3D4F5.5080905@zoo.ox.ac.uk>
+
+Dear Christopher,
+
+Reading your remark "but the license will not appear until they pick 
+one.", I am reminded of the very nice OpenDOAR Policies Tool interface 
+(http://www.opendoar.org/tools/en/policies.php) provided by Peter 
+Millington to permit users to choose access policies for their 
+repositories, of which I am sure you are aware. 
+
+Last August I wrote to Peter about extending the OpenDOAR Policy Tool 
+for assigning RDF metadata according to Science Commons data licences.  
+He replied:
+
+    Your proposed adaptation of the /Open/DOAR Policy Tool for licenses
+    for depositing data in open access repositories is interesting
+    and potentially of more general benefit to /Open/DOAR users. I would
+    be happy therefore to provide you with the necessary PHP source code
+    and advice.
+
+Well, this is not something I am able to do myself, nor have manpower to 
+devote to at present, but perhaps you or someone in OKF or CC can accept 
+Peter's kind offer and make something of this.
+
+David
+
+
+Christopher Gutteridge wrote:
+> Maybe I should just teach the controversy then?
+>
+> The decision for our local RDF data will have to be made "above my pay 
+> grade". But I'll try to frame it as between public domain, -by and 
+> -by-nocommercial
+>
+> I'm about to do the first RDF release of the software and today we are 
+> running a training course in EPrints & Linked data at Southampton. Any 
+> suggestions welcome! I'll happily add more suggested licenses to the 
+> default release of the software, and a link to the discussion too!
+>
+> Partly, though, the data consuming community will need to nag each admin 
+> to add a license as EPrints 3.2.1 will provide RDF out of the box, but 
+> the license will not appear until they pick one.
+>
+> Rufus Pollock wrote:
+>   
+>> On 25 March 2010 21:41, David Shotton <david.shotton at zoo.ox.ac.uk> wrote:
+>>   
+>>     
+>>> Dear Christopher,
+>>>
+>>> There has been considerable discussion, I understand, between OKF and CC
+>>> about data licenses, which may be still ongoing.  CC is now recommending
+>>> their "CCZero" license for datasets, since this avoids the potential problem
+>>> of managing the "attribution stacking" that would result from automatic
+>>> data  aggregation from several sources using conventional attribution
+>>> licenses of any kind.  You  are advised to take these arguments into
+>>> consideration before deciding what to do for EPrints.
+>>>     
+>>>       
+>> I must say here that here at the OKF we really don't think that
+>> attribution-stacking is an issue.
+>>
+>> We are also consider attribution-sharealike type licenses as "open" --
+>> and Open Data Commons, which is an OKF supported project, produces
+>> such licenses. There is a ongoing, lengthy and friendly disagreement
+>> on this score between John Wilbanks and us on this matter (I can point
+>> people to more background on this if they want it :) )
+>>
+>>   
+>>     
+>>> For FlyTED (http://www.fly disagreement on this sc had long disagreements-ted.org), which as you know uses the EPrints
+>>> software platform, we have, after discussions with John Wilbanks, adopted
+>>> CCZero licenses for metadata and thumbnails, and normal CC attribution
+>>> licences for high resolution images.
+>>>     
+>>>       
+>> We think public domain licenses whether the PDDL or the CCZero to be
+>> great too :)
+>>
+>>   
+>>     
+>>> Dryad (http://datadryad.org/repo), which is a repository for datasets linked
+>>> to journal articles, has also adopted CCZero licenses.
+>>>     
+>>>       
+>> That's great to hear.
+>>
+>> Rufus
+>>   
+>>     
+>
+>   
+-- 
+
+Dr David Shotton                                                      
+ david.shotton at zoo.ox.ac.uk <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+Reader in Image Bioinformatics
+
+Image Bioinformatics Research Group                                 
+http://ibrg.zoo.ox.ac.uk
+Department of Zoology, University of Oxford                  tel: 
++44-(0)1865-271193
+South Parks Road, Oxford OX1 3PS, UK                    fax: 
++44-(0)1865-310447
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100401/08b25e06/attachment.htm>
+
+From cjg at ecs.soton.ac.uk  Thu Apr  1 16:14:39 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Thu, 01 Apr 2010 16:14:39 +0100
+Subject: [open-bibliography] Open Access licences and the OpenDOAR
+	Policy Tool
+In-Reply-To: <4BB4B54A.20001@creativecommons.org>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>	<54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>	<3497E70397DB184AB3C1BF4666611142011396C9@struik.uva.nl>	<b68e90821003010252m1aa9df99yc524507faf4c4c0@mail.gmail.com>	<48502b481003241736v33a8e17al60ecde2d5ac3f22f@mail.gmail.com>	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>	<4BAB7358.3020302@ecs.soton.ac.uk>	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>	<4BABD887.9050408@zoo.ox.ac.uk>
+	<b68e90821003260251y5313ec4ey220585af060789f8@mail.gmail.com>
+	<4BAC85B9.1040907@ecs.soton.ac.uk>
+	<EMEW3|7f5b3d73c1377e4ede72585e9a82c3e8m2PA0W03cjg|ecs.soton.ac.uk|4BAC85B9.1040907@ecs.soton.ac.uk>
+	<4BB3D4F5.5080905@zoo.ox.ac.uk>
+	<4BB4B54A.20001@creativecommons.org>
+	<4BB4B85F.8000904@ecs.soton.ac.uk>
+Message-ID: <EMEW3|2eab37b232cb0732181b0f11b889a391m30GEk03cjg|ecs.soton.ac.uk|4BB4B85F.8000904@ecs.soton.ac.uk>
+
+I've got 3 cases I need to consider.
+
+First of all is our school RDF (FOAF etc.), 2nd is our school repository 
+(bibliographic metadata)
+
+The biggy, however, is that the next release of EPrints will generate 
+RDF automatically, and we want to provide clear an easy instructions on 
+how to pick a license. Possibly, now I think about it, I might link to a 
+page on our wiki so we can alter it any time as we learn.
+
+John Wilbanks wrote:
+> Christopher - we provide user support through our tech team for anyone 
+> trying to implement Creative Commons licensing via web services. Drop 
+> me a line if you're interested. We've been getting our services honed 
+> through a variety of users rolling out CC0, including the Dutch 
+> Government, and I'd be happy to connect you into that group of users 
+> as well.
+>
+> jtw
+>
+> On 3/31/10 4:04 PM, David Shotton wrote:
+>> Dear Christopher,
+>>
+>> Reading your remark "but the license will not appear until they pick
+>> one.", I am reminded of the very nice OpenDOAR Policies Tool interface
+>> (http://www.opendoar.org/tools/en/policies.php) provided by Peter
+>> Millington to permit users to choose access policies for their
+>> repositories, of which I am sure you are aware.
+>>
+>> Last August I wrote to Peter about extending the OpenDOAR Policy Tool
+>> for assigning RDF metadata according to Science Commons data licences.
+>> He replied:
+>>
+>>     Your proposed adaptation of the /Open/DOAR Policy Tool for licenses
+>>     for depositing data in open access repositories is interesting
+>>     and potentially of more general benefit to /Open/DOAR users. I would
+>>     be happy therefore to provide you with the necessary PHP source code
+>>     and advice.
+>>
+>> Well, this is not something I am able to do myself, nor have manpower to
+>> devote to at present, but perhaps you or someone in OKF or CC can accept
+>> Peter's kind offer and make something of this.
+>>
+>> David
+>>
+>>
+>> Christopher Gutteridge wrote:
+>>> Maybe I should just teach the controversy then?
+>>>
+>>> The decision for our local RDF data will have to be made "above my pay
+>>> grade". But I'll try to frame it as between public domain, -by and
+>>> -by-nocommercial
+>>>
+>>> I'm about to do the first RDF release of the software and today we are
+>>> running a training course in EPrints&  Linked data at Southampton. Any
+>>> suggestions welcome! I'll happily add more suggested licenses to the
+>>> default release of the software, and a link to the discussion too!
+>>>
+>>> Partly, though, the data consuming community will need to nag each 
+>>> admin
+>>> to add a license as EPrints 3.2.1 will provide RDF out of the box, but
+>>> the license will not appear until they pick one.
+>>>
+>>> Rufus Pollock wrote:
+>>>
+>>>> On 25 March 2010 21:41, David Shotton<david.shotton at zoo.ox.ac.uk>  
+>>>> wrote:
+>>>>
+>>>>
+>>>>> Dear Christopher,
+>>>>>
+>>>>> There has been considerable discussion, I understand, between OKF 
+>>>>> and CC
+>>>>> about data licenses, which may be still ongoing.  CC is now 
+>>>>> recommending
+>>>>> their "CCZero" license for datasets, since this avoids the 
+>>>>> potential problem
+>>>>> of managing the "attribution stacking" that would result from 
+>>>>> automatic
+>>>>> data  aggregation from several sources using conventional attribution
+>>>>> licenses of any kind.  You  are advised to take these arguments into
+>>>>> consideration before deciding what to do for EPrints.
+>>>>>
+>>>>>
+>>>> I must say here that here at the OKF we really don't think that
+>>>> attribution-stacking is an issue.
+>>>>
+>>>> We are also consider attribution-sharealike type licenses as "open" --
+>>>> and Open Data Commons, which is an OKF supported project, produces
+>>>> such licenses. There is a ongoing, lengthy and friendly disagreement
+>>>> on this score between John Wilbanks and us on this matter (I can point
+>>>> people to more background on this if they want it :) )
+>>>>
+>>>>
+>>>>
+>>>>> For FlyTED (http://www.fly  disagreement on this sc had long 
+>>>>> disagreements-ted.org), which as you know uses the EPrints
+>>>>> software platform, we have, after discussions with John Wilbanks, 
+>>>>> adopted
+>>>>> CCZero licenses for metadata and thumbnails, and normal CC 
+>>>>> attribution
+>>>>> licences for high resolution images.
+>>>>>
+>>>>>
+>>>> We think public domain licenses whether the PDDL or the CCZero to be
+>>>> great too :)
+>>>>
+>>>>
+>>>>
+>>>>> Dryad (http://datadryad.org/repo), which is a repository for 
+>>>>> datasets linked
+>>>>> to journal articles, has also adopted CCZero licenses.
+>>>>>
+>>>>>
+>>>> That's great to hear.
+>>>>
+>>>> Rufus
+>>>>
+>>>>
+>>>
+>>>
+>> -- 
+>>
+>> Dr David Shotton david.shotton at zoo.ox.ac.uk
+>> <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+>> Reader in Image Bioinformatics
+>>
+>> Image Bioinformatics Research Group http://ibrg.zoo.ox.ac.uk
+>> Department of Zoology, University of Oxford                  tel:
+>> +44-(0)1865-271193
+>> South Parks Road, Oxford OX1 3PS, UK                    fax:
+>> +44-(0)1865-310447
+>>
+
+-- 
+Christopher Gutteridge -- http://id.ecs.soton.ac.uk/person/1248 
+
+/ Lead Developer, EPrints Project, http://eprints.org/
+/ Web Projects Manager, ECS, University of Southampton, http://www.ecs.soton.ac.uk/
+/ Webmaster, Web Science Trust, http://www.webscience.org/
+
+
+
+From cjg at ecs.soton.ac.uk  Thu Apr  1 17:59:16 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Thu, 01 Apr 2010 17:59:16 +0100
+Subject: [open-bibliography] Open Access licences and the OpenDOAR
+	Policy Tool
+In-Reply-To: <4BB3D4F5.5080905@zoo.ox.ac.uk>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>	<54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>	<3497E70397DB184AB3C1BF4666611142011396C9@struik.uva.nl>	<b68e90821003010252m1aa9df99yc524507faf4c4c0@mail.gmail.com>	<48502b481003241736v33a8e17al60ecde2d5ac3f22f@mail.gmail.com>	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>	<4BAB7358.3020302@ecs.soton.ac.uk>	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>	<4BABD887.9050408@zoo.ox.ac.uk>
+	<b68e90821003260251y5313ec4ey220585af060789f8@mail.gmail.com>
+	<4BAC85B9.1040907@ecs.soton.ac.uk>
+	<EMEW3|7f5b3d73c1377e4ede72585e9a82c3e8m2PA0W03cjg|ecs.soton.ac.uk|4BAC85B9.1040907@ecs.soton.ac.uk>
+	<4BB3D4F5.5080905@zoo.ox.ac.uk> <4BB4D0E4.2050103@ecs.soton.ac.uk>
+Message-ID: <EMEW3|54b8b3a58512847b182f4dcec728d60bm30HxH03cjg|ecs.soton.ac.uk|4BB4D0E4.2050103@ecs.soton.ac.uk>
+
+Most of the OAI stuff which can be configured via this tool is put into 
+to the RDF
+http://eprints.ecs.soton.ac.uk/cgi/repositoryinfo/RDFXML/ecs.n3?mimetype=text/plain
+
+Perhaps they could add a license picker for metadata in general?
+
+David Shotton wrote:
+> Dear Christopher,
+>
+> Reading your remark "but the license will not appear until they pick 
+> one.", I am reminded of the very nice OpenDOAR Policies Tool interface 
+> (http://www.opendoar.org/tools/en/policies.php) provided by Peter 
+> Millington to permit users to choose access policies for their 
+> repositories, of which I am sure you are aware. 
+>
+> Last August I wrote to Peter about extending the OpenDOAR Policy Tool 
+> for assigning RDF metadata according to Science Commons data 
+> licences.  He replied:
+>
+>     Your proposed adaptation of the /Open/DOAR Policy Tool for
+>     licenses for depositing data in open access repositories is
+>     interesting and potentially of more general benefit to /Open/DOAR
+>     users. I would be happy therefore to provide you with the
+>     necessary PHP source code and advice.
+>
+> Well, this is not something I am able to do myself, nor have manpower 
+> to devote to at present, but perhaps you or someone in OKF or CC can 
+> accept Peter's kind offer and make something of this.
+>
+> David
+>
+>
+> Christopher Gutteridge wrote:
+>> Maybe I should just teach the controversy then?
+>>
+>> The decision for our local RDF data will have to be made "above my pay 
+>> grade". But I'll try to frame it as between public domain, -by and 
+>> -by-nocommercial
+>>
+>> I'm about to do the first RDF release of the software and today we are 
+>> running a training course in EPrints & Linked data at Southampton. Any 
+>> suggestions welcome! I'll happily add more suggested licenses to the 
+>> default release of the software, and a link to the discussion too!
+>>
+>> Partly, though, the data consuming community will need to nag each admin 
+>> to add a license as EPrints 3.2.1 will provide RDF out of the box, but 
+>> the license will not appear until they pick one.
+>>
+>> Rufus Pollock wrote:
+>>   
+>>> On 25 March 2010 21:41, David Shotton <david.shotton at zoo.ox.ac.uk> wrote:
+>>>   
+>>>     
+>>>> Dear Christopher,
+>>>>
+>>>> There has been considerable discussion, I understand, between OKF and CC
+>>>> about data licenses, which may be still ongoing.  CC is now recommending
+>>>> their "CCZero" license for datasets, since this avoids the potential problem
+>>>> of managing the "attribution stacking" that would result from automatic
+>>>> data  aggregation from several sources using conventional attribution
+>>>> licenses of any kind.  You  are advised to take these arguments into
+>>>> consideration before deciding what to do for EPrints.
+>>>>     
+>>>>       
+>>> I must say here that here at the OKF we really don't think that
+>>> attribution-stacking is an issue.
+>>>
+>>> We are also consider attribution-sharealike type licenses as "open" --
+>>> and Open Data Commons, which is an OKF supported project, produces
+>>> such licenses. There is a ongoing, lengthy and friendly disagreement
+>>> on this score between John Wilbanks and us on this matter (I can point
+>>> people to more background on this if they want it :) )
+>>>
+>>>   
+>>>     
+>>>> For FlyTED (http://www.fly disagreement on this sc had long disagreements-ted.org), which as you know uses the EPrints
+>>>> software platform, we have, after discussions with John Wilbanks, adopted
+>>>> CCZero licenses for metadata and thumbnails, and normal CC attribution
+>>>> licences for high resolution images.
+>>>>     
+>>>>       
+>>> We think public domain licenses whether the PDDL or the CCZero to be
+>>> great too :)
+>>>
+>>>   
+>>>     
+>>>> Dryad (http://datadryad.org/repo), which is a repository for datasets linked
+>>>> to journal articles, has also adopted CCZero licenses.
+>>>>     
+>>>>       
+>>> That's great to hear.
+>>>
+>>> Rufus
+>>>   
+>>>     
+>>
+>>   
+> -- 
+>
+> Dr David Shotton                                                      
+>  david.shotton at zoo.ox.ac.uk <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+> Reader in Image Bioinformatics
+>
+> Image Bioinformatics Research Group                                 
+> http://ibrg.zoo.ox.ac.uk
+> Department of Zoology, University of Oxford                  tel: 
+> +44-(0)1865-271193
+> South Parks Road, Oxford OX1 3PS, UK                    fax: 
+> +44-(0)1865-310447
+>
+
+-- 
+Christopher Gutteridge -- http://id.ecs.soton.ac.uk/person/1248 
+
+/ Lead Developer, EPrints Project, http://eprints.org/
+/ Web Projects Manager, ECS, University of Southampton, http://www.ecs.soton.ac.uk/
+/ Webmaster, Web Science Trust, http://www.webscience.org/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100401/a6909b45/attachment.htm>
+
+From wilbanks at creativecommons.org  Thu Apr  1 16:01:30 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 01 Apr 2010 08:01:30 -0700
+Subject: [open-bibliography] Open Access licences and the OpenDOAR
+	Policy Tool
+In-Reply-To: <4BB3D4F5.5080905@zoo.ox.ac.uk>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>	<54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>	<3497E70397DB184AB3C1BF4666611142011396C9@struik.uva.nl>	<b68e90821003010252m1aa9df99yc524507faf4c4c0@mail.gmail.com>	<48502b481003241736v33a8e17al60ecde2d5ac3f22f@mail.gmail.com>	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>	<4BAB7358.3020302@ecs.soton.ac.uk>	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>	<4BABD887.9050408@zoo.ox.ac.uk>
+	<b68e90821003260251y5313ec4ey220585af060789f8@mail.gmail.com>
+	<4BAC85B9.1040907@ecs.soton.ac.uk>
+	<EMEW3|7f5b3d73c1377e4ede72585e9a82c3e8m2PA0W03cjg|ecs.soton.ac.uk|4BAC85B9.1040907@ecs.soton.ac.uk>
+	<4BB3D4F5.5080905@zoo.ox.ac.uk>
+Message-ID: <4BB4B54A.20001@creativecommons.org>
+
+Christopher - we provide user support through our tech team for anyone 
+trying to implement Creative Commons licensing via web services. Drop me 
+a line if you're interested. We've been getting our services honed 
+through a variety of users rolling out CC0, including the Dutch 
+Government, and I'd be happy to connect you into that group of users as 
+well.
+
+jtw
+
+On 3/31/10 4:04 PM, David Shotton wrote:
+> Dear Christopher,
+>
+> Reading your remark "but the license will not appear until they pick
+> one.", I am reminded of the very nice OpenDOAR Policies Tool interface
+> (http://www.opendoar.org/tools/en/policies.php) provided by Peter
+> Millington to permit users to choose access policies for their
+> repositories, of which I am sure you are aware.
+>
+> Last August I wrote to Peter about extending the OpenDOAR Policy Tool
+> for assigning RDF metadata according to Science Commons data licences.
+> He replied:
+>
+>     Your proposed adaptation of the /Open/DOAR Policy Tool for licenses
+>     for depositing data in open access repositories is interesting
+>     and potentially of more general benefit to /Open/DOAR users. I would
+>     be happy therefore to provide you with the necessary PHP source code
+>     and advice.
+>
+> Well, this is not something I am able to do myself, nor have manpower to
+> devote to at present, but perhaps you or someone in OKF or CC can accept
+> Peter's kind offer and make something of this.
+>
+> David
+>
+>
+> Christopher Gutteridge wrote:
+>> Maybe I should just teach the controversy then?
+>>
+>> The decision for our local RDF data will have to be made "above my pay
+>> grade". But I'll try to frame it as between public domain, -by and
+>> -by-nocommercial
+>>
+>> I'm about to do the first RDF release of the software and today we are
+>> running a training course in EPrints&  Linked data at Southampton. Any
+>> suggestions welcome! I'll happily add more suggested licenses to the
+>> default release of the software, and a link to the discussion too!
+>>
+>> Partly, though, the data consuming community will need to nag each admin
+>> to add a license as EPrints 3.2.1 will provide RDF out of the box, but
+>> the license will not appear until they pick one.
+>>
+>> Rufus Pollock wrote:
+>>
+>>> On 25 March 2010 21:41, David Shotton<david.shotton at zoo.ox.ac.uk>  wrote:
+>>>
+>>>
+>>>> Dear Christopher,
+>>>>
+>>>> There has been considerable discussion, I understand, between OKF and CC
+>>>> about data licenses, which may be still ongoing.  CC is now recommending
+>>>> their "CCZero" license for datasets, since this avoids the potential problem
+>>>> of managing the "attribution stacking" that would result from automatic
+>>>> data  aggregation from several sources using conventional attribution
+>>>> licenses of any kind.  You  are advised to take these arguments into
+>>>> consideration before deciding what to do for EPrints.
+>>>>
+>>>>
+>>> I must say here that here at the OKF we really don't think that
+>>> attribution-stacking is an issue.
+>>>
+>>> We are also consider attribution-sharealike type licenses as "open" --
+>>> and Open Data Commons, which is an OKF supported project, produces
+>>> such licenses. There is a ongoing, lengthy and friendly disagreement
+>>> on this score between John Wilbanks and us on this matter (I can point
+>>> people to more background on this if they want it :) )
+>>>
+>>>
+>>>
+>>>> For FlyTED (http://www.fly  disagreement on this sc had long disagreements-ted.org), which as you know uses the EPrints
+>>>> software platform, we have, after discussions with John Wilbanks, adopted
+>>>> CCZero licenses for metadata and thumbnails, and normal CC attribution
+>>>> licences for high resolution images.
+>>>>
+>>>>
+>>> We think public domain licenses whether the PDDL or the CCZero to be
+>>> great too :)
+>>>
+>>>
+>>>
+>>>> Dryad (http://datadryad.org/repo), which is a repository for datasets linked
+>>>> to journal articles, has also adopted CCZero licenses.
+>>>>
+>>>>
+>>> That's great to hear.
+>>>
+>>> Rufus
+>>>
+>>>
+>>
+>>
+> --
+>
+> Dr David Shotton david.shotton at zoo.ox.ac.uk
+> <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+> Reader in Image Bioinformatics
+>
+> Image Bioinformatics Research Group http://ibrg.zoo.ox.ac.uk
+> Department of Zoology, University of Oxford                  tel:
+> +44-(0)1865-271193
+> South Parks Road, Oxford OX1 3PS, UK                    fax:
+> +44-(0)1865-310447
+>
+
+
+From wilbanks at creativecommons.org  Thu Apr  1 17:31:52 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 01 Apr 2010 09:31:52 -0700
+Subject: [open-bibliography] Open Access licences and the OpenDOAR
+	Policy Tool
+In-Reply-To: <EMEW3|2eab37b232cb0732181b0f11b889a391m30GEk03cjg|ecs.soton.ac.uk|4BB4B85F.8000904@ecs.soton.ac.uk>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>	<54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>	<3497E70397DB184AB3C1BF4666611142011396C9@struik.uva.nl>	<b68e90821003010252m1aa9df99yc524507faf4c4c0@mail.gmail.com>	<48502b481003241736v33a8e17al60ecde2d5ac3f22f@mail.gmail.com>	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>	<4BAB7358.3020302@ecs.soton.ac.uk>	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>	<4BABD887.9050408@zoo.ox.ac.uk>
+	<b68e90821003260251y5313ec4ey220585af060789f8@mail.gmail.com>
+	<4BAC85B9.1040907@ecs.soton.ac.uk>
+	<EMEW3|7f5b3d73c1377e4ede72585e9a82c3e8m2PA0W03cjg|ecs.soton.ac.uk|4BAC85B9.1040907@ecs.soton.ac.uk>
+	<4BB3D4F5.5080905@zoo.ox.ac.uk>
+	<4BB4B54A.20001@creativecommons.org>
+	<4BB4B85F.8000904@ecs.soton.ac.uk>
+	<EMEW3|2eab37b232cb0732181b0f11b889a391m30GEk03cjg|ecs.soton.ac.uk|4BB4B85F.8000904@ecs.soton.ac.uk>
+Message-ID: <4BB4CA78.5090200@creativecommons.org>
+
+Jonathan Rees is on the list for the Open Biblio Data and can walk you 
+through the RDF side of things from a CC perspective. He's a principal 
+scientist at Creative Commons and also sits on the Technical 
+Architecture Group for the W3C, as well as leading the Shared Names 
+project for stable URIs for data and metadata. He is the lead author on 
+our recent white paper on publishing data papers.
+
+Nathan Yergler, our CTO, would be the one to help you through 
+implementation phases, web services, and so forth. You can also look at 
+our developer wiki (http://wiki.creativecommons.org/Developers - note 
+the desktop and web application sections, as well as open developer 
+challenges) as well if you're interested.
+
+Best,
+jtw
+
+
+On 4/1/10 8:14 AM, Christopher Gutteridge wrote:
+> I've got 3 cases I need to consider.
+>
+> First of all is our school RDF (FOAF etc.), 2nd is our school repository
+> (bibliographic metadata)
+>
+> The biggy, however, is that the next release of EPrints will generate
+> RDF automatically, and we want to provide clear an easy instructions on
+> how to pick a license. Possibly, now I think about it, I might link to a
+> page on our wiki so we can alter it any time as we learn.
+>
+> John Wilbanks wrote:
+>> Christopher - we provide user support through our tech team for anyone
+>> trying to implement Creative Commons licensing via web services. Drop
+>> me a line if you're interested. We've been getting our services honed
+>> through a variety of users rolling out CC0, including the Dutch
+>> Government, and I'd be happy to connect you into that group of users
+>> as well.
+>>
+>> jtw
+>>
+>> On 3/31/10 4:04 PM, David Shotton wrote:
+>>> Dear Christopher,
+>>>
+>>> Reading your remark "but the license will not appear until they pick
+>>> one.", I am reminded of the very nice OpenDOAR Policies Tool interface
+>>> (http://www.opendoar.org/tools/en/policies.php) provided by Peter
+>>> Millington to permit users to choose access policies for their
+>>> repositories, of which I am sure you are aware.
+>>>
+>>> Last August I wrote to Peter about extending the OpenDOAR Policy Tool
+>>> for assigning RDF metadata according to Science Commons data licences.
+>>> He replied:
+>>>
+>>> Your proposed adaptation of the /Open/DOAR Policy Tool for licenses
+>>> for depositing data in open access repositories is interesting
+>>> and potentially of more general benefit to /Open/DOAR users. I would
+>>> be happy therefore to provide you with the necessary PHP source code
+>>> and advice.
+>>>
+>>> Well, this is not something I am able to do myself, nor have manpower to
+>>> devote to at present, but perhaps you or someone in OKF or CC can accept
+>>> Peter's kind offer and make something of this.
+>>>
+>>> David
+>>>
+>>>
+>>> Christopher Gutteridge wrote:
+>>>> Maybe I should just teach the controversy then?
+>>>>
+>>>> The decision for our local RDF data will have to be made "above my pay
+>>>> grade". But I'll try to frame it as between public domain, -by and
+>>>> -by-nocommercial
+>>>>
+>>>> I'm about to do the first RDF release of the software and today we are
+>>>> running a training course in EPrints& Linked data at Southampton. Any
+>>>> suggestions welcome! I'll happily add more suggested licenses to the
+>>>> default release of the software, and a link to the discussion too!
+>>>>
+>>>> Partly, though, the data consuming community will need to nag each
+>>>> admin
+>>>> to add a license as EPrints 3.2.1 will provide RDF out of the box, but
+>>>> the license will not appear until they pick one.
+>>>>
+>>>> Rufus Pollock wrote:
+>>>>
+>>>>> On 25 March 2010 21:41, David Shotton<david.shotton at zoo.ox.ac.uk>
+>>>>> wrote:
+>>>>>
+>>>>>
+>>>>>> Dear Christopher,
+>>>>>>
+>>>>>> There has been considerable discussion, I understand, between OKF
+>>>>>> and CC
+>>>>>> about data licenses, which may be still ongoing. CC is now
+>>>>>> recommending
+>>>>>> their "CCZero" license for datasets, since this avoids the
+>>>>>> potential problem
+>>>>>> of managing the "attribution stacking" that would result from
+>>>>>> automatic
+>>>>>> data aggregation from several sources using conventional attribution
+>>>>>> licenses of any kind. You are advised to take these arguments into
+>>>>>> consideration before deciding what to do for EPrints.
+>>>>>>
+>>>>>>
+>>>>> I must say here that here at the OKF we really don't think that
+>>>>> attribution-stacking is an issue.
+>>>>>
+>>>>> We are also consider attribution-sharealike type licenses as "open" --
+>>>>> and Open Data Commons, which is an OKF supported project, produces
+>>>>> such licenses. There is a ongoing, lengthy and friendly disagreement
+>>>>> on this score between John Wilbanks and us on this matter (I can point
+>>>>> people to more background on this if they want it :) )
+>>>>>
+>>>>>
+>>>>>
+>>>>>> For FlyTED (http://www.fly disagreement on this sc had long
+>>>>>> disagreements-ted.org), which as you know uses the EPrints
+>>>>>> software platform, we have, after discussions with John Wilbanks,
+>>>>>> adopted
+>>>>>> CCZero licenses for metadata and thumbnails, and normal CC
+>>>>>> attribution
+>>>>>> licences for high resolution images.
+>>>>>>
+>>>>>>
+>>>>> We think public domain licenses whether the PDDL or the CCZero to be
+>>>>> great too :)
+>>>>>
+>>>>>
+>>>>>
+>>>>>> Dryad (http://datadryad.org/repo), which is a repository for
+>>>>>> datasets linked
+>>>>>> to journal articles, has also adopted CCZero licenses.
+>>>>>>
+>>>>>>
+>>>>> That's great to hear.
+>>>>>
+>>>>> Rufus
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>> --
+>>>
+>>> Dr David Shotton david.shotton at zoo.ox.ac.uk
+>>> <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+>>> Reader in Image Bioinformatics
+>>>
+>>> Image Bioinformatics Research Group http://ibrg.zoo.ox.ac.uk
+>>> Department of Zoology, University of Oxford tel:
+>>> +44-(0)1865-271193
+>>> South Parks Road, Oxford OX1 3PS, UK fax:
+>>> +44-(0)1865-310447
+>>>
+>
+
+
+From rufus.pollock at okfn.org  Fri Apr  2 13:04:12 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 2 Apr 2010 13:04:12 +0100
+Subject: [open-bibliography] Fwd: [okfn-discuss] University of Ghent
+	LibraryCatalogues: Open or Not?
+In-Reply-To: <4BACB632.7060605@pobox.upenn.edu>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>
+	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>
+	<4BAB7358.3020302@ecs.soton.ac.uk>
+	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>
+	<4BABD887.9050408@zoo.ox.ac.uk> <4BAC8E26.3010405@ecs.soton.ac.uk>
+	<4BAC3A33.4090305@creativecommons.org>
+	<EMEW3|ca62ae684245553718d41898a9c0e927m2PAaQ03cjg|ecs.soton.ac.uk|4BAC8E26.3010405@ecs.soton.ac.uk>
+	<b68e90821003260344r20d03449o9f71a5ef76f5589@mail.gmail.com>
+	<4BACB632.7060605@pobox.upenn.edu>
+Message-ID: <k2vb68e90821004020504l22ffc8bt7c477591a6ef110e@mail.gmail.com>
+
+On 26 March 2010 13:27, John Mark Ockerbloom <ockerblo at pobox.upenn.edu> wrote:
+> Rufus Pollock wrote:
+>>
+>> As I understand it, you are dealing with the licensing of what is in
+>> essence bibliographic metadata. As such my main recommendation is that
+>> you do pretty much what you were doing already :) That is you offer
+>> users the three main "open" license choices for data:
+>>
+>> Public Domain: PDDL or CCZero
+>> Attribution: ODC-by - "http://www.opendatacommons.org/licenses/by/";
+>> Attribution-Sharealike: ODbL -
+>> "http://www.opendatacommons.org/licenses/odbl/";
+>
+> Do the latter two ODC licenses purport to impose contract terms that go
+> further
+> than copyright? ?That's one problem I had with them as I understood them
+> when
+> they were announced; I really don't like the principle that any download
+> or use of data binds me to requirements that copyright law itself does not.
+
+My basic answer is: no, in standard usage, the ODC licenses do not
+impose "contract terms" that go beyond copyright *plus* the relevant
+data(base) specific IP rights in your jurisdiction (if these differ
+from copyright).
+
+This is turning into a bit of FUD thing so it is important to clear it
+up! More on this in this recent blog post (see section that is
+entitled Contract and the ODbL):
+
+<http://blog.okfn.org/2010/03/25/comments-on-the-panton-principles-and-data-licensing/>
+
+> I'm currently licensing my ~40,000 bibliographic records for free online
+> books
+> with CC-BY-SA. ?I realize that the SA requirements could be removed where
+> record data is reused under fair use and public domain provisions, and I'm
+> fine
+> with that. ?(For instance, at least some of the bibliographic fields
+> are very likely to be public domain by US standards.) ?I wouldn't want to
+> switch to a similar ODC license that tried to include contractual
+> restrictions for uses that are currently permitted by our copyright law.
+
+Nothing in the ODbL license in its standard usage will impose
+restrictions beyond those in your basic copyright/database law.
+
+> (Actually, I'm considering going to CC-0, which would simplify things
+> further, but how to get approval for that in my organization isn't
+> entirely clear.)
+
+Right, you could also use CC-0 or the PDDL [1] to go for a complete
+PD-only approach. All of these are good in my view and obviously a
+PD-only approach imposes fewer restrictions on users/reusers.
+
+Rufus
+
+[1]: http://www.opendatacommons.org/licenses/pddl/
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From ockerblo at pobox.upenn.edu  Fri Apr  2 14:31:42 2010
+From: ockerblo at pobox.upenn.edu (John Mark Ockerbloom)
+Date: Fri, 02 Apr 2010 09:31:42 -0400
+Subject: [open-bibliography] Fwd: [okfn-discuss] University of Ghent
+ LibraryCatalogues: Open or Not?
+In-Reply-To: <k2vb68e90821004020504l22ffc8bt7c477591a6ef110e@mail.gmail.com>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>	
+	<b68e90821003250220p546f0ff5uaf4b2ab6ddc35f00@mail.gmail.com>	
+	<4BAB7358.3020302@ecs.soton.ac.uk>	
+	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>	
+	<4BABD887.9050408@zoo.ox.ac.uk> <4BAC8E26.3010405@ecs.soton.ac.uk>	
+	<4BAC3A33.4090305@creativecommons.org>	
+	<EMEW3|ca62ae684245553718d41898a9c0e927m2PAaQ03cjg|ecs.soton.ac.uk|4BAC8E26.3010405@ecs.soton.ac.uk>	
+	<b68e90821003260344r20d03449o9f71a5ef76f5589@mail.gmail.com>	
+	<4BACB632.7060605@pobox.upenn.edu>
+	<k2vb68e90821004020504l22ffc8bt7c477591a6ef110e@mail.gmail.com>
+Message-ID: <4BB5F1BE.7040102@pobox.upenn.edu>
+
+Rufus Pollock wrote:
+> My basic answer is: no, in standard usage, the ODC licenses do not
+> impose "contract terms" that go beyond copyright *plus* the relevant
+> data(base) specific IP rights in your jurisdiction (if these differ
+> from copyright).
+
+It might be helpful, then, if the ODbL made this clearer up front
+in future revisions.   The statement
+
+"[2.2.]c. Contract. This is an agreement between You and the Licensor 
+for access to the Database. In return you agree to certain conditions of 
+use on this access as outlined in this License."
+
+appears fairly early in the license, and it in itself does
+does not appear to be consistent with your statement, as it's
+understood in US law.  In particular, simple access to a database
+does not normally infringe copyright law in the US.
+
+It looks like section 6 (and 10.4) later walk this back to acknowledging
+atandard copyright-law user rights without any restrictions.  But it's
+complex enough that I as a non-lawyer can't easily be *positive* it
+walks the contract-even-without-infringement implication
+of 2.2.c all the way back.  (The folks at Science Commons seem
+to doubt this as well, based on their comments at
+http://sciencecommons.org/resources/readingroom/comments-on-odbl/
+but I can't tell if their comments reflect an earlier draft, or whether
+you and they have come to an understanding since.)
+
+John
+
+
+From rufus.pollock at okfn.org  Fri Apr  2 14:46:52 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 2 Apr 2010 14:46:52 +0100
+Subject: [open-bibliography] Fwd: [okfn-discuss] University of Ghent
+	LibraryCatalogues: Open or Not?
+In-Reply-To: <4BB5F1BE.7040102@pobox.upenn.edu>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>
+	<EMEW3|6a29815584e79ed918de5ee29d429032m2OEYq03cjg|ecs.soton.ac.uk|4BAB7358.3020302@ecs.soton.ac.uk>
+	<4BABD887.9050408@zoo.ox.ac.uk> <4BAC8E26.3010405@ecs.soton.ac.uk>
+	<4BAC3A33.4090305@creativecommons.org>
+	<EMEW3|ca62ae684245553718d41898a9c0e927m2PAaQ03cjg|ecs.soton.ac.uk|4BAC8E26.3010405@ecs.soton.ac.uk>
+	<b68e90821003260344r20d03449o9f71a5ef76f5589@mail.gmail.com>
+	<4BACB632.7060605@pobox.upenn.edu>
+	<k2vb68e90821004020504l22ffc8bt7c477591a6ef110e@mail.gmail.com>
+	<4BB5F1BE.7040102@pobox.upenn.edu>
+Message-ID: <p2nb68e90821004020646l855f50ffre6aebf8e5980c8da@mail.gmail.com>
+
+On 2 April 2010 14:31, John Mark Ockerbloom <ockerblo at pobox.upenn.edu> wrote:
+> Rufus Pollock wrote:
+>>
+>> My basic answer is: no, in standard usage, the ODC licenses do not
+>> impose "contract terms" that go beyond copyright *plus* the relevant
+>> data(base) specific IP rights in your jurisdiction (if these differ
+>> from copyright).
+>
+> It might be helpful, then, if the ODbL made this clearer up front
+> in future revisions. ? The statement
+>
+> "[2.2.]c. Contract. This is an agreement between You and the Licensor for
+> access to the Database. In return you agree to certain conditions of use on
+> this access as outlined in this License."
+
+As I explained in an earlier email the ODbL is really little different
+from e.g. CC licenses in this respect, the ODbL is just being more
+explicit about this ...
+
+<quote (from earlier email)>
+I'm not sure of the relevance of this comment. Almost all licenses
+whether they are normal CC ones for content or Open Data Commons one's
+for data have an element of contract in them, at least in common law
+jurisdictions. See, for example, this comment from Mia Garlick (who
+was CC's general counsel):
+
+http://lists.ibiblio.org/pipermail/cc-licenses/2006-April/003504.html
+</quote>
+
+> appears fairly early in the license, and it in itself does
+> does not appear to be consistent with your statement, as it's
+> understood in US law. ?In particular, simple access to a database
+> does not normally infringe copyright law in the US.
+
+What do you mean by "simple access to the database" and what exactly
+do you mean by "infringe copyright law". In general simple access
+won't be an immediate violation if you allow free access in any
+jurisdiction. Copying or reusing that data(base) may do ... The US
+situation is complex (despite Feist), and the exact status of rights
+in a "database" will depend on the degree of "originality" that went
+into the construction of the database etc. For more see
+<http://www.opendefinition.org/guide/data/>
+
+> It looks like section 6 (and 10.4) later walk this back to acknowledging
+> atandard copyright-law user rights without any restrictions. ?But it's
+> complex enough that I as a non-lawyer can't easily be *positive* it
+> walks the contract-even-without-infringement implication
+> of 2.2.c all the way back. ?(The folks at Science Commons seem
+> to doubt this as well, based on their comments at
+> http://sciencecommons.org/resources/readingroom/comments-on-odbl/
+> but I can't tell if their comments reflect an earlier draft, or whether
+> you and they have come to an understanding since.)
+
+I've commented on the science commons piece when it was posted last
+year here (though not covering the contractual issue):
+
+<http://lists.okfn.org/pipermail/odc-discuss/2009-March/000109.html>
+
+On this specific question of contract, my view is what I have
+expressed above which is this that ODbL here is little different from
+your current application of a CC by-sa: both could be interpreted as
+having a contractual component (which the ODbL is explicit about)
+while being primarily based on the underlying IP rights.
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From jonathan.gray at okfn.org  Wed Apr 14 19:26:46 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 14 Apr 2010 19:26:46 +0100
+Subject: [open-bibliography] Open Knowledge Conference (OKCon) in London on
+	24th April 2010
+Message-ID: <k2x54ca21751004141126g8dc621c3iaf68f8847981ec98@mail.gmail.com>
+
+Hi,
+
+A quick reminder that this year's Open Knowledge Conference (OKCon) is
+taking place in London on 24th April 2010 - in 10 days time! There are
+still tickets left - and you can register at the following link:
+
+  http://www.okfn.org/okcon/register/
+
+Speakers and sessions include:
+
+  * 'State of the Nation' Keynotes:
+     - Matthias Schindler, Wikimedia (Germany) on 'Bibliographic Data
+and the Public Domain'
+     - Glyn Moody, on the 'Post-Analogue World'
+     - Peter Murray-Rust, on 'Recent Developments in Open Science'
+     - Chris Taggart, on 'Open Local Government Data'
+     - S?ren Auer, on 'Linked Open Data'
+     - Jordan Hatcher, on 'Open Licensing for Data'
+  * Ideas and Culture with talks on analyzing 'Dickens Letters' and
+'Making the Physical from the Digital'
+  * Open Bibliographic Information with talks on 'The Itinerant Poetry
+Library' and the 'Journal Commons'
+  * Community Driven Research with talks on 'Climate data' and 'Open
+Archaeology'
+  * Civic Information with talks on 'Using Open Government Data to
+Profile Politicians' and the 'Straight Choice'
+  * Open Government Data and PSI in the EU which looks at the current
+state of play in France, Norway, Germany, the UK and elsewhere
+  * Tools with talks on 'Large-scale data handling and revisioning'
+with the Genome, Ontowiki, CKAN and more
+  * Open Data and the Semantic Web with talks about South Korean
+DBPedia and Thesaurus Management Tool ?Pool Party?
+  * Open Data in International Development including talks from
+PublishWhatYouFund and on OpenStreetMap in Haiti
+
+Further details are available at:
+
+  http://blog.okfn.org/2010/04/14/okcon-2010-nearly-here-24th-april-2010-in-london/
+  http://www.okfn.org/okcon/programme
+
+More information:
+
+  * Main conference page: http://www.okfn.org/okcon/
+  * FAQ: http://www.okfn.org/okcon/faq
+
+If you have any questions please email Sara Wingate-Gray at sara.gray at okfn.org.
+
+We look forward to seeing people there!
+
+All the best,
+
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pohl at hbz-nrw.de  Mon Apr 19 08:42:49 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Mon, 19 Apr 2010 09:42:49 +0200
+Subject: [open-bibliography] Wtrlt: [NGC4LIB] Linked Open Data prototype at
+	the German	 National Library
+Message-ID: <4BCC25990200001400034E77@agrippa.hbz-nrw.de>
+
+FYI.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100419/90a9777e/attachment.htm>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Adrian Pohl <pohl at HBZ-NRW.DE>
+Subject: [NGC4LIB] Linked Open Data prototype at the German National Library
+Date: Fri, 16 Apr 2010 15:14:33 +0200
+Size: 5589
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100419/90a9777e/attachment.eml>
+
+From rufus.pollock at okfn.org  Tue Apr 20 10:25:09 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 20 Apr 2010 10:25:09 +0100
+Subject: [open-bibliography] Wtrlt: [NGC4LIB] Linked Open Data prototype
+	at the German National Library
+In-Reply-To: <4BCC25990200001400034E77@agrippa.hbz-nrw.de>
+References: <4BCC25990200001400034E77@agrippa.hbz-nrw.de>
+Message-ID: <s2tb68e90821004200225p986f724i9846cef12042631e@mail.gmail.com>
+
+On 19 April 2010 08:42, Adrian Pohl <pohl at hbz-nrw.de> wrote:
+> FYI.
+
+Great news.
+
+> ---------- Forwarded message ----------
+> From:?Adrian Pohl <pohl at HBZ-NRW.DE>
+> To:?NGC4LIB at LISTSERV.ND.EDU
+> Date:?Fri, 16 Apr 2010 15:14:33 +0200
+> Subject:?[NGC4LIB] Linked Open Data prototype at the German National Library
+> Hallo,
+>
+> the German National Library (DNB) has made public its Linked Data
+> prototype for authority data. It uses RDA, FOAF, the relationship
+> vocabulary and some DNB-made properties (GND-vocabulary) for person
+> authority data. For subject headings it uses SKOS, Dublin Core as well
+> as some newly minted GND-properties. It already contains links to
+> Wikipedia, DBpedia and viaf.org.
+>
+> A documentation is available (only in German) here:
+> https://wiki.d-nb.de/display/LDS
+>
+> Here is the RDF/XML-representation of the authority data about Johann
+> Wolfgang von Goethe: http://devel.d-nb.de/linked/gnd/118540238/about
+> And the corresponding HTML-representation:
+> http://devel.d-nb.de/linked/gnd/118540238/
+>
+> The data is also available as Open Data (actually I can't find a
+> licence) in N-Triple format:
+> http://datendienst.d-nb.de/cgi-bin/mabit.pl?cmd=fetch&userID=testdat&pass=testdat&mabheft=tdbdump_gnd.zip
+> (320 MB)
+
+Would it be worth enquiring about the explicit license -- and perhaps
+suggesting a specific license such as one from
+http://www.opendatacommons.org/?
+
+> Because it's just a prototype and the underlying data is still subject
+> to changes you shouldn't link to it yet. The DNB wishes that the data
+> shouldn't be used in live systems.
+
+Understood.
+
+> Some problems need to be resolved before leaving the prototype status,
+> for example: Until now the identifier for a person also is the
+> identifier for a HTML representation of the corresponding authority data
+> which conflicts Linked Data conventions. (See the URI of Johann Wolfgang
+> von Goethe for instance: http://d-nb.info/gnd/118540238)
+>
+> It's great that the German National Library is taking action in the
+> Linked Data field and has realized - in contrast to other library
+> organizations - that it needs to change its business model away from
+> taking money for data!
+
+Indeed!
+
+Rufus
+
+>>>> "Binz, Vera" <V.Binz at d-nb.de> 16.04.2010 14:01 >>>
+> *** Mehrfachempfang bitten wir zu entschuldigen ***
+>
+> Liebe Kolleginnen und Kollegen,
+>
+> seit kurzem steht der Linked Data Service der Deutschen
+> Nationalbibliothek als Prototyp online zur Verf?gung. Aktuell werden
+> etwa 1,8 Mio. Personen (aus der PND) und ca. 164.000 Sachschlagworte
+> (aus der SWD) dargestellt.
+>
+> Wir m?chten Sie einladen, den Service zu testen. Die Dokumentation, die
+> auch unsere ?berlegungen bzgl. technischer Umsetzung und Modellierung
+> der Daten enth?lt, finden Sie unter:
+>
+> ? ?https://wiki.d-nb.de/display/LDS
+>
+> Ansprechpartner: Dr. Jan Hannemann, j.hannemann at d-nb.de, Tel.
+> 069-1525-1769
+>
+> Wir freuen uns ?ber Feedback, um dies bei der weiteren Umsetzung des
+> Linked Data Service ber?cksichtigen zu k?nnen.
+>
+> Viele Gr??e
+> Vera Binz
+>
+> --
+> Vera Binz
+> Deutsche Nationalbibliothek
+> Informationstechnik
+> Adickesallee 1
+> D-60322 Frankfurt am Main
+> Telefon: +49-69-1525-1771
+> Telefax: +49-69-1525-1799
+> mailto:v.binz at d-nb.de
+> http://www.d-nb.de
+> --
+> http://www.inetbib.de
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+

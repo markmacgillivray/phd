@@ -1,0 +1,1171 @@
+From jcmcoppice12 at gmail.com  Mon Mar  7 09:10:22 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Mon, 7 Mar 2011 09:10:22 +0000
+Subject: [open-science] LODD Hack Session - Tonight (Mon) 19.00GMT
+Message-ID: <AANLkTi=S3GOrvGU=WeLJnR7ksRO7VbkQbojZuxPr2uJG@mail.gmail.com>
+
+Dear All
+
+Just a reminder about the open data hack session tonight, 19.00 GMT. See the
+Etherpad below for more details and to sign up:
+http://okfnpad.org/sciencewg-loddhack-201103
+
+Egon's original email is below. I hope many of you can make it!
+
+This session has a linked open drug data theme, and we hope to run more on
+different topics in the future, so please send any theme suggestions my way!
+
+Jenny
+
+
+---------- Forwarded message ----------
+From: Egon Willighagen <egon.willighagen at gmail.com>
+Date: Sun, Feb 20, 2011 at 6:06 PM
+Subject: Work/Hack session on LODD / IsItOpenData
+To: public-semweb-lifesci at w3.org
+
+
+Hi all,
+
+on February 16 there was an OpenScience Workgroup [0] meeting of the
+Open Knowledge Foundation, where we scheduled a work session for
+Monday March 7th at 19:00 GMT, for about an hour, to work on
+clarifying the data licensing of LODD data sets, such as those listed
+on CKAN. For some data sets the license is clear, others have
+non-commercial clauses (which is not considered "Open Data"), and
+others do not specify the terms, or are not open at all. For example,
+the below diagram a CAS node which is not open data at all:
+
+http://www.w3.org/wiki/HCLSIG/LODD/Data
+
+In fact, the unclear license issue was one of the referee comments on
+the LODD contribution to the thematic issue on RDF in chemistry
+(coordinated by Matthias).
+
+Please let me know if interested in joining the meeting,
+
+Egon
+
+0.http://science.okfn.org/
+
+--
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110307/417d651d/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Mar  8 13:24:38 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 8 Mar 2011 14:24:38 +0100
+Subject: [open-science] [ckan-discuss] OKF's Google Summer of Code
+	application!
+In-Reply-To: <AANLkTiktPgfWhuMofd8o-POCKcT3xdLVm1=7JdhKq2NA@mail.gmail.com>
+References: <AANLkTing3LHLPZxFeNrqvCEXDT99ajJPv0kstOUtsNoz@mail.gmail.com>
+	<AANLkTiktPgfWhuMofd8o-POCKcT3xdLVm1=7JdhKq2NA@mail.gmail.com>
+Message-ID: <AANLkTinga4vcyZ87fCJAavLvbMQzhreGxdosedF60goy@mail.gmail.com>
+
+Great thanks for your support Egon! We'll certainly bear this in mind
+when drafting the application - and make sure we explicitly mention
+open data in science as an area where we may have mentors and would be
+interested in doing something! :-)
+
+On Fri, Mar 4, 2011 at 9:41 PM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+> Hi Jonathan,
+>
+> On Tue, Mar 1, 2011 at 5:17 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>> Suggest we could put in for:
+>>
+>> ?* CKAN
+>> ?* WDMMG / Open Spending
+>> ?* Annotator
+>> ?* Public Domain Works
+>> ?* Bibliographica
+>> ?* Open Literature
+>> ?* YourTopia
+>> ?* [others?]
+>
+> There is interest from http://toxbank.net/ to do something.
+> Toxicological data is not abundant, and potential providers are not
+> too eager, bar opentox.org. It would be great to have a student to
+> work on Open Data in toxicology, and I think I can be available as
+> mentor. I have been one before (for kde.org) but would need a
+> co-mentor to cover my back while I am on holiday and/or conference
+> this summer.
+>
+>> In the first instance we need:
+>>
+>> ?* Someone to coordinate the OKF's Google Summer of Code application
+>> (suggest internal deadline of 8-9th March to give us time to review
+>> this)
+>> ?* Someone to be the OKF's main 'administrator' for Summer of Code
+>
+> I do not think I will have much time to contribute, but like to
+> express my full support for an application. Since the application is
+> in fact does ask about giving some idea on how prepared the
+> organization is, I invite others to openly show their willingness to
+> mentor during the summer too. It will all be online, and mentoring a
+> student takes some effort, but is not solely on the mentor's
+> shoulders.
+>
+> So, if you like the idea of the GSoC, please do show your support now!
+> This can be as simple as providing ideas!
+>
+> Egon
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Researcher
+> Institutet f?r milj?medicin
+> Karolinska Institutet
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jcmcoppice12 at gmail.com  Wed Mar  9 00:02:22 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 9 Mar 2011 00:02:22 +0000
+Subject: [open-science] Reminder: Working Group Meeting - Wed 9 Mar,
+	17.30 GMT
+Message-ID: <AANLkTimNi+-bt4GLYErbMS+uS6sQtLn_5Uxe9GED3u0H@mail.gmail.com>
+
+Dear All
+
+Apologies for the late notice, I mentioned the date of this meeting in the
+minutes from the last but I should have sent a further reminder last week. I
+hope some of you can still join us!
+
+When:      Wednesday 9th March at 17.30 GMT
+Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh) and
+Skype (add your Skype ID to http://okfnpad.org/sciencewg-16Feb2011)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-9Mar2011
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Thanks very much, and I look forward to speaking to you all soon.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/9cd6cbb6/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Wed Mar  9 00:18:25 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 9 Mar 2011 00:18:25 +0000
+Subject: [open-science] LODD Hack Session Notes - Is It Open request
+	signatories needed
+Message-ID: <AANLkTimwRO+BD8DwPiu60FWORyws6Wa6wrHCiR4wBcm=@mail.gmail.com>
+
+Dear All
+
+We had a very productive hack session on Monday night regarding linked open
+drug data. You can see the full notes here:
+http://okfnpad.org/sciencewg-loddhack-201103
+
+In summary, we reviewed the openness of several LODD data sets in CKAN and
+identified those whose maintainer's should be sent an Is It Open Data?
+request. We drafted letters  to send to the World Health Organisation Global
+Health Observatory and the maintainers of two datasets at the US National
+Library of Medicine:
+http://okfnpad.org/sciencewg-who-letter
+http://okfnpad.org/sciencewg-rxnorm-letter
+http://okfnpad.org/sciencewg-nlm-letter
+
+Before we send them via http://www.isitopendata.org/, it would be great to
+get more signatories from the group, so please add your name to the end of
+the generic letter on http://okfnpad.org/sciencewg-loddhack-201103 if you
+are happy to be included. Unfortunately, we didn't remind all of the hack
+session participants to do this before they left, so if you helped on Monday
+then please do sign!
+
+We will be sending the letters on Monday 14th March during a follow up
+session, of which more details are to follow.
+
+If there is a group on CKAN, or a general topic area that you feel would be
+a good target for future sessions of this nature, then please let me know!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/47ac7af7/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Mar  9 07:19:27 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 9 Mar 2011 07:19:27 +0000
+Subject: [open-science] Reminder: Working Group Meeting - Wed 9 Mar,
+	17.30 GMT
+In-Reply-To: <AANLkTimNi+-bt4GLYErbMS+uS6sQtLn_5Uxe9GED3u0H@mail.gmail.com>
+References: <AANLkTimNi+-bt4GLYErbMS+uS6sQtLn_5Uxe9GED3u0H@mail.gmail.com>
+Message-ID: <AANLkTikmNnX7VPGXUYjP0RptEvwt5NAAkT9Np32GGQCm@mail.gmail.com>
+
+Sorry I couldn't make the Jenny/Egon drug hack on Monday - visitors
+
+On Wed, Mar 9, 2011 at 12:02 AM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Dear All
+>
+> Apologies for the late notice, I mentioned the date of this meeting in the
+> minutes from the last but I should have sent a further reminder last week. I
+> hope some of you can still join us!
+>
+> Jenny - your energy is enormously valuable.
+
+
+> When:      Wednesday 9th March at 17.30 GMT
+> Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh)
+> and Skype (add your Skype ID to http://okfnpad.org/sciencewg-16Feb2011)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-9Mar2011
+> Add anything you'd like to be discussed or new ideas to the agenda (even if
+> you can't make it yourself, just make sure you add enough details).
+>
+> We are having a hackfest this weekend on scholarly publishing
+http://www-pmr.ch.cam.ac.uk/wiki/Scholarly_HTML where we are intending
+(among other things to:)
+ * solve the problem of bibliography (i.e. references for authors)
+ * publish data directly into manuscripts (create a data journal)
+ * overcome the packaging problem (i.e.create an alternative to PDF)
+
+the scientific publishing even of the year. Be there. Free geek food.
+
+
+> Thanks very much, and I look forward to speaking to you all soon.
+>
+> Jenny
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/6399b1b5/attachment.htm>
+
+From amrapali.j.zaveri at gmail.com  Wed Mar  9 13:31:13 2011
+From: amrapali.j.zaveri at gmail.com (Amrapali J Zaveri)
+Date: Wed, 9 Mar 2011 14:31:13 +0100
+Subject: [open-science] Fwd: LODD Hack Session Notes - Is It Open
+ request signatories needed
+In-Reply-To: <AANLkTimGua+c5qMMdF0DJ8QwXhqeq65wzHM-gY0Tozsh@mail.gmail.com>
+References: <AANLkTimwRO+BD8DwPiu60FWORyws6Wa6wrHCiR4wBcm=@mail.gmail.com>
+	<AANLkTim2jHA1psAoF-L33Kw6WPTHbufVQXY9YAw=cMPQ@mail.gmail.com>
+	<6997F6426D7B44F6820768AEC8B18135@zetsu>
+	<AANLkTimGua+c5qMMdF0DJ8QwXhqeq65wzHM-gY0Tozsh@mail.gmail.com>
+Message-ID: <AANLkTinru3pS9Cy9MGnsjjQF=VALRiL=Ux3ei2O0MTZW@mail.gmail.com>
+
+Hi,
+
+I am a PhD student at the University of Leipzig working with the AKSW group
+[1] and as part of my project [2], we converted the WHO-GHO dataset to RDF.
+
+To answer the question about the licensing/copyright issue, according to
+WHO, if extracts from WHO website of publication are used for research,
+private study or in a noncommercial document with limited circulation (such
+as an academic thesis or dissertation), then it is allowed to do so without
+seeking permission [3]. WHO encourages the use of its information materials
+for information purposes i.e. when the purpose of the use is to share
+objective information, whether free of charge or for sale. Only if the
+material is to be used for commercial purposes, it requires a license.
+However it does have a copyright notice: Copyright World Health Organization
+(WHO), 2011. All Rights Reserved [4], so maybe this copyright could be
+added.
+
+Also, the dataset is available at this SPARQL endpoint:
+http://db0.aksw.org:8895/sparql and can be downloaded from here:
+http://aksw.org/Projects/Stats2RDF#h13390-5 .
+
+Hope that is sufficient information regarding the open-ness of the dataset.
+Let me know if any other information is required and suggestions are welcome
+:)
+
+That leaves three datasets where we have not been able to find a clear
+licensing/copyright/waiver statement, and for these three letters are
+now written, see Jenny's email, to inquire under what conditions those
+data sets can be redistributed, which the LODD wg is already doing.
+This involves DailyMed, RXNorm, and the WHO-GHO data sets. Input from
+those who composed is helpful here. One thing that we want to get
+clear is if people can pull the data from the SPARQL end point,
+use/modify it, and even redistribute it.
+
+
+Thank you.
+Regards,
+Amrapali J Zaveri
+
+[1] http://aksw.org/About
+[2] http://aksw.org/Projects/ReDDObservatory
+[3] http://www.who.int/about/licensing/extracts/en/index.html
+[4] http://www.who.int/about/copyright/en/index.html
+
+
+On Wed, Mar 9, 2011 at 12:15 PM, Egon Willighagen <
+egon.willighagen at gmail.com> wrote:
+
+> Hi Matthias,
+>
+> On Wed, Mar 9, 2011 at 10:46 AM, Matthias Samwald <samwald at gmx.at> wrote:
+> > I'm not sure if clear-cut rules for LODD have been defined. However, many
+> > people interested/involved in LODD come from commercially oriented
+> companies
+> > (mostly pharmaceutical companies). Therefore it certainly IS a reason for
+> > concern if 5 out of 12 datasets disallow commercial use without
+> permission.
+>
+> Agreed. It may also be relevant to all those research institutes that
+> also have commercial activities, many of them who have mixed funding
+> from national and EU projects, but also sell consultancy, etc.
+>
+> > It would certainly be helpful to convince these data providers of
+> removing
+> > the NC clause, but it seems unlikely.
+>
+> Indeed. This is why that latter was supposed to be informative, rather
+> than requesting dropping that clause. At this moment, I am not aware
+> that anyone has challenged a company for using data with a NC clause,
+> but this is bound to happen.
+>
+> > Looking at the list of datasets with
+> > NC clauses (including Drugbank, LinkedCT, major parts of SIDER, STITCH),
+> I
+> > get the feeling that the providers did not choose to include NC clauses
+> on a
+> > whim.
+>
+> Agreed.
+>
+> > I guess the best we can realistically do for these datasets is to
+> > improve the visibility of these licensing restrictions for people that
+> want
+> > to use them.
+>
+> Yes, and that's an actual LODD activity we discussed about half a year
+> ago, and which was the first half of the work done in the hack
+> session: just getting clear what the actual terms of use are :) For
+> three they are unclear, and we will seek clarification for those.
+> That's the three letters being referred to in Jenny's email.
+>
+> Egon
+>
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Researcher
+> Institutet f?r milj?medicin
+> Karolinska Institutet
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/5a2538d3/attachment.htm>
+
+From egon.willighagen at gmail.com  Wed Mar  9 13:42:22 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 9 Mar 2011 14:42:22 +0100
+Subject: [open-science] Fwd: LODD Hack Session Notes - Is It Open
+ request signatories needed
+In-Reply-To: <AANLkTinru3pS9Cy9MGnsjjQF=VALRiL=Ux3ei2O0MTZW@mail.gmail.com>
+References: <AANLkTimwRO+BD8DwPiu60FWORyws6Wa6wrHCiR4wBcm=@mail.gmail.com>
+	<AANLkTim2jHA1psAoF-L33Kw6WPTHbufVQXY9YAw=cMPQ@mail.gmail.com>
+	<6997F6426D7B44F6820768AEC8B18135@zetsu>
+	<AANLkTimGua+c5qMMdF0DJ8QwXhqeq65wzHM-gY0Tozsh@mail.gmail.com>
+	<AANLkTinru3pS9Cy9MGnsjjQF=VALRiL=Ux3ei2O0MTZW@mail.gmail.com>
+Message-ID: <AANLkTim5419A4S4Tt7srfwN8-vC_9=q57Oto-MSuxYXo@mail.gmail.com>
+
+Hej Amrapali,
+
+On Wed, Mar 9, 2011 at 2:31 PM, Amrapali J Zaveri
+<amrapali.j.zaveri at gmail.com> wrote:
+> To answer the question about the licensing/copyright issue, according to
+> WHO, if extracts from WHO website of publication are used?for research,
+> private study or in a noncommercial document with limited circulation (such
+> as an academic thesis or dissertation), then it is allowed to do so without
+> seeking permission [3].?WHO encourages the use of its information materials
+> for information purposes i.e. when the purpose of the use is to share
+> objective information, whether free of charge or for sale.?Only if the
+> material is to be used for commercial purposes, it requires a license.
+
+First of all, thanx for sending these pointers!
+
+If I read this, however, I am tempted to think that this data is
+really not Open. Making the whole available as RDF does not sounds to
+me as 'extracts' or 'limited circulation' to me...
+
+> However it does have a copyright notice:?Copyright World Health Organization
+> (WHO), 2011. All Rights Reserved [4], so maybe this copyright could be
+> added.
+
+Yes.
+
+> Also, the dataset is available at this SPARQL
+> endpoint:?http://db0.aksw.org:8895/sparql and can be downloaded from
+> here:?http://aksw.org/Projects/Stats2RDF#h13390-5 .
+> Hope that is sufficient information regarding the open-ness of the dataset.
+> Let me know if any other information is required and suggestions are welcome
+> :)
+
+Have you asked permission to 'circulate' the whole of the database?
+
+I think Jenny and I will have to update the letter with respect to
+these new details, and I'm really happy you pointed me to [3].
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From amrapali.j.zaveri at gmail.com  Wed Mar  9 13:56:49 2011
+From: amrapali.j.zaveri at gmail.com (Amrapali J Zaveri)
+Date: Wed, 9 Mar 2011 14:56:49 +0100
+Subject: [open-science] Fwd: LODD Hack Session Notes - Is It Open
+ request signatories needed
+In-Reply-To: <AANLkTim5419A4S4Tt7srfwN8-vC_9=q57Oto-MSuxYXo@mail.gmail.com>
+References: <AANLkTimwRO+BD8DwPiu60FWORyws6Wa6wrHCiR4wBcm=@mail.gmail.com>
+	<AANLkTim2jHA1psAoF-L33Kw6WPTHbufVQXY9YAw=cMPQ@mail.gmail.com>
+	<6997F6426D7B44F6820768AEC8B18135@zetsu>
+	<AANLkTimGua+c5qMMdF0DJ8QwXhqeq65wzHM-gY0Tozsh@mail.gmail.com>
+	<AANLkTinru3pS9Cy9MGnsjjQF=VALRiL=Ux3ei2O0MTZW@mail.gmail.com>
+	<AANLkTim5419A4S4Tt7srfwN8-vC_9=q57Oto-MSuxYXo@mail.gmail.com>
+Message-ID: <AANLkTikYaz0=uREP5AYpOFJW9zU=6P01JSMt25uGdBRs@mail.gmail.com>
+
+Hi Egon,
+
+On Wed, Mar 9, 2011 at 2:42 PM, Egon Willighagen <egon.willighagen at gmail.com
+> wrote:
+
+> Hej Amrapali,
+>
+> On Wed, Mar 9, 2011 at 2:31 PM, Amrapali J Zaveri
+> <amrapali.j.zaveri at gmail.com> wrote:
+> > To answer the question about the licensing/copyright issue, according to
+> > WHO, if extracts from WHO website of publication are used for research,
+> > private study or in a noncommercial document with limited circulation
+> (such
+> > as an academic thesis or dissertation), then it is allowed to do so
+> without
+> > seeking permission [3]. WHO encourages the use of its information
+> materials
+> > for information purposes i.e. when the purpose of the use is to share
+> > objective information, whether free of charge or for sale. Only if the
+> > material is to be used for commercial purposes, it requires a license.
+>
+> First of all, thanx for sending these pointers!
+>
+> If I read this, however, I am tempted to think that this data is
+> really not Open. Making the whole available as RDF does not sounds to
+> me as 'extracts' or 'limited circulation' to me...
+>
+
+Hmm, since GHO is only one of the WHO datasets and also the RDF data *
+currently* only contains the "Mortality and Burden of Disease" data, we
+considered to be an extract but maybe you are right. We do intend to convert
+the entire dataset too.
+
+>
+> > However it does have a copyright notice: Copyright World Health
+> Organization
+> > (WHO), 2011. All Rights Reserved [4], so maybe this copyright could be
+> > added.
+>
+> Yes.
+>
+> > Also, the dataset is available at this SPARQL
+> > endpoint: http://db0.aksw.org:8895/sparql and can be downloaded from
+> > here: http://aksw.org/Projects/Stats2RDF#h13390-5 .
+> > Hope that is sufficient information regarding the open-ness of the
+> dataset.
+> > Let me know if any other information is required and suggestions are
+> welcome
+> > :)
+>
+> Have you asked permission to 'circulate' the whole of the database?
+>
+
+Since it is for non-commerical purposes, we haven't asked for permission
+yet. They have this form for the request for permission:
+http://www.who.int/about/licensing/copyright_form/en/index.html which I'll
+fill out.
+
+
+>
+> I think Jenny and I will have to update the letter with respect to
+> these new details, and I'm really happy you pointed me to [3].
+>
+
+Great !
+
+>
+> Egon
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Researcher
+> Institutet f?r milj?medicin
+> Karolinska Institutet
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+
+Regards,
+Amrapali
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/97ad0e03/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Wed Mar  9 17:42:01 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 9 Mar 2011 17:42:01 +0000
+Subject: [open-science] Fwd: Reminder: Working Group Meeting - Wed 9 Mar,
+	17.30 GMT
+In-Reply-To: <AANLkTimNi+-bt4GLYErbMS+uS6sQtLn_5Uxe9GED3u0H@mail.gmail.com>
+References: <AANLkTimNi+-bt4GLYErbMS+uS6sQtLn_5Uxe9GED3u0H@mail.gmail.com>
+Message-ID: <AANLkTikeDRoj60cYzgC6YKC1YqcA-=HKBhf7cdfJwwva@mail.gmail.com>
+
+Hi All
+
+Meeting has now started  - please add you Skype contact to
+http://okfnpad.org/sciencewg-9Mar2011 if you want to join!
+
+Jenny
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jcmcoppice12 at gmail.com>
+Date: Wed, Mar 9, 2011 at 12:02 AM
+Subject: Reminder: Working Group Meeting - Wed 9 Mar, 17.30 GMT
+To: open-science at lists.okfn.org
+
+
+Dear All
+
+Apologies for the late notice, I mentioned the date of this meeting in the
+minutes from the last but I should have sent a further reminder last week. I
+hope some of you can still join us!
+
+When:      Wednesday 9th March at 17.30 GMT
+Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh) and
+Skype (add your Skype ID to http://okfnpad.org/sciencewg-16Feb2011)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-9Mar2011
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Thanks very much, and I look forward to speaking to you all soon.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/efc13120/attachment-0001.htm>
+
+From jcmcoppice12 at gmail.com  Wed Mar  9 22:03:15 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 9 Mar 2011 22:03:15 +0000
+Subject: [open-science] Minutes from WG Meeting Mar 9 2011
+Message-ID: <AANLkTi=4a1qOY722CjC_8XT2Hqy2iBWx3=m+4N=sfvC_@mail.gmail.com>
+
+Dear All
+
+See below for a summary of key points from the WG meeting on Feb 16 2011,
+followed by a list of interesting events that are coming up. If you?d like
+more detailed updates on projects or to view the full minutes, visit the
+meeting Etherpad at http://okfnpad.org/sciencewg-9Mar2011.
+The next meeting will be Wednesday 13th April, 17:30 GMT. You can sign up
+and add agenda items here http://okfnpad.org/sciencewg-13Apr2011.
+
+UPDATES:
+
+LODD hack session (Mon 7th March):
+This was very productive, with 12 datasets reviewed and three Is It Open
+Data? requests drafted. Please see the notes here
+http://okfnpad.org/sciencewg-loddhack-201103 and here
+http://lists.okfn.org/pipermail/open-science/2011-March/000663.html and sign
+the Is It Open Data? request if you wish.
+
+OKF Science home page:
+Amrapali distributed some brilliant word cloud 'Wordle' images, one of which
+will be replacing the picture on http://science.okfn.org/ very soon. We will
+also be embedding a calendar listing meeting dates and open data in science
+relevant talks and events. More details on contributing events to follow!
+
+If you haven't done so already, please register on the OKFN Wordpress site
+at http://okfn.org/register and join the Science group. Then, if you'd like
+to be able to post stuff on http://science.okfn.org/, such as event
+announces, blog posts on open data in science related issues or other
+updates then email me to be added to the list of blog authors. It would be
+brilliant to get some more content up that really reflects the great work
+members of the group are doing and flags up things others might be
+interested in.
+
+Panton Principles:
+Writing of the Panton Papers remains underway. There was a suggestion in the
+12th Jan meeting of having a list of best practice case studies; people,
+projects or papers which are putting the Panton Principles into action.
+Please contribute to suggestions or compose a short paragraph on your
+favourite example here:
+http://okfnpad.org/sciencewg-PPcasestudies
+
+Is It Open Data?: http://www.isitopendata.org/
+Many requests have now been made, and it would be great to improve the site
+and add extra features for users. If you have some Python. HTML, CSS or
+similar coding skills, we need your assistance!
+Please get in touch if you would be interested in helping out, there may be
+a discussion happening on Friday about what could be improved.
+
+Also, if you have made an enquiry, please make sure you revisit to flag up
+it's status as resolved or not (or one of the other options available).
+
+EVENTS:
+
+Ongoing discussion, FriendFeed
+Open and Shut?: PLoS ONE, Open Access, and the Future of Scholarly
+Publishing - Richard Poynder http://ff.im/zmptt
+
+10-11 March, Washington DC - Scientific Knowledge Discovery in Open
+Networked Environments
+Free public symposium and concurent closed workshop
+http://sites.nationalacademies.org/PGA/brdi/PGA_060423
+Both will be recorded and posted online.
+
+12-13 March, Cambridge, UK - Scholarly HTML Hackfest (with free geek food)
+Organised by working group member Peter Murray Rust
+The goal? Running code ready for early adopter researchers, with an emphasis
+on chemistry implementing and defining "Scholarly HTML". More details and
+sign up link here http://www-pmr.ch.cam.ac.uk/wiki/Scholarly_HTML
+
+14 April, Seattle, Washington - Law and the GeoWeb, 1 PM-5 PM. Free
+lunch!!http://punkish.org/geoweb/index.html
+Organised by working group member Puneet Kishor.
+Join the live webcast (or, come in person). Check out the questions from the
+attendees to the speakers at
+http://punkish.org/geoweb/participate/questions/index.html
+
+19 April, Oxford, UK - The role of open access in maximizing the impact of
+biomedical research, 12.30pm
+SIR MARK WALPORT, Director of the Wellcome Trust. More info at
+http://oxscholcomms.blogspot.com/
+Appears to be limited to Oxford University members only but I'm attending
+and will find out if it's being webcast.
+
+30 Jun/1 Jul, Kalkscheune, Berlin - OKCon 2011
+See the website at http://okcon.org/2011/ for more details and to register.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110309/b25a8c3d/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Thu Mar 10 17:17:53 2011
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Thu, 10 Mar 2011 17:17:53 -0000
+Subject: [open-science] Open science working group members' articles in
+	Serials
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA037C48F2@SEGBLOGR0008.springer-sbm.com>
+
+Hi all,
+
+ 
+
+You might be interested to read/share (I believe they have been made
+free to access):
+
+ 
+
+It's not filter failure, it's a discovery deficit
+Cameron Neylon
+
+http://uksg.metapress.com/openurl.asp?genre=article&id=doi:10.1629/2421
+
+ 
+
+The need and drive for open data in biomedical publishing
+
+Iain Hrynaszkiewicz
+
+http://uksg.metapress.com/openurl.asp?genre=article&id=doi:10.1629/2431
+<http://uksg.metapress.com/openurl.asp?genre=article&id=doi:10.1629/2431
+>  
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+Skype: iainh_z
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110310/d417328d/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Mon Mar 14 00:02:15 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Mon, 14 Mar 2011 00:02:15 +0000
+Subject: [open-science] LODD Hack Session Follow Up Session - Mon 19.00GMT
+Message-ID: <AANLkTin6A4EpqJPeZKwimC7z6rGM=OwTKOGHw5zzw_3x@mail.gmail.com>
+
+Dear All
+
+There will be a short follow up to last week's session tomorrow (Mon)
+evening at 19.00 GMT
+
+Please add your name and Skype ID to the follow up attendee list on
+http://okfnpad.org/sciencewg-loddhack-201103 and you'll be added to the
+Skype call.
+
+If you have a few seconds to spare, please add your name to the bottom of
+the generic Is It Open Data? letter on the same page if you are happy to
+support our request for information (even if you can't make the session!)
+
+Thanks very much!
+
+Jenny
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jcmcoppice12 at gmail.com>
+Date: Mon, Mar 7, 2011 at 9:10 AM
+Subject: LODD Hack Session - Tonight (Mon) 19.00GMT
+To: open-science at lists.okfn.org
+
+
+Dear All
+
+Just a reminder about the open data hack session tonight, 19.00 GMT. See the
+Etherpad below for more details and to sign up:
+http://okfnpad.org/sciencewg-loddhack-201103
+
+Egon's original email is below. I hope many of you can make it!
+
+This session has a linked open drug data theme, and we hope to run more on
+different topics in the future, so please send any theme suggestions my way!
+
+Jenny
+
+
+---------- Forwarded message ----------
+From: Egon Willighagen <egon.willighagen at gmail.com>
+Date: Sun, Feb 20, 2011 at 6:06 PM
+Subject: Work/Hack session on LODD / IsItOpenData
+To: public-semweb-lifesci at w3.org
+
+
+Hi all,
+
+on February 16 there was an OpenScience Workgroup [0] meeting of the
+Open Knowledge Foundation, where we scheduled a work session for
+Monday March 7th at 19:00 GMT, for about an hour, to work on
+clarifying the data licensing of LODD data sets, such as those listed
+on CKAN. For some data sets the license is clear, others have
+non-commercial clauses (which is not considered "Open Data"), and
+others do not specify the terms, or are not open at all. For example,
+the below diagram a CAS node which is not open data at all:
+
+http://www.w3.org/wiki/HCLSIG/LODD/Data
+
+In fact, the unclear license issue was one of the referee comments on
+the LODD contribution to the thematic issue on RDF in chemistry
+(coordinated by Matthias).
+
+Please let me know if interested in joining the meeting,
+
+Egon
+
+0.http://science.okfn.org/
+
+--
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110314/616c17e3/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Mar 16 11:11:40 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 16 Mar 2011 11:11:40 +0000
+Subject: [open-science] [BlueObelisk-discuss] Silicos announces the
+	release of STRIPPER v1.0.4
+In-Reply-To: <D8C82588-4DCC-453D-9D3E-6FC7984D5B77@silicos.com>
+References: <D8C82588-4DCC-453D-9D3E-6FC7984D5B77@silicos.com>
+Message-ID: <AANLkTi=JCFaMAdf6+=0XKsBDqjv1yPvwVmx2NeuEPe5z@mail.gmail.com>
+
+On Wed, Mar 16, 2011 at 10:51 AM, Hans De Winter
+<hans.dewinter at silicos.com>wrote:
+
+> Dear all,
+>
+> Silicos NV is pleased to announce the release of its newest open source
+> program STRIPPER v1.0.4, built on top of the Open Babel 2.3.0 C++ library.
+>
+> [for details see Blue Obelisk mailing list]
+
+Again I congratulate the commercial sector in making core code available for
+the community to use and if necessary re-use and repurpose. It is difficult
+to show the world the value of Open Source and Open Data and this is a very
+valuable example.
+
+Do you have a public justification for this business model? That would be
+useful in helping us build a general case for this type of action.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110316/34f66c4b/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Mar 16 15:57:31 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 16 Mar 2011 15:57:31 +0000
+Subject: [open-science] [BlueObelisk-discuss] Silicos announces the
+	release of STRIPPER v1.0.4
+In-Reply-To: <97245053-4DF2-4606-9D13-26EC8C1F5F89@silicos.com>
+References: <D8C82588-4DCC-453D-9D3E-6FC7984D5B77@silicos.com>
+	<AANLkTi=JCFaMAdf6+=0XKsBDqjv1yPvwVmx2NeuEPe5z@mail.gmail.com>
+	<97245053-4DF2-4606-9D13-26EC8C1F5F89@silicos.com>
+Message-ID: <AANLkTik89Ch-xbGvCDtJVqQ3+AShDzjcM7d1x6NVmRtj@mail.gmail.com>
+
+On Wed, Mar 16, 2011 at 3:38 PM, Hans De Winter
+<hans.dewinter at silicos.com>wrote:
+
+> Hi Peter,
+>
+> thanks for the support. Our business model is based on providing
+> fee-for-services to biopharmaceutical customers:-
+>
+> Excellent - I assumed that and it's good to have it confirmed.
+
+
+> 1) integrate the open source tools within the customer's own IT and
+> scientific environment;
+> 2) modify/change these tools if necessary to make these tools meet the
+> customer's own requirements and expectations;
+> 3) apply these tools on specific customer-specified drug discovery projects
+> to help with the identification and optimisation of novel compounds.
+>
+> The added-value for Silicos in supporting an open source model results from
+> the fact that no license costs are involved for the customer after
+> installation of the tools - this lowers the entrance barrier to
+> fee-for-services significantly. Second, the global support froma dynamic
+> open source community lead by a couple of scientists makes that new features
+> can become rapidly tested, debugged, and implemented. Third, feedback
+> provided by the customers can easily be integrated in new updates of the
+> software, which results in a gradual improvement of the code in the course
+> of time and therefore a win/win situation for all parties involved (clients,
+> service providers like Silicos, and the open source community).
+>
+> I agree with all of these. Of course it has to be proven in the market and
+I know that it hasn't always worked in science. It's very successful in IT
+(ever since Cygnus) but it was disappointing that the Lion model of selling
+public services into companies didn't work out. I have no inside knowledge
+why, but there is no reason why the model should not work. Redistributing
+information  is hard even with modern tools and issues like security are
+even harder.
+
+I believe that all the members of the Blue Obelisk (of course there are no
+formal members) welcome the use of their software by commercial companies,
+including being sold. It's always useful to know when this happens because
+it strengthens our case and gives us additional personal resolve. It's
+useful to know that at 0200 when your software is still crashing that there
+are people out there who appreciate it and who apprecaite it enough to sell
+it and services based on it. It's not freeloading - it's the basis of open
+source - but it helps the culture if it's encouraged.
+
+Good software takes a long time and I think a number of BlueO products are
+now maturing. (We are putting together some of this at Daresbury next week
+for automating compchem).
+
+P.
+
+
+> Cheers,
+> Hans
+>
+>
+>
+>
+>
+> --
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110316/f9967d62/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Sun Mar 20 12:04:48 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Sun, 20 Mar 2011 12:04:48 +0000
+Subject: [open-science] Follow up Linked Open Drug Data hack session notes
+Message-ID: <AANLkTi=PVF5f0nzBtSG5jCNrqGsUosV2JwbQQHomQRBO@mail.gmail.com>
+
+Dear All
+
+The Linked Open Drug Data follow up hack session on Wednesday resulted in
+three new IsItOpenData? requests, which you can view below:
+
+WHO Global Health Observatory:
+http://www.isitopendata.org/enquiry/view/dd96476c-1a04-4f8a-b7de-903c93e6ce7d/
+RxNorm at US National Library of Medicine (NLM):
+http://www.isitopendata.org/enquiry/view/dfcd613b-f637-4715-a549-125680afa2aa/
+DailyMed at NLM:
+http://www.isitopendata.org/enquiry/view/37135c72-a330-416f-bf7a-0a2aaba53b18/
+
+We look forward to the responses to these requests, and to clarifying their
+openness.
+
+One of the aims of the hack sessions is to involve people from specific
+subject areas or interest groups who are not regular working group members,
+therefore the original session  raised the need for a guide for people who
+are not familiar with CKAN, IsItOpenData? or OKF definitions on openness.
+I've put together the guide below with step by step instructions for running
+and taking part in a similar hack session:
+http://okfnpad.org/sciencewg-hacksessioninfo
+
+It is very detailed, as it's aimed at people who may never have visited the
+relevant websites before. Please add anything I've missed and your own hints
+and tips!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110320/9b42c332/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Mon Mar 21 18:06:04 2011
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Mon, 21 Mar 2011 18:06:04 -0000
+Subject: [open-science] Recruiting in open data
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA038237CE@SEGBLOGR0008.springer-sbm.com>
+
+Dear all,
+
+ 
+
+I'd appreciate your help in sharing or recommending or applying for a
+new opening at BioMed Central. The role will involve managing open
+data-related publishing projects at BMC. Please contact me directly if
+you'd like to know more.
+
+ 
+
+Product Manager, New Products
+
+The Product Manager, New Products is a critical position within the
+publishing division and works closely with members of the Publishing
+team, with other Product Managers within the Publishing and other
+divisions, the Development team and the Head of Publishing Technology.
+The is responsible for driving the development of existing and novel
+publishing services and products at BioMed Central.
+
+ 
+
+The role will focus on developing non-journal products, including
+databases of images, clinical trials, medical case reports and other
+data-related products. It will also focus on improving links between our
+publishing services (databases and journals) and links between journal
+articles and research data held in third-party repositories.
+
+ 
+
+The role will include identifying and prioritizing product and customer
+requirements, defining the product vision, maximising return on
+investment and working closely with Development and other teams to
+ensure technical and client satisfaction goals are met. The role also
+includes ensuring that the products support the company's overall
+strategy and goals.
+
+ 
+
+Read more:
+
+http://www.biomedcentral.com/info/about/bmcjobs#BMC/PMN
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+Skype: iainh_z
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110321/b95d8aa3/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Mar 27 10:03:01 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 27 Mar 2011 10:03:01 +0100
+Subject: [open-science] Interactive session on Open Data at Am Chem Soc
+ Monday - online Pantonistas welcomed
+Message-ID: <AANLkTi=AWH357EjQfX4mKpJJ=Q+cVyScXKWT9F+QChah@mail.gmail.com>
+
+I am giving a talk on Panton at the ACS at 0910 LOCAL California time on
+MONDAY (have the clocks changed this weekend?). I am hoping we can get
+internet and can maybe have a live demonstration of the Etherpad - perhaps
+we can help to create the Panton paper on Textmining that I am meant to have
+written! It would be great to have 3-4 people editing away on the Etherpad
+and taking this as an opportunity to create something as well.
+
+I will also show IsItOpenData online ...
+
+*27 - Open Data and the Panton Principles*
+
+* Dr Peter Murray-Rust. * *Department of Chemistry, University of Cambridge,
+Cambridge, Cambridgeshire, United Kingdom*
+
+Although an increasing amount of chemical data is becoming visible on the
+Internet it cannot be re-used without explicit permission to avoid
+potentially breaking copyright. The Open Knowledge Foundation and Science
+Commons have collaborated on a definition of Open Data and produced a set of
+principles and practices (Panton Principles) to help authors and publishers
+assert that their published data is truly Open. An example of fully Open
+Data is shown in Crystaleye http://wwmm.ch.cam.ac.uk/crystaleye with over
+200,000 crystallographic datasets from the literature. Several publishers
+are adopting Panton, and this presentation will show the advantages of doing
+so
+
+
+*Monday, March 28, 2011 09:10 AM*
+*Open Data (09:00 AM - 11:00 AM)*
+*Location: Anaheim Convention Center *
+*Room: 202 A*
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110327/0eacd40f/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Mar 28 01:49:26 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 28 Mar 2011 01:49:26 +0100
+Subject: [open-science] Interactive session on Open Data at Am Chem Soc
+ Monday - online Pantonistas welcomed
+In-Reply-To: <AANLkTi=AWH357EjQfX4mKpJJ=Q+cVyScXKWT9F+QChah@mail.gmail.com>
+References: <AANLkTi=AWH357EjQfX4mKpJJ=Q+cVyScXKWT9F+QChah@mail.gmail.com>
+Message-ID: <AANLkTikG1fqDnngStqqJ4TWgrJfOsHACDCt1-WCxcU2c@mail.gmail.com>
+
+I have now hacked some starting ideas for Panton paper on Textmining
+http://blogs.ch.cam.ac.uk/pmr/2011/03/28/draft-panton-paper-on-textmining/
+Contributions to the Etherpad before 0900 PST welcomed
+
+On Sun, Mar 27, 2011 at 10:03 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> I am giving a talk on Panton at the ACS at 0910 LOCAL California time on
+> MONDAY (have the clocks changed this weekend?). I am hoping we can get
+> internet and can maybe have a live demonstration of the Etherpad - perhaps
+> we can help to create the Panton paper on Textmining that I am meant to have
+> written! It would be great to have 3-4 people editing away on the Etherpad
+> and taking this as an opportunity to create something as well.
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110328/bad94ced/attachment.htm>
+

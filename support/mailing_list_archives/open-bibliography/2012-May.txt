@@ -1,0 +1,862 @@
+From david.shotton at zoo.ox.ac.uk  Wed May  2 17:36:46 2012
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Wed, 02 May 2012 17:36:46 +0100
+Subject: [open-bibliography] Enabling Attribution of Author Credit and
+	Scholarly Contributions
+In-Reply-To: <4F9AA516.5020305@zoo.ox.ac.uk>
+References: <4F9A5910.5040507@zoo.ox.ac.uk> <4F9A6C41.3080502@zoo.ox.ac.uk>
+	<4F9AA516.5020305@zoo.ox.ac.uk>
+Message-ID: <4FA1629E.4020603@zoo.ox.ac.uk>
+
+Dear Colleagues,
+
+My apologies for mailing you again, but further work on the drafts 
+previously sent has resulted in a revised and expanded set of documents 
+to enable the contributions of authors and others to research 
+investigations and resulting journal articles to be recorded by authors 
+and published by journal publishers in an easy and systematic manner, so 
+as better to attribute credit for their contributions:
+
+       SCoRO, the Scholarly Contributions and Roles Ontology, available 
+at http://purl.org/spar/scoro/
+
+       SCoRF, a Scholarly Contributions Report Form based on SCoRO, 
+available at http://purl.org/spar/scoro/SCoRF.xls
+ 
+<http://purl.org/spar/scoro/SCoRF.xls>
+
+       A completed Scholarly Contributions Report Form exemplar, 
+available at 
+http://purl.org/spar/scoro/Exemplar_Report_Form.xls
+
+       The information from this exemplar form, as a human-readable Word 
+document, available at 
+http://purl.org/spar/scoro/Authorship_contributions.docx
+
+       The information from this exemplar form, as a machine-readable 
+RDF document (Turtle format), available at 
+http://purl.org/spar/scoro/Exemplar.ttl
+
+       A PowerPoint presentation for the Harvard Workshop, explaining 
+all this, 
+available at 
+http://purl.org/spar/scoro/Shotton_SCoRO_and_SCoRF_Contributions-Workshop_Harvard_16May2012.pdf
+
+I hope you find these relevant and of interest, and I would be most 
+grateful for any further feedback, particularly if it can be given 
+before May 10th.
+
+Best wishes,
+
+David
+
+-- 
+
+Dr David Shotton
+Image Bioinformatics Research Group, Department of Zoology, University 
+of Oxford
+South Parks Road, Oxford OX1 3PS, UK.   Phone: +44 (0)1865-271193   
+Skype: davidshotton
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120502/3a838779/attachment.htm>
+
+From kcoyle at kcoyle.net  Thu May  3 14:58:42 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 03 May 2012 06:58:42 -0700
+Subject: [open-bibliography] Enabling Attribution of Author Credit and
+ Scholarly Contributions
+In-Reply-To: <4FA1629E.4020603@zoo.ox.ac.uk>
+References: <4F9A5910.5040507@zoo.ox.ac.uk> <4F9A6C41.3080502@zoo.ox.ac.uk>
+	<4F9AA516.5020305@zoo.ox.ac.uk> <4FA1629E.4020603@zoo.ox.ac.uk>
+Message-ID: <4FA28F12.4070409@kcoyle.net>
+
+David, I just gave ScoRO a quick look, but I wonder if you've mocked up 
+data to test it out? The main thing that struck me is that it is a mix 
+of "having" and "being", which I'm thinking might be awkward. As an 
+example, there is "has authorship role" and "controlled project 
+finances". In the library data I've been working on we've been trying to 
+get away from the "has role" and moving it to "is".
+
+Melville --> is author --> Moby Dick
+
+rather than
+
+Melville --> has author role in relation to --> Moby Dick
+
+However, I may be mis-interpreting your intention, which is why I ask 
+about mockups of data, which are easier to understand usually than 
+reading through an ontology.
+
+One other thing: have you run this past folks in the humanities? I'm 
+thinking fine arts, music. I always find that they have an entirely 
+different view of things from STM.
+
+If I get a chance, I'll look through the other ontologies as well. I 
+think your SPAR is a very interesting project!
+
+kc
+
+On 5/2/12 9:36 AM, David Shotton wrote:
+> Dear Colleagues,
+>
+> My apologies for mailing you again, but further work on the drafts
+> previously sent has resulted in a revised and expanded set of documents
+> to enable the contributions of authors and others to research
+> investigations and resulting journal articles to be recorded by authors
+> and published by journal publishers in an easy and systematic manner, so
+> as better to attribute credit for their contributions:
+>
+>        SCoRO, the Scholarly Contributions and Roles Ontology, available
+> at http://purl.org/spar/scoro/
+>
+>        SCoRF, a Scholarly Contributions Report Form based on SCoRO,
+> available at http://purl.org/spar/scoro/SCoRF.xls
+
+> <http://purl.org/spar/scoro/SCoRF.xls>
+>
+>        A completed Scholarly Contributions Report Form exemplar,
+> available at 
+http://purl.org/spar/scoro/Exemplar_Report_Form.xls
+>
+>        The information from this exemplar form, as a human-readable Word
+> document, available at
+> http://purl.org/spar/scoro/Authorship_contributions.docx
+>
+>        The information from this exemplar form, as a machine-readable
+> RDF document (Turtle format), available at
+> http://purl.org/spar/scoro/Exemplar.ttl
+>
+>        A PowerPoint presentation for the Harvard Workshop, explaining
+> all this, 
+available at
+> http://purl.org/spar/scoro/Shotton_SCoRO_and_SCoRF_Contributions-Workshop_Harvard_16May2012.pdf
+>
+> I hope you find these relevant and of interest, and I would be most
+> grateful for any further feedback, particularly if it can be given
+> before May 10th.
+>
+> Best wishes,
+>
+> David
+>
+> --
+>
+> Dr David Shotton
+> Image Bioinformatics Research Group, Department of Zoology, University
+> of Oxford
+> South Parks Road, Oxford OX1 3PS, UK.   Phone: +44 (0)1865-271193
+> Skype: davidshotton
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From lars at aronsson.se  Thu May  3 20:26:06 2012
+From: lars at aronsson.se (Lars Aronsson)
+Date: Thu, 03 May 2012 21:26:06 +0200
+Subject: [open-bibliography] Multivolume works
+Message-ID: <4FA2DBCE.7060706@aronsson.se>
+
+This record http://openlibrary.org/works/OL15528638W/Tietosanakirja
+has the title "Tietosanakirja", but it is volume 11 of that work.
+
+This record was created from a book scanned by the Internet Archive,
+http://archive.org/details/tietosanakirja11bons
+and there is only the number "11" in the URL that indicates this
+is one of many volumes of a work.
+
+Does the OpenLibrary now have a way to create a record for the work,
+and connect together the records for each of the 11 volumes? I.e.
+is there a "part of" relationship between OpenLibrary records?
+
+I think I asked the same question in the past, but that was one or
+two years ago.
+
+
+-- 
+   Lars Aronsson (lars at aronsson.se)
+   Project Runeberg - free Nordic literature - http://runeberg.org/
+
+
+
+
+
+From tfmorris at gmail.com  Thu May  3 21:36:52 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Thu, 3 May 2012 16:36:52 -0400
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <4FA2DBCE.7060706@aronsson.se>
+References: <4FA2DBCE.7060706@aronsson.se>
+Message-ID: <CAE9vqEH4inMkDXFaEE=r_U-Axx_Cr1+a_NyDuFfnXJNODxq7og@mail.gmail.com>
+
+On Thu, May 3, 2012 at 3:26 PM, Lars Aronsson <lars at aronsson.se> wrote:
+> This record http://openlibrary.org/works/OL15528638W/Tietosanakirja
+> has the title "Tietosanakirja", but it is volume 11 of that work.
+>
+> This record was created from a book scanned by the Internet Archive,
+> http://archive.org/details/tietosanakirja11bons
+> and there is only the number "11" in the URL that indicates this
+> is one of many volumes of a work.
+>
+> Does the OpenLibrary now have a way to create a record for the work,
+> and connect together the records for each of the 11 volumes? I.e.
+> is there a "part of" relationship between OpenLibrary records?
+>
+> I think I asked the same question in the past, but that was one or
+> two years ago.
+
+The scanning projects seem to be pretty uniformly bad at this (Google
+Books does the same thing) and I don't think OpenLibrary has a way to
+record multi-volume works.
+
+It is a somewhat complex modeling issue because the logical volume to
+physical volume mapping can change over time (i.e. what was volumes
+1-3 is later published in a single physical volume).
+
+Tom
+
+
+From lars at aronsson.se  Thu May  3 23:48:19 2012
+From: lars at aronsson.se (Lars Aronsson)
+Date: Fri, 04 May 2012 00:48:19 +0200
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <CABTWpJ3zSZCkf=czFXaD09wNq4N2VnPRZ0huCrfCzW5AQyBeCA@mail.gmail.com>
+References: <4FA2DBCE.7060706@aronsson.se>
+	<CABTWpJ3zSZCkf=czFXaD09wNq4N2VnPRZ0huCrfCzW5AQyBeCA@mail.gmail.com>
+Message-ID: <4FA30B33.7010501@aronsson.se>
+
+On 2012-05-04 00:21, Ben Companjen wrote:
+> I was going to suggest putting the number of the volume in the Series
+> field, but after reading back in the archives (e.g. [1]) and looking
+> up  definitions of volume I see the difference between series and
+> volumes and think they shouldn't be mixed up.
+
+There also was a thread in May 2011 about "Serials/Journals cataloging",
+where George Oates mentioned taking a look into this, but I don't
+know if anything happened after that.
+
+> There is information on volumes in the data (in edition records: 1x
+> "volume_number", 26x "volumes"; no keys like these in work records)
+> and there is a type "/type/volume" [2], although I have no idea how
+> that is supposed to be used.
+
+Interesting. Is there any statistics from the database dumps, on how
+commonly each type is used? Was this type something that was designed
+but never used?
+
+In my case, this is an encyclopedia in 11 volumes, the first containing
+A-C, 2nd volume D-F, etc. You can easily imagine a 2nd edition of the
+encyclopedia containing 5 or 15 volumes.
+
+The 7 novels about Harry Potter are a series because they were published
+independently. If the same were published as "the collected works of J.K.
+Rowling", they might be 7 volumes, because the larger whole carries
+its own title. The series doesn't necessarily have a real title. Still,
+I think the same bibliographic data and link structures could be used.
+I would still want one record for the whole and one for each part,
+with some number to indicate the sequence of the parts.
+
+
+-- 
+   Lars Aronsson (lars at aronsson.se)
+   Project Runeberg - free Nordic literature - http://runeberg.org/
+
+
+
+
+
+From lars at aronsson.se  Fri May  4 00:16:58 2012
+From: lars at aronsson.se (Lars Aronsson)
+Date: Fri, 04 May 2012 01:16:58 +0200
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <4FA30BF9.7080906@kcoyle.net>
+References: <4FA2DBCE.7060706@aronsson.se>
+	<CABTWpJ3zSZCkf=czFXaD09wNq4N2VnPRZ0huCrfCzW5AQyBeCA@mail.gmail.com>
+	<4FA30BF9.7080906@kcoyle.net>
+Message-ID: <4FA311EA.8080809@aronsson.se>
+
+On 2012-05-04 00:51, Karen Coyle wrote:
+> The difficulty seems to arise in the process of scanning. For the
+> purposes of scanning, each physical volume becomes a scanned file.
+
+At any serious scale (e.g. Google or Internet Archive), I think
+book scanning needs to be organized as multiple work stations,
+each taking their portion of a day's batch of books, meaning
+that the 10 or 20 volumes of an encyclopedia will be scanned
+by different people, each generating a job that goes through
+OCR and postprocessing, so each volume needs its own metadata
+record.
+
+However, with Google I often find volumes 2 and 5 being all that
+is scanned. And at the Internet Archive I sometimes find everything
+except volumes 2 and 7 has been scanned. So there is more chaos
+than necessary.
+
+When we're trying to use scanned books for reference and
+for proofreading the text, we must hunt down individual parts
+from different sources. The prime example must be the German
+branch of Wikisource, here trying to find all 143 parts of the
+Weimar edition (1887-1919) of Goethe's collected works,
+http://de.wikisource.org/wiki/Goethe#Sophien-_oder_Weimarer_Ausgabe_.28WA.29
+
+Now, the structure shown on that wiki page is something that
+should go into OpenLibrary.org, because it is open (as all
+of Wikisource is free and open) bibliographic data.
+
+
+
+-- 
+   Lars Aronsson (lars at aronsson.se)
+   Project Runeberg - free Nordic literature - http://runeberg.org/
+
+
+
+
+
+From ockerblo at pobox.upenn.edu  Fri May  4 13:02:42 2012
+From: ockerblo at pobox.upenn.edu (John Mark Ockerbloom)
+Date: Fri, 04 May 2012 08:02:42 -0400
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <4FA311EA.8080809@aronsson.se>
+References: <4FA2DBCE.7060706@aronsson.se>
+	<CABTWpJ3zSZCkf=czFXaD09wNq4N2VnPRZ0huCrfCzW5AQyBeCA@mail.gmail.com>
+	<4FA30BF9.7080906@kcoyle.net> <4FA311EA.8080809@aronsson.se>
+Message-ID: <4FA3C562.3020403@pobox.upenn.edu>
+
+Volume collation can be done; HathiTrust does a fairly decent job
+of it for the volumes they collect.  (They don't always have complete
+sets, and they could do a better job at intelligently ordering
+serial volumes, but they do the best job of any of the big US collections.)
+Gallica also does some collation, though I haven't used their site enough
+to know how good it is compared to HT.
+
+HT's metadata is open; I think Gallica's might be too, but I haven't checked.
+
+There may be some useful automated analysis one can do here, such as
+looking for the number of reported volumes in bibliographic records, and
+page counts for volumes when available, to make a good guess about
+whether a particular scan is one volume of a set or a combined scan.
+(While most mass-scanning projects do go volume by volume, some have
+combined volumes, either due to multiple volumes being bound together
+before scanning, or multiple volume scans being combined after the fact.)
+
+John
+
+
+On 05/03/2012 07:16 PM, Lars Aronsson wrote:
+> On 2012-05-04 00:51, Karen Coyle wrote:
+>> The difficulty seems to arise in the process of scanning. For the
+>> purposes of scanning, each physical volume becomes a scanned file.
+>
+> At any serious scale (e.g. Google or Internet Archive), I think
+> book scanning needs to be organized as multiple work stations,
+> each taking their portion of a day's batch of books, meaning
+> that the 10 or 20 volumes of an encyclopedia will be scanned
+> by different people, each generating a job that goes through
+> OCR and postprocessing, so each volume needs its own metadata
+> record.
+>
+> However, with Google I often find volumes 2 and 5 being all that
+> is scanned. And at the Internet Archive I sometimes find everything
+> except volumes 2 and 7 has been scanned. So there is more chaos
+> than necessary.
+>
+> When we're trying to use scanned books for reference and
+> for proofreading the text, we must hunt down individual parts
+> from different sources. The prime example must be the German
+> branch of Wikisource, here trying to find all 143 parts of the
+> Weimar edition (1887-1919) of Goethe's collected works,
+> http://de.wikisource.org/wiki/Goethe#Sophien-_oder_Weimarer_Ausgabe_.28WA.29
+>
+> Now, the structure shown on that wiki page is something that
+> should go into OpenLibrary.org, because it is open (as all
+> of Wikisource is free and open) bibliographic data.
+>
+>
+>
+
+
+
+From jpwilkin at umich.edu  Fri May  4 14:50:44 2012
+From: jpwilkin at umich.edu (Wilkin, John)
+Date: Fri, 4 May 2012 13:50:44 +0000
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <4FA3C562.3020403@pobox.upenn.edu>
+Message-ID: <CBC95120.1A938%jpwilkin@umich.edu>
+
+Thanks, John.  It's worth considering why the information in HathiTrust
+tends to be fuller and more reliable.  I'll try to keep this brief, but
+there are a few key pieces that we could explode into fuller explanations.
+ The crux here is that those analytics come from the original work of
+technical services staff--catalogers and check-in staff--rather than
+digitization staff.
+
+In library systems, the bibliographic record contains information at the
+title level, both for books and serials.  Hanging off the bibliographic
+record are records that we typically call item records, one for each
+volume.  In many of our systems, that item record has the analytic (e.g.,
+enumeration and chronology) information for multi-volume sets; it also has
+a mechanism for tracking the associated volume, and that's typically a
+barcode.  
+
+For most of the scanning, including scanning done by Google, done locally
+at some partner institutions and vended scanning, the barcode is scanned
+during the book scanning process, and the bibliographic information
+(including the volume information) essentially travels with the book.
+During the Making of America project we learned the lesson of the problems
+of manually keying identifier information:  with thousands of volumes
+being scanned, keyboarding mistakes were statistically unavoidable.
+Wanding a barcode avoids that problem and with it comes nice things like
+check digits in the barcode for other forms of downstream validation.  But
+more importantly, it allows us to associate all of the elements of the
+cataloging and check-in process with the digitized volume.
+
+You'll see that in most (though not all) cases HathiTrust uses the barcode
+as part of the identifier. This makes it possible for us to link back to
+that item record and thus the analytic information.  It also ensures that
+we can rely on systems that manage the corresponding print for correction
+and amplification.  If the source library got the volume identifier wrong,
+we can try to make sure the correction goes into the source library's
+catalog and then the correction can make its way through back to
+HathiTrust.  If the series wasn't analyzed or wasn't fully analyzed by the
+source library, the source library can undertake a project to do that
+analysis later, adding volume information to the item record and
+re-exporting it so that it can be associated with the digitized volume.
+This ongoing attention to the connection between the print and the digital
+is an important part of the management of the collections and can help
+other libraries when, for example, they want to correlate their
+collections to other libraries.
+
+So, really, HathiTrust can't take credit for getting the info right:  the
+source library got it right. (If the info is right, it's also the case
+that the source library got it wrong.)  It's a system design success,
+informed by understanding collections and collection management processes.
+ What's surprising, incidentally, is that, for Google-digitized content,
+Google has this information and ignores it.
+
+On 5/4/12 8:02 AM, "John Mark Ockerbloom" <ockerblo at pobox.upenn.edu> wrote:
+
+>Volume collation can be done; HathiTrust does a fairly decent job
+>of it for the volumes they collect.  (They don't always have complete
+>sets, and they could do a better job at intelligently ordering
+>serial volumes, but they do the best job of any of the big US
+>collections.)
+>Gallica also does some collation, though I haven't used their site enough
+>to know how good it is compared to HT.
+>
+>HT's metadata is open; I think Gallica's might be too, but I haven't
+>checked.
+>
+>There may be some useful automated analysis one can do here, such as
+>looking for the number of reported volumes in bibliographic records, and
+>page counts for volumes when available, to make a good guess about
+>whether a particular scan is one volume of a set or a combined scan.
+>(While most mass-scanning projects do go volume by volume, some have
+>combined volumes, either due to multiple volumes being bound together
+>before scanning, or multiple volume scans being combined after the fact.)
+>
+>John
+>
+>
+>On 05/03/2012 07:16 PM, Lars Aronsson wrote:
+>> On 2012-05-04 00:51, Karen Coyle wrote:
+>>> The difficulty seems to arise in the process of scanning. For the
+>>> purposes of scanning, each physical volume becomes a scanned file.
+>>
+>> At any serious scale (e.g. Google or Internet Archive), I think
+>> book scanning needs to be organized as multiple work stations,
+>> each taking their portion of a day's batch of books, meaning
+>> that the 10 or 20 volumes of an encyclopedia will be scanned
+>> by different people, each generating a job that goes through
+>> OCR and postprocessing, so each volume needs its own metadata
+>> record.
+>>
+>> However, with Google I often find volumes 2 and 5 being all that
+>> is scanned. And at the Internet Archive I sometimes find everything
+>> except volumes 2 and 7 has been scanned. So there is more chaos
+>> than necessary.
+>>
+>> When we're trying to use scanned books for reference and
+>> for proofreading the text, we must hunt down individual parts
+>> from different sources. The prime example must be the German
+>> branch of Wikisource, here trying to find all 143 parts of the
+>> Weimar edition (1887-1919) of Goethe's collected works,
+>> 
+>>http://de.wikisource.org/wiki/Goethe#Sophien-_oder_Weimarer_Ausgabe_.28WA
+>>.29
+>>
+>> Now, the structure shown on that wiki page is something that
+>> should go into OpenLibrary.org, because it is open (as all
+>> of Wikisource is free and open) bibliographic data.
+>>
+>>
+>>
+>
+>
+>_______________________________________________
+>open-bibliography mailing list
+>open-bibliography at lists.okfn.org
+>http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+From kcoyle at kcoyle.net  Fri May  4 17:09:55 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 04 May 2012 09:09:55 -0700
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <CBC95120.1A938%jpwilkin@umich.edu>
+References: <CBC95120.1A938%jpwilkin@umich.edu>
+Message-ID: <4FA3FF53.9020707@kcoyle.net>
+
+On 5/4/12 6:50 AM, Wilkin, John wrote:
+
+>
+> So, really, HathiTrust can't take credit for getting the info right:  the
+> source library got it right. (If the info is right, it's also the case
+> that the source library got it wrong.)  It's a system design success,
+> informed by understanding collections and collection management processes.
+>   What's surprising, incidentally, is that, for Google-digitized content,
+> Google has this information and ignores it.
+>
+
+Does anyone know where Google gets its data from? I've heard various 
+explanations but none of them make sense to me.
+
+Neither OL nor Google appear to have the concept of an "item" in the 
+sense of a single physical copy. In fact, Google blurs this concept by 
+taking bits and pieces from different scanned items and putting them 
+together (e.g. to fill in missing or bad pages). OL definitely has scans 
+that don't come with a barcode. (Some books that are scanned are not 
+from libraries.)
+
+I do wonder what the concept of "a copy" means in our digital future. 
+When we make digital copies from hard copies we can make the connection, 
+but presumably that doesn't work for born digital items, and it's not 
+going to work for the various mash-ups that we get with digital file usage.
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From jpwilkin at umich.edu  Fri May  4 17:16:03 2012
+From: jpwilkin at umich.edu (Wilkin, John)
+Date: Fri, 4 May 2012 16:16:03 +0000
+Subject: [open-bibliography] [ol-discuss] Multivolume works
+In-Reply-To: <4FA3FF53.9020707@kcoyle.net>
+Message-ID: <CBC977FA.1A9BC%jpwilkin@umich.edu>
+
+I know it's hard to believe, particularly in light of what you see online
+in Google Books, but for the library partnership program Google gets
+MARCXML records from the partner libraries.  That the representation of
+the information ends up so far away from what the library knew about the
+work and communicated to Google is less a question of "missing
+information" (again, see John Mark Ockerbloom's comparison of HathiTrust
+and Google for what is often the same volume and same source) than it is a
+question of strategy.
+
+On 5/4/12 12:09 PM, "Karen Coyle" <kcoyle at kcoyle.net> wrote:
+
+>Does anyone know where Google gets its data from? I've heard various
+>explanations but none of them make sense to me.
+>
+
+
+
+From adrian.pohl at okfn.org  Tue May  8 08:15:39 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 8 May 2012 09:15:39 +0200
+Subject: [open-bibliography] Reminder: Virtual meeting today (May, 8th,
+	15:00 GMT)
+Message-ID: <CAOtd05E9QXZzD5x1Rhw+3axep9S3XcjKzxfX4f+=qEE1oKQt1Q@mail.gmail.com>
+
+Hello,
+
+today will be the monthly virtual meeting on 15:00 GMT (for your local
+time see <http://is.gd/21stopenbibliomeeting>).
+
+See the etherpad at
+<http://okfnpad.org/21st-open-bibliography-meeting> for more
+information and add agenda topics if you want to provide some input.
+
+All the best
+Adrian
+
+
+From pitman at stat.Berkeley.EDU  Tue May  8 16:09:04 2012
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 08 May 2012 08:09:04 -0700
+Subject: [open-bibliography] Reminder: Virtual meeting today (May, 8th,
+ 15:00 GMT)
+In-Reply-To: <CAOtd05E9QXZzD5x1Rhw+3axep9S3XcjKzxfX4f+=qEE1oKQt1Q@mail.gmail.com>
+References: <CAOtd05E9QXZzD5x1Rhw+3axep9S3XcjKzxfX4f+=qEE1oKQt1Q@mail.gmail.com>
+Message-ID: <20120508150904.BB89378C0A0@student.Berkeley.EDU>
+
+Adrian, can you please skype me now?
+jimpitman00
+thanks
+Jim
+
+
+From rufus.pollock at okfn.org  Fri May 11 01:11:29 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 11 May 2012 01:11:29 +0100
+Subject: [open-bibliography] Full VIAF released as Open Data under Open Data
+	Commons attribution license
+Message-ID: <CAEvtuKoJvFddjonqbwFu0wLc1qFDQ+0uGvF6FPxbMVVEMUcfaw@mail.gmail.com>
+
+Hi All,
+
+I just noticed that OCLC have done their major release of VIAF meaning
+that millions of author records are now available as Open Data (under
+Open Data Commons Attribution license):
+
+<http://viaf.org/viaf/data/>
+
+I've updated the DataHub dataset for this to reflect all the new info:
+
+<http://datahub.io/dataset/viaf>
+
+This is great news.
+
+Regards,
+
+Rufus
+
+
+From pohl at hbz-nrw.de  Thu May 17 13:45:44 2012
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Thu, 17 May 2012 14:45:44 +0200
+Subject: [open-bibliography] Deadline extension for SWIB11 (Semantic Web in
+ Libraries) to 31.5.2012
+Message-ID: <4FB50F180200001400047E1B@agrippa.hbz-nrw.de>
+
+Due to several requests the submission deadline to the forth conference
+"Semantic Web in Libraries" (SWIB),  26.-28.11.2012 in Cologne, has been
+extended to May 31, 2012. The call for proposals here once again:
+
+Call for Participation: SWIB12 "Semantic Web in Bibliotheken"
+(Semantic Web in Libraries) Conference, 26.11. - 28.11.2012, Cologne
+
+To an ever increasing extent Linked Open Data (LOD) is developing
+into a mainstream topic, with more and more organisations announcing
+LOD projects and services. Furthermore and during the last two years
+Linked Open Data has received a lot more attention from the library
+world. Examples ranging from the Library of Congress' initiative "A
+Bibliographic Framework for the Digital Age", the Conference of
+European National Librarians and their vote to support the open
+licensing of their data to groups like LODLAM, IFLA'S Semantic Web
+Special Interest Group, to  library system vendors and providers
+discussing and experimenting with Linked Data technology clearly
+reflect that -  LOD has gained a lot of momentum in library land.
+
+The question is how to ensure that LOD won't be a temporary hype but
+that it will take hold in future infrastructures. SWIB12  will focus
+on  the adaption of Semantic Web approaches in applications for
+libraries and science. In the last years lots of effort has been put
+into generating LOD datasets from legacy systems and into promoting
+the LOD approach towards a global and open information space.
+Upcoming challenges will be the strategic and technical alignment of
+catalogues and legacy systems in libraries, and authoring
+environments for scholarly communication with a data and service
+infrastructure based on Semantic Web principles.
+
+This year's SWIB conference (Semantic Web in Bibliotheken) will be
+held in Cologne from 26-28 November 2012. As in the years before,
+SWIB12 will be organized by the North Rhine-Westphalian Library
+Service Center (hbz) and the ZBW - German National Library of
+Economics /  Leibniz Information Centre for Economics. The
+conference language is English.
+
+We appreciate proposals (research reports, projects, work in
+progress, ...) on the following or related topics:
+
+* Integration of Linked Data into productive library environments
+
+* Technologies for providing, accessing and integrating Linked Data
+in a non-disruptive and lightweighted way, e.g. by means of APIs or
+WebServices
+
+
+* Enhancing authoring environments like Content Management Systems,
+blogs or wikis with Semantic Web facilities, e.g. by accessing
+Linked Open Datasets or by including semantic markup
+
+* Enhancing legacy data through integration of data from the LOD
+cloud or through FRBRizing, deduplication, crowdsourcing etc.
+
+* Applications using authority data maintained by libraries and
+possibly enriched by the community
+
+* Development of commercial or non-commercial library systems
+aligning their data models and policies with the web of data
+
+* Licensing strategies and business models for supporting the reuse
+of Linked Open Data
+
+Do you have an interesting service, research topic or project that
+you would like to present at the conference? We are looking forward
+to receiving your suggestions and proposals for contributions (with
+an abstract of 1000-1500 characters) by 20 May 2012. Please submit
+your abstract using our website at http://swib.org/swib12.
+
+
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
+
+
+or
+
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
+
+Website: http://swib.org/swib12
+Twitter: #swib12
+
+
+-- 
+http://www.inetbib.de
+
+
+
+Besuchen Sie das hbz auf dem 101. Deutschen Bibliothekartag in Hamburg am Stand H39! Weitere Informationen finden Sie hier: http://www.hbz-nrw.de/aktuelles/termine/101-deutscher-bibliothekartag-2012
+
+
+
+
+
+
+From naomi.lillie at okfn.org  Wed May 23 17:53:47 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Wed, 23 May 2012 17:53:47 +0100
+Subject: [open-bibliography] BiblioHack
+Message-ID: <CACGRf4Ku0UddompcQt0bR+L7XuGszoE9H-1tZw2zBEohWt5MsA@mail.gmail.com>
+
+Hi all,
+
+Please consider this a friendly 'prod' to sign up for next month's
+London-based Hackathon / Workshop / Meet-up extravaganza, if you haven't
+already done so but intend to come along - details here:
+http://blog.okfn.org/2012/05/09/hackathon-alert-bibliohack/
+
+Regards,
+Naomi
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator (Open Bibliography)
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120523/2be24347/attachment.htm>
+
+From david.shotton at zoo.ox.ac.uk  Wed May 30 10:52:32 2012
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Wed, 30 May 2012 10:52:32 +0100
+Subject: [open-bibliography] Fwd: "The future of UK's digital
+	infrastructure" survey
+In-Reply-To: <CANM7MLetd9_7Dfpx9pWrFmYxEWZ5wnysOUfgs+zoF42joZPTDg@mail.gmail.com>
+References: <CANM7MLetd9_7Dfpx9pWrFmYxEWZ5wnysOUfgs+zoF42joZPTDg@mail.gmail.com>
+Message-ID: <4FC5EDE0.7020405@zoo.ox.ac.uk>
+
+Apologies for cross-posting, but this sounds like a survey worth sharing 
+information about.  David
+
+-------- Original Message --------
+Subject: 	"The future of UK's digital infrastructure" survey
+Date: 	Wed, 30 May 2012 09:37:42 +0100
+From: 	Kaitlin Thaney <k.thaney at digital-science.com>
+To: 	undisclosed-recipients:;
+
+
+
+Hi, all -
+
+I've been tasked with chairing a working group for a new leadership 
+council advising the UK government on e-infrastructure and investment 
+into data science, training, software, and computing resource. The group 
+I'm leading targets the needs of a  number of communities neglected in 
+the discussion when these conversations first started, specifically the 
+start-up community, academics and researchers looking to commercialise 
+their work (spin-outs and the like) and SMEs.
+
+The council was convened by David Willetts, the science minister, 
+following him securing an additional ?145 million from the UK's hard 
+infrastructure budget (think roads, tolls, etc) for digital - and I want 
+to make sure it's allocated appropriately to serve a group broader than 
+initially outlined, as it's public money for a public good.
+
+To kickstart this discussion, I've put together a short survey that I 
+could use your help in distributing to members of these communities (I 
+know not all of you are based in the UK, but could use your help 
+regardless). The survey goes live today, and will close on June 13. All 
+of the results will be made publicly available under a Creative Commons 
+license (I've received special clearance ;) ), as others have expressed 
+a keen interest in using the results.
+
+Please join me in spreading the word. Your input and that of these 
+communities will directly influence not only how this investment is 
+divvied up, but also shape how this country views data-driven research, 
+business and training for years to come.
+
+The survey can be found here: https://www.surveymonkey.com/s/einfrastructure
+
+Thank you in advance.
+
+Best,
+K
+
+-- 
+*Kaitlin Thaney*
+Manager, External Partnerships
+Digital Science
+@kaythaney <http://twitter.com/kaythaney>
+@digitalsci <http://twitter.com/digitalsci/>
+
+
+
+
+
+
+********************************************************************************
+DISCLAIMER: This e-mail is confidential and should not be used by anyone who is
+not the original intended recipient. If you have received this e-mail in error
+please inform the sender and delete it from your mailbox or any other storage
+mechanism. Neither Macmillan Publishers Limited nor any of its agents accept
+liability for any statements made which are clearly the sender's own and not
+expressly made on behalf of Macmillan Publishers Limited or one of its agents.
+Please note that neither Macmillan Publishers Limited nor any of its agents
+accept any responsibility for viruses that may be contained in this e-mail or
+its attachments and it is your responsibility to scan the e-mail and
+attachments (if any). No contracts may be concluded on behalf of Macmillan
+Publishers Limited or its agents by means of e-mail communication. Macmillan
+Publishers Limited Registered in England and Wales with registered number 785998
+Registered Office Brunel Road, Houndmills, Basingstoke RG21 6XS
+********************************************************************************
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120530/08fc08ce/attachment.htm>
+

@@ -1,0 +1,966 @@
+From adrian.pohl at okfn.org  Sun Nov  4 21:51:02 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Sun, 4 Nov 2012 22:51:02 +0100
+Subject: [open-bibliography] Next Virtual Meeting postponed to November,
+	13th 2012, 16:00 GMT
+Message-ID: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+
+Hello,
+
+as I am back from my parental leave, I am again taking over the
+moderation of our monthly call. Thanks to Naomi for doing the job in
+my absence.
+
+The next meeting will take place Tuesday, November 6th, 16:00 GMT (see
+http://is.gd/openbibliomeeting26 for your local time). I've set up an
+etherpad for writing up the agenda:
+http://okfnpad.org/26th-open-bibliography-meeting
+
+All the best
+Adrian
+
+
+From adrian.pohl at okfn.org  Sun Nov  4 21:54:56 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Sun, 4 Nov 2012 22:54:56 +0100
+Subject: [open-bibliography] [Corrected subject] Next Virtual Meeting
+	November, 6th 2012, 16:00 GMT
+Message-ID: <CAOtd05Hk9RP1xj9r4mUzk5vJTwpw-kBNkT=r2SNa1_Vdj2RDJA@mail.gmail.com>
+
+Sorry to all. I sent the last mail with the wrong subject (I first
+thought, I would have to postpone the meeting, but it WILL NOT be
+postponed...)
+
+The text was OK though. Here it is again:
+
+Hello,
+
+as I am back from my parental leave, I am again taking over the
+moderation of our monthly call. Thanks to Naomi for doing the job in
+my absence.
+
+The next meeting will take place Tuesday, November 6th, 16:00 GMT (see
+http://is.gd/openbibliomeeting26 for your local time). I've set up an
+etherpad for writing up the agenda:
+http://okfnpad.org/26th-open-bibliography-meeting
+
+All the best
+Adrian
+
+
+From pm286 at cam.ac.uk  Sun Nov  4 22:25:15 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 4 Nov 2012 22:25:15 +0000
+Subject: [open-bibliography] Next Virtual Meeting postponed to November,
+ 13th 2012, 16:00 GMT
+In-Reply-To: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+References: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+Message-ID: <CAD2k14OnmWWzk1ks3KPVf4JNNqtJb_dVUE_NB9JcoVR+MLyqxA@mail.gmail.com>
+
+On Sun, Nov 4, 2012 at 9:51 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> as I am back from my parental leave, I am again taking over the
+> moderation of our monthly call. Thanks to Naomi for doing the job in
+> my absence.
+>
+> The next meeting will take place Tuesday, November 6th, 16:00 GMT (see
+> http://is.gd/openbibliomeeting26 for your local time). I've set up an
+> etherpad for writing up the agenda:
+> http://okfnpad.org/26th-open-bibliography-meeting
+>
+>
+I will have to miss this (0300 in Au) but will be happy to respond to or
+contribute issues before meeting
+
+
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121104/8a5200fc/attachment.htm>
+
+From tfmorris at gmail.com  Thu Nov  8 00:03:11 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Wed, 7 Nov 2012 19:03:11 -0500
+Subject: [open-bibliography] BibBase - bibliography manager
+Message-ID: <CAE9vqEFrAZ6D0ouFu7djC4xLnao8qQ79xGYap4ReRgc8tkn0ew@mail.gmail.com>
+
+I ran across this today and it seems very similar to the publication list /
+reading list manager use case of BibSoup, so thought it would be of
+interest.
+
+http://bibbase.org/
+
+There's RDF exposed at http://data.bibbase.org
+
+It's primary input format is BibTeX, but it'll also fetch from Mendeley.
+
+On the output side they provide:
+- a couple of ways to generate HTML to display a bibliography in a web page
+e.g. http://www.cs.toronto.edu/kr/
+- an RSS feed
+- individual paper and whole list BibTeX exports
+- RDF output
+
+They address deduplication in this paper:
+http://www.semantic-web-journal.net/sites/default/files/swj185_1.pdf
+but it sounds pretty ad-hoc.
+
+Hope this information is useful.  I was surprised not to have heard about
+it before.
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121107/5679958c/attachment.htm>
+
+From announce at dublincore.net  Thu Nov  8 23:01:33 2012
+From: announce at dublincore.net (DCMI Announce)
+Date: Thu, 8 Nov 2012 15:01:33 -0800
+Subject: [open-bibliography] Semantic Search: Magnet for the Needle in the
+	Search Haystack
+Message-ID: <CAP884Ez-hEk5Ctq=arF-79yurAnWdwSHn0iAJhSuAMJY1t02_w@mail.gmail.com>
+
+Please excuse the cross-posting
+
+==============***ANNOUNCEMENT***==============
+
+Semantic Search: Magnet for the Needle in the Search Haystack
+A Joint NKOS-CENDI Workshop
+
+DOT Media Center, Oklahoma City Room
+U.S. Department of Transportation, Washington DC
+Thursday, December 6, 2012 ? 8:30 am-4:30 pm
+
+What is Semantic Search? What user requirements does it seek to address?
+How is Semantic Search being implemented? How can Semantic Search
+technologies be evaluated? What results have we seen thus far, and what are
+the areas of research that may bring future improvements? These questions
+and related topics will be addressed by experts in semantic search and
+related technologies, users, implementers and academic researchers. Dean
+Allemang, Chief Technology Officer and Chief Data Scientist at Open Data
+Registry (previously of TopQuadrant) will place semantic search in the
+semantic web landscape. Dr. Denise Bedford, Goodyear Professor of Knowledge
+Management at Kent State University, will discuss the various views of
+semantic search. Other speakers will address linked data applications in
+libraries, museums and archives; the impact of semantic search on
+visualization tools; and the development of tools to support semantic
+search in particular communities. Information managers and technologists
+from various user communities will discuss the needs of their end users
+that they are seeking to address with semantic search. Students working in
+this area will provide a look at the future through a series of lightning
+talks.
+
+This workshop will be of interest to information managers, technologists,
+content providers, enterprise architects and researchers across sectors.
+
+Registration is now open. The registration and program are available from:
+http://www.cendi.gov/activities/12_06_2012_CENDI_NKOS.html
+
+Fee: Free but space is limited
+Registration Closes November 26, 2012
+
+The Program Committee:
+--Gail Hodge (CENDI/IIa), Chair
+--Denise Bedford (Kent State Univ.)
+--Joseph Busch (Taxonomy Strategies)
+--Michael Crandall (Univ. of Washington)
+--Jane Greenberg (Univ. of North Carolina)
+--Marjorie Hlava (Access Innovations)
+--Michael Pendleton (US EPA)
+--Amanda Wilson (National Transportation Library)
+--Shewan Workneh (International Monetary Fund)
+--Marcia Lei Zeng (Kent State Univ.)
+
+NKOS (Networked Knowledge Organization Systems) (http://nkos.slis.kent.edu/)
+is an ad hoc work group of more than 100 international experts and
+implementers of knowledge organization systems. NKOS is devoted to enabling
+knowledge organization systems/services (KOS), such as classification
+systems, thesauri, gazetteers, and ontologies, as networked, interactive
+information services to support the description and retrieval of diverse
+information resources through the Internet.
+
+CENDI (www.cendi.gov) is an interagency working group of senior scientific
+and technical information managers from 13 U.S. federal agencies. CENDI?s
+mission is to improve the productivity of federal science, technology and
+related programs through effective information systems.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121108/8cbc2305/attachment.htm>
+
+From tfmorris at gmail.com  Sun Nov 18 19:01:34 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Sun, 18 Nov 2012 14:01:34 -0500
+Subject: [open-bibliography] Next Virtual Meeting postponed to November,
+ 13th 2012, 16:00 GMT
+In-Reply-To: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+References: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+Message-ID: <CAE9vqEEGhGpdLH-xvfVzq7fWPBuM2dMuJZJVcAJYAHCNc-GOQw@mail.gmail.com>
+
+On Sun, Nov 4, 2012 at 4:51 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> as I am back from my parental leave, I am again taking over the
+> moderation of our monthly call. Thanks to Naomi for doing the job in
+> my absence.
+>
+> The next meeting will take place Tuesday, November 6th, 16:00 GMT (see
+> http://is.gd/openbibliomeeting26 for your local time). I've set up an
+> etherpad for writing up the agenda:
+> http://okfnpad.org/26th-open-bibliography-meeting
+
+
+I was reading the minutes of this meeting from a couple of weeks ago and
+noticed this:
+
+
+   - Restructuring of OKF
+
+
+   - Projects and tools are now pulled into OKFN labs, which will mainly
+   focus on government and financial data: http://okfnlabs.org/
+
+
+ That sounds like a pretty significant change.  Are there more detail
+available somewhere?  Will there be any bibliographic data related efforts
+going forward or did everything end with BibJson & BibServer?
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121118/7ca22bbb/attachment.htm>
+
+From krichel at openlib.org  Sun Nov 18 22:08:27 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Sun, 18 Nov 2012 23:08:27 +0100
+Subject: [open-bibliography] Next Virtual Meeting postponed to November,
+ 13th 2012, 16:00 GMT
+In-Reply-To: <CAE9vqEEGhGpdLH-xvfVzq7fWPBuM2dMuJZJVcAJYAHCNc-GOQw@mail.gmail.com>
+References: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+	<CAE9vqEEGhGpdLH-xvfVzq7fWPBuM2dMuJZJVcAJYAHCNc-GOQw@mail.gmail.com>
+Message-ID: <20121118220827.GB24634@openlib.org>
+
+
+  Tom Morris writes
+
+> Will there be any bibliographic data related efforts
+> going forward or did everything end with BibJson & BibServer?
+
+  There are other open bibiographic data efforts out
+  there. I for one, intend to continue with 3lib 
+  (sponored by OKFN) and AuthorClaim. These projects
+  complement BibServer.
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From brajakes at gmail.com  Mon Nov 19 13:25:54 2012
+From: brajakes at gmail.com (Jakes Rawlinson)
+Date: Mon, 19 Nov 2012 15:25:54 +0200
+Subject: [open-bibliography] Best Open Source Reference Manager for
+	'Beginners'
+Message-ID: <CANdsPBxU7oXGKwpkozR_ngF=7yAziadbGo6Ay=PcGTGecRruXA@mail.gmail.com>
+
+Dear People,
+
+In the first instance, I hope that this is the correct list, but if not, my
+apologies and please post to a list that could help?
+
+I appreciate this might be a 'duhhhhhhh' question to you, but I hope you
+will tolerate my ignorance!? I'm running a basic Research Methodology
+course for Registrars (Drs specialising in some subject area e.g.
+surgery, paediatrics, etc.) who do not have a high level of computer or
+information literacy. As we are an 'evolving campus' and don't have Endnote
+or Refworks or whatever at our disposal, could you please recommend the
+best free and open source reference manager software that is relatively
+'easy' to master?
+
+I want to try and inculcate the habit of saving all their references right
+from the start, keeping all necessary details to prevent the late 'search'
+for 'that' document / article.........
+
+Thanks and keep up the good work.
+
+Best best,
+
+Jakes
+
+PS The idea that all specialities are now to hand in a Masters dissertation
+as part of the specialisation requirements is a great development in South
+Africa. Previuosly it was only the Community Health, now Public Health
+Medicine folk who had to do it. We might get an increased research output as
+a result....
+
+
+
+
+
+-- 
+Dr JL Rawlinson
+Department of Public Health Medicine
+Polokwane Mankweng Hospital Complex
+University of Limpopo
+Polokwane
+South Africa
+
++27-15-287 5331 (W)
++27-82 410 9524 (Mobile)
++27-86-664 6262 (Fax)
+
+http://www.ul.ac.za
+
+
+Please don?t print this e-mail unless you really need to...................
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121119/959a9507/attachment.htm>
+
+From ross.mounce at gmail.com  Tue Nov 20 15:57:03 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Tue, 20 Nov 2012 15:57:03 +0000
+Subject: [open-bibliography] open-bibliography Digest, Vol 34, Issue 6
+In-Reply-To: <mailman.15.1353412804.6689.open-bibliography@lists.okfn.org>
+References: <mailman.15.1353412804.6689.open-bibliography@lists.okfn.org>
+Message-ID: <CAJr+OEwx-ozwMsrOV2FWEu9jRPZg6LqC+eK_bMo3fxxgjzKB2A@mail.gmail.com>
+
+Hi Jakes,
+
+
+>  could you please recommend the
+> best free and open source reference manager software that is relatively
+> 'easy' to master?
+>
+
+
+For easy to use 'free' reference manager software, I'd recommend
+Mendeley http://www.mendeley.com/
+
+If you want it to be both free AND open source then I'd recommend:
+Zotero http://www.zotero.org/
+or JabRef http://jabref.sourceforge.net/
+
+see also this comparison of the various options available on Wikipedia:
+http://en.wikipedia.org/wiki/Comparison_of_reference_management_software
+
+
+All the best,
+
+Ross
+
+
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121120/0ced5f16/attachment.htm>
+
+From ross.mounce at gmail.com  Wed Nov 21 22:48:45 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 21 Nov 2012 22:48:45 +0000
+Subject: [open-bibliography] Visualising filters w/ Bubble charts
+Message-ID: <CAJr+OEzhEhHQvtgTStAFJM=uWg3LTbQ0DC72RTn6YvByaRnnTg@mail.gmail.com>
+
+Hi all,
+
+So I've uploaded some test data to
+bibsoup<http://bibsoup.net/rossmounce/zootaxa_sample>(with the
+intention of uploading *much* larger data ~11k record collections
+at a later date).
+
+How do I view the nice bubble charts?
+
+I find on the 'filter by', on the dropdown menu there's an option to
+'visualise this filter' but when I click on this I don't see anything? Just
+a big empty white box.
+
+I know there's probably, hopefully, a really simple answer to this but I
+can't seem to figure it out by myself...
+
+
+Any ideas?
+
+Best,
+
+Ross
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121121/2a33ebf9/attachment.htm>
+
+From adrian.pohl at okfn.org  Thu Nov 22 08:00:56 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 22 Nov 2012 09:00:56 +0100
+Subject: [open-bibliography] Next Virtual Meeting postponed to November,
+ 13th 2012, 16:00 GMT
+In-Reply-To: <CAE9vqEEGhGpdLH-xvfVzq7fWPBuM2dMuJZJVcAJYAHCNc-GOQw@mail.gmail.com>
+References: <CAOtd05Hh9Vp+WQjCMGw=GtAAF1pN6daNkJ3JZEzwXmN80=ADfQ@mail.gmail.com>
+	<CAE9vqEEGhGpdLH-xvfVzq7fWPBuM2dMuJZJVcAJYAHCNc-GOQw@mail.gmail.com>
+Message-ID: <CAOtd05G5h6__caY+izHwWr4mFBuqsaK=H+nd=j8z42_JDoRGQQ@mail.gmail.com>
+
+Hello Tom,
+
+please excuse the delayed response. Regarding this:
+
+> Restructuring of OKF
+>
+> Projects and tools are now pulled into OKFN labs, which will mainly focus on
+> government and financial data: http://okfnlabs.org/
+
+As I understood Joris who reported on this this doesn't mean that OKFN
+won't do anything in the realm of bibliographic data anymore. It just
+means that OKFN labs will be built up and that OKFNlabs will focus on
+government and finacnial data. Joris brought this up because he wants
+to build something similar for GLAM projects (something like
+"openglamlabs"). So the bibliographic data efforts and GLAM projects
+won't go away in OKF at least so long this group does some work on it.
+
+The rest of the minutes reads accordingly:
+
+[quote]
+* Rather than ?orphan? the other projects, there is now another lab in
+development for those, including Bibserver.
+* Example projects/code and blog posts that woul find their place at
+this ?open culture lab?:
+** Working with DBPedia extracting data to put into timeline, see here.
+** Querying DBpedia for Public Domain Authors:
+http://www.uebertext.org/2012/10/querying-dbpedia-to-find-public-domain.html
+* Joris, Sam and Etienne Posthumus working on this. Please propose
+projects to Joris and Sam and they can help.
+* Suggest: organize ?code days? for bibliographic data
+[quote]
+
+All the best
+Adrian
+
+On 18 November 2012 20:01, Tom Morris <tfmorris at gmail.com> wrote:
+> On Sun, Nov 4, 2012 at 4:51 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>
+>> Hello,
+>>
+>> as I am back from my parental leave, I am again taking over the
+>> moderation of our monthly call. Thanks to Naomi for doing the job in
+>> my absence.
+>>
+>> The next meeting will take place Tuesday, November 6th, 16:00 GMT (see
+>> http://is.gd/openbibliomeeting26 for your local time). I've set up an
+>> etherpad for writing up the agenda:
+>> http://okfnpad.org/26th-open-bibliography-meeting
+>
+>
+> I was reading the minutes of this meeting from a couple of weeks ago and
+> noticed this:
+>
+> Restructuring of OKF
+>
+> Projects and tools are now pulled into OKFN labs, which will mainly focus on
+> government and financial data: http://okfnlabs.org/
+>
+>
+>  That sounds like a pretty significant change.  Are there more detail
+> available somewhere?  Will there be any bibliographic data related efforts
+> going forward or did everything end with BibJson & BibServer?
+>
+> Tom
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+From adrian.pohl at okfn.org  Thu Nov 22 11:50:18 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 22 Nov 2012 12:50:18 +0100
+Subject: [open-bibliography] Visualising filters w/ Bubble charts
+In-Reply-To: <CAJr+OEzhEhHQvtgTStAFJM=uWg3LTbQ0DC72RTn6YvByaRnnTg@mail.gmail.com>
+References: <CAJr+OEzhEhHQvtgTStAFJM=uWg3LTbQ0DC72RTn6YvByaRnnTg@mail.gmail.com>
+Message-ID: <CAOtd05Gq2-rTs9WwfUnwETh+FdBAYtq68BwMXtG6KUF7sfYYbw@mail.gmail.com>
+
+I don't know what is going on there. Obviously there are also users
+and collections missing. At least, I can not login anymore and my
+collections are gone.
+
+I am putting Mark in Cc, perhaps he knows the answer.
+
+Adrian
+
+On 21 November 2012 23:48, Ross Mounce <ross.mounce at gmail.com> wrote:
+> Hi all,
+>
+> So I've uploaded some test data to bibsoup (with the intention of uploading
+> *much* larger data ~11k record collections at a later date).
+>
+> How do I view the nice bubble charts?
+>
+> I find on the 'filter by', on the dropdown menu there's an option to
+> 'visualise this filter' but when I click on this I don't see anything? Just
+> a big empty white box.
+>
+> I know there's probably, hopefully, a really simple answer to this but I
+> can't seem to figure it out by myself...
+>
+>
+> Any ideas?
+>
+> Best,
+>
+> Ross
+>
+>
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+From mail at ajantriks.net  Thu Nov 22 12:11:02 2012
+From: mail at ajantriks.net (sumandro)
+Date: Thu, 22 Nov 2012 17:41:02 +0530
+Subject: [open-bibliography] is open access only for rich countries?
+	invitation to a discussion
+Message-ID: <50AE1656.8040001@ajantriks.net>
+
+Participate now in an online dialogue on open access and the developing 
+world
+
+You are invited to take part in an online discussion on Open Access (OA) 
+from the perspective of the developing world.
+
+Funded by DFID, through the Mobilising Knowledge for Development (MK4D) 
+programme in the Institute for Development Studies at Sussex University, 
+and managed through the African Commons project in South Africa and the 
+Centre for Internet and Society in India, the discussion will be hosted 
+on UNESCO?s WSIS Open Access Community Forum. This open access dialogue 
+will provide a valuable space to discuss different perspectives on what 
+open access means for the developing world and what it can offer.
+
+There is compelling evidence which indicates that OA has finally entered 
+mainstream discourse. Yet, in the developing world context there remain 
+specific challenges and untapped opportunities for OA. A series of open 
+access discussions aimed at developing world critical thinkers, 
+activists and academics, seeks to explore insights and articulate 
+opinion on OA in the developing world.  Join us for stimulating debate!
+
+Register here: 
+http://institutefordevelopmentstudies.createsend1.com/t/r-l-kuxltt-jluthukldd-j/
+
+Setting the context
+
+Open access has enjoyed a great deal of acceptance and growth over the 
+last decade, with a particularly strong spurt in the adoption of open 
+access policies by major agencies and governments in the last 12 months. 
+With open access policies and initiatives now being taken up by UNESCO, 
+the World Bank, the FAO, the European Commission, and the governments of 
+the United Kingdom and the United States, among others, it is clear that 
+open access has entered the global mainstream. These policies stress the 
+human rights potential of open access in providing access to scientific 
+and cultural knowledge, ensuring its impact and ensuring public access 
+to publicly funded research.
+
+We now know that open access can work in the immediate and short term in 
+providing better access to the research literature, whilst some of the 
+longer term consequences and effects are still emerging. This is 
+especially so in the developing world, which has been badly served by 
+the publishing system we have inherited from the 20th century, which has 
+marginalized research from developing countries. New opportunities and 
+possibilities are created by open access, and, at the same time certain 
+pitfalls need to be noted and avoided.
+
+A foundational report prepared to inform this dialogue shows the risks 
+posed to all scholarly communications, discourse and practices by the 
+publish-or-perish system, and indicates that in the developing world, 
+the detriments are potentially much deeper and more damaging.  As 
+researchers are incentivised to publish in overseas-based journals - 
+mostly unavailable in many developing world contexts - this research 
+?brain-drain? risks widening the gap between research and policy [1].
+
+Read more here
+
+Get discussing!
+
+The first debate will kick off on Tuesday, 27 November 2012.
+
+A general topic will be complemented by two sub discussions.  The 
+discussion will be hosted on the WSIS Knowledge Platform's Open Access 
+group. To take part you will be required to register on the platform.
+
+KEY TOPIC: Production, publication and consumption of scholarly 
+knowledge and OA.
+
+This will focus on the greater concern of scholarly research in the 
+developing country context debating the questions: What does OA imply 
+and offer the developing world in terms of production, publication and 
+consumption of academic materials and research activities? What are the 
+specific challenges and opportunities for access to knowledge in 
+developing countries?
+
+Within this topic the following sub-themes will be introduced:
+
+Sub-theme 1: Considering the issues of 'translation' of research for 
+development impact; co-production and increasing access to academic 
+materials; and the importance of OA in producing and sharing of 
+non-state-supported educational materials; and
+
+Sub-theme 2: OA in academia and the search for global prestige; the 
+perverse impact of metrics and rankings; scholarly knowledge production; 
+and sharing and consumption challenges in developing countries.
+
+We will keep you posted about the second debate which will take place 
+early in January 2013.
+
+In the meantime you are also encouraged to tweet about the discussions 
+using hashtag #developoa or follow the debates on Facebook here 
+<http://institutefordevelopmentstudies.createsend1.com/t/r-l-kuxltt-jluthukldd-y/>.
+
+More: 
+http://institutefordevelopmentstudies.createsend4.com/t/ViewEmail/r/4F291AC6F7BEC83F/CC051A4918137CD50B3A73003FEB3522
+
+-------------
+
+sumandro
+ajantriks.net
+
+
+From mark at cottagelabs.com  Thu Nov 22 12:41:01 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Thu, 22 Nov 2012 12:41:01 +0000
+Subject: [open-bibliography] Visualising filters w/ Bubble charts
+In-Reply-To: <CAOtd05Gq2-rTs9WwfUnwETh+FdBAYtq68BwMXtG6KUF7sfYYbw@mail.gmail.com>
+References: <CAJr+OEzhEhHQvtgTStAFJM=uWg3LTbQ0DC72RTn6YvByaRnnTg@mail.gmail.com>
+	<CAOtd05Gq2-rTs9WwfUnwETh+FdBAYtq68BwMXtG6KUF7sfYYbw@mail.gmail.com>
+Message-ID: <CAFxzj8T0eZFbXr8NT_SOPV37-SXfuP7Ws3at63GmfDWsiBQnsA@mail.gmail.com>
+
+Hi Ross, Adrian, List,
+
+There is a simple answer, but it does not solve your problem immediately -
+the whole of bibsoup will be moving soon to another provider so that we can
+ramp up collection sizes. I am also finishing some updates to improve the
+functionality. This is all taking longer than I would have liked, and
+people have offered to help, but it is basically just a slow process thing
+- I continue to hope it will be done soon, and once it is, it will be worth
+you uploading your larger collection. Early December, I hope. After that,
+it should be easier for people to use or for others to assist with running
+/ developing.
+
+Mark
+
+
+
+On Thu, Nov 22, 2012 at 11:50 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> I don't know what is going on there. Obviously there are also users
+> and collections missing. At least, I can not login anymore and my
+> collections are gone.
+>
+> I am putting Mark in Cc, perhaps he knows the answer.
+>
+> Adrian
+>
+> On 21 November 2012 23:48, Ross Mounce <ross.mounce at gmail.com> wrote:
+> > Hi all,
+> >
+> > So I've uploaded some test data to bibsoup (with the intention of
+> uploading
+> > *much* larger data ~11k record collections at a later date).
+> >
+> > How do I view the nice bubble charts?
+> >
+> > I find on the 'filter by', on the dropdown menu there's an option to
+> > 'visualise this filter' but when I click on this I don't see anything?
+> Just
+> > a big empty white box.
+> >
+> > I know there's probably, hopefully, a really simple answer to this but I
+> > can't seem to figure it out by myself...
+> >
+> >
+> > Any ideas?
+> >
+> > Best,
+> >
+> > Ross
+> >
+> >
+> > --
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > Ross Mounce
+> > PhD Student & Open Knowledge Foundation Panton Fellow
+> > Fossils, Phylogeny and Macroevolution Research Group
+> > University of Bath, 4 South Building, Lab 1.07
+> > http://about.me/rossmounce
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121122/87c44fbf/attachment.htm>
+
+From announce at dublincore.net  Sun Nov 25 14:44:46 2012
+From: announce at dublincore.net (DCMI Announce)
+Date: Sun, 25 Nov 2012 06:44:46 -0800
+Subject: [open-bibliography] DC-2013 call for participation
+Message-ID: <CAP884Ex+xPhm93Ph9fATP4+vCb_zb+t7Bwtb_Hiw7FoupiXOxA@mail.gmail.com>
+
+*** Please excuse the cross-posting ***
+
+"LINKING TO THE FUTURE"
+International Conference on Dublin Core and Metadata Applications
+2-6 September 2013, Lisbon, Portugal
+
+=============================================
+DC-2013 CALL FOR PARTICIPATION
+=============================================
+
+DC-2013 will explore questions regarding the persistence, maintenance, and
+preservation of metadata and descriptive vocabularies. The need for stable
+representations and descriptions spans all sectors including cultural
+heritage and scientific data, eGovernment, finance and commerce. Thus, the
+maintenance and management of metadata is essential to address the long
+term availability of information of legal, cultural and economic value.  On
+the web, data?and especially descriptive vocabularies?can change or vanish
+from one moment to the next. Nonetheless, the web increasingly forms the
+ecosystem for our vocabularies and our data. DC-2013 will bring together in
+Lisbon the community of metadata scholars and practitioners to engage in
+the exchange of knowledge and best practices in developing a sustainable
+metadata ecosystem.
+
+DC-2013 will be collocated and run simultaneous with iPRES 2013 providing a
+rich environment for synergistic exploration of issues common to both
+communities.
+
+=============================================
+IMPORTANT DEADLINES & DATES:
+--SUBMISSION DEADLINE: 29 March 2013
+--AUTHOR NOTIFICATION: 7 June 2013
+--FINAL COPY: 5 July 2013
+---------------------------------------------
+IMPORTANT URLS:
+--ONLINE CFP: http://purl.org/dcevents/dc-2013/cfp
+--CONFERENCE WEBSITE: http://purl.org/dcevents/dc-2013
+--SUBMISSION URL:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/author/submit?requiresAuthor=1
+--ORGANIZING COMMITTEE:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/about/organizingTeam
+=============================================
+
+Beyond the conference theme, papers, reports, and poster submissions are
+welcome on a wide range of metadata topics, such as:
+
+-- Metadata principles, guidelines, and best practices
+-- Metadata quality (methods, tools, and practices)
+-- Conceptual models and frameworks (e.g., RDF, DCAM, OAIS)
+-- Application profiles
+-- Metadata generation (methods, tools, and practices)
+-- Metadata interoperability across domains, languages,
+   time, structures, and scales.
+-- Cross-domain metadata uses (e.g., recordkeeping, preservation,
+   curation, institutional repositories, publishing)
+-- Domain metadata (e.g., for corporations, cultural memory
+   institutions, education, government, and scientific fields)
+-- Bibliographic standards (e.g., RDA, FRBR, subject headings)
+   as Semantic Web vocabularies
+-- Accessibility metadata
+-- Metadata for scientific data, e-Science and grid applications
+-- Social tagging and user participation in building metadata
+-- Usage data (paradata/attention metadata)
+-- Knowledge Organization Systems (e.g., ontologies, taxonomies,
+   authority files, folksonomies, and thesauri) and Simple Knowledge
+   Organization Systems (SKOS)
+-- Ontology design and development
+-- Integration of metadata and ontologies
+-- Search engines and metadata
+-- Linked data and the Semantic Web (metadata and applications)
+-- Vocabulary registries and registry services
+
+---------------------------------------------
+SUBMISSIONS
+
+--All submissions must be in English.
+--All submissions will be peer-reviewed by the International Program
+Committee.
+--Unless previously arranged, accepted papers, project reports and posters
+must be presented in Lisbon by at least one of their authors.
+
+Submissions for Asynchronous Participation:  With prior arrangement, a few
+exceptional papers, project reports and extended poster abstracts will be
+accepted for asynchronous presentation by their authors. Submissions
+accepted for asynchronous presentation must follow both the general author
+guidelines for submission as well as additional instructions located at
+http://dcevents.dublincore.org/IntConf/index/pages/view/remote.
+
+---------------------------------------------
+PUBLICATION
+
+-- Accepted papers, project reports and poster abstracts will be published
+in the permanent online conference proceedings and in DCMI Publications (
+http://dcpapers.dublincore.org/).
+-- Special session and community workshop session abstracts will be
+published in the online conference proceedings.
+-- Papers, research reports and poster abstracts must conform to the
+appropriate formatting template available through the DCMI Peer Review
+System.
+-- Submitting authors in all categories must provide basic information
+regarding current professional positions and affiliations as a condition of
+acceptance and publication.
+
+---------------------------------------------
+SUBMISSION CATEGORIES
+
+FULL PAPERS (8-10 pages; Peer reviewed): Full papers either describe
+innovative work in detail or provide critical, well-referenced overviews of
+key developments or good practice in the areas outlined above. Full papers
+will be assessed using the following criteria:
+
+(1) Originality of the approach to the topic and potential for
+implementation
+(2) Quality of the contribution to the implementation community
+(3) Significance of the results presented
+(4) Clarity of presentation
+
+PROJECT REPORTS (4-5 pages; Peer reviewed): Project reports describe a
+specific model, application, or activity in a concise presentation. Project
+reports will be assessed using the following criteria:
+
+(1) Conciseness and completeness of technical description
+(2) Usability of the technical description by other potential implementers
+(3) Clarity of presentation
+
+POSTERS (1-2 pages; Peer reviewed): Posters are for the presentation of
+projects or research under development or late-breaking results. Poster
+submission should consist of a one-two page extended abstract.  Posters
+will be assessed using the following criteria:
+
+(1) Concise statement of research or project goals and milestones
+(2) Significance of the research or project
+(3) Framing of key barriers and future research
+(4) Statement of results and accomplishments
+(5) Clarity of presentation
+
+One or more sessions will be scheduled for display and discussion of
+posters at the conference venue. Instructions on the preparation of the
+display poster can be found at
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/posterAuthors
+.
+
+SPECIAL & PANEL SESSIONS: Special and panel sessions are organized by
+experts in a specific area of metadata. Each special session serves as a
+focused exchange of the latest research and/or best practice in the area. A
+proposal for a special session consists of a single document of
+approximately 800-1,200 words in length containing:
+
+--Session title
+--35-50 word abstract for use in promoting the session
+--Brief description of the scope and motivation for the session
+--Names and brief CVs of session facilitators, presenters, or panelists
+--Brief CVs of the organizers
+
+DCMI COMMUNITY & TASK GROUP WORKSHOP SESSIONS: DCMI Community Workshop &
+Task Group Sessions are intended to: (1) advance the specific work of DCMI
+entities as defined at http://dublincore.org/groups/#communities; and (2)
+to set the work agenda for the Community or Task Group for the coming year.
+Note: Communities wanting to present a special session or a panel in the
+area of the Community's interest should submit a proposal under Special &
+Panel Sessions above.
+
+---------------------------------------------
+PROGRAM COMMITTEE CO-CHAIRS
+Kai Eckert
+--Research Group Data and Web Science, University of Mannheim, Germany
+Muriel Foulonneau
+--Knowledge Intensive Systems and Services, Tudor Research Centre,
+Luxembourg
+
+ORGANIZING COMMITTEE:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/about/organizingTeam
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121125/999c6a1c/attachment.htm>
+
+From pohl at hbz-nrw.de  Mon Nov 26 10:17:58 2012
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Mon, 26 Nov 2012 11:17:58 +0100
+Subject: [open-bibliography] SWIB12 - Live stream from Cologne
+Message-ID: <50B34FE6020000140004BF23@agrippa.hbz-nrw.de>
+
+For this years SWIB (Semantic Web in Libraries) conference in Cologne, we strive to provide a video livestream:
+
+At 27./28. November, from 8 to 16.30 (GMT) on the conference homepage,
+
+http://swib.org/swib12/
+
+There you also find information about the schedule and the conference in general (which is organized by hbz and ZBW again). The conference language is English. #swib12 on Twitter.
+
+Cheers,
+Adrian
+
+
+
+Adrian Pohl
+- Linked Open Data -
+hbz - Hochschulbibliothekszentrum des Landes NRW
+Tel: (+49)(0)221 - 400 75 235
+http://www.hbz-nrw.de
+
+
+

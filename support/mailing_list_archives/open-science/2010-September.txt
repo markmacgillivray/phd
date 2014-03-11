@@ -1,0 +1,2612 @@
+From hpiwowar at gmail.com  Wed Sep  1 06:41:43 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Tue, 31 Aug 2010 22:41:43 -0700
+Subject: [open-science] State of "Is it Open Data"?
+In-Reply-To: <C8A2C28E.E68B%cameron.neylon@stfc.ac.uk>
+References: <AANLkTikK7kZRULxYX+5sWZgo-kJYnwFzDVeayzK9g_3f@mail.gmail.com>
+	<C8A2C28E.E68B%cameron.neylon@stfc.ac.uk>
+Message-ID: <AANLkTimG69p7-v2tin4FBdET7=i2zrx2Kc8FESFFgJhX@mail.gmail.com>
+
+Egon, I agree.  I've responded to PLoS asking them to clarify:
+
+Dear Mark,
+
+Thank you for your straightforward, quick, and positive response to our
+enquiry.
+
+I have one question for clarification: does PLoS consider data to be
+available under CC-BY, or may it be used and redistributed under CC0, PDDL,
+and the like?
+
+Thanks!
+
+Heather
+
+btw, blog post summarizing these enquiries:
+http://researchremix.wordpress.com/2010/08/31/dear-publisher-is-the-data-open/
+
+Heather
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100831/10359a70/attachment.htm>
+
+From egon.willighagen at gmail.com  Wed Sep  1 07:03:39 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 1 Sep 2010 08:03:39 +0200
+Subject: [open-science] State of "Is it Open Data"?
+In-Reply-To: <C8A2C28E.E68B%cameron.neylon@stfc.ac.uk>
+References: <AANLkTikK7kZRULxYX+5sWZgo-kJYnwFzDVeayzK9g_3f@mail.gmail.com>
+	<C8A2C28E.E68B%cameron.neylon@stfc.ac.uk>
+Message-ID: <AANLkTin-EXi5_D5qWE9gwOtoWnr8tkyvdQcjQTd9KTnq@mail.gmail.com>
+
+Hi Cameron,
+
+On Tue, Aug 31, 2010 at 3:30 PM, Cameron Neylon
+<cameron.neylon at stfc.ac.uk> wrote:
+>> I do not fully understand the response... at one place I think they
+>> say the data is CC-BY and at other places they say it is conform the
+>> Panton Principles (CC0 or PDDL or any other public domain waiver)...
+>> which is it?
+>
+> We've got a long way to go in making clear all of these distinctions. And at
+> the same time we don't want to put off those people acting in good faith
+> either.
+
+Indeed, but of all places, this list would be the place to do it right, not?
+
+> I know there are initiatives at both BMC and PLoS looking at how to
+> handle this. It will require changes to the licensing arrangements (to have
+> authors explicitly make data, intepreted generously as PD) as well as
+> changes to the declarations made on each paper so its going to be tough but
+> I think working with PLoS and BMC to come up with some good examples of how
+> it can be done is the way forward here.
+
+Yes, I am aware of this; and I think getting this 'legally' right is
+very important. Actually, one of the reasons I asked about it...
+
+> To do that you need to
+> modify the publication agreements between author and publisher to make
+> explicit the licensing arrangements for different components of the overall
+> work. Which can't be done retrospectively really. So lots of work for the
+> future.
+
+Quite so.
+
+(This is also why I commented on the JChemInf 'guidelines for the
+authors', as any new journal can do it 'right' from the start...)
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Post-doc @ Uppsala University (only until 2010-09-30)
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From richard.poynder at gmail.com  Wed Sep  1 12:48:41 2010
+From: richard.poynder at gmail.com (Richard Poynder)
+Date: Wed, 1 Sep 2010 12:48:41 +0100
+Subject: [open-science] Open Notebook Science: Interview with Jean-Claude
+	Bradley
+Message-ID: <005f01cb49cb$a098ac60$e1ca0520$@gmail.com>
+
+What is Open Notebook Science (ONS)? 
+
+How does it differ from Open Access (OA)?
+
+What does ONS mean for researchers?
+
+What does ONS mean for publishers?
+
+What does ONS mean for librarians?
+
+What role do institutional repositories have to play in ONS?
+
+ 
+
+Drexel University's Jean Claude-Bradley explains all here
+http://www.infotoday.com/IT/sep10/Poynder.shtml
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100901/17085a8a/attachment.htm>
+
+From greg at grossmeier.net  Wed Sep  1 17:51:29 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Wed, 1 Sep 2010 12:51:29 -0400
+Subject: [open-science] Working Group Meeting - September 1st
+In-Reply-To: <20100830175907.GE3248@grossmeier.net>
+References: <20100830175907.GE3248@grossmeier.net>
+Message-ID: <20100901165129.GA1715@grossmeier.net>
+
+Last minute rReminder, this meeting starts in 10 minutes.
+
+If you haven't added your SkypeID to the okfnpad, please do so.
+
+Greg
+
+<quoting name="Greg Grossmeier" date="2010-08-30" time="13:59:07 -0400">
+> Hello Open Sciencers,
+> 
+> Our next working group meeting will be September 1st at 1700 UTC (6PM
+> London, 1PM New York, http://ur1.ca/1e2t4 ).
+> 
+> Participation will be via IRC and Skype (if less than 8 people,
+> conference line if more, details to follow.) The IRC channel is #okfn on 
+> irc.oftc.net
+> 
+> Please let me know if you will be able to attend the meeting.
+> 
+> The agenda is growing at:
+> http://okfnpad.org/science-20100901
+> 
+> Please add any agenda items you have.
+> 
+> Best,
+> 
+> Greg
+> 
+> 
+> -- 
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From greg at grossmeier.net  Thu Sep  2 23:52:00 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Thu, 2 Sep 2010 18:52:00 -0400
+Subject: [open-science] Working Group Meeting Summary - Sept 1st meeting
+Message-ID: <20100902225200.GD1715@grossmeier.net>
+
+Please read it on our new blog!
+
+http://science.okfn.org/2010/09/02/sept-1st-working-group-meeting-summary/
+
+Thanks to everyone who attended.
+
+Greg
+
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From mf.kubke at gmail.com  Fri Sep  3 01:04:50 2010
+From: mf.kubke at gmail.com (Fabiana Kubke)
+Date: Fri, 3 Sep 2010 12:04:50 +1200
+Subject: [open-science] Working Group Meeting Summary - Sept 1st meeting
+In-Reply-To: <20100902225200.GD1715@grossmeier.net>
+References: <20100902225200.GD1715@grossmeier.net>
+Message-ID: <AANLkTikK8GaQrcTPvpF7sxHPtKfEjHq8R=_CgEq1DSqp@mail.gmail.com>
+
+I am assuming Peter means science online london 2010
+http://www.scienceonlinelondon.org/ or Science online North Carolina 2011?
+http://www.scienceonline2010.com/index.php/wiki/2011_Program_Suggestions/(the
+blog is linking to sci online NC 2010, which happened earlier this
+year)
+The wiki for the North Carolina one next year is open for session
+suggestions.
+
+-kubke
+
+On Fri, Sep 3, 2010 at 10:52 AM, Greg Grossmeier <greg at grossmeier.net>wrote:
+
+> Please read it on our new blog!
+>
+> http://science.okfn.org/2010/09/02/sept-1st-working-group-meeting-summary/
+>
+> Thanks to everyone who attended.
+>
+> Greg
+>
+>
+> --
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+M Fabiana Kubke
+
+Department of Anatomy | University of Auckland | New Zealand
+(+64) 9 373-7599 Ext 86002 | (+64)9 923 6002 (direct) | Mobile: (+64) 210
+437 121
+
+Skype: superfabs | http://twitter.com/Kubke | http://identi.ca/kubke |
+http://buildingblogsofscience.wordpress.com |
+http://sciblogs.co.nz/building-blogs-of-science |
+http://popscinz.wordpress.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/28331656/attachment.htm>
+
+From greg at grossmeier.net  Fri Sep  3 04:05:34 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Thu, 2 Sep 2010 23:05:34 -0400
+Subject: [open-science] Working Group Meeting Summary - Sept 1st meeting
+In-Reply-To: <AANLkTikK8GaQrcTPvpF7sxHPtKfEjHq8R=_CgEq1DSqp@mail.gmail.com>
+References: <20100902225200.GD1715@grossmeier.net>
+	<AANLkTikK8GaQrcTPvpF7sxHPtKfEjHq8R=_CgEq1DSqp@mail.gmail.com>
+Message-ID: <20100903030534.GA3722@grossmeier.net>
+
+Whoops, you're right. 
+
+Thanks for catching it!
+
+<quoting name="Fabiana Kubke" date="2010-09-03" time="12:04:50 +1200">
+> I am assuming Peter means science online london 2010
+> http://www.scienceonlinelondon.org/ or Science online North Carolina 2011?
+> http://www.scienceonline2010.com/index.php/wiki/2011_Program_Suggestions/(the
+> blog is linking to sci online NC 2010, which happened earlier this
+> year)
+> The wiki for the North Carolina one next year is open for session
+> suggestions.
+> 
+> -kubke
+> 
+> On Fri, Sep 3, 2010 at 10:52 AM, Greg Grossmeier <greg at grossmeier.net>wrote:
+> 
+> > Please read it on our new blog!
+> >
+> > http://science.okfn.org/2010/09/02/sept-1st-working-group-meeting-summary/
+> >
+> > Thanks to everyone who attended.
+> >
+> > Greg
+> >
+> >
+> > --
+> > |       Greg Grossmeier |
+> > | http://grossmeier.net |
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> 
+> 
+> 
+> -- 
+> M Fabiana Kubke
+> 
+> Department of Anatomy | University of Auckland | New Zealand
+> (+64) 9 373-7599 Ext 86002 | (+64)9 923 6002 (direct) | Mobile: (+64) 210
+> 437 121
+> 
+> Skype: superfabs | http://twitter.com/Kubke | http://identi.ca/kubke |
+> http://buildingblogsofscience.wordpress.com |
+> http://sciblogs.co.nz/building-blogs-of-science |
+> http://popscinz.wordpress.com
+
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Thu Sep  2 15:55:00 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Thu, 2 Sep 2010 15:55:00 +0100
+Subject: [open-science] BMC Research Notes - adding value to your data
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02E44045@SEGBLOGR0008.springer-sbm.com>
+
+Dear Open Science members,
+
+ 
+
+I thought you might be interested to read about a new open data
+initiative at BioMed Central, which focuses on encouraging the adoption
+of data standards and sharing of data in re-usable formats.
+
+ 
+
+BMC Blog: http://bit.ly/dkCVw6
+
+BMC Research Notes editorial: 
+http://www.biomedcentral.com/1756-0500/3/235/
+<http://www.biomedcentral.com/1756-0500/3/235/abstract>  and related
+Data Note: http://www.biomedcentral.com/1756-0500/3/234/ 
+
+ 
+
+Thanks to the list members who were consulted at earlier stages of this
+initiative.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Associate Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+
+Follow BioMed Central:
+
+  <http://twitter.com/BioMedCentral> 
+
+  <http://www.facebook.com/BioMedCentral> 
+
+  <http://www.linkedin.com/groups?gid=2807240> 
+
+  <http://www.youtube.com/user/BioMedCentral> 
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100902/288d2043/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 17476 bytes
+Desc: image001.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100902/288d2043/attachment-0003.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11050 bytes
+Desc: image002.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100902/288d2043/attachment-0004.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11164 bytes
+Desc: image003.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100902/288d2043/attachment-0005.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 357 bytes
+Desc: image004.gif
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100902/288d2043/attachment-0001.gif>
+
+From jonathan.gray at okfn.org  Fri Sep  3 17:27:12 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 3 Sep 2010 18:27:12 +0200
+Subject: [open-science] Fwd: Adding value to data: BioMed Central calls for
+ greater researcher sharing
+In-Reply-To: <MW068-PRDAPPLDC63d145b27e174ad4bf66f87a7aec2993@mw068-prdappldc>
+References: <MW068-PRDAPPLDC63d145b27e174ad4bf66f87a7aec2993@mw068-prdappldc>
+Message-ID: <AANLkTikaiebvetjsX=k2Z1u9S6yhNTbBvQeSJ4ByyS7w@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Springer Press Office <matthew.mckay at biomedcentral.com>
+Date: Thu, Sep 2, 2010 at 11:35 AM
+Subject: Adding value to data: BioMed Central calls for greater
+researcher sharing
+To: "info at okfn.org" <info at okfn.org>
+
+
+Send Date:2-Sep-2010 10:34
+
+Dear Colleague,
+
+Below is a link to a release detailing BioMed Central?s call for
+increased transparency and access to raw research data.
+
+The open access journal, BMC Research Notes, is seeking to encourage
+greater data sharing by waiving the publication fee for all articles
+which use or link to open data that is prepared in line with a
+community-accepted standard.
+
+This is for immediate release.
+
+Please let me know if you have any queries.
+
+Best wishes,
+Matt
+
+Matt McKay
+Head of Public Relations
+BioMed Central
+Tel: +44 (0)20 3192 2126
+Mob: +44 (0)7825 257 423
+Web: www.biomedcentral.com
+
+Please click on the link(s) provided.
+
+NewsRelease_Adding_value_to_data-BioMed_Central_calls_for_greater_researcher_sharing.doc
+
+
+
+For further information, please reply to Springer Press Office
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Fri Sep  3 17:42:11 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 3 Sep 2010 18:42:11 +0200
+Subject: [open-science] BMC Research Notes - adding value to your data
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02E44045@SEGBLOGR0008.springer-sbm.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02E44045@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <AANLkTinUP+9JJA1_8BA2VG6CoUjrWomVCouRn80cqKN7@mail.gmail.com>
+
+Fantastic news!
+
+Wonder if we should start putting news related to open data in science on a
+group blog at science.okfn.org?
+
+Currently science related news at OKF is on this list and at:
+
+  http://blog.okfn.org/taxonomy/open-science/
+
+Any thoughts? Anyone up for some news curation? ;-)
+
+On Thu, Sep 2, 2010 at 4:55 PM, Iain Hrynaszkiewicz <
+Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+
+>  Dear Open Science members,
+>
+>
+>
+> I thought you might be interested to read about a new open data initiative
+> at BioMed Central, which focuses on encouraging the adoption of data
+> standards and sharing of data in re-usable formats.
+>
+>
+>
+> BMC Blog: http://bit.ly/dkCVw6
+>
+> BMC Research Notes editorial:
+> http://www.biomedcentral.com/1756-0500/3/235/<http://www.biomedcentral.com/1756-0500/3/235/abstract>and related Data Note:
+> http://www.biomedcentral.com/1756-0500/3/234/
+>
+>
+>
+> Thanks to the list members who were consulted at earlier stages of this
+> initiative.
+>
+>
+>
+> Best regards,
+>
+>
+>
+> Iain
+>
+> Iain Hrynaszkiewicz
+> Associate Journal Publisher
+>
+> *BioMed Central*
+> 236 Gray's Inn Road
+> London, WC1X 8HB
+>
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> M: +44 (0)782 594 0538
+> W: www.biomedcentral.com
+>
+> Follow BioMed Central:
+>
+> [image: cid:image001.jpg at 01CB3975.0EFB53E0]<http://twitter.com/BioMedCentral>
+>
+> [image: Facebook] <http://www.facebook.com/BioMedCentral>
+>
+> [image: cid:image003.jpg at 01CB3975.0EFB53E0]<http://www.linkedin.com/groups?gid=2807240>
+>
+> [image: YouTube] <http://www.youtube.com/user/BioMedCentral>
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/42d56057/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 357 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/42d56057/attachment-0001.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11164 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/42d56057/attachment-0003.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 17476 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/42d56057/attachment-0004.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11050 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/42d56057/attachment-0005.jpeg>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Fri Sep  3 17:46:23 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Fri, 3 Sep 2010 17:46:23 +0100
+Subject: [open-science] BMC Research Notes - adding value to your data
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02E44045@SEGBLOGR0008.springer-sbm.com>
+	<AANLkTinUP+9JJA1_8BA2VG6CoUjrWomVCouRn80cqKN7@mail.gmail.com>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02E442E3@SEGBLOGR0008.springer-sbm.com>
+
+Apologies for interrupting the new direction of the thread, but another
+piece of open data news from BMC (for those not at #solo10)
+
+ 
+
+Our draft position statement on open data and licensing is now available
+for comment:
+
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/join_the_data_deb
+ate_draft
+
+http://blogs.openaccesscentral.com/blogs/bmcblog/resource/opendatastatem
+entdraft.pdf
+
+ 
+
+Includes a proposal that, from a specific date, any author submitting to
+a BioMed Central journal would agree to dedicate the data elements of
+their article and supplementary material to the public domain and apply
+an open data conformant licence
+<http://www.opendefinition.org/licenses/> , such as Creative Commons CC0
+<http://creativecommons.org/publicdomain/zero/1.0/> .
+
+ 
+
+Best,
+
+ 
+
+Iain
+
+ 
+
+From: okfn.jonathan.gray at googlemail.com
+[mailto:okfn.jonathan.gray at googlemail.com] On Behalf Of Jonathan Gray
+Sent: 03 September 2010 17:42
+To: Iain Hrynaszkiewicz
+Cc: open-science at lists.okfn.org
+Subject: Re: [open-science] BMC Research Notes - adding value to your
+data
+
+ 
+
+Fantastic news!
+
+Wonder if we should start putting news related to open data in science
+on a group blog at science.okfn.org?
+
+Currently science related news at OKF is on this list and at:
+
+  http://blog.okfn.org/taxonomy/open-science/
+
+Any thoughts? Anyone up for some news curation? ;-)
+
+On Thu, Sep 2, 2010 at 4:55 PM, Iain Hrynaszkiewicz <
+Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+
+Dear Open Science members,
+
+ 
+
+I thought you might be interested to read about a new open data
+initiative at BioMed Central, which focuses on encouraging the adoption
+of data standards and sharing of data in re-usable formats.
+
+ 
+
+BMC Blog: http://bit.ly/dkCVw6
+
+BMC Research Notes editorial: 
+http://www.biomedcentral.com/1756-0500/3/235/
+<http://www.biomedcentral.com/1756-0500/3/235/abstract>  and related
+Data Note: http://www.biomedcentral.com/1756-0500/3/234/ 
+
+ 
+
+Thanks to the list members who were consulted at earlier stages of this
+initiative.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Associate Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+
+Follow BioMed Central:
+
+  <http://twitter.com/BioMedCentral> 
+
+  <http://www.facebook.com/BioMedCentral> 
+
+  <http://www.linkedin.com/groups?gid=2807240> 
+
+  <http://www.youtube.com/user/BioMedCentral> 
+
+ 
+
+ 
+
+ 
+
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/e96b8a5c/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 17476 bytes
+Desc: image001.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/e96b8a5c/attachment-0003.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11050 bytes
+Desc: image002.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/e96b8a5c/attachment-0004.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11164 bytes
+Desc: image003.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/e96b8a5c/attachment-0005.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 357 bytes
+Desc: image004.gif
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/e96b8a5c/attachment-0001.gif>
+
+From c.rusbridge at googlemail.com  Fri Sep  3 20:47:40 2010
+From: c.rusbridge at googlemail.com (Chris Rusbridge)
+Date: Fri, 3 Sep 2010 20:47:40 +0100
+Subject: [open-science] Brief persuasive case for data sharing?
+Message-ID: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+
+Dear Open Science folks, I am helping JISC prepare a FAQ on the implications of Freedom of Information and Environmental Information legislation for researchers, particularly as regards requests for their own research data. One obvious question is "Why should I make my data available?". My current (weak) answer is:
+
+"Most research is paid for by the public, and that leads to a presumption in favour of openness. Indeed, some supporters of Open Science would make all their data publicly available as (or very soon after) they are created. [Needs link here, inc to Panton Principles I think]
+
+"Research funders and journal editors are both beginning to set policies in favour of making data available. Usually this applies to data from completed research, or supporting findings in publications. This is part of the general idea that science (and indeed all research) should be verifiable by others.
+
+"A presumption in favour of openness is one thing, but the Freedom of Information Acts and Environmental Information Regulations are the law in the UK (there is slightly different legislation in Scotland than in the rest of the UK, the details of which we try to cover in other answers). As always with the law, the devil lies in the detail, so the general answer to whether you need to make information available to someone else is 'it depends?' "
+
+Can you suggest improvements to this, preferably no more than doubling its length?
+
+There will be many more questions in the FAQ, looking at various cases where one cannot share data (privacy, ethical concerns etc), and the exemptions (or exceptions) you can try if you really don't want to share (or not yet). But this is the main place to make a case FOR sharing.
+
+Thanks for your help,
+
+--
+Chris Rusbridge
+Consultant
+Mobile: +44 791 7423828
+Email: c.rusbridge at gmail.com
+
+
+
+
+
+
+From dorothea.salo at gmail.com  Fri Sep  3 20:52:28 2010
+From: dorothea.salo at gmail.com (Dorothea Salo)
+Date: Fri, 3 Sep 2010 14:52:28 -0500
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+Message-ID: <AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+
+Maybe try this:
+
+?Publicly available data was significantly (p=0.006) associated with a
+69% increase in citations, independently of journal impact factor,
+date of publication, and author country of origin.? Piwowar, Heather.
+?Foundational studies for measuring the impact, prevalence, and
+patterns of publicly sharing biomedical research data.? Dissertation,
+University of Pittsburgh, 2010.
+
+I just popped it into a slideshow of mine. I've also seen people use
+the recent NYT story about data-sharing and Alzheimer's, though it's
+not quite a paradigm case because the data there weren't fully open.
+
+Dorothea
+
+-- 
+Dorothea Salo? ? ? ? ? ? ? ? dsalo at library.wisc.edu
+Research Services Librarian? ? ? AIM: mindsatuw
+University of Wisconsin
+Rm 330B, Memorial Library
+(608) 262-5493
+
+
+From lmckee at opengeospatial.org  Fri Sep  3 20:59:01 2010
+From: lmckee at opengeospatial.org (Lance McKee)
+Date: Fri, 3 Sep 2010 15:59:01 -0400
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+Message-ID: <F12C505A-6151-4CBA-B482-E8D53D64D403@opengeospatial.org>
+
+Chris, see this article in earthzine, "18 Reasons for Open Publication  
+of Geoscience Data": http://www.earthzine.org/2010/08/04/18-reasons-for-open-publication-of-geoscience-data/ 
+  .  I'll let you do the thinning.
+
+Lance
+
+Lance McKee
+Senior Staff Writer
+Open Geospatial Consortium (OGC)
+508-752-0108
+lmckee at opengeospatial.org
+
+The OGC: Making location count...
+http://www.opengeospatial.org/contact
+
+
+
+On Sep 3, 2010, at 3:47 PM, Chris Rusbridge wrote:
+
+> Dear Open Science folks, I am helping JISC prepare a FAQ on the  
+> implications of Freedom of Information and Environmental Information  
+> legislation for researchers, particularly as regards requests for  
+> their own research data. One obvious question is "Why should I make  
+> my data available?". My current (weak) answer is:
+>
+> "Most research is paid for by the public, and that leads to a  
+> presumption in favour of openness. Indeed, some supporters of Open  
+> Science would make all their data publicly available as (or very  
+> soon after) they are created. [Needs link here, inc to Panton  
+> Principles I think]
+>
+> "Research funders and journal editors are both beginning to set  
+> policies in favour of making data available. Usually this applies to  
+> data from completed research, or supporting findings in  
+> publications. This is part of the general idea that science (and  
+> indeed all research) should be verifiable by others.
+>
+> "A presumption in favour of openness is one thing, but the Freedom  
+> of Information Acts and Environmental Information Regulations are  
+> the law in the UK (there is slightly different legislation in  
+> Scotland than in the rest of the UK, the details of which we try to  
+> cover in other answers). As always with the law, the devil lies in  
+> the detail, so the general answer to whether you need to make  
+> information available to someone else is 'it depends?' "
+>
+> Can you suggest improvements to this, preferably no more than  
+> doubling its length?
+>
+> There will be many more questions in the FAQ, looking at various  
+> cases where one cannot share data (privacy, ethical concerns etc),  
+> and the exemptions (or exceptions) you can try if you really don't  
+> want to share (or not yet). But this is the main place to make a  
+> case FOR sharing.
+>
+> Thanks for your help,
+>
+> --
+> Chris Rusbridge
+> Consultant
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/c9a1ffe7/attachment.htm>
+
+From band at acm.org  Fri Sep  3 21:54:57 2010
+From: band at acm.org (William L. Anderson)
+Date: Fri, 03 Sep 2010 15:54:57 -0500
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+Message-ID: <4C8160A1.7020109@acm.org>
+
+Chris, you may know of this 2007 special issue of the CODATA Data
+Science Journal that addresses a number of issues, rationales, and
+cautions related to providing open data:
+
+http://www.codata.org/dsj/special-open-data.html
+
+These workshop presentations are focused on policy but also highlighted
+then current data sharing efforts.
+
+Chris Rusbridge wrote:
+> Dear Open Science folks, I am helping JISC prepare a FAQ on the implications of Freedom of Information and Environmental Information legislation for researchers, particularly as regards requests for their own research data. One obvious question is "Why should I make my data available?". My current (weak) answer is:
+> 
+> "Most research is paid for by the public, and that leads to a presumption in favour of openness. Indeed, some supporters of Open Science would make all their data publicly available as (or very soon after) they are created. [Needs link here, inc to Panton Principles I think]
+> 
+> "Research funders and journal editors are both beginning to set policies in favour of making data available. Usually this applies to data from completed research, or supporting findings in publications. This is part of the general idea that science (and indeed all research) should be verifiable by others.
+> 
+> "A presumption in favour of openness is one thing, but the Freedom of Information Acts and Environmental Information Regulations are the law in the UK (there is slightly different legislation in Scotland than in the rest of the UK, the details of which we try to cover in other answers). As always with the law, the devil lies in the detail, so the general answer to whether you need to make information available to someone else is 'it depends?' "
+> 
+> Can you suggest improvements to this, preferably no more than doubling its length?
+> 
+> There will be many more questions in the FAQ, looking at various cases where one cannot share data (privacy, ethical concerns etc), and the exemptions (or exceptions) you can try if you really don't want to share (or not yet). But this is the main place to make a case FOR sharing.
+> 
+> Thanks for your help,
+> 
+> --
+> Chris Rusbridge
+> Consultant
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+> 
+> 
+
+
+Bill Anderson
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 5312 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/d267d33f/attachment.bin>
+
+From hpiwowar at gmail.com  Fri Sep  3 22:11:38 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Fri, 3 Sep 2010 14:11:38 -0700
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+	<AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+Message-ID: <AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+
+Thanks Dorothea!
+
+That study was also published in PLoS ONE, in case you prefer a
+non-dissertation citation:
+http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000308
+
+Similar, but earlier and with a way cooler title, is Gleditsch and
+Strand's "Posting Your Data: Will You Be Scooped or Will You Be Famous?"
+http://www.prio.no/Research-and-Publications/Publication/?oid=55406
+
+Chris, another argument I've often heard: publicly archive your data so that
+you can find it again later, yourself :)
+
+There's also lots to be said about "being the change you want to
+see," supplemented with stats on the frequency and implications of data
+withholding, etc.  Let me know if you want refs, or you can brave a mongo
+list of refs on data sharing/withholding at
+Mendeley<http://www.mendeley.com/research-papers/collections/3498871/Data-sharing-and-withholding/>.
+ I have many relevant papers tagged with "motivation" or similar.
+
+You might also find something useful in the latter part of these
+presentations? (1<http://www.slideshare.net/hpiwowar/why-study-data-sharing-why-share-your-data>,
+2<http://www.slideshare.net/hpiwowar/measuring-the-adoption-of-open-science-presentation>
+)
+
+Let me know if I can be of more help....
+
+Heather
+
+Heather Piwowar
+* *
+
+* *
+
+* *
+
+* *
+
+* *
+*
+
+DataONE postdoc with NESCent and Dryad
+
+**
+
+remote from Dept of Zoology, UBC, Vancouver Canada
+
+**
+
+hpiwowar at nescent.org
+
+** **
+
+http://researchremix.org
+** **@researchremix
+
+<http://twitter.com/researchremix>*
+
+On Fri, Sep 3, 2010 at 12:52 PM, Dorothea Salo <dorothea.salo at gmail.com>wrote:
+
+> Maybe try this:
+>
+> ?Publicly available data was significantly (p=0.006) associated with a
+> 69% increase in citations, independently of journal impact factor,
+> date of publication, and author country of origin.? Piwowar, Heather.
+> ?Foundational studies for measuring the impact, prevalence, and
+> patterns of publicly sharing biomedical research data.? Dissertation,
+> University of Pittsburgh, 2010.
+>
+> I just popped it into a slideshow of mine. I've also seen people use
+> the recent NYT story about data-sharing and Alzheimer's, though it's
+> not quite a paradigm case because the data there weren't fully open.
+>
+> Dorothea
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/a03c93a4/attachment-0001.htm>
+
+From a.whyte at ed.ac.uk  Sat Sep  4 00:13:52 2010
+From: a.whyte at ed.ac.uk (Angus Whyte)
+Date: Sat, 04 Sep 2010 00:13:52 +0100
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>	<AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+	<AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+Message-ID: <4C818130.6060409@ed.ac.uk>
+
+  Heather,
+
+I wondered if you have found this association holding up independently 
+of the number of authors?
+
+Angus Whyte,
+DCC
+
+
+
+On 03/09/2010 22:11, Heather Piwowar wrote:
+> Thanks Dorothea!
+>
+> That study was also published in PLoS ONE, in case you prefer a 
+> non-dissertation citation:
+> http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000308
+>
+> Similar, but earlier and with a way cooler title, is Gleditsch and 
+> Strand's "Posting Your Data: Will You Be Scooped or Will You Be Famous?"
+> http://www.prio.no/Research-and-Publications/Publication/?oid=55406
+>
+> Chris, another argument I've often heard: publicly archive your data 
+> so that you can find it again later, yourself :)
+>
+> There's also lots to be said about "being the change you want to 
+> see," supplemented with stats on the frequency and implications of 
+> data withholding, etc.  Let me know if you want refs, or you can brave 
+> a mongo list of refs on data sharing/withholding at Mendeley 
+> <http://www.mendeley.com/research-papers/collections/3498871/Data-sharing-and-withholding/>. 
+>  I have many relevant papers tagged with "motivation" or similar.
+>
+> You might also find something useful in the latter part of these 
+> presentations? (1 
+> <http://www.slideshare.net/hpiwowar/why-study-data-sharing-why-share-your-data%20>, 
+> 2 
+> <http://www.slideshare.net/hpiwowar/measuring-the-adoption-of-open-science-presentation>)
+>
+> Let me know if I can be of more help....
+>
+> Heather
+>
+> Heather Piwowar
+> / /
+>
+> / /
+>
+> / /
+>
+> / /
+>
+> / /
+>
+> /
+>
+> DataONE postdoc with NESCent and Dryad
+>
+>
+> //
+>
+> remote from Dept of Zoology, UBC, Vancouver Canada
+>
+>
+> //
+>
+> hpiwowar at nescent.org <mailto:hpiwowar at nescent.org>
+>
+>
+> // //
+>
+> http://researchremix.org
+>
+> // //@researchremix
+>
+> <http://twitter.com/researchremix>/
+> On Fri, Sep 3, 2010 at 12:52 PM, Dorothea Salo 
+> <dorothea.salo at gmail.com <mailto:dorothea.salo at gmail.com>> wrote:
+>
+>     Maybe try this:
+>
+>     ?Publicly available data was significantly (p=0.006) associated with a
+>     69% increase in citations, independently of journal impact factor,
+>     date of publication, and author country of origin.? Piwowar, Heather.
+>     ?Foundational studies for measuring the impact, prevalence, and
+>     patterns of publicly sharing biomedical research data.? Dissertation,
+>     University of Pittsburgh, 2010.
+>
+>     I just popped it into a slideshow of mine. I've also seen people use
+>     the recent NYT story about data-sharing and Alzheimer's, though it's
+>     not quite a paradigm case because the data there weren't fully open.
+>
+>     Dorothea
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100904/06cbdc70/attachment.htm>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100904/06cbdc70/attachment.txt>
+
+From hpiwowar at gmail.com  Sat Sep  4 00:54:24 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Fri, 3 Sep 2010 16:54:24 -0700
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <4C818130.6060409@ed.ac.uk>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+	<AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+	<AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+	<4C818130.6060409@ed.ac.uk>
+Message-ID: <AANLkTikNBQePdSxE8dGzSLMFZ+VD4jjuscxQgAzvxPzW@mail.gmail.com>
+
+Hi Angus,
+
+Good question.  Unfortunately I haven't looked at that.  That study was
+pretty small and so only permitted a few covariates.
+
+fwiw, I hope to look at it in the future.  As a result of my dissertation, I
+now have a dataset that contains "number of authors" and 100+ other
+covariates for 11,000 publications that created gene expression microarray
+data, 25% of which shared have an associated dataset in public repositories.
+ I need to gather citation data for all these publications, then will have a
+comprehensive look at the citation benefit.  Just need more hours in the
+day.  Or a collaborator!  The dataset is publicly
+available<http://github.com/hpiwowar/Piwowar-Thesis-Aim3-2010>:)
+
+Heather
+
+
+On Fri, Sep 3, 2010 at 4:13 PM, Angus Whyte <a.whyte at ed.ac.uk> wrote:
+
+>  Heather,
+>
+> I wondered if you have found this association holding up independently of
+> the number of authors?
+>
+> Angus Whyte,
+> DCC
+>
+>
+>
+>
+> On 03/09/2010 22:11, Heather Piwowar wrote:
+>
+> Thanks Dorothea!
+>
+>  That study was also published in PLoS ONE, in case you prefer a
+> non-dissertation citation:
+> http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000308
+>
+>  Similar, but earlier and with a way cooler title, is Gleditsch and
+> Strand's "Posting Your Data: Will You Be Scooped or Will You Be Famous?"
+> http://www.prio.no/Research-and-Publications/Publication/?oid=55406
+>
+>  Chris, another argument I've often heard: publicly archive your data so
+> that you can find it again later, yourself :)
+>
+>  There's also lots to be said about "being the change you want to
+> see," supplemented with stats on the frequency and implications of data
+> withholding, etc.  Let me know if you want refs, or you can brave a mongo
+> list of refs on data sharing/withholding at Mendeley<http://www.mendeley.com/research-papers/collections/3498871/Data-sharing-and-withholding/>.
+>  I have many relevant papers tagged with "motivation" or similar.
+>
+>  You might also find something useful in the latter part of these
+> presentations? (1<http://www.slideshare.net/hpiwowar/why-study-data-sharing-why-share-your-data%20>,
+> 2<http://www.slideshare.net/hpiwowar/measuring-the-adoption-of-open-science-presentation>
+> )
+>
+>  Let me know if I can be of more help....
+>
+>  Heather
+>
+> Heather Piwowar
+> * *
+>
+> * *
+>
+> * *
+>
+> * *
+>
+> * *
+> *
+>
+> DataONE postdoc with NESCent and Dryad
+>
+> **
+>
+> remote from Dept of Zoology, UBC, Vancouver Canada
+>
+> **
+>
+> hpiwowar at nescent.org
+>
+> ** **
+>
+> http://researchremix.org
+>  ** **@researchremix
+>
+>  <http://twitter.com/researchremix>*
+> On Fri, Sep 3, 2010 at 12:52 PM, Dorothea Salo <dorothea.salo at gmail.com>wrote:
+>
+>> Maybe try this:
+>>
+>> ?Publicly available data was significantly (p=0.006) associated with a
+>> 69% increase in citations, independently of journal impact factor,
+>> date of publication, and author country of origin.? Piwowar, Heather.
+>> ?Foundational studies for measuring the impact, prevalence, and
+>> patterns of publicly sharing biomedical research data.? Dissertation,
+>> University of Pittsburgh, 2010.
+>>
+>> I just popped it into a slideshow of mine. I've also seen people use
+>> the recent NYT story about data-sharing and Alzheimer's, though it's
+>> not quite a paradigm case because the data there weren't fully open.
+>>
+>> Dorothea
+>>
+>>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+> The University of Edinburgh is a charitable body, registered in
+> Scotland, with registration number SC005336.
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100903/057e1cce/attachment.htm>
+
+From egon.willighagen at gmail.com  Sat Sep  4 09:23:49 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sat, 4 Sep 2010 10:23:49 +0200
+Subject: [open-science] Fwd: Adding value to data: BioMed Central calls
+ for greater researcher sharing
+In-Reply-To: <AANLkTikaiebvetjsX=k2Z1u9S6yhNTbBvQeSJ4ByyS7w@mail.gmail.com>
+References: <MW068-PRDAPPLDC63d145b27e174ad4bf66f87a7aec2993@mw068-prdappldc>
+	<AANLkTikaiebvetjsX=k2Z1u9S6yhNTbBvQeSJ4ByyS7w@mail.gmail.com>
+Message-ID: <AANLkTinDGVpsgJWqx8GQ7Vqg82MLHjcRSgWELHCza436@mail.gmail.com>
+
+Hi all,
+
+On Fri, Sep 3, 2010 at 6:27 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> The open access journal, BMC Research Notes, is seeking to encourage
+> greater data sharing by waiving the publication fee for all articles
+> which use or link to open data that is prepared in line with a
+> community-accepted standard.
+
+I think this is great news indeed! Of course, the data has always been
+available under a CC license, but making the data available under a
+public domain waiver is perfect.
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Post-doc @ Uppsala University (only until 2010-09-30)
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From pm286 at cam.ac.uk  Sat Sep  4 10:13:11 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 4 Sep 2010 10:13:11 +0100
+Subject: [open-science] Presentation at ScienceOnline
+Message-ID: <AANLkTin2gqSn6uVs4Go-9SDHxh6ayq+YHO1EKCm0gk=8@mail.gmail.com>
+
+I am running a session on the GreenChainReaction
+ http://www.scienceonlinelondon.org/programme.php?tab=abstracts#breakout11and
+IsItOpen at ScienceOnline today at 1100 BST == 1000 UTC. This is held
+in
+the British LIbrary http://www.scienceonlinelondon.org/ and the OKF's
+Etherpad at:
+http://okfnpad.org/soloSession
+(this also points to other pads we have used)
+ Be delighted if any OKF'ers are in the pad.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100904/32612e20/attachment.htm>
+
+From a.whyte at ed.ac.uk  Sat Sep  4 10:48:05 2010
+From: a.whyte at ed.ac.uk (Angus Whyte)
+Date: Sat, 04 Sep 2010 10:48:05 +0100
+Subject: [open-science] Brief persuasive case for data sharing?
+In-Reply-To: <AANLkTikNBQePdSxE8dGzSLMFZ+VD4jjuscxQgAzvxPzW@mail.gmail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>	<AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>	<AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>	<4C818130.6060409@ed.ac.uk>
+	<AANLkTikNBQePdSxE8dGzSLMFZ+VD4jjuscxQgAzvxPzW@mail.gmail.com>
+Message-ID: <4C8215D5.1090102@ed.ac.uk>
+
+Hi Heather
+
+Thanks.. I'll get back to you on that! There is that study by Wuchty 
+showing that publications from large collaborations get cited more, so 
+It would be really interesting to look at whether it is a factor. I'd 
+like to collaborate...though more days in the week would be useful :)
+
+Angus
+
+
+
+On 04/09/2010 00:54, Heather Piwowar wrote:
+> Hi Angus,
+>
+> Good question.  Unfortunately I haven't looked at that.  That study 
+> was pretty small and so only permitted a few covariates.
+>
+> fwiw, I hope to look at it in the future.  As a result of my 
+> dissertation, I now have a dataset that contains "number of authors" 
+> and 100+ other covariates for 11,000 publications that created gene 
+> expression microarray data, 25% of which shared have an associated 
+> dataset in public repositories.  I need to gather citation data for 
+> all these publications, then will have a comprehensive look at the 
+> citation benefit.  Just need more hours in the day.  Or a 
+> collaborator!  The dataset is publicly available 
+> <http://github.com/hpiwowar/Piwowar-Thesis-Aim3-2010> :)
+>
+> Heather
+>
+>
+> On Fri, Sep 3, 2010 at 4:13 PM, Angus Whyte <a.whyte at ed.ac.uk 
+> <mailto:a.whyte at ed.ac.uk>> wrote:
+>
+>     Heather,
+>
+>     I wondered if you have found this association holding up
+>     independently of the number of authors?
+>
+>     Angus Whyte,
+>     DCC
+>
+>
+>
+>
+>     On 03/09/2010 22:11, Heather Piwowar wrote:
+>>     Thanks Dorothea!
+>>
+>>     That study was also published in PLoS ONE, in case you prefer a
+>>     non-dissertation citation:
+>>     http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000308
+>>
+>>     Similar, but earlier and with a way cooler title, is Gleditsch
+>>     and Strand's "Posting Your Data: Will You Be Scooped or Will You
+>>     Be Famous?"
+>>     http://www.prio.no/Research-and-Publications/Publication/?oid=55406
+>>
+>>     Chris, another argument I've often heard: publicly archive your
+>>     data so that you can find it again later, yourself :)
+>>
+>>     There's also lots to be said about "being the change you want to
+>>     see," supplemented with stats on the frequency and implications
+>>     of data withholding, etc.  Let me know if you want refs, or you
+>>     can brave a mongo list of refs on data sharing/withholding at
+>>     Mendeley
+>>     <http://www.mendeley.com/research-papers/collections/3498871/Data-sharing-and-withholding/>.
+>>      I have many relevant papers tagged with "motivation" or similar.
+>>
+>>     You might also find something useful in the latter part of these
+>>     presentations? (1
+>>     <http://www.slideshare.net/hpiwowar/why-study-data-sharing-why-share-your-data%20>,
+>>     2
+>>     <http://www.slideshare.net/hpiwowar/measuring-the-adoption-of-open-science-presentation>)
+>>
+>>     Let me know if I can be of more help....
+>>
+>>     Heather
+>>
+>>     Heather Piwowar
+>>     / /
+>>
+>>     / /
+>>
+>>     / /
+>>
+>>     / /
+>>
+>>     / /
+>>
+>>     /
+>>
+>>     DataONE postdoc with NESCent and Dryad
+>>
+>>
+>>     //
+>>
+>>     remote from Dept of Zoology, UBC, Vancouver Canada
+>>
+>>
+>>     //
+>>
+>>     hpiwowar at nescent.org <mailto:hpiwowar at nescent.org>
+>>
+>>
+>>     // //
+>>
+>>     http://researchremix.org
+>>
+>>     // //@researchremix
+>>
+>>     <http://twitter.com/researchremix>/
+>>     On Fri, Sep 3, 2010 at 12:52 PM, Dorothea Salo
+>>     <dorothea.salo at gmail.com <mailto:dorothea.salo at gmail.com>> wrote:
+>>
+>>         Maybe try this:
+>>
+>>         ?Publicly available data was significantly (p=0.006)
+>>         associated with a
+>>         69% increase in citations, independently of journal impact
+>>         factor,
+>>         date of publication, and author country of origin.? Piwowar,
+>>         Heather.
+>>         ?Foundational studies for measuring the impact, prevalence, and
+>>         patterns of publicly sharing biomedical research data.?
+>>         Dissertation,
+>>         University of Pittsburgh, 2010.
+>>
+>>         I just popped it into a slideshow of mine. I've also seen
+>>         people use
+>>         the recent NYT story about data-sharing and Alzheimer's,
+>>         though it's
+>>         not quite a paradigm case because the data there weren't
+>>         fully open.
+>>
+>>         Dorothea
+>>
+>>
+>>     _______________________________________________
+>>     open-science mailing list
+>>     open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+>>     http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>     The University of Edinburgh is a charitable body, registered in
+>     Scotland, with registration number SC005336.
+>
+>     _______________________________________________
+>     open-science mailing list
+>     open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+>     http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100904/9b414231/attachment.htm>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100904/9b414231/attachment.asc>
+
+From ana at ananelson.com  Mon Sep 13 15:36:59 2010
+From: ana at ananelson.com (Ana Nelson)
+Date: Mon, 13 Sep 2010 07:36:59 -0700
+Subject: [open-science] document automation/reproducible research software
+Message-ID: <113468beeb41f35280492d3a7b69ee79@localhost>
+
+I'd like to ask the group for feedback. My new project called Dexy is
+about to be launched, you can read up on it here: http://blog.dexy.it/13
+
+It's designed to make it easier to automate research documents, both for
+efficiency's sake and to facilitate open science. It's similar to Sweave
+in intent, but much more comprehensive and flexible in implementation.
+
+If anyone is interested in trying Dexy out, or wants to have a chat to
+explore possibilities for using it, please let me know. I'm a few years
+out
+of academia, so I'd really appreciate feedback from that perspective. I'm
+also on the lookout for good demo opportunities, particularly ones which
+incorporate open data sets.
+
+For now, I'd recommend people to have a working knowledge of Python for
+running Dexy but the goal is for it to be readily available to researchers
+with minimal programming knowledge (a web-based version is in the works
+too).
+
+Many Thanks!
+
+Regards,
+Ana
+
+
+
+From casbon at gmail.com  Mon Sep 13 16:49:19 2010
+From: casbon at gmail.com (James Casbon)
+Date: Mon, 13 Sep 2010 16:49:19 +0100
+Subject: [open-science] document automation/reproducible research
+	software
+In-Reply-To: <113468beeb41f35280492d3a7b69ee79@localhost>
+References: <113468beeb41f35280492d3a7b69ee79@localhost>
+Message-ID: <AANLkTi=1GbvCW-uhaRNoxsiyPUXXw5M25Jy05BQgYP5t@mail.gmail.com>
+
+On 13 September 2010 15:36, Ana Nelson <ana at ananelson.com> wrote:
+> For now, I'd recommend people to have a working knowledge of Python for
+> running Dexy but the goal is for it to be readily available to researchers
+> with minimal programming knowledge (a web-based version is in the works
+> too).
+>
+
+
+Hi Ana,
+
+I am also interested in this problem and there is a project for web
+based notebooks here: http://codenode.org/
+You may want to investigate this first before developing a new web
+frontend.  It has a good architecture, with pluggable engines for
+execution (I have implemented R, javascript).
+
+
+Good luck,
+James
+
+
+From kanzure at gmail.com  Mon Sep 13 23:13:46 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Mon, 13 Sep 2010 17:13:46 -0500
+Subject: [open-science] Fwd: Open Science Summit videos
+In-Reply-To: <AANLkTin9uUD2HTBbSQw+s994evGS3YEW1Do9-97uxaR1@mail.gmail.com>
+References: <AANLkTin9uUD2HTBbSQw+s994evGS3YEW1Do9-97uxaR1@mail.gmail.com>
+Message-ID: <AANLkTimTj8cL4S2nBRYkXHAU6-Du1a5U=tJH2Ah2a9Jk@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: kingjacob <kingjacob at gmail.com>
+Date: Mon, Sep 13, 2010 at 5:12 PM
+Subject: Open Science Summit videos
+To: Tx/Rx Labs <txrxlabs at googlegroups.com>, diybio at googlegroups.com
+
+
+The videos for the Open Science Summit are up on Fora.tv,
+http://fora.tv/partner/Open_Science_Summit
+
+One of my favorites:
+http://fora.tv/2010/07/31/Bunin_Hessel_Izant_Open_Source_Drug_Discovery
+--
+Cheers,
+Jacob Shiach
+http://opensciencefund.org
+
+--
+You received this message because you are subscribed to the Google
+Groups "DIYbio" group.
+To post to this group, send email to diybio at googlegroups.com.
+To unsubscribe from this group, send email to
+diybio+unsubscribe at googlegroups.com.
+For more options, visit this group at
+http://groups.google.com/group/diybio?hl=en.
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From c.rusbridge at googlemail.com  Tue Sep 14 14:53:42 2010
+From: c.rusbridge at googlemail.com (Chris Rusbridge)
+Date: Tue, 14 Sep 2010 14:53:42 +0100
+Subject: [open-science] Brief persuasive case for open science/data
+	sharing?
+In-Reply-To: <AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+	<AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+	<AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+Message-ID: <519D7900-0349-4AA7-BB83-5BB11511B0C7@googlemail.com>
+
+I've gone back to this, as my FAQ develops. The problem is, I think, that there is a significant difference between making data open once the research is published (or as part of publication), and making data either open or even available during a project, in advance of publication. FoI does bring the risk that researchers may be forced to make their data available before they have finished the research, even to their rivals. (Of course there are exemptions which may be able to be invoked in some circumstances.)
+
+The "Open Science" approach such as Cameron Neylon advocates is closer to this, if perhaps a bit more extreme. (By this I mean that I understand Open Science to want to put all data in the open as it is gathered, rather than making some data identified by a requester available under FoI when asked.)
+
+So is there a persuasive case for making data available during your research, before publication?
+
+--
+Chris Rusbridge
+Mobile: +44 791 7423828
+Email: c.rusbridge at gmail.com
+
+
+
+
+On 3 Sep 2010, at 22:11, Heather Piwowar wrote:
+
+> Thanks Dorothea!  
+> 
+> That study was also published in PLoS ONE, in case you prefer a non-dissertation citation:
+> http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000308
+> 
+> Similar, but earlier and with a way cooler title, is Gleditsch and Strand's "Posting Your Data: Will You Be Scooped or Will You Be Famous?"
+> http://www.prio.no/Research-and-Publications/Publication/?oid=55406
+> 
+> Chris, another argument I've often heard: publicly archive your data so that you can find it again later, yourself :)
+> 
+> There's also lots to be said about "being the change you want to see," supplemented with stats on the frequency and implications of data withholding, etc.  Let me know if you want refs, or you can brave a mongo list of refs on data sharing/withholding at Mendeley.  I have many relevant papers tagged with "motivation" or similar.
+> 
+> You might also find something useful in the latter part of these presentations? (1, 2)
+> 
+> Let me know if I can be of more help....
+> 
+> Heather
+> Heather Piwowar
+> 
+> 
+> 
+> 
+> 
+> DataONE postdoc with NESCent and Dryad 
+> remote from Dept of Zoology, UBC, Vancouver Canada 
+> hpiwowar at nescent.org 
+> http://researchremix.org
+> @researchremix
+> 
+> 
+> On Fri, Sep 3, 2010 at 12:52 PM, Dorothea Salo <dorothea.salo at gmail.com> wrote:
+> Maybe try this:
+> 
+> ?Publicly available data was significantly (p=0.006) associated with a
+> 69% increase in citations, independently of journal impact factor,
+> date of publication, and author country of origin.? Piwowar, Heather.
+> ?Foundational studies for measuring the impact, prevalence, and
+> patterns of publicly sharing biomedical research data.? Dissertation,
+> University of Pittsburgh, 2010.
+> 
+> I just popped it into a slideshow of mine. I've also seen people use
+> the recent NYT story about data-sharing and Alzheimer's, though it's
+> not quite a paradigm case because the data there weren't fully open.
+> 
+> Dorothea
+> 
+
+
+
+From pm286 at cam.ac.uk  Tue Sep 14 15:12:50 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 14 Sep 2010 15:12:50 +0100
+Subject: [open-science] Brief persuasive case for open science/data
+	sharing?
+In-Reply-To: <519D7900-0349-4AA7-BB83-5BB11511B0C7@googlemail.com>
+References: <3D747121-9833-4CDF-895E-C2FD128BF91A@googlemail.com>
+	<AANLkTi=U4enH+2ymhgX+8axHrdOz86+EfDCRiR=jNOsJ@mail.gmail.com>
+	<AANLkTint3Pj79GJ+CMjrMh70qFi7MPu7eytA7vcvO-3Y@mail.gmail.com>
+	<519D7900-0349-4AA7-BB83-5BB11511B0C7@googlemail.com>
+Message-ID: <AANLkTi=6AaYO1-B=b=MrP1qoPVrh5Ap7D8hU7AoGBdtc@mail.gmail.com>
+
+On Tue, Sep 14, 2010 at 2:53 PM, Chris Rusbridge <c.rusbridge at googlemail.com
+> wrote:
+
+> I've gone back to this, as my FAQ develops. The problem is, I think, that
+> there is a significant difference between making data open once the research
+> is published (or as part of publication), and making data either open or
+> even available during a project, in advance of publication. FoI does bring
+> the risk that researchers may be forced to make their data available before
+> they have finished the research, even to their rivals. (Of course there are
+> exemptions which may be able to be invoked in some circumstances.)
+>
+> The "Open Science" approach such as Cameron Neylon advocates is closer to
+> this, if perhaps a bit more extreme. (By this I mean that I understand Open
+> Science to want to put all data in the open as it is gathered, rather than
+> making some data identified by a requester available under FoI when asked.)
+>
+> So is there a persuasive case for making data available during your
+> research, before publication?
+>
+>
+It's important to stress that the philosophy may justifiably vary
+considerably between domains. My feeling is that Open Science is generally
+likely to be undertaken when there is already a community of involved
+scientists who are likely to be interested in the data as it comes out and
+who are already adjusting to giving appropriate credit to the creator. I
+think this is most likely in multidisciplinary fields, in areas where there
+is a perceived benefit to the community in early release of information, or
+where the data producer is, in some way, acting for the benefot of the
+community. Typical examples might be the systematic collection of data
+through a nationally or interantionally financed organisation.
+
+In an area where the reward structure favours closed research competing
+towards a single goal and prizes for the winner, then it's much less likely
+that anyone will publish research data as it happens.
+
+There may be an intermediate area where a scientist believes that their data
+may be of interest to others in complementary fields and where the risk of
+being scooped can be balanced against the benefit of enhanced scientific
+discovery. In a sense this is a blind market - it's possible that it could
+be developed into a market where there is active matching of people with
+data to share.
+
+If the ethos of data sharing is valued by funders then it's also possible
+that there is value in publishing some data (maybe not all) or if metrics
+for data re-use are developed which allow for early release then this may
+also be a positive strategy.
+
+P.
+
+
+--
+> Chris Rusbridge
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+>
+>
+>
+> --
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100914/3017c9fc/attachment.htm>
+
+From cameron.neylon at stfc.ac.uk  Tue Sep 14 15:26:58 2010
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Tue, 14 Sep 2010 15:26:58 +0100
+Subject: [open-science] Brief persuasive case for open science/data
+ sharing?
+In-Reply-To: <519D7900-0349-4AA7-BB83-5BB11511B0C7@googlemail.com>
+Message-ID: <C8B544C2.E9DC%cameron.neylon@stfc.ac.uk>
+
+I think it is probably worth separating quite strongly the issues of how
+much we publish (i.e. How much of the "research compendium" to borrow
+Victoria Stodden's terminology is made available) vs when it is published. I
+think it is a given that expectations are rising over how much of the
+relevant material, ideas, materials, data, software, etc will be made
+available. We are gradually winning that battle, which is fundamentally
+about the _quality_ of publication.
+
+The timeframe is a separate issue, and I think fighting the battles above is
+made easier by punting somewhat to one side for the minute. However I think
+there are both practical and philosophical arguments for publishing more
+sooner.
+
+1) It's a pain to go back and publish things. Much easier to publish them in
+some form as they come out. Formal publication can then be kept for those
+ideas and stories that deserve them.
+
+2) Your interim results may be useful to others in ways that you don't
+expect. This might particularly be the case e.g. for software but equally
+for data and materials.
+
+3) Finding collaborators: We have good evidence that publicly being "out
+there" doing a particular piece of work can bring both academic and
+commercial collaborators to the table who are willing to help. Avoiding
+unneccessary replication is part of this.
+
+4) Engagement: The attitude shift involved in putting stuff online
+automatically makes you think harder about how people see it and to make
+some effort to make it comprehensible. This can be low level engagement on
+its own and can also lead to more direct engagement as opportunities arise
+through community contributions.
+
+5) Accessibility: This is a core argument for me. If it's accessible to all
+it means its also accessible to you. This is a non-trivial argument in
+favour of radical openness. Pretty much all the stuff I've lost in the last
+five years involved collaborations where it wasn't possible to make things
+open.
+
+Essentially these arguments boil down to two types, the selfish and the
+community minded. The argument for the selfish is:
+
+"Well these funders are going want me to to make all of this data available
+and to publish more. Putting all of this stuff out immediately both keeps
+them off my back and means I don't have to put any effort into making it
+available later. Plus it means I'm sure of where all my students' stuff is!"
+
+The community minded version:
+
+"Well science is about replication and re-use and through making things
+available I make it easier to re-use. By making things available I'm
+allowing anyone to do all the things I haven't thought of. This will lead to
+more citations, more publications, and more collaborations to take forward
+my work."
+
+Hope that's helpful. Just off the top of my head as I try and upload some
+(now _properly_ analysed) data.
+
+Cheers
+
+Cameron
+
+
+
+On 14/09/2010 14:53, "Chris Rusbridge" <c.rusbridge at googlemail.com> wrote:
+
+> I've gone back to this, as my FAQ develops. The problem is, I think, that
+> there is a significant difference between making data open once the research
+> is published (or as part of publication), and making data either open or even
+> available during a project, in advance of publication. FoI does bring the risk
+> that researchers may be forced to make their data available before they have
+> finished the research, even to their rivals. (Of course there are exemptions
+> which may be able to be invoked in some circumstances.)
+> 
+> The "Open Science" approach such as Cameron Neylon advocates is closer to
+> this, if perhaps a bit more extreme. (By this I mean that I understand Open
+> Science to want to put all data in the open as it is gathered, rather than
+> making some data identified by a requester available under FoI when asked.)
+> 
+> So is there a persuasive case for making data available during your research,
+> before publication?
+> 
+> --
+> Chris Rusbridge
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+> 
+> 
+> 
+> 
+> On 3 Sep 2010, at 22:11, Heather Piwowar wrote:
+> 
+>> Thanks Dorothea!
+>> 
+>> That study was also published in PLoS ONE, in case you prefer a
+>> non-dissertation citation:
+>> http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000308
+>> 
+>> Similar, but earlier and with a way cooler title, is Gleditsch and Strand's
+>> "Posting Your Data: Will You Be Scooped or Will You Be Famous?"
+>> http://www.prio.no/Research-and-Publications/Publication/?oid=55406
+>> 
+>> Chris, another argument I've often heard: publicly archive your data so that
+>> you can find it again later, yourself :)
+>> 
+>> There's also lots to be said about "being the change you want to see,"
+>> supplemented with stats on the frequency and implications of data
+>> withholding, etc.  Let me know if you want refs, or you can brave a mongo
+>> list of refs on data sharing/withholding at Mendeley.  I have many relevant
+>> papers tagged with "motivation" or similar.
+>> 
+>> You might also find something useful in the latter part of these
+>> presentations? (1, 2)
+>> 
+>> Let me know if I can be of more help....
+>> 
+>> Heather
+>> Heather Piwowar
+>> 
+>> 
+>> 
+>> 
+>> 
+>> DataONE postdoc with NESCent and Dryad
+>> remote from Dept of Zoology, UBC, Vancouver Canada
+>> hpiwowar at nescent.org
+>> http://researchremix.org
+>> @researchremix
+>> 
+>> 
+>> On Fri, Sep 3, 2010 at 12:52 PM, Dorothea Salo <dorothea.salo at gmail.com>
+>> wrote:
+>> Maybe try this:
+>> 
+>> ?Publicly available data was significantly (p=0.006) associated with a
+>> 69% increase in citations, independently of journal impact factor,
+>> date of publication, and author country of origin.? Piwowar, Heather.
+>> ?Foundational studies for measuring the impact, prevalence, and
+>> patterns of publicly sharing biomedical research data.? Dissertation,
+>> University of Pittsburgh, 2010.
+>> 
+>> I just popped it into a slideshow of mine. I've also seen people use
+>> the recent NYT story about data-sharing and Alzheimer's, though it's
+>> not quite a paradigm case because the data there weren't fully open.
+>> 
+>> Dorothea
+>> 
+> 
+
+-- 
+Scanned by iCritical.
+
+
+From c.rusbridge at googlemail.com  Mon Sep 20 09:57:00 2010
+From: c.rusbridge at googlemail.com (Chris Rusbridge)
+Date: Mon, 20 Sep 2010 09:57:00 +0100
+Subject: [open-science] On expressing access constraints in a repository of
+	mixed openness
+Message-ID: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+
+OK I'm looking for some more help again. I'm hoping that at the very least the discipline of writing down my concern will help me understand it better, and at best you guys have a solution.
+
+Let's imagine an institutional data repository (which I guess could be a set of different repositories). By definition, the IDR will have data that have different degrees of openness. I can distinguish at least these conditions:
+
+a) fully open
+b) closed until some condition is met (then to be open)
+c) closed unless some condition is met
+d) closed indefinitely.
+
+I'm not really sure an IDR would actually want to accept data with condition (d), but there may be good reasons that escape me at the moment. But however much one would like all data to be open, there are substantial swags of data that must be temporarily or partially closed.
+
+Independently of conditions (b) to (d), it is possible that some or all of the metadata might be open, that is to say the data might be discoverable even if not open (presumably if you found and wanted to use the data, then some sort of negotiation would have to take place).
+
+My question is: how could constraints like these sensibly be expressed, in either a human-readable or (better) machine-readable way?
+
+--
+Chris Rusbridge
+Mobile: +44 791 7423828
+Email: c.rusbridge at gmail.com
+
+
+
+
+
+
+From cameron.neylon at stfc.ac.uk  Mon Sep 20 10:18:09 2010
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Mon, 20 Sep 2010 10:18:09 +0100
+Subject: [open-science] On expressing access constraints in a repository
+ of mixed openness
+In-Reply-To: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+Message-ID: <C8BCE561.EACF%cameron.neylon@stfc.ac.uk>
+
+> [...]
+> My question is: how could constraints like these sensibly be expressed, in
+> either a human-readable or (better) machine-readable way?
+
+I think its a struggle to present these in an easily readable way because
+the conditions for b) and c) can differ so much. So while the impulse
+towards a Creative Commons style iconography that is easy to read and easy
+to code up in machine readable form is understandable we've got some way to
+go before those conditions can be easily codified. Then of course there is
+the whole argument over licences vs technical measures vs norms for
+"controlling" access. I presume that technical measures would be the case
+here.
+
+Its reasonably easy at least to designate the fully open case, use ccZero or
+PDDL and these have machine codings as well. There is certainly some value
+in standardising embargo language and markup for case b). To say that "this
+will be available under X licence/waiver on date Y". But c) is a real mess
+and will probably be case by case for the forseeable future until we get a
+real handle on what kind of conditions are workable and needed in practice.
+
+Cheers
+
+Cameron
+
+-- 
+Scanned by iCritical.
+
+
+From pm286 at cam.ac.uk  Mon Sep 20 11:06:00 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 20 Sep 2010 11:06:00 +0100
+Subject: [open-science] On expressing access constraints in a repository
+ of mixed openness
+In-Reply-To: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+References: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+Message-ID: <AANLkTikFNOpdUc8YNZTh2qOVwOPw4oCdCq0i-VV=-OK9@mail.gmail.com>
+
+On Mon, Sep 20, 2010 at 9:57 AM, Chris Rusbridge <c.rusbridge at googlemail.com
+> wrote:
+
+> OK I'm looking for some more help again. I'm hoping that at the very least
+> the discipline of writing down my concern will help me understand it better,
+> and at best you guys have a solution.
+>
+> Let's imagine an institutional data repository (which I guess could be a
+> set of different repositories). By definition, the IDR will have data that
+> have different degrees of openness. I can distinguish at least these
+> conditions:
+>
+> a) fully open
+> b) closed until some condition is met (then to be open)
+> c) closed unless some condition is met
+> d) closed indefinitely.
+>
+> I'm not really sure an IDR would actually want to accept data with
+> condition (d), but there may be good reasons that escape me at the moment.
+> But however much one would like all data to be open, there are substantial
+> swags of data that must be temporarily or partially closed.
+>
+> Independently of conditions (b) to (d), it is possible that some or all of
+> the metadata might be open, that is to say the data might be discoverable
+> even if not open (presumably if you found and wanted to use the data, then
+> some sort of negotiation would have to take place).
+>
+> My question is: how could constraints like these sensibly be expressed, in
+> either a human-readable or (better) machine-readable way?
+>
+
+I don't think that there is agreement on how to do b+c even for humans. What
+is the condition? Is  like "a paper getting published" - humans will
+squabble about what this means so it's impossible for machines.
+
+We have a JISC project CLARION which is managing data embargoes and at
+present there is no alternative to humans pressing buttons.
+
+The only simple procedures are a and d. The only normally desirable one is a
+
+P.
+
+
+> --
+> Chris Rusbridge
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100920/ba82881f/attachment.htm>
+
+From lmckee at opengeospatial.org  Mon Sep 20 12:40:32 2010
+From: lmckee at opengeospatial.org (Lance McKee)
+Date: Mon, 20 Sep 2010 07:40:32 -0400
+Subject: [open-science] On expressing access constraints in a repository
+	of mixed openness
+In-Reply-To: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+References: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+Message-ID: <B36C66B7-E42E-4BDA-A1E0-14FA97B5247C@opengeospatial.org>
+
+Chris,
+
+See the Geospatial Digital Rights Management Reference Model for (http://www.opengeospatial.org/standards/as/geodrmrm 
+).
+Here's a magazine article about GeoDRM: http://portal.opengeospatial.org/files/?artifact_id=28323 
+  .
+
+I think the basic principles you seek to understand are in the GeoDRM,  
+though the focus is on geospatial data. Geospatial data are  
+particularly complex -- for example, there is frequently a need to  
+track the rights information about different data "layers" that have  
+been used to create a composite data layer.  So if this reference  
+model can be applied to geospatial data, I think it is likely it can  
+be adapted easily enough to work with other kinds of data.
+
+Lance
+
+
+Lance McKee
+Senior Staff Writer
+Open Geospatial Consortium (OGC)
++1 508-752-0108
+lmckee at opengeospatial.org
+
+The OGC: Making location count...
+http://www.opengeospatial.org/contact
+
+
+On Sep 20, 2010, at 4:57 AM, Chris Rusbridge wrote:
+
+> OK I'm looking for some more help again. I'm hoping that at the very  
+> least the discipline of writing down my concern will help me  
+> understand it better, and at best you guys have a solution.
+>
+> Let's imagine an institutional data repository (which I guess could  
+> be a set of different repositories). By definition, the IDR will  
+> have data that have different degrees of openness. I can distinguish  
+> at least these conditions:
+>
+> a) fully open
+> b) closed until some condition is met (then to be open)
+> c) closed unless some condition is met
+> d) closed indefinitely.
+>
+> I'm not really sure an IDR would actually want to accept data with  
+> condition (d), but there may be good reasons that escape me at the  
+> moment. But however much one would like all data to be open, there  
+> are substantial swags of data that must be temporarily or partially  
+> closed.
+>
+> Independently of conditions (b) to (d), it is possible that some or  
+> all of the metadata might be open, that is to say the data might be  
+> discoverable even if not open (presumably if you found and wanted to  
+> use the data, then some sort of negotiation would have to take place).
+>
+> My question is: how could constraints like these sensibly be  
+> expressed, in either a human-readable or (better) machine-readable  
+> way?
+>
+> --
+> Chris Rusbridge
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+From tom.moritz at gmail.com  Mon Sep 20 18:36:39 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Mon, 20 Sep 2010 10:36:39 -0700
+Subject: [open-science] On expressing access constraints in a repository
+ of mixed openness
+In-Reply-To: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+References: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+Message-ID: <AANLkTimViv9WjtXdSTohee=KBaXp04na3+N+0UpKL6yb@mail.gmail.com>
+
+Whether an individual IDR would want to deal with data sets that are
+constrained to various degrees -- "varied constraint" is certainly
+the condition of corpus of data relevant to many key scientific problems?
+
+This discussion brought to mind the Bose and Frew article from 2005 --
+"Lineage retrieval for scientific data processing: a survey"
+[SEE: http://portal.acm.org/citation.cfm?id=1057978 ] (and a companion PPT
+"  Tracking Metadata and Lineage of the Data Processing Chain for Mapping
+Snow Cover Properties with the NASA MODIS" [SEE: http://tiny.cc/xpe37 ]* )
+*
+It seems to me that the terms of access for data are logically a subset of
+the full description of data and lineage...? And that what we're after are
+descriptive capacity to represent "terms of embargo as well as less precise
+forms of constraint?"
+
+*
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell) [GMT -8]
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz*
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+Heraclitus *
+* "Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus happy.")
+-- Camus
+
+*
+
+Please think of trees before you print.
+
+
+
+
+On Mon, Sep 20, 2010 at 1:57 AM, Chris Rusbridge <c.rusbridge at googlemail.com
+> wrote:
+
+> OK I'm looking for some more help again. I'm hoping that at the very least
+> the discipline of writing down my concern will help me understand it better,
+> and at best you guys have a solution.
+>
+> Let's imagine an institutional data repository (which I guess could be a
+> set of different repositories). By definition, the IDR will have data that
+> have different degrees of openness. I can distinguish at least these
+> conditions:
+>
+> a) fully open
+> b) closed until some condition is met (then to be open)
+> c) closed unless some condition is met
+> d) closed indefinitely.
+>
+> I'm not really sure an IDR would actually want to accept data with
+> condition (d), but there may be good reasons that escape me at the moment.
+> But however much one would like all data to be open, there are substantial
+> swags of data that must be temporarily or partially closed.
+>
+> Independently of conditions (b) to (d), it is possible that some or all of
+> the metadata might be open, that is to say the data might be discoverable
+> even if not open (presumably if you found and wanted to use the data, then
+> some sort of negotiation would have to take place).
+>
+> My question is: how could constraints like these sensibly be expressed, in
+> either a human-readable or (better) machine-readable way?
+>
+> --
+> Chris Rusbridge
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100920/700d4dba/attachment.htm>
+
+From tom.moritz at gmail.com  Mon Sep 20 20:05:35 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Mon, 20 Sep 2010 12:05:35 -0700
+Subject: [open-science] On expressing access constraints in a repository
+ of mixed openness
+In-Reply-To: <AANLkTimViv9WjtXdSTohee=KBaXp04na3+N+0UpKL6yb@mail.gmail.com>
+References: <72D47716-E7F5-49FB-A6F9-28F98118FA1F@googlemail.com>
+	<AANLkTimViv9WjtXdSTohee=KBaXp04na3+N+0UpKL6yb@mail.gmail.com>
+Message-ID: <AANLkTin-apChO_oeVBYGcbfrgwaHSd52_H6-hdc_YqgK@mail.gmail.com>
+
+Sorry -- the URL for the Power Point I cited should be:
+
+"Tracking Metadata and Lineage of the Data Processing Chain for Mapping Snow
+Cover Properties with the NASA MODIS"
+by Jim Frew et al.
+
+http://fiesta.bren.ucsb.edu/~dozier/Talks/IGARSS-Lineage-v3.ppt
+
+(I inadvertently directed you to a separate discussion...!)
+
+Tom
+*Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell) [GMT -8]
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz*
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+Heraclitus *
+* "Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus happy.")
+-- Camus
+
+*
+
+Please think of trees before you print.
+
+
+
+
+On Mon, Sep 20, 2010 at 10:36 AM, Tom Moritz <tom.moritz at gmail.com> wrote:
+
+>
+> Whether an individual IDR would want to deal with data sets that are
+> constrained to various degrees -- "varied constraint" is certainly
+> the condition of corpus of data relevant to many key scientific problems?
+>
+> This discussion brought to mind the Bose and Frew article from 2005 --
+> "Lineage retrieval for scientific data processing: a survey"
+> [SEE: http://portal.acm.org/citation.cfm?id=1057978 ] (and a companion PPT
+> "  Tracking Metadata and Lineage of the Data Processing Chain for Mapping
+> Snow Cover Properties with the NASA MODIS" [SEE: http://tiny.cc/xpe37 ]* )
+> *
+> It seems to me that the terms of access for data are logically a subset of
+> the full description of data and lineage...? And that what we're after are
+> descriptive capacity to represent "terms of embargo as well as less precise
+> forms of constraint?"
+>
+> *
+>
+> Tom Moritz
+> 1968 1/2 South Shenandoah Street,
+> Los Angeles, California 90034-1208  USA
+> +1 310 963 0199 (cell) [GMT -8]
+> tommoritz (Skype)
+> http://www.linkedin.com/in/tmoritz*
+>
+> ?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+> Heraclitus *
+> * "Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus
+> happy.") -- Camus
+>
+> *
+>
+> Please think of trees before you print.
+>
+>
+>
+>
+> On Mon, Sep 20, 2010 at 1:57 AM, Chris Rusbridge <
+> c.rusbridge at googlemail.com> wrote:
+>
+>> OK I'm looking for some more help again. I'm hoping that at the very least
+>> the discipline of writing down my concern will help me understand it better,
+>> and at best you guys have a solution.
+>>
+>> Let's imagine an institutional data repository (which I guess could be a
+>> set of different repositories). By definition, the IDR will have data that
+>> have different degrees of openness. I can distinguish at least these
+>> conditions:
+>>
+>> a) fully open
+>> b) closed until some condition is met (then to be open)
+>> c) closed unless some condition is met
+>> d) closed indefinitely.
+>>
+>> I'm not really sure an IDR would actually want to accept data with
+>> condition (d), but there may be good reasons that escape me at the moment.
+>> But however much one would like all data to be open, there are substantial
+>> swags of data that must be temporarily or partially closed.
+>>
+>> Independently of conditions (b) to (d), it is possible that some or all of
+>> the metadata might be open, that is to say the data might be discoverable
+>> even if not open (presumably if you found and wanted to use the data, then
+>> some sort of negotiation would have to take place).
+>>
+>> My question is: how could constraints like these sensibly be expressed, in
+>> either a human-readable or (better) machine-readable way?
+>>
+>> --
+>> Chris Rusbridge
+>> Mobile: +44 791 7423828
+>> Email: c.rusbridge at gmail.com
+>>
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100920/4b0ed00c/attachment-0001.htm>
+
+From mfinn at usgs.gov  Wed Sep 22 18:13:58 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Wed, 22 Sep 2010 11:13:58 -0600
+Subject: [open-science] USGS Mendenhall Research Fellowship Program --
+ Center of Excellence for Geospatial Information Science
+Message-ID: <OF9A142282.6476D1BE-ON872577A6.005D80FB-872577A6.005EAA59@usgs.gov>
+
+There are 49 post doc opportunities for FY 2012 (starts Oct 1, 2011) just 
+announced via the Mendenhall Research Fellowship program: 
+
+http://geology.usgs.gov/postdoc/
+
+
+The details are there... all are 2-year opportunities paid at the GS-12 
+level with benefits. Most are geology but there is plenty of variety, 
+including this GeoWeb opportunity with CEGIS:
+
+http://geology.usgs.gov/postdoc/2012/opps/opp35.html
+
+
+
+
+Michael P. Finn
+Research Cartographer
+Center of Excellence for Geospatial Information Science
+U. S. Geological Survey
+Denver Federal Center
+Box 25046, Mail Stop 510
+Denver, CO 80225
+
+
+(303) 202-4544
+mfinn at usgs.gov 
+
+http://cegis.usgs.gov
+
+
+39o 42.732? N, 105o 07.500? W 
+US National Grid: 13S DD 8928 9582
+
+FedEx/ UPS/ DHL:
+Denver Federal Center
+Building 810, Mail Stop 510
+6th Avenue and Kipling Street
+Denver, CO 80225
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100922/6d1ef481/attachment.htm>
+
+From a.whyte at ed.ac.uk  Wed Sep 22 23:00:48 2010
+From: a.whyte at ed.ac.uk (Angus Whyte)
+Date: Wed, 22 Sep 2010 23:00:48 +0100
+Subject: [open-science] Fwd: IASST-L European Commission survey
+ (non-anonymous) on access and re-use of public sector information - closes
+ 2010-11-30
+Message-ID: <4C9A7C90.8080800@ed.ac.uk>
+
+Apologies for cross-posting
+
+-------- Original Message --------
+Subject: 	IASST-L European Commission survey (non-anonymous) on access 
+and re-use of public sector information - closes 2010-11-30
+Date: 	Wed, 22 Sep 2010 15:13:06 -0400
+From: 	Stefan Kramer <stefan.kramer at cornell.edu>
+Reply-To: 	iasst-l, IASSIST mail list <iasst-l at lists.columbia.edu>
+To: 	iasst-l at lists.columbia.edu <iasst-l at lists.columbia.edu>
+
+
+
+Of possible interest:
+
+http://ec.europa.eu/yourvoice/ipm/forms/dispatch?form=psidirective2010
+
+Questions include
+
+"Could further action towards opening up public data resources and practical measures facilitating re-use (asset lists of available documents, simplified or no licensing conditions, marginal costs etc.) contribute to unlocking innovation and developing new services, applications and mash-ups?"
+
+"Community-wide products and services using PSI are not limited to national borders. Do you think that divergent national rules can make it more complicated to grasp economic opportunities and to develop cross-border products and services?"
+
+"Currently, the PSI Directive is not applicable to information held by cultural, educational and research establishments and public service broadcasters. In your opinion, as far as information is not covered by third party intellectual property rights (excluded in any case from the scope of the PSI Directive), should the Directive apply to information held by ... [educational and research establishments? cultural establishments? public service broadcasters?]"
+
+"Do you think that all public sector information which is already publicly accessible should also be re-usable?"
+
+"In your opinion, should more re-use friendly formats (e.g. machine readable) be promoted?"
+
+"In your opinion, public sector information should be made available for re-use..." [under various cost/charging models]
+
+"Do you think that the current rules on charging (allowing full cost recovery, together with a reasonable return on investment) should be tightened and/or clarified in respect of how much re-users can be charged?"
+
+"Should the Commission promote practical measures such as national portals (like the www.data.gov.uk or the www.data.gov in the US) with a strong political drive towards opening up the wealth of public sector data?"
+
+Related doc.:
+http://ec.europa.eu/information_society/digital-agenda/documents/digital-agenda-communication-en.pdf
+
+(For German-language readers: I found this through the DGI member newsletter via http://www.heise.de/newsticker/meldung/Umfrage-der-EU-zur-Wiederverwendung-oeffentlicher-Daten-1076151.html)
+
+Stefan Kramer
+Research Data Management Librarian
+stefan.kramer at cornell.edu
++1-607-255-4773
+Cornell Institute for Social and Economic Research (CISER)
+391 Pine Tree Road, Ithaca, NY 14850, USA
+http://ciser.cornell.edu/
+
+
+
+_______________________________________________
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100922/e8fe1110/attachment.htm>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100922/e8fe1110/attachment.txt>
+
+From c.rusbridge at googlemail.com  Thu Sep 23 16:04:21 2010
+From: c.rusbridge at googlemail.com (Chris Rusbridge)
+Date: Thu, 23 Sep 2010 16:04:21 +0100
+Subject: [open-science] Planning to publish your data could keep FoI
+	requests from your door!
+Message-ID: <DBAF9EC4-78A7-4143-90BB-81CC161A8195@googlemail.com>
+
+I've been asking the FoI list about FoI exemptions for research data in England, Wales and Northern Ireland (Scotland has a useful exemption). I tried this by means of a scenario that I'll repeat here:
+
+"Let's suppose we have a research group working at the University of Pippleton in England on a publicly-funded research project. Their work does not involve environmental information, so EIR does not come into it. Let's say their work is in the highly competitive prateomics field, so there are no privacy or medical ethics issues involved. They are aware that there are several competing groups in other universities working on related lines of enquiry. In fact, there's a bit of a race on to see who can assemble enough data to write a potentially highly prestigious paper.
+
+One day our researchers in Pippleton receive a request from their competitors in the University of Lunchester asking for all the data they have assembled on the XYZ problem: precisely the area that the Pippleton folk have been working on. They've heard a rumour that Lunchester has fallen a bit behind in its data gathering, so it looks as if they are trying to use FoI to steal a march on Pippleton. If Pippleton can refuse the FoI request, then they have a chance to win; if they have to release the data, then Lunchester can combine it with their own, and they will win.
+
+Pippleton clearly wants to refuse the request. However, they had no plans to release the XYZ problem data itself, merely a few subsets of it to illustrate the article they were planning. The information isn't available anywhere else. There's no external confidentiality preventing release. The Principal Investigator thinks he might go mad if he has to release it, but they can hardly go for a Health and Safety exemption on those grounds. There's no personal information.
+
+If Pippleton were in Scotland, then FoISA S27(b) would probably do the trick, but I'm concerned at this moment about the rest of the UK.
+
+The only exemption that I can see that might apply is FoIA S43: Commercial interests... Can it apply?"
+
+There was some contrary opinions among the list members on whether commercial interests could be applied; the "highly competitive" phrase convinced one that it could, while others were not so sanguine.
+
+But the response I thought particularly interesting was from Ganesh:
+
+"Perhaps Pippleton should formulate a policy of publishing their raw data once certain criteria are met - e.g. all papers relating to it are published and there's no expectation of writing more. Too late for this request, but it would mean s22 could potentially protect them in future, though of course it might ultimately fail on the public interest arguments."
+
+So, it's possible that Open Data could help prevent your research being scooped prior to publication!
+
+--
+Chris Rusbridge
+Mobile: +44 791 7423828
+Email: c.rusbridge at gmail.com
+
+
+
+
+
+
+From pm286 at cam.ac.uk  Fri Sep 24 18:32:28 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 24 Sep 2010 18:32:28 +0100
+Subject: [open-science] Open Computational Chemistry Knowledgebase
+Message-ID: <AANLkTin74uwJumKJaKJqXBvfA_FW=sv9FAkM-a6xiqap@mail.gmail.com>
+
+I have just attended a meeting on Databases in QuantumChemistry (
+http://neptuno.unizar.es/events/qcdatabases2010/program.html ) and we have
+decided to create an Open knowledgebase of the results of Quantum Chemical
+calculations. I have opened an Etherpad at:
+http://okfnpad.org/zcam2010
+It's likely to be fairly specialised but anyone is welcome to help. The idea
+is to create a major Open resource of calculations which may be inlcuded in
+the world's Linked Open data for chemistry.
+
+More details in the pad.
+
+This is not an official OKF project but it will use the OKD Panton
+Principles  and I thought the Pad was a great technology for the group to
+use. The data themselves would probably be at Cambridge Unilever Centre but
+the metadata can be in CKAN.
+
+Early days.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100924/fe40a92f/attachment.htm>
+

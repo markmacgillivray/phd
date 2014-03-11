@@ -1,0 +1,3687 @@
+From krichel at openlib.org  Fri Sep  2 09:06:20 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Fri, 2 Sep 2011 10:06:20 +0200
+Subject: [open-bibliography] Survey on name identifier systems
+In-Reply-To: <000101cc665e$6cc1a210$4644e630$@hillbraith.com>
+References: <000001cc6646$5a999420$0fccbc60$@hillbraith.com>
+	<20110829132255.GB4099@openlib.org>
+	<000101cc665e$6cc1a210$4644e630$@hillbraith.com>
+Message-ID: <20110902080620.GA15962@openlib.org>
+
+
+  I was given a survey on name identifier systems. Here are my
+  answers for AuthorClaim. I think I am trying to press the
+  case for open data but I may not be able to put it as 
+  effectively as it could be done. Comments?
+
+  ----------------------------------------------------------------
+
+1. What was the motivation for developing the identifier system?
+
+  AuthorClaim is a part of building openly available bibliographic
+  systems. I have considerable experience with such systems because I
+  was the principle founder of RePEc. Within RePEc, the RePEc Author
+  System (RAS) plays an important role. It allows researchers to
+  claim their papers. I create RAS in 1999. It was the first author
+  claiming system. 
+
+2. Which organisation(s) is (are) responsible for the identifier
+   system?
+
+  Ultimately the Open Library Society is. I am building a small
+  group of individuals looking after the day-to-day management. 
+  It's part of a broader effort for open bibliographic data. 
+
+3. What is the scope of your identifier system, in terms of the type of
+   people it covers? (For example, does it include: book authors, active
+   current researchers, formerly active researchers, doctoral students, masters
+   students etc.)
+
+  Anybody can come and register claims to the bibliographic data. 
+  If they have no items to claim, they may find the registration
+  not very interesting. Getting as much bibliographic data as 
+  possible to appeal to a broad group of authors. 
+
+4. How is your system populated with data? (by researchers
+   themselves/their institutions/funding bodies)
+
+  This is a author claiming systems. Authors make claims. But their
+  records are dwarfed by the amount of bibliographical records. 
+  There are more that 35 million bibliographic records. Over 100
+  million authorships are up for claim. 
+
+5. Who is authorised to make changes to the information in the system?
+
+  Authors make changes to their records and bibliographic datasets
+  contribute bibliographic records. 
+
+6. How are identifiers assigned?
+
+  When a registrant registers, a new identifier is created.
+
+7. What form does the identifier take?
+
+  There two identifiers. The identifier of the person is only used in
+  internally. It is a long identifier that combines a date in the
+  person's live with an ascii only name expression. Externally, we
+  issue a short identifier that starts with p, has two letters and
+  then a number that is incremented. This short identifier is not,
+  strictly speaking an identifier for the person but the identifier
+  of the record in the system that describes the person in the
+  AuthorClaim system.
+
+8. What information is maintained in the system? (e.g. names,
+   alternative forms of names, email addresses, dates of birth,
+   institutional affiliation(s), details of publications, details of
+   grants received/applied for) Are any standard metadata schemes
+   supported?
+
+  We make names, name variations, dates (but not of birth),
+  affiliations, publications accepted and refused publicly
+  available. Email addresses are made publicly available if the
+  registrant agrees explicitly. Passwords are not made available.
+
+   The bulk of the information in the system is bibliographic. 
+
+9. With which other systems (if any) does your identifier system
+   interact?
+
+  We work with bibliographic data providers. We are building a profiling
+  site, http://authorprofile.org, (still in its infancy) and we 
+  use the data is used in ARIW.org. In fact there is a complicated
+  interaction between ARIW and AuthorClaim. 
+
+10. Is the information in the system made available to other services?
+
+  Yes. And there are some other services using it, but these are
+  close relatives of AuthorClaim. Reaching further is still a 
+  challenge. 
+
+11. Is there a licence on the data? If so, what is the licence?
+
+  CC0. Note the profile data wraps bibliographic data but this
+  bibliographic data is reduced to element commonly thought to
+  be in the public domain. 
+
+12. If yes, how is this achieved (what interfaces/protocols are used)
+    and is the system free to access?
+
+  There is an ftp site for the AuthorClaim data at ftp://authorclaim.org
+
+13. How is the system funded?
+
+  The underlying software was developed with a grant from the open
+  society institute. 
+
+  There is no stable funding sources for open bibliographic data. The
+  system is run by volunteers since 2007. We have a very good track
+  record of keeping the system running. RePEc runs like that since the
+  early 90s. You can't make this type of service dependent on external
+  funding. And I am sure once AuthorClaim becomes more widely adopted
+  we find volunteers to deal with some mundane tasks and funds to
+  bring in automation that will further reduce these tasks.
+
+14. Is the system still under active development? If so, what are your
+    priorities for future enhancements?
+
+  Yes, there will be some further work on the system, to make it run
+  smoother, with more automation and less input from humans. Research
+  will be conducted in how to optimize the guesses made by computer
+  learning to available. There are funds for the development of ACIS
+  and they will be used on adding a host of smaller thing, most
+  importantly for us, the integration with openID. 
+  
+
+15. Do you have any plans for integrating your system with external
+    initiatives/services such as ORCID, ISNI, Mendeley, Zotero, Academia.edu?
+
+  and ResearchGate, and PeerEvaluation and ...
+  It's a crowded field. AuthorClaim is an initiative that is open.
+  Many of the commercial initiative collect data but they don't handle
+  the data further. With ORCID, it is not clear to me where the system
+  will be heading too, and I am speaking for experience because I am 
+  in their technical commitment. I see INSI as a parallel thing to us.
+  I have not seen Mendeley and Academia.edu offering lists of papers
+  deposited, but I should write to Richard to task. I talked to 
+  the Mendeley CEO a while ago. 
+
+  ------------------------------------------------------------------
+
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From kosson at gmail.com  Fri Sep  2 16:19:58 2011
+From: kosson at gmail.com (nicolaus kreschmer)
+Date: Fri, 2 Sep 2011 18:19:58 +0300
+Subject: [open-bibliography] Romanian translation of the Principles
+Message-ID: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+
+Dear friends,
+
+I would like to bring to your knowledge the Romanian translation of the principles.
+
+I have attached them in both versions PDF and ODF (please look on the blog that the original ODF file link is broken).
+
+Also, the Principles were published on Kosson Library and Information Science Community page at www.kosson.ro
+
+Keep up the good work and please consider our community as a channel open towards Romanian information specialists.
+
+Kind regards,
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Principii privind datele Bibliografice Deschise.pdf
+Type: application/pdf
+Size: 130738 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110902/324d0f91/attachment-0001.pdf>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Principii privind datele Bibliografice Deschise.odt
+Type: application/vnd.oasis.opendocument.text
+Size: 30433 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110902/324d0f91/attachment-0001.odt>
+
+From adrian.pohl at okfn.org  Fri Sep  2 22:27:02 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 2 Sep 2011 23:27:02 +0200
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+Message-ID: <CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+
+Hello Nicolaus,
+
+great that you took the time to translate the Principles on Open
+Bibliographic Data. Thank you very much for your contribution.
+
+Also, it's nice to see that some more people have signed the
+openbiblio principles. Somebody must've done some promotional work.
+:-) As there must be several people on this list who haven't yet
+signed the openbiblio principles I just want to gently remind
+everybody that the possibility exists and making use of it it doesn't
+take more than a minute at http://openbiblio.net/principles/endorse/
+
+Nicolaus, I already added your translation to the website but to
+publish it I need these phrases to be translated as well:
+
+- "English Original"
+- "Endorse the Principles"
+- "Introduction" (Obviously, the PDF version and the HTML version
+differ in this respect... I'd like to add it to the web like the other
+language versions.)
+- "Translation from the English original by Nicolaus Kreschmer,
+September 2nd, 2011."
+- At last: what's the Romanian word for "Romanian"?
+
+As for the ODT files. Wordpress doesn't take these because of security
+concerns. I removed the dead links from the pages.
+
+All the best
+Adrian
+
+2011/9/2 nicolaus kreschmer <kosson at gmail.com>:
+> Dear friends,
+>
+> I would like to bring to your knowledge the Romanian translation of the principles.
+>
+> I have attached them in both versions PDF and ODF (please look on the blog that the original ODF file link is broken).
+>
+> Also, the Principles were published on Kosson Library and Information Science Community page at www.kosson.ro
+>
+> Keep up the good work and please consider our community as a channel open towards Romanian information specialists.
+>
+> Kind regards,
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From pohl at hbz-nrw.de  Mon Sep  5 08:18:49 2011
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Mon, 05 Sep 2011 09:18:49 +0200
+Subject: [open-bibliography] SWIB11 (Semantic Web in Libraries) 28.-30.11.
+ in Hamburg - Registration opens
+Message-ID: <4E6493F90200001400041954@agrippa.hbz-nrw.de>
+
+SWIB11 (Semantic Web in Libraries) 28.-30.11.2011 in Hamburg
+publishes conference program and opens registration
+
+http://swib.org/swib11/ 
+
+A rising number of actors in librarianship and its related fields
+are experimenting with Semantic Web technologies and Linked Open
+Data (LOD). The LOD cloud as a whole grew by 300% in 2010, whereas
+the amount of data relevant for libraries grew by nearly 1000%.
+For many, the question now arises how to integrate their holdings
+into the LOD cloud and how to embed externally provided LOD data
+into their own applications, adding value through cross-domain
+linking. The first conference day will focus on the corresponding
+infrastructure requirements.
+
+At the same time, the principles and workflows of traditional
+scholarly communication and publication are under scrutiny with a
+view to a consistently web-based data and service infrastructure
+comprising the entire research and publication process. Concepts
+like "Semantic Publishing", "Enhanced Publications" or "Research
+Objects" mark the re-orientation of academic work, away from
+monolithic, comparatively unflexible and barely interlinked
+reference points towards a distributed, comparatively granular
+data infrastructure which is continuously accessible to
+researchers and into which their contributions recognizably
+return. These developments will be discussed on the second day of
+the conference.
+
+For the first time we offer workshops and tutorials on the day
+before the main conference, providing introductions into Linked
+Open Data for newcomers and practice-oriented discussion of
+selected problems.
+
+The conference will again - as in 2009 and 2010 - be organised by
+the North Rhine-Westphalian Library Service Centre (hbz), Cologne,
+and the German National Library of Economics - Leibniz Information
+Centre for Economics (ZBW), Kiel and Hamburg.
+
+
+Program
+
+
+28.11. Workshops
+13:00 - 19:00
+(in parallel - arrival from 12:15)  
+
+Einf?hrung in Linked Open Data
+Felix Ostrowski (HU Berlin and hbz), Pascal Christoph (hbz)
+
+RDF-Daten in eigenen Anwendungen nutzen
+Jakob Vo? (GBV)
+
+An Introduction to Memento and Open Annotation
+Herbert van de Sompel (Los Alamos National Laboratory)
+
+Pragmatische Ans?tze f?r den Umgang mit 'Enhanced Publications' 
+in existierenden Repository-Umgebungen
+Anouar Boulal (hbz), Martin Iordanidis (hbz), 
+Jochen Schirrwagen (TU Berlin)
+
+
+29.11. Conference
+9:15 - 17:30
+(arrival from 8:30)
+
+Opening
+Klaus Tochtermann (ZBW)
+Silke Schomburg (hbz)
+
+How Linking Changes the Role of Library Data: Examples 
+from the Wider World
+Thomas Baker (Dublin Core Metadata Initiative)
+
+The High and Lows of Library Linked Data
+Adrian Stevenson (UKOLN)
+
+Cataloguers as the Ultimate Reasoning Machines - Training 
+Cataloguers to Create Intelligent Linked Library Data
+Rurik Greenall (NTNU University Library)
+
+Ausleihdaten aus Bibliotheken als Linked Open Data publizieren 
+und nutzen
+Magnus Pfeffer, Philipp Maa? (Hochschule der Medien in Stuttgart)
+
+Pragmatic Linked Data at the University of Southampton
+Christopher Gutteridge (University of Southampton)
+
+culturegraph.org - Aufbau eines Hubs f?r Linked Library Data
+Markus Geipel (DNB), Adrian Pohl (hbz)
+
+Linked-Data-based Web Services f?r die Wirtschaftswissenschaften
+Joachim Neubert (ZBW)
+
+Ontologiegesteuerte wissenschaftliche Recherche mit RODIN
+Ren? Schneider, Fabio Ricci, Javier Belmonte (HEG, Genf)
+
+Explorative Recherche-Interfaces f?r Library Linked Data
+Ulrike Krabo (?sterreichischer Bibliothekenverbund)
+
+Linked Data Light - Linkaggregation mit BEACON
+Jakob Vo? (GBV)
+
+
+30.11. Conference
+Focus: Scholarly Communication in the Web of Data
+9:00 - 17:30
+
+Tipping the Sacred Cow: Thinking Beyond the Journal System
+Herbert van de Sompel (Los Alamos National Laboratory)
+
+Notes on Bibliographica
+William Waites (Open Knowledge Foundation)
+
+Enhanced Publications, Linked Data und Erfahrungen aus dem 
+eco4r-Projekt
+Wolfram Horstmann (Universit?t Bielefeld)
+
+Das LODUM Projekt: Transparente Forschung auf Basis von 
+Linked Library Data
+Carsten Ke?ler, Tomi Kauppinen, Umut Tas (Universit?t M?nster)
+
+Dokumentation des Forschungsprozesses in einer Bibliothek 
+als Linked Data
+Benjamin Zapilko (GESIS), Brigitte Mathiak (Universit?t Trier)
+
+What Needs to Happen in a Scholarly Publishing Reform?
+Bj?rn Brembs (FU Berlin)
+
+The Open Citation Corpus and the SPAR Ontologies
+David Shotton (University of Oxford)
+
+Lightning Talks
+
+Panel discussion
+Linked Open Data f?r die zuk?nftige wissenschaftliche 
+Informationsinfrastruktur in Deutschland
+(Arbeitstitel)
+
+
+From adrian.pohl at okfn.org  Tue Sep  6 09:57:49 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 6 Sep 2011 10:57:49 +0200
+Subject: [open-bibliography] Virtual Meeting
+Message-ID: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+
+Hello,
+
+today should be the next virtual meeting of the working group. As the
+August meeting didn't take place we should definitely meet in
+September. As I have been quite busy with my family for the last weeks
+I have problems with meetings in the afternoon. My apologies for this,
+but I most probably will be more flexible again after this week.
+
+There are two possibilities:
+- The meeting will be held today at 5:00 GMT / 16:00 UK Time / 17:00
+CET / 11:00 EST / 08:00 PDT . (Who has time to attend? Who would host
+the call and do the moderation?)
+- We postpone the meeting to next tuesday.
+
+What do you think?
+
+All the best
+Adrian
+
+
+From mark at odaesa.com  Tue Sep  6 10:17:28 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 6 Sep 2011 10:17:28 +0100
+Subject: [open-bibliography] Virtual Meeting
+In-Reply-To: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+References: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+Message-ID: <CAJ9UX47P=F1xEQzRTuFKmuO+zbFjuqX1q9itKOKPv2m3a3fJSw@mail.gmail.com>
+
+Hi Adrian,
+
+I think it would be good to have it next week if you are free then -
+as it has been while, it would be nicer to catch up when you can make
+it too.
+
+Mark
+
+
+On Tue, Sep 6, 2011 at 9:57 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> today should be the next virtual meeting of the working group. As the
+> August meeting didn't take place we should definitely meet in
+> September. As I have been quite busy with my family for the last weeks
+> I have problems with meetings in the afternoon. My apologies for this,
+> but I most probably will be more flexible again after this week.
+>
+> There are two possibilities:
+> - The meeting will be held today at 5:00 GMT / 16:00 UK Time / 17:00
+> CET / 11:00 EST / 08:00 PDT . (Who has time to attend? Who would host
+> the call and do the moderation?)
+> - We postpone the meeting to next tuesday.
+>
+> What do you think?
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From krichel at openlib.org  Tue Sep  6 12:27:00 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 6 Sep 2011 13:27:00 +0200
+Subject: [open-bibliography] Virtual Meeting
+In-Reply-To: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+References: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+Message-ID: <20110906112700.GD31363@openlib.org>
+
+  Adrian Pohl writes
+
+> There are two possibilities: - The meeting will be held today at
+> 5:00 GMT / 16:00 UK Time / 17:00 CET / 11:00 EST / 08:00 PDT . (Who
+> has time to attend? Who would host the call and do the moderation?)
+
+  I am probably in a real meeting at 11:00 EST therefore can't do it. 
+
+> - We postpone the meeting to next tuesday.
+
+  I can make next Tuesday I think. 
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From adrian.pohl at okfn.org  Tue Sep  6 12:44:48 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 6 Sep 2011 13:44:48 +0200
+Subject: [open-bibliography] ZB MED open article data from scanned TOCs
+Message-ID: <CAOtd05F-2GvPeuYiy_ypYZ_=OSjAF+R6nsQOvWpiJGWfNHe=ZQ@mail.gmail.com>
+
+Hello,
+
+as noted some weeks before, the German National Library of Medicine,
+Health, Nutrition, Environment, Agriculture has published some article
+data extracted from scanned table of contents. See the blog post for
+more details: http://openbiblio.net/2011/09/06/zb-med-publishes-open-article-data-in-medicine-and-life-sciences/
+
+All the best
+Adrian
+
+
+From pitman at stat.Berkeley.EDU  Tue Sep  6 14:07:14 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 06 Sep 2011 06:07:14 -0700
+Subject: [open-bibliography] Virtual Meeting
+In-Reply-To: <20110906112700.GD31363@openlib.org>
+References: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+	<20110906112700.GD31363@openlib.org>
+Message-ID: <20110906130715.41E10806B@bibserver.Berkeley.EDU>
+
+> > There are two possibilities: - The meeting will be held today at
+> > 5:00 GMT / 16:00 UK Time / 17:00 CET / 11:00 EST / 08:00 PDT . (Who
+> > has time to attend? Who would host the call and do the moderation?)
+>   I am probably in a real meeting at 11:00 EST therefore can't do it. 
+> > - We postpone the meeting to next tuesday.
+>   I can make next Tuesday I think. 
+
+I can make next Tuesday too.
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From kcoyle at kcoyle.net  Tue Sep  6 14:58:08 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 06 Sep 2011 06:58:08 -0700
+Subject: [open-bibliography] Virtual Meeting
+In-Reply-To: <CAJ9UX47P=F1xEQzRTuFKmuO+zbFjuqX1q9itKOKPv2m3a3fJSw@mail.gmail.com>
+References: <CAOtd05HiKOaeAxCcqf41Yx2gWdRe5pEo-6GC5gcFODeGZHTZKQ@mail.gmail.com>
+	<CAJ9UX47P=F1xEQzRTuFKmuO+zbFjuqX1q9itKOKPv2m3a3fJSw@mail.gmail.com>
+Message-ID: <20110906065808.95703dsng5h8pyi8@kcoyle.net>
+
+I can move it to next week on my calendar. - kc
+
+Quoting Mark MacGillivray <mark at odaesa.com>:
+
+> Hi Adrian,
+>
+> I think it would be good to have it next week if you are free then -
+> as it has been while, it would be nicer to catch up when you can make
+> it too.
+>
+> Mark
+>
+>
+> On Tue, Sep 6, 2011 at 9:57 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>> Hello,
+>>
+>> today should be the next virtual meeting of the working group. As the
+>> August meeting didn't take place we should definitely meet in
+>> September. As I have been quite busy with my family for the last weeks
+>> I have problems with meetings in the afternoon. My apologies for this,
+>> but I most probably will be more flexible again after this week.
+>>
+>> There are two possibilities:
+>> - The meeting will be held today at 5:00 GMT / 16:00 UK Time / 17:00
+>> CET / 11:00 EST / 08:00 PDT . (Who has time to attend? Who would host
+>> the call and do the moderation?)
+>> - We postpone the meeting to next tuesday.
+>>
+>> What do you think?
+>>
+>> All the best
+>> Adrian
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From adrian.pohl at okfn.org  Thu Sep  8 17:44:28 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 8 Sep 2011 18:44:28 +0200
+Subject: [open-bibliography] Blogpost about Linked Open Data activities at
+	NTNU
+Message-ID: <CAOtd05EeM6o9gGnLPsdDm91jpE9KkN9q8eLEg4RJmKPZ+NT1dQ@mail.gmail.com>
+
+Hello,
+
+there is a new guest post on the openbiblio blog by Rurik Greenall,
+summarizing the LOD activities at NTNU University Library in Trondheim
+since 2009 see http://openbiblio.net/2011/09/08/ntnu/.
+
+We would be happy to publish more posts like this about experiences
+with (Linked) Open Data projects in libraries and other organizations
+from all over the world providing bibliographic data. If you have some
+experiences to share at the openbiblio blog, please contact
+openbiblio at okfn.org
+
+All the best
+Adrian
+
+
+From adrian.pohl at okfn.org  Thu Sep  8 20:33:58 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 8 Sep 2011 21:33:58 +0200
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+Message-ID: <CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+
+Hello,
+
+the Romanian translation of the Principles on Open Bibliographic Data
+is now online, see http://openbiblio.net/principles/ro/
+
+Thank you for providing it, Nicolaie.
+
+Of course, it would be very good to publish more translations of the
+principles to other languages. Everybody, if you are fluent in a
+language which isn't covered yet, please think about contributing
+another translation...
+
+All the best
+Adrian
+
+2011/9/2 Adrian Pohl <adrian.pohl at okfn.org>:
+> Hello Nicolaus,
+>
+> great that you took the time to translate the Principles on Open
+> Bibliographic Data. Thank you very much for your contribution.
+>
+> Also, it's nice to see that some more people have signed the
+> openbiblio principles. Somebody must've done some promotional work.
+> :-) As there must be several people on this list who haven't yet
+> signed the openbiblio principles I just want to gently remind
+> everybody that the possibility exists and making use of it it doesn't
+> take more than a minute at http://openbiblio.net/principles/endorse/
+>
+> Nicolaus, I already added your translation to the website but to
+> publish it I need these phrases to be translated as well:
+>
+> - "English Original"
+> - "Endorse the Principles"
+> - "Introduction" (Obviously, the PDF version and the HTML version
+> differ in this respect... I'd like to add it to the web like the other
+> language versions.)
+> - "Translation from the English original by Nicolaus Kreschmer,
+> September 2nd, 2011."
+> - At last: what's the Romanian word for "Romanian"?
+>
+> As for the ODT files. Wordpress doesn't take these because of security
+> concerns. I removed the dead links from the pages.
+>
+> All the best
+> Adrian
+>
+> 2011/9/2 nicolaus kreschmer <kosson at gmail.com>:
+>> Dear friends,
+>>
+>> I would like to bring to your knowledge the Romanian translation of the principles.
+>>
+>> I have attached them in both versions PDF and ODF (please look on the blog that the original ODF file link is broken).
+>>
+>> Also, the Principles were published on Kosson Library and Information Science Community page at www.kosson.ro
+>>
+>> Keep up the good work and please consider our community as a channel open towards Romanian information specialists.
+>>
+>> Kind regards,
+>>
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>>
+>
+
+
+From kosson at gmail.com  Thu Sep  8 20:38:33 2011
+From: kosson at gmail.com (Constantinescu Nicolaie)
+Date: Thu, 8 Sep 2011 22:38:33 +0300
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+Message-ID: <CADybtq2sSEiP_EO7KtpiF+q6E9_SeTCXR8embxKzpqbP4sQM7Q@mail.gmail.com>
+
+Adrian,
+
+All looks good! God speed on all your efforts!
+
+Unfortunately only with Romanian I can contribute. In the future,
+please, if something important happens, please consider our community
+in Romania as a partner in dissemination.
+
+Kind regards,
+
+-- 
+Constantinescu Nicolaie
+Information Architect
+http://www.kosson.ro
+
+
+From adrian.pohl at okfn.org  Fri Sep  9 09:18:00 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 9 Sep 2011 10:18:00 +0200
+Subject: [open-bibliography] Virtual meeting 2011/09/13, 15:00 GMT
+Message-ID: <CAOtd05HK8koHsANLEnwWd1-Ci3VnmM0taO4yT27T=4a1Aod_sA@mail.gmail.com>
+
+Hello,
+
+here is the etherpad for the next virtual meeting of the OKFN Working
+group on Open Bibliogrqaphic Data next tuesday:
+
+http://okfnpad.org/14th-open-bibliography-meeting
+
+Feel free to add more topics.
+
+@Primavera: Will you attend and say something about the Bibliographic
+Metadata Guide?
+
+All the best
+Adrian
+
+
+From primavera.defilippi at okfn.org  Fri Sep  9 10:04:55 2011
+From: primavera.defilippi at okfn.org (Primavera De Filippi)
+Date: Fri, 9 Sep 2011 11:04:55 +0200
+Subject: [open-bibliography] Virtual meeting 2011/09/13, 15:00 GMT
+In-Reply-To: <CAOtd05HK8koHsANLEnwWd1-Ci3VnmM0taO4yT27T=4a1Aod_sA@mail.gmail.com>
+References: <CAOtd05HK8koHsANLEnwWd1-Ci3VnmM0taO4yT27T=4a1Aod_sA@mail.gmail.com>
+Message-ID: <CA+BXXhJUz75nzkO2-8Obof3A0FrhXEwk3r1OsRBitGYzJhgf_w@mail.gmail.com>
+
+Hi Adrian,
+sure I'll do my best to be there !
+
+
+On Fri, Sep 9, 2011 at 10:18 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> here is the etherpad for the next virtual meeting of the OKFN Working
+> group on Open Bibliogrqaphic Data next tuesday:
+>
+> http://okfnpad.org/14th-open-bibliography-meeting
+>
+> Feel free to add more topics.
+>
+> @Primavera: Will you attend and say something about the Bibliographic
+> Metadata Guide?
+>
+> All the best
+> Adrian
+>
+
+
+From karol.langner at gmail.com  Fri Sep  9 13:04:25 2011
+From: karol.langner at gmail.com (Karol M. Langner)
+Date: Fri, 9 Sep 2011 14:04:25 +0200
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+Message-ID: <20110909120425.GB1942@fwnc7111.wks.gorlaeus.net>
+
+Hi,
+
+I've been following this list for a while silently. My second native language is Polish,
+do you have anyone working on that translation? O could give it a go in the near future.
+
+Best,
+Karol
+
+On Thu, Sep 08, 2011 at 09:33:58PM +0200, Adrian Pohl wrote:
+> Hello,
+> 
+> the Romanian translation of the Principles on Open Bibliographic Data
+> is now online, see http://openbiblio.net/principles/ro/
+> 
+> Thank you for providing it, Nicolaie.
+> 
+> Of course, it would be very good to publish more translations of the
+> principles to other languages. Everybody, if you are fluent in a
+> language which isn't covered yet, please think about contributing
+> another translation...
+> 
+> All the best
+> Adrian
+> 
+> 2011/9/2 Adrian Pohl <adrian.pohl at okfn.org>:
+> > Hello Nicolaus,
+> >
+> > great that you took the time to translate the Principles on Open
+> > Bibliographic Data. Thank you very much for your contribution.
+> >
+> > Also, it's nice to see that some more people have signed the
+> > openbiblio principles. Somebody must've done some promotional work.
+> > :-) As there must be several people on this list who haven't yet
+> > signed the openbiblio principles I just want to gently remind
+> > everybody that the possibility exists and making use of it it doesn't
+> > take more than a minute at http://openbiblio.net/principles/endorse/
+> >
+> > Nicolaus, I already added your translation to the website but to
+> > publish it I need these phrases to be translated as well:
+> >
+> > - "English Original"
+> > - "Endorse the Principles"
+> > - "Introduction" (Obviously, the PDF version and the HTML version
+> > differ in this respect... I'd like to add it to the web like the other
+> > language versions.)
+> > - "Translation from the English original by Nicolaus Kreschmer,
+> > September 2nd, 2011."
+> > - At last: what's the Romanian word for "Romanian"?
+> >
+> > As for the ODT files. Wordpress doesn't take these because of security
+> > concerns. I removed the dead links from the pages.
+> >
+> > All the best
+> > Adrian
+> >
+> > 2011/9/2 nicolaus kreschmer <kosson at gmail.com>:
+> >> Dear friends,
+> >>
+> >> I would like to bring to your knowledge the Romanian translation of the principles.
+> >>
+> >> I have attached them in both versions PDF and ODF (please look on the blog that the original ODF file link is broken).
+> >>
+> >> Also, the Principles were published on Kosson Library and Information Science Community page at www.kosson.ro
+> >>
+> >> Keep up the good work and please consider our community as a channel open towards Romanian information specialists.
+> >>
+> >> Kind regards,
+> >>
+> >>
+> >>
+> >> _______________________________________________
+> >> open-bibliography mailing list
+> >> open-bibliography at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >>
+> >>
+> >
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-- 
+written by Karol M. Langner
+Fri Sep  9 14:03:24 CEST 2011
+
+
+From adrian.pohl at okfn.org  Fri Sep  9 14:25:31 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 9 Sep 2011 15:25:31 +0200
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <20110909120425.GB1942@fwnc7111.wks.gorlaeus.net>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+	<20110909120425.GB1942@fwnc7111.wks.gorlaeus.net>
+Message-ID: <CAOtd05HfufmHKT88nr6XGZpMjf5qkzMXRW7jyq5AinBE8RUjWQ@mail.gmail.com>
+
+Hello Karol,
+
+that would be great if you provided a Polish translation. AFAIK, we
+only have a Korean version in the pipeline.
+
+All the best
+Adrian
+
+2011/9/9 Karol M. Langner <karol.langner at gmail.com>:
+> Hi,
+>
+> I've been following this list for a while silently. My second native language is Polish,
+> do you have anyone working on that translation? O could give it a go in the near future.
+>
+> Best,
+> Karol
+>
+> On Thu, Sep 08, 2011 at 09:33:58PM +0200, Adrian Pohl wrote:
+>> Hello,
+>>
+>> the Romanian translation of the Principles on Open Bibliographic Data
+>> is now online, see http://openbiblio.net/principles/ro/
+>>
+>> Thank you for providing it, Nicolaie.
+>>
+>> Of course, it would be very good to publish more translations of the
+>> principles to other languages. Everybody, if you are fluent in a
+>> language which isn't covered yet, please think about contributing
+>> another translation...
+>>
+>> All the best
+>> Adrian
+>>
+>> 2011/9/2 Adrian Pohl <adrian.pohl at okfn.org>:
+>> > Hello Nicolaus,
+>> >
+>> > great that you took the time to translate the Principles on Open
+>> > Bibliographic Data. Thank you very much for your contribution.
+>> >
+>> > Also, it's nice to see that some more people have signed the
+>> > openbiblio principles. Somebody must've done some promotional work.
+>> > :-) As there must be several people on this list who haven't yet
+>> > signed the openbiblio principles I just want to gently remind
+>> > everybody that the possibility exists and making use of it it doesn't
+>> > take more than a minute at http://openbiblio.net/principles/endorse/
+>> >
+>> > Nicolaus, I already added your translation to the website but to
+>> > publish it I need these phrases to be translated as well:
+>> >
+>> > - "English Original"
+>> > - "Endorse the Principles"
+>> > - "Introduction" (Obviously, the PDF version and the HTML version
+>> > differ in this respect... I'd like to add it to the web like the other
+>> > language versions.)
+>> > - "Translation from the English original by Nicolaus Kreschmer,
+>> > September 2nd, 2011."
+>> > - At last: what's the Romanian word for "Romanian"?
+>> >
+>> > As for the ODT files. Wordpress doesn't take these because of security
+>> > concerns. I removed the dead links from the pages.
+>> >
+>> > All the best
+>> > Adrian
+>> >
+>> > 2011/9/2 nicolaus kreschmer <kosson at gmail.com>:
+>> >> Dear friends,
+>> >>
+>> >> I would like to bring to your knowledge the Romanian translation of the principles.
+>> >>
+>> >> I have attached them in both versions PDF and ODF (please look on the blog that the original ODF file link is broken).
+>> >>
+>> >> Also, the Principles were published on Kosson Library and Information Science Community page at www.kosson.ro
+>> >>
+>> >> Keep up the good work and please consider our community as a channel open towards Romanian information specialists.
+>> >>
+>> >> Kind regards,
+>> >>
+>> >>
+>> >>
+>> >> _______________________________________________
+>> >> open-bibliography mailing list
+>> >> open-bibliography at lists.okfn.org
+>> >> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> >>
+>> >>
+>> >
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> --
+> written by Karol M. Langner
+> Fri Sep ?9 14:03:24 CEST 2011
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From karol.langner at gmail.com  Fri Sep  9 15:13:35 2011
+From: karol.langner at gmail.com (Karol M. Langner)
+Date: Fri, 9 Sep 2011 16:13:35 +0200
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CAOtd05HfufmHKT88nr6XGZpMjf5qkzMXRW7jyq5AinBE8RUjWQ@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+	<20110909120425.GB1942@fwnc7111.wks.gorlaeus.net>
+	<CAOtd05HfufmHKT88nr6XGZpMjf5qkzMXRW7jyq5AinBE8RUjWQ@mail.gmail.com>
+Message-ID: <20110909141335.GA15029@fwnc7111.wks.gorlaeus.net>
+
+What format do you prefer to get it in?
+
+On Fri, Sep 09, 2011 at 03:25:31PM +0200, Adrian Pohl wrote:
+> Hello Karol,
+> 
+> that would be great if you provided a Polish translation. AFAIK, we
+> only have a Korean version in the pipeline.
+> 
+> All the best
+> Adrian
+> 
+> 2011/9/9 Karol M. Langner <karol.langner at gmail.com>:
+> > Hi,
+> >
+> > I've been following this list for a while silently. My second native language is Polish,
+> > do you have anyone working on that translation? O could give it a go in the near future.
+> >
+> > Best,
+> > Karol
+
+-- 
+written by Karol M. Langner
+Fri Sep  9 16:12:32 CEST 2011
+
+
+From pm286 at cam.ac.uk  Fri Sep  9 16:27:30 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 9 Sep 2011 16:27:30 +0100
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CADybtq2sSEiP_EO7KtpiF+q6E9_SeTCXR8embxKzpqbP4sQM7Q@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+	<CADybtq2sSEiP_EO7KtpiF+q6E9_SeTCXR8embxKzpqbP4sQM7Q@mail.gmail.com>
+Message-ID: <CAD2k14N9mT12nGpjmFbgPz2ZytKeftbcejmFFKghfzx7u+2iMw@mail.gmail.com>
+
+On Thu, Sep 8, 2011 at 8:38 PM, Constantinescu Nicolaie <kosson at gmail.com>wrote:
+
+> Adrian,
+>
+> All looks good! God speed on all your efforts!
+>
+> Unfortunately only with Romanian I can contribute. In the future,
+> please, if something important happens, please consider our community
+> in Romania as a partner in dissemination.
+>
+
+Thanks very much. I think there will be a lot that the OKF generates where
+translations will be valuable. It's also a very good way of showing new
+visitors that we care.
+
+Have http://pantonprinciples.org/ been translated? :-) I seem to remember
+so, but can't find it in a search
+
+P.
+
+
+>
+> Kind regards,
+>
+> --
+> Constantinescu Nicolaie
+> Information Architect
+> http://www.kosson.ro
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110909/69d19613/attachment.htm>
+
+From kosson at gmail.com  Fri Sep  9 16:58:43 2011
+From: kosson at gmail.com (Constantinescu Nicolaie)
+Date: Fri, 9 Sep 2011 18:58:43 +0300
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CAD2k14N9mT12nGpjmFbgPz2ZytKeftbcejmFFKghfzx7u+2iMw@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+	<CADybtq2sSEiP_EO7KtpiF+q6E9_SeTCXR8embxKzpqbP4sQM7Q@mail.gmail.com>
+	<CAD2k14N9mT12nGpjmFbgPz2ZytKeftbcejmFFKghfzx7u+2iMw@mail.gmail.com>
+Message-ID: <CADybtq1A9JFUhfkgwwuQx6e=21hgVQ69s-bH4bjqVCT4DDpz_Q@mail.gmail.com>
+
+There is no Romanian translation for it. Please let me know if you do
+have the Romanian translation, if not, I will get on that right away.
+
+On 9 September 2011 18:27, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Thu, Sep 8, 2011 at 8:38 PM, Constantinescu Nicolaie <kosson at gmail.com>
+> wrote:
+>>
+>> Adrian,
+>>
+>> All looks good! God speed on all your efforts!
+>>
+>> Unfortunately only with Romanian I can contribute. In the future,
+>> please, if something important happens, please consider our community
+>> in Romania as a partner in dissemination.
+>
+> Thanks very much. I think there will be a lot that the OKF generates where
+> translations will be valuable. It's also a very good way of showing new
+> visitors that we care.
+>
+> Have http://pantonprinciples.org/ been translated? :-) I seem to remember
+> so, but can't find it in a search
+>
+> P.
+>
+>>
+>> Kind regards,
+>>
+>> --
+>> Constantinescu Nicolaie
+>> Information Architect
+>> http://www.kosson.ro
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Constantinescu Nicolaie
+Information Architect
+http://www.kosson.ro
+
+
+From adrian.pohl at okfn.org  Mon Sep 12 08:38:29 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 12 Sep 2011 09:38:29 +0200
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival data
+	base
+Message-ID: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+
+Hello,
+
+on Saturday a project was introduced at the Wikipedia Convention.
+Jakob Vo? has written about it (in German) in his blog.[1] See the
+English wiki page for the project[2], where it reads:
+
+"Libraries and archives all over the world are increasingly ready to
+release their electronical catalogue entries. What follows is the plan
+to create a Wikipedia source for such information: a source which
+users should not only consult to locate materials but also to
+intelligently connect, comment and correct information they find.
+
+(...)
+
+The ideal tool would become a central data base in the Wikipedia
+universe. Correct information within this database and the respective
+entries in Wikipedia articles that refer to this piece of information
+show the new data (perhaps even with the research reference given in
+the data base). Wikisource-should be able to use our data. (...)
+
+The entire project should be seen as a first step into the arena of
+structured data."
+
+In 2012 will be a workshop on this project.[3]
+
+Wikimedia is one of the organizations most interested in open
+bibliographic data. They have very much supported the open
+bibliographic data movement. It is only consequent that they are now
+starting a project like this. We should see how we can cooperate.
+
+All the best
+Adrian
+
+[1] http://jakoblog.de/2011/09/10/wikimedia-projekt-bibliographisch-archivalische-datenbank/
+
+[2] http://de.wikipedia.org/wiki/Wikipedia:Bibliographisch-archivalische_Datenbank/English
+
+[3] http://de.wikipedia.org/wiki/Wikipedia:Bibliographisch-archivalische_Datenbank/English_Workshop
+
+
+From kosson at gmail.com  Mon Sep 12 13:50:15 2011
+From: kosson at gmail.com (Constantinescu Nicolaie)
+Date: Mon, 12 Sep 2011 15:50:15 +0300
+Subject: [open-bibliography] Romanian translation of the Principles
+In-Reply-To: <CAD2k14N9mT12nGpjmFbgPz2ZytKeftbcejmFFKghfzx7u+2iMw@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+	<CADybtq2sSEiP_EO7KtpiF+q6E9_SeTCXR8embxKzpqbP4sQM7Q@mail.gmail.com>
+	<CAD2k14N9mT12nGpjmFbgPz2ZytKeftbcejmFFKghfzx7u+2iMw@mail.gmail.com>
+Message-ID: <CADybtq1vmmbG-3QXxjeCUDxFoz2TJJhvv0bt=3b52x+QskqQYw@mail.gmail.com>
+
+Dear Peter,
+
+Please, find attached the Romanian version for the Panton Principles.
+The translated version was published on Kosson Community as well:
+http://www.kosson.ro/index.php?option=com_content&view=article&id=419%3Aprincipiile-panton-pentru-date-deschise-in-stiinta&catid=22%3Aknow-how&Itemid=32&lang=ro
+
+Kind regards,
+
+On 9 September 2011 18:27, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Thu, Sep 8, 2011 at 8:38 PM, Constantinescu Nicolaie <kosson at gmail.com>
+> wrote:
+>>
+>> Adrian,
+>>
+>> All looks good! God speed on all your efforts!
+>>
+>> Unfortunately only with Romanian I can contribute. In the future,
+>> please, if something important happens, please consider our community
+>> in Romania as a partner in dissemination.
+>
+> Thanks very much. I think there will be a lot that the OKF generates where
+> translations will be valuable. It's also a very good way of showing new
+> visitors that we care.
+>
+> Have http://pantonprinciples.org/ been translated? :-) I seem to remember
+> so, but can't find it in a search
+>
+> P.
+>
+>>
+>> Kind regards,
+>>
+>> --
+>> Constantinescu Nicolaie
+>> Information Architect
+>> http://www.kosson.ro
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Constantinescu Nicolaie
+Information Architect
+http://www.kosson.ro
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Principiile Panton.odt
+Type: application/vnd.oasis.opendocument.text
+Size: 14405 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110912/990b404f/attachment.odt>
+
+From pitman at stat.Berkeley.EDU  Mon Sep 12 17:46:55 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 12 Sep 2011 09:46:55 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+Message-ID: <20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+
+Adrian, jumping to your conclusion:
+
+> Wikimedia is one of the organizations most interested in open
+> bibliographic data. They have very much supported the open
+> bibliographic data movement. It is only consequent that they are now
+> starting a project like this. We should see how we can cooperate.
+
+I agree. Is there a volunteer on this list willing to act as a point
+of contact between OKFN/openbiblio and this effort? 
+I do have somewhere a list of names of people involved with a currently stalled Wikimedia effort to 
+provide an adequately structured database of books and articles cited in Wikipedia. I'll be glad to 
+find the list and share with anyone who has the time to follow up on this.
+--Jim
+
+Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> on Saturday a project was introduced at the Wikipedia Convention.
+> Jakob Vo? has written about it (in German) in his blog.[1] See the
+> English wiki page for the project[2], where it reads:
+>
+> "Libraries and archives all over the world are increasingly ready to
+> release their electronical catalogue entries. What follows is the plan
+> to create a Wikipedia source for such information: a source which
+> users should not only consult to locate materials but also to
+> intelligently connect, comment and correct information they find.
+>
+> (...)
+>
+> The ideal tool would become a central data base in the Wikipedia
+> universe. Correct information within this database and the respective
+> entries in Wikipedia articles that refer to this piece of information
+> show the new data (perhaps even with the research reference given in
+> the data base). Wikisource-should be able to use our data. (...)
+>
+> The entire project should be seen as a first step into the arena of
+> structured data."
+>
+> In 2012 will be a workshop on this project.[3]
+>
+> Wikimedia is one of the organizations most interested in open
+> bibliographic data. They have very much supported the open
+> bibliographic data movement. It is only consequent that they are now
+> starting a project like this. We should see how we can cooperate.
+>
+> All the best
+> Adrian
+>
+> [1] http://jakoblog.de/2011/09/10/wikimedia-projekt-bibliographisch-archivalische-datenbank/
+>
+> [2] http://de.wikipedia.org/wiki/Wikipedia:Bibliographisch-archivalische_Datenbank/English
+>
+> [3] http://de.wikipedia.org/wiki/Wikipedia:Bibliographisch-archivalische_Datenbank/English_Workshop
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From pitman at stat.Berkeley.EDU  Mon Sep 12 19:31:39 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 12 Sep 2011 11:31:39 -0700
+Subject: [open-bibliography] [dpla-discussion] The Digital Registry
+In-Reply-To: <20110912114936.28581bunnv92tiq8@webmail.media.mit.edu>
+References: <20110912114936.28581bunnv92tiq8@webmail.media.mit.edu>
+Message-ID: <20110912183139.E0A7D80B7@bibserver.Berkeley.EDU>
+
+> *THE DIGITAL REGISTRY*
+>
+> Berkman Founder Charlie Nesson leads an effort to establish a Registry  
+> of digital intellectual property for personal, educational, or  
+> commercial use. The vision for the Registry is that it will encompass  
+> all copyrighted works, all orphan works, and all works in the public  
+> domain.
+> Further details can be found here:
+> http://blogs.law.harvard.edu/nesson/digital-registry/
+> Comments, ideas and feedback welcome.
+
+I hope this could build on or cooperate with the current OKFN project
+
+http://publicdomainworks.net/
+
+"Public Domain Works is an open registry of cultural works that are in the public domain. It also provides a web API for calculating public domain status of works."
+
+Is it envisioned that the Registry would provide an index of metadata for all works that it includes? If so, how would this metadata be acquired, and what 
+would be the copyright/licensing status of this metadata? I would hope it would be compatible with http://openbiblio.net/principles/
+
+
+--Jim 
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From adrian.pohl at okfn.org  Tue Sep 13 09:12:22 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 13 Sep 2011 10:12:22 +0200
+Subject: [open-bibliography] Reminder: Virtual meeting today, 2011/09/13,
+	15:00 GMT
+Message-ID: <CAOtd05HjM+gKszWF-EJUp-GXyA=Dph+Z9OPzdzchDmeQGQSdtg@mail.gmail.com>
+
+Hello,
+
+the etherpad for today's meeting is here:
+http://okfnpad.org/14th-open-bibliography-meeting
+
+Adrian
+
+
+From pm286 at cam.ac.uk  Tue Sep 13 09:33:28 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Sep 2011 09:33:28 +0100
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+Message-ID: <CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+
+On Mon, Sep 12, 2011 at 5:46 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+> Adrian, jumping to your conclusion:
+>
+> > Wikimedia is one of the organizations most interested in open
+> > bibliographic data. They have very much supported the open
+> > bibliographic data movement. It is only consequent that they are now
+> > starting a project like this. We should see how we can cooperate.
+>
+> I agree. Is there a volunteer on this list willing to act as a point
+> of contact between OKFN/openbiblio and this effort?
+> I do have somewhere a list of names of people involved with a currently
+> stalled Wikimedia effort to
+> provide an adequately structured database of books and articles cited in
+> Wikipedia. I'll be glad to
+> find the list and share with anyone who has the time to follow up on this.
+> --Jim
+>
+I am sure that Daniel Mietchen (Wikimedian in Residence) will be able to
+suggest ideas.
+
+I am sure that Wiki(m/p)edia is a great opportunity for us to deploy Open
+Bibliography. I think there are several aspects and it would be useful for
+us to list them. My own suggestions are:
+ * all bibliographic references in Wikipedia should be normalised and
+created as a pot of Bibsoup. This will obviously take time but it's a great
+way to get a consistent, high-quality crowd-souced pot of soup.
+* all references should - if possible - include a description of the rights
+of the referenced object. e.g. if someone references an Open Access paper,
+then it should be denoted as such in WP. This would be a tremendous example
+of the power of OB.
+* I assume the references will become part of DBPedia. A clear use of
+BibJSON would help to make this easy.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/6021af00/attachment.htm>
+
+From self at evident.com  Tue Sep 13 15:08:17 2011
+From: self at evident.com (David Weinberger)
+Date: Tue, 13 Sep 2011 10:08:17 -0400
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+Message-ID: <CAKx1ww1+Mwt0nUw3hbDKjKh1VqDAVuOdn0ckZ5FaoqSU9V8_sg@mail.gmail.com>
+
+Just to let you know, we have two projects going on at the Harvard
+Library Innovation Lab that may bear on this:
+
+1. Our Lab just completed the first part of an effort to locate the
+articles about books in the English Wikipedia. We're in the process of
+writing up the results, but the short version (not for distribution
+yet, please, because we're still drafting the post about it): 1.
+Wikipedia does not make it easy to identify pages that are about
+books. The category system doesn't work the way one hopes. The
+ever-helpful dbpedia is only of limited help with this. 2. We've
+identified a total of 57,000 articles that are about books; that is,
+the article has the title of a book as its own title, and is devoted
+to that book. We got to this number via category lookups, through some
+brute force interrogation, and by refining the results via Mechanical
+Turk.
+
+2.  We have talked over the past year with SJ Klein, who is a
+Wikipedia Docent and on the Wikimedia board, about integrating
+LibraryCloud with his idea for giving a permanent page to every work
+cited in Wikipedia. LibraryCloud is a metadata server gathering
+library metadata (circ data, user reviews, etc.) and making it openly
+available via APIs and Linked Open Data. This is a multi-library
+initiative that's been under development for about 1.5 years, with
+five contributing libraries at the moment, and about 15M items.  We
+are on the verge of making it accessible to a limited public (API key
+required, daily queries limited to 3,152). We're interested in
+contributing what we can as we can. (No, we cannot make its catalog
+available in its entirety. We wish.)
+
+David Weinberger
+self at evident.com
+co-dir, Harvard Library Innovation Lab
+
+
+From Stuart.Gagnon at ARS.USDA.GOV  Tue Sep 13 15:14:27 2011
+From: Stuart.Gagnon at ARS.USDA.GOV (Gagnon, Stuart)
+Date: Tue, 13 Sep 2011 14:14:27 +0000
+Subject: [open-bibliography] Webinar: The World Bank Open Data [short notice]
+In-Reply-To: <CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+Message-ID: <8A50C9779669B849BD0B7A8C7135BA26E685@001FSN2MPN1-006.001f.mgd2.msft.net>
+
+Tariq Khokhar will discuss the World Bank's open data efforts.
+
+The future of open data (World Bank Live)
+http://live.worldbank.org/future-open-data-world-bank
+
+Just learnt about this.
+--Stu
+===========================
+Stuart R. Gagnon, M.S.L.S.
+Digital scientific data projects
+Water Quality Information Center
+National Agricultural Library
+Beltsville, Maryland, U.S.A.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/3d617bd8/attachment.htm>
+
+From pitman at stat.Berkeley.EDU  Tue Sep 13 17:20:44 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 13 Sep 2011 09:20:44 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAKx1ww1+Mwt0nUw3hbDKjKh1VqDAVuOdn0ckZ5FaoqSU9V8_sg@mail.gmail.com>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<CAKx1ww1+Mwt0nUw3hbDKjKh1VqDAVuOdn0ckZ5FaoqSU9V8_sg@mail.gmail.com>
+Message-ID: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+
+David Weinberger <self at evident.com> wrote:
+
+> LibraryCloud is a metadata server gathering
+> library metadata (circ data, user reviews, etc.) and making it openly
+> available via APIs and Linked Open Data. 
+......
+
+> We are on the verge of making it accessible to a limited public (API key
+> required, daily queries limited to 3,152). We're interested in
+> contributing what we can as we can. (No, we cannot make its catalog
+> available in its entirety. We wish.)
+
+These two paragraphs contradict each other. 
+Is LibraryCloud an open data provider, or not?
+Either data is open, and it is possible to get hold of the entire
+dataset with a clear open license for what you can so with it. Or it is not open. 
+It is wrong to call data open if it is subject to arbitary access restrictions like 3K entries a day. 
+
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From pm286 at cam.ac.uk  Tue Sep 13 17:54:08 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Sep 2011 17:54:08 +0100
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<CAKx1ww1+Mwt0nUw3hbDKjKh1VqDAVuOdn0ckZ5FaoqSU9V8_sg@mail.gmail.com>
+	<20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+Message-ID: <CAD2k14OYAsVUbOFUvmigfLpVuZnV6TsiMDoufV0pXZ3gv_AJhQ@mail.gmail.com>
+
+On Tue, Sep 13, 2011 at 5:20 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+>
+>
+> These two paragraphs contradict each other.
+> Is LibraryCloud an open data provider, or not?
+> Either data is open, and it is possible to get hold of the entire
+> dataset with a clear open license for what you can so with it. Or it is not
+> open.
+> It is wrong to call data open if it is subject to arbitary access
+> restrictions like 3K entries a day.
+>
+
+This is a major challenge for the OKF and I think we need to tackle it now.
+The world is full of Free (but only to X), Open (but you can't use it for
+Y), Open API (but only for a subset). These all have to be challenged.
+
+There ARE objective technical problems with completely Open data resources
+(e.g. what is the extent? what are the revisions? How do I get the whole
+lot? etc.). These are not easy even with a clear understanding and goodwill.
+Where the concepts are fuzzy it is much harder.
+
+(I think I wrote the same thing to the Open Science list...)
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/ccb97332/attachment.htm>
+
+From tennantr at oclc.org  Tue Sep 13 18:03:02 2011
+From: tennantr at oclc.org (Roy Tennant)
+Date: Tue, 13 Sep 2011 10:03:02 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+Message-ID: <CA94DAD6.47B30%tennantr@oclc.org>
+
+On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU> wrote:
+
+> Either data is open, and it is possible to get hold of the entire
+> dataset with a clear open license for what you can so with it. Or it is not
+> open. 
+
+Rather than sit back and allow David to be hoisted on his own petard, I feel
+it necessary to point out a few things. This list does not own the term
+"open" and neither does it get to declare when the use of it is appropriate.
+You DO get to declare a set of terms around a specific use of it, such as
+"open as defined by the Working Group on Open Bibliographic Data" but that's
+about it.
+
+This is also why the kind of discussion that might reveal the nuances of
+"open" cannot happen here due to religious-style zealotry. If something
+isn't "open" according to your strict standards it isn't open at all. This
+completely misses the fact that "open" as in the Harvard API may be
+completely fine and useful for nearly all real world purposes.
+
+If I can accomplish useful work with Harvard's API (and I likely can,
+although I haven't yet tested it out), then great. Whether I can download
+the entire dataset may be completely immaterial (and usually is) to getting
+that useful work accomplished. But then practicality isn't what this group
+is about, it's about religion. Now I will go back to lurking, where I expect
+to take my lumps like a man. Wake me up again when you're ready to have that
+nuanced discussion.
+Roy
+
+
+
+
+From self at evident.com  Tue Sep 13 18:15:25 2011
+From: self at evident.com (David Weinberger)
+Date: Tue, 13 Sep 2011 13:15:25 -0400
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CA94DAD6.47B30%tennantr@oclc.org>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+Message-ID: <CAKx1ww16yFJgqHJw=1UFu=9QLc6s3MX+cHQOgnBLTSOh2S0k9g@mail.gmail.com>
+
+Thanks for the challenge, Jim. Thanks for the petard snipping, Roy.
+
+As I just wrote to Jim: At this point, we cannot make all our catalog
+data available for bulk download. That is a limitation we all regret
+but there it is.  I would argue that because the data we make
+available we make available without restriction, it is reasonable to
+use "open" as a modifier. It may also be worth mentioning that the
+point of LibraryCloud is not and never has been to make catalog data
+available. Rather, it is to gather and make accessible less-noticed
+metadata from libraries; we need catalog data so that other metadata
+has a referent.
+
+We're trying to do something useful and collaborative within the
+limitations under which we labor, and we hope that what we're
+contributing is of some value. Whether it merits the lofty adjective
+"open" is to me an interesting discussion, but not the most
+interesting one.
+
+David
+
+On Tue, Sep 13, 2011 at 1:03 PM, Roy Tennant <tennantr at oclc.org> wrote:
+> On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU> wrote:
+>
+>> Either data is open, and it is possible to get hold of the entire
+>> dataset with a clear open license for what you can so with it. Or it is not
+>> open.
+>
+> Rather than sit back and allow David to be hoisted on his own petard, I feel
+> it necessary to point out a few things. This list does not own the term
+> "open" and neither does it get to declare when the use of it is appropriate.
+> You DO get to declare a set of terms around a specific use of it, such as
+> "open as defined by the Working Group on Open Bibliographic Data" but that's
+> about it.
+>
+> This is also why the kind of discussion that might reveal the nuances of
+> "open" cannot happen here due to religious-style zealotry. If something
+> isn't "open" according to your strict standards it isn't open at all. This
+> completely misses the fact that "open" as in the Harvard API may be
+> completely fine and useful for nearly all real world purposes.
+>
+> If I can accomplish useful work with Harvard's API (and I likely can,
+> although I haven't yet tested it out), then great. Whether I can download
+> the entire dataset may be completely immaterial (and usually is) to getting
+> that useful work accomplished. But then practicality isn't what this group
+> is about, it's about religion. Now I will go back to lurking, where I expect
+> to take my lumps like a man. Wake me up again when you're ready to have that
+> nuanced discussion.
+> Roy
+>
+>
+>
+
+
+From pm286 at cam.ac.uk  Tue Sep 13 18:41:04 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Sep 2011 18:41:04 +0100
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CA94DAD6.47B30%tennantr@oclc.org>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+Message-ID: <CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+
+On Tue, Sep 13, 2011 at 6:03 PM, Roy Tennant <tennantr at oclc.org> wrote:
+
+> On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU>
+> wrote:
+>
+> > Either data is open, and it is possible to get hold of the entire
+> > dataset with a clear open license for what you can so with it. Or it is
+> not
+> > open.
+>
+> Rather than sit back and allow David to be hoisted on his own petard, I
+> feel
+> it necessary to point out a few things. This list does not own the term
+> "open" and neither does it get to declare when the use of it is
+> appropriate.
+> You DO get to declare a set of terms around a specific use of it, such as
+> "open as defined by the Working Group on Open Bibliographic Data" but
+> that's
+> about it.
+>
+
+The OKF has defined "Open Knowledge" in the Open Definition
+
+The Open Knowledge Definition (OKD) <http://www.opendefinition.org/okd> sets
+> out principles to define ?openness? in knowledge ? that?s any kind of
+> content or data ?from sonnets to statistics, genes to geodata?. The
+> definition can be summed up in the statement that *?A piece of content or
+> data is open if anyone is free to use, reuse, and redistribute it ? subject
+> only, at most, to the requirement to attribute and share-alike.?*.
+>
+
+It is generally accepted on lists run by the OKF that "Open" refers to this
+definition.
+
+When using this concept elsewhere  I either capitalize it ("Open") or use
+"OKD-compliant" to make it clear that there is a formal definition.
+
+The lax use of "open" adds no value. If the word can be defined to mean
+whatever the author likes, then it is redundant (unless specifically
+defined). Thus there is no difference between:
+
+"the data are openly available"
+and
+"the data are available"
+
+There is great importance in defining what is meant by "open". The Open
+Source community has put great effort into this through the Open Source
+Initiative (http://www.opensource.org/ ). It has now been able to reach the
+stage where "Open Source" is universally understood as "OSI-compliant".
+
+By contrast the Open Access movement has taken a decade to converge on a
+practical definition of Open Access. This matters; if an author has to pay
+3000 USD to have a paper regarded as Open Access it is important that we
+know what it means (and in many cases we still don't, precisely).
+
+>
+> This is also why the kind of discussion that might reveal the nuances of
+> "open" cannot happen here due to religious-style zealotry. If something
+> isn't "open" according to your strict standards it isn't open at all. This
+> completely misses the fact that "open" as in the Harvard API may be
+> completely fine and useful for nearly all real world purposes.
+>
+
+This is not religious; it's practical. If we are going to use "open" as a
+useful label then it has to be defined. If people are going to pay money, or
+change their business model, then it should be crystal clear.
+
+"open" as in "the Harvard API" adds no information. Instead call it "the
+Harvard conditions" and point us at the place where they are PRECISELY
+defined. And precise definitions matter. If we do something that is not
+allowed we may end up being sued. If we don't know what is allowed then we
+either break the rules or are too afraid to do anything.
+
+The advantage of the OKD is that it is universal and almost always trivial
+to understand and implement. There may be cases where it isn't appropriate -
+fine - but in that case you should describe precsiely what you want and what
+you don't want. And that has to be explainable to everyone involved. The OSI
+found that writing your own licence was very complex and dangerous - so most
+people use an OSI-compliant licence
+
+
+> If I can accomplish useful work with Harvard's API (and I likely can,
+> although I haven't yet tested it out), then great. Whether I can download
+> the entire dataset may be completely immaterial (and usually is) to getting
+> that useful work accomplished. But then practicality isn't what this group
+> is about, it's about religion. Now I will go back to lurking, where I
+> expect
+> to take my lumps like a man. Wake me up again when you're ready to have
+> that
+> nuanced discussion.
+>
+
+The OKF welcomes everyone - it is not relligious and very practical. Its
+definition is being adopted by publishers, funders, governments beacuse
+*they* need precise guidelines. For example it took two years' work to
+create the Panton Principles for Open Science data
+http://pantonprinciples.org/ and Open Access publishers such as Biomed
+Central are now adopting them because they are *useful*. The Open
+Bibliography principles follow the same philosophy. We believe they are
+useful in the same way.
+
+Please stay with us
+
+P.
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/d8420b0f/attachment-0001.htm>
+
+From tfmorris at gmail.com  Tue Sep 13 19:13:18 2011
+From: tfmorris at gmail.com (Tom Morris)
+Date: Tue, 13 Sep 2011 14:13:18 -0400
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+	<CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+Message-ID: <CAE9vqEHYa52pAt=A5T0YxbC8T_Aa9xMjiJ91ONJow5kztcr=PQ@mail.gmail.com>
+
+There's not a lot that I agree with the OCLC on, but in this case I'm
+in 100% agreement with Roy.  Attempts to legislate language usage down
+to the single word level are not only doomed to failure, but the
+stridency will drive reasonable people away.
+
+On Tue, Sep 13, 2011 at 1:41 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> There is great importance in defining what is meant by "open". The Open
+> Source community has put great effort into this through the Open Source
+> Initiative (http://www.opensource.org/ ). It has now been able to reach the
+> stage where "Open Source" is universally understood as "OSI-compliant".
+
+This understanding isn't anywhere near as universal as you seem to
+think.  Just a few days ago ReadWriteWeb (RWW) published a rant where
+they totally misunderstood what open source is about.
+http://www.readwriteweb.com/hack/2011/09/point-whats-this-i-hear-about.php
+ If you were to talk to Richard Stallman, I bet he'd tell you that
+"open" is meaningless and what you've got to insist on is "free"
+(where he's the sole arbiter of what the word "free" means).  Such
+zealotry is divisive.
+
+In my opinion, inclusive approaches which attempt to find common
+ground with interested parties are much more powerful.
+
+Open is a spectrum.  I haven't looked at the Harvard license/terms of
+service (which is what really matters, not the catch phrase they use),
+but I suspect when I do I'll find the data is more open than it was,
+but less open than I'd like it to be.
+
+Tom
+
+
+From tennantr at oclc.org  Tue Sep 13 19:14:36 2011
+From: tennantr at oclc.org (Roy Tennant)
+Date: Tue, 13 Sep 2011 11:14:36 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+Message-ID: <CA94EB9C.47B49%tennantr@oclc.org>
+
+Peter, thank you. This is exactly the kind of nuanced and informative
+message I expect of a professional discussion, and I?m gratified to see it.
+It has been sufficient to lure me once again out of lurking into the light.
+
+>It is generally accepted on lists run by the OKF that "Open" refers to this
+definition. 
+
+I can see where this may be true, but it does tend to ignore the real world,
+in which the use of the term ?open? is much more nebulous. I guess what I
+was trying to say, perhaps clumsily, is that without either explicit
+reference to a definition of open (e.g., the OKD) or an implicit (I suppose
+one could argue that the capitalized ?Open Access? term may fall into this
+camp), then one should likely default to ?open as in non-proprietary? or
+?open as in not closed? definitions that exist out there in the world. And
+then, as you suggest, one would need to check the terms and conditions that
+apply.
+
+My main complaint was that Jim Pittman claimed ownership of the term ?open?
+-- not ?open as defined by OKD? or  even ?Open Data?. ?Open? as in I can
+download the entire data set or else it isn?t ?open? at all. I would like to
+suggest that out in the world the use of the term is more nuanced. David
+said, in part that Harvard was making the data ?openly available via APIs
+and Linked Open Data? -- a statement that pretty much no one outside of this
+list would argue with. The fact that he failed to say ?openly available for
+bulk download? makes it slightly less ?open? but not so egregiously so that
+he must purge the word ?open? (lowercase, not referenced to a specific
+definition) from his vocabulary.
+
+The world is large enough for more than One True God. Create your
+definition, and gather your adherents, but allow others the use of the term
+as well. Thanks again for your thoughtful reply.
+Roy
+ 
+On 9/13/11 9/13/11 ? 10:41 AM, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+
+> 
+> 
+> On Tue, Sep 13, 2011 at 6:03 PM, Roy Tennant <tennantr at oclc.org> wrote:
+>> On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU> wrote:
+>> 
+>>> > Either data is open, and it is possible to get hold of the entire
+>>> > dataset with a clear open license for what you can so with it. Or it is
+>>> not
+>>> > open.
+>> 
+>> Rather than sit back and allow David to be hoisted on his own petard, I feel
+>> it necessary to point out a few things. This list does not own the term
+>> "open" and neither does it get to declare when the use of it is appropriate.
+>> You DO get to declare a set of terms around a specific use of it, such as
+>> "open as defined by the Working Group on Open Bibliographic Data" but that's
+>> about it.
+> 
+> The OKF has defined "Open Knowledge" in the Open Definition
+> 
+>> The Open Knowledge Definition (OKD) <http://www.opendefinition.org/okd>  sets
+>> out principles to define ?openness? in knowledge ? that?s any kind of content
+>> or data ?from sonnets to statistics, genes to geodata?. The definition can be
+>> summed up in the statement that ?A piece of content or data is open if anyone
+>> is free to use, reuse, and redistribute it ? subject only, at most, to the
+>> requirement to attribute and share-alike.?.
+> 
+> It is generally accepted on lists run by the OKF that "Open" refers to this
+> definition. 
+> 
+> When using this concept elsewhere? I either capitalize it ("Open") or use
+> "OKD-compliant" to make it clear that there is a formal definition.
+> 
+> The lax use of "open" adds no value. If the word can be defined to mean
+> whatever the author likes, then it is redundant (unless specifically defined).
+> Thus there is no difference between:
+> 
+> "the data are openly available"
+> and
+> "the data are available"
+> 
+> There is great importance in defining what is meant by "open". The Open Source
+> community has put great effort into this through the Open Source Initiative
+> (http://www.opensource.org/ ). It has now been able to reach the stage where
+> "Open Source" is universally understood as "OSI-compliant".
+> 
+> By contrast the Open Access movement has taken a decade to converge on a
+> practical definition of Open Access. This matters; if an author has to pay
+> 3000 USD to have a paper regarded as Open Access it is important that we know
+> what it means (and in many cases we still don't, precisely).
+>> 
+>> This is also why the kind of discussion that might reveal the nuances of
+>> "open" cannot happen here due to religious-style zealotry. If something
+>> isn't "open" according to your strict standards it isn't open at all. This
+>> completely misses the fact that "open" as in the Harvard API may be
+>> completely fine and useful for nearly all real world purposes.
+> 
+> This is not religious; it's practical. If we are going to use "open" as a
+> useful label then it has to be defined. If people are going to pay money, or
+> change their business model, then it should be crystal clear.
+> 
+> "open" as in "the Harvard API" adds no information. Instead call it "the
+> Harvard conditions" and point us at the place where they are PRECISELY
+> defined. And precise definitions matter. If we do something that is not
+> allowed we may end up being sued. If we don't know what is allowed then we
+> either break the rules or are too afraid to do anything.
+> 
+> The advantage of the OKD is that it is universal and almost always trivial to
+> understand and implement. There may be cases where it isn't appropriate - fine
+> - but in that case you should describe precsiely what you want and what you
+> don't want. And that has to be explainable to everyone involved. The OSI found
+> that writing your own licence was very complex and dangerous - so most people
+> use an OSI-compliant licence
+> ?
+>> If I can accomplish useful work with Harvard's API (and I likely can,
+>> although I haven't yet tested it out), then great. Whether I can download
+>> the entire dataset may be completely immaterial (and usually is) to getting
+>> that useful work accomplished. But then practicality isn't what this group
+>> is about, it's about religion. Now I will go back to lurking, where I expect
+>> to take my lumps like a man. Wake me up again when you're ready to have that
+>> nuanced discussion.
+> 
+> The OKF welcomes everyone - it is not relligious and very practical. Its
+> definition is being adopted by publishers, funders, governments beacuse *they*
+> need precise guidelines. For example it took two years' work to create the
+> Panton Principles for Open Science data http://pantonprinciples.org/ and Open
+> Access publishers such as Biomed Central are now adopting them because they
+> are *useful*. The Open Bibliography principles follow the same philosophy. We
+> believe they are useful in the same way.
+> 
+> Please stay with us
+> 
+> P.
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> 
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/b3f4aafc/attachment.htm>
+
+From tennantr at oclc.org  Tue Sep 13 19:16:51 2011
+From: tennantr at oclc.org (Roy Tennant)
+Date: Tue, 13 Sep 2011 11:16:51 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAE9vqEHYa52pAt=A5T0YxbC8T_Aa9xMjiJ91ONJow5kztcr=PQ@mail.gmail.com>
+Message-ID: <CA94EC23.47B4D%tennantr@oclc.org>
+
+On 9/13/11 9/13/11 ? 11:13 AM, "Tom Morris" <tfmorris at gmail.com> wrote:
+
+> There's not a lot that I agree with the OCLC on
+
+I must rush to clarify that I'm not speaking on behalf of anyone except
+myself. My tendency to overlook this caveat is, I'm afraid, a hold-over from
+my near lifetime of service in academia.
+Roy
+
+
+
+
+From self at evident.com  Tue Sep 13 19:18:09 2011
+From: self at evident.com (David Weinberger)
+Date: Tue, 13 Sep 2011 14:18:09 -0400
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+	<CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+Message-ID: <CAKx1ww1=eCqWkX2F-Nk8RBRa46KNUboYjXWxnWbknW5BKsPVuQ@mail.gmail.com>
+
+"A piece of content or data is open if anyone is free to use, reuse,
+and redistribute it ? subject only, at most, to the requirement to
+attribute and share-alike"
+
+That describes any data you can get via LibraryCloud's API.
+
+I know that's not exactly what you want the stated definition to mean,
+but it is what the definition says.
+
+As for the attempt to enforce a particular and precise definition of a
+term already in common (and thus usefully sloppy) use: There's value
+in the attempt, so long as it's understood that the precise definition
+will only be enforceable and understood within particular contexts.
+This list is one of the those contexts for "open."
+
+David W.
+
+On Tue, Sep 13, 2011 at 1:41 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Tue, Sep 13, 2011 at 6:03 PM, Roy Tennant <tennantr at oclc.org> wrote:
+>>
+>> On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU>
+>> wrote:
+>>
+>> > Either data is open, and it is possible to get hold of the entire
+>> > dataset with a clear open license for what you can so with it. Or it is
+>> > not
+>> > open.
+>>
+>> Rather than sit back and allow David to be hoisted on his own petard, I
+>> feel
+>> it necessary to point out a few things. This list does not own the term
+>> "open" and neither does it get to declare when the use of it is
+>> appropriate.
+>> You DO get to declare a set of terms around a specific use of it, such as
+>> "open as defined by the Working Group on Open Bibliographic Data" but
+>> that's
+>> about it.
+>
+> The OKF has defined "Open Knowledge" in the Open Definition
+>
+>> The Open Knowledge Definition (OKD) sets out principles to define
+>> ?openness? in knowledge ? that?s any kind of content or data ?from sonnets
+>> to statistics, genes to geodata?. The definition can be summed up in the
+>> statement that ?A piece of content or data is open if anyone is free to use,
+>> reuse, and redistribute it ? subject only, at most, to the requirement to
+>> attribute and share-alike.?.
+>
+> It is generally accepted on lists run by the OKF that "Open" refers to this
+> definition.
+>
+> When using this concept elsewhere? I either capitalize it ("Open") or use
+> "OKD-compliant" to make it clear that there is a formal definition.
+>
+> The lax use of "open" adds no value. If the word can be defined to mean
+> whatever the author likes, then it is redundant (unless specifically
+> defined). Thus there is no difference between:
+>
+> "the data are openly available"
+> and
+> "the data are available"
+>
+> There is great importance in defining what is meant by "open". The Open
+> Source community has put great effort into this through the Open Source
+> Initiative (http://www.opensource.org/ ). It has now been able to reach the
+> stage where "Open Source" is universally understood as "OSI-compliant".
+>
+> By contrast the Open Access movement has taken a decade to converge on a
+> practical definition of Open Access. This matters; if an author has to pay
+> 3000 USD to have a paper regarded as Open Access it is important that we
+> know what it means (and in many cases we still don't, precisely).
+>>
+>> This is also why the kind of discussion that might reveal the nuances of
+>> "open" cannot happen here due to religious-style zealotry. If something
+>> isn't "open" according to your strict standards it isn't open at all. This
+>> completely misses the fact that "open" as in the Harvard API may be
+>> completely fine and useful for nearly all real world purposes.
+>
+> This is not religious; it's practical. If we are going to use "open" as a
+> useful label then it has to be defined. If people are going to pay money, or
+> change their business model, then it should be crystal clear.
+>
+> "open" as in "the Harvard API" adds no information. Instead call it "the
+> Harvard conditions" and point us at the place where they are PRECISELY
+> defined. And precise definitions matter. If we do something that is not
+> allowed we may end up being sued. If we don't know what is allowed then we
+> either break the rules or are too afraid to do anything.
+>
+> The advantage of the OKD is that it is universal and almost always trivial
+> to understand and implement. There may be cases where it isn't appropriate -
+> fine - but in that case you should describe precsiely what you want and what
+> you don't want. And that has to be explainable to everyone involved. The OSI
+> found that writing your own licence was very complex and dangerous - so most
+> people use an OSI-compliant licence
+>
+>>
+>> If I can accomplish useful work with Harvard's API (and I likely can,
+>> although I haven't yet tested it out), then great. Whether I can download
+>> the entire dataset may be completely immaterial (and usually is) to
+>> getting
+>> that useful work accomplished. But then practicality isn't what this group
+>> is about, it's about religion. Now I will go back to lurking, where I
+>> expect
+>> to take my lumps like a man. Wake me up again when you're ready to have
+>> that
+>> nuanced discussion.
+>
+> The OKF welcomes everyone - it is not relligious and very practical. Its
+> definition is being adopted by publishers, funders, governments beacuse
+> *they* need precise guidelines. For example it took two years' work to
+> create the Panton Principles for Open Science data
+> http://pantonprinciples.org/ and Open Access publishers such as Biomed
+> Central are now adopting them because they are *useful*. The Open
+> Bibliography principles follow the same philosophy. We believe they are
+> useful in the same way.
+>
+> Please stay with us
+>
+> P.
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From kcoyle at kcoyle.net  Tue Sep 13 19:41:48 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 13 Sep 2011 11:41:48 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<CAKx1ww1+Mwt0nUw3hbDKjKh1VqDAVuOdn0ckZ5FaoqSU9V8_sg@mail.gmail.com>
+	<20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+Message-ID: <20110913114148.11386bz41y21qnsc@kcoyle.net>
+
+Quoting Jim Pitman <pitman at stat.Berkeley.EDU>:
+
+
+> It is wrong to call data open if it is subject to arbitary access  
+> restrictions like 3K entries a day.
+
+Access restrictions of this nature generally are not related to  
+openness but to system load. Nearly every system that has powerful  
+APIs implements some limits to keep API requests from bringing down  
+the system. It's a common courtesy to make contact with system folks  
+if you are considering doing something that might put a load on their  
+system, like downloading large amounts of data. I've watched many  
+systems teams negotiate frequencies (one-second intervals) or times  
+(over-night) to help users get what they need without damaging the  
+service to others. Another option is for systems that anticipate  
+frequent requests for "everything" to provide dumps. I see a lot of  
+willingness to accommodate a variety of needs on the part of users.
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pm286 at cam.ac.uk  Tue Sep 13 19:54:59 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Sep 2011 19:54:59 +0100
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <20110913114148.11386bz41y21qnsc@kcoyle.net>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<CAKx1ww1+Mwt0nUw3hbDKjKh1VqDAVuOdn0ckZ5FaoqSU9V8_sg@mail.gmail.com>
+	<20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<20110913114148.11386bz41y21qnsc@kcoyle.net>
+Message-ID: <CAD2k14P-q14zOX5Eb-5ZrHhqZVjuWnj-m2U-S8nja9BWv0gHGQ@mail.gmail.com>
+
+On Tue, Sep 13, 2011 at 7:41 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Quoting Jim Pitman <pitman at stat.Berkeley.EDU>:
+>
+>
+>  It is wrong to call data open if it is subject to arbitary access
+>> restrictions like 3K entries a day.
+>>
+>
+> Access restrictions of this nature generally are not related to openness
+> but to system load.
+>
+
+This is one of the things I think we need to address. Unfortunately there
+are other reasons for restriction - By downloading 20 items (sic) from a
+well known publisher (to whom we paid a subscription) our University was cut
+off for apparent attempt to steal content (not because we were overloading
+their server). There are many, many sites who restrict use to a small
+fraction of their content. You can have 0.0001 of the Cambridge
+Crystallographic Database content "for free" - and I am challenging this -
+given it is freely contributed by academics - see my blog. You can use <
+100K of the 30,000K CAS identifiers (0.003).
+
+If a site wishes its material to be downloaded then we should jointly
+develop methods for downloading it (perhaps including mirrors). If it wishes
+to control the practice and finance of a community then I personally will
+challenge it, especially if the data was effectively provided by the
+community.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/87159ffb/attachment.htm>
+
+From tfmorris at gmail.com  Tue Sep 13 20:16:11 2011
+From: tfmorris at gmail.com (Tom Morris)
+Date: Tue, 13 Sep 2011 15:16:11 -0400
+Subject: [open-bibliography] Updating distributed, federated,
+	partially replicated bibliographic databases
+Message-ID: <CAE9vqEEpLOMLLFJi=1MA3nUSFz+evTSE0P6Br4S0He3kTHgDeQ@mail.gmail.com>
+
+Like the XKCD cartoon about standards (http://xkcd.com/927/), it's
+pretty clear that the pace of creation of new bibliographic databases
+and services isn't going to abate any time soon as people create new
+"one true unifying bibliographic database" instances.  Open Library,
+Wikipedia, national libraries, Freebase, OCLC, etc will all have one
+page per book, modulo duplicates, omissions, errors, and differences
+in focus.
+
+As people grab one-time database dumps and republish them,
+disconnected from their original source and without any provenance,
+the problem will be compounded.
+
+How do we move from a static set of dumps to a dynamic set of update
+streams that enable a vibrant ecosystem of cooperatively cataloged
+entities?  A centralized OCLC-based monopoly is one solution, but not
+a good one, in my opinion.
+
+Is anyone working on enabling such a set of federated catalogs?  Would
+anyone like to?
+
+Tom
+
+p.s. There's an earlier thread which touches on this topic here:
+http://lists.okfn.org/pipermail/open-bibliography/2010-May/000140.html
+
+
+From pm286 at cam.ac.uk  Tue Sep 13 20:18:15 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Sep 2011 20:18:15 +0100
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAKx1ww1=eCqWkX2F-Nk8RBRa46KNUboYjXWxnWbknW5BKsPVuQ@mail.gmail.com>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+	<CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+	<CAKx1ww1=eCqWkX2F-Nk8RBRa46KNUboYjXWxnWbknW5BKsPVuQ@mail.gmail.com>
+Message-ID: <CAD2k14PGKs1YSjEwtpHADwM-j+J9LitJKg7the2T2QA-Lfu9Hg@mail.gmail.com>
+
+On Tue, Sep 13, 2011 at 7:18 PM, David Weinberger <self at evident.com> wrote:
+
+> "A piece of content or data is open if anyone is free to use, reuse,
+> and redistribute it ? subject only, at most, to the requirement to
+> attribute and share-alike"
+>
+> That describes any data you can get via LibraryCloud's API.
+>
+
+That is good news. Does it also mean "you can download as much data as you
+like under those conditions"? [subject to consideration to the server] Or
+that there is a limit?
+
+>
+> I know that's not exactly what you want the stated definition to mean,
+> but it is what the definition says.
+>
+
+I don't understand this sentence. Does it mean that I have misinterpreted
+OKD? Or that LibraryCloud API is not OKD-compliant?
+
+
+>
+> As for the attempt to enforce a particular and precise definition of a
+> term already in common (and thus usefully sloppy) use: There's value
+> in the attempt, so long as it's understood that the precise definition
+> will only be enforceable and understood within particular contexts.
+> This list is one of the those contexts for "open."
+>
+
+The critical question is what you are legally allowed to do. Nothing
+overrides the law (although it differs by domain). Licences are legal
+documents. They are useful but very blunt.
+
+OSI-compliant codes all have their licences which are legal documents. If
+you break those contracts you may be pursued by lawyers. The OSI declaration
+effectively says "there are a very wide range of cases wher you can re-use
+this code without worrying about minute details of the licence". Yes, I have
+been through detailed licence stuff, including negotiations with FSF and
+Microsoft so I understand that details can matter. But to a first
+approximation an OSI-licence makes a large number of actions clear.
+
+In contrast saying that Harvard API makes things "open" in some undefined
+sense gives me no useful information. There are people/organizations who use
+"open" to describe their materials who will sue you for ANY redistribution.
+One well-known supplier of library systems announced an "Open API". I asked
+them if I was allowed to publish their API. No, it was strictly confidential
+and anyone who did would be subject to legal action. Here "Open" seemed to
+mean "privately documented". Or perhaps it was simply a marketing term, such
+as "healthy".
+
+I have been urging the OA community to label their material better and am
+glad to see that after ten years they have adopted "gratis" and "libre". In
+my view "libre" is more or less synonymous with OKD. I cannot see
+libre-with-conditions attatched.
+
+And remember that this is NOT an academic debate. By assuming "open" is
+useful you could be paying for a product that you will be sued if you re-use
+it.  The solution of requiring everyone to read every licence in detail is
+no solution. That is why the OSI and the OKF have spent a lot of time
+reading licences and declaring them as compliant or not-compliant. IMO
+that's a considerable step forward. It's not religion, it's pragmatism.
+
+
+
+>
+> David W.
+>
+> On Tue, Sep 13, 2011 at 1:41 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> >
+> >
+> > On Tue, Sep 13, 2011 at 6:03 PM, Roy Tennant <tennantr at oclc.org> wrote:
+> >>
+> >> On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU>
+> >> wrote:
+> >>
+> >> > Either data is open, and it is possible to get hold of the entire
+> >> > dataset with a clear open license for what you can so with it. Or it
+> is
+> >> > not
+> >> > open.
+> >>
+> >> Rather than sit back and allow David to be hoisted on his own petard, I
+> >> feel
+> >> it necessary to point out a few things. This list does not own the term
+> >> "open" and neither does it get to declare when the use of it is
+> >> appropriate.
+> >> You DO get to declare a set of terms around a specific use of it, such
+> as
+> >> "open as defined by the Working Group on Open Bibliographic Data" but
+> >> that's
+> >> about it.
+> >
+> > The OKF has defined "Open Knowledge" in the Open Definition
+> >
+> >> The Open Knowledge Definition (OKD) sets out principles to define
+> >> ?openness? in knowledge ? that?s any kind of content or data ?from
+> sonnets
+> >> to statistics, genes to geodata?. The definition can be summed up in the
+> >> statement that ?A piece of content or data is open if anyone is free to
+> use,
+> >> reuse, and redistribute it ? subject only, at most, to the requirement
+> to
+> >> attribute and share-alike.?.
+> >
+> > It is generally accepted on lists run by the OKF that "Open" refers to
+> this
+> > definition.
+> >
+> > When using this concept elsewhere  I either capitalize it ("Open") or use
+> > "OKD-compliant" to make it clear that there is a formal definition.
+> >
+> > The lax use of "open" adds no value. If the word can be defined to mean
+> > whatever the author likes, then it is redundant (unless specifically
+> > defined). Thus there is no difference between:
+> >
+> > "the data are openly available"
+> > and
+> > "the data are available"
+> >
+> > There is great importance in defining what is meant by "open". The Open
+> > Source community has put great effort into this through the Open Source
+> > Initiative (http://www.opensource.org/ ). It has now been able to reach
+> the
+> > stage where "Open Source" is universally understood as "OSI-compliant".
+> >
+> > By contrast the Open Access movement has taken a decade to converge on a
+> > practical definition of Open Access. This matters; if an author has to
+> pay
+> > 3000 USD to have a paper regarded as Open Access it is important that we
+> > know what it means (and in many cases we still don't, precisely).
+> >>
+> >> This is also why the kind of discussion that might reveal the nuances of
+> >> "open" cannot happen here due to religious-style zealotry. If something
+> >> isn't "open" according to your strict standards it isn't open at all.
+> This
+> >> completely misses the fact that "open" as in the Harvard API may be
+> >> completely fine and useful for nearly all real world purposes.
+> >
+> > This is not religious; it's practical. If we are going to use "open" as a
+> > useful label then it has to be defined. If people are going to pay money,
+> or
+> > change their business model, then it should be crystal clear.
+> >
+> > "open" as in "the Harvard API" adds no information. Instead call it "the
+> > Harvard conditions" and point us at the place where they are PRECISELY
+> > defined. And precise definitions matter. If we do something that is not
+> > allowed we may end up being sued. If we don't know what is allowed then
+> we
+> > either break the rules or are too afraid to do anything.
+> >
+> > The advantage of the OKD is that it is universal and almost always
+> trivial
+> > to understand and implement. There may be cases where it isn't
+> appropriate -
+> > fine - but in that case you should describe precsiely what you want and
+> what
+> > you don't want. And that has to be explainable to everyone involved. The
+> OSI
+> > found that writing your own licence was very complex and dangerous - so
+> most
+> > people use an OSI-compliant licence
+> >
+> >>
+> >> If I can accomplish useful work with Harvard's API (and I likely can,
+> >> although I haven't yet tested it out), then great. Whether I can
+> download
+> >> the entire dataset may be completely immaterial (and usually is) to
+> >> getting
+> >> that useful work accomplished. But then practicality isn't what this
+> group
+> >> is about, it's about religion. Now I will go back to lurking, where I
+> >> expect
+> >> to take my lumps like a man. Wake me up again when you're ready to have
+> >> that
+> >> nuanced discussion.
+> >
+> > The OKF welcomes everyone - it is not relligious and very practical. Its
+> > definition is being adopted by publishers, funders, governments beacuse
+> > *they* need precise guidelines. For example it took two years' work to
+> > create the Panton Principles for Open Science data
+> > http://pantonprinciples.org/ and Open Access publishers such as Biomed
+> > Central are now adopting them because they are *useful*. The Open
+> > Bibliography principles follow the same philosophy. We believe they are
+> > useful in the same way.
+> >
+> > Please stay with us
+> >
+> > P.
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+> >
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/ee9a64d9/attachment-0001.htm>
+
+From self at evident.com  Tue Sep 13 21:30:44 2011
+From: self at evident.com (David Weinberger)
+Date: Tue, 13 Sep 2011 16:30:44 -0400
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14PGKs1YSjEwtpHADwM-j+J9LitJKg7the2T2QA-Lfu9Hg@mail.gmail.com>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+	<CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+	<CAKx1ww1=eCqWkX2F-Nk8RBRa46KNUboYjXWxnWbknW5BKsPVuQ@mail.gmail.com>
+	<CAD2k14PGKs1YSjEwtpHADwM-j+J9LitJKg7the2T2QA-Lfu9Hg@mail.gmail.com>
+Message-ID: <CAKx1ww02s_mXBimFmNH3DjOW-ozEsEZQE-59GYZ-iyJBNr_exQ@mail.gmail.com>
+
+I'm about to run for a plane, so please don't misinterpret my upcoming
+silence. Quick embedded responses:
+
+On Tue, Sep 13, 2011 at 3:18 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Tue, Sep 13, 2011 at 7:18 PM, David Weinberger <self at evident.com> wrote:
+>>
+>> "A piece of content or data is open if anyone is free to use, reuse,
+>> and redistribute it ? subject only, at most, to the requirement to
+>> attribute and share-alike"
+>>
+>> That describes any data you can get via LibraryCloud's API.
+>
+> That is good news. Does it also mean "you can download as much data as you
+> like under those conditions"? [subject to consideration to the server] Or
+> that there is a limit?
+
+For now, there is a limit on the number of queries per day. So, no, it
+does not mean "you can download as much data as you like under those
+conditions," which means LibraryCloud fails the Access requirement of
+the Open Knowledge Definition.
+
+>>
+>> I know that's not exactly what you want the stated definition to mean,
+>> but it is what the definition says.
+>
+> I don't understand this sentence. Does it mean that I have misinterpreted
+> OKD? Or that LibraryCloud API is not OKD-compliant?
+
+Neither. LibraryCloud meets the requirement stated in the snippet you
+referenced. LibraryCloud fails a different OKD criterion.
+
+I hope it is now clear the senses in which LibraryCloud is and is not
+open: I believe in
+all ways except the OKD's first criterion. The LibraryCloud group would love
+to be able to open it all ways, but...
+
+Running for the plane...
+
+David
+
+>
+>>
+>> As for the attempt to enforce a particular and precise definition of a
+>> term already in common (and thus usefully sloppy) use: There's value
+>> in the attempt, so long as it's understood that the precise definition
+>> will only be enforceable and understood within particular contexts.
+>> This list is one of the those contexts for "open."
+>
+> The critical question is what you are legally allowed to do. Nothing
+> overrides the law (although it differs by domain). Licences are legal
+> documents. They are useful but very blunt.
+>
+> OSI-compliant codes all have their licences which are legal documents. If
+> you break those contracts you may be pursued by lawyers. The OSI declaration
+> effectively says "there are a very wide range of cases wher you can re-use
+> this code without worrying about minute details of the licence". Yes, I have
+> been through detailed licence stuff, including negotiations with FSF and
+> Microsoft so I understand that details can matter. But to a first
+> approximation an OSI-licence makes a large number of actions clear.
+>
+> In contrast saying that Harvard API makes things "open" in some undefined
+> sense gives me no useful information. There are people/organizations who use
+> "open" to describe their materials who will sue you for ANY redistribution.
+> One well-known supplier of library systems announced an "Open API". I asked
+> them if I was allowed to publish their API. No, it was strictly confidential
+> and anyone who did would be subject to legal action. Here "Open" seemed to
+> mean "privately documented". Or perhaps it was simply a marketing term, such
+> as "healthy".
+>
+> I have been urging the OA community to label their material better and am
+> glad to see that after ten years they have adopted "gratis" and "libre". In
+> my view "libre" is more or less synonymous with OKD. I cannot see
+> libre-with-conditions attatched.
+>
+> And remember that this is NOT an academic debate. By assuming "open" is
+> useful you could be paying for a product that you will be sued if you re-use
+> it.? The solution of requiring everyone to read every licence in detail is
+> no solution. That is why the OSI and the OKF have spent a lot of time
+> reading licences and declaring them as compliant or not-compliant. IMO
+> that's a considerable step forward. It's not religion, it's pragmatism.
+>
+>
+>>
+>> David W.
+>>
+>> On Tue, Sep 13, 2011 at 1:41 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+>> wrote:
+>> >
+>> >
+>> > On Tue, Sep 13, 2011 at 6:03 PM, Roy Tennant <tennantr at oclc.org> wrote:
+>> >>
+>> >> On 9/13/11 9/13/11 ? 9:20 AM, "Jim Pitman" <pitman at stat.Berkeley.EDU>
+>> >> wrote:
+>> >>
+>> >> > Either data is open, and it is possible to get hold of the entire
+>> >> > dataset with a clear open license for what you can so with it. Or it
+>> >> > is
+>> >> > not
+>> >> > open.
+>> >>
+>> >> Rather than sit back and allow David to be hoisted on his own petard, I
+>> >> feel
+>> >> it necessary to point out a few things. This list does not own the term
+>> >> "open" and neither does it get to declare when the use of it is
+>> >> appropriate.
+>> >> You DO get to declare a set of terms around a specific use of it, such
+>> >> as
+>> >> "open as defined by the Working Group on Open Bibliographic Data" but
+>> >> that's
+>> >> about it.
+>> >
+>> > The OKF has defined "Open Knowledge" in the Open Definition
+>> >
+>> >> The Open Knowledge Definition (OKD) sets out principles to define
+>> >> ?openness? in knowledge ? that?s any kind of content or data ?from
+>> >> sonnets
+>> >> to statistics, genes to geodata?. The definition can be summed up in
+>> >> the
+>> >> statement that ?A piece of content or data is open if anyone is free to
+>> >> use,
+>> >> reuse, and redistribute it ? subject only, at most, to the requirement
+>> >> to
+>> >> attribute and share-alike.?.
+>> >
+>> > It is generally accepted on lists run by the OKF that "Open" refers to
+>> > this
+>> > definition.
+>> >
+>> > When using this concept elsewhere? I either capitalize it ("Open") or
+>> > use
+>> > "OKD-compliant" to make it clear that there is a formal definition.
+>> >
+>> > The lax use of "open" adds no value. If the word can be defined to mean
+>> > whatever the author likes, then it is redundant (unless specifically
+>> > defined). Thus there is no difference between:
+>> >
+>> > "the data are openly available"
+>> > and
+>> > "the data are available"
+>> >
+>> > There is great importance in defining what is meant by "open". The Open
+>> > Source community has put great effort into this through the Open Source
+>> > Initiative (http://www.opensource.org/ ). It has now been able to reach
+>> > the
+>> > stage where "Open Source" is universally understood as "OSI-compliant".
+>> >
+>> > By contrast the Open Access movement has taken a decade to converge on a
+>> > practical definition of Open Access. This matters; if an author has to
+>> > pay
+>> > 3000 USD to have a paper regarded as Open Access it is important that we
+>> > know what it means (and in many cases we still don't, precisely).
+>> >>
+>> >> This is also why the kind of discussion that might reveal the nuances
+>> >> of
+>> >> "open" cannot happen here due to religious-style zealotry. If something
+>> >> isn't "open" according to your strict standards it isn't open at all.
+>> >> This
+>> >> completely misses the fact that "open" as in the Harvard API may be
+>> >> completely fine and useful for nearly all real world purposes.
+>> >
+>> > This is not religious; it's practical. If we are going to use "open" as
+>> > a
+>> > useful label then it has to be defined. If people are going to pay
+>> > money, or
+>> > change their business model, then it should be crystal clear.
+>> >
+>> > "open" as in "the Harvard API" adds no information. Instead call it "the
+>> > Harvard conditions" and point us at the place where they are PRECISELY
+>> > defined. And precise definitions matter. If we do something that is not
+>> > allowed we may end up being sued. If we don't know what is allowed then
+>> > we
+>> > either break the rules or are too afraid to do anything.
+>> >
+>> > The advantage of the OKD is that it is universal and almost always
+>> > trivial
+>> > to understand and implement. There may be cases where it isn't
+>> > appropriate -
+>> > fine - but in that case you should describe precsiely what you want and
+>> > what
+>> > you don't want. And that has to be explainable to everyone involved. The
+>> > OSI
+>> > found that writing your own licence was very complex and dangerous - so
+>> > most
+>> > people use an OSI-compliant licence
+>> >
+>> >>
+>> >> If I can accomplish useful work with Harvard's API (and I likely can,
+>> >> although I haven't yet tested it out), then great. Whether I can
+>> >> download
+>> >> the entire dataset may be completely immaterial (and usually is) to
+>> >> getting
+>> >> that useful work accomplished. But then practicality isn't what this
+>> >> group
+>> >> is about, it's about religion. Now I will go back to lurking, where I
+>> >> expect
+>> >> to take my lumps like a man. Wake me up again when you're ready to have
+>> >> that
+>> >> nuanced discussion.
+>> >
+>> > The OKF welcomes everyone - it is not relligious and very practical. Its
+>> > definition is being adopted by publishers, funders, governments beacuse
+>> > *they* need precise guidelines. For example it took two years' work to
+>> > create the Panton Principles for Open Science data
+>> > http://pantonprinciples.org/ and Open Access publishers such as Biomed
+>> > Central are now adopting them because they are *useful*. The Open
+>> > Bibliography principles follow the same philosophy. We believe they are
+>> > useful in the same way.
+>> >
+>> > Please stay with us
+>> >
+>> > P.
+>> >
+>> > _______________________________________________
+>> > open-bibliography mailing list
+>> > open-bibliography at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069
+>> >
+>> > _______________________________________________
+>> > open-bibliography mailing list
+>> > open-bibliography at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> >
+>> >
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From kcoyle at kcoyle.net  Tue Sep 13 21:35:09 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 13 Sep 2011 13:35:09 -0700
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+Message-ID: <20110913133509.14252ado0amyo60t@kcoyle.net>
+
+Quoting Peter Murray-Rust <pm286 at cam.ac.uk>:
+
+> * all references should - if possible - include a description of the rights
+> of the referenced object. e.g. if someone references an Open Access paper,
+> then it should be denoted as such in WP. This would be a tremendous example
+> of the power of OB.
+
+But we do need metadata for rights in order to do that. I did a rights  
+metadata schema for the University of California some years ago,  
+although it may be too complex (it was designed to also meet the needs  
+of archives). DC has a rights field that is very simple - it would be  
+good, though, to define a set of values. Does anyone know of a rights  
+vocabulary we could use?
+
+kc
+
+> * I assume the references will become part of DBPedia. A clear use of
+> BibJSON would help to make this easy.
+>
+> P.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pm286 at cam.ac.uk  Tue Sep 13 21:50:07 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Sep 2011 21:50:07 +0100
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <20110913133509.14252ado0amyo60t@kcoyle.net>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<20110913133509.14252ado0amyo60t@kcoyle.net>
+Message-ID: <CAD2k14NaNHCcMQCeURFLCtHGNwwNju9cy9svLdy8jCsObfoH6w@mail.gmail.com>
+
+On Tue, Sep 13, 2011 at 9:35 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Quoting Peter Murray-Rust <pm286 at cam.ac.uk>:
+>
+>  * all references should - if possible - include a description of the
+>> rights
+>> of the referenced object. e.g. if someone references an Open Access paper,
+>> then it should be denoted as such in WP. This would be a tremendous
+>> example
+>> of the power of OB.
+>>
+>
+> But we do need metadata for rights in order to do that. I did a rights
+> metadata schema for the University of California some years ago, although it
+> may be too complex (it was designed to also meet the needs of archives). DC
+> has a rights field that is very simple - it would be good, though, to define
+> a set of values. Does anyone know of a rights vocabulary we could use?
+>
+> DC, which does not have a controlled vocabulary. And CC which can be
+rendered in RDF.
+
+I think we need this rapidly. There is also an argument for a vocabulary of
+values, e.g.
+licence = CC0
+
+where each of these could be a URI.
+
+Given the previous discussion I think licences would be a good place to
+start. They are neecessary if not sufficient.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110913/3535a6d4/attachment.htm>
+
+From ianibbo at gmail.com  Wed Sep 14 11:08:44 2011
+From: ianibbo at gmail.com (ianibbo at gmail.com)
+Date: Wed, 14 Sep 2011 11:08:44 +0100
+Subject: [open-bibliography] Updating distributed, federated,
+ partially replicated bibliographic databases
+In-Reply-To: <CAE9vqEEpLOMLLFJi=1MA3nUSFz+evTSE0P6Br4S0He3kTHgDeQ@mail.gmail.com>
+References: <CAE9vqEEpLOMLLFJi=1MA3nUSFz+evTSE0P6Br4S0He3kTHgDeQ@mail.gmail.com>
+Message-ID: <CALc79pPN=4EO7RHN1Zw=wc1SS63sPNu1vBtMfwP6Yxh9ybnvnQ@mail.gmail.com>
+
+Have to say I have a massive amount of sympathy with this point of
+view. It does often worry me that projects like this have pushed back,
+rather than advanced, the cause of openly sharing standardised
+bibliographic info.
+
+No easy solutions here, but certainly very interested to contribute to
+anything that might emerge from this.
+
+Ian.
+
+On 13 September 2011 20:16, Tom Morris <tfmorris at gmail.com> wrote:
+> Like the XKCD cartoon about standards (http://xkcd.com/927/), it's
+> pretty clear that the pace of creation of new bibliographic databases
+> and services isn't going to abate any time soon as people create new
+> "one true unifying bibliographic database" instances. ?Open Library,
+> Wikipedia, national libraries, Freebase, OCLC, etc will all have one
+> page per book, modulo duplicates, omissions, errors, and differences
+> in focus.
+>
+> As people grab one-time database dumps and republish them,
+> disconnected from their original source and without any provenance,
+> the problem will be compounded.
+>
+> How do we move from a static set of dumps to a dynamic set of update
+> streams that enable a vibrant ecosystem of cooperatively cataloged
+> entities? ?A centralized OCLC-based monopoly is one solution, but not
+> a good one, in my opinion.
+>
+> Is anyone working on enabling such a set of federated catalogs? ?Would
+> anyone like to?
+>
+> Tom
+>
+> p.s. There's an earlier thread which touches on this topic here:
+> http://lists.okfn.org/pipermail/open-bibliography/2010-May/000140.html
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Ian Ibbotson
+W: http://ianibbo.me
+E: ianibbo at gmail.com
+skype: ianibbo
+twitter: ianibbo
+
+
+From mark at odaesa.com  Wed Sep 14 12:16:29 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Wed, 14 Sep 2011 12:16:29 +0100
+Subject: [open-bibliography] Updating distributed, federated,
+ partially replicated bibliographic databases
+In-Reply-To: <CALc79pPN=4EO7RHN1Zw=wc1SS63sPNu1vBtMfwP6Yxh9ybnvnQ@mail.gmail.com>
+References: <CAE9vqEEpLOMLLFJi=1MA3nUSFz+evTSE0P6Br4S0He3kTHgDeQ@mail.gmail.com>
+	<CALc79pPN=4EO7RHN1Zw=wc1SS63sPNu1vBtMfwP6Yxh9ybnvnQ@mail.gmail.com>
+Message-ID: <CAJ9UX447hiQpGgU-uqRN6Nw2GAkwUCU_dMF8zjztGt0jV9uR6Q@mail.gmail.com>
+
+HI Tom,
+
+I have been working a bit with Rufus Pollock, Richard Jones, Jim
+Pitman and Peter Murray-Rust on the BibServer code, we have a
+prototype up at bibsoup.net. We are attempting to secure funding to
+work on this for a year. The aim is to build a system where
+individuals and small groups can easily upload their own collections,
+however the same software can also handle larger collections. Ideally
+I would like to populate it with large collections as well as enabling
+small groups to do their thing, and for those large collections to be
+easily updateable by their sources - either by direct management or by
+access via API. The BibServer software is being built on
+elasticsearch, and there is no reason why we and others could not run
+multiple instances of these and share data between them.
+
+We need to do a bit of work on agreeing the underlying format - we are
+working with JSON, and specifying a BibJSON - the idea for now being
+that it handles what you would usually find in bibtex, but should be
+extensible. Further input into this would be appreciated! If anyone
+else is interested in helping out with BibJSON, pleases let me know.
+But I should point out, our core aim is simplicity and usability by
+typical end users.
+
+
+Mark
+
+
+
+
+On Wed, Sep 14, 2011 at 11:08 AM, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+> Have to say I have a massive amount of sympathy with this point of
+> view. It does often worry me that projects like this have pushed back,
+> rather than advanced, the cause of openly sharing standardised
+> bibliographic info.
+>
+> No easy solutions here, but certainly very interested to contribute to
+> anything that might emerge from this.
+>
+> Ian.
+>
+> On 13 September 2011 20:16, Tom Morris <tfmorris at gmail.com> wrote:
+>> Like the XKCD cartoon about standards (http://xkcd.com/927/), it's
+>> pretty clear that the pace of creation of new bibliographic databases
+>> and services isn't going to abate any time soon as people create new
+>> "one true unifying bibliographic database" instances. ?Open Library,
+>> Wikipedia, national libraries, Freebase, OCLC, etc will all have one
+>> page per book, modulo duplicates, omissions, errors, and differences
+>> in focus.
+>>
+>> As people grab one-time database dumps and republish them,
+>> disconnected from their original source and without any provenance,
+>> the problem will be compounded.
+>>
+>> How do we move from a static set of dumps to a dynamic set of update
+>> streams that enable a vibrant ecosystem of cooperatively cataloged
+>> entities? ?A centralized OCLC-based monopoly is one solution, but not
+>> a good one, in my opinion.
+>>
+>> Is anyone working on enabling such a set of federated catalogs? ?Would
+>> anyone like to?
+>>
+>> Tom
+>>
+>> p.s. There's an earlier thread which touches on this topic here:
+>> http://lists.okfn.org/pipermail/open-bibliography/2010-May/000140.html
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Ian Ibbotson
+> W: http://ianibbo.me
+> E: ianibbo at gmail.com
+> skype: ianibbo
+> twitter: ianibbo
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From krichel at openlib.org  Wed Sep 14 13:06:53 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Wed, 14 Sep 2011 14:06:53 +0200
+Subject: [open-bibliography] AuthorClaim
+In-Reply-To: <CADB6pjM_w0SxYQd=JXnbKyu6grrqsQdajT10oTtRymACzrJzQA@mail.gmail.com>
+References: <CADB6pjM_w0SxYQd=JXnbKyu6grrqsQdajT10oTtRymACzrJzQA@mail.gmail.com>
+Message-ID: <20110914120653.GA10974@openlib.org>
+
+
+  Klaus Graf writes
+
+> I have 200+ scholarly publications online, 120 in BASE - but only a
+> very small set in AuthorClaim. This is very disappointing.
+
+  I am as disappointed as you are Klaus. The reading software
+  is slow and I can't afford a very fast machine.
+
+  I am still reading BASE. I am still not done restructuring AGRIS. I
+  did not know it would take so much time ;-(. When I am done, I will
+  read a new version of OpenLibrary data that I did in August after
+  reading your original missive.  I don't want to read three
+  collections at the same time, it slows down the box. But I may
+  consider doing so. Actually I am running an update of the
+  CrossRef data that I have today. 
+
+> I would like to suggest to add PNDs and other biographical norm file IDs.
+
+  You mean this?
+
+http://www.d-nb.de/standardisierung/normdateien/pnd.htm
+
+  I don't see where this data is available. Even if it were I am not
+  sure if there is bibliographic information available that I can use.
+
+  I can add a field in AuthorClaim where people can add the PND id
+  that they may know, but it is useless if I can't get access to some
+  more data about them from the PND.
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From Christian.Hauschke at fh-hannover.de  Wed Sep 14 14:55:27 2011
+From: Christian.Hauschke at fh-hannover.de (Christian.Hauschke at fh-hannover.de)
+Date: Wed, 14 Sep 2011 15:55:27 +0200
+Subject: [open-bibliography] AuthorClaim
+In-Reply-To: <20110914120653.GA10974@openlib.org>
+References: <CADB6pjM_w0SxYQd=JXnbKyu6grrqsQdajT10oTtRymACzrJzQA@mail.gmail.com>
+	<20110914120653.GA10974@openlib.org>
+Message-ID: <A5EEBA0DC6FA064B9D1E0C80C9F58DF6010F25F7@MSX.mail.fh-hannover.de>
+
+Hi!
+
+> > I would like to suggest to add PNDs and other biographical norm file IDs.
+
+[...] 
+
+>   I don't see where this data is available. Even if it were I am not
+>   sure if there is bibliographic information available that I can use.
+> 
+>   I can add a field in AuthorClaim where people can add the PND id
+>   that they may know, but it is useless if I can't get access to some
+>   more data about them from the PND.
+
+Maybe this can be of help:
+<https://wiki.d-nb.de/display/LDS/Dokumentation+des+Linked+Data+Services+der+DNB>
+
+The data is right now published under a non-commercial licence. I'm still convinced that the DNB will change its mind sooner or later.
+
+Greetings,
+Christian Hauschke
+
+-- 
+Bibliothek der Fachhochschule Hannover, Ricklinger Stadtweg 118, 30459 Hannover
+Tel.: (0511) 9296-1082
+WWW: http://www.fh-hannover.de/bibl/
+Dokumentenserver SerWisS: http://serwiss.fh-hannover.de/ 
+Twitter: http://twitter.com/fhh_bib/
+
+
+
+
+From adrian.pohl at okfn.org  Thu Sep 15 19:21:12 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 15 Sep 2011 20:21:12 +0200
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14NaNHCcMQCeURFLCtHGNwwNju9cy9svLdy8jCsObfoH6w@mail.gmail.com>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<20110913133509.14252ado0amyo60t@kcoyle.net>
+	<CAD2k14NaNHCcMQCeURFLCtHGNwwNju9cy9svLdy8jCsObfoH6w@mail.gmail.com>
+Message-ID: <CAOtd05EaYZ0ZjpAZq_bC2wKoZLOetgrm9ax0NM8OszQVgw_qZA@mail.gmail.com>
+
+Hello,
+
+I just want to point to Peter's blog post which was triggered by and
+references the "open" discussion:
+
+http://blogs.ch.cam.ac.uk/pmr/2011/09/15/open-api-or-glorious-api/
+
+Thank you, Peter, couldn't agree more with you.
+
+I myself am very grateful for the OKFN having developed the Open
+Knowledge Definition and find it very important in creating a
+knowledge ecology where the different parts are legally compatible,
+combinable and mixable. Open W3C standards for Linked Data might bring
+the corresponding technical compatibility in the future...
+
+All the best
+Adrian
+
+2011/9/13 Peter Murray-Rust <pm286 at cam.ac.uk>:
+>
+>
+> On Tue, Sep 13, 2011 at 9:35 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>>
+>> Quoting Peter Murray-Rust <pm286 at cam.ac.uk>:
+>>
+>>> * all references should - if possible - include a description of the
+>>> rights
+>>> of the referenced object. e.g. if someone references an Open Access
+>>> paper,
+>>> then it should be denoted as such in WP. This would be a tremendous
+>>> example
+>>> of the power of OB.
+>>
+>> But we do need metadata for rights in order to do that. I did a rights
+>> metadata schema for the University of California some years ago, although it
+>> may be too complex (it was designed to also meet the needs of archives). DC
+>> has a rights field that is very simple - it would be good, though, to define
+>> a set of values. Does anyone know of a rights vocabulary we could use?
+>>
+> DC, which does not have a controlled vocabulary. And CC which can be
+> rendered in RDF.
+>
+> I think we need this rapidly. There is also an argument for a vocabulary of
+> values, e.g.
+> licence = CC0
+>
+> where each of these could be a URI.
+>
+> Given the previous discussion I think licences would be a good place to
+> start. They are neecessary if not sufficient.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From ww at styx.org  Thu Sep 15 20:57:28 2011
+From: ww at styx.org (William Waites)
+Date: Thu, 15 Sep 2011 21:57:28 +0200
+Subject: [open-bibliography] Wikipedia project:
+	bibliographic-archival	data base
+In-Reply-To: <20110913133509.14252ado0amyo60t@kcoyle.net>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<20110913133509.14252ado0amyo60t@kcoyle.net>
+Message-ID: <20110915195728.GF26530@styx.org>
+
+* [2011-09-13 13:35:09 -0700] Karen Coyle <kcoyle at kcoyle.net> ?crit:
+
+> But we do need metadata for rights in order to do that. I did a rights  
+> metadata schema for the University of California some years ago,  
+> although it may be too complex (it was designed to also meet the needs  
+> of archives). DC has a rights field that is very simple - it would be  
+> good, though, to define a set of values. Does anyone know of a rights  
+> vocabulary we could use?
+
+There is some of this in the CC machine readable stuff, for describing
+the nature of the licenses, the terms, who must be attributed when,
+etc., sufficient that you could say that their standard licenses are
+just different configurations of these primitives.
+
+I haven't looked very closely at it, and this starts to get into
+things like modelling legal documents, agreements, legislation,
+contracts, etc. if you look at it too closely and then generalise.
+
+-w
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From ww at styx.org  Thu Sep 15 21:04:34 2011
+From: ww at styx.org (William Waites)
+Date: Thu, 15 Sep 2011 22:04:34 +0200
+Subject: [open-bibliography] Wikipedia project:
+	bibliographic-archival	data base
+In-Reply-To: <CAE9vqEHYa52pAt=A5T0YxbC8T_Aa9xMjiJ91ONJow5kztcr=PQ@mail.gmail.com>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+	<CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+	<CAE9vqEHYa52pAt=A5T0YxbC8T_Aa9xMjiJ91ONJow5kztcr=PQ@mail.gmail.com>
+Message-ID: <20110915200434.GG26530@styx.org>
+
+* [2011-09-13 14:13:18 -0400] Tom Morris <tfmorris at gmail.com> ?crit:
+
+> Attempts to legislate language usage down
+> to the single word level are not only doomed to failure, but the
+> stridency will drive reasonable people away.
+
+And indeed these days it is often forgotten that the whole "open" (as
+in "open source") discourse to a large extent has its roots in trying
+to balance the free software world with the investment banking
+(intellectual property rent capture) world during the dot-com boom by
+introducing "open" as a less militant and principled version of
+free/libre that could, in the limit, be interpreted as "non-free" or
+"closed" by a skilled rhetoretician or marketeer.
+
+Or that's one interpretation of what happened, anyways :)
+
+-w
+
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From kcoyle at kcoyle.net  Thu Sep 15 22:23:00 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 15 Sep 2011 14:23:00 -0700
+Subject: [open-bibliography] Wikipedia project:
+ bibliographic-archival	data base
+In-Reply-To: <20110915195728.GF26530@styx.org>
+References: <CAOtd05Eabfq3CNdNxUe58679BTMX43cF6moUsB-PHoPd-Zx-+g@mail.gmail.com>
+	<20110912164655.3EA2F80B7@bibserver.Berkeley.EDU>
+	<CAD2k14MX_+vBbAwxN2iqpX+WCQx92gv04RwT8LbWpyd5DzCG8g@mail.gmail.com>
+	<20110913133509.14252ado0amyo60t@kcoyle.net>
+	<20110915195728.GF26530@styx.org>
+Message-ID: <20110915142300.1403635od0dwinqs@kcoyle.net>
+
+Yes, it is very complex. When I was doing the rights metadata work at  
+the U of California, I ended up providing a way to store the relevant  
+information that supports a copyright determination - like copyright  
+holder, author (because you need to know if the author is dead or  
+alive, even if they are not the copyright holder), jurisdiction (the  
+rules are different in different countries), contact information, etc.  
+If the author has assigned a license to their work, like a CC license,  
+then that would be a key piece of information.
+
+What you cannot do, however, is determine what the copyright status  
+is, at least not if you are not absolutely sure.
+
+The work I did before on this is here:
+
+http://www.cdlib.org/groups/rmg/
+
+The users guidelines document explains things best:
+http://www.cdlib.org/groups/rmg/docs/copyrightMD_user_guidelines.pdf
+
+Some of it may not be relevant to all situations; as I said before,  
+this had to also cover archives of papers, etc.
+
+kc
+
+
+Quoting William Waites <ww at styx.org>:
+
+> * [2011-09-13 13:35:09 -0700] Karen Coyle <kcoyle at kcoyle.net> ?crit:
+>
+>> But we do need metadata for rights in order to do that. I did a rights
+>> metadata schema for the University of California some years ago,
+>> although it may be too complex (it was designed to also meet the needs
+>> of archives). DC has a rights field that is very simple - it would be
+>> good, though, to define a set of values. Does anyone know of a rights
+>> vocabulary we could use?
+>
+> There is some of this in the CC machine readable stuff, for describing
+> the nature of the licenses, the terms, who must be attributed when,
+> etc., sufficient that you could say that their standard licenses are
+> just different configurations of these primitives.
+>
+> I haven't looked very closely at it, and this starts to get into
+> things like modelling legal documents, agreements, legislation,
+> contracts, etc. if you look at it too closely and then generalise.
+>
+> -w
+> --
+> William Waites                <mailto:ww at styx.org>
+> http://river.styx.org/ww/        <sip:ww at styx.org>
+> F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From tfmorris at gmail.com  Thu Sep 15 23:07:02 2011
+From: tfmorris at gmail.com (Tom Morris)
+Date: Thu, 15 Sep 2011 18:07:02 -0400
+Subject: [open-bibliography] Wikipedia project: bibliographic-archival
+ data base
+In-Reply-To: <CAD2k14PGKs1YSjEwtpHADwM-j+J9LitJKg7the2T2QA-Lfu9Hg@mail.gmail.com>
+References: <20110913162044.441EC80B5@bibserver.Berkeley.EDU>
+	<CA94DAD6.47B30%tennantr@oclc.org>
+	<CAD2k14OHJw0U4AN9zgFvAvFE9Omr1sCO2hRBzD5MAgYg4hZ0Gw@mail.gmail.com>
+	<CAKx1ww1=eCqWkX2F-Nk8RBRa46KNUboYjXWxnWbknW5BKsPVuQ@mail.gmail.com>
+	<CAD2k14PGKs1YSjEwtpHADwM-j+J9LitJKg7the2T2QA-Lfu9Hg@mail.gmail.com>
+Message-ID: <CAE9vqEGm6SiFC0rxFGc9-PL0HAb_Jf+_8ZEU0Suh-Jn+xQ8x=Q@mail.gmail.com>
+
+On Tue, Sep 13, 2011 at 3:18 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> OSI-compliant codes all have their licences which are legal documents. If
+> you break those contracts you may be pursued by lawyers. The OSI declaration
+> effectively says "there are a very wide range of cases wher you can re-use
+> this code without worrying about minute details of the licence". Yes, I have
+> been through detailed licence stuff, including negotiations with FSF and
+> Microsoft so I understand that details can matter. But to a first
+> approximation an OSI-licence makes a large number of actions clear.
+
+As a long time software engineer, product manager, and intellectual
+property rights enthusiast, this is very much at odds with my
+experience.
+
+If a team member came to me in my role as a project leader or product
+manager and said "Can I incorporate this OSI-licensed software in our
+project?," I would have zero information on which to base a decision.
+The only way I'd be able to render a decision without additional
+information (ie the actual license being used), would be if the
+project was already using the most restrictive OSI-approved license
+(AGPL v3).  In any other case, I'd need to know the actual license
+being used.  And, honestly, even if the licenses were compatible, I'd
+still go and check the provenance of all the included
+libraries/components/etc to make sure that they had compatible
+licenses to.  There are far too many cases where people are already
+violating the license of some included component.
+
+The clarity and value comes from having a (relatively) short list of
+standardized licenses.  Once you've read and understood a license, you
+don't need to go back and re-read it every time you encounter it.
+Since the license texts are copyrighted, you can also be (relatively)
+confident that no one has made a small but significant change to it.
+
+If you look at http://en.wikipedia.org/wiki/Comparison_of_free_software_licenses
+you'll see that OSI is just one of the organizations that expresses
+approval or disapproval of open/free software licenses (and you'll
+also see the complexity of the compatibility situation).
+
+About the only place I know of where the phrase "OSI-approved license"
+actually has meaning is things like code repositories (Google Code,
+SourceForge, Tigris) which are restricted to that set of licenses.
+
+Tom
+
+
+From axiomsofchoice at googlemail.com  Fri Sep 16 10:08:04 2011
+From: axiomsofchoice at googlemail.com (Dan Hagon)
+Date: Fri, 16 Sep 2011 10:08:04 +0100
+Subject: [open-bibliography] Crowdsourcing orphan works
+Message-ID: <CACSD=LcWVvim_B8ARcS-6ZQVkqydZWSC6GOOGhAf7dDdC6ohKg@mail.gmail.com>
+
+Hi,
+
+I'm not currently a member of any okfn open-bibliography working group but I
+believe this is an important issue that could be of interest to people on
+this list.
+
+I wonder if you've seen any of the coverage of the Author's Guild vs the
+HathiTrust case (in case not there is a round up of it here:
+http://chrisbourg.wordpress.com/2011/09/15/round-up-on-authors-guild-v-hathitrust/)?
+The AG, by identifying candidates that should not be considered as potential
+orphan works, have been attempting to show that the HathiTrust's process of
+identifying orphan works is not fulfilling it's due diligence as effectively
+as it should:
+http://blog.authorsguild.org/2011/09/14/found-one-we-re-unite-an-author-with-an-%E2%80%9Corphaned-work-%E2%80%9D/
+As
+such this represents a serious threat to any efforts intended to address the
+problem of orphaned works. The British Library estimates that about 40% of
+in-copyright works are orphaned and so the issue for scholarship is acute
+http://pressandpolicy.bl.uk/content/default.aspx?NewsAreaID=316
+
+As pointed out here:
+http://blog.authorsguild.org/2011/09/14/orphan-row-now-its-your-turn/#comment-310566511
+the
+efforts the AG are going to are actually showing that the system works (when
+you have enough eyes, of course - as they now do) but it could do with some
+improvement. The titles they've identified so far have been removed from the
+candidates list which is given here
+http://orphanworks.hathitrust.org/Search/Home?page=1&use_dismax=1 and
+reproduced on their blog that I linked to above.
+
+I'm just wondering if there's any mileage in learning from the successes of
+this crowdsourcing effort and using it to compile a more effective set of
+tools for working out if a work is truly an orphan work, certainly one
+better than the HathiTrust have outlined:
+http://www.lib.umich.edu/orphan-works/documentation In particular the
+sources that those helping with the current crowdsourcing effort are using
+seem to speed up the process considerably. Might it be useful to set up an
+EtherPad to help compile this information? Would you know of anyone who
+might like to help crowdsourcing rights holders, crowdsourcing the process
+or who might benefit from having information about these resources?
+
+Best regards,
+Dan.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110916/7e57c268/attachment.htm>
+
+From mathias.schindler at gmail.com  Wed Sep 21 12:08:23 2011
+From: mathias.schindler at gmail.com (Mathias Schindler)
+Date: Wed, 21 Sep 2011 13:08:23 +0200
+Subject: [open-bibliography] Swedish data now under cc0
+Message-ID: <CA+LWsp1nOSe7P3DDWs0kjz6kdkwQn_JyOp7WBvy9vH3zGif9ng@mail.gmail.com>
+
+http://librisbloggen.kb.se/2011/09/21/swedish-national-bibliography-and-authority-data-released-with-open-license/
+
+FYI.
+
+MAthias
+
+
+From adrian.pohl at okfn.org  Wed Sep 21 13:14:54 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 21 Sep 2011 14:14:54 +0200
+Subject: [open-bibliography] BnF Linked Data under open license
+Message-ID: <CAOtd05EM+xX+sS5DMOOvPpcvjB0+cV76j2BQQEqWGgn+yubR5g@mail.gmail.com>
+
+In other good news, see
+http://openbiblio.net/2011/09/21/lod-at-bibliotheque-nationale-de-france/.
+
+All the best
+Adrian
+
+
+From jonathan.gray at okfn.org  Thu Sep 22 16:49:06 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 22 Sep 2011 17:49:06 +0200
+Subject: [open-bibliography] Swedish data now under cc0
+In-Reply-To: <CA+LWsp1nOSe7P3DDWs0kjz6kdkwQn_JyOp7WBvy9vH3zGif9ng@mail.gmail.com>
+References: <CA+LWsp1nOSe7P3DDWs0kjz6kdkwQn_JyOp7WBvy9vH3zGif9ng@mail.gmail.com>
+Message-ID: <CANQ_vu2gOBxuBVJY1US3Eke6p9mxVPa793KCS0iFmFT+tz4hKQ@mail.gmail.com>
+
+Brilliant!
+
+Mark, Adrian: shall we pop a note up on openbiblio.net?
+
+J.
+
+On Wed, Sep 21, 2011 at 1:08 PM, Mathias Schindler
+<mathias.schindler at gmail.com> wrote:
+> http://librisbloggen.kb.se/2011/09/21/swedish-national-bibliography-and-authority-data-released-with-open-license/
+>
+> FYI.
+>
+> MAthias
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+

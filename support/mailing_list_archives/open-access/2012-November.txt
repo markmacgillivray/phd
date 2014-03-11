@@ -1,0 +1,2933 @@
+From velichka.dimitrova at okfn.org  Thu Nov  1 11:52:02 2012
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Thu, 1 Nov 2012 11:52:02 +0000
+Subject: [Open-access] Reputation Factor in Economic Publishing - Blog
+	post from Dan Scott
+In-Reply-To: <CALySTATzRTwnKoufp7SQg1ywCa3VYpy8bQP-ObqJxSD=201cxQ@mail.gmail.com>
+References: <CAChagOCCJ8z+VwT5TGwBBwgzHGeMP6G_ciPRrvZhQ_sWwh=ypg@mail.gmail.com>
+	<CALySTAT5B2UmjF-v4g_3eXXtb06-s4jdGB6NdRFi-w5k9SHORw@mail.gmail.com>
+	<CALySTARAEVXDDo7Wd_V9CQx_EtFc+6h56wmyrigsb9PoFU2VSw@mail.gmail.com>
+	<CAChagOBCTKSut_TjM6VG9K27burNy0WCP3Gs9_k5POy-UP=Vvg@mail.gmail.com>
+	<CALySTATzRTwnKoufp7SQg1ywCa3VYpy8bQP-ObqJxSD=201cxQ@mail.gmail.com>
+Message-ID: <CAChagOBewF2uNRMmyJm6+_YY+jUL0JwZftvA+BE2Xb4yh5oaXQ@mail.gmail.com>
+
+Dear all,
+
+Last week, we had a blog piece from Ross Mounce about Open Access journals
+in Economics<http://openeconomics.net/2012/10/26/review-of-open-access-in-economics/>
+highlighting
+a thriving scene of open access in economics.
+
+This week, Dan Scott from the Social Sciences
+Directory<http://www.socialsciencesdirectory.com/>writes about the
+hindrances open access journals encounter in his piece on Reputation
+Factor in Economic
+Publishing<http://openeconomics.net/2012/11/01/reputation-factor-in-economic-publishing/>
+on
+the Open Economics Blog. Dan relates his experience in gathering support
+for the Social Sciences Directory start up and makes some suggestions on
+how the hindrance of the reputation factor could be overcome.
+
+The piece is also published on the main
+blog<http://blog.okfn.org/2012/11/01/reputation-factor-in-economic-publishing/>
+.
+
+Comments and discussions are very welcome!
+
+-- 
+Velichka Dimitrova
+Coordinator of the Open Economics Working Group
+Open Knowledge Foundation
+http://okfn.org | http://openeconomics.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121101/a7e0ba39/attachment.htm>
+
+From sanglorian at gmail.com  Sat Nov  3 02:46:14 2012
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sat, 3 Nov 2012 13:46:14 +1100
+Subject: [Open-access] FOSsil Bank Update (3 November 2012)
+In-Reply-To: <CAMuj-eJNGhaiufz9=y7_2hQ-w1-+nM_KzLoBmnWgAKUXvZwfFg@mail.gmail.com>
+References: <CAMuj-eJNGhaiufz9=y7_2hQ-w1-+nM_KzLoBmnWgAKUXvZwfFg@mail.gmail.com>
+Message-ID: <CAMuj-eJQQTR2bbnBRObSfABsGWRocuCJAce1ukhAaMNB0EyC5w@mail.gmail.com>
+
+Hi folks,
+
+Another update to the FOSsil Bank follows. Please share with anyone you
+think might be interested.
+
+#FundFreeCulture
+
+Ways you can pay for free culture.
+Current
+
+   -
+
+   Brad Sucks, ?Guess Who?s a
+Mess?<http://www.bradsucks.net/albums/guess-whos-a-mess/>(now
+available! name your price; CC BY-SA)
+   -
+
+   Japanese RPG Monster RPG
+2<http://www.indiegogo.com/monster-rpg-2-open-jrpg-game-engine>is
+being ransomed on IndieGoGo, although as far as I can tell only the
+   engine will be libre licensed and not the assets ($1,006/$1,500; 4 days
+   left; Give It Your Own License, License)
+   -
+
+   The colour and black-and-white art of the African-themed Spears of the
+   Dawn RPG<http://www.kickstarter.com/projects/1637945166/spears-of-the-dawn-rpg>will
+be released into the public domain for others to use. ($8,198/$3,000;
+   5 days left; public domain)
+   -
+
+   MediaGoblin <http://mediagoblin.org/pages/campaign.html> is a media
+   publishing system for video, images and audio. ($23,901/$60,000; 7 days
+   left; GNU AGPL)
+   -
+
+   One Shot<http://www.kickstarter.com/projects/sandandsteam/one-shot-a-roleplaying-game-of-murder-and-vengeanc>is
+a new tabletop RPG on Kickstarter from open gaming stalwart Tracy
+   Barnett. Music, art and the game itself are all going to be libre licensed
+   ($3,220/$3,000; 1 day left; CC BY-SA)
+   - Learn Game Programming
+(codeschool.org)<http://www.kickstarter.com/projects/680276743/learn-game-programming-codeschoolorg>is
+a Kickstarter project to fund a video series for novice programmers.
+You
+   can check out existing material at
+http://www.codeschool.org($1,902/$700; 22 days to go; CC BY-SA, it
+appears)
+
+Concluded
+
+   -
+
+   Bejewelled-style TumbleGonk <http://www.indiegogo.com/tumblegonk> failed
+   to be ransomed on IndieGoGo, and all contributions were refunded.
+   -
+
+   Hillfolk,<http://www.kickstarter.com/projects/robindlaws/hillfolk-dramasystem-roleplaying-by-robin-d-laws>a
+Kickstarter project where one of the stretch goals was for two
+tabletop
+   RPG rule systems (GUMSHOE and DramaSystem) to be open licensed, was funded.
+   ($93,845/$3,000)
+
+Best contributor
+
+Goes to Shlomi Fish for adding his work The Enemy and How I Helped to
+Fight<http://fossilbank.wikidot.com/work:the-enemy-and-how-i-helped-to-fight-it>to
+the wiki.
+
+If you?d like to help out, I?ve made a list of
+jobs<http://fossilbank.wikidot.com/system:list-of-jobs>that need
+doing.
+On the blog
+
+   -
+
+   I explore a discussion taking place on tabletop RPG designer Robin Laws?
+   blog about what licence he should place on two game systems (GUMSHOE and
+   DramaSystem). There was vigorous discussion about CC BY, CC BY-SA, the Open
+   Game License as well as options like CC+, dual licensing and writing one?s
+   own licence. Part
+1<http://livinglibre1.wordpress.com/2012/10/27/the-hillfolk-licensing-decision-1-potential-licences/>and
+Part
+   2.<http://livinglibre1.wordpress.com/2012/10/28/the-hillfolk-licensing-decision-2-potential-solutions/>
+
+Libre works
+
+*Art*
+
+   -
+
+   David Revoy <http://fossilbank.wikidot.com/source:david-revoy> is a
+   fantasy artist who?s provided concept art for Sintel and Tears of Steel.
+   (CC BY and CC BY-SA)
+   - A fan of Nina Paley?s Mimi & Eunice comic has created a 2013
+calendar<http://fossilbank.wikidot.com/work:mimi-and-eunice>.
+   (Copyheart)
+   - Links to art galleries have been added for Blender movies Elephants
+   Dream <http://fossilbank.wikidot.com/work:elephants-dream>, Big Buck
+   Bunny <http://fossilbank.wikidot.com/work:big-buck-bunny>, Tears of
+Steel<http://fossilbank.wikidot.com/work:tears-of-steel>and
+   Sintel <http://fossilbank.wikidot.com/work:sintel>.
+
+*Video*
+
+   - Open Access
+Explained<http://fossilbank.wikidot.com/work:open-access-explained>is
+a video from PhD Comics explaining what open access is. (CC BY)
+
+*Music*
+
+   -
+
+   Brad Sucks has released his third album, ?Guess Who?s a
+Mess?.<http://fossilbank.wikidot.com/work:guess-who-s-a-mess>It?s not
+any more cheerful than his previous offerings, but it?s very
+   catchy! (CC BY-SA)
+   -
+
+   Slim <http://fossilbank.wikidot.com/source:slim> is a lovely rock band
+   with one album. (CC BY-SA)
+   -
+
+   Radio Nowhere <http://fossilbank.wikidot.com/source:radio-nowhere> is
+   the rock/pop band that replaced Slim. One of their albums is libre, the
+   other is proprietary. (CC BY-SA, CC BY-NC-SA)
+   -
+
+   CCTRAX <http://fossilbank.wikidot.com/source:cctrax> is a collection of
+   CC-licensed albums. (Libre and proprietary)
+   -
+
+   thesixtyone <http://fossilbank.wikidot.com/source:thesixtyone> plays
+   music at random. It has a CC channel, but doesn?t distinguish between libre
+   and proprietary music. (Libre and proprietary)
+
+*Information*
+
+   -
+
+   CrisisCommons
+Wiki<http://fossilbank.wikidot.com/work:crisiscommons-wiki>is a place
+to collaborate and share data about disaster management
+   operations. (PD)
+   -
+
+   The Victorian Government Data
+Directory<http://fossilbank.wikidot.com/source:victorian-government-data-directory>collects
+data from the Victorian state government. (CC BY)
+   - The Open Data Hackathon How To
+Guide<http://fossilbank.wikidot.com/work:open-data-hackathon-how-to-guide>is
+the OKFN?s latest offering. (CC BY)
+
+*Literature*
+
+   -
+
+   The Enemy and How I Helped to Fight
+It<http://fossilbank.wikidot.com/work:the-enemy-and-how-i-helped-to-fight-it>is
+a political satire about the Israel-Lebanon border, by free culture
+   stalwart Shlomi Fish. (CC BY-SA)
+
+*Software*
+
+   -
+
+   Open Source Alternative<http://fossilbank.wikidot.com/source:open-source-alternative>is
+a site that proposes open source alternatives to popular proprietary
+   software. (a range of libre licences)
+   -
+
+   The OSSwin Project<http://fossilbank.wikidot.com/source:the-osswin-project>is
+a site that lists open source software available for Windows systems.
+(a
+   range of libre licences)
+   -
+
+   Code School <http://fossilbank.wikidot.com/work:code-school> will teach
+   you to program via video! (CC BY-SA)
+
+*Tabletop Games*
+
+   -
+
+   The Action! System <http://fossilbank.wikidot.com/work:action-system> is
+   a tabletop RPG. There is an HTML version available. (Open Game License)
+   -
+
+   There are third-party System Reference Documents (free culture-only
+   versions of the game) for tabletop RPGs Spirit of the
+Century,<http://fossilbank.wikidot.com/work:spirit-of-the-century>
+   FATE <http://fossilbank.wikidot.com/work:fate>,
+RuneQuest<http://fossilbank.wikidot.com/work:runequest>,
+   Dungeons & Dragons<http://fossilbank.wikidot.com/work:dungeons-dragons-3e>,
+   Fudge <http://fossilbank.wikidot.com/work:fudge>, d20
+Modern<http://fossilbank.wikidot.com/work:d20-modern>,
+   d6 Fantasy <http://fossilbank.wikidot.com/work:opend6>, Blue
+Rose<http://fossilbank.wikidot.com/work:blue-rose>and
+   True20 <http://fossilbank.wikidot.com/work:true20>
+   - *Amagi Games*
+
+
+   -
+      - Perfect20 <http://fossilbank.wikidot.com/work:perfect20> is a
+      variant on Dungeons & Dragons 3E from Amagi Games. (OGL)
+      -
+      - The Ouroboros
+Cycle<http://fossilbank.wikidot.com/work:the-ouroboros-cycle>is a set
+of books about tabletop roleplaying, from general advice to
+      specific settings. (PD)
+
+*Electronic Games*
+
+   -
+
+   Nooskewl Games <http://fossilbank.wikidot.com/source:nooskewl-games> is
+   an independent game studio that releases the code for some of its games
+   under the Give It Your Own License, License (a PD licence).
+
+*Licences*
+
+   -
+
+   The Give It Your Own License,
+License<http://fossilbank.wikidot.com/licence:give-it-your-own-license-license>allows
+you to relicense the work under the licence of your choice. (PD)
+
+Proprietary shareable works
+
+   -
+
+   Molly Lewis <http://fossilbank.wikidot.com/source:molly-lewis> is a
+   ukelele-playing musician. (CC BY-NC-SA)
+
+
+Until next time!
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121103/b61bc831/attachment.htm>
+
+From sanglorian at gmail.com  Sat Nov  3 02:52:11 2012
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sat, 3 Nov 2012 13:52:11 +1100
+Subject: [Open-access] [FC-discuss] FOSsil Bank Update (22 October 2012)
+In-Reply-To: <874nlm33l2.fsf@kwarm.red-bean.com>
+References: <CAMuj-e+-VGryJFFY=Z3RA5BXQUS5n=qt_nBp3V2J4AL6CVhxig@mail.gmail.com>
+	<874nlm33l2.fsf@kwarm.red-bean.com>
+Message-ID: <CAMuj-e+1GE0ObsJjSmrrGo90C1pdNCekr61Qwn=2p1qWSVOR+w@mail.gmail.com>
+
+Dear Karl and Sage (and others)
+
+Thanks a lot for the kind words!
+
+The short answer is that there isn't a mailing list exclusively for FOSsil
+Bank updates?yet. I've approached the OKFN-AU about getting a mailing list
+with them (they have an open invitation to related organisations), but if I
+don't hear back from them I'll definitely get in touch with
+QuestionCopyright.org
+
+In the meantime, if you have a web feed reader you can use the Living Libre
+blog's RSS feed <http://livinglibre1.wordpress.com/feed/>. It's not
+exclusively FOSsil Bank updates, but it's pretty close.
+
+Cheers,
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+
+
+
+On 23 October 2012 02:54, Karl Fogel <kfogel at questioncopyright.org> wrote:
+
+> Once again, these are amazing.  Chris, is there a mailing list people
+> can sign up for to receive these weekly announcements?  That is, is
+> there a dedicated mailing list just for this, for those who aren't
+> subscribed to Free Culture Discuss or OKFN Open Access?
+>
+> There doesn't seem to be one mentioned in the wiki, but maybe I wasn't
+> looking in the right place.
+>
+> (If there isn't one, and you need help setting one up, we could host one
+> at QuestionCopyright.org -- but I suspect you already have one, or can
+> easily set one up, at FossilBank.)
+>
+> -K
+>
+> Chris Sakkas <sanglorian at gmail.com> writes:
+> >Hi folks,
+> >
+> >Please enjoy another FOSsil Bank update. This one is a bit unusual
+> >because I've dug up a lot of #FundFreeCulture stuff and relatively few
+> >new wiki entries.
+> >
+> >Helping out the Bank
+> >
+> >If you wanted to help out the FOSsil Bank, you could add the remaining
+> >books from Open Book Publishers to the FOSsil Bank. I?ve only done the
+> >libre books (Is Behavioral Economics Dead?, Frontier Encounters, Oral
+> >Literature in Africa and The Digital Public Domain) but it would be
+> >useful to have the others as well.
+> >
+> >If you?d like to help out with that, there?s a tutorial and you can
+> >see the current list of Open Book Publishers entries on the wiki.
+> >
+> >#FundFreeCulture: New and Ongoing
+> >
+> >* Take On Magic Items ($2.50; CC BY)
+> >
+> >* Brad Sucks, ?Guess Who?s a Mess? (name your price; CC BY-SA)
+> >* Japanese RPG Monster RPG 2 is being ransomed on IndieGoGo, although
+> >  as far as I can tell only the engine will be libre licensed and not
+> >  the assets ($705/$1,500; 16 days left; Give It Your Own License,
+> >  License)
+> >* Bejewelled-style TumbleGonk is being ransomed on IndieGoGo, and the
+> >  assets will also be licensed. ($20/$850; 8 days left; CC BY, GNU
+> >  GPL)
+> >
+> >* The colour and black-and-white art of the African-themed Spears of
+> >  the Dawn RPG will be released into the public domain for others to
+> >  use. ($6,687/$3,000; 17 days left; public domain)
+> >* MediaGoblin is a media publishing system for video, images and
+> >  audio. ($18,382/$60,000; 19 days left; GNU AGPL)
+> >* One Shot is a new tabletop RPG on Kickstarter from open gaming
+> >  stalwart Tracy Barnett. ($1,378/$3,000; 14 days left; CC BY-SA)
+> >
+> >#FundFreeCulture: Update
+> >
+> >* Knocking Duh Conch Style II received the $50 that it was funded.
+> >* Terms of Service ? Didn?t Read received the ?20,736 it was funded,
+> >  double its threshold.
+> >
+> >Fund Proprietary Shareable Works
+> >
+> >There are two days left for the Humble eBook Bundle, and though there
+> >are sadly no libre works on offer there is xkcd: volume 0 (CC BY-NC),
+> >Pirate Cinema (CC BY-NC-ND), Magic for Beginners (CC BY-NC-SA),
+> >Stranger Things Happen (CC BY-NC-SA), Save Yourself, Mammal! (CC
+> >BY-NC) and The Most Dangerous Game (CC BY-NC). You can adjust where
+> >your contribution goes, so I sent mine only to authors of CC works.
+> >
+> >Libre Works
+> >
+> >* Open Book Publishers has a collection of books under shareable works
+> >  licences. I?ve only added the libre ones to the wiki so far (they
+> >  also publish Oral Literature in Africa and The Digital Public
+> >  Domain, which were already on the wiki):
+> >
+> >* Is Behavioral Economics Dead?, about different notions of humans in
+> >  the economy. By David Levine, a contributor to the blog Against
+> >  Monopoly. (CC BY-SA)
+> >* Frontier Encounters, about the borders between Mongolia, China and
+> >  Russia. (CC BY)
+> >
+> >* featurin.gs is a site for creating remixes and mashups. (CC BY or CC
+> >  BY-NC)
+> >
+> >* Jack Logan?s Gallery is a collection of fantasy-themed public domain
+> >  art.
+> >* Take On Magic Items is a book of Dungeon World magic items. (CC
+> >  BY-SA)
+> >* Hampshire College has compiled a list of freesoftware
+> >  recommendations for tertiary students.
+> >* OpenSource.com has two new CC BY-SA ebooks:
+> >
+> >* An Open World, with stories from the open source community.
+> >* Open Minded CEOs, stories about CEOs who work with open source.
+> >
+> >Proprietary Shareable Works
+> >
+> >* Decktet is an alternative deck of cards with some interesting
+> >  features. (CC BY-NC-SA)
+> >
+> >Thanks for reading,
+> >
+> >Chris Sakkas
+> >Admin of the FOSsil Bank wiki and the Living Libre blog and Twitter
+> >feed.
+> >
+> >
+> >_______________________________________________
+> >Discuss mailing list
+> >Discuss at freeculture.org
+> >http://lists.freeculture.org/mailman/listinfo/discuss
+> >FAQ: http://wiki.freeculture.org/Fc-discuss
+> _______________________________________________
+> Discuss mailing list
+> Discuss at freeculture.org
+> http://lists.freeculture.org/mailman/listinfo/discuss
+> FAQ: http://wiki.freeculture.org/Fc-discuss
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121103/db730625/attachment-0001.htm>
+
+From eric.f.vandevelde at gmail.com  Tue Nov  6 03:32:50 2012
+From: eric.f.vandevelde at gmail.com (Eric F. Van de Velde)
+Date: Mon, 5 Nov 2012 19:32:50 -0800
+Subject: [Open-access] Hitler, Mother Teresa, and Coke
+Message-ID: <CALQVpOGO1sSPOd=qMZWVFMXuJN4csK2ALXZRKwntJBMO+gZOwA@mail.gmail.com>
+
+Publishers are manipulative capitalists who extort academia by holding
+hostage the research papers they stole from helpless scholars on a mission
+to save the world. This Hitler vs. Mother Teresa narrative is widespread in
+academic circles. Some versions are nearly as shrill as this one. Others
+are toned-down and carry scholarly authority. All versions are just plain
+wrong.
+
+To see how this ends, go to
+http://scitechsociety.blogspot.com/2012/11/hitler-mother-teresa-and-coke.html
+
+Comments welcome.
+--Eric.
+
+http://scitechsociety.blogspot.com
+
+Google Voice: (626) 898-5415
+Telephone:      (626) 376-5415
+Skype: efvandevelde -- Twitter: @evdvelde
+E-mail: eric.f.vandevelde at gmail.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121105/ec8a91cd/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Nov  6 08:58:21 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 6 Nov 2012 08:58:21 +0000
+Subject: [Open-access] [GOAL] Re: Hitler, Mother Teresa, and Coke
+In-Reply-To: <EMEW3|41e840c661caab062a5daab04bc33922oA58No03lac|ecs.soton.ac.uk|11DD0F17-9178-42E9-B852-835A92C92999@ecs.soton.ac.uk>
+References: <11DD0F17-9178-42E9-B852-835A92C92999@ecs.soton.ac.uk>
+	<CALQVpOGO1sSPOd=qMZWVFMXuJN4csK2ALXZRKwntJBMO+gZOwA@mail.gmail.com>
+	<EMEW3|41e840c661caab062a5daab04bc33922oA58No03lac|ecs.soton.ac.uk|11DD0F17-9178-42E9-B852-835A92C92999@ecs.soton.ac.uk>
+Message-ID: <CAD2k14M4izMA46hSxTW0NZ5P=xmuhQFyamQyF6wQD25xEAardQ@mail.gmail.com>
+
+Copied only to the OKFN open-access list.
+
+It may be useful to consider the question: "what can we do to change the
+situation?" - the OKF has a strong tradition of building things to change
+the world. The distinction between publishing for communication and
+publishing for reputation is valuable. Maybe by changing and improving the
+former (which I think OKFN is well placed to do) we can separate them.
+
+On Tue, Nov 6, 2012 at 8:23 AM, Leslie Carr <lac at ecs.soton.ac.uk> wrote:
+
+> Publishers are capitalists - I don't think they'd argue the point.
+>
+>
+This is a generalization. Many learned societies and scientific unions are
+not capitalists.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121106/db550354/attachment.htm>
+
+From katie at ecancer.org  Tue Nov  6 12:00:41 2012
+From: katie at ecancer.org (Katie Foxall)
+Date: Tue, 6 Nov 2012 12:00:41 -0000
+Subject: [Open-access] [GOAL] Re: Hitler, Mother Teresa, and Coke
+In-Reply-To: <CAD2k14M4izMA46hSxTW0NZ5P=xmuhQFyamQyF6wQD25xEAardQ@mail.gmail.com>
+References: <11DD0F17-9178-42E9-B852-835A92C92999@ecs.soton.ac.uk>	<CALQVpOGO1sSPOd=qMZWVFMXuJN4csK2ALXZRKwntJBMO+gZOwA@mail.gmail.com>	<EMEW3|41e840c661caab062a5daab04bc33922oA58No03lac|ecs.soton.ac.uk|11DD0F17-9178-42E9-B852-835A92C92999@ecs.soton.ac.uk>
+	<CAD2k14M4izMA46hSxTW0NZ5P=xmuhQFyamQyF6wQD25xEAardQ@mail.gmail.com>
+Message-ID: <002a01cdbc16$58884380$0998ca80$@ecancer.org>
+
+The distinction between publishing for communication and publishing for
+reputation is valuable. Maybe by changing and improving the former (which I
+think OKFN is well placed to do) we can separate them. 
+
+This is the mission of the journal I work on - we aren't interested in
+chasing a respectable impact factor and we don't charge at either end, we're
+also starting to publish/translate from other languages for free.  We want
+everyone to be able to read and publish articles with no barriers.  There is
+funding available for us to do this so it shows that it can be done.
+
+ 
+
+We're currently looking into Alt metrics as a fairer alternative to the
+impact factor - I'm hoping this is the way publishing will go
+http://altmetrics.org/manifesto/ 
+
+ 
+
+From: open-access-bounces at lists.okfn.org
+[mailto:open-access-bounces at lists.okfn.org] On Behalf Of Peter Murray-Rust
+Sent: 06 November 2012 08:58
+To: open-access at lists.okfn.org
+Subject: Re: [Open-access] [GOAL] Re: Hitler, Mother Teresa, and Coke
+
+ 
+
+Copied only to the OKFN open-access list.
+
+It may be useful to consider the question: "what can we do to change the
+situation?" - the OKF has a strong tradition of building things to change
+the world. The distinction between publishing for communication and
+publishing for reputation is valuable. Maybe by changing and improving the
+former (which I think OKFN is well placed to do) we can separate them. 
+
+On Tue, Nov 6, 2012 at 8:23 AM, Leslie Carr <lac at ecs.soton.ac.uk> wrote:
+
+Publishers are capitalists - I don't think they'd argue the point.
+
+
+This is a generalization. Many learned societies and scientific unions are
+not capitalists.  
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121106/a17d593f/attachment.htm>
+
+From mike at indexdata.com  Tue Nov  6 12:31:54 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Tue, 6 Nov 2012 12:31:54 +0000
+Subject: [Open-access] Hitler, Mother Teresa, and Coke
+In-Reply-To: <CALQVpOGO1sSPOd=qMZWVFMXuJN4csK2ALXZRKwntJBMO+gZOwA@mail.gmail.com>
+References: <CALQVpOGO1sSPOd=qMZWVFMXuJN4csK2ALXZRKwntJBMO+gZOwA@mail.gmail.com>
+Message-ID: <CACnMvBZJnj=_pk86wL1ZX_Jy_y2uwiqP7o2SvD0+XKLf-mAjug@mail.gmail.com>
+
+On 6 November 2012 03:32, Eric F. Van de Velde
+<eric.f.vandevelde at gmail.com> wrote:
+> Publishers are manipulative capitalists who extort academia by holding
+> hostage the research papers they stole from helpless scholars on a mission
+> to save the world. This Hitler vs. Mother Teresa narrative is widespread in
+> academic circles. Some versions are nearly as shrill as this one. Others are
+> toned-down and carry scholarly authority. All versions are just plain wrong.
+>
+> To see how this ends, go to
+> http://scitechsociety.blogspot.com/2012/11/hitler-mother-teresa-and-coke.html
+
+As I wrote on the LSE Impact blog back in March:
+http://blogs.lse.ac.uk/impactofsocialsciences/2012/03/26/visibility-scarcity-cant-serve-two-masters/
+
+"And let?s say it once more: for-profit publishers can?t exactly be
+blamed for this. It?s the nature of the beast. Remember, directors are
+required to act in the financial interests of the corporation. It has
+narrow, focussed concerns. I am reminded of Captain Quint?s
+description of a shark in Jaws: ?what we are dealing with here is a
+perfect engine?  All this machine does is swim and eat and make little
+sharks.? It does what it does; and it does it with perfect
+single-mindedness.
+
+And that is why talk of such publishers being ?evil? is really
+misplaced. They do what they do. It would be more accurate to call
+them ?blind? or ?unthinking?. When they fight tooth and nail to
+prevent open access, they are no more being evil than a shark is when
+it attacks its prey; no more evil than a brick wall across a motorway.
+
+But here?s the thing. If a shark threatens people, then it has to be
+destroyed. A wall across a motorway has to be demolished. And publicly
+funded research has to be made publicly available. It isn?t necessary
+that we morally condemn a publisher that gets in the way of that
+self-evidently just goal. But it is necessary to get it out of the
+way. To demolish it, if it won?t move."
+
+-- Mike.
+
+
+From koltzenburg at w4w.net  Tue Nov  6 17:10:29 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Tue, 6 Nov 2012 18:10:29 +0100
+Subject: [Open-access] small partner (Italy)? EU call Downstream training on
+	Open Access
+In-Reply-To: <20121031154245.GC19890@fwnc7111.wks.gorlaeus.net>
+References: <87wqy7fzl5.fsf@pobox.com>
+	<CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+	<CAFxzj8SRbHUja9D1BZfjQj+KYEaeMVw068Os7wLz7OtLAOj5BQ@mail.gmail.com>
+	<87liemg9bh.fsf@pobox.com>
+	<CAFxzj8QBEE7B9gVQ+2gHjwFHO9LW+_3C7z_vv2jj93g1tcLEcw@mail.gmail.com>
+	<20121031154245.GC19890@fwnc7111.wks.gorlaeus.net>
+Message-ID: <20121106170455.M2301@w4w.net>
+
+hi @all, 
+
+you might know of a consortium who are preparing to write a proposal for 
+
+EU call SiS.2013.1.3.3-2 Downstream training on Open Access in the ERA 
+#FP7 #EUScience
+
+and who seek to ameliorate their portfolio with a small partner from Italy, 
+here we are: 
+OKA - Open Knowledge Advancement, http://www.ok-a.org (Florence)
+@OKAdvancement
+
+feel free to pass this on :-)
+thanks & cheers,
+Claudia
+
+
+From ross.mounce at gmail.com  Wed Nov  7 20:29:39 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 7 Nov 2012 20:29:39 +0000
+Subject: [Open-access] NPG plan to charge significantly MORE for CC BY
+Message-ID: <CAJr+OEy7L+LGpjmCD7DZ88Oe3wDDE67yCXqSNxrkQJ3+_DK6Tw@mail.gmail.com>
+
+Outrageous press release from Nature Publishing Group today.
+
+They're explicitly charging more to authors who want CC BY Gold OA,
+relative to more restrictive licenses such as CC BY-NC-SA.
+Here's my quick take on it:
+http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+More money, for absolutely no extra work.
+
+Horrid :(
+
+
+Ross
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121107/ebd47d13/attachment.htm>
+
+From ross.mounce at gmail.com  Wed Nov  7 22:06:24 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 7 Nov 2012 22:06:24 +0000
+Subject: [Open-access] NPG plan to charge significantly MORE for CC BY
+In-Reply-To: <981342195.20121107224321@gmail.com>
+References: <CAJr+OEy7L+LGpjmCD7DZ88Oe3wDDE67yCXqSNxrkQJ3+_DK6Tw@mail.gmail.com>
+	<981342195.20121107224321@gmail.com>
+Message-ID: <CAJr+OEz6gwxYw4RTJij_C5hhJHgovwK9_kMvCqc2ktNtXQ0ddw@mail.gmail.com>
+
+Bj?rn I agree.
+
+I just wasn't expecting NPG to be so bare-faced about exploiting the new
+push for OA, to squeeze out every last ? profit possible - upto an extra
+?400 it would seem for the 'privilege' of CC BY.
+
+They have their headquarters in London, and yet they make a change to their
+pricing scheme that obviously exploits new RCUK policy?
+
+Even if this is 'expected' rational behaviour from a for-profit commercial
+publisher - to maximize profits; I hope I've made their announcement and
+its possible consequences more well known now.
+
+Perhaps the UK government could step-in and examine whether these
+additional 'premium' OA charges are actually justified?
+Get some actual market regulation in to stop this absurd price-hiking.
+
+I cannot imagine many deadtree (paper) reprints would be sold for
+non-pharma related articles. Can one really justify an extra ?200 charge on
+a Psychiatry article to be published CC BY in '*Translational Psychiatry*'?
+
+
+
+Ross
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121107/44edd055/attachment.htm>
+
+From jonathan.gray at okfn.org  Sat Nov 17 12:26:05 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 17 Nov 2012 13:26:05 +0100
+Subject: [Open-access] Denton Declaration
+Message-ID: <CANQ_vu2kQJmjHy7SQ6ST81U1Yk9KaAMC3rUS6H951sGVSv_EGA@mail.gmail.com>
+
+This looks interesting.
+
+The Denton Declaration calls itself "An Open Data Manifesto" - but suspect
+it is more of "An Accessible Data Manifesto" (there is no explicit mention
+of data licensing, legal status or reusability).
+
+http://openaccess.unt.edu/denton_declaration
+
+Has anyone been in touch with them?
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121117/d798a481/attachment.htm>
+
+From laurent.romary at inria.fr  Sun Nov 18 06:50:06 2012
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Sun, 18 Nov 2012 07:50:06 +0100
+Subject: [Open-access] Denton Declaration
+In-Reply-To: <CANQ_vu2kQJmjHy7SQ6ST81U1Yk9KaAMC3rUS6H951sGVSv_EGA@mail.gmail.com>
+References: <CANQ_vu2kQJmjHy7SQ6ST81U1Yk9KaAMC3rUS6H951sGVSv_EGA@mail.gmail.com>
+Message-ID: <F4F1AD5C-0BB9-4284-8732-2FEF42BF1A81@inria.fr>
+
+This initiative looks interesting, because it is about self behavior as science managers in panels and similar decisional environment. It is I think an important advocacy step, before even people get to think of the technical aspects of licensing. Let's sign! (I have known Allen Renear for years; a visionary person in text technologies).
+Laurent
+
+
+Le 17 nov. 2012 ? 13:26, Jonathan Gray a ?crit :
+
+> This looks interesting.
+> 
+> The Denton Declaration calls itself "An Open Data Manifesto" - but suspect it is more of "An Accessible Data Manifesto" (there is no explicit mention of data licensing, legal status or reusability).
+> 
+> http://openaccess.unt.edu/denton_declaration
+> 
+> Has anyone been in touch with them?
+> 
+> -- 
+> Jonathan Gray | @jwyg
+> The Open Knowledge Foundation | @okfn
+> Support our work: okfn.org/support
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+
+Laurent Romary
+INRIA & HUB-IDSL
+laurent.romary at inria.fr
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121118/5a4caa58/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Nov 18 07:49:32 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 18 Nov 2012 07:49:32 +0000
+Subject: [Open-access] Denton Declaration
+In-Reply-To: <F4F1AD5C-0BB9-4284-8732-2FEF42BF1A81@inria.fr>
+References: <CANQ_vu2kQJmjHy7SQ6ST81U1Yk9KaAMC3rUS6H951sGVSv_EGA@mail.gmail.com>
+	<F4F1AD5C-0BB9-4284-8732-2FEF42BF1A81@inria.fr>
+Message-ID: <CAD2k14M9h+vvZ4UzN4Mrmfgp6e=9ynARd4qOFeFKQTqmAdi5hQ@mail.gmail.com>
+
+On Sun, Nov 18, 2012 at 6:50 AM, Laurent Romary <laurent.romary at inria.fr>wrote:
+
+> This initiative looks interesting, because it is about self behavior as
+> science managers in panels and similar decisional environment. It is I
+> think an important advocacy step, before even people get to think of the
+> technical aspects of licensing. Let's sign! (I have known Allen Renear for
+> years; a visionary person in text technologies).
+> Laurent
+>
+
+Yes I have known Allen and have signed
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121118/2290e79c/attachment.htm>
+
+From marcin.wojnarski at tunedit.org  Tue Nov 20 11:38:16 2012
+From: marcin.wojnarski at tunedit.org (Marcin Wojnarski)
+Date: Tue, 20 Nov 2012 12:38:16 +0100
+Subject: [Open-access] Copyright Law Destroys Markets
+Message-ID: <50AB6BA8.3080209@tunedit.org>
+
+A few days ago, Republicans released a report about flaws of copyright 
+law, suggesting revolutionary reforms. Very important initiative for all 
+academia. Scholars should speak and strongly back the initiative, to 
+help liberate academic literature. You can read a write-up here 
+<http://www.techdirt.com/articles/20121116/16481921080/house-republicans-copyright-law-destroys-markets-its-time-real-reform.shtml>. 
+Some quotes:
+
+  * [about term of protection]/... Gradually this period began to
+    expand, but today's copyright law bears almost no resemblance to the
+    constitutional provision that enabled it and the conception of this
+    right by our Founding Fathers.//
+    - Original Copyright Law [AD 1790]: *14 years*, plus 14 year renewal
+    if author is alive.
+    - Current Copyright Law: *Life of author plus 70 years*; and for
+    corporate authors *120 years after creation* or 95 years after
+    publication.
+
+    /
+  * /copyright continue to be extended perpetually, ensuring that works
+    *never* actually enter the public domain (...) that would
+    effectively nullify Article I, Section 8, Clause 8 of the
+    *Constitution* which provides protection only for "limited times."
+
+    /
+  * /[copyright] *penalizes legitimate journalism* and oversight (...)
+    Current copyright law allows for producers of written materials,
+    such as memos or other documents, to claim copyright when they are
+    seeking to hide incriminating information.
+
+    /
+  * /Because there is minimal or nearly non-existent punishment for
+    bogus copyright claims today, false takedown requests are common and
+    have a chilling effect upon legitimate speech.//(...) This often
+    leads to de facto *censorship*.
+
+    /
+  * /Current copyright law does not merely distort some markets --
+    rather it *destroys* entire markets.
+
+    /
+  * [from Infringement Nation] /things you do every single day are
+    infringing and leave *every single person* liable for *billions in
+    damages* each year/
+
+(emphasis mine)
+There's a separate section on academic literature. Quoting in full:
+
+*B. Hampering scientific inquiry:*
+Scientific papers from the early portion of the 20th century are still 
+under copyright. . .
+This is illogical, as the purpose of most scientific papers is to 
+further intellectual
+inquiry, and the goal of most authors of scientific papers is to advance 
+their field and
+to be cited in other publications. Many professors are assessed upon the 
+number of
+citations for their major works. For these reasons, keeping their work 
+in what are
+effectively locked vaults defeats the purpose of much of their work.
+Obviously these producers need to be compensated to justify the cost of 
+their
+research, but after around 14 years, most, if not nearly all, of the 
+earning capacity of
+their work has been exhausted, and at that point the overriding interest 
+is in ensuring
+that these works are available for others. While there are exceptions in 
+the law for the
+use of this material for good faith exceptions, there are numerous 
+examples where
+for-profit entities want to use published journal articles but are 
+unable to do so
+without negotiating a payment to the producer of the content.
+If however, these older papers were available online for free on Google 
+Scholar to
+anyone to access and use after a reasonable period of time then it would 
+greatly
+increase the availability and utilization of scientific analysis.
+
+
+-- 
+Marcin Wojnarski, Founder and CEO, TunedIT
+http://tunedit.org
+http://www.facebook.com/TunedIT
+http://twitter.com/wojnarski
+http://www.linkedin.com/in/marcinwojnarski
+
+TunedIT - Online Laboratory for Intelligent Algorithms
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121120/19fc10a3/attachment.htm>
+
+From marcin.wojnarski at tunedit.org  Tue Nov 20 15:06:58 2012
+From: marcin.wojnarski at tunedit.org (Marcin Wojnarski)
+Date: Tue, 20 Nov 2012 16:06:58 +0100
+Subject: [Open-access] [GOAL] Re: Copyright Law Destroys Markets
+In-Reply-To: <EC679C26D5CC934EA467E95EECB6390F032DA60F4D@rcs-exch-be1.rcseng.ac.uk>
+References: <50AB6BA8.3080209@tunedit.org>
+	<EC679C26D5CC934EA467E95EECB6390F032DA60F4D@rcs-exch-be1.rcseng.ac.uk>
+Message-ID: <50AB9C92.2000404@tunedit.org>
+
+Yes, it was retracted because of corporate lobbying, but it can very 
+well get back on the agenda if only public opinion requests this - 
+that's why academia must stand behind this report. The fact that such a 
+document was prepared and came to light is already a big sign of change 
+and should be pushed forward despite retraction. A petition was started 
+to request republishing: everyone can sign it here 
+<http://www.change.org/petitions/paul-teller-and-the-republican-study-committee-rsc-republish-and-stand-behind-their-policy-brief-on-copyright-law>; 
+or read more here 
+<http://www.techdirt.com/articles/20121118/23364521085/dont-let-retraction-distract-simple-fact-gop-copyright-policy-brief-was-brilliant.shtml>.
+
+-Marcin
+
+On 11/20/2012 01:35 PM, Bishop, Tom wrote:
+>
+> Thanks Marcin. As people will see if you follow the link, the report 
+> was almost instantly retracted with a statement saying "Yesterday you 
+> received a Policy Brief on copyright law that was published without 
+> adequate review within the RSC and failed to meet that standard."!! 
+> I've just read about it in an email from the 1709 Copyright Blog, 
+> which I can forward to this list if people are interested.
+>
+> Cheers,
+>
+> Tom.
+>
+> *Tom Bishop |**Head of Library and Surgical Information Services*
+>
+> The Royal College /of/ Surgeons /of/ England |35-43 Lincoln's Inn 
+> Fields |London WC2A 3PE
+>
+> t: 020 7869 6530 | e:**tbishop at rcseng.ac.uk 
+> <mailto:tbishop at rcseng.ac.uk>|w:http://www.rcseng.ac.uk 
+> <http://www.rcseng.ac.uk/>
+>
+> *From:*goal-bounces at eprints.org [mailto:goal-bounces at eprints.org] *On 
+> Behalf Of *Marcin Wojnarski
+> *Sent:* 20 November 2012 11:38
+> *To:* goal at eprints.org; open-access at lists.okfn.org
+> *Subject:* [GOAL] Copyright Law Destroys Markets
+>
+> A few days ago, Republicans released a report about flaws of copyright 
+> law, suggesting revolutionary reforms. Very important initiative for 
+> all academia. Scholars should speak and strongly back the initiative, 
+> to help liberate academic literature. You can read a write-up here 
+> <http://www.techdirt.com/articles/20121116/16481921080/house-republicans-copyright-law-destroys-markets-its-time-real-reform.shtml>. 
+> Some quotes:
+>
+>   * [about term of protection]/... Gradually this period began to
+>     expand, but today's copyright law bears almost no resemblance to
+>     the constitutional provision that enabled it and the conception of
+>     this right by our Founding Fathers.
+>     - Original Copyright Law [AD 1790]: *14 years*, plus 14 year
+>     renewal if author is alive.
+>     - Current Copyright Law: *Life of author plus 70 years*; and for
+>     corporate authors *120 years after creation* or 95 years after
+>     publication./
+>   * /copyright continue to be extended perpetually, ensuring that
+>     works *never* actually enter the public domain (...) that would
+>     effectively nullify Article I, Section 8, Clause 8 of the
+>     *Constitution* which provides protection only for "limited times."/
+>   * /[copyright] *penalizes legitimate journalism* and oversight (...)
+>     Current copyright law allows for producers of written materials,
+>     such as memos or other documents, to claim copyright when they are
+>     seeking to hide incriminating information./
+>   * /Because there is minimal or nearly non-existent punishment for
+>     bogus copyright claims today, false takedown requests are common
+>     and have a chilling effect upon legitimate speech. (...) This
+>     often leads to de facto *censorship*./
+>   * /Current copyright law does not merely distort some markets --
+>     rather it *destroys* entire markets./
+>   * [from Infringement Nation] /things you do every single day are
+>     infringing and leave *every single person* liable for *billions in
+>     damages* each year/
+>
+> (emphasis mine)
+> There's a separate section on academic literature. Quoting in full:
+>
+> *B. Hampering scientific inquiry:*
+> Scientific papers from the early portion of the 20th century are still 
+> under copyright. . .
+> This is illogical, as the purpose of most scientific papers is to 
+> further intellectual
+> inquiry, and the goal of most authors of scientific papers is to 
+> advance their field and
+> to be cited in other publications. Many professors are assessed upon 
+> the number of
+> citations for their major works. For these reasons, keeping their work 
+> in what are
+> effectively locked vaults defeats the purpose of much of their work.
+> Obviously these producers need to be compensated to justify the cost 
+> of their
+> research, but after around 14 years, most, if not nearly all, of the 
+> earning capacity of
+> their work has been exhausted, and at that point the overriding 
+> interest is in ensuring
+> that these works are available for others. While there are exceptions 
+> in the law for the
+> use of this material for good faith exceptions, there are numerous 
+> examples where
+> for-profit entities want to use published journal articles but are 
+> unable to do so
+> without negotiating a payment to the producer of the content.
+> If however, these older papers were available online for free on 
+> Google Scholar to
+> anyone to access and use after a reasonable period of time then it 
+> would greatly
+> increase the availability and utilization of scientific analysis.
+>
+>
+>
+> -- 
+> Marcin Wojnarski, Founder and CEO, TunedIT
+> http://tunedit.org
+> http://www.facebook.com/TunedIT
+> http://twitter.com/wojnarski
+> http://www.linkedin.com/in/marcinwojnarski
+>   
+> TunedIT - Online Laboratory for Intelligent Algorithms
+>
+> ------------------------------------------------------------------------
+> This email and any files transmitted with it are confidential and 
+> intended solely for the use of the individual or entity to whom they 
+> are addressed. If you have received this email in error please notify 
+> the system manager. This message contains confidential information and 
+> is intended only for the individual named. If you are not the named 
+> addressee you should not disseminate, distribute or copy this e-mail.
+>
+>
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+-- 
+Marcin Wojnarski, Founder and CEO, TunedIT
+http://tunedit.org
+http://www.facebook.com/TunedIT
+http://twitter.com/TunedIT
+http://www.linkedin.com/in/marcinwojnarski
+
+TunedIT - Online Laboratory for Intelligent Algorithms
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121120/096f81a9/attachment.htm>
+
+From koltzenburg at w4w.net  Tue Nov 20 15:12:57 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Tue, 20 Nov 2012 16:12:57 +0100
+Subject: [Open-access] Horizon2020 current draft anywhere?
+In-Reply-To: <20121106170455.M2301@w4w.net>
+Message-ID: <20121120150854.M17419@w4w.net>
+
+hi @all,
+
+I am seeking the most recent draft of
+
+Proposal for a regulation of the European Parliament and of the Council establishing Horizon 2020 - The 
+Framework Programme for Research and Innovation (2014-2020)
+
+this Draft report with Amendments is from July 2012
+
+http://www.europarl.europa.eu/committees/en/itre/draft-reports.html?
+linkedDocument=true&ufolderComCode=ITRE&ufolderLegId=7&ufolderId=08101&urefProcYear=&urefProcN
+um=&urefProcCode=#menuzone
+
+can anyone provide a pointer?
+
+the Voting session is apparently scheduled for 28 Nov
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net
+
+
+From subbiah.arunachalam at gmail.com  Tue Nov 20 15:16:52 2012
+From: subbiah.arunachalam at gmail.com (Subbiah Arunachalam)
+Date: Tue, 20 Nov 2012 07:16:52 -0800
+Subject: [Open-access] Copyright Law Destroys Markets
+In-Reply-To: <50AB6BA8.3080209@tunedit.org>
+References: <50AB6BA8.3080209@tunedit.org>
+Message-ID: <CABghs+YCBbWK3nh3_HEeQsgnbO6SW7WNz6M7tehm_1D=wU7bVw@mail.gmail.com>
+
+Now the Republican Party has withdrawn the report or at least playing it
+down.
+
+Arun
+
+
+On Tue, Nov 20, 2012 at 3:38 AM, Marcin Wojnarski <
+marcin.wojnarski at tunedit.org> wrote:
+
+>  A few days ago, Republicans released a report about flaws of copyright
+> law, suggesting revolutionary reforms. Very important initiative for all
+> academia. Scholars should speak and strongly back the initiative, to help
+> liberate academic literature. You can read a write-up here<http://www.techdirt.com/articles/20121116/16481921080/house-republicans-copyright-law-destroys-markets-its-time-real-reform.shtml>.
+> Some quotes:
+>
+>    - [about term of protection]* ... Gradually this period began to
+>    expand, but today?s copyright law bears almost no resemblance to the
+>    constitutional provision that enabled it and the conception of this right
+>    by our Founding Fathers.**
+>    - Original Copyright Law [AD 1790]: 14 years, plus 14 year renewal if
+>    author is alive.
+>    - Current Copyright Law: Life of author plus 70 years; and for
+>    corporate authors 120 years after creation or 95 years after
+>    publication.
+>
+>    *
+>    - *copyright continue to be extended perpetually, ensuring that works
+>    never actually enter the public domain (...) that would effectively
+>    nullify Article I, Section 8, Clause 8 of the Constitution which
+>    provides protection only for ?limited times.?
+>
+>    *
+>    - *[copyright] penalizes legitimate journalism and oversight (...)
+>    Current copyright law allows for producers of written materials, such as
+>    memos or other documents, to claim copyright when they are seeking to hide
+>    incriminating information.
+>
+>    *
+>    - *Because there is minimal or nearly non-existent punishment for
+>    bogus copyright claims today, false takedown requests are common and have a
+>    chilling effect upon legitimate speech.** (...) This often leads to de
+>    facto censorship.
+>
+>    *
+>    - *Current copyright law does not merely distort some markets ? rather
+>    it destroys entire markets.
+>
+>    *
+>    - [from Infringement Nation] *things you do every single day are
+>    infringing and leave every single person liable for billions in damageseach year
+>    *
+>
+> (emphasis mine)
+> There's a separate section on academic literature. Quoting in full:
+>
+> *B. Hampering scientific inquiry:*
+> Scientific papers from the early portion of the 20th century are still
+> under copyright. . .
+> This is illogical, as the purpose of most scientific papers is to further
+> intellectual
+> inquiry, and the goal of most authors of scientific papers is to advance
+> their field and
+> to be cited in other publications. Many professors are assessed upon the
+> number of
+> citations for their major works. For these reasons, keeping their work in
+> what are
+> effectively locked vaults defeats the purpose of much of their work.
+> Obviously these producers need to be compensated to justify the cost of
+> their
+> research, but after around 14 years, most, if not nearly all, of the
+> earning capacity of
+> their work has been exhausted, and at that point the overriding interest
+> is in ensuring
+> that these works are available for others. While there are exceptions in
+> the law for the
+> use of this material for good faith exceptions, there are numerous
+> examples where
+> for-profit entities want to use published journal articles but are unable
+> to do so
+> without negotiating a payment to the producer of the content.
+> If however, these older papers were available online for free on Google
+> Scholar to
+> anyone to access and use after a reasonable period of time then it would
+> greatly
+> increase the availability and utilization of scientific analysis.
+>
+>
+> --
+> Marcin Wojnarski, Founder and CEO, TunedIThttp://tunedit.orghttp://www.facebook.com/TunedIThttp://twitter.com/wojnarskihttp://www.linkedin.com/in/marcinwojnarski
+>
+> TunedIT - Online Laboratory for Intelligent Algorithms
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121120/3fb5ffbf/attachment-0001.htm>
+
+From tom.olijhoek at gmail.com  Tue Nov 20 16:30:39 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 20 Nov 2012 17:30:39 +0100
+Subject: [Open-access] Horizon2020 current draft anywhere?
+In-Reply-To: <20121120150854.M17419@w4w.net>
+References: <20121106170455.M2301@w4w.net> <20121120150854.M17419@w4w.net>
+Message-ID: <CAGyWN8ZNg8Fpv42sgrCOapt5g=VXt88vkT9HW19MT9fxeuBXzQ@mail.gmail.com>
+
+Hi Claudia and all others
+
+I have the following link with pointers to the amendments
+
+Vote on the Horizon 2020 Package, 28.11.2012
+
+LINK   *http://www.europarl.europa.eu/committees/en/ITRE/home.html*
+*
+*
+*cheers*
+*
+*
+*TOM*
+
+On Tue, Nov 20, 2012 at 4:12 PM, <koltzenburg at w4w.net> wrote:
+
+> hi @all,
+>
+> I am seeking the most recent draft of
+>
+> Proposal for a regulation of the European Parliament and of the Council
+> establishing Horizon 2020 - The
+> Framework Programme for Research and Innovation (2014-2020)
+>
+> this Draft report with Amendments is from July 2012
+>
+> http://www.europarl.europa.eu/committees/en/itre/draft-reports.html?
+>
+> linkedDocument=true&ufolderComCode=ITRE&ufolderLegId=7&ufolderId=08101&urefProcYear=&urefProcN
+> um=&urefProcCode=#menuzone
+>
+> can anyone provide a pointer?
+>
+> the Voting session is apparently scheduled for 28 Nov
+>
+> thanks & cheers,
+> Claudia
+> koltzenburg at w4w.net
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121120/626f1341/attachment.htm>
+
+From tom.olijhoek at gmail.com  Tue Nov 20 16:48:59 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 20 Nov 2012 17:48:59 +0100
+Subject: [Open-access] Horizon2020 current draft anywhere?
+In-Reply-To: <20121120150854.M17419@w4w.net>
+References: <20121106170455.M2301@w4w.net> <20121120150854.M17419@w4w.net>
+Message-ID: <CAGyWN8bjb1ZzJvsn2aVpn5_fuymDcL23VpoY5xzXfwnet27CiA@mail.gmail.com>
+
+Hi all.
+
+The plenary vote on the Horizon2020 program is apparently for december 2012
+
+see link
+
+http://www.neth-er.eu/en/dossiers/research-and-education/h2020
+
+
+
+cheers  TOM
+
+On Tue, Nov 20, 2012 at 4:12 PM, <koltzenburg at w4w.net> wrote:
+
+> hi @all,
+>
+> I am seeking the most recent draft of
+>
+> Proposal for a regulation of the European Parliament and of the Council
+> establishing Horizon 2020 - The
+> Framework Programme for Research and Innovation (2014-2020)
+>
+> this Draft report with Amendments is from July 2012
+>
+> http://www.europarl.europa.eu/committees/en/itre/draft-reports.html?
+>
+> linkedDocument=true&ufolderComCode=ITRE&ufolderLegId=7&ufolderId=08101&urefProcYear=&urefProcN
+> um=&urefProcCode=#menuzone
+>
+> can anyone provide a pointer?
+>
+> the Voting session is apparently scheduled for 28 Nov
+>
+> thanks & cheers,
+> Claudia
+> koltzenburg at w4w.net
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121120/75dd114d/attachment.htm>
+
+From cn at cameronneylon.net  Tue Nov 20 21:36:51 2012
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Tue, 20 Nov 2012 16:36:51 -0500
+Subject: [Open-access] Horizon2020 current draft anywhere?
+In-Reply-To: <CAGyWN8bjb1ZzJvsn2aVpn5_fuymDcL23VpoY5xzXfwnet27CiA@mail.gmail.com>
+References: <20121106170455.M2301@w4w.net> <20121120150854.M17419@w4w.net>
+	<CAGyWN8bjb1ZzJvsn2aVpn5_fuymDcL23VpoY5xzXfwnet27CiA@mail.gmail.com>
+Message-ID: <135D6EEE-A1B1-4C46-AA20-2C1BA5518C43@cameronneylon.net>
+
+The committee vote on these "concensus ammendments" (assuming I am on the right track) is November 28 I believe.
+
+Cheers
+
+Cameron
+
+On 20 Nov 2012, at 11:48, Tom Olijhoek wrote:
+
+> Hi all.
+> 
+> The plenary vote on the Horizon2020 program is apparently for december 2012
+> 
+> see link
+> 
+> http://www.neth-er.eu/en/dossiers/research-and-education/h2020
+> 
+> 
+> 
+> cheers  TOM
+> 
+> On Tue, Nov 20, 2012 at 4:12 PM, <koltzenburg at w4w.net> wrote:
+> hi @all,
+> 
+> I am seeking the most recent draft of
+> 
+> Proposal for a regulation of the European Parliament and of the Council establishing Horizon 2020 - The
+> Framework Programme for Research and Innovation (2014-2020)
+> 
+> this Draft report with Amendments is from July 2012
+> 
+> http://www.europarl.europa.eu/committees/en/itre/draft-reports.html?
+> linkedDocument=true&ufolderComCode=ITRE&ufolderLegId=7&ufolderId=08101&urefProcYear=&urefProcN
+> um=&urefProcCode=#menuzone
+> 
+> can anyone provide a pointer?
+> 
+> the Voting session is apparently scheduled for 28 Nov
+> 
+> thanks & cheers,
+> Claudia
+> koltzenburg at w4w.net
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121120/ffca4816/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Nov 21 01:09:12 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 21 Nov 2012 01:09:12 +0000
+Subject: [Open-access] Horizon2020 current draft anywhere?
+In-Reply-To: <135D6EEE-A1B1-4C46-AA20-2C1BA5518C43@cameronneylon.net>
+References: <20121106170455.M2301@w4w.net> <20121120150854.M17419@w4w.net>
+	<CAGyWN8bjb1ZzJvsn2aVpn5_fuymDcL23VpoY5xzXfwnet27CiA@mail.gmail.com>
+	<135D6EEE-A1B1-4C46-AA20-2C1BA5518C43@cameronneylon.net>
+Message-ID: <CAD2k14M62+3Hrz-2hxS7YKDxx+Z6apbJJN0iE0rAh5v09Zh7qg@mail.gmail.com>
+
+On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+
+> The committee vote on these "concensus ammendments" (assuming I am on the
+> right track) is November 28 I believe.
+>
+>
+Do we need to mail our MEPs on this? If so what should we say?
+
+P.
+
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121121/d9aefec7/attachment.htm>
+
+From koltzenburg at w4w.net  Wed Nov 21 09:17:43 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Wed, 21 Nov 2012 10:17:43 +0100
+Subject: [Open-access] Horizon2020 current draft anywhere?
+In-Reply-To: <CAD2k14M62+3Hrz-2hxS7YKDxx+Z6apbJJN0iE0rAh5v09Zh7qg@mail.gmail.com>
+References: <20121106170455.M2301@w4w.net> <20121120150854.M17419@w4w.net>
+	<CAGyWN8bjb1ZzJvsn2aVpn5_fuymDcL23VpoY5xzXfwnet27CiA@mail.gmail.com>
+	<135D6EEE-A1B1-4C46-AA20-2C1BA5518C43@cameronneylon.net>
+	<CAD2k14M62+3Hrz-2hxS7YKDxx+Z6apbJJN0iE0rAh5v09Zh7qg@mail.gmail.com>
+Message-ID: <20121121091430.M79785@w4w.net>
+
+thanks everyone,
+
+On Wed, 21 Nov 2012 01:09:12 +0000, Peter Murray-Rust wrote
+> On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+> 
+> > The committee vote on these "concensus ammendments" (assuming I am on the
+> > right track) is November 28 I believe.
+> >
+> >
+> Do we need to mail our MEPs on this? If so what should we say?
+> 
+> P.
+
+a. maybe
+
+b. this seems to depend on if the MEP we can reach easily are ITRE committee members of just plenary 
+members, correct?
+ 
+ck
+
+
+From koltzenburg at w4w.net  Wed Nov 21 11:13:19 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Wed, 21 Nov 2012 12:13:19 +0100
+Subject: [Open-access] ITRE committee members Fw: Re: Horizon2020 current
+	draft anywhere?
+In-Reply-To: <20121121091430.M79785@w4w.net>
+Message-ID: <20121121111214.M99598@w4w.net>
+
+
+ITRE committee members
+http://www.europarl.europa.eu/committees/en/itre/members.html
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:Peter Murray-Rust <pm286 at cam.ac.uk>, "cameronneylon.net" <cn at cameronneylon.net>
+Cc:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 10:17:43 +0100
+Subject:Re: [Open-access] Horizon2020 current draft anywhere?
+
+thanks everyone,
+
+On Wed, 21 Nov 2012 01:09:12 +0000, Peter Murray-Rust wrote
+> On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+> 
+> > The committee vote on these "concensus ammendments" (assuming I am on the
+> > right track) is November 28 I believe.
+> >
+> >
+> Do we need to mail our MEPs on this? If so what should we say?
+> 
+> P.
+
+a. maybe
+
+b. this seems to depend on if the MEP we can reach easily are ITRE committee members or just plenary 
+members, correct?
+
+ck
+------- End of Forwarded Message -------
+
+
+
+From koltzenburg at w4w.net  Wed Nov 21 11:26:36 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Wed, 21 Nov 2012 12:26:36 +0100
+Subject: [Open-access] (draft mail) now write to your MEPs see Fw: ITRE
+	committee members Fw: Re: Horizon2020 current draft anywhere?
+In-Reply-To: <20121121111214.M99598@w4w.net>
+Message-ID: <20121121111642.M65506@w4w.net>
+
+hi @all
+
+I would like to suggest that it is now the right moment to write a mail to members of the ITRE committee 
+whom you consider "your MEPs" (for whatever reason, maybe same languages spoken...) and their staff.
+
+I suppose my own version will be something like (in several languages, one at a time)
+
+Subject: 28 Nov ITRE: Only real open access saves real lives
+(--- adapted from Tom's motto, thanks, Tom)
+
+"Dear ...
+
+in your ITRE committee's session on 28/29 November
+
+please make sure that open access includes all scientific articles.
+
+Reason: Also the local doctors trusted by your friends and family need fast and free access to the newest 
+research to know which cure is best. Real open access saves real lives.
+
+best regards"
+
+suggestions for amendments welcome as always
+
+Claudia
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 12:13:19 +0100
+Subject:ITRE committee members Fw: Re: [Open-access] Horizon2020 current draft anywhere?
+
+ITRE committee members
+http://www.europarl.europa.eu/committees/en/itre/members.html
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:Peter Murray-Rust <pm286 at cam.ac.uk>, "cameronneylon.net" <cn at cameronneylon.net>
+Cc:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 10:17:43 +0100
+Subject:Re: [Open-access] Horizon2020 current draft anywhere?
+
+thanks everyone,
+
+On Wed, 21 Nov 2012 01:09:12 +0000, Peter Murray-Rust wrote
+> On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+> 
+> > The committee vote on these "concensus ammendments" (assuming I am on the
+> > right track) is November 28 I believe.
+> >
+> >
+> Do we need to mail our MEPs on this? If so what should we say?
+> 
+> P.
+
+a. maybe
+
+b. this seems to depend on if the MEP we can reach easily are ITRE committee members or just plenary 
+members, correct?
+
+ck
+------- End of Forwarded Message -------
+------- End of Forwarded Message -------
+
+
+From tom.olijhoek at gmail.com  Wed Nov 21 11:49:05 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Wed, 21 Nov 2012 12:49:05 +0100
+Subject: [Open-access] @ccess Skype meeting friday 23 nov 1030am BST+1
+Message-ID: <CAGyWN8Y9scRN_wWL2T4iYbzQoJAwKi=HT_575RA1rqOkXOadrg@mail.gmail.com>
+
+Dear All.
+
+The last @ccess meeting was already a month ago!. I have had chats with
+several people, but feel the need to have a plenary meeting again.
+I hope you will find the time to have a short update and discussion on how
+things concerning OA  are going.
+As Peter Murray-Rust is in Australia I already announced last time that I
+would have the time of the meeting adjusted for him to be able to
+participate.
+
+Please Join Us  on Friday  Nov 23  2012  at 10.30 am BST+1
+
+meeting pad is at
+
+http://open-access.okfnpad.org/34
+
+
+cheers
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121121/0e0c65d6/attachment.htm>
+
+From koltzenburg at w4w.net  Wed Nov 21 12:04:45 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Wed, 21 Nov 2012 13:04:45 +0100
+Subject: [Open-access] "Pressure on MEPs is necessary." Fw: (draft mail) now
+	write to your MEPs see Fw: ITRE committee members Fw: Re:
+	Horizon2020 current draft anywhere?
+In-Reply-To: <20121121111642.M65506@w4w.net>
+Message-ID: <20121121120239.M48985@w4w.net>
+
+
+Watering down Open Access in EU (latest compromise)
+Bold print are latest changes proposed in text. Final vote on November 28th in Industry Committee.
+"Pressure on MEPs is necessary."
+http://tacd-ip.org/archives/816
+
+my thanks to Iryna Kuchma https://twitter.com/irynakuchma/status/268678769491984385
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 12:26:36 +0100
+Subject:(draft mail) now write to your MEPs see Fw: ITRE committee members Fw: Re: [Open-access] 
+Horizon2020 current draft anywhere?
+
+hi @all
+
+I would like to suggest that it is now the right moment to write a mail to members of the ITRE committee 
+whom you consider "your MEPs" (for whatever reason, maybe same languages spoken...) and their staff.
+
+I suppose my own version will be something like (in several languages, one at a time)
+
+Subject: 28 Nov ITRE: Only real open access saves real lives
+(--- adapted from Tom's motto, thanks, Tom)
+
+"Dear ...
+
+in your ITRE committee's session on 28/29 November
+
+please make sure that open access includes all scientific articles.
+
+Reason: Also the local doctors trusted by your friends and family need fast and free access to the newest 
+research to know which cure is best. Real open access saves real lives.
+
+best regards"
+
+suggestions for amendments welcome as always
+
+Claudia
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 12:13:19 +0100
+Subject:ITRE committee members Fw: Re: [Open-access] Horizon2020 current draft anywhere?
+
+ITRE committee members
+http://www.europarl.europa.eu/committees/en/itre/members.html
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:Peter Murray-Rust <pm286 at cam.ac.uk>, "cameronneylon.net" <cn at cameronneylon.net>
+Cc:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 10:17:43 +0100
+Subject:Re: [Open-access] Horizon2020 current draft anywhere?
+
+thanks everyone,
+
+On Wed, 21 Nov 2012 01:09:12 +0000, Peter Murray-Rust wrote
+> On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+> 
+> > The committee vote on these "concensus ammendments" (assuming I am on the
+> > right track) is November 28 I believe.
+> >
+> >
+> Do we need to mail our MEPs on this? If so what should we say?
+> 
+> P.
+
+a. maybe
+
+b. this seems to depend on if the MEP we can reach easily are ITRE committee members or just plenary 
+members, correct?
+
+ck
+------- End of Forwarded Message -------
+------- End of Forwarded Message -------
+------- End of Forwarded Message -------
+
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net
+
+
+From koltzenburg at w4w.net  Wed Nov 21 13:56:10 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Wed, 21 Nov 2012 14:56:10 +0100
+Subject: [Open-access] example tweet Fw: "Pressure on MEPs is necessary."
+	Fw: (draft mail) now write to your MEPs see Fw: ITRE
+	committee members Fw: Re: Horizon2020 current draft anywhere?
+In-Reply-To: <20121121120239.M48985@w4w.net>
+Message-ID: <20121121135505.M55171@w4w.net>
+
+https://twitter.com/OAgeek/status/271249466261135361
+
+@teirdes too watered down! see first comment here http://bit.ly/W79Jjm  no real open access any more. Ask 
+your colleagues to vote against it
+
+(I was in touch with this MEP on OA before)
+
+Claudia
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 13:04:45 +0100
+Subject:[Open-access] "Pressure on MEPs is necessary." Fw: (draft mail) now write to your MEPs see Fw: 
+ITRE committee members Fw: Re: Horizon2020 current draft anywhere?
+
+Watering down Open Access in EU (latest compromise)
+Bold print are latest changes proposed in text. Final vote on November 28th in Industry Committee.
+"Pressure on MEPs is necessary."
+http://tacd-ip.org/archives/816
+
+my thanks to Iryna Kuchma https://twitter.com/irynakuchma/status/268678769491984385
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 12:26:36 +0100
+Subject:(draft mail) now write to your MEPs see Fw: ITRE committee members Fw: Re: [Open-access] 
+Horizon2020 current draft anywhere?
+
+hi @all
+
+I would like to suggest that it is now the right moment to write a mail to members of the ITRE committee 
+whom you consider "your MEPs" (for whatever reason, maybe same languages spoken...) and their staff.
+
+I suppose my own version will be something like (in several languages, one at a time)
+
+Subject: 28 Nov ITRE: Only real open access saves real lives
+(--- adapted from Tom's motto, thanks, Tom)
+
+"Dear ...
+
+in your ITRE committee's session on 28/29 November
+
+please make sure that open access includes all scientific articles.
+
+Reason: Also the local doctors trusted by your friends and family need fast and free access to the newest 
+research to know which cure is best. Real open access saves real lives.
+
+best regards"
+
+suggestions for amendments welcome as always
+
+Claudia
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 12:13:19 +0100
+Subject:ITRE committee members Fw: Re: [Open-access] Horizon2020 current draft anywhere?
+
+ITRE committee members
+http://www.europarl.europa.eu/committees/en/itre/members.html
+
+---------- Forwarded Message -----------
+From:koltzenburg at w4w.net
+To:Peter Murray-Rust <pm286 at cam.ac.uk>, "cameronneylon.net" <cn at cameronneylon.net>
+Cc:open-access at lists.okfn.org
+Sent:Wed, 21 Nov 2012 10:17:43 +0100
+Subject:Re: [Open-access] Horizon2020 current draft anywhere?
+
+thanks everyone,
+
+On Wed, 21 Nov 2012 01:09:12 +0000, Peter Murray-Rust wrote
+> On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+> 
+> > The committee vote on these "concensus ammendments" (assuming I am on the
+> > right track) is November 28 I believe.
+> >
+> >
+> Do we need to mail our MEPs on this? If so what should we say?
+> 
+> P.
+
+a. maybe
+
+b. this seems to depend on if the MEP we can reach easily are ITRE committee members or just plenary 
+members, correct?
+
+ck
+------- End of Forwarded Message -------
+------- End of Forwarded Message -------
+------- End of Forwarded Message -------
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net
+
+_______________________________________________
+open-access mailing list
+open-access at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-access
+Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+------- End of Forwarded Message -------
+
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net
+
+
+From cn at cameronneylon.net  Wed Nov 21 22:06:44 2012
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Thu, 22 Nov 2012 09:06:44 +1100
+Subject: [Open-access] example tweet Fw: "Pressure on MEPs is
+	necessary." Fw: (draft mail) now write to your MEPs see Fw:
+	ITRE committee members Fw: Re: Horizon2020 current draft anywhere?
+In-Reply-To: <20121121135505.M55171@w4w.net>
+References: <20121121135505.M55171@w4w.net>
+Message-ID: <EDD32E6F-DAB7-42E5-B4CE-1FD1B8ABD4CA@cameronneylon.net>
+
+I haven't had time to really get to the bottom of this but I would strongly suggest *against* arguing for voting against this amendment. The situation is that this is the compromise amendment that has been agreed by those MEPs that are pro-OA (most of them, although not all very well informed) and the small number against.
+
+The critical part of the text is that OA is mandatory for articles and will be defined in the grant agreement. The text is imperfect, mainly due to being unclear rather than any bad intentions I feel, but its probably what we can get, and it means implementation is the place where it can be got right.
+
+So by all means call for clarification or point out weaknesses - but a vote against the compromise is a vote against including the OA section at all.
+
+Cheers
+
+Cameron
+
+On 22 Nov 2012, at 00:56, koltzenburg at w4w.net wrote:
+
+> https://twitter.com/OAgeek/status/271249466261135361
+> 
+> @teirdes too watered down! see first comment here http://bit.ly/W79Jjm  no real open access any more. Ask 
+> your colleagues to vote against it
+> 
+> (I was in touch with this MEP on OA before)
+> 
+> Claudia
+> ---------- Forwarded Message -----------
+> From:koltzenburg at w4w.net
+> To:open-access at lists.okfn.org
+> Sent:Wed, 21 Nov 2012 13:04:45 +0100
+> Subject:[Open-access] "Pressure on MEPs is necessary." Fw: (draft mail) now write to your MEPs see Fw: 
+> ITRE committee members Fw: Re: Horizon2020 current draft anywhere?
+> 
+> Watering down Open Access in EU (latest compromise)
+> Bold print are latest changes proposed in text. Final vote on November 28th in Industry Committee.
+> "Pressure on MEPs is necessary."
+> http://tacd-ip.org/archives/816
+> 
+> my thanks to Iryna Kuchma https://twitter.com/irynakuchma/status/268678769491984385
+> 
+> ---------- Forwarded Message -----------
+> From:koltzenburg at w4w.net
+> To:open-access at lists.okfn.org
+> Sent:Wed, 21 Nov 2012 12:26:36 +0100
+> Subject:(draft mail) now write to your MEPs see Fw: ITRE committee members Fw: Re: [Open-access] 
+> Horizon2020 current draft anywhere?
+> 
+> hi @all
+> 
+> I would like to suggest that it is now the right moment to write a mail to members of the ITRE committee 
+> whom you consider "your MEPs" (for whatever reason, maybe same languages spoken...) and their staff.
+> 
+> I suppose my own version will be something like (in several languages, one at a time)
+> 
+> Subject: 28 Nov ITRE: Only real open access saves real lives
+> (--- adapted from Tom's motto, thanks, Tom)
+> 
+> "Dear ...
+> 
+> in your ITRE committee's session on 28/29 November
+> 
+> please make sure that open access includes all scientific articles.
+> 
+> Reason: Also the local doctors trusted by your friends and family need fast and free access to the newest 
+> research to know which cure is best. Real open access saves real lives.
+> 
+> best regards"
+> 
+> suggestions for amendments welcome as always
+> 
+> Claudia
+> 
+> ---------- Forwarded Message -----------
+> From:koltzenburg at w4w.net
+> To:open-access at lists.okfn.org
+> Sent:Wed, 21 Nov 2012 12:13:19 +0100
+> Subject:ITRE committee members Fw: Re: [Open-access] Horizon2020 current draft anywhere?
+> 
+> ITRE committee members
+> http://www.europarl.europa.eu/committees/en/itre/members.html
+> 
+> ---------- Forwarded Message -----------
+> From:koltzenburg at w4w.net
+> To:Peter Murray-Rust <pm286 at cam.ac.uk>, "cameronneylon.net" <cn at cameronneylon.net>
+> Cc:open-access at lists.okfn.org
+> Sent:Wed, 21 Nov 2012 10:17:43 +0100
+> Subject:Re: [Open-access] Horizon2020 current draft anywhere?
+> 
+> thanks everyone,
+> 
+> On Wed, 21 Nov 2012 01:09:12 +0000, Peter Murray-Rust wrote
+>> On Tue, Nov 20, 2012 at 9:36 PM, cameronneylon.net <cn at cameronneylon.net>wrote:
+>> 
+>>> The committee vote on these "concensus ammendments" (assuming I am on the
+>>> right track) is November 28 I believe.
+>>> 
+>>> 
+>> Do we need to mail our MEPs on this? If so what should we say?
+>> 
+>> P.
+> 
+> a. maybe
+> 
+> b. this seems to depend on if the MEP we can reach easily are ITRE committee members or just plenary 
+> members, correct?
+> 
+> ck
+> ------- End of Forwarded Message -------
+> ------- End of Forwarded Message -------
+> ------- End of Forwarded Message -------
+> 
+> thanks & cheers,
+> Claudia
+> koltzenburg at w4w.net
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> ------- End of Forwarded Message -------
+> 
+> 
+> thanks & cheers,
+> Claudia
+> koltzenburg at w4w.net
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+
+
+
+From mail at ajantriks.net  Thu Nov 22 12:11:27 2012
+From: mail at ajantriks.net (sumandro)
+Date: Thu, 22 Nov 2012 17:41:27 +0530
+Subject: [Open-access] is open access only for rich countries? invitation to
+	a discussion
+Message-ID: <50AE166F.20005@ajantriks.net>
+
+Participate now in an online dialogue on open access and the developing 
+world
+
+You are invited to take part in an online discussion on Open Access (OA) 
+from the perspective of the developing world.
+
+Funded by DFID, through the Mobilising Knowledge for Development (MK4D) 
+programme in the Institute for Development Studies at Sussex University, 
+and managed through the African Commons project in South Africa and the 
+Centre for Internet and Society in India, the discussion will be hosted 
+on UNESCO?s WSIS Open Access Community Forum. This open access dialogue 
+will provide a valuable space to discuss different perspectives on what 
+open access means for the developing world and what it can offer.
+
+There is compelling evidence which indicates that OA has finally entered 
+mainstream discourse. Yet, in the developing world context there remain 
+specific challenges and untapped opportunities for OA. A series of open 
+access discussions aimed at developing world critical thinkers, 
+activists and academics, seeks to explore insights and articulate 
+opinion on OA in the developing world.  Join us for stimulating debate!
+
+Register here: 
+http://institutefordevelopmentstudies.createsend1.com/t/r-l-kuxltt-jluthukldd-j/
+
+Setting the context
+
+Open access has enjoyed a great deal of acceptance and growth over the 
+last decade, with a particularly strong spurt in the adoption of open 
+access policies by major agencies and governments in the last 12 months. 
+With open access policies and initiatives now being taken up by UNESCO, 
+the World Bank, the FAO, the European Commission, and the governments of 
+the United Kingdom and the United States, among others, it is clear that 
+open access has entered the global mainstream. These policies stress the 
+human rights potential of open access in providing access to scientific 
+and cultural knowledge, ensuring its impact and ensuring public access 
+to publicly funded research.
+
+We now know that open access can work in the immediate and short term in 
+providing better access to the research literature, whilst some of the 
+longer term consequences and effects are still emerging. This is 
+especially so in the developing world, which has been badly served by 
+the publishing system we have inherited from the 20th century, which has 
+marginalized research from developing countries. New opportunities and 
+possibilities are created by open access, and, at the same time certain 
+pitfalls need to be noted and avoided.
+
+A foundational report prepared to inform this dialogue shows the risks 
+posed to all scholarly communications, discourse and practices by the 
+publish-or-perish system, and indicates that in the developing world, 
+the detriments are potentially much deeper and more damaging.  As 
+researchers are incentivised to publish in overseas-based journals - 
+mostly unavailable in many developing world contexts - this research 
+?brain-drain? risks widening the gap between research and policy [1].
+
+Read more here
+
+Get discussing!
+
+The first debate will kick off on Tuesday, 27 November 2012.
+
+A general topic will be complemented by two sub discussions.  The 
+discussion will be hosted on the WSIS Knowledge Platform's Open Access 
+group. To take part you will be required to register on the platform.
+
+KEY TOPIC: Production, publication and consumption of scholarly 
+knowledge and OA.
+
+This will focus on the greater concern of scholarly research in the 
+developing country context debating the questions: What does OA imply 
+and offer the developing world in terms of production, publication and 
+consumption of academic materials and research activities? What are the 
+specific challenges and opportunities for access to knowledge in 
+developing countries?
+
+Within this topic the following sub-themes will be introduced:
+
+Sub-theme 1: Considering the issues of 'translation' of research for 
+development impact; co-production and increasing access to academic 
+materials; and the importance of OA in producing and sharing of 
+non-state-supported educational materials; and
+
+Sub-theme 2: OA in academia and the search for global prestige; the 
+perverse impact of metrics and rankings; scholarly knowledge production; 
+and sharing and consumption challenges in developing countries.
+
+We will keep you posted about the second debate which will take place 
+early in January 2013.
+
+In the meantime you are also encouraged to tweet about the discussions 
+using hashtag #developoa or follow the debates on Facebook here 
+<http://institutefordevelopmentstudies.createsend1.com/t/r-l-kuxltt-jluthukldd-y/>.
+
+More: 
+http://institutefordevelopmentstudies.createsend4.com/t/ViewEmail/r/4F291AC6F7BEC83F/CC051A4918137CD50B3A73003FEB3522
+
+-------------
+
+sumandro
+ajantriks.net
+
+
+From lucy.chambers at okfn.org  Thu Nov 22 17:38:00 2012
+From: lucy.chambers at okfn.org (Lucy Chambers)
+Date: Thu, 22 Nov 2012 18:38:00 +0100
+Subject: [Open-access] Fwd: [okfn-za] Online Open Access Debates
+In-Reply-To: <cm.005639.kuxltt.jluthtsut.r@createsend4.com>
+References: <cm.005639.kuxltt.jluthtsut.r@createsend4.com>
+Message-ID: <CAKQKas-3=KaY-mXX+p+HmkSr25ahM8CJH+VBGaeqSPEXoo_M+g@mail.gmail.com>
+
+Thought this might be of interest?
+
+---------- Forwarded message ----------
+From: The African Commons Project <rosanne at africancommons.org>
+Date: Wed, Nov 21, 2012 at 2:56 PM
+Subject: [okfn-za] Online Open Access Debates
+To: "okfn-za at lists.okfn.org" <okfn-za at lists.okfn.org>
+
+
+**
+
+Not interested anymore?
+Unsubscribe<http://institutefordevelopmentstudies.createsend4.com/t/r-u-kuxltt-jluthtsut-g/>.
+Having trouble viewing this email? View it in your
+browser<http://institutefordevelopmentstudies.createsend4.com/t/r-e-kuxltt-jluthtsut-w/>
+
+[image: open logo]
+
+
+ Is Open Access only for rich countries?
+ Participate now in an online dialogue on open access and the developing
+world
+
+You are invited to take part in an online discussion on Open Access (OA)
+from the perspective of the developing world.
+
+Funded by DFID, through the Mobilising Knowledge for Development (MK4D)
+programme in the Institute for Development Studies at Sussex University,
+and managed through the African Commons project in South Africa and the
+Centre for Internet and Society in India, the discussion will be hosted on
+UNESCO?s WSIS Open Access Community Forum. This open access dialogue will
+provide a valuable space to discuss different perspectives on what open
+access means for the developing world and what it can offer.
+
+There is compelling evidence which indicates that OA has finally entered
+mainstream discourse. Yet, in the developing world context there remain
+specific challenges and untapped opportunities for OA. A series of open
+access discussions aimed at developing world critical thinkers, activists
+and academics, seeks to explore insights and articulate opinion on OA in
+the developing world.  Join us for stimulating debate!
+
+Setting the context
+
+Open access has enjoyed a great deal of acceptance and growth over the last
+decade, with a particularly strong spurt in the adoption of open access
+policies by major agencies and governments in the last 12 months. With open
+access policies and initiatives now being taken up by UNESCO, the World
+Bank, the FAO, the European Commission, and the governments of the United
+Kingdom and the United States, among others, it is clear that open access
+has entered the global mainstream. These policies stress the human rights
+potential of open access in providing access to scientific and cultural
+knowledge, ensuring its impact and ensuring public access to publicly
+funded research.
+
+We now know that open access can work in the immediate and short term in
+providing better access to the research literature, whilst some of the
+longer term consequences and effects are still emerging. This is especially
+so in the developing world, which has been badly served by the publishing
+system we have inherited from the 20th century, which has marginalized
+research from developing countries. New opportunities and possibilities are
+created by open access, and, at the same time certain pitfalls need to be
+noted and avoided.
+
+A foundational report prepared to inform this dialogue shows the risks
+posed to all scholarly communications, discourse and practices by the
+publish-or-perish system, and indicates that in the developing world, the
+detriments are potentially much deeper and more damaging.  As researchers
+are incentivised to publish in overseas-based journals - mostly unavailable
+in many developing world contexts - this research ?brain-drain? risks
+widening the gap between research and policy [1].
+
+Read more here<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-r/>
+
+Get discussing!
+
+The first debate will kick off on Tuesday, 27 November 2012.
+
+A general topic will be complemented by two sub discussions.  The
+discussion will be hosted on the WSIS Knowledge Platform's Open Access
+group. To take part you will be required to register on the platform.
+
+KEY TOPIC: Production, publication and consumption of scholarly knowledge
+and OA.
+
+This will focus on the greater concern of scholarly research in the
+developing country context debating the questions: What does OA imply and
+offer the developing world in terms of production, publication and
+consumption of academic materials and research activities? What are the
+specific challenges and opportunities for access to knowledge in developing
+countries?
+
+Within this topic the following sub-themes will be introduced:
+
+Sub-theme 1: Considering the issues of 'translation' of research for
+development impact; co-production and increasing access to academic
+materials; and the importance of OA in producing and sharing of
+non-state-supported educational materials; and
+
+Sub-theme 2: OA in academia and the search for global prestige; the
+perverse impact of metrics and rankings; scholarly knowledge production;
+and sharing and consumption challenges in developing countries.
+
+We will keep you posted about the second debate which will take place early
+in January 2013.
+
+In the meantime you are also encouraged to tweet about the discussions
+using hashtag #developoa or follow the debates on Facebook
+here<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-y/>
+.
+
+    register here
+<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-j/>
+
+
+<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-t/><http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-i/>
+
+[image: facebook]<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-d/>
+
+  [image: wanna tweet]
+  Tweet using #developoa
+
+Partners [image: ids log]
+
+Institute for Development
+studies<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-h/>
+
+<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-k/>
+
+[image: Cis logo]
+The Centre for Internet and
+Society<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-u/>
+
+[image: TACP logo]
+The African Commons
+Project<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-o/>
+
+
+
+ Resources
+<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-b/>
+[image:
+cover]
+
+Open Access and and Development- Journals
+and Beyond<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-n/>
+
+<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-p/>
+[image: eve blog]<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-x/>
+
+Gray Area -A blog which focuses
+on Access to Knowledge and Open
+Access<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-m/>
+
+[image: unesco logo]
+UNESCO Human Rights
+declaration<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-c/>
+
+[image: wsis logo]
+WSIS Knowledge Communities
+Open Access platform<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-q/>
+
+
+ [image: UCT logo]
+
+Openuct initiative - opening
+scholarship<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-a/>
+
+
+ Send to a friend<http://institutefordevelopmentstudies.forwardtomyfriend.com/r-jluthtsut-57D0EEB8-kuxltt-l-yd>
+
+Send this email to someone you think may be interested.
+
+      Funded by
+DFID<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-f/>,
+through the Mobilising Knowledge for Development (MK4D)
+<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-z/>programme
+in
+the Institute for Development
+Studies<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-v/><http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-e/>
+Emailer compiled by The African Commons
+Project<http://institutefordevelopmentstudies.createsend4.com/t/r-l-kuxltt-jluthtsut-s/>
+
+_______________________________________________
+okfn-za mailing list
+okfn-za at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-za
+Unsubscribe: http://lists.okfn.org/mailman/options/okfn-za
+
+
+
+
+-- 
+Lucy Chambers
+Project Coordinator,
+School of Data <http://schoolofdata.org/> &
+OpenSpending<http://openspending.org/>
+Open Knowledge Foundation <http://okfn.org/>
+Skype: lucyfediachambers
+Twitter: @lucyfedia <https://twitter.com/#!/lucyfedia>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121122/ac104ae5/attachment-0001.htm>
+
+From tom.olijhoek at gmail.com  Fri Nov 23 10:23:55 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 23 Nov 2012 11:23:55 +0100
+Subject: [Open-access] Reminder skype meeting at 10.30 UTC (10 min from
+	now)!!
+Message-ID: <CAGyWN8aE8OrH1qK+dXTFfeU+XBzfbVjk4_GPpZojkmzVUz4nHw@mail.gmail.com>
+
+Hi all,
+
+after some confusion about the set time we have decided to have the meeting
+at 10.30 UTC   =  10.30 BST
+
+I will start the call in 10 min
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121123/aa715a5f/attachment.htm>
+
+From koltzenburg at w4w.net  Fri Nov 23 11:32:50 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Fri, 23 Nov 2012 12:32:50 +0100
+Subject: [Open-access] amended draft mail to MEPs Re: @ccess Skype meeting
+	friday 23 nov 1030am BST+1
+In-Reply-To: <CAGyWN8Y9scRN_wWL2T4iYbzQoJAwKi=HT_575RA1rqOkXOadrg@mail.gmail.com>
+References: <CAGyWN8Y9scRN_wWL2T4iYbzQoJAwKi=HT_575RA1rqOkXOadrg@mail.gmail.com>
+Message-ID: <20121123112918.M98418@w4w.net>
+
+Dear all, 
+during our session we made up this draft, feel free to spread it in the networks that you think are useful
+
+in case you do not wish to write your own version, you might wish to use this one (or translate it into a more 
+suitable language, of course)
+
+actually, this is a novel kind citizen science grassroots democracy that is much needed in today's EU, I guess
+cheers, Claudia
+
+Subject: 28 Nov ITRE: Only real open access saves real lives 
+
+"Dear ... 
+
+in your ITRE committee's session on 28 November on Horizon 2020 you will vote on the implementation of 
+open access to all scientific articles and data. I would recommend you vote in favour of this document not in 
+the least because open access will boost Europe's innovation potential (Neelie Kroes).
+
+For me as a European citizen it is very important to have open access because I need access to information 
+especially to medical information. Indeed, everyone should be concerned because local doctors trusted by 
+your friends and family need fast and free access to the newest research to know which cure is best. Real 
+open access saves real lives.
+
+The Impact of Open Access upon Public Health
+http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.0030252
+
+best regards"
+
+On Wed, 21 Nov 2012 12:49:05 +0100, Tom Olijhoek wrote
+> Dear All.
+> 
+> The last @ccess meeting was already a month ago!. I have had chats with
+> several people, but feel the need to have a plenary meeting again.
+> I hope you will find the time to have a short update and discussion on how
+> things concerning OA  are going.
+> As Peter Murray-Rust is in Australia I already announced last time that I
+> would have the time of the meeting adjusted for him to be able to
+> participate.
+> 
+> Please Join Us  on Friday  Nov 23  2012  at 10.30 am BST+1
+> 
+> meeting pad is at
+> 
+> http://open-access.okfnpad.org/34
+> 
+> cheers
+> 
+> TOM
+
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net
+
+
+From cn at cameronneylon.net  Wed Nov 28 00:53:50 2012
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Wed, 28 Nov 2012 11:53:50 +1100
+Subject: [Open-access] Fwd: [SPARC-OAGROUP] Warranties in CC 4.0: effect on
+	OER and OA?
+References: <CAAve8DKZ6ZwjNQ=Gw3mjAx6HTynA01npf0H7NDU5q_aUuL0zTA@mail.gmail.com>
+Message-ID: <4FD7D960-31EE-4578-BBAF-4DD1E326181F@cameronneylon.net>
+
+May be of interest to this group. Question on requirements to assert rights in the CC 4.0 licences
+
+Cheers
+
+Cameron
+
+
+Begin forwarded message:
+
+> From: Cable Green <cable at creativecommons.org>
+> Subject: [SPARC-OAGROUP] Warranties in CC 4.0: effect on OER and OA?
+> Date: 28 November 2012 10:06:18 GMT+11:00
+> To: OER Advocacy Coalition <oer-advocacy-coalition at googlegroups.com>, OER-DISCUSS at JISCMAIL.AC.UK, OER Forum <oer-forum at lists.esn.org.za>, oer-university at googlegroups.com, Educause Openness Constituent Group <OPENNESS at LISTSERV.EDUCAUSE.EDU>, Open Access Working Group <SPARC-OAGROUP at arl.org>, SPARC Policy <sparc-policy at arl.org>
+> 
+> Greetings Open Colleagues:
+> 
+> Creative Commons (CC) is in the final stages of preparing draft 3 of 4.0 for public comment.  I want to call your attention to an open proposal (not yet incorporated in the draft or in any way committed to by CC) that would benefit from your input at this time, as it would have the potential to impact the OER and OA communities if it advances.
+> At issue is whether to require licensors to undertake an affirmative representation and warranty that they have secured all rights the work subject to the CC license. This means that licensors would be required to assert that they have all the necessary rights to publish the content under a CC license. Introducing an affirmative representation and warranty on the part of the licensor would be a change from how CC licenses have operated since version 2.0, which places the responsibility on the side of the user of the CC licensed work, who must do the diligence to ensure that he/she has all the necessary rights to use the licensed work. (Note that there have been several proposals in the making, this is a general statement for purposes of eliciting feedback.) 
+> 
+> Introducing an affirmative representation and warranty on the part of licensors would be a change from how CC licenses have operated to date, with the exception of the version 1.0 licenses which contained such a provision. That provision was removed from the licenses at version 2.0, and has remained absent since. The reasons for that change in policy are collected and explained at the link below.
+> 
+> http://wiki.creativecommons.org/4.0/Disclaimer_of_warranties_and_related_issues
+> 
+> CC is only evaluating this proposal at this stage.  As part of that evaluation, it would be good to understand from the OER and OA communities, what impact, if any, the inclusion of an affirmative undertaking would have for 4.0 uptake by OER and OA providers and users (who often become providers in turn when they remix and share CC licensed resources).
+> 
+> Please review the link above, where many of the pros/cons of this proposal have been set out. 
+> 
+> Note that we have already built into 4.0d2 the ability for licensors to make warranties as part of the CC license if they choose.  Under the proposal above, licensors would not be given the option but would be required to provide those if they wanted to use 4.0.  The same is true of users of those 4.0 SA works were they to remix 4.0 SA licensed learning materials, for example, and then share those materials with others.  This is because any adaptations of an SA work must also be licensed under the same (or later) version. Were this proposal to advance, the only option for licensors wanting to use CC but unable or unwilling to make a representation and warranty for any reason -- whether legal, policy, or simply as a matter of choice -- would be to stay with a pre-4.0 license (other than v1.0). 
+> 
+> Once again, please keep in mind that this proposal is still in the discussion stage. CC will not be changing course from 3.0 absent a compelling proposal, an understanding of the chilling effects and tangible benefits associated with the tradeoff, among other things.
+> 
+> Thanks in advance for your consideration and constructive input.
+> 
+> Please send any comments to: Diane Peters, CC General Counsel: diane at creativecommons.org
+> 
+> My thanks,
+> 
+> Cable
+>  
+> -- 
+> 
+> Cable Green, PhD
+> Director of Global Learning
+> Creative Commons
+> http://creativecommons.org/education
+> http://twitter.com/cgreen
+> 
+> 
+> -- 
+> You received this message because you are subscribed to the Google
+> Groups "SPARC OA Group" group.
+> To post to this group, send email to sparc-oagroup at arl.org
+> To unsubscribe from this group, send email to
+> sparc-oagroup+unsubscribe at arl.org
+> For more options, and to view the archive, visit this group at
+> http://groups.google.com/a/arl.org/group/sparc-oagroup
+>  
+> You may need to log in to view the archive. If this is required, you will need a Google account associated with the email address under which you are subscribed to this group. For more information on creating a Google account seehttp://www.google.com/support/accounts/bin/answer.py?answer=27441. For information on associating an existing Google account with your subscribed email address see http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=86635. For information on logging into an ARL sponsored group see https://sites.google.com/a/arl.org/techguides_arl/login. 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121128/c0f697a7/attachment.htm>
+
+From tom.olijhoek at gmail.com  Thu Nov 29 15:22:13 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Thu, 29 Nov 2012 16:22:13 +0100
+Subject: [Open-access] OA meeting #34, Friday nov 30 10.30 AM UTC,
+ current UK time (no longer summer time)
+Message-ID: <CAGyWN8YQi3veu=kS9kkD2fE8JQ-6GYa=Zdt-unnCnRBKcRaA+g@mail.gmail.com>
+
+Hi all,
+
+Tomorrow at 10.30 Skype meeting @ccess working group
+
+the pad for the meeting is here:
+http://open-access.okfnpad.org/36
+
+
+cheers
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121129/5f190aff/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Nov 30 10:43:24 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 30 Nov 2012 11:43:24 +0100
+Subject: [Open-access] Skype meetings @ccess
+Message-ID: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+
+I have only got one reaction from Bjoern this time that he could not make
+it.
+Today when I started the call I found that nobody is available and I do not
+see why I should keep trying to organise weekly Skype meetings
+
+I think it would be best to start next year with a request to see who wants
+to have these meetings so that I know that people will be there to talk to
+
+cheers
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121130/2c7fe3c8/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Fri Nov 30 14:53:32 2012
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Fri, 30 Nov 2012 14:53:32 +0000
+Subject: [Open-access] Skype meetings @ccess
+In-Reply-To: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+References: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+Message-ID: <CAChagOAAA8aC4A0dwk85xzLOv3URxzxW97jx5kv7RC5jkT9rUA@mail.gmail.com>
+
+Hi Tom,
+
+I am sorry to hear that there was nobody attending the call today, I hope
+you don't feel discouraged about that. Weekly calls in terms of frequency
+is maybe too often, maybe a monthly meeting instead?
+
+I have signed up to the open access mailing list just some weeks ago
+because this is a relevant theme for economics, too. I put the Open Access
+WG in the list of relevant projects on http://openeconomics.net/
+
+I will follow your work and would try to participate next time. Thank you
+for you time organising this!
+
+
+-- 
+Velichka Dimitrova
+Coordinator of the Open Economics Working Group
+Open Knowledge Foundation
+http://okfn.org | http://openeconomics.net
+
+
+On Fri, Nov 30, 2012 at 10:43 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> I have only got one reaction from Bjoern this time that he could not make
+> it.
+> Today when I started the call I found that nobody is available and I do
+> not see why I should keep trying to organise weekly Skype meetings
+>
+> I think it would be best to start next year with a request to see who
+> wants to have these meetings so that I know that people will be there to
+> talk to
+>
+> cheers
+>
+> TOM
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121130/10400144/attachment.htm>
+
+From jenny.molloy at okfn.org  Fri Nov 30 15:55:35 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 30 Nov 2012 15:55:35 +0000
+Subject: [Open-access] Skype meetings @ccess
+In-Reply-To: <CAChagOAAA8aC4A0dwk85xzLOv3URxzxW97jx5kv7RC5jkT9rUA@mail.gmail.com>
+References: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+	<CAChagOAAA8aC4A0dwk85xzLOv3URxzxW97jx5kv7RC5jkT9rUA@mail.gmail.com>
+Message-ID: <CABPM+wo2eW3KZRo5oHYNspi7bOWpSshKu5Lo3tFPAXmXugy1LQ@mail.gmail.com>
+
+Hi Tom
+
+Apologies for not attending @ccess meetings for quite a while, I find it
+difficult to Skype during working hours. As Velichka said, I hope you don't
+feel too discouraged, your work in organising the calls is very much
+appreciated and attendance has been very low or non-existent at
+open-science calls in the past as well.
+
+With the science wg meetings I always ask people to sign up on the Etherpad
+if they are planning to attend rather than asking for apologies (although
+sometimes these are given spontaneously anyway), it might be worth trying
+that to give you an indication in advance of whether people will show up so
+you can decide whether or not to go ahead with the call or reschedule.
+
+Jenny
+
+PS I saw a note on the Etherpad here
+http://open-access.okfnpad.org/36about finding for an open science
+conference. The Open Science Summit is
+coming to the UK in Oct/Nov 2013 and we should make full use of this to
+assist with the main programme and organise satellite events - more info
+coming soon when the team recovers from the 2012 one and starts planning
+the next!
+
+On Fri, Nov 30, 2012 at 2:53 PM, Velichka Dimitrova <
+velichka.dimitrova at okfn.org> wrote:
+
+> Hi Tom,
+>
+> I am sorry to hear that there was nobody attending the call today, I hope
+> you don't feel discouraged about that. Weekly calls in terms of frequency
+> is maybe too often, maybe a monthly meeting instead?
+>
+> I have signed up to the open access mailing list just some weeks ago
+> because this is a relevant theme for economics, too. I put the Open Access
+> WG in the list of relevant projects on http://openeconomics.net/
+>
+> I will follow your work and would try to participate next time. Thank you
+> for you time organising this!
+>
+>
+> --
+> Velichka Dimitrova
+> Coordinator of the Open Economics Working Group
+> Open Knowledge Foundation
+> http://okfn.org | http://openeconomics.net
+>
+>
+> On Fri, Nov 30, 2012 at 10:43 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+>
+>> I have only got one reaction from Bjoern this time that he could not make
+>> it.
+>> Today when I started the call I found that nobody is available and I do
+>> not see why I should keep trying to organise weekly Skype meetings
+>>
+>> I think it would be best to start next year with a request to see who
+>> wants to have these meetings so that I know that people will be there to
+>> talk to
+>>
+>> cheers
+>>
+>> TOM
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>
+>>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121130/0ef5ce78/attachment.htm>
+
+From ross.mounce at gmail.com  Fri Nov 30 16:06:09 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 30 Nov 2012 16:06:09 +0000
+Subject: [Open-access] Skype meetings @ccess
+In-Reply-To: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+References: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+Message-ID: <CAJr+OEwd3WMFO__xQhygBx7wnr3V+s5OyQ+MC9NiF2wwGcV6gQ@mail.gmail.com>
+
+Well there wasn't quite nobody...
+
+Both myself and Mike Taylor were on Skype along with Tom. But we didn't
+feel we had enough critical mass or matters to discuss to start the call
+today.
+
+I'm sure once we have @ccess issues to discuss we'll get back in the swing
+of Skype meetings :)
+
+
+All the best,
+
+
+Ross
+
+
+
+
+
+
+
+
+
+
+On 30 November 2012 10:43, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+
+> I have only got one reaction from Bjoern this time that he could not make
+> it.
+> Today when I started the call I found that nobody is available and I do
+> not see why I should keep trying to organise weekly Skype meetings
+>
+> I think it would be best to start next year with a request to see who
+> wants to have these meetings so that I know that people will be there to
+> talk to
+>
+> cheers
+>
+> TOM
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121130/487c9eeb/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Nov 30 16:27:46 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 30 Nov 2012 17:27:46 +0100
+Subject: [Open-access] Skype meetings @ccess
+In-Reply-To: <CAJr+OEwd3WMFO__xQhygBx7wnr3V+s5OyQ+MC9NiF2wwGcV6gQ@mail.gmail.com>
+References: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+	<CAJr+OEwd3WMFO__xQhygBx7wnr3V+s5OyQ+MC9NiF2wwGcV6gQ@mail.gmail.com>
+Message-ID: <CAGyWN8bNd70G2VYZUNbpXsim-gOv3NBZwCf8X-5QnVte8ayA-Q@mail.gmail.com>
+
+Hi,
+
+
+
+Today when  I checked the online status in Skype  I only saw that Mike was
+online but he has not participated for a long time. Then later in the chat
+I saw that Ross was also available apparently so yes it was not that nobody
+was there........
+
+nobody has to apologize, we just need to organize things differently..
+I think that you are right  and that it would be best to try an @ccess
+meeting once a month, and keep the possibility open for specific meetings
+when something urgent pops up.
+
+For me it would have been important this time to find out if there was any
+news form the vote in the EU on 28 nov.
+And it was important to see if anything had been done with the open access
+index manuscript if Claudia would have been available. Because in the last
+meeting I had stressed the point that the paper had to be made ready for
+publication and Claudia volonteered to take a look. The only thing I heard
+back is that it was 75% ready and that after the weekend I would here more.
+Which did not happen.
+I guess in order to have the manuscript submitted real quickly I have to
+take matters in my own hands again
+
+cheers
+
+TOM
+
+On Fri, Nov 30, 2012 at 5:06 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> Well there wasn't quite nobody...
+>
+> Both myself and Mike Taylor were on Skype along with Tom. But we didn't
+> feel we had enough critical mass or matters to discuss to start the call
+> today.
+>
+> I'm sure once we have @ccess issues to discuss we'll get back in the swing
+> of Skype meetings :)
+>
+>
+> All the best,
+>
+>
+> Ross
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> On 30 November 2012 10:43, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+>
+>> I have only got one reaction from Bjoern this time that he could not make
+>> it.
+>> Today when I started the call I found that nobody is available and I do
+>> not see why I should keep trying to organise weekly Skype meetings
+>>
+>> I think it would be best to start next year with a request to see who
+>> wants to have these meetings so that I know that people will be there to
+>> talk to
+>>
+>> cheers
+>>
+>> TOM
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>
+>>
+>
+>
+> --
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121130/4489c8c6/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Fri Nov 30 21:48:21 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 30 Nov 2012 21:48:21 +0000
+Subject: [Open-access] Skype meetings @ccess
+In-Reply-To: <CAGyWN8bNd70G2VYZUNbpXsim-gOv3NBZwCf8X-5QnVte8ayA-Q@mail.gmail.com>
+References: <CAGyWN8ZKt7cu-E6Yz0TniDD0iyiYG8EOzcPOticjn9-tVir7qA@mail.gmail.com>
+	<CAJr+OEwd3WMFO__xQhygBx7wnr3V+s5OyQ+MC9NiF2wwGcV6gQ@mail.gmail.com>
+	<CAGyWN8bNd70G2VYZUNbpXsim-gOv3NBZwCf8X-5QnVte8ayA-Q@mail.gmail.com>
+Message-ID: <CAD2k14PPBeRFccv9iN1Z5kB0Z2Zy9vmiJDJgZWG12LLiiKgOzw@mail.gmail.com>
+
+I am afraid that we had an electric storm in Australia that knocked out
+Telcos in local regions including ours.
+
+P.
+
+
+On Fri, Nov 30, 2012 at 4:27 PM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> Hi,
+>
+>
+>
+> Today when  I checked the online status in Skype  I only saw that Mike was
+> online but he has not participated for a long time. Then later in the chat
+> I saw that Ross was also available apparently so yes it was not that nobody
+> was there........
+>
+> nobody has to apologize, we just need to organize things differently..
+> I think that you are right  and that it would be best to try an @ccess
+> meeting once a month, and keep the possibility open for specific meetings
+> when something urgent pops up.
+>
+> For me it would have been important this time to find out if there was any
+> news form the vote in the EU on 28 nov.
+> And it was important to see if anything had been done with the open access
+> index manuscript if Claudia would have been available. Because in the last
+> meeting I had stressed the point that the paper had to be made ready for
+> publication and Claudia volonteered to take a look. The only thing I heard
+> back is that it was 75% ready and that after the weekend I would here more.
+> Which did not happen.
+> I guess in order to have the manuscript submitted real quickly I have to
+> take matters in my own hands again
+>
+> cheers
+>
+> TOM
+>
+>
+> On Fri, Nov 30, 2012 at 5:06 PM, Ross Mounce <ross.mounce at gmail.com>wrote:
+>
+>> Well there wasn't quite nobody...
+>>
+>> Both myself and Mike Taylor were on Skype along with Tom. But we didn't
+>> feel we had enough critical mass or matters to discuss to start the call
+>> today.
+>>
+>> I'm sure once we have @ccess issues to discuss we'll get back in the
+>> swing of Skype meetings :)
+>>
+>>
+>> All the best,
+>>
+>>
+>> Ross
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> On 30 November 2012 10:43, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+>>
+>>> I have only got one reaction from Bjoern this time that he could not
+>>> make it.
+>>> Today when I started the call I found that nobody is available and I do
+>>> not see why I should keep trying to organise weekly Skype meetings
+>>>
+>>> I think it would be best to start next year with a request to see who
+>>> wants to have these meetings so that I know that people will be there to
+>>> talk to
+>>>
+>>> cheers
+>>>
+>>> TOM
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>>
+>>>
+>>
+>>
+>> --
+>> --
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> Ross Mounce
+>> PhD Student & Open Knowledge Foundation Panton Fellow
+>> Fossils, Phylogeny and Macroevolution Research Group
+>> University of Bath, 4 South Building, Lab 1.07
+>> http://about.me/rossmounce
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121130/cb616893/attachment.htm>
+

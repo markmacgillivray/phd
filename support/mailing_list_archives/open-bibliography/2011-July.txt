@@ -1,0 +1,2566 @@
+From adrian.pohl at okfn.org  Fri Jul  1 15:20:24 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 1 Jul 2011 16:20:24 +0200
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+Message-ID: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+
+Hello,
+
+the open bibliographic data workshop at OKCon has started 20 minutes
+ago. You may join us on the etherpad at
+http://okfnpad.org/okcon-biblio-workshop
+
+Cheers
+Adrian
+
+
+From pitman at stat.Berkeley.EDU  Mon Jul  4 00:12:36 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Sun, 03 Jul 2011 16:12:36 -0700
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+Message-ID: <20110703231236.42C598041@bibserver.Berkeley.EDU>
+
+Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> the open bibliographic data workshop at OKCon has started 20 minutes
+> ago. You may join us on the etherpad at
+> http://okfnpad.org/okcon-biblio-workshop
+
+Hi Adrian, just saw this.
+
+This note
+
+citations?? --> In Germany they are considered public domain. Publishers agree with that, see letter of "B??sernverein des Deutschen Buchhandels": http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+
+Very interesting. Any chance you could do a translation of this and post to the openbiblio blog?
+all the best
+--Jim
+
+
+From theodora.middleton at okfn.org  Mon Jul  4 15:39:17 2011
+From: theodora.middleton at okfn.org (Theodora Middleton)
+Date: Mon, 4 Jul 2011 15:39:17 +0100
+Subject: [open-bibliography] Anyone got any news?
+Message-ID: <CALySTAQKYVqyxS_gE4hrfO5DVJj_gqRPBQ9ayNexWEAeXKh3Yw@mail.gmail.com>
+
+Dear all,
+
+It's that time again - we're compiling the OKF quarterly newsletter :-)
+
+We love including mentions of cool projects and stories from across
+the open knowledge community - we want to help publicise all your
+great work and successes over the past 3 months! If there's something
+you want to share, pop me a couple of lines.
+
+I look forward to hearing what you've all been up to!
+
+All the best,
+
+Theodora Middleton
+
+-- 
+Blog Editor
+The Open Knowledge Foundation
+http://blog.okfn.org/
+
+
+From adrian.pohl at okfn.org  Mon Jul  4 15:44:21 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 4 Jul 2011 16:44:21 +0200
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <20110703231236.42C598041@bibserver.Berkeley.EDU>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+Message-ID: <CAOtd05Ep41+p60ko+wPocrhtACr+UwEs_LXn2E0PN+whi-u6Yw@mail.gmail.com>
+
+Hello Jim,
+
+I'll try to write a short post on the topic in the next days.
+
+Adrian
+
+2011/7/4 Jim Pitman <pitman at stat.berkeley.edu>:
+> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>
+>> the open bibliographic data workshop at OKCon has started 20 minutes
+>> ago. You may join us on the etherpad at
+>> http://okfnpad.org/okcon-biblio-workshop
+>
+> Hi Adrian, just saw this.
+>
+> This note
+>
+> citations?? --> In Germany they are considered public domain. Publishers agree with that, see letter of "B??sernverein des Deutschen Buchhandels": http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+>
+> Very interesting. Any chance you could do a translation of this and post to the openbiblio blog?
+> all the best
+> --Jim
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From mark at odaesa.com  Mon Jul  4 16:06:22 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Mon, 4 Jul 2011 16:06:22 +0100
+Subject: [open-bibliography] Anyone got any news?
+In-Reply-To: <CALySTAQKYVqyxS_gE4hrfO5DVJj_gqRPBQ9ayNexWEAeXKh3Yw@mail.gmail.com>
+References: <CALySTAQKYVqyxS_gE4hrfO5DVJj_gqRPBQ9ayNexWEAeXKh3Yw@mail.gmail.com>
+Message-ID: <CAJ9UX44q-jdMYDeqz+m32i-A927yH61rCkk2fwgkckO3q3aGVQ@mail.gmail.com>
+
+Hi Theodora,
+
+The JISC open bibliography project is wrapping up, we have written a
+final report with some interesting links, and also a paper describing
+the future of open bibliography for STM.
+
+http://openbiblio.net/2011/06/30/final-product-post-open-bibliography/
+http://bibserver.okfn.org/roadmap/open-bibliography-for-stm/
+
+I think these would be interesting for the quarterly newsletter -
+perhaps we could write a post on blog.okfn.org too?
+
+Mark
+
+
+
+On Mon, Jul 4, 2011 at 3:39 PM, Theodora Middleton
+<theodora.middleton at okfn.org> wrote:
+> Dear all,
+>
+> It's that time again - we're compiling the OKF quarterly newsletter :-)
+>
+> We love including mentions of cool projects and stories from across
+> the open knowledge community - we want to help publicise all your
+> great work and successes over the past 3 months! If there's something
+> you want to share, pop me a couple of lines.
+>
+> I look forward to hearing what you've all been up to!
+>
+> All the best,
+>
+> Theodora Middleton
+>
+> --
+> Blog Editor
+> The Open Knowledge Foundation
+> http://blog.okfn.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From shaklev at gmail.com  Mon Jul  4 16:49:58 2011
+From: shaklev at gmail.com (=?UTF-8?Q?Stian_H=C3=A5klev?=)
+Date: Mon, 4 Jul 2011 23:49:58 +0800
+Subject: [open-bibliography] Anyone got any news?
+In-Reply-To: <CALySTAQKYVqyxS_gE4hrfO5DVJj_gqRPBQ9ayNexWEAeXKh3Yw@mail.gmail.com>
+References: <CALySTAQKYVqyxS_gE4hrfO5DVJj_gqRPBQ9ayNexWEAeXKh3Yw@mail.gmail.com>
+Message-ID: <CAEKz3thJWyWfA3XtfO27eSNBdc-48yMCeXUiKHBSV=DbZ=rOvg@mail.gmail.com>
+
+Hi Theodora,
+
+I created a framework for managing citation metadata, PDFs, and notes in a
+wiki, which also enables me to share my entire note taking etc with the
+whole world, including citation metadata etc. I documented it all here,
+including a screencast that shows how I use it:
+http://reganmian.net/wiki/researchr:start. Not sure if that would be
+interesting to your newsletter?
+
+Stian Haklev, University of Toronto
+
+On Mon, Jul 4, 2011 at 22:39, Theodora Middleton <
+theodora.middleton at okfn.org> wrote:
+
+> Dear all,
+>
+> It's that time again - we're compiling the OKF quarterly newsletter :-)
+>
+> We love including mentions of cool projects and stories from across
+> the open knowledge community - we want to help publicise all your
+> great work and successes over the past 3 months! If there's something
+> you want to share, pop me a couple of lines.
+>
+> I look forward to hearing what you've all been up to!
+>
+> All the best,
+>
+> Theodora Middleton
+>
+> --
+> Blog Editor
+> The Open Knowledge Foundation
+> http://blog.okfn.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+http://reganmian.net/blog -- Random Stuff that Matters
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110704/77a838b9/attachment.htm>
+
+From adrian.pohl at okfn.org  Tue Jul  5 12:10:24 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 5 Jul 2011 13:10:24 +0200
+Subject: [open-bibliography] Virtual meeting today, 2011-07-05, 15:00 GMT
+Message-ID: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+
+Hello,
+
+today will be the 13th meeting of the OKFN Working Group on Open
+Bibliographic Data. See the etherpad for more information about time,
+communication channels and agenda:
+http://okfnpad.org/13th-open-bibliography-meeting
+
+All the best
+Adrian
+
+
+From pm286 at cam.ac.uk  Tue Jul  5 12:12:52 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 5 Jul 2011 12:12:52 +0100
+Subject: [open-bibliography] Virtual meeting today, 2011-07-05, 15:00 GMT
+In-Reply-To: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+References: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+Message-ID: <CAD2k14N4A4qRMowwzo8MSFqZo5sK6+hfriGZNdx3A_7OAm9H3w@mail.gmail.com>
+
+On Tue, Jul 5, 2011 at 12:10 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> today will be the 13th meeting of the OKFN Working Group on Open
+> Bibliographic Data. See the etherpad for more information about time,
+> communication channels and agenda:
+> http://okfnpad.org/13th-open-bibliography-meeting
+>
+
+I will be there.
+
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110705/87334f31/attachment.htm>
+
+From david.shotton at zoo.ox.ac.uk  Tue Jul  5 12:31:35 2011
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Tue, 05 Jul 2011 12:31:35 +0100
+Subject: [open-bibliography] Virtual meeting today, 2011-07-05, 15:00 GMT
+In-Reply-To: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+References: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+Message-ID: <4E12F617.6040405@zoo.ox.ac.uk>
+
+Dear Adrian,
+
+I would like to join in.  Is it really "15:00 GMT" or 15:00 British 
+Summer Time?
+
+David
+
+On 05/07/2011 12:10, Adrian Pohl wrote:
+> Hello,
+>
+> today will be the 13th meeting of the OKFN Working Group on Open
+> Bibliographic Data. See the etherpad for more information about time,
+> communication channels and agenda:
+> http://okfnpad.org/13th-open-bibliography-meeting
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+-- 
+
+Dr David Shotton david.shotton at zoo.ox.ac.uk 
+<mailto:mailto:david.shotton at zoo.ox.ac.uk>
+Reader in Image Bioinformatics
+
+Image Bioinformatics Research Group http://ibrg.zoo.ox.ac.uk
+Department of Zoology, University of Oxford                    tel: 
++44-(0)1865-271193
+South Parks Road, Oxford OX1 3PS, UK                         fax: 
++44-(0)1865-310447
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110705/265af2b3/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Jul  5 12:45:45 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 5 Jul 2011 12:45:45 +0100
+Subject: [open-bibliography] Virtual meeting today, 2011-07-05, 15:00 GMT
+In-Reply-To: <4E12F617.6040405@zoo.ox.ac.uk>
+References: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+	<4E12F617.6040405@zoo.ox.ac.uk>
+Message-ID: <CAD2k14M-SHSiMENxXzwkae3e-U0Nk5aGUADYMup4kvjnH_0RfQ@mail.gmail.com>
+
+On Tue, Jul 5, 2011 at 12:31 PM, David Shotton
+<david.shotton at zoo.ox.ac.uk>wrote:
+
+> **
+> Dear Adrian,
+>
+> I would like to join in.  Is it really "15:00 GMT" or 15:00 British Summer
+> Time?
+>
+
+It is 1600 BST
+
+David - give me a ring/skype and I'll update where I am at...
+
+P.
+
+
+>
+> David
+>
+>
+> On 05/07/2011 12:10, Adrian Pohl wrote:
+>
+> Hello,
+>
+> today will be the 13th meeting of the OKFN Working Group on Open
+> Bibliographic Data. See the etherpad for more information about time,
+> communication channels and agenda:http://okfnpad.org/13th-open-bibliography-meeting
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing listopen-bibliography at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>  --
+>
+> Dr David Shotton
+> david.shotton at zoo.ox.ac.uk <mailto:david.shotton at zoo.ox.ac.uk>
+>  Reader in Image Bioinformatics
+>
+> Image Bioinformatics Research Group
+> http://ibrg.zoo.ox.ac.uk
+> Department of Zoology, University of Oxford                    tel:
+> +44-(0)1865-271193
+> South Parks Road, Oxford OX1 3PS, UK                         fax:
+> +44-(0)1865-310447
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110705/3d1b2ef5/attachment.htm>
+
+From pitman at stat.Berkeley.EDU  Tue Jul  5 13:58:49 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 05 Jul 2011 05:58:49 -0700
+Subject: [open-bibliography] Virtual meeting today, 2011-07-05, 15:00 GMT
+In-Reply-To: <4E12F617.6040405@zoo.ox.ac.uk>
+References: <CAOtd05EU58e+KNe3uH-zTChZT_qqR3Ld_w_Nfm5eA0Zzh1FF8A@mail.gmail.com>
+	<4E12F617.6040405@zoo.ox.ac.uk>
+Message-ID: <20110705125849.EF43A8041@bibserver.Berkeley.EDU>
+
+David Shotton <david.shotton at zoo.ox.ac.uk> wrote:
+
+> I would like to join in.  
+
+Great. 
+
+>Is it really "15:00 GMT" or 15:00 British Summer Time?
+
+Its 15:00 GMT = 1600 British  Summer time.
+
+Date: July, 5th 2011, 15:00 GMT / 16:00 UK Time / 17:00 CET / 11:00 EST / 08:00 PDT 
+see http://www.timeanddate.com/worldclock/fixedtime.html?msg=13th+virtual+meeting+of+the+OKFN+Working+Group+for+Open+Bibliographic+Data&iso=20110705T17&p1=79&ah=1
+--Jim
+
+
+
+From kcoyle at kcoyle.net  Thu Jul  7 01:04:29 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 06 Jul 2011 17:04:29 -0700
+Subject: [open-bibliography] JATS - journal article tag suite
+Message-ID: <20110706170429.13873ocoxyhsjmdp@kcoyle.net>
+
+Since many of you are heavily involved in journal article metadata,  
+you might be interested in this.
+
+http://www.niso.org/workrooms/journalmarkup
+
+It appears to be a newer version of what was the NLM journal tagging,  
+which I'm not familiar with. I have taken a very brief look at the  
+citation format and it's extremely complex... complex of the type that  
+I wonder if anyone will use it, if you know what I mean. Anyway, it's  
+being worked on.
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From krichel at openlib.org  Thu Jul  7 09:37:32 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Thu, 7 Jul 2011 10:37:32 +0200
+Subject: [open-bibliography] JATS - journal article tag suite
+In-Reply-To: <20110706170429.13873ocoxyhsjmdp@kcoyle.net>
+References: <20110706170429.13873ocoxyhsjmdp@kcoyle.net>
+Message-ID: <20110707083732.GA17732@openlib.org>
+
+  Karen Coyle writes
+
+> Since many of you are heavily involved in journal article metadata,
+> you might be interested in this.
+
+  Yes, thank you for drawing this to our attention.
+
+> 
+> http://www.niso.org/workrooms/journalmarkup
+> 
+> It appears to be a newer version of what was the NLM journal
+> tagging, which I'm not familiar with.
+
+  I am to some extend, since the Open Library Society is a 
+  PubMed "vendor".
+
+> I have taken a very brief look
+> at the citation format and it's extremely complex... complex of the
+> type that I wonder if anyone will use it, if you know what I mean.
+
+  I know what you mean. 
+  
+  But PubMed use it. Bar CrossRef, they are the biggest fish in the
+  journal article metadata pond. The quality of their data has no
+  rival. CrossRef data is pretty crappy, when you get it, that is.
+  I understand many publishers have adopted it if they are
+  working with PubMed.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From eckert at bib.uni-mannheim.de  Thu Jul  7 10:33:37 2011
+From: eckert at bib.uni-mannheim.de (Kai Eckert)
+Date: Thu, 07 Jul 2011 11:33:37 +0200
+Subject: [open-bibliography] Open Position: Computer Scientist at Mannheim
+	University Library
+Message-ID: <4E157D71.4040308@bib.uni-mannheim.de>
+
+Hi all,
+
+we have a great open position at the Mannheim University Library, 
+actually, it is "my" position, as I internally move to another one. I am 
+strongly interested in finding someone already involved in Linked Open 
+(Library) Data to push our projects forward together with me. The 
+position is probably most interesting for Germans, however, an 
+application at least of EU citizens should also be possible (I am not 
+that firm in these laws). Proficiency in German is required.
+
+Here is the link to the job description (in German):
+
+http://www.bib.uni-mannheim.de/30.html
+
+Cheers,
+
+Kai
+
+PS: Sorry for cross-posting!
+
+-- 
+Kai Eckert
+Universit?tsbibliothek Mannheim
+Fachreferat Mathematik, Informatik, Wirtschaftsinformatik
+Schloss Ostfluegel
+68131 Mannheim
+Tel. 0621/181-2946  Fax 0621/181-2918
+
+
+From kat.braybrooke at okfn.org  Mon Jul 11 13:25:08 2011
+From: kat.braybrooke at okfn.org (Kaitlyn (Kat) Braybrooke)
+Date: Mon, 11 Jul 2011 13:25:08 +0100
+Subject: [open-bibliography] New OKFN Facebook Group and OKCon Photos
+Message-ID: <CAOa2nXNHFzsUyj1P0cHhjuPre3wJeM4_uLKdruQ3PNDv7m-pHw@mail.gmail.com>
+
+Hi all,
+
+Just a heads-up that we've created a new OKFN Facebook group page
+(http://<http://goog_2079717438/>
+facebook.com/OKFNetwork) for those in the network to find each other and
+share OKFN images and related events. Would be great if you could join it so
+others on Facebook can see what we're all up to (just click on the 'Like'
+button).
+
+We've also put many of our photos from #OKCon2011 up there, so if you see
+your face in them, feel free to tag it and get some much-deserved virtual
+credit for being around! You can also share your own photos from OKFN events
+by uploading them to the group wall.
+
+See you there!
+
+Kat
+
+| Kat Braybrooke*
+*| Community Coordinator
+| Open Knowledge Foundation, London UK
+| Engage: http://okfn.org | Tweet: @OKFN <http://twitter.com/OKFN>,
+@kat_braybrooke <http://twitter.com/kat_braybrooke>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110711/15ee4909/attachment.htm>
+
+From adrian.pohl at okfn.org  Wed Jul 13 14:13:37 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 13 Jul 2011 15:13:37 +0200
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <20110703231236.42C598041@bibserver.Berkeley.EDU>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+Message-ID: <CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+
+Hello,
+
+I now published a translation of the German Publishers and Booksellers
+Association's letter at
+http://openbiblio.net/2011/07/13/are-bibliographies-copyrightable-the-german-case/
+
+All the best
+Adrian
+
+2011/7/4 Jim Pitman <pitman at stat.berkeley.edu>:
+> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>
+>> the open bibliographic data workshop at OKCon has started 20 minutes
+>> ago. You may join us on the etherpad at
+>> http://okfnpad.org/okcon-biblio-workshop
+>
+> Hi Adrian, just saw this.
+>
+> This note
+>
+> citations?? --> In Germany they are considered public domain. Publishers agree with that, see letter of "B??sernverein des Deutschen Buchhandels": http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+>
+> Very interesting. Any chance you could do a translation of this and post to the openbiblio blog?
+> all the best
+> --Jim
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From kcoyle at kcoyle.net  Wed Jul 13 15:04:05 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 13 Jul 2011 07:04:05 -0700
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+	<CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+Message-ID: <20110713070405.208969w9dbgsd4ut@kcoyle.net>
+
+Thanks, Adrian. I note that their wording is "no legal objections to  
+indexing..." I'm not sure that translates to "not covered by  
+copyright." I am especially unsure what they mean by "indexing for  
+catalogue enrichment purposes." it may be clearer in the German  
+original, but "indexing" isn't the same as "copying" and I think the  
+issue at hand is whether one can freely make copies of this data.
+
+Does anyone else have a different interpretation?
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello,
+>
+> I now published a translation of the German Publishers and Booksellers
+> Association's letter at
+> http://openbiblio.net/2011/07/13/are-bibliographies-copyrightable-the-german-case/
+>
+> All the best
+> Adrian
+>
+> 2011/7/4 Jim Pitman <pitman at stat.berkeley.edu>:
+>> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>
+>>> the open bibliographic data workshop at OKCon has started 20 minutes
+>>> ago. You may join us on the etherpad at
+>>> http://okfnpad.org/okcon-biblio-workshop
+>>
+>> Hi Adrian, just saw this.
+>>
+>> This note
+>>
+>> citations?? --> In Germany they are considered public domain.  
+>> Publishers agree with that, see letter of "B??sernverein des  
+>> Deutschen Buchhandels":  
+>> http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+>>
+>> Very interesting. Any chance you could do a translation of this and  
+>> post to the openbiblio blog?
+>> all the best
+>> --Jim
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From adrian.pohl at okfn.org  Wed Jul 13 19:09:32 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 13 Jul 2011 20:09:32 +0200
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <20110713070405.208969w9dbgsd4ut@kcoyle.net>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+	<CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+	<20110713070405.208969w9dbgsd4ut@kcoyle.net>
+Message-ID: <CAOtd05HGkguQtR9hdsh45D183mJHnVtM038ajScZWEE+jSiMPw@mail.gmail.com>
+
+Hello Karen,
+
+you are right that the wording could be more explicit but I think it
+is in fact explicit enough if one regards the context of the
+discussion and the wording of the German original.
+
+2011/7/13 Karen Coyle <kcoyle at kcoyle.net>:
+> Thanks, Adrian. I note that their wording is "no legal objections to
+> indexing..." I'm not sure that translates to "not covered by copyright." I
+> am especially unsure what they mean by "indexing for catalogue enrichment
+> purposes." it may be clearer in the German original, but "indexing" isn't
+> the same as "copying" and I think the issue at hand is whether one can
+> freely make copies of this data.
+
+In German the wording isn't that clear as well, as it says
+"Erschlie?ung". In practice - and this was clear to both parties in
+this discussion -"indexing"/"Erschlie?ung" means scanning the ToCs and
+adding at least a pdf of the scan to the catalogue but for some also
+indexing the OCRed in a search engine.
+
+Also, the German wording makes it pretty clear that covertext and
+blurb are copyrightable _in contrast to_ the prior mentioned parts of
+books (which, thus, aren't copyrightable).
+
+Interestingly, in a related note which underpins these statements, the
+German National Library of Medicine since 2000 has been scanning
+tables of contents of more than 600 German medical journals and 200
+articles of journals in the fields nutrition, agriculture and the
+environment. They OCR these ToCs, extract structured article data from
+it and index it in their portals MEDPILOT and GREENPILOT. Until now
+nobody objected and the resulting data (of 660 000 articles) will soon
+be published under a Public Domain licence. (This might be interesting
+for some on this list as only 10% of this data is contained in PubMed.
+It would make a nice combination with the Medline dataset. I'll write
+a blog post about it as soon the data is open.)
+
+All the best
+Adrian
+
+>
+> Does anyone else have a different interpretation?
+>
+> kc
+>
+> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+>
+>> Hello,
+>>
+>> I now published a translation of the German Publishers and Booksellers
+>> Association's letter at
+>>
+>> http://openbiblio.net/2011/07/13/are-bibliographies-copyrightable-the-german-case/
+>>
+>> All the best
+>> Adrian
+>>
+>> 2011/7/4 Jim Pitman <pitman at stat.berkeley.edu>:
+>>>
+>>> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>>
+>>>> the open bibliographic data workshop at OKCon has started 20 minutes
+>>>> ago. You may join us on the etherpad at
+>>>> http://okfnpad.org/okcon-biblio-workshop
+>>>
+>>> Hi Adrian, just saw this.
+>>>
+>>> This note
+>>>
+>>> citations?? --> In Germany they are considered public domain. Publishers
+>>> agree with that, see letter of "B??sernverein des Deutschen Buchhandels":
+>>> http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+>>>
+>>> Very interesting. Any chance you could do a translation of this and post
+>>> to the openbiblio blog?
+>>> all the best
+>>> --Jim
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From pm286 at cam.ac.uk  Wed Jul 13 19:58:02 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 13 Jul 2011 19:58:02 +0100
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <CAOtd05HGkguQtR9hdsh45D183mJHnVtM038ajScZWEE+jSiMPw@mail.gmail.com>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+	<CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+	<20110713070405.208969w9dbgsd4ut@kcoyle.net>
+	<CAOtd05HGkguQtR9hdsh45D183mJHnVtM038ajScZWEE+jSiMPw@mail.gmail.com>
+Message-ID: <CAD2k14POBooVXArP5LMh+p7iaBAqW=8r7caBe0Aser9DfuC53g@mail.gmail.com>
+
+On Wed, Jul 13, 2011 at 7:09 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello Karen,
+>
+> you are right that the wording could be more explicit but I think it
+> is in fact explicit enough if one regards the context of the
+> discussion and the wording of the German original.
+>
+>
+
+> Interestingly, in a related note which underpins these statements, the
+> German National Library of Medicine since 2000 has been scanning
+> tables of contents of more than 600 German medical journals and 200
+> articles of journals in the fields nutrition, agriculture and the
+> environment. They OCR these ToCs, extract structured article data from
+> it and index it in their portals MEDPILOT and GREENPILOT. Until now
+> nobody objected and the resulting data (of 660 000 articles) will soon
+> be published under a Public Domain licence. (This might be interesting
+> for some on this list as only 10% of this data is contained in PubMed.
+> It would make a nice combination with the Medline dataset. I'll write
+> a blog post about it as soon the data is open.)
+>
+> This would be really vauable. I assume that "data" means the per-article
+Open Bibliographic Data. I'll wait till it appears - it will have a
+catalytic effect as it will be a central resource of high quality.
+
+What language does it use where? i.e. does it translate titles?
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110713/f704f8c0/attachment.htm>
+
+From kcoyle at kcoyle.net  Wed Jul 13 20:34:01 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 13 Jul 2011 12:34:01 -0700
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <CAOtd05HGkguQtR9hdsh45D183mJHnVtM038ajScZWEE+jSiMPw@mail.gmail.com>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+	<CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+	<20110713070405.208969w9dbgsd4ut@kcoyle.net>
+	<CAOtd05HGkguQtR9hdsh45D183mJHnVtM038ajScZWEE+jSiMPw@mail.gmail.com>
+Message-ID: <20110713123401.15995h4n2btsvvvt@kcoyle.net>
+
+Thanks, Adrian, for the clarifications. Having this information about  
+the context does help in interpreting the intent behind the wording.  
+In particular, the fact that scanning of TOCs has been going on openly  
+for a while proves the point. This is great news.
+
+Add to that the announcement from the UK about the JISC bibliographic  
+principles (different from ours, but we should find a way to do a  
+mutual link since they have the same intent), and it sure looks to me  
+like Open Bibliographic Data has reached a good momentum.
+
+kc
+
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello Karen,
+>
+> you are right that the wording could be more explicit but I think it
+> is in fact explicit enough if one regards the context of the
+> discussion and the wording of the German original.
+>
+> 2011/7/13 Karen Coyle <kcoyle at kcoyle.net>:
+>> Thanks, Adrian. I note that their wording is "no legal objections to
+>> indexing..." I'm not sure that translates to "not covered by copyright." I
+>> am especially unsure what they mean by "indexing for catalogue enrichment
+>> purposes." it may be clearer in the German original, but "indexing" isn't
+>> the same as "copying" and I think the issue at hand is whether one can
+>> freely make copies of this data.
+>
+> In German the wording isn't that clear as well, as it says
+> "Erschlie?ung". In practice - and this was clear to both parties in
+> this discussion -"indexing"/"Erschlie?ung" means scanning the ToCs and
+> adding at least a pdf of the scan to the catalogue but for some also
+> indexing the OCRed in a search engine.
+>
+> Also, the German wording makes it pretty clear that covertext and
+> blurb are copyrightable _in contrast to_ the prior mentioned parts of
+> books (which, thus, aren't copyrightable).
+>
+> Interestingly, in a related note which underpins these statements, the
+> German National Library of Medicine since 2000 has been scanning
+> tables of contents of more than 600 German medical journals and 200
+> articles of journals in the fields nutrition, agriculture and the
+> environment. They OCR these ToCs, extract structured article data from
+> it and index it in their portals MEDPILOT and GREENPILOT. Until now
+> nobody objected and the resulting data (of 660 000 articles) will soon
+> be published under a Public Domain licence. (This might be interesting
+> for some on this list as only 10% of this data is contained in PubMed.
+> It would make a nice combination with the Medline dataset. I'll write
+> a blog post about it as soon the data is open.)
+>
+> All the best
+> Adrian
+>
+>>
+>> Does anyone else have a different interpretation?
+>>
+>> kc
+>>
+>> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+>>
+>>> Hello,
+>>>
+>>> I now published a translation of the German Publishers and Booksellers
+>>> Association's letter at
+>>>
+>>> http://openbiblio.net/2011/07/13/are-bibliographies-copyrightable-the-german-case/
+>>>
+>>> All the best
+>>> Adrian
+>>>
+>>> 2011/7/4 Jim Pitman <pitman at stat.berkeley.edu>:
+>>>>
+>>>> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>>>
+>>>>> the open bibliographic data workshop at OKCon has started 20 minutes
+>>>>> ago. You may join us on the etherpad at
+>>>>> http://okfnpad.org/okcon-biblio-workshop
+>>>>
+>>>> Hi Adrian, just saw this.
+>>>>
+>>>> This note
+>>>>
+>>>> citations?? --> In Germany they are considered public domain. Publishers
+>>>> agree with that, see letter of "B??sernverein des Deutschen Buchhandels":
+>>>> http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+>>>>
+>>>> Very interesting. Any chance you could do a translation of this and post
+>>>> to the openbiblio blog?
+>>>> all the best
+>>>> --Jim
+>>>>
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>>
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> ph: 1-510-540-7596
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pm286 at cam.ac.uk  Wed Jul 13 20:38:16 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 13 Jul 2011 20:38:16 +0100
+Subject: [open-bibliography] Openbiblio workshop at OKCon
+In-Reply-To: <20110713123401.15995h4n2btsvvvt@kcoyle.net>
+References: <BANLkTi=o7jcOo4DqLvU1p=drHWEUzTVHXw@mail.gmail.com>
+	<20110703231236.42C598041@bibserver.Berkeley.EDU>
+	<CAOtd05F8LB5ZWFoNCExGqq4-pPBEq-nnTXKaQvrU+HdCzt5K_Q@mail.gmail.com>
+	<20110713070405.208969w9dbgsd4ut@kcoyle.net>
+	<CAOtd05HGkguQtR9hdsh45D183mJHnVtM038ajScZWEE+jSiMPw@mail.gmail.com>
+	<20110713123401.15995h4n2btsvvvt@kcoyle.net>
+Message-ID: <CAD2k14N6KcpLawEg38dobgYWGs6QNLhbWoHo8CS9tn1j6pzZPw@mail.gmail.com>
+
+On Wed, Jul 13, 2011 at 8:34 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+>
+>
+> Add to that the announcement from the UK about the JISC bibliographic
+> principles (different from ours, but we should find a way to do a mutual
+> link since they have the same intent), and it sure looks to me like Open
+> Bibliographic Data has reached a good momentum.
+
+
+I have picked at least two other straws in the wind - and I believe that
+fairly soon we shall have abundant Open Bibliographic Data.
+
+P.
+
+
+>
+> kc
+>
+>
+> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+>
+>  Hello Karen,
+>>
+>> you are right that the wording could be more explicit but I think it
+>> is in fact explicit enough if one regards the context of the
+>> discussion and the wording of the German original.
+>>
+>> 2011/7/13 Karen Coyle <kcoyle at kcoyle.net>:
+>>
+>>> Thanks, Adrian. I note that their wording is "no legal objections to
+>>> indexing..." I'm not sure that translates to "not covered by copyright."
+>>> I
+>>> am especially unsure what they mean by "indexing for catalogue enrichment
+>>> purposes." it may be clearer in the German original, but "indexing" isn't
+>>> the same as "copying" and I think the issue at hand is whether one can
+>>> freely make copies of this data.
+>>>
+>>
+>> In German the wording isn't that clear as well, as it says
+>> "Erschlie?ung". In practice - and this was clear to both parties in
+>> this discussion -"indexing"/"Erschlie?ung" means scanning the ToCs and
+>> adding at least a pdf of the scan to the catalogue but for some also
+>> indexing the OCRed in a search engine.
+>>
+>> Also, the German wording makes it pretty clear that covertext and
+>> blurb are copyrightable _in contrast to_ the prior mentioned parts of
+>> books (which, thus, aren't copyrightable).
+>>
+>> Interestingly, in a related note which underpins these statements, the
+>> German National Library of Medicine since 2000 has been scanning
+>> tables of contents of more than 600 German medical journals and 200
+>> articles of journals in the fields nutrition, agriculture and the
+>> environment. They OCR these ToCs, extract structured article data from
+>> it and index it in their portals MEDPILOT and GREENPILOT. Until now
+>> nobody objected and the resulting data (of 660 000 articles) will soon
+>> be published under a Public Domain licence. (This might be interesting
+>> for some on this list as only 10% of this data is contained in PubMed.
+>> It would make a nice combination with the Medline dataset. I'll write
+>> a blog post about it as soon the data is open.)
+>>
+>> All the best
+>> Adrian
+>>
+>>
+>>> Does anyone else have a different interpretation?
+>>>
+>>> kc
+>>>
+>>> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+>>>
+>>>  Hello,
+>>>>
+>>>> I now published a translation of the German Publishers and Booksellers
+>>>> Association's letter at
+>>>>
+>>>> http://openbiblio.net/2011/07/**13/are-bibliographies-**
+>>>> copyrightable-the-german-case/<http://openbiblio.net/2011/07/13/are-bibliographies-copyrightable-the-german-case/>
+>>>>
+>>>> All the best
+>>>> Adrian
+>>>>
+>>>> 2011/7/4 Jim Pitman <pitman at stat.berkeley.edu>:
+>>>>
+>>>>>
+>>>>> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>>>>
+>>>>>  the open bibliographic data workshop at OKCon has started 20 minutes
+>>>>>> ago. You may join us on the etherpad at
+>>>>>> http://okfnpad.org/okcon-**biblio-workshop<http://okfnpad.org/okcon-biblio-workshop>
+>>>>>>
+>>>>>
+>>>>> Hi Adrian, just saw this.
+>>>>>
+>>>>> This note
+>>>>>
+>>>>> citations?? --> In Germany they are considered public domain.
+>>>>> Publishers
+>>>>> agree with that, see letter of "B??sernverein des Deutschen
+>>>>> Buchhandels":
+>>>>> http://www.bibliotheksverband.**de/fileadmin/user_upload/DBV/**
+>>>>> vereinbarungen/Boersenverein_**110707_Kataloganreicherung.pdf<http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf>
+>>>>>
+>>>>> Very interesting. Any chance you could do a translation of this and
+>>>>> post
+>>>>> to the openbiblio blog?
+>>>>> all the best
+>>>>> --Jim
+>>>>>
+>>>>> ______________________________**_________________
+>>>>> open-bibliography mailing list
+>>>>> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+>>>>> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>>>>
+>>>>>
+>>>> ______________________________**_________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+>>>> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Karen Coyle
+>>> kcoyle at kcoyle.net http://kcoyle.net
+>>> ph: 1-510-540-7596
+>>> m: 1-510-435-8234
+>>> skype: kcoylenet
+>>>
+>>>
+>>> ______________________________**_________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+>>> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>>
+>>>
+>> ______________________________**_________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+>> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>
+>>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> ______________________________**_________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110713/2d040e95/attachment-0001.htm>
+
+From Corine.Deliot at bl.uk  Thu Jul 14 10:31:12 2011
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Thu, 14 Jul 2011 10:31:12 +0100
+Subject: [open-bibliography] Linked Open BNB preview now available
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE730@w2k3-bspex2.ad.bl.uk>
+
+Dear all, 
+
+ 
+
+As some of you are aware, the British Library is developing a Linked
+Open Data version of the BNB. We've uploaded a subset of the BNB and
+this is now available for preview. Information on how to access and
+further details about the scope of the dataset, the data model, etc. are
+available at: http://www.bl.uk/bibliographic/datafree.html
+
+ 
+
+Please bear in mind that this is very much work in progress; we've
+already identified some issues, which we are working on resolving in
+time for the release of the bigger dataset. We've listed these issues,
+together with other caveats at the page above. 
+
+ 
+
+Feedback - preferably constructive ;-) - is welcome. I'm now out of the
+office but back in on Wednesday 20th July. I'll be happy to take up the
+discussion then.
+
+ 
+
+Cheers
+
+ 
+
+Corine
+
+ 
+
+***********************************
+
+Corine Deliot
+
+Metadata Standards Analyst
+
+The British Library
+
+Boston Spa, Wetherby 
+
+West Yorkshire
+
+LS23 7BQ
+
+***********************************
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110714/078a2e29/attachment.htm>
+
+From ww at styx.org  Thu Jul 14 16:29:27 2011
+From: ww at styx.org (William Waites)
+Date: Thu, 14 Jul 2011 17:29:27 +0200
+Subject: [open-bibliography] Linked Open BNB preview now available
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE730@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE730@w2k3-bspex2.ad.bl.uk>
+Message-ID: <20110714152927.GG20048@styx.org>
+
+Hello Corine, hope you are enjoying your well deserved vacation!  This
+is brilliant work, very much better than the previous RDF version,
+URIs everywhere, beautiful!
+
+A couple of tiny suggestions, first would be on the documents for the
+authors, to have pointers back to their books, this will help with
+follow-your-nose navigation. The second, very minor, would be to stuff
+the timestamp from the MARC 005 somewhere so the age of the record can
+be judged, and similarly for the creation of the RDF.
+
+I would tend to model this last as something like,
+
+<http://bnb.data.bl.uk/doc/resource/014938424> opmv:wasGeneratedBy [
+    a opmv:Process;
+    opmv:used [ ## maybe give this its own URI, but don't block on that
+        a bibliographic:MarcRecord;
+        dct:modified "YYYY-MM-DDTHH:MM:SSZ" ## from 005
+    ];
+    opmv:wasPerformedAt [ 
+        a time:Instant;
+        time:inXSDDateTime "YYYY-MM-DDTHH:MM:SSZ"
+    ].
+
+This also gives you a place to put any other information that may be
+useful or interesting about the process for generating the RDF, such
+as software used, person responsible for doing it, etc.. (notice it 
+is on the /doc/ not the /id/). There are other ways to represent this
+kind of information, the above is just my preference.
+
+Icing on the cake would be to make a void:Dataset description for the
+whole thing, containing information such as is on the information page
+and then (possibly) link to that from the records and people tying it
+all together into a neat package.
+
+But on the whole very well done!
+
+Cheers,
+-w
+
+* [2011-07-14 10:31:12 +0100] Deliot, Corine <Corine.Deliot at bl.uk> ?crit:
+
+> Dear all, 
+> 
+>  
+> 
+> As some of you are aware, the British Library is developing a Linked
+> Open Data version of the BNB. We've uploaded a subset of the BNB and
+> this is now available for preview. Information on how to access and
+> further details about the scope of the dataset, the data model, etc. are
+> available at: http://www.bl.uk/bibliographic/datafree.html
+> 
+>  
+> 
+> Please bear in mind that this is very much work in progress; we've
+> already identified some issues, which we are working on resolving in
+> time for the release of the bigger dataset. We've listed these issues,
+> together with other caveats at the page above. 
+> 
+>  
+> 
+> Feedback - preferably constructive ;-) - is welcome. I'm now out of the
+> office but back in on Wednesday 20th July. I'll be happy to take up the
+> discussion then.
+> 
+>  
+> 
+> Cheers
+> 
+>  
+> 
+> Corine
+> 
+>  
+> 
+> ***********************************
+> 
+> Corine Deliot
+> 
+> Metadata Standards Analyst
+> 
+> The British Library
+> 
+> Boston Spa, Wetherby 
+> 
+> West Yorkshire
+> 
+> LS23 7BQ
+> 
+> ***********************************
+> 
+
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From announce at dublincore.net  Fri Jul 15 14:26:52 2011
+From: announce at dublincore.net (DCMI Announce)
+Date: Fri, 15 Jul 2011 06:26:52 -0700
+Subject: [open-bibliography] DC-2011 Conference: Metadata Harmonization -
+	Registration open
+Message-ID: <CAP884ExLvmmC-xHpD5frFx_89wVuwQ0Df5EtttPr0_usJ5VyKg@mail.gmail.com>
+
+Apologies for cross-posting
+
+*** CONFERENCE INVITATION***
+
+=================================================
+METADATA HARMONIZATION: BRIDGING LANGUAGES OF DESCRIPTION
+DC-2011 -- 21-23 September, The Hague, Netherlands
+=================================================
+http://purl.org/dcevents/dc-2011
+-------------------------------------------------
+VENUE: Koninklijke Bibliotheek (National Library of the Netherlands)
+EARLY REGISTRATION:  Early registration rates are available through 21
+August.
+FEES:
+   Conference (Early): ?300 (?150 students)
+   Pre-Conference Tutorials (Early): ?150 (?75 students)
+   Pre-Conference Vocabulary Session (Early): ?150 (?75 students)
+
+ONLINE REGISTRATION OPEN:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/registration-2011
+
+The DC-2011 International Conference on Dublin Core and Metadata
+Applications keynote speakers are Mikael Nilsson, Google and Emmanuelle
+Berm?s, Centre Pompidou.  The remainder of the conference program on 22-23
+September consists of peer reviewed papers, project reports and posters.
+
+Pre-conference activities on 21 September include either: (1) a full day of
+tutorials with Stephanie Taylor (UKOLN), Antoine Issac (Web an Media Group,
+Vrije Universiteit Amsterdam), Paul Hermans (Erfgoedplus.be
+('heritage-plus')), and Emma Tonkin (UKOLN); or (2) a full day special
+session on Vocabulary Management and Alignment.  DCMI Community working
+sessions are held throughout the conference.
+
+The preliminary program, abstracts, DCMI Workshops and speaker biographies
+are available at the conference website: http://purl.org/dcevents/dc-2011.
+
+Keep up with the conference at the following:
+ --Twitter:  http://twitter.com/#!/DCMI11
+ --LinkedIn:
+http://events.linkedin.com/DC-2011-International-Conference-Dublin/pub/605770
+ --Lanyrd: http://lanyrd.com/2011/dc2011/
+
+DC-2011 is collocated at the Koninklijke Bibliotheek with the UDC Seminar,
+2011 (http://seminar.udcc.org/2011/), occurring on 19-20 September.
+
+-------------------------------------------------------------------------------------------
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110715/996b6633/attachment.htm>
+
+From zaozols at gmail.com  Wed Jul 20 22:32:01 2011
+From: zaozols at gmail.com (Zile Ozols)
+Date: Wed, 20 Jul 2011 17:32:01 -0400
+Subject: [open-bibliography] Hello!
+Message-ID: <CANwz=mV3d-u59fAoj4Bi_oLupQ2Fd5m93U4uHp34LCTqrLYMhA@mail.gmail.com>
+
+Hi,
+
+I'm a recent MLIS graduate.  My friend told me about the Open Knowledge
+Foundation and, I guess because of my degree, this working group was
+recommended to me.  Through further readings, I really like the sound of
+this group and would like to know how I can get more involved.
+
+Thanks,
+
+Zile
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110720/4bb6c5f5/attachment.htm>
+
+From Corine.Deliot at bl.uk  Thu Jul 21 10:40:34 2011
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Thu, 21 Jul 2011 10:40:34 +0100
+Subject: [open-bibliography] Linked Open BNB preview now available
+In-Reply-To: <20110714152927.GG20048@styx.org>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE730@w2k3-bspex2.ad.bl.uk>
+	<20110714152927.GG20048@styx.org>
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EE751@w2k3-bspex2.ad.bl.uk>
+
+Hi William,
+
+Many thanks for your kind words and suggestions. Some comments:
+
+1. On having pointers back from docs for the authors to their books
+We've been discussing materialising more inverse relationships; this is on our list of things to do. It may not happen immediately, but we do intend to update the BNB dataset, both in terms of its currency but also in terms of adding features to the RDF.
+
+2. Adding metadata on the doc URIs about metadata 
+e.g who created, published the RDF, when, license information, etc. Again this is on our list of things to do.
+
+Could you please expand on the usefulness of including the timestamp from the 005? 
+
+First because by doing so, you're bringing back the MARC bibliographic record into the data model. We had long discussions about that and in the end, decided not to model the MARC bib record. The only point in doing that would have been to be able to attach metadata about that MARC record, and we understood that this was of limited interest to the Linked Data community. Your suggestion seems to suggest otherwise. 
+
+Secondly, the date contained in the 005 is the date of last transaction of the record. It could just be correcting some admin data, which we don't include in the RDF output in any case. You just don't know which bit of the record has been updated. So I don't think the 005 can tell you much reliably about the "age of the record".
+
+3. the VoID description is in draft form, we just didn't publish it with the preview subset.
+
+Cheers
+
+Corine
+
+-----Original Message-----
+From: public-lld-request at w3.org [mailto:public-lld-request at w3.org] On Behalf Of William Waites
+Sent: 14 July 2011 16:29
+To: List for Working Group on Open Bibliographic Data
+Cc: public-lld at w3.org
+Subject: Re: [open-bibliography] Linked Open BNB preview now available
+
+Hello Corine, hope you are enjoying your well deserved vacation!  This
+is brilliant work, very much better than the previous RDF version,
+URIs everywhere, beautiful!
+
+A couple of tiny suggestions, first would be on the documents for the
+authors, to have pointers back to their books, this will help with
+follow-your-nose navigation. 
+
+The second, very minor, would be to stuff
+the timestamp from the MARC 005 somewhere so the age of the record can
+be judged, and similarly for the creation of the RDF.
+
+I would tend to model this last as something like,
+
+<http://bnb.data.bl.uk/doc/resource/014938424> opmv:wasGeneratedBy [
+    a opmv:Process;
+    opmv:used [ ## maybe give this its own URI, but don't block on that
+        a bibliographic:MarcRecord;
+        dct:modified "YYYY-MM-DDTHH:MM:SSZ" ## from 005
+    ];
+    opmv:wasPerformedAt [ 
+        a time:Instant;
+        time:inXSDDateTime "YYYY-MM-DDTHH:MM:SSZ"
+    ].
+
+This also gives you a place to put any other information that may be
+useful or interesting about the process for generating the RDF, such
+as software used, person responsible for doing it, etc.. (notice it 
+is on the /doc/ not the /id/). There are other ways to represent this
+kind of information, the above is just my preference.
+
+Icing on the cake would be to make a void:Dataset description for the
+whole thing, containing information such as is on the information page
+and then (possibly) link to that from the records and people tying it
+all together into a neat package.
+
+But on the whole very well done!
+
+Cheers,
+-w
+
+* [2011-07-14 10:31:12 +0100] Deliot, Corine <Corine.Deliot at bl.uk> ?crit:
+
+> Dear all, 
+> 
+>  
+> 
+> As some of you are aware, the British Library is developing a Linked
+> Open Data version of the BNB. We've uploaded a subset of the BNB and
+> this is now available for preview. Information on how to access and
+> further details about the scope of the dataset, the data model, etc. are
+> available at: http://www.bl.uk/bibliographic/datafree.html
+> 
+>  
+> 
+> Please bear in mind that this is very much work in progress; we've
+> already identified some issues, which we are working on resolving in
+> time for the release of the bigger dataset. We've listed these issues,
+> together with other caveats at the page above. 
+> 
+>  
+> 
+> Feedback - preferably constructive ;-) - is welcome. I'm now out of the
+> office but back in on Wednesday 20th July. I'll be happy to take up the
+> discussion then.
+> 
+>  
+> 
+> Cheers
+> 
+>  
+> 
+> Corine
+> 
+>  
+> 
+> ***********************************
+> 
+> Corine Deliot
+> 
+> Metadata Standards Analyst
+> 
+> The British Library
+> 
+> Boston Spa, Wetherby 
+> 
+> West Yorkshire
+> 
+> LS23 7BQ
+> 
+> ***********************************
+> 
+
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+
+From pm286 at cam.ac.uk  Thu Jul 21 19:43:02 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 21 Jul 2011 19:43:02 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+Message-ID: <CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+
+[Copied to Open Bibliography - take care not to proliferate replies - but we
+need immediate input]
+
+Here's my idea for ScienceOnLine
+
+"Open Science Bibliography - where can I find Open Access papers on ... ?"
+
+Open access and Open Data are severely limited because no-one knows where to
+find the objects. The proposal is to create a bibliography of Open resources
+based primarily on academic publications. This can be completely mechanised
+for the major publishers and is completely legal.
+
+Pubcrawler software (or similar) crawls all the journal TOCS. It then
+downloads the page for each article and examines it to see if it contains
+(a) an Open Access marker (these are publisher-specific) or (b) one or more
+data sets [*]. If either of these conditions hold a bibliographic entry is
+created. In this way we end up with an automated bibliography of either Open
+papers or papers with Open resources.
+
+Note that we are not downloading the text or the data sets, simply recording
+their existence and providing the link to them.
+
+We have done this for several years for crystallographic data (which seems
+to be impicitly agreed to be "data-and-therefore-not-copyrightable") and
+have downloaded the data sets. In the present proposal we are not even doing
+this.
+
+It may be more appropriate simply to do the Open Access first
+
+The attraction of this is that the results can go straight into CKAN
+(metadata about open access) and Open Bibliography. Obviously full open
+access publishers (BMC, PLoS) are straightforward. Hybrid journals (e.g.
+Springer, Wiley, Elsevier, ACS) are the most immediate gain. This will
+locate and publicize the Open Access papers, even when hidden in traditional
+closed journals.
+
+Even if we don't do this for SOL I'd like to think this was worth
+considering
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110721/ae39f9ff/attachment.htm>
+
+From jenny.shaw at fideltaconsulting.co.uk  Thu Jul 21 20:06:27 2011
+From: jenny.shaw at fideltaconsulting.co.uk (Jenny Shaw)
+Date: Thu, 21 Jul 2011 20:06:27 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+	hours,
+	can we come up with an idea for a breakout session at Science Online
+	London
+In-Reply-To: <CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+Message-ID: <00a701cc47d9$4c887b70$e5997250$@shaw@fideltaconsulting.co.uk>
+
+As a (sometime) researcher outside of a HE institution this would be
+*incredibly* useful... consider extending to the social sciences - this
+could be of immense gain to research/policy people within public and
+voluntary sectors and would help to inform more effective practice in a wide
+range of areas.  I have some potential players I could bring in for this.
+
+Jenny
+
+ 
+
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Peter
+Murray-Rust
+Sent: 21 July 2011 19:43
+To: Jenny Molloy
+Cc: Graham Steel; List for Working Group on Open Bibliographic Data;
+open-science at lists.okfn.org
+Subject: Re: [open-bibliography] [open-science] Proposal - in less than 24
+hours, can we come up with an idea for a breakout session at Science Online
+London
+
+ 
+
+[Copied to Open Bibliography - take care not to proliferate replies - but we
+need immediate input]
+
+Here's my idea for ScienceOnLine
+
+"Open Science Bibliography - where can I find Open Access papers on ... ?"
+
+Open access and Open Data are severely limited because no-one knows where to
+find the objects. The proposal is to create a bibliography of Open resources
+based primarily on academic publications. This can be completely mechanised
+for the major publishers and is completely legal. 
+
+Pubcrawler software (or similar) crawls all the journal TOCS. It then
+downloads the page for each article and examines it to see if it contains
+(a) an Open Access marker (these are publisher-specific) or (b) one or more
+data sets [*]. If either of these conditions hold a bibliographic entry is
+created. In this way we end up with an automated bibliography of either Open
+papers or papers with Open resources. 
+
+Note that we are not downloading the text or the data sets, simply recording
+their existence and providing the link to them.
+
+We have done this for several years for crystallographic data (which seems
+to be impicitly agreed to be "data-and-therefore-not-copyrightable") and
+have downloaded the data sets. In the present proposal we are not even doing
+this.
+
+It may be more appropriate simply to do the Open Access first
+
+The attraction of this is that the results can go straight into CKAN
+(metadata about open access) and Open Bibliography. Obviously full open
+access publishers (BMC, PLoS) are straightforward. Hybrid journals (e.g.
+Springer, Wiley, Elsevier, ACS) are the most immediate gain. This will
+locate and publicize the Open Access papers, even when hidden in traditional
+closed journals.
+
+Even if we don't do this for SOL I'd like to think this was worth
+considering
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110721/47237b8d/attachment.htm>
+
+From Nick.Barnes at pobox.com  Thu Jul 21 20:25:58 2011
+From: Nick.Barnes at pobox.com (Nick Barnes)
+Date: Thu, 21 Jul 2011 20:25:58 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+	hours,
+	can we come up with an idea for a breakout session at Science Online
+	London
+In-Reply-To: <CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	from Peter Murray-Rust <pm286@cam.ac.uk> 
+	of "Thu, 21 Jul 2011 19:43:02 +0100"
+Message-ID: <29623.1311276358@thrush.ravenbrook.com>
+
+At 2011-07-21 18:43:02+0000, Peter Murray-Rust writes:
+
+> [Copied to Open Bibliography - take care not to proliferate replies - but we
+> need immediate input]
+> 
+> Here's my idea for ScienceOnLine
+> 
+> "Open Science Bibliography - where can I find Open Access papers on ... ?"
+> 
+> Open access and Open Data are severely limited because no-one knows where to
+> find the objects. The proposal is to create a bibliography of Open resources
+> based primarily on academic publications. This can be completely mechanised
+> for the major publishers and is completely legal.
+
+I think this is an excellent idea.  I will be at Science Online and
+glad to help (although I might be too jetlagged).
+
+Nick B
+
+
+
+From pm286 at cam.ac.uk  Thu Jul 21 21:23:03 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 21 Jul 2011 21:23:03 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <4e2878e9.8541d80a.393f.6e1cSMTPIN_ADDED@mx.google.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	<4e2878e9.8541d80a.393f.6e1cSMTPIN_ADDED@mx.google.com>
+Message-ID: <CAD2k14Nb4dK8ov7H9j4MekL9r=xREs1UD9VduO_+d_XPkras_A@mail.gmail.com>
+
+On Thu, Jul 21, 2011 at 8:06 PM, Jenny Shaw <
+jenny.shaw at fideltaconsulting.co.uk> wrote:
+
+> As a (sometime) researcher outside of a HE institution this would be **
+> incredibly** useful... consider extending to the social sciences ? this
+> could be of immense gain to research/policy people within public and
+> voluntary sectors and would help to inform more effective practice in a wide
+> range of areas.  I have some potential players I could bring in for this.*
+> ***
+>
+> Jenny
+>
+
+That's great. I am continuing to copy open-science as that is where JennyM
+will pick this up.
+
+If you have potential volunteers that would be great - we could do this on a
+per journal (or per publisher) basis where the volunteers created the
+templates to read each journal and pick out this material. That's also a
+great way of getting experts involved.
+
+JennyM - is this OK to go with ? Can wecraft something from what has been
+written?
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110721/e9e96718/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jul 21 21:25:09 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 21 Jul 2011 21:25:09 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <29623.1311276358@thrush.ravenbrook.com>
+References: <CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	<pm286@cam.ac.uk> <29623.1311276358@thrush.ravenbrook.com>
+Message-ID: <CAD2k14M5mG4FqbtJLOjzQjuAj87dT5kN1yhKzzkSOLFXca-YXQ@mail.gmail.com>
+
+On Thu, Jul 21, 2011 at 8:25 PM, Nick Barnes <Nick.Barnes at pobox.com> wrote:
+
+> At 2011-07-21 18:43:02+0000, Peter Murray-Rust writes:
+>
+> > [Copied to Open Bibliography - take care not to proliferate replies - but
+> we
+> > need immediate input]
+> >
+> > Here's my idea for ScienceOnLine
+> >
+> > "Open Science Bibliography - where can I find Open Access papers on ...
+> ?"
+> >
+> > Open access and Open Data are severely limited because no-one knows where
+> to
+> > find the objects. The proposal is to create a bibliography of Open
+> resources
+> > based primarily on academic publications. This can be completely
+> mechanised
+> > for the major publishers and is completely legal.
+>
+> I think this is an excellent idea.  I will be at Science Online and
+> glad to help (although I might be too jetlagged).
+>
+> Nick B
+>
+> I shall be there as well.  So we'll be able to discuss the tactics and
+technology. I think the Open Bibliography people will also be there so we
+will have technical knowledge and probably a demo of Open Biblio anyway.
+
+I am getting good vibes
+
+
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110721/78759f62/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Fri Jul 22 08:27:19 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 22 Jul 2011 08:27:19 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <CABPM+wphTxqWFyUbFXm2AG+=o+3XDGjJnuU-2DzF7883LeGOMQ@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	<4e2878e9.8541d80a.393f.6e1cSMTPIN_ADDED@mx.google.com>
+	<CAD2k14Nb4dK8ov7H9j4MekL9r=xREs1UD9VduO_+d_XPkras_A@mail.gmail.com>
+	<CABPM+wphTxqWFyUbFXm2AG+=o+3XDGjJnuU-2DzF7883LeGOMQ@mail.gmail.com>
+Message-ID: <CAD2k14PR_4u+Qw4_Sai0E2XeciFyzwJOJRrmWQEz2No8b7uoBA@mail.gmail.com>
+
+On Fri, Jul 22, 2011 at 6:35 AM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Hi All
+>
+> Suggestion now added to solo2011 wiki
+> http://scienceonlinelondon.wikidot.com/
+> I've emailed one of the organisers to let them know.
+
+
+Who? I can mail Kaitlin if not her
+
+
+> There are still a couple of TBD breakout session slots so we'll see what
+> happens!
+>
+
+Well done! I think the enthusiasm we have had shows there is mileage.
+
+>
+> Open Research Reports session proposed by David Shotton and Tanya Gray is
+> definitely happening in breakout session no. 3.
+>
+> We shoulod make it clear in the blurb that OKF is strongly involved in this
+and flag the December meeting
+
+> Jenny
+>
+> On Thu, Jul 21, 2011 at 9:23 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>>
+>>
+>> On Thu, Jul 21, 2011 at 8:06 PM, Jenny Shaw <
+>> jenny.shaw at fideltaconsulting.co.uk> wrote:
+>>
+>>> As a (sometime) researcher outside of a HE institution this would be **
+>>> incredibly** useful... consider extending to the social sciences ? this
+>>> could be of immense gain to research/policy people within public and
+>>> voluntary sectors and would help to inform more effective practice in a wide
+>>> range of areas.  I have some potential players I could bring in for this.
+>>> ****
+>>>
+>>> Jenny
+>>>
+>>
+>> That's great. I am continuing to copy open-science as that is where JennyM
+>> will pick this up.
+>>
+>> If you have potential volunteers that would be great - we could do this on
+>> a per journal (or per publisher) basis where the volunteers created the
+>> templates to read each journal and pick out this material. That's also a
+>> great way of getting experts involved.
+>>
+>> JennyM - is this OK to go with ? Can wecraft something from what has been
+>> written?
+>>
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>>
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110722/41f0836d/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Fri Jul 22 06:35:09 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 22 Jul 2011 06:35:09 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <CAD2k14Nb4dK8ov7H9j4MekL9r=xREs1UD9VduO_+d_XPkras_A@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	<4e2878e9.8541d80a.393f.6e1cSMTPIN_ADDED@mx.google.com>
+	<CAD2k14Nb4dK8ov7H9j4MekL9r=xREs1UD9VduO_+d_XPkras_A@mail.gmail.com>
+Message-ID: <CABPM+wphTxqWFyUbFXm2AG+=o+3XDGjJnuU-2DzF7883LeGOMQ@mail.gmail.com>
+
+Hi All
+
+Suggestion now added to solo2011 wiki
+http://scienceonlinelondon.wikidot.com/
+I've emailed one of the organisers to let them know. There are still a
+couple of TBD breakout session slots so we'll see what happens!
+
+Open Research Reports session proposed by David Shotton and Tanya Gray is
+definitely happening in breakout session no. 3.
+
+Jenny
+
+On Thu, Jul 21, 2011 at 9:23 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Thu, Jul 21, 2011 at 8:06 PM, Jenny Shaw <
+> jenny.shaw at fideltaconsulting.co.uk> wrote:
+>
+>> As a (sometime) researcher outside of a HE institution this would be **
+>> incredibly** useful... consider extending to the social sciences ? this
+>> could be of immense gain to research/policy people within public and
+>> voluntary sectors and would help to inform more effective practice in a wide
+>> range of areas.  I have some potential players I could bring in for this.
+>> ****
+>>
+>> Jenny
+>>
+>
+> That's great. I am continuing to copy open-science as that is where JennyM
+> will pick this up.
+>
+> If you have potential volunteers that would be great - we could do this on
+> a per journal (or per publisher) basis where the volunteers created the
+> templates to read each journal and pick out this material. That's also a
+> great way of getting experts involved.
+>
+> JennyM - is this OK to go with ? Can wecraft something from what has been
+> written?
+>
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110722/a3ba2bc6/attachment.htm>
+
+From Micah_Altman at harvard.edu  Fri Jul 22 15:51:12 2011
+From: Micah_Altman at harvard.edu (Dr. Micah Altman)
+Date: Fri, 22 Jul 2011 10:51:12 -0400
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+Message-ID: <CAF0mVs1jUUsfyfqNxPx32e_cE5+WU2wWJQNLM9v6O-rdYJ5VVg@mail.gmail.com>
+
+>
+> Note that we are not downloading the text or the data sets, simply
+> recording their existence and providing the link to them.
+>
+> We have done this for several years for crystallographic data (which seems
+> to be impicitly agreed to be "data-and-therefore-not-copyrightable") and
+> have downloaded the data sets. In the present proposal we are not even doing
+> this.
+>
+> It may be more appropriate simply to do the Open Access first
+>
+> The attraction of this is that the results can go straight into CKAN
+> (metadata about open access) and Open Bibliography. Obviously full open
+> access publishers (BMC, PLoS) are straightforward. Hybrid journals (e.g.
+> Springer, Wiley, Elsevier, ACS) are the most immediate gain. This will
+> locate and publicize the Open Access papers, even when hidden in traditional
+> closed journals.
+>
+>
+It would be interesting to me to also set up a pilot virtual archive of the
+harvested open data records in our DataVerse network system. Which would
+expose those resources to different communities. If this is all at CKAN I'd
+need to be able to wrap the CKAN API in an OAI-PMH proxy.. Not sure how
+trivial this is. And feeding the other way -- a number of virtual archives
+are expose via OAI-PMH with CC'licenses, the licensing information is on a
+LOCKSS manifest page -- so it the license, OAI set etc can be
+programatically determined. Any interest in this as a data source?
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110722/0795ff92/attachment.htm>
+
+From rufus.pollock at okfn.org  Fri Jul 22 18:54:08 2011
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 22 Jul 2011 18:54:08 +0100
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <CAF0mVs1jUUsfyfqNxPx32e_cE5+WU2wWJQNLM9v6O-rdYJ5VVg@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	<CAF0mVs1jUUsfyfqNxPx32e_cE5+WU2wWJQNLM9v6O-rdYJ5VVg@mail.gmail.com>
+Message-ID: <CAEvtuKqsrw4V80S8k0pQ=8Mbmh-kj1iK1P02MQY5749Vrt3WAg@mail.gmail.com>
+
+On 22 July 2011 15:51, Dr. Micah Altman <Micah_Altman at harvard.edu> wrote:
+>
+>>
+>> Note that we are not downloading the text or the data sets, simply
+>> recording their existence and providing the link to them.
+>>
+>> We have done this for several years for crystallographic data (which seems
+>> to be impicitly agreed to be "data-and-therefore-not-copyrightable") and
+>> have downloaded the data sets. In the present proposal we are not even doing
+>> this.
+>>
+>> It may be more appropriate simply to do the Open Access first
+>>
+>> The attraction of this is that the results can go straight into CKAN
+>> (metadata about open access) and Open Bibliography. Obviously full open
+>> access publishers (BMC, PLoS) are straightforward. Hybrid journals (e.g.
+>> Springer, Wiley, Elsevier, ACS) are the most immediate gain. This will
+>> locate and publicize the Open Access papers, even when hidden in traditional
+>> closed journals.
+>>
+>
+> It would be interesting to me to also set up a pilot virtual archive of the
+> harvested open data records in our DataVerse network system. Which would
+> expose those resources to different communities. If this is all at CKAN I'd
+> need to be able to wrap the CKAN API in an OAI-PMH proxy.. Not sure how
+> trivial this is. And feeding the other way -- a number of virtual archives
+
+A CKAN -> OAI-PMH proxy would be pretty trivial (we already have
+mapping to dcat + dublin core style RDF).
+
+Rufus
+
+> are expose via OAI-PMH with CC'licenses, the licensing information is on a
+> LOCKSS manifest page -- so it the license, OAI set etc can be
+> programatically determined. Any interest in this as a data source?
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From friedrich.lindenberg at okfn.org  Fri Jul 22 19:07:24 2011
+From: friedrich.lindenberg at okfn.org (Friedrich Lindenberg)
+Date: Fri, 22 Jul 2011 20:07:24 +0200
+Subject: [open-bibliography] [open-science] Proposal - in less than 24
+ hours,
+ can we come up with an idea for a breakout session at Science Online London
+In-Reply-To: <CAEvtuKqsrw4V80S8k0pQ=8Mbmh-kj1iK1P02MQY5749Vrt3WAg@mail.gmail.com>
+References: <mailman.17974.1311065786.30689.open-science@lists.okfn.org>
+	<DUB106-W63D3CEC6F723C8EB55D5D8B44D0@phx.gbl>
+	<CAD2k14OGv89dO6Asf7bKgaViXpvTi07LdxRY=tD-r1AJz5QWDA@mail.gmail.com>
+	<CABPM+wq6aciROSX=4q5xKJvJE+ds5fT+5-c6Wc0=aMJvC5f_pA@mail.gmail.com>
+	<CAD2k14OjU29qyJ1Zk3P+_1Hkk3QPnsYTqBwQnmFRvQiWnvt58w@mail.gmail.com>
+	<CAD2k14MG_Br76td7AWTtOhuS-zWHzqKQJRe-HU7DDZ5mkk6VKQ@mail.gmail.com>
+	<CAF0mVs1jUUsfyfqNxPx32e_cE5+WU2wWJQNLM9v6O-rdYJ5VVg@mail.gmail.com>
+	<CAEvtuKqsrw4V80S8k0pQ=8Mbmh-kj1iK1P02MQY5749Vrt3WAg@mail.gmail.com>
+Message-ID: <CABGw_BtuB_KCry9-UhBHc85x3SK9AjGE8T1tHUYt8wXO=jv4Pg@mail.gmail.com>
+
+On Fri, Jul 22, 2011 at 7:54 PM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+> On 22 July 2011 15:51, Dr. Micah Altman <Micah_Altman at harvard.edu> wrote:
+>>
+>>>
+>>> Note that we are not downloading the text or the data sets, simply
+>>> recording their existence and providing the link to them.
+>>>
+>>> We have done this for several years for crystallographic data (which seems
+>>> to be impicitly agreed to be "data-and-therefore-not-copyrightable") and
+>>> have downloaded the data sets. In the present proposal we are not even doing
+>>> this.
+>>>
+>>> It may be more appropriate simply to do the Open Access first
+>>>
+>>> The attraction of this is that the results can go straight into CKAN
+>>> (metadata about open access) and Open Bibliography. Obviously full open
+>>> access publishers (BMC, PLoS) are straightforward. Hybrid journals (e.g.
+>>> Springer, Wiley, Elsevier, ACS) are the most immediate gain. This will
+>>> locate and publicize the Open Access papers, even when hidden in traditional
+>>> closed journals.
+>>>
+>>
+>> It would be interesting to me to also set up a pilot virtual archive of the
+>> harvested open data records in our DataVerse network system. Which would
+>> expose those resources to different communities. If this is all at CKAN I'd
+>> need to be able to wrap the CKAN API in an OAI-PMH proxy.. Not sure how
+>> trivial this is. And feeding the other way -- a number of virtual archives
+>
+> A CKAN -> OAI-PMH proxy would be pretty trivial (we already have
+> mapping to dcat + dublin core style RDF).
+
+There is a decent OAI-PMH library for python that I have a very basic
+CKAN importer for (from last year and broken, would need to go into
+harvester architecture). I believe this also contains a
+backend-pluggable WSGI server app.
+
+- Friedrich
+
+>> are expose via OAI-PMH with CC'licenses, the licensing information is on a
+>> LOCKSS manifest page -- so it the license, OAI set etc can be
+>> programatically determined. Any interest in this as a data source?
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>>
+>
+>
+>
+> --
+> Co-Founder, Open Knowledge Foundation
+> Promoting Open Knowledge in a Digital Age
+> http://www.okfn.org/ - http://blog.okfn.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+http://twitter.com/pudo
+http://pudo.org
+
+
+From jonathan.gray at okfn.org  Wed Jul 27 12:00:51 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 27 Jul 2011 12:00:51 +0100
+Subject: [open-bibliography] Fwd: News Release: Open data challenge: what
+	treasures can you find?
+In-Reply-To: <2662661112691228.WA.r.obrienjisc.ac.uk@jiscmail.ac.uk>
+References: <2662661112691228.WA.r.obrienjisc.ac.uk@jiscmail.ac.uk>
+Message-ID: <CANQ_vu2j0H+7DxV9sSBzyMzUFgB6ANBnmi4EXLdoeSWvSYc4vA@mail.gmail.com>
+
+Just in case anyone hasn't seen this!
+
+
+---------- Forwarded message ----------
+From: Rebecca O'Brien <r.obrien at jisc.ac.uk>
+Date: Tue, Jul 19, 2011 at 10:44 AM
+Subject: News Release: Open data challenge: what treasures can you find?
+To: JISC-ANNOUNCE at jiscmail.ac.uk
+
+
+News release
+19 July 2011
+
+Open data challenge: what treasures can you find?
+
+Libraries, museums and archives have recently taken to experimenting
+with open data with a vengeance and now the JISC Discovery programme
+http://discovery.ac.uk/ with the DevCSI project
+http://devcsi.ukoln.ac.uk/blog/about/ are running an international
+competition to see what people can unearth in this data.
+
+The challenge is to develop an application which allows people to
+discover the treasures hidden in one of ten datasets - from the
+shipwrecks lurking off UK shores, to the metadata behind Jane Austen?s
+will online.
+
+The rich data sets on offer are:
+
+library data from the British Library, Cambridge and Lincoln
+archives data from the National Archives and the Archives hub
+English Heritage places data
+circulation data from UK university libraries
+museum data from the Tyne and Wear Museums collections
+search data from the OpenURL router service
+the musicnet codex
+
+Andy MacGregor, JISC programme manager, said: "Libraries, museums and
+archives are opening up their data because they recognise the
+potential to harvest it in interesting new ways to make their
+collections more useful for education and research. Whether this is
+through striking visualisations, ways of exploring their content or
+valuable juxtapositions with other, similar collections, this
+competition is an opportunity to see what exciting possibilities
+clever developers can dream up for this rich pot of information."
+
+The judges are interested in browser-based applications that genuinely
+make the collections from these libraries and museums even more useful
+for people.
+
+There?s a tablet computer ? an EEE Pad Transformer - for the overall
+winner but also twelve other prizes to be won.
+
+The competition closes on 1 August 2011.
+
+Read the rules of the competition on the Discovery site -
+http://discovery.ac.uk/developers/competition/
+
+Be inspired by Alex Parker from the University of Southampton, who won
+a previous JISC competition by bringing to life library data with his
+Book Galaxy - blue dots are titles and yellow dots are courses
+http://users.ecs.soton.ac.uk/ajp3g08/mosaicbookgalaxy/
+
+Why not have a go and see what you can do?
+
+Ends
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Wed Jul 27 14:46:00 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 27 Jul 2011 14:46:00 +0100
+Subject: [open-bibliography] Fwd: News Release: Open data challenge:
+ what treasures can you find?
+In-Reply-To: <CANQ_vu2j0H+7DxV9sSBzyMzUFgB6ANBnmi4EXLdoeSWvSYc4vA@mail.gmail.com>
+References: <2662661112691228.WA.r.obrienjisc.ac.uk@jiscmail.ac.uk>
+	<CANQ_vu2j0H+7DxV9sSBzyMzUFgB6ANBnmi4EXLdoeSWvSYc4vA@mail.gmail.com>
+Message-ID: <CAD2k14M=U_w_WOdex9+FUeKVZkyCAfZjApu0MdjWRaD5yxzk7Q@mail.gmail.com>
+
+On Wed, Jul 27, 2011 at 12:00 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Just in case anyone hasn't seen this!
+>
+>
+Any chance of building an Open Bibliographic BibJSON tool?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110727/65e6dbbc/attachment.htm>
+
+From adrian.pohl at okfn.org  Wed Jul 27 23:38:19 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 28 Jul 2011 00:38:19 +0200
+Subject: [open-bibliography] Hello!
+In-Reply-To: <CANwz=mV3d-u59fAoj4Bi_oLupQ2Fd5m93U4uHp34LCTqrLYMhA@mail.gmail.com>
+References: <CANwz=mV3d-u59fAoj4Bi_oLupQ2Fd5m93U4uHp34LCTqrLYMhA@mail.gmail.com>
+Message-ID: <CAOtd05EYuC+U65O+KeaENqsmBKkUTQwEDff7jtB9p1BcNNwpnw@mail.gmail.com>
+
+Hello Zile,
+
+sorry that an answer took so long. It is great that you want to become
+an active member of the open bibliographic data community. There are
+several ways to get more involved, of course it depends on your
+interests. I will name some, perhaps some others on the list have more
+ideas.
+
+- Promote open data in your own institution and country, publish &
+share open data and talk about your experiences and use cases for
+opening up data.
+- Promote Open Bibliographic Data on your blog, on twitter etc.
+- Contribute another translation of the Principles on Open
+Bibliographic Data[1] (if you are a fluent of a non-English language
+which isn't German or Italian)
+- Of course you can endorse the principles if you haven't already done so.
+- Kindly ask publishers of bibliographic data about the openness
+status of their data using isitopendata.org.[2]
+- Create an open bibliographic data logo or t-shirt.
+- ...
+
+I suggest you best join the monthly virtual meeting to learn more and
+to get to know some people active in this working group. It is held
+every first tuesday of a month (next August, 2nd) via skype and
+etherpad, currently at 15:00 GMT / 16:00 UK Time / 17:00 CET / 11:00
+EST / 08:00 PDT...
+
+All the best
+Adrian
+
+[1] http://openbiblio.net/principles/
+
+[2] See also http://openbiblio.net/2011/03/07/is-it-open-bibliographic-data/
+
+2011/7/20 Zile Ozols <zaozols at gmail.com>:
+> Hi,
+>
+> I'm a recent MLIS graduate.? My friend told me about the Open Knowledge
+> Foundation and, I guess because of my degree, this working group was
+> recommended to me.? Through further readings, I really like the sound of
+> this group and would like to know how I can get more involved.
+>
+> Thanks,
+>
+> Zile
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From pm286 at cam.ac.uk  Wed Jul 27 23:56:44 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 27 Jul 2011 23:56:44 +0100
+Subject: [open-bibliography] Hello!
+In-Reply-To: <CAOtd05EYuC+U65O+KeaENqsmBKkUTQwEDff7jtB9p1BcNNwpnw@mail.gmail.com>
+References: <CANwz=mV3d-u59fAoj4Bi_oLupQ2Fd5m93U4uHp34LCTqrLYMhA@mail.gmail.com>
+	<CAOtd05EYuC+U65O+KeaENqsmBKkUTQwEDff7jtB9p1BcNNwpnw@mail.gmail.com>
+Message-ID: <CAD2k14PT+cX74yiP0ddZJRyorV6JSTMOW7ADqW-EUd2tfaS05A@mail.gmail.com>
+
+On Wed, Jul 27, 2011 at 11:38 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello Zile,
+>
+> Hi,
+Greetings also from me.
+
+We have also developed a lightweight technology - BibJSON for Open
+Bibliography and there are lots of opportunities for working with this.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110727/c404d2ab/attachment.htm>
+
+From kcoyle at kcoyle.net  Sun Jul 31 16:14:03 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 31 Jul 2011 08:14:03 -0700
+Subject: [open-bibliography] HathiTrust and "Open"
+Message-ID: <20110731081403.1359617xkgmvf8sb@kcoyle.net>
+
+Here's HathiTrust's definition of "Open Access"
+
+"Open Access: This work is protected by copyright law. It is made  
+available from HathiTrust with explicit permission of the copyright  
+holder. Permission must be requested from the rights holder for any  
+subsequent use."
+
+They also have categories for "Public Domain", "in copyright" and the  
+full suite of CC licenses.
+
+I think this "open access" definition is rather discouraging and not  
+very helpful. It says that you must request permission for subsequent  
+use, but it doesn't say what the pre-subsequent use consists of.
+
+I am finding that this is a fairly common use of "open access" in  
+academe - that it means that you can access a copyrighted work --  
+which is a stipulation that isn't required for hardcopy items, which  
+are "open access" by definition of their physical presence.
+
+*sigh*
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pm286 at cam.ac.uk  Sun Jul 31 20:27:35 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 31 Jul 2011 20:27:35 +0100
+Subject: [open-bibliography] HathiTrust and "Open"
+In-Reply-To: <20110731081403.1359617xkgmvf8sb@kcoyle.net>
+References: <20110731081403.1359617xkgmvf8sb@kcoyle.net>
+Message-ID: <CAD2k14N5v3V1CNd-MrZVQCXyxv8ekYWgXB=jXZbRMmxR8-btJQ@mail.gmail.com>
+
+On Sun, Jul 31, 2011 at 4:14 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Here's HathiTrust's definition of "Open Access"
+>
+> "Open Access: This work is protected by copyright law. It is made available
+> from HathiTrust with explicit permission of the copyright holder. Permission
+> must be requested from the rights holder for any subsequent use."
+>
+> Yes, "sigh".
+I have come across "Open" and "public domain" meaning that a human has  paid
+a licence to see something and may not communicate it to other humans
+wthout permission (which is unlikely to be given). That's why GRATIS and
+LIBRE are essential terms and we should insist on them.
+
+It took 10 years to get them used (rather that a confusing range of
+colours). We have to be boringly persistent - I think our best chance is to
+get "Open Bibliography" stickers posted in collections and publishers'
+offerings.
+
+BTW for various reasons we need to advertise the Principles of OBD. They are
+not yet viral and we must make them so.I have been in the US and have sown
+at least ones seed but we need more.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110731/e5be673b/attachment.htm>
+

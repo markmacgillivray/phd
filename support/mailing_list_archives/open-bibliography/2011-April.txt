@@ -1,0 +1,1064 @@
+From aisaac at few.vu.nl  Mon Apr  4 09:34:46 2011
+From: aisaac at few.vu.nl (Antoine Isaac)
+Date: Mon, 04 Apr 2011 10:34:46 +0200
+Subject: [open-bibliography] DC-2011 Submission Deadline EXTENDED to 30
+	April 2011
+Message-ID: <4D9982A6.60803@few.vu.nl>
+
+Please excuse cross-posting
+
+DCMI EXTENDS DC-2011 SUBMISSION DEADLINE to 30 APRIL 2011
+
+=================================================
+DC-2011 Call for Papers
+=================================================
+
+International Conference on Dublin Core and Metadata Applications:
+"Metadata Harmonization: Bridging Languages of Description"
+
+21-23 September 2011, The Hague, Netherlands
+
+-------------------------------------------------
+DEADLINES & IMPORTANT DATES:
+Submission Deadline EXTENSION: 30 April 2011
+Author Notification: 18 June 2011
+Final Copy: 23 July 2011
+
+Access to Author Guidelines and the submission process are available at the conference website (http://purl.org/dcevents/dc-2011) and from links in the online Call of Papers at http://dcevents.dublincore.org/index.php/IntConf/dc-2011/schedConf/cfp.
+-------------------------------------------------
+
+Metadata is an increasingly central tool in the current web environment, enabling large-scale, distributed management of resources.  Recent years has seen a growth in interaction between previously relatively isolated metadata communities, driven by the need for cross-domain collaboration and exchange.  However, metadata standards have not been able to meet the needs of interoperability between independent standardization communities.  For this reason the notion of metadata harmonization, defined as interoperability of combinations of metadata specifications, has arisen as a core issue for the future of web-based metadata. Resting at the heart of application profiles, metadata harmonization presents a little understood, but critical challenge in design of languages of description.  DC-2011 will explore the conceptual and practical issues of design when the language solution calls for cross-fertilization from different metadata specifications.
+
+Beyond the conference theme, papers, reports, and poster submissions are welcome on a wide range of metadata topics, such as:
+
+-- Metadata principles, guidelines, and best practices
+-- Metadata quality (methods, tools, and practices)
+-- Conceptual models and frameworks (e.g., RDF, DCAM, OAIS)
+-- Application profiles
+-- Metadata generation (methods, tools, and practices)
+-- Metadata interoperability across domains, languages,
+    time, structures, and scales.
+-- Cross-domain metadata uses (e.g., recordkeeping, preservation,
+    curation, institutional repositories, publishing)
+-- Domain metadata (e.g., for corporations, cultural memory
+    institutions, education, government, and scientific fields)
+-- Bibliographic standards (e.g., RDA, FRBR, subject headings)
+    as Semantic Web vocabularies
+-- Accessibility metadata
+-- Metadata for scientific data, e-Science and grid applications
+-- Social tagging and user participation in building metadata
+-- Usage data (paradata/attention metadata)
+-- Knowledge Organization Systems (e.g., ontologies, taxonomies,
+    authority files, folksonomies, and thesauri) and Simple Knowledge
+    Organization Systems (SKOS)
+-- Ontology design and development
+-- Integration of metadata and ontologies
+-- Search engines and metadata
+-- Linked data and the Semantic Web (metadata and applications)
+-- Vocabulary registries and registry services
+
+SUBMISSIONS
+
+All submissions for papers, reports, poster abstracts, and community workshop and special session must do so through the DCMI Peer Review System at http://dcevents.dublincore.org/index.php/IntConf/dc-2011/schedConf/cfp (see submission link at bottom of page).  Author registration with the peer review system and instructions for the submission process appear under the "Information for Authors" link.
+
+-- All submissions must be in English.
+-- All submissions will be peer-reviewed by the International Program Committee.
+
+Publication
+
+-- Accepted papers, project reports and poster abstracts will
+    be published in the official Conference Proceedings at
+    http://dcpapers.dublincore.org/ojs/pubs.
+-- Special session and community workshop session abstracts
+    will be published in the online conference program.
+-- Papers, research reports and poster abstracts must conform
+    to the appropriate formatting template available through the
+    DCMI Peer Review System.
+-- Unless previously arranged, accepted papers, project reports
+    and posters must be presented at The Hague by at least one of
+    their authors.
+-- Submitting authors in all categories must provide basic
+    information regarding current professional positions and
+    affiliations as a condition of acceptance and publication.
+
+FULL PAPERS (8-10 pages)
+
+Full papers either describe innovative work in detail or provide critical, well-referenced overviews of key developments or good practice in the areas outlined above. Full papers will be assessed using the following criteria:
+
+-- Originality of the approach to the topic and potential for
+    implementation
+-- Quality of the contribution to the implementation community
+-- Significance of the results presented
+-- Clarity of presentation
+
+PROJECT REPORTS (4-5 pages)
+
+Project reports describe a specific model, application, or activity in a concise presentation. Project reports will be assessed using the following criteria:
+
+-- Conciseness and completeness of technical description
+-- Usability of the technical description by other potential
+    implementers
+-- Clarity of presentation
+
+POSTERS (1-2 pages)
+
+Posters are for the presentation of projects or research under development or late-breaking results. Poster proposals should consist of a one-two page extended abstract.  Posters will be assessed using the following criteria:
+
+-- Concise statement of research or project goals and milestones
+-- Significance of the research or project
+-- Framing of key barriers and future research
+-- Statement of results and accomplishments
+-- Clarity of presentation
+
+One or more sessions will be scheduled for display and discussion of posters at the conference venue.   Instructions on the preparation of the display poster will be forthcoming on the conference website.  Unless otherwise arranged, accepted  posters must be presented at The Hague by at least one of their authors.  However, with prior arrangement, posters abstracts may be included in the published proceedings and presented by means of video ranging from 4-10 minutes in length and uploaded to YouTube with the URL supplied at the time the poster abstract is submitted.
+
+SPECIAL SESSIONS & DCMI COMMUNITY WORKSHOP SESSIONS
+
+Proposals for special sessions and community workshop sessions should be 800-1,200 words in length including a 35-50 word abstract for use in publicizing the session.  Session proposals must identify the:
+
+-- Session conveners
+-- Where applicable, categories of target participants
+-- Session:
+    o Purpose
+    o Agenda
+    o Activities (including any technical requirements)
+    o Ramp-up and follow-through (including after-conference reporting)
+    o Workshop session proposals must identify the specific DCMI community
+      (see http://www.dublincore.org/groups/#communities)
+
+Conveners of accepted sessions will be expected to work closely with the Workshop Chair to refine, schedule and convene their session. The Workshop Chair, in consultation with the Conference Committee, will review special session proposals.  The Workshop Chair, in consultation with the chairs/co-chairs of the relevant DCMI communities, will review community workshop proposals.  Evaluation criteria for session proposals will be: (1) quality and organization of content, (2) justification of format; (3) evidence of interactivity and participatory approaches; (3) inclusivity/diversity of participation; and (4) the potential of the session to engage the conference participants in general and, for workshop sessions, the community of interest in particular (including any necessary technical outreach beyond the venue (e.g., Skype)).
+
+CONFERENCE COMMITTEE
+
+Stuart A. Sutton <sasutton at uw.edu>
+Information School of the University of Washington, USA
+
+For a listing of Conference Committee Chairs, see http://dcevents.dublincore.org/index.php/IntConf/dc-2011/about/organizingTeam.
+
+
+From daniel.dietrich at okfn.org  Mon Apr  4 22:12:30 2011
+From: daniel.dietrich at okfn.org (Daniel Dietrich)
+Date: Mon, 4 Apr 2011 23:12:30 +0200
+Subject: [open-bibliography] Get involved: OKCon 2011
+Message-ID: <63846B4F-0F2A-4B53-A21F-A2F8674ECCBC@okfn.org>
+
+
+Dear all,
+
+As you know, we're busily preparing the schedule for this year's OKCon, which is going to be in Berlin on the 31st June and 1st July. We're really excited about this year's event - so much has happened in the last 12 months! We're really hoping you guys will be up for having a meet-up scheduled in, so you can get together face-to-face and chat about the amazing work that you've been doing over the past year and how we can push forward with the next one. Are there times/days which are better or worse for people? 
+
+Also, it would be *fantastic* to have presentations, workshops, discussions or lightening talks from people on this list - there's so much activity in the field, it would be great to get a bit of a taster of all your work.
+
+I've attached a short PDF version of the Call for Participation, and if you haven't already seen it you can check out the full version at 
+	
+	http://okcon.org/2011/cfp/
+
+The submissions form is at http://okcon.org/2011/submit/
+
+Looking forward to meeting lots of you in Berlin! 
+
+Also registration is open at: registration: http://okcon2011.eventbrite.com/
+
+All the best,
+Daniel
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: OKCon Call for Participation.pdf
+Type: application/pdf
+Size: 116747 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110404/81102768/attachment-0001.pdf>
+-------------- next part --------------
+
+
+--
+Daniel Dietrich
+
+The Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+www.okfn.org  -  www.opendefinition.org
+
+Mail: daniel.dietrich at okfn.org
+Mobil: +49 171 780 870 3
+Skype: ddie22
+Twitter: @ddie
+
+
+From adrian.pohl at okfn.org  Tue Apr  5 09:03:50 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 5 Apr 2011 10:03:50 +0200
+Subject: [open-bibliography] Virtual meeting today
+Message-ID: <BANLkTinft4Y0_rUU7Eaj+hghFm8VE7Myow@mail.gmail.com>
+
+Hello,
+
+today the monthly virtual meeting of OKFN Working Group on Open
+Bibliographic Data will take place at 15:00 GMT. See the etherpad for
+details and agenda: http://okfnpad.org/10th-open-bibliography-meeting
+
+Everybody's invited to attend and contribute.
+
+Cheers
+Adrian
+
+
+From lucy.chambers at okfn.org  Tue Apr  5 14:07:06 2011
+From: lucy.chambers at okfn.org (Lucy Chambers)
+Date: Tue, 5 Apr 2011 14:07:06 +0100
+Subject: [open-bibliography] Open Bibliography Meeting tonight
+Message-ID: <BANLkTi=jx_WiS2DRQ8Zfd2Zdwb6hEdHDcA@mail.gmail.com>
+
+Hello,
+
+My name is Lucy Chambers - I am the new Community Coordinator for the
+OKF alongside Jonathan Gray. Rufus isn't going to be able to make the
+meeting this afternoon, so he wondered whether I could be there
+instead?
+
+I'm not familiar with IRC - do I just need to create a username and
+log in to be able to chat?
+
+Thank you and hope to speak to you tonight,
+
+Lucy
+
+-- 
+Lucy Chambers
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+
+
+From pm286 at cam.ac.uk  Tue Apr  5 15:05:47 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 5 Apr 2011 15:05:47 +0100
+Subject: [open-bibliography] Open Bibliography Meeting tonight
+In-Reply-To: <BANLkTi=jx_WiS2DRQ8Zfd2Zdwb6hEdHDcA@mail.gmail.com>
+References: <BANLkTi=jx_WiS2DRQ8Zfd2Zdwb6hEdHDcA@mail.gmail.com>
+Message-ID: <BANLkTi=u_g8MFG+DDDY63J=N5Tur+qPVqA@mail.gmail.com>
+
+On Tue, Apr 5, 2011 at 2:07 PM, Lucy Chambers <lucy.chambers at okfn.org>wrote:
+
+> Hello,
+>
+> My name is Lucy Chambers - I am the new Community Coordinator for the
+> OKF alongside Jonathan Gray. Rufus isn't going to be able to make the
+> meeting this afternoon, so he wondered whether I could be there
+> instead?
+>
+
+Lucy - Greetings!
+
+What time? I am on the US West coast...
+
+
+>
+> I'm not familiar with IRC - do I just need to create a username and
+> log in to be able to chat?
+>
+
+Yes - Most browsers support this.
+
+>
+> Thank you and hope to speak to you tonight,
+>
+> Lucy
+>
+> --
+> Lucy Chambers
+> Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110405/c6838602/attachment.htm>
+
+From lucy.chambers at okfn.org  Tue Apr  5 15:13:36 2011
+From: lucy.chambers at okfn.org (Lucy Chambers)
+Date: Tue, 5 Apr 2011 15:13:36 +0100
+Subject: [open-bibliography] Open Bibliography Meeting tonight
+In-Reply-To: <BANLkTi=u_g8MFG+DDDY63J=N5Tur+qPVqA@mail.gmail.com>
+References: <BANLkTi=jx_WiS2DRQ8Zfd2Zdwb6hEdHDcA@mail.gmail.com>
+	<BANLkTi=u_g8MFG+DDDY63J=N5Tur+qPVqA@mail.gmail.com>
+Message-ID: <BANLkTinTGksxmzW=ythJ2WGV1_2h67KWZg@mail.gmail.com>
+
+Dear Peter,
+
+According to the list - the meeting is in about one hour, 1500 GMT -
+1600 BST if I am correct. So, I will see you there and look forward to
+hearing about what you guys are up to!
+
+Best wishes,
+
+Lucy
+
+On Tue, Apr 5, 2011 at 3:05 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Tue, Apr 5, 2011 at 2:07 PM, Lucy Chambers <lucy.chambers at okfn.org>
+> wrote:
+>>
+>> Hello,
+>>
+>> My name is Lucy Chambers - I am the new Community Coordinator for the
+>> OKF alongside Jonathan Gray. Rufus isn't going to be able to make the
+>> meeting this afternoon, so he wondered whether I could be there
+>> instead?
+>
+> Lucy - Greetings!
+>
+> What time? I am on the US West coast...
+>
+>>
+>> I'm not familiar with IRC - do I just need to create a username and
+>> log in to be able to chat?
+>
+> Yes - Most browsers support this.
+>>
+>> Thank you and hope to speak to you tonight,
+>>
+>> Lucy
+>>
+>> --
+>> Lucy Chambers
+>> Community Coordinator
+>> Open Knowledge Foundation
+>> http://okfn.org/
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Lucy Chambers
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+
+
+From pitman at stat.Berkeley.EDU  Tue Apr  5 15:43:15 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 05 Apr 2011 07:43:15 -0700
+Subject: [open-bibliography] Open Bibliography Meeting tonight
+In-Reply-To: <BANLkTi=u_g8MFG+DDDY63J=N5Tur+qPVqA@mail.gmail.com>
+References: <BANLkTi=jx_WiS2DRQ8Zfd2Zdwb6hEdHDcA@mail.gmail.com>
+	<BANLkTi=u_g8MFG+DDDY63J=N5Tur+qPVqA@mail.gmail.com>
+Message-ID: <20110405144316.85679800B@bibserver.Berkeley.EDU>
+
+Thats in about 20 mins, right?
+
+http://okfnpad.org/10th-open-bibliography-meeting
+
+I added 2 items to the agenda
+
+BibServer/Openbiblio/Bibliographica
+      Report on recent agreements in principle on BibServer integration with  Openbiblio/Bibliographica (Jim)
+
+Microsoft Academic Search API.  Peter MR, Thomas K and I are in the loop for this.
+Should learn more at meeting tomorrow. Important for OKF to press M to establish MAS as open data. (Jim)
+
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From pm286 at cam.ac.uk  Tue Apr  5 17:46:20 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 5 Apr 2011 17:46:20 +0100
+Subject: [open-bibliography] Open Bibliography Meeting tonight
+In-Reply-To: <20110405144316.85679800B@bibserver.Berkeley.EDU>
+References: <BANLkTi=jx_WiS2DRQ8Zfd2Zdwb6hEdHDcA@mail.gmail.com>
+	<BANLkTi=u_g8MFG+DDDY63J=N5Tur+qPVqA@mail.gmail.com>
+	<20110405144316.85679800B@bibserver.Berkeley.EDU>
+Message-ID: <BANLkTik8JejVg31dbw1kcRTnrmPYuFAu1A@mail.gmail.com>
+
+On Tue, Apr 5, 2011 at 3:43 PM, Jim Pitman <pitman at stat.berkeley.edu> wrote:
+
+> Thats in about 20 mins, right?
+>
+> http://okfnpad.org/10th-open-bibliography-meeting
+>
+> I added 2 items to the agenda
+>
+> BibServer/Openbiblio/Bibliographica
+>      Report on recent agreements in principle on BibServer integration with
+>  Openbiblio/Bibliographica (Jim)
+>
+> Microsoft Academic Search API.  Peter MR, Thomas K and I are in the loop
+> for this.
+> Should learn more at meeting tomorrow. Important for OKF to press M to
+> establish MAS as open data. (Jim)
+>
+> Apologies - have been travelling so missed this.
+
+I have talked with the MS MAS people and I'll be at their virtual meeting
+tomorrow. Itcould be important. They would - I think - like to mke data Open
+but they have agreements. More tomorrow.
+
+P.
+
+
+> --Jim
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+>
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970  fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110405/421bd705/attachment.htm>
+
+From mark at odaesa.com  Mon Apr 11 13:17:51 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Mon, 11 Apr 2011 13:17:51 +0100
+Subject: [open-bibliography] bibliographica and edinburgh science festival
+	data
+Message-ID: <BANLkTinEGJ-ng6DLbr35BvoS+2FV+qFTyw@mail.gmail.com>
+
+Hi all,
+
+This weekend I put up a tool to search Edinburgh International Science
+Festival events, and I connected it up to the
+bibliographica.org/search which now gives back JSON responses.
+
+This means you can find an event and when you view more info you get
+back a relevant reading list - e.g. stuff written by the speakers at
+that event, or related to the event theme.
+
+Unfortunately the underlying data was a bit poor, so there are a few
+events with no theme or speaker listed, and various other issues. I
+have tried to tidy it a fair bit though.
+
+there is a blog post on openbiblio about it:
+http://openbiblio.net/2011/04/11/bibliographica-and-edinburgh-international-science-festival/
+
+or go direct to the tool here: http://eisf.cottagelabs.com
+
+This quite nicely shows what useful things we can do with open data -
+both from the British Library dataset and from the science festival
+data!
+
+I would like to add some swishy graphical stuff too, if i get time.
+
+
+From mark at odaesa.com  Thu Apr 14 12:57:15 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Thu, 14 Apr 2011 12:57:15 +0100
+Subject: [open-bibliography] JISC OpenBiblio Workshop
+Message-ID: <BANLkTinN25zR1VTO+Rxdj9Ei5s2KdHHSLw@mail.gmail.com>
+
+Hello all,
+
+The JISC Open Bibliography project is organising an open bibliographic
+data workshop on Friday May 6th 2011 at London Knowledge Lab.
+
+The purpose of the workshop is to converge on methods for making
+maintenance and use of bibliographic records more interactive and
+collaborative. We have listed some suggested areas of work, but would
+like to get feedback from the community on the most useful things to
+focus on, and to have a wider group attending either in person or
+remotely (remote attendance would involve collaborating via etherpads
+on work going on in the room).
+
+There is space for about 20 attendees; please read further information
+and complete our signup form, indicating whether you would like to
+attend in person or remotely. Or if you do not wish to attend but
+still want to provide feedback, please do so on the page comments or
+on this list.
+
+http://openbiblio.net/openbiblio-workshop
+
+Thank you very much for your support,
+
+Mark MacGillivray
+
+JISC Open Bibliography project
+
+
+From daniel.mietchen at googlemail.com  Wed Apr 20 22:55:39 2011
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Wed, 20 Apr 2011 23:55:39 +0200
+Subject: [open-bibliography] Bibliographic standards for citing versioned
+	documents?
+Message-ID: <BANLkTik=x5rh3meCPD86Eq-F7bh0-Kn8nQ@mail.gmail.com>
+
+Dear colleagues,
+
+if a wiki contains information originally published elsewhere, the
+question arises how the updated wiki version of such information
+should be properly cited. Are there any bibliographic standards for that?
+
+The National Library of Medicine has some guidelines on how to cite
+internet resources,
+including a section on wikis (cf.
+http://www.ncbi.nlm.nih.gov/books/NBK7266/#A61262 )
+but it handles revisions by date and thus ignores that many revisions
+may take place during
+a day on some wiki pages. It also does not address the issue of how to
+cite content that started out
+elsewhere and has continued to evolve on a wiki.
+
+The Species ID wiki ( http://www.species-id.net/ ) has recently, in
+collaboration with the journals ZooKeys and PhytoKeys as well as the
+Plazi repository, imported a number of taxonomic treatments as wiki
+pages, and the above-mentioned issue was addressed by incorporating
+the generic link to the wiki page into new journal publications, and
+providing a suggested citation format on-wiki that includes the
+original work along with a permalink to the most recent wiki version
+and the wiki contributors until that version.
+
+For some example pages, see
+http://species-id.net/wiki/Neobidessodes_darwiniensis or
+http://species-id.net/wiki/Sinocallipus_catba .
+
+The publisher's news release on the matter is at
+http://www.pensoft.net/news.php?n=53 , and I have commented in my blog
+at
+http://www.science3point0.com/evomri/2011/04/16/citing-versioned-papers-robots-and-reviewers/
+,
+touching upon the need for a karma system compatible with
+collaboratively updated documents.
+
+Comments and suggestions very welcome.
+
+With my best wishes,
+
+Daniel
+
+-- 
+http://www.google.com/profiles/daniel.mietchen
+
+
+From krichel at openlib.org  Thu Apr 21 04:05:30 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Thu, 21 Apr 2011 05:05:30 +0200
+Subject: [open-bibliography] 7th Cern Workshop on Innovations in Scholarly
+	Communication
+Message-ID: <20110421030529.GA6601@openlib.org>
+
+
+[sent on behalf of the OAI7 Workshop Organising Committee]
+
+OAI7, the 7th Cern Workshop on Innovations in Scholarly Communication,
+at http://indico.cern.ch/conferenceDisplay.py?ovw=True&confId=103325,
+is being held on 22-24 June 2011 in the University of Geneva. OAI
+Workshops are *THE* Open Access event in Europe in the year in which
+they are held. They bring together a community of librarians, IT
+specialists, publishers, funders and researchers and are a real
+community occasion. A full programme of papers and posters has been
+prepared by the Organising Committee for this event. A new development
+for OAI7 is the introduction of a session on Open Access publishing,
+the first time this subject has received such treatment at OAI
+Workshops. The full programme of Tutorials and Papers can be found at
+http://indico.cern.ch/conferenceTimeTable.py?confId=103325#20110622.
+
+Registrations are proceeding apace. We encourage you to register
+quickly at
+http://indico.cern.ch/confRegistrationFormDisplay.py?confId=103325 to
+ensure you have a place at the event. There is a Social Programme to
+accompany OAI7, which will include a visit to the Cern Laboratories,
+with the opportunity to tour some of the exhibitions there, as well as
+a buffet and the now-traditional drinks sharing, where every attender
+is invited to bring something to drink and share which represents
+their home country. A second social occasion will be the drinks
+aperitif on the rooftop of the University buildings, giving panoramic
+views across the city.
+
+We look forward to meeting you in Geneva in June.
+
+OAI7 Workshop Organising Committee
+
+
+From krichel at openlib.org  Sun Apr 24 23:50:46 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 25 Apr 2011 00:50:46 +0200
+Subject: [open-bibliography] open bibliographic data challenge
+In-Reply-To: <20110128212459.GA23174@openlib.org>
+References: <20110122024759.GG32736@openlib.org>
+	<20110128212459.GA23174@openlib.org>
+Message-ID: <20110424225046.GA29310@openlib.org>
+
+
+  Mark MacGillivray writes
+
+> Full information and how to enter - http://openbiblio.net/challenge
+
+  Who is the winner?
+
+  When will the other winner be announced?
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From mark at odaesa.com  Mon Apr 25 10:24:00 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Mon, 25 Apr 2011 10:24:00 +0100
+Subject: [open-bibliography] [openbiblio-dev] open bibliographic data
+	challenge
+In-Reply-To: <20110424225046.GA29310@openlib.org>
+References: <20110122024759.GG32736@openlib.org>
+	<20110128212459.GA23174@openlib.org>
+	<20110424225046.GA29310@openlib.org>
+Message-ID: <BANLkTin85wt4WB44XshdxG2t+Bp1ew+PYA@mail.gmail.com>
+
+hi Thomas,
+
+We will be deciding the winners at the openbiblio workshop on Friday
+May 6th. Once we do so, I will update the site and email the list.
+
+
+Mark
+
+
+
+On Sun, Apr 24, 2011 at 11:50 PM, Thomas Krichel <krichel at openlib.org> wrote:
+>
+> ?Mark MacGillivray writes
+>
+>> Full information and how to enter - http://openbiblio.net/challenge
+>
+> ?Who is the winner?
+>
+> ?When will the other winner be announced?
+>
+> ?Cheers,
+>
+> ?Thomas Krichel ? ? ? ? ? ? ? ? ? ?http://openlib.org/home/krichel
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?http://authorclaim.org/profile/pkr1
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? skype: thomaskrichel
+>
+> _______________________________________________
+> openbiblio-dev mailing list
+> openbiblio-dev at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/openbiblio-dev
+>
+
+
+From krichel at openlib.org  Mon Apr 25 16:01:56 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 25 Apr 2011 17:01:56 +0200
+Subject: [open-bibliography] 3lib datasets use
+In-Reply-To: <4DB5850F.3070300@hw.ac.uk>
+References: <4DB5850F.3070300@hw.ac.uk>
+Message-ID: <20110425150156.GA30957@openlib.org>
+
+  Santy Chumbe writes
+
+> The links provided at http://3lib.org/ are not working. For example
+> ftp://3lib.org/amf/3lib/euclid. Is this a temporary status
+
+  It works well here, in my firefox browser. Do others 
+  have problems?
+
+  I suspect is a problem with at end. Check your firewall
+  to make sure you can reach other ftp servers. 
+
+> or using the datasets have some restrictions?
+
+  Well maybe but I am not aware of them. I am sure most
+  of the dataset builders would love you to reuse their
+  material.
+
+  If you can't access the data via anonymous ftp, and you
+  want to use it for a larger project I suggest we try
+  rsync with you.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From pitman at stat.Berkeley.EDU  Mon Apr 25 16:44:55 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 25 Apr 2011 08:44:55 -0700
+Subject: [open-bibliography] 3lib datasets use
+In-Reply-To: <20110425150156.GA30957@openlib.org>
+References: <4DB5850F.3070300@hw.ac.uk>
+ <20110425150156.GA30957@openlib.org>
+Message-ID: <20110425154455.D7BD0801D@bibserver.Berkeley.EDU>
+
+Thomas Krichel <krichel at openlib.org> wrote:
+
+> > The links provided at http://3lib.org/ are not working. For example
+> > ftp://3lib.org/amf/3lib/euclid. Is this a temporary status
+>   It works well here, in my firefox browser. Do others have problems?
+
+I just checked with an ancient version of Firefox (3.0.1) on a mac and have no problems
+listing the ftp directory or pulling over the files.
+
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From S.Chumbe at hw.ac.uk  Tue Apr 26 11:04:23 2011
+From: S.Chumbe at hw.ac.uk (Chumbe, Santiago)
+Date: Tue, 26 Apr 2011 11:04:23 +0100
+Subject: [open-bibliography] 3lib datasets use
+References: <4DB5850F.3070300@hw.ac.uk> <20110425150156.GA30957@openlib.org>
+	<20110425154455.D7BD0801D@bibserver.Berkeley.EDU>
+Message-ID: <976F9C1B58DCB84EA7021B8BFB483B8E0F275295@ex6.mail.win.hw.ac.uk>
+
+Thank you!
+
+It works OK.
+
+I got just a little bit confused with this initial reply from the ftp server:
+Status:	Connecting to 3lib.org ...
+Status:	Connected with 3lib.org. Waiting for welcome message...
+Response:	220 (vsFTPd 2.2.0)
+Command:	USER anonymous
+Response:	331 Please specify the password.
+Command:	PASS *****
+Response:	230 Login successful.
+Command:	FEAT
+Response:	211-Features:
+Response:	 EPRT
+Response:	 EPSV
+Response:	 MDTM
+Response:	 PASV
+Response:	 REST STREAM
+Response:	 SIZE
+Response:	 TVFS
+Response:	 UTF8
+Response:	211 End
+Command:	SYST
+Response:	215 UNIX Type: L8
+Status:	Connected
+Status:	Retrieving directory listing...
+Command:	CWD amf.3lib.euclid.
+Response:	550 Failed to change directory.
+Error:	Could not retrieve directory listing
+Command:	TYPE A
+Response:	200 Switching to ASCII mode.
+Command:	PWD
+Response:	257 "/"
+Command:	LS
+Response:	421 Service not available, remote server has closed connection
+Response:	Passive mode refused.
+
+BW,
+
+Santy
+
+-----Original Message-----
+From: Jim Pitman [mailto:pitman at stat.Berkeley.EDU]
+Sent: Mon 25/04/2011 16:44
+To: Chumbe, Santiago; open-bibliography at lists.okfn.org
+Subject: Re: [open-bibliography] 3lib datasets use
+ 
+Thomas Krichel <krichel at openlib.org> wrote:
+
+> > The links provided at http://3lib.org/ are not working. For example
+> > ftp://3lib.org/amf/3lib/euclid. Is this a temporary status
+>   It works well here, in my firefox browser. Do others have problems?
+
+I just checked with an ancient version of Firefox (3.0.1) on a mac and have no problems
+listing the ftp directory or pulling over the files.
+
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+
+
+-- 
+Heriot-Watt University is a Scottish charity
+registered under charity number SC000278.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110426/24fcc153/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Apr 29 12:37:08 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 29 Apr 2011 12:37:08 +0100
+Subject: [open-bibliography] Examples of open bibliographic data
+Message-ID: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+
+Thought this might be of interest!
+
+http://obd.jisc.ac.uk/examples
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pitman at stat.Berkeley.EDU  Fri Apr 29 16:39:46 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Fri, 29 Apr 2011 08:39:46 -0700
+Subject: [open-bibliography] Examples of open bibliographic data
+In-Reply-To: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+References: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+Message-ID: <20110429153946.C9F44801E@bibserver.Berkeley.EDU>
+
+Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> Thought this might be of interest!
+> http://obd.jisc.ac.uk/examples
+
+Sure, but:
+
+-- who is maintaining this list? How credibly for how long?
+-- where can users pick up a machine-readable export of this list? Or are users expected to scrape the html?
+-- how to contribute additional items?
+-- why is CC BY being used rather than CC0 for a list of public domain facts (who has published what data with what license where?)
+
+Some missing sites are Krichel's 3lib, RePEc, arXiv API, Mendeley, BibSonomy, bibkn.org, ....
+And what about the new Xref exposure of its 46M records one by one by API? 
+http://www.crossref.org/CrossTech/2011/04/content_negotiation_for_crossr.html
+Is this open data?  
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From jonathan.gray at okfn.org  Fri Apr 29 16:43:47 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 29 Apr 2011 16:43:47 +0100
+Subject: [open-bibliography] Examples of open bibliographic data
+In-Reply-To: <20110429153946.C9F44801E@bibserver.Berkeley.EDU>
+References: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+	<20110429153946.C9F44801E@bibserver.Berkeley.EDU>
+Message-ID: <BANLkTinTDR0pQef1hE3Or=bWHW=HeKKDbg@mail.gmail.com>
+
+I would hope that all of these (and more) are listed as part of the
+CKAN bibliographic data group:
+
+http://ckan.net/group/bibliographic
+
+This lives at the OKF, we plan to maintain it in perpetuity, it is
+machine readable, anyone can contribute to it, and it is openly
+licensed.
+
+The JISC OBD list is nice for a quick, human-readable overview though
+- which is why I sent it here! :-)
+
+J.
+
+On Fri, Apr 29, 2011 at 4:39 PM, Jim Pitman <pitman at stat.berkeley.edu> wrote:
+> Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>
+>> Thought this might be of interest!
+>> http://obd.jisc.ac.uk/examples
+>
+> Sure, but:
+>
+> -- who is maintaining this list? How credibly for how long?
+> -- where can users pick up a machine-readable export of this list? Or are users expected to scrape the html?
+> -- how to contribute additional items?
+> -- why is CC BY being used rather than CC0 for a list of public domain facts (who has published what data with what license where?)
+>
+> Some missing sites are Krichel's 3lib, RePEc, arXiv API, Mendeley, BibSonomy, bibkn.org, ....
+> And what about the new Xref exposure of its 46M records one by one by API?
+> http://www.crossref.org/CrossTech/2011/04/content_negotiation_for_crossr.html
+> Is this open data?
+> --Jim
+>
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+>
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970 ?fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pitman at stat.Berkeley.EDU  Fri Apr 29 17:01:16 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Fri, 29 Apr 2011 09:01:16 -0700
+Subject: [open-bibliography] Examples of open bibliographic data
+In-Reply-To: <BANLkTinTDR0pQef1hE3Or=bWHW=HeKKDbg@mail.gmail.com>
+References: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+	<20110429153946.C9F44801E@bibserver.Berkeley.EDU>
+	<BANLkTinTDR0pQef1hE3Or=bWHW=HeKKDbg@mail.gmail.com>
+Message-ID: <20110429160116.DA9D3801E@bibserver.Berkeley.EDU>
+
+Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> I would hope that all of these (and more) are listed as part of the CKAN bibliographic data group:
+> http://ckan.net/group/bibliographic
+
+Me too, and this hope might be realized if the resources used to maintain the JISC list
+were directed towards the CKAN list and the JISC list then derived from the CKAN list by script,
+rather than JISC maintaining its own list with an unsuitable license (CC BY).
+
+> This lives at the OKF, we plan to maintain it in perpetuity, it is
+> machine readable, anyone can contribute to it, and it is openly licensed.
+
+Excellent.  
+
+> The JISC OBD list is nice for a quick, human-readable overview though
+
+Sure, but I am concerned about the waste of resources to maintain such a list separately from CKAN.
+Is the data on the JISC  list entirely derived from the CKAN data?
+If so, why not properly acknowledge this to promote CKAN?
+And if not, how to get the additional information back to CKAN?
+It does not seem useful to be promoting two overlapping lists in this space.
+I would rather see all such efforts directed to promoting CKAN.
+
+My questions:
+
+> > -- why is CC BY being used rather than CC0 for a list of public domain facts (who has published what data with what license where?)
+
+> > And what about the new Xref exposure of its 46M records one by one by API?
+> > http://www.crossref.org/CrossTech/2011/04/content_negotiation_for_crossr.html
+> > Is it open data?
+remain to stimulate discussion on the list.
+cheers
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+

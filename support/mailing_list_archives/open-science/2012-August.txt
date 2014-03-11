@@ -1,0 +1,2257 @@
+From Tom_Roche at pobox.com  Fri Aug  3 01:50:00 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Thu, 02 Aug 2012 20:50:00 -0400
+Subject: [open-science] toward a low-overhead fastpath for open-science
+	"publishing"
+Message-ID: <87r4royf2f.fsf@pobox.com>
+
+
+summary: let's produce something like a fastpath (more below)
+demonstrating an open-science "publishing" (more below) process
+suitable for use by the very-early-career or #scholarlypoor
+aspiring scientist. I sketch parts of one (below the line).
+
+details:
+
+Thanks all for your interesting talk today
+
+http://ckan.okfnpad.org/meetup-2012-08-02
+
+Since there seemed to be interest (at least, from me :-), and since I
+think it's a fairly general usecase that might be useful for (e.g.)
+tutorials/howto's/etc, and since I'd definitely appreciate suggestions
+for improvement (esp of ease-of-use :-), here's some more detail about
+what I'm trying to do, and how. (Got a better way to communicate/
+collaborate on this particular topic? Please lemme know.)
+
+What I hope will emerge from this (eventually :-) is a "fastpath" for
+open-science "publishing" suitable for folks like me:
+
+"Fastpath" (a term from my years coding for a massive three-letter
+acronym) refers to a document for a demo. (Or the script for a demo
+video.) A fastpath is one level below a howto--even more hands on,
+with even less explanation: "type this, then click that, and you'll
+get this thing." Fastpaths instill confidence (to the extent they are
+completely replicable), and can convince the audience to learn more.
+(Notably, to RTFM--which the fastpath's intended audience is usually
+loathe to do.) Note that a fastpath doesn't need to be, and usually
+isn't, the "absolute best way" to do something (which usually varies
+by practitioner): it's just so drop-dead easy and robust (and is
+therefore usually designed before, and developed with, the code it
+documents) "even Marketing can run it." FWIW, one part of an
+open-science publishing fastpath should definitely be
+
+http://trac.ckan.org/ticket/2796
+
+I put "publishing" in quotes because the domain I target includes many
+activities (e.g., logging, collaboration) that terminate (more or
+less) in generation of formally-structured content ("FSC"). The other
+activities are unfortunately disrespected relative to that which gets
+funding, tenure, etc--such is life.
+
+And, in my own self-interest, I'm also definitely interested in
+assistance and mentoring with my own effort in this space, which
+follows; your comments/suggestions are appreciated.
+
+----------------------------------------------------------------------
+
+AUDIENCE: very-early-career science students (I'm a master's student)
+and workers who
+
+1 are reasonably "neterate," i.e., can work with fairly high-level
+  descriptions of internet-available sites/services and the tools/
+  protocols available for their access
+
+2 must publish (if only a thesis) to "get ahead" (i.e., the
+  second-lowest level of the precariat), but haven't yet (or not
+  enough)
+
+3 want to "be open," i.e., to have their project's plans, data, and
+  artifacts publicly available (minimally, for collaboration). Extra
+  credit for exaltation of "replication in computational science"
+
+http://ivory.idyll.org/blog/replication-i.html
+
+  (and thanks to Cameron Neylon for passing that pointer)
+
+4 are #scholarlypoor in
+
+- time, notably because they're so busy learning the domain about
+  which they need to publish that they lack time to invest in
+  optimizing publishing tools and processes
+
+- money, to pay someone(s) to handle the more strictly publishing-
+  oriented tasks which they might prefer to offload.
+
+Note my audience is more early-career, and my task (below) more
+individually focused, than would suit someone like Ethan Perlstein,
+whose Journal Wordpress
+
+http://lists.okfn.org/pipermail/open-science/2012-July/001754.html
+
+I see as targeting the science worker at the next career level up: a
+team builder who is necessarily more focused on team funding,
+management, and marketing.
+
+TASK: with minimum investment of (e.g.) time, money, effort,
+
+1 make project content (e.g., plans, data, visualizations) publicly
+  available *over time*: i.e., so as to be
+
+* easily editable (including adding, subtracting, and linking
+  artifacts) by authors and collaborators
+
+* easily citable (from, e.g., webpages, email, blogs)
+
+* secure (from vandalism and loss)
+
+  at annual scale (e.g., 1-5 years, or however long a PhD takes
+  wherever you are).
+
+2 ease migration/transformation of project content from state="raw"
+  (i.e., primarily consumed by one's team) to state="publishable"
+  (i.e., suitable for formal submission to formal internal or external
+  publishers or reviewers, in the formats demanded by the latter).
+
+STRATEGY: I'm either doing or intending to do this now by
+
+1 using a github wiki to maintain a group of pages and associated
+  media relating to the project, including a top-level page (currently
+
+https://github.com/TomRoche/cornbeltN2O/wiki/Simulation-of-N2O-Production-and-Transport-in-the-US-Cornbelt-Compared-to-Tower-Measurements
+
+  ) from which one should be able to discover
+
+* project intent
+
+* project status
+
+* find what one seeks within the project (provided it's there :-)
+
+  Unfortunately github's wiki docs are (IMHO) relatively poor, though,
+  since the wiki is a repo, one benefits from the generally-excellent
+  git docs.
+
+2 storing and processing data, and generating related products (e.g.,
+  visualizations), with maximum automation and reproducibility. This
+  entails
+
+2.1 storing both raw and processed data and products in public
+    datastores
+
+    I'll need to keep local copies of processable data anyway (notably
+    due to latency and processing requirements), and my organization
+    has a capable-looking hierarchical filesystem, so I'm not so
+    concerned about data security when evaluating public datastores. I
+    also understand (better, after the talk) the costs associated with
+    DOI minting and maintenance, and must accommodate that. But my
+    datasets are fairly large (GBs, not yet TBs), so capacity is
+    definitely an issue. So I'm thinking I will
+
+  * publish DOI-worthy data and products at public DOI providers
+    (e.g., pangaea.de (earth-science-specific), figshare.com), so as
+    to stay within space limits for each provider.
+
+  * publish raw-er data and products, for which DOIs are less
+    necessary, at non-DOI-providers such as thedatahub.org et al
+    (e.g., github), so as to stay within space limits for each
+    provider.
+
+    (datadryad.org also seems useful, but *much* too late in the
+    process. Why wait to open-store your data until you have a
+    published article? Am I missing something?)
+
+2.2 processing data and generating products using open-source and
+    publicly-available code and "engines" (e.g., compilers, VMs)
+
+    I'm only partly compliant: I use mostly R for my own work, but
+    generate the base-level data using legacy models which currently
+    rely on proprietary compilers.
+
+2.3 managing code with open-source SCMS and public datastores (aka
+    repositories).
+
+    git+github seems fine for this; but, as with previous, there are a
+    lotta good tools and services in this space. (That being said,
+    github has some excellent documents that could be easily
+    incorporated into a fastpath.) I write R, but have not been
+    packaging it: gotta start doing that.
+
+3 managing references with open-source RMS and public datastores.
+
+  Lotta range here, from all-the-way FOSS (e.g., zotero) to mixed
+  public/proprietary (e.g., mendeley, IIUC).
+
+4 generating formally-structured content ("FSC"--e.g., articles,
+  posters, presentations) directly (with maximum automation and
+  reproducability) from more process-oriented content ("POC"--in the
+  above, wiki(s) and datastore(s)).
+
+PROBLEMS: include, more-or-less in order from least to most severe:
+
+1 Gollum, the github's wiki's rendering engine--at least, the
+  publicly-deployed version--is butt-ugly. For aesthetics, I miss
+  mediawiki, but the version to which I have access is behind a
+  firewall, for which it's hard to enable access. (And MW does not
+  support interaction via git repo, which I very much like about
+  github's wiki. And backing up an MW is still a PITA, at least
+  relative to backing up a git repo.)
+
+2 Gollum does not currently support automatic table-of-contents
+  generation, which
+
+* makes page navigation *much* more difficult
+
+* requires lots of manual internal-link generation
+
+3 I am *quite* far from an FSC-generation solution--I've been putting
+  it off to generate more POC (which make the bosses happy). I need to
+  spend some time with Carl Boettiger's stack
+
+http://lists.okfn.org/pipermail/open-science/2012-April/001520.html
+
+  and look @ dexy (nominated by Cameron Neylon)
+
+http://www.dexy.it/
+
+  before some upcoming conferences.
+
+your assistance is appreciated (as is just reading this far :-)
+
+
+From pm286 at cam.ac.uk  Fri Aug  3 08:43:21 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 3 Aug 2012 08:43:21 +0100
+Subject: [open-science] toward a low-overhead fastpath for open-science
+	"publishing"
+In-Reply-To: <87r4royf2f.fsf@pobox.com>
+References: <87r4royf2f.fsf@pobox.com>
+Message-ID: <CAD2k14P1O=z=zDdHUNn_x21xN7iUhM0dzm+X8dmgdhcrBEpMiA@mail.gmail.com>
+
+This is great Tom,
+
+
+
+On Fri, Aug 3, 2012 at 1:50 AM, Tom Roche <Tom_Roche at pobox.com> wrote:
+
+>
+> summary: let's produce something like a fastpath (more below)
+> demonstrating an open-science "publishing" (more below) process
+> suitable for use by the very-early-career or #scholarlypoor
+> aspiring scientist. I sketch parts of one (below the line).
+>
+> details:
+
+>
+> Thanks all for your interesting talk today
+>
+> http://ckan.okfnpad.org/meetup-2012-08-02
+>
+> Since there seemed to be interest (at least, from me :-),
+
+
+and from me!
+
+
+> and since I
+> think it's a fairly general usecase that might be useful for (e.g.)
+> tutorials/howto's/etc, and since I'd definitely appreciate suggestions
+> for improvement (esp of ease-of-use :-), here's some more detail about
+> what I'm trying to do, and how. (Got a better way to communicate/
+> collaborate on this particular topic? Please lemme know.)
+>
+> I am sure Sophie Kershaw - Panton Fellow - reads this but I've copied her
+in as she is running a 3- week training course on data management  for
+starting PhDs.
+
+What I hope will emerge from this (eventually :-) is a "fastpath " for
+> open-science "publishing" suitable for folks like me:
+>
+> "Fastpath" (a term from my years coding for a massive three-letter
+> acronym) refers to a document for a demo. (Or the script for a demo
+> video.) A fastpath is one level below a howto--even more hands on,
+> with even less explanation: "type this, then click that, and you'll
+> get this thing." Fastpaths instill confidence (to the extent they are
+> completely replicable), and can convince the audience to learn more.
+> (Notably, to RTFM--which the fastpath's intended audience is usually
+> loathe to do.) Note that a fastpath doesn't need to be, and usually
+> isn't, the "absolute best way" to do something (which usually varies
+> by practitioner): it's just so drop-dead easy
+
+
+for the users! It isn't drop-dead easy to create!
+
+
+> and robust (and is
+> therefore usually designed before, and developed with, the code it
+> documents) "even Marketing can run it." FWIW, one part of an
+> open-science publishing fastpath should definitely be
+>
+> http://trac.ckan.org/ticket/2796
+>
+> I put "publishing" in quotes because the domain I target includes many
+> activities (e.g., logging, collaboration) that terminate (more or
+> less) in generation of formally-structured content ("FSC"). The other
+> activities are unfortunately disrespected relative to that which gets
+> funding, tenure, etc--such is life.
+>
+
+Yes. This is a major problem but at least funders are talking about it.
+
+>
+> And, in my own self-interest, I'm also definitely interested in
+> assistance and mentoring with my own effort in this space, which
+> follows; your comments/suggestions are appreciated.
+>
+> ----------------------------------------------------------------------
+>
+> AUDIENCE: very-early-career science students (I'm a master's student)
+> and workers who
+>
+> 1 are reasonably "neterate," i.e., can work with fairly high-level
+>   descriptions of internet-available sites/services and the tools/
+>   protocols available for their access
+>
+> 2 must publish (if only a thesis) to "get ahead" (i.e., the
+>   second-lowest level of the precariat), but haven't yet (or not
+>   enough)
+>
+> 3 want to "be open," i.e., to have their project's plans, data, and
+>   artifacts publicly available (minimally, for collaboration). Extra
+>   credit for exaltation of "replication in computational science"
+>
+> http://ivory.idyll.org/blog/replication-i.html
+>
+>   (and thanks to Cameron Neylon for passing that pointer)
+>
+> 4 are #scholarlypoor in
+>
+> - time, notably because they're so busy learning the domain about
+>   which they need to publish that they lack time to invest in
+>   optimizing publishing tools and processes
+>
+> - money, to pay someone(s) to handle the more strictly publishing-
+>   oriented tasks which they might prefer to offload.
+>
+> Note my audience is more early-career, and my task (below) more
+> individually focused, than would suit someone like Ethan Perlstein,
+> whose Journal Wordpress
+>
+> http://lists.okfn.org/pipermail/open-science/2012-July/001754.html
+>
+> I see as targeting the science worker at the next career level up: a
+> team builder who is necessarily more focused on team funding,
+> management, and marketing.
+>
+> TASK: with minimum investment of (e.g.) time, money, effort,
+>
+> 1 make project content (e.g., plans, data, visualizations) publicly
+>   available *over time*: i.e., so as to be
+>
+> * easily editable (including adding, subtracting, and linking
+>   artifacts) by authors and collaborators
+>
+> * easily citable (from, e.g., webpages, email, blogs)
+>
+> * secure (from vandalism and loss)
+>
+>   at annual scale (e.g., 1-5 years, or however long a PhD takes
+>   wherever you are).
+>
+> 2 ease migration/transformation of project content from state="raw"
+>   (i.e., primarily consumed by one's team) to state="publishable"
+>   (i.e., suitable for formal submission to formal internal or external
+>   publishers or reviewers, in the formats demanded by the latter).
+>
+> STRATEGY: I'm either doing or intending to do this now by
+>
+> 1 using a github wiki to maintain a group of pages and associated
+>   media relating to the project, including a top-level page (currently
+>
+>
+> https://github.com/TomRoche/cornbeltN2O/wiki/Simulation-of-N2O-Production-and-Transport-in-the-US-Cornbelt-Compared-to-Tower-Measurements
+>
+>   ) from which one should be able to discover
+>
+> * project intent
+>
+> * project status
+>
+> * find what one seeks within the project (provided it's there :-)
+>
+>   Unfortunately github's wiki docs are (IMHO) relatively poor, though,
+>   since the wiki is a repo, one benefits from the generally-excellent
+>   git docs.
+>
+> 2 storing and processing data, and generating related products (e.g.,
+>   visualizations), with maximum automation and reproducibility. This
+>   entails
+>
+> 2.1 storing both raw and processed data and products in public
+>     datastores
+>
+>     I'll need to keep local copies of processable data anyway (notably
+>     due to latency and processing requirements), and my organization
+>     has a capable-looking hierarchical filesystem, so I'm not so
+>     concerned about data security when evaluating public datastores. I
+>     also understand (better, after the talk) the costs associated with
+>     DOI minting and maintenance, and must accommodate that. But my
+>     datasets are fairly large (GBs, not yet TBs), so capacity is
+>     definitely an issue. So I'm thinking I will
+>
+>   * publish DOI-worthy data and products at public DOI providers
+>     (e.g., pangaea.de (earth-science-specific), figshare.com), so as
+>     to stay within space limits for each provider.
+>
+>   * publish raw-er data and products, for which DOIs are less
+>     necessary, at non-DOI-providers such as thedatahub.org et al
+>     (e.g., github), so as to stay within space limits for each
+>     provider.
+>
+>     (datadryad.org also seems useful, but *much* too late in the
+>     process. Why wait to open-store your data until you have a
+>     published article? Am I missing something?)
+>
+> 2.2 processing data and generating products using open-source and
+>     publicly-available code and "engines" (e.g., compilers, VMs)
+>
+>     I'm only partly compliant: I use mostly R for my own work, but
+>     generate the base-level data using legacy models which currently
+>     rely on proprietary compilers.
+>
+> 2.3 managing code with open-source SCMS and public datastores (aka
+>     repositories).
+>
+>     git+github seems fine for this; but, as with previous, there are a
+>     lotta good tools and services in this space. (That being said,
+>     github has some excellent documents that could be easily
+>     incorporated into a fastpath.) I write R, but have not been
+>     packaging it: gotta start doing that.
+>
+> 3 managing references with open-source RMS and public datastores.
+>
+>   Lotta range here, from all-the-way FOSS (e.g., zotero) to mixed
+>   public/proprietary (e.g., mendeley, IIUC).
+>
+> 4 generating formally-structured content ("FSC"--e.g., articles,
+>   posters, presentations) directly (with maximum automation and
+>   reproducability) from more process-oriented content ("POC"--in the
+>   above, wiki(s) and datastore(s)).
+>
+> PROBLEMS: include, more-or-less in order from least to most severe:
+>
+> 1 Gollum, the github's wiki's rendering engine--at least, the
+>   publicly-deployed version--is butt-ugly. For aesthetics, I miss
+>   mediawiki, but the version to which I have access is behind a
+>   firewall, for which it's hard to enable access. (And MW does not
+>   support interaction via git repo, which I very much like about
+>   github's wiki. And backing up an MW is still a PITA, at least
+>   relative to backing up a git repo.)
+>
+> 2 Gollum does not currently support automatic table-of-contents
+>   generation, which
+>
+> * makes page navigation *much* more difficult
+>
+> * requires lots of manual internal-link generation
+>
+> 3 I am *quite* far from an FSC-generation solution--I've been putting
+>   it off to generate more POC (which make the bosses happy). I need to
+>   spend some time with Carl Boettiger's stack
+>
+> http://lists.okfn.org/pipermail/open-science/2012-April/001520.html
+>
+>   and look @ dexy (nominated by Cameron Neylon)
+>
+
+Good choice
+
+>
+> http://www.dexy.it/
+>
+>   before some upcoming conferences.
+>
+> your assistance is appreciated (as is just reading this far :-)
+>
+
+I have read it. There's an awful lot and it will take a lot of coordination
+as well as implementation. Can it be done in stages?
+
+And not also that there are several groups thinking like you who are doing
+bottom-up things. Much of this may be integratoin - and from my own
+experience that takes time.
+
+But good luck
+
+_______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120803/389e34b3/attachment.htm>
+
+From Tom_Roche at pobox.com  Fri Aug  3 22:47:03 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Fri, 03 Aug 2012 17:47:03 -0400
+Subject: [open-science] toward a low-overhead fastpath for open-science
+ "publishing"
+In-Reply-To: <CAD2k14P1O=z=zDdHUNn_x21xN7iUhM0dzm+X8dmgdhcrBEpMiA@mail.gmail.com>
+References: <CAD2k14P1O=z=zDdHUNn_x21xN7iUhM0dzm+X8dmgdhcrBEpMiA@mail.gmail.com>
+	<87r4royf2f.fsf@pobox.com>
+Message-ID: <871ujny7fs.fsf@pobox.com>
+
+
+http://lists.okfn.org/pipermail/open-science/2012-August/001760.html
+Tom Roche Fri, Aug 3, 2012 at 1:50 AM
+>> let's produce something like a fastpath [for] an open-science
+>> [publication-oriented] process suitable for use by the
+>> very-early-career or #scholarlypoor aspiring scientist[, where
+>> "fastpath"] refers to a document for a demo. (Or the script for a
+>> demo video.) [It] doesn't need to be, and usually isn't, the
+>> "absolute best way" to do something (which usually varies by
+>> practitioner): [it just needs to be so relatively] drop-dead easy
+>> [that] "even Marketing can run it."
+
+Or that can one record it and put it on <your internet video site here/>
+and be reasonably confident that any given member of the target audience
+can run it successfully.
+
+http://lists.okfn.org/pipermail/open-science/2012-August/001761.html
+Peter Murray-Rust Fri, 3 Aug 2012 08:43:21 +0100
+> It isn't drop-dead easy to create!
+
+... as noted in original
+
+>> [A fastpath should] therefore usually designed before, and developed
+>> with, the code it documents
+
+But, as I should have noted in the original (but added above), a
+fastpath just needs to be *relatively* drop-dead easy. I.e., for a
+ginormous task like a scientific project, a fastpath need only be more
+deterministic and much, *much* faster. And it can be assembled @
+runtime from previously-prepared components:
+
+> [A fastpath would probably be] an awful lot and it will take a lot
+> of coordination as well as implementation. Can it be done in stages?
+
+Yes. What follows is
+
+* just one way to do this. YMMV. Alternatives welcome.
+
+* based on my current service/tool choices, which may be waay
+  suboptimal, but are known to work ... somewhat :-) See problems
+  noted in original.
+
+* based largely on my experience as a corporate coder (through late
+  naughties), which worked then (but goes stale fast in IT-time):
+
+  My previous gig was developing IDEs for other corporate developers
+  (very "meta") working mostly with java and XML, but also legacies like
+  SQL and COBOL. (aside: COBOL is not dead--there's GLOCs of it in
+  production, everywhere--it's undead :-) So we had to simulate the
+  automation of relatively-specialized tasks for folks working in
+  (code-wise) quite built-up but very closed environments. (Notably,
+  FIRE: that's "where the money is," but those folks *absolutely* don't
+  want their code made public.)
+
+  Salesfolk (prettier than coders :-) would demo our wizzy tool du jour
+  (e.g., a drag-n-drop diagram editor allowing one to represent
+  architectures at a high level and interact with them via wizards
+  (i.e., sequences of dialogs) for generating/modifying/deploying code)
+  using previously-written fake-but-realistic-looking (I'll call that
+  "PWFBRL") components. We used these canned components because actually
+  writing them at "demo-time" would have been slow and boring and not
+  what the target audience was interested in. So a demo-er would
+  therefore spend a fair amount of time saying/doing things like
+  (just OTTOMH):
+
+  "So here's your legacy for creating a global-economy-destroying
+  derivative contract [click on diagram node opens PWFBRL COBOL in an
+  editor]. As you can see [scrolling], it calls foo, bar, and baz
+  [clicks in code navigator opening other PWFBRL sources]. And here
+  [more navigator clicks] are your triggers in the customer database
+  [scrolling more editors showing PWFBRL SQL, putting more nodes on the
+  diagram]. And here's your website for your vampire-squid clients [more
+  clicks, scrolling, nodes, PWFBRL java, HTML, XML]. Now we're gonna
+  invert control [a major naughties buzzphrase] with callbacks in the
+  [your framework here--java is all about frameworks :-] fa?ade [and
+  about design patterns :-] [lots more clicks, drags, some typing]. Now
+  let's recompile [click], and run this sucker [open browser, type a
+  little]--et voil?!" [applause]
+
+ISTM CKAN could do likewise. Here's an example (for convenience
+only--nothing set in stone, noting caveats from first post in this
+thread, and I may be missing something(s)):
+
+1 Know/determine your target audience. (Always job #1.)
+
+2 Imagine (better: copy/modify) a publication-oriented science project
+  that is
+
+* sufficiently generic to be understandable by the target audience
+
+* sufficiently interesting to appeal to the target audience
+
+Consider skipping ahead to step=7 (usecase generation), or just do
+that in parallel with the following steps (3..6):
+
+3 Project goal: formally-structured content (FSC):
+
+3.1 Imagine (better: copy/modify) one or more FSC instances that the
+    project owner(s) would want to generate (e.g., an article, poster,
+    presentation).
+
+3.2 Choose FSC generation (FSCG) tool/service(s):
+
+    Probably your major design decision. You will be criticized--get
+    over it !-) You want something that outputs pretty FSCs, for which
+    inputs are easy/quick to author, that is easy to setup, that
+    operates robustly, has good support/community, and <your criteria
+    here/>.
+
+    Test your choice: create simple input(s), feed to your FSCG,
+    inspect output, loop until you're satisfied.
+
+4 Project-oriented content (POC):
+
+* Data: create/steal some project-relevant data, and decide how to
+  manage it (e.g., with thedatahub).
+
+* Code: create/steal some code that does something with the data, and
+  decide how to manage it (e.g., with git+github).
+
+* References: fake/steal some references about the project domain, and
+  store them appropriately.
+
+5 Get meta: "eat your own dogfood" by managing *this project* (the
+  creation of a fastpath) using the tools/services you will be demoing
+  in the fastpath. (Or not :-)
+
+6 Create top-level node: see strategy item 1 in
+
+http://lists.okfn.org/pipermail/open-science/2012-August/001760.html
+
+6.1 Create something publicly-available (e.g., a wiki homepage) from
+    which one should be able to discover project status, intent, and
+    content. This is the project TLN.
+
+6.2 Populate the TLN with POC (e.g., plans, status, visualizations) to
+    scroll in the demo. (If a wiki, POC can be in other pages in the
+    same wiki--i.e., implement the TLN as a site.)
+
+6.3 Since users will be spending much time in the TLN, satisfy
+    yourself regarding the ease of editing, navigation, and searching
+    the TLN itself, as well as the content it contains/indexes.
+
+6.4 Add your FSC input and output to the TLN. Repeat usability testing.
+
+7 Create demo-worthy usecases. These might include any of the
+  following, and new usecases can be added as you have resource and
+  interest:
+
+* adding a new phase/activity to the TLN/site about incorporating new
+  data (which needs added to the datastore, etc)
+
+* adding new POC to the TLN. E.g., you need a new visualization, so
+  you create or edit new code (which you manage), you run the code, 
+  you add the visualization to the project site (and perhaps the FSC).
+
+* editing/regenerating your FSC (adding new code, figures, etc).
+
+N Write something out. Demo on yourself. Demo to a friendly audience.
+  Put a rough draft on your blog. "Go live" to a "real" audience.
+  Record a screencast, release it to the world. Add new usecases,
+  refactor the whole thing. Choose new tools/services. Smile when
+  folks fork it, change everything, and proclaim your inferiority.
+  Change the world and die happy :-)
+
+FWIW, Tom Roche <Tom_Roche at pobox.com>
+
+
+From Tom_Roche at pobox.com  Sun Aug  5 16:19:12 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Sun, 05 Aug 2012 11:19:12 -0400
+Subject: [open-science] AGU 2012: "Climate Modeling in an Open,
+	Transparent World"
+Message-ID: <87mx29bc3z.fsf@pobox.com>
+
+
+One of the ~1000 sections of the annual "fall" (1st week December)
+meeting of the American Geophysical Union (actually quite international,
+and held in San Francisco for that reason, as well as its size--
+AGU fills the entire Moscone Center) this year will be
+
+http://fallmeeting.agu.org/2012/session-search/single/climate-modeling-in-an-open-transparent-world/ (rearranged)
+> This session deals with climate-model software quality and
+> transparent publication of model descriptions, software, and
+> results. The models are based on physical theories but implemented
+> as software systems that must be kept bug-free, readable, and
+> efficient as they evolve with climate science. How do open source
+> and community-based development affect software quality? What are
+> the roles of publication and peer review of the scientific and
+> computational designs in journals or other curated online venues?
+> Should codes and datasets be linked to journal articles? What
+> changes in journal submission standards and infrastructure are
+> needed to support this? We invite submissions including experience
+> reports, case studies, and visions of the future.
+
+> Conveners:
+
+>     Steve M Easterbrook
+>     University of Toronto
+>     sme at cs.toronto.edu
+
+>     Mariana Vertenstein
+>     National Center for Atmospheric Research
+>     mvertens at ucar.edu
+
+>     David A Randall
+>     Colorado State University
+>     randall at atmos.colostate.edu
+
+>     Venkatramani Balaji
+>     Geophysical Fluid Dynamics Laboratory
+>     balaji at princeton.edu
+
+Abstracts due 11:59pm W 8 Aug
+
+http://agu-fm12.abstractcentral.com/
+
+
+From jonathan.gray at okfn.org  Sun Aug  5 19:34:35 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sun, 5 Aug 2012 19:34:35 +0100
+Subject: [open-science] Climate Modeling in an Open, Transparent World
+Message-ID: <CANQ_vu2m5Qy_sXHZJANuafN67AqhFaU_LeLMBy8YWVg+i275dw@mail.gmail.com>
+
+Thought this might be of interest:
+
+http://fallmeeting.agu.org/2012/session-search/single/climate-modeling-in-an-open-transparent-world/
+
+"This session deals with climate-model software quality and transparent
+publication of model descriptions, software, and results. The models are
+based on physical theories but implemented as software systems that must be
+kept bug-free, readable, and efficient as they evolve with climate science.
+How do open source and community-based development affect software quality?
+What are the roles of publication and peer review of the scientific and
+computational designs in journals or other curated online venues? Should
+codes and datasets be linked to journal articles? What changes in journal
+submission standards and infrastructure are needed to support this? We
+invite submissions including experience reports, case studies, and visions
+of the future."
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120805/0b713241/attachment.htm>
+
+From laura.newman at okfn.org  Tue Aug  7 09:49:51 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Tue, 7 Aug 2012 09:49:51 +0100
+Subject: [open-science] Get your OKFest tickets today - early bird prices
+	end TOMORROW!
+Message-ID: <CAMQ+bMYqfXnLVqauKFSM92_ycfDY78NKsFqh+o9yAmORcGrxSQ@mail.gmail.com>
+
+Hi all,
+
+A reminder that OKFest early bird ticket sales close TOMORROW. To reserve
+your ticket at the discounted rate, visit:
+http://okfestival.org/early-bird-okfest-tickets/ now!
+
+For details of all that the Research and Education stream has planned, see
+this blog post:
+http://science.okfn.org/2012/08/07/get-your-ticket-for-okfest-today-early-bird-closes-august-8th/
+
+We have a great two days lined up on Wednesday 19th and Thursday 20th
+September. Sessions will include a keynote by Mat Todd on Open Source Drug
+Discovery, an interactive session with Carl-Christian Bohr to discuss the
+European Commission's open science policy, and panel discussions on
+communicating science (including representatives from academia, science
+publishing and wikimedia), making open access work in practice, and opening
+up raw experimental data (led by Mark Hahnel from Figshare). There will
+also be a host of workshops, hands-on sessions and drafting sprints, so do
+come and join us!
+
+On Tuesday 18th September, we will be holding a satellite hackday. Details
+here:
+https://docs.google.com/spreadsheet/viewform?formkey=dENfTWM3S0JtVUVOazNNZ2R3Um5WQ1E6MQ
+.
+
+I hope to see you there!
+
+Kind regards,
+Laura
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120807/63b22350/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Aug  7 11:32:01 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 7 Aug 2012 11:32:01 +0100
+Subject: [open-science] Fwd: Seminar invitation
+In-Reply-To: <7B65FF8358369A4C8EEEEA84A82013D868F3A5@UOS-MSG00039-SI.soton.ac.uk>
+References: <7B65FF8358369A4C8EEEEA84A82013D868F3A5@UOS-MSG00039-SI.soton.ac.uk>
+Message-ID: <CAD2k14Nf_qAiEkSWOz=kSnXQenN8yKdv5vQEkH+vDdRSDipQ_g@mail.gmail.com>
+
+May be of interest, but clashes with OKFest
+
+---------- Forwarded message ----------
+From: Payne L. <L.Payne at soton.ac.uk>
+Date: Tue, Aug 7, 2012 at 9:24 AM
+Subject: Seminar invitation
+To: DATA-AC-UK at jiscmail.ac.uk
+
+
+This is an invitation to a national seminar on the subject of research
+equipment data sharing, supported by EPSRC and hosted by the University of
+Southampton, with key note speaker Professor Nigel Shadbolt.
+The UNIQUIP<http://www.uniquip.org/> Project, launched in July this year,
+was established with the aim of driving developments in the sharing of
+research facilities and equipment datasets.
+This two day seminar will facilitate discussions and debate in some of the
+key areas of data sharing including ?
+
+-          Vocabulary development - creating data rich information
+
+-          Technology developments - including interoperability
+
+-          Sustainable practices - managing and integrating data
+
+-          The future ? creating national data sets
+This event aims to demonstrate that the vision of sharing equipment data at
+a national level can be realised.
+With presentations from CERIF, EPSRC and across the data.ac.uk community,
+the seminar promises to provide some fascinating insights, spaces are
+limited so register as soon as possible to avoid disappointment.
+When?
+ 18th and 19th September
+
+Where?
+University of Southampton
+
+Cost?
+Free
+
+How to book your space?
+Please visit www.uniquip.org
+
+
+
+
+Louise Payne
+
+Research Equipment and Facilities Sharing Project
+
+Research and Innovation Services
+
+University of Southampton
+
+Building 37
+
+Highfield Campus
+
+
+
+02380 598586
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120807/2f6392eb/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Aug  8 17:30:55 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 8 Aug 2012 17:30:55 +0100
+Subject: [open-science] OKFest Early Bird ticket sales are closing TODAY!
+Message-ID: <CABPM+woSN+8XJvPJ_WiE5oPeiXStKBqJekrFV_-8_kFyhBuALw@mail.gmail.com>
+
+Hi All
+
+Early bird ticket sales for OKfest are *ending today*. Make sure you book
+if you are planning to attend! http://okfestival.org/early-**
+bird-okfest-tickets/ <http://okfestival.org/early-bird-okfest-tickets/>
+
+For reasons why you should come to Helsinki (and you really should!) check
+out Laura's blog post
+http://science.okfn.org/2012/08/07/get-your-ticket-for-okfest-today-early-bird-closes-august-8th/
+
+and the excellent Open Science programme we have planned for you
+http://science.okfn.org/okfest/
+
+Best wishes
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120808/053892c4/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Aug  8 20:40:09 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 8 Aug 2012 21:40:09 +0200
+Subject: [open-science] Fwd: [open-government] Symposium on Global
+	Scientific Data Infrastructure
+In-Reply-To: <CAPT_w+ke4V1rTbLfdPCx6tQ+1c5inOxcvOwpgOxmr0wChOCgoQ@mail.gmail.com>
+References: <CAPT_w+ke4V1rTbLfdPCx6tQ+1c5inOxcvOwpgOxmr0wChOCgoQ@mail.gmail.com>
+Message-ID: <CANQ_vu0cuw3+qQh4QCZG3GxDyE9c+wKGR_vTaLCYGaDAVE6Dqg@mail.gmail.com>
+
+FYI
+
+
+---------- Forwarded message ----------
+From: Tracey P. Lauriault <tlauriau at gmail.com>
+Date: Wed, Aug 8, 2012 at 9:37 PM
+Subject: [open-government] Symposium on Global Scientific Data Infrastructure
+To: open-government at lists.okfn.org, civicaccess discuss
+<CivicAccess-discuss at civicaccess.ca>
+
+
+The symposium on Global Scientific Data Infrastructure will be held
+3:00 - 5:45 p.m. on 29 August 2012 at the Lecture Room of the National
+Academy of Sciences, at 2101 Constitution Avenue NW, Washington, DC.
+The program is organized by the Board on Research Data and Information
+and sponsored by the National Science Foundation. Background
+information about the symposium is available on the Board's website
+at: www.nas.edu/brdi. The event is open to the public, with advance
+registration. If you are unable to attend this meeting in person, you
+can participate in a real-time audio-only webcast of the proceedings,
+or listen to an archived version subsequently on the Board's website.
+
+On the day of the event, a link will be posted on the National
+Academies website (www.nationalacademies.org). Webcast listeners will
+be able to listen either through Windows Media Player or through
+RealPlayer. Webcast listeners are requested to email their questions
+(stating their names and institutional affiliation) to Cheryl Levey,
+atclevey at nas.edu. Due to time restrictions, not all of the submitted
+questions or comments may be responded to at the symposium.
+
+Any questions regarding this event or the audiocasting instructions
+may be directed to Paul Uhlir, the Board Director, at puhlir at nas.edu,
+or to Cheryl Levey atclevey at nas.edu.
+
+
+
+--
+Tracey P. Lauriault
+Post Doctoral Fellow
+Geomatics and Cartographic Research Centre
+https://gcrc.carleton.ca/confluence/display/GCRCWEB/Lauriault
+http://datalibre.ca/
+613-234-2805
+
+
+_______________________________________________
+open-government mailing list
+open-government at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-government
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From ross.mounce at gmail.com  Tue Aug 14 14:56:22 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Tue, 14 Aug 2012 14:56:22 +0100
+Subject: [open-science] WileyOpenAccess is now CC-BY
+Message-ID: <CAJr+OEzO0Umj8FaZ-ostAz_qV9Gv6xguWDxSj9Tx5SyNhJUGuA@mail.gmail.com>
+
+Just a quick note:
+
+Wiley have sent out a press release today to announce that they have
+changed the licensing conditions of their 'WileyOpenAccess' branded
+journals.
+http://eu.wiley.com/WileyCDA/PressRelease/pressReleaseId-104537.html
+
+They have now adopted the Creative Commons Attribution
+(CC-BY<http://creativecommons.org/licenses/by/3.0/>)
+licence.
+
+I and many others have repeatedly pointed out that the label
+'WileyOpenAccess' doesn't fit the CC BY-NC license they were previously
+using. So this is a small but welcome victory for common sense and Open
+Access.
+
+
+Best,
+
+Ross
+
+Related links:
+http://ucfagls.wordpress.com/2012/07/17/sometimes-i-am-lost-for-words/ &
+http://svpow.com/2012/07/03/dear-wiley-please-use-creative-commons-attribution-for-your-open-access-activities/
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120814/142ae7df/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Aug 14 15:09:36 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 14 Aug 2012 16:09:36 +0200
+Subject: [open-science] [Open-access] WileyOpenAccess is now CC-BY
+In-Reply-To: <CACGRf4Kf2xYwV=ydppthtGS0UVsfH+OehyGH050gJcTxWik3Gw@mail.gmail.com>
+References: <CAJr+OEzO0Umj8FaZ-ostAz_qV9Gv6xguWDxSj9Tx5SyNhJUGuA@mail.gmail.com>
+	<CACGRf4Kf2xYwV=ydppthtGS0UVsfH+OehyGH050gJcTxWik3Gw@mail.gmail.com>
+Message-ID: <CANQ_vu0MJcTus7diyEUxj8RzBdWDrY6bjqxzfLMh9W6uJaSVkg@mail.gmail.com>
+
+This is fantastic Ross! A very welcome development. :-)
+
+On Tue, Aug 14, 2012 at 3:59 PM, Naomi Lillie <naomi.lillie at okfn.org> wrote:
+> Great news, Ross! A sign that the hard work you, PMR and others are putting
+> in is making a *big* difference :-)
+>
+>
+> On 14 August 2012 14:56, Ross Mounce <ross.mounce at gmail.com> wrote:
+>>
+>> Just a quick note:
+>>
+>> Wiley have sent out a press release today to announce that they have
+>> changed the licensing conditions of their 'WileyOpenAccess' branded
+>> journals.
+>> http://eu.wiley.com/WileyCDA/PressRelease/pressReleaseId-104537.html
+>>
+>> They have now adopted the Creative Commons Attribution (CC-BY) licence.
+>>
+>> I and many others have repeatedly pointed out that the label
+>> 'WileyOpenAccess' doesn't fit the CC BY-NC license they were previously
+>> using. So this is a small but welcome victory for common sense and Open
+>> Access.
+>>
+>>
+>> Best,
+>>
+>> Ross
+>>
+>> Related links:
+>> http://ucfagls.wordpress.com/2012/07/17/sometimes-i-am-lost-for-words/ &
+>> http://svpow.com/2012/07/03/dear-wiley-please-use-creative-commons-attribution-for-your-open-access-activities/
+>>
+>> --
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> Ross Mounce
+>> PhD Student & Panton Fellow
+>> Fossils, Phylogeny and Macroevolution Research Group
+>> University of Bath, 4 South Building, Lab 1.07
+>> http://about.me/rossmounce
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>
+>
+>
+> --
+> Naomi Lillie
+> Foundation Administrator and Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org/
+> Skype: n.lillie
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From eperlste at princeton.edu  Tue Aug 14 19:29:20 2012
+From: eperlste at princeton.edu (Ethan O. Perlstein)
+Date: Tue, 14 Aug 2012 14:29:20 -0400
+Subject: [open-science]  The Journal Wordpress
+In-Reply-To: <CAD2k14PDOXDG2Ew15br6dtn1hLOPU43sT7a_Pj9OMPjJ3Jto-Q@mail.gmail.com>
+References: <501016F5.5000207@princeton.edu>
+	<CAD2k14PDOXDG2Ew15br6dtn1hLOPU43sT7a_Pj9OMPjJ3Jto-Q@mail.gmail.com>
+Message-ID: <502A9900.9050201@princeton.edu>
+
+Hello,
+
+The source code for my responsive, Open Science self publishing 
+platform, along with a how-to guide, is now available here: 
+http://perlsteinlab.com/about
+
+Thanks,
+Ethan
+
+
+On 7/25/12 12:15 PM, Peter Murray-Rust wrote:
+>
+>
+> On Wed, Jul 25, 2012 at 4:55 PM, Ethan O. Perlstein 
+> <eperlste at princeton.edu <mailto:eperlste at princeton.edu>> wrote:
+>
+>     Hello,
+>
+>     I'm new entrant to the Open Science list. My name is Ethan
+>     Perlstein, I'm an evolutionary pharmacologist at Princeton, and my
+>     lab gives psych drugs to yeast.
+>
+>     Recently, I commissioned a modular, self publishing platform built
+>     on WP from a professional web design team, and my site went live a
+>     month ago: http://perlsteinlab.com
+>
+>
+> Welcme Ethan!
+>
+>     In the spirit of Open Science, I'd like to make my platform freely
+>     available and open source. After consultations, the consensus is
+>     to convert my site into a Wordpress theme via a community-based
+>     effort. I'm looking for anyone interested in helping me, which as
+>     I understand ultimately boils down to uploading the base code onto
+>     GitHub. However, not being a programmer myself, I don't know how
+>     to navigate this process and ensure that conversion to a WP theme
+>     is efficient and actually results in a usable platform.
+>
+>
+> Is it specifically based on GitHub? Or would any repository do?
+>
+>     Please let me know if this project is of interest, and if you or
+>     anyone you know would be interesting in using such a platform.
+>
+>
+> All such ideas are interesting -  the OKF is a meritocracy so take-up 
+> depends on the ideas and the implementation being compelling.
+>
+> My personal experience with WP is that it's the de facto open standard 
+> - so I use it - but it seems awful for semantic content such as XML. 
+> But maybe it's got better...
+>
+>
+>
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120814/5f0679a7/attachment.htm>
+
+From mf.kubke at gmail.com  Tue Aug 14 22:50:49 2012
+From: mf.kubke at gmail.com (Fabiana Kubke)
+Date: Wed, 15 Aug 2012 09:50:49 +1200
+Subject: [open-science] [Open-access] WileyOpenAccess is now CC-BY
+In-Reply-To: <CANQ_vu0MJcTus7diyEUxj8RzBdWDrY6bjqxzfLMh9W6uJaSVkg@mail.gmail.com>
+References: <CAJr+OEzO0Umj8FaZ-ostAz_qV9Gv6xguWDxSj9Tx5SyNhJUGuA@mail.gmail.com>
+	<CACGRf4Kf2xYwV=ydppthtGS0UVsfH+OehyGH050gJcTxWik3Gw@mail.gmail.com>
+	<CANQ_vu0MJcTus7diyEUxj8RzBdWDrY6bjqxzfLMh9W6uJaSVkg@mail.gmail.com>
+Message-ID: <CAEFyjF0wteYOkrDJwNoQwNRk8a+TLh7Q3YtOsLoe7GTbsqfKgw@mail.gmail.com>
+
+Fantastic news, indeed!
+Cheers
+Fabiana
+
+On Wed, Aug 15, 2012 at 2:09 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> This is fantastic Ross! A very welcome development. :-)
+>
+> On Tue, Aug 14, 2012 at 3:59 PM, Naomi Lillie <naomi.lillie at okfn.org>
+> wrote:
+> > Great news, Ross! A sign that the hard work you, PMR and others are
+> putting
+> > in is making a *big* difference :-)
+> >
+> >
+> > On 14 August 2012 14:56, Ross Mounce <ross.mounce at gmail.com> wrote:
+> >>
+> >> Just a quick note:
+> >>
+> >> Wiley have sent out a press release today to announce that they have
+> >> changed the licensing conditions of their 'WileyOpenAccess' branded
+> >> journals.
+> >> http://eu.wiley.com/WileyCDA/PressRelease/pressReleaseId-104537.html
+> >>
+> >> They have now adopted the Creative Commons Attribution (CC-BY) licence.
+> >>
+> >> I and many others have repeatedly pointed out that the label
+> >> 'WileyOpenAccess' doesn't fit the CC BY-NC license they were previously
+> >> using. So this is a small but welcome victory for common sense and Open
+> >> Access.
+> >>
+> >>
+> >> Best,
+> >>
+> >> Ross
+> >>
+> >> Related links:
+> >> http://ucfagls.wordpress.com/2012/07/17/sometimes-i-am-lost-for-words/&
+> >>
+> http://svpow.com/2012/07/03/dear-wiley-please-use-creative-commons-attribution-for-your-open-access-activities/
+> >>
+> >> --
+> >> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> >> Ross Mounce
+> >> PhD Student & Panton Fellow
+> >> Fossils, Phylogeny and Macroevolution Research Group
+> >> University of Bath, 4 South Building, Lab 1.07
+> >> http://about.me/rossmounce
+> >> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> >>
+> >> _______________________________________________
+> >> open-access mailing list
+> >> open-access at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-access
+> >>
+> >
+> >
+> >
+> > --
+> > Naomi Lillie
+> > Foundation Administrator and Community Coordinator
+> > Open Knowledge Foundation
+> > http://okfn.org/
+> > Skype: n.lillie
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> >
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Head of Community
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> http://twitter.com/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+M Fabiana Kubke
+
+Department of Anatomy | University of Auckland | New Zealand
+(+64) 9 373-7599 Ext 86002 | (+64)9 923 6002 (direct) | Mobile: (+64) 210
+437 121
+
+Skype: superfabs | http://twitter.com/Kubke | http://identi.ca/kubke |
+http://buildingblogsofscience.wordpress.com |
+http://sciblogs.co.nz/building-blogs-of-science |
+http://popscinz.wordpress.com | http://talkingteaching.wordpress.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120815/e79fc0dc/attachment.htm>
+
+From punk.kish at gmail.com  Wed Aug 15 06:47:05 2012
+From: punk.kish at gmail.com (Puneet Kishor)
+Date: Wed, 15 Aug 2012 00:47:05 -0500
+Subject: [open-science] new opportunity for working together
+Message-ID: <6ADB90EA-2B66-4299-997B-3E89A8289334@gmail.com>
+
+Greetings dear list members,
+
+Its been a while since I posted here, but I am doing so now with some good news -- I have accepted the newly formed position of Policy Coordinator for Science and Data at Creative Commons.
+
+I will be joining Timothy Vollmer and the rest of the CC team in the Bay Area later this month.
+
+I look forward to working with you all toward our common interest in enabling permanently free and open access to scientific data.
+
+
+--
+Puneet Kishor
+
+From laura.newman at okfn.org  Wed Aug 15 06:55:07 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Wed, 15 Aug 2012 06:55:07 +0100
+Subject: [open-science] new opportunity for working together
+In-Reply-To: <6ADB90EA-2B66-4299-997B-3E89A8289334@gmail.com>
+References: <6ADB90EA-2B66-4299-997B-3E89A8289334@gmail.com>
+Message-ID: <CAMQ+bMboGfno86M2eB3eYcMNJZ7J79MyEzoTHvufh6ZwsgVodA@mail.gmail.com>
+
+Many congratulations Puneet - fantastic news! :)
+
+
+
+On Wed, Aug 15, 2012 at 6:47 AM, Puneet Kishor <punk.kish at gmail.com> wrote:
+
+> Greetings dear list members,
+>
+> Its been a while since I posted here, but I am doing so now with some good
+> news -- I have accepted the newly formed position of Policy Coordinator for
+> Science and Data at Creative Commons.
+>
+> I will be joining Timothy Vollmer and the rest of the CC team in the Bay
+> Area later this month.
+>
+> I look forward to working with you all toward our common interest in
+> enabling permanently free and open access to scientific data.
+>
+>
+> --
+> Puneet Kishor
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120815/7917c479/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug 15 14:39:39 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 15 Aug 2012 14:39:39 +0100
+Subject: [open-science] [Open-access] WileyOpenAccess is now CC-BY
+In-Reply-To: <CAEFyjF0wteYOkrDJwNoQwNRk8a+TLh7Q3YtOsLoe7GTbsqfKgw@mail.gmail.com>
+References: <CAJr+OEzO0Umj8FaZ-ostAz_qV9Gv6xguWDxSj9Tx5SyNhJUGuA@mail.gmail.com>
+	<CACGRf4Kf2xYwV=ydppthtGS0UVsfH+OehyGH050gJcTxWik3Gw@mail.gmail.com>
+	<CANQ_vu0MJcTus7diyEUxj8RzBdWDrY6bjqxzfLMh9W6uJaSVkg@mail.gmail.com>
+	<CAEFyjF0wteYOkrDJwNoQwNRk8a+TLh7Q3YtOsLoe7GTbsqfKgw@mail.gmail.com>
+Message-ID: <CAD2k14OgxSZ95X+Kf=4-r3am8RMH9So-+FQm7GpQqduPrwZ9sw@mail.gmail.com>
+
+Thanks Ross,
+Even more indication that your OA licence index qill be of interest!
+
+On Tue, Aug 14, 2012 at 10:50 PM, Fabiana Kubke <mf.kubke at gmail.com> wrote:
+
+> Fantastic news, indeed!
+> Cheers
+> Fabiana
+>
+> On Wed, Aug 15, 2012 at 2:09 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+>
+>> This is fantastic Ross! A very welcome development. :-)
+>>
+>> On Tue, Aug 14, 2012 at 3:59 PM, Naomi Lillie <naomi.lillie at okfn.org>
+>> wrote:
+>> > Great news, Ross! A sign that the hard work you, PMR and others are
+>> putting
+>> > in is making a *big* difference :-)
+>> >
+>> >
+>> > On 14 August 2012 14:56, Ross Mounce <ross.mounce at gmail.com> wrote:
+>> >>
+>> >> Just a quick note:
+>> >>
+>> >> Wiley have sent out a press release today to announce that they have
+>> >> changed the licensing conditions of their 'WileyOpenAccess' branded
+>> >> journals.
+>> >> http://eu.wiley.com/WileyCDA/PressRelease/pressReleaseId-104537.html
+>> >>
+>> >> They have now adopted the Creative Commons Attribution (CC-BY) licence.
+>> >>
+>> >> I and many others have repeatedly pointed out that the label
+>> >> 'WileyOpenAccess' doesn't fit the CC BY-NC license they were previously
+>> >> using. So this is a small but welcome victory for common sense and Open
+>> >> Access.
+>> >>
+>> >>
+>> >> Best,
+>> >>
+>> >> Ross
+>> >>
+>> >> Related links:
+>> >> http://ucfagls.wordpress.com/2012/07/17/sometimes-i-am-lost-for-words/&
+>> >>
+>> http://svpow.com/2012/07/03/dear-wiley-please-use-creative-commons-attribution-for-your-open-access-activities/
+>> >>
+>> >> --
+>> >> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> >> Ross Mounce
+>> >> PhD Student & Panton Fellow
+>> >> Fossils, Phylogeny and Macroevolution Research Group
+>> >> University of Bath, 4 South Building, Lab 1.07
+>> >> http://about.me/rossmounce
+>> >> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> >>
+>> >> _______________________________________________
+>> >> open-access mailing list
+>> >> open-access at lists.okfn.org
+>> >> http://lists.okfn.org/mailman/listinfo/open-access
+>> >>
+>> >
+>> >
+>> >
+>> > --
+>> > Naomi Lillie
+>> > Foundation Administrator and Community Coordinator
+>> > Open Knowledge Foundation
+>> > http://okfn.org/
+>> > Skype: n.lillie
+>> >
+>> > _______________________________________________
+>> > open-access mailing list
+>> > open-access at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-access
+>> >
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Head of Community
+>> The Open Knowledge Foundation
+>> http://www.okfn.org
+>>
+>> http://twitter.com/jwyg
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+>
+> --
+> M Fabiana Kubke
+>
+> Department of Anatomy | University of Auckland | New Zealand
+> (+64) 9 373-7599 Ext 86002 | (+64)9 923 6002 (direct) | Mobile: (+64) 210
+> 437 121
+>
+> Skype: superfabs | http://twitter.com/Kubke | http://identi.ca/kubke |
+> http://buildingblogsofscience.wordpress.com |
+> http://sciblogs.co.nz/building-blogs-of-science |
+> http://popscinz.wordpress.com | http://talkingteaching.wordpress.com
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120815/3cfe01a3/attachment.htm>
+
+From johnsonbjeff at gmail.com  Thu Aug 16 21:32:06 2012
+From: johnsonbjeff at gmail.com (Bo Johnson)
+Date: Thu, 16 Aug 2012 15:32:06 -0500
+Subject: [open-science] Hello everyone
+Message-ID: <CA+P1A+8rjsaY-PxJQhJxyf6-gM-uuq13s2Xj0Jxe3Ug1sXi5zw@mail.gmail.com>
+
+Hi everyone,
+
+My name is Bo Johnson and I live in Chicago in the US. I work in
+information management and am finishing a masters degree in Library and
+Information Science. Broadly, I have been focusing on the information
+science portion of the degree, such as taxonomies/ontologies, metadata, and
+information storage and retrieval. I am also already a member of the Open
+Biblio group.
+
+I have always had a passion for scientific information and would love to
+contribute any way I can.
+
+Thanks!
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120816/ef5f147f/attachment.htm>
+
+From jenny.molloy at okfn.org  Fri Aug 17 10:16:22 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 17 Aug 2012 10:16:22 +0100
+Subject: [open-science] Digital Research 2012 ft OKFN Open Data Publication
+	Session
+Message-ID: <CABPM+woZkpiEEhC5K3FrVH6QJsT4j30SrOjLqU6Jgxk5cdWSgg@mail.gmail.com>
+
+Hi All
+
+The following event in Oxford may be of interest to you, OKFN have been
+involved in organising a session on open data publication and the rest of
+the programme also looks great so do take a look and I hope to see some of
+you there!
+
+http://digital-research.oerc.ox.ac.uk
+
+Jenny
+
+
+The UK's premier Digital Research community event is being held in Oxford
+10-12 September 2012.  Come along to showcase and share the latest in
+digital research practice - and set the agenda for tomorrow.
+
+*Digital Research 2012* brings together digital researchers from all
+areas to showcase their research and share the latest digital approaches -
+from Big Data Analytics and e-Infrastructure to Citizen Science and
+Software Sustainability.
+
+Building on the successful series of UK e-Science events, Digital Research
+2012 welcomes researchers from all disciplines, from academia and business,
+and at all stages of their careers.This three day event in Oxford 10-12
+September features collocated workshops, talks and demos - a meeting place
+to showcase and learn.
+
+This year our conference theme is the *Future of Digital Research* and the
+programme includes New Science of New Data (twitter analytics, web
+science), e-Infrastructure, Software Sustainability, Open Science, Data
+Archiving and a Digital Research Future Forum and Roundtable. We have an
+exciting set of leading speakers to deliver their visions of the future.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120817/ffe4c3c4/attachment.htm>
+
+From Tom_Roche at pobox.com  Fri Aug 17 11:15:47 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Fri, 17 Aug 2012 06:15:47 -0400
+Subject: [open-science] fw: Python NLTK/data mining/machine learning project
+ of public research data, anyone interested?
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+Message-ID: <87has1n7sc.fsf@pobox.com>
+
+
+Dunno if the following is OT for this group, but thought this thread
+from the local PUG might be of interest. (Note I don't know the
+author personally; reply to him, not me.)
+
+http://mail.python.org/pipermail/trizpug/2012-August/001919.html
+> Nathan Rice nathan.alexander.rice at gmail.com
+> Thu Aug 16 20:31:00 CEST 2012
+
+> Hi All,
+
+> Normally, my projects are pretty boring, and I prefer to endure the
+> suffering in solitary silence. As luck would have it though, I
+> actually have an interesting project on my plate currently, and I
+> think it is cool enough that I wanted to give other people the
+> opportunity to stick their noses in and provide input or play with
+> some code.
+
+> I am currently involved in compiling a database of medical data
+> (published clinical or pre-clinical trials) surrounding ethno- and
+> alternative- medicinal treatments, for semi-automated meta analysis
+> and treatment guidance. In order for this to work, a lot of
+> technical challenges have to be overcome:
+
+> My initial tally from PubMed puts the number of articles at over
+> 70,000; based on visual inspection, many of these are not actually
+> applicable, but there are limited filtering options via the Entrez
+> web API. Machine learning techniques would probably be very helpful
+> at scoring articles for applicability, and ignoring ones that are
+> clearly inapplicable.
+
+> In order to perform meta-analysis and treatment guidance, the
+> article needs to be mined for treatment, condition, circumstances of
+> treatment and condition, and whether it was successful or not (with
+> some p value and sample size). Most of this is not available as
+> standard metadata for the studies, and must be mined from the text.
+
+> In addition, not all studies are equal. Methodological errors, lack
+> of reproduciblity, and so forth can all render a study meaningless.
+> Thus, studies must have a scoring mechanism so you can avoid
+> tainting meta-analyses with biased data. This scoring mechanism will
+> probably include the impact factor of the journal, the g/h-index of
+> the authors, the number of (non self) citations, etc.
+
+> As you can see, each of these is meaty, and all of them need to be
+> taken care of to get good results :) If anyone is interested in
+> getting some serious natural language processing/data mining/machine
+> learning practice, I'd love to involve you. There's no reason I
+> should have all the fun!
+
+http://mail.python.org/pipermail/trizpug/2012-August/001920.html
+> I'm still in the planning stages for most of the stuff; I have the
+> pubmed extraction code pretty well nailed, and I have a solid
+> outline for the article disqualification (create a feature vector
+> out of topic and abstract bigrams, MeSH subject headings and
+> journal, use a SVM discriminator and manually generate a RoC curve
+> to determine the cutoff score) but I'm still very up in the air
+> regarding NL extraction of things like sample size, significance,
+> etc. If you'd like to learn more I would of course be happy to go
+> over my thoughts on the matter and we can play around with some
+> code.
+
+
+From ross.mounce at gmail.com  Fri Aug 17 15:51:02 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 17 Aug 2012 15:51:02 +0100
+Subject: [open-science] Open Access discussion on the radio
+Message-ID: <CAJr+OEwYnYC4AmQSR9OePCDtLWo8vg2FBJWFh67stMqK5n3-Kw@mail.gmail.com>
+
+The Voice of Russia UK radio debate on Open Access (as discussed on this
+mailing list yesterday) is playing 'live' (it's pre-recorded) now and again
+at 17.30 (UK time) today. It will be available on their youtube channel
+later:
+
+Thank you very much for taking part in our programme today.
+
+You can catch it at 15.30 and 17.30 today on DAB 23/7 or via our live
+streaming link http://player.streamtheworld.com/liveplayer.php?CALLSIGN=RUV
+R_ENG
+
+You will also be able to view and listen to the discussion later on our
+website and youtube channel:http://www.youtube.com/user/VoiceOfRussiaLondon
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120817/373234c9/attachment.htm>
+
+From jenny.molloy at okfn.org  Sat Aug 18 11:46:19 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sat, 18 Aug 2012 11:46:19 +0100
+Subject: [open-science] Call for Participation: Digital Research 2012,
+	10-12 September, Oxford
+Message-ID: <CABPM+wq-ZBDTjwuZiHr93Og22O7Xn3Z8HiJDez47G5L7X-Sk6A@mail.gmail.com>
+
+                    Digital Research 2012
+
+                    10-12 September 2012
+             St Catherine?s College, Oxford, UK
+
+                digital-research.oerc.ox.ac.uk
+
+ Digital Research 2012 features an exciting 3-day programme with a great
+set of invited speakers together with showcases of the work and vision
+of the Digital Research community.  Here are some highlights of the
+programme - please see the website for the full programme and
+registration information:
+
+ * New Science of New Data Symposium and Innovation Showcase (Mon 10th).
+Keynotes from Noshir Contractor (Northwestern University) on Web
+Science, Nigel Shadbolt (Government Information Adviser) on Open Data
+and a closing address by Kieron O'Hara (philosopher, computer scientist
+and political writer) - with twitter analytics, geolocated social media
+and web observatories in between.  Also the launch of the Software
+Sustainability Institute's Fellows programme and community workshops.
+
+ * Future of Digital Research (Tue 11th).  Keynotes from Stevan Harnad on
+"Digital Research: How and Why the RCUK Open Access Policy Needs to
+Be Revised", Jim Hendler (Rensselaer Polytechnic Institute) on "Broad
+Data" (not just big!), and Lizbeth Goodman (UCD) on "SMART spaces by
+And for SMART people". Sessions are themed on Open Science, Smart
+Spaces as a Utility and future glimpses from the community, culminating
+in a Roundtable discussion on the Future of Digital Research.
+
+ * e?Infrastructure Forum and Innovation Showcase (Wed 12th).  We
+open with a dual-track community innovation showcase, then launch the
+UK e-Infrastructure Academic Community Forum where Peter Coveney
+(UK e-Infrastructure Leadership Council and UCL) will present the "state
+of the nation" followed by a Provider?s Panel, Software, Training and
+User?s Panel - an important and timely opportunity for the community to
+review where we are and determine what's needed in the future.
+
+ There's a lot more happening throughout the event, including an exciting
+"DevChallenge" hackathon run by DevCSI, software surgery by SSI and
+multiple community workshops - plus the Digital Research 2012 dinner in
+College and a reception in the spectacular Museum of Natural History.
+We're very grateful to everyone who has come together to make this event
+possible, including e-Research South, Open Knowledge Foundation, Web
+Science, the Digital Social Research programme, our Digital Economy
+colleagues and the All Hands foundation.
+
+ We look forward to seeing you at Digital Research 2012 in Oxford in
+September.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120818/269d51a6/attachment.htm>
+
+From hassantmcambs at gmail.com  Sat Aug 18 16:00:48 2012
+From: hassantmcambs at gmail.com (Hassan Mamdani)
+Date: Sat, 18 Aug 2012 16:00:48 +0100
+Subject: [open-science] Hello
+Message-ID: <7E233ED5-D78D-4094-8807-9F3ADA7DAC62@gmail.com>
+
+Hi All
+
+Sorry for pinging multiple lists, but I'm just saying hello and introducing myself, so it seemed better than repeating the same info in different place.
+
+I'm an organic chemist/biochemist by training and have worked in computational chemistry and drug design for the past 8 years.  I'm finishing my EngD applying drug design concepts to the development of materials for protein separation, so I have experience of QSAR methods, structure and ligand based drug design, machine learning, and data visualisation using R, Python and Pipeline Pilot.  I also have a smattering of SQL - MySQL, Oracle, sqlite, Sphynx - and I write LaTeX, Sweave, R Markdown/KintR. 
+
+I'm interested in expanding my skills in data analysis and coding in R and Python and I'm looking for an excuse to make myself get to grips with Javascript and interactive data visualization.  I'm also interested in exploring text mining and big data techniques.  
+
+I'd be interested in getting involved in some of the OKFN projects, if my skills are applicable.
+
+Feel free to point me in the right direction or get in touch if you think I might be able to contribute to your work.
+
+Thanks
+Hassan
+
+
+
+From J.G.Frey at soton.ac.uk  Sun Aug 19 02:17:07 2012
+From: J.G.Frey at soton.ac.uk (Frey J.G.)
+Date: Sun, 19 Aug 2012 01:17:07 +0000
+Subject: [open-science] It as a Utility Information/launch meeting 4th
+ Sept Royal Society
+In-Reply-To: <CC5309EB.56BF6%j.g.frey@soton.ac.uk>
+Message-ID: <CC558410.56CF8%j.g.frey@soton.ac.uk>
+
+Hope to see you at the Network Information Event ? come and hear about the network and how you can apply for workshops, pilot project and secondments funding!
+
+Subject: It as a Utility Information/launch meeting 4th Sept Royal Society
+
+ITaaU Information Event
+=======================
+
+ITaaU Information Event
+Tuesday 4th September 2012
+At the Kohn Centre,
+Royal Society, 6-9 Carlton House Terrace, SW1Y 5AG
+London
+14:00 ? 17:00
+
+Meeting programme will be updated at
+http://indico.vm11.omii.ac.uk/indico/conferenceDisplay.py?confId=7
+
+Welcome
+The Background: The Digital Economy RCUK Theme
+Introduction to the ITaaU Network
+ITaaU Events and Opportunities
+Design for Usable IT (USTWO)
+The ITaaU Network and EU FP7 and Beyond (Dr. Mike Surridge, IT Innovation)
+The ITaaU Network and Asia (Prof. Gerard Parr, University of Ulster)
+Cloud & Pervasive Computing (Rob Fraser, Microsoft UK)
+Summary of ITaaU events, opportunities and deadlines
+
+More details will be published on the Network web site www.itutility.ac.uk shortly. There will be no registration formalities or charge for this meeting but please email info at itutility.ac.uk<mailto:info at itutility.ac.uk> to let us know that if you are planning to come so we can ensure adequate refreshments. The event is being held at the Royal Society, Carlton House Terrace, London. Directions can be found online at http://royalsociety.org/venue-hire/location/
+
+
+IT as a Utility Network+
+=======================
+
+IT as a Utility (ITaaU) is one of the 4 sub-themes of the RCUK Digital Economy programme <http://www.rcuk.ac.uk/research/xrcprogrammes/Digital/Pages/home.aspx> . The ITaaU Network purpose is to promote and enhance the community interested in this aspect of the DE programme and help co-ordinate activities in this area.
+
+IT as a Utility is about the provision of information and technology in a transparent and highly usable manner. It is closely related to Grid and Cloud Computing with its emphasis on making IT resources effortlessly and almost invisibly available the end user. Cloud paradigms for access to applications and infrastructure are now well established, and are changing the way users interact with applications, especially where the application is accessible from multiple devices and users.
+
+See www.itutility.ac.uk (this is being updated and a new version will appear soon)
+
+Also blog post http://www.software.ac.uk/news/2012-08-13-how-can-we-build-trust-it-utility-services
+
+Jeremy Frey
+
+
+From J.G.Frey at soton.ac.uk  Sun Aug 19 02:19:18 2012
+From: J.G.Frey at soton.ac.uk (Frey J.G.)
+Date: Sun, 19 Aug 2012 01:19:18 +0000
+Subject: [open-science] IT as a Utility Network coordinator job
+Message-ID: <CC55A518.56D9E%j.g.frey@soton.ac.uk>
+
+Hi,
+This position might be of interest ? potential for providing research on infrastructure for openness
+Jeremy Frey
+
+See the online advert
+
+https://jobs.soton.ac.uk/Vacancy.aspx?ref=149612EB
+
+
+Network Co-ordinator for Digital Economy
+Computational Systems Chemistry
+Location:  Highfield Campus
+Salary:   ?27,578 to ?33,884
+Full Time Fixed Term
+Closing Date:   Wednesday 29 August 2012
+Interview Date:   To be confirmed
+Reference:  149612EB
+
+The RCUK Digital Economy Programme Theme has identified four challenge areas of which IT as a Utility is one.  We have recently been awarded a Network+ grant to promote the ITaaU challenge area.
+
+We wish to appoint a suitably qualified Network Co-ordinator (NC) for the Digital Economy (DE) challenge area, IT as a Utility Digital Economy (ITaaU) Network+.  The University of Southampton, along with the partner Universities, has a very strong reputation in Digital Economy research, as well as e-Science and ICT in general.   Digital Economy forms one of the University of Southampton's Strategic Research Groups (USRG).
+
+The Network Co-ordinator will be responsible for the co-ordination of network activities, including network organisation, outreach and community engagement, community and specialist workshops, sandpits, secondments and pilot project organisation, and other activities necessary for the efficient running and growth of an active network providing the research community with a way to exchange and evolve ideas within the ITaaU area.
+
+In addition to the co-ordination of the network and help with the management of the network, it is intended to run the network itself as an example of using IT as a Utility and the Network Co-ordinator will be involved in empirical research based on the network activities as a research example of ITaaU.
+
+The network co-ordinator will be based at the University of Southampton and will be required to work with the other network investigators (based at QMUL, Nottingham and Belfast).
+
+The position is available immediately at a salary level of ?27,578 (ERE level 4) and is available as a full time position.  However, part time / job share options would be possible, depending on experience.  Funding for this position is available until March 2015.  Travel away from Southampton will be necessary as will some overnight visits. The role may also involve international travel.
+
+The ideal applicant will have at least a moderate technical background with a user and social dimension, with a PhD or comparable industrial or applied experience in a science, social science or technical area.  Experience in organising events such as workshops, conferences, sandpits, as well as helping to run, develop and publicise group activities is highly desirable along with excellent social and networking skills.
+
+For more details please contact Professor Jeremy Frey, Email j.g.frey at soton.ac.uk<mailto:j.g.frey at soton.ac.uk>Tel 02380593209
+
+The following links are available for futher infomation:
+
+ http://www.rcuk.ac.uk/research/xrcprogrammes/Digital/Pages/home.aspx
+
+http://www.rcuk.ac.uk/research/xrcprogrammes/Digital/Pages/Subthemes.aspx
+
+http://www.rcuk.ac.uk/research/xrcprogrammes/Digital/research/Pages/ITasaUtility.aspx
+
+ http://www.ituility.ac.uk<http://www.ituility.ac.uk/>
+
+The closing date for applications is 29 August 2012. Please apply through www.jobs.soton.ac.uk<http://www.jobs.soton.ac.uk/> or telephone 023 8059 2750 for an application form. Please quote reference number 149612EB in all correspondence.
+
+
+From Tom_Roche at pobox.com  Mon Aug 20 00:40:11 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Sun, 19 Aug 2012 19:40:11 -0400
+Subject: [open-science] iemHUB, HUBzero, myexperiment
+Message-ID: <87ipceqwmc.fsf@pobox.com>
+
+
+iemHUB  http://iemhub.org/  (IEM==integrated environmental modeling)
+HUBzero http://hubzero.org/
+
+Dunno how suitable these are as open-science platforms, since I know
+much too little about them, but they seem interesting. (Esp since
+there seems to be some US-governmental interest in backing it--see
+references to EPA (a Federal agency), and RTI (a large NGO/contractor)
+below.) So I'm passing along some all-too-rough notes (I just don't
+type fast enough) from an "iemHUB 101" session I recently attended.
+(I'll try to get/pass the slides.) I'm hoping more knowledgeable folks
+will render their considered judgments on either HUBzero or the
+UK-based myexperiment.org, to which the presenter explicitly referred.
+
+I'm especially interested in the compute platforms (e.g.,
+OpenScienceGrid). Suppose we use the term "computationally poor" to
+refer to those lacking access to high-performance scientific computation
+(and expensive proprietary software, e.g., ArcGIS) but can't afford it,
+? la the "scholarly poor" who need to read scholarly literature but
+can't: how accessible and useful are these platforms to the
+"computationally poor"?
+
+<notes>
+
+HUBzero developed @ Purdue http://hubzero.org/
+"HUBzero is the underlying software" for iemHUB
+"large integrated feature set", community/collaboration platform
+real differentiator is the computational platform (more below)
+"closest thing to HUBzero is myexperiment.org in the UK" 
+http://www.myexperiment.org/
+
+hubs are HUBzero instances
+iemHUB has "no specific organizational identity", is open to anyone interested in IEM (integrated environmental modeling)
+http://iemhub.org/
+
+then long talk about the software, HUBzero
+collaboration focus
+can publish software tools on it, but VC == subversion :-(
+biggest community is nanotechnology: "nanoHUB is the oldest hub" http://nanohub.org/ "going for about a decade"
+forums: answering questions earns points
+bugtracker
+this is sounding a lot like sourceforge (which they namecheck, also github)
+
+MAJOR DIFFERENCE: can run software on their cloud !?!
+"lots of grids out there you can submit jobs to", e.g., OpenScienceGrid
+http://www.opensciencegrid.org/
+http://en.wikipedia.org/wiki/Open_Science_Grid_Consortium
+sounds like iemHUB is front-ending to them!
+one can also install software (he specifically mentions R) on the hub!
+
+"rapture is a tool available within iemHUB" for q'n'd GUI creation: works with fortran as well as the usual suspects
+
+while speaker goes on, look around:
+https://iemhub.org/groups/d4em
+> Data for Environmental modeling (D4EM) is a comprehensive set of
+> tools that obtains and processes data for models. This fully
+> integrated, open source software was originally conceived to
+> populate the geospatial data inputs required for multimedia modeling
+> studies, such as those performed using the Multimedia,
+> Multi-pathway, Multi-receptor Exposure and Risk Assessment (3MRA)
+> modeling system. The D4EM is a collaborative effort led by EPA?s
+> Office of Research and Development (ORD) in Athens, Georgia, in
+> conjunction with RTI International, AQUA TERRA Consultants, and
+> Idaho State University.
+
+> Managers: Rajbir Parmar, Aaron Parks, Kurt Wolfe
+> Members: 37
+...
+> Created: 13 Jan, 2010
+
+"can also publish seminars and tutorials" e.g. this meeting will be on iemhub.org
+"can also publish data" see nanoHUB
+
+HTH, Tom Roche <Tom_Roche at pobox.com>
+
+
+From Tom_Roche at pobox.com  Mon Aug 20 04:47:05 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Sun, 19 Aug 2012 23:47:05 -0400
+Subject: [open-science] iemHUB, HUBzero, myexperiment
+In-Reply-To: <87ipceqwmc.fsf@pobox.com>
+References: <87ipceqwmc.fsf@pobox.com>
+Message-ID: <87d32mql6u.fsf@pobox.com>
+
+
+http://lists.okfn.org/pipermail/open-science/2012-August/001784.html
+Tom Roche Sun, 19 Aug 2012 19:40:11 -0400
+> some all-too-rough notes (I just don't type fast enough) from an
+> "iemHUB 101" session I recently attended. (I'll try to get/pass the
+> slides.)
+
+The slides for the HUBzero portion of the presentation are @
+
+https://iemhub.org/resources/735/download/Why_HUBzero.ppt
+
+They're quite image-intensive, but still manage to render (apparently)
+properly in libreoffice on my debian box. There is also a movie of the
+presentation (apparently--I haven't viewed either) @
+
+https://iemhub.org/resources/736/download/WhyHUBzero.avi (149.51 Mb)
+https://iemhub.org/resources/737/download/WhyHUBzero.mov (311.76 Mb)
+
+
+From laura.newman at okfn.org  Mon Aug 27 13:01:33 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Mon, 27 Aug 2012 13:01:33 +0100
+Subject: [open-science] Open Science at OKFest!
+Message-ID: <CAMQ+bMZ4E0aj0OSwPiMhTaGNi6KuK_wU1gwNZDtuDYp9dpiNMw@mail.gmail.com>
+
+Hi all,
+
+For those with OKFest tickets already - only 3 weeks to go!! For those of
+you who haven't yet bought yours, get your tickets
+here<http://okfestival.org/early-bird-okfest-tickets/>
+*!
+
+*Here are some great reasons why:
+
+1) Amazing speakers: including *Mat Todd* (University of Sydney, Open
+Source Drug Discovery), *Carl-Christian Buhr *(European Commission), *Mark
+Hahnel *(Figshare), *Tim Hubbard *(Sanger Institute), *Carlos Rossel *(World
+Bank) and many, many more.
+
+2) *A science hackathon* (Tue 17th), alongside two full* *of science
+seminars, workshops and debates (Wed 18th & Thu 19th). The hackathon is
+free to attend!
+
+3) A packed program of* interdisciplinary events*. As well as the science
+sessions, find out how open knowledge is progressing in other sectors - a
+great opportunity to link up with new people, projects and ideas.
+
+It would be wonderful to see a strong representation from the Science and
+Access working groups, and to have the chance to meet in person. Do drop me
+a line if you're planning to attend!
+
+Links to find out more:
+
+* The full science programme:
+http://okfestival.org/open-research-and-education/
+* The hackday programme & sign-up:
+http://okfestival.org/open-culture-and-science-hackday/
+* Ticket purchase: http://okfestival.org/early-bird-okfest-tickets/
+
+Hope to see you many of you there!
+
+All the best,
+Laura
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120827/52012b7d/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug 29 08:57:57 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 29 Aug 2012 08:57:57 +0100
+Subject: [open-science] {Disarmed} [GOAL] {Disarmed} Open Access to
+	Research Outputs - Materials?
+In-Reply-To: <CA+4KT3o6v9wHcw4-aUHH4Tf1S_+0+HokyTpJ=Dtgp_aShKo37A@mail.gmail.com>
+References: <CA+4KT3o6v9wHcw4-aUHH4Tf1S_+0+HokyTpJ=Dtgp_aShKo37A@mail.gmail.com>
+Message-ID: <CAD2k14PCEy9Nf606d66JrKazi-bvPQFSHotQHryMWesBanKYXQ@mail.gmail.com>
+
+I would suggest (a) OKF open-science (copied) and (b) contacting John
+Wilbanks
+
+P.
+
+On Wed, Aug 29, 2012 at 8:50 AM, Sridhar Gutam <gutam2000 at gmail.com> wrote:
+
+> Dear All,
+>
+> I am aware that this group/forum is discussing about the Research Outputs
+> - Scholarly Communications. But I want some to direct me to a forum which
+> is discussion on Open Access to Publicly Funded Research Outputs -
+> Materials like seeds, plants, genes, GMOs etc please.
+>
+> Thanks & Regards
+> Sridhar
+> __________________________________________________________
+> Sridhar Gutam PhD, ARS, Patent Laws (NALSAR), IP & Biotech. (WIPO)
+> Senior Scientist (Plant Physiology) Central Institute for Subtropical
+> Horticulture <http://www.cishlko.org>
+>  Joint Secretary, Agricultural Research Service Scientists' Forum<http://www.icar.org.in/en/node/1168>
+> Convener, Open Access India <https://www.facebook.com/oaindia>
+> Rehmankhera, Kakori Post
+> Lucknow 227107, Uttar Pradesh, India
+> Phone: +91-522-2841022/23/24; Fax: +91-522-2841025
+> Mobile:+91-9005760036/8005346136
+> Publications: http://works.bepress.com/sridhar_gutam/
+> Google Scholar: *MailScanner has detected definite fraud in the website
+> at "goo.gl". Do not trust this website:* *MailScanner has detected
+> definite fraud in the website at "goo.gl". Do not trust this website:*http://scholar.google.co.in/citations?hl=en&user=6W1MSSwAAAAJ<http://goo.gl/EQAwr>
+> <https://www.facebook.com/gutamsridhar>
+> <http://www.linkedin.com/in/sridhargutam> <http://twitter.com/gutam2000><http://works.bepress.com/sridhar_gutam/rss.html>
+>
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120829/db9c4cdc/attachment.htm>
+
+From gutam2000 at gmail.com  Wed Aug 29 11:16:44 2012
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Wed, 29 Aug 2012 15:46:44 +0530
+Subject: [open-science] Open Access to Publicly Funded Research Materials
+Message-ID: <CA+4KT3oOQ_bUT9F9Uqd79ApXrXRunOzFBtwip95R2c3P9vXnTA@mail.gmail.com>
+
+Dear All,
+
+I just returned from a meeting which had discussed about forming a Open
+Source Seeds Network on the lines of GNU/Linux and wish to have MTAs
+onlines of BiOS/Creative Commons.
+
+What is our stand/understanding on 'Open Access to Publicly Funded Research
+Materials (Seeds/Genes/-Physical/biological/Chemical Materails)
+
+Thanks
+Sridhar
+__________________________________________________________
+Sridhar Gutam PhD, ARS, Patent Laws (NALSAR), IP & Biotech. (WIPO)
+Senior Scientist (Plant Physiology) Central Institute for Subtropical
+Horticulture <http://www.cishlko.org>
+ Joint Secretary, Agricultural Research Service Scientists'
+Forum<http://www.icar.org.in/en/node/1168>
+Convener, Open Access India <https://www.facebook.com/oaindia>
+Rehmankhera, Kakori Post
+Lucknow 227107, Uttar Pradesh, India
+Phone: +91-522-2841022/23/24; Fax: +91-522-2841025
+Mobile:+91-9005760036/8005346136
+Publications: http://works.bepress.com/sridhar_gutam/
+Google Scholar:
+http://scholar.google.co.in/citations?hl=en&user=6W1MSSwAAAAJ<http://goo.gl/EQAwr>
+<https://www.facebook.com/gutamsridhar>
+<http://www.linkedin.com/in/sridhargutam>
+<http://twitter.com/gutam2000><http://works.bepress.com/sridhar_gutam/rss.html>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120829/b7f241d2/attachment.htm>
+
+From punkish at eidesis.org  Wed Aug 29 14:55:28 2012
+From: punkish at eidesis.org (Mr. Puneet Kishor)
+Date: Wed, 29 Aug 2012 06:55:28 -0700
+Subject: [open-science] Open Access to Publicly Funded Research Materials
+In-Reply-To: <CA+4KT3oOQ_bUT9F9Uqd79ApXrXRunOzFBtwip95R2c3P9vXnTA@mail.gmail.com>
+References: <CA+4KT3oOQ_bUT9F9Uqd79ApXrXRunOzFBtwip95R2c3P9vXnTA@mail.gmail.com>
+Message-ID: <A88463C0-A708-4AEC-B5D2-2AA8BADC2230@gmail.com>
+
+Hi Sridhar,
+
+I have recently started getting involved with a group also involved in setting up an open source seeds program. Please contact me off-list. We may have a fair amount to share and work with.
+
+
+On Aug 29, 2012, at 3:16 AM, Sridhar Gutam <gutam2000 at gmail.com> wrote:
+
+> Dear All,
+> 
+> I just returned from a meeting which had discussed about forming a Open
+> Source Seeds Network on the lines of GNU/Linux and wish to have MTAs
+> onlines of BiOS/Creative Commons.
+> 
+> What is our stand/understanding on 'Open Access to Publicly Funded Research
+> Materials (Seeds/Genes/-Physical/biological/Chemical Materails)
+> 
+> Thanks
+> Sridhar
+
+
+--
+Puneet Kishor
+
+From laura.newman at okfn.org  Fri Aug 31 16:28:15 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Fri, 31 Aug 2012 16:28:15 +0100
+Subject: [open-science] Digital Research 2012 - one week to go!
+Message-ID: <CAMQ+bMbY1gzUCzqc_XzHq6afgbdCtRk6dbo-9w-=kVbsPub_hw@mail.gmail.com>
+
+   *Digital Research 2012*
+
+ 10-12 September 2012
+ St Catherine?s College, Oxford, UK
+
+  http://digital-research.oerc.ox.ac.uk
+
+ Digital Research practice, tools and infrastructures have been embraced by
+researchers across all disciplines. The landscape is changing rapidly, with
+the Web as our research environment and also a lens onto our society and
+world. Researchers across sciences and humanities are facing the
+opportunities and challenges of new forms of data and big data analytics,
+and harnessing the technological advances of new devices and
+"e-Infrastructure" including High Performance Computing and the Cloud.
+
+   *Digital Research 2012* features an exciting three-day programme with a
+great set of speakers, bringing the community together to showcase today?s
+digital research practice and innovation and set an influential agenda for
+tomorrow. We welcome researchers, research technologists and developers at
+all stages of their careers. Here are some highlights of the programme -
+please see the website for the full programme and registration information:
+
+ *New Science of New Data Symposium* and *Innovation Showcase* (Monday
+10th).  Keynotes from social network analysis expert *Noshir
+Contractor*(Northwestern University) on Web Science, government open
+data director
+*Nigel Shadbolt* on Open Data, and a closing address by philosopher,
+computer scientist and political writer *Kieron O'Hara* - with twitter
+analytics, geolocated social media and informational citizenship in
+between.  Also the launch of the *Software Sustainability Institute's
+Fellows Programme *and the community innovation showcase and workshops.
+
+ *Future of Digital Research* (Tuesday 11th).  Keynotes from *Stevan
+Harnad*on "Digital Research: How and Why the RCUK Open Access Policy
+Needs to Be
+Revised", *Jim Hendler* (Rensselaer Polytechnic Institute) on "Broad Data"
+(not just big!), and *Lizbeth Goodman* (UCD) on "SMART spaces by and for
+SMART people". Sessions are themed on Open Science (with a data publishing
+panel), Smart Spaces as a Utility and future glimpses from the community,
+all culminating in a Roundtable discussion on the Future of Digital
+Research.
+
+ *e?Infrastructure Forum* and *Innovation Showcase* (Wednesday 12th). We
+open with a dual-track community innovation showcase, then launch the UK
+e-Infrastructure Academic Community Forum where *Peter Coveney* (UK
+e-Infrastructure Leadership Council and UCL) will present the "state of the
+nation" followed by a Provider?s Panel, Software, Training and User?s Panel
+- an important and timely opportunity for the community to review where we
+are with the recent UK government investment and determine what's needed in
+the future.
+
+ It's free to attend just the *New Science of New Data* symposium or *Software
+Sustainability Institute Fellows Programme* launch on Monday 10th, or
+the *e-Infrastructure
+Forum* on Wednesday 12th (thanks to our sponsors). Full 3-day registration
+enables you to attend everything and there's a lot more happening
+throughout the event, including an exciting "DevChallenge" hackathon run by
+DevCSI, software surgery by SSI and multiple community workshops - plus the
+Digital Research 2012 dinner in College and a reception in the
+spectacular *Museum
+of Natural History*. Please go to
+http://digital-research.oerc.ox.ac.uk/registration to register.
+
+   We're very grateful to everyone who has come together to make this event
+possible, including e-Research South, Open Knowledge Foundation, Web
+Science, the Digital Social Research programme, our Digital Economy
+colleagues and the All Hands Foundation.
+
+ We look forward to seeing you in Oxford 10-12th September to discuss the
+state of the art and the shape of the future in Digital Research.
+
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120831/8c1bda0d/attachment.htm>
+

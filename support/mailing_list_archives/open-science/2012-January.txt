@@ -1,0 +1,2648 @@
+From pm286 at cam.ac.uk  Wed Jan  4 09:22:09 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 4 Jan 2012 09:22:09 +0000
+Subject: [open-science] response to the White House RFI on OA to publicly
+	funded research
+Message-ID: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+
+There is an opportunity to argue the case for making pub,icly funded
+research publicly available:
+
+See http://mailman.ecs.soton.ac.uk/pipermail/goal/2012-January/000063.html
+
+I think we should put something together. Indeed I think it would be useful
+to have an off-the-shelf document that can be re-used in future invitations
+
+It is noteworthy that Harvard argues for CC-BY publication and against
+CC-NC.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120104/4a1b7d29/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Wed Jan  4 11:00:35 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Wed, 4 Jan 2012 12:00:35 +0100
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+In-Reply-To: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+References: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+Message-ID: <CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+
+Dear all,
+
+I am sitting over this right now (though mostly offline, reading
+through responses prepared by others) and shall post some rough draft
+text today at
+
+http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+
+and
+
+http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Digital_Data_Resulting_From_Federally_Funded_Scientific_Research
+
+Any hint/ suggestion is very welcome.
+
+Daniel
+
+
+On Wed, Jan 4, 2012 at 10:22 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> There is an opportunity to argue the case for making pub,icly funded
+> research publicly available:
+>
+> See http://mailman.ecs.soton.ac.uk/pipermail/goal/2012-January/000063.html
+>
+> I think we should put something together. Indeed I think it would be useful
+> to have an off-the-shelf document that can be re-used in future invitations
+>
+> It is noteworthy that Harvard argues for CC-BY publication and against
+> CC-NC.
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From pm286 at cam.ac.uk  Wed Jan  4 11:32:52 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 4 Jan 2012 11:32:52 +0000
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+In-Reply-To: <CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+References: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+	<CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+Message-ID: <CAD2k14OUs2cMrRvb8Gv7A-eQPC1uKx99DJ59D+rH+-h74m+mAw@mail.gmail.com>
+
+On Wed, Jan 4, 2012 at 11:00 AM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> Dear all,
+>
+> I am sitting over this right now (though mostly offline, reading
+> through responses prepared by others) and shall post some rough draft
+> text today at
+>
+>
+> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+>
+> and
+>
+>
+> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Digital_Data_Resulting_From_Federally_Funded_Scientific_Research
+>
+> Any hint/ suggestion is very welcome.
+>
+>
+I have briefly skimmed the Harvard document and I think it's a useful
+basis. My suggestion would be to support it and pick out one or two areas
+where we feel strongly. I am particularly encouraged by their use of CC-BY
+not CC-NC and perhaps we can elaborate on this.
+
+I would also pick Wikipedia as an example of how scientific research gets
+widely disseminated. The world in general sees wikipedia as the first place
+to go to and clearly research which is visible ("open" is too problematic)
+gets included and closed work does not.
+
+P.
+
+
+> Daniel
+>
+>
+> On Wed, Jan 4, 2012 at 10:22 AM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> > There is an opportunity to argue the case for making pub,icly funded
+> > research publicly available:
+> >
+> > See
+> http://mailman.ecs.soton.ac.uk/pipermail/goal/2012-January/000063.html
+> >
+> > I think we should put something together. Indeed I think it would be
+> useful
+> > to have an off-the-shelf document that can be re-used in future
+> invitations
+> >
+> > It is noteworthy that Harvard argues for CC-BY publication and against
+> > CC-NC.
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120104/e4c76c2f/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Wed Jan  4 15:00:33 2012
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Wed, 4 Jan 2012 15:00:33 -0000
+Subject: [open-science] Open data in life sciences use cases?
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA0456CB37@SEGBLOGR0008.springer-sbm.com>
+
+Dear all,
+
+ 
+
+I'm interested in further developing some specific use cases where open
+data (i.e. available under CC0 or equivalent terms) in journal
+publications would be useful or lack of open data has been problematic -
+to individual scientists/research groups, and perhaps even the original
+data publishers. I'm aware of reasonable evidence of societal/economic
+benefits for open data (e.g. within :
+http://ie-repository.jisc.ac.uk/279/2/JISC_data_sharing_finalreport.pdf;
+http://www.jisc.ac.uk/media/documents/publications/keepingresearchdatasa
+fe0408.pdf) but more evidence (aside from more citations, in microarray
+research), or anecdotes/cases studies in its absence, of benefits to
+individuals/groups would be good. 
+
+ 
+
+E.g. "I am scientist doing X kind of experiment and being able to reuse
+or harvest all types of Y data from Z journal (or publisher) would be
+excellent because..."
+
+ 
+
+And ideally...
+
+ 
+
+"here's why  the current model prohibits or makes this difficult; or
+here's an example of where such an approach has been beneficial
+previously....
+
+ 
+
+I'd like to include some of these use cases as part of a white paper,
+currently well under way, on implementation of a variable license
+agreement for open access publications enabling CC0 for data (as agreed
+at
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/report_from_the_p
+ublishing_open). 
+
+ 
+
+If anyone has any suggestions they would be much appreciated - and of
+course acknowledged.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+Skype: iainh_z
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120104/aa395cc4/attachment.htm>
+
+From tom.moritz at gmail.com  Thu Jan  5 01:35:54 2012
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Thu, 5 Jan 2012 03:35:54 +0200
+Subject: [open-science] Open data in life sciences use cases?
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA0456CB37@SEGBLOGR0008.springer-sbm.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA0456CB37@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <CAGaH0=0+Y7-8xCpvYdvm-KmhC5xoWze=YQV5OGpHBvZEJJH7PA@mail.gmail.com>
+
+Iain Query is good -- somewhat in the spirit of the [Jimmy] Carter- [Frank]
+Press initiative discussed by Harvard historian Gerald Holton in *Ivory
+Bridges [SEE:
+http://mitpress.mit.edu/catalog/item/default.asp?tid=8791&ttype=2 ] and
+Science-Anti-Science* [SEE: Gerald Holton,Science and Anti-Science.
+Cambridge, Mass.lLondon: Harvard University Press, 1993, 203 p.
+http://www.hup.harvard.edu/catalog.php?recid=25868 ]
+
+and then -- for what it's worth -- there's:
+
+E G Campbell, et al. ?Data Withholding in Academic Genetics Evidence From a
+National Survey,? JAMA. 2002;287(15):1939-1940.
+http://jama.ama-assn.org/content/287/4/473.abstract
+
+?Forty-seven percent of geneticists who asked other faculty for additional
+information, data, or materials regarding published research reported that
+at least 1 of their requests had been denied in the preceding 3 years.?  [?Of
+a potential 3000 respondents, 2893 were eligible and 1849 responded,
+yielding an overall response rate of 64%. We analyzed a subsample of 1240
+self-identified geneticists and made a limited number of comparisons with
+600 self-identified nongeneticists.?]
+
+Though the actual consequences of these denials...???  The article
+addresses inability to: "to confirm published results" -- which acts as an
+impedance to science (at least as it is hypothetically practiced!)
+
+Tom
+
+
+Tom
+
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+*Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell) [GMT -8]
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz*
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+Heraclitus *
+"It is . . . easy to be certain. One has only to be sufficiently vague." --
+C.S. Peirce  *
+*"Kathambhutassa me rattindiva vitipatanti" (?The days and nights are
+relentlessly passing; how well am I spending my time??)  -- *"Ten Subjects
+for Frequent Recollection by One Who Has Gone Forth"*
+*"Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus happy.")
+-- Camus*
+
+
+
+On Wed, Jan 4, 2012 at 5:00 PM, Iain Hrynaszkiewicz <
+Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+
+>  Dear all,****
+>
+> ** **
+>
+> I?m interested in further developing some specific use cases where open
+> data (i.e. available under CC0 or equivalent terms) in journal publications
+> would be useful or lack of open data has been problematic ? to individual
+> scientists/research groups, and perhaps even the original data publishers.
+> I?m aware of reasonable evidence of societal/economic benefits for open
+> data (e.g. within :
+> http://ie-repository.jisc.ac.uk/279/2/JISC_data_sharing_finalreport.pdf;
+> http://www.jisc.ac.uk/media/documents/publications/keepingresearchdatasafe0408.pdf)
+> but more evidence (aside from more citations, in microarray research), or
+> anecdotes/cases studies in its absence, of benefits to individuals/groups
+> would be good. ****
+>
+> ** **
+>
+> E.g. ?I am scientist doing X kind of experiment and being able to reuse or
+> harvest all types of Y data from Z journal (or publisher) would be
+> excellent because??****
+>
+> ** **
+>
+> And ideally?****
+>
+> ** **
+>
+> ?here?s why  the current model prohibits or makes this difficult; or
+> here?s an example of where such an approach has been beneficial previously?.
+> ****
+>
+> ** **
+>
+> I?d like to include some of these use cases as part of a white paper,
+> currently well under way, on implementation of a variable license agreement
+> for open access publications enabling CC0 for data (as agreed at
+> http://blogs.openaccesscentral.com/blogs/bmcblog/entry/report_from_the_publishing_open).
+> ****
+>
+> ** **
+>
+> If anyone has any suggestions they would be much appreciated ? and of
+> course acknowledged.****
+>
+> ** **
+>
+> Best regards,****
+>
+> ** **
+>
+> Iain****
+>
+> Iain Hrynaszkiewicz
+> Journal Publisher
+>
+> *BioMed Central*
+> 236 Gray's Inn Road
+> London, WC1X 8HB
+>
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> M: +44 (0)782 594 0538
+> W: www.biomedcentral.com
+> Skype: iainh_z****
+>
+> ** **
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120105/6a03053a/attachment.htm>
+
+From raphael.ritz at incf.org  Thu Jan  5 09:02:20 2012
+From: raphael.ritz at incf.org (Raphael Ritz)
+Date: Thu, 05 Jan 2012 10:02:20 +0100
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+In-Reply-To: <CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+References: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+	<CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+Message-ID: <4F05671C.3070609@incf.org>
+
+On 1/4/12 12:00 PM, Daniel Mietchen wrote:
+> Dear all,
+>
+> I am sitting over this right now (though mostly offline, reading
+> through responses prepared by others) and shall post some rough draft
+> text today at
+>
+> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+>
+> and
+>
+> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Digital_Data_Resulting_From_Federally_Funded_Scientific_Research
+>
+> Any hint/ suggestion is very welcome.
+
+Obviously several groups are on this right now.
+Kitware is also drafting an open letter in response to this
+and I'd like to point out that they welcome anyone contributing
+in any way.
+
+Here is what I received from Luis Ibanez lately:
+
+"""
+At Kitware, we have decided to respond to both RFIs the*"*Open Source 
+Way*"*.
+
+We have posted the draft of our responses in the two public documents below:
+
+  * Open Response to RFI on Public Access to Digital Data
+    <https://docs.google.com/a/kitware.com/document/d/1vEcWqAz6bwIIR6qQqWZYc8iUBrOpJ9NrvC9HiiQMc2Y/edit?hl=en_US>
+  * Open Response to RFI on Public Access to Peer-Reviewed Publications
+    <https://docs.google.com/a/kitware.com/document/d/1QA1eGBynqh-yN0bo3_nYzD3d26nEhvuVPMUR2ffi17o/edit?hl=en_US>
+
+and we now invite everyone to join us in refining and extending the 
+answers to both RFIs. The documents are open for editing by anyone with 
+the link.
+
+Please join us in improving the feedback that we are providing to OSTP, 
+or if you are satisfied with the current content of the documents, 
+please join us by signing the response at the end of each document. The 
+response will be submitted in the name of the signing parties.
+
+This of course, is not intended to preclude nor diminish any other 
+initiatives for responding to the RFIs. We just want to make sure that 
+we grab this unique opportunity to drive federal policy.
+
+
+We will close down edits on* January 10th*, to format the final document 
+responses and submit them to OSTP by *January 12th*.
+
+Also, watch for an upcoming inSCIght podcast <http://inscight.org/> on 
+this topic, open access and federally funded research, which should be 
+available sometime this week.
+
+
+     Happy New Open Access Year !
+
+
+        Luis
+"""
+
+Raphael
+
+
+
+>
+> Daniel
+>
+>
+> On Wed, Jan 4, 2012 at 10:22 AM, Peter Murray-Rust<pm286 at cam.ac.uk>  wrote:
+>> There is an opportunity to argue the case for making pub,icly funded
+>> research publicly available:
+>>
+>> See http://mailman.ecs.soton.ac.uk/pipermail/goal/2012-January/000063.html
+>>
+>> I think we should put something together. Indeed I think it would be useful
+>> to have an off-the-shelf document that can be re-used in future invitations
+>>
+>> It is noteworthy that Harvard argues for CC-BY publication and against
+>> CC-NC.
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+Dr. Raphael Ritz
+Scientific Officer
+
+International Neuroinformatics Coordinating Facility
+Karolinska Institutet
+Nobels v?g 15 A
+SE-171 77  Stockholm
+Sweden
+
+Email: raphael.ritz at incf.org
+Phone: +46 8 524 87017
+Fax: +46 8 524 87150
+web: www.incf.org
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120105/36ea28e8/attachment-0001.htm>
+
+From marcus.hanwell at kitware.com  Thu Jan  5 14:44:57 2012
+From: marcus.hanwell at kitware.com (Marcus D. Hanwell)
+Date: Thu, 5 Jan 2012 09:44:57 -0500
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+In-Reply-To: <4F05671C.3070609@incf.org>
+References: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+	<CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+	<4F05671C.3070609@incf.org>
+Message-ID: <CAMkPkZVGnyjAxAhu7-+qhrA2Y9b6zuDnLzGvy5ZNjRt2xW--Bg@mail.gmail.com>
+
+On Thu, Jan 5, 2012 at 4:02 AM, Raphael Ritz <raphael.ritz at incf.org> wrote:
+> On 1/4/12 12:00 PM, Daniel Mietchen wrote:
+>
+> Dear all,
+>
+> I am sitting over this right now (though mostly offline, reading
+> through responses prepared by others) and shall post some rough draft
+> text today at
+>
+> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+>
+> and
+>
+> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Digital_Data_Resulting_From_Federally_Funded_Scientific_Research
+>
+> Any hint/ suggestion is very welcome.
+>
+>
+> Obviously several groups are on this right now.
+> Kitware is also drafting an open letter in response to this
+> and I'd like to point out that they welcome anyone contributing
+> in any way.
+>
+> Here is what I received from Luis Ibanez lately:
+>
+I think Luis and I are also on the list, and would certainly welcome
+comments and support in drafting a response. We had an interesting
+discussion yesterday about some related issues, which should hopefully
+be put out today as a podcast.
+
+Marcus
+
+
+From daniel.mietchen at googlemail.com  Fri Jan  6 02:53:37 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Fri, 6 Jan 2012 03:53:37 +0100
+Subject: [open-science] Open data in life sciences use cases?
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA0456CB37@SEGBLOGR0008.springer-sbm.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA0456CB37@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <CAN6n2b1shmbOBGVYLkO67tQfh2_kdH1MURZaKYSBzF9G34aYqA@mail.gmail.com>
+
+Dear Iain,
+
+one area where lack of open data has been problematic is the one that
+I had envisaged to specialize in before I found out that the
+conservatism and categorizationism of classical non-public grant peer
+review are an even more effective blocker in this regard than the lack
+of data sharing.
+
+I am talking about applications of Magnetic Resonance techniques
+(mainly imaging, but with some spectroscopic components) to
+cross-species comparative studies (preferably in vivo) with the
+ultimate goal to better understand the evolution of specific traits. I
+am calling this EvoMRI, and that's the handle I commonly go under on
+the web if my real name is too long or otherwise does not fit.
+
+For example, take a study on comparative MR-based brain morphometry in
+primates: Brain scans are regularly performed on a number of primate
+species, often even in large numbers per species, but typically just
+one or two species per study. This is understandable by considering
+that housing primates is an endeavour that requires a lot of effort
+and resources, and so is the operation of MR scanners capable of
+imaging living adult primates. So there are very few places in the
+world where multiple species of primates are located nearby a MRI
+center that is both equipped and licensed for non-human scans (as an
+aside, there is no MR center in the world that is dedicated to
+cross-species studies, and given the costs involved, none is on the
+horizon), and ethical considerations prevent transporting (non-human)
+primates long distances just to get them an MRI scan (mobile scanners
+exist and become better all the time, but so far, they are useless for
+the purposes of brain morphometry).
+
+There is only one publicly available dataset that has brains from
+multiple primate species scanned according to a common protocol (even
+broadening the search to include post-mortem studies does not give
+further results), and these scans (of 11 species) have been recorded
+(in vivo) well over a decade ago, so do not meet the quality criteria
+that underpin more recent brain morphometric algorithms of the kind
+required for cross-species studies of brain structure.
+
+Luckily, large multi-centre brain imaging studies (including ADNI that
+has repeatedly popped up in data sharing discussions) in humans have
+shown that some scanning protocols can be implemented in a way that
+cross-scanner variability does not interfere with clinical diagnoses.
+If pooling data from multiple scanners is indeed a valid option within
+a species, it certainly makes sense for cross-species studies too, and
+here's where the sharing of data (and code, btw) come in.
+
+A review ( http://dx.doi.org/10.3389/neuro.11.025.2009 ) thus makes
+the point that
+"the major barrier to cross-species MR-based brain morphometry is not
+the lack of data nor analytical tools but barriers preventing to
+combine them. "
+
+Similarly, a poster ( http://dx.doi.org/10.1038/npre.2010.4511.2 )
+concludes by stating
+"In order to succeed, however, computational efforts on comparative
+morphometry depend on high-quality imaging data from multiple species
+being more widely available."
+
+Yet there is no culture of making such datasets public, and while many
+researchers in the area (especially those personally known to each
+other) will happily share their data non-publicly, their individual
+terms (e.g. requests for co-authorship or for other datasets or tools
+or services in return) are not necessarily compatible with each other,
+and in general, they also make the sharing of any derivative works
+impossible.
+
+In addition to that, some of the major software tools in the area are
+free but not open and thus cannot be adapted from their human-centric
+focus to cross-species applications. They took multiple person years
+to write, so starting from scratch is not necessarily an option.
+
+Beyond primates, I remember a paper that described MRI of seals, but
+when I contacted the authors about getting the data, I got an outright
+refusal rather than the request simply being ignored, which is more
+common.
+
+To sum up, cross-species studies going beyond the typical lab animals
+or typical toolkit of evolutionary depend on data and code sharing, so
+the lack of that blocks such fields from developing. As mentioned in
+the introduction, however, funding is an even more severe blocker.
+
+First, most funding programs are dedicated to a certain topic. For
+things like comparative primate brain morphometry that can variously
+be tagged into and out of biology, physics, computer science,
+neuroscience, imaging and so on, the fit to basically any funding call
+(or scope-limited journal, for that matter) will always be
+sub-optimal, thus providing such projects with a bad starting
+position.
+
+Second, the topic of the funding scheme defines the set of reviewers
+and panelists that are to judge such proposals, and they will
+invariably cover only part of the scope of such hard-to-categorize
+projects, especially those with a methodological focus. The only way
+to mitigate these problems, in my view, is to allow interaction
+between applicants and reviewers and to make those exchanges public by
+default.
+
+Third, even in those lucky cases when such projects do get funded,
+they are normally impeded in ways that follow from the themes of the
+funding line - if the project sailed through under "primatology", you
+won't easily get expenses for number crunching equipment approved, or
+if it came in under "computational neuroscience", the budget for
+feeding the animals (nut crunching, perhaps?) will likely approach
+zero.
+
+Fourth, the normal funding schemes think in terms of hiring a postdoc
+or so for about three years, but certain types of problems - the
+Polymath project perhaps being the most well-known example,
+comparative brain morphometry probably another - do not necessarily
+lend themselves to being solved this way, as they typically require
+sets of skills that are unlikely to be adequately represented in the
+set of people whose participation can be funded by such classical
+hiring schemes, especially if working remotely is not an option. Plus,
+some of the skills will be needed for a very small part of the
+project, and much of the skill set is hard to predict in the funding
+proposal anyway.
+
+Sorry for the long post, but you hit one of my major resonances, and
+much of my motivation to deal with matters of open data, open source,
+public peer review or open science more generally derives from the
+issues outlined above.
+
+Daniel
+
+On Wed, Jan 4, 2012 at 4:00 PM, Iain Hrynaszkiewicz
+<Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> Dear all,
+>
+>
+>
+> I?m interested in further developing some specific use cases where open data
+> (i.e. available under CC0 or equivalent terms) in journal publications would
+> be useful or lack of open data has been problematic ? to individual
+> scientists/research groups, and perhaps even the original data publishers.
+> I?m aware of reasonable evidence of societal/economic benefits for open data
+> (e.g. within :
+> http://ie-repository.jisc.ac.uk/279/2/JISC_data_sharing_finalreport.pdf;
+> http://www.jisc.ac.uk/media/documents/publications/keepingresearchdatasafe0408.pdf)
+> but more evidence (aside from more citations, in microarray research), or
+> anecdotes/cases studies in its absence, of benefits to individuals/groups
+> would be good.
+>
+>
+>
+> E.g. ?I am scientist doing X kind of experiment and being able to reuse or
+> harvest all types of Y data from Z journal (or publisher) would be excellent
+> because??
+>
+>
+>
+> And ideally?
+>
+>
+>
+> ?here?s why ?the current model prohibits or makes this difficult; or here?s
+> an example of where such an approach has been beneficial previously?.
+>
+>
+>
+> I?d like to include some of these use cases as part of a white paper,
+> currently well under way, on implementation of a variable license agreement
+> for open access publications enabling CC0 for data (as agreed at
+> http://blogs.openaccesscentral.com/blogs/bmcblog/entry/report_from_the_publishing_open).
+>
+>
+>
+> If anyone has any suggestions they would be much appreciated ? and of course
+> acknowledged.
+>
+>
+>
+> Best regards,
+>
+>
+>
+> Iain
+>
+> Iain Hrynaszkiewicz
+> Journal Publisher
+>
+> BioMed Central
+> 236 Gray's Inn Road
+> London, WC1X 8HB
+>
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> M: +44 (0)782 594 0538
+> W: www.biomedcentral.com
+> Skype: iainh_z
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From steelgraham at hotmail.com  Sat Jan  7 14:20:04 2012
+From: steelgraham at hotmail.com (Graham Steel)
+Date: Sat, 7 Jan 2012 14:20:04 +0000
+Subject: [open-science] Open data in life sciences use cases?
+In-Reply-To: <mailman.25.1325851207.12865.open-science@lists.okfn.org>
+References: <mailman.25.1325851207.12865.open-science@lists.okfn.org>
+Message-ID: <DUB106-W323F208915DBE6DCD1C175B49A0@phx.gbl>
+
+
+
+Iain,
+
+On the subject of lack of data in this regard, have just spotted this post:- http://www.forbes.com/sites/larryhusten/2012/01/04/missing-data-the-elephant-thats-not-in-the-room-guest-post/
+
+Graham
+
+  
+H: +44 (0)141 422 1483 (after 18.00 GMT)
+C: +44 (0)7900441046
+E: steelgraham7 at gmail.com
+Fav: http://www.plos.org - research made public
+Fb: http://www.facebook.com/home.php#/profile.php?id=709026752
+Blog: http://mcblawg.blogspot.com/ 
+Twitter: http://twitter.com/McDawg
+FriendFeed: http://friendfeed.com/mcdawg 
+
+> From: open-science-request at lists.okfn.org
+> Subject: open-science Digest, Vol 39, Issue 3
+> To: open-science at lists.okfn.org
+> Date: Fri, 6 Jan 2012 12:00:07 +0000
+> 
+> Send open-science mailing list submissions to
+> 	open-science at lists.okfn.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	http://lists.okfn.org/mailman/listinfo/open-science
+> or, via email, send a message with subject or body 'help' to
+> 	open-science-request at lists.okfn.org
+> 
+> You can reach the person managing the list at
+> 	open-science-owner at lists.okfn.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of open-science digest..."
+> 
+> 
+> Today's Topics:
+> 
+>    1. Re: response to the White House RFI on OA to publicly funded
+>       research (Marcus D. Hanwell)
+>    2. Re: Open data in life sciences use cases? (Daniel Mietchen)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Thu, 5 Jan 2012 09:44:57 -0500
+> From: "Marcus D. Hanwell" <marcus.hanwell at kitware.com>
+> Subject: Re: [open-science] response to the White House RFI on OA to
+> 	publicly funded research
+> To: Raphael Ritz <raphael.ritz at incf.org>
+> Cc: open-science at lists.okfn.org, Luis Ibanez <luis.ibanez at kitware.com>
+> Message-ID:
+> 	<CAMkPkZVGnyjAxAhu7-+qhrA2Y9b6zuDnLzGvy5ZNjRt2xW--Bg at mail.gmail.com>
+> Content-Type: text/plain; charset=ISO-8859-1
+> 
+> On Thu, Jan 5, 2012 at 4:02 AM, Raphael Ritz <raphael.ritz at incf.org> wrote:
+> > On 1/4/12 12:00 PM, Daniel Mietchen wrote:
+> >
+> > Dear all,
+> >
+> > I am sitting over this right now (though mostly offline, reading
+> > through responses prepared by others) and shall post some rough draft
+> > text today at
+> >
+> > http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+> >
+> > and
+> >
+> > http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Digital_Data_Resulting_From_Federally_Funded_Scientific_Research
+> >
+> > Any hint/ suggestion is very welcome.
+> >
+> >
+> > Obviously several groups are on this right now.
+> > Kitware is also drafting an open letter in response to this
+> > and I'd like to point out that they welcome anyone contributing
+> > in any way.
+> >
+> > Here is what I received from Luis Ibanez lately:
+> >
+> I think Luis and I are also on the list, and would certainly welcome
+> comments and support in drafting a response. We had an interesting
+> discussion yesterday about some related issues, which should hopefully
+> be put out today as a podcast.
+> 
+> Marcus
+> 
+> 
+> 
+> ------------------------------
+> 
+> Message: 2
+> Date: Fri, 6 Jan 2012 03:53:37 +0100
+> From: Daniel Mietchen <daniel.mietchen at googlemail.com>
+> Subject: Re: [open-science] Open data in life sciences use cases?
+> To: Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com>
+> Cc: open-science <open-science at lists.okfn.org>
+> Message-ID:
+> 	<CAN6n2b1shmbOBGVYLkO67tQfh2_kdH1MURZaKYSBzF9G34aYqA at mail.gmail.com>
+> Content-Type: text/plain; charset=UTF-8
+> 
+> Dear Iain,
+> 
+> one area where lack of open data has been problematic is the one that
+> I had envisaged to specialize in before I found out that the
+> conservatism and categorizationism of classical non-public grant peer
+> review are an even more effective blocker in this regard than the lack
+> of data sharing.
+> 
+> I am talking about applications of Magnetic Resonance techniques
+> (mainly imaging, but with some spectroscopic components) to
+> cross-species comparative studies (preferably in vivo) with the
+> ultimate goal to better understand the evolution of specific traits. I
+> am calling this EvoMRI, and that's the handle I commonly go under on
+> the web if my real name is too long or otherwise does not fit.
+> 
+> For example, take a study on comparative MR-based brain morphometry in
+> primates: Brain scans are regularly performed on a number of primate
+> species, often even in large numbers per species, but typically just
+> one or two species per study. This is understandable by considering
+> that housing primates is an endeavour that requires a lot of effort
+> and resources, and so is the operation of MR scanners capable of
+> imaging living adult primates. So there are very few places in the
+> world where multiple species of primates are located nearby a MRI
+> center that is both equipped and licensed for non-human scans (as an
+> aside, there is no MR center in the world that is dedicated to
+> cross-species studies, and given the costs involved, none is on the
+> horizon), and ethical considerations prevent transporting (non-human)
+> primates long distances just to get them an MRI scan (mobile scanners
+> exist and become better all the time, but so far, they are useless for
+> the purposes of brain morphometry).
+> 
+> There is only one publicly available dataset that has brains from
+> multiple primate species scanned according to a common protocol (even
+> broadening the search to include post-mortem studies does not give
+> further results), and these scans (of 11 species) have been recorded
+> (in vivo) well over a decade ago, so do not meet the quality criteria
+> that underpin more recent brain morphometric algorithms of the kind
+> required for cross-species studies of brain structure.
+> 
+> Luckily, large multi-centre brain imaging studies (including ADNI that
+> has repeatedly popped up in data sharing discussions) in humans have
+> shown that some scanning protocols can be implemented in a way that
+> cross-scanner variability does not interfere with clinical diagnoses.
+> If pooling data from multiple scanners is indeed a valid option within
+> a species, it certainly makes sense for cross-species studies too, and
+> here's where the sharing of data (and code, btw) come in.
+> 
+> A review ( http://dx.doi.org/10.3389/neuro.11.025.2009 ) thus makes
+> the point that
+> "the major barrier to cross-species MR-based brain morphometry is not
+> the lack of data nor analytical tools but barriers preventing to
+> combine them. "
+> 
+> Similarly, a poster ( http://dx.doi.org/10.1038/npre.2010.4511.2 )
+> concludes by stating
+> "In order to succeed, however, computational efforts on comparative
+> morphometry depend on high-quality imaging data from multiple species
+> being more widely available."
+> 
+> Yet there is no culture of making such datasets public, and while many
+> researchers in the area (especially those personally known to each
+> other) will happily share their data non-publicly, their individual
+> terms (e.g. requests for co-authorship or for other datasets or tools
+> or services in return) are not necessarily compatible with each other,
+> and in general, they also make the sharing of any derivative works
+> impossible.
+> 
+> In addition to that, some of the major software tools in the area are
+> free but not open and thus cannot be adapted from their human-centric
+> focus to cross-species applications. They took multiple person years
+> to write, so starting from scratch is not necessarily an option.
+> 
+> Beyond primates, I remember a paper that described MRI of seals, but
+> when I contacted the authors about getting the data, I got an outright
+> refusal rather than the request simply being ignored, which is more
+> common.
+> 
+> To sum up, cross-species studies going beyond the typical lab animals
+> or typical toolkit of evolutionary depend on data and code sharing, so
+> the lack of that blocks such fields from developing. As mentioned in
+> the introduction, however, funding is an even more severe blocker.
+> 
+> First, most funding programs are dedicated to a certain topic. For
+> things like comparative primate brain morphometry that can variously
+> be tagged into and out of biology, physics, computer science,
+> neuroscience, imaging and so on, the fit to basically any funding call
+> (or scope-limited journal, for that matter) will always be
+> sub-optimal, thus providing such projects with a bad starting
+> position.
+> 
+> Second, the topic of the funding scheme defines the set of reviewers
+> and panelists that are to judge such proposals, and they will
+> invariably cover only part of the scope of such hard-to-categorize
+> projects, especially those with a methodological focus. The only way
+> to mitigate these problems, in my view, is to allow interaction
+> between applicants and reviewers and to make those exchanges public by
+> default.
+> 
+> Third, even in those lucky cases when such projects do get funded,
+> they are normally impeded in ways that follow from the themes of the
+> funding line - if the project sailed through under "primatology", you
+> won't easily get expenses for number crunching equipment approved, or
+> if it came in under "computational neuroscience", the budget for
+> feeding the animals (nut crunching, perhaps?) will likely approach
+> zero.
+> 
+> Fourth, the normal funding schemes think in terms of hiring a postdoc
+> or so for about three years, but certain types of problems - the
+> Polymath project perhaps being the most well-known example,
+> comparative brain morphometry probably another - do not necessarily
+> lend themselves to being solved this way, as they typically require
+> sets of skills that are unlikely to be adequately represented in the
+> set of people whose participation can be funded by such classical
+> hiring schemes, especially if working remotely is not an option. Plus,
+> some of the skills will be needed for a very small part of the
+> project, and much of the skill set is hard to predict in the funding
+> proposal anyway.
+> 
+> Sorry for the long post, but you hit one of my major resonances, and
+> much of my motivation to deal with matters of open data, open source,
+> public peer review or open science more generally derives from the
+> issues outlined above.
+> 
+> Daniel
+> 
+> On Wed, Jan 4, 2012 at 4:00 PM, Iain Hrynaszkiewicz
+> <Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> > Dear all,
+> >
+> >
+> >
+> > I?m interested in further developing some specific use cases where open data
+> > (i.e. available under CC0 or equivalent terms) in journal publications would
+> > be useful or lack of open data has been problematic ? to individual
+> > scientists/research groups, and perhaps even the original data publishers.
+> > I?m aware of reasonable evidence of societal/economic benefits for open data
+> > (e.g. within :
+> > http://ie-repository.jisc.ac.uk/279/2/JISC_data_sharing_finalreport.pdf;
+> > http://www.jisc.ac.uk/media/documents/publications/keepingresearchdatasafe0408.pdf)
+> > but more evidence (aside from more citations, in microarray research), or
+> > anecdotes/cases studies in its absence, of benefits to individuals/groups
+> > would be good.
+> >
+> >
+> >
+> > E.g. ?I am scientist doing X kind of experiment and being able to reuse or
+> > harvest all types of Y data from Z journal (or publisher) would be excellent
+> > because??
+> >
+> >
+> >
+> > And ideally?
+> >
+> >
+> >
+> > ?here?s why ?the current model prohibits or makes this difficult; or here?s
+> > an example of where such an approach has been beneficial previously?.
+> >
+> >
+> >
+> > I?d like to include some of these use cases as part of a white paper,
+> > currently well under way, on implementation of a variable license agreement
+> > for open access publications enabling CC0 for data (as agreed at
+> > http://blogs.openaccesscentral.com/blogs/bmcblog/entry/report_from_the_publishing_open).
+> >
+> >
+> >
+> > If anyone has any suggestions they would be much appreciated ? and of course
+> > acknowledged.
+> >
+> >
+> >
+> > Best regards,
+> >
+> >
+> >
+> > Iain
+> >
+> > Iain Hrynaszkiewicz
+> > Journal Publisher
+> >
+> > BioMed Central
+> > 236 Gray's Inn Road
+> > London, WC1X 8HB
+> >
+> > T: +44 (0)20 3192 2175
+> > F: +44 (0)20 3192 2011
+> > M: +44 (0)782 594 0538
+> > W: www.biomedcentral.com
+> > Skype: iainh_z
+> >
+> >
+> >
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> 
+> 
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+> 
+> End of open-science Digest, Vol 39, Issue 3
+> *******************************************
+ 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120107/489d6d72/attachment-0001.htm>
+
+From jenny.molloy at okfn.org  Sun Jan  8 14:54:23 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 8 Jan 2012 14:54:23 +0000
+Subject: [open-science] NASA International Space Apps Challenge
+Message-ID: <CABPM+wofqi7U8zwFDF1Kse72QgojJ=-KoEnfu9R+_w3BvqkmPg@mail.gmail.com>
+
+ Dear All
+
+See below for a message about the NASA International Space Apps Challenge,
+forwarded by Elizabeth Walker Sabet from secondmuse. NASA are a Random
+Hacks of Kindness partner and there are several European events in the
+planning for late April.
+
+Would anyone be interested in helping to host an OKFN run local event or
+forming a team? Any expressions of interest or participation by any of the
+means mentioned in the notice would be very gratefully received and please
+forward to anyone you think may be interested! For example, any contacts in
+University physics or astronomy departments who might be interested in
+advertising to their colleagues and students.
+
+Let us know :)
+
+Jenny
+
+Dear Colleagues,
+
+Fifty years since Apollo took humanity to the moon, advances in technology
+have made images clearer, the information coming back from space richer,
+and the world smaller. A frontier of space data has resulted in the
+development of new technology that continues to improve life on Earth. The
+challenge before us now is to leverage this data and new technology to
+create practical applications that benefit humanity.
+
+NASA, in collaboration with organizations such as yours, is launching an
+International Space Apps Challenge <http://open.nasa.gov/appschallenge> to
+be held in 2012 that will encourage scientists and concerned citizens from
+all continents ? and in space ? to create, build, and invent new solutions
+in order to address challenges of global importance. Demonstrating its
+commitment to the Open Government
+Partnership<http://www.opengovpartnership.org/>,
+NASA and space agencies around the world are providing a platform for your
+organization to join a transformational movement of 'open innovation'
+wherein performance is further improved, decision-making better informed,
+entrepreneurship advanced and encouraged, and problems more effectively
+addressed and solved.
+open data ? open source ? open technology
+You are poised to join us in the following endeavors:
+
+   - Sponsor a challenge. Identify and define problems that are valuable to
+   your organization.  http://open.nasa.gov/appschallenge/ideas/
+   - Work on solutions. Join or form a team.
+   - Invite subject-matter experts to contribute to participate and attend
+   the event, like software developers, engineers, designers and technologists.
+   - Plan a local event. Promote to local and regional experts,
+
+We look forward to working with you to create a better future!
+
+
+elizabeth walker sabet | secondmuse
+mob +1 646 249 3888 | +506 8730 4458
+twitter 2ndmuse | skype elizabeth.sabet
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120108/79893bb3/attachment.htm>
+
+From jenny.molloy at okfn.org  Sun Jan  8 14:56:04 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 8 Jan 2012 14:56:04 +0000
+Subject: [open-science] 2012 Open Science Wish List
+Message-ID: <CABPM+woa66A9WvBA6ieR+CONqxh0qo7NxK0ZSEFvm691UcT2vA@mail.gmail.com>
+
+Hi All
+
+Open data and open science have been the topic of several major
+consultation by the European Commission, Royal Society and US Office of
+Science and Technology in recent months. Submissions for the latter are
+still open and we encourage as many people as possible to contribute or
+support existing responses, which are listed in this working group blog
+post from Mark MacGillivray
+http://science.okfn.org/2012/01/06/ostp-rfi-access-scholarly-publications-data/
+
+So, 2012 is shaping up to be a year where these issues are high on the
+agenda and it would be great to find out what members of the working group
+would like to see over the next 12 months. We're looking for an open
+science wish list, preferably short term goals that can be made into
+working group projects but don't let that constrain your imagination!
+
+Responses to this email will be collated into a blog post and discussed at
+the next working group meeting and hopefully we'll generate a plan to make
+at least a few of them a reality by 2013.
+
+Looking forward to hearing your ideas! I'll kick off with a couple:
+* Open slide deck for open data in science presentations.
+* Local open science groups in at least 5 new places
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120108/4fd2dcb6/attachment.htm>
+
+From jenny.molloy at okfn.org  Sun Jan  8 14:57:21 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 8 Jan 2012 14:57:21 +0000
+Subject: [open-science] Working Group Meeting - 25 Jan 2012, 17:30 GMT/UTC
+Message-ID: <CABPM+woRh5jnUqUkQ8E3-U8vGHXaBgA4DEGZjyt4+Cy5s24xmg@mail.gmail.com>
+
+Dear All
+
+Happy New Year! It's been a while since we had a working group Skype
+meeting and as ever there have been lots of developments and projects in
+open data in science and open science more widely to discuss, so I hope
+many of you will be able to attend!
+
+Top of the agenda will be what changes we want to see in 2012 and
+suggestions for projects and resources to make those happen.
+
+When: Wednesday 25 January at 17:30 UTC/GMT
+Location: Etherpad http://okfnpad.org/sciencewg-25Jan2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-25Jan2012
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Jenny
+
+Current Agenda:
+* 2012 open science wish list - what can we achieve this year?
+* Panton Fellowships
+* Update on local groups
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120108/b396b790/attachment.htm>
+
+From matthew.todd at sydney.edu.au  Mon Jan  9 12:20:06 2012
+From: matthew.todd at sydney.edu.au (Matthew Todd)
+Date: Mon, 9 Jan 2012 23:20:06 +1100
+Subject: [open-science] 2012 Open Science Wish List
+Message-ID: <CADOXZMwCuJ4k3typy7ZQut0mrM_CDzad8J8hU=6ati69AHEBuQ@mail.gmail.com>
+
+All,
+
+The most important thing for me this coming year is to see an increase in
+the number of open science projects - that is to say labs sharing
+experimental data and coordinating science to allow contributions from
+anyone. More lab books on the web.
+
+I'd also like to see changes to the way we write papers. I'd like to be
+involved in the construction of a paper in the open which has a diverse set
+of authors. So something that is refined online, then submitted for
+publication and accepted. Obviously this is how we're doing our open
+research projects, but I'd like to see the *writing* done this way too. And
+I'd like to see the paper be of a very high quality (actually well-written)
+in a big journal.
+
+(I'm hoping to try this out with a review in the next month or so.)
+
+This would allow us to trial currencies of authorship/reviewership as
+possible replacements to the peer review system we currently use. i.e.
+rather than discussing possible replacements we trial a few.
+
+More thoughts on this here:
+https://plus.google.com/114959083191278443851/posts/PugWeW6jM2N
+
+Happy New Year everyone,
+
+Mat
+
+
+-- 
+MATTHEW TODD | Senior Lecturer
+School of Chemistry | Faculty of Science
+
+THE UNIVERSITY OF SYDNEY
+Rm 519, F11 | The University of Sydney | NSW | 2006
+T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+E matthew.todd at sydney.edu.au  | W
+http://sydney.edu.au/science/chemistry/research/todd.html
+
+CRICOS 00026A
+This email plus any attachments to it are confidential. Any unauthorised
+use is strictly prohibited. If you receive this email in error, please
+delete it and any attachments.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120109/f22cda4d/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Jan  9 12:28:34 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 9 Jan 2012 12:28:34 +0000
+Subject: [open-science] 2012 Open Science Wish List
+In-Reply-To: <CADOXZMwCuJ4k3typy7ZQut0mrM_CDzad8J8hU=6ati69AHEBuQ@mail.gmail.com>
+References: <CADOXZMwCuJ4k3typy7ZQut0mrM_CDzad8J8hU=6ati69AHEBuQ@mail.gmail.com>
+Message-ID: <CAD2k14MhJ1FGP6R=DbGuzojrada=zOof_aauqYaTh-NXrBewcA@mail.gmail.com>
+
+This discussion is very valuable. I have changed my perspective as a result
+of it.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120109/96aafaa4/attachment.htm>
+
+From egon.willighagen at gmail.com  Mon Jan  9 12:40:16 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Mon, 9 Jan 2012 13:40:16 +0100
+Subject: [open-science] 2012 Open Science Wish List
+In-Reply-To: <CABPM+woa66A9WvBA6ieR+CONqxh0qo7NxK0ZSEFvm691UcT2vA@mail.gmail.com>
+References: <CABPM+woa66A9WvBA6ieR+CONqxh0qo7NxK0ZSEFvm691UcT2vA@mail.gmail.com>
+Message-ID: <CAMPqvY84KNp4+QD2kCwFXUddyj52rf6njFp_kZw-B+QuCm9tmw@mail.gmail.com>
+
+On Sun, Jan 8, 2012 at 3:56 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> * Local open science groups in at least 5 new places
+
+Andra Waagmeester and I are exploring Maastricht Open Science this spring...
+
+Jenny, can you please request a mailing list and website on my behalf?
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From sam.leon at okfn.org  Mon Jan  9 13:24:46 2012
+From: sam.leon at okfn.org (Sam Leon)
+Date: Mon, 9 Jan 2012 13:24:46 +0000
+Subject: [open-science] IP Contributions to Scientific Papers by Publishers:
+ An open letter to Rep Maloney and Issa
+Message-ID: <CAOn=SAY_zOuY_qpgMUbLsQs80NfCAocANoa3oNCM3qOrkVj4gw@mail.gmail.com>
+
+I thought this might be of interest to many on this list:
+
+http://cameronneylon.net/blog/ip-contributions-to-scientific-papers-by-publishers-an-open-letter-to-rep-maloney-and-issa/
+
+Sam
+
+-- 
+Sam Leon
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120109/849fdcef/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Wed Jan 11 20:30:19 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Wed, 11 Jan 2012 21:30:19 +0100
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+In-Reply-To: <CAMkPkZVGnyjAxAhu7-+qhrA2Y9b6zuDnLzGvy5ZNjRt2xW--Bg@mail.gmail.com>
+References: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+	<CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+	<4F05671C.3070609@incf.org>
+	<CAMkPkZVGnyjAxAhu7-+qhrA2Y9b6zuDnLzGvy5ZNjRt2xW--Bg@mail.gmail.com>
+Message-ID: <CAN6n2b1ByJ2btXackGBuQoLb_MzLMQZfMYDwWgX4w+Q7Ye+mSQ@mail.gmail.com>
+
+Dear all,
+
+I am in the process of finalizing
+http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+.
+
+Any input still welcome.
+
+Haven't had time to draft anything for the data RFI other than a few
+edits in the Kiteware doc. Anyone know of any other public response to
+that one?
+
+Thanks and cheers,
+
+Daniel
+
+
+On Thu, Jan 5, 2012 at 3:44 PM, Marcus D. Hanwell
+<marcus.hanwell at kitware.com> wrote:
+> On Thu, Jan 5, 2012 at 4:02 AM, Raphael Ritz <raphael.ritz at incf.org> wrote:
+>> On 1/4/12 12:00 PM, Daniel Mietchen wrote:
+>>
+>> Dear all,
+>>
+>> I am sitting over this right now (though mostly offline, reading
+>> through responses prepared by others) and shall post some rough draft
+>> text today at
+>>
+>> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+>>
+>> and
+>>
+>> http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Digital_Data_Resulting_From_Federally_Funded_Scientific_Research
+>>
+>> Any hint/ suggestion is very welcome.
+>>
+>>
+>> Obviously several groups are on this right now.
+>> Kitware is also drafting an open letter in response to this
+>> and I'd like to point out that they welcome anyone contributing
+>> in any way.
+>>
+>> Here is what I received from Luis Ibanez lately:
+>>
+> I think Luis and I are also on the list, and would certainly welcome
+> comments and support in drafting a response. We had an interesting
+> discussion yesterday about some related issues, which should hopefully
+> be put out today as a podcast.
+>
+> Marcus
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+From daniel.mietchen at googlemail.com  Thu Jan 12 15:17:56 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Thu, 12 Jan 2012 16:17:56 +0100
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+In-Reply-To: <CAN6n2b1ByJ2btXackGBuQoLb_MzLMQZfMYDwWgX4w+Q7Ye+mSQ@mail.gmail.com>
+References: <CAD2k14Pb5-qqD1u2vKewzSQh_hJ3bXsEY=7o+cfnN3Cfm9V+8A@mail.gmail.com>
+	<CAN6n2b3ZgiMZJzEi9k4u1UhYD0sM5kxvGf1nyRtgjzHFAQrE4Q@mail.gmail.com>
+	<4F05671C.3070609@incf.org>
+	<CAMkPkZVGnyjAxAhu7-+qhrA2Y9b6zuDnLzGvy5ZNjRt2xW--Bg@mail.gmail.com>
+	<CAN6n2b1ByJ2btXackGBuQoLb_MzLMQZfMYDwWgX4w+Q7Ye+mSQ@mail.gmail.com>
+Message-ID: <CAN6n2b3+D-HgjGbEhoNz0EaNSZ7YW7ku80dY=SiUbRipg_YktA@mail.gmail.com>
+
+Dear all,
+
+I am done with the draft on the OA part:
+
+The document sits at
+http://meta.wikimedia.org/wiki/Research:Committee/Areas_of_interest/Open-access_policy/Request_for_Information_on_Public_Access_to_Peer-Reviewed_Scholarly_Publications_Resulting_From_Federally_Funded_Research
+.
+
+Any response from OKF in sight?
+
+As for the data part, I am looking into the list of public responses at
+http://friendfeed.com/researchremix/5548a8e4/thread-to-keep-track-of-publicly-available
+. Not sure whether I will manage to submit something in time for that
+one.
+
+Cheers,
+
+Daniel
+
+
+From tjv at bio.unc.edu  Thu Jan 12 16:20:09 2012
+From: tjv at bio.unc.edu (Vision, Todd J)
+Date: Thu, 12 Jan 2012 16:20:09 +0000
+Subject: [open-science] response to the White House RFI on OA to
+ publicly funded research
+Message-ID: <2D956B2F-428D-4F37-83E8-8EDD4FE7DA6A@ad.unc.edu>
+
+> Haven't had time to draft anything for the data RFI other than a few
+> edits in the Kiteware doc. Anyone know of any other public response to
+> that one?
+
+
+Here's a list of some public responses:
+http://friendfeed.com/researchremix/5548a8e4/thread-to-keep-track-of-publicly-available
+
+All, please add if you know of others!
+
+Daniel, I'm looking forward to meeting you F2F at APE12 in a couple weeks!  It will be an interesting time to be swimming among the sharks, as it were.
+
+cheers,
+Todd
+
+
+
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Fri Jan 13 17:02:44 2012
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Fri, 13 Jan 2012 17:02:44 -0000
+Subject: [open-science] Looking for a dataset
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA04654F94@SEGBLOGR0008.springer-sbm.com>
+
+Dear all,
+
+ 
+
+As part of a special project ongoing at BMC, I'm looking for a "medium
+size" dataset, biological or medical, that could potentially be
+published, along with a Data Note (data paper) describing it, in BMC
+Research Notes. I recognize "medium" is a loose term. What I mean by
+this a dataset too large for additional files (up to 20Mb per file can
+be published at BMC), but small enough to be down/up-loadable easily via
+standard internet connections; so 50-100Mb ideally.
+
+ 
+
+If anyone has any suggestions please send me a personal email back.
+
+ 
+
+Kind regards,
+
+ 
+
+Iain
+
+ 
+
+Iain Hrynaszkiewicz
+Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+Skype: iainh_z
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120113/2ede8e86/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue Jan 17 17:32:05 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 17 Jan 2012 17:32:05 +0000
+Subject: [open-science] Apps4Climate
+In-Reply-To: <CABs-Zy-4VqC4FNO6yWNY_NtOdHL_uoyX2qnKmMTh62E=kcLOKA@mail.gmail.com>
+References: <CABs-Zy-4VqC4FNO6yWNY_NtOdHL_uoyX2qnKmMTh62E=kcLOKA@mail.gmail.com>
+Message-ID: <CABPM+wqkS+SEKyoBxzoaGGJfX3qwjHCTW01xPJfoyK4MQxnaNg@mail.gmail.com>
+
+Hi All
+
+This didn't get sent to open science but might be of interest to some of
+you (apologies to those who received it via another list)
+
+Jenny
+
+---------- Forwarded message ----------
+From: Velichka Dimitrova <velichka.dimitrova at okfn.org>
+Date: Mon, Jan 16, 2012 at 11:08 AM
+Subject: [okfn-discuss] Apps4Climate
+To: open-economics at lists.okfn.org, okfn-discuss at lists.okfn.org,
+geo-discuss at lists.okfn.org
+
+
+Dear all,
+
+I would like to draw your attention to the current Apps4Climate
+competition announced by the World Bank and ask you whether you would
+consider joining the Open Economics/Open Energy group in preparing a
+submission. Here is a short summary of the most relevant competition
+rules:
+
+- Each Software Application must be related to climate change, either
+to raise awareness, measure progress, or to help in some way to
+address the development challenges of climate change.
+- Each Software Application must make use of one or more of the
+datasets listed in the World Bank Data Catalog (data.worldbank.org) or
+Climate Change Knowledge Portal
+(http://sdwebx.worldbank.org/climateportal/).
+- Submissions may be any kind of software application, be it for the
+web, a personal computer, a mobile handheld device, console, SMS, or
+any software platform broadly available to the public.
+- The Competition Period ends on March 16, 2012 at 5:00 PM EST.
+
+Here are some ideas that are worth investigating:
+- We could do an app, which visualises different energy indicators for
+all countries from the World Bank database, as in
+http://energy.publicdata.eu/.
+- We could also use geo-spatial data on deforestation and build a
+world map, which tracks changes in forest area and land use as well as
+carbon dioxide emissions. There has been a project by the European
+Commission just for forest area change and just for Europe:
+http://efdac.jrc.ec.europa.eu/viewer/. I am not aware of a project for
+an app, which includes the whole world.
+
+Is there anyone else working on this? If there are enough human
+resources we could even prepare two submissions.
+
+Looking forward to hear from you,
+
+Velichka Dimitrova
+Open Economics/Open Energy Working Group
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120117/a0bc56fe/attachment.htm>
+
+From tjv at bio.unc.edu  Tue Jan 17 18:08:21 2012
+From: tjv at bio.unc.edu (Vision, Todd J)
+Date: Tue, 17 Jan 2012 18:08:21 +0000
+Subject: [open-science] SPARC honors Michael Nielsen as innovator for
+ bringing Open Science into the mainstream
+References: <B55F0560-109D-42D1-A13D-35ACB766D0E3@arl.org>
+Message-ID: <9AEE9680-0B8B-4D76-A783-A16805CB53CC@ad.unc.edu>
+
+Congratulations, Michael!  -Todd
+
+Begin forwarded message:
+
+> From: Jennifer McLennan <jennifer at arl.org>
+> Date: 17 January 2012 17:48:19 CET
+> To: Jennifer McLennan <jennifer at arl.org>
+> Subject: [sparc open data] SPARC honors Michael Nielsen as innovator for bringing Open Science into the mainstream
+> 
+> For Immediate Release
+> January 17, 2012
+> 
+> For more information, contact:
+> Jennifer McLennan
+> jennifer [at] arl [dot] org
+> (202) 296-2296 ext. 121
+> 
+> SPARC honors Michael Nielsen as innovator for bringing Open Science into the mainstream
+> 
+> Washington, DC ? Michael Nielsen, a 37-year-old, Australian quantum physicist, just completed a 17-city tour in seven countries, doing a series of presentations to promote the open sharing of data and research to advance science. On top of that, he spent a month traveling to promote his book, Reinventing Discovery: The New Era of Networked Science (Princeton University Press, 2011). His talk of changing the culture of science has drawn audiences beyond typical academics. Nielsen?s passion, credibility as a scientist, and knack for storytelling has helped propel the issue of Open Science into the mainstream. 
+> 
+> For being a thought leader and demonstrating how doing science in the open can promote change and bringing the discussion to a new level, SPARC honors Nielsen as the January 2012 SPARC Innovator.  
+> 
+> ?Michael is an incredibly bright scientist and researcher in this own right,? said Heather Joseph, executive director of SPARC. ?But he also has a view beyond 30,000 feet of the entire scientific enterprise, and the value that open brings to the table.?  His efforts have helped the average citizen begin to think about Open Science and how to push the issue forward, she said.
+> 
+> Reinventing Discovery was named as one of the top books of 2011 in the Financial Times. It was reviewed widely, including mention in The Wall Street Journal, Nature, and the New York Journal of Books. The book was named as one of the top books of 2011 in the Financial Times and one of the best science books of the year by the Boston Globe. 
+> 
+> To read the full profile of Michael Nielsen, SPARC?s January 2012 SPARC Innovator, visit http://www.arl.org/sparc/innovator.
+> 
+> The SPARC Innovator program recognizes advances in scholarly communication propelled by an individual, institution, or group. Typically, these advances exemplify SPARC principles by challenging the status quo in scholarly communication for the benefit of researchers, libraries, universities, and the public. SPARC Innovators are featured on the SPARC Web site semi-annually and have included Ventura Perez, PLoS One, Mike Rossner, executive director of the Rockefeller University Press (RUP) in New York; The Optical Society of America, R. Preston McAfee of the California Institute of Technology in Pasadena; Harvard University FAS; student leaders; Ted and Carl Bergstrom; Melissa Hagemann of the Open Society Institute; the University of California; and Herbert Van de Sompel of the Los Alamos National Laboratory. SPARC Innovators are selected by the SPARC staff in consultation with the SPARC Steering Committee.
+> 
+> Individuals can nominate their colleagues as potential SPARC Innovators at http://www.arl.org/sparc/innovator/nominate.shtml. 
+> For further information or a list of previous SPARC Innovators, please see the SPARC Web site at http://www.arl.org/sparc/innovator. 
+
+
+
+From jenny.molloy at okfn.org  Tue Jan 17 19:55:48 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 17 Jan 2012 19:55:48 +0000
+Subject: [open-science] Guardian article: Academic publishers have become
+	the enemies of science
+Message-ID: <CABPM+woQsh7pQa9aY-5TEP2RB8ro80xK3=wXqKW_PFp=W8Vhhw@mail.gmail.com>
+
+Dear All
+
+You might be interested in the article by Mike Taylor published in the
+Guardian this week:
+http://www.guardian.co.uk/science/2012/jan/16/academic-publishers-enemies-science
+
+The article links out to PMR's blog on open research reports and there's
+already been a lot of discussion in the comments so definitely worth a look.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120117/7d30581d/attachment.htm>
+
+From diane.h.dawson at gmail.com  Tue Jan 17 20:13:32 2012
+From: diane.h.dawson at gmail.com (DeDe Dawson)
+Date: Tue, 17 Jan 2012 14:13:32 -0600
+Subject: [open-science] SPARC honors Michael Nielsen as innovator for
+ bringing Open Science into the mainstream
+In-Reply-To: <B55F0560-109D-42D1-A13D-35ACB766D0E3@arl.org>
+References: <B55F0560-109D-42D1-A13D-35ACB766D0E3@arl.org>
+Message-ID: <CAMmQ0-Wx=gh-aTR3DniDXoO+iNu=Qi_37385JAdsa2iPk5h3+Q@mail.gmail.com>
+
+FYI...
+
+---------- Forwarded message ----------
+From: Jennifer McLennan <jennifer at arl.org>
+Date: Tue, Jan 17, 2012 at 10:48 AM
+Subject: [sparc-oaforum] SPARC honors Michael Nielsen as innovator for
+bringing Open Science into the mainstream
+To: Jennifer McLennan <jennifer at arl.org>
+
+
+For Immediate Release
+January 17, 2012
+
+For more information, contact:
+Jennifer McLennan
+jennifer [at] arl [dot] org
+(202) 296-2296 ext. 121
+
+SPARC honors Michael Nielsen as innovator for bringing Open Science into
+the mainstream
+
+Washington, DC ? Michael Nielsen, a 37-year-old, Australian quantum
+physicist, just completed a 17-city tour in seven countries, doing a series
+of presentations to promote the open sharing of data and research to
+advance science. On top of that, he spent a month traveling to promote his
+book, Reinventing Discovery: The New Era of Networked Science (Princeton
+University Press, 2011). His talk of changing the culture of science has
+drawn audiences beyond typical academics. Nielsen?s passion, credibility as
+a scientist, and knack for storytelling has helped propel the issue of Open
+Science into the mainstream.
+
+For being a thought leader and demonstrating how doing science in the open
+can promote change and bringing the discussion to a new level, SPARC honors
+Nielsen as the January 2012 SPARC Innovator.
+
+?Michael is an incredibly bright scientist and researcher in this own
+right,? said Heather Joseph, executive director of SPARC. ?But he also has
+a view beyond 30,000 feet of the entire scientific enterprise, and the
+value that open brings to the table.?  His efforts have helped the average
+citizen begin to think about Open Science and how to push the issue
+forward, she said.
+
+Reinventing Discovery was named as one of the top books of 2011 in the
+Financial Times. It was reviewed widely, including mention in The Wall
+Street Journal, Nature, and the New York Journal of Books. The book was
+named as one of the top books of 2011 in the Financial Times and one of the
+best science books of the year by the Boston Globe.
+
+To read the full profile of Michael Nielsen, SPARC?s January 2012 SPARC
+Innovator, visit http://www.arl.org/sparc/innovator.
+
+The SPARC Innovator program recognizes advances in scholarly communication
+propelled by an individual, institution, or group. Typically, these
+advances exemplify SPARC principles by challenging the status quo in
+scholarly communication for the benefit of researchers, libraries,
+universities, and the public. SPARC Innovators are featured on the SPARC
+Web site semi-annually and have included Ventura Perez, PLoS One, Mike
+Rossner, executive director of the Rockefeller University Press (RUP) in
+New York; The Optical Society of America, R. Preston McAfee of the
+California Institute of Technology in Pasadena; Harvard University FAS;
+student leaders; Ted and Carl Bergstrom; Melissa Hagemann of the Open
+Society Institute; the University of California; and Herbert Van de Sompel
+of the Los Alamos National Laboratory. SPARC Innovators are selected by the
+SPARC staff in consultation with the SPARC Steering Committee.
+
+Individuals can nominate their colleagues as potential SPARC Innovators at
+http://www.arl.org/sparc/innovator/nominate.shtml.
+
+For further information or a list of previous SPARC Innovators, please see
+the SPARC Web site at http://www.arl.org/sparc/innovator.
+
+###
+
+SPARC
+
+SPARC (Scholarly Publishing and Academic Resources Coalition), with SPARC
+Europe and SPARC Japan, is an international alliance of more than 800
+academic and research libraries working to create a more open system of
+scholarly communication. SPARC?s advocacy, educational, and publisher
+partnership programs encourage expanded dissemination of research. SPARC is
+on the Web at http://www.arl.org/sparc/.
+
+-------------------------------------
+Jennifer McLennan
+Director of Programs & Operations
+SPARC
+jennifer at arl.org
+(202) 296-2296 x121
+Fax: (202) 872-0884
+http://www.linkedin.com/in/jennifermclennan
+http://www.arl.org/sparc
+--------------------------------------
+The SPARC Open Access Meeting
+March 11 - 13, 2012
+Kansas City
+http://www.arl.org/sparc/meetings/oa12
+--------------------------------------
+Open Access Week 2012
+October 22 - 28
+http://www.openaccessweek.org
+
+--
+You received this message because you are subscribed to the Google
+Groups "SPARC OA Forum" group.
+To post to this group, send email to sparc-oaforum at arl.org
+To unsubscribe from this group, send email to
+sparc-oaforum+unsubscribe at arl.org
+For more options, visit this group at
+http://groups.google.com/a/arl.org/group/sparc-oaforum
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120117/c4cc5991/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Jan 18 12:32:04 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 18 Jan 2012 12:32:04 +0000
+Subject: [open-science] Moving forward with Open Research Reports
+Message-ID: <CABPM+wry4JCLp2B9w0F6b_gQYXKK3WS=BL1G6H=iSexHmet1EA@mail.gmail.com>
+
+Hi All
+
+After a succesful hackathon in December (more here
+http://science.okfn.org/2011/10/29/okfn-at-oss2011-open-research-reports/and
+here
+http://wiki.okfn.org/Working_Groups/Science/swat4ls_hackathon/ORR) we're
+looking to move forward with the Open Research Reports project to create a
+resource for disease information using open bibliographic metadata and
+semantic technologies.
+
+We are looking at a project that can be usefully done with the UKPMC Open
+subset and taking the following diseases as a starting point:
+- Cancer (Leiomyosarcoma [*LMS*])
+- CJD
+- Malaria
+
+The tasks that were completed at the hackathon included:
+
+   - List of publications relating to LMS from ACOR [Gilles Frydman]
+   - Integrate MIIDI output with open metadata [Mark MacGillivray and Tanya
+   Gray]
+   - Plan visualisations/UI for ORRs [Jenny Molloy and Graham Steel]
+
+Peter and Mark are curently hacking for Open Biblio and will take a
+snapshot of malaria publications in Open UKPMC, put that into Open Bib and
+build a Bibserver so we have a solid reference collection to work from.
+David Shotton and Tanya Grey are continuing work on the Minimal Information
+standard for reporting an Infectious Disease Investigation to create useful
+and machine readable summaries of closed disease research.
+
+So how can you get involved?
+- Reply to this email to suggest what features you would find useful in an
+online resource for open disease research e.g. specific search functions
+- Offer help with the technical development of the project
+- Offer to advise on the needs of certain user communities e.g.
+researchers, patient groups
+- Offer to host a meeting or hackathon
+
+For those that can make it, we'll be discussing more at the working group
+meeting next week, but feel free to add ideas to this email thread also!
+When: Wednesday 25 January at 17:30 UTC/GMT
+Location: Etherpad http://okfnpad.org/sciencewg-25Jan2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120118/20dffa86/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jan 18 17:37:07 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 18 Jan 2012 17:37:07 +0000
+Subject: [open-science] [open-science-dev] Moving forward with Open
+	Research Reports
+In-Reply-To: <CABPM+wry4JCLp2B9w0F6b_gQYXKK3WS=BL1G6H=iSexHmet1EA@mail.gmail.com>
+References: <CABPM+wry4JCLp2B9w0F6b_gQYXKK3WS=BL1G6H=iSexHmet1EA@mail.gmail.com>
+Message-ID: <CAD2k14O5b78cuoYg8Zy-5BuKE7yGFKvi8d7STH1eofDoUnJdYg@mail.gmail.com>
+
+On Wed, Jan 18, 2012 at 12:32 PM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> After a succesful hackathon in December (more here
+> http://science.okfn.org/2011/10/29/okfn-at-oss2011-open-research-reports/and here
+> http://wiki.okfn.org/Working_Groups/Science/swat4ls_hackathon/ORR) we're
+> looking to move forward with the Open Research Reports project to create a
+> resource for disease information using open bibliographic metadata and
+> semantic technologies.
+>
+>
+> We are making great progress with Openbiblio2 technology (Bibserver and
+BibSoup). This is directly designed to support ORR (in a way that it didn't
+even 2 months ago. I am copying in Openbiblio for this thread only.
+
+ORR is based on collections of Open information resources, mainly journal
+articles but also data sets, image libraries, software, etc. Each ORR is
+standalone but interconnected with all the others and wider Open resources.
+In the first instance we see the articles being provided by PubMed
+(UK/PMC). We started this in Openbiblio1 where Ben O'Steen created a
+Bibserver of the UK/PMC Open subset. Ben - if you're reading - can you let
+us know where it is? (Although a machine could be serving several different
+resources we'll refer to each as a Bibserver). BibSoup is fuzzily made up
+of various Bibservers.
+
+Bibserver has a search/display tool where these resources can be searched
+and browsed by facets. It will display any facet in the BibJSON - it
+doesn't have to be in the BibJSON vocabulary. Bibservers can ingest a
+reasonable range of bibliographic collections - BibTeX, RIS, etc.
+Openbiblio2 is working on a BibJSON editor which will be available RSN.
+
+The philosophy of BibSoup is get it out there Openly. Worry about
+normalization and disambiguation later.
+
+**Bibliographies have errors** - we must get used to it
+
+(Science has errors as well)
+
+We are not creating the "one true bibliography" we are creating a BibSoup
+of bibliographies that are good enough for a local purpose. These local
+purposes include:
+ * Tom Olijhoek and Malaria
+ * Gilles Frydman and Sarcoma
+
+The important thing is that:
+* there is a champion for the area. Someone or some group that needs
+bibliography and will work to add value for their purpose.
+* It is done as fast as reasonable. It's more important that we get the
+data out there and show the value of the concept than that it is perfect.
+Wiki-like resources can be cleaned quickly later if there is communal will.
+
+My guess is that using Bibserver will largely prevent automated SPAM. It
+won't prevent human vandalism but I think that will be low (people will
+have to edit the BibJSON somehow and it's a very small payback for
+spammers).
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120118/8dc08d69/attachment.htm>
+
+From tom.olijhoek at gmail.com  Thu Jan 19 11:18:16 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Thu, 19 Jan 2012 12:18:16 +0100
+Subject: [open-science] [open-science-dev] Moving forward with Open
+ Research Reports
+In-Reply-To: <CAD2k14O5b78cuoYg8Zy-5BuKE7yGFKvi8d7STH1eofDoUnJdYg@mail.gmail.com>
+References: <CABPM+wry4JCLp2B9w0F6b_gQYXKK3WS=BL1G6H=iSexHmet1EA@mail.gmail.com>
+	<CAD2k14O5b78cuoYg8Zy-5BuKE7yGFKvi8d7STH1eofDoUnJdYg@mail.gmail.com>
+Message-ID: <CAGyWN8a5s9ihF3C3S6Z6PGe7FfUhY52HeTFF1FWoDLSqSSAzNQ@mail.gmail.com>
+
+Hi all,
+
+I have talked to the people behind MalariaWorld.org and they are interested
+in cooperation on the ORR project for malaria.
+This means that they could send the weekly list of malaria related papers
+that is distributed to all subscribers of the site (>7000 malaria
+researchers).
+This then could serve as a source for malaria info replacing the UKPMC
+
+Tom Olijhoek
+
+On Wed, Jan 18, 2012 at 6:37 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Wed, Jan 18, 2012 at 12:32 PM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+>
+>> Hi All
+>>
+>> After a succesful hackathon in December (more here
+>> http://science.okfn.org/2011/10/29/okfn-at-oss2011-open-research-reports/and here
+>> http://wiki.okfn.org/Working_Groups/Science/swat4ls_hackathon/ORR) we're
+>> looking to move forward with the Open Research Reports project to create a
+>> resource for disease information using open bibliographic metadata and
+>> semantic technologies.
+>>
+>>
+>> We are making great progress with Openbiblio2 technology (Bibserver and
+> BibSoup). This is directly designed to support ORR (in a way that it didn't
+> even 2 months ago. I am copying in Openbiblio for this thread only.
+>
+> ORR is based on collections of Open information resources, mainly journal
+> articles but also data sets, image libraries, software, etc. Each ORR is
+> standalone but interconnected with all the others and wider Open resources.
+> In the first instance we see the articles being provided by PubMed
+> (UK/PMC). We started this in Openbiblio1 where Ben O'Steen created a
+> Bibserver of the UK/PMC Open subset. Ben - if you're reading - can you let
+> us know where it is? (Although a machine could be serving several different
+> resources we'll refer to each as a Bibserver). BibSoup is fuzzily made up
+> of various Bibservers.
+>
+> Bibserver has a search/display tool where these resources can be searched
+> and browsed by facets. It will display any facet in the BibJSON - it
+> doesn't have to be in the BibJSON vocabulary. Bibservers can ingest a
+> reasonable range of bibliographic collections - BibTeX, RIS, etc.
+> Openbiblio2 is working on a BibJSON editor which will be available RSN.
+>
+> The philosophy of BibSoup is get it out there Openly. Worry about
+> normalization and disambiguation later.
+>
+> **Bibliographies have errors** - we must get used to it
+>
+> (Science has errors as well)
+>
+> We are not creating the "one true bibliography" we are creating a BibSoup
+> of bibliographies that are good enough for a local purpose. These local
+> purposes include:
+>  * Tom Olijhoek and Malaria
+>  * Gilles Frydman and Sarcoma
+>
+> The important thing is that:
+> * there is a champion for the area. Someone or some group that needs
+> bibliography and will work to add value for their purpose.
+> * It is done as fast as reasonable. It's more important that we get the
+> data out there and show the value of the concept than that it is perfect.
+> Wiki-like resources can be cleaned quickly later if there is communal will.
+>
+> My guess is that using Bibserver will largely prevent automated SPAM. It
+> won't prevent human vandalism but I think that will be low (people will
+> have to edit the BibJSON somehow and it's a very small payback for
+> spammers).
+>
+> P.
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120119/ee666606/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jan 19 13:13:37 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 19 Jan 2012 13:13:37 +0000
+Subject: [open-science] [open-science-dev] Moving forward with Open
+ Research Reports
+In-Reply-To: <CAGyWN8a5s9ihF3C3S6Z6PGe7FfUhY52HeTFF1FWoDLSqSSAzNQ@mail.gmail.com>
+References: <CABPM+wry4JCLp2B9w0F6b_gQYXKK3WS=BL1G6H=iSexHmet1EA@mail.gmail.com>
+	<CAD2k14O5b78cuoYg8Zy-5BuKE7yGFKvi8d7STH1eofDoUnJdYg@mail.gmail.com>
+	<CAGyWN8a5s9ihF3C3S6Z6PGe7FfUhY52HeTFF1FWoDLSqSSAzNQ@mail.gmail.com>
+Message-ID: <CAD2k14N90feewubJH1yYLzK3ccsOW5P3BFR3ZgRRFzOuRXgEDQ@mail.gmail.com>
+
+Great to have the enthusiasm
+
+On Thu, Jan 19, 2012 at 11:18 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> Hi all,
+>
+> I have talked to the people behind MalariaWorld.org and they are
+> interested in cooperation on the ORR project for malaria.
+> This means that they could send the weekly list of malaria related papers
+> that is distributed to all subscribers of the site (>7000 malaria
+> researchers).
+> This then could serve as a source for malaria info replacing the UKPMC
+>
+
+Not replacing!!
+
+I see Openbiblio/ORR working very closely with UKPMC (I am on the board) -
+an obvious thing is to get the Bibservers mounted there. And it's a stable
+platform for the future. It's a way of ORR-generated ideas being fed back
+into the wider community.
+
+
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120119/8ad43e51/attachment.htm>
+
+From dc at icommons.org  Mon Jan 23 11:29:40 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Mon, 23 Jan 2012 11:29:40 +0000
+Subject: [open-science] Fwd: Global Data Journalism Awards Launched
+References: <E8E7D07B-8FDA-471D-B8ED-CB1E63BA42E7@lan>
+Message-ID: <E6F86981-E8FF-4287-8B48-8DCE263D64F7@icommons.org>
+
+Begin forwarded message:
+
+The Global Editors Network, together with the European Journalism Center and Google is launching the first international data journalism awards.
+
+Prizes are available in three categories: data-driven investigations, interactive data-visualisations and data-driven mobile or web applications. There will be a first prize for a national/international media organisation, as well as for a regional or local one, in each category. Prizes are 7.500 Euro each, and will be awarded by an international jury.
+
+Participants can submit their entries until 10 April. The Data Journalism Awards ceremony will take place in Paris on Thursday 31 May 2012, during the News World Summit.
+
+Read more?
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120123/277741ba/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Jan 23 12:03:19 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 23 Jan 2012 12:03:19 +0000
+Subject: [open-science] BibSoup for Open Science
+Message-ID: <CAD2k14Oqiaj8hw0A4UXz546ir=jRb35LSsi8WTMvLFUo7Kb5pg@mail.gmail.com>
+
+I am very impressed with the BibSoup/Bibserver software that the Openbiblo
+group have come up with and believe it's an important tool for Open Science.
+I have written two blog posts
+http://blogs.ch.cam.ac.uk/pmr/2012/01/22/bibsoup-a-new-open-approach-to-managing-personal-and-group-bibliographies/-
+includes videos of the team and an animal explanation of BibSoup
+http://blogs.ch.cam.ac.uk/pmr/2012/01/23/bibsoup-it%E2%80%99s-here-how-to-create-and-populate-your-own-bibserver/-
+a howto for Bibserver
+
+We have a new concept here - I have tried to explain that in the first
+post. It differs from everything else in that it is deliberately
+decentralised - anyone can do anything. We do not have the idea of the one
+true central bibliography, carefully curated to remove all warts and
+blemishes. This is an illusion.
+
+Instead we have local bibliographies. They can be local to:
+
+   - a person
+   - a group (this is a real opportunity for us)
+   - a department (again a real opportunity)
+   - a report (e.g. 7000 citations in IPCC report)
+   - a slice across the bibliosphere - an Open journal (e.g. Acta Cryst E),
+   a publisher (BioMedCentral or PLoSOne), an abstracter/indexer
+   (UK/PubmedCentral), etc. Perhaps filtered by Open rights.
+   - current awareness - daily filtering of certain journals or other
+   outputs.
+
+We then have the really exciting prospect of thousands, or more, local
+collections. The linkage between those will be very interesting - a real
+opportunity for bibliographic scholarship. We also have the ability to
+extend the Bibserver facets to things like:
+
+   - rights - is it open?
+   - links to non-conventional objects. Software, datasets, etc.
+   - annotations
+   - extraction of material from the resource (text and data mining - where
+   allowed)
+
+It would be useful to know of Open-science-ists who have collections of
+resources where bibliography may help to tie them together and present them
+to the world. I may revisit Crystallography and create an Open Bibliography
+for crystal structures. It obviously maps directly into Open Research
+Reports.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120123/6d4bdbce/attachment.htm>
+
+From jenny.molloy at okfn.org  Mon Jan 23 12:20:27 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 23 Jan 2012 12:20:27 +0000
+Subject: [open-science] Global platform for scientific knowledge project
+	seeks programmers
+Message-ID: <CABPM+wpH4kdUcROzohoS-nmWiaXnxS7gO6JwN_L5hOGKPZ0Wag@mail.gmail.com>
+
+Hi All
+
+Jus to advertise a project getting started at the University of Oxford. The
+aim is to build a global platform for scientific knowledge based on article
+bibliographic data with automatic retrieval of related material such as
+blog posts, post peer review comments, datasets and more accessed via a
+simple to use web interface.
+
+The project is advertising for volunteers to assist with programming,
+please see the advert below and get in touch with Simon Benjamin if you'd
+like more information:
+
+SEEKING PROGRAMMER
+
+An ambitious new project in Oxford needs programmers to join the team.
+We're taking a bold approach to open science: help us build a brand new
+global platform for scientific knowledge.
+
+The project will involve:
+
+** Writing code for harvesting key information from online documents.
+** Building highly scalable databases (eg. MySQL).
+** Constructing a web-based user interface (eg. html 5, flash, etc).
+
+We're particularly interested in people who are pragmatic, tenacious, have
+a concern for elegance, and love problem-solving.
+
+Think you might be the one? If you can spare at least 5 hours per week,
+we'd love to hear from you! Send an email to simon.benjamin
+@materials.ox.ac.uk for more details.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120123/56233db6/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue Jan 24 01:24:12 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 24 Jan 2012 01:24:12 +0000
+Subject: [open-science] London Citizen Cyberscience Summit, 16-18 Feb
+Message-ID: <CABPM+wo-h5hUxwk1yQqhb9aFcYsCuZr=Sho8ZybRW+yn-4H2Rw@mail.gmail.com>
+
+Dear All
+
+Some of you might be interested in the following meeting. Registration and
+submission of proposals for demos or workshops can be found here
+http://www.citizencyberscience.net/summit2/.
+
+We hope to get plenty of OKF representation at the hackfest on the Saturday
+so do sign up if you can!
+
+Jenny
+
+*On your marks?*
+
+The London Citizen Cyberscience Summit in 2010 brought together for the
+first time *volunteers and scientists* from a wide range of Web-based
+science projects, ranging from volunteer computing
+(SETI at home,ClimatePrediction.net)
+to volunteer thinking (GalaxyZoo, Herbaria at home) to volunteer sensing
+(EpiCollect, NoiseTube) and much more.* Historians, journalists, teachers
+and businesspeople* all brought their angle on citizen cyberscience to the
+event. Above all, it was a chance for the some of the millions of
+volunteers who make citizen cyberscience so successful to tell their story.
+
+*Get set?*
+
+The Second London Citizen Cyberscience Summit, *16-18 February 2012*,
+promises to be just as pioneering in its scope, and even more innovative in
+its format ? ranging from classical academic seminar on the first day,
+through to full-fledged open hardware hackfest on the last. It will take
+place at the *Royal Geographical Society* (on the 16th) and at *UCL* (17th
+and 18th), in London.
+
+*Go!*****
+
+*On Day 1,* we set the scene. (Thursday 16th February 2012, Royal
+Geographical Institute). Meet some of the *leading figures in citizen
+science* and explore the process of public engagement and participation,
+outreach of *citizen science to the developing world*, and the undertaking
+of *"extreme" citizen science *projects, in rain forests, arctic tundra, or
+urban jungles.****
+
+*On Day 2, *we look beneath the surface. (Friday 17th February 2012, UCL).
+Experts will discuss the *hardware and software* that powers citizen
+cyberscience. There will be a* panel discussion with citizen scientists* on
+why participation and engagement, and a showcase of *new and future citizen
+science projects*. Throughout the day, we will start exploring how we can
+develop new sensors and software to facilitate citizen science in the
+hackfest. There will be plenty of space for unconference sessions and
+exploration of new ideas together.****
+
+*On Day 3,* we get down to business?together! (Saturday 18th February 2012)
+This will include further *unconference sessions*, and a *hackfest* for
+development of hardware and software prototypes, demos and mock-ups, with
+awards for the most innovative creations!****
+
+*? Register and buy your ticket <http://lccs2.eventbrite.com/>*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120124/f7641fa7/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue Jan 24 11:40:09 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 24 Jan 2012 11:40:09 +0000
+Subject: [open-science] Reminder: Working Group Meeting - 25 Jan 2012,
+	17:30 GMT/UTC
+Message-ID: <CABPM+wqPQegOHJFExbLDQ5NYxHipgk5FU1XTdcx4G3HLKX+beQ@mail.gmail.com>
+
+Dear All
+
+A quick reminder about tomorrow's meeting - please add items to the agenda
+if you think of any. So far we'll be discussing:
+
+* 2012 open science wish list - what can we achieve this year?
+* Panton Fellowships
+* Update on local groups
+* Citizen Cyberscience Summit - hackathon ideas?
+* Update on open access and OKF
+* Working group website redesign
+* Plans for Open Research Reports in 2012
+
+As always, we'll keep strictly to time and finish at 18:30 but do drop in
+even if you can't stay for the whole meeting.
+
+I look forward to speaking to many of you tomorrow!
+
+Jenny
+
+
+On Sun, Jan 8, 2012 at 2:57 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> Happy New Year! It's been a while since we had a working group Skype
+> meeting and as ever there have been lots of developments and projects in
+> open data in science and open science more widely to discuss, so I hope
+> many of you will be able to attend!
+>
+> Top of the agenda will be what changes we want to see in 2012 and
+> suggestions for projects and resources to make those happen.
+>
+> When: Wednesday 25 January at 17:30 UTC/GMT
+> Location: Etherpad http://okfnpad.org/sciencewg-25Jan2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-25Jan2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even
+> if you can't make it yourself, just make sure you add enough details).
+>
+> Jenny
+>
+> Current Agenda:
+> * 2012 open science wish list - what can we achieve this year?
+> * Panton Fellowships
+> * Update on local groups
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120124/ef63dd9c/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Wed Jan 25 09:29:57 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 25 Jan 2012 09:29:57 +0000
+Subject: [open-science] [okfn-discuss] Help needed with visualization
+In-Reply-To: <CAD2k14PmhzyJMxt-ad8QhmOMOmPjfHidPy+sgCYf5sdcRBZgug@mail.gmail.com>
+References: <CACzVpz8_wgZ8UaTcG5fSbkAqpRN0xy_5NkUU+eTfMu8+MaUDTw@mail.gmail.com>
+	<CAD2k14PmhzyJMxt-ad8QhmOMOmPjfHidPy+sgCYf5sdcRBZgug@mail.gmail.com>
+Message-ID: <CABPM+wrLJ8NdhJnyQ9=u=a_tD3Q-Mh6UF2vsU8wtRY-6pmSKLQ@mail.gmail.com>
+
+Just cc'ing the open-science list in case anyone has ideas.
+
+Jenny
+
+On Tue, Jan 24, 2012 at 4:47 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> This is very exciting and something I have been scratching at in science
+> publishing. Now the Openbiblio team has produced Bibsoup/bibserver and it
+> seems your application could be very well suited to for BibSoup
+>
+> On Tue, Jan 24, 2012 at 4:25 PM, Guo Xu <digitalepourpre at gmail.com> wrote:
+>
+>> Hi folks,
+>>
+>> I have been working on visualizing the networks of academic publishing
+>> in economics. Here's an example for the Quarterly Journal of
+>> Economics:
+>>
+>> http://www.guoxu.org/econmap/map.html
+>>
+>> A link indicates that two economists have published together in the
+>> QJE. The strength of a link is defined by how many times they have
+>> published together.
+>>
+>> The size of the node indicates how many times an author has published
+>> in the QJE. Bigger nodes have published more often.
+>>
+>> Finally, the color indicates the ranking of the economist's alma
+>> mater. Blue indicates that the author obtained his/her PhD from a top
+>> 10 university (according to
+>>
+>> http://www.topuniversities.com/university-rankings/world-university-rankings/2011/subject-rankings/social-sciences/economics
+>> );
+>> orange indicates a top 11-20 university; green is for top 21-30 and
+>> red is for all universities beyond top 30.
+>>
+>> Couple of interesting points:
+>>
+>> - It seems that the core (those at the centre) are almost all made up
+>> by top 10 authors. They tend to be well-connected.
+>>
+>
+> In the UK this might be called "the old boy network" - the unofficial
+> network of (men) who have been to the same school / university. It does not
+> necessarily indicate  absolute vaue but it is often correlated with getting
+> grants, etc. [I have been in both Blue and Red universities (in science)]
+>
+>>
+>> - The hubs are: Phillipe Aghion, Daron Acemoglu, Marianne Bertrand
+>>
+>> - There are rarely authors beyond the top 30 who get published in the QJE.
+>>
+>> The visualization is done with D3. But it is very slow on older
+>> computers. Does anyone have ideas for optimizing this?
+>>
+>
+> Yes. This is a dynamics exercise and (I assume) you have a pairwise
+> repulsion term to spread the points out. Many of your points are
+> 0-connected and so you spend a lot of time computing them for nothing.
+> Unless there is some other hidden coordinate  I would just separate into
+> the disjoint graphs. It will be hugely fast as instead of O[N*N] you have
+> O[N] or less (there is a power law distrinution of cluster size)
+>
+>>
+>> Also, I have a lot more characteristics lying around that can be
+>> displayed (e.g. gender - btw only 10% of the authors are female), but
+>> I do not really know how to do it dynamically.
+>>
+>> Finally, I would ideally like to do the same visualization for the
+>> *entire* network of economist. I have a 300 MB dataset scraped from
+>> Repec that gives me information on co-authoring for virtually all
+>> economics journals and working paper series. But obviously this will
+>> be too slow to visualize so it would be great if someone had
+>> experience in working with such big datasets (the whole dataset has
+>> ~30.000 economists, which results in a 30.000 x 30.000 data matrix!!)
+>>
+>> You will certainly find interest on openbiblio-dev as we are looking for
+> bibliographic data sets and things to do with them
+>
+>
+>> Anyway, let me know what you think and looking forward to suggestions!
+>>
+>> Guo
+>>
+>> _______________________________________________
+>> okfn-discuss mailing list
+>> okfn-discuss at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> okfn-discuss mailing list
+> okfn-discuss at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120125/97e0c441/attachment-0001.htm>
+
+From egon.willighagen at gmail.com  Wed Jan 25 15:49:24 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 25 Jan 2012 16:49:24 +0100
+Subject: [open-science] Reminder: Working Group Meeting - 25 Jan 2012,
+ 17:30 GMT/UTC
+In-Reply-To: <CABPM+wqPQegOHJFExbLDQ5NYxHipgk5FU1XTdcx4G3HLKX+beQ@mail.gmail.com>
+References: <CABPM+wqPQegOHJFExbLDQ5NYxHipgk5FU1XTdcx4G3HLKX+beQ@mail.gmail.com>
+Message-ID: <CAMPqvY9fd9jXXXBWKo6RuBYby5az+DzXNNTimbV_zA+PeV=_5g@mail.gmail.com>
+
+Jenny, I forgot to take an earlier train home... should be around from
+about 18:00 GMT, is all goes well...
+
+We're going to bootstrap Maastricht Open Science here, with bi-weekly
+lunch meetings... but things have to crystallize a bit more...
+
+Egon
+
+On Tue, Jan 24, 2012 at 12:40 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> Dear All
+>
+> A quick reminder about tomorrow's meeting - please add items to the agenda
+> if you think of any. So far we'll be discussing:
+>
+> * 2012 open science wish list - what can we achieve this year?
+> * Panton Fellowships
+> * Update on local groups
+> * Citizen Cyberscience Summit - hackathon ideas?
+> * Update on open access and OKF
+> * Working group website redesign
+> * Plans for Open Research Reports in 2012
+>
+> As always, we'll keep strictly to time and finish at 18:30 but do drop in
+> even if you can't stay for the whole meeting.
+>
+> I look forward to speaking to many of you tomorrow!
+>
+> Jenny
+>
+>
+> On Sun, Jan 8, 2012 at 2:57 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>>
+>> Dear All
+>>
+>> Happy New Year! It's been a while since we had a working group Skype
+>> meeting and as ever there have been lots of developments and projects in
+>> open data in science and open science more widely to discuss, so I hope many
+>> of you will be able to attend!
+>>
+>> Top of the agenda will be what changes we want to see in 2012 and
+>> suggestions for projects and resources to make those happen.
+>>
+>> When: Wednesday 25 January at 17:30 UTC/GMT
+>> Location: Etherpad?http://okfnpad.org/sciencewg-25Jan2012?and?Skype?(add
+>> your?Skype?ID to the Etherpad and I'll bring you into the conference call)
+>>
+>> Please add your name and?Skype?ID to the list of attendees
+>> on?http://okfnpad.org/sciencewg-25Jan2012
+>> Add anything you'd like to be discussed or new ideas to the agenda (even
+>> if you can't make it yourself, just make sure you add enough details).
+>>
+>> Jenny
+>>
+>> Current Agenda:
+>> * 2012 open science wish list - what can we achieve this year?
+>> * Panton Fellowships
+>> * Update on local groups
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From jenny.molloy at okfn.org  Wed Jan 25 17:26:16 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 25 Jan 2012 17:26:16 +0000
+Subject: [open-science] Working Group Meeting - 5 minutes to go
+Message-ID: <CABPM+wqovvsTxYPQX1mBYqi0ctk19XXHUNRj0gqtBEhtzb9z4A@mail.gmail.com>
+
+On Tue, Jan 24, 2012 at 11:40 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Dear All
+>
+> A quick reminder about tomorrow's meeting - please add items to the agenda
+> if you think of any. So far we'll be discussing:
+>
+> * 2012 open science wish list - what can we achieve this year?
+> * Panton Fellowships
+> * Update on local groups
+> * Citizen Cyberscience Summit - hackathon ideas?
+> * Update on open access and OKF
+> * Working group website redesign
+> * Plans for Open Research Reports in 2012
+>
+> As always, we'll keep strictly to time and finish at 18:30 but do drop in
+> even if you can't stay for the whole meeting.
+>
+> I look forward to speaking to many of you tomorrow!
+>
+> Jenny
+>
+>
+> On Sun, Jan 8, 2012 at 2:57 PM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+>
+>> Dear All
+>>
+>> Happy New Year! It's been a while since we had a working group Skype
+>> meeting and as ever there have been lots of developments and projects in
+>> open data in science and open science more widely to discuss, so I hope
+>> many of you will be able to attend!
+>>
+>> Top of the agenda will be what changes we want to see in 2012 and
+>> suggestions for projects and resources to make those happen.
+>>
+>> When: Wednesday 25 January at 17:30 UTC/GMT
+>> Location: Etherpad http://okfnpad.org/sciencewg-25Jan2012 and Skype (add
+>> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>>
+>> Please add your name and Skype ID to the list of attendees on
+>> http://okfnpad.org/sciencewg-25Jan2012
+>> Add anything you'd like to be discussed or new ideas to the agenda (even
+>> if you can't make it yourself, just make sure you add enough details).
+>>
+>> Jenny
+>>
+>> Current Agenda:
+>> * 2012 open science wish list - what can we achieve this year?
+>> * Panton Fellowships
+>> * Update on local groups
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120125/5d2162b5/attachment.htm>
+
+From laura.newman at okfn.org  Wed Jan 25 17:58:20 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Wed, 25 Jan 2012 17:58:20 +0000
+Subject: [open-science] Panton Fellowships
+Message-ID: <CAMQ+bMa7ORPfP_1CUDh7iCFnr_JDdkY75dmHMCKv3S4C2GrMwA@mail.gmail.com>
+
+Dear all,
+
+The OKFN is delighted to announce the launch of the Panton Fellowships!
+
+Funded by the Open Society Institute, two Panton Fellowships will be
+awarded to scientists who actively promote open data in science.
+
+The Fellowships are open to all, and would particularly suit graduate
+students and early-stage career scientists. Fellows will have the freedom
+to undertake a range of activities, which should ideally complement their
+existing work. Panton Fellows may wish to explore solutions for making data
+open, facilitate discussion, and catalyse the open science community.
+
+Fellows will receive ?8k p.a. Prospective applicants should send a CV and
+covering letter to jobs[@]okfn.org by Friday 24th February.
+
+Full details can be found at [Panton Principles](
+http://pantonprinciples.org/panton-fellowships/). You can also see our
+[blog post](http://blog.okfn.org/2012/01/25/panton-fellowships-apply-now/).
+
+Please do feel free to circulate these details to interested individuals
+and appropriate mailing lists!
+
+Kind regards,
+Laura
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120125/6019fed6/attachment.htm>
+

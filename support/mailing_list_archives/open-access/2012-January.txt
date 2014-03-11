@@ -1,0 +1,2961 @@
+From laura.newman at okfn.org  Fri Jan 27 15:30:59 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Fri, 27 Jan 2012 15:30:59 +0000
+Subject: [Open-access] Second Skype meeting
+Message-ID: <CAMQ+bMaxSq2YKG7e2iWgJmHH9ot+w8qqbT+9CPyxS-LSiVHMFw@mail.gmail.com>
+
+Hi all,
+
+Following on from the successful skype call last week (see notes
+here<http://lauranewman.okfnpad.org/newOAinitiative>),
+it was agreed that a second skype call should be held next week.
+
+The main topic of this call will be to discuss a proposal by Tom Olijhoek
+regarding an open access index (Tom, I believe you wished to circulate
+material before the meeting?).
+
+The doodle poll to arrange the time can be found
+here<http://www.doodle.com/ydhrc72cagw3eg88#table>.
+I will leave the poll open over the weekend and confirm the time of the
+meeting first thing on Monday.
+
+Have a good weekend!
+Laura
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120127/52ea9444/attachment.htm>
+
+From tom.olijhoek at gmail.com  Sat Jan 28 13:39:58 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Sat, 28 Jan 2012 14:39:58 +0100
+Subject: [Open-access] new open access initiative
+Message-ID: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+
+Hi to all,
+
+I would like to start my postings to this list with my view on the need for
+a new OA initiative: purposes tasks, possibilities, branding and other
+topics. I want to stress that all this is open for discussion and
+represents my personal view.
+
+The main reason for founding a new open access initiative is that the OA
+movement is too fragmented to be effective. Equally important is the fact
+that the term Open Access is used by many with quite different meanings: we
+need to reclaim the term  Open Access to mean exclusively  Open access
+according to the definition of the Budapest Convention, as we have
+discussed by previously.
+
+Therefore II like to propose as a first task for the new initiative
+establishing a logo or badge for Open Access: we can give publishers /
+authors the rights to use our OpenAccess Logo/Badge ( as proposed by Mike
+Taylor in the preceding discussion) as certified proof for Open Access for
+given articles.  Establishing ourselves as a certifying organization could
+perhaps serve to generate some modest funding.
+
+To promote open access publishing and draw media attention we will need a
+name , a Logo and a ?special? product. The product could be an Open Access
+Index for access to disease information. We can start making and publishing
+an Open Access Index for Malaria with other diseases following suite. In
+parallel with the development of an Open Access to [disease X] information
+Index we can develop ORR?s for the disease. At a later stage we could add
+the Open Access Publisher Index described in the documents form the Dutch
+Malaria Foudation. For a name I suggest that we use Open Access Foundation
+initiative, in anticipation of the founding of an Open Access Foundation
+(see below).
+
+At the same time we should commit ourselves to the building of a community
+of [Disease X] stakeholders (researchers, patient groups and others) and
+offer them a platform for social interaction (discussion, collaboration).
+For this we could (for instance) copy the ResearchGate model. In addition
+we can encourage researchers to deposit their papers with us (as
+ResearchGate users do on their platform). Proceeding in this direction we
+will hopefully find ourselves hosting a number of Circles (of disease
+interest) and indexed open access publications. I am convinced that Open
+Access and community building are both indispensible ingredients for an
+Open Science Society ( see e.g. my
+blog<http://www.malariaworld.org/blog/open-science-communities-and-evolution-open-knowledge-society>).
+
+At that stage, or already after establishing  one Circle (malaria) we could
+transform into an Open Access Foundation which acts as Open Access
+watchdog, certifying body for Open Access publications  and social media
+platform for the building of Circles (communities) of malaria researchers +
+other groups, cancer researchers + others, Lyme disease + others etc.
+(modeled on the ResearchGate community). For this to work we should also
+invest in the development and improvement of tools for easy access to
+information and tools for social networking.
+Where do publishers fit into this scheme. Ideally publishers should be
+influenced by the Indices of the Foundation to move towards open access
+business models. This could mean that scientific publishers transform into
+service providers ( see Cameron Neylon?s blog) offering information
+storage, ways of easy access to information, platforms for collaboration
+etc. , what one could call evolution towards a publishing 2.0 business
+model replacing the anachronistic publishing model that many scientific
+publishers continue to use today.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120128/54a63dfd/attachment.htm>
+
+From mike at indexdata.com  Mon Jan 30 13:40:57 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Mon, 30 Jan 2012 13:40:57 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+Message-ID: <CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+
+I very much like all the ideas proposed here, and I think that
+reclaiming the term "open access" to mean actually open rather than
+whatever is the least the publishers can get away with calling "open"
+is important.
+
+My only reservation is that I fear the possibility that starting a new
+initiative will further fragment the already fragmented OA landscape
+rather than serving as a condensation point for a more unified voice.
+(I think of the many attempts to unify document formats by making a
+simple metaformat that can be translated into HTML, RTF, etc., with
+the inevitable consequence that the new format becomes just one more
+format that needs supporting.)
+
+What can we do to avoid this?
+
+-- Mike.
+
+
+
+On 28 January 2012 13:39, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+> Hi to all,
+>
+> I would like to start my postings to this list with my view on the need for
+> a new OA initiative: purposes tasks, possibilities, branding and other
+> topics. I want to stress that all this is open for discussion and represents
+> my personal view.
+>
+> The main reason for founding a new open access initiative is that the OA
+> movement is too fragmented to be effective. Equally important is the fact
+> that the term Open Access is used by many with quite different meanings: we
+> need to reclaim the term ?Open Access to mean exclusively ?Open access
+> according to the definition of the Budapest Convention, as we have discussed
+> by previously.
+>
+> Therefore II like to propose as a first task for the new initiative
+> establishing a logo or badge for Open Access: we can give publishers /
+> authors the rights to use our OpenAccess Logo/Badge ( as proposed by Mike
+> Taylor in the preceding discussion) as certified proof for Open Access for
+> given articles. ?Establishing ourselves as a certifying organization could
+> perhaps serve to generate some modest funding.
+>
+> To promote open access publishing and draw media attention we will need a
+> name , a Logo and a ?special? product. The product could be an Open Access
+> Index for access to disease information. We can start making and publishing
+> an Open Access Index for Malaria with other diseases following suite. In
+> parallel with the development of an Open Access to [disease X] information
+> Index we can develop ORR?s for the disease. At a later stage we could add
+> the Open Access Publisher Index described in the documents form the Dutch
+> Malaria Foudation. For a name I suggest that we use Open Access Foundation
+> initiative, in anticipation of the founding of an Open Access Foundation
+> (see below).
+>
+> At the same time we should commit ourselves to the building of a community
+> of [Disease X] stakeholders (researchers, patient groups and others) and
+> offer them a platform for social interaction (discussion, collaboration).
+> For this we could (for instance) copy the ResearchGate model. In addition we
+> can encourage researchers to deposit their papers with us (as ResearchGate
+> users do on their platform). Proceeding in this direction we will hopefully
+> find ourselves hosting a number of Circles (of disease interest) and indexed
+> open access publications. I am convinced that Open Access and community
+> building are both indispensible ingredients for an Open Science Society (
+> see e.g. my blog ).
+>
+> At that stage, or already after establishing ?one Circle (malaria) we could
+> transform into an Open Access Foundation which acts as Open Access watchdog,
+> certifying body for Open Access publications ?and social media platform for
+> the building of Circles (communities) of malaria researchers + other groups,
+> cancer researchers + others, Lyme disease + others etc. (modeled on the
+> ResearchGate community). For this to work we should also invest in the
+> development and improvement of tools for easy access to information and
+> tools for social networking.
+>
+> Where do publishers fit into this scheme. Ideally publishers should be
+> influenced by the Indices of the Foundation to move towards open access
+> business models. This could mean that scientific publishers transform into
+> service providers ( see Cameron Neylon?s blog) offering information storage,
+> ways of easy access to information, platforms for collaboration etc. , what
+> one could call evolution towards a publishing 2.0 business model replacing
+> the anachronistic publishing model that many scientific publishers continue
+> to use today.
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+From tom.olijhoek at gmail.com  Mon Jan 30 14:57:25 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Mon, 30 Jan 2012 15:57:25 +0100
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+Message-ID: <CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+
+Hi,
+
+I have made a visual presentation of the ideas in my previous posting. One
+time as a PDF file , the other is a java applet in a zip file which allows
+to expand the branches of the mindmap in a browser (Chrome or other).
+
+Regarding Mike's question, I think that because we build communities around
+medical themes, the Open Access message will have a lot more impact and
+hopefully mobilize many silent voters. Those people already active could
+still be attracted to our initiative because it offers ways for direct
+online contacts in  one's own discipline and means of finding collaborating
+partners. Scientists from outside of the medical field might feel inspired
+to start their own circles on our site.
+If all this works as planned, existing initiatives could be attracted
+because of our MO factor , still continue to do what their initiative set
+out to do but link to us because of the added value we offer. So yes, I
+expect that we we are going to act as a GLUE more than as another splinter
+group.
+TOM
+
+On Mon, Jan 30, 2012 at 2:40 PM, Mike Taylor <mike at indexdata.com> wrote:
+
+> I very much like all the ideas proposed here, and I think that
+> reclaiming the term "open access" to mean actually open rather than
+> whatever is the least the publishers can get away with calling "open"
+> is important.
+>
+> My only reservation is that I fear the possibility that starting a new
+> initiative will further fragment the already fragmented OA landscape
+> rather than serving as a condensation point for a more unified voice.
+> (I think of the many attempts to unify document formats by making a
+> simple metaformat that can be translated into HTML, RTF, etc., with
+> the inevitable consequence that the new format becomes just one more
+> format that needs supporting.)
+>
+> What can we do to avoid this?
+>
+> -- Mike.
+>
+>
+>
+> On 28 January 2012 13:39, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+> > Hi to all,
+> >
+> > I would like to start my postings to this list with my view on the need
+> for
+> > a new OA initiative: purposes tasks, possibilities, branding and other
+> > topics. I want to stress that all this is open for discussion and
+> represents
+> > my personal view.
+> >
+> > The main reason for founding a new open access initiative is that the OA
+> > movement is too fragmented to be effective. Equally important is the fact
+> > that the term Open Access is used by many with quite different meanings:
+> we
+> > need to reclaim the term  Open Access to mean exclusively  Open access
+> > according to the definition of the Budapest Convention, as we have
+> discussed
+> > by previously.
+> >
+> > Therefore II like to propose as a first task for the new initiative
+> > establishing a logo or badge for Open Access: we can give publishers /
+> > authors the rights to use our OpenAccess Logo/Badge ( as proposed by Mike
+> > Taylor in the preceding discussion) as certified proof for Open Access
+> for
+> > given articles.  Establishing ourselves as a certifying organization
+> could
+> > perhaps serve to generate some modest funding.
+> >
+> > To promote open access publishing and draw media attention we will need a
+> > name , a Logo and a ?special? product. The product could be an Open
+> Access
+> > Index for access to disease information. We can start making and
+> publishing
+> > an Open Access Index for Malaria with other diseases following suite. In
+> > parallel with the development of an Open Access to [disease X]
+> information
+> > Index we can develop ORR?s for the disease. At a later stage we could add
+> > the Open Access Publisher Index described in the documents form the Dutch
+> > Malaria Foudation. For a name I suggest that we use Open Access
+> Foundation
+> > initiative, in anticipation of the founding of an Open Access Foundation
+> > (see below).
+> >
+> > At the same time we should commit ourselves to the building of a
+> community
+> > of [Disease X] stakeholders (researchers, patient groups and others) and
+> > offer them a platform for social interaction (discussion, collaboration).
+> > For this we could (for instance) copy the ResearchGate model. In
+> addition we
+> > can encourage researchers to deposit their papers with us (as
+> ResearchGate
+> > users do on their platform). Proceeding in this direction we will
+> hopefully
+> > find ourselves hosting a number of Circles (of disease interest) and
+> indexed
+> > open access publications. I am convinced that Open Access and community
+> > building are both indispensible ingredients for an Open Science Society (
+> > see e.g. my blog ).
+> >
+> > At that stage, or already after establishing  one Circle (malaria) we
+> could
+> > transform into an Open Access Foundation which acts as Open Access
+> watchdog,
+> > certifying body for Open Access publications  and social media platform
+> for
+> > the building of Circles (communities) of malaria researchers + other
+> groups,
+> > cancer researchers + others, Lyme disease + others etc. (modeled on the
+> > ResearchGate community). For this to work we should also invest in the
+> > development and improvement of tools for easy access to information and
+> > tools for social networking.
+> >
+> > Where do publishers fit into this scheme. Ideally publishers should be
+> > influenced by the Indices of the Foundation to move towards open access
+> > business models. This could mean that scientific publishers transform
+> into
+> > service providers ( see Cameron Neylon?s blog) offering information
+> storage,
+> > ways of easy access to information, platforms for collaboration etc. ,
+> what
+> > one could call evolution towards a publishing 2.0 business model
+> replacing
+> > the anachronistic publishing model that many scientific publishers
+> continue
+> > to use today.
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120130/2ef9bd58/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Open Access Foundation.pdf
+Type: application/pdf
+Size: 96772 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120130/2ef9bd58/attachment-0001.pdf>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: OpenAccessFoundation.zip
+Type: application/zip
+Size: 1019341 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120130/2ef9bd58/attachment-0001.zip>
+
+From pm286 at cam.ac.uk  Mon Jan 30 15:32:19 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 30 Jan 2012 15:32:19 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+Message-ID: <CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+
+On Mon, Jan 30, 2012 at 2:57 PM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> Hi,
+>
+> I have made a visual presentation of the ideas in my previous posting. One
+> time as a PDF file , the other is a java applet in a zip file which allows
+> to expand the branches of the mindmap in a browser (Chrome or other).
+>
+> The PDF looks good and about the right level of detail. (Finer detail gets
+rapidly eroded by more inputs)
+
+
+> Regarding Mike's question, I think that because we build communities
+> around medical themes, the Open Access message will have a lot more impact
+> and hopefully mobilize many silent voters. Those people already active
+> could still be attracted to our initiative because it offers ways for
+> direct online contacts in  one's own discipline and means of finding
+> collaborating partners. Scientists from outside of the medical field might
+> feel inspired to start their own circles on our site.
+>
+
+I agree.
+
+If all this works as planned, existing initiatives could be attracted
+> because of our MO factor , still continue to do what their initiative set
+> out to do but link to us because of the added value we offer. So yes, I
+> expect that we we are going to act as a GLUE more than as another splinter
+> group.
+>
+
+I think we would have difficult labelling it as "Open Access Foundation"
+without the rest of the community being involved and I don't think that
+would happen within years. (Some have just announced Enabling Open
+Scholarship) So I think we should not use "Open Access" as a formal label
+for the whole thing - although something like "Open Access (to) Research".
+might be acceptable. This would also emphasize the science side.
+It's sufficiently different that it doesn't splinter the activity
+unnecessarily. We can also emphasize BOAI / CC-BY in a context which
+doesn't directly challenge them.
+
+My only reservation is that I fear the possibility that starting a new
+
+> initiative will further fragment the already fragmented OA landscape
+>> rather than serving as a condensation point for a more unified voice.
+>> (I think of the many attempts to unify document formats by making a
+>> simple metaformat that can be translated into HTML, RTF, etc., with
+>> the inevitable consequence that the new format becomes just one more
+>> format that needs supporting.)
+>>
+>> This isn't quite similar (I do this with chemistry filetypes). The OA
+concept is simple if one hangs onto BOAI. The splintering has already taken
+place. So our variant is simply reaffirming one of the nodes.
+
+
+> What can we do to avoid this?
+>>
+>
+It's 100% a political question. The "mainstream OA" community has a
+philosophy that simply using the term "open access" is sufficient - it
+doesn't matter what it refers to. I have spent years trying to influence
+this and got nowhere. We should build something of value - where the OAness
+is fundamental but not challenging and then when it's a success bring it
+back in.
+
+>
+>> -- Mike.
+>>
+>>
+>>
+>> On 28 January 2012 13:39, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+>> > Hi to all,
+>> >
+>> > I would like to start my postings to this list with my view on the need
+>> for
+>> > a new OA initiative: purposes tasks, possibilities, branding and other
+>> > topics. I want to stress that all this is open for discussion and
+>> represents
+>> > my personal view.
+>> >
+>> > The main reason for founding a new open access initiative is that the OA
+>> > movement is too fragmented to be effective. Equally important is the
+>> fact
+>> > that the term Open Access is used by many with quite different
+>> meanings: we
+>> > need to reclaim the term  Open Access to mean exclusively  Open access
+>> > according to the definition of the Budapest Convention, as we have
+>> discussed
+>> > by previously.
+>> >
+>> > Therefore II like to propose as a first task for the new initiative
+>> > establishing a logo or badge for Open Access: we can give publishers /
+>> > authors the rights to use our OpenAccess Logo/Badge ( as proposed by
+>> Mike
+>> > Taylor in the preceding discussion) as certified proof for Open Access
+>> for
+>> > given articles.  Establishing ourselves as a certifying organization
+>> could
+>> > perhaps serve to generate some modest funding.
+>> >
+>> > To promote open access publishing and draw media attention we will need
+>> a
+>> > name , a Logo and a ?special? product. The product could be an Open
+>> Access
+>> > Index for access to disease information. We can start making and
+>> publishing
+>> > an Open Access Index for Malaria with other diseases following suite. In
+>> > parallel with the development of an Open Access to [disease X]
+>> information
+>> > Index we can develop ORR?s for the disease. At a later stage we could
+>> add
+>> > the Open Access Publisher Index described in the documents form the
+>> Dutch
+>> > Malaria Foudation. For a name I suggest that we use Open Access
+>> Foundation
+>> > initiative, in anticipation of the founding of an Open Access Foundation
+>> > (see below).
+>> >
+>> > At the same time we should commit ourselves to the building of a
+>> community
+>> > of [Disease X] stakeholders (researchers, patient groups and others) and
+>> > offer them a platform for social interaction (discussion,
+>> collaboration).
+>> > For this we could (for instance) copy the ResearchGate model. In
+>> addition we
+>> > can encourage researchers to deposit their papers with us (as
+>> ResearchGate
+>> > users do on their platform). Proceeding in this direction we will
+>> hopefully
+>> > find ourselves hosting a number of Circles (of disease interest) and
+>> indexed
+>> > open access publications. I am convinced that Open Access and community
+>> > building are both indispensible ingredients for an Open Science Society
+>> (
+>> > see e.g. my blog ).
+>> >
+>> > At that stage, or already after establishing  one Circle (malaria) we
+>> could
+>> > transform into an Open Access Foundation which acts as Open Access
+>> watchdog,
+>> > certifying body for Open Access publications  and social media platform
+>> for
+>> > the building of Circles (communities) of malaria researchers + other
+>> groups,
+>> > cancer researchers + others, Lyme disease + others etc. (modeled on the
+>> > ResearchGate community). For this to work we should also invest in the
+>> > development and improvement of tools for easy access to information and
+>> > tools for social networking.
+>> >
+>> > Where do publishers fit into this scheme. Ideally publishers should be
+>> > influenced by the Indices of the Foundation to move towards open access
+>> > business models. This could mean that scientific publishers transform
+>> into
+>> > service providers ( see Cameron Neylon?s blog) offering information
+>> storage,
+>> > ways of easy access to information, platforms for collaboration etc. ,
+>> what
+>> > one could call evolution towards a publishing 2.0 business model
+>> replacing
+>> > the anachronistic publishing model that many scientific publishers
+>> continue
+>> > to use today.
+>> > _______________________________________________
+>> > open-access mailing list
+>> > open-access at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-access
+>> >
+>>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120130/2d2d8fde/attachment.htm>
+
+From mike at indexdata.com  Mon Jan 30 15:40:43 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Mon, 30 Jan 2012 15:40:43 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+Message-ID: <CACnMvBZTGVAy65-o_XYbdk7qSkeRqavtGUGeaVAMuF6SFNZjrg@mail.gmail.com>
+
+On 30 January 2012 15:32, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>> initiative will further fragment the already fragmented OA landscape
+>>> rather than serving as a condensation point for a more unified voice.
+>>> (I think of the many attempts to unify document formats by making a
+>>> simple metaformat that can be translated into HTML, RTF, etc., with
+>>> the inevitable consequence that the new format becomes just one more
+>>> format that needs supporting.)
+>
+> This isn't quite similar (I do this with chemistry filetypes). The OA
+> concept is simple if one hangs onto BOAI. The splintering has already taken
+> place. So our variant is simply reaffirming one of the nodes.
+
+Right -- the Budapest node.
+
+Which leads me to ask: what happened to the original group that put
+that definition out and built the website?  Are they still running?
+If so, could we do this in concert with them?  After all we are
+working to promulgate their definition; and any branding program would
+have more weight if it was associated with the Budapest initiative
+itself.
+
+>>> What can we do to avoid this?
+>
+> It's 100% a political question. The "mainstream OA" community has a
+> philosophy that simply using the term "open access" is sufficient - it
+> doesn't matter what it refers to.
+
+Are you sure that's true?  All I am seeing along those lines is
+Stephen Harnad pasting the same long comment into a hundred different
+blogs' comment streams.  He is loud, sure, but there is only one of
+him.
+
+-- Mike.
+
+
+
+
+> I have spent years trying to influence
+> this and got nowhere. We should build something of value - where the OAness
+> is fundamental but not challenging and then when it's a success bring it
+> back in.
+>>>
+>>>
+>>> -- Mike.
+>>>
+>>>
+>>>
+>>> On 28 January 2012 13:39, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+>>> > Hi to all,
+>>> >
+>>> > I would like to start my postings to this list with my view on the need
+>>> > for
+>>> > a new OA initiative: purposes tasks, possibilities, branding and other
+>>> > topics. I want to stress that all this is open for discussion and
+>>> > represents
+>>> > my personal view.
+>>> >
+>>> > The main reason for founding a new open access initiative is that the
+>>> > OA
+>>> > movement is too fragmented to be effective. Equally important is the
+>>> > fact
+>>> > that the term Open Access is used by many with quite different
+>>> > meanings: we
+>>> > need to reclaim the term ?Open Access to mean exclusively ?Open access
+>>> > according to the definition of the Budapest Convention, as we have
+>>> > discussed
+>>> > by previously.
+>>> >
+>>> > Therefore II like to propose as a first task for the new initiative
+>>> > establishing a logo or badge for Open Access: we can give publishers /
+>>> > authors the rights to use our OpenAccess Logo/Badge ( as proposed by
+>>> > Mike
+>>> > Taylor in the preceding discussion) as certified proof for Open Access
+>>> > for
+>>> > given articles. ?Establishing ourselves as a certifying organization
+>>> > could
+>>> > perhaps serve to generate some modest funding.
+>>> >
+>>> > To promote open access publishing and draw media attention we will need
+>>> > a
+>>> > name , a Logo and a ?special? product. The product could be an Open
+>>> > Access
+>>> > Index for access to disease information. We can start making and
+>>> > publishing
+>>> > an Open Access Index for Malaria with other diseases following suite.
+>>> > In
+>>> > parallel with the development of an Open Access to [disease X]
+>>> > information
+>>> > Index we can develop ORR?s for the disease. At a later stage we could
+>>> > add
+>>> > the Open Access Publisher Index described in the documents form the
+>>> > Dutch
+>>> > Malaria Foudation. For a name I suggest that we use Open Access
+>>> > Foundation
+>>> > initiative, in anticipation of the founding of an Open Access
+>>> > Foundation
+>>> > (see below).
+>>> >
+>>> > At the same time we should commit ourselves to the building of a
+>>> > community
+>>> > of [Disease X] stakeholders (researchers, patient groups and others)
+>>> > and
+>>> > offer them a platform for social interaction (discussion,
+>>> > collaboration).
+>>> > For this we could (for instance) copy the ResearchGate model. In
+>>> > addition we
+>>> > can encourage researchers to deposit their papers with us (as
+>>> > ResearchGate
+>>> > users do on their platform). Proceeding in this direction we will
+>>> > hopefully
+>>> > find ourselves hosting a number of Circles (of disease interest) and
+>>> > indexed
+>>> > open access publications. I am convinced that Open Access and community
+>>> > building are both indispensible ingredients for an Open Science Society
+>>> > (
+>>> > see e.g. my blog ).
+>>> >
+>>> > At that stage, or already after establishing ?one Circle (malaria) we
+>>> > could
+>>> > transform into an Open Access Foundation which acts as Open Access
+>>> > watchdog,
+>>> > certifying body for Open Access publications ?and social media platform
+>>> > for
+>>> > the building of Circles (communities) of malaria researchers + other
+>>> > groups,
+>>> > cancer researchers + others, Lyme disease + others etc. (modeled on the
+>>> > ResearchGate community). For this to work we should also invest in the
+>>> > development and improvement of tools for easy access to information and
+>>> > tools for social networking.
+>>> >
+>>> > Where do publishers fit into this scheme. Ideally publishers should be
+>>> > influenced by the Indices of the Foundation to move towards open access
+>>> > business models. This could mean that scientific publishers transform
+>>> > into
+>>> > service providers ( see Cameron Neylon?s blog) offering information
+>>> > storage,
+>>> > ways of easy access to information, platforms for collaboration etc. ,
+>>> > what
+>>> > one could call evolution towards a publishing 2.0 business model
+>>> > replacing
+>>> > the anachronistic publishing model that many scientific publishers
+>>> > continue
+>>> > to use today.
+>>> > _______________________________________________
+>>> > open-access mailing list
+>>> > open-access at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-access
+>>> >
+>>
+>>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+From laura.newman at okfn.org  Mon Jan 30 15:41:25 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Mon, 30 Jan 2012 15:41:25 +0000
+Subject: [Open-access] Next Skype call on Thursday at 10am GMT
+Message-ID: <CAMQ+bMYj-4X1vYq0Y14Q5jHAFums=nczt7BuxY=1od4vNbi+Ug@mail.gmail.com>
+
+Hi,
+
+Thanks to all who filled in the Doodle poll. The next Skype call will take
+place on *Thursday 2nd February *at *10am GMT. *
+
+The etherpad for the meeting can be found here:
+http://open-access.okfnpad.org/meeting2
+
+I look forward to speaking to many of you on Thursday!
+
+Kind regards,
+Laura
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120130/ca307b4a/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Mon Jan 30 16:26:29 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 30 Jan 2012 16:26:29 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CACnMvBZTGVAy65-o_XYbdk7qSkeRqavtGUGeaVAMuF6SFNZjrg@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CACnMvBZTGVAy65-o_XYbdk7qSkeRqavtGUGeaVAMuF6SFNZjrg@mail.gmail.com>
+Message-ID: <CAD2k14MmkWYb_PPaRyKOWHHcnK36mt+boFU=6NPqdveYuySR-Q@mail.gmail.com>
+
+On Mon, Jan 30, 2012 at 3:40 PM, Mike Taylor <mike at indexdata.com> wrote:
+
+> >
+> > This isn't quite similar (I do this with chemistry filetypes). The OA
+> > concept is simple if one hangs onto BOAI. The splintering has already
+> taken
+> > place. So our variant is simply reaffirming one of the nodes.
+>
+> Right -- the Budapest node.
+>
+> Which leads me to ask: what happened to the original group that put
+> that definition out and built the website?  Are they still running?
+>
+
+There are having a 10 years reunion.
+
+
+> If so, could we do this in concert with them?  After all we are
+> working to promulgate their definition; and any branding program would
+> have more weight if it was associated with the Budapest initiative
+> itself.
+>
+> *Leslie Chan*:* Bioline International**
+Darius Cuplinskas*:* Director, Information Program, Open Society Institute**
+Michael Eisen*:* Public Library of Science**
+Fred Friend*: Director Scholarly Communication, University College London*
+Yana Genova*: Next Page Foundation
+*Jean-Claude Gu?don*: University of Montreal*
+Melissa Hagemann*: Program Officer, Information Program, Open Society
+Institute
+*Stevan Harnad*: Professor of Cognitive Science, University of Southampton,
+Universite du Quebec a Montreal*
+Rick Johnson*: Director, Scholarly Publishing and Academic Resources
+Coalition (SPARC)
+*Rima Kupryte*: Open Society Institute*
+Manfredi La Manna*: Electronic Society for Social Scientists
+*Istv?n R?v*: Open Society Institute, Open Society Archives
+*Monika Segbert*: eIFL Project consultant *
+Sidnei de Souza*: Informatics Director at CRIA, Bioline International*
+Peter Suber*: Professor of Philosophy, Earlham College & The Free Online
+Scholarship Newsletter*
+Jan Velterop*:* Publisher, BioMed Central*
+I believe that OSI (now OSF) people are committed to full BOAI. Peter Suber
+laments the failure to live up to CC-BY but deliberately takes a neutral
+stance - he refrains from activism on this issue. IMO this is a pity. SPARC
+used to be strongly CC-BY  but I get the feeling this has somewhat lapsed.
+I think JanV believes in CC-BY.
+
+
+> >>> What can we do to avoid this?
+> >
+> > It's 100% a political question. The "mainstream OA" community has a
+> > philosophy that simply using the term "open access" is sufficient - it
+> > doesn't matter what it refers to.
+>
+> Are you sure that's true?  All I am seeing along those lines is
+> Stephen Harnad pasting the same long comment into a hundred different
+> blogs' comment streams.  He is loud, sure, but there is only one of
+> him.
+
+
+I think he has built a position where no-one dares challenge him - he wears
+them done. People like me who challenge non-BOAI get lots of pushback and
+no support. So I don't believe that anyone (publicly) feels this is a
+problem. There is "GreenOA" and that's an "equal partner" with GoldOA and
+so it persists. I believe it won't change.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120130/f2c38fb0/attachment.htm>
+
+From mike at indexdata.com  Mon Jan 30 20:36:27 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Mon, 30 Jan 2012 20:36:27 +0000
+Subject: [Open-access] An anti-RWA bill
+Message-ID: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+
+Folks,
+
+The point has been made in respect of SOPA and PIPA that although the
+recent Internet blackouts of sites such as Wikipedia halted the
+current approach, they have not resulted in any actual progress --
+just in retardation of the rate at which we're going backwards.
+
+Assuming that the current round of revolt against the RWA is
+successful, the same will be the case with respect to academic
+publishing.  I find myself thinking that rather that fighting a
+rearguard action, we should be taking the battle to the publishers.  I
+would like to see a movement to get rid of the NIH's twelve-month
+grace period before the articles it funds are posted at PubMed
+Central.
+
+Does anyone have any idea how such a thing could be kicked off?  Would
+it be a legislative matter, so that we would need to approach a
+congressman to propose it?  Or is it something that the NIH itself
+would do?
+
+-- Mike.
+
+
+From nb at climatecode.org  Mon Jan 30 20:50:42 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Mon, 30 Jan 2012 20:50:42 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+Message-ID: <CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+
+On Mon, Jan 30, 2012 at 20:36, Mike Taylor <mike at indexdata.com> wrote:
+
+> Assuming that the current round of revolt against the RWA is
+> successful, the same will be the case with respect to academic
+> publishing. ?I find myself thinking that rather that fighting a
+> rearguard action, we should be taking the battle to the publishers. ?I
+> would like to see a movement to get rid of the NIH's twelve-month
+> grace period before the articles it funds are posted at PubMed
+> Central.
+
+Or to broaden it: pass an act requiring all federally-funded research
+papers to be open access.
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From mike at indexdata.com  Mon Jan 30 20:57:16 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Mon, 30 Jan 2012 20:57:16 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+Message-ID: <CACnMvBZBhP8u1wacxmL91kKhx5UcL0kcWL553GDKOR=0KUaLSw@mail.gmail.com>
+
+On 30 January 2012 20:50, Nick Barnes <nb at climatecode.org> wrote:
+> On Mon, Jan 30, 2012 at 20:36, Mike Taylor <mike at indexdata.com> wrote:
+>
+>> Assuming that the current round of revolt against the RWA is
+>> successful, the same will be the case with respect to academic
+>> publishing. ?I find myself thinking that rather that fighting a
+>> rearguard action, we should be taking the battle to the publishers. ?I
+>> would like to see a movement to get rid of the NIH's twelve-month
+>> grace period before the articles it funds are posted at PubMed
+>> Central.
+>
+> Or to broaden it: pass an act requiring all federally-funded research
+> papers to be open access.
+
+That is MUCH better.  It's what I should have said in the first place :-)
+
+So does anyone know a congressman we could approach?
+
+-- Mike.
+
+
+From tom.olijhoek at gmail.com  Tue Jan 31 11:14:55 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 31 Jan 2012 12:14:55 +0100
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+Message-ID: <CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+
+>
+>
+>
+On Mon, Jan 30, 2012 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Mon, Jan 30, 2012 at 2:57 PM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+>
+>> Hi,
+>>
+>> I have made a visual presentation of the ideas in my previous posting.
+>> One time as a PDF file , the other is a java applet in a zip file which
+>> allows to expand the branches of the mindmap in a browser (Chrome or other).
+>>
+>> The PDF looks good and about the right level of detail. (Finer detail
+> gets rapidly eroded by more inputs)
+>
+>
+>> Regarding Mike's question, I think that because we build communities
+>> around medical themes, the Open Access message will have a lot more impact
+>> and hopefully mobilize many silent voters. Those people already active
+>> could still be attracted to our initiative because it offers ways for
+>> direct online contacts in  one's own discipline and means of finding
+>> collaborating partners. Scientists from outside of the medical field might
+>> feel inspired to start their own circles on our site.
+>>
+>
+> I agree.
+>
+> If all this works as planned, existing initiatives could be attracted
+>> because of our MO factor , still continue to do what their initiative set
+>> out to do but link to us because of the added value we offer. So yes, I
+>> expect that we we are going to act as a GLUE more than as another splinter
+>> group.
+>>
+>
+> I think we would have difficult labelling it as "Open Access Foundation"
+> without the rest of the community being involved and I don't think that
+> would happen within years. (Some have just announced Enabling Open
+> Scholarship) So I think we should not use "Open Access" as a formal label
+> for the whole thing - although something like "Open Access (to) Research".
+> might be acceptable. This would also emphasize the science side.
+> It's sufficiently different that it doesn't splinter the activity
+> unnecessarily. We can also emphasize BOAI / CC-BY in a context which
+> doesn't directly challenge them.
+>
+>
+> I don't see why we need to have the rest of the community involved from
+the very beginning. Why couldn't we start with a small group and get
+community support in the process? It would probably be better to not have
+too many factions involved in the beginning since this would be more
+difficult to manage ( this has been said before we started this mailing
+list: keep it small for the moment).
+If we seek collaboration with the originators of the BOAI (and I am all for
+that to happen) we wouldn't challenge anybody, except for the people who do
+not want "real" open access. And I would think that we want to challenge
+them, that is one point of the whole exercise. If we don't get the
+collaboration, "at least we have asked" (as I remember this has also been
+said before in our group).
+In my view a logical  first step in reclaiming the term Open Access is to
+use it in the name of the new Initiative, especially if we want to start a
+kind of certification with an OA-LOGO.
+I cannot judge whether using the term Foundation would imply that we have a
+big organisation. As far as I know you can start a Foundation with as few
+as 3 people. I read in Wikipedia that the term does not carry legal clout
+at least not in the UK. In  NL we would have to be registered. A foundation
+Initiative though would not be much of a problem anyway, or am I wrong?
+
+
+> My only reservation is that I fear the possibility that starting a new
+>
+>> initiative will further fragment the already fragmented OA landscape
+>>> rather than serving as a condensation point for a more unified voice.
+>>> (I think of the many attempts to unify document formats by making a
+>>> simple metaformat that can be translated into HTML, RTF, etc., with
+>>> the inevitable consequence that the new format becomes just one more
+>>> format that needs supporting.)
+>>>
+>>> This isn't quite similar (I do this with chemistry filetypes). The OA
+> concept is simple if one hangs onto BOAI. The splintering has already taken
+> place. So our variant is simply reaffirming one of the nodes.
+>
+>
+>> What can we do to avoid this?
+>>>
+>>
+> It's 100% a political question. The "mainstream OA" community has a
+> philosophy that simply using the term "open access" is sufficient - it
+> doesn't matter what it refers to. I have spent years trying to influence
+> this and got nowhere. We should build something of value - where the OAness
+> is fundamental but not challenging and then when it's a success bring it
+> back in.
+>
+>>
+I think the "something of value" could be the establishment of the Open
+Access Index, it would be something very new and innovative and could
+easily become our branding mark And it certainly wouldn't antoganize
+existing groups
+
+
+>  -- Mike.
+>>>
+>>
+TOM
+
+>
+>>>
+>>>
+>>> On 28 January 2012 13:39, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+>>> > Hi to all,
+>>> >
+>>> > I would like to start my postings to this list with my view on the
+>>> need for
+>>> > a new OA initiative: purposes tasks, possibilities, branding and other
+>>> > topics. I want to stress that all this is open for discussion and
+>>> represents
+>>> > my personal view.
+>>> >
+>>> > The main reason for founding a new open access initiative is that the
+>>> OA
+>>> > movement is too fragmented to be effective. Equally important is the
+>>> fact
+>>> > that the term Open Access is used by many with quite different
+>>> meanings: we
+>>> > need to reclaim the term  Open Access to mean exclusively  Open access
+>>> > according to the definition of the Budapest Convention, as we have
+>>> discussed
+>>> > by previously.
+>>> >
+>>> > Therefore II like to propose as a first task for the new initiative
+>>> > establishing a logo or badge for Open Access: we can give publishers /
+>>> > authors the rights to use our OpenAccess Logo/Badge ( as proposed by
+>>> Mike
+>>> > Taylor in the preceding discussion) as certified proof for Open Access
+>>> for
+>>> > given articles.  Establishing ourselves as a certifying organization
+>>> could
+>>> > perhaps serve to generate some modest funding.
+>>> >
+>>> > To promote open access publishing and draw media attention we will
+>>> need a
+>>> > name , a Logo and a ?special? product. The product could be an Open
+>>> Access
+>>> > Index for access to disease information. We can start making and
+>>> publishing
+>>> > an Open Access Index for Malaria with other diseases following suite.
+>>> In
+>>> > parallel with the development of an Open Access to [disease X]
+>>> information
+>>> > Index we can develop ORR?s for the disease. At a later stage we could
+>>> add
+>>> > the Open Access Publisher Index described in the documents form the
+>>> Dutch
+>>> > Malaria Foudation. For a name I suggest that we use Open Access
+>>> Foundation
+>>> > initiative, in anticipation of the founding of an Open Access
+>>> Foundation
+>>> > (see below).
+>>> >
+>>> > At the same time we should commit ourselves to the building of a
+>>> community
+>>> > of [Disease X] stakeholders (researchers, patient groups and others)
+>>> and
+>>> > offer them a platform for social interaction (discussion,
+>>> collaboration).
+>>> > For this we could (for instance) copy the ResearchGate model. In
+>>> addition we
+>>> > can encourage researchers to deposit their papers with us (as
+>>> ResearchGate
+>>> > users do on their platform). Proceeding in this direction we will
+>>> hopefully
+>>> > find ourselves hosting a number of Circles (of disease interest) and
+>>> indexed
+>>> > open access publications. I am convinced that Open Access and community
+>>> > building are both indispensible ingredients for an Open Science
+>>> Society (
+>>> > see e.g. my blog ).
+>>> >
+>>> > At that stage, or already after establishing  one Circle (malaria) we
+>>> could
+>>> > transform into an Open Access Foundation which acts as Open Access
+>>> watchdog,
+>>> > certifying body for Open Access publications  and social media
+>>> platform for
+>>> > the building of Circles (communities) of malaria researchers + other
+>>> groups,
+>>> > cancer researchers + others, Lyme disease + others etc. (modeled on the
+>>> > ResearchGate community). For this to work we should also invest in the
+>>> > development and improvement of tools for easy access to information and
+>>> > tools for social networking.
+>>> >
+>>> > Where do publishers fit into this scheme. Ideally publishers should be
+>>> > influenced by the Indices of the Foundation to move towards open access
+>>> > business models. This could mean that scientific publishers transform
+>>> into
+>>> > service providers ( see Cameron Neylon?s blog) offering information
+>>> storage,
+>>> > ways of easy access to information, platforms for collaboration etc. ,
+>>> what
+>>> > one could call evolution towards a publishing 2.0 business model
+>>> replacing
+>>> > the anachronistic publishing model that many scientific publishers
+>>> continue
+>>> > to use today.
+>>> > _______________________________________________
+>>> > open-access mailing list
+>>> > open-access at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-access
+>>> >
+>>>
+>>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/dfba3b66/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Tue Jan 31 11:40:43 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 31 Jan 2012 11:40:43 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+Message-ID: <CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+
+On Tue, Jan 31, 2012 at 11:14 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+>
+>>
+> On Mon, Jan 30, 2012 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>>
+>>
+>>
+>>
+>> I don't see why we need to have the rest of the community involved from
+> the very beginning. Why couldn't we start with a small group and get
+> community support in the process? It would probably be better to not have
+> too many factions involved in the beginning since this would be more
+> difficult to manage ( this has been said before we started this mailing
+> list: keep it small for the moment).
+> If we seek collaboration with the originators of the BOAI (and I am all
+> for that to happen) we wouldn't challenge anybody, except for the people
+> who do not want "real" open access. And I would think that we want to
+> challenge them, that is one point of the whole exercise. If we don't get
+> the collaboration, "at least we have asked" (as I remember this has also
+> been said before in our group).
+> In my view a logical  first step in reclaiming the term Open Access is to
+> use it in the name of the new Initiative, especially if we want to start a
+> kind of certification with an OA-LOGO.
+> I cannot judge whether using the term Foundation would imply that we have
+> a big organisation. As far as I know you can start a Foundation with as few
+> as 3 people. I read in Wikipedia that the term does not carry legal clout
+> at least not in the UK. In  NL we would have to be registered. A foundation
+> Initiative though would not be much of a problem anyway, or am I wrong?
+>
+>
+> This all makes sense. I carry a lot of history and that probably distorts
+my judgment pessismistically. So everything here seems reasonable.
+
+SPARC offer certification, though I don't get the impression it's as active
+as it should be. Maybe we should start with areas they don't cover.
+
+Yes - in the UK it doesn't take much to set up a Foundation in the
+beginning. Getting support is probably more difficult. It will be quite a
+lot of work. Yes, ask the original members and see what happens. We aren't
+asking their permission - we are asking their support.
+
+I'm happy to be part of this - probably a good idea if there are fresh
+drivers. There's more detail we need to work out
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/218e0c65/attachment.htm>
+
+From mike at indexdata.com  Tue Jan 31 11:44:45 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Tue, 31 Jan 2012 11:44:45 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+	<CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+Message-ID: <CACnMvBbyx+0b_RqyN8+WsJD1mWKzbiuT+ODAwENYEzqLRLCLbQ@mail.gmail.com>
+
+If SPARC already offer certification then rather than splinter OA
+certification we should get on board with their effort and see what we
+can do to push it along.  We do NOT want to get into a
+NetBSD-vs.-FreeBSD-vs.-OpenBSD situation here!
+
+-- Mike.
+
+
+On 31 January 2012 11:40, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Tue, Jan 31, 2012 at 11:14 AM, Tom Olijhoek <tom.olijhoek at gmail.com>
+> wrote:
+>>>
+>>>
+>>
+>> On Mon, Jan 30, 2012 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+>> wrote:
+>>>
+>>>
+>>>
+>>>
+>>>
+>> I don't see why we need to have the rest of the community involved from
+>> the very beginning. Why couldn't we start with a small group and get
+>> community support in the process? It would probably be better to not have
+>> too many factions involved in the beginning since this would be more
+>> difficult to manage ( this has been said before we started this mailing
+>> list: keep it small for the moment).
+>> If we seek collaboration with the originators of the BOAI (and I am all
+>> for that to happen) we wouldn't challenge anybody, except for the people who
+>> do not want "real" open access. And I would think that we want to challenge
+>> them, that is one point of the whole exercise. If we don't get the
+>> collaboration, "at least we have asked" (as I remember this has also been
+>> said before in our group).
+>> In my view a logical ?first step in reclaiming the term Open Access is to
+>> use it in the name of the new Initiative, especially if we want to start a
+>> kind of certification with an OA-LOGO.
+>> I cannot judge whether using the term Foundation would imply that we have
+>> a big organisation. As far as I know you can start a Foundation with as few
+>> as 3 people. I read in Wikipedia that the term does not carry legal clout at
+>> least not in the UK. In ?NL we would have to be registered. A foundation
+>> Initiative though would not be much of a problem anyway, or am I wrong?
+>>
+>>
+> This all makes sense. I carry a lot of history and that probably distorts my
+> judgment pessismistically. So everything here seems reasonable.
+>
+> SPARC offer certification, though I don't get the impression it's as active
+> as it should be. Maybe we should start with areas they don't cover.
+>
+> Yes - in the UK it doesn't take much to set up a Foundation in the
+> beginning. Getting support is probably more difficult. It will be quite a
+> lot of work. Yes, ask the original members and see what happens. We aren't
+> asking their permission - we are asking their support.
+>
+> I'm happy to be part of this - probably a good idea if there are fresh
+> drivers. There's more detail we need to work out
+>
+> P.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+From jenny.molloy at okfn.org  Tue Jan 31 12:55:59 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 31 Jan 2012 12:55:59 +0000
+Subject: [Open-access] HIFA - these people want OA and they want it now
+Message-ID: <CABPM+wrjfj+-xas3_4+7JYw=23Sn7qJP+AAMGJ1sW1XTwTU-oQ@mail.gmail.com>
+
+Hi All
+
+Just to make you aware of a community that we should very much engage in
+our efforts, the HIFA forum is filled with doctors and HCPs from the
+developing world who want access to healthcare information. There have been
+several frustrations vocalised about the limitations of HINARI and they are
+very pro OA. Several prominent members spoke at the BMC Open Access Africa
+conference and I think it would be worth contacting them to join our
+discussions and be a champion of the developing world HCP community
+scholarly poor in the same way that Tom, Gilles and Graham can act as
+champions for specific disease information.
+
+There are specific ways we could link the forum to Open Research Reports
+and I'll send a separate email about that to the open-science list later.
+
+Jenny
+
+---------- Forwarded message ----------
+From: Babatunde Awokola <tundeawokola at yahoo.com>
+Date: Tue, Jan 31, 2012 at 12:16 PM
+Subject: [HIFA2015] HINARI: How access to scientific literature is
+improving the livelihoods of communities around the world (3)
+To: HIFA2015 - Healthcare Information For All by 2015 <HIFA2015 at dgroups.org>
+
+
+ Thank you for your relentless efforts, Dr Ana. I am persuaded that we
+should keep pushing...one day, "the wall will fall". Evidenced based
+medicine can only be a reality if a source like HINARI is made available to
+ALL!!
+
+HIFA2015 profile: Babatunde Awokola is a Specialist Registrar in Family
+Medicine at Obafemi Awolowo University Teaching Hospital, Nigeria. He is
+also an informatician with bias for electronic medical records and
+telemedicine. tundeawokola AT yahoo.com
+
+-----
+
+From: "Joseph Ana" jneana AT yahoo.co.uk
+To: "HIFA2015 - Healthcare Information For All by 2015" HIFA2015 at dgroups.org
+Subject: [HIFA2015] HINARI: How access to scientific literature is
+improving the livelihoods of communities around the world (2)
+Date: Mon, 30 Jan 2012 15:20:59 +0000 (GMT)
+
+Congratulations to HINARI, OARE & AGORA.
+
+I sent a message yesterday to encourage HINARI to extend its permissions to
+private health facilities. I am not sure whether HINARI permits access for
+_public_ health facilities (Hospitals & Clinics) unless it changed its
+policy recently. The State Ministry of Health applied to register the
+Centre for Clinical Governance, General Hospital, Calabar, Cross River
+State, Nigeria but the application failed in 2005 and 2006. The hospital is
+the flagship hospital for Cross River State with a population of three
+million people.
+I wolud be very glad to know if the policy has changed.
+
+The success of HINARI reflects the tip of the iceberg in the spectrum of
+possibilities. If they can extend their limits to cover health facilities
+and not just institutions, very much more mortality and morbidity will be
+prevented.
+
+Joseph Ana
+
+HIFA2015 profile: Joseph Ana is the Medical Adviser of the Calabar Women &
+Children Hospital, Calabar and Associate Professor in the Faculty of Health
+Sciences Cross River University of Technology. He is a member of the
+Medical & Dental Council of Nigeria and the Editor & Mentor of BMJ West
+Africa edition. He was invited to be the Commissioner for Health of Cross
+River State of Nigeria from July 2004-June 2008 from his post as a GP
+Principal and Trainer in Leighton Buzzard, Bedfordshire, UK. He originally
+trained as a medical doctor in Nigeria, graduating in 1978 before
+proceeding to the United Kingdom to specialise in surgery and urology. He
+further qualified as a GP in the UK. A Fellow of the Royal Society of
+Public Health, he is a pioneer Trustee-Director of the NMF (Nigerian
+Medical Forum) which took the BMJ to West Africa in 1996. He is
+particularly interested in setting up and sustaining continuing
+professional development for doctors, nurses and other health workers in
+West Africa, especially for those in isolated rural hospitals through
+health information dissemination. With the assistance of The BMJ, he
+established the first, model, BMJWA Health Information Resource Centre in
+Calabar, Nigeria in 2003 to provide subsidised electronic and paper health
+information to colleagues. As Commissioner for Health he introduced
+Clinical Governance concepts to Nigeria and set up the first Centre for
+Clinical Governance, Research and Training (CCGRT) in Calabar that
+functioned as the Health Think Tank in Cross River State, thereby
+eliminating the strictures imposed on health care delivery by the routines
+of the civil service. In 2007 the centre became the Department of Clinical
+Governance, Servicom & e-health of the State Ministry of Health.
+www.bmjwestafrica.com jneana AT yahoo.co.uk
+
+Click here <http://dgroups.org/?1672zb8f> to read online.
+
+HIFA2015: Healthcare Information For All by 2015: www.hifa2015.org
+
+HIFA2015 requires financial support for 2012. Please contact the
+coordinator: neil.pakenham-walsh at ghi-net.org
+
+Thanks to our 2011 financial supporters: British Medical Association, CABI,
+Global HELP, International Child Health Group (Royal College of Paediatrics
+and Child Health), Joanna Briggs Institute, Network for Information and
+Digital Access, Public Library of Science, Rockefeller Foundation
+(Monitoring and Evaluation), Royal College of Midwives, Royal College of
+Nursing, THET, and UnitedHealth Chronic Disease Initiative.
+
+To send a message to the HIFA2015 forum, email: hifa2015 at dgroups.org To
+join or unsubscribe from HIFA2015, email: hifa2015-admin at dgroups.org
+
+Join our sister forums: CHILD2015
+<http://www.hifa2015.org/child2015-forum>(child health);
+HIFA-Portuguese <http://www.hifa2015.org/hifa-pt> (collaboration with WHO
+ePORTUGUESe network);
+HIFA-EVIPNet-French<http://www.hifa2015.org/hifa-evipnet-fr>(collaboration
+with WHO Evidence for Informed Policy Network) ;
+HIFA-Zambia <http://www.hifa2015.org/hifa-zambia> (collaboration with the
+Zambia UK Health Workforce Alliance)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/ab690988/attachment.htm>
+
+From b.brembs at googlemail.com  Tue Jan 31 13:09:15 2012
+From: b.brembs at googlemail.com (=?iso-8859-1?Q?Bj=F6rn_Brembs?=)
+Date: Tue, 31 Jan 2012 14:09:15 +0100
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+Message-ID: <153649972.20120131140915@gmail.com>
+
+Nick Barnes wrote:
+
+> Or to broaden it: pass an act requiring all
+> federally-funded research papers to be open
+> access.
+
+What would be a rational reason to send our
+publications to publishers, only to then retrieve
+it from them again, even if it all were OA?
+Their format (and I don't mean the layout) would
+still be closed, non-interoperable and without any
+standards.
+What do publishers do we can't do better, for less
+money?
+
+Keeping publishers just adds reform upon reform
+and we'll not be alive to see any of the
+technology the general public has around today,
+ever be implemented. Why would they give up their
+profits without at least using them against us?
+They can spend more than 10 million US$ every
+single day for years to fight us. Do you have any
+idea how many politicians you can buy for than
+money?
+This fight is like the entangled fly trying to
+convince the spider not to eat it.
+
+There is no law required to convince our libraries
+we don't need publishers any more.
+We don't need to pay our librarians to get access
+to them.
+Why would we keep giving publishers millions every
+single day, which they only use to fight us?
+Cut off the funding for the publishers and all our
+problems are solved - the money we save builds the
+technology we need.
+
+The current system is like asking them to take our
+money to fight us, that's worthy of Monty Python
+("let's call it a draw!"), but not of scholars.
+
+I'm not supporting anything that keeps publishers
+in business, unless someone can convince me that
+it's not a Monty Python sketch.
+
+Best,
+
+Bjoern
+
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurobiology
+Freie Universit?t Berlin
+Germany
+
+
+
+From mike at indexdata.com  Tue Jan 31 13:32:10 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Tue, 31 Jan 2012 13:32:10 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <153649972.20120131140915@gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+Message-ID: <CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+
+Everything you say is true.
+
+But.
+
+It's a question of strategy.  How we get there from here.  If you go
+to 100 randomly chosen scientists from randomly chosen institutions,
+you'll get 87 blank stares 12 furious arguments that some form of the
+journal system is necessary, and -- if you're lucky -- one who will
+sign up for your Destroy All Publishers campaign.
+
+Politics is the art of the possible.  What's possible *today* is a
+strong move towards universal open access within the existing
+publishing system.  (Or at least open access for federally funded
+research in the USA.)
+
+Once that has been achieved, the publishers' position will be more
+precarious, and it will be more apparent to more academics how little
+we need publishers.  From there I think we may be able to push on to
+your dream scenario.  (Publishers know that they will be more
+vulnerable in a more open-access world.  I think that is the main
+reason they oppose it -- more than short-term profits, even.)
+
+So how do we get there from here?  One step at a time.  Let's not
+throw out a hugely useful candidate step, such as federally mandated
+OA on everything it funds, because our eyes are lifted too far to the
+heavens already.
+
+[Thompson's Rule for First-Time Telescope Makers.]  It is faster to
+make a four-inch mirror then a six-inch mirror than to make a six-inch
+mirror.
+	-- Bill McKeeman, Wang Institute
+
+-- Mike.
+
+
+
+
+
+
+On 31 January 2012 13:09, Bj?rn Brembs <b.brembs at googlemail.com> wrote:
+> Nick Barnes wrote:
+>
+>> Or to broaden it: pass an act requiring all
+>> federally-funded research papers to be open
+>> access.
+>
+> What would be a rational reason to send our
+> publications to publishers, only to then retrieve
+> it from them again, even if it all were OA?
+> Their format (and I don't mean the layout) would
+> still be closed, non-interoperable and without any
+> standards.
+> What do publishers do we can't do better, for less
+> money?
+>
+> Keeping publishers just adds reform upon reform
+> and we'll not be alive to see any of the
+> technology the general public has around today,
+> ever be implemented. Why would they give up their
+> profits without at least using them against us?
+> They can spend more than 10 million US$ every
+> single day for years to fight us. Do you have any
+> idea how many politicians you can buy for than
+> money?
+> This fight is like the entangled fly trying to
+> convince the spider not to eat it.
+>
+> There is no law required to convince our libraries
+> we don't need publishers any more.
+> We don't need to pay our librarians to get access
+> to them.
+> Why would we keep giving publishers millions every
+> single day, which they only use to fight us?
+> Cut off the funding for the publishers and all our
+> problems are solved - the money we save builds the
+> technology we need.
+>
+> The current system is like asking them to take our
+> money to fight us, that's worthy of Monty Python
+> ("let's call it a draw!"), but not of scholars.
+>
+> I'm not supporting anything that keeps publishers
+> in business, unless someone can convince me that
+> it's not a Monty Python sketch.
+>
+> Best,
+>
+> Bjoern
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurobiology
+> Freie Universit?t Berlin
+> Germany
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+
+
+From jcmcoppice12 at gmail.com  Tue Jan 31 13:38:09 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Tue, 31 Jan 2012 13:38:09 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CACnMvBbyx+0b_RqyN8+WsJD1mWKzbiuT+ODAwENYEzqLRLCLbQ@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+	<CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+	<CACnMvBbyx+0b_RqyN8+WsJD1mWKzbiuT+ODAwENYEzqLRLCLbQ@mail.gmail.com>
+Message-ID: <CABPM+wrrvNHsq2avKGnM=2VEQ6po7O5wzwSmzJJseEvQWusU5g@mail.gmail.com>
+
+From: Mike Taylor <mike at indexdata.com>
+Date: Mon, Jan 30, 2012 at 1:40 PM
+
+> My only reservation is that I fear the possibility that starting a new
+> initiative will further fragment the already fragmented OA landscape
+>rather than serving as a condensation point for a more unified voice.
+>(I think of the many attempts to unify document formats by making a
+>simple metaformat that can be translated into HTML, RTF, etc., with
+>the inevitable consequence that the new format becomes just one more
+>format that needs supporting.)
+
+>What can we do to avoid this?
+
+I agree that we should do everything we can to not be a 'splinter group'.
+The only thing on which we need to be immovable is sticking to the BOAI
+definition of OA for our own projects and initiatives, beyond that it
+should be about dialogue. I think we avoid splintering by:
+
+1) Ensuring that whatever we do is not a redundant effort, if someone else
+is doing it already we should start a dialogue with them to push things
+forward, not start a rival initiative (unless our efforts fail and there is
+no viable alternative that captures what we want to do e.g. if SPARC
+decided that they wouldn't exclude CC-NC from their OA label criteria -
+this is a hypothetical situation as I don't know what their current
+criteria are!).
+
+2) Focusing on open access for all, not just the scholarly community. We're
+not interested in the academic debate per se, we're interested in actively
+making things happen and building tools/apps/resources that are genuinely
+useful for evaluating the state of open access as it stands or increasing
+the production and consumption of OA materials, especially in terms of
+access and usefulness for the scholarly poor. Reclaiming OA as per BOAI is
+fundamental to what we do but that doesn't exclude us from working on
+practical things with people who hold different views and I think that
+pragmatic slant is what will stop us being just another group of people
+with a slightly different message shouting to be heard.
+
+3) Making efforts to bring in people who to some extent are excluded from
+the OA movement by its academic nature. We have Graham and Gilles who have
+by their hard work already made an impact there and represent a lot more
+people from their respective groups. In this way we're adding people into
+the community rather than taking them away and one would hope that
+providing a platform and prominence to these voices within the more
+established OA groups would be a unifying feature in terms of expanding the
+goals of the current OA movement rather than splitting our work into a
+separate stream.
+
+We can discuss further on the call on Thursday, there are probably many
+more things we can do, but these are the main ones I thought about.
+
+Jenny
+
+
+
+On Tue, Jan 31, 2012 at 11:44 AM, Mike Taylor <mike at indexdata.com> wrote:
+
+> If SPARC already offer certification then rather than splinter OA
+> certification we should get on board with their effort and see what we
+> can do to push it along.  We do NOT want to get into a
+> NetBSD-vs.-FreeBSD-vs.-OpenBSD situation here!
+>
+> -- Mike.
+>
+>
+> On 31 January 2012 11:40, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> >
+> >
+> > On Tue, Jan 31, 2012 at 11:14 AM, Tom Olijhoek <tom.olijhoek at gmail.com>
+> > wrote:
+> >>>
+> >>>
+> >>
+> >> On Mon, Jan 30, 2012 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> >> wrote:
+> >>>
+> >>>
+> >>>
+> >>>
+> >>>
+> >> I don't see why we need to have the rest of the community involved from
+> >> the very beginning. Why couldn't we start with a small group and get
+> >> community support in the process? It would probably be better to not
+> have
+> >> too many factions involved in the beginning since this would be more
+> >> difficult to manage ( this has been said before we started this mailing
+> >> list: keep it small for the moment).
+> >> If we seek collaboration with the originators of the BOAI (and I am all
+> >> for that to happen) we wouldn't challenge anybody, except for the
+> people who
+> >> do not want "real" open access. And I would think that we want to
+> challenge
+> >> them, that is one point of the whole exercise. If we don't get the
+> >> collaboration, "at least we have asked" (as I remember this has also
+> been
+> >> said before in our group).
+> >> In my view a logical  first step in reclaiming the term Open Access is
+> to
+> >> use it in the name of the new Initiative, especially if we want to
+> start a
+> >> kind of certification with an OA-LOGO.
+> >> I cannot judge whether using the term Foundation would imply that we
+> have
+> >> a big organisation. As far as I know you can start a Foundation with as
+> few
+> >> as 3 people. I read in Wikipedia that the term does not carry legal
+> clout at
+> >> least not in the UK. In  NL we would have to be registered. A foundation
+> >> Initiative though would not be much of a problem anyway, or am I wrong?
+> >>
+> >>
+> > This all makes sense. I carry a lot of history and that probably
+> distorts my
+> > judgment pessismistically. So everything here seems reasonable.
+> >
+> > SPARC offer certification, though I don't get the impression it's as
+> active
+> > as it should be. Maybe we should start with areas they don't cover.
+> >
+> > Yes - in the UK it doesn't take much to set up a Foundation in the
+> > beginning. Getting support is probably more difficult. It will be quite a
+> > lot of work. Yes, ask the original members and see what happens. We
+> aren't
+> > asking their permission - we are asking their support.
+> >
+> > I'm happy to be part of this - probably a good idea if there are fresh
+> > drivers. There's more detail we need to work out
+> >
+> > P.
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> >
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/f1fcd9bc/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Tue Jan 31 13:44:58 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Tue, 31 Jan 2012 13:44:58 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+Message-ID: <CABPM+wqiwBAAjaWY2ucLZkL_1fsgSm9XXsUi+Ue=6tmj1gYRSQ@mail.gmail.com>
+
+Does anyone know an insider at NIH who would know enough about current
+feeling at the organisation to scope whether they would push for this
+themselves? Perhaps with some pressure from either a congressman or senior
+scientists (I'm not sure who holds most sway with them)
+
+Jenny
+
+On Tue, Jan 31, 2012 at 1:32 PM, Mike Taylor <mike at indexdata.com> wrote:
+
+> Everything you say is true.
+>
+> But.
+>
+> It's a question of strategy.  How we get there from here.  If you go
+> to 100 randomly chosen scientists from randomly chosen institutions,
+> you'll get 87 blank stares 12 furious arguments that some form of the
+> journal system is necessary, and -- if you're lucky -- one who will
+> sign up for your Destroy All Publishers campaign.
+>
+> Politics is the art of the possible.  What's possible *today* is a
+> strong move towards universal open access within the existing
+> publishing system.  (Or at least open access for federally funded
+> research in the USA.)
+>
+> Once that has been achieved, the publishers' position will be more
+> precarious, and it will be more apparent to more academics how little
+> we need publishers.  From there I think we may be able to push on to
+> your dream scenario.  (Publishers know that they will be more
+> vulnerable in a more open-access world.  I think that is the main
+> reason they oppose it -- more than short-term profits, even.)
+>
+> So how do we get there from here?  One step at a time.  Let's not
+> throw out a hugely useful candidate step, such as federally mandated
+> OA on everything it funds, because our eyes are lifted too far to the
+> heavens already.
+>
+> [Thompson's Rule for First-Time Telescope Makers.]  It is faster to
+> make a four-inch mirror then a six-inch mirror than to make a six-inch
+> mirror.
+>        -- Bill McKeeman, Wang Institute
+>
+> -- Mike.
+>
+>
+>
+>
+>
+>
+> On 31 January 2012 13:09, Bj?rn Brembs <b.brembs at googlemail.com> wrote:
+> > Nick Barnes wrote:
+> >
+> >> Or to broaden it: pass an act requiring all
+> >> federally-funded research papers to be open
+> >> access.
+> >
+> > What would be a rational reason to send our
+> > publications to publishers, only to then retrieve
+> > it from them again, even if it all were OA?
+> > Their format (and I don't mean the layout) would
+> > still be closed, non-interoperable and without any
+> > standards.
+> > What do publishers do we can't do better, for less
+> > money?
+> >
+> > Keeping publishers just adds reform upon reform
+> > and we'll not be alive to see any of the
+> > technology the general public has around today,
+> > ever be implemented. Why would they give up their
+> > profits without at least using them against us?
+> > They can spend more than 10 million US$ every
+> > single day for years to fight us. Do you have any
+> > idea how many politicians you can buy for than
+> > money?
+> > This fight is like the entangled fly trying to
+> > convince the spider not to eat it.
+> >
+> > There is no law required to convince our libraries
+> > we don't need publishers any more.
+> > We don't need to pay our librarians to get access
+> > to them.
+> > Why would we keep giving publishers millions every
+> > single day, which they only use to fight us?
+> > Cut off the funding for the publishers and all our
+> > problems are solved - the money we save builds the
+> > technology we need.
+> >
+> > The current system is like asking them to take our
+> > money to fight us, that's worthy of Monty Python
+> > ("let's call it a draw!"), but not of scholars.
+> >
+> > I'm not supporting anything that keeps publishers
+> > in business, unless someone can convince me that
+> > it's not a Monty Python sketch.
+> >
+> > Best,
+> >
+> > Bjoern
+> >
+> >
+> >
+> >
+> > --
+> > Bj?rn Brembs
+> > ---------------------------------------------
+> > http://brembs.net
+> > Neurobiology
+> > Freie Universit?t Berlin
+> > Germany
+> >
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/a2d6787c/attachment-0001.htm>
+
+From mike at indexdata.com  Tue Jan 31 14:13:31 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Tue, 31 Jan 2012 14:13:31 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CABPM+wrrvNHsq2avKGnM=2VEQ6po7O5wzwSmzJJseEvQWusU5g@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+	<CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+	<CACnMvBbyx+0b_RqyN8+WsJD1mWKzbiuT+ODAwENYEzqLRLCLbQ@mail.gmail.com>
+	<CABPM+wrrvNHsq2avKGnM=2VEQ6po7O5wzwSmzJJseEvQWusU5g@mail.gmail.com>
+Message-ID: <CACnMvBaPVpVW9wrPxwU7ftsj2=tZhTVD6gRm1jFToeboEfhC_Q@mail.gmail.com>
+
+Just wanted to add a hearty +1 to everything Jenny says here.
+
+Whatever happens, we don't want to end up becoming the People's Front of Judea.
+
+-- Mike.
+
+
+
+On 31 January 2012 13:38, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> From:?Mike Taylor?<mike at indexdata.com>
+> Date: Mon, Jan 30, 2012 at 1:40 PM
+>
+>> My only reservation is that I fear the possibility that starting a new
+>> initiative will further fragment the already fragmented OA landscape
+>>rather than serving as a condensation point for a more unified voice.
+>>(I think of the many attempts to unify document formats by making a
+>>simple metaformat that can be translated into HTML, RTF, etc., with
+>>the inevitable consequence that the new format becomes just one more
+>>format that needs supporting.)
+>
+>>What can we do to avoid this?
+>
+> I agree that we should do everything we can to not be a 'splinter group'.
+> The only thing on which we need to be immovable is sticking to the BOAI
+> definition of OA for our own projects and initiatives, beyond that it should
+> be about dialogue. I think we avoid splintering by:
+>
+> 1) Ensuring that whatever we do is not a redundant effort, if someone else
+> is doing it already we should start a dialogue with them to push things
+> forward, not start a rival initiative (unless our efforts fail and there is
+> no viable alternative that captures what we want to do e.g. if SPARC decided
+> that they wouldn't exclude CC-NC from their OA label criteria - this is a
+> hypothetical situation as I don't know what their current criteria are!).
+>
+> 2) Focusing on open access for all, not just the scholarly community. We're
+> not interested in the academic debate per se, we're interested in actively
+> making things happen and building tools/apps/resources that are genuinely
+> useful for evaluating the state of open access as it stands or increasing
+> the production and consumption of OA materials, especially in terms of
+> access and usefulness for the scholarly poor. Reclaiming OA as per BOAI is
+> fundamental to what we do but that doesn't exclude us from working on
+> practical things with people who hold different views and I think that
+> pragmatic slant is what will stop us being just another group of people with
+> a slightly different message shouting to be heard.
+>
+> 3) Making efforts to bring in people who to some extent are excluded from
+> the OA movement by its academic nature. We have Graham and Gilles who have
+> by their hard work already made an impact there and represent a lot more
+> people from their respective groups. In this way we're adding people into
+> the community rather than taking them away and one would hope that providing
+> a platform and prominence to these voices within the more established OA
+> groups would be a unifying feature in terms of expanding the goals of the
+> current OA movement rather than splitting our work into a separate stream.
+>
+> We can discuss further on the call on Thursday, there are probably many more
+> things we can do, but these are the main ones I thought about.
+>
+> Jenny
+>
+>
+>
+> On Tue, Jan 31, 2012 at 11:44 AM, Mike Taylor <mike at indexdata.com> wrote:
+>>
+>> If SPARC already offer certification then rather than splinter OA
+>> certification we should get on board with their effort and see what we
+>> can do to push it along. ?We do NOT want to get into a
+>> NetBSD-vs.-FreeBSD-vs.-OpenBSD situation here!
+>>
+>> -- Mike.
+>>
+>>
+>> On 31 January 2012 11:40, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> >
+>> >
+>> > On Tue, Jan 31, 2012 at 11:14 AM, Tom Olijhoek <tom.olijhoek at gmail.com>
+>> > wrote:
+>> >>>
+>> >>>
+>> >>
+>> >> On Mon, Jan 30, 2012 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+>> >> wrote:
+>> >>>
+>> >>>
+>> >>>
+>> >>>
+>> >>>
+>> >> I don't see why we need to have the rest of the community involved from
+>> >> the very beginning. Why couldn't we start with a small group and get
+>> >> community support in the process? It would probably be better to not
+>> >> have
+>> >> too many factions involved in the beginning since this would be more
+>> >> difficult to manage ( this has been said before we started this mailing
+>> >> list: keep it small for the moment).
+>> >> If we seek collaboration with the originators of the BOAI (and I am all
+>> >> for that to happen) we wouldn't challenge anybody, except for the
+>> >> people who
+>> >> do not want "real" open access. And I would think that we want to
+>> >> challenge
+>> >> them, that is one point of the whole exercise. If we don't get the
+>> >> collaboration, "at least we have asked" (as I remember this has also
+>> >> been
+>> >> said before in our group).
+>> >> In my view a logical ?first step in reclaiming the term Open Access is
+>> >> to
+>> >> use it in the name of the new Initiative, especially if we want to
+>> >> start a
+>> >> kind of certification with an OA-LOGO.
+>> >> I cannot judge whether using the term Foundation would imply that we
+>> >> have
+>> >> a big organisation. As far as I know you can start a Foundation with as
+>> >> few
+>> >> as 3 people. I read in Wikipedia that the term does not carry legal
+>> >> clout at
+>> >> least not in the UK. In ?NL we would have to be registered. A
+>> >> foundation
+>> >> Initiative though would not be much of a problem anyway, or am I wrong?
+>> >>
+>> >>
+>> > This all makes sense. I carry a lot of history and that probably
+>> > distorts my
+>> > judgment pessismistically. So everything here seems reasonable.
+>> >
+>> > SPARC offer certification, though I don't get the impression it's as
+>> > active
+>> > as it should be. Maybe we should start with areas they don't cover.
+>> >
+>> > Yes - in the UK it doesn't take much to set up a Foundation in the
+>> > beginning. Getting support is probably more difficult. It will be quite
+>> > a
+>> > lot of work. Yes, ask the original members and see what happens. We
+>> > aren't
+>> > asking their permission - we are asking their support.
+>> >
+>> > I'm happy to be part of this - probably a good idea if there are fresh
+>> > drivers. There's more detail we need to work out
+>> >
+>> > P.
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069
+>> >
+>> > _______________________________________________
+>> > open-access mailing list
+>> > open-access at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-access
+>> >
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+
+
+From nb at climatecode.org  Tue Jan 31 14:16:47 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Tue, 31 Jan 2012 14:16:47 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+Message-ID: <CADSvO-FUQxMUgsf8ziMP_C1gh8JmR_6SG7PaWoC5Xru4SpZD-w@mail.gmail.com>
+
+On Tue, Jan 31, 2012 at 13:32, Mike Taylor <mike at indexdata.com> wrote:
+> Everything you say is true.
+>
+> But.
+>
+> It's a question of strategy. ?How we get there from here.
+
+Exactly.  Also: there are multiple interested parties, and this is a
+simple agenda which could unite them as a broad alliance.  For
+instance, my main interest is in broad access for reading the
+literature, so that I - and other interested members of the public -
+can read it.  I don't care so much about the license (except for
+ideological reasons).  Text-mining semantic web types care very much
+about the license - they need to be able to process papers, not just
+read them - but might care less about the business model (for
+instance, they might be affiliated with an institution which could pay
+an access fee, if a publisher had a business model which allowed
+text-mining for a fee).  An individual researcher writing a paper
+wants more readers but is likely to be quite conservative about change
+(for good career reasons: they need to worry about impact factors,
+citation counts, and so on).  A politician might only care about the
+optics and the sound-bite ("you paid for this work with your tax
+dollars but they lock it away from you...").  An entrepreneurial
+publisher might be interested in an OA business model which allows
+them to massively undercut Elsevier/Springer/NPG and grab
+market-share.  A librarian or institutional leader wants to cut costs
+but worries about unforseen consequences of revolutionary change.
+
+All these different people can get behind a universal OA mandate for
+taxpayer-funded science, especially now that the RWA and the
+anti-Elsevier campaign have brought the subject to the top of the
+agenda and highlighted the ridiculous imbalances in the current
+system.  But many of them might be wary of, or opposed to, a campaign
+to abandon the journal system altogether.
+
+If you set out to go far, nobody comes with you.  Take a single step,
+and many people might step forward too.
+
+This was the same sort of question I faced with the Science Code
+Manifesto.  It's obvious to me that all science software should be,
+and one day will be, open-source.  But I want to gather signatures and
+support from people who have never even heard of "open source", and
+from people who have vague misconceptions about "intellectual
+property", and from people who don't know or care about the network
+and productivity benefits of open-source.  So the Manifesto doesn't
+say, or imply, open source, and the arguments I use for it are mostly
+concerned with fundamental scientific-method principles.
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From pm286 at cam.ac.uk  Tue Jan 31 15:24:36 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 31 Jan 2012 15:24:36 +0000
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CACnMvBaPVpVW9wrPxwU7ftsj2=tZhTVD6gRm1jFToeboEfhC_Q@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+	<CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+	<CACnMvBbyx+0b_RqyN8+WsJD1mWKzbiuT+ODAwENYEzqLRLCLbQ@mail.gmail.com>
+	<CABPM+wrrvNHsq2avKGnM=2VEQ6po7O5wzwSmzJJseEvQWusU5g@mail.gmail.com>
+	<CACnMvBaPVpVW9wrPxwU7ftsj2=tZhTVD6gRm1jFToeboEfhC_Q@mail.gmail.com>
+Message-ID: <CAD2k14N-jkMW2Or5K3rBbrjHksn44j62XTLK1pivBy_36=6d+A@mail.gmail.com>
+
+ I'm very responsive to the current discussion. I am increasingly
+interested in doing something different rather than incremental in the
+current system. I also want to work with current groups where possible but
+not to be subsumed into them.
+
+I think we should establish our own identity as roughly "within the OA
+community but distinct from existing efforts". Our strength is that we are
+practising scientists and identify closely with authorship and readership
+in the most general sense. We have the energy, vision, and hopefully
+eCharisma to attract like-minded people and grow organically. We also are
+skilled at web technology and developing tools.
+
+When we have established our raison d'etre to our own satisfaction we can
+certainly approach a selected number of other groups. We should probably
+identify areas where we can hope to offer something substantive and
+valuable wh ich will help to attract people and funding. This may well be
+OpenResearchReports but there may be other things.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/28c4381f/attachment.htm>
+
+From tom.olijhoek at gmail.com  Tue Jan 31 16:01:40 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 31 Jan 2012 17:01:40 +0100
+Subject: [Open-access] new open access initiative
+In-Reply-To: <CACnMvBaPVpVW9wrPxwU7ftsj2=tZhTVD6gRm1jFToeboEfhC_Q@mail.gmail.com>
+References: <CAGyWN8Z9DMAoi+3qW9Pujm5EmMHuYR4V-Ea3EAZpV4csniTv3A@mail.gmail.com>
+	<CACnMvBbD5_GOqNpm2s2C3=tsUTXDEeCcxjznOiPa42DYj_wxNQ@mail.gmail.com>
+	<CAGyWN8b6pJv95AkiBUpukr2AGM2hd6f_gBYG25vG167hD-yPrQ@mail.gmail.com>
+	<CAD2k14NTTGRmdWMv6ZeAODnxAHhHJmHmRCwy6QYo3c47LHPuZQ@mail.gmail.com>
+	<CAGyWN8b5XH0_WwX0mMHGQkoH0Su+ZN5pJxKRcZ9mSU0r_ZOHMQ@mail.gmail.com>
+	<CAD2k14Nm_TOBpjWKrn60_bAuU3VYtS8B-XOC6EZUZo82i8wdVg@mail.gmail.com>
+	<CACnMvBbyx+0b_RqyN8+WsJD1mWKzbiuT+ODAwENYEzqLRLCLbQ@mail.gmail.com>
+	<CABPM+wrrvNHsq2avKGnM=2VEQ6po7O5wzwSmzJJseEvQWusU5g@mail.gmail.com>
+	<CACnMvBaPVpVW9wrPxwU7ftsj2=tZhTVD6gRm1jFToeboEfhC_Q@mail.gmail.com>
+Message-ID: <CAGyWN8Z02cj++D6qLQ0ueABsgHAMJOZFpLcn4YXno-VKkfwqrQ@mail.gmail.com>
+
+Hi,
+
+I totallly agree with you, Jenny! We want cooperation wherever possible and
+we want to concentrate on the countries / groups of people in need. These
+are the basic purposes we have to communicate.
+ That said, I am not so afraid of becoming just another initiative in the
+OA ocean.  I feel the need for a new initiative for all the reasons that
+have been brought up .If we can engage formerly quiet people like malaria
+researchers in Africa, and like the activists from the HIFA forum that
+Jenny talks about in the other mailing our initiative will represent
+something unique. I think we need to be very careful to communicate all our
+purposes in a clear way, see whaT OTHER GROUPS ARE DOING  and decide what
+we want to do. The initiative must  have a bottom-up structure: I see a
+main task in coordinating various efforts and offering a communication
+platform for community building. I think someone like Peter Suber could go
+along with this. Another unique selling point for our Initiative could be
+the promotion of (the usage of) an OA Index.  This could .become a valuable
+PR tool to encourage scientific publishers to adopt OA, to encourage
+scientists to publish in OA journals and for others to get involved in the
+movement..
+
+On Tue, Jan 31, 2012 at 3:13 PM, Mike Taylor <mike at indexdata.com> wrote:
+
+> Just wanted to add a hearty +1 to everything Jenny says here.
+>
+> Whatever happens, we don't want to end up becoming the People's Front of
+> Judea.
+>
+> -- Mike.
+>
+>
+>
+> On 31 January 2012 13:38, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> > From: Mike Taylor <mike at indexdata.com>
+> > Date: Mon, Jan 30, 2012 at 1:40 PM
+> >
+> >> My only reservation is that I fear the possibility that starting a new
+> >> initiative will further fragment the already fragmented OA landscape
+> >>rather than serving as a condensation point for a more unified voice.
+> >>(I think of the many attempts to unify document formats by making a
+> >>simple metaformat that can be translated into HTML, RTF, etc., with
+> >>the inevitable consequence that the new format becomes just one more
+> >>format that needs supporting.)
+> >
+> >>What can we do to avoid this?
+> >
+> > I agree that we should do everything we can to not be a 'splinter group'.
+> > The only thing on which we need to be immovable is sticking to the BOAI
+> > definition of OA for our own projects and initiatives, beyond that it
+> should
+> > be about dialogue. I think we avoid splintering by:
+> >
+> > 1) Ensuring that whatever we do is not a redundant effort, if someone
+> else
+> > is doing it already we should start a dialogue with them to push things
+> > forward, not start a rival initiative (unless our efforts fail and there
+> is
+> > no viable alternative that captures what we want to do e.g. if SPARC
+> decided
+> > that they wouldn't exclude CC-NC from their OA label criteria - this is a
+> > hypothetical situation as I don't know what their current criteria are!).
+> >
+> > 2) Focusing on open access for all, not just the scholarly community.
+> We're
+> > not interested in the academic debate per se, we're interested in
+> actively
+> > making things happen and building tools/apps/resources that are genuinely
+> > useful for evaluating the state of open access as it stands or increasing
+> > the production and consumption of OA materials, especially in terms of
+> > access and usefulness for the scholarly poor. Reclaiming OA as per BOAI
+> is
+> > fundamental to what we do but that doesn't exclude us from working on
+> > practical things with people who hold different views and I think that
+> > pragmatic slant is what will stop us being just another group of people
+> with
+> > a slightly different message shouting to be heard.
+> >
+> > 3) Making efforts to bring in people who to some extent are excluded from
+> > the OA movement by its academic nature. We have Graham and Gilles who
+> have
+> > by their hard work already made an impact there and represent a lot more
+> > people from their respective groups. In this way we're adding people into
+> > the community rather than taking them away and one would hope that
+> providing
+> > a platform and prominence to these voices within the more established OA
+> > groups would be a unifying feature in terms of expanding the goals of the
+> > current OA movement rather than splitting our work into a separate
+> stream.
+> >
+> > We can discuss further on the call on Thursday, there are probably many
+> more
+> > things we can do, but these are the main ones I thought about.
+> >
+> > Jenny
+> >
+> >
+> >
+> > On Tue, Jan 31, 2012 at 11:44 AM, Mike Taylor <mike at indexdata.com>
+> wrote:
+> >>
+> >> If SPARC already offer certification then rather than splinter OA
+> >> certification we should get on board with their effort and see what we
+> >> can do to push it along.  We do NOT want to get into a
+> >> NetBSD-vs.-FreeBSD-vs.-OpenBSD situation here!
+> >>
+> >> -- Mike.
+> >>
+> >>
+> >> On 31 January 2012 11:40, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> >> >
+> >> >
+> >> > On Tue, Jan 31, 2012 at 11:14 AM, Tom Olijhoek <
+> tom.olijhoek at gmail.com>
+> >> > wrote:
+> >> >>>
+> >> >>>
+> >> >>
+> >> >> On Mon, Jan 30, 2012 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> >> >> wrote:
+> >> >>>
+> >> >>>
+> >> >>>
+> >> >>>
+> >> >>>
+> >> >> I don't see why we need to have the rest of the community involved
+> from
+> >> >> the very beginning. Why couldn't we start with a small group and get
+> >> >> community support in the process? It would probably be better to not
+> >> >> have
+> >> >> too many factions involved in the beginning since this would be more
+> >> >> difficult to manage ( this has been said before we started this
+> mailing
+> >> >> list: keep it small for the moment).
+> >> >> If we seek collaboration with the originators of the BOAI (and I am
+> all
+> >> >> for that to happen) we wouldn't challenge anybody, except for the
+> >> >> people who
+> >> >> do not want "real" open access. And I would think that we want to
+> >> >> challenge
+> >> >> them, that is one point of the whole exercise. If we don't get the
+> >> >> collaboration, "at least we have asked" (as I remember this has also
+> >> >> been
+> >> >> said before in our group).
+> >> >> In my view a logical  first step in reclaiming the term Open Access
+> is
+> >> >> to
+> >> >> use it in the name of the new Initiative, especially if we want to
+> >> >> start a
+> >> >> kind of certification with an OA-LOGO.
+> >> >> I cannot judge whether using the term Foundation would imply that we
+> >> >> have
+> >> >> a big organisation. As far as I know you can start a Foundation with
+> as
+> >> >> few
+> >> >> as 3 people. I read in Wikipedia that the term does not carry legal
+> >> >> clout at
+> >> >> least not in the UK. In  NL we would have to be registered. A
+> >> >> foundation
+> >> >> Initiative though would not be much of a problem anyway, or am I
+> wrong?
+> >> >>
+> >> >>
+> >> > This all makes sense. I carry a lot of history and that probably
+> >> > distorts my
+> >> > judgment pessismistically. So everything here seems reasonable.
+> >> >
+> >> > SPARC offer certification, though I don't get the impression it's as
+> >> > active
+> >> > as it should be. Maybe we should start with areas they don't cover.
+> >> >
+> >> > Yes - in the UK it doesn't take much to set up a Foundation in the
+> >> > beginning. Getting support is probably more difficult. It will be
+> quite
+> >> > a
+> >> > lot of work. Yes, ask the original members and see what happens. We
+> >> > aren't
+> >> > asking their permission - we are asking their support.
+> >> >
+> >> > I'm happy to be part of this - probably a good idea if there are fresh
+> >> > drivers. There's more detail we need to work out
+> >> >
+> >> > P.
+> >> >
+> >> >
+> >> > --
+> >> > Peter Murray-Rust
+> >> > Reader in Molecular Informatics
+> >> > Unilever Centre, Dep. Of Chemistry
+> >> > University of Cambridge
+> >> > CB2 1EW, UK
+> >> > +44-1223-763069
+> >> >
+> >> > _______________________________________________
+> >> > open-access mailing list
+> >> > open-access at lists.okfn.org
+> >> > http://lists.okfn.org/mailman/listinfo/open-access
+> >> >
+> >>
+> >> _______________________________________________
+> >> open-access mailing list
+> >> open-access at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-access
+> >
+> >
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/bb5b6613/attachment-0001.htm>
+
+From b.brembs at googlemail.com  Tue Jan 31 19:45:52 2012
+From: b.brembs at googlemail.com (=?iso-8859-1?Q?Bj=F6rn_Brembs?=)
+Date: Tue, 31 Jan 2012 20:45:52 +0100
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+Message-ID: <951038598.20120131204552@gmail.com>
+
+Mike Taylor wrote:
+
+> It's a question of strategy.  How we get there from here. If you go
+> to 100 randomly chosen scientists from randomly chosen institutions,
+> you'll get 87 blank stares 12 furious arguments that some form of the
+> journal system is necessary, and -- if you're lucky -- one who will
+> sign up for your Destroy All Publishers campaign.
+
+I haven't met a single person, yet, who is married to the
+current system. All we need to present is something that's
+superior than what we have now - and that's really trivial,
+especially given the kind of money we'd have at our
+disposal. No human being, let alone a scientist would pass
+up on saving time and money. 
+
+So we only need to talk to a few, select librarians with a
+sufficiently large budget that would allow relatively
+massive funds to be freed pretty much instantaneously. With
+only ten libraries each cutting just 5 of their most
+expensive journals, we'd have ~600k per year. this of course
+quickly scales with the number of libraries and number of
+subscriptions cut.
+
+Two years with ten libraries and maybe a grand total of 2-5
+million in budget would easily let us construct a data and
+literature database that is vastly superior than anything
+available today - because something like that doesn't even
+exist. After two years, we'd be able to offer services
+too enticing for anybody refuse.
+
+> Politics is the art of the possible.  What's possible *today* is a
+> strong move towards universal open access within the existing
+> publishing system.  (Or at least open access for federally funded
+> research in the USA.)
+
+Yes, that'd be fantastic progress: Elsevier charging 25 grand
+for a Cell publication or NPG 15 for a Nature paper - so you
+don't have to just bribe the editors, as today, you also have
+to get a mortgage on your house if you want to have a job.
+
+Given the track record of the publishers now, an author
+pays OA model will most likely be even worse than what we
+have today. 
+
+> Once that has been achieved, the publishers' position will be more
+> precarious
+
+Why? What's keeping NPG from charging 15k per paper? If
+nothing else changes, we still have to publish there to
+survive. With less and less tenured faculty jobs around,
+that pressure will be even higher then it is now!
+
+For the US scientists, this means that on top of the ~100k
+they are in debt after college, they have another 50k on top
+in debt for publishing fees.
+What's the appeal in that? Why should I spend even a single
+minute of my day fighting for that future? because then at
+least the tax-payer can read everything? Sorry, if only the
+rich get to be scientists, most of these papers will have
+to be retracted anyway.
+
+Nick Barnes wrote:
+
+> Exactly.  Also: there are multiple interested parties, and this is a
+> simple agenda which could unite them as a broad alliance. For
+> instance, my main interest is in broad access for reading the
+> literature, so that I - and other interested members of the public -
+> can read it.
+
+I'd say it is fairly obvious that if we only aim to change
+that and nothing else, the situation would clearly be worse
+and I don't understand why I should fight for a worse
+situation than that we have now. I would oppose that
+alliance as counter-productive.
+
+>  An individual researcher writing a paper
+> wants more readers but is likely to be quite conservative about change
+> (for good career reasons: they need to worry about impact factors,
+> citation counts, and so on).
+
+Which is precisely why we aim at the reading end first and
+not at the publishing end. Publishing in our system is
+something that comes automatically, when fewer and fewer
+people read the dino journals, because they can get all the
+information better and more effortless in our system.
+
+> An entrepreneurial
+> publisher might be interested in an OA business model which allows
+> them to massively undercut Elsevier/Springer/NPG and grab
+> market-share.
+
+Yes, I'm so looking forward to publish the one paper that's
+going to give me tenure in the cheap also-ran, instead of
+getting that mortgage to pay for the Cell paper.
+
+Journals that publish less than 8% of all submissions
+because everybody has to publish there to survive can charge
+almost what they want: look at tuition fees - it's the same
+thing! A paper is then merely the cost of another semester.
+
+> All these different people can get behind a universal OA mandate for
+> taxpayer-funded science,
+
+Why would they, given that universal author pays OA would be
+even worse that what we have now? I'm surely not behind a
+universal OA mandate without embargo, because then it would
+simply be Elsevier & Co hyperinflating their author charges
+like they are subscriptions now and the only party with a
+benefit would be the tax-payer - at my expense. This I will
+oppose.
+
+The journal hierarchy needs to be destroyed as well, and
+then there's even less use for commercial publishers.
+
+> If you set out to go far, nobody comes with you.  Take a single step,
+> and many people might step forward too.
+
+That step, if universally realized, would be worse than what
+we have now (at least for scientists) and so I'm clearly not
+supporting it - I would actually work against it.
+
+Peter Murray-Rust wrote:
+
+>  I'm very responsive to the current discussion. I am increasingly
+> interested in doing something different rather than incremental in the
+> current system. I also want to work with current groups where possible but
+> not to be subsumed into them.
+
+I might be neutral towards incremental changes, but a step
+backwards that's being sold as an incremental improvement, I
+will oppose.
+
+I hope I haven't alienated anybody now? I've been awake for
+almost 40h after a transatlantic flight and might sound more
+agonistic than I am. I have gained these insights in the
+last few weeks and so far, nobody has been able to disperse
+my arguments.
+
+All the best,
+
+Bjoern
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurobiology
+Freie Universit?t Berlin
+Germany
+
+
+
+From nb at climatecode.org  Tue Jan 31 19:58:17 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Tue, 31 Jan 2012 19:58:17 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <951038598.20120131204552@gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+Message-ID: <CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+
+On Tue, Jan 31, 2012 at 19:45, Bj?rn Brembs <b.brembs at googlemail.com> wrote:
+
+> Given the track record of the publishers now, an author
+> pays OA model will most likely be even worse than what we
+> have today.
+
+Worse how, and for whom?
+
+> For the US scientists, this means that on top of the ~100k
+> they are in debt after college, they have another 50k on top
+> in debt for publishing fees.
+
+Seriously, are many scientists paying publishing fees out of their own pockets?
+
+> I'd say it is fairly obvious that if we only aim to change
+> that and nothing else, the situation would clearly be worse
+
+Worse how, and for whom?
+
+> Why would they, given that universal author pays OA would be
+> even worse that what we have now?
+
+Worse how, and for whom?
+
+
+> That step, if universally realized, would be worse than what
+> we have now (at least for scientists)
+
+Worse how, and for whom?
+
+Your jetlag is probably interacting poorly with mine.  I'm trying to
+understand you, but not getting anywhere.  You appear to be declaring
+yourself as an enemy of increased open access.  You're entitled to
+that position, but there may be better venues to air it than on this
+mailing list.
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From nb at climatecode.org  Tue Jan 31 20:12:57 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Tue, 31 Jan 2012 20:12:57 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <951038598.20120131204552@gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+Message-ID: <CADSvO-FewGEgVu-dnGq0CSJKF7g_Ph1MZib864Gr2JucuQ7zmw@mail.gmail.com>
+
+Can someone with first-hand experience of the NIH OA mandate clarify
+how it is working at the moment?  My understanding is that a
+publication goes through one of the usual channels, with some sort of
+twist on the copyright transfer (e.g. a prior license having been made
+and not nullified by the transfer), and papers are also then submitted
+to PMC (within 12 months etc).  And, if I understand correctly, the
+same is approximately true for all papers from  some institutions
+which have an institutional OA mandate (Harvard?).  The traditional
+journals put up with it because they have to (the NIH and the
+institutions being the larger gorilla).  This is what I imagine when I
+say "universal OA mandate": extend this tried-and-tested NIH system to
+all other US federal funding agencies.  The fact that it has been in
+place for several years without the sky falling ought to help
+considerably with enacting something like that.
+
+It's hardly the golden uplands of the future (and it certainly
+wouldn't be the end of the road), but it's not Bj?rn's vision of hell
+either.
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From nb at climatecode.org  Tue Jan 31 20:15:48 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Tue, 31 Jan 2012 20:15:48 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+	<CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+Message-ID: <CADSvO-EKqQzoTN=vJBAP_QiFoDdGzuZk6-QNnrm9qKrhipO6zg@mail.gmail.com>
+
+On Tue, Jan 31, 2012 at 19:58, Nick Barnes <nb at climatecode.org> wrote:
+>> For the US scientists, this means that on top of the ~100k
+>> they are in debt after college, they have another 50k on top
+>> in debt for publishing fees.
+>
+> Seriously, are many scientists paying publishing fees out of their own pockets?
+
+Specifically, is this the case, today, for NIH funded scientists?  Are
+they forced to pay publishing fees by journals in exchange for obeying
+the NIH mandate?  And are they having to pay these fees out of their
+own pockets?  Thus costing them tens of thousands of dollars?
+
+Can someone with first-hand experience please chip in here.
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From b.brembs at googlemail.com  Tue Jan 31 20:28:58 2012
+From: b.brembs at googlemail.com (=?iso-8859-1?Q?Bj=F6rn_Brembs?=)
+Date: Tue, 31 Jan 2012 21:28:58 +0100
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+	<CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+Message-ID: <1491479970.20120131212858@gmail.com>
+
+Nick Barnes wrote:
+
+>> Given the track record of the publishers now, an author
+>> pays OA model will most likely be even worse than what we
+>> have today.
+
+> Worse how, and for whom?
+
+If all publishers went for author charges, what would be
+keeping them from increasing the charges as they have
+hyperinflated subscriptions?
+NPG claims, each paper costs them 10k pounds, so 15k? is a
+low estimate for a Nature paper that makes a profit for NPG.
+
+Given that you need 3-4 top journal papers, you have about a
+50k additional charge if you want to get tenure.
+
+This means that not only do you need to 'know' the editors,
+you also need to have extra cash - doesn't matter from where
+- and that is clearly worse: if only the rich can afford the
+top-publications. It's worse than now, because the scholarly
+poor now can at least ask the author for a PDF.
+
+>> For the US scientists, this means that on top of the ~100k
+>> they are in debt after college, they have another 50k on top
+>> in debt for publishing fees.
+
+> Seriously, are many scientists paying publishing fees out
+> of their own pockets?
+
+Not every grant will come with an extra 15-30k for the
+expected CNS papers, maybe just the 1-2k for a P1 paper.
+Thus, if your rent and food and that of your family depended
+on these CNS papers, wouldn't you pay them out of your own
+pocket, just like tuition? Of course you would!
+
+So you might have OA for the taxpayer, but for science, it
+would be worse: science would degenerate into a vanity press
+of the rich and well-connected with probably a hundredfold
+increase in retractions, because those who can pay the most
+will get published.
+
+So: better for taxpayer (superficially), worse for science
+and scientists (and hence for the tax-payer in the long
+run).
+Universal author pays can only work sustainably with heavy
+regulations and non-profit publishers.
+
+Hope that focused it a little.
+
+Best,
+
+Bjoern
+
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurobiology
+Freie Universit?t Berlin
+Germany
+
+
+
+From pm286 at cam.ac.uk  Tue Jan 31 20:35:27 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 31 Jan 2012 20:35:27 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <951038598.20120131204552@gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+Message-ID: <CAD2k14OKauSrGxbZxiOk7se+Y7yXt5p50hvdNc8fzV14Jv7xWQ@mail.gmail.com>
+
+On Tue, Jan 31, 2012 at 7:45 PM, Bj?rn Brembs <b.brembs at googlemail.com>wrote:
+
+>
+>
+> I hope I haven't alienated anybody now?
+
+
+Not me and I expect no-one else either. Our strength is that we express
+ourselves strongly in the open. If we say something that doesn't work out
+(like I did just now about scientists) we scratch it and try in a different
+direction. We clearly have differences of opinion and we have to work out
+something that is imaginative and feels right.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20120131/28ad44dd/attachment.htm>
+
+From nb at climatecode.org  Tue Jan 31 20:41:35 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Tue, 31 Jan 2012 20:41:35 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <1491479970.20120131212858@gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+	<CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+	<1491479970.20120131212858@gmail.com>
+Message-ID: <CADSvO-ETqZF5oGhJvLgZrzCfSh73wHTeaVvSbbOHj7fq6Dw+tg@mail.gmail.com>
+
+2012/1/31 Bj?rn Brembs <b.brembs at googlemail.com>:
+
+> If all publishers went for author charges, what would be
+> keeping them from increasing the charges as they have
+> hyperinflated subscriptions?
+
+I hypothesize: exactly the problems you describe would prevent such a
+race.  Top journal publishers are terrified of losing their status.
+Seriously, terrified.
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From mike at indexdata.com  Tue Jan 31 21:42:00 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Tue, 31 Jan 2012 21:42:00 +0000
+Subject: [Open-access] An anti-RWA bill
+In-Reply-To: <CADSvO-ETqZF5oGhJvLgZrzCfSh73wHTeaVvSbbOHj7fq6Dw+tg@mail.gmail.com>
+References: <CACnMvBYVwzoUi=UqdRYw7hN97=YbrP+VFYCHXfHOZaEyyndwsw@mail.gmail.com>
+	<CADSvO-GtjcU8Zm3e7mpnSTAyKV9wcy0kFwPFL6WJ6+heO5M-mA@mail.gmail.com>
+	<153649972.20120131140915@gmail.com>
+	<CACnMvBZQEJ6zWSyU8w-LApjyjTY6uHNHM6m4Sc-bU=pAdzWp5A@mail.gmail.com>
+	<951038598.20120131204552@gmail.com>
+	<CADSvO-HQserFMXapkzHh0UJjP18YNtj7AvG+OYVKYhjKdEQpog@mail.gmail.com>
+	<1491479970.20120131212858@gmail.com>
+	<CADSvO-ETqZF5oGhJvLgZrzCfSh73wHTeaVvSbbOHj7fq6Dw+tg@mail.gmail.com>
+Message-ID: <CACnMvBZSAJgtWdQ8FZfNqM3gXTZFAuC0V+SMyh=EmqOqwWgK-A@mail.gmail.com>
+
+Bjorn,
+
+One of the big advantages of a switch to author-pays is that it
+doesn't hide costs.  At the moment, an author will choose journal A or
+B for his paper without consideration of how expensive that journal is
+-- because it's libraries that have to pay.  When one party chooses
+and another pays, that is a cast-iron recipe for an inefficient
+market.  But when the scientists choosing which journals to place
+their work in are the ones paying, the costs of inefficient journals
+will no longer be concealed at decision time.  Journals will have to
+compete on quality of service and on price.  And once we have an
+efficient market, many of the practices that are currently common will
+become impossible to sustain.
+
+-- Mike.
+
+
+
+On 31 January 2012 20:41, Nick Barnes <nb at climatecode.org> wrote:
+> 2012/1/31 Bj?rn Brembs <b.brembs at googlemail.com>:
+>
+>> If all publishers went for author charges, what would be
+>> keeping them from increasing the charges as they have
+>> hyperinflated subscriptions?
+>
+> I hypothesize: exactly the problems you describe would prevent such a
+> race. ?Top journal publishers are terrified of losing their status.
+> Seriously, terrified.
+> --
+> Nick Barnes, Climate Code Foundation, http://climatecode.org/
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+
+

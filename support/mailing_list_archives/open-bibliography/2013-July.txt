@@ -1,0 +1,217 @@
+From adrian.pohl at okfn.org  Mon Jul  1 15:13:09 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 1 Jul 2013 16:13:09 +0200
+Subject: [open-bibliography] Virtual meeting tomorrow (2013-07-02)
+Message-ID: <CAOtd05E8V7KnRimQ7hiFgste4=UQYKzcB2eL-ZQ8RLhPpQjSew@mail.gmail.com>
+
+Hello,
+
+this month's virtual meeting will take place tomorrow (Tuesday, 2nd
+July 2013, 15:00 GMT, see
+http://is.gd/openbiblio32 for your local time).
+
+We'll meet on the etherpad at
+http://okfnpad.org/32nd-open-bibliography-meeting. Please add relevant
+topics you want to present/discuss to the pad.
+
+All the best
+Adrian
+
+
+From krichel at openlib.org  Mon Jul  1 17:08:30 2013
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 1 Jul 2013 18:08:30 +0200
+Subject: [open-bibliography] Virtual meeting tomorrow (2013-07-02)
+In-Reply-To: <CAOtd05E8V7KnRimQ7hiFgste4=UQYKzcB2eL-ZQ8RLhPpQjSew@mail.gmail.com>
+References: <CAOtd05E8V7KnRimQ7hiFgste4=UQYKzcB2eL-ZQ8RLhPpQjSew@mail.gmail.com>
+Message-ID: <20130701160830.GB11039@openlib.org>
+
+  Adrian Pohl writes
+
+> this month's virtual meeting will take place tomorrow (Tuesday, 2nd
+> July 2013, 15:00 GMT, see
+> http://is.gd/openbiblio32 for your local time).
+> 
+> We'll meet on the etherpad at
+> http://okfnpad.org/32nd-open-bibliography-meeting. Please add relevant
+> topics you want to present/discuss to the pad.
+
+  I can't take part as I will be offline on a plane.
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                                skype:thomaskrichel
+
+
+From pm286 at cam.ac.uk  Mon Jul  1 17:55:50 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 1 Jul 2013 17:55:50 +0100
+Subject: [open-bibliography] Virtual meeting tomorrow (2013-07-02)
+In-Reply-To: <CAOtd05E8V7KnRimQ7hiFgste4=UQYKzcB2eL-ZQ8RLhPpQjSew@mail.gmail.com>
+References: <CAOtd05E8V7KnRimQ7hiFgste4=UQYKzcB2eL-ZQ8RLhPpQjSew@mail.gmail.com>
+Message-ID: <CAD2k14OyN5sDRLtJnBqxnytcsHSMg3C4=U4EBZoS+da6=f_Z0A@mail.gmail.com>
+
+Sorry can't take part as in middle of nowhere...
+
+P.
+
+
+On Mon, Jul 1, 2013 at 3:13 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> this month's virtual meeting will take place tomorrow (Tuesday, 2nd
+> July 2013, 15:00 GMT, see
+> http://is.gd/openbiblio32 for your local time).
+>
+> We'll meet on the etherpad at
+> http://okfnpad.org/32nd-open-bibliography-meeting. Please add relevant
+> topics you want to present/discuss to the pad.
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130701/85617e40/attachment.htm>
+
+From kcoyle at kcoyle.net  Tue Jul  2 18:17:18 2013
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 02 Jul 2013 10:17:18 -0700
+Subject: [open-bibliography] Machine-readable licenses
+Message-ID: <51D30B1E.5060709@kcoyle.net>
+
+This blog post introduces work on machine-readable licenses for data 
+published on the web:
+
+http://theodi.org/blog/machine-readable-rights-statements
+
+This fits in with our conversation today.
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From todd.d.robbins at gmail.com  Tue Jul  2 18:51:37 2013
+From: todd.d.robbins at gmail.com (todd.d.robbins at gmail.com)
+Date: Tue, 2 Jul 2013 11:51:37 -0600
+Subject: [open-bibliography] Machine-readable licenses
+In-Reply-To: <51D30B1E.5060709@kcoyle.net>
+References: <51D30B1E.5060709@kcoyle.net>
+Message-ID: <CAM9_6uMi6gDfeJ21r+Q74UHkTDuv1Wz_w_HjVK3JFdOJ8Wc62Q@mail.gmail.com>
+
+See also: http://licenses.opendefinition.org/
+
+
+On Tue, Jul 2, 2013 at 11:17 AM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> This blog post introduces work on machine-readable licenses for data
+> published on the web:
+>
+> http://theodi.org/blog/**machine-readable-rights-**statements<http://theodi.org/blog/machine-readable-rights-statements>
+>
+> This fits in with our conversation today.
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+> ______________________________**_________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+> Unsubscribe: http://lists.okfn.org/mailman/**options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>
+
+
+
+-- 
+Tod Robbins
+Digital Collections Librarian, MLIS
+todrobbins.com | @todrobbins <http://www.twitter.com/#!/todrobbins>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130702/2bf415af/attachment.htm>
+
+From announce at dublincore.net  Sat Jul  6 13:28:42 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Sat, 6 Jul 2013 05:28:42 -0700
+Subject: [open-bibliography] DC-2013/iPRES-2013 conferences EARLY
+	REGISTRATION extended to 15 July
+Message-ID: <CAP884EwVq9_sA26Rx++rc=4tD0F_iF+McvZT47rfiEBQAkpmRA@mail.gmail.com>
+
+*Apologies for cross-posting*
+
+*=== iPRES-2013 / DC-2013 INVITATION TO LISBON ===*
+
+iPRES-2013 and DC-2013 (Dublin Core) are co-locating on 2-6 September 2013
+in Lisbon, Portugal at the Instituto Superior T?cnico. A unique common
+registration provides full access to both the conference programs and
+digital proceedings. Keynotes will be held in shared iPRES/Dublin Core
+plenary sessions, and papers sessions specific of each conference will run
+in parallel.  Tutorials, per-conference events, and workshops are
+cross-listed for both conferences, and require registration.  Keynote
+speaker Gildas Illien will address the common goals, values and points of
+intersection of the preservation and metadata communities in "Darling, Can
+We Talk" (Keynote Asbtract:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/keynotes-2013#Illien
+).
+
+-- iPRES-2013, 10th INTERNATIONAL CONFERENCE ON PRESERVATION OF DIGITAL
+OBJECTS *** emphasizes the significance of preserving scientific and
+cultural digital heritage across institutional and disciplinary boundaries.
+ iPRES 2013  will further strengthen the link between digital preservation
+research and practitioners in memory institutions and scientific data
+centers.
+  * iPRES Conference website: http://ipres2013.ist.utl.pt/index.html
+  * iPRES Preliminary Program: http://ipres2013.ist.utl.pt/prg_overview.html
+
+-- DC-2013, LINKING TO THE FUTURE *** explores questions regarding the
+persistence, maintenance, and preservation of metadata and descriptive
+vocabularies. The need for stable representations and descriptions spans
+all sectors including cultural heritage and scientific data, eGovernment,
+finance and commerce. Thus, the maintenance and management of metadata is
+essential to address the long term availability of information of legal,
+cultural and economic value.
+  * Dublin Core Conference website:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/
+  * Dublin Core Program:
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/program-2013
+
+iPRES/DC-2013 provides a unique opportunity for interlinking fundamental to
+cutting edge preservation and metadata knowledge.
+
+=============================
+REGISTER NOW (Early registration extended to 15 July):
+  * http://ipres2013.ist.utl.pt/registration.html
+     OR
+  *
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/registration-2013
+=============================
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130706/5b307efb/attachment.htm>
+

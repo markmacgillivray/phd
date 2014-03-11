@@ -1,0 +1,2327 @@
+From fboulogne at sciunto.org  Sun Feb  2 19:28:42 2014
+From: fboulogne at sciunto.org (=?ISO-8859-1?Q?Fran=E7ois_Boulogne?=)
+Date: Sun, 02 Feb 2014 14:28:42 -0500
+Subject: [open-bibliography] Bibtex parser in Python
+Message-ID: <52EE9C6A.1050205@sciunto.org>
+
+Hi,
+
+I planned a long time ago to write an email as Peter asked me, but it
+was delayed. Sorry for that.
+
+Few months ago, I asked the permission to OKFN to reuse a part of the
+code of a project to write a standalone bibtex parser in python.
+In short, the OKFN project (bibserver) is under AGPL and we (users and
+I) wanted to have something like LGPL.
+
+So, the project is there: https://bibtexparser.readthedocs.org
+
+I used OKFN project because it was the best bibtex parser I could find
+in Python. Sounds odd, but no real library was available. Thus, I
+decided to start this project.
+My contribution is mainly to refactor the code, add unittest,
+documentation and so on.
+
+If I looked for a bibtex parser, it's because I like to write scripts to
+facilitate the tasks I have to do every day. One of them is citebib:
+http://citebib.readthedocs.org/
+The idea: I have a large database with all papers I know and I want to
+pick up some of them easily (to write emails, latex documents...).
+
+I also tried different things to organize ideas around my bibliography.
+How to highlight interesting information, gather them, put in relation
+different papers... I tried docear a bit, the mind map concept is nice,
+but it looks too complicated for me (too many features) and I also
+appreciate CLI so the heavy GUI was a pain.
+I'm currently using ikiwiki to organize my notes, but it's not ideal so
+far to keep my ideas about bibliography (but i love it to record
+experimental results, links....)
+
+My hope is that libraries like bibtexparser can help other devs to make
+their own tools.
+
+Cheers,
+
+-- 
+Fran?ois Boulogne.
+http://www.sciunto.org
+GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+
+
+From pm286 at cam.ac.uk  Mon Feb  3 13:55:03 2014
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 3 Feb 2014 13:55:03 +0000
+Subject: [open-bibliography] Bibtex parser in Python
+In-Reply-To: <52EE9C6A.1050205@sciunto.org>
+References: <52EE9C6A.1050205@sciunto.org>
+Message-ID: <CAD2k14ODos4_2oscZXB_rokToKJzVd30nduGBPBLw6k-LMQb4w@mail.gmail.com>
+
+Many thanks for posting. I hope people pick up on this.
+
+
+On Sun, Feb 2, 2014 at 7:28 PM, Fran?ois Boulogne <fboulogne at sciunto.org>wrote:
+
+> Hi,
+>
+> I planned a long time ago to write an email as Peter asked me, but it
+> was delayed. Sorry for that.
+>
+> Few months ago, I asked the permission to OKFN to reuse a part of the
+> code of a project to write a standalone bibtex parser in python.
+> In short, the OKFN project (bibserver) is under AGPL and we (users and
+> I) wanted to have something like LGPL.
+>
+> So, the project is there: https://bibtexparser.readthedocs.org
+>
+> I used OKFN project because it was the best bibtex parser I could find
+> in Python. Sounds odd, but no real library was available. Thus, I
+> decided to start this project.
+> My contribution is mainly to refactor the code, add unittest,
+> documentation and so on.
+>
+> If I looked for a bibtex parser, it's because I like to write scripts to
+> facilitate the tasks I have to do every day. One of them is citebib:
+> http://citebib.readthedocs.org/
+> The idea: I have a large database with all papers I know and I want to
+> pick up some of them easily (to write emails, latex documents...).
+>
+> I also tried different things to organize ideas around my bibliography.
+> How to highlight interesting information, gather them, put in relation
+> different papers... I tried docear a bit, the mind map concept is nice,
+> but it looks too complicated for me (too many features) and I also
+> appreciate CLI so the heavy GUI was a pain.
+> I'm currently using ikiwiki to organize my notes, but it's not ideal so
+> far to keep my ideas about bibliography (but i love it to record
+> experimental results, links....)
+>
+> My hope is that libraries like bibtexparser can help other devs to make
+> their own tools.
+>
+> Cheers,
+>
+> --
+> Fran?ois Boulogne.
+> http://www.sciunto.org
+> GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/a0e5cdb1/attachment.html>
+
+From karol.langner at gmail.com  Mon Feb  3 14:03:18 2014
+From: karol.langner at gmail.com (Karol M. Langner)
+Date: Mon, 3 Feb 2014 09:03:18 -0500
+Subject: [open-bibliography] Bibtex parser in Python
+In-Reply-To: <52EE9C6A.1050205@sciunto.org>
+References: <52EE9C6A.1050205@sciunto.org>
+Message-ID: <20140203140318.GC1939@silenziosa>
+
+Hi,
+
+This looks great. I wonder, have you looked at pybliographer? That's what I've been using for scripting, although I'm not very content.
+
+Karol
+
+On Feb 02 2014, Fran?ois Boulogne wrote:
+> Hi,
+> 
+> I planned a long time ago to write an email as Peter asked me, but it
+> was delayed. Sorry for that.
+> 
+> Few months ago, I asked the permission to OKFN to reuse a part of the
+> code of a project to write a standalone bibtex parser in python.
+> In short, the OKFN project (bibserver) is under AGPL and we (users and
+> I) wanted to have something like LGPL.
+> 
+> So, the project is there: https://bibtexparser.readthedocs.org
+> 
+> I used OKFN project because it was the best bibtex parser I could find
+> in Python. Sounds odd, but no real library was available. Thus, I
+> decided to start this project.
+> My contribution is mainly to refactor the code, add unittest,
+> documentation and so on.
+> 
+> If I looked for a bibtex parser, it's because I like to write scripts to
+> facilitate the tasks I have to do every day. One of them is citebib:
+> http://citebib.readthedocs.org/
+> The idea: I have a large database with all papers I know and I want to
+> pick up some of them easily (to write emails, latex documents...).
+> 
+> I also tried different things to organize ideas around my bibliography.
+> How to highlight interesting information, gather them, put in relation
+> different papers... I tried docear a bit, the mind map concept is nice,
+> but it looks too complicated for me (too many features) and I also
+> appreciate CLI so the heavy GUI was a pain.
+> I'm currently using ikiwiki to organize my notes, but it's not ideal so
+> far to keep my ideas about bibliography (but i love it to record
+> experimental results, links....)
+> 
+> My hope is that libraries like bibtexparser can help other devs to make
+> their own tools.
+> 
+> Cheers,
+> 
+> -- 
+> Fran?ois Boulogne.
+> http://www.sciunto.org
+> GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+
+-- 
+written by Karol M. Langner
+Mon Feb  3 09:02:12 EST 2014
+
+From adrian.pohl at okfn.org  Mon Feb  3 14:07:26 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 3 Feb 2014 15:07:26 +0100
+Subject: [open-bibliography] This month's virtual meeting (2014-02-10,
+	16:00 GMT)
+Message-ID: <CAOtd05HGKhW_jQGxw15DfkDJVjV1YAHi9Fio2pUR+k4t_q-dFQ@mail.gmail.com>
+
+Hello,
+
+I am not available tomorrow and thus have to postpone February's
+openbiblio meeting to next week (Tuesday, 10 February). The etherpad
+with the agenda etc. is at
+http://pad.okfn.org/p/37th-open-bibliography-meeting
+Please add agenda points that you would like to discuss.
+
+All the best
+Adrian
+
+From adrian.pohl at okfn.org  Mon Feb  3 14:15:20 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 3 Feb 2014 15:15:20 +0100
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+Message-ID: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+
+The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+Harvard and Stanford might bring things forward regarding the
+availability of open bibliographic data on the web. See the recent
+blog post on the project by David Weinberger.[1]
+
+In the December announcement[2] of the project from Harvard it reads:
+"Ultimately, the goal of the project is to create a system that pulls
+information out of its existing silos?like library catalogs, finding
+aids, reading lists and more?into a common format that people can use
+to  find and understand information. This new system would apply to
+all scholarly and creative disciplines, including the sciences, the
+arts and  the humanities."
+
+The question is whether the project's goal is linked _open_ data, i.e.
+publishing large amounts of bibliographic data for journal articles
+etc. under an open license. Or whether the goal is to have the data on
+the web as linked data but without open licensing...
+
+Can anybody on this list provide some more information on this project
+regarding openbiblio data?
+
+- Adrian
+
+
+[1] http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+[2] http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+
+From pm286 at cam.ac.uk  Mon Feb  3 17:33:37 2014
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 3 Feb 2014 17:33:37 +0000
+Subject: [open-bibliography] This month's virtual meeting (2014-02-10,
+ 16:00 GMT)
+In-Reply-To: <CAOtd05HGKhW_jQGxw15DfkDJVjV1YAHi9Fio2pUR+k4t_q-dFQ@mail.gmail.com>
+References: <CAOtd05HGKhW_jQGxw15DfkDJVjV1YAHi9Fio2pUR+k4t_q-dFQ@mail.gmail.com>
+Message-ID: <CAD2k14M7R8GQXHXDRQLQt7DPkmSqXu2c5ZsZbsW65ouH7j-big@mail.gmail.com>
+
+Tuesday is 11th Feb? Monday is 10th. I cannot make Tuesday 11th
+
+
+
+
+On Mon, Feb 3, 2014 at 2:07 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> I am not available tomorrow and thus have to postpone February's
+> openbiblio meeting to next week (Tuesday, 10 February). The etherpad
+> with the agenda etc. is at
+> http://pad.okfn.org/p/37th-open-bibliography-meeting
+> Please add agenda points that you would like to discuss.
+>
+> All the best
+> Adrian
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/674fc545/attachment.html>
+
+From pm286 at cam.ac.uk  Mon Feb  3 17:35:05 2014
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 3 Feb 2014 17:35:05 +0000
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+Message-ID: <CAD2k14PRzTTzz3PvzctMw4nvv8YfMh5joPB5KnPcvH44LyFSiw@mail.gmail.com>
+
+If it's going to be called LOD then it has to have an Open licence (first
+star of TimBL). If it isn't Open, use the LOD hammer to make them make it
+Open.
+
+
+
+
+On Mon, Feb 3, 2014 at 2:15 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+> Harvard and Stanford might bring things forward regarding the
+> availability of open bibliographic data on the web. See the recent
+> blog post on the project by David Weinberger.[1]
+>
+> In the December announcement[2] of the project from Harvard it reads:
+> "Ultimately, the goal of the project is to create a system that pulls
+> information out of its existing silos--like library catalogs, finding
+> aids, reading lists and more--into a common format that people can use
+> to  find and understand information. This new system would apply to
+> all scholarly and creative disciplines, including the sciences, the
+> arts and  the humanities."
+>
+> The question is whether the project's goal is linked _open_ data, i.e.
+> publishing large amounts of bibliographic data for journal articles
+> etc. under an open license. Or whether the goal is to have the data on
+> the web as linked data but without open licensing...
+>
+> Can anybody on this list provide some more information on this project
+> regarding openbiblio data?
+>
+> - Adrian
+>
+>
+> [1]
+> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+> [2]
+> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/0209079f/attachment-0001.html>
+
+From self at evident.com  Mon Feb  3 18:43:01 2014
+From: self at evident.com (David Weinberger)
+Date: Mon, 3 Feb 2014 13:43:01 -0500
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAD2k14PRzTTzz3PvzctMw4nvv8YfMh5joPB5KnPcvH44LyFSiw@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+ <CAD2k14PRzTTzz3PvzctMw4nvv8YfMh5joPB5KnPcvH44LyFSiw@mail.gmail.com>
+Message-ID: <CAKx1ww3yuP+v=bsgUnB9Oqb3PHNNo9r_vXPh=S=Y_cLigkEW5g@mail.gmail.com>
+
+>From Dean Krafft, the instigator of the Mellon Linked Data project:
+-----
+
+The goal is, in fact, to do Linked Open Data. Here's the appropriate
+language from page 3 of the proposal:
+
+
+
+"While Linked Data can be used internally within an institution or across a
+collaborative group, it becomes much more valuable when it is Linked
+*Open* Data,
+and is publicly shared using an open license such as the Creative Commons
+CC-BY[1] <https://mail.google.com/mail/u/0/?shva=1#143f8efc726ed2dd__ftn1> or
+CC0[2] <https://mail.google.com/mail/u/0/?shva=1#143f8efc726ed2dd__ftn2>
+licenses,
+or the United Kingdom's Open Government
+License[3]<https://mail.google.com/mail/u/0/?shva=1#143f8efc726ed2dd__ftn3>.
+For our Linked Data for Libraries project, our intention is that all SRSIS
+instances will share Linked Open Data with the world."
+
+
+
+Since we're publishing our own metadata, and we don't actually have a lot
+of metadata for journal articles, there won't be a lot of that in the mix.
+But what we do have should definitely be open.
+
+
+-- forwarded by David Weinberger
+
+
+On Mon, Feb 3, 2014 at 12:35 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> If it's going to be called LOD then it has to have an Open licence (first
+> star of TimBL). If it isn't Open, use the LOD hammer to make them make it
+> Open.
+>
+>
+>
+>
+> On Mon, Feb 3, 2014 at 2:15 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>
+>> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+>> Harvard and Stanford might bring things forward regarding the
+>> availability of open bibliographic data on the web. See the recent
+>> blog post on the project by David Weinberger.[1]
+>>
+>> In the December announcement[2] of the project from Harvard it reads:
+>> "Ultimately, the goal of the project is to create a system that pulls
+>> information out of its existing silos--like library catalogs, finding
+>> aids, reading lists and more--into a common format that people can use
+>> to  find and understand information. This new system would apply to
+>> all scholarly and creative disciplines, including the sciences, the
+>> arts and  the humanities."
+>>
+>> The question is whether the project's goal is linked _open_ data, i.e.
+>> publishing large amounts of bibliographic data for journal articles
+>> etc. under an open license. Or whether the goal is to have the data on
+>> the web as linked data but without open licensing...
+>>
+>> Can anybody on this list provide some more information on this project
+>> regarding openbiblio data?
+>>
+>> - Adrian
+>>
+>>
+>> [1]
+>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>> [2]
+>> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/38dfd639/attachment.html>
+
+From tfmorris at gmail.com  Mon Feb  3 19:07:10 2014
+From: tfmorris at gmail.com (Tom Morris)
+Date: Mon, 3 Feb 2014 14:07:10 -0500
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+Message-ID: <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+
+Thanks Adrian.  Does anyone have any information on what they're actually
+doing?  Is this going to result in yet another mega dump of
+unreconciled/unlinked bibliographic RDF data or are they actually going to
+make an attempting at linking things in a useful fashion?
+
+Stanford was actually involved in a linked data experiment back in 2010
+when a good chunk of their catalog was loaded into Freebase and matched up
+with Freebase topics.  You can see a list of the book editions here:
+https://www.freebase.com/authority/stanford/control?links&lang=en&sort=timestamp
+If you look at an edition, you'll see that they're each linked back to the
+Stanford OPAC system. For example, these two editions:
+    https://www.freebase.com/m/075ngj1
+    https://www.freebase.com/m/0c60n0m
+are linked both their original catalog entries and to this work:
+    https://www.freebase.com/m/075nhtg
+and the topic for the author Donn Byrne
+<https://www.freebase.com/m/02x79g1> which
+is further linked to Wikipedia, OpenLibrary, VIAF, IMDB, and LC NAF.
+
+That's all a long-winded way of saying that Stanford University Library has
+a pretty good start on producing Linked Data today.
+
+Cornell has some linked data for their OPAC too, although I don't think its
+as extensive as the Stanford data.  I think it's mostly derived from the
+metadata associated with Google Books scans.  If you look at this
+edition<https://www.freebase.com/m/04w0sxn> of
+Flatland <https://www.freebase.com/m/0j_mj> you can see that it's linked to
+both Cornell's OPAC as well as the LC and OpenLibrary records for that
+edition, while the work entry is linked to Wikipedia and
+ISFDB<http://www.isfdb.org/cgi-bin/title.cgi?1933>.
+ (It should be linked to the OpenLibrary work page too, but OpenLibrary
+didn't yet have works when the original Freebase linking was done, so
+that's a gap in the linkage.
+
+Tom
+
+On Mon, Feb 3, 2014 at 9:15 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+> Harvard and Stanford might bring things forward regarding the
+> availability of open bibliographic data on the web. See the recent
+> blog post on the project by David Weinberger.[1]
+>
+> In the December announcement[2] of the project from Harvard it reads:
+> "Ultimately, the goal of the project is to create a system that pulls
+> information out of its existing silos?like library catalogs, finding
+> aids, reading lists and more?into a common format that people can use
+> to  find and understand information. This new system would apply to
+> all scholarly and creative disciplines, including the sciences, the
+> arts and  the humanities."
+>
+> The question is whether the project's goal is linked _open_ data, i.e.
+> publishing large amounts of bibliographic data for journal articles
+> etc. under an open license. Or whether the goal is to have the data on
+> the web as linked data but without open licensing...
+>
+> Can anybody on this list provide some more information on this project
+> regarding openbiblio data?
+>
+> - Adrian
+>
+>
+> [1]
+> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+> [2]
+> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/7021868d/attachment.html>
+
+From ian.ibbotson at k-int.com  Mon Feb  3 19:12:31 2014
+From: ian.ibbotson at k-int.com (Ian Ibbotson)
+Date: Mon, 3 Feb 2014 19:12:31 +0000
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+ <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+Message-ID: <CABTvd4ozetSBy7oCJ7=Ds4CRgfXg3rZZduaJwj=wFR7dJth4wg@mail.gmail.com>
+
+(apologies if I'm just re-posting info already seen)
+
+I think @azaroth42 [twitter] might be a good man to ask for details on
+this.. Some responses to the "and we're off" posting, asking about license
+etc here:
+http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/....
+
+..Yes, we are aiming at public domain. The following is from page 3 of the
+proposal:
+
+"While Linked Data can be used internally within an institution or across a
+collaborative group, it becomes much more valuable when it is Linked Open
+Data, and is publicly shared using an open license such as the Creative
+Commons CC-BY[1] or CC0[2] licenses, or the United Kingdom's Open
+Government License[3]. For our Linked Data for Libraries project, our
+intention is that all SRSIS instances will share Linked Open Data with the
+world."
+
+Dean Krafft adds: Since we're publishing our own metadata, and we don't
+actually have a lot of metadata for journal articles, there won't be a lot
+of that in the mix. But what we do have should definitely be open.
+
+Ian Ibbotson
+Director
+Knowledge Integration Ltd
+35 Paradise Street, Sheffield. S3 8PZ
+T: 0114 273 8271
+M: 07968 794 630
+W: http://www.k-int.com
+
+
+On 3 February 2014 19:07, Tom Morris <tfmorris at gmail.com> wrote:
+
+> Thanks Adrian.  Does anyone have any information on what they're actually
+> doing?  Is this going to result in yet another mega dump of
+> unreconciled/unlinked bibliographic RDF data or are they actually going to
+> make an attempting at linking things in a useful fashion?
+>
+> Stanford was actually involved in a linked data experiment back in 2010
+> when a good chunk of their catalog was loaded into Freebase and matched up
+> with Freebase topics.  You can see a list of the book editions here:
+> https://www.freebase.com/authority/stanford/control?links&lang=en&sort=timestamp
+> If you look at an edition, you'll see that they're each linked back to the
+> Stanford OPAC system. For example, these two editions:
+>     https://www.freebase.com/m/075ngj1
+>     https://www.freebase.com/m/0c60n0m
+> are linked both their original catalog entries and to this work:
+>     https://www.freebase.com/m/075nhtg
+> and the topic for the author Donn Byrne<https://www.freebase.com/m/02x79g1> which
+> is further linked to Wikipedia, OpenLibrary, VIAF, IMDB, and LC NAF.
+>
+> That's all a long-winded way of saying that Stanford University Library
+> has a pretty good start on producing Linked Data today.
+>
+> Cornell has some linked data for their OPAC too, although I don't think
+> its as extensive as the Stanford data.  I think it's mostly derived from
+> the metadata associated with Google Books scans.  If you look at this
+> edition <https://www.freebase.com/m/04w0sxn> of Flatland<https://www.freebase.com/m/0j_mj> you
+> can see that it's linked to both Cornell's OPAC as well as the LC and
+> OpenLibrary records for that edition, while the work entry is linked to
+> Wikipedia and ISFDB <http://www.isfdb.org/cgi-bin/title.cgi?1933>.  (It
+> should be linked to the OpenLibrary work page too, but OpenLibrary didn't
+> yet have works when the original Freebase linking was done, so that's a gap
+> in the linkage.
+>
+> Tom
+>
+> On Mon, Feb 3, 2014 at 9:15 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>
+>> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+>> Harvard and Stanford might bring things forward regarding the
+>> availability of open bibliographic data on the web. See the recent
+>> blog post on the project by David Weinberger.[1]
+>>
+>> In the December announcement[2] of the project from Harvard it reads:
+>> "Ultimately, the goal of the project is to create a system that pulls
+>> information out of its existing silos--like library catalogs, finding
+>> aids, reading lists and more--into a common format that people can use
+>> to  find and understand information. This new system would apply to
+>> all scholarly and creative disciplines, including the sciences, the
+>> arts and  the humanities."
+>>
+>> The question is whether the project's goal is linked _open_ data, i.e.
+>> publishing large amounts of bibliographic data for journal articles
+>> etc. under an open license. Or whether the goal is to have the data on
+>> the web as linked data but without open licensing...
+>>
+>> Can anybody on this list provide some more information on this project
+>> regarding openbiblio data?
+>>
+>> - Adrian
+>>
+>>
+>> [1]
+>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>> [2]
+>> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/394cc263/attachment-0001.html>
+
+From self at evident.com  Mon Feb  3 19:50:15 2014
+From: self at evident.com (David Weinberger)
+Date: Mon, 3 Feb 2014 14:50:15 -0500
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CABTvd4ozetSBy7oCJ7=Ds4CRgfXg3rZZduaJwj=wFR7dJth4wg@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+ <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+ <CABTvd4ozetSBy7oCJ7=Ds4CRgfXg3rZZduaJwj=wFR7dJth4wg@mail.gmail.com>
+Message-ID: <CAKx1ww1V_XuwX3X-i0XsHbJ2BMPTwMdDDRnd4T0HE2w+S-d=OA@mail.gmail.com>
+
+Since the aim is to demonstrate library Linked Data's practical value  for
+scholarly/educational communities, we'll do as much reconciliation/linking
+as we can, which will inevitably be less than we'd like.
+
+We're pretty much at Day #2 of this project. There will be more details as
+we work through the issues, preferably with the advice and help of the
+entire community, including you.
+
+David W.
+
+
+On Mon, Feb 3, 2014 at 2:12 PM, Ian Ibbotson <ian.ibbotson at k-int.com> wrote:
+
+> (apologies if I'm just re-posting info already seen)
+>
+> I think @azaroth42 [twitter] might be a good man to ask for details on
+> this.. Some responses to the "and we're off" posting, asking about license
+> etc here:
+> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/....
+>
+> ..Yes, we are aiming at public domain. The following is from page 3 of
+> the proposal:
+>
+> "While Linked Data can be used internally within an institution or across
+> a collaborative group, it becomes much more valuable when it is Linked Open
+> Data, and is publicly shared using an open license such as the Creative
+> Commons CC-BY[1] or CC0[2] licenses, or the United Kingdom's Open
+> Government License[3]. For our Linked Data for Libraries project, our
+> intention is that all SRSIS instances will share Linked Open Data with the
+> world."
+>
+> Dean Krafft adds: Since we're publishing our own metadata, and we don't
+> actually have a lot of metadata for journal articles, there won't be a lot
+> of that in the mix. But what we do have should definitely be open.
+>
+> Ian Ibbotson
+> Director
+> Knowledge Integration Ltd
+> 35 Paradise Street, Sheffield. S3 8PZ
+> T: 0114 273 8271
+> M: 07968 794 630
+> W: http://www.k-int.com
+>
+>
+> On 3 February 2014 19:07, Tom Morris <tfmorris at gmail.com> wrote:
+>
+>> Thanks Adrian.  Does anyone have any information on what they're actually
+>> doing?  Is this going to result in yet another mega dump of
+>> unreconciled/unlinked bibliographic RDF data or are they actually going to
+>> make an attempting at linking things in a useful fashion?
+>>
+>> Stanford was actually involved in a linked data experiment back in 2010
+>> when a good chunk of their catalog was loaded into Freebase and matched up
+>> with Freebase topics.  You can see a list of the book editions here:
+>> https://www.freebase.com/authority/stanford/control?links&lang=en&sort=timestamp
+>> If you look at an edition, you'll see that they're each linked back to
+>> the Stanford OPAC system. For example, these two editions:
+>>     https://www.freebase.com/m/075ngj1
+>>     https://www.freebase.com/m/0c60n0m
+>> are linked both their original catalog entries and to this work:
+>>     https://www.freebase.com/m/075nhtg
+>> and the topic for the author Donn Byrne<https://www.freebase.com/m/02x79g1> which
+>> is further linked to Wikipedia, OpenLibrary, VIAF, IMDB, and LC NAF.
+>>
+>> That's all a long-winded way of saying that Stanford University Library
+>> has a pretty good start on producing Linked Data today.
+>>
+>> Cornell has some linked data for their OPAC too, although I don't think
+>> its as extensive as the Stanford data.  I think it's mostly derived from
+>> the metadata associated with Google Books scans.  If you look at this
+>> edition <https://www.freebase.com/m/04w0sxn> of Flatland<https://www.freebase.com/m/0j_mj> you
+>> can see that it's linked to both Cornell's OPAC as well as the LC and
+>> OpenLibrary records for that edition, while the work entry is linked to
+>> Wikipedia and ISFDB <http://www.isfdb.org/cgi-bin/title.cgi?1933>.  (It
+>> should be linked to the OpenLibrary work page too, but OpenLibrary didn't
+>> yet have works when the original Freebase linking was done, so that's a gap
+>> in the linkage.
+>>
+>> Tom
+>>
+>> On Mon, Feb 3, 2014 at 9:15 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>
+>>> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+>>> Harvard and Stanford might bring things forward regarding the
+>>> availability of open bibliographic data on the web. See the recent
+>>> blog post on the project by David Weinberger.[1]
+>>>
+>>> In the December announcement[2] of the project from Harvard it reads:
+>>> "Ultimately, the goal of the project is to create a system that pulls
+>>> information out of its existing silos--like library catalogs, finding
+>>> aids, reading lists and more--into a common format that people can use
+>>> to  find and understand information. This new system would apply to
+>>> all scholarly and creative disciplines, including the sciences, the
+>>> arts and  the humanities."
+>>>
+>>> The question is whether the project's goal is linked _open_ data, i.e.
+>>> publishing large amounts of bibliographic data for journal articles
+>>> etc. under an open license. Or whether the goal is to have the data on
+>>> the web as linked data but without open licensing...
+>>>
+>>> Can anybody on this list provide some more information on this project
+>>> regarding openbiblio data?
+>>>
+>>> - Adrian
+>>>
+>>>
+>>> [1]
+>>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>>> [2]
+>>> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/aec2ede5/attachment.html>
+
+From adrian.pohl at okfn.org  Mon Feb  3 20:03:58 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 3 Feb 2014 21:03:58 +0100
+Subject: [open-bibliography] Virtual meeting on 2014-02-11! Was: Re: This
+ month's virtual meeting (2014-02-10, 16:00 GMT)
+Message-ID: <CAOtd05Hbf2yG47xJdkntoqNd1HyWej-n+3NnuPckK6njk0D6HQ@mail.gmail.com>
+
+You are right, Peter, it should read Tuesday, 11th. I have updated it on
+the etherpad.
+
+Thanks for the hint,
+Adrian
+
+On 3 February 2014 18:33, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> Tuesday is 11th Feb? Monday is 10th. I cannot make Tuesday 11th
+>
+>
+>
+>
+> On Mon, Feb 3, 2014 at 2:07 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>
+>> Hello,
+>>
+>> I am not available tomorrow and thus have to postpone February's
+>> openbiblio meeting to next week (Tuesday, 10 February). The etherpad
+>> with the agenda etc. is at
+>> http://pad.okfn.org/p/37th-open-bibliography-meeting
+>> Please add agenda points that you would like to discuss.
+>>
+>> All the best
+>> Adrian
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/925ef560/attachment.html>
+
+From adrian.pohl at okfn.org  Mon Feb  3 20:32:26 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 3 Feb 2014 21:32:26 +0100
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAKx1ww1V_XuwX3X-i0XsHbJ2BMPTwMdDDRnd4T0HE2w+S-d=OA@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+ <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+ <CABTvd4ozetSBy7oCJ7=Ds4CRgfXg3rZZduaJwj=wFR7dJth4wg@mail.gmail.com>
+ <CAKx1ww1V_XuwX3X-i0XsHbJ2BMPTwMdDDRnd4T0HE2w+S-d=OA@mail.gmail.com>
+Message-ID: <CAOtd05G7iRxPSxcZvFKQ7KKuZ7w9y1H+bPPjcZWmssmo=60Paw@mail.gmail.com>
+
+Thank you all for your responses.
+
+I had previously heard about Cornell's project to provide unified discovery
+via a blacklight (open source) interface and wondered whether the LD4L
+project would address the whole range of the data underlying discovery
+tools or just the catalog metadata. I hoped that libraries would move one
+step further with addressing free reuse/open licensing of metadata in
+contract negotiations with content providers. (See also the openbiblio blog
+post in reaction to the EBSCO and Ex Libris slap fight:
+http://openbiblio.net/2013/06/23/discovery-silos-vs-the-open-web/.)
+
+David, please let us know if there is any chance if the project might also
+address this issue. Someone will have to make a start...
+
+- Adrian
+
+
+
+On 3 February 2014 20:50, David Weinberger <self at evident.com> wrote:
+
+> Since the aim is to demonstrate library Linked Data's practical value  for
+> scholarly/educational communities, we'll do as much reconciliation/linking
+> as we can, which will inevitably be less than we'd like.
+>
+> We're pretty much at Day #2 of this project. There will be more details as
+> we work through the issues, preferably with the advice and help of the
+> entire community, including you.
+>
+> David W.
+>
+>
+> On Mon, Feb 3, 2014 at 2:12 PM, Ian Ibbotson <ian.ibbotson at k-int.com>wrote:
+>
+>> (apologies if I'm just re-posting info already seen)
+>>
+>> I think @azaroth42 [twitter] might be a good man to ask for details on
+>> this.. Some responses to the "and we're off" posting, asking about license
+>> etc here:
+>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/....
+>>
+>> ..Yes, we are aiming at public domain. The following is from page 3 of
+>> the proposal:
+>>
+>> ?While Linked Data can be used internally within an institution or across
+>> a collaborative group, it becomes much more valuable when it is Linked Open
+>> Data, and is publicly shared using an open license such as the Creative
+>> Commons CC-BY[1] or CC0[2] licenses, or the United Kingdom?s Open
+>> Government License[3]. For our Linked Data for Libraries project, our
+>> intention is that all SRSIS instances will share Linked Open Data with the
+>> world.?
+>>
+>> Dean Krafft adds: Since we?re publishing our own metadata, and we don?t
+>> actually have a lot of metadata for journal articles, there won?t be a lot
+>> of that in the mix. But what we do have should definitely be open.
+>>
+>> Ian Ibbotson
+>> Director
+>> Knowledge Integration Ltd
+>> 35 Paradise Street, Sheffield. S3 8PZ
+>> T: 0114 273 8271
+>> M: 07968 794 630
+>> W: http://www.k-int.com
+>>
+>>
+>> On 3 February 2014 19:07, Tom Morris <tfmorris at gmail.com> wrote:
+>>
+>>> Thanks Adrian.  Does anyone have any information on what they're
+>>> actually doing?  Is this going to result in yet another mega dump of
+>>> unreconciled/unlinked bibliographic RDF data or are they actually going to
+>>> make an attempting at linking things in a useful fashion?
+>>>
+>>> Stanford was actually involved in a linked data experiment back in 2010
+>>> when a good chunk of their catalog was loaded into Freebase and matched up
+>>> with Freebase topics.  You can see a list of the book editions here:
+>>> https://www.freebase.com/authority/stanford/control?links&lang=en&sort=timestamp
+>>> If you look at an edition, you'll see that they're each linked back to
+>>> the Stanford OPAC system. For example, these two editions:
+>>>     https://www.freebase.com/m/075ngj1
+>>>     https://www.freebase.com/m/0c60n0m
+>>> are linked both their original catalog entries and to this work:
+>>>     https://www.freebase.com/m/075nhtg
+>>> and the topic for the author Donn Byrne<https://www.freebase.com/m/02x79g1> which
+>>> is further linked to Wikipedia, OpenLibrary, VIAF, IMDB, and LC NAF.
+>>>
+>>> That's all a long-winded way of saying that Stanford University Library
+>>> has a pretty good start on producing Linked Data today.
+>>>
+>>> Cornell has some linked data for their OPAC too, although I don't think
+>>> its as extensive as the Stanford data.  I think it's mostly derived from
+>>> the metadata associated with Google Books scans.  If you look at this
+>>> edition <https://www.freebase.com/m/04w0sxn> of Flatland<https://www.freebase.com/m/0j_mj> you
+>>> can see that it's linked to both Cornell's OPAC as well as the LC and
+>>> OpenLibrary records for that edition, while the work entry is linked to
+>>> Wikipedia and ISFDB <http://www.isfdb.org/cgi-bin/title.cgi?1933>.  (It
+>>> should be linked to the OpenLibrary work page too, but OpenLibrary didn't
+>>> yet have works when the original Freebase linking was done, so that's a gap
+>>> in the linkage.
+>>>
+>>> Tom
+>>>
+>>> On Mon, Feb 3, 2014 at 9:15 AM, Adrian Pohl <adrian.pohl at okfn.org>wrote:
+>>>
+>>>> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+>>>> Harvard and Stanford might bring things forward regarding the
+>>>> availability of open bibliographic data on the web. See the recent
+>>>> blog post on the project by David Weinberger.[1]
+>>>>
+>>>> In the December announcement[2] of the project from Harvard it reads:
+>>>> "Ultimately, the goal of the project is to create a system that pulls
+>>>> information out of its existing silos?like library catalogs, finding
+>>>> aids, reading lists and more?into a common format that people can use
+>>>> to  find and understand information. This new system would apply to
+>>>> all scholarly and creative disciplines, including the sciences, the
+>>>> arts and  the humanities."
+>>>>
+>>>> The question is whether the project's goal is linked _open_ data, i.e.
+>>>> publishing large amounts of bibliographic data for journal articles
+>>>> etc. under an open license. Or whether the goal is to have the data on
+>>>> the web as linked data but without open licensing...
+>>>>
+>>>> Can anybody on this list provide some more information on this project
+>>>> regarding openbiblio data?
+>>>>
+>>>> - Adrian
+>>>>
+>>>>
+>>>> [1]
+>>>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>>>> [2]
+>>>> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/1d60db79/attachment-0001.html>
+
+From self at evident.com  Mon Feb  3 21:18:02 2014
+From: self at evident.com (David Weinberger)
+Date: Mon, 3 Feb 2014 16:18:02 -0500
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAOtd05G7iRxPSxcZvFKQ7KKuZ7w9y1H+bPPjcZWmssmo=60Paw@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+ <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+ <CABTvd4ozetSBy7oCJ7=Ds4CRgfXg3rZZduaJwj=wFR7dJth4wg@mail.gmail.com>
+ <CAKx1ww1V_XuwX3X-i0XsHbJ2BMPTwMdDDRnd4T0HE2w+S-d=OA@mail.gmail.com>
+ <CAOtd05G7iRxPSxcZvFKQ7KKuZ7w9y1H+bPPjcZWmssmo=60Paw@mail.gmail.com>
+Message-ID: <CAKx1ww1x4DpbhGnrFxQSc5fRbp_ood92mZLhyFveeE2y__bguA@mail.gmail.com>
+
+We're very much focused on going beyond catalog data. But making licensed
+journal metadata public isn't part of our charter. We'd like it and support
+it, but it's not going to be where we're spending our time.
+
+- David W.
+
+
+On Mon, Feb 3, 2014 at 3:32 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Thank you all for your responses.
+>
+> I had previously heard about Cornell's project to provide unified
+> discovery via a blacklight (open source) interface and wondered whether the
+> LD4L project would address the whole range of the data underlying discovery
+> tools or just the catalog metadata. I hoped that libraries would move one
+> step further with addressing free reuse/open licensing of metadata in
+> contract negotiations with content providers. (See also the openbiblio blog
+> post in reaction to the EBSCO and Ex Libris slap fight:
+> http://openbiblio.net/2013/06/23/discovery-silos-vs-the-open-web/.)
+>
+> David, please let us know if there is any chance if the project might also
+> address this issue. Someone will have to make a start...
+>
+> - Adrian
+>
+>
+>
+> On 3 February 2014 20:50, David Weinberger <self at evident.com> wrote:
+>
+>> Since the aim is to demonstrate library Linked Data's practical value
+>>  for scholarly/educational communities, we'll do as much
+>> reconciliation/linking as we can, which will inevitably be less than we'd
+>> like.
+>>
+>> We're pretty much at Day #2 of this project. There will be more details
+>> as we work through the issues, preferably with the advice and help of the
+>> entire community, including you.
+>>
+>> David W.
+>>
+>>
+>> On Mon, Feb 3, 2014 at 2:12 PM, Ian Ibbotson <ian.ibbotson at k-int.com>wrote:
+>>
+>>> (apologies if I'm just re-posting info already seen)
+>>>
+>>> I think @azaroth42 [twitter] might be a good man to ask for details on
+>>> this.. Some responses to the "and we're off" posting, asking about license
+>>> etc here:
+>>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/....
+>>>
+>>> ..Yes, we are aiming at public domain. The following is from page 3 of
+>>> the proposal:
+>>>
+>>> "While Linked Data can be used internally within an institution or
+>>> across a collaborative group, it becomes much more valuable when it is
+>>> Linked Open Data, and is publicly shared using an open license such as the
+>>> Creative Commons CC-BY[1] or CC0[2] licenses, or the United Kingdom's Open
+>>> Government License[3]. For our Linked Data for Libraries project, our
+>>> intention is that all SRSIS instances will share Linked Open Data with the
+>>> world."
+>>>
+>>> Dean Krafft adds: Since we're publishing our own metadata, and we don't
+>>> actually have a lot of metadata for journal articles, there won't be a lot
+>>> of that in the mix. But what we do have should definitely be open.
+>>>
+>>> Ian Ibbotson
+>>> Director
+>>> Knowledge Integration Ltd
+>>> 35 Paradise Street, Sheffield. S3 8PZ
+>>> T: 0114 273 8271
+>>> M: 07968 794 630
+>>> W: http://www.k-int.com
+>>>
+>>>
+>>> On 3 February 2014 19:07, Tom Morris <tfmorris at gmail.com> wrote:
+>>>
+>>>> Thanks Adrian.  Does anyone have any information on what they're
+>>>> actually doing?  Is this going to result in yet another mega dump of
+>>>> unreconciled/unlinked bibliographic RDF data or are they actually going to
+>>>> make an attempting at linking things in a useful fashion?
+>>>>
+>>>> Stanford was actually involved in a linked data experiment back in 2010
+>>>> when a good chunk of their catalog was loaded into Freebase and matched up
+>>>> with Freebase topics.  You can see a list of the book editions here:
+>>>> https://www.freebase.com/authority/stanford/control?links&lang=en&sort=timestamp
+>>>> If you look at an edition, you'll see that they're each linked back to
+>>>> the Stanford OPAC system. For example, these two editions:
+>>>>     https://www.freebase.com/m/075ngj1
+>>>>     https://www.freebase.com/m/0c60n0m
+>>>> are linked both their original catalog entries and to this work:
+>>>>     https://www.freebase.com/m/075nhtg
+>>>> and the topic for the author Donn Byrne<https://www.freebase.com/m/02x79g1> which
+>>>> is further linked to Wikipedia, OpenLibrary, VIAF, IMDB, and LC NAF.
+>>>>
+>>>> That's all a long-winded way of saying that Stanford University Library
+>>>> has a pretty good start on producing Linked Data today.
+>>>>
+>>>> Cornell has some linked data for their OPAC too, although I don't think
+>>>> its as extensive as the Stanford data.  I think it's mostly derived from
+>>>> the metadata associated with Google Books scans.  If you look at this
+>>>> edition <https://www.freebase.com/m/04w0sxn> of Flatland<https://www.freebase.com/m/0j_mj> you
+>>>> can see that it's linked to both Cornell's OPAC as well as the LC and
+>>>> OpenLibrary records for that edition, while the work entry is linked to
+>>>> Wikipedia and ISFDB <http://www.isfdb.org/cgi-bin/title.cgi?1933>.
+>>>>  (It should be linked to the OpenLibrary work page too, but OpenLibrary
+>>>> didn't yet have works when the original Freebase linking was done, so
+>>>> that's a gap in the linkage.
+>>>>
+>>>> Tom
+>>>>
+>>>> On Mon, Feb 3, 2014 at 9:15 AM, Adrian Pohl <adrian.pohl at okfn.org>wrote:
+>>>>
+>>>>> The Mellon-funded Linked Data for Libraries (LD4L) project at Cornell,
+>>>>> Harvard and Stanford might bring things forward regarding the
+>>>>> availability of open bibliographic data on the web. See the recent
+>>>>> blog post on the project by David Weinberger.[1]
+>>>>>
+>>>>> In the December announcement[2] of the project from Harvard it reads:
+>>>>> "Ultimately, the goal of the project is to create a system that pulls
+>>>>> information out of its existing silos--like library catalogs, finding
+>>>>> aids, reading lists and more--into a common format that people can use
+>>>>> to  find and understand information. This new system would apply to
+>>>>> all scholarly and creative disciplines, including the sciences, the
+>>>>> arts and  the humanities."
+>>>>>
+>>>>> The question is whether the project's goal is linked _open_ data, i.e.
+>>>>> publishing large amounts of bibliographic data for journal articles
+>>>>> etc. under an open license. Or whether the goal is to have the data on
+>>>>> the web as linked data but without open licensing...
+>>>>>
+>>>>> Can anybody on this list provide some more information on this project
+>>>>> regarding openbiblio data?
+>>>>>
+>>>>> - Adrian
+>>>>>
+>>>>>
+>>>>> [1]
+>>>>> http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>>>>> [2]
+>>>>> http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+>>>>> _______________________________________________
+>>>>> open-bibliography mailing list
+>>>>> open-bibliography at lists.okfn.org
+>>>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140203/9bf4c340/attachment.html>
+
+From fboulogne at sciunto.org  Mon Feb  3 19:16:54 2014
+From: fboulogne at sciunto.org (=?ISO-8859-1?Q?Fran=E7ois_Boulogne?=)
+Date: Mon, 03 Feb 2014 14:16:54 -0500
+Subject: [open-bibliography] Bibtex parser in Python
+In-Reply-To: <20140203140318.GC1939@silenziosa>
+References: <52EE9C6A.1050205@sciunto.org> <20140203140318.GC1939@silenziosa>
+Message-ID: <52EFEB26.1040502@sciunto.org>
+
+Le 03/02/2014 09:03, Karol M. Langner a ?crit :
+> Hi,
+>
+> This looks great. I wonder, have you looked at pybliographer? That's what I've been using for scripting, although I'm not very content.
+>
+>
+
+
+Indeed, yes, a long time ago but It looked too sophisticated to me
+(probably because my coding skills are too limited). I really prefer a
+KISS piece of code, and OKFN did that. Nevertheless, it would be a good
+idea to reuse their tests to check the project's code.
+
+-- 
+Fran?ois Boulogne.
+http://www.sciunto.org
+GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+
+
+From kcoyle at kcoyle.net  Mon Feb  3 21:26:00 2014
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 03 Feb 2014 13:26:00 -0800
+Subject: [open-bibliography] Linked Data for Libraries (LD4L) project
+In-Reply-To: <CAOtd05G7iRxPSxcZvFKQ7KKuZ7w9y1H+bPPjcZWmssmo=60Paw@mail.gmail.com>
+References: <CAOtd05E7qngbWk1FhuCXK44B2XbenA7V+1vrAeDW4-TcUO_zGQ@mail.gmail.com>
+ <CAE9vqEG_A5sa+028GuoHFya=L8xk6CMHcaYExQ001CmQxZbW7w@mail.gmail.com>
+ <CABTvd4ozetSBy7oCJ7=Ds4CRgfXg3rZZduaJwj=wFR7dJth4wg@mail.gmail.com>
+ <CAKx1ww1V_XuwX3X-i0XsHbJ2BMPTwMdDDRnd4T0HE2w+S-d=OA@mail.gmail.com>
+ <CAOtd05G7iRxPSxcZvFKQ7KKuZ7w9y1H+bPPjcZWmssmo=60Paw@mail.gmail.com>
+Message-ID: <52F00968.4050302@kcoyle.net>
+
+There is a short update on the EBSCO/Ex Libris/Proquest stuff:
+
+http://thoughts.care-affiliates.com/2014/02/one-content-silo-removed-at-recent-ala.html
+
+kc
+
+On 2/3/14, 12:32 PM, Adrian Pohl wrote:
+> Thank you all for your responses.
+>
+> I had previously heard about Cornell's project to provide unified
+> discovery via a blacklight (open source) interface and wondered whether
+> the LD4L project would address the whole range of the data underlying
+> discovery tools or just the catalog metadata. I hoped that libraries
+> would move one step further with addressing free reuse/open licensing of
+> metadata in contract negotiations with content providers. (See also the
+> openbiblio blog post in reaction to the EBSCO and Ex Libris slap fight:
+> http://openbiblio.net/2013/06/23/discovery-silos-vs-the-open-web/.)
+>
+> David, please let us know if there is any chance if the project might
+> also address this issue. Someone will have to make a start...
+>
+> - Adrian
+>
+>
+>
+> On 3 February 2014 20:50, David Weinberger <self at evident.com
+> <mailto:self at evident.com>> wrote:
+>
+>     Since the aim is to demonstrate library Linked Data's practical
+>     value  for scholarly/educational communities, we'll do as much
+>     reconciliation/linking as we can, which will inevitably be less than
+>     we'd like.
+>
+>     We're pretty much at Day #2 of this project. There will be more
+>     details as we work through the issues, preferably with the advice
+>     and help of the entire community, including you.
+>
+>     David W.
+>
+>
+>     On Mon, Feb 3, 2014 at 2:12 PM, Ian Ibbotson <ian.ibbotson at k-int.com
+>     <mailto:ian.ibbotson at k-int.com>> wrote:
+>
+>         (apologies if I'm just re-posting info already seen)
+>
+>         I think @azaroth42 [twitter] might be a good man to ask for
+>         details on this.. Some responses to the "and we're off" posting,
+>         asking about license etc here:
+>         http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>         ....
+>
+>         ..Yes, we are aiming at public domain. The following is from
+>         page 3 of the proposal:
+>
+>         ?While Linked Data can be used internally within an institution
+>         or across a collaborative group, it becomes much more valuable
+>         when it is Linked Open Data, and is publicly shared using an
+>         open license such as the Creative Commons CC-BY[1] or CC0[2]
+>         licenses, or the United Kingdom?s Open Government License[3].
+>         For our Linked Data for Libraries project, our intention is that
+>         all SRSIS instances will share Linked Open Data with the world.?
+>
+>         Dean Krafft adds: Since we?re publishing our own metadata, and
+>         we don?t actually have a lot of metadata for journal articles,
+>         there won?t be a lot of that in the mix. But what we do have
+>         should definitely be open.
+>
+>
+>         Ian Ibbotson
+>         Director
+>         Knowledge Integration Ltd
+>         35 Paradise Street, Sheffield. S3 8PZ
+>         T: 0114 273 8271
+>         M: 07968 794 630
+>         W: http://www.k-int.com
+>
+>
+>         On 3 February 2014 19:07, Tom Morris <tfmorris at gmail.com
+>         <mailto:tfmorris at gmail.com>> wrote:
+>
+>             Thanks Adrian.  Does anyone have any information on what
+>             they're actually doing?  Is this going to result in yet
+>             another mega dump of unreconciled/unlinked bibliographic RDF
+>             data or are they actually going to make an attempting at
+>             linking things in a useful fashion?
+>
+>             Stanford was actually involved in a linked data experiment
+>             back in 2010 when a good chunk of their catalog was loaded
+>             into Freebase and matched up with Freebase topics.  You can
+>             see a list of the book editions here:
+>             https://www.freebase.com/authority/stanford/control?links&lang=en&sort=timestamp
+>             If you look at an edition, you'll see that they're each
+>             linked back to the Stanford OPAC system. For example, these
+>             two editions:
+>             https://www.freebase.com/m/075ngj1
+>             https://www.freebase.com/m/0c60n0m
+>             are linked both their original catalog entries and to this work:
+>             https://www.freebase.com/m/075nhtg
+>             and the topic for the authorDonn Byrne
+>             <https://www.freebase.com/m/02x79g1> which is further linked
+>             to Wikipedia, OpenLibrary, VIAF, IMDB, and LC NAF.
+>
+>             That's all a long-winded way of saying that Stanford
+>             University Library has a pretty good start on producing
+>             Linked Data today.
+>
+>             Cornell has some linked data for their OPAC too, although I
+>             don't think its as extensive as the Stanford data.  I think
+>             it's mostly derived from the metadata associated with Google
+>             Books scans.  If you look at this edition
+>             <https://www.freebase.com/m/04w0sxn> of Flatland
+>             <https://www.freebase.com/m/0j_mj> you can see that it's
+>             linked to both Cornell's OPAC as well as the LC and
+>             OpenLibrary records for that edition, while the work entry
+>             is linked to Wikipedia and ISFDB
+>             <http://www.isfdb.org/cgi-bin/title.cgi?1933>.  (It should
+>             be linked to the OpenLibrary work page too, but OpenLibrary
+>             didn't yet have works when the original Freebase linking was
+>             done, so that's a gap in the linkage.
+>
+>             Tom
+>
+>             On Mon, Feb 3, 2014 at 9:15 AM, Adrian Pohl
+>             <adrian.pohl at okfn.org <mailto:adrian.pohl at okfn.org>> wrote:
+>
+>                 The Mellon-funded Linked Data for Libraries (LD4L)
+>                 project at Cornell,
+>                 Harvard and Stanford might bring things forward
+>                 regarding the
+>                 availability of open bibliographic data on the web. See
+>                 the recent
+>                 blog post on the project by David Weinberger.[1]
+>
+>                 In the December announcement[2] of the project from
+>                 Harvard it reads:
+>                 "Ultimately, the goal of the project is to create a
+>                 system that pulls
+>                 information out of its existing silos?like library
+>                 catalogs, finding
+>                 aids, reading lists and more?into a common format that
+>                 people can use
+>                 to  find and understand information. This new system
+>                 would apply to
+>                 all scholarly and creative disciplines, including the
+>                 sciences, the
+>                 arts and  the humanities."
+>
+>                 The question is whether the project's goal is linked
+>                 _open_ data, i.e.
+>                 publishing large amounts of bibliographic data for
+>                 journal articles
+>                 etc. under an open license. Or whether the goal is to
+>                 have the data on
+>                 the web as linked data but without open licensing...
+>
+>                 Can anybody on this list provide some more information
+>                 on this project
+>                 regarding openbiblio data?
+>
+>                 - Adrian
+>
+>
+>                 [1]
+>                 http://www.hyperorg.com/blogger/2014/02/01/linked-data-for-libraries-and-were-off/
+>                 [2]
+>                 http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant
+>                 _______________________________________________
+>                 open-bibliography mailing list
+>                 open-bibliography at lists.okfn.org
+>                 <mailto:open-bibliography at lists.okfn.org>
+>                 https://lists.okfn.org/mailman/listinfo/open-bibliography
+>                 Unsubscribe:
+>                 https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>             _______________________________________________
+>             open-bibliography mailing list
+>             open-bibliography at lists.okfn.org
+>             <mailto:open-bibliography at lists.okfn.org>
+>             https://lists.okfn.org/mailman/listinfo/open-bibliography
+>             Unsubscribe:
+>             https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>         _______________________________________________
+>         open-bibliography mailing list
+>         open-bibliography at lists.okfn.org
+>         <mailto:open-bibliography at lists.okfn.org>
+>         https://lists.okfn.org/mailman/listinfo/open-bibliography
+>         Unsubscribe:
+>         https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>     _______________________________________________
+>     open-bibliography mailing list
+>     open-bibliography at lists.okfn.org
+>     <mailto:open-bibliography at lists.okfn.org>
+>     https://lists.okfn.org/mailman/listinfo/open-bibliography
+>     Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+m: 1-510-435-8234
+skype: kcoylenet
+
+From edward at dragonfly.co.nz  Tue Feb  4 00:55:35 2014
+From: edward at dragonfly.co.nz (Edward Abraham)
+Date: Tue, 4 Feb 2014 13:55:35 +1300
+Subject: [open-bibliography] Bibtex to bibjson
+Message-ID: <CAHBrqy7bGGri0FWMUvx9DG1fD++PxDykfpcFhB2dWzf+5u62BQ@mail.gmail.com>
+
+Hi there,
+
+Just wondering how this project is going, and whether the bibtex to
+bibjson parser is available somewhere?
+
+Cheers,
+
+Ed.
+
+-- 
+
+Edward Abraham
+www.dragonfly.co.nz
+Dragonfly Science, PO Box 27535, Wellington 6141, New Zealand
+Level 5, 158 Victoria Street, Te Aro, Wellington
+M: +64 21 989 454
+T: +64 4 385 9285
+
+From mark.macgillivray at okfn.org  Tue Feb  4 11:40:40 2014
+From: mark.macgillivray at okfn.org (Mark MacGillivray)
+Date: Tue, 4 Feb 2014 11:40:40 +0000
+Subject: [open-bibliography] Bibtex to bibjson
+In-Reply-To: <CAHBrqy7bGGri0FWMUvx9DG1fD++PxDykfpcFhB2dWzf+5u62BQ@mail.gmail.com>
+References: <CAHBrqy7bGGri0FWMUvx9DG1fD++PxDykfpcFhB2dWzf+5u62BQ@mail.gmail.com>
+Message-ID: <CAFxzj8TkvKDoa16-NJdTrWqA9cCs-ZMiQfKbaeEU4uqkiTwxoQ@mail.gmail.com>
+
+Hi Ed, you should be able to find the parsers in the bibserver repository,
+in the parser plugins folder:
+
+https://github.com/okfn/bibserver
+
+
+Mark
+
+
+
+
+On Tue, Feb 4, 2014 at 12:55 AM, Edward Abraham <edward at dragonfly.co.nz>wrote:
+
+> Hi there,
+>
+> Just wondering how this project is going, and whether the bibtex to
+> bibjson parser is available somewhere?
+>
+> Cheers,
+>
+> Ed.
+>
+> --
+>
+> Edward Abraham
+> www.dragonfly.co.nz
+> Dragonfly Science, PO Box 27535, Wellington 6141, New Zealand
+> Level 5, 158 Victoria Street, Te Aro, Wellington
+> M: +64 21 989 454
+> T: +64 4 385 9285
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140204/99e23590/attachment.html>
+
+From edward at dragonfly.co.nz  Tue Feb  4 11:52:13 2014
+From: edward at dragonfly.co.nz (Edward Abraham)
+Date: Wed, 5 Feb 2014 00:52:13 +1300
+Subject: [open-bibliography] Bibtex to bibjson
+In-Reply-To: <CAFxzj8TkvKDoa16-NJdTrWqA9cCs-ZMiQfKbaeEU4uqkiTwxoQ@mail.gmail.com>
+References: <CAHBrqy7bGGri0FWMUvx9DG1fD++PxDykfpcFhB2dWzf+5u62BQ@mail.gmail.com>
+ <CAFxzj8TkvKDoa16-NJdTrWqA9cCs-ZMiQfKbaeEU4uqkiTwxoQ@mail.gmail.com>
+Message-ID: <CAHBrqy65h82x3NBFONqjjR+Vr66-i5BSJVRnYzMKjrt=HFMKyg@mail.gmail.com>
+
+Thanks Mark, great to see the whole application.
+
+
+On 5 February 2014 00:40, Mark MacGillivray <mark.macgillivray at okfn.org>wrote:
+
+> Hi Ed, you should be able to find the parsers in the bibserver repository,
+> in the parser plugins folder:
+>
+> https://github.com/okfn/bibserver
+>
+>
+> Mark
+>
+>
+>
+>
+> On Tue, Feb 4, 2014 at 12:55 AM, Edward Abraham <edward at dragonfly.co.nz>wrote:
+>
+>> Hi there,
+>>
+>> Just wondering how this project is going, and whether the bibtex to
+>> bibjson parser is available somewhere?
+>>
+>> Cheers,
+>>
+>> Ed.
+>>
+>> --
+>>
+>> Edward Abraham
+>> www.dragonfly.co.nz
+>> Dragonfly Science, PO Box 27535, Wellington 6141, New Zealand
+>> Level 5, 158 Victoria Street, Te Aro, Wellington
+>> M: +64 21 989 454
+>> T: +64 4 385 9285
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+
+Edward Abraham
+www.dragonfly.co.nz
+Dragonfly Science, PO Box 27535, Wellington 6141, New Zealand
+Level 5, 158 Victoria Street, Te Aro, Wellington
+M: +64 21 989 454
+T: +64 4 385 9285
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140205/f115bb28/attachment.html>
+
+From adrian.pohl at okfn.org  Tue Feb 11 13:25:11 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 11 Feb 2014 14:25:11 +0100
+Subject: [open-bibliography] Today's meeting cancelled Was: Virtual meeting
+	on 2014-02-11!
+Message-ID: <CAOtd05HLTy0hSp5nTZt7KJ-Sct6A5s4XJuoK-zDjcvJVeDjFOQ@mail.gmail.com>
+
+I can't make it today and, thus, the meeting is cancelled. We'll meet
+next month then, on March 4th.
+
+All the best
+Adrian
+
+On 3 February 2014 21:03, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> You are right, Peter, it should read Tuesday, 11th. I have updated it on the
+> etherpad.
+>
+> Thanks for the hint,
+> Adrian
+>
+> On 3 February 2014 18:33, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>> Tuesday is 11th Feb? Monday is 10th. I cannot make Tuesday 11th
+>>
+>>
+>>
+>>
+>> On Mon, Feb 3, 2014 at 2:07 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>>
+>>> Hello,
+>>>
+>>> I am not available tomorrow and thus have to postpone February's
+>>> openbiblio meeting to next week (Tuesday, 10 February). The etherpad
+>>> with the agenda etc. is at
+>>> http://pad.okfn.org/p/37th-open-bibliography-meeting
+>>> Please add agenda points that you would like to discuss.
+>>>
+>>> All the best
+>>> Adrian
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+From kcoyle at kcoyle.net  Fri Feb 14 11:27:54 2014
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 14 Feb 2014 03:27:54 -0800
+Subject: [open-bibliography] OCLC agrees to CC0 with Sweden
+Message-ID: <52FDFDBA.2050607@kcoyle.net>
+
+I don't have the details of the contract, but I have learned that, after 
+about 10 years of discussions, OCLC has agreed that the National Library 
+of Sweden can release OCLC-derived records in its LIBRIS catalog under a 
+CC0 license. This is good news, and let's hope that it sets a precedent 
+for other libraries.
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+m: 1-510-435-8234
+skype: kcoylenet
+
+From pm286 at cam.ac.uk  Fri Feb 14 11:34:15 2014
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 14 Feb 2014 22:34:15 +1100
+Subject: [open-bibliography] OCLC agrees to CC0 with Sweden
+In-Reply-To: <52FDFDBA.2050607@kcoyle.net>
+References: <52FDFDBA.2050607@kcoyle.net>
+Message-ID: <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+
+That's very good news. Do we assume that the records originally "belonged"
+to OCLC because they built the system. Is there anything specially related
+to national libraries in this?
+
+When we started the JISC Open Bibliography project (was it 5 years ago?)
+one goal was to work with the BL on Open Bibliography and during the
+project they released the Brit Nat Bibliography as CC0. Other national
+libraries have followed suit. So can we now make an effective case that
+this should be the norm for all national libraries?
+
+P
+
+
+On Fri, Feb 14, 2014 at 10:27 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> I don't have the details of the contract, but I have learned that, after
+> about 10 years of discussions, OCLC has agreed that the National Library of
+> Sweden can release OCLC-derived records in its LIBRIS catalog under a CC0
+> license. This is good news, and let's hope that it sets a precedent for
+> other libraries.
+>
+> kc
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> m: 1-510-435-8234
+> skype: kcoylenet
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140214/36becc32/attachment.html>
+
+From kcoyle at kcoyle.net  Fri Feb 14 11:57:36 2014
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 14 Feb 2014 03:57:36 -0800
+Subject: [open-bibliography] OCLC agrees to CC0 with Sweden
+In-Reply-To: <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+References: <52FDFDBA.2050607@kcoyle.net>
+ <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+Message-ID: <52FE04B0.8090604@kcoyle.net>
+
+
+
+On 2/14/14, 3:34 AM, Peter Murray-Rust wrote:
+> That's very good news. Do we assume that the records originally
+> "belonged" to OCLC because they built the system.
+
+The gist of OCLC's justification is that they have put a lot of effort 
+into maintaining record quality. They not only store them, they also 
+merge duplicate records, update records with new authority information, 
+and make changes necessitated by changes in the MARC formats. For 
+records that come into the database in non-MARC formats, they transform 
+the records into decent MARC. In terms of protecting the OCLC database, 
+I think it's obvious that they have that right. It's once the records 
+leave OCLC that the question comes up. I think of it as something like 
+the US "first sale" doctrine: once you've sold something to someone 
+else, it's theirs, and you can no longer control it. It is the attempt 
+to control down-stream use that goes too far.
+
+  Is there anything
+> specially related to national libraries in this?
+
+Not that I know of.
+
+>
+> When we started the JISC Open Bibliography project (was it 5 years ago?)
+> one goal was to work with the BL on Open Bibliography and during the
+> project they released the Brit Nat Bibliography as CC0. Other national
+> libraries have followed suit. So can we now make an effective case that
+> this should be the norm for all national libraries?
+
+That might be a stretch given legal and situational differences. (There 
+are over 150 national libraries that participate in IFLA, if I remember 
+correctly.) But it could surely be an aspiration.
+
+kc
+
+
+
+>
+> P
+>
+>
+> On Fri, Feb 14, 2014 at 10:27 PM, Karen Coyle <kcoyle at kcoyle.net
+> <mailto:kcoyle at kcoyle.net>> wrote:
+>
+>     I don't have the details of the contract, but I have learned that,
+>     after about 10 years of discussions, OCLC has agreed that the
+>     National Library of Sweden can release OCLC-derived records in its
+>     LIBRIS catalog under a CC0 license. This is good news, and let's
+>     hope that it sets a precedent for other libraries.
+>
+>     kc
+>
+>     --
+>     Karen Coyle
+>     kcoyle at kcoyle.net <mailto:kcoyle at kcoyle.net> http://kcoyle.net
+>     m: 1-510-435-8234 <tel:1-510-435-8234>
+>     skype: kcoylenet
+>     _________________________________________________
+>     open-bibliography mailing list
+>     open-bibliography at lists.okfn.__org
+>     <mailto:open-bibliography at lists.okfn.org>
+>     https://lists.okfn.org/__mailman/listinfo/open-__bibliography
+>     <https://lists.okfn.org/mailman/listinfo/open-bibliography>
+>     Unsubscribe:
+>     https://lists.okfn.org/__mailman/options/open-__bibliography
+>     <https://lists.okfn.org/mailman/options/open-bibliography>
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+m: 1-510-435-8234
+skype: kcoylenet
+
+From self at evident.com  Fri Feb 14 13:36:34 2014
+From: self at evident.com (David Weinberger)
+Date: Fri, 14 Feb 2014 08:36:34 -0500
+Subject: [open-bibliography] OCLC agrees to CC0 with Sweden
+In-Reply-To: <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+References: <52FDFDBA.2050607@kcoyle.net>
+ <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+Message-ID: <CAKx1ww3RPrjhXOjEoui64hWvGV=fK7X5RaFPr259ShX4KYtQPQ@mail.gmail.com>
+
+Excellent news. Get one more national library to agree, and, yes, let's
+claim it's the new norm! :)
+
+Also, just a reminder that in April 2012, OCLC agreed to let Harvard
+release its (Harvard's) catalog data as CC0, including records that
+benefited from OCLC's data enhancement as per Karen's msg.
+http://openmetadata.lib.harvard.edu/
+
+- David Weinberger
+
+
+On Fri, Feb 14, 2014 at 6:34 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> That's very good news. Do we assume that the records originally "belonged"
+> to OCLC because they built the system. Is there anything specially related
+> to national libraries in this?
+>
+> When we started the JISC Open Bibliography project (was it 5 years ago?)
+> one goal was to work with the BL on Open Bibliography and during the
+> project they released the Brit Nat Bibliography as CC0. Other national
+> libraries have followed suit. So can we now make an effective case that
+> this should be the norm for all national libraries?
+>
+> P
+>
+>
+> On Fri, Feb 14, 2014 at 10:27 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>
+>> I don't have the details of the contract, but I have learned that, after
+>> about 10 years of discussions, OCLC has agreed that the National Library of
+>> Sweden can release OCLC-derived records in its LIBRIS catalog under a CC0
+>> license. This is good news, and let's hope that it sets a precedent for
+>> other libraries.
+>>
+>> kc
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> https://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140214/b6325593/attachment.html>
+
+From alastair.dunning at theeuropeanlibrary.org  Mon Feb 17 09:06:48 2014
+From: alastair.dunning at theeuropeanlibrary.org (Alastair Dunning)
+Date: Mon, 17 Feb 2014 09:06:48 +0000
+Subject: [open-bibliography] OCLC agrees to CC0 with Sweden
+In-Reply-To: <CAKx1ww3RPrjhXOjEoui64hWvGV=fK7X5RaFPr259ShX4KYtQPQ@mail.gmail.com>
+References: <52FDFDBA.2050607@kcoyle.net>
+ <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+ <CAKx1ww3RPrjhXOjEoui64hWvGV=fK7X5RaFPr259ShX4KYtQPQ@mail.gmail.com>
+Message-ID: <FE937B8A9FF2464B9AACFE515BCEEBA207412621@MBX-SRV-P200.wpakb.kb.nl>
+
+Dear all,
+
+The European Library (http://www.theeuropeanlibrary.org/)  is currently working with all National Libraries in Europe to produce CC0 Linked Open Data related to their bibliographic datasets . We had hoped to get this published in January, but it's taking a bit longer with some of the libraries less familiar with CC0.
+
+We are also working with the RLUK (Research Libraries UK) consortium to do the same for data about their library holdings (about 30 UK research libraries, plus Trinity in Dublin)
+
+I spoke to Adrian about this a while back at one of the meetings - he might be able to locate the notes
+
+Happy to speak more about this as required.
+
+Alastair
+
+Alastair Dunning
+Programme Manager, The European Library
+http://theeuropeanlibrary.org<http://theeuropeanlibrary.org/>
+(Based in the National Library of the Netherlands)
+skype: xcia0069
+twitter: alastairdunning
+
+
+
+From: open-bibliography [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of David Weinberger
+Sent: 14 February 2014 14:37
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] OCLC agrees to CC0 with Sweden
+
+Excellent news. Get one more national library to agree, and, yes, let's claim it's the new norm! :)
+
+Also, just a reminder that in April 2012, OCLC agreed to let Harvard release its (Harvard's) catalog data as CC0, including records that benefited from OCLC's data enhancement as per Karen's msg. http://openmetadata.lib.harvard.edu/
+
+- David Weinberger
+
+On Fri, Feb 14, 2014 at 6:34 AM, Peter Murray-Rust <pm286 at cam.ac.uk<mailto:pm286 at cam.ac.uk>> wrote:
+That's very good news. Do we assume that the records originally "belonged" to OCLC because they built the system. Is there anything specially related to national libraries in this?
+
+When we started the JISC Open Bibliography project (was it 5 years ago?) one goal was to work with the BL on Open Bibliography and during the project they released the Brit Nat Bibliography as CC0. Other national libraries have followed suit. So can we now make an effective case that this should be the norm for all national libraries?
+
+P
+
+On Fri, Feb 14, 2014 at 10:27 PM, Karen Coyle <kcoyle at kcoyle.net<mailto:kcoyle at kcoyle.net>> wrote:
+I don't have the details of the contract, but I have learned that, after about 10 years of discussions, OCLC has agreed that the National Library of Sweden can release OCLC-derived records in its LIBRIS catalog under a CC0 license. This is good news, and let's hope that it sets a precedent for other libraries.
+
+kc
+
+--
+Karen Coyle
+kcoyle at kcoyle.net<mailto:kcoyle at kcoyle.net> http://kcoyle.net
+m: 1-510-435-8234<tel:1-510-435-8234>
+skype: kcoylenet
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org<mailto:open-bibliography at lists.okfn.org>
+https://lists.okfn.org/mailman/listinfo/open-bibliography
+Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+
+
+
+--
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069<tel:%2B44-1223-763069>
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org<mailto:open-bibliography at lists.okfn.org>
+https://lists.okfn.org/mailman/listinfo/open-bibliography
+Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140217/260288fd/attachment.html>
+
+From adrian.pohl at okfn.org  Wed Feb 19 14:13:11 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 19 Feb 2014 15:13:11 +0100
+Subject: [open-bibliography] OCLC agrees to CC0 with Sweden
+In-Reply-To: <FE937B8A9FF2464B9AACFE515BCEEBA207412621@MBX-SRV-P200.wpakb.kb.nl>
+References: <52FDFDBA.2050607@kcoyle.net>
+ <CAD2k14Nx+F9inccPbD5vuQ++hD_G5sU8hytxNPbFYtya6YQcEA@mail.gmail.com>
+ <CAKx1ww3RPrjhXOjEoui64hWvGV=fK7X5RaFPr259ShX4KYtQPQ@mail.gmail.com>
+ <FE937B8A9FF2464B9AACFE515BCEEBA207412621@MBX-SRV-P200.wpakb.kb.nl>
+Message-ID: <CAOtd05Eb=w=4v4K+AyUGpVXED6McmEBYzv=P_9di+ZD8J3vd7A@mail.gmail.com>
+
+On 17 February 2014 10:06, Alastair Dunning
+<alastair.dunning at theeuropeanlibrary.org> wrote:
+
+> I spoke to Adrian about this a while back at one of the meetings ? he might
+> be able to locate the notes
+
+The notes are at http://new.okfnpad.org/p/33rd-open-bibliography-meeting
+
+- Adrian
+
+On 17 February 2014 10:06, Alastair Dunning
+<alastair.dunning at theeuropeanlibrary.org> wrote:
+> Dear all,
+>
+>
+> The European Library (http://www.theeuropeanlibrary.org/)  is currently
+> working with all National Libraries in Europe to produce CC0 Linked Open
+> Data related to their bibliographic datasets . We had hoped to get this
+> published in January, but it?s taking a bit longer with some of the
+> libraries less familiar with CC0.
+>
+>
+>
+> We are also working with the RLUK (Research Libraries UK) consortium to do
+> the same for data about their library holdings (about 30 UK research
+> libraries, plus Trinity in Dublin)
+>
+>
+>
+> I spoke to Adrian about this a while back at one of the meetings ? he might
+> be able to locate the notes
+>
+>
+>
+> Happy to speak more about this as required.
+>
+>
+>
+> Alastair
+>
+>
+>
+> Alastair Dunning
+>
+> Programme Manager, The European Library
+>
+> http://theeuropeanlibrary.org
+>
+> (Based in the National Library of the Netherlands)
+>
+> skype: xcia0069
+>
+> twitter: alastairdunning
+>
+>
+>
+>
+>
+>
+>
+> From: open-bibliography [mailto:open-bibliography-bounces at lists.okfn.org] On
+> Behalf Of David Weinberger
+> Sent: 14 February 2014 14:37
+> To: List for Working Group on Open Bibliographic Data
+> Subject: Re: [open-bibliography] OCLC agrees to CC0 with Sweden
+>
+>
+>
+> Excellent news. Get one more national library to agree, and, yes, let's
+> claim it's the new norm! :)
+>
+>
+>
+> Also, just a reminder that in April 2012, OCLC agreed to let Harvard release
+> its (Harvard's) catalog data as CC0, including records that benefited from
+> OCLC's data enhancement as per Karen's msg.
+> http://openmetadata.lib.harvard.edu/
+>
+>
+>
+> - David Weinberger
+>
+>
+>
+> On Fri, Feb 14, 2014 at 6:34 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+> That's very good news. Do we assume that the records originally "belonged"
+> to OCLC because they built the system. Is there anything specially related
+> to national libraries in this?
+>
+>
+>
+> When we started the JISC Open Bibliography project (was it 5 years ago?) one
+> goal was to work with the BL on Open Bibliography and during the project
+> they released the Brit Nat Bibliography as CC0. Other national libraries
+> have followed suit. So can we now make an effective case that this should be
+> the norm for all national libraries?
+>
+>
+>
+> P
+>
+>
+>
+> On Fri, Feb 14, 2014 at 10:27 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>
+> I don't have the details of the contract, but I have learned that, after
+> about 10 years of discussions, OCLC has agreed that the National Library of
+> Sweden can release OCLC-derived records in its LIBRIS catalog under a CC0
+> license. This is good news, and let's hope that it sets a precedent for
+> other libraries.
+>
+> kc
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> m: 1-510-435-8234
+> skype: kcoylenet
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-bibliography
+>
+
+From announce at dublincore.net  Sun Feb 23 03:01:44 2014
+From: announce at dublincore.net (DCMI Announce)
+Date: Sat, 22 Feb 2014 19:01:44 -0800
+Subject: [open-bibliography] DCMI Regional Meeting: "Making Metadata Work",
+	London, 23 June 2014
+Message-ID: <CAP884EwbzxxDdt8pQ7kLN7e836HDa8ogfRpwVnnMZ2g+GLRPAQ@mail.gmail.com>
+
+*** Apologies for cross-postings ***
+
+[image: Inline image 2]
+
+*MAKING METADATA WORK*
+DCMI Regional Meeting with ISKO-UK & IRSG
+
+-------------------------------------
+*Date:* Monday 23rd June 2014 -
+*Location:* BCS Office, 5 Southampton Street, London WC2E 7HA.
+*Websites:* http://www.iskouk.org/events/metadata_June_2014.htm
+                  http://dcevents.dublincore.org/BibData/mmw/
+-------------------------------------
+
+This event will be a showcase for the latest developments in the evolution
+of the Semantic Web, exploitation of Knowledge Organization Systems (KOS),
+metadata annotation to aid workflow automation, information retrieval in
+networks of diverse media assets, Linked Data, and other opportunities for
+using metadata. It is a Joint Meeting of ISKO UK, IRSG (Information
+Retrieval Special Interest Group of BCS, the Chartered Institute for IT)
+and DCMI (Dublin Core Metadata Initiative). The day will be modular:
+attendance in the morning is optional, with a choice of workshop or
+tutorial, while the afternoon program is for everyone.
+
+*MORNING OPTIONS:*
+
+*a) Tutorial: Metadata management in Sharepoint (10.00 - 12.00)*
+
+While Sharepoint 2013 offers more metadata capabilities than ever before,
+the range of options can make it hard to implement the most effective way.
+Management of controlled vocabularies is a particular challenge. This
+tutorial will enable you to pick the brains of an experienced consultant,
+Marc Stephenson of Metataxis.
+
+*b) Workshop: Vocabularies and the potential for linkage (9.30 - 12.30)*
+
+Various approaches to the linkage of value vocabularies (KOSs) and/or
+element set vocabularies (metadata schemas) will be described by *Pierre-Yves
+Vandenbussche* (Fujitsu, Ireland), *Dan Brickley* (Google), *Gordon Dunsire*
+ and *Stella Dextre Clarke*, with emphasis on the opportunities as well as
+the barriers to widespread adoption. After that is a case study from *Johan
+De Smedt* and *Agis Papantoniou*, both of TenForce, that draws on more than
+one technique. The subsequent discussion will address the prospects for
+take-up, aiming to help participants with application or development of
+similar techniques and projects.
+
+*AFTERNOON MEETING (Plenary, 14.00 - 18.00)*
+
+--*Martin White*: The importance of metadata for high quality Search
+--*Sean Bechhofer*: Wf4Ever: metadata for "Research Objects"
+--*Mark Sandler*: Semantic Media: a new paradigm for navigable content for
+the 21st century
+--*Richard Ranft*: Enhancing discovery of the British Library's audio
+collections
+--*Antoine Isaac*: A portrait of Europeana as a Linked Open Data case (in
+progress)
+--*Andrew MacFarlane*: Analysing creative image search queries to determine
+important facets
+
+Followed by networking, wine and nibbles from 18.00.
+
+*REGISTRATION FEE & BOOKING:*
+
+--*Full day,* including lunch and a choice of tutorial or workshop: ?120
+(or ?70 for members of ISKO, IRSG or DCMI and for full-time students);
+--*Afternoon only:* ?60 (or ?25 for members of ISKO, IRSG or DCMI and for
+full-time students).
+--*Registration: * <
+http://www.iskouk.org/events/metadata_June_2014.htm#Booking<http://www.iskouk.org/events/metadata_June_2014.htm#introduction>
+>
+
+*To avoid disappointment, please don't delay in booking.*
+
+-------------------------------------
+*About ISKO UK*
+ISKO (International Society for Knowledge Organization) is a not-for-profit
+scientific/professional association with the objective of promoting
+research and communication in the domain of knowledge organization, within
+the broad field of information science and related disciplines. Founded in
+2007, our UK Chapter has been attracting lively and steadily growing
+audiences to its afternoon meeting series (see slides and recordings at
+http://www.iskouk.org/events.htm). Its third conference was held in July
+2013 on the general theme of "Knowledge organization - pushing the
+boundaries" http://www.iskouk.org/conf2013/.
+
+*About BCS IRSG*
+Established in 1978, the main aim of the BCS IRSG is supporting the
+communication between information retrieval (IR) researchers and
+practitioners, promoting the use of IR methods in industry and raising
+public awareness of IR-related topics. Recognizing IR as an
+interdisciplinary field, a further aim of the BCS IRSG is to act as a link
+between computer science, library and information science and also cognate
+communities (like natural language processing).
+
+*About DCMI*
+The Dublin Core Metadata Initiative (DCMI) is an open, international forum
+for the development of interoperable online metadata standards with diverse
+applications. DCMI's activities include consensus-driven working groups,
+global conferences and workshops, standards liaison, and educational
+efforts to promote widespread acceptance of metadata standards and
+practices. DCMI is a project of ASIS&T (the Association for Information
+Science and Technology).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140222/3d9d12a2/attachment.html>
+

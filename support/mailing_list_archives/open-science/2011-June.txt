@@ -1,0 +1,3835 @@
+From jenny.molloy at okfn.org  Thu Jun  2 00:48:50 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 2 Jun 2011 00:48:50 +0100
+Subject: [open-science] Minutes from WG Meeting May 11 2011
+Message-ID: <BANLkTimnnkmZtDt9zBho6oz2qWTHmYMPZg@mail.gmail.com>
+
+Dear All
+
+See below for a delayed summary of key points from the WG meeting on May 11
+2011, followed by a list of interesting events that are coming up and some
+recent articles or publications featuring working group members. It you spot
+articles that could be included in the next round up, please add them to the
+next meeting Etherpad! http://okfnpad.org/sciencewg-15Jun2011
+
+If you?d like more detailed updates on projects or to view the full minutes,
+visit the meeting Etherpad at http://okfnpad.org/sciencewg-11May2011.
+The next meeting will be Wednesday 15th June, 17:30 GMT. You can sign up and
+add agenda items here http://okfnpad.org/sciencewg-15Jun2011.
+*
+UPDATES:*
+
+1) Panton Principle Publicity:
+
+Graham Steel has been liaising with BioMedCentral with regard to a web
+banner for the Panton Principles. Following a vote on a range of taglines, a
+unanimous verdict was returned in favour of "Open data means better
+science". However, a special commendation to Puneet for /because you don't
+want to be caught with your pantoff/. Maybe next time...
+
+To illustrate what the Panton Principles would like to achieve it would be
+great to have some case studies on the website. Several ideas have been
+suggested at previous meetings, but please add your ideas to the relevant
+section of the next agenda http://okfnpad.org/sciencewg-15Jun2011 and we
+will have a collaborative drafting session on Monday 20th June, ~1730 UTC
+(more details to follow)
+
+Translations: Please see the current list at
+http://pantonprinciples.org/translations/ - if you could add a translation
+or think you know someone who could then please do get in touch!
+
+2) SWAT4LS Workshop:
+
+The working group will be organising a hackathon in conjunction with the
+SWAT4LS conference in late Nov/early Dec
+The focus will be mapping open malaria research, and an earlier session will
+be planned to set the foundations for participants to build on, so watch
+this space!
+
+If anyone knows of an organisation that might sponsor an event such as this,
+please drop me an email!
+http://okfnpad.org/sciencewg-15Jun2011.
+http://okfnpad.org/sciencewg-15Jun2011.
+http://okfnpad.org/sciencewg-15Jun2011.
+*
+*3) Draft of step by step guide to data licensing for 'Managing and Sharing
+Data - best practice for researchers' guide
+
+The UK Data Archive has just published the 3rd edition of its 'Managing and
+Sharing Data - best practice for researchers' guide.
+It is available online at: *
+http://www.data-archive.ac.uk/media/2894/managingsharing.pdf*<http://www.data-archive.ac.uk/media/2894/managingsharing.pdf>
+
+We have been given the opportunity to contribute to the next edition and
+give open data a more prominent place within the guide. If you would be keen
+to contribute to this then please email me. All drafts will be put to the
+working group for comment.
+
+4) EC Commission Communication on scientific information in the digital age
+(30 May)
+http://science.okfn.org/2011/05/11/european-commission-hearing-on-scientific-information-bringing-open-scientific-data-onto-the-european-agenda/
+
+Both Cameron Neylon and Diane Cabell attended this hearing.
+
+5) Royal Society Open Science Call for Evidence
+
+In addition to a townhall meeting in London, a formal call has been issued
+for evidence for the Royal Society policy study Science as a public
+enterprise: opening up scientific
+information<http://royalsociety.org/policy/sape>
+.
+
+More details on how to contribute are at the link above or here:
+http://science.okfn.org/2011/05/19/royal-society-townhall-meeting-on-open-science/
+
+The working group will a submission so If you?re interested in helping to
+formulate it then email me at jenny.molloy at okfn.org or come along to the
+next Skype meeting on 15th June 1730 UTC.
+
+*
+UPCOMING EVENTS:*
+
+8 Jun, Southbank Centre London - Royal Society Townhall Meeting on Open
+Science
+More details and registration instructions:
+http://science.okfn.org/2011/05/19/royal-society-townhall-meeting-on-open-science/
+
+14/15 Jun, Koblenz, Germany - altmetrics11: Tracking scholarly impact on the
+social Web
+See http://altmetrics.org/workshop2011/ for more information
+
+30 Jun/1 Jul, Kalkscheune, Berlin - OKCon 2011
+See the website at http://okcon.org/2011/ for more details and to register.
+
+*ARTICLES/REPORTS* (either mentioning or written by working group members!):
+
+6 May - BioMedCentral Research Awards Photos and Videos (Peter Murray-Rust
+and others involved in judging the Open Data Award)
+http://www.biomedcentral.com/researchawards/photos/
+Blog post by winner:
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/on_the_unbearable_lightness_of
+
+11 May - Beyond Impact Workshop http://beyond-impact.org/ (organised by
+Cameron Neylon)
+Extensive Etherpads
+http://friendfeed.com/cameronneylon/7bcc8362/index-for-beyondimpact-etherpads-containingand
+documentation.
+
+11 May - Wired article on Free Science (Cameron Neylon, Peter
+Murray-Rust, Michael
+Nielsen)
+http://www.wired.com/wiredscience/2011/05/free-science-one-paper-at-a-time-2/
+
+19 May - Nature Correspondence article on data archiving (Heather Piwowar,
+Todd Vision)
+http://www.nature.com/nature/journal/v473/n7347/full/473285a.html
+
+22 May - Guardian Article on Open Science (Cameron Neylon, Rufus Pollock)
+http://www.guardian.co.uk/education/2011/may/22/open-science-shared-research-internet
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110602/17ec69c4/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Mon Jun  6 02:20:15 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Mon, 6 Jun 2011 02:20:15 +0100
+Subject: [open-science] Panton Principles date for citations
+Message-ID: <BANLkTimQbAEz1EyBnXoB5csHzeBOfhg0-w@mail.gmail.com>
+
+Hi All
+
+Claudia requests below that we add a launch date to the Panton Principles to
+make them more citeable.
+The launch date was 19 Feb 2010 but you currently have to click through to
+the OKFN blog from http://pantonprinciples.org/about/ to find that out.
+
+If no one objects, I can add the date at the bottom of the main Principles
+page. Let me know if you think there is a better way of doing this!
+
+Jenny
+
+---------- Forwarded message ----------
+From: <koltzenburg at w4w.net>
+Date: Mon, May 2, 2011 at 5:10 PM
+Subject: [okfn-discuss] add OKD launch date
+To: okfn-discuss at lists.okfn.org
+
+
+ Hi all,
+
+could the launch date of OKD
+http://blog.okfn.org/2005/10/19/open-knowledge-definition-released/
+be added to
+http://www.opendefinition.org/okd/
+
+or maybe the date of version 1.1?
+
+see also
+http://pantonprinciples.org/ add a date to the principles? (via
+http://ff.im/CsynH)
+
+makes it "citable"
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110606/41102d9b/attachment.htm>
+
+From jenny.molloy at okfn.org  Mon Jun  6 10:24:00 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 6 Jun 2011 10:24:00 +0100
+Subject: [open-science] WG Members at the Royal Society Town Hall Meeting
+	(Wednesday 8 June)
+Message-ID: <BANLkTim-wWCrB_BUVqcs5tc1ES8dtU6JnQ@mail.gmail.com>
+
+Dear All
+
+So far as I know, the following members of the working group will be at the
+Royal Society Town Hall meeting on Open Science in London on Wednesday
+(More info here:
+http://science.okfn.org/2011/05/19/royal-society-townhall-meeting-on-open-science/
+):
+
+Peter Murray-Rust
+Diane Cabell
+Jenny Molloy
+
+Let me know if you're also planning to attend, it would be great if we could
+all say hi at some point. I'll post a report on how it goes and any
+interesting points that come up to the mailing list and blog later in the
+week, so stay tuned!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110606/460889b8/attachment.htm>
+
+From A.G.D.Turner at leeds.ac.uk  Mon Jun  6 10:55:45 2011
+From: A.G.D.Turner at leeds.ac.uk (Andy Turner)
+Date: Mon, 6 Jun 2011 10:55:45 +0100
+Subject: [open-science] Panton Principles date for citations
+In-Reply-To: <BANLkTimQbAEz1EyBnXoB5csHzeBOfhg0-w@mail.gmail.com>
+References: <BANLkTimQbAEz1EyBnXoB5csHzeBOfhg0-w@mail.gmail.com>
+Message-ID: <03FEE575BFE70B4AA3BB5014DC59648B01887CDF1889@HERMES8.ds.leeds.ac.uk>
+
+Maybe also add a suggested citation/reference in the document for users to copy and paste.
+
+Andy
+http://www.geog.leeds.ac.uk/people/a.turner/
+
+From: open-science-bounces at lists.okfn.org [mailto:open-science-bounces at lists.okfn.org] On Behalf Of Jenny Molloy
+Sent: 06 June 2011 02:20
+To: open-science at lists.okfn.org
+Subject: [open-science] Panton Principles date for citations
+
+Hi All
+
+Claudia requests below that we add a launch date to the Panton Principles to make them more citeable.
+The launch date was 19 Feb 2010 but you currently have to click through to the OKFN blog from http://pantonprinciples.org/about/ to find that out.
+
+If no one objects, I can add the date at the bottom of the main Principles page. Let me know if you think there is a better way of doing this!
+
+Jenny
+---------- Forwarded message ----------
+From: <koltzenburg at w4w.net<mailto:koltzenburg at w4w.net>>
+Date: Mon, May 2, 2011 at 5:10 PM
+Subject: [okfn-discuss] add OKD launch date
+To: okfn-discuss at lists.okfn.org<mailto:okfn-discuss at lists.okfn.org>
+
+Hi all,
+
+could the launch date of OKD
+http://blog.okfn.org/2005/10/19/open-knowledge-definition-released/
+be added to
+http://www.opendefinition.org/okd/
+
+or maybe the date of version 1.1?
+
+see also
+http://pantonprinciples.org/ add a date to the principles? (via http://ff.im/CsynH)
+
+makes it "citable"
+
+thanks & cheers,
+Claudia
+koltzenburg at w4w.net<mailto:koltzenburg at w4w.net>
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org<mailto:okfn-discuss at lists.okfn.org>
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110606/dbbcb375/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Jun  6 11:43:09 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 6 Jun 2011 11:43:09 +0100
+Subject: [open-science] WG Members at the Royal Society Town Hall
+ Meeting (Wednesday 8 June)
+In-Reply-To: <BANLkTim-wWCrB_BUVqcs5tc1ES8dtU6JnQ@mail.gmail.com>
+References: <BANLkTim-wWCrB_BUVqcs5tc1ES8dtU6JnQ@mail.gmail.com>
+Message-ID: <BANLkTinxX4ZRtDBkYTgusWKrVgdKOTVzhA@mail.gmail.com>
+
+On Mon, Jun 6, 2011 at 10:24 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> So far as I know, the following members of the working group will be at the
+> Royal Society Town Hall meeting on Open Science in London on Wednesday
+> (More info here:
+> http://science.okfn.org/2011/05/19/royal-society-townhall-meeting-on-open-science/
+> ):
+>
+
+Thanks for reminding me, Jenny (though it was in the diary). I can get down
+earlier so we could meet for lunch.
+
+>
+> Peter Murray-Rust
+> Diane Cabell
+> Jenny Molloy
+>
+> Let me know if you're also planning to attend, it would be great if we
+> could all say hi at some point. I'll post a report on how it goes and any
+> interesting points that come up to the mailing list and blog later in the
+> week, so stay tuned!
+>
+> Off the top of my head... we should stress
+* open scholarship - Access, Bib, Citations, Data and anything else
+* funder mandates and support for Open science
+
+P.
+
+Jenny
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110606/40e29251/attachment.htm>
+
+From daniel.dietrich at okfn.org  Thu Jun  9 21:21:21 2011
+From: daniel.dietrich at okfn.org (Daniel Dietrich)
+Date: Thu, 9 Jun 2011 22:21:21 +0200
+Subject: [open-science] OKCon Community Discount and Project Promotional
+	Items
+Message-ID: <48632BE3-BD32-42C8-87F4-E07B05A1A331@okfn.org>
+
+Dear all,
+
+As you will be aware OKCon 2011 is approaching fast. We are delighted to announce the release of the OKCon 2011 programme:
+
+        http://okcon.org/2011/programme
+
+We are also thrilled about the fantastic line up of speakers:
+
+        http://okcon.org/2011/speakers
+
+OKCon will be buzzing with open knowledge and open data enthusiasts and is an excellent opportunity to distribute promotional items to get people involved in your projects. If you have business cards, banners, flyers, posters or stickers to promote a projects we will gladly help to find space to display them at the venue. 
+
+If anyone would like to post items to Germany ahead of the conference, please send them to the OKF Germany office and we will make sure they get to the conference venue for you. 
+
+OKF Deutschland, Prenzlauer Allee 217, 10405 Berlin, Germany
+
+We're really excited about the lineup and to make sure members of the community, working groups and community ambassadors don't miss out, we have created the special *discount code*: OKFCOMMUNITY for a ?15 discount on your ticket. Simply enter the code when registering at http://okcon2011.eventbrite.com/
+
+We look forward to meeting you at our wonderful venue, Kalkscheune http://www.kalkscheune.de/en
+
+All the best
+Daniel
+
+
+
+
+--
+Daniel Dietrich
+
+The Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+www.okfn.org  -  www.opendefinition.org
+
+Mail: daniel.dietrich at okfn.org
+Mobil: +49 171 780 870 3
+Twitter: @ddie
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110609/60471987/attachment.htm>
+
+From jenny.molloy at okfn.org  Sun Jun 12 23:43:45 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 12 Jun 2011 23:43:45 +0100
+Subject: [open-science] Working Group Meeting - Wed 15 Jun, 17.30 UTC/GMT
+Message-ID: <BANLkTikAw+-JunjYkcP9W9+d3_t2ZsYU3g@mail.gmail.com>
+
+Dear All
+
+The next working group meeting is coming up on Wednesday, if you have any
+proposals for activities the working group could get involved with, events
+or projects that are coming up or you'd just like to ask for opinions on
+something then do add them to the agenda and join us!
+
+When:      Wednesday 15 June at 17.30 UTC/GMT (18.30 UK time)
+Location:  Etherpad  http://okfnpad.org/sciencewg-15Jun2011 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-15Jun2011
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Thanks very much, hopefully speak to you all soon!
+
+Jenny
+
+-------------------
+Current Agenda:
+
+* Case studies for Panton Principles website (20th June writing session?)
+* Report from Royal Society Meeting and ideas for wg contribution to Call
+for Evidence http://royalsociety.org/policy/sape/call-for-evidence/
+* Report from EC Hearing on Scientific Information (if Diane or Cameron
+present!)
+* Progress on contribution to UK Data Archive sharing data guide
+http://science.okfnpad.org/ukdataarchiveguide
+* PP publicity material update and ideas
+* Progress report on organising hackathon at SWAT4LS (comments on workshop
+description)
+* What every OKF working group should have http://coord.okfnpad.org/wg-plan.
+How are we doing?
+* AOB
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110612/b82de63d/attachment.htm>
+
+From jenny.molloy at okfn.org  Mon Jun 13 00:47:51 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 13 Jun 2011 00:47:51 +0100
+Subject: [open-science] Panton Principles Publicity
+Message-ID: <BANLkTimX+nn5Dz9VZ8tZyTjCVN3AU5D7TQ@mail.gmail.com>
+
+Hi All
+
+See below for a conversation Maria and I have been having regarding
+publicity for the Panton Principles (PP from here on in!). It started when I
+shared a poster design:
+http://tinyurl.com/6gj2e6v
+
+Since, some very interesting points have come up. As a quick summary for
+those who don't want to read the whole conversation:
+
+- Would a PP logo be a good thing to have? Should we have a design
+contest/request ideas and submission?
+- Peter came up with a tagline for a web banner of 'Open data means better
+science', could a question directly addressing the community be more
+engaging for the poster?
+- Would a design like this
+http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too childish?
+- What makes open data in science unique compared to open data in other
+fields and how could we incorporate this into our messages/publicity?
+*
+*Any comments, opinions, design ideas etc are most welcome!
+
+Jenny*
+
+From:* Jenny Molloy <jenny.molloy at okfn.org>
+*To:* maria <adresamariei at yahoo.co.uk>
+*Sent:* Monday, 6 June 2011, 10:19
+*Subject:* Re: Working Group on Open Data in Science
+
+Hi Maria
+
+Thanks for the comments, all very good points!
+
+On Fri, Jun 3, 2011 at 5:38 PM, maria <adresamariei at yahoo.co.uk> wrote:
+
+Hi Jenny,
+
+Sorry for being late with my reply.
+I took a look at the poster and I really like it.
+Trying to be critical, I might have some suggestions:
+
+- in terms of the elements included, I was wondering if it would be a good
+idea to include the ofkn logo, together with a possible logo for the Panton
+principles themselves?
+
+
+We currently don't have a PP logo and with just the OKF logo it looks a
+little unbalanced, but I have been trying to come up with a PP logo for
+quite a while now, and getting nowhere. I think it needs to be a
+collaborative effort (preferably involving more creative people than me!).
+Do you have any ideas as to what make a good logo? I was trying to do
+something simple with two Ps but had exactly the same problem you describe
+below in that it had no relation to open data in science.
+
+*Maybe we can launch a logo design contest? Or choose something from the
+T-shirt competition for Open Data (
+http://blog.okfn.org/2011/06/07/okf-t-shirt-competition/) - like a special
+prize for something that would potentially be turned into a PP logo?*
+
+
+
+- The website is with red, while the poster is with green, maybe a
+consistency in tems of colours/style/font will make it memorable?
+
+
+I agree, we definitely need a consistent theme, but I found red, white and
+black a little restrictive when it came to poster design. Originally I was
+looking at going for this sort of style:
+http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/
+What do you think of that? The elements of the current poster could probably
+be retained along with your suggestions below and it would be more
+consistent with the website (although the website can easily be changed
+
+*This style is lovely, I would fall for it immediately! The only challenge
+would be to keep it not too childish.. (it would work perfect I guess for
+advocating PP for the general public. I wonder if 'scientists' would
+resonate - and now I'm playing Devil's advocate.*
+*How about this style, just black on white, and with a coloured logo. And
+with some science elements (like equations, a dna structure....)*
+
+I'm glad you like it! I think we could keep it out of the childish region
+relatively easily. I like the idea of incorporating science elements and I
+think we should keep it simple, but some colour would help draw attention
+probably. We could play with that later. Maybe we could sketch some quick
+ideas exchange them via scanning and emailing? I have some time next weekend
+to try and be a bit creative!
+
+
+- the poster presents the three main principles/steps. Maybe the original
+idea is to simply create awareness and to keep the message as simple as
+possible... but if there is space for some more content, I would put an
+intriguiting question/a message for making the principles highly
+relevant/desirable/ or simply to help the viewer understand the message without
+needing him to go to the website in order to figure it out,(now I'm
+reffering to a general public, but maybe I am wrong and your target are the
+scientific communities who.... are/aren't familiar with the idea?)
+
+
+The idea was very much to get the name out there and try to encourage people
+to log on to the website, and we were targetting scientists (the idea was
+that this could go up on department noticeboards) but a question or tagline
+would be good. We came up for one for a web banner 'Open data means better
+science' - if we can think of an intriguing question that might be even
+better!
+
+*If we address communities directly, maybe: "Want better science? Open your
+data. (find out how)" Just an idea..*
+
+
+
+- the benefit of a more explicit message (or possibly rethinking the images)
+can also be argued like this: If the poster remains the same and we change
+the title- instead of 'Panton Principles' with 'Creative Ideas', 'New Media
+Content', 'Open Design' or simply any kind of 'Resources' - then the poster
+would still make sense, as the circle images are general/stereotypical and
+the three principles are appliable to any kind of 'Openness' movement.
+(ok, :) not all the images, except the left one with the dna code, but
+still, this also can represent just 'knowledge'). Maybe it would be better
+to find something that is specificly oriented towards science and what does
+it mean to open data from the scientific domain towards the public one?
+
+
+It would be better, I just couldn't do it! Any ideas you have would be very
+welcome, we can also throw this discussion open to the mailing list if you
+don't mind your comments being forwarded?
+
+*Please be free to forward any of my messages. Just some thoughts on the
+particularities of open data in science: for me, it means a change of
+thinking- science is as competitive as business or any other domain. As the
+social constructivism of science claims, there si no objective truth there
+to be discovered. It is everything an intertwined web of social, economical,
+political and technological developments, and elements like:  phd funding,
+peer-reviews, universities agenda, sponsors of innovation organisations, the
+rush to be published and recognised by the scientific community- the
+prestige of being quoted, the rush to be the first one coming up with a new
+discovery, the avidity of being validated by older peers, or, on the
+contrary, to disqualify the big theoreticians ..... they are all part of
+this web and its results. Things can be different in a zillion ways, when it
+comes to innovation.*
+*
+*
+*As I experience it in the academic world (and I am just at my master level)
+is this fierce competition between people can be quite dramatic. Bruno
+Latour writes excellent about this inner mechanisms (if you are curiouse,
+take a look here:
+http://www.bruno-latour.fr/livres/MTP-TABLE%20OF%20CONTENTS.html Making
+things Public, Re-assembling the Social)*
+*
+*
+*Panton Principles hit a very sensitive point in the scientific community. *
+*Let's put it in the 'worst scenario' case: the mission is to convince a
+community of individuals sensitive about recognition and solitary results,
+to collaborate, share, and do it together.*
+*And it has to pay off something more valuable than it pays now. *
+*Mobility, Recognition and prestige are always good motivators and I guess
+there is no other way. Can we think of a system of recognition within Panton
+Principles?
+*
+*To attach to the Panton Principles the idea of a great reputation.*
+*
+*
+*Thought: Bruno Latour would be a great key opinion leader in the community.
+*
+*Maybe we can develop a Panton  Principles Manifesto? And 'attack' the
+scientific community from two sides: bottom-up (hackers, hacktivists and the
+rest of the cool guys) and from above (key opinion leaders - people that
+have high chances to publish real fast something about the manifesto).*
+
+I think the Principles themselves are the manifesto, but getting opinion
+leaders to endorse and publicise them would be great. We should also look at
+the website and how it records endorsements, it might be nice to get a
+counter on there now there are already quite a few.
+
+
+- what is unique about open data in science, in comparison with other sets
+of open data/open data in general?
+
+
+I suppose that as opposed to e.g. government data it has always been
+explicitly intended for reuse and redistribution, because that's how science
+works. However, it is difficult to reuse because access is often controlled
+by journals as opposed to the data generators/providers (the scientists) -
+in other domains there is no middle party, and there is currently little
+reward/recognition for scientists publishing data openly. Also, just the
+fact that so much can be done with it! Genuinely new results can be
+generated (rather than standard analyses or interesting visualisations)
+alongside the advatange of improving quality and being better able to spot
+mistakes/discrepancies which is common to most fields of open data. Those
+were the first things that came to mind, but this is probably one to open to
+the mailing list because there are people there who have thought about this
+a lot more than me. Also, I'm not sure my points help in terms of poster
+design but somebody else's might.
+
+
+
+- may I ask who is the target/where will it be published?
+
+
+The target initially were scientists who don't already know much about the
+open data movement, the idea was that it could be sent to University science
+departments to be put up on noticeboards, although obviously if we get a
+design that is good for the public as well then all the better!
+
+*Great! Besides universities and research centres, maybe it would be also
+fruitful here: http://www.4sonline.org/ It would be a great dissemination
+platform (online and at the conference itself). Maybe someone from the Open
+Knowledge Foundation can have a short presentation there about ....And other
+portals and conferences as well...*
+*Maybe I can help with some online research on this and provide you with a
+list of contacts? *
+
+That sounds great! If you identify events/conferences etc where this could
+be discussed it is always worth dropping an email to the mailing list as
+someone may already be planning to go, or may not have heard of it but would
+like to. A list of contacts would be an excellent start, and we can try to
+encourage as many people as possible to visit the website and endorse the
+Principles.
+
+Let me know if you're happy for us to move this discussion to the mailing
+list as I think some really interesting points could come out of it! Speak
+to you soon
+
+*Great, of course! Keep in touch!*
+
+Jenny
+
+
+
+Thank you!
+
+Keep in touch,
+
+Maria
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110613/c7a682e5/attachment-0001.htm>
+
+From tjv at bio.unc.edu  Mon Jun 13 02:36:07 2011
+From: tjv at bio.unc.edu (Vision, Todd J)
+Date: Mon, 13 Jun 2011 01:36:07 +0000
+Subject: [open-science] Panton Principles Publicity
+In-Reply-To: <mailman.15082.1307922499.30689.open-science@lists.okfn.org>
+References: <mailman.15082.1307922499.30689.open-science@lists.okfn.org>
+Message-ID: <AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+
+The poster looks slick!   But I worry that use of the term 'sharing' is not helping to reach out to the unconverted within the scientific community.  Scientists are more likely to recognize common cause with the PP when the issue is framed in terms of bolstering the scientific method, not when when it calls for behavior (altruistic sharing) that run counter to how 'competitive-collaborative' science is conducted.  Most scientists think of 'sharing' data with collaborators only if and when they can advance their own research.   We don't ask scientists to 'share' their manuscripts (an altruistic act), but rather to publish their manuscripts (a professional obligation but one that brings rewards).  So 'Replicate' -> 'Reuse' -> 'Revolutionize' might be closer to a message that would resonate outside of the choir, and convey the sense that 'open data means better science'.  'Replicate' might not be the perfect term either, though it does at least have the virtue of starting with an 'R'! 
+
+cheers,
+Todd
+
+---
+Todd Vision
+Associate Professor of Biology
+University of North Carolina at Chapel Hill
+
+
+> See below for a conversation Maria and I have been having regarding
+> publicity for the Panton Principles (PP from here on in!). It started when I
+> shared a poster design:
+> http://tinyurl.com/6gj2e6v
+> 
+> Since, some very interesting points have come up. As a quick summary for
+> those who don't want to read the whole conversation:
+> 
+> - Would a PP logo be a good thing to have? Should we have a design
+> contest/request ideas and submission?
+> - Peter came up with a tagline for a web banner of 'Open data means better
+> science', could a question directly addressing the community be more
+> engaging for the poster?
+> - Would a design like this
+> http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too childish?
+> - What makes open data in science unique compared to open data in other
+> fields and how could we incorporate this into our messages/publicity?
+> 
+> Any comments, opinions, design ideas etc are most welcome!
+> 
+> Jenny
+
+
+
+
+
+From hpiwowar at gmail.com  Mon Jun 13 02:47:39 2011
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Sun, 12 Jun 2011 18:47:39 -0700
+Subject: [open-science] Panton Principles Publicity
+In-Reply-To: <AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+References: <mailman.15082.1307922499.30689.open-science@lists.okfn.org>
+	<AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+Message-ID: <BANLkTi=QYgw7RY+Ap1EHEBgN8ThkSZP5PA@mail.gmail.com>
+
+Agreed on coolness of poster, and also the benefits of a word other than
+"share."
+
+"Release" is another candidate.  "Data release" works well as a parallel to
+"code release."
+
+Heather
+
+--
+Heather Piwowar
+DataONE postdoc with NESCent and Dryad
+  studying research data sharing and reuse
+  remotely from Dept of Zoology, UBC, Vancouver Canada
+http://researchremix.org
+@researchremix <http://twitter.com/#!/researchremix>
+
+
+
+
+On Sun, Jun 12, 2011 at 6:36 PM, Vision, Todd J <tjv at bio.unc.edu> wrote:
+
+> The poster looks slick!   But I worry that use of the term 'sharing' is not
+> helping to reach out to the unconverted within the scientific community.
+>  Scientists are more likely to recognize common cause with the PP when the
+> issue is framed in terms of bolstering the scientific method, not when when
+> it calls for behavior (altruistic sharing) that run counter to how
+> 'competitive-collaborative' science is conducted.  Most scientists think of
+> 'sharing' data with collaborators only if and when they can advance their
+> own research.   We don't ask scientists to 'share' their manuscripts (an
+> altruistic act), but rather to publish their manuscripts (a professional
+> obligation but one that brings rewards).  So 'Replicate' -> 'Reuse' ->
+> 'Revolutionize' might be closer to a message that would resonate outside of
+> the choir, and convey the sense that 'open data means better science'.
+>  'Replicate' might not be the perfect term either, though it does at least
+> have the virtue of starting with an 'R'!
+>
+> cheers,
+> Todd
+>
+> ---
+> Todd Vision
+> Associate Professor of Biology
+> University of North Carolina at Chapel Hill
+>
+>
+> > See below for a conversation Maria and I have been having regarding
+> > publicity for the Panton Principles (PP from here on in!). It started
+> when I
+> > shared a poster design:
+> > http://tinyurl.com/6gj2e6v
+> >
+> > Since, some very interesting points have come up. As a quick summary for
+> > those who don't want to read the whole conversation:
+> >
+> > - Would a PP logo be a good thing to have? Should we have a design
+> > contest/request ideas and submission?
+> > - Peter came up with a tagline for a web banner of 'Open data means
+> better
+> > science', could a question directly addressing the community be more
+> > engaging for the poster?
+> > - Would a design like this
+> > http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too
+> childish?
+> > - What makes open data in science unique compared to open data in other
+> > fields and how could we incorporate this into our messages/publicity?
+> >
+> > Any comments, opinions, design ideas etc are most welcome!
+> >
+> > Jenny
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110612/f9fccb51/attachment.htm>
+
+From cameron.neylon at stfc.ac.uk  Mon Jun 13 09:34:34 2011
+From: cameron.neylon at stfc.ac.uk (cameron.neylon at stfc.ac.uk)
+Date: Mon, 13 Jun 2011 08:34:34 +0000
+Subject: [open-science] Panton Principles Publicity
+In-Reply-To: <BANLkTi=QYgw7RY+Ap1EHEBgN8ThkSZP5PA@mail.gmail.com>
+References: <mailman.15082.1307922499.30689.open-science@lists.okfn.org>
+	<AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+	<BANLkTi=QYgw7RY+Ap1EHEBgN8ThkSZP5PA@mail.gmail.com>
+Message-ID: <19A6F4F2-AFBF-4CC9-94EC-CDABC7AE7D3E@stfc.ac.uk>
+
+I'd be inclined to actually go with Publish...presses all the right traditional buttons and the principles themselves are very specific in focussing on "published data from public science" so if it is part of the push to "publish your data" then I think that works. PP was less about publishing more data and more about publishing more effectively.
+
+Cheers
+
+Cameron
+
+
+On 13 Jun 2011, at 02:47, Heather Piwowar wrote:
+
+> Agreed on coolness of poster, and also the benefits of a word other than "share."
+> 
+> "Release" is another candidate.  "Data release" works well as a parallel to "code release." 
+> 
+> Heather
+> 
+> --
+> Heather Piwowar
+> DataONE postdoc with NESCent and Dryad
+>   studying research data sharing and reuse
+>   remotely from Dept of Zoology, UBC, Vancouver Canada
+> http://researchremix.org
+> @researchremix
+> 
+> 
+> 
+> 
+> On Sun, Jun 12, 2011 at 6:36 PM, Vision, Todd J <tjv at bio.unc.edu> wrote:
+> The poster looks slick!   But I worry that use of the term 'sharing' is not helping to reach out to the unconverted within the scientific community.  Scientists are more likely to recognize common cause with the PP when the issue is framed in terms of bolstering the scientific method, not when when it calls for behavior (altruistic sharing) that run counter to how 'competitive-collaborative' science is conducted.  Most scientists think of 'sharing' data with collaborators only if and when they can advance their own research.   We don't ask scientists to 'share' their manuscripts (an altruistic act), but rather to publish their manuscripts (a professional obligation but one that brings rewards).  So 'Replicate' -> 'Reuse' -> 'Revolutionize' might be closer to a message that would resonate outside of the choir, and convey the sense that 'open data means better science'.  'Replicate' might not be the perfect term either, though it does at least have the virtue of starting with an 'R'!
+> 
+> cheers,
+> Todd
+> 
+> ---
+> Todd Vision
+> Associate Professor of Biology
+> University of North Carolina at Chapel Hill
+> 
+> 
+> > See below for a conversation Maria and I have been having regarding
+> > publicity for the Panton Principles (PP from here on in!). It started when I
+> > shared a poster design:
+> > http://tinyurl.com/6gj2e6v
+> >
+> > Since, some very interesting points have come up. As a quick summary for
+> > those who don't want to read the whole conversation:
+> >
+> > - Would a PP logo be a good thing to have? Should we have a design
+> > contest/request ideas and submission?
+> > - Peter came up with a tagline for a web banner of 'Open data means better
+> > science', could a question directly addressing the community be more
+> > engaging for the poster?
+> > - Would a design like this
+> > http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too childish?
+> > - What makes open data in science unique compared to open data in other
+> > fields and how could we incorporate this into our messages/publicity?
+> >
+> > Any comments, opinions, design ideas etc are most welcome!
+> >
+> > Jenny
+> 
+> 
+> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+Scanned by iCritical.
+
+
+From pm286 at cam.ac.uk  Mon Jun 13 09:53:05 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 13 Jun 2011 09:53:05 +0100
+Subject: [open-science] Panton Principles Publicity
+In-Reply-To: <BANLkTimX+nn5Dz9VZ8tZyTjCVN3AU5D7TQ@mail.gmail.com>
+References: <BANLkTimX+nn5Dz9VZ8tZyTjCVN3AU5D7TQ@mail.gmail.com>
+Message-ID: <BANLkTi=XjW7GbROG3WxzXACNyqCYotCRNw@mail.gmail.com>
+
+On Mon, Jun 13, 2011 at 12:47 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> See below for a conversation Maria and I have been having regarding
+> publicity for the Panton Principles (PP from here on in!). It started when I
+> shared a poster design:
+> http://tinyurl.com/6gj2e6v
+>
+
+I like this. The second "principles" could be omitted
+
+>
+> Since, some very interesting points have come up. As a quick summary for
+> those who don't want to read the whole conversation:
+>
+> - Would a PP logo be a good thing to have? Should we have a design
+> contest/request ideas and submission?
+> - Peter came up with a tagline for a web banner of 'Open data means better
+> science', could a question directly addressing the community be more
+> engaging for the poster?
+> - Would a design like this
+> http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too childish?
+>
+
+I am open-minded on this. It should be the ONLY one - we will have enough
+detractors without being labelled at the muesli-knitting brigade. So If it's
+one of (say) 5 then it may well attract some people, but it will antagonize
+others.
+
+I DO like Professor Weasel http://www.youtube.com/watch?v=_yVdyprbjJo
+and maybe this could be extended to Open Data.
+
+
+> - What makes open data in science unique compared to open data in other
+> fields and how could we incorporate this into our messages/publicity?
+> *
+> *Any comments, opinions, design ideas etc are most welcome!
+>
+> Jenny*
+>
+> From:* Jenny Molloy <jenny.molloy at okfn.org>
+> *To:* maria <adresamariei at yahoo.co.uk>
+> *Sent:* Monday, 6 June 2011, 10:19
+> *Subject:* Re: Working Group on Open Data in Science
+>
+> Hi Maria
+>
+> Thanks for the comments, all very good points!
+>
+> On Fri, Jun 3, 2011 at 5:38 PM, maria <adresamariei at yahoo.co.uk> wrote:
+>
+> Hi Jenny,
+>
+> Sorry for being late with my reply.
+> I took a look at the poster and I really like it.
+> Trying to be critical, I might have some suggestions:
+>
+> - in terms of the elements included, I was wondering if it would be a good
+> idea to include the ofkn logo, together with a possible logo for the Panton
+> principles themselves?
+>
+>
+> We currently don't have a PP logo and with just the OKF logo it looks a
+> little unbalanced, but I have been trying to come up with a PP logo for
+> quite a while now, and getting nowhere. I think it needs to be a
+> collaborative effort (preferably involving more creative people than me!).
+> Do you have any ideas as to what make a good logo? I was trying to do
+> something simple with two Ps but had exactly the same problem you describe
+> below in that it had no relation to open data in science.
+>
+> *Maybe we can launch a logo design contest? Or choose something from the
+> T-shirt competition for Open Data (
+> http://blog.okfn.org/2011/06/07/okf-t-shirt-competition/) - like a special
+> prize for something that would potentially be turned into a PP logo?*
+>
+>
+>
+> - The website is with red, while the poster is with green, maybe a
+> consistency in tems of colours/style/font will make it memorable?
+>
+>
+> I agree, we definitely need a consistent theme, but I found red, white and
+> black a little restrictive when it came to poster design. Originally I was
+> looking at going for this sort of style:
+> http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/
+> What do you think of that? The elements of the current poster could
+> probably be retained along with your suggestions below and it would be more
+> consistent with the website (although the website can easily be changed
+>
+> *This style is lovely, I would fall for it immediately! The only challenge
+> would be to keep it not too childish.. (it would work perfect I guess for
+> advocating PP for the general public. I wonder if 'scientists' would
+> resonate - and now I'm playing Devil's advocate.*
+> *How about this style, just black on white, and with a coloured logo. And
+> with some science elements (like equations, a dna structure....)*
+>
+> I'm glad you like it! I think we could keep it out of the childish region
+> relatively easily. I like the idea of incorporating science elements and I
+> think we should keep it simple, but some colour would help draw attention
+> probably. We could play with that later. Maybe we could sketch some quick
+> ideas exchange them via scanning and emailing? I have some time next weekend
+> to try and be a bit creative!
+>
+>
+> - the poster presents the three main principles/steps. Maybe the original
+> idea is to simply create awareness and to keep the message as simple as
+> possible... but if there is space for some more content, I would put an
+> intriguiting question/a message for making the principles highly
+> relevant/desirable/ or simply to help the viewer understand the message without
+> needing him to go to the website in order to figure it out,(now I'm
+> reffering to a general public, but maybe I am wrong and your target are the
+> scientific communities who.... are/aren't familiar with the idea?)
+>
+>
+> The idea was very much to get the name out there and try to encourage
+> people to log on to the website, and we were targetting scientists (the idea
+> was that this could go up on department noticeboards) but a question or
+> tagline would be good. We came up for one for a web banner 'Open data means
+> better science' - if we can think of an intriguing question that might be
+> even better!
+>
+> *If we address communities directly, maybe: "Want better science? Open
+> your data. (find out how)" Just an idea..*
+>
+>
+>
+> - the benefit of a more explicit message (or possibly rethinking the
+> images) can also be argued like this: If the poster remains the same and we
+> change the title- instead of 'Panton Principles' with 'Creative Ideas', 'New
+> Media Content', 'Open Design' or simply any kind of 'Resources' - then the
+> poster would still make sense, as the circle images are
+> general/stereotypical and the three principles are appliable to any kind of
+> 'Openness' movement.
+> (ok, :) not all the images, except the left one with the dna code, but
+> still, this also can represent just 'knowledge'). Maybe it would be better
+> to find something that is specificly oriented towards science and what does
+> it mean to open data from the scientific domain towards the public one?
+>
+>
+> It would be better, I just couldn't do it! Any ideas you have would be very
+> welcome, we can also throw this discussion open to the mailing list if you
+> don't mind your comments being forwarded?
+>
+> *Please be free to forward any of my messages. Just some thoughts on the
+> particularities of open data in science: for me, it means a change of
+> thinking- science is as competitive as business or any other domain. As the
+> social constructivism of science claims, there si no objective truth there
+> to be discovered. It is everything an intertwined web of social, economical,
+> political and technological developments, and elements like:  phd funding,
+> peer-reviews, universities agenda, sponsors of innovation organisations, the
+> rush to be published and recognised by the scientific community- the
+> prestige of being quoted, the rush to be the first one coming up with a new
+> discovery, the avidity of being validated by older peers, or, on the
+> contrary, to disqualify the big theoreticians ..... they are all part of
+> this web and its results. Things can be different in a zillion ways, when it
+> comes to innovation.*
+> *
+> *
+> *As I experience it in the academic world (and I am just at my master
+> level) is this fierce competition between people can be quite dramatic.
+> Bruno Latour writes excellent about this inner mechanisms (if you are
+> curiouse, take a look here:
+> http://www.bruno-latour.fr/livres/MTP-TABLE%20OF%20CONTENTS.html Making
+> things Public, Re-assembling the Social)*
+> *
+> *
+> *Panton Principles hit a very sensitive point in the scientific
+> community. *
+> *Let's put it in the 'worst scenario' case: the mission is to convince a
+> community of individuals sensitive about recognition and solitary results,
+> to collaborate, share, and do it together.*
+> *And it has to pay off something more valuable than it pays now. *
+> *Mobility, Recognition and prestige are always good motivators and I guess
+> there is no other way. Can we think of a system of recognition within Panton
+> Principles?
+> *
+> *To attach to the Panton Principles the idea of a great reputation.*
+> *
+> *
+> *Thought: Bruno Latour would be a great key opinion leader in the
+> community.*
+> *Maybe we can develop a Panton  Principles Manifesto? And 'attack' the
+> scientific community from two sides: bottom-up (hackers, hacktivists and the
+> rest of the cool guys) and from above (key opinion leaders - people that
+> have high chances to publish real fast something about the manifesto).*
+>
+> I think the Principles themselves are the manifesto, but getting opinion
+> leaders to endorse and publicise them would be great. We should also look at
+> the website and how it records endorsements, it might be nice to get a
+> counter on there now there are already quite a few.
+>
+>
+> - what is unique about open data in science, in comparison with other sets
+> of open data/open data in general?
+>
+>
+> I suppose that as opposed to e.g. government data it has always been
+> explicitly intended for reuse and redistribution, because that's how science
+> works. However, it is difficult to reuse because access is often controlled
+> by journals as opposed to the data generators/providers (the scientists) -
+> in other domains there is no middle party, and there is currently little
+> reward/recognition for scientists publishing data openly. Also, just the
+> fact that so much can be done with it! Genuinely new results can be
+> generated (rather than standard analyses or interesting visualisations)
+> alongside the advatange of improving quality and being better able to spot
+> mistakes/discrepancies which is common to most fields of open data. Those
+> were the first things that came to mind, but this is probably one to open to
+> the mailing list because there are people there who have thought about this
+> a lot more than me. Also, I'm not sure my points help in terms of poster
+> design but somebody else's might.
+>
+>
+>
+> - may I ask who is the target/where will it be published?
+>
+>
+> The target initially were scientists who don't already know much about the
+> open data movement, the idea was that it could be sent to University science
+> departments to be put up on noticeboards, although obviously if we get a
+> design that is good for the public as well then all the better!
+>
+> *Great! Besides universities and research centres, maybe it would be also
+> fruitful here: http://www.4sonline.org/ It would be a great dissemination
+> platform (online and at the conference itself). Maybe someone from the Open
+> Knowledge Foundation can have a short presentation there about ....And other
+> portals and conferences as well...*
+> *Maybe I can help with some online research on this and provide you with a
+> list of contacts? *
+>
+> That sounds great! If you identify events/conferences etc where this could
+> be discussed it is always worth dropping an email to the mailing list as
+> someone may already be planning to go, or may not have heard of it but would
+> like to. A list of contacts would be an excellent start, and we can try to
+> encourage as many people as possible to visit the website and endorse the
+> Principles.
+>
+> Let me know if you're happy for us to move this discussion to the mailing
+> list as I think some really interesting points could come out of it! Speak
+> to you soon
+>
+> *Great, of course! Keep in touch!*
+>
+> Jenny
+>
+>
+>
+> Thank you!
+>
+> Keep in touch,
+>
+> Maria
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110613/d900b78d/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Mon Jun 13 09:56:35 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 13 Jun 2011 09:56:35 +0100
+Subject: [open-science] Panton Principles Publicity
+In-Reply-To: <AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+References: <mailman.15082.1307922499.30689.open-science@lists.okfn.org>
+	<AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+Message-ID: <BANLkTi=16Rjp8_3dNWPoM4rw47k5L0-P0g@mail.gmail.com>
+
+On Mon, Jun 13, 2011 at 2:36 AM, Vision, Todd J <tjv at bio.unc.edu> wrote:
+
+> The poster looks slick!   But I worry that use of the term 'sharing' is not
+> helping to reach out to the unconverted within the scientific community.
+>  Scientists are more likely to recognize common cause with the PP when the
+> issue is framed in terms of bolstering the scientific method, not when when
+> it calls for behavior (altruistic sharing) that run counter to how
+> 'competitive-collaborative' science is conducted.  Most scientists think of
+> 'sharing' data with collaborators only if and when they can advance their
+> own research.   We don't ask scientists to 'share' their manuscripts (an
+> altruistic act), but rather to publish their manuscripts (a professional
+> obligation but one that brings rewards).  So 'Replicate' -> 'Reuse' ->
+> 'Revolutionize' might be closer to a message that would resonate outside of
+> the choir, and convey the sense that 'open data means better science'.
+>  'Replicate' might not be the perfect term either, though it does at least
+> have the virtue of starting with an 'R'!
+>
+>
+Agreed. "Sharing" will upset some people. "Record" is less likely to be
+objected to.
+
+> cheers,
+> Todd
+>
+> ---
+> Todd Vision
+> Associate Professor of Biology
+> University of North Carolina at Chapel Hill
+>
+>
+> > See below for a conversation Maria and I have been having regarding
+> > publicity for the Panton Principles (PP from here on in!). It started
+> when I
+> > shared a poster design:
+> > http://tinyurl.com/6gj2e6v
+> >
+> > Since, some very interesting points have come up. As a quick summary for
+> > those who don't want to read the whole conversation:
+> >
+> > - Would a PP logo be a good thing to have? Should we have a design
+> > contest/request ideas and submission?
+> > - Peter came up with a tagline for a web banner of 'Open data means
+> better
+> > science', could a question directly addressing the community be more
+> > engaging for the poster?
+> > - Would a design like this
+> > http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too
+> childish?
+> > - What makes open data in science unique compared to open data in other
+> > fields and how could we incorporate this into our messages/publicity?
+> >
+> > Any comments, opinions, design ideas etc are most welcome!
+> >
+> > Jenny
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110613/8044590c/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Jun 15 13:41:19 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 15 Jun 2011 13:41:19 +0100
+Subject: [open-science] Reminder: Working Group Meeting - Tonight,
+	17.30 UTC/GMT
+Message-ID: <BANLkTi=ai_hFWDoZMHa6xAekfH5G3PLKCg@mail.gmail.com>
+
+Dear All
+
+The next working group meeting is coming up this evening. If you have any
+proposals for activities the working group could get involved with, events
+or projects that are coming up or you'd just like to ask for opinions on
+something then do add them to the agenda and join us!
+
+When:      Wednesday 15 June at 17.30 UTC/GMT (18.30 UK time)
+Location:  Etherpad  http://okfnpad.org/sciencewg-15Jun2011 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-15Jun2011
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Thanks very much, hopefully speak to you all soon!
+
+Jenny
+
+-------------------
+Current Agenda:
+
+* Case studies for Panton Principles website (20th June writing session?)
+* Report from Royal Society Meeting and ideas for wg contribution to Call
+for Evidence http://royalsociety.org/policy/sape/call-for-evidence/
+* Report from EC Hearing on Scientific Information (if Diane or Cameron
+present!)
+* Progress on contribution to UK Data Archive sharing data guide
+http://science.okfnpad.org/ukdataarchiveguide
+* PP publicity material update and ideas
+* Progress report on organising hackathon at SWAT4LS (comments on workshop
+description)
+* What every OKF working group should have http://coord.okfnpad.org/wg-plan.
+How are we doing?
+* AOB
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110615/d6c35070/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Jun 15 18:31:51 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 15 Jun 2011 18:31:51 +0100
+Subject: [open-science] Working Group Meeting - Starting Now!
+Message-ID: <BANLkTimqGzpaGa6axFBcbVL8wjLf_jwAow@mail.gmail.com>
+
+Final reminder! You can join in late if you like - just add your name to the
+pad and I'll pull you into the call.
+
+Jenny
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jenny.molloy at okfn.org>
+Date: Wed, Jun 15, 2011 at 1:41 PM
+Subject: Reminder: Working Group Meeting - Tonight, 17.30 UTC/GMT
+To: open-science at lists.okfn.org
+
+
+Dear All
+
+The next working group meeting is coming up this evening. If you have any
+proposals for activities the working group could get involved with, events
+or projects that are coming up or you'd just like to ask for opinions on
+something then do add them to the agenda and join us!
+
+When:      Wednesday 15 June at 17.30 UTC/GMT (18.30 UK time)
+Location:  Etherpad  http://okfnpad.org/sciencewg-15Jun2011 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-15Jun2011
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Thanks very much, hopefully speak to you all soon!
+
+Jenny
+
+-------------------
+Current Agenda:
+
+* Case studies for Panton Principles website (20th June writing session?)
+* Report from Royal Society Meeting and ideas for wg contribution to Call
+for Evidence http://royalsociety.org/policy/sape/call-for-evidence/
+* Report from EC Hearing on Scientific Information (if Diane or Cameron
+present!)
+* Progress on contribution to UK Data Archive sharing data guide
+http://science.okfnpad.org/ukdataarchiveguide
+* PP publicity material update and ideas
+* Progress report on organising hackathon at SWAT4LS (comments on workshop
+description)
+* What every OKF working group should have http://coord.okfnpad.org/wg-plan.
+How are we doing?
+* AOB
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110615/3e6d19d7/attachment.htm>
+
+From adresamariei at yahoo.co.uk  Tue Jun 21 18:55:37 2011
+From: adresamariei at yahoo.co.uk (maria)
+Date: Tue, 21 Jun 2011 18:55:37 +0100 (BST)
+Subject: [open-science] Ideas...Call for proposals for the Euroscience Open
+	Forum 2012.
+Message-ID: <612020.51198.qm@web26006.mail.ukl.yahoo.com>
+
+
+
+Hi everyone,
+
+I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open Forum), starring Dublin as the European Capital of Science for 11-15 July 2012-?http://www.dublinscience2012.ie/
+
+There are two openings for projects, both having the deadline on the 30 of June:
+
+1. The Scientific Session Proposals?- mainly as workshops/presentations/roundtable/conference/Pecha Kucha
+2. The Public Engagement Proposal ?- ?mainly as an activity, creative idea,?theatre, film,?Interactive Dialogue,?Exhibition,??Workshop,??Outdoor Event,??Debate and so on.
+
+
+Do you think our working group can develop one (or more) project proposals on Open Data in Science/Panton Principles? I would be a great opportunity to attend ESOF next year and?I would like to invite you for an online brainstorm in the next days. Hopefully, in the best case scenario, by the end of the week we can choose the best ideas, refine them and prepare the proposal for the 30 of June.
+
+What do you think? Let's plan something!
+
+Best,
+Maria
+
+PS: You can find below some extra info from the official press release:
+
+
+"Dublin City of Science 2012 comprises a year-long series of science-linked events,?
+
+the centre-piece of which will be the Euroscience Open Form (ESOF), which will be?
+held in the Convention Centre Dublin from 11-15 July 2012.
+ESOF is an interdisciplinary, pan-European meeting, held under the auspices of?
+Euroscience, which aims to:?
+Showcase the latest advances in science and technology.
+Promote a dialogue on the role of science and technology in society and?
+public policy.
+Stimulate and provoke public interest, excitement and debate about science?
+and technology.
+The event will bring together over 5,000 scientists, business leaders, government?
+officials and international media to discuss the best of European science and to?
+address all of the major global challenges, including Energy, Climate Change, Food?
+and Health.
+Dublin was awarded the honour of hosting this event following an open competition in?
+2008. The Dublin bid was led by the Chief Scientific Adviser to the Government, Prof?
+Cunningham, with the support of Forf?s and beat off stiff competition from Vienna.?
+Prof Cunningham and Forf?s are now responsible for planning and organisation of?
+ESOF. In addition, they will coordinate other activities and events in the Dublin City of?
+Science 2012 programme."
+?
+Maria
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110621/aef69000/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Jun 22 01:25:41 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 22 Jun 2011 02:25:41 +0200
+Subject: [open-science] Ideas...Call for proposals for the Euroscience
+ Open Forum 2012.
+In-Reply-To: <612020.51198.qm@web26006.mail.ukl.yahoo.com>
+References: <612020.51198.qm@web26006.mail.ukl.yahoo.com>
+Message-ID: <BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>
+
+This sounds like a *great* idea and definitely worth doing!
+
+All: what do you think?
+
+J.
+
+On Tue, Jun 21, 2011 at 7:55 PM, maria <adresamariei at yahoo.co.uk> wrote:
+>
+> Hi everyone,
+> I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open
+> Forum), starring Dublin as the European Capital of Science for 11-15 July
+> 2012-?http://www.dublinscience2012.ie/
+> There are two openings for projects, both having the deadline on the 30 of
+> June:
+> 1. The Scientific Session Proposals?- mainly as
+> workshops/presentations/roundtable/conference/Pecha Kucha
+> 2. The Public Engagement Proposal ?- ?mainly as an activity, creative
+> idea,?theatre, film,?Interactive Dialogue,?Exhibition,??Workshop,??Outdoor
+> Event,??Debate and so on.
+>
+> Do you think our working group can develop one (or more) project proposals
+> on Open Data in Science/Panton Principles? I would be a great opportunity to
+> attend ESOF next year and?I would like to invite you for an online
+> brainstorm in the next days. Hopefully, in the best case scenario, by the
+> end of the week we can choose the best ideas, refine them and prepare the
+> proposal for the 30 of June.
+> What do you think? Let's plan something!
+> Best,
+> Maria
+> PS: You can find below some extra info from the official press release:
+>
+> "Dublin City of Science 2012 comprises a year-long series of science-linked
+> events,
+> the centre-piece of which will be the Euroscience Open Form (ESOF), which
+> will be
+> held in the Convention Centre Dublin from 11-15 July 2012.
+> ESOF is an interdisciplinary, pan-European meeting, held under the auspices
+> of
+> Euroscience, which aims to:
+> Showcase the latest advances in science and technology.
+> Promote a dialogue on the role of science and technology in society and
+> public policy.
+> Stimulate and provoke public interest, excitement and debate about science
+> and technology.
+> The event will bring together over 5,000 scientists, business leaders,
+> government
+> officials and international media to discuss the best of European science
+> and to
+> address all of the major global challenges, including Energy, Climate
+> Change, Food
+> and Health.
+> Dublin was awarded the honour of hosting this event following an open
+> competition in
+> 2008. The Dublin bid was led by the Chief Scientific Adviser to the
+> Government, Prof
+> Cunningham, with the support of Forf?s and beat off stiff competition from
+> Vienna.
+> Prof Cunningham and Forf?s are now responsible for planning and organisation
+> of
+> ESOF. In addition, they will coordinate other activities and events in the
+> Dublin City of
+> Science 2012 programme."
+>
+> Maria
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jcmcoppice12 at gmail.com  Wed Jun 22 02:57:20 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 22 Jun 2011 02:57:20 +0100
+Subject: [open-science] Ideas...Call for proposals for the Euroscience
+ Open Forum 2012.
+In-Reply-To: <BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>
+References: <612020.51198.qm@web26006.mail.ukl.yahoo.com>
+	<BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>
+Message-ID: <BANLkTinxcee5DGaXr2F27Y7JE36TiLsioQ@mail.gmail.com>
+
+I'm definitely in favour, I've attended the last two ESOFs and thought they
+were really good. They attract a cross-disciplinary crowd with
+representatives from sci comm/publishing/policy/industry etc as well as
+researchers. There's usually a lot of early career scientists in particular
+because they give a big discount to people under 35. Peter Murray Rust spoke
+in 2008 in Barcelona on the topic of open data in science (abstract from
+session posted at the end of this email, although it is ridiculously broad!)
+
+Perhaps we could take a look at some exciting things that are being
+done/could be done with open data (rather than a general 'why is open good'
+discussion), and then examine why it isn't all happening yet. Maybe we could
+make this a discussion with the audience as to why they might/might not
+consider publishing their data openly? Entirely different suggestions and
+further thoughts welcome!
+
+Jenny
+
+PS Fitting into the call:
+
+From jcmcoppice12 at gmail.com  Wed Jun 22 03:13:57 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 22 Jun 2011 03:13:57 +0100
+Subject: [open-science] Panton Principles Publicity
+In-Reply-To: <BANLkTi=16Rjp8_3dNWPoM4rw47k5L0-P0g@mail.gmail.com>
+References: <mailman.15082.1307922499.30689.open-science@lists.okfn.org>
+	<AFE6CAC4-BDCB-46AC-A7FB-A54BF7751A49@ad.unc.edu>
+	<BANLkTi=16Rjp8_3dNWPoM4rw47k5L0-P0g@mail.gmail.com>
+Message-ID: <BANLkTin6snV7hXhRfrMYxxBc-pAF2Wn-MQ@mail.gmail.com>
+
+How about "Report"?
+That is already used in the context of scientific reports, reporting data
+etc
+
+Jenny
+
+On Mon, Jun 13, 2011 at 9:56 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Mon, Jun 13, 2011 at 2:36 AM, Vision, Todd J <tjv at bio.unc.edu> wrote:
+>
+>> The poster looks slick!   But I worry that use of the term 'sharing' is
+>> not helping to reach out to the unconverted within the scientific community.
+>>  Scientists are more likely to recognize common cause with the PP when the
+>> issue is framed in terms of bolstering the scientific method, not when when
+>> it calls for behavior (altruistic sharing) that run counter to how
+>> 'competitive-collaborative' science is conducted.  Most scientists think of
+>> 'sharing' data with collaborators only if and when they can advance their
+>> own research.   We don't ask scientists to 'share' their manuscripts (an
+>> altruistic act), but rather to publish their manuscripts (a professional
+>> obligation but one that brings rewards).  So 'Replicate' -> 'Reuse' ->
+>> 'Revolutionize' might be closer to a message that would resonate outside of
+>> the choir, and convey the sense that 'open data means better science'.
+>>  'Replicate' might not be the perfect term either, though it does at least
+>> have the virtue of starting with an 'R'!
+>>
+>>
+> Agreed. "Sharing" will upset some people. "Record" is less likely to be
+> objected to.
+>
+>> cheers,
+>> Todd
+>>
+>> ---
+>> Todd Vision
+>> Associate Professor of Biology
+>> University of North Carolina at Chapel Hill
+>>
+>>
+>> > See below for a conversation Maria and I have been having regarding
+>> > publicity for the Panton Principles (PP from here on in!). It started
+>> when I
+>> > shared a poster design:
+>> > http://tinyurl.com/6gj2e6v
+>> >
+>> > Since, some very interesting points have come up. As a quick summary for
+>> > those who don't want to read the whole conversation:
+>> >
+>> > - Would a PP logo be a good thing to have? Should we have a design
+>> > contest/request ideas and submission?
+>> > - Peter came up with a tagline for a web banner of 'Open data means
+>> better
+>> > science', could a question directly addressing the community be more
+>> > engaging for the poster?
+>> > - Would a design like this
+>> > http://sunnibrown.com/2010/06/03/pbs-this-emotional-life/ be too
+>> childish?
+>> > - What makes open data in science unique compared to open data in other
+>> > fields and how could we incorporate this into our messages/publicity?
+>> >
+>> > Any comments, opinions, design ideas etc are most welcome!
+>> >
+>> > Jenny
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110622/3363e13d/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Jun 22 12:35:38 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 22 Jun 2011 13:35:38 +0200
+Subject: [open-science] Ideas...Call for proposals for the Euroscience
+ Open Forum 2012.
+In-Reply-To: <BANLkTinxcee5DGaXr2F27Y7JE36TiLsioQ@mail.gmail.com>
+References: <612020.51198.qm@web26006.mail.ukl.yahoo.com>
+	<BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>
+	<BANLkTinxcee5DGaXr2F27Y7JE36TiLsioQ@mail.gmail.com>
+Message-ID: <BANLkTikw049xeNqDdoX5jjWmNXZM7nKUFg@mail.gmail.com>
+
+There was also an excellent satellite event in 2008 organised by
+Science Commons:
+
+http://blog.okfn.org/2008/07/24/moving-forward-with-open-science-in-europe/
+
+I wonder whether we might also consider organising a similar satellite
+event with them for the next one? ;-)
+
+J.
+
+On Wed, Jun 22, 2011 at 3:57 AM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> I'm definitely in favour, I've attended the last two ESOFs and thought they
+> were really good. They attract a cross-disciplinary crowd with
+> representatives from sci comm/publishing/policy/industry etc as well as
+> researchers. There's usually a lot of early career scientists in particular
+> because they give a big discount to people under 35. Peter Murray Rust spoke
+> in 2008 in Barcelona on the topic of open data in science (abstract from
+> session posted at the end of this email, although it is ridiculously broad!)
+>
+> Perhaps we could take a look at some exciting things that are being
+> done/could be done with open data (rather than a general 'why is open good'
+> discussion), and then examine why it isn't all happening yet. Maybe we could
+> make this a discussion with the audience as to why they might/might not
+> consider publishing their data openly? Entirely different suggestions and
+> further thoughts welcome!
+>
+> Jenny
+>
+> PS Fitting into the call:
+> From the list of possible formats, I guess the following would be best:
+> o Workshop: a flexible format, led by a speaker experienced in stimulating
+> exchanges of views and using practical exercises
+> or
+> o Traditional panel discussion: maximum 3-4 speakers (maximum 15 minutes
+> each) followed by extended discussion with audience
+>
+> In terms of which theme we would fit into, I think we could argue for
+> 6. Information
+> Telecommunications; Surveillance; Digitalization of the arts; Search
+> technologies; Is the World Wide Web going to collapse? Nanosensors; Quantum
+> computation; Nanotechnologies; Ethics data protection and privacy; Risk
+> assessment; Social sciences; Is e-
+> mail the end of history? Storage communication and display technologies
+>
+> ESOF 2008
+> Sharing scientific data: who benefits?
+> Saturday 19 July | 16.30 - 18.00
+> Room 11, Palau de Congressos de Barcelona
+> Digital datasets ? text-based, numeric, audio, video or image-based ? form
+> the output of all scientific disciplines. How is this data being made
+> available for sharing? What quality control mechanisms are in place? What
+> kinds of naming conventions, tags, and metadata are in use and how effective
+> are they at helping to manage open data? Who is storing, archiving and
+> curating open data and at which levels? And how is the production and
+> sharing of open data assessed? What processes are in place for crediting
+> scientists with making their raw data openly accessible for sharing and use?
+> To what extent can and should data publication replace traditional forms of
+> publication of research findings?
+>
+> ORGANISER
+> Alma Swan, Key Perspectives Ltd, United Kingdom
+>
+> SPEAKERS
+> Peter Murray-Rust, University of Cambridge, United Kingdom
+> Open Data: the researcher?s perspective
+>
+> Philip Campbell, Nature, United Kingdom
+> Open Data: what publishers can do
+>
+> Max V?gler, Deutsche Forschungsgemeinschaft, DFG Germany
+> Funding Open Data: some thoughts and challenges on the road ahead
+>
+>
+> On Wed, Jun 22, 2011 at 1:25 AM, Jonathan Gray <jonathan.gray at okfn.org>
+> wrote:
+>>
+>> This sounds like a *great* idea and definitely worth doing!
+>>
+>> All: what do you think?
+>>
+>> J.
+>>
+>> On Tue, Jun 21, 2011 at 7:55 PM, maria <adresamariei at yahoo.co.uk> wrote:
+>> >
+>> > Hi everyone,
+>> > I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open
+>> > Forum), starring Dublin as the European Capital of Science for 11-15
+>> > July
+>> > 2012-?http://www.dublinscience2012.ie/
+>> > There are two openings for projects, both having the deadline on the 30
+>> > of
+>> > June:
+>> > 1. The Scientific Session Proposals?- mainly as
+>> > workshops/presentations/roundtable/conference/Pecha Kucha
+>> > 2. The Public Engagement Proposal ?- ?mainly as an activity, creative
+>> > idea,?theatre, film,?Interactive
+>> > Dialogue,?Exhibition,??Workshop,??Outdoor
+>> > Event,??Debate and so on.
+>> >
+>> > Do you think our working group can develop one (or more) project
+>> > proposals
+>> > on Open Data in Science/Panton Principles? I would be a great
+>> > opportunity to
+>> > attend ESOF next year and?I would like to invite you for an online
+>> > brainstorm in the next days. Hopefully, in the best case scenario, by
+>> > the
+>> > end of the week we can choose the best ideas, refine them and prepare
+>> > the
+>> > proposal for the 30 of June.
+>> > What do you think? Let's plan something!
+>> > Best,
+>> > Maria
+>> > PS: You can find below some extra info from the official press release:
+>> >
+>> > "Dublin City of Science 2012 comprises a year-long series of
+>> > science-linked
+>> > events,
+>> > the centre-piece of which will be the Euroscience Open Form (ESOF),
+>> > which
+>> > will be
+>> > held in the Convention Centre Dublin from 11-15 July 2012.
+>> > ESOF is an interdisciplinary, pan-European meeting, held under the
+>> > auspices
+>> > of
+>> > Euroscience, which aims to:
+>> > Showcase the latest advances in science and technology.
+>> > Promote a dialogue on the role of science and technology in society and
+>> > public policy.
+>> > Stimulate and provoke public interest, excitement and debate about
+>> > science
+>> > and technology.
+>> > The event will bring together over 5,000 scientists, business leaders,
+>> > government
+>> > officials and international media to discuss the best of European
+>> > science
+>> > and to
+>> > address all of the major global challenges, including Energy, Climate
+>> > Change, Food
+>> > and Health.
+>> > Dublin was awarded the honour of hosting this event following an open
+>> > competition in
+>> > 2008. The Dublin bid was led by the Chief Scientific Adviser to the
+>> > Government, Prof
+>> > Cunningham, with the support of Forf?s and beat off stiff competition
+>> > from
+>> > Vienna.
+>> > Prof Cunningham and Forf?s are now responsible for planning and
+>> > organisation
+>> > of
+>> > ESOF. In addition, they will coordinate other activities and events in
+>> > the
+>> > Dublin City of
+>> > Science 2012 programme."
+>> >
+>> > Maria
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> >
+>> >
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From wilbanks at creativecommons.org  Wed Jun 22 14:08:16 2011
+From: wilbanks at creativecommons.org (john wilbanks)
+Date: Wed, 22 Jun 2011 06:08:16 -0700
+Subject: [open-science] Ideas...Call for proposals for the Euroscience
+ Open Forum 2012.
+In-Reply-To: <BANLkTikw049xeNqDdoX5jjWmNXZM7nKUFg@mail.gmail.com>
+References: <612020.51198.qm@web26006.mail.ukl.yahoo.com>	<BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>	<BANLkTinxcee5DGaXr2F27Y7JE36TiLsioQ@mail.gmail.com>
+	<BANLkTikw049xeNqDdoX5jjWmNXZM7nKUFg@mail.gmail.com>
+Message-ID: <4E01E940.4080005@creativecommons.org>
+
+Right now we're not planning anything formal for ESOF 2012 (remember 
+that SC doesn't exist any more, it's all just CC...) but I'm committed 
+to a few panel proposals so far and hopefully one will get through and 
+onto the program. Happy to have an informal meet up or join in something 
+that gets organized...
+
+jtw
+
+On 6/22/2011 4:35 AM, Jonathan Gray wrote:
+> There was also an excellent satellite event in 2008 organised by
+> Science Commons:
+>
+> http://blog.okfn.org/2008/07/24/moving-forward-with-open-science-in-europe/
+>
+> I wonder whether we might also consider organising a similar satellite
+> event with them for the next one? ;-)
+>
+> J.
+>
+> On Wed, Jun 22, 2011 at 3:57 AM, Jenny Molloy<jcmcoppice12 at gmail.com>  wrote:
+>> I'm definitely in favour, I've attended the last two ESOFs and thought they
+>> were really good. They attract a cross-disciplinary crowd with
+>> representatives from sci comm/publishing/policy/industry etc as well as
+>> researchers. There's usually a lot of early career scientists in particular
+>> because they give a big discount to people under 35. Peter Murray Rust spoke
+>> in 2008 in Barcelona on the topic of open data in science (abstract from
+>> session posted at the end of this email, although it is ridiculously broad!)
+>>
+>> Perhaps we could take a look at some exciting things that are being
+>> done/could be done with open data (rather than a general 'why is open good'
+>> discussion), and then examine why it isn't all happening yet. Maybe we could
+>> make this a discussion with the audience as to why they might/might not
+>> consider publishing their data openly? Entirely different suggestions and
+>> further thoughts welcome!
+>>
+>> Jenny
+>>
+>> PS Fitting into the call:
+>>  From the list of possible formats, I guess the following would be best:
+>> o Workshop: a flexible format, led by a speaker experienced in stimulating
+>> exchanges of views and using practical exercises
+>> or
+>> o Traditional panel discussion: maximum 3-4 speakers (maximum 15 minutes
+>> each) followed by extended discussion with audience
+>>
+>> In terms of which theme we would fit into, I think we could argue for
+>> 6. Information
+>> Telecommunications; Surveillance; Digitalization of the arts; Search
+>> technologies; Is the World Wide Web going to collapse? Nanosensors; Quantum
+>> computation; Nanotechnologies; Ethics data protection and privacy; Risk
+>> assessment; Social sciences; Is e-
+>> mail the end of history? Storage communication and display technologies
+>>
+>> ESOF 2008
+>> Sharing scientific data: who benefits?
+>> Saturday 19 July | 16.30 - 18.00
+>> Room 11, Palau de Congressos de Barcelona
+>> Digital datasets ? text-based, numeric, audio, video or image-based ? form
+>> the output of all scientific disciplines. How is this data being made
+>> available for sharing? What quality control mechanisms are in place? What
+>> kinds of naming conventions, tags, and metadata are in use and how effective
+>> are they at helping to manage open data? Who is storing, archiving and
+>> curating open data and at which levels? And how is the production and
+>> sharing of open data assessed? What processes are in place for crediting
+>> scientists with making their raw data openly accessible for sharing and use?
+>> To what extent can and should data publication replace traditional forms of
+>> publication of research findings?
+>>
+>> ORGANISER
+>> Alma Swan, Key Perspectives Ltd, United Kingdom
+>>
+>> SPEAKERS
+>> Peter Murray-Rust, University of Cambridge, United Kingdom
+>> Open Data: the researcher?s perspective
+>>
+>> Philip Campbell, Nature, United Kingdom
+>> Open Data: what publishers can do
+>>
+>> Max V?gler, Deutsche Forschungsgemeinschaft, DFG Germany
+>> Funding Open Data: some thoughts and challenges on the road ahead
+>>
+>>
+>> On Wed, Jun 22, 2011 at 1:25 AM, Jonathan Gray<jonathan.gray at okfn.org>
+>> wrote:
+>>>
+>>> This sounds like a *great* idea and definitely worth doing!
+>>>
+>>> All: what do you think?
+>>>
+>>> J.
+>>>
+>>> On Tue, Jun 21, 2011 at 7:55 PM, maria<adresamariei at yahoo.co.uk>  wrote:
+>>>>
+>>>> Hi everyone,
+>>>> I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open
+>>>> Forum), starring Dublin as the European Capital of Science for 11-15
+>>>> July
+>>>> 2012- http://www.dublinscience2012.ie/
+>>>> There are two openings for projects, both having the deadline on the 30
+>>>> of
+>>>> June:
+>>>> 1. The Scientific Session Proposals - mainly as
+>>>> workshops/presentations/roundtable/conference/Pecha Kucha
+>>>> 2. The Public Engagement Proposal  -  mainly as an activity, creative
+>>>> idea, theatre, film, Interactive
+>>>> Dialogue, Exhibition,  Workshop,  Outdoor
+>>>> Event,  Debate and so on.
+>>>>
+>>>> Do you think our working group can develop one (or more) project
+>>>> proposals
+>>>> on Open Data in Science/Panton Principles? I would be a great
+>>>> opportunity to
+>>>> attend ESOF next year and I would like to invite you for an online
+>>>> brainstorm in the next days. Hopefully, in the best case scenario, by
+>>>> the
+>>>> end of the week we can choose the best ideas, refine them and prepare
+>>>> the
+>>>> proposal for the 30 of June.
+>>>> What do you think? Let's plan something!
+>>>> Best,
+>>>> Maria
+>>>> PS: You can find below some extra info from the official press release:
+>>>>
+>>>> "Dublin City of Science 2012 comprises a year-long series of
+>>>> science-linked
+>>>> events,
+>>>> the centre-piece of which will be the Euroscience Open Form (ESOF),
+>>>> which
+>>>> will be
+>>>> held in the Convention Centre Dublin from 11-15 July 2012.
+>>>> ESOF is an interdisciplinary, pan-European meeting, held under the
+>>>> auspices
+>>>> of
+>>>> Euroscience, which aims to:
+>>>> Showcase the latest advances in science and technology.
+>>>> Promote a dialogue on the role of science and technology in society and
+>>>> public policy.
+>>>> Stimulate and provoke public interest, excitement and debate about
+>>>> science
+>>>> and technology.
+>>>> The event will bring together over 5,000 scientists, business leaders,
+>>>> government
+>>>> officials and international media to discuss the best of European
+>>>> science
+>>>> and to
+>>>> address all of the major global challenges, including Energy, Climate
+>>>> Change, Food
+>>>> and Health.
+>>>> Dublin was awarded the honour of hosting this event following an open
+>>>> competition in
+>>>> 2008. The Dublin bid was led by the Chief Scientific Adviser to the
+>>>> Government, Prof
+>>>> Cunningham, with the support of Forf?s and beat off stiff competition
+>>>> from
+>>>> Vienna.
+>>>> Prof Cunningham and Forf?s are now responsible for planning and
+>>>> organisation
+>>>> of
+>>>> ESOF. In addition, they will coordinate other activities and events in
+>>>> the
+>>>> Dublin City of
+>>>> Science 2012 programme."
+>>>>
+>>>> Maria
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>> open-science at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> Jonathan Gray
+>>>
+>>> Community Coordinator
+>>> The Open Knowledge Foundation
+>>> http://blog.okfn.org
+>>>
+>>> http://twitter.com/jwyg
+>>> http://identi.ca/jwyg
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+>
+>
+
+-- 
+John Wilbanks
+VP for Science
+Creative Commons
+web: http://creativecommons.org/science
+blog: http://scienceblogs.com/commonknowledge
+twitter: @wilbanks
+
+
+From jonathan.gray at okfn.org  Wed Jun 22 14:09:24 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 22 Jun 2011 15:09:24 +0200
+Subject: [open-science] Ideas...Call for proposals for the Euroscience
+ Open Forum 2012.
+In-Reply-To: <4E01E940.4080005@creativecommons.org>
+References: <612020.51198.qm@web26006.mail.ukl.yahoo.com>
+	<BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>
+	<BANLkTinxcee5DGaXr2F27Y7JE36TiLsioQ@mail.gmail.com>
+	<BANLkTikw049xeNqDdoX5jjWmNXZM7nKUFg@mail.gmail.com>
+	<4E01E940.4080005@creativecommons.org>
+Message-ID: <BANLkTi=grw9JekirDwXRHqO63YLQGV_c4Q@mail.gmail.com>
+
+What about a 0.5-1d informal, unconferency workshop on open data in science?
+
+J.
+
+On Wed, Jun 22, 2011 at 3:08 PM, john wilbanks
+<wilbanks at creativecommons.org> wrote:
+> Right now we're not planning anything formal for ESOF 2012 (remember that SC
+> doesn't exist any more, it's all just CC...) but I'm committed to a few
+> panel proposals so far and hopefully one will get through and onto the
+> program. Happy to have an informal meet up or join in something that gets
+> organized...
+>
+> jtw
+>
+> On 6/22/2011 4:35 AM, Jonathan Gray wrote:
+>>
+>> There was also an excellent satellite event in 2008 organised by
+>> Science Commons:
+>>
+>>
+>> http://blog.okfn.org/2008/07/24/moving-forward-with-open-science-in-europe/
+>>
+>> I wonder whether we might also consider organising a similar satellite
+>> event with them for the next one? ;-)
+>>
+>> J.
+>>
+>> On Wed, Jun 22, 2011 at 3:57 AM, Jenny Molloy<jcmcoppice12 at gmail.com>
+>> ?wrote:
+>>>
+>>> I'm definitely in favour, I've attended the last two ESOFs and thought
+>>> they
+>>> were really good. They attract a cross-disciplinary crowd with
+>>> representatives from sci comm/publishing/policy/industry etc as well as
+>>> researchers. There's usually a lot of early career scientists in
+>>> particular
+>>> because they give a big discount to people under 35. Peter Murray Rust
+>>> spoke
+>>> in 2008 in Barcelona on the topic of open data in science (abstract from
+>>> session posted at the end of this email, although it is ridiculously
+>>> broad!)
+>>>
+>>> Perhaps we could take a look at some exciting things that are being
+>>> done/could be done with open data (rather than a general 'why is open
+>>> good'
+>>> discussion), and then examine why it isn't all happening yet. Maybe we
+>>> could
+>>> make this a discussion with the audience as to why they might/might not
+>>> consider publishing their data openly? Entirely different suggestions and
+>>> further thoughts welcome!
+>>>
+>>> Jenny
+>>>
+>>> PS Fitting into the call:
+>>> ?From the list of possible formats, I guess the following would be best:
+>>> o Workshop: a flexible format, led by a speaker experienced in
+>>> stimulating
+>>> exchanges of views and using practical exercises
+>>> or
+>>> o Traditional panel discussion: maximum 3-4 speakers (maximum 15 minutes
+>>> each) followed by extended discussion with audience
+>>>
+>>> In terms of which theme we would fit into, I think we could argue for
+>>> 6. Information
+>>> Telecommunications; Surveillance; Digitalization of the arts; Search
+>>> technologies; Is the World Wide Web going to collapse? Nanosensors;
+>>> Quantum
+>>> computation; Nanotechnologies; Ethics data protection and privacy; Risk
+>>> assessment; Social sciences; Is e-
+>>> mail the end of history? Storage communication and display technologies
+>>>
+>>> ESOF 2008
+>>> Sharing scientific data: who benefits?
+>>> Saturday 19 July | 16.30 - 18.00
+>>> Room 11, Palau de Congressos de Barcelona
+>>> Digital datasets ? text-based, numeric, audio, video or image-based ?
+>>> form
+>>> the output of all scientific disciplines. How is this data being made
+>>> available for sharing? What quality control mechanisms are in place? What
+>>> kinds of naming conventions, tags, and metadata are in use and how
+>>> effective
+>>> are they at helping to manage open data? Who is storing, archiving and
+>>> curating open data and at which levels? And how is the production and
+>>> sharing of open data assessed? What processes are in place for crediting
+>>> scientists with making their raw data openly accessible for sharing and
+>>> use?
+>>> To what extent can and should data publication replace traditional forms
+>>> of
+>>> publication of research findings?
+>>>
+>>> ORGANISER
+>>> Alma Swan, Key Perspectives Ltd, United Kingdom
+>>>
+>>> SPEAKERS
+>>> Peter Murray-Rust, University of Cambridge, United Kingdom
+>>> Open Data: the researcher?s perspective
+>>>
+>>> Philip Campbell, Nature, United Kingdom
+>>> Open Data: what publishers can do
+>>>
+>>> Max V?gler, Deutsche Forschungsgemeinschaft, DFG Germany
+>>> Funding Open Data: some thoughts and challenges on the road ahead
+>>>
+>>>
+>>> On Wed, Jun 22, 2011 at 1:25 AM, Jonathan Gray<jonathan.gray at okfn.org>
+>>> wrote:
+>>>>
+>>>> This sounds like a *great* idea and definitely worth doing!
+>>>>
+>>>> All: what do you think?
+>>>>
+>>>> J.
+>>>>
+>>>> On Tue, Jun 21, 2011 at 7:55 PM, maria<adresamariei at yahoo.co.uk> ?wrote:
+>>>>>
+>>>>> Hi everyone,
+>>>>> I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open
+>>>>> Forum), starring Dublin as the European Capital of Science for 11-15
+>>>>> July
+>>>>> 2012- http://www.dublinscience2012.ie/
+>>>>> There are two openings for projects, both having the deadline on the 30
+>>>>> of
+>>>>> June:
+>>>>> 1. The Scientific Session Proposals - mainly as
+>>>>> workshops/presentations/roundtable/conference/Pecha Kucha
+>>>>> 2. The Public Engagement Proposal ?- ?mainly as an activity, creative
+>>>>> idea, theatre, film, Interactive
+>>>>> Dialogue, Exhibition, ?Workshop, ?Outdoor
+>>>>> Event, ?Debate and so on.
+>>>>>
+>>>>> Do you think our working group can develop one (or more) project
+>>>>> proposals
+>>>>> on Open Data in Science/Panton Principles? I would be a great
+>>>>> opportunity to
+>>>>> attend ESOF next year and I would like to invite you for an online
+>>>>> brainstorm in the next days. Hopefully, in the best case scenario, by
+>>>>> the
+>>>>> end of the week we can choose the best ideas, refine them and prepare
+>>>>> the
+>>>>> proposal for the 30 of June.
+>>>>> What do you think? Let's plan something!
+>>>>> Best,
+>>>>> Maria
+>>>>> PS: You can find below some extra info from the official press release:
+>>>>>
+>>>>> "Dublin City of Science 2012 comprises a year-long series of
+>>>>> science-linked
+>>>>> events,
+>>>>> the centre-piece of which will be the Euroscience Open Form (ESOF),
+>>>>> which
+>>>>> will be
+>>>>> held in the Convention Centre Dublin from 11-15 July 2012.
+>>>>> ESOF is an interdisciplinary, pan-European meeting, held under the
+>>>>> auspices
+>>>>> of
+>>>>> Euroscience, which aims to:
+>>>>> Showcase the latest advances in science and technology.
+>>>>> Promote a dialogue on the role of science and technology in society and
+>>>>> public policy.
+>>>>> Stimulate and provoke public interest, excitement and debate about
+>>>>> science
+>>>>> and technology.
+>>>>> The event will bring together over 5,000 scientists, business leaders,
+>>>>> government
+>>>>> officials and international media to discuss the best of European
+>>>>> science
+>>>>> and to
+>>>>> address all of the major global challenges, including Energy, Climate
+>>>>> Change, Food
+>>>>> and Health.
+>>>>> Dublin was awarded the honour of hosting this event following an open
+>>>>> competition in
+>>>>> 2008. The Dublin bid was led by the Chief Scientific Adviser to the
+>>>>> Government, Prof
+>>>>> Cunningham, with the support of Forf?s and beat off stiff competition
+>>>>> from
+>>>>> Vienna.
+>>>>> Prof Cunningham and Forf?s are now responsible for planning and
+>>>>> organisation
+>>>>> of
+>>>>> ESOF. In addition, they will coordinate other activities and events in
+>>>>> the
+>>>>> Dublin City of
+>>>>> Science 2012 programme."
+>>>>>
+>>>>> Maria
+>>>>> _______________________________________________
+>>>>> open-science mailing list
+>>>>> open-science at lists.okfn.org
+>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Jonathan Gray
+>>>>
+>>>> Community Coordinator
+>>>> The Open Knowledge Foundation
+>>>> http://blog.okfn.org
+>>>>
+>>>> http://twitter.com/jwyg
+>>>> http://identi.ca/jwyg
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>> open-science at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>>
+>>
+>>
+>>
+>
+> --
+> John Wilbanks
+> VP for Science
+> Creative Commons
+> web: http://creativecommons.org/science
+> blog: http://scienceblogs.com/commonknowledge
+> twitter: @wilbanks
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From wilbanks at creativecommons.org  Wed Jun 22 14:15:25 2011
+From: wilbanks at creativecommons.org (john wilbanks)
+Date: Wed, 22 Jun 2011 06:15:25 -0700
+Subject: [open-science] Ideas...Call for proposals for the Euroscience
+ Open Forum 2012.
+In-Reply-To: <BANLkTi=grw9JekirDwXRHqO63YLQGV_c4Q@mail.gmail.com>
+References: <612020.51198.qm@web26006.mail.ukl.yahoo.com>	<BANLkTikUp0R7jnjW0_bsDPby2cth-rgjxw@mail.gmail.com>	<BANLkTinxcee5DGaXr2F27Y7JE36TiLsioQ@mail.gmail.com>	<BANLkTikw049xeNqDdoX5jjWmNXZM7nKUFg@mail.gmail.com>	<4E01E940.4080005@creativecommons.org>
+	<BANLkTi=grw9JekirDwXRHqO63YLQGV_c4Q@mail.gmail.com>
+Message-ID: <4E01EAED.8050701@creativecommons.org>
+
+It's a good idea. I would likely not add any extra day to my trip if I 
+were to go (I have a new remix - my 3 month old son - and am traveling a 
+*lot* less!) but CC would have some people in Europe that could participate.
+
+jtw
+
+On 6/22/2011 6:09 AM, Jonathan Gray wrote:
+> What about a 0.5-1d informal, unconferency workshop on open data in science?
+>
+> J.
+>
+> On Wed, Jun 22, 2011 at 3:08 PM, john wilbanks
+> <wilbanks at creativecommons.org>  wrote:
+>> Right now we're not planning anything formal for ESOF 2012 (remember that SC
+>> doesn't exist any more, it's all just CC...) but I'm committed to a few
+>> panel proposals so far and hopefully one will get through and onto the
+>> program. Happy to have an informal meet up or join in something that gets
+>> organized...
+>>
+>> jtw
+>>
+>> On 6/22/2011 4:35 AM, Jonathan Gray wrote:
+>>>
+>>> There was also an excellent satellite event in 2008 organised by
+>>> Science Commons:
+>>>
+>>>
+>>> http://blog.okfn.org/2008/07/24/moving-forward-with-open-science-in-europe/
+>>>
+>>> I wonder whether we might also consider organising a similar satellite
+>>> event with them for the next one? ;-)
+>>>
+>>> J.
+>>>
+>>> On Wed, Jun 22, 2011 at 3:57 AM, Jenny Molloy<jcmcoppice12 at gmail.com>
+>>>   wrote:
+>>>>
+>>>> I'm definitely in favour, I've attended the last two ESOFs and thought
+>>>> they
+>>>> were really good. They attract a cross-disciplinary crowd with
+>>>> representatives from sci comm/publishing/policy/industry etc as well as
+>>>> researchers. There's usually a lot of early career scientists in
+>>>> particular
+>>>> because they give a big discount to people under 35. Peter Murray Rust
+>>>> spoke
+>>>> in 2008 in Barcelona on the topic of open data in science (abstract from
+>>>> session posted at the end of this email, although it is ridiculously
+>>>> broad!)
+>>>>
+>>>> Perhaps we could take a look at some exciting things that are being
+>>>> done/could be done with open data (rather than a general 'why is open
+>>>> good'
+>>>> discussion), and then examine why it isn't all happening yet. Maybe we
+>>>> could
+>>>> make this a discussion with the audience as to why they might/might not
+>>>> consider publishing their data openly? Entirely different suggestions and
+>>>> further thoughts welcome!
+>>>>
+>>>> Jenny
+>>>>
+>>>> PS Fitting into the call:
+>>>>   From the list of possible formats, I guess the following would be best:
+>>>> o Workshop: a flexible format, led by a speaker experienced in
+>>>> stimulating
+>>>> exchanges of views and using practical exercises
+>>>> or
+>>>> o Traditional panel discussion: maximum 3-4 speakers (maximum 15 minutes
+>>>> each) followed by extended discussion with audience
+>>>>
+>>>> In terms of which theme we would fit into, I think we could argue for
+>>>> 6. Information
+>>>> Telecommunications; Surveillance; Digitalization of the arts; Search
+>>>> technologies; Is the World Wide Web going to collapse? Nanosensors;
+>>>> Quantum
+>>>> computation; Nanotechnologies; Ethics data protection and privacy; Risk
+>>>> assessment; Social sciences; Is e-
+>>>> mail the end of history? Storage communication and display technologies
+>>>>
+>>>> ESOF 2008
+>>>> Sharing scientific data: who benefits?
+>>>> Saturday 19 July | 16.30 - 18.00
+>>>> Room 11, Palau de Congressos de Barcelona
+>>>> Digital datasets ? text-based, numeric, audio, video or image-based ?
+>>>> form
+>>>> the output of all scientific disciplines. How is this data being made
+>>>> available for sharing? What quality control mechanisms are in place? What
+>>>> kinds of naming conventions, tags, and metadata are in use and how
+>>>> effective
+>>>> are they at helping to manage open data? Who is storing, archiving and
+>>>> curating open data and at which levels? And how is the production and
+>>>> sharing of open data assessed? What processes are in place for crediting
+>>>> scientists with making their raw data openly accessible for sharing and
+>>>> use?
+>>>> To what extent can and should data publication replace traditional forms
+>>>> of
+>>>> publication of research findings?
+>>>>
+>>>> ORGANISER
+>>>> Alma Swan, Key Perspectives Ltd, United Kingdom
+>>>>
+>>>> SPEAKERS
+>>>> Peter Murray-Rust, University of Cambridge, United Kingdom
+>>>> Open Data: the researcher?s perspective
+>>>>
+>>>> Philip Campbell, Nature, United Kingdom
+>>>> Open Data: what publishers can do
+>>>>
+>>>> Max V?gler, Deutsche Forschungsgemeinschaft, DFG Germany
+>>>> Funding Open Data: some thoughts and challenges on the road ahead
+>>>>
+>>>>
+>>>> On Wed, Jun 22, 2011 at 1:25 AM, Jonathan Gray<jonathan.gray at okfn.org>
+>>>> wrote:
+>>>>>
+>>>>> This sounds like a *great* idea and definitely worth doing!
+>>>>>
+>>>>> All: what do you think?
+>>>>>
+>>>>> J.
+>>>>>
+>>>>> On Tue, Jun 21, 2011 at 7:55 PM, maria<adresamariei at yahoo.co.uk>    wrote:
+>>>>>>
+>>>>>> Hi everyone,
+>>>>>> I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open
+>>>>>> Forum), starring Dublin as the European Capital of Science for 11-15
+>>>>>> July
+>>>>>> 2012- http://www.dublinscience2012.ie/
+>>>>>> There are two openings for projects, both having the deadline on the 30
+>>>>>> of
+>>>>>> June:
+>>>>>> 1. The Scientific Session Proposals - mainly as
+>>>>>> workshops/presentations/roundtable/conference/Pecha Kucha
+>>>>>> 2. The Public Engagement Proposal  -  mainly as an activity, creative
+>>>>>> idea, theatre, film, Interactive
+>>>>>> Dialogue, Exhibition,  Workshop,  Outdoor
+>>>>>> Event,  Debate and so on.
+>>>>>>
+>>>>>> Do you think our working group can develop one (or more) project
+>>>>>> proposals
+>>>>>> on Open Data in Science/Panton Principles? I would be a great
+>>>>>> opportunity to
+>>>>>> attend ESOF next year and I would like to invite you for an online
+>>>>>> brainstorm in the next days. Hopefully, in the best case scenario, by
+>>>>>> the
+>>>>>> end of the week we can choose the best ideas, refine them and prepare
+>>>>>> the
+>>>>>> proposal for the 30 of June.
+>>>>>> What do you think? Let's plan something!
+>>>>>> Best,
+>>>>>> Maria
+>>>>>> PS: You can find below some extra info from the official press release:
+>>>>>>
+>>>>>> "Dublin City of Science 2012 comprises a year-long series of
+>>>>>> science-linked
+>>>>>> events,
+>>>>>> the centre-piece of which will be the Euroscience Open Form (ESOF),
+>>>>>> which
+>>>>>> will be
+>>>>>> held in the Convention Centre Dublin from 11-15 July 2012.
+>>>>>> ESOF is an interdisciplinary, pan-European meeting, held under the
+>>>>>> auspices
+>>>>>> of
+>>>>>> Euroscience, which aims to:
+>>>>>> Showcase the latest advances in science and technology.
+>>>>>> Promote a dialogue on the role of science and technology in society and
+>>>>>> public policy.
+>>>>>> Stimulate and provoke public interest, excitement and debate about
+>>>>>> science
+>>>>>> and technology.
+>>>>>> The event will bring together over 5,000 scientists, business leaders,
+>>>>>> government
+>>>>>> officials and international media to discuss the best of European
+>>>>>> science
+>>>>>> and to
+>>>>>> address all of the major global challenges, including Energy, Climate
+>>>>>> Change, Food
+>>>>>> and Health.
+>>>>>> Dublin was awarded the honour of hosting this event following an open
+>>>>>> competition in
+>>>>>> 2008. The Dublin bid was led by the Chief Scientific Adviser to the
+>>>>>> Government, Prof
+>>>>>> Cunningham, with the support of Forf?s and beat off stiff competition
+>>>>>> from
+>>>>>> Vienna.
+>>>>>> Prof Cunningham and Forf?s are now responsible for planning and
+>>>>>> organisation
+>>>>>> of
+>>>>>> ESOF. In addition, they will coordinate other activities and events in
+>>>>>> the
+>>>>>> Dublin City of
+>>>>>> Science 2012 programme."
+>>>>>>
+>>>>>> Maria
+>>>>>> _______________________________________________
+>>>>>> open-science mailing list
+>>>>>> open-science at lists.okfn.org
+>>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>>>
+>>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Jonathan Gray
+>>>>>
+>>>>> Community Coordinator
+>>>>> The Open Knowledge Foundation
+>>>>> http://blog.okfn.org
+>>>>>
+>>>>> http://twitter.com/jwyg
+>>>>> http://identi.ca/jwyg
+>>>>>
+>>>>> _______________________________________________
+>>>>> open-science mailing list
+>>>>> open-science at lists.okfn.org
+>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>
+>> --
+>> John Wilbanks
+>> VP for Science
+>> Creative Commons
+>> web: http://creativecommons.org/science
+>> blog: http://scienceblogs.com/commonknowledge
+>> twitter: @wilbanks
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+>
+
+-- 
+John Wilbanks
+VP for Science
+Creative Commons
+web: http://creativecommons.org/science
+blog: http://scienceblogs.com/commonknowledge
+twitter: @wilbanks
+
+
+From jonathan.gray at okfn.org  Wed Jun 22 15:07:01 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 22 Jun 2011 16:07:01 +0200
+Subject: [open-science] Open Knowledge London!
+Message-ID: <BANLkTin1oOFm_kz9St=BO7DujktQj9BhWA@mail.gmail.com>
+
+Hi all,
+
+We're very pleased to announce that we're going to be starting a
+series of regular meetups for people interested in open data, open
+content, and all things open in London. The Centre for Creative
+Collaboration has partnered with the Open Knowledge Foundation to let
+us use their fantastic space!
+
+More information about the kind of thing we'll be up to is at:
+
+http://jwyg.okfn.org/2011/06/10/proposal-open-knowledge-london/
+
+For anyone interested in participating, please join the
+ok-london-announce list (which I think we should rename to just
+ok-london!):
+
+http://lists.okfn.org/mailman/listinfo/ok-london-announce
+
+Please help us to spread the word! The first meeting will probably be
+in mid-July.
+
+All the best,
+
+Jonathan
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Wed Jun 22 15:45:12 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 22 Jun 2011 16:45:12 +0200
+Subject: [open-science] Any open data folks going to Berlin9 in Washington
+	in November?
+Message-ID: <BANLkTik5fZxwo5n3q0vTjwHLmUiZ+nMh3Q@mail.gmail.com>
+
+http://www.berlin9.org/
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From gavin at gavinbaker.com  Wed Jun 22 16:11:06 2011
+From: gavin at gavinbaker.com (Gavin Baker)
+Date: Wed, 22 Jun 2011 11:11:06 -0400 (EDT)
+Subject: [open-science] Any open data folks going to Berlin9 in
+ Washington in November?
+In-Reply-To: <BANLkTik5fZxwo5n3q0vTjwHLmUiZ+nMh3Q@mail.gmail.com>
+References: <BANLkTik5fZxwo5n3q0vTjwHLmUiZ+nMh3Q@mail.gmail.com>
+Message-ID: <15117.205.201.246.2.1308755466.squirrel@webmail.tuffmail.net>
+
+I don't know if I'll be at the conference, but I'd be glad to meet up with
+everyone for happy hour.
+
+On Wed, June 22, 2011 10:45 am, Jonathan Gray wrote:
+> http://www.berlin9.org/
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+-- 
+Gavin Baker
+http://www.gavinbaker.com/
+gavin at gavinbaker.com
+
+
+
+From zyan at mit.edu  Wed Jun 22 18:38:34 2011
+From: zyan at mit.edu (Yan Zhu)
+Date: Wed, 22 Jun 2011 13:38:34 -0400
+Subject: [open-science] open science meetup in Boston/Cambridge
+Message-ID: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+
+Hi there!
+
+I'm Yan, one of the founders of the open science student group at MIT. I've
+been following this mailing list for a while now and thought it might be
+useful for those of us in the Boston/Cambridge area to have a meetup, at
+least so that those of us in the MIT group can get a better feel for what
+people in the area are doing to support the goals of open science. We're
+fairly new to the game and still trying to figure out what next semester
+will look like in terms of our objectives, so it'd be helpful for us to make
+connections to members of the okfn community.
+
+Please let me know if you're interested in meeting for drinks or a quick
+lunch, hopefully sometime within the next two weeks. Feel free to make
+suggestions for a location.
+
+A couple more words about the MIT Society for Open Science: We were started
+this February and currently consist of about a dozen undergrad and grad
+students. One of our main goals is to raise awareness for open science and
+open knowledge among local college communities through organizing events
+such as colloquium talks and conferences. We also have some interest in
+creating software and web tools to facilitate scientific collaboration. To
+date, our biggest achievement has been organizing a colloquium by the open
+science advocate (and quantum computation researcher) Dr. Michael Nielsen
+through the MIT Physics Department, scheduled for Sept. 22, 2011. You can
+reach us through the mailing list open-science at mit.edu.
+
+Cheers,
+Yan
+
+-- 
+Yan Zhu
+Department of Physics and PROBABLY NOT Mathematics
+MIT Class of 2012
+http://web.mit.edu/zyan/www/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110622/7ab8977d/attachment.htm>
+
+From peters at earlham.edu  Wed Jun 22 18:54:31 2011
+From: peters at earlham.edu (Peter Suber)
+Date: Wed, 22 Jun 2011 13:54:31 -0400
+Subject: [open-science] open science meetup in Boston/Cambridge
+In-Reply-To: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+References: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+Message-ID: <BANLkTikEa9U1w=raXroAGfCyTtWkXoCsAA@mail.gmail.com>
+
+I'd be interested in a Boston/Cambridge meet-up.  Unfortunately, I'm only in
+Cambridge about once a month these days and don't plan to be there in the
+next two weeks.  But if you're building a list of people in the area, add my
+name.
+
+     Best,
+     Peter
+
+
+Peter Suber
+Berkman Fellow, Harvard University
+Senior Researcher, SPARC
+peter.suber at gmail.com
+bit.ly/suber
+
+
+
+On Wed, Jun 22, 2011 at 1:38 PM, Yan Zhu <zyan at mit.edu> wrote:
+
+> Hi there!
+>
+> I'm Yan, one of the founders of the open science student group at MIT. I've
+> been following this mailing list for a while now and thought it might be
+> useful for those of us in the Boston/Cambridge area to have a meetup, at
+> least so that those of us in the MIT group can get a better feel for what
+> people in the area are doing to support the goals of open science. We're
+> fairly new to the game and still trying to figure out what next semester
+> will look like in terms of our objectives, so it'd be helpful for us to make
+> connections to members of the okfn community.
+>
+> Please let me know if you're interested in meeting for drinks or a quick
+> lunch, hopefully sometime within the next two weeks. Feel free to make
+> suggestions for a location.
+>
+> A couple more words about the MIT Society for Open Science: We were started
+> this February and currently consist of about a dozen undergrad and grad
+> students. One of our main goals is to raise awareness for open science and
+> open knowledge among local college communities through organizing events
+> such as colloquium talks and conferences. We also have some interest in
+> creating software and web tools to facilitate scientific collaboration. To
+> date, our biggest achievement has been organizing a colloquium by the open
+> science advocate (and quantum computation researcher) Dr. Michael Nielsen
+> through the MIT Physics Department, scheduled for Sept. 22, 2011. You can
+> reach us through the mailing list open-science at mit.edu.
+>
+> Cheers,
+> Yan
+>
+> --
+> Yan Zhu
+> Department of Physics and PROBABLY NOT Mathematics
+> MIT Class of 2012
+> http://web.mit.edu/zyan/www/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110622/8fc148f3/attachment-0001.htm>
+
+From egon.willighagen at gmail.com  Thu Jun 23 10:13:52 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Thu, 23 Jun 2011 11:13:52 +0200
+Subject: [open-science] open science meetup in Boston/Cambridge
+In-Reply-To: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+References: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+Message-ID: <BANLkTi=a-FxuJGVfR7bMFCKs4i0gCzt2Lg@mail.gmail.com>
+
+Hi Yan,
+
+On Wed, Jun 22, 2011 at 7:38 PM, Yan Zhu <zyan at mit.edu> wrote:
+> I'm Yan, one of the founders of the open science student group at MIT. I've
+> been following this mailing list for a while now and thought it might be
+> useful for those of us in the Boston/Cambridge area to have a meetup, at
+> least so that those of us in the MIT group can get a better feel for what
+> people in the area are doing to support the goals of open science. We're
+> fairly new to the game and still trying to figure out what next semester
+> will look like in terms of our objectives, so it'd be helpful for us to make
+> connections to members of the okfn community.
+
+I think these smaller scale meetups (e.g. compare to OKCon) are indeed
+important!
+
+After meeting up with people working on an electronic labnotebook
+system here at Karolinska, I finally picked up an my earlier intention
+to start a regular meeting series, resulting in Stockholm Open Science
+[0]. In fact, we'll meet up today for the first time, and meet monthly
+after summer (in fact, this is a bit late, as for many here summer
+starts today, though the weather disagrees [1] :). The main goal of
+these lunch meeting would be to network, learn from each other, etc.
+
+I was wondering if the Open Science wg should perhaps set up a list of
+such local initiatives on a the OKFN website?
+
+Greetings,
+
+Egon
+
+0.https://groups.google.com/group/stkhmos/about?hl=sv&noredirect=true
+1.http://www.smhi.se/vadret/nederbord-molnighet/norden
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet (http://ki.se/imm)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From jonathan.gray at okfn.org  Thu Jun 23 10:24:43 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 23 Jun 2011 11:24:43 +0200
+Subject: [open-science] open science meetup in Boston/Cambridge
+In-Reply-To: <BANLkTi=a-FxuJGVfR7bMFCKs4i0gCzt2Lg@mail.gmail.com>
+References: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+	<BANLkTi=a-FxuJGVfR7bMFCKs4i0gCzt2Lg@mail.gmail.com>
+Message-ID: <BANLkTim_SWVQvTV8jPDPyxJoyBg_U7kx+g@mail.gmail.com>
+
+On Thu, Jun 23, 2011 at 11:13 AM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+> I think these smaller scale meetups (e.g. compare to OKCon) are indeed
+> important!
+
+Very much agree. Most of the events we do are small, focused, informal
+workshops aimed at Getting Things Done. ;-)
+
+> I was wondering if the Open Science wg should perhaps set up a list of
+> such local initiatives on a the OKFN website?
+
+Great idea! We can also offer:
+
+  (i) local mailing lists (lists.okfn.org)
+  (ii) local groups (e.g. for people to have a profile,etc, e.g.
+http://okfn.org/groups/open-knowledge-london/)
+  (iii) local websites (e.g. science.okfn.org)
+
+This said, I'd strongly argue for using the open-science list, group
+and science.okfn.org for things that might be of interest to others!
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Thu Jun 23 11:01:08 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 23 Jun 2011 11:01:08 +0100
+Subject: [open-science] open science meetup in Boston/Cambridge
+In-Reply-To: <BANLkTim_SWVQvTV8jPDPyxJoyBg_U7kx+g@mail.gmail.com>
+References: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+	<BANLkTi=a-FxuJGVfR7bMFCKs4i0gCzt2Lg@mail.gmail.com>
+	<BANLkTim_SWVQvTV8jPDPyxJoyBg_U7kx+g@mail.gmail.com>
+Message-ID: <BANLkTikj9t6bxxCUWh5MifSkJ7hbwhhCLg@mail.gmail.com>
+
+On Thu, Jun 23, 2011 at 10:24 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> On Thu, Jun 23, 2011 at 11:13 AM, Egon Willighagen
+> <egon.willighagen at gmail.com> wrote:
+> > I think these smaller scale meetups (e.g. compare to OKCon) are indeed
+> > important!
+>
+> Very much agree. Most of the events we do are small, focused, informal
+> workshops aimed at Getting Things Done. ;-)
+>
+> One of the ideas I have floated generally is that newcomers to OKF
+(generally) should de directed to pages which relate to their country/city/
+etc. In that way they can get rapidly involved. It's also one of the most
+tractable things for them to start editing and contributiingt to.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110623/5d80a6d4/attachment.htm>
+
+From egon.willighagen at gmail.com  Thu Jun 23 12:20:14 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Thu, 23 Jun 2011 13:20:14 +0200
+Subject: [open-science] open science meetup in Boston/Cambridge
+In-Reply-To: <BANLkTim_SWVQvTV8jPDPyxJoyBg_U7kx+g@mail.gmail.com>
+References: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+	<BANLkTi=a-FxuJGVfR7bMFCKs4i0gCzt2Lg@mail.gmail.com>
+	<BANLkTim_SWVQvTV8jPDPyxJoyBg_U7kx+g@mail.gmail.com>
+Message-ID: <BANLkTin32qZ9b62SjxUiguinvkH=4bTJ-A@mail.gmail.com>
+
+On Thu, Jun 23, 2011 at 11:24 AM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> On Thu, Jun 23, 2011 at 11:13 AM, Egon Willighagen
+> Great idea! We can also offer:
+>
+> ?(i) local mailing lists (lists.okfn.org)
+> ?(ii) local groups (e.g. for people to have a profile,etc, e.g.
+> http://okfn.org/groups/open-knowledge-london/)
+> ?(iii) local websites (e.g. science.okfn.org)
+
+So, for use that would be:
+
+stkhmos at lists.okfn.org
+http://okfn.org/groups/stockholm-open-science/ or
+http://okfn.org/groups/stkhmos/
+http://stkhmos.science.okfn.org/
+
+?
+
+> This said, I'd strongly argue for using the open-science list, group
+> and science.okfn.org for things that might be of interest to others!
+
+Customized lists are good for organizing things, and e.g. Swedish
+could be allowed on our group list, but also include practical things
+whether there are pancakes today at the restaurant we're meeting...
+that is, things not of general interest, but useful for the group.
+
+General interest things can indeed be better on general lists, or via
+e.g. twitter. Our has tag is (as you might have expected from the
+above: #stkhmos :)
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet (http://ki.se/imm)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From jonathan.gray at okfn.org  Thu Jun 23 12:29:37 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 23 Jun 2011 13:29:37 +0200
+Subject: [open-science] open science meetup in Boston/Cambridge
+In-Reply-To: <BANLkTin32qZ9b62SjxUiguinvkH=4bTJ-A@mail.gmail.com>
+References: <BANLkTinfG51NBA6kraWHSNjpOTtJ3QNTRg@mail.gmail.com>
+	<BANLkTi=a-FxuJGVfR7bMFCKs4i0gCzt2Lg@mail.gmail.com>
+	<BANLkTim_SWVQvTV8jPDPyxJoyBg_U7kx+g@mail.gmail.com>
+	<BANLkTin32qZ9b62SjxUiguinvkH=4bTJ-A@mail.gmail.com>
+Message-ID: <BANLkTikkwzhOb1rCrsgjXmP3repM-Y1EvQ@mail.gmail.com>
+
+On Thu, Jun 23, 2011 at 1:20 PM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+> stkhmos at lists.okfn.org
+> http://okfn.org/groups/stockholm-open-science/ or
+> http://okfn.org/groups/stkhmos/
+> http://stkhmos.science.okfn.org/
+
+Yes - you're welcome to have all of these! :-)
+
+The one thing I'd also suggest is that national lists are also good -
+e.g. to pull people interested in different open content/data projects
+into one bigger discussion. E.g. we have these in Austria, Bulgaria,
+Czech Republic, France, Germany, Italy and other counties. Also have
+regional open knowledge lists in London, Berlin, etc - for people
+interested in open knowledge in different domains. This fits with OKF
+mission of strengthening broader open knowledge community.
+
+Kat, Lucy and I are going to be putting further instructions on all
+this kind of thing into a big document called the OKF Handbook soon -
+which will let people know how they can use OKF facilities to do
+useful stuff.
+
+>> This said, I'd strongly argue for using the open-science list, group
+>> and science.okfn.org for things that might be of interest to others!
+>
+> Customized lists are good for organizing things, and e.g. Swedish
+> could be allowed on our group list, but also include practical things
+> whether there are pancakes today at the restaurant we're meeting...
+> that is, things not of general interest, but useful for the group.
+
+Agreed. :-)
+
+> General interest things can indeed be better on general lists, or via
+> e.g. twitter. Our has tag is (as you might have expected from the
+> above: #stkhmos :)
+
+Yes - as long as you promise not to have all the interesting
+discussions on the Stockholm list! :-)
+
+J.
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From rufus.pollock at okfn.org  Thu Jun 23 16:18:12 2011
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 23 Jun 2011 16:18:12 +0100
+Subject: [open-science] Open Science and Open Social Science at OKCon
+Message-ID: <BANLkTin6ua+Y2AdkwmuBkz6XO_SAG5X6Kw@mail.gmail.com>
+
+We're having a one-day workshop on the 29th and a panel session on the
+30th on Open Science and Open Social Science:
+
+<http://blog.okfn.org/2011/06/23/from-extra-terrestials-to-open-knowledge-open-science-and-open-social-science-at-okcon/>
+
+Workshop details:
+
+<http://okcon.org/2011/programme/open-science-and-social-science-workshop>
+
+Panel details (panellists will also participate in the workshop the day before):
+
+<http://okcon.org/2011/programme/open-science-panel>
+
+Dirk Brockman, Northwestern University, about how amateur tracking of
+the movement of dollar bills can inform about epidemiology and social
+networks.
+
+David Aanensen, of Imperial College London, on the open source
+smartphone project EpiCollect for tracking wildlife, surveying plants
+and doing epidemiological studies in the field.
+
+Carl Christensen, Stanford University on how to turn your laptop and
+PC into part of a public network for earthquake sensing, and how the
+resulting citizen-based data is leading to new scientific insights.
+
+Nicolas Maire, the Swiss Tropical and Public Health Institute, Basel
+on how volunteer computing can help African governments to decide
+rationally on whether to invest in malaria vaccines.
+
+Lucas Mation, Instituto de Pesquisa Econ?mica Aplicada, Brasilia, on
+an ambitious plan to involve Brazilian citizens in the digitization of
+millions of tomes of archived economics data
+
+Daniel Lombra?a Gonz?lez, Citizen Cyberscience Centre, Geneva on new
+approaches to improving the reliability of volunteer-based
+contributions to mapping humanitarian crises and climate change
+impact.
+
+Regards,
+
+Rufus
+
+
+From steelgraham at hotmail.com  Tue Jun 28 16:58:00 2011
+From: steelgraham at hotmail.com (Graham Steel)
+Date: Tue, 28 Jun 2011 15:58:00 +0000
+Subject: [open-science] Panton Principles Banner now live on BMC website
+In-Reply-To: <BANLkTinCOO2Zm1wOZtRX1tmXXQrCh939Ag@mail.gmail.com>
+References: <BANLkTi=y_q3U3EZBvw05E8z8+YaBqRKv_A@mail.gmail.com>,
+	<23B49CAE5B0DF045A1ED88731931C90B056012A3@SEGBLOGR0008.springer-sbm.com>,
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B8CB@SEGBLOGR0008.springer-sbm.com>,
+	<BANLkTikR2WCC_Oy3mtLAS3v05TB7sCRW_A@mail.gmail.com>,
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B97D@SEGBLOGR0008.springer-sbm.com>,
+	<BANLkTi=naaLbuk13aKVd=Qqgi6bcLS3uJA@mail.gmail.com>,
+	<BANLkTinCOO2Zm1wOZtRX1tmXXQrCh939Ag@mail.gmail.com>
+Message-ID: <DUB106-w583D5C19CD4FF864408A55B4560@phx.gbl>
+
+
+Dear all,
+
+Received an email earlier today from the guys at BMC to confirm that the newly designed PP banner went live this morning.
+
+Cue this "announcement" on FriendFeed after I found out.
+
+Best,
+
+Graham
+
+---------- Forwarded message ----------
+From: Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com>
+
+
+Date: Tue, Jun 28, 2011 at 4:44 PM
+Subject: RE: FW: another banner query
+To: Graham Steel <steelgraham7 at googlemail.com>
+
+Cc: Giuseppe Pisaniello <giuseppe.pisaniello at biomedcentral.com>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Very glad we got this done. I think this screenshot is quite
+poignant (Cameron Neylon?s new journal)!
+
+ 
+
+
+
+ 
+
+
+
+From: Graham Steel
+[mailto:steelgraham7 at googlemail.com] 
+
+Sent: 28 June 2011 16:37
+
+To: Iain Hrynaszkiewicz
+
+Cc: Giuseppe Pisaniello
+
+Subject: Re: FW: another banner query
+
+
+
+ 
+
+F at cking Awesomesauce :))
+
+
+
+Will inform the troops...
+
+
+
+Thanks again BMC.....
+
+
+
+G
+
+
+
+On Tue, Jun 28, 2011 at 2:51 PM, Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com>
+wrote:
+
+
+
+
+
+Great, thanks Giuseppe.
+
+ 
+
+Iain
+
+ 
+
+
+
+
+
+From:
+Giuseppe Pisaniello 
+
+Sent: 28 June 2011 11:02
+
+To: 'Graham Steel'
+
+Cc: Iain Hrynaszkiewicz
+
+Subject: RE: FW: another banner query
+
+
+
+
+
+
+
+
+
+ 
+
+Hi Graham,
+
+ 
+
+This is now live.
+
+ 
+
+Campaign ID:Contra-IH-panton-LB 
+
+
+
+ 
+
+ 
+
+Thanks
+
+
+
+G
+
+ 
+ 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110628/c35c234c/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 201895 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110628/c35c234c/attachment-0001.png>
+
+From dc at icommons.org  Tue Jun 28 17:53:13 2011
+From: dc at icommons.org (Diane Cabell)
+Date: Tue, 28 Jun 2011 17:53:13 +0100
+Subject: [open-science] Panton Principles Banner now live on BMC website
+In-Reply-To: <DUB106-w583D5C19CD4FF864408A55B4560@phx.gbl>
+References: <BANLkTi=y_q3U3EZBvw05E8z8+YaBqRKv_A@mail.gmail.com>,
+	<23B49CAE5B0DF045A1ED88731931C90B056012A3@SEGBLOGR0008.springer-sbm.com>,
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B8CB@SEGBLOGR0008.springer-sbm.com>,
+	<BANLkTikR2WCC_Oy3mtLAS3v05TB7sCRW_A@mail.gmail.com>,
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B97D@SEGBLOGR0008.springer-sbm.com>,
+	<BANLkTi=naaLbuk13aKVd=Qqgi6bcLS3uJA@mail.gmail.com>,
+	<BANLkTinCOO2Zm1wOZtRX1tmXXQrCh939Ag@mail.gmail.com>
+	<DUB106-w583D5C19CD4FF864408A55B4560@phx.gbl>
+Message-ID: <99E80262-B2ED-4FCA-B080-6AEC3EB1F40F@icommons.org>
+
+Where can we get the image files?
+
+Diane Cabell
+
+
+On Jun 28, 2011, at 4:58 PM, Graham Steel wrote:
+
+> Dear all,
+> 
+> Received an email earlier today from the guys at BMC to confirm that the newly designed PP banner went live this morning.
+> 
+> Cue this "announcement" on FriendFeed after I found out.
+> 
+> Best,
+> 
+> Graham
+> 
+> ---------- Forwarded message ----------
+> From: Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com>
+> Date: Tue, Jun 28, 2011 at 4:44 PM
+> Subject: RE: FW: another banner query
+> To: Graham Steel <steelgraham7 at googlemail.com>
+> Cc: Giuseppe Pisaniello <giuseppe.pisaniello at biomedcentral.com>
+> 
+> 
+> Very glad we got this done. I think this screenshot is quite poignant (Cameron Neylon?s new journal)!
+> 
+>  
+> 
+> <image001.png>
+> 
+>  
+> 
+> From: Graham Steel [mailto:steelgraham7 at googlemail.com] 
+> Sent: 28 June 2011 16:37
+> 
+> 
+> To: Iain Hrynaszkiewicz
+> Cc: Giuseppe Pisaniello
+> Subject: Re: FW: another banner query
+> 
+>  
+> 
+> F at cking Awesomesauce :))
+> 
+> Will inform the troops...
+> 
+> Thanks again BMC.....
+> 
+> G
+> 
+> On Tue, Jun 28, 2011 at 2:51 PM, Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> 
+> Great, thanks Giuseppe.
+> 
+>  
+> 
+> Iain
+> 
+>  
+> 
+> From: Giuseppe Pisaniello 
+> Sent: 28 June 2011 11:02
+> To: 'Graham Steel'
+> Cc: Iain Hrynaszkiewicz
+> Subject: RE: FW: another banner query
+> 
+>  
+> 
+> Hi Graham,
+> 
+>  
+> 
+> This is now live.
+> 
+>  
+> 
+> Campaign ID:Contra-IH-panton-LB
+> 
+>  
+> 
+>  
+> 
+> Thanks
+> 
+> 
+> G
+> 
+>  
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110628/787f29f0/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Jun 28 18:46:15 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 28 Jun 2011 19:46:15 +0200
+Subject: [open-science] Panton Principles Banner now live on BMC website
+In-Reply-To: <99E80262-B2ED-4FCA-B080-6AEC3EB1F40F@icommons.org>
+References: <BANLkTi=y_q3U3EZBvw05E8z8+YaBqRKv_A@mail.gmail.com>
+	<23B49CAE5B0DF045A1ED88731931C90B056012A3@SEGBLOGR0008.springer-sbm.com>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B8CB@SEGBLOGR0008.springer-sbm.com>
+	<BANLkTikR2WCC_Oy3mtLAS3v05TB7sCRW_A@mail.gmail.com>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B97D@SEGBLOGR0008.springer-sbm.com>
+	<BANLkTi=naaLbuk13aKVd=Qqgi6bcLS3uJA@mail.gmail.com>
+	<BANLkTinCOO2Zm1wOZtRX1tmXXQrCh939Ag@mail.gmail.com>
+	<DUB106-w583D5C19CD4FF864408A55B4560@phx.gbl>
+	<99E80262-B2ED-4FCA-B080-6AEC3EB1F40F@icommons.org>
+Message-ID: <BANLkTi=u5qsb1T59p8YiYg6ouCme1Z5ovA@mail.gmail.com>
+
+Uploaded a screenshot here:
+
+http://www.flickr.com/photos/okfn/5881216937/sizes/z/in/photostream/
+
+Jenny: perhaps you could blog about this if you have a moment?
+
+J.
+
+On Tue, Jun 28, 2011 at 6:53 PM, Diane Cabell <dc at icommons.org> wrote:
+> Where can we get the image files?
+> Diane Cabell
+>
+>
+> On Jun 28, 2011, at 4:58 PM, Graham Steel wrote:
+>
+> Dear all,
+>
+> Received an email earlier today from the guys at BMC to confirm that the
+> newly designed PP banner went live this morning.
+>
+> Cue this "announcement" on FriendFeed after I found out.
+>
+> Best,
+>
+> Graham
+>
+> ---------- Forwarded message ----------
+> From: Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com>
+> Date: Tue, Jun 28, 2011 at 4:44 PM
+> Subject: RE: FW: another banner query
+> To: Graham Steel <steelgraham7 at googlemail.com>
+> Cc: Giuseppe Pisaniello <giuseppe.pisaniello at biomedcentral.com>
+>
+>
+> Very glad we got this done. I think this screenshot is quite poignant
+> (Cameron Neylon?s new journal)!
+>
+>
+>
+> <image001.png>
+>
+>
+>
+> From: Graham Steel [mailto:steelgraham7 at googlemail.com]
+> Sent: 28 June 2011 16:37
+>
+> To: Iain Hrynaszkiewicz
+> Cc: Giuseppe Pisaniello
+> Subject: Re: FW: another banner query
+>
+>
+>
+> F at cking Awesomesauce :))
+>
+> Will inform the troops...
+>
+> Thanks again BMC.....
+>
+> G
+>
+> On Tue, Jun 28, 2011 at 2:51 PM, Iain Hrynaszkiewicz
+> <Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+>
+> Great, thanks Giuseppe.
+>
+>
+>
+> Iain
+>
+>
+>
+> From: Giuseppe Pisaniello
+> Sent: 28 June 2011 11:02
+> To: 'Graham Steel'
+> Cc: Iain Hrynaszkiewicz
+> Subject: RE: FW: another banner query
+>
+>
+>
+> Hi Graham,
+>
+>
+>
+> This is now live.
+>
+>
+>
+> Campaign ID:Contra-IH-panton-LB
+>
+>
+>
+>
+>
+> Thanks
+>
+> G
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Wed Jun 29 09:27:32 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 29 Jun 2011 10:27:32 +0200
+Subject: [open-science] Panton Principles Banner now live on BMC website
+In-Reply-To: <FA3EE8C8-9F87-4E88-ACE6-D4690B7DA3D9@icommons.org>
+References: <BANLkTi=y_q3U3EZBvw05E8z8+YaBqRKv_A@mail.gmail.com>
+	<23B49CAE5B0DF045A1ED88731931C90B056012A3@SEGBLOGR0008.springer-sbm.com>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B8CB@SEGBLOGR0008.springer-sbm.com>
+	<BANLkTikR2WCC_Oy3mtLAS3v05TB7sCRW_A@mail.gmail.com>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA03D1B97D@SEGBLOGR0008.springer-sbm.com>
+	<BANLkTi=naaLbuk13aKVd=Qqgi6bcLS3uJA@mail.gmail.com>
+	<BANLkTinCOO2Zm1wOZtRX1tmXXQrCh939Ag@mail.gmail.com>
+	<DUB106-w583D5C19CD4FF864408A55B4560@phx.gbl>
+	<99E80262-B2ED-4FCA-B080-6AEC3EB1F40F@icommons.org>
+	<BANLkTi=u5qsb1T59p8YiYg6ouCme1Z5ovA@mail.gmail.com>
+	<FA3EE8C8-9F87-4E88-ACE6-D4690B7DA3D9@icommons.org>
+Message-ID: <BANLkTi=LMCw1udFWtRTM==9jQHiZ471RyA@mail.gmail.com>
+
+Here is the original banner, for anyone else who wants it!
+
+http://www.flickr.com/photos/okfn/5884014274/sizes/o/in/photostream/
+
+On Tue, Jun 28, 2011 at 9:22 PM, Diane Cabell <dc at icommons.org> wrote:
+> Just want the PP banner for the iCom website. I have limited image editing skills.
+>
+>
+> On Jun 28, 2011, at 6:46 PM, Jonathan Gray wrote:
+>
+>> Uploaded a screenshot here:
+>>
+>> http://www.flickr.com/photos/okfn/5881216937/sizes/z/in/photostream/
+>>
+>> Jenny: perhaps you could blog about this if you have a moment?
+>>
+>> J.
+>>
+>> On Tue, Jun 28, 2011 at 6:53 PM, Diane Cabell <dc at icommons.org> wrote:
+>>> Where can we get the image files?
+>>> Diane Cabell
+>>>
+>>>
+>>> On Jun 28, 2011, at 4:58 PM, Graham Steel wrote:
+>>>
+>>> Dear all,
+>>>
+>>> Received an email earlier today from the guys at BMC to confirm that the
+>>> newly designed PP banner went live this morning.
+>>>
+>>> Cue this "announcement" on FriendFeed after I found out.
+>>>
+>>> Best,
+>>>
+>>> Graham
+>>>
+>>> ---------- Forwarded message ----------
+>>> From: Iain Hrynaszkiewicz <Iain.Hrynaszkiewicz at biomedcentral.com>
+>>> Date: Tue, Jun 28, 2011 at 4:44 PM
+>>> Subject: RE: FW: another banner query
+>>> To: Graham Steel <steelgraham7 at googlemail.com>
+>>> Cc: Giuseppe Pisaniello <giuseppe.pisaniello at biomedcentral.com>
+>>>
+>>>
+>>> Very glad we got this done. I think this screenshot is quite poignant
+>>> (Cameron Neylon?s new journal)!
+>>>
+>>>
+>>>
+>>> <image001.png>
+>>>
+>>>
+>>>
+>>> From: Graham Steel [mailto:steelgraham7 at googlemail.com]
+>>> Sent: 28 June 2011 16:37
+>>>
+>>> To: Iain Hrynaszkiewicz
+>>> Cc: Giuseppe Pisaniello
+>>> Subject: Re: FW: another banner query
+>>>
+>>>
+>>>
+>>> F at cking Awesomesauce :))
+>>>
+>>> Will inform the troops...
+>>>
+>>> Thanks again BMC.....
+>>>
+>>> G
+>>>
+>>> On Tue, Jun 28, 2011 at 2:51 PM, Iain Hrynaszkiewicz
+>>> <Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+>>>
+>>> Great, thanks Giuseppe.
+>>>
+>>>
+>>>
+>>> Iain
+>>>
+>>>
+>>>
+>>> From: Giuseppe Pisaniello
+>>> Sent: 28 June 2011 11:02
+>>> To: 'Graham Steel'
+>>> Cc: Iain Hrynaszkiewicz
+>>> Subject: RE: FW: another banner query
+>>>
+>>>
+>>>
+>>> Hi Graham,
+>>>
+>>>
+>>>
+>>> This is now live.
+>>>
+>>>
+>>>
+>>> Campaign ID:Contra-IH-panton-LB
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> Thanks
+>>>
+>>> G
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jenny.molloy at okfn.org  Wed Jun 29 13:51:24 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 29 Jun 2011 13:51:24 +0100
+Subject: [open-science] Membership List for Working Group
+Message-ID: <BANLkTimZPEMsCec3eJmQoAGS6NtDEytgXQ@mail.gmail.com>
+
+Dear All
+
+Since science.okfn.org was established, the working group membership list
+has been migrated across http://science.okfn.org/members/. Unfortunately, as
+it is no longer a Wiki format people can't add themselves, so please see new
+instructions for adding or updating your entry below!
+
+Who is a member?
+Anyone who wants to be! You don't have to add your name to participate in
+the mailing list/meetings or other activities, but it is a nice resource for
+other members and people coming across the group to see the spread of people
+we have involved.
+
+How do I get my name on the list?
+Email your name, affiliation and any associated URLs (e.g. personal web
+page, OKF profile) to which you would like your entry to link to
+jenny.molloy at okfn.org.
+If you don't already have one, you could also set up a profile on the OKF
+main site and join the informal Science group
+http://okfn.org/groups/science/
+
+What can I do as a member?
+As well as participating in the mailing list and monthly Skype meetings, to
+which all are invited, you could also:
+Offer to blog on science.okfn.org. This could be a guest post or if you'd
+like to be a more regular contributor, we can set you up with an account.
+Get included in the list of publications/articles/videos/podcasts by or
+involving members that we are beginning to include in monthly updates.
+Please flag up your own or other member's work for inclusion on the meeting
+Etherpads (links sent out monthly)!
+
+Thanks very much, and do let me know if you have any questions.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110629/36396162/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Jun 29 14:25:34 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 29 Jun 2011 14:25:34 +0100
+Subject: [open-science] SWAT4LS Hackathon Update
+Message-ID: <BANLkTinxLt9K=4Yc_JX056wGCOtqxcGvSQ@mail.gmail.com>
+
+Dear All
+
+The working group is organising a hackathon as part of the SWAT4LS
+conference (http://www.swat4ls.org/) - see below for more details and a call
+for volunteers!
+
+When: Wednesday 7 December 2011, all day
+
+Where: ULU, London (TBC)
+
+What:
+A one day open data in science hackathon with partcipants from the Semantic
+Web for the Life Sciences community.
+The theme is to be generating open research reports using bibliographic data
+from PubMedCentral, focussing on malaria research. It is also designed to
+demonstrate what can be done with open data and discussions/ideas generated
+throughout the day will doubtless be wide ranging! Demos and discussions
+will also take place at the SWAT4LS meeting proper the next day.
+
+What we need:
+Volunteers with hackathon experience to assist on the day, and also in
+developing a framework for participants prior to the day itself, to ensure
+it is as productive as possible.
+
+If you're interested in assisting, let me know at jenny.molloy at okfn.org
+
+Thanks very much!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110629/c063329c/attachment.htm>
+
+From jenny.molloy at okfn.org  Wed Jun 29 16:26:33 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 29 Jun 2011 16:26:33 +0100
+Subject: [open-science] Panton Principles Case Studies
+Message-ID: <BANLkTimPdDC60QxwGPUiLHe3LimDEukepg@mail.gmail.com>
+
+Dear All
+
+For several working group meetings, we have briefly discussed the
+possibility of writing some case studies for the Panton Principles,
+higlighting people, projects or papers that have published according to the
+prinicples and hopefully why that is a good idea.
+
+A short paragraph and ideally a quote from the authors could be placed on
+the Panton Principles web site and hopefully be useful for visitors to the
+site and advocates of the Principles for use in discusssions or
+presentations.
+
+Our current suggestions are listed below and on this Etherpad
+http://okfnpad.org/sciencewg-PPcasestudies, but we need more!
+
+- People who try to work according to PP or are inspirational advocates of
+open scientific data.
+
+- Notable papers which have been published according to PP (especially any
+who have made a special effort to make data as open as possible)
+
+- Longer term projects which are publishing data according to PP
+
+- Any other interesting examples of open data in science
+
+Deadline for suggestions is 11th July, when we will have a drafting session
+on Etherpad and Skype - if you'd like to participate please add your Skype
+ID here http://okfnpad.org/sciencewg-PPcasestudies
+
+NB: This session is postponed from the originally suggested date of 20th
+June
+
+Thanks very much!
+
+Jenny
+
+
+##### Suggestions ######
+
+Ada Yonath
+Christine Borgman
+Greg Wilson
+Sean Eddy
+
+BMC Open Data Awards:
+
+2010 Winner:
+Yoosook Lee for http://www.malariajournal.com/content/8/1/75/
+(more details on Cameron Neylon's blog
+http://cameronneylon.net/blog/the-bmc-10th-anniversary-celebrations-and-open-data-prize/
+ )
+
+2010 Notable nominations (from Cameron's blog - there were more) :
+http://www.biomedcentral.com/1741-7007/7/73
+http://www.gvt-journal.com/content/7/1/6/
+http://www.biomedcentral.com/1471-2350/10/6
+
+2011 Winners
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/on_the_unbearable_lightness_of
+Short List
+http://www.biomedcentral.com/researchawards/shortlist
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20110629/8acc35d9/attachment.htm>
+

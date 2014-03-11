@@ -1,0 +1,1008 @@
+From adrian.pohl at okfn.org  Tue Mar  5 11:27:09 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 5 Mar 2013 12:27:09 +0100
+Subject: [open-bibliography] Virtual meeting postponed to next week
+Message-ID: <CAOtd05HTA3Mx1U8fp2XNU78+KOFnxH1oXBEvu-1T5yybqutduw@mail.gmail.com>
+
+Hello,
+
+the virtual meeting should happen today as it's the first Tuesday of
+the month. But as I haven't sent out a reminder early enough and will
+also have problems to host the meeting today, I propose postponing it
+to next week (Tuesday , March 12th, 16:00 UTC). Anybody who is willing
+to attend, please add your name to the etherpad along with topics
+you'd like to discuss:
+
+http://okfnpad.org/29th-open-bibliography-meeting
+
+ @Karen: Will you be around to describe the initial efforts at Open
+Library to build a community around OL?
+
+All the best
+Adrian
+
+
+From kcoyle at kcoyle.net  Tue Mar  5 15:02:21 2013
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 05 Mar 2013 07:02:21 -0800
+Subject: [open-bibliography] Virtual meeting postponed to next week
+In-Reply-To: <CAOtd05HTA3Mx1U8fp2XNU78+KOFnxH1oXBEvu-1T5yybqutduw@mail.gmail.com>
+References: <CAOtd05HTA3Mx1U8fp2XNU78+KOFnxH1oXBEvu-1T5yybqutduw@mail.gmail.com>
+Message-ID: <513608FD.1020004@kcoyle.net>
+
+Yes, I can be at the meeting. - kc
+
+On 3/5/13 3:27 AM, Adrian Pohl wrote:
+> Hello,
+>
+> the virtual meeting should happen today as it's the first Tuesday of
+> the month. But as I haven't sent out a reminder early enough and will
+> also have problems to host the meeting today, I propose postponing it
+> to next week (Tuesday , March 12th, 16:00 UTC). Anybody who is willing
+> to attend, please add your name to the etherpad along with topics
+> you'd like to discuss:
+>
+> http://okfnpad.org/29th-open-bibliography-meeting
+>
+>   @Karen: Will you be around to describe the initial efforts at Open
+> Library to build a community around OL?
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From ross.mounce at okfn.org  Wed Mar  6 08:04:14 2013
+From: ross.mounce at okfn.org (Ross Mounce)
+Date: Wed, 6 Mar 2013 08:04:14 +0000
+Subject: [open-bibliography] Crowdcrafting Hackday,
+	Sat 16th March @C4CC (London)
+Message-ID: <CAJr+OEyVqqy5_xCiMXkyd9Pvk_ZLOk+xn2v0H=3PtxZkBiGYzg@mail.gmail.com>
+
+Dear lists,
+
+The Open Knowledge Foundation is organising a special Crowdcrafting Hackday
+at the Centre for Creative Collaboration in London on Saturday 16th March
+from 10:00 to 17:00 (GMT) in collaboration with the Citizen Cyberscience
+Center and Citizen Cyberlab.
+
+The overall aim will be to develop micro-tasking apps for Science &
+Humanities applications. We will have several experts there on the day
+representing http://www.epicollect.net/ (Imperial College London) as well
+as the lead developer of Crowdcrafting.org himself - Daniel Lombra?a
+Gonz?lez (Citizen Cyberscience Center). An opportunity not to be missed!
+
+Participants are welcome to either join-in with a project development on
+the day, or bring their own app idea/proposal (but if the latter please do
+get in contact with us beforehand so we can better accommodate this).
+
+More info here: http://okfn.org/events/science-hackday-march-2013/
+
+Event sign-up (required) here:
+http://science-hackday-march-2013.eventbrite.com
+
+Best,
+
+Ross
+
+-
+Open Knowledge Foundation
+Community Coordinator, Open Science
+www.okfn.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130306/8cea55c0/attachment.htm>
+
+From krichel at openlib.org  Wed Mar  6 10:16:27 2013
+From: krichel at openlib.org (Thomas Krichel)
+Date: Wed, 6 Mar 2013 11:16:27 +0100
+Subject: [open-bibliography] call for posters at OAI8 in Geneva 19-21 June
+	2013
+Message-ID: <20130306101627.GA21074@openlib.org>
+
+
+  OAI8, the 8th Workshop on Innovations in Scholarly Communication will
+  be held in Geneva, Switzerland, from Wednesday 19th to Friday 21st
+  June 2013. Program details, registration and the call for posters are
+  now available at https://indico.cern.ch/event/oai8. It is
+  possible to register for a part or all of the programme.
+  
+  You are invited to submit a description in the form of a short
+  abstract if you wish to bring a poster to the workshop giving
+  details of your project. The poster should be of interest to OAI8
+  participants and directly related to the general themes of the
+  workshop.
+  
+  Posters will be displayed in the Uni Mail main hall and an extended
+  coffee break will take place on Thursday 20 June 2013. This will
+  give attendees the chance to view these and discuss them with the
+  author. Attendees will also have the opportunity to vote for the
+  poster which delivers the most impact. Posters should be A0 in size
+  (841 x 1189 mm) for portrait or A1 (594 x 841 mm) for landscape.
+  Any special equipment requests should be addressed to the workshop
+  organisers when a poster has been accepted.
+  
+  If your poster is accepted you should still register for the
+  workshop as normal and you will be expected to pay your own
+  expenses. Owing to the large demand on accommodation, we advise you
+  to register early - you may cancel your registration later if your
+  submission is not successful.
+  
+  Poster abstracts can be submitted until 1 April 2013 after a quick
+  registration process (different from the conference
+  registration). Decisions will be made on an ongoing basis (and no
+  later than the end April) and communicated to the submitters.
+  
+  The poster submission form is available at
+  https://indico.cern.ch/abstractSubmission.py?confId=211600
+  
+  The committee looks forward to welcoming you to Geneva.
+
+  For the OAI8 Organising Committee with cheers,
+
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From adrian.pohl at okfn.org  Tue Mar 12 14:19:13 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 12 Mar 2013 15:19:13 +0100
+Subject: [open-bibliography] Virtual meeting postponed to next week
+In-Reply-To: <513608FD.1020004@kcoyle.net>
+References: <CAOtd05HTA3Mx1U8fp2XNU78+KOFnxH1oXBEvu-1T5yybqutduw@mail.gmail.com>
+	<513608FD.1020004@kcoyle.net>
+Message-ID: <CAOtd05GmCTAmcqo8UmC5zmhnp-F2h05S2s-w0CDp64LfvUPG=Q@mail.gmail.com>
+
+This is a reminder that the meeting will start at 16:00 UTC (in 1.5
+hours), see http://is.gd/openbiblio29 for your local time.
+
+(I am traveling and will be skyping from the hotel. Hope the wifi will
+make it. Perhaps somebody else has to host the call...)
+
+- Adrian
+
+On 5 March 2013 16:02, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> Yes, I can be at the meeting. - kc
+>
+>
+> On 3/5/13 3:27 AM, Adrian Pohl wrote:
+>>
+>> Hello,
+>>
+>> the virtual meeting should happen today as it's the first Tuesday of
+>> the month. But as I haven't sent out a reminder early enough and will
+>> also have problems to host the meeting today, I propose postponing it
+>> to next week (Tuesday , March 12th, 16:00 UTC). Anybody who is willing
+>> to attend, please add your name to the etherpad along with topics
+>> you'd like to discuss:
+>>
+>> http://okfnpad.org/29th-open-bibliography-meeting
+>>
+>>   @Karen: Will you be around to describe the initial efforts at Open
+>> Library to build a community around OL?
+>>
+>> All the best
+>> Adrian
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+
+
+From f.j.mcneill at ed.ac.uk  Thu Mar 14 14:45:14 2013
+From: f.j.mcneill at ed.ac.uk (Fiona McNeill)
+Date: Thu, 14 Mar 2013 14:45:14 +0000
+Subject: [open-bibliography] 2nd UK Ontology Network Meeting: Registration
+	deadline and student funding
+Message-ID: <CAFvquW_56nOeQYkx3LFxHeqm6XkvYcZPmG7x=mMtFZ_ho4pA-A@mail.gmail.com>
+
+Apologies for cross-posting
+
+We are pleased to announce that a small amount of money for student travel
+is available for the meeting, which will be held on April 11th in the
+Informatics Forum, University of Edinburgh.
+
+We also ask anyone intending to attend the meeting to register by *March
+31st*, to allow us to finalise catering.
+
+Registration and information about applying for student funding can be
+found on the event website: http://dream.inf.ed.ac.uk
+/events/ukont-13/2013_workshop_program.html.
+
+The theme of this meeting is *to understand how ontology development and
+application are being used to address problems* in the UK. Amongst other
+areas of interest, there will be a particular focus on creating and using *open
+data*. The program and audience is intentionally very diverse; the aim is
+to cover areas from many disciplines. We are particularly interested in
+bringing together those creating and developing the technology with those
+using the technology in industry, government and public organisations.
+
+There will be 18 short talks from leading academics, and practitioners from
+major organisations and government, as well as a demo session and a
+networking session.  The programme is given below.
+
+We hope to see many of you in Edinburgh in April.  Please forward this
+email to any individuals and mailing lists you think it might be of
+interest to.
+
+Many thanks,
+Fiona
+
+
+
+
+Time Name Affiliation Slides  *9:00-9:30* *Coffee and morning pastries*  *
+9:30-9:40* *Welcome*  *9:40-11:00* *Session 1: short talks*
+John Callahan ONR Global
+
+*Predicting Convergent Ontologies for Real-time, Adaptive Information
+Integration*
+Alan Bundy <http://homepages.inf.ed.ac.uk/bundy/> University of Edinburgh
+
+*The interaction of representation and reasoning*
+Phil Barker <http://www.icbl.hw.ac.uk/%7Ephilb/> Heriot-Watt University
+
+*schema.org, an ontology for discovery on the web*
+Gill Hamilton National Library of Scotland
+
+*tbc*
+Enrico Motta <http://people.kmi.open.ac.uk/motta/> Open University
+
+*tbc*
+Chris Mellish <http://homepages.abdn.ac.uk/c.mellish/pages/> University of
+Aberdeen
+
+*WhatIf: Ontology authoring through natural dialogue?*
+Peter Winstanley Scottish Government
+
+*tbc*
+Peter Murray-Rust <http://www.ch.cam.ac.uk/person/pm286> Open Knowledge
+Foundation
+
+*Ontologies in physical science*
+Jeff Pan <http://homepages.abdn.ac.uk/jeff.z.pan/pages/> University of
+Aberdeen
+
+*tbc*  *11:00-11:40* *Coffee*  *11:40-13:00* *Session 2: short talks*
+Edoardo Pignotti <http://www.abdn.ac.uk/ncs/profiles/e.pignotti/> University
+of Aberdeen
+
+*An Ontological Framework to Support Provenance in a Virtual Research
+Environment*
+Frank van Harmelen <http://www.cs.vu.nl/%7Efrankh/> Vrije Universiteit,
+Amsterdam
+
+*tbc*
+Tom Grahame BBC
+
+*tbc*
+Ewan Klein <http://homepages.inf.ed.ac.uk/ewan/> University of Edinburgh
+
+*tbc*
+Janice Watson NHS Scotland
+
+*tbc*
+Robert Barr <http://robertbarr.tel/> Open Data User Group; University of
+Liverpool
+
+*Is an address still an address if you don't know what you're addressing
+and why? Towards ontologies for addressable geographical objects*
+Fiona McNeill <http://homepages.inf.ed.ac.uk/fmcneill/> University of
+Edinburgh
+
+*Dynamic data sharing during emergency responses*
+Richard Gunn EPSRC
+
+*Towards an Intelligent Information Infrastructure (TI3)*
+Elena Simperl <https://sites.google.com/site/elenasimperl/> University of
+Southampton
+
+*tbc*  *13:00-14:00* *Lunch*  *14:00-15:00* *Demo Session - details to
+follow*  *15:00-15:30* *Coffee*  *15:30-16:30* *Birds of a feather
+networking*  *16:30* *Wine reception*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130314/cb6f66db/attachment.htm>
+
+From announce at dublincore.net  Fri Mar 15 18:01:29 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Fri, 15 Mar 2013 11:01:29 -0700
+Subject: [open-bibliography] Final Notice: DC-2013 Call for Submissions (29
+	March 2013)
+Message-ID: <CAP884ExQjuYdX1UZzebkvJeB7kXt1P+HJx=7Nvu2eSY9UZPPYw@mail.gmail.com>
+
+**** Excuse the cross-posting ****
+
+Dear Colleagues:
+
+This is a final reminder that the deadline to submit your paper, project
+report, or poster for DC-2013 in Lisbon in rapidly approaching -- 29 March
+2013.
+
+======================================================
+Call for Papers: http://purl.org/dcevents/dc-2013/cfp
+Conference Website: http://purl.org/dcevents/dc-2013
+Conference Dates: 2-6 September 2013
+======================================================
+
+The DC-2013 conference theme is "Linking to the Future":
+
+"DC-2013 will explore questions regarding the persistence, maintenance, and
+preservation of metadata and descriptive vocabularies. The need for stable
+representations and descriptions spans all sectors including cultural
+heritage and scientific data, eGovernment, finance and commerce. Thus, the
+maintenance and management of metadata is essential to address the long
+term availability of information of legal, cultural and economic value.  On
+the web, data -- and especially descriptive vocabularies -- can change or
+vanish from one moment to the next. Nonetheless, the web increasingly forms
+the ecosystem for our vocabularies and our data. DC-2013 will bring
+together in Lisbon the community of metadata scholars and practitioners to
+engage in the exchange of knowledge and best practices in developing a
+sustainable metadata ecosystem."
+
+Beyond the conference theme, DCMI welcomes submissions of papers, project
+reports and posters addressing the broad array of topics impacting metadata
+research, design, and practice in domain and cross-domain contexts. Such
+contexts include, but are not limited to, corporations, cultural memory
+institutions, education, government, scientific fields, recordkeeping,
+preservation, curation, institutional repositories, and publishing.
+
+======================================================
+DC-2013 in Lisbon will be collocated, and run simultaneously with,
+iPRES-2013 offering delegates the opportunity to attend sessions of both
+conferences and to build bridges between these synergistic groups.
+ "Linking to the Future" demands attention to preservation and linkages to
+the past.
+======================================================
+
+Program Committee Chairs:
+
+Kai Eckert
+    Research Group Data and Web Science, University of Mannheim, Germany
+Muriel Foulonneau
+    Knowledge Intensive Systems and Services, Tudor Research Centre,
+Luxembourg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130315/03d9e502/attachment.htm>
+
+From announce at dublincore.net  Sun Mar 17 00:15:42 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Sat, 16 Mar 2013 17:15:42 -0700
+Subject: [open-bibliography] Call for Comments: Mapping from Dublin Core to
+	W3C PROV ontology
+Message-ID: <CAP884ExtO++YMw91t5TBb2XAqYjju1Og9C-kQ8Ei83Tevch+2A@mail.gmail.com>
+
+The DCMI Metadata Provenance Task Group [1] is collaborating with the W3C
+Provenance Working Group [2] on a mapping from Dublin Core terms to the PROV
+provenance ontology [3], currently a W3C Proposed Recommendation.  More
+precisely, the document describes a partial mapping from DCMI Metadata Terms
+[4] to the PROV-O OWL2 ontology [5] -- a set of classes and properties
+usable
+for representing and interchanging information about provenance. Numerous
+terms
+in the DCMI vocabulary provide information about the provenance of a
+resource.
+Translating these terms into PROV relates this information explicitly to the
+W3C provenance model.
+
+The mapping is currently a W3C Working Draft. The final state of the
+document
+will be that of a W3C Note, to be published as part of a suite of documents
+in
+support of a W3C Recommendation for provenance interchange [6].
+
+DCMI would like to point to the W3C Note as a DCMI Recommended Resource and
+therefore encourages the Dublin Core community to provide feedback and take
+part in the finalization of the mapping.
+
+The deadline for all comments is 7 April 2013.  We recommend that comments
+be
+provided directly to the public W3C list for comments:
+public-prov-comments at w3.org [7], ideally with a Cc: to DCMI's dc-provenance
+list [8].  Comments sent only to the dc-provenance list will be summarized
+on
+the W3C list and addressed, and discussions on the W3C list will be
+summarized
+back on the dc-provenance list when appropriate.
+
+Stuart Sutton, Managing Director, DCMI
+
+[1] http://dublincore.org/groups/provenance/
+[2] http://www.w3.org/2011/prov/wiki/Main_Page
+[3] http://www.w3.org/TR/2013/WD-prov-dc-20130312/
+[4] http://dublincore.org/documents/dcmi-terms/
+[5] http://www.w3.org/TR/prov-o/
+[6] http://www.w3.org/TR/prov-overview/
+[7] http://lists.w3.org/Archives/Public/public-prov-comments/
+[8] https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=dc-provenance
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130316/52c9515a/attachment.htm>
+
+From sander.vanderwaal at okfn.org  Wed Mar 20 08:54:45 2013
+From: sander.vanderwaal at okfn.org (Sander van der Waal)
+Date: Wed, 20 Mar 2013 08:54:45 +0000
+Subject: [open-bibliography] Challenge launched to promote open data for
+	education
+Message-ID: <CAN+1nMwhYr=P0DshcnALRo-S5D+ttLN3Cnp_EGyVevORmxsXfQ@mail.gmail.com>
+
+Dear all,
+
+The LinkedUp project is very pleased to announce the launch of the
+LinkedUp challenge [1]. This is a series of three competitions (Veni,
+Vidi, and Vici) promoting the innovative use of linked and open data
+in an educational context.
+
+The LinkedUp team invites anyone, from researchers and students, to
+developers and businesses, to join the first 'Veni' competition [2].
+You can participate by building prototypes, demos and innovative tools
+that exploit, use, integrate or analyse large scale web data for
+educational use.
+
+Some very attractive prizes are only one reason to join and
+participate [3] in the challenge. It is also a great opportunity to
+work with a large, documented repository of linked datasets [4] that
+the LinkedUp team is putting together. The consortium is also able to
+offer dedicated access to so far non-public resources. The challenge
+allows participants to showcase their ideas and solutions to a wide
+community of researchers and practitioners. For businesses as well as
+researchers, this will be a great opportunity to present their company
+and enhance their network. For people working in academia, the
+challenge will provide a wealth of material and opportunities for
+experiments and publications.
+
+While the LinkedUp team already identified and connected many
+educational and non-educational resources to work with, participants
+can also use and connect their own material or other data sources.
+Anyone is free to showcase their creativity and solutions as long as
+the application is relevant to education in the broadest sense of the
+word. There are also some high profile use cases of established
+organisations made available [5] that can serve as inspiration for
+innovative applications. Join today!
+
+- Find out about the LinkedUp challenge
+     http://linkedup-challenge.org/
+- Subscribe to our mailinglist
+     https://www.l3s.de/mailman/listinfo/linkedup-public
+- Follow @linkedupproject and #linkedupproject
+     http://twitter.com/linkedupproject
+- Contact us directly
+     http://linkedup-project.eu/contact/
+- Get more information about the LinkedUp Project
+     http://linkedup-project.eu/
+
+Important dates:
+
+- March 2013: Launch of the Challenge
+- May 2013: Release of the comprehensive LinkedUp dataset
+- 27 June 2013: Submission deadline
+- 1 September 2013: Notifications and Nominations
+- 17 September 2013: Presentations and award ceremony
+
+If you have any questions, please get in touch! We would love to hear from you.
+
+Kind Regards,
+
+Sander van der Waal
+LinkedUp Project
+
+[1] http://linkedup-challenge.org/
+[2] http://linkedup-challenge.org/#first
+[3] http://linkedup-challenge.org/#why
+[4] http://linkedup-challenge.org/#support
+[5] http://linkedup-challenge.org/usecases.html
+
+
+From captsolo at gmail.com  Wed Mar 20 15:32:55 2013
+From: captsolo at gmail.com (Uldis Bojars)
+Date: Wed, 20 Mar 2013 17:32:55 +0200
+Subject: [open-bibliography] property for pointing to web pages related to a
+	resource
+Message-ID: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+
+Hi,
+
+What is a good property to use for linking a resource to web pages
+related to it?
+
+In this case [a resource == a digital object repository object] but a
+similar property may also be useful for bibliographic descriptions,
+authority records, etc.
+
+The property would be very generic as there's almost no "semantics" /
+restriction on what the object of this relation can be.
+
+Best candidates so far:
+a) rdfs:seeAlso
+b) foaf:page
+
+What would you suggest?
+
+Thanks,
+Uldis
+
+
+From Mo.McRoberts at bbc.co.uk  Wed Mar 20 16:30:16 2013
+From: Mo.McRoberts at bbc.co.uk (Mo McRoberts)
+Date: Wed, 20 Mar 2013 16:30:16 +0000
+Subject: [open-bibliography] property for pointing to web pages related
+ to a	resource
+In-Reply-To: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+References: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+Message-ID: <C5A29580-4A2F-485E-8376-66F685815F1A@bbc.co.uk>
+
+foaf:page or foaf:homepage (depending upon the relationship) are commonly used.
+
+rdfs:seeAlso (and similarly foaf:isPrimaryTopicOf) should IM(NS)O really only be used for URLs where you can get more RDF back.
+
+M.
+
+On Wed 2013-Mar-20, at 15:32, Uldis Bojars <captsolo at gmail.com>
+ wrote:
+
+> Hi,
+>
+> What is a good property to use for linking a resource to web pages
+> related to it?
+>
+> In this case [a resource == a digital object repository object] but a
+> similar property may also be useful for bibliographic descriptions,
+> authority records, etc.
+>
+> The property would be very generic as there's almost no "semantics" /
+> restriction on what the object of this relation can be.
+>
+> Best candidates so far:
+> a) rdfs:seeAlso
+> b) foaf:page
+>
+> What would you suggest?
+>
+> Thanks,
+> Uldis
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+
+
+--
+Mo McRoberts - Analyst - BBC Archive Development,
+Zone 1.08, BBC Scotland, 40 Pacific Quay, Glasgow G51 1DA,
+MC3 D4, Media Centre, 201 Wood Lane, London W12 7TQ,
+0141 422 6036 (Internal: 01-26036) - PGP key CEBCF03E
+
+
+
+-----------------------------
+http://www.bbc.co.uk
+This e-mail (and any attachments) is confidential and
+may contain personal views which are not the views of the BBC unless specifically stated.
+If you have received it in
+error, please delete it from your system.
+Do not use, copy or disclose the
+information in any way nor act in reliance on it and notify the sender
+immediately.
+Please note that the BBC monitors e-mails
+sent or received.
+Further communication will signify your consent to
+this.
+-----------------------------
+
+
+From kcoyle at kcoyle.net  Wed Mar 20 17:18:57 2013
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 20 Mar 2013 10:18:57 -0700
+Subject: [open-bibliography] property for pointing to web pages related
+ to a resource
+In-Reply-To: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+References: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+Message-ID: <5149EF81.30201@kcoyle.net>
+
+There's also foaf:focus that is often used in that way.
+
+kc
+
+On 3/20/13 8:32 AM, Uldis Bojars wrote:
+> Hi,
+>
+> What is a good property to use for linking a resource to web pages
+> related to it?
+>
+> In this case [a resource == a digital object repository object] but a
+> similar property may also be useful for bibliographic descriptions,
+> authority records, etc.
+>
+> The property would be very generic as there's almost no "semantics" /
+> restriction on what the object of this relation can be.
+>
+> Best candidates so far:
+> a) rdfs:seeAlso
+> b) foaf:page
+>
+> What would you suggest?
+>
+> Thanks,
+> Uldis
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From tfmorris at gmail.com  Wed Mar 20 18:55:36 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Wed, 20 Mar 2013 14:55:36 -0400
+Subject: [open-bibliography] property for pointing to web pages related
+ to a resource
+In-Reply-To: <C5A29580-4A2F-485E-8376-66F685815F1A@bbc.co.uk>
+References: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+	<C5A29580-4A2F-485E-8376-66F685815F1A@bbc.co.uk>
+Message-ID: <CAE9vqEHAu32WsF0WyXr98Rp7P1KNRLjx6zYFoh4Nx6o2jAxOWA@mail.gmail.com>
+
+On Wed, Mar 20, 2013 at 12:30 PM, Mo McRoberts <Mo.McRoberts at bbc.co.uk> wrote:
+> foaf:page or foaf:homepage (depending upon the relationship) are commonly used.
+>
+> ...  foaf:isPrimaryTopicOf) should IM(NS)O really only be used for URLs where you can get more RDF back.
+
+Can you explain the reasoning?  foaf:page, foaf:homepage, and
+foaf:isPrimaryTopicOf all have identical ranges.
+
+Tom
+
+
+From jenny.molloy at okfn.org  Fri Mar 22 09:19:41 2013
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 22 Mar 2013 09:19:41 +0000
+Subject: [open-bibliography] =?windows-1252?q?OpenAIRE/LIBER_Workshop_=3A_?=
+	=?windows-1252?q?=91Dealing_with_Data=3A_What=92s_the_Role_for_the?=
+	=?windows-1252?q?_Library=92=2E_28_May=2C_Gent=2C_Belgium?=
+Message-ID: <CABPM+wqPHst5rzx-A6g7BG64S5BFDL60DzJO=ybmABKjN9RtHQ@mail.gmail.com>
+
+*Von:* Rettberg, Najla
+*Gesendet:* Donnerstag, 21. M?rz 2013 15:36
+*An:* JISC-REPOSITORIES at JISCMAIL.AC.UK
+*Cc:* 'RESEARCH-DATAMAN at JISCMAIL.AC.UK'; open-science at lists.okfn.org
+*Betreff:* 'Dealing with Data: What's the Role for the Library' 28.5, Gent**
+**
+
+** **
+
+Apologies for cross posting****
+
+*************
+
+*Joint OpenAIRE/LIBER Workshop : ?Dealing with Data: What?s the Role for
+the Library?. 28 May, Gent, Belgium* Registration now open. This is a
+pre-ELAG workshop.**
+
+In the same week that the Research Data Alliance Plenary identified that
+skill-sets for research data management are in short supply, it seems
+timely to announce a workshop to explore where the library and research
+institution sit in relation to supporting research data management, and
+what future expectations for libraries might be.****
+
+The library and research institution are having to understand their role
+within this changing environment, and define the necessary support
+mechanisms. OpenAIRE supports a range of stakeholders, namely librarians
+and researchers in depositing, searching as well as linking research
+output. LIBER supports libraries in making the transformation and acquiring
+an active role in evolving areas such as research data management and
+scientific information infrastructures.****
+
+Expert speakers will cover issues such as the data life-cycle, data
+citation, data publication, tools, and how research institutions can
+support their researchers in data management. In addition, a number of
+scientists will present their views on how  they  use, share, and link
+research data within different domains. The day will close with a panel
+session, supported by members of the LIBER Steering Committee ?Scholarly
+Communication and Research Infrastructure? which will explore future
+skill-sets for librarians.****
+
+Full programme:
+http://www.openaire.eu/en/component/content/article/9-news-events/450-openaire-workshop-may-28-ghent-belgium
+****
+
+*What*****
+
+OpenAIRE/LIBER Workshop****
+
+This is a pre-conference of *ELAG 2013. *The workshop is free of charge, but
+* **registration  <http://elag2013.org/registration-2/>*is necessary.****
+
+*When*****
+
+May 28 2013  9.30 ? 17.30****
+
+*Where*****
+
+*Zebrastraat conference venue, Ghent,
+Belgium<http://elag2013.org/venue-accommodation/>
+*****
+
+** **
+
+** **
+
+** **
+
+***********
+
+Najla Rettberg****
+
+G?ttingen State and University Library****
+
+49 (0)551- 39 5242****
+
+najla.rettberg at sub.uni-goettingen.de****
+
+www.openaire.eu
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130322/0b35638e/attachment.htm>
+
+From announce at dublincore.net  Fri Mar 22 21:38:28 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Fri, 22 Mar 2013 14:38:28 -0700
+Subject: [open-bibliography] CALL FOR PAPERS DEADLINE EXTENDED to 5 APRIL
+	2013 for DC-2013 in Lisbon
+Message-ID: <CAP884Ey6k-Jr=PyoEQK4vMNXgdYkaH9+SCj_TDef_XrWHVvR_Q@mail.gmail.com>
+
+**** Excuse the cross-posting ****
+
+Dear Colleagues:
+
+The submission deadline has been EXTENDED TO 5 APRIL 2013 for papers,
+project reports, and posters for DC-2013 in Lisbon.
+
+======================================================
+Call for Papers: http://purl.org/dcevents/dc-2013/cfp
+Conference Website: http://purl.org/dcevents/dc-2013
+Conference Dates: 2-6 September 2013
+======================================================
+
+The DC-2013 conference theme is "Linking to the Future":
+
+"DC-2013 will explore questions regarding the persistence, maintenance, and
+preservation of metadata and descriptive vocabularies. The need for stable
+representations and descriptions spans all sectors including cultural
+heritage and scientific data, eGovernment, finance and commerce. Thus, the
+maintenance and management of metadata is essential to address the long
+term availability of information of legal, cultural and economic value.  On
+the web, data -- and especially descriptive vocabularies -- can change or
+vanish from one moment to the next. Nonetheless, the web increasingly forms
+the ecosystem for our vocabularies and our data. DC-2013 will bring
+together in Lisbon the community of metadata scholars and practitioners to
+engage in the exchange of knowledge and best practices in developing a
+sustainable metadata ecosystem."
+
+Beyond the conference theme, DCMI welcomes submissions of papers, project
+reports and posters addressing the broad array of topics impacting metadata
+research, design, and practice in domain and cross-domain contexts. Such
+contexts include, but are not limited to, corporations, cultural memory
+institutions, education, government, scientific fields, recordkeeping,
+preservation, curation, institutional repositories, and publishing.
+
+======================================================
+DC-2013 in Lisbon will be collocated, and run simultaneously with,
+iPRES-2013 offering delegates the opportunity to attend sessions of both
+conferences and to build bridges between these synergistic groups.
+ "Linking to the Future" demands attention to preservation and linkages to
+the past.
+======================================================
+
+Program Committee Chairs:
+
+Kai Eckert
+    Research Group Data and Web Science, University of Mannheim, Germany
+Muriel Foulonneau
+    Knowledge Intensive Systems and Services, Tudor Research Centre,
+Luxembourg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130322/10b2b249/attachment.htm>
+
+From Mo.McRoberts at bbc.co.uk  Sun Mar 24 23:13:12 2013
+From: Mo.McRoberts at bbc.co.uk (Mo McRoberts)
+Date: Sun, 24 Mar 2013 23:13:12 +0000
+Subject: [open-bibliography] property for pointing to web pages related
+ to a resource
+In-Reply-To: <CAE9vqEHAu32WsF0WyXr98Rp7P1KNRLjx6zYFoh4Nx6o2jAxOWA@mail.gmail.com>
+References: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+	<C5A29580-4A2F-485E-8376-66F685815F1A@bbc.co.uk>
+	<CAE9vqEHAu32WsF0WyXr98Rp7P1KNRLjx6zYFoh4Nx6o2jAxOWA@mail.gmail.com>
+Message-ID: <1C4D6CEC-392B-460E-B35F-10637EB2F046@bbc.co.uk>
+
+
+On Wed 2013-Mar-20, at 18:55, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Wed, Mar 20, 2013 at 12:30 PM, Mo McRoberts <Mo.McRoberts at bbc.co.uk> wrote:
+>> foaf:page or foaf:homepage (depending upon the relationship) are commonly used.
+>>
+>> ...  foaf:isPrimaryTopicOf) should IM(NS)O really only be used for URLs where you can get more RDF back.
+>
+> Can you explain the reasoning?  foaf:page, foaf:homepage, and
+> foaf:isPrimaryTopicOf all have identical ranges.
+
+Ah, no, you're absolutely right, well spotted.
+
+M.
+
+--
+Mo McRoberts - Analyst - BBC Archive Development,
+Zone 1.08, BBC Scotland, 40 Pacific Quay, Glasgow G51 1DA,
+MC3 D4, Media Centre, 201 Wood Lane, London W12 7TQ,
+0141 422 6036 (Internal: 01-26036) - PGP key CEBCF03E
+
+
+
+-----------------------------
+http://www.bbc.co.uk
+This e-mail (and any attachments) is confidential and
+may contain personal views which are not the views of the BBC unless specifically stated.
+If you have received it in
+error, please delete it from your system.
+Do not use, copy or disclose the
+information in any way nor act in reliance on it and notify the sender
+immediately.
+Please note that the BBC monitors e-mails
+sent or received.
+Further communication will signify your consent to
+this.
+-----------------------------
+
+
+From captsolo at gmail.com  Mon Mar 25 08:49:21 2013
+From: captsolo at gmail.com (Uldis Bojars)
+Date: Mon, 25 Mar 2013 10:49:21 +0200
+Subject: [open-bibliography] property for pointing to web pages related
+ to a resource
+In-Reply-To: <5149EF81.30201@kcoyle.net>
+References: <CAJjMrEPG8Zs9K5-mn0G6Of2u4pneyvBr0Uc2J6JWs++wk+K6nQ@mail.gmail.com>
+	<5149EF81.30201@kcoyle.net>
+Message-ID: <CAJjMrENqEKtfV_p2fw4qX-AmQ5wURO_w=4aSNs-Ryw8Hs-9EdQ@mail.gmail.com>
+
+Thanks to everyone for suggestions!
+
+One of the FOAF properties (foaf:page, foaf:focus,
+foaf:isPrimaryTopicOf) it is then.
+
+I was hoping to find a matching property in ontologies for
+representing bibliographic data (bibo, DC, EDM, ...) but no success
+there. Also considered rdfs:seeAlso, but it is mostly used for linking
+to related RDF data.
+
+Uldis
+
+On 20 March 2013 19:18, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> There's also foaf:focus that is often used in that way.
+>
+> kc
+>
+>
+> On 3/20/13 8:32 AM, Uldis Bojars wrote:
+>>
+>> Hi,
+>>
+>> What is a good property to use for linking a resource to web pages
+>> related to it?
+>>
+>> In this case [a resource == a digital object repository object] but a
+>> similar property may also be useful for bibliographic descriptions,
+>> authority records, etc.
+>>
+>> The property would be very generic as there's almost no "semantics" /
+>> restriction on what the object of this relation can be.
+>>
+>> Best candidates so far:
+>> a) rdfs:seeAlso
+>> b) foaf:page
+>>
+>> What would you suggest?
+>>
+>> Thanks,
+>> Uldis
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+
+
+From aisaac at few.vu.nl  Mon Mar 25 13:26:54 2013
+From: aisaac at few.vu.nl (Antoine Isaac)
+Date: Mon, 25 Mar 2013 14:26:54 +0100
+Subject: [open-bibliography] property for pointing to web pages,
+ related to a resource
+In-Reply-To: <mailman.15.1364212806.4519.open-bibliography@lists.okfn.org>
+References: <mailman.15.1364212806.4519.open-bibliography@lists.okfn.org>
+Message-ID: <5150509E.2090707@few.vu.nl>
+
+Hi Uldis,
+
+A bit late, but if you're mentioning EDM....
+
+> Thanks to everyone for suggestions!
+>
+> One of the FOAF properties (foaf:page, foaf:focus,
+> foaf:isPrimaryTopicOf) it is then.
+>
+> I was hoping to find a matching property in ontologies for
+> representing bibliographic data (bibo, DC, EDM, ...) but no success
+> there. Also considered rdfs:seeAlso, but it is mostly used for linking
+> to related RDF data.
+
+
+In fact EDM has a generic property called edm:hasView that can be used to relate a cultural object to any web resource that can be considered to offer some representation of it (a landing HTML page, a jpg, etc).
+But the link would be indirect: there must be an ORE aggregation standing between the object and the web resource:
+
+:anAggregation edm:aggregatedCHO [Your object] ;
+                edm:hasView [Your page].
+
+Perhaps that's not what you're after.
+
+Best,
+
+Antoine
+
+

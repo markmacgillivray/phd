@@ -1,0 +1,4457 @@
+From jonathan.gray at okfn.org  Tue Jun  1 12:47:25 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 1 Jun 2010 13:47:25 +0200
+Subject: [open-bibliography] Fwd: Reading List Solutions - a new JISC mail
+	list
+In-Reply-To: <4C04EEDA.3060502@ukoln.ac.uk>
+References: <4C04EEDA.3060502@ukoln.ac.uk>
+Message-ID: <AANLkTinnsC2zk-oIQqVcp-8mXmurmQ271WYw-JUU0SAK@mail.gmail.com>
+
+Might be of interest? I'm certainly interested in relation to
+Bibliographica, and possibility of using reading list tools to
+create/improve open bibliographic data...
+
+Jonathan
+
+---------- Forwarded message ----------
+From: Mahendra Mahey <m.mahey at ukoln.ac.uk>
+Date: Tue, Jun 1, 2010 at 1:28 PM
+Subject: Reading List Solutions - a new JISC mail list
+To: JISC-REPOSITORIES at jiscmail.ac.uk
+
+
+*Apologies for cross posting*
+
+Colleagues may find this new list relevant.
+
+We are happy to announce the launch of a new JISCmail list
+'READING-LIST-SOLUTIONS'
+https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=READING-LIST-SOLUTIONS
+This list is for users and software developers of reading list
+solutions (commercial and open source software, or other approaches)
+in academic institutions to discuss issues around their
+implementation, use, development and interoperability with other
+systems.
+
+Reading Lists, or lists of recommended reading in course handbooks and
+other forms have long been a key resource for students. However, they
+can also be a source of frustration for libraries - trying to get up
+to date copies to make sure the correct titles are in stock in the
+right numbers.
+
+The concept of a 'reading list' is also an example of where the
+library collection intersects with teaching material, and clearly with
+the move to putting more teaching material online in learning
+environments such as Blackboard and Moodle, this raises questions of
+the most effective way of integrating library resources into the
+teaching environment.
+
+This new list is intended to discuss the issues, challenges, solutions
+and share best practices in this area.
+
+You can join the list at
+https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=READING-LIST-SOLUTIONS&A=1
+
+Mahendra Mahey, Owen Stephens and Ben Charlton.
+
+
+Mr Mahendra Mahey
+Project Manager DevCSI
+Research Officer
+UKOLN,
+University of Bath,
+Bath,
+BA2 7AY
+
+Tel: ++44 (0) 1225 384594
+Fax: ++44 (0) 1225 386256
+email: m.mahey at ukoln.ac.uk
+skypeID: mr_mahendra_mahey
+http://devcsi.ukoln.ac.uk/
+http://www.ukoln.ac.uk
+
+
+Owen Stephens
+TELSTAR Project Manager
+Library and Learning Resources Centre
+The Open University
+Walton Hall
+Milton Keynes, MK7 6AA
+
+T: +44 (0) 1908 858701
+F: +44 (0) 1908 653571
+E: o.stephens at open.ac.uk
+
+Ben Charlton
+List 8D
+
+b.c.charlton at kent.ac.uk
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Thu Jun  3 17:52:09 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 3 Jun 2010 18:52:09 +0200
+Subject: [open-bibliography] Fwd: Reading List / Library Software Hacking
+	Event - Cambridge, 22 - 	23 July 2010
+In-Reply-To: <4C07DBDF.1000602@ukoln.ac.uk>
+References: <4C07DBDF.1000602@ukoln.ac.uk>
+Message-ID: <AANLkTimN4ff-UIdFuNqeqMcPG1dPpNJ5uuRDd3o_K5Dw@mail.gmail.com>
+
+This looks interesting!
+
+Rufus: I wonder if you'll be around in Cambridge in late July?
+
+Jonathan
+
+
+---------- Forwarded message ----------
+
+*Apologies if you receive this email more than once*
+
+**Reading List / Library Software Hacking Event**
+A two day event investigating the interoperability between reading
+list software/solutions and other software systems
+Thursday 22nd and Friday 23rd July 2010, The Moller Centre, Cambridge.
+
+This is a free two day DevCSI workshop organised in conjunction with
+the Telstar and List8D projects which hopes to bring together software
+developers, project managers, librarians and users particularly in
+Education (though not exclusively) who are interested in how reading
+list software or reading list solutions could work with other software
+such as library systems, management information systems and various
+reference management solutions. Developers and users rarely have
+opportunities to experiement in a focussed way on hacking systems
+together, explore current ways of doing things and how they could be
+improved.
+
+For more information and booking, please visit:
+
+http://www.ukoln.ac.uk/events/devcsi/reading_lists/
+
+Places are limited, so book early, and don't miss this end of term
+library hack event.
+
+-----------------------------------------------
+ Mr Mahendra Mahey
+
+ Project Manager DevCSI
+ Research Officer
+ UKOLN,
+ University of Bath,
+ Bath,
+ BA2 7AY
+
+ Tel: ++44 (0) 1225 384594
+ Fax: ++44 (0) 1225 386256
+ email: m.mahey at ukoln.ac.uk
+ skypeID: mr_mahendra_mahey
+
+ Mobile: ++44 (0) 7896300820
+ -----------------------------------------------
+
+________________________________
+
+To unsubscribe from the READING-LIST-SOLUTIONS list, click the following link:
+http://jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=READING-LIST-SOLUTIONS&A=1
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ockerblo at pobox.upenn.edu  Fri Jun  4 17:20:49 2010
+From: ockerblo at pobox.upenn.edu (John Mark Ockerbloom)
+Date: Fri, 04 Jun 2010 12:20:49 -0400
+Subject: [open-bibliography] FRBR examples
+In-Reply-To: <8CB2A72BE4144B4CAC0EF3E9A9F6D065034EC32708@AUR2010.aur.edu>
+References: <8CB2A72BE4144B4CAC0EF3E9A9F6D065034EC32708@AUR2010.aur.edu>
+Message-ID: <4C0927E1.4000600@pobox.upenn.edu>
+
+This has been a fascinating discussion, one that I've only now had the
+chance to review in detail.  I agree with Tim and a number of the other
+posters that what ultimately matters is how well the models we adopt
+apply for practical problems and tools.  But there are a variety of
+problems and tools that are out there, and the more they can share common
+information, the better.
+
+One problem that I haven't heard brought up explicitly in this thread,
+but that's of particular relevance to OKFN groups like the Public Domain
+subgroup, is the issue of rights determination.  The copyrights
+that apply to a book are usually at neither the highest or lowest
+level of abstraction for a work; in the US system, copyrights usually
+apply to a particular expression, but sometimes rights also apply
+more concretely (as with the "published editions" shorter-term
+copyright that some countries have), or more abstractly (as with the
+limited copyright protection that's given in many countries to
+distinctive original characters and settings, apart from any particular text
+that features them.)
+
+With regard to abstract entity models, I've found a fairly abstract one useful`
+for various views on The Online Books Page.  At the risk of reinventing
+a wheel that's already been discussed to death by librarians, I'll
+describe it briefly here.  It basically boils down to these two
+types of statements:
+
+   <Entity1> SPECIALIZES <Entity2>, in <Relator> way
+   <Entity1> RELATES-TO  <Entity2>, in <Relator> way
+
+I use this for subject browsing, for example, where SPECIALIZES refers
+to BT/NT relations in LCSH, and RELATES-TO refers to RT relations in
+LCSH.  The <Relator> information, which is based on a controlled vocabulary,
+is useful for selecting and ordering relationships; for example, in my
+subject browsing views, I distinguish between different ways that narrower
+terms or related terms are declared or inferred, in order to sort and present
+them in an order that makes sense to the reader.  See for instance:
+
+http://onlinebooks.library.upenn.edu/webbin/book/browse?type=lcsubc&key=Ontology
+
+where the direct subdivision-based LCSH specializations of "Ontology" are shown
+before the specializations that were declared as NTs.
+
+In a bibliographic display, I'm considering using SPECIALIZES relationships to
+consolidate results, so that if Entity1 and Entity2 are both part of a
+set of search results, and Entity1 SPECIALIZES Entity2 in an appropriate way,
+I might only display Entity2 in the results.  (If I implemented this with the
+URL above, you'd see Plato's Sophist appear only once under "Ontology", probably
+higher up the hit-list.)   This gives the user a more concise results list, with
+the option of drilling into the entities "underneath" Entity2 if the user wants
+to get more specific.
+
+This sort of model is compatible with FRBR's WEMI stack (Manifestation1 
+SPECIALIZES Expression1, which SPECIALIZES Work1), but it doesn't *mandate* it.
+[The distinction between SPECIALIZES and RELATES-TO is that SPECIALIZES
+implies (possibly overridable) inheritance of applicable properties
+of the specialized entity, and RELATES-TO doesn't.]
+
+This model is fuzzier in some ways that folks might object to,
+but I think that any system that involves highly participatory shared
+cataloging is going to have to accommodate a fair bit of fuzziness.
+Moreover, it provides an incremental migration path from today's
+world of MARC records that contain everything about particular
+manifestations: you move some of the shared information into higher-level
+entity types when it makes sense, and leave it inline in the bib-record
+when it doesn't.
+
+I do wonder whether something like this, along with widely used
+conventions on relators and essential concepts, might become the de-facto
+framework for shared open cataloging.
+
+John
+
+
+From william.waites at okfn.org  Fri Jun 11 17:10:59 2010
+From: william.waites at okfn.org (William Waites)
+Date: Fri, 11 Jun 2010 17:10:59 +0100
+Subject: [open-bibliography] Draft development vocabulary for bibliographic
+	metadata
+Message-ID: <4C126013.7030103@okfn.org>
+
+Just wanted to throw this out early, this is the development
+version of the vocabulary we are using in the bibliographica
+project.  Basically stripped down FRBR-like, with Work and
+Manifestation, planning to have rich sets of predicates
+expressing relationships between entities, almost any
+creative act constitutes a new work. Not many predicates
+have been defined, this is just a skeleton...
+
+http://knowledgeforge.net/pdw/openbiblio/file/tip/n3/obp.n3
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+
+From jonathan.gray at okfn.org  Fri Jun 11 18:49:58 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 11 Jun 2010 19:49:58 +0200
+Subject: [open-bibliography] Bulk importing data to Bibliographica?
+Message-ID: <AANLkTikEUAR7vPtdy-0EZl-YMm4bYBigWcMwOmrzLi8H@mail.gmail.com>
+
+Leading fairy tale scholar Jack Zipes has kindly donated several large
+bibliographies for a new project called the Synoptic Folktale Index,
+based on the Bibliographica technology.
+
+  http://jonathangray.org/files/bibliographica/
+
+We're planning to work with researchers in this area to convert these
+bibliographies into a spreadsheet -- so we can bulk import them into
+an instance of Bibliographica.
+
+In the first instance, what fields will we need in the spreadsheet
+(required and optional) so that folks can add things?
+
+Here are a couple of examples of the kinds of things we have in the
+bibliographies we've currently got in DOC format:
+
+  * Aitchison, Jean. The Seeds of Speech: Language Origin and
+Evolution. Cambridge: Cambridge
+University Press, 1996.
+  * Anderson, Graham. Fairytale in the Ancient World. London: Routledge, 2000.
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From kcoyle at kcoyle.net  Fri Jun 11 20:03:54 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 11 Jun 2010 12:03:54 -0700
+Subject: [open-bibliography] Bulk importing data to Bibliographica?
+In-Reply-To: <AANLkTikEUAR7vPtdy-0EZl-YMm4bYBigWcMwOmrzLi8H@mail.gmail.com>
+References: <AANLkTikEUAR7vPtdy-0EZl-YMm4bYBigWcMwOmrzLi8H@mail.gmail.com>
+Message-ID: <20100611120354.cbukj3rp4wg0ok8o@kcoyle.net>
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+
+> Leading fairy tale scholar Jack Zipes has kindly donated several large
+> bibliographies for a new project called the Synoptic Folktale Index,
+> based on the Bibliographica technology.
+>
+>   http://jonathangray.org/files/bibliographica/
+>
+> We're planning to work with researchers in this area to convert these
+> bibliographies into a spreadsheet -- so we can bulk import them into
+> an instance of Bibliographica.
+
+Looking at the files, they don't seem to have a large number of PD works.
+
+That said, can any of Zotero's algorithms parse these? that would be a  
+good way to get them into some kind of data format, rather than just  
+simple strings.
+
+Beyond that, one of the (many) frustrating things about citations is  
+the lack of identifiers -- no ISBNs, in particular. Once you have  
+parsed out at least author, title, and date, you might be able to  
+compare these to another database - Open Library, Library Thing,  
+whatever - to retrieve the identifiers plus any other information  
+(subject headings in particular).
+
+kc
+
+>
+> In the first instance, what fields will we need in the spreadsheet
+> (required and optional) so that folks can add things?
+>
+> Here are a couple of examples of the kinds of things we have in the
+> bibliographies we've currently got in DOC format:
+>
+>   * Aitchison, Jean. The Seeds of Speech: Language Origin and
+> Evolution. Cambridge: Cambridge
+> University Press, 1996.
+>   * Anderson, Graham. Fairytale in the Ancient World. London:   
+> Routledge, 2000.
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pohl at hbz-nrw.de  Tue Jun 15 09:53:37 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Tue, 15 Jun 2010 10:53:37 +0200
+Subject: [open-bibliography] Group coordination
+References: <4C0E19DD020000140003600B@agrippa.hbz-nrw.de>
+	<4C0E1D3F020000140003600F@agrippa.hbz-nrw.de>
+	<4C0E42BD0200001400036031@agrippa.hbz-nrw.de>
+	<4C0E5318020000140003603B@agrippa.hbz-nrw.de>
+	<4C0E5670020000140003603F@agrippa.hbz-nrw.de>
+	<4C10DEFA0200001400036124@agrippa.hbz-nrw.de>
+	<4C10DF100200001400036128@agrippa.hbz-nrw.de>
+	<4C160BF20200001400036279@agrippa.hbz-nrw.de>
+	<4C1613D5020000140003627E@agrippa.hbz-nrw.de>
+	<4C162954020000140003628B@agrippa.hbz-nrw.de>
+	<4C16299F0200001400036290@agrippa.hbz-nrw.de>
+	<4C164E2402000014000362AA@agrippa.hbz-nrw.de>
+	<4C175BB10200001400036323@agrippa.hbz-nrw.de>
+Message-ID: <4C175BB10200001400036323@agrippa.hbz-nrw.de>
+
+Dear Open Data friends,
+
+this group's members list on http://wiki.okfn.org/wg/bibliography shows 37 members by now (most of them from Europe and some from the USA). I think it's great that so many people want to advance a widespread Open Data practice in the library world. But to approach this aim we probably need more than discussions on a mailing list and should focus on some key tasks.
+
+I recently agreed to take over the role of a coordinator for this working group. (See http://wiki.okfn.org/wg/guide#WorkingGroupCoordinator for a OKFN group coordinator's tasks.)  
+Jonathan and I collected some proposals for topics to be worked on:
+
+* The main motive of this working group is communication and collaboration between different projects which promote Open Bibliographic Data. I find it useful to create and maintain an overview over past and existing projects. The CKAN bibliographic data group is a good starting point for collecting Open Data projects: http://ckan.net/group/bibliographic Some people already became admins to keep that up to date. Anyone else? We might also create an overview over Linked (but not necessary open) Data Projects. I could start with this because we have already collected something... What do you think?
+* We should further gather updates and news about Open Bibliographic Data on this mailing list, in the OKFN wiki and in the OKFN blog. The OKFN is always happy about guest blog posts concerning projects and progress in Open Data. So, feel invited to post one.
+* Regular virtual meetings: Some time ago we already talked about a date for this meeting(see http://lists.okfn.org/pipermail/open-bibliography/2010-February/000000.html and following). The proposed date is: 1st Tuesday of every month at 1600 UK time. There were already concerns raised about holding a phone conference with more than five people. So, the main communication medium would be IRC with the option of using skype, etherpad and the like. If the date isn't OK for too much people we might find another one with doodle. Otherwise the first virtual meeting would be on the 5th of June.
+* The most important work to be done ist getting more libraries to open up their data. For this purpose we have already begun working on a flyer which names benefits and potential  of Open Data (http://wiki.okfn.org/Open%20Bibliographic%20Data%20Flyer). Building on that we could create a nice flyer for the web and the real world (i.e. printed). 
+* After sensibilizing more and more libraries and librarians for Open Bibliographic Data some legal and technical guidance on how to release catalogue data makes sense. We could work on that respectively collect existing sources on these topics.
+* What do you think about an international workshop on Open Bibliographic Data? Sometime in 2011?
+* Jonathan pointed out to discuss the future of bibliographic data sharing and looking at different models for sharing data.
+* Collecting ideas for interesting reuse projects of open bibliographic data would be useful -- e.g. what would be useful for researchers, library users, ... (This would also be quite helpful for the Open Data flyer.)
+
+What do you think? Any comments or suggestions for other tasks?
+
+Adrian
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100615/7fdab962/attachment.htm>
+
+From ross.singer at talis.com  Wed Jun 16 10:50:50 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Wed, 16 Jun 2010 05:50:50 -0400
+Subject: [open-bibliography] Draft development vocabulary for
+	bibliographic metadata
+In-Reply-To: <4C126013.7030103@okfn.org>
+References: <4C126013.7030103@okfn.org>
+Message-ID: <AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>
+
+William,
+
+This seems like a pragmatic approach to this.  Is there any reason why you
+coined new classes/properties instead of reusing and extending existing
+ones?
+
+For example, it seems like you could coopt the Work and Manifestation
+classes from http://vocab.org/frbr/core and add the (useful!)
+hasManifestation property.
+
+Seems like the ISBN/ISSN/LCCN properties could be taken from BIBO, as well.
+Granted, BIBO doesn't set a domain for these properties (which may have been
+your motivation), but I'm not sure of the accuracy of inferring that every
+LCCN is a Manifestation, (subject authorities have LCCNs, as well as
+archival finding aids: http://lccn.loc.gov/92162930), etc.
+
+Anyway, I definitely think this simplifies the model (esp. with regards to
+the state of existing data) a whole lot.
+
+Thanks,
+-Ross.
+
+On Fri, Jun 11, 2010 at 12:10 PM, William Waites <william.waites at okfn.org>wrote:
+
+> Just wanted to throw this out early, this is the development
+> version of the vocabulary we are using in the bibliographica
+> project.  Basically stripped down FRBR-like, with Work and
+> Manifestation, planning to have rich sets of predicates
+> expressing relationships between entities, almost any
+> creative act constitutes a new work. Not many predicates
+> have been defined, this is just a skeleton...
+>
+> http://knowledgeforge.net/pdw/openbiblio/file/tip/n3/obp.n3
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> Please consider the environment before printing this email.
+>
+> Find out more about Talis at http://www.talis.com/
+> shared innovation?
+>
+> Any views or personal opinions expressed within this email may not be those
+> of Talis Information Ltd or its employees. The content of this email message
+> and any files that may be attached are confidential, and for the usage of
+> the intended recipient only. If you are not the intended recipient, then
+> please return this message to the sender and delete it. Any use of this
+> e-mail by an unauthorised recipient is prohibited.
+>
+> Talis Information Ltd is a member of the Talis Group of companies and is
+> registered in England No 3638278 with its registered office at Knights
+> Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100616/1bbf332f/attachment.htm>
+
+From william.waites at okfn.org  Wed Jun 16 15:10:00 2010
+From: william.waites at okfn.org (William Waites)
+Date: Wed, 16 Jun 2010 15:10:00 +0100
+Subject: [open-bibliography] Draft development vocabulary for
+	bibliographic	metadata
+In-Reply-To: <AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>
+References: <4C126013.7030103@okfn.org>
+	<AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>
+Message-ID: <4C18DB38.30309@okfn.org>
+
+Hi Ross,
+
+I really need to polish the presentation of some of this... That email
+was written very quickly before I had to run out of the office. But
+anyways...
+
+On 10-06-16 10:50, Ross Singer wrote:
+> This seems like a pragmatic approach to this.  Is there any reason why
+> you coined new classes/properties instead of reusing and extending
+> existing ones?
+>
+> For example, it seems like you could coopt the Work and Manifestation
+> classes from http://vocab.org/frbr/core and add the (useful!)
+> hasManifestation property.
+
+In the case of FRBR this was to avoid confusion since coopting its
+classes means using them in ways that have different meaning.
+frbr:Manifestation implies a frbr:Expression whereas obp:Manifestation
+doesn't. Making a new obp:Work also happens in places where FRBR would
+expect simply a new frbr:Expression.
+
+> Seems like the ISBN/ISSN/LCCN properties could be taken from BIBO, as
+> well.  Granted, BIBO doesn't set a domain for these properties (which
+> may have been your motivation), but I'm not sure of the accuracy of
+> inferring that every LCCN is a Manifestation, (subject authorities
+> have LCCNs, as well as archival finding aids:
+> http://lccn.loc.gov/92162930), etc.
+
+I think you're right here. There don't seem to be much in the way of
+domain/range restrictions on these properties so I don't see why they
+couldn't be used.
+
+For the W3 LLD list in the crosspost -- please let me know if this is
+inappropriate for the list, might be getting ahead of ourselves a bit.
+This is meant specifically in the context of the use case that is taking
+a MARC record and turning it into RDF.
+
+As it is, it looks like a MARC record at a minimum consists in:
+
+    * one xyz:Manifestation
+          o one dc:publisher
+    * one (implied) xyz:Work
+          o one or more dc:contributor (or sub-properties like author,
+            translator, etc)
+          o one or more identifiers, bibo:isbn bibo:issn etc
+          o one or more dc:subject from a controlled vocabulary
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100616/e5b34cb7/attachment.htm>
+
+From kcoyle at kcoyle.net  Wed Jun 16 16:09:16 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 16 Jun 2010 08:09:16 -0700
+Subject: [open-bibliography] Draft development vocabulary
+	for	bibliographic metadata
+In-Reply-To: <4C18DB38.30309@okfn.org>
+References: <4C126013.7030103@okfn.org>
+	<AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>
+	<4C18DB38.30309@okfn.org>
+Message-ID: <20100616080916.uliet1olr4ggswkw@kcoyle.net>
+
+Quoting William Waites <william.waites at okfn.org>:
+
+
+>
+> As it is, it looks like a MARC record at a minimum consists in:
+>
+>     * one xyz:Manifestation
+>           o one dc:publisher
+>     * one (implied) xyz:Work
+>           o one or more dc:contributor (or sub-properties like author,
+>             translator, etc)
+>           o one or more identifiers, bibo:isbn bibo:issn etc
+>           o one or more dc:subject from a controlled vocabulary
+
+
+William, I'm not quite sure what your "at a minimum" represents, so  
+this answer may or may not fit your use case.... however, MARC doesn't  
+actually have required fields, but most systems do make a small set  
+mandatory. Most of the required ones are in the 00X range, and many of  
+those are administrative data. Of the variable fields, the only one  
+that I have seen as mandatory is the title (245). That would be the  
+manifestation title.
+
+In case you haven't seen this, there are statistics on the actual  
+field usage at:
+
+http://www.mcdu.unt.edu/?p=45
+
+I also want to note that some of the more useful data comes out of the  
+Leader and the 008 fields (resource type, date of publication,  
+language).
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From william.waites at okfn.org  Wed Jun 16 22:53:04 2010
+From: william.waites at okfn.org (William Waites)
+Date: Wed, 16 Jun 2010 22:53:04 +0100
+Subject: [open-bibliography] MARC and other standard formats -> RDF
+In-Reply-To: <20100616080916.uliet1olr4ggswkw@kcoyle.net>
+References: <4C126013.7030103@okfn.org>	<AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>	<4C18DB38.30309@okfn.org>
+	<20100616080916.uliet1olr4ggswkw@kcoyle.net>
+Message-ID: <4C1947C0.5070102@okfn.org>
+
+On 10-06-16 16:09, Karen Coyle wrote:
+> Quoting William Waites <william.waites at okfn.org>:
+> 
+>>
+>> As it is, it looks like a MARC record at a minimum consists in:
+>>
+>>     * one xyz:Manifestation
+>>           o one dc:publisher
+>>     * one (implied) xyz:Work
+>>           o one or more dc:contributor (or sub-properties like author,
+>>             translator, etc)
+>>           o one or more identifiers, bibo:isbn bibo:issn etc
+>>           o one or more dc:subject from a controlled vocabulary
+> 
+> 
+> William, I'm not quite sure what your "at a minimum" represents, so this
+> answer may or may not fit your use case.... 
+
+I should probably have written "typically"
+
+> I also want to note that some of the more useful data comes out of the
+> Leader and the 008 fields (resource type, date of publication, language).
+
+This leads to an interesting question. I'm not
+aware of a field specifying the language of text
+*in the MARC record itself*. Most of the text looks
+neutral at first glance, but people have a habit
+of putting things like "[by] Foo Bar" or "electronic
+text" in some free-form text fields. Any heuristic
+for normalising this will be helped by knowledge of
+the language of the metadata as opposed to the book.
+
+Is there existing non-English language data in MARC
+format? If so, pointers would be appreciated. If not
+what source formats are we looking at for non-
+anglophone places? I know the Germans have something
+called MAB.
+
+A lot of the practical work that is likely to follow
+onto the W3C LLD WG might involve libraries taking
+data in these source formats and transforming them
+to RDF. To what extent does the shape of the data
+in the source records inform the shape of the
+resulting triples? Is there anything we can learn from
+the (salient) differences between MARC, MAB and
+others?
+
+Is it within the scope of the working group to
+enumerate these source data formats and provide
+recommended mappings to RDF?
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+
+From kcoyle at kcoyle.net  Thu Jun 17 00:55:42 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 16 Jun 2010 16:55:42 -0700
+Subject: [open-bibliography] MARC and other standard formats -> RDF
+In-Reply-To: <4C1947C0.5070102@okfn.org>
+References: <4C126013.7030103@okfn.org>
+	<AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>
+	<4C18DB38.30309@okfn.org> <20100616080916.uliet1olr4ggswkw@kcoyle.net>
+	<4C1947C0.5070102@okfn.org>
+Message-ID: <20100616165542.96ggqrf5wkos840s@kcoyle.net>
+
+Quoting William Waites <william.waites at okfn.org>:
+
+
+
+> This leads to an interesting question. I'm not
+> aware of a field specifying the language of text
+> *in the MARC record itself*.
+
+No, there isn't a way to do that, nor to indicate the language of an  
+individual field.
+
+Most of the text looks
+> neutral at first glance, but people have a habit
+> of putting things like "[by] Foo Bar" or "electronic
+> text" in some free-form text fields. Any heuristic
+> for normalising this will be helped by knowledge of
+> the language of the metadata as opposed to the book.
+
+Language of the metadata gets tricky. There is a concept of "language  
+of the catalog" that is used in the creation of catalog records. This  
+is used for notes and for a few areas like "356 pages." It should be  
+possible to indicate the language of the catalog when transforming  
+data from a library catalog *before* it loses that context. That will  
+NOT tell you the language of each field, and some fields (author name,  
+book title) are very hard to characterize in terms of a language.
+
+>
+> Is there existing non-English language data in MARC
+> format? If so, pointers would be appreciated. If not
+> what source formats are we looking at for non-
+> anglophone places? I know the Germans have something
+> called MAB.
+
+Try the Canadian libraries, who work in MARC in both English and French:
+
+http://www.collectionscanada.gc.ca
+
+>
+> A lot of the practical work that is likely to follow
+> onto the W3C LLD WG might involve libraries taking
+> data in these source formats and transforming them
+> to RDF. To what extent does the shape of the data
+> in the source records inform the shape of the
+> resulting triples? Is there anything we can learn from
+> the (salient) differences between MARC, MAB and
+> others?
+
+Yes, I'm sure there is. Some of the differences will be because of  
+different cataloging rules, others will be differences in how the data  
+is encoded. Teasing those apart won't be easy, but in a sense it has  
+begun as the German libraries attempt to move from MAB to MARC. They  
+are asking for numerous changes in MARC so that their data will fit.
+
+
+>
+> Is it within the scope of the working group to
+> enumerate these source data formats and provide
+> recommended mappings to RDF?
+
+
+More like: recommend that this task be undertaken. The LLD W3C group  
+is only live for one year, but it is expected to "incubate" a number  
+of follow-on tasks.
+
+kc
+
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From aisaac at few.vu.nl  Thu Jun 17 10:24:02 2010
+From: aisaac at few.vu.nl (Antoine Isaac)
+Date: Thu, 17 Jun 2010 11:24:02 +0200
+Subject: [open-bibliography] MARC and other standard formats -> RDF
+In-Reply-To: <20100616165542.96ggqrf5wkos840s@kcoyle.net>
+References: <4C126013.7030103@okfn.org>	<AANLkTikA0_EsERl4MOIBu-lXzWhTNzPeDXQ3ZKaJpZRC@mail.gmail.com>	<4C18DB38.30309@okfn.org>
+	<20100616080916.uliet1olr4ggswkw@kcoyle.net>	<4C1947C0.5070102@okfn.org>
+	<20100616165542.96ggqrf5wkos840s@kcoyle.net>
+Message-ID: <4C19E9B2.2040201@few.vu.nl>
+
+[...]
+>>
+>> Is it within the scope of the working group to
+>> enumerate these source data formats and provide
+>> recommended mappings to RDF?
+>
+>
+> More like: recommend that this task be undertaken. The LLD W3C group is
+> only live for one year, but it is expected to "incubate" a number of
+> follow-on tasks.
+
+
+Oops I was too fast in my other mail, this is typical "XG-life" ;-)
+
+Karen is right indeed. While we can expect to do some inventory effort of existing vocabularies/practices, we won't have time (as a group) to make entirely new contributions.
+
+Antoine
+
+
+From william.waites at okfn.org  Sun Jun 20 14:54:19 2010
+From: william.waites at okfn.org (William Waites)
+Date: Sun, 20 Jun 2010 14:54:19 +0100
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+Message-ID: <4C1E1D8B.5050000@okfn.org>
+
+Hello,
+
+Just wanted to give a quick update on this. Copying
+the bibliography list and a few possibly interested
+people as well. We are working on deduplicating some
+records of medical publications for Harvard Medical
+School.
+
+The task is, given several library catalogues, to
+identify duplicates or potential duplicates. This
+is similar to work done by EDINA for SUNCAT a few
+years ago, some software called Aleph and others.
+
+Broadly the algorithm looks like this:
+
+  1. compare identifiers where the syntax is known
+     and matches imply a high probability of
+     identity, e.g. ISBN, ISSN
+  2. if probability of a match is over a certain
+     threshold, stop.
+  3. compare text fields like title and author to
+     determin if a match is likely, ascertain a
+     probabilty of match
+
+An optimisation of step 3 involves removing some
+common or stop-words from the text fields first as
+suggested in the report for EDINA by Xinglong Wang.
+
+The comparison in 3 is expensive. As implemented in
+Aleph and SUNCAT, you would take take a text string
+and compare it to the corresponding field for each
+record in the database using a string similarity
+metric such as the Levenshtein or Jaro-Winkler
+distances. Not only is calculating the string
+similarity itself relatively expensive but the number
+of such operations grows with the size of the
+database.
+
+This has led to a very interesting side-track to
+investigate ways of making 3 a cheaper operation.
+
+My current thinking is to try to find a way to map
+strings into an n-dimensional space (n being
+configurable in the software). This mapping should
+be done in such a way that if they are near to each
+other (in a euclidean sense) in this space then
+their similarities will be great. In this way the
+question of "which strings in the database are most
+similar to x" becomes "which points are closest to
+pos(x)" and we can bring techniques of spatial
+search to bear.
+
+How do we map a string into a point in space? First
+choose several reference strings, (b1,...,bn) and
+then simply take our distance function and apply it,
+
+    pos(x) = (d(x,b1), ..., d(x,bn))
+
+since n is much smaller than the number of strings
+in the database, this is a much simpler calculation
+and only needs to be done once for each string.
+
+Research questions:
+
+    * How to choose the reference strings? My first
+      thought was to generate them randomly. Peter
+      Buneman suggests using a technique called
+      multidimensional scaling applied to a selection
+      of strings in the database and looking for
+      clustering. The strings corresponding most
+      closely to the centre of mass of a cluster
+      might be suitably used as reference strings.
+
+    * How many dimensions? The more dimensions, the
+      harder it is to do a spatial search. The fewer
+      dimensions the less likely we are to have a
+      useful correspondence between spatial distance
+      and string distance.
+
+    * Which string similarity metric works best for
+      this purpose -- edit distance, Levenshtein
+      or Jaro-Winkler metrics?
+
+Hopefully you won't consider these investigations
+to be off-track for the deduplication task at hand,
+should they prove fruitful it could be a very useful
+technique...
+
+Any feedback or suggestions would be most welcome.
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From kcoyle at kcoyle.net  Sun Jun 20 15:24:26 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 20 Jun 2010 07:24:26 -0700
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <4C1E1D8B.5050000@okfn.org>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+	<4C1E1D8B.5050000@okfn.org>
+Message-ID: <20100620072426.3yfyclm800gkogos@kcoyle.net>
+
+William, you might want to look at the algorithm that I worked on at  
+University of California, and is now being used (undoubtedly in  
+modified form) at the Open Library.
+   http://kcoyle.net/merge.html
+For efficiency, there is a search step that retrieves possible matches  
+on various identifiers (e.g. whatever you've got), and a portion of  
+the title. The remainder of matching is done against that "pool"  
+rather than the entire database.
+
+Some things to keep in mind: identifiers can be typo'd or assigned to  
+the wrong item, so we added a bit of the title and a date to the  
+identifier match to guard against this.
+
+Also, note that there are degrees of matching, like dates +- 2, that  
+help make up for common errors in the data.
+
+And... keep in mind that this was used on library data only, so if you  
+have data from other sources, some things might need to change.
+
+Somewhere in the OL open source you should be able to find the code  
+that is being used in that project.
+
+kc
+
+Quoting William Waites <william.waites at okfn.org>:
+
+> Hello,
+>
+> Just wanted to give a quick update on this. Copying
+> the bibliography list and a few possibly interested
+> people as well. We are working on deduplicating some
+> records of medical publications for Harvard Medical
+> School.
+>
+> The task is, given several library catalogues, to
+> identify duplicates or potential duplicates. This
+> is similar to work done by EDINA for SUNCAT a few
+> years ago, some software called Aleph and others.
+>
+> Broadly the algorithm looks like this:
+>
+>   1. compare identifiers where the syntax is known
+>      and matches imply a high probability of
+>      identity, e.g. ISBN, ISSN
+>   2. if probability of a match is over a certain
+>      threshold, stop.
+>   3. compare text fields like title and author to
+>      determin if a match is likely, ascertain a
+>      probabilty of match
+>
+> An optimisation of step 3 involves removing some
+> common or stop-words from the text fields first as
+> suggested in the report for EDINA by Xinglong Wang.
+>
+> The comparison in 3 is expensive. As implemented in
+> Aleph and SUNCAT, you would take take a text string
+> and compare it to the corresponding field for each
+> record in the database using a string similarity
+> metric such as the Levenshtein or Jaro-Winkler
+> distances. Not only is calculating the string
+> similarity itself relatively expensive but the number
+> of such operations grows with the size of the
+> database.
+>
+> This has led to a very interesting side-track to
+> investigate ways of making 3 a cheaper operation.
+>
+> My current thinking is to try to find a way to map
+> strings into an n-dimensional space (n being
+> configurable in the software). This mapping should
+> be done in such a way that if they are near to each
+> other (in a euclidean sense) in this space then
+> their similarities will be great. In this way the
+> question of "which strings in the database are most
+> similar to x" becomes "which points are closest to
+> pos(x)" and we can bring techniques of spatial
+> search to bear.
+>
+> How do we map a string into a point in space? First
+> choose several reference strings, (b1,...,bn) and
+> then simply take our distance function and apply it,
+>
+>     pos(x) = (d(x,b1), ..., d(x,bn))
+>
+> since n is much smaller than the number of strings
+> in the database, this is a much simpler calculation
+> and only needs to be done once for each string.
+>
+> Research questions:
+>
+>     * How to choose the reference strings? My first
+>       thought was to generate them randomly. Peter
+>       Buneman suggests using a technique called
+>       multidimensional scaling applied to a selection
+>       of strings in the database and looking for
+>       clustering. The strings corresponding most
+>       closely to the centre of mass of a cluster
+>       might be suitably used as reference strings.
+>
+>     * How many dimensions? The more dimensions, the
+>       harder it is to do a spatial search. The fewer
+>       dimensions the less likely we are to have a
+>       useful correspondence between spatial distance
+>       and string distance.
+>
+>     * Which string similarity metric works best for
+>       this purpose -- edit distance, Levenshtein
+>       or Jaro-Winkler metrics?
+>
+> Hopefully you won't consider these investigations
+> to be off-track for the deduplication task at hand,
+> should they prove fruitful it could be a very useful
+> technique...
+>
+> Any feedback or suggestions would be most welcome.
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+> 		http://ordf.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From robin.houston at gmail.com  Sun Jun 20 16:03:56 2010
+From: robin.houston at gmail.com (Robin Houston)
+Date: Sun, 20 Jun 2010 16:03:56 +0100
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <4C1E1D8B.5050000@okfn.org>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+	<4C1E1D8B.5050000@okfn.org>
+Message-ID: <AANLkTim2tZ21bhg5d2OkhCGjhTR1qcVQLX82nj9vxq7J@mail.gmail.com>
+
+Hello William,
+
+I don't have much background here, so I apologise if any of this is wildly
+inappropriate.
+
+This deduplication problem sounds pretty gnarly to me even without
+introducing any speculative new ideas. Is there a good reason not to attempt
+some of the more tried-and-tested approaches first? Of course there's an
+enormous literature on text search and indexing, and ideally you'd need an
+expert to point out the relevant parts (unless you are such an expert
+yourself, in which case apologies!)
+
+But a couple of non-expert remarks:
+
+? the efficiency of step 3 could be hugely improved (from O(n^2) to O(n log
+n)) just by indexing the text fields, even if you do it in a simple way like
+dumping them all into a trie. It's not obvious to me (perhaps because I'm
+being stupid) that your proposed algorithm would be essentially any better
+than this, even if it could be made to work.
+
+? bioinformaticians have a lot of experience of doing inexact string
+searches of short strings against large databases, in the context of mapping
+short DNA reads to a reference genome. The best algorithms (at least as of
+last year) use the Burrows-Wheeler transform to create a compressed index,
+with the effect that the whole index of the human genome can be held in RAM
+on a non-ridiculous machine. Of course keeping the index in main memory
+results in massive speed improvements. Whether such a strategy is practical
+or useful in your case depends on both the size of the index and how fast
+the algorithm needs to run. http://dx.doi.org/10.1093/bioinformatics/btp324
+
+Happy to say more about any of this if it's at all useful.
+
+All the best,
+Robin
+
+On 20 June 2010 14:54, William Waites <william.waites at okfn.org> wrote:
+
+> Hello,
+>
+> Just wanted to give a quick update on this. Copying
+> the bibliography list and a few possibly interested
+> people as well. We are working on deduplicating some
+> records of medical publications for Harvard Medical
+> School.
+>
+> The task is, given several library catalogues, to
+> identify duplicates or potential duplicates. This
+> is similar to work done by EDINA for SUNCAT a few
+> years ago, some software called Aleph and others.
+>
+> Broadly the algorithm looks like this:
+>
+>  1. compare identifiers where the syntax is known
+>     and matches imply a high probability of
+>     identity, e.g. ISBN, ISSN
+>  2. if probability of a match is over a certain
+>     threshold, stop.
+>  3. compare text fields like title and author to
+>     determin if a match is likely, ascertain a
+>     probabilty of match
+>
+> An optimisation of step 3 involves removing some
+> common or stop-words from the text fields first as
+> suggested in the report for EDINA by Xinglong Wang.
+>
+> The comparison in 3 is expensive. As implemented in
+> Aleph and SUNCAT, you would take take a text string
+> and compare it to the corresponding field for each
+> record in the database using a string similarity
+> metric such as the Levenshtein or Jaro-Winkler
+> distances. Not only is calculating the string
+> similarity itself relatively expensive but the number
+> of such operations grows with the size of the
+> database.
+>
+> This has led to a very interesting side-track to
+> investigate ways of making 3 a cheaper operation.
+>
+> My current thinking is to try to find a way to map
+> strings into an n-dimensional space (n being
+> configurable in the software). This mapping should
+> be done in such a way that if they are near to each
+> other (in a euclidean sense) in this space then
+> their similarities will be great. In this way the
+> question of "which strings in the database are most
+> similar to x" becomes "which points are closest to
+> pos(x)" and we can bring techniques of spatial
+> search to bear.
+>
+> How do we map a string into a point in space? First
+> choose several reference strings, (b1,...,bn) and
+> then simply take our distance function and apply it,
+>
+>    pos(x) = (d(x,b1), ..., d(x,bn))
+>
+> since n is much smaller than the number of strings
+> in the database, this is a much simpler calculation
+> and only needs to be done once for each string.
+>
+> Research questions:
+>
+>    * How to choose the reference strings? My first
+>      thought was to generate them randomly. Peter
+>      Buneman suggests using a technique called
+>      multidimensional scaling applied to a selection
+>      of strings in the database and looking for
+>      clustering. The strings corresponding most
+>      closely to the centre of mass of a cluster
+>      might be suitably used as reference strings.
+>
+>    * How many dimensions? The more dimensions, the
+>      harder it is to do a spatial search. The fewer
+>      dimensions the less likely we are to have a
+>      useful correspondence between spatial distance
+>      and string distance.
+>
+>    * Which string similarity metric works best for
+>      this purpose -- edit distance, Levenshtein
+>      or Jaro-Winkler metrics?
+>
+> Hopefully you won't consider these investigations
+> to be off-track for the deduplication task at hand,
+> should they prove fruitful it could be a very useful
+> technique...
+>
+> Any feedback or suggestions would be most welcome.
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+>                http://ordf.org/
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100620/4c5c5ff3/attachment-0001.htm>
+
+From william.waites at okfn.org  Sun Jun 20 17:37:58 2010
+From: william.waites at okfn.org (William Waites)
+Date: Sun, 20 Jun 2010 17:37:58 +0100
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <20100620072426.3yfyclm800gkogos@kcoyle.net>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>	<4C1E1D8B.5050000@okfn.org>
+	<20100620072426.3yfyclm800gkogos@kcoyle.net>
+Message-ID: <4C1E43E6.3040408@okfn.org>
+
+On 10-06-20 15:24, Karen Coyle wrote:
+> William, you might want to look at the algorithm that I worked on at
+> University of California, and is now being used (undoubtedly in modified
+> form) at the Open Library.
+>   http://kcoyle.net/merge.html
+
+Hi Karen, this is helpful. It's very similar to
+the Aleph/SUNCAT algorithm -- in fact it even looks
+like the weights are chosen the same way (their
+level 1 threshold is something like 800, yours is
+875).
+
+> For efficiency, there is a search step that retrieves possible matches
+> on various identifiers (e.g. whatever you've got), and a portion of the
+> title. The remainder of matching is done against that "pool" rather than
+> the entire database.
+
+It's the "portion of normalised title" that I'm
+trying to improve upon. Taking the first 25
+characters seems a bit arbitrary. The result should
+in any case be the same -- a small number of records
+to look at in more detail.
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From kcoyle at kcoyle.net  Sun Jun 20 20:18:01 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 20 Jun 2010 12:18:01 -0700
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <4C1E43E6.3040408@okfn.org>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+	<4C1E1D8B.5050000@okfn.org>
+	<20100620072426.3yfyclm800gkogos@kcoyle.net>
+	<4C1E43E6.3040408@okfn.org>
+Message-ID: <20100620121801.1wrmdwxj28osw48s@kcoyle.net>
+
+Quoting William Waites <william.waites at okfn.org>:
+
+>
+> Hi Karen, this is helpful. It's very similar to
+> the Aleph/SUNCAT algorithm -- in fact it even looks
+> like the weights are chosen the same way (their
+> level 1 threshold is something like 800, yours is
+> 875).
+
+Ex Libris used the U California algorithm. I was working at U Cal at  
+that time, and we developed the Aleph merging together with Ex Libris  
+in support of the MELVYL database. The idea was to transfer the  
+merging that had been done in the home-grown MELVYL system to the  
+Aleph one.
+
+
+>
+> It's the "portion of normalised title" that I'm
+> trying to improve upon. Taking the first 25
+> characters seems a bit arbitrary. The result should
+> in any case be the same -- a small number of records
+> to look at in more detail.
+
+It wasn't arbitrary, although YMMV -- when we developed this algorithm  
+at UCal we had a test database of about 4,000 items (carefully  
+selected) and we modified weights, string lengths, etc., until we got  
+as close as we could to the same decisions made by humans. That WAS,  
+however, in 1982, and some things will undoubtedly have changed. A  
+couple of things about titles:
+
+- we ran into situations where some records had title + subtitle and  
+some just had title. We compared the title portion (w/o subtitle) in a  
+left-anchored match. For retrieving items into the pool, however, we  
+actually created a short title key that we could query against. But  
+*efficiency* was more constrained in those days.
+
+- we ended up creating a small set (20-30, as I recall) of "exception"  
+titles -- titles that were very long, very regular, but with one word  
+different that wasn't a typo. These tended to be government documents:
+"Report of the commission on the development of natural resources,  
+subcommittee report from the state of ... Alabama/Alaska/etc." It was  
+very hard to avoid mis-merging these works -- they'd have the same  
+date, same publisher, same number of pages, and no identifier.  
+(Government documents and legal materials are very difficult to match,  
+in general.)
+
+- we also ended up creating a list of "titles too short" - Poems,  
+Works, etc. These got a lesser weight so we didn't end up merging Ezra  
+Pound with e e cummings.
+
+- Because of the way that cataloging handles publisher names, those  
+are very difficult to match, therefore they were given a low value in  
+the comparison.
+
+In other words, no matter what algorithm you create, you are going to  
+find things that can't be correctly identified as "same" or "not same"  
+using the algorithm. You will have to decide whether you wish to err  
+on the side of over-merging or under-merging. We did the latter  
+because our application would have masked the identity of items that  
+had merged incorrectly.
+
+kc
+
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+> 		http://ordf.org/
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From f.guy at ed.ac.uk  Mon Jun 21 09:41:33 2010
+From: f.guy at ed.ac.uk (Fred Guy)
+Date: Mon, 21 Jun 2010 09:41:33 +0100
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <20100620121801.1wrmdwxj28osw48s@kcoyle.net>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>	<4C1E1D8B.5050000@okfn.org>
+	<20100620072426.3yfyclm800gkogos@kcoyle.net>	<4C1E43E6.3040408@okfn.org>
+	<20100620121801.1wrmdwxj28osw48s@kcoyle.net>
+Message-ID: <4C1F25BD.6050600@ed.ac.uk>
+
+To all,
+
+Just to confirm that the algorithm used in Aleph for SUNCAT is 
+essentially the one developed for the University of California.
+
+Fred
+
+Karen Coyle wrote:
+> Quoting William Waites <william.waites at okfn.org>:
+>
+>>
+>> Hi Karen, this is helpful. It's very similar to
+>> the Aleph/SUNCAT algorithm -- in fact it even looks
+>> like the weights are chosen the same way (their
+>> level 1 threshold is something like 800, yours is
+>> 875).
+>
+> Ex Libris used the U California algorithm. I was working at U Cal at 
+> that time, and we developed the Aleph merging together with Ex Libris 
+> in support of the MELVYL database. The idea was to transfer the 
+> merging that had been done in the home-grown MELVYL system to the 
+> Aleph one.
+>
+>
+>>
+>> It's the "portion of normalised title" that I'm
+>> trying to improve upon. Taking the first 25
+>> characters seems a bit arbitrary. The result should
+>> in any case be the same -- a small number of records
+>> to look at in more detail.
+>
+> It wasn't arbitrary, although YMMV -- when we developed this algorithm 
+> at UCal we had a test database of about 4,000 items (carefully 
+> selected) and we modified weights, string lengths, etc., until we got 
+> as close as we could to the same decisions made by humans. That WAS, 
+> however, in 1982, and some things will undoubtedly have changed. A 
+> couple of things about titles:
+>
+> - we ran into situations where some records had title + subtitle and 
+> some just had title. We compared the title portion (w/o subtitle) in a 
+> left-anchored match. For retrieving items into the pool, however, we 
+> actually created a short title key that we could query against. But 
+> *efficiency* was more constrained in those days.
+>
+> - we ended up creating a small set (20-30, as I recall) of "exception" 
+> titles -- titles that were very long, very regular, but with one word 
+> different that wasn't a typo. These tended to be government documents:
+> "Report of the commission on the development of natural resources, 
+> subcommittee report from the state of ... Alabama/Alaska/etc." It was 
+> very hard to avoid mis-merging these works -- they'd have the same 
+> date, same publisher, same number of pages, and no identifier. 
+> (Government documents and legal materials are very difficult to match, 
+> in general.)
+>
+> - we also ended up creating a list of "titles too short" - Poems, 
+> Works, etc. These got a lesser weight so we didn't end up merging Ezra 
+> Pound with e e cummings.
+>
+> - Because of the way that cataloging handles publisher names, those 
+> are very difficult to match, therefore they were given a low value in 
+> the comparison.
+>
+> In other words, no matter what algorithm you create, you are going to 
+> find things that can't be correctly identified as "same" or "not same" 
+> using the algorithm. You will have to decide whether you wish to err 
+> on the side of over-merging or under-merging. We did the latter 
+> because our application would have masked the identity of items that 
+> had merged incorrectly.
+>
+> kc
+>
+>>
+>> Cheers,
+>> -w
+>>
+>> -- 
+>> William Waites           <william.waites at okfn.org>
+>> Mob: +44 789 798 9965    Open Knowledge Foundation
+>> Fax: +44 131 464 4948                Edinburgh, UK
+>>
+>> RDF Indexing, Clustering and Inferencing in Python
+>>         http://ordf.org/
+>>
+>
+>
+>
+
+-- 
+Fred Guy
+SUNCAT Project Manager
+EDINA
+Causewayside House
+158-162 Causewayside
+Edinburgh EH9 1PR
+Scotland, UK
+Tel: +44 (0) 131 651 3875
+Fax: +44 (0)131 650 3308
+Email: f.guy at ed.ac.uk
+http://edina.ac.uk
+
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+From bosteen at gmail.com  Mon Jun 21 11:51:00 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Mon, 21 Jun 2010 11:51:00 +0100
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <AANLkTim2tZ21bhg5d2OkhCGjhTR1qcVQLX82nj9vxq7J@mail.gmail.com>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+	<4C1E1D8B.5050000@okfn.org>
+	<AANLkTim2tZ21bhg5d2OkhCGjhTR1qcVQLX82nj9vxq7J@mail.gmail.com>
+Message-ID: <1277117460.1879.29.camel@monster>
+
+On Sun, 2010-06-20 at 16:03 +0100, Robin Houston wrote:
+> 
+> ? the efficiency of step 3 could be hugely improved (from O(n^2) to
+> O(n log n)) just by indexing the text fields, even if you do it in a
+> simple way like dumping them all into a trie.
+
+
+There is a lot of fast, reusable and - most importantly - already
+written code in the lucene project that might help out here. I've had
+results by using the MoreLikeThis class of query for example -
+http://cephas.net/blog/2008/03/30/how-morelikethis-works-in-lucene/ -
+but I haven't yet experimented with term-weighting ('boosting') with
+that approach.
+
+This is a thorny issue as (in my opinion) we aren't looking simply for
+mis-types and fuzzed text, we are looking through data entered in by
+people who have slightly different ideas of what should be entered in
+each field for a given item. Karen has already highlighted the type of
+error that typically comes from a constraint in the form ("title -
+subtitle vs title" in the "title" field), but there are other errors,
+especially when it comes to proper nouns and names. I have seen various
+journal abbreviations appear in catalogue metadata, and to collapse
+these is a problem.
+
+
+As for managing the accuracy of the curated data, I would suggest paying
+very close attention (and therefore recording in a data structure) the
+route that the information took from source to datastore and how records
+and entities were merged. I favour the route described by a Southampton
+research group for managing co-reference (in the semantic web) -
+http://eprints.ecs.soton.ac.uk/15245/ - essentially, every mention of an
+entity in a record is given a unique id, and the decision to say that
+one id is the same as another is recorded in a 'bundle', with
+appropriate metadata. 
+
+I'd manufacture this unique id by taking the SHA256 hash of
+"{record-id}:{field}:{value}" - the record of merges can be simple:
+
+bundle:1  contains  1ef343.., 9ab20.., 
+          createdby  <me>
+          heuristic  <URI to Exact text + weighted fields info>
+          label      "John Smith"
+
+bundle:2  contains   bundle:1, 833ef0.., etc
+          createdby  <me>
+          heuristic  <URI to levenshtein+weighted match code info>
+
+It is the bundles that are used in the frontend, with this data
+structure in the background, allowing us to unpick merges when they
+happen erroneously (as they will do)
+
+
+Ben
+
+
+
+From kcoyle at kcoyle.net  Mon Jun 21 15:02:57 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 21 Jun 2010 07:02:57 -0700
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <1277117460.1879.29.camel@monster>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+	<4C1E1D8B.5050000@okfn.org>
+	<AANLkTim2tZ21bhg5d2OkhCGjhTR1qcVQLX82nj9vxq7J@mail.gmail.com>
+	<1277117460.1879.29.camel@monster>
+Message-ID: <20100621070257.et2py0tz4wwo0okg@kcoyle.net>
+
+Ben, what you describe below brings up another question in the whole  
+"merging" issue: at what level do you merge (record or field) and what  
+do you do when two items are determined to be the same? There are a  
+lot of considerations here, such as how much duplicate data you can  
+keep around and what is your ability to resolve that duplication at  
+the time of display ... etc. etc.
+
+In the original design for MELVYL, we identified the source of each  
+field in the MARC record, and kept all variant fields:
+
+245 $a Moby Dick (UCLA, UCSD)
+245 $a Moby Dick, or, The Whale (UCB)
+245 $a Moby Dick or The Whale (UCSC)
+
+One "source" was chosen for the record display, all were indexed.
+
+In the Aleph design, all records were kept, with a "same" pointer  
+between them, but again, one was designed as the user display. Merging  
+and unmerging was a matter of changing the "set" that the record's  
+pointer belonged to.
+
+In both of these, we wanted to avoid displaying variant data, which  
+would just confuse users. (Also we were going for a traditional  
+library metadata display). So you do have to consider how you will  
+reconstruct your data for display.
+
+On another note, it has been said that there are lots of variants  
+among authors. We actually weighted authors quite low in our  
+implementation for that reason. Some of the data elements that ended  
+up being very important for merging were surprising, such as  
+pagination -- which, because librarians record the highest numbered  
+page from the item in hand, turned out to be a fairly accurate piece  
+of data.
+
+kc
+
+Quoting Ben O'Steen <bosteen at gmail.com>:
+
+
+I favour the route described by a Southampton
+> research group for managing co-reference (in the semantic web) -
+> http://eprints.ecs.soton.ac.uk/15245/ - essentially, every mention of an
+> entity in a record is given a unique id, and the decision to say that
+> one id is the same as another is recorded in a 'bundle', with
+> appropriate metadata.
+>
+> I'd manufacture this unique id by taking the SHA256 hash of
+> "{record-id}:{field}:{value}" - the record of merges can be simple:
+>
+> bundle:1  contains  1ef343.., 9ab20..,
+>           createdby  <me>
+>           heuristic  <URI to Exact text + weighted fields info>
+>           label      "John Smith"
+>
+> bundle:2  contains   bundle:1, 833ef0.., etc
+>           createdby  <me>
+>           heuristic  <URI to levenshtein+weighted match code info>
+>
+> It is the bundles that are used in the frontend, with this data
+> structure in the background, allowing us to unpick merges when they
+> happen erroneously (as they will do)
+>
+>
+> Ben
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From bosteen at gmail.com  Mon Jun 21 15:36:32 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Mon, 21 Jun 2010 15:36:32 +0100
+Subject: [open-bibliography] Deduplication
+In-Reply-To: <20100621070257.et2py0tz4wwo0okg@kcoyle.net>
+References: <0405DF468102294E8A7FFB11AA0F445901F7298D9C@NIHMLBXBB01.nih.gov>
+	<AANLkTik7DlhBbObGDuCV5k4k7Fmrp8e8a-QunYVruAG6@mail.gmail.com>
+	<4C1E1D8B.5050000@okfn.org>
+	<AANLkTim2tZ21bhg5d2OkhCGjhTR1qcVQLX82nj9vxq7J@mail.gmail.com>
+	<1277117460.1879.29.camel@monster>
+	<20100621070257.et2py0tz4wwo0okg@kcoyle.net>
+Message-ID: <1277130992.1879.213.camel@monster>
+
+True, I had mentally skipped ahead to the field-merging/URI+RDFising
+aspect which might follow on from record-deduplication :)
+
+Variants are awkward in displays - people wish to see variants they
+expect to, not all the possible ones you have found for each record
+field. 
+
+Something to consider is when a search hit is made on a variant, but not
+on the 'preferred' label. People want to see why a match was made, so
+this might be a point where showing more than one value for a field
+might benefit the user?
+
+Ben
+
+On Mon, 2010-06-21 at 07:02 -0700, Karen Coyle wrote:
+> Ben, what you describe below brings up another question in the whole  
+> "merging" issue: at what level do you merge (record or field) and what  
+> do you do when two items are determined to be the same? There are a  
+> lot of considerations here, such as how much duplicate data you can  
+> keep around and what is your ability to resolve that duplication at  
+> the time of display ... etc. etc.
+> 
+> In the original design for MELVYL, we identified the source of each  
+> field in the MARC record, and kept all variant fields:
+> 
+> 245 $a Moby Dick (UCLA, UCSD)
+> 245 $a Moby Dick, or, The Whale (UCB)
+> 245 $a Moby Dick or The Whale (UCSC)
+> 
+> One "source" was chosen for the record display, all were indexed.
+> 
+> In the Aleph design, all records were kept, with a "same" pointer  
+> between them, but again, one was designed as the user display. Merging  
+> and unmerging was a matter of changing the "set" that the record's  
+> pointer belonged to.
+> 
+> In both of these, we wanted to avoid displaying variant data, which  
+> would just confuse users. (Also we were going for a traditional  
+> library metadata display). So you do have to consider how you will  
+> reconstruct your data for display.
+> 
+> On another note, it has been said that there are lots of variants  
+> among authors. We actually weighted authors quite low in our  
+> implementation for that reason. Some of the data elements that ended  
+> up being very important for merging were surprising, such as  
+> pagination -- which, because librarians record the highest numbered  
+> page from the item in hand, turned out to be a fairly accurate piece  
+> of data.
+> 
+> kc
+> 
+> Quoting Ben O'Steen <bosteen at gmail.com>:
+> 
+> 
+> I favour the route described by a Southampton
+> > research group for managing co-reference (in the semantic web) -
+> > http://eprints.ecs.soton.ac.uk/15245/ - essentially, every mention of an
+> > entity in a record is given a unique id, and the decision to say that
+> > one id is the same as another is recorded in a 'bundle', with
+> > appropriate metadata.
+> >
+> > I'd manufacture this unique id by taking the SHA256 hash of
+> > "{record-id}:{field}:{value}" - the record of merges can be simple:
+> >
+> > bundle:1  contains  1ef343.., 9ab20..,
+> >           createdby  <me>
+> >           heuristic  <URI to Exact text + weighted fields info>
+> >           label      "John Smith"
+> >
+> > bundle:2  contains   bundle:1, 833ef0.., etc
+> >           createdby  <me>
+> >           heuristic  <URI to levenshtein+weighted match code info>
+> >
+> > It is the bundles that are used in the frontend, with this data
+> > structure in the background, allowing us to unpick merges when they
+> > happen erroneously (as they will do)
+> >
+> >
+> > Ben
+> >
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+> 
+> 
+> 
+
+
+
+
+From pohl at hbz-nrw.de  Mon Jun 21 15:42:32 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Mon, 21 Jun 2010 16:42:32 +0200
+Subject: [open-bibliography] RWTH Aachen library opens up their catalog data
+Message-ID: <4C1F967802000014000364EB@agrippa.hbz-nrw.de>
+
+Hallo,
+ 
+with the RWTH Aachen University Library another German library opened up its catalog under a CC-0-licence. See http://www.bth.rwth-aachen.de/offbibdat.html. (They even used a OKFN logo. I don't really know why...) Their catalog contains (at the time of the export) 1.230.180  records. 
+ 
+The records stem from the hbz union catalog. The records' format is the MAB-based "hbz-Neutralformat" (like the foregoing exports). See http://opendata.hbz-nrw.de/projects/data-publishing/wiki/Hbz-Neutralformat for a german documentation. We aren't very happy with this format and are working on an easier to reuse format for the next update... 
+ 
+Anyway, as we think the important first step to Linked Open Data is the legal and political step of opening up your raw data we are very happy to see that another German library has decided to join the Open Bibliographic Data initiative.
+ 
+Cheers,
+Adrian
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100621/947cecf4/attachment.htm>
+
+From jonathan.gray at okfn.org  Mon Jun 21 15:57:08 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 21 Jun 2010 16:57:08 +0200
+Subject: [open-bibliography] RWTH Aachen library opens up their catalog
+	data
+In-Reply-To: <4C1F967802000014000364EB@agrippa.hbz-nrw.de>
+References: <4C1F967802000014000364EB@agrippa.hbz-nrw.de>
+Message-ID: <AANLkTinZQstcdxunlUNhzRyBNTBW1MzKv67412YDh719@mail.gmail.com>
+
+Amazing news! ;-)
+
+Adrian: could you perhaps invite someone from this initiative to the Working
+Group (and to this mailing list)?
+
+All the best,
+
+Jonathan
+
+On Mon, Jun 21, 2010 at 4:42 PM, Adrian Pohl <pohl at hbz-nrw.de> wrote:
+
+>  Hallo,
+>
+> with the RWTH Aachen University Library another German library opened up
+> its catalog under a CC-0-licence. See
+> http://www.bth.rwth-aachen.de/offbibdat.html. (They even used a OKFN logo.
+> I don't really know why...) Their catalog contains (at the time of the
+> export) 1.230.180  records.
+>
+> The records stem from the hbz union catalog. The records' format is the
+> MAB-based "hbz-Neutralformat" (like the foregoing exports). See
+> http://opendata.hbz-nrw.de/projects/data-publishing/wiki/Hbz-Neutralformat for
+> a german documentation. We aren't very happy with this format and are
+> working on an easier to reuse format for the next update...
+>
+> Anyway, as we think the important first step to Linked Open Data is the
+> legal and political step of opening up your raw data we are very happy to
+> see that another German library has decided to join the Open Bibliographic
+> Data initiative.
+>
+> Cheers,
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100621/631eff61/attachment.htm>
+
+From rufus.pollock at okfn.org  Mon Jun 21 17:13:41 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 21 Jun 2010 17:13:41 +0100
+Subject: [open-bibliography] RWTH Aachen library opens up their catalog
+	data
+In-Reply-To: <4C1F967802000014000364EB@agrippa.hbz-nrw.de>
+References: <4C1F967802000014000364EB@agrippa.hbz-nrw.de>
+Message-ID: <AANLkTimg89n45bM9_iZKz2w_D2WG1eJVPXAirYgCc_4s@mail.gmail.com>
+
+On 21 June 2010 15:42, Adrian Pohl <pohl at hbz-nrw.de> wrote:
+>
+> Hallo,
+>
+> with the RWTH Aachen University Library another German library opened up its catalog under a CC-0-licence. See http://www.bth.rwth-aachen.de/offbibdat.html. (They even used a OKFN logo. I don't really know why...) Their catalog contains?(at the time of the export)
+> 1.230.180? records.
+
+That's amazing and no problem with them using the OKF logo though it
+might be better to suggest they use one of the open data buttons
+instead:
+
+<http://opendefinition.org/buttons/>
+
+> The records?stem from the hbz union catalog. The records' format is?the MAB-based "hbz-Neutralformat" (like the foregoing exports). See http://opendata.hbz-nrw.de/projects/data-publishing/wiki/Hbz-Neutralformat?for a german documentation. We aren't very happy with this format and are working on an easier to reuse format for the next update...
+
+That would be great.
+
+> Anyway, as we think the important first step to Linked Open Data?is?the legal and political step of opening up your raw data we are very happy to see that another German library has decided to join the Open Bibliographic Data initiative.
+
+Well done to Aachen University Library and to everyone who encouraged
+them in this step.
+
+Rufus
+
+
+From jonathan.gray at okfn.org  Tue Jun 22 17:13:45 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 22 Jun 2010 18:13:45 +0200
+Subject: [open-bibliography] Piece on open bibliographic data for Code4Lib
+	journal?
+Message-ID: <AANLkTinQdRPvAazOlqpbV-qcz8yHzf0WrwzKQXL-zrAV@mail.gmail.com>
+
+Wonder if it might be interesting to propose a short piece on open
+bibliographic metadata to Code4Lib?
+
+http://journal.code4lib.org/call-for-submissions
+
+All the best,
+
+Jonathan
+
+---------- Forwarded message ----------
+
+I am pleased to announce the availability of Code4Lib Journal, Issue 10.
+Please excuse the cross posting and feel free to share!
+
+The articles in Issue 10 are....
+
+
+Editorial Introduction: The Code4Lib Journal Experiment, Rejection
+Rates, and Peer Review
+Edward M. Corrado
+
+Code4Lib Journal has been a successful experiment. With success,
+questions have arisen about the scholarly nature and status of the
+Journal. In this editorial introduction we take a look at the question
+of Code4Lib Journal?s rejections rates and peer review status.
+http://journal.code4lib.org/articles/3277
+
+
+Building a Location-aware Mobile Search Application with Z39.50 and HTML5
+MJ Suhonos
+
+This paper presents MyTPL (http://www.mytpl.ca/), a proof-of-concept web
+application intended to demonstrate that, with a little imagination, any
+library with a Z39.50 catalogue interface and a web server with some
+common open-source tools can readily provide their own location-aware
+mobile search application. The complete source code for MyTPL is
+provided under the GNU GPLv3 license, and is freely available at:
+http://github.com/mjsuhonos/mytpl
+http://journal.code4lib.org/articles/2947
+
+
+OpenRoom: Making Room Reservation Easy for Students and Faculty
+Bradley D. Faust, Arthur W. Hafner, and Robert L. Seaton
+
+Scheduling and booking space is a problem facing many academic and
+public libraries. Systems staff at the Ball State University Libraries
+addressed this problem by developing a user friendly room management
+system, OpenRoom. The new room management application was developed
+using an open source model with easy installation and management in mind
+and is now publicly available.
+http://journal.code4lib.org/articles/2941
+
+
+Map it @ WSU: Development of a Library Mapping System for Large Academic
+Libraries
+Paul Gallagher
+
+The Wayne State Library System launched its library mapping application
+in February 2010, designed to help locate materials in the five WSU
+libraries. The system works within the catalog to show the location of
+materials, as well as provides a web form for use at the reference desk.
+Developed using PHP and MySQL, it requires only minimal effort to update
+using a unique call number overlay mechanism. In addition to mapping
+shelved materials, the system provides information for any of the over
+three hundred collections held by the WSU Libraries. Patrons can do more
+than just locate a book on a shelf: they can learn where to locate
+reserve items, how to access closed collections, or get driving maps to
+extension center libraries. The article includes a discussion of the
+technology reviewed and chosen during development, an overview of the
+system architecture, and lessons learned during development.
+http://journal.code4lib.org/articles/3072
+
+
+Creating a Library Database Search using Drupal
+Danielle M. Rosenthal & Mario Bernardo
+
+When Florida Gulf Coast University Library was faced with having to
+replace its database locator, they needed to find a low-cost, non-staff
+intensive replacement for their 350 plus databases search tool. This
+article details the development of a library database locator, based on
+the methods described in Leo Klein?s ?Creating a Library Database Page
+using Drupal? online presentation. The article describes how the library
+used Drupal along with several modules, such as CCK, Views, and
+FCKeditor. It also discusses various Drupal search modules that were
+evaluated during the process.
+http://journal.code4lib.org/articles/2920
+
+
+Implementing a Real-Time Suggestion Service in a Library Discovery Layer
+Benjamin Pennell and Jill Sexton
+
+As part of an effort to improve user interactions with authority data in
+its online catalog, the UNC Chapel Hill Libraries have developed and
+implemented a system for providing real-time query suggestions from
+records found within its catalog. The system takes user input as it is
+typed to predict likely title, author, or subject matches in a manner
+functionally similar to the systems found on commercial websites such as
+google.com or amazon.com. This paper discusses the technologies,
+decisions and methodologies that went into the implementation of this
+feature, as well as analysis of its impact on user search behaviors.
+http://journal.code4lib.org/articles/3022
+
+
+Creating Filtered, Translated Newsfeeds
+James E. Powell, Linn Marks Collins, Mark L. B. Martinez
+
+Google Translate?s API creates the possibility to leverage machine
+translation to both filter global newsfeeds for content regarding a
+specific topic, and to aggregate filtered feed items as a newsfeed.
+Filtered items can be translated so that the resulting newsfeed can
+provide basic information about topic-specific news articles from around
+the globe in the desired language of the consumer. This article explores
+a possible solution for inputting alternate words and phrases in the
+user?s native language, aggregating and filtering newsfeeds
+progammatically, managing filter terms, and using Google Translate?s API.
+http://journal.code4lib.org/articles/3232
+
+
+Metadata In, Library Out. A Simple, Robust Digital Library System
+Tonio Loewald, Jody DeRidder
+
+Tired of being held hostage to expensive systems that did not meet our
+needs, the University of Alabama Libraries developed an XML
+schema-agnostic, light-weight digital library delivery system based on
+the principles of ?Keep It Simple, Stupid!? Metadata and derivatives
+reside in openly accessible web directories, which support the
+development of web agents and new usability software, as well as
+modification and complete retrieval at any time. The file name structure
+is echoed in the file system structure, enabling the delivery software
+to make inferences about relationships, sequencing, and complex object
+structure without having to encapsulate files in complex metadata
+schemas. The web delivery system, Acumen, is built of PHP, JSON,
+JavaScript and HTML5, using MySQL to support fielded searching.
+Recognizing that spreadsheets are more user-friendly than XML, an
+accompanying widget, Archivists Utility, transforms spreadsheets into
+MODS based on rules selected by the user. Acumen, Archivists Utility,
+and all supporting software scripts will be made available as open source.
+http://journal.code4lib.org/articles/3107
+
+
+AudioRegent: Exploiting SimpleADL and SoX for Digital Audio Delivery
+Nitin Arora
+
+AudioRegent is a command-line Python script currently being used by the
+University of Alabama Libraries? Digital Services to create
+web-deliverable MP3s from regions within archival audio files. In
+conjunction with a small-footprint XML file called SimpleADL and SoX, an
+open-source command-line audio editor, AudioRegent batch processes
+archival audio files, allowing for one or many user-defined regions,
+particular to each audio file, to be extracted with additional audio
+processing in a transparent manner that leaves the archival audio file
+unaltered. Doing so has alleviated many of the tensions of cumbersome
+workflows, complicated documentation, preservation concerns, and
+reliance on expensive closed-source GUI audio applications.
+http://journal.code4lib.org/articles/2882
+
+
+Automatic Generation of Printed Catalogs: An Initial Attempt
+Jared Camins-Esakov
+
+Printed catalogs are useful in a variety of contexts. In special
+collections, they are often used as reference tools and to commemorate
+exhibits. They are useful in settings, such as in developing countries,
+where reliable access to the Internet?or even electricity?is not
+available. In addition, many private collectors like to have printed
+catalogs of their collections. All the information needed for creating
+printed catalogs is readily available in the MARC bibliographic records
+used by most libraries, but there are no turnkey solutions available for
+the conversion from MARC to printed catalog. This article describes the
+development of a system, available on github, that uses XSLT, Perl, and
+LaTeX to produce press-ready PDFs from MARCXML files. The article
+particularly focuses on the two XSLT stylesheets which comprise the core
+of the system, and do the ?heavy lifting? of sorting and indexing the
+entries in the catalog. The author also highlights points where the data
+stored in MARC bibliographic records requires particular ?massaging,?
+and suggests improvements for future attempts at automated printed
+catalog generation.
+http://journal.code4lib.org/articles/3154
+
+
+Easing Gently into OpenSRF, Part 1 and 2
+Dan Scott
+
+The Open Service Request Framework (or OpenSRF, pronounced ?open surf?)
+is an inter-application message passing architecture built on XMPP (aka
+?jabber?). The Evergreen open source library system is built on an
+OpenSRF architecture to support loosely coupled individual components
+communicating over an OpenSRF messaging bus. This article introduces
+OpenSRF, demonstrates how to build OpenSRF services through simple code
+examples, explains the technical foundations on which OpenSRF is built,
+and evaluates OpenSRF?s value in the context of Evergreen.
+Part 1 of a 2 part article in this issue:
+http://journal.code4lib.org/articles/3284
+Part 2 of a 2 part article in this issue:
+http://journal.code4lib.org/articles/3365
+_______________________________________________
+Ol-lib mailing list
+Ol-lib at archive.org
+http://mail.archive.org/cgi-bin/mailman/listinfo/ol-lib
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Wed Jun 23 19:32:30 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 23 Jun 2010 19:32:30 +0100
+Subject: [open-bibliography] Open Bibliography in Climate
+Message-ID: <AANLkTimNFaAdLmEMgzFRCiE6uiM5K5wPK-7vo6Y2JQfE@mail.gmail.com>
+
+Intensive discussions have taken place over the last few days between about
+12-16 people (including deveral from OKF) under the general heading of "Open
+Climate Initiative" (OCI) and OCI-index. We now feel that this is starting
+to gel into 2-3 separate but related activities and this mail specifically
+relates to bibliography and the role of the OKF and Open-Bibliography
+project.
+
+There is considerable support for an open scholarly project in the
+Bibliography of Climate, with a range of opinions about the scope - should
+it be limited solely to bibliography or should it extend to data and code.
+And within documents should it apply recursively to the discovery of
+references and links within the documents. This is labelled provisionally
+"OCI-index" and is linked organizationally to an emerging OCI.
+
+As one of our (PMR+RP) current funded projects is in strict bibliography I
+have restricted our vision to applying standard and modern bibliographic
+techniques to the creation of formal Open bibliographies within Climate
+research, most notably the IPCC "bibliography" (which is primarily
+references distributed throughout their publications). This vision extends
+to identifying the formal Openness of the bibliographically referenced
+material.
+
+The JISCOBIB (Open Bibliography) project is sponsored by JISC at the
+Chemistry Department Cambridge and the OKF. I shall post more about this
+later. I am its PI and the primary tasks are converting specific
+bibliographies and collections of papers to semantic Open bibliographies.
+This involves developing new tools for extracting and semantifying
+bibliographies, assigning identifiers, deduplication / disambiguation,
+creating schemata, etc. These tools will be made Open as soon as they are
+developed and can be used in any bibliographic endeavours.
+
+The JISCOBIB projects starts next week and I suggest we apply our technology
+to a few leading bibliographies in Climate research such as IPCC, Am. Inst.
+Physics and 1-2 others. I shall refer to this subproject as Open Climate
+Bibliography.
+
+I am delighted with the contact I have made with climatologists and see
+great scope for collaborative endeavour in Open Bibliography - this is an
+Open world and we are fortunate to be able to provide part of the support
+
+Peter
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100623/26fa5f42/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jun 24 13:42:55 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Jun 2010 13:42:55 +0100
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+Message-ID: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+
+This is to announce the exciting news of a grant from JISC (
+http://www.jisc.ac.uk/ ) to support an Open Bibliography project for about a
+year. The project partners are:
+* University of Cambridge, Chemistry Department, Peter Murray-Rust
+(Principal Investigator)
+* The Open Knowledge Foundation
+* The British Library (BL)
+* The University Library, University of Cambridge (CUL)
+* The International Union of Crystallography (IUCr)
+* The Public Library of Science [PLoS]
+
+The project is very closely coupled to a complementary project from David
+Shotton (PI) at Oxford on Open Citations.
+
+To distinguish the project it has the unique tag #jiscobib
+
+The project starts next week and its first activities will be to create a
+project plan for approval by JISC, and to create a web presence.
+
+The proposal concentrates on:
+* developing the practice of Open bibliography (tools, protocols, legal
+issues, etc.)
+* cases studies on selected bibliographic resources. The primary ones are:
+-- catalogue material ftom the BL
+-- catalogue material from the CUL
+-- Open Access (CC-BY) publications from the IUCr
+
+The main funded staff are Ben O'Steen, Rufus Pollock and Peter Murray-Rust.
+We are extremely grateful for very significant contributions from the
+partners, including the promise of material which can be made Open.
+
+It is expected that the tools and protocols are generally suitable for
+making Open bibliographies. The project will welcome suggestions for
+contributions of material, effort and expertise (and has already received
+some offers). We expect these to be discussed and reported on this list or
+other lists/pages created by the project.
+
+As I (PM-R) have gaps in my bibliographic knowledge I may take the
+opportunity to ask some questions on this list which may also be useful for
+other newcomers to the subject.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100624/06f2f66a/attachment.htm>
+
+From timjph at gmail.com  Thu Jun 24 13:51:21 2010
+From: timjph at gmail.com (Tim Hubbard)
+Date: Thu, 24 Jun 2010 13:51:21 +0100
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+Message-ID: <a0624082fc849051282ab@[10.0.1.8]>
+
+Great stuff!  Is there a web page/blog announcing this that I can 
+point to in a tweet?
+
+Tim
+
+>This is to announce the exciting news of a grant from JISC 
+>(<http://www.jisc.ac.uk/>http://www.jisc.ac.uk/ ) to support an Open 
+>Bibliography project for about a year. The project partners are:
+>* University of Cambridge, Chemistry Department, Peter Murray-Rust 
+>(Principal Investigator)
+>* The Open Knowledge Foundation
+>* The British Library (BL)
+>* The University Library, University of Cambridge (CUL)
+>* The International Union of Crystallography (IUCr)
+>* The Public Library of Science [PLoS]
+>
+>The project is very closely coupled to a complementary project from 
+>David Shotton (PI) at Oxford on Open Citations.
+>
+>To distinguish the project it has the unique tag #jiscobib
+>
+>The project starts next week and its first activities will be to 
+>create a project plan for approval by JISC, and to create a web 
+>presence.
+>
+>The proposal concentrates on:
+>* developing the practice of Open bibliography (tools, protocols, 
+>legal issues, etc.)
+>* cases studies on selected bibliographic resources. The primary ones are:
+>-- catalogue material ftom the BL
+>-- catalogue material from the CUL
+>-- Open Access (CC-BY) publications from the IUCr
+>
+>The main funded staff are Ben O'Steen, Rufus Pollock and Peter 
+>Murray-Rust. We are extremely grateful for very significant 
+>contributions from the partners, including the promise of material 
+>which can be made Open.
+>
+>It is expected that the tools and protocols are generally suitable 
+>for making Open bibliographies. The project will welcome suggestions 
+>for contributions of material, effort and expertise (and has already 
+>received some offers). We expect these to be discussed and reported 
+>on this list or other lists/pages created by the project.
+>
+>As I (PM-R) have gaps in my bibliographic knowledge I may take the 
+>opportunity to ask some questions on this list which may also be 
+>useful for other newcomers to the subject.
+>
+>
+>
+>
+>--
+>Peter Murray-Rust
+>Reader in Molecular Informatics
+>Unilever Centre, Dep. Of Chemistry
+>University of Cambridge
+>CB2 1EW, UK
+>+44-1223-763069
+>
+>_______________________________________________
+>open-bibliography mailing list
+>open-bibliography at lists.okfn.org
+>http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+-- 
+-------------------------------------------------------------------------
+Dr Tim Hubbard                         email: th at sanger.ac.uk
+Wellcome Trust Sanger Institute        Tel (direct): +44 1223 496886
+Wellcome Trust Genome Campus           Tel (switch): +44 1223 834244
+Hinxton, Cambridgeshire. CB10 1SA.     Fax: +44 1223 496802
+URL: http://www.sanger.ac.uk/research/faculty/thubbard/
+-------------------------------------------------------------------------
+
+
+-- 
+ The Wellcome Trust Sanger Institute is operated by Genome Research 
+ Limited, a charity registered in England with number 1021457 and a 
+ company registered in England with number 2742969, whose registered 
+ office is 215 Euston Road, London, NW1 2BE. 
+
+
+From pm286 at cam.ac.uk  Thu Jun 24 13:55:05 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Jun 2010 13:55:05 +0100
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <a0624082fc849051282ab@10.0.1.8>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+	<a0624082fc849051282ab@10.0.1.8>
+Message-ID: <AANLkTikFCBwVqVoegvEv0TQyZ1v6pRfp0JE-d4_b2P4M@mail.gmail.com>
+
+I'm copying in Rufus and Ben...
+
+My plan is to see Rufus as soon as possible and jointly lash up an OKF
+website. Ben is moving this week.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100624/12de9e3a/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jun 24 15:44:13 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Jun 2010 15:44:13 +0100
+Subject: [open-bibliography] What bibliographic material is Open by default?
+Message-ID: <AANLkTimSvkceRUHP0pdiYk-3T1zCj6nGV945-Y74tGxb@mail.gmail.com>
+
+As part of the JISCOBIB project we shall be looking at what Bibliographic
+material can be collected and transformed automatically. Clearly we need to
+have the right to do this and I'd be grateful for clarificationas to which
+components of published material are, by default, Open (or in the Public
+Domain) and can be used without permission.
+
+In #JISCOBIB (and I will be posting about this shortly) we can robotically
+extract 10,000 papers from a single Open Access Journal (Acta
+Crystallographica E, http://journals.iucr.org/e/ ). Because all material in
+all papers is offered as CC-BY then we can make any legal re-use of this,
+including creating a bibliography.
+
+In the case of Acta journals each paper has been marked up with Dublin Core
+and PRISM and we can extract this automatically. This gives the metadata of
+authors, pages, journal, title, etc (I'll refer to this as bibliographic
+material)..
+
+My questions now include to excluding this to non-CC-BY material:
+* if I go to a  page freely (gratis) visible on the web can I extract and
+Openly re-use the bibliographic data without permission? (I exclude
+Robots.txt from this discussion)
+* if I go to a series of related pages (e.g. journal articles) can I extract
+and Openly reuse the aggregated biblilographic material? IOW if I create a
+table of contents can I publish that without permission?
+* What are my rights in re-using the Abstract from a page freely (gratis)
+visible on the web?
+* if the page contains a series of References can I re-use those?
+* are bibliographies in Europe potentially covered by the sui generis
+database directive? If so is this by default?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100624/8f530478/attachment.htm>
+
+From tim at librarything.com  Thu Jun 24 16:55:03 2010
+From: tim at librarything.com (Tim Spalding)
+Date: Thu, 24 Jun 2010 11:55:03 -0400
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+Message-ID: <AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+
+I like to think I am not an idiot. Even so, I need to ask an idiotic
+question. Can someone help me with the usage of "bibliography"
+throughout? The word has many different uses, from a simple citation
+list to any writing or data involving book-ish things.
+
+For example, "The Open Bibliography Project will deliver a substantial
+corpus of bibliographic metadata as Linked Open Data" leaves open?for
+me?what the data is intended to be used for. Cataloging? Citation
+lists? Anything? What's kept, what's chucked and how things are
+connected all differ based on the expected usage.
+
+Those who know me know that I've been vuvuzela-ing for open
+bibliographic data for a long time. I'll do what I can here too. But
+two things are of interest here from the perspective of LibraryThing:
+
+1. We recently released OverCat (see
+http://www.librarything.com/blogs/librarything/2010/06/announcing-overcat/).
+Basically, OverCat is Open Library, plus some non-open records and
+remaining in MARC, not translated to OL-whatever. We are--so
+far--keeping even the open data closed, because OL already makes it
+available. But I could see us contributing our code to this project,
+or another.
+
+2. LibraryThing is going to be getting into articles and so forth. We
+are looking to mine what we can, and get member data for the rest.
+We're thinking about data licensing here, both other people's stuff
+and what members produce.
+
+Best,
+Tim
+
+On Thu, Jun 24, 2010 at 8:42 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> This is to announce the exciting news of a grant from JISC
+> (http://www.jisc.ac.uk/ ) to support an Open Bibliography project for about
+> a year. The project partners are:
+> * University of Cambridge, Chemistry Department, Peter Murray-Rust
+> (Principal Investigator)
+> * The Open Knowledge Foundation
+> * The British Library (BL)
+> * The University Library, University of Cambridge (CUL)
+> * The International Union of Crystallography (IUCr)
+> * The Public Library of Science [PLoS]
+>
+> The project is very closely coupled to a complementary project from David
+> Shotton (PI) at Oxford on Open Citations.
+>
+> To distinguish the project it has the unique tag #jiscobib
+>
+> The project starts next week and its first activities will be to create a
+> project plan for approval by JISC, and to create a web presence.
+>
+> The proposal concentrates on:
+> * developing the practice of Open bibliography (tools, protocols, legal
+> issues, etc.)
+> * cases studies on selected bibliographic resources. The primary ones are:
+> -- catalogue material ftom the BL
+> -- catalogue material from the CUL
+> -- Open Access (CC-BY) publications from the IUCr
+>
+> The main funded staff are Ben O'Steen, Rufus Pollock and Peter Murray-Rust.
+> We are extremely grateful for very significant contributions from the
+> partners, including the promise of material which can be made Open.
+>
+> It is expected that the tools and protocols are generally suitable for
+> making Open bibliographies. The project will welcome suggestions for
+> contributions of material, effort and expertise (and has already received
+> some offers). We expect these to be discussed and reported on this list or
+> other lists/pages created by the project.
+>
+> As I (PM-R) have gaps in my bibliographic knowledge I may take the
+> opportunity to ask some questions on this list which may also be useful for
+> other newcomers to the subject.
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Check out my library at http://www.librarything.com/profile/timspalding
+
+
+From pm286 at cam.ac.uk  Thu Jun 24 16:59:35 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Jun 2010 16:59:35 +0100
+Subject: [open-bibliography] Open Bibliography in Climate
+In-Reply-To: <AANLkTimNFaAdLmEMgzFRCiE6uiM5K5wPK-7vo6Y2JQfE@mail.gmail.com>
+References: <AANLkTimNFaAdLmEMgzFRCiE6uiM5K5wPK-7vo6Y2JQfE@mail.gmail.com>
+Message-ID: <AANLkTimJHsmfXENN2JjLNS9jrRwH9msF9wHuTmTOgST5@mail.gmail.com>
+
+I am now summarising the outcome of the discussions on the creation of an
+Open Climate Bibliography. This project is run under the auspices of the
+Open Knowledge Foundation and will be supplemented by web pages and other
+resources on the OKF site. Like other OKF projects it invites collaborators
+- you do not need to be an expert. Feel free to join and mail the list,  or
+mail Jonathan or info [at] okfn.org .
+
+===============================================================================
+
+The Open Knowledge Foundation has created a critical mass of bibliographic
+expertise both through its membership, its open Bibliography mailing list,
+and the recent funding of a multidisciplinary project (#JISCOBIB). In
+exploratory discussions with a number of those active in climate research
+and policy it has become clear that an Open, semantic bibliography will be
+of considerable value to those interested in climate science for many
+reasons.
+
+The project, Open Climate Bibliography (OCB), will be run through the
+mechanisms of the Open Knowledge Foundation which provides modern Open
+semantic resources for discussion, creating resources, and dissemination.
+The scope of the project will be informed by discussion on the OKF's Open
+Bibliography list and may or may not change from the initial scope.
+
+Initial Scope:
+OCB is strictly limited to creating an Open semantic bibliography using
+accepted bibliographic standards (yet to be determined, but such as Dublin
+Core, PRISM, FRBR). The bibliography will use existing bibliographic
+collections or collections of bibliographic entries relevant to climate
+science. As the definition of climate science and its metadata is subjective
+the project aims to start with a single resource, the  bibliographic
+references in material from the Intergovernmental Panel on Climate Change
+(IPCC). [One of the first acts of the project will be to approach the IPCC
+to persuade them of the value of such a bibliography and to see if they are
+in a position to help the effort, e.g. with material and expertise].
+
+Bibliographic Technology and Metadata
+The OKFN-OCB group will strictly confine itself to the technical aspects of
+metadata (e.g. formats, language, licence, etc.) and will not in itself
+carry out any cataloguing, annotation or selection of resources. In essence
+this is a best-endeavour to capture a "semantic snapshot" of the
+bibliography at given points in time. It will also not, initially, address
+the content of the resource pointed to by the bibliographic entry or
+reference and will not attempt to create a domain-specific index. If any of
+the resources are not textual, (e.g. graphics, movies, data files, computer
+programs, computer models) OCB will not attempt to interpret or index them.
+
+Open Knowledge
+The most critical and novel aspect of OCB will be determining which
+resources are Open according to the Open Knowledge Definition. This will
+extend to establishing the bibliography itself as completely Open and
+finding which OK-compliant licences are most appropriate (data, document,
+database, etc.). We will hope to persuade current bibliography owners to
+allow their material to be converted to an Open form. We will also
+investigate how much openness can be created automatically (e.g. from
+publication lists, repositories, etc.)
+Where material referenced by the entries is not fully Open we will record
+the state in the bibliography and will need to develop an appropriate
+taxonomy.
+
+Community involvement
+All OKF projects are open to anyone to contribute to and we are actively
+inviting collaborators. We welcome domain experts in both climate research
+and bibliography but these are not required skills. We expect many of the
+processes can be carried by anyone following a carefully agreed protocol,
+and may, like other "citizen" projects, allow multiple creation of
+bibliographic records, thus providing a "voting system" and also an
+objective metric of the consistency of the markup. [We re-emphasize that the
+bibliographic metadata does not require specialist knowledge.]
+
+Re-use of the OCB
+As the Biblography will be Open and semantic it can be re-used for a very
+large number of purposes. These do not need the permission of the OKF or any
+of the contributors. OCB could, for example, be used to find communities of
+practice, list fully Open resources, create mashups with geographical or
+temporal resources, provide material for educators and learners, produce
+metrics, etc. Its design will mean that it can be included in "Web 2.0"
+Linked Open Data applications.
+The bibliography is extensible and downstream users can add their own
+annotations and filters. The OCB does not by default intend to include these
+extended bibliographies or resources, but may provide a listing of
+significant derivative works.
+
+Liability
+The OCB cannot be a definitive snapshot of the source bibliographies and the
+OKF takes no responsibility for how it is used.
+
+Timescale
+Give us a week or so to collect our thoughts and resources as we start up
+#JISCOBIB but by all means mail this list with comments. Please stick
+closely to the subject line as there are other bibliographic projects
+mediated through this list
+
+Peter Murray-Rust
+
+The following have been involved in the discussions and wish to support the
+OKFN-OCB activity as described above.
+
+Cameron Neylon
+Jordan Hatcher
+Rufus Pollock
+Glyn Moody
+Jonathan Gray
+Ben O'Steen
+Richard Drake
+Ivo Grigorov
+Andrew Montford
+Conrad Taylor
+Nick Barnes
+
+[there will be opportunity on the web page to update the list of
+discussants]
+
+
+Please feel free to forward this mail:
+
+open-bibliography
+<http://lists.okfn.org/mailman/listinfo/open-bibliography>list run by
+jonathan.gray
+at okfn.org, sara.gray at okfn.org <open-bibliography-owner at lists.okfn.org>
+Overview of all lists.okfn.org mailing
+lists<http://lists.okfn.org/mailman/listinfo>
+
+Open Knowledge Foundation: http://www.okfn.org/
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-
+1223-763069
+
+
+
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100624/a13dbc19/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Thu Jun 24 17:22:26 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Jun 2010 17:22:26 +0100
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+	<AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+Message-ID: <AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+
+On Thu, Jun 24, 2010 at 4:55 PM, Tim Spalding <tim at librarything.com> wrote:
+
+> I like to think I am not an idiot.
+
+
+I am sure you are not :-)
+
+
+> Even so, I need to ask an idiotic
+> question. Can someone help me with the usage of "bibliography"
+> throughout? The word has many different uses, from a simple citation
+> list to any writing or data involving book-ish things.
+>
+
+It's a very wide term. Starting from Wikipedia I find:
+
+Bibliographic works differ in the amount of detail depending on the purpose,
+and can be generally divided into two categories: *enumerative* bibliography
+(also called compilative, reference or systematic), which results in an
+overview of publications <http://en.wikipedia.org/wiki/Publication> in a
+particular category, and *analytical*, or critical, bibliography, which
+studies the production of
+books.[1]<http://en.wikipedia.org/wiki/Bibliography#cite_note-0>
+[2] <http://en.wikipedia.org/wiki/Bibliography#cite_note-1> In earlier
+times, bibliography mostly focused on books. Now, both categories of
+bibliography cover works in other formats including recordings, motion
+pictures and videos, graphic objects, databases,
+CD-ROMs[3]<http://en.wikipedia.org/wiki/Bibliography#cite_note-2>and
+websites.
+
+My own interest as a scientists is in what WP calls "enumerative" so here
+goes:
+Enumerative bibliography
+
+A *bibliography* is a list of writings that share a common factor: this may
+be a topic, a language, a period, or some other theme. The list may be
+comprehensive or selective. One particular instance of this is the list of
+sources used or considered in preparing a work, sometimes called a *reference
+list*.
+
+Citation <http://en.wikipedia.org/wiki/Citation> formats vary, but an entry
+for a book in a bibliography usually contains the following information:
+
+   - author(s)
+   - title
+   - publisher
+   - date of publication
+
+An entry for a journal or periodical article usually contains:
+
+   - author(s)
+   - article title
+   - journal title
+   - volume
+   - pages
+   - date of publication
+
+PMR: This is exactly the information that I am collecting for scientific
+articles. For modern works most working scientists do not   distinguish
+between versions of works, manifestations, etc. and there is a single
+bibliographic object (often indexed through a DOI). If, however, the author
+publishes versions other than the publishers' it might be useful to record
+these though it is likely to be very difficult in practice
+
+A bibliography may be arranged by author, topic, or some other scheme.
+Annotated
+bibliographies <http://en.wikipedia.org/wiki/Annotated_bibliography> give
+descriptions about how each source is useful to an author in constructing a
+paper or argument. These descriptions, usually a few sentences long, provide
+a summary of the source and describe its relevance. Reference management
+software <http://en.wikipedia.org/wiki/Reference_management_software> may be
+used to keep track of references and generate bibliographies as required.
+
+Bibliographies differ from library
+catalogs<http://en.wikipedia.org/wiki/Library_catalog>by including
+only relevant items rather than all items present in a
+particular library. However, the catalogs of some national
+libraries<http://en.wikipedia.org/wiki/National_library>effectively
+serve as national bibliographies, as the national libraries own
+almost all their countries' publications.
+ PMR: This emphasizes that a bibliography is extensible - you can add
+annotations (and annotate them recursively if required). So it can be very
+simple or very complex.
+
+>
+> For example, "The Open Bibliography Project will deliver a substantial
+> corpus of bibliographic metadata as Linked Open Data" leaves open?for
+> me?what the data is intended to be used for. Cataloging? Citation
+> lists? Anything? What's kept, what's chucked and how things are
+> connected all differ based on the expected usage.
+>
+
+We have two very sets of use cases. Rufus and Ben will be working with key
+libreary catalogues (BL and Cambridge). Here we can expect some records to
+be very complex and the expectation of usage very complex and varied
+
+My use case is 10000 papers from the same journal. here the bibliographic
+data is all of one type (enumerative).  One thing I want to do is map
+authorship over time by geolocation. Another could be to find the degree of
+publication involving more than one institution. This is limited only by the
+imagination and the detail of the metadata
+
+>
+> Those who know me know that I've been vuvuzela-ing for open
+> bibliographic data for a long time. I'll do what I can here too. But
+> two things are of interest here from the perspective of LibraryThing:
+>
+> 1. We recently released OverCat (see
+> http://www.librarything.com/blogs/librarything/2010/06/announcing-overcat/
+> ).
+> Basically, OverCat is Open Library, plus some non-open records and
+> remaining in MARC, not translated to OL-whatever. We are--so
+> far--keeping even the open data closed, because OL already makes it
+> available. But I could see us contributing our code to this project,
+> or another.
+>
+
+That sounds useful. I don't quite get the point of keeping your open data
+closed. From OL I find:
+"Open Library is an open project: the software is open, the data is open,
+the documentation is open, and we welcome your contribution.  " It looks
+like it has a "citizien librarian" philosophy. I am sure we will be
+interested in the tools for adding and maintaining records
+
+
+
+>
+> 2. LibraryThing is going to be getting into articles and so forth. We
+> are looking to mine what we can, and get member data for the rest.
+> We're thinking about data licensing here, both other people's stuff
+> and what members produce.
+>
+>
+"Data licensing" will depend on what the data are. The OKF has tools for all
+sorts of "data".
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100624/79701f7c/attachment.htm>
+
+From tim at librarything.com  Thu Jun 24 17:57:43 2010
+From: tim at librarything.com (Tim Spalding)
+Date: Thu, 24 Jun 2010 12:57:43 -0400
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com> 
+	<AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com> 
+	<AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+Message-ID: <AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+
+A few comments.
+
+If I might restate, the problem is severe here in that the proposal
+uses both "bibliography" and "bibliographic. Unfortunately, the normal
+uses of these terms aren't adjective and noun pointers to the same
+concept.
+
+The definitional question doesn't interest me, however. Insert a
+little argument about definitions and classification theory.
+
+I am, however, interested in *just what data is produced, or opened*
+in both extent and detail. If this project produces a linked-data
+representation of the BL's library records, with all MARC data
+preserved in some way?great. There's a lot that can be done with that.
+If it adds data to that, from another source or through internal
+analysis, double great. If it produces some lossy representation,
+either in extent or detail, which can't be used for cataloging or to
+add information to traditional catalogs, that becomes a lot less
+interesting to me. I'm simply unclear which is happening here.
+
+> We have two very sets of use cases. Rufus and Ben will be working with key
+> libreary catalogues (BL and Cambridge). Here we can expect some records to
+> be very complex and the expectation of usage very complex and varied
+
+So, is BL data going to be opened up?
+
+> That sounds useful. I don't quite get the point of keeping your open data
+> closed.
+
+I mean merely that the data is already open through others. Open
+Library and ?Biblios provide access to the same data. So we don't have
+a public API to the data because we don't see much of a need. The
+software that gathers and processes it is, however, pretty good.
+
+> "Data licensing" will depend on what the data are. The OKF has tools for all
+> sorts of "data".
+
+This is a two sided question. I'm interested in what OKF
+discovers/decides about the legal state of book-and-article records.
+
+And I'm interested in whether LT should release its data to OKF, and
+if we did, what licenses could be applied to it. For example, we
+offered to release our Common Knowledge data to Open Library, but they
+refused the CC-Attribution license we proposed.
+
+Best,
+Tim
+
+
+From pm286 at cam.ac.uk  Thu Jun 24 18:32:18 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 24 Jun 2010 18:32:18 +0100
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+	<AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+	<AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+	<AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+Message-ID: <AANLkTin5hA24WSPN8LLu_JDc4fs3SdoPrlR9yYzQVL9l@mail.gmail.com>
+
+This is very useful to me - I'd value more opinions
+
+On Thu, Jun 24, 2010 at 5:57 PM, Tim Spalding <tim at librarything.com> wrote:
+
+> A few comments.
+>
+> If I might restate, the problem is severe here in that the proposal
+> uses both "bibliography" and "bibliographic. Unfortunately, the normal
+> uses of these terms aren't adjective and noun pointers to the same
+> concept.
+>
+
+I'm happy to be enlightened. From the BL I find:
+Bibliographic Services
+
+The British Library provides a range of services for people requiring
+bibliographic information. These services include the national
+bibliography<http://www.bl.uk/bibliographic/natbib.html>of the UK and
+publication of the catalogues of the British Library. All
+products and services are designed to be compliant with
+internationalbibliographic
+standards<http://www.bl.uk/bibliographic/service.html>.
+
+ So here bibliographic services provide bibliographies and catalogues.
+
+
+> I am, however, interested in *just what data is produced, or opened*
+> in both extent and detail. If this project produces a linked-data
+> representation of the BL's library records, with all MARC data
+> preserved in some way?great.
+
+
+I'll let Rufus and Ben (O'Steen) and Ben (White) BL, answer that. My
+understanding is that we shall have access to the MARC records.
+
+
+> There's a lot that can be done with that.
+> If it adds data to that, from another source or through internal
+> analysis, double great. If it produces some lossy representation,
+> either in extent or detail, which can't be used for cataloging or to
+> add information to traditional catalogs, that becomes a lot less
+> interesting to me. I'm simply unclear which is happening here.
+>
+
+It depends completely on what is available. Here is the  HTML provided for a
+typical paper in Acta Cryst. E by the editorial staff
+
+<meta content="urn:issn:1600-5368" name="DC.source" />
+  <meta content="http://creativecommons.org/licenses/by/2.0/uk"
+name="DC.rights" />
+  <meta content="Xue, L.-W." name="DC.creator" />
+  <meta content="Li, X.-W." name="DC.creator" />
+  <meta content="Zhao, G.-Q." name="DC.creator" />
+  <meta content="Peng, Q.-L." name="DC.creator" />
+  <meta content="2009-09-01" name="DC.date" />
+  <meta content="doi:10.1107/S1600536809037520" name="DC.identifier" />
+  <meta content="International Union of Crystallography" name="DC.publisher"
+/>
+  <meta content="http://scripts.iucr.org/cgi-bin/paper?is2450"
+name="DC.link" />
+  <meta content="en" name="DC.language" />
+  <meta content="text" name="DC.type" />
+  <meta
+content="catena-Poly[[pyridinecopper(II)]-[mu]-N-[(2-oxido-1-naphthyl)methylene]glycinato]"
+name="DC.title" />
+  <meta content="In the title compound, [Cu(C13H9NO3)(C5H5N)], the CuII atom
+is coordinated in a distorted square-pyramidal geometry, with two N and two
+O atoms in the basal positions and one O atom in the apical position. The
+apical Cu-O bond [2.3520 (16) A] is much longer than the basal Cu-O and Cu-N
+bonds [1.9139 (14)-2.0136 (17) A]. The carboxylate group bridges CuII atoms,
+forming a zigzag chain along the a axis." name="DCTERMS.abstract" />
+  <meta content="10" name="prism.number" />
+  <meta content="65" name="prism.volume" />
+  <meta content="2009-09-01" name="prism.publicationDate" />
+  <meta content="Acta Crystallographica Section E: Structure Reports Online"
+name="prism.publicationName" />
+  <meta content="1600-5368" name="prism.issn" />
+  <meta content="metal-organic compounds" name="prism.section" />
+  <meta content="1237" name="prism.startingPage" />
+  <meta content="med at iucr.org" name="prism.rightsAgent" />
+  <meta content="1237" name="prism.endingPage" />
+  <meta content="1600-5368" name="prism.eissn" />
+  <meta content="" name="keywords" />
+  <meta content="NOARCHIVE,NOINDEX" name="ROBOTS" />
+
+we can also add automatic metadata such as:
+* the number of graphics in the article
+* the number of HTML-normalized words in the article
+* the number of tables in the article
+* the unique ID of the co-editor of the article
+* Received 20 May 2010
+* Accepted 31 May 2010
+* Online 5 June 2010
+
+To me that looks like high quality bibliographic metadata. There is some
+journal-generic stuff we can fold in such as:
+
+format: "-//W3C//DTD XHTML 1.0 Frameset//EN"
+encoding: UTF-8
+
+and metadata about the publisher
+
+ Address International Union of Crystallography, 5 Abbey Square, Chester CH1
+2HU, England  Telephone 44 1244 342878  Fax 44 1244 314888  Managing
+Editor Peter
+Strickland (med at iucr.org)
+
+
+
+
+
+ *Acta Crystallographica Section E* Gillian Holmes (gh at iucr.org)
+
+There may, however, be metadata that we cannot extract automatically and
+which would require the participation of the authors or publisher and we do
+not intend to extract that
+
+
+
+> > We have two very sets of use cases. Rufus and Ben will be working with
+> key
+> > libreary catalogues (BL and Cambridge). Here we can expect some records
+> to
+> > be very complex and the expectation of usage very complex and varied
+>
+> So, is BL data going to be opened up?
+>
+
+Some is.
+
+> ...
+>
+
+
+> > "Data licensing" will depend on what the data are. The OKF has tools for
+> all
+> > sorts of "data".
+>
+> This is a two sided question. I'm interested in what OKF
+> discovers/decides about the legal state of book-and-article records.
+>
+
+We have a lot of experience. We should be able to address questions such as
+"is a catalog a document (CC-BY), a data set (PDDL/CC0) or a database
+(OdBL). Or some mixture of these"
+
+>
+> And I'm interested in whether LT should release its data to OKF, and
+> if we did, what licenses could be applied to it. For example, we
+> offered to release our Common Knowledge data to Open Library, but they
+> refused the CC-Attribution license we proposed.
+>
+> OKF generally holds metadata rather than primary data so it depends. Just
+mail Rufus or Jonathan
+
+Best
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100624/896219e0/attachment-0001.htm>
+
+From pohl at hbz-nrw.de  Fri Jun 25 10:39:03 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Fri, 25 Jun 2010 11:39:03 +0200
+Subject: [open-bibliography] Antw: What bibliographic material is Open	 by
+	default?
+In-Reply-To: <AANLkTimSvkceRUHP0pdiYk-3T1zCj6nGV945-Y74tGxb@mail.gmail.com>
+References: <AANLkTimSvkceRUHP0pdiYk-3T1zCj6nGV945-Y74tGxb@mail.gmail.com>
+Message-ID: <4C24955702000014000365ED@agrippa.hbz-nrw.de>
+
+> * if I go to a  page freely (gratis) visible on the web can I extract
+and
+> Openly re-use the bibliographic data without permission? 
+
+In Germany similar questions came up with physical books in the context
+of catalogue enrichment where libraries scan table of contents (tocs),
+indexes or, bibliographies. I talked with some lawyers about this
+concerning printed books and they said that at least table of contents
+and bibliographies are parts of a copyrighted work which themselves are
+public domain. Simply because no creativity goes into making a table of
+content or extracting litarature for a bibliography.
+
+In 2007, when libraries wanted to start with digitizing tocs, indexes
+and maybe bibliographies (which, unfortunately, they never did) for
+incorporating them into their catalogs they asked for permission at the
+"B?rsenverein des Deutschen Buchhandels" a club representing German
+publishers. The B?rsenverein sent a letter [1] which said that their
+lawyers see now legal concerns with digitizing and publishing:
+
+- title page (not the book cover),
+- table of content,
+- index of tables,
+- index of figures,
+- bibliography
+
+and even:
+- subject index,
+- index of persons,
+- index of places.
+
+As I said, in addition to this, I talked with two copyright lawyers
+about this who saw no problem in taking tocs and bibliographies from
+copyrighted publications. SAll this seems to indicate that copying
+reference list from publications is legal unproblematic. I think
+Mendeley is already doing this on a large scale.
+
+> * if the page contains a series of References can I re-use those?
+> * are bibliographies in Europe potentially covered by the sui
+generis
+> database directive? If so is this by default?
+
+The situation might be different with bibliographies which aren't part
+of another work, I mean simple lists/aggregations of references
+concerning a specific topic, person etc. I am not sure, but believe
+these bibliographies are certainly copyrighted.
+
+> * What are my rights in re-using the Abstract from a page freely
+(gratis)
+> visible on the web?
+
+You probably don't have the rights to reuse an abstract without
+permission. Like a translation an abstract arguably is a transformation
+of an existing text which is creative and results in potential copyright
+claims over this transformation.
+
+It would be great if these legal issues could be adressed by a lawyer
+within the JISC project so that there is some kind of serious reference
+concerning these questions. Actually, I just asked a German copyright
+lawyer with whom we create a legal guide for digitizing Public Domain
+works to include an overview of parts of an otherwise copyrighted book
+that you can copy and publish without seeking permission. In a few weeks
+we should get answers to that written down by a lawyer...
+
+Adrian
+
+[1]
+http://www.bibliotheksverband.de/fileadmin/user_upload/DBV/vereinbarungen/Boersenverein_110707_Kataloganreicherung.pdf
+
+
+
+ >>>Peter Murray-Rust <pm286 at cam.ac.uk> schrieb am Donnerstag, 24. Juni
+2010 um
+16:44:
+> As part of the JISCOBIB project we shall be looking at what
+Bibliographic
+> material can be collected and transformed automatically. Clearly we
+need to
+> have the right to do this and I'd be grateful for clarificationas to
+which
+> components of published material are, by default, Open (or in the
+Public
+> Domain) and can be used without permission.
+> 
+> In #JISCOBIB (and I will be posting about this shortly) we can
+robotically
+> extract 10,000 papers from a single Open Access Journal (Acta
+> Crystallographica E, http://journals.iucr.org/e/ ). Because all
+material in
+> all papers is offered as CC-BY then we can make any legal re-use of
+this,
+> including creating a bibliography.
+> 
+> In the case of Acta journals each paper has been marked up with
+Dublin Core
+> and PRISM and we can extract this automatically. This gives the
+metadata of
+> authors, pages, journal, title, etc (I'll refer to this as
+bibliographic
+> material)..
+> 
+> My questions now include to excluding this to non-CC-BY material:
+> * if I go to a  page freely (gratis) visible on the web can I extract
+and
+> Openly re-use the bibliographic data without permission? (I exclude
+> Robots.txt from this discussion)
+> * if I go to a series of related pages (e.g. journal articles) can I
+extract
+> and Openly reuse the aggregated biblilographic material? IOW if I
+create a
+> table of contents can I publish that without permission?
+> * What are my rights in re-using the Abstract from a page freely
+(gratis)
+> visible on the web?
+> * if the page contains a series of References can I re-use those?
+> * are bibliographies in Europe potentially covered by the sui
+generis
+> database directive? If so is this by default?
+> 
+> P.
+
+
+From rufus.pollock at okfn.org  Fri Jun 25 13:02:45 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 25 Jun 2010 13:02:45 +0100
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+	<AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+	<AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+	<AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+Message-ID: <AANLkTimPUzbcqo59cslL8hH_Ie1tnSmv2k6IMXZ6I0dU@mail.gmail.com>
+
+On 24 June 2010 17:57, Tim Spalding <tim at librarything.com> wrote:
+> A few comments.
+
+[...]
+
+> I am, however, interested in *just what data is produced, or opened*
+> in both extent and detail. If this project produces a linked-data
+> representation of the BL's library records, with all MARC data
+> preserved in some way?great. There's a lot that can be done with that.
+> If it adds data to that, from another source or through internal
+> analysis, double great. If it produces some lossy representation,
+> either in extent or detail, which can't be used for cataloging or to
+> add information to traditional catalogs, that becomes a lot less
+> interesting to me. I'm simply unclear which is happening here.
+
+The aim would be to preserve all info and I'm pretty sure efforts
+would be to made to ensure availability of the the source MARC records
+too (so if people don't like the RDF-izing you can do it differently).
+However, exactly what we do does depend on the source libraries.
+
+>> We have two very sets of use cases. Rufus and Ben will be working with key
+>> libreary catalogues (BL and Cambridge). Here we can expect some records to
+>> be very complex and the expectation of usage very complex and varied
+>
+> So, is BL data going to be opened up?
+
+For clarity: the BL (and CUL) are *not* committing to open up *all*
+their data at this stage -- it is likely that CUL will be able to
+release more than the BL by the way (both CUL and BL are "copyright"
+libraries in the UK though BL's holdings are larger [1]).
+
+Discussions are going on right now to determine the extent of the
+release -- I should note that this is, to an extent, a prototype
+project and about showing institutions what the benefits of open data
+might be. If it is successful I hope we will see more extensive (and
+perhaps complete) releases of data.
+
+[1]: http://www.rufuspollock.org/tags/eupd/
+
+>> That sounds useful. I don't quite get the point of keeping your open data
+>> closed.
+>
+> I mean merely that the data is already open through others. Open
+> Library and ?Biblios provide access to the same data. So we don't have
+
+Aside: How do you actually get data out of Biblios (especially in
+bulk)? I've never been able to work out how, which is why the
+resources field of the CKAN package remains blank:
+<http://ckan.net/package/biblios>. Also where does there data come
+from? One often has to be a bit wary of where data got sourced from:
+e.g. if you just scrape Amazon you are probably grabbing data from
+Nielsen (one of many parties who probably supplying amazon) and
+Nielsen run a significant business selling that data and are likely to
+have rights in it ...
+
+> a public API to the data because we don't see much of a need. The
+> software that gathers and processes it is, however, pretty good.
+>
+>> "Data licensing" will depend on what the data are. The OKF has tools for all
+>> sorts of "data".
+>
+> This is a two sided question. I'm interested in what OKF
+> discovers/decides about the legal state of book-and-article records.
+
+My feeling on book records is caveat emptor -- data rights vary and in
+most jurisdictions you're going to need to worry about the rights in
+data (see [2] for more). Remember also that issues don't arise at the
+beginning, they arise when you really start to threaten some
+incumbents business model ...
+
+[2]: <http://www.opendefinition.org/guide/data/>
+
+To deal with this risk, my view is that open data projects should take
+an an open street map type approach where you:
+
+a) try to determine and record provenance of data fairly strictly
+b) take a "clean-room" type approach on what data you accept and aim
+only to take data that is explicitly open
+
+> And I'm interested in whether LT should release its data to OKF, and
+> if we did, what licenses could be applied to it. For example, we
+> offered to release our Common Knowledge data to Open Library, but they
+> refused the CC-Attribution license we proposed.
+
+We'd be happy to accept any open data license, i.e. any license here:
+
+<http://www.opendefinition.org/licenses/#Data>
+
+And it you are looking for attribution Open Data Commons (a
+OKF-affiliated project) has just today released an attribution license
+for data(bases):
+
+<http://www.opendatacommons.org/2010/06/24/open-data-commons-attribution-license-released/>
+
+Rufus
+
+
+From jonathan.gray at okfn.org  Fri Jun 25 17:10:07 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 25 Jun 2010 18:10:07 +0200
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+	<AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+	<AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+	<AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+Message-ID: <AANLkTimoBrRpvaiTx1cFLCF_nSZRTtkw_WMtLKm9HmSg@mail.gmail.com>
+
+On Thu, Jun 24, 2010 at 6:57 PM, Tim Spalding <tim at librarything.com> wrote:
+> And I'm interested in whether LT should release its data to OKF, and
+> if we did, what licenses could be applied to it. For example, we
+> offered to release our Common Knowledge data to Open Library, but they
+> refused the CC-Attribution license we proposed.
+
+Just to add: I think it would be *fantastic* if LT released data under
+an attribution license! ;-)
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From rufus.pollock at okfn.org  Fri Jun 25 17:43:40 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 25 Jun 2010 17:43:40 +0100
+Subject: [open-bibliography] Dedicated list for open bibliographic technical
+	(developer) stuff
+Message-ID: <AANLkTikDV-bOzQ-k5An8FaEvuDU8w6CFs_wOg092rFYF@mail.gmail.com>
+
+I wanted to give people a heads-up that a new open public mailing list
+has just been set up:
+
+<http://lists.okfn.org/mailman/listinfo/openbiblio-dev>
+
+The list is a dev(eloper) list for those working on open bibliographic
+tools and data including, but by means necessarily limited to,
+OKF-associated projects such as Bibliographica and the new
+JISC-supported open biblio effort.
+
+It has been created as an arena for more day-to-day technical stuff
+without the danger of over-burdening those with lesser interest in
+such matters! Anyone is, of course, welcome to join.
+
+General bibliographic related discussion will continue here on
+open-bibliography:
+
+<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From kcoyle at kcoyle.net  Fri Jun 25 20:18:40 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 25 Jun 2010 12:18:40 -0700
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+In-Reply-To: <AANLkTimoBrRpvaiTx1cFLCF_nSZRTtkw_WMtLKm9HmSg@mail.gmail.com>
+References: <AANLkTik6oR_gFlMe8KSjhG3kwGlud_4cYUttLektJ79X@mail.gmail.com>
+	<AANLkTina40zIak0vsr0ADHmCgUY5svC3AI5XxKYa-XKs@mail.gmail.com>
+	<AANLkTimYp_PIrA22MfaE6T9D19TAnVWGcMXtlpCGe8XM@mail.gmail.com>
+	<AANLkTinJoBPewUiCyNhUKSI8Yg7l9H8yIlnrEnKshT4S@mail.gmail.com>
+	<AANLkTimoBrRpvaiTx1cFLCF_nSZRTtkw_WMtLKm9HmSg@mail.gmail.com>
+Message-ID: <20100625121840.gjzjjvgkqo08s48c@kcoyle.net>
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+
+>
+> Just to add: I think it would be *fantastic* if LT released data under
+> an attribution license! ;-)
+
+
+What would the logical mechanism be for having the license travel with  
+the data? For example, OCLC proposed a MARC field for license  
+information, but such a field is easily removed, on the one hand, and  
+is also necessarily lost when one transfers data to any format that  
+does not have an analogous license field. And that only works for  
+records... if you begin to develop a linked data model, you would need  
+a license on each statement.
+
+kc
+
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pm286 at cam.ac.uk  Sat Jun 26 11:17:05 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 26 Jun 2010 11:17:05 +0100
+Subject: [open-bibliography] Dedicated list for open bibliographic
+	technical (developer) stuff
+In-Reply-To: <AANLkTikDV-bOzQ-k5An8FaEvuDU8w6CFs_wOg092rFYF@mail.gmail.com>
+References: <AANLkTikDV-bOzQ-k5An8FaEvuDU8w6CFs_wOg092rFYF@mail.gmail.com>
+Message-ID: <AANLkTin1mrgtNRYKv46ojO8VTQbejTIUw84zs0LcC4sl@mail.gmail.com>
+
+On Fri, Jun 25, 2010 at 5:43 PM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+
+> I wanted to give people a heads-up that a new open public mailing list
+> has just been set up:
+>
+> <http://lists.okfn.org/mailman/listinfo/openbiblio-dev>
+>
+> The list is a dev(eloper) list for those working on open bibliographic
+> tools and data including, but by means necessarily limited to,
+> OKF-associated projects such as Bibliographica and the new
+> JISC-supported open biblio effort.
+>
+> It has been created as an arena for more day-to-day technical stuff
+> without the danger of over-burdening those with lesser interest in
+> such matters! Anyone is, of course, welcome to join.
+>
+> This is great. I have posted the following suggestions about scope to the
+*-dev (I list them here in case there are general issues). I assume that the
+scope will settle down quite quickly and that people will not need to
+crosspost:
+
+
+It will be useful to scope out the scope of *-dev mails. My own list would
+be something like:
+
+* technical discussions of existing bibliographic standards (MARC, FRBR, DC,
+PRISM, etc.)
+* semantic transformation and loss between standards
+* software for managing all aspects of bibliography (ingest, authoring,
+transformation, semantification)
+* technical aspects of licences (e.g. machine-readability, linking on web
+pages);
+* schemas and schema design
+* identifier systems
+* disambiguation
+* text mining
+* indexing (e.g. Lucene)
+* crawlers
+* "simple" subsets of metadata (what is the "minimum bibliographic entry")
+* technology for recursive and nested bibliography
+* technology for dynamic bibliography
+* design of versions
+
+
+
+I would also like the *-dev list to "own" formal specifications - e.g.
+* where is the relevant part of the current MARC/FRBR/DC spec?
+* how is a DOI resolved?
+* definitive ISO codes for languages
+* OKF bibliographic identifier system (I think we shall need one)
+* links into LOD
+
+I would expect the following to be more suitable for this list (*-discuss)
+* details of a particular bibliography (unless they were technical or
+generic)
+* legal issues
+* political issues
+* policy on licences
+* interaction with bibliographic authorities
+
+To a considerable extent *-dev can act as the immediate log of experience on
+#JISCOBIB and Bibliographica. This is because I suspect that those projects
+will encounter most of the important generic problems in bibliography and
+need generic solutions.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100626/eb2a3b3b/attachment.htm>
+
+From rufus.pollock at okfn.org  Mon Jun 28 16:35:40 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 28 Jun 2010 16:35:40 +0100
+Subject: [open-bibliography] Having a license (and attribution) travel with
+	data (was: Re: Announce: Open Bibliography (JISCOBIB))
+Message-ID: <AANLkTimMweGOv03TK6NLugIFlsCs5hXPbCu83qQnjy0S@mail.gmail.com>
+
+On 25 June 2010 20:18, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+>
+>>
+>> Just to add: I think it would be *fantastic* if LT released data under
+>> an attribution license! ;-)
+>
+>
+> What would the logical mechanism be for having the license travel with the
+> data? For example, OCLC proposed a MARC field for license information, but
+> such a field is easily removed, on the one hand, and is also necessarily
+> lost when one transfers data to any format that does not have an analogous
+> license field. And that only works for records... if you begin to develop a
+> linked data model, you would need a license on each statement.
+
+You raise an interesting question here Karen -- and one that is not
+specific to bibliographic data of course. I think there are various
+possible answers:
+
+a) You could try to associate license (or attribution) information at
+some fairly low level (just as you would do for general provenance
+info -- i.e. where this came from, who's edited it etc). I
+specifically say low-level because they could be some flexibility
+here. For example, it could be at the record level or named graph
+level rather than the level of a field or individual triple.
+
+b) You could (assuming a set of compatible licenses) simply provide an
+overall citation/license for a dataset with that citation/license
+encompassing the datasets included therein. So, for example, if
+dataset A were used in the construction of dataset B you wouldn't cite
+the individual field/records/statement from B that came or derived
+from A but would simply say: "Dataset B uses material from dataset A"
+and then include an appropriate citation.
+
+There are also half-way houses between the two approaches: for example
+you indicate that a particular segment of your data came from a given
+source.
+
+Regards,
+
+Rufus
+
+
+From peiffer.patrick at gmail.com  Tue Jun 29 11:22:46 2010
+From: peiffer.patrick at gmail.com (Patrick Peiffer)
+Date: Tue, 29 Jun 2010 12:22:46 +0200
+Subject: [open-bibliography] introduction
+Message-ID: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+
+Dear all,
+
+allow me to introduce myself (thanks to jonathan gray for inviting me)
+i work at the national library of luxembourg (www.bnl.lu) where I
+manage the national consortium for scientific information (
+www.portail.bnl.lu, www.consortium.lu). In the Europeana Connect project i'm
+work package leader "licensing", drafting the agreements for partners
+(libraries, museums, archives, a/v archives) and end users. Non-profit wise
+I am project lead for CC Luxembourg.
+My main interest here: moving forward the liberal licensing of metadata by
+providing tangible examples of its benefits.
+Best,
+Patrick Peiffer
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100629/d7ef7864/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Jun 29 15:18:37 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 29 Jun 2010 16:18:37 +0200
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+Message-ID: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+
+Just to follow up from this -- I understand that the libraries
+involved in Europeana are in final stages of negotiating licensing
+terms. Any evidence or arguments about why Europeana should make the
+bibliographic metadata *open* (as in opendefinition.org) would be very
+much appreciated! In particular I understand that many libraries
+currently want to release with NC restrictions.
+
+Jonathan
+
+On Tue, Jun 29, 2010 at 12:22 PM, Patrick Peiffer
+<peiffer.patrick at gmail.com> wrote:
+> Dear all,
+> allow me to introduce myself (thanks to?jonathan gray for inviting me)
+> i work at the national library of luxembourg (www.bnl.lu) where I
+> manage?the?national consortium for scientific information
+> (www.portail.bnl.lu, www.consortium.lu). In the Europeana Connect project
+> i'm work package leader "licensing", drafting?the?agreements for partners
+> (libraries, museums, archives, a/v archives) and end users. Non-profit wise
+> I am project lead for CC Luxembourg.
+> My main interest here: moving forward the liberal licensing of metadata by
+> providing tangible examples of its benefits.
+> Best,
+> Patrick Peiffer
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Tue Jun 29 15:50:36 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 29 Jun 2010 15:50:36 +0100
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+Message-ID: <AANLkTilsWkDUVhB7Ttm9i93hPZkkzUzxFAW1MOaZUzzh@mail.gmail.com>
+
+On Tue, Jun 29, 2010 at 11:22 AM, Patrick Peiffer <peiffer.patrick at gmail.com
+> wrote:
+
+> Dear all,
+>
+> allow me to introduce myself (thanks to jonathan gray for inviting me)
+> i work at the national library of luxembourg (www.bnl.lu) where I
+> manage the national consortium for scientific information (
+> www.portail.bnl.lu, www.consortium.lu). In the Europeana Connect project
+> i'm work package leader "licensing", drafting the agreements for partners
+> (libraries, museums, archives, a/v archives) and end users. Non-profit wise
+> I am project lead for CC Luxembourg.
+> My main interest here: moving forward the liberal licensing of metadata by
+> providing tangible examples of its benefits.
+> Best,
+> Patrick Peiffer
+>
+> Greetings Patrick and thanks for your input.
+
+I'd echo Jonathan's call for removing NC. Completely open Bibliography
+(CC-BY, PDDL, etc.) will be a major factor in advancing academic
+infrastructure. It means that we can compute our own activity. Every
+academic activity that creates or uses a piece of identified information is
+potentially computable - and processable in huge amounts.
+
+Bibliography is also something that is imemdiately understood by everyone in
+the information infrastructure. So it sends a clear message about the
+benefits of being Open. They more messages like this, the more it spreads
+through the community and encourgaes others to do the same.
+
+P.
+
+>
+>
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100629/1bdd5cfe/attachment.htm>
+
+From ockerblo at pobox.upenn.edu  Tue Jun 29 15:58:54 2010
+From: ockerblo at pobox.upenn.edu (John Mark Ockerbloom)
+Date: Tue, 29 Jun 2010 10:58:54 -0400
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+	<AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+Message-ID: <4C2A0A2E.40000@pobox.upenn.edu>
+
+Jonathan Gray wrote:
+> Just to follow up from this -- I understand that the libraries
+> involved in Europeana are in final stages of negotiating licensing
+> terms. Any evidence or arguments about why Europeana should make the
+> bibliographic metadata *open* (as in opendefinition.org) would be very
+> much appreciated! In particular I understand that many libraries
+> currently want to release with NC restrictions.
+
+NC restrictions can be particularly problematic for catalog data, in part
+because a lot of metadata, and support for discovery, can come from commercial
+sources.  (In the former case, publishers and booksellers
+push out a lot of metadata with their content to help sell it.  It's be nice
+to be able to work with them.  In the latter case, commercial platforms
+and add-ons can help a lot with discovery.  Consider the boost to
+discovery Google Books gives for instance; and imagine how it might
+improve -- and perhaps even drive traffic to libraries -- if it had good
+library-quality metadata and information about libraries it can refer
+people to.)
+
+In general, it seems to me that it only makes sense to put a NC
+condition on something if *you* have serious plans to commercialize
+your work, and expect to depend on those plans enough that it makes
+sense to prevent others from getting the jump on you.
+
+If you just have a vague sense that you might get a revenue stream
+from something someday, it's generally not worth putting the restrictions
+on it, because you're making your data significantly less reusable now,
+and a vague sense of making money later usually isn't worth that tradeoff.
+
+If your concern is simply "but somebody else might profit from our own work!"
+my answer is: "Yes. Why is that a problem?  Your users *now* profit,
+hopefully, from what they learn in your libraries.  You don't demand
+a cut of profits from what they develop as a result of what they read,
+or demand that they can't commercially use what they learn from your
+books.  Rather, isn't giving readers access to your materials so that
+they can 'profit' your *purpose*?"
+
+If there's a concern that commercial entities will try to monopolize
+your data *to the detriment of libraries*, and there's a realistic
+scenario you can describe in support of this concern, a SA condition will
+take care of some of those issues.  Likewise, a BY condition
+ensures credit is given.  (There are some good arguments that even
+these conditions can be too burdensome in many cases, due to licensing
+and record-keeping overheads.  But they're less problematic than NC,
+at least, in my opinion.)
+
+Does this help at all?
+
+John
+
+
+
+
+
+
+From dan at cimec.ro  Tue Jun 29 16:11:11 2010
+From: dan at cimec.ro (Dan Matei)
+Date: Tue, 29 Jun 2010 18:11:11 +0300
+Subject: [open-bibliography] introduction
+In-Reply-To: <4C2A0A2E.40000@pobox.upenn.edu>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com><AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+	<4C2A0A2E.40000@pobox.upenn.edu>
+Message-ID: <E07DA9B0A9004D2B90C22B8F3E46A667@cimec.ro>
+
+
+> -----Original Message-----
+> From: open-bibliography-bounces at lists.okfn.org 
+> [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf 
+> Of John Mark Ockerbloom
+
+> 
+> If your concern is simply "but somebody else might profit 
+> from our own work!"
+> my answer is: "Yes. Why is that a problem?  Your users *now* 
+> profit, hopefully, from what they learn in your libraries.  
+> You don't demand a cut of profits from what they develop as a 
+> result of what they read, or demand that they can't 
+> commercially use what they learn from your books.  Rather, 
+> isn't giving readers access to your materials so that they 
+> can 'profit' your *purpose*?"
+
+Right !
+
+Imagine also NC on a public road...
+
+Dan Matei
+
+
+
+
+From kcoyle at kcoyle.net  Tue Jun 29 17:53:44 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 29 Jun 2010 09:53:44 -0700
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+	<AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+Message-ID: <20100629095344.p504lke4o4gkokgc@kcoyle.net>
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+
+> Just to follow up from this -- I understand that the libraries
+> involved in Europeana are in final stages of negotiating licensing
+> terms. Any evidence or arguments about why Europeana should make the
+> bibliographic metadata *open* (as in opendefinition.org) would be very
+> much appreciated! In particular I understand that many libraries
+> currently want to release with NC restrictions.
+
+One argument is that, AFAIK, no one has come up with a way for the  
+license terms to travel with the metadata through the many transitions  
+that metadata naturally goes through. This is particularly true if we  
+move away from record-based metadata into statement-based metadata.
+
+kc
+
+>
+> Jonathan
+>
+> On Tue, Jun 29, 2010 at 12:22 PM, Patrick Peiffer
+> <peiffer.patrick at gmail.com> wrote:
+>> Dear all,
+>> allow me to introduce myself (thanks to?jonathan gray for inviting me)
+>> i work at the national library of luxembourg (www.bnl.lu) where I
+>> manage?the?national consortium for scientific information
+>> (www.portail.bnl.lu, www.consortium.lu). In the Europeana Connect project
+>> i'm work package leader "licensing", drafting?the?agreements for partners
+>> (libraries, museums, archives, a/v archives) and end users. Non-profit wise
+>> I am project lead for CC Luxembourg.
+>> My main interest here: moving forward the liberal licensing of metadata by
+>> providing tangible examples of its benefits.
+>> Best,
+>> Patrick Peiffer
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From bosteen at gmail.com  Tue Jun 29 18:04:34 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Tue, 29 Jun 2010 18:04:34 +0100
+Subject: [open-bibliography] introduction
+In-Reply-To: <20100629095344.p504lke4o4gkokgc@kcoyle.net>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+	<AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+	<20100629095344.p504lke4o4gkokgc@kcoyle.net>
+Message-ID: <AANLkTilvlaFMpC3iUqBBVw-iZtDjWffECLr1A8dLxk7j@mail.gmail.com>
+
+I would say that by using named graphs and the like, we can benefit from the
+"statement" based metadata form,  while retaining the ability to make
+"record"-level assertions about the provenance.
+
+Ben
+
+On Jun 29, 2010 5:54 PM, "Karen Coyle" <kcoyle at kcoyle.net> wrote:
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>: > Just to follow up from
+this -- I understand that ...
+One argument is that, AFAIK, no one has come up with a way for the license
+terms to travel with the metadata through the many transitions that metadata
+naturally goes through. This is particularly true if we move away from
+record-based metadata into statement-based metadata.
+
+kc
+
+> > Jonathan > > On Tue, Jun 29, 2010 at 12:22 PM, Patrick Peiffer > <
+peiffer.patrick at gmail.com> w...
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+_______________________________________________ open-bibliography mailing
+list open-bibliography at ...
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100629/d93ca84f/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Jun 29 18:11:58 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 29 Jun 2010 18:11:58 +0100
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTilvlaFMpC3iUqBBVw-iZtDjWffECLr1A8dLxk7j@mail.gmail.com>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+	<AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+	<20100629095344.p504lke4o4gkokgc@kcoyle.net>
+	<AANLkTilvlaFMpC3iUqBBVw-iZtDjWffECLr1A8dLxk7j@mail.gmail.com>
+Message-ID: <AANLkTimAWpMiIAXpXqNJeTEvGrn9JJf3ywR3OvPcRHNc@mail.gmail.com>
+
+On Tue, Jun 29, 2010 at 6:04 PM, Ben O'Steen <bosteen at gmail.com> wrote:
+
+> I would say that by using named graphs and the like, we can benefit from
+> the "statement" based metadata form,  while retaining the ability to make
+> "record"-level assertions about the provenance.
+>
+> Ben
+>
+>
+> I would find it useful to know the difference between record-level and
+statement-level. Is this that a record is modelled by may RDF statements? If
+so then we clearly have a duty to use (?named graphs ?ORE) to manage this so
+bits don't get lost. But if we do this well then isn't it really a question
+of making sure our RDF keeps its integrity? Or are there cases where a
+record graph is made up from many different pieces with different
+provenances?
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100629/cf97141a/attachment-0001.htm>
+
+From pohl at hbz-nrw.de  Wed Jun 30 09:01:54 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Wed, 30 Jun 2010 10:01:54 +0200
+Subject: [open-bibliography] Open Heritage Data Charter Re: 	 introduction
+In-Reply-To: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+	<AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+Message-ID: <4C2B16120200001400036704@agrippa.hbz-nrw.de>
+
+Greetings Patrick. It's nice to have you on this list.
+
+>>>Jonathan Gray <jonathan.gray at okfn.org> schrieb am Dienstag, 29. Juni 2010 um
+16:18:
+> Just to follow up from this -- I understand that the libraries
+> involved in Europeana are in final stages of negotiating licensing
+> terms. Any evidence or arguments about why Europeana should make the
+> bibliographic metadata *open* (as in opendefinition.org) would be very
+> much appreciated! In particular I understand that many libraries
+> currently want to release with NC restrictions.
+> 
+> Jonathan
+
+At least Europeana has already released a Public Domain Charter which advocates putting digitizations of Public Domain works in the Public Domain: http://version1.europeana.eu/web/europeana-project/publications 
+
+Of course this charta doesn't legally bind the data providers but it seems that Europeana has realized one thing: Having to negotiate terms with every single data provider is very inhibitive and could jeopardize the success of a project like Europeana. At least Europeana's quality would be clearly below a comparable project where all partners have an open-only policy.
+
+But, as discussed on this list, licensing problems aren't limited to content but also come up regarding metadata. And the problem is that lots of institutions don't think about making their data open. We already discussed this in the context of Europeana at the OKFN-de mailing list and Jakob Voss suggested [1] to develop a recommendation for releasing metadata from libraries, archives and museums under an open license which could be published with partners like Europeana, Wikimedia, Creative Commons and the like.
+
+I think this is a good approach and could have some impact. What do you think?
+
+The people on the OKFN open-heritage mailing list might also be interested to participate in this...
+
+Adrian
+
+[1] http://lists.okfn.org/pipermail/okfn-de/2010-May/000077.html 
+
+> On Tue, Jun 29, 2010 at 12:22 PM, Patrick Peiffer
+> <peiffer.patrick at gmail.com> wrote:
+>> Dear all,
+>> allow me to introduce myself (thanks to jonathan gray for inviting me)
+>> i work at the national library of luxembourg (www.bnl.lu) where I
+>> manage the national consortium for scientific information
+>> (www.portail.bnl.lu, www.consortium.lu). In the Europeana Connect project
+>> i'm work package leader "licensing", drafting the agreements for partners
+>> (libraries, museums, archives, a/v archives) and end users. Non-profit wise
+>> I am project lead for CC Luxembourg.
+>> My main interest here: moving forward the liberal licensing of metadata by
+>> providing tangible examples of its benefits.
+>> Best,
+>> Patrick Peiffer
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org 
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography 
+>>
+>>
+> 
+
+
+
+From owen at ostephens.com  Wed Jun 30 09:12:35 2010
+From: owen at ostephens.com (Owen Stephens)
+Date: Wed, 30 Jun 2010 09:12:35 +0100
+Subject: [open-bibliography] Proposed definition for /book/book
+Message-ID: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>
+
+Sorry to be coming in late in this discussion. I'm slightly unsure about commenting on this as I don't know the background to how you got here, and some of these discussions may have already happened.
+
+"A book is a written work or a collection of written works in book form. "Book" represents the abstract notion of a particular book, rather than a particular edition. It is on this level that articles or discussion about a book should generally occur (e.g., the article about Mary Shelley's "Frankenstein" is on the book topic, rather than on one or more of the hundreds of editions it has gone through)."
+
+I have to admit that I think the definition of 'book' given here is slightly confusing as it takes a commonly used term and defines it as something different. It also seems to have some inconsistencies as later in the definition we have:
+
+"Things that are books: written works that have never appeared in a traditional bound form, such as those released only in audio or electronic formats" - which seems to conflict slightly with the opening statement of the definition.
+
+Some of these issues have been discussed widely in the library community, and although the conclusions there are perhaps far from perfect, it seems that there is some significant overlap but with different terminology. In particular I'm thinking of FRBR (http://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records)
+
+What you are defining here as a 'book' seems to have much in common with what FRBR terms a 'work'. For me it would make a lot of sense if there could be some work to pull this together in some way. Also of interest is recent discussion on the OKFN Open Bibliographic Data working group (cross posted here) - there is a wide ranging discussion from May and June worth looking at http://lists.okfn.org/pipermail/open-bibliography/
+
+Hope this is helpful and not rehashing stuff that has already been discussed.
+
+Owen
+
+Owen Stephens
+Owen Stephens Consulting
+Web: http://www.ostephens.com
+Email: owen at ostephens.com
+Telephone: 0121 288 6936
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100630/910aa90d/attachment.htm>
+
+From mjr at phonecoop.coop  Wed Jun 30 09:20:13 2010
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed, 30 Jun 2010 09:20:13 +0100 (BST)
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+Message-ID: <20100630082014.18711F71DB@nail.towers.org.uk>
+
+Jonathan Gray wrote:
+> [...] Any evidence or arguments about why Europeana should make the
+> bibliographic metadata *open* (as in opendefinition.org) would be very
+> much appreciated! In particular I understand that many libraries
+> currently want to release with NC restrictions.
+
+First of all: hello from me.  I'm interested in Open Bibliographic
+Data because I'm a member of a tech worker co-op that provides
+computer-related services to libraries and other clients around the
+world, including open standards-based EDIFACT and RFID support.  I'm a
+bit worried by the actions of the largest library co-op, OCLC, and I'd
+like Open Bibliographic Data to succeed and become its own compelling
+argument for OCLC to switch.  OCLC has big databases, but it may be
+possible to persuade OCLC members to open it up.
+
+Now, to that question: in the UK, refusing to permit commercial use
+would make ordinary life pretty difficult.  Many libraries have
+commercial suppliers involved and with cross-party commitments to
+increase involvement of cooperatives in public services, that will
+only increase: cooperatives may be good for-more-than-profit companies
+(rather than for-profit), but they are still commercial.  What would
+it mean for metadata to be NC-restricted?  Could library co-ops not
+use it in the course of their work?  Would it become toxic data?
+
+Of course, most NC restrictions are scarily ill-defined and some argue
+that some allow some commercial use, but cooperatives aim to be around
+forever, so usually take a pretty cautious view of risk (which is one
+reason why the Co-operative Bank, Rabobank, the various mutual savings
+banks, Building Societies, Credit Unions and other co-ops were among
+the least harmed by toxic debt).
+
+I'm not sure how general the co-op argument is, but I think with 2012
+being the UN International Year of Co-operatives, it might be pretty
+general.
+
+Hope that helps,
+-- 
+MJ Ray (slef)  Webmaster and LMS developer at     | software
+www.software.coop http://mjr.towers.org.uk        |  .... co
+IMO only: see http://mjr.towers.org.uk/email.html |  .... op
+
+
+
+From pohl at hbz-nrw.de  Wed Jun 30 09:43:17 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Wed, 30 Jun 2010 10:43:17 +0200
+Subject: [open-bibliography] Virtual Meeting
+References: <4C2A077602000014000366D8@agrippa.hbz-nrw.de>
+	<4C2A096C02000014000366DC@agrippa.hbz-nrw.de>
+	<4C2B1FC5020000140003670A@agrippa.hbz-nrw.de>
+Message-ID: <4C2B1FC5020000140003670A@agrippa.hbz-nrw.de>
+
+Hallo,
+ 
+obviously my email from two weeks ago concerning the working group's activities was too long since nobody responded to it. The date for a first virtual meeting (tuesday, 6th of July) is getting nearer. I started an etherpad for the meeting: 
+ 
+http://pad.okfn.org/Qv1jMMQL1h. 
+ 
+Please just add yourself if you are willing to participate so that we can estimate the number of people. And feel free to edit and add other topics.
+ 
+Cheers,
+Adrian
+
+
+
+From pm286 at cam.ac.uk  Wed Jun 30 10:10:06 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 30 Jun 2010 10:10:06 +0100
+Subject: [open-bibliography] introduction
+In-Reply-To: <20100630082014.18711F71DB@nail.towers.org.uk>
+References: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+	<20100630082014.18711F71DB@nail.towers.org.uk>
+Message-ID: <AANLkTil99NPnfG8IV1b4_5-28tZe8t1aE6vrpSd3avNl@mail.gmail.com>
+
+On Wed, Jun 30, 2010 at 9:20 AM, MJ Ray <mjr at phonecoop.coop> wrote:
+
+> Jonathan Gray wrote:
+> > [...] Any evidence or arguments about why Europeana should make the
+> > bibliographic metadata *open* (as in opendefinition.org) would be very
+> > much appreciated! In particular I understand that many libraries
+> > currently want to release with NC restrictions.
+>
+> First of all: hello from me.  I'm interested in Open Bibliographic
+> Data because I'm a member of a tech worker co-op that provides
+> computer-related services to libraries and other clients around the
+> world, including open standards-based EDIFACT and RFID support.  I'm a
+> bit worried by the actions of the largest library co-op, OCLC, and I'd
+> like Open Bibliographic Data to succeed and become its own compelling
+> argument for OCLC to switch.  OCLC has big databases, but it may be
+> possible to persuade OCLC members to open it up.--
+>
+
+I think this is well put. I see OKF's role as cretaing outputs that
+persuades organizations to change - we do not de facto intend to replace
+them. But institutions that refuse to change are likely to have a tough
+struggle to survive.
+
+Ideally we'd like to see a future where commercial or quasi-commercial
+organizations see the value of creating a market for Open knowledge.
+
+P.
+
+
+
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100630/e1e6f3d2/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jun 30 10:18:46 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 30 Jun 2010 10:18:46 +0100
+Subject: [open-bibliography] Virtual Meeting
+In-Reply-To: <4C2B1FC5020000140003670A@agrippa.hbz-nrw.de>
+References: <4C2A077602000014000366D8@agrippa.hbz-nrw.de>
+	<4C2A096C02000014000366DC@agrippa.hbz-nrw.de>
+	<4C2B1FC5020000140003670A@agrippa.hbz-nrw.de>
+	<4C2B1FC5020000140003670A@agrippa.hbz-nrw.de>
+Message-ID: <AANLkTikP1_UeBbNwUNdrXo6qX3tByiwEuOHJlej40If1@mail.gmail.com>
+
+On Wed, Jun 30, 2010 at 9:43 AM, Adrian Pohl <pohl at hbz-nrw.de> wrote:
+
+> Hallo,
+>
+> obviously my email from two weeks ago concerning the working group's
+> activities was too long since nobody responded to it. The date for a first
+> virtual meeting (tuesday, 6th of July) is getting nearer. I started an
+> etherpad for the meeting:
+>
+> http://pad.okfn.org/Qv1jMMQL1h.
+>
+> Please just add yourself if you are willing to participate so that we can
+> estimate the number of people. And feel free to edit and add other topics.
+>
+
+Thanks - I have only just joined the lists so missed your call. I'm keen to
+introduce #jiscobib and also discuss the software/informatics aspects. I'll
+read your call
+
+>
+> Cheers,
+> Adrian
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100630/57904cac/attachment-0001.htm>
+
+From peiffer.patrick at gmail.com  Wed Jun 30 10:20:28 2010
+From: peiffer.patrick at gmail.com (Patrick Peiffer)
+Date: Wed, 30 Jun 2010 11:20:28 +0200
+Subject: [open-bibliography] introduction
+In-Reply-To: <20100629095344.p504lke4o4gkokgc@kcoyle.net>
+References: <AANLkTimAyRuKIhZ2Gyxa4Bf2wHdoor9mryJ0CMe7fErZ@mail.gmail.com>
+	<AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>
+	<20100629095344.p504lke4o4gkokgc@kcoyle.net>
+Message-ID: <AANLkTinlxAOHNW75fP4HRNDxTXE9tJ5r_UWmfN_VsoQk@mail.gmail.com>
+
+On Tue, Jun 29, 2010 at 6:53 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+>
+>  Just to follow up from this -- I understand that the libraries
+>> involved in Europeana are in final stages of negotiating licensing
+>> terms. Any evidence or arguments about why Europeana should make the
+>> bibliographic metadata *open* (as in opendefinition.org) would be very
+>> much appreciated! In particular I understand that many libraries
+>> currently want to release with NC restrictions.
+>>
+>
+> One argument is that, AFAIK, no one has come up with a way for the license
+> terms to travel with the metadata through the many transitions that metadata
+> naturally goes through. This is particularly true if we move away from
+> record-based metadata into statement-based metadata.
+>
+> kc
+>
+>
+Karen, yes! that's exactly the kind of tangible benefit and concrete reason
+where non-nc is the better choice that i'll be looking for around here.
+
+cheers, patrickp
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100630/6efe5f17/attachment.htm>
+
+From E.Hoorn at rug.nl  Wed Jun 30 10:41:35 2010
+From: E.Hoorn at rug.nl (E. Hoorn)
+Date: Wed, 30 Jun 2010 11:41:35 +0200
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTil99NPnfG8IV1b4_5-28tZe8t1aE6vrpSd3avNl@mail.gmail.com>
+References: <AANLkTim7YHIoL8Vzab9sfEdabGPVI5AwJ34ieGWgvRyK@mail.gmail.com>	<20100630082014.18711F71DB@nail.towers.org.uk>
+	<AANLkTil99NPnfG8IV1b4_5-28tZe8t1aE6vrpSd3avNl@mail.gmail.com>
+Message-ID: <4C2B114F.1090807@rug.nl>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100630/7b808fb6/attachment.htm>
+
+From mjr at phonecoop.coop  Wed Jun 30 14:27:56 2010
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed, 30 Jun 2010 14:27:56 +0100 (BST)
+Subject: [open-bibliography] introduction
+In-Reply-To: <AANLkTil99NPnfG8IV1b4_5-28tZe8t1aE6vrpSd3avNl@mail.gmail.com>
+Message-ID: <20100630132756.95AC7F721C@nail.towers.org.uk>
+
+Peter Murray-Rust wrote:
+> Ideally we'd like to see a future where commercial or quasi-commercial
+> organizations see the value of creating a market for Open knowledge.
+
+Arguably, this already exists and has done for over 150 years - it's
+the co-operative movement.  They're often-commercial organisations
+which have education and information as a key principle.  We're
+currently celebrating that as part of Co-operatives Fornight -
+http://www.ThereIsAnAlternative.coop
+
+I think libraries are already more familiar with forming and sharing
+control of co-operatives than some sectors, so maybe this can be built
+upon.  Sadly, the UK saw the BLCMP co-op demutualise in the 1990s.
+Are there other library co-ops which readers think might like
+open-bibliograph?
+
+Regards,
+-- 
+MJ Ray (slef)  Webmaster and LMS developer at     | software
+www.software.coop http://mjr.towers.org.uk        |  .... co
+IMO only: see http://mjr.towers.org.uk/email.html |  .... op
+
+
+From mjr at phonecoop.coop  Wed Jun 30 14:41:19 2010
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed, 30 Jun 2010 14:41:19 +0100 (BST)
+Subject: [open-bibliography] Virtual Meeting
+In-Reply-To: <4C2B1FC5020000140003670A@agrippa.hbz-nrw.de>
+Message-ID: <20100630134119.CCE84F721C@nail.towers.org.uk>
+
+Adrian Pohl wrote:
+> first virtual meeting (tuesday, 6th of July) [...]
+> http://pad.okfn.org/Qv1jMMQL1h. 
+>  
+> Please just add yourself if you are willing to participate so that
+> we can estimate the number of people. And feel free to edit and add
+> other topics.
+
+Willing but unable, sadly.
+
+Short note and main reason I'm posting: to edit, users need to allow
+that page to write cookies to the browser, else it errors with a
+misleading message that says "Lost connection with the EtherPad
+synchronization server. This may be due to a loss of network
+connectivity."
+
+Hope that saves someone repeating my confused minutes,
+-- 
+MJ Ray (slef)  Webmaster and LMS developer at     | software
+www.software.coop http://mjr.towers.org.uk        |  .... co
+IMO only: see http://mjr.towers.org.uk/email.html |  .... op
+
+
+From E.Hoorn at rug.nl  Wed Jun 30 14:45:13 2010
+From: E.Hoorn at rug.nl (E. Hoorn)
+Date: Wed, 30 Jun 2010 15:45:13 +0200
+Subject: [open-bibliography] introduction
+In-Reply-To: <20100630132756.95AC7F721C@nail.towers.org.uk>
+References: <20100630132756.95AC7F721C@nail.towers.org.uk>
+Message-ID: <4C2B4A69.6090603@rug.nl>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100630/f76b023d/attachment.htm>
+
+From tfmorris at gmail.com  Wed Jun 30 17:58:08 2010
+From: tfmorris at gmail.com (Tom Morris)
+Date: Wed, 30 Jun 2010 12:58:08 -0400
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>
+Message-ID: <AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com>
+
+Hi Owen.  The purpose of the exercise that Anne is driving is to fine
+tune the Freebase type descriptions to match the actual usage, not
+make substantive changes.  What you're seeing is reflective of the
+scheme that's in use today.
+
+On Wed, Jun 30, 2010 at 4:12 AM, Owen Stephens <owen at ostephens.com> wrote:
+
+> I have to admit that I think the definition of 'book' given here is slightly
+> confusing as it takes a commonly used term and defines it as something
+> different.
+
+To some degree this is inevitable, because common usage is to use the
+term "book" to mean at least a couple of different things.  People use
+it to mean both the author's work as well the particular editor or
+copy in our library.  Another possible choice would be to avoid the
+use of the term altogether since it's potentially confusing, but I
+think it provides a useful anchor to help orient people.  They want
+information on "books" not "works" or "manifestations."
+
+> Some of these issues have been discussed widely in the library community,
+> and although the conclusions there are perhaps far from perfect, it seems
+> that there is some significant overlap but with different terminology. In
+> particular I'm thinking of FRBR
+> (http://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records)
+
+The target users of the Freebase schema are everyday people, not
+librarians, which may account for some of the differences.  The
+emphasis is also on pragmatic usefulness with available data and
+available user interfaces as opposed to necessarily modeling
+everything perfectly.
+
+> What you are defining here as a 'book' seems to have much in common with
+> what FRBR terms a 'work'. For me it would make a lot of sense if there could
+> be some work to pull this together in some way.
+
+Yes, they are basically equivalent.  I'm not sure how you'd like to
+see this pulled together.  I don't think adding a mention of FRBR is
+going to help the Freebase user who is trying to decide "What type(s)
+should I use with this data I want to enter/query?"  What actions did
+you have in mind here?
+
+Tom
+
+

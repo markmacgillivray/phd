@@ -1,0 +1,934 @@
+From sam.leon at okfn.org  Wed Oct  3 14:39:43 2012
+From: sam.leon at okfn.org (Sam Leon)
+Date: Wed, 3 Oct 2012 14:39:43 +0100
+Subject: [open-bibliography] OKFN Humanities Hack, 20th-21st November 2012,
+	Sign up now!
+In-Reply-To: <CAOn=SAYRscqX7MSdBgGWXjkjVJ+u4qjt6TW1ojwOXCjBcit52Q@mail.gmail.com>
+References: <CAOn=SAYRscqX7MSdBgGWXjkjVJ+u4qjt6TW1ojwOXCjBcit52Q@mail.gmail.com>
+Message-ID: <CAOn=SAbbgJxzE9fmFXSrNG0jWdXtdLyiG+Nn+aT_jGtrzqDO2A@mail.gmail.com>
+
+Apologies for cross-posting but I just sent this to the Humanities Working
+Group list and it may of interest to many of you considering the success of
+Bibliohack earlier this year, I hope to see some faces from there at this
+event!
+
+---
+
+Dear All,
+
+As part of the DM2E <http://dm2e.eu> project, the Open Knowledge Foundation
+in collaboration with Kings College London will be running a Digital
+Humanities Hackday between 21st-22nd November in central London
+
+A group from the OKFN will be in force working specifically on textual
+annotation and extensions to the open source
+TEXTUS<http://textusproject.org/>platform for annotating and collating
+digitised public domain texts.
+
+*When*: 21st-22nd November 2012
+*Where*: Guys Campus, Hodgkin Building, London, SE1 1UL
+*Sign up via the Google
+Form<https://docs.google.com/spreadsheet/viewform?formkey=dFp1eExmUVMtWG1YUkNZSnFFd05EWlE6MQ>
+*
+*Add datasets to be used at the
+hack<https://docs.google.com/spreadsheet/ccc?key=0Al6mO9_3Hr2PdFJ2aEFzNTZZMVVDbkJZWXB1YTRkOWc#gid=0>
+*
+
+---
+*
+*
+The aim of the hack day is not to produce complete applications but to
+experiment with methods and technologies to investigate these data sets so
+that at the end we can have an understanding of the types of novel
+techniques that are emerging.
+We are providing a few open humanities data sets but we welcome any
+addition. We are currently collecting data sets
+here<https://docs.google.com/spreadsheet/ccc?key=0Al6mO9_3Hr2PdFJ2aEFzNTZZMVVDbkJZWXB1YTRkOWc#gid=0>
+.
+
+Possible themes include but are not limited to
+
+*-          Research in textual annotation has been a particular strength
+of Digital Humanities. Where are the next frontiers? How can we bring
+together insights from other fields and Digital Humanities?*
+*-          How do we provide linking and sharing Humanities data that
+makes sense of its complex structure, with many internal relationships both
+structural and semantic. In particular, distributed Humanities research
+data often includes digital material combining objects in multiple media,
+and in addition there is diversity of standards for describing the data.*
+*-          Visualisation. How do we develop reasonable visualisations that
+are practical and help build on overall intuition for the underlying
+Humanities data set*
+*-          How can we advance the novel Humanities technique of Network
+Analysis to describe complex relationships of 'things' in social-historical
+systems: people, places, etc.*
+
+With this hack day we seek to from groups of computing and humanities
+researchers that will work together to come up with small-scale prototypes
+that showcase new and novel ways of working with Humanities data.
+
+As numbers are limited for this hack, please register
+here<https://docs.google.com/spreadsheet/viewform?formkey=dFp1eExmUVMtWG1YUkNZSnFFd05EWlE6MQ>
+.
+
+The event will lead on from the AHRC Digital Transformations Moot at the
+Mermaid Conference Centre in London on Monday 19 November 2012 at which the
+Open Knowledge Foundation will present some of its work in the humanities.
+ Registration for this event is free and those joining the Humanities
+Hackfest might also enjoy attending the Moot. Further details can be found
+at:
+http://www.ahrc.ac.uk/News-and-Events/Events/Pages/Digital-Transformations-Moot.aspx
+
+-- 
+Sam Leon
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Twitter: @noeL_maS
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121003/041bf3a2/attachment.htm>
+
+From announce at dublincore.net  Sat Oct  6 19:19:00 2012
+From: announce at dublincore.net (DCMI Announce)
+Date: Sat, 6 Oct 2012 11:19:00 -0700
+Subject: [open-bibliography] NISO/DCMI Webinar: Embedding Linked Data
+ invisibly into Web pages - Strategies and workflows for publishing with
+ RDFa
+Message-ID: <CAP884ExU2yj5xR_gKudq7tEq5gWq7Cb64Wf=w6Ehmy1QKH-aQA@mail.gmail.com>
+
+--------------------
+Webinar: Embedding Linked Data Invisibly into Web Pages: Strategies and
+Workflows for Publishing with RDFa
+Date: October 24, 2012
+Time: 1:00 ? 2:30 p.m. (Eastern time)
+Event webpage:
+http://www.niso.org/news/events/2012/dcmi/publishing_with_RDFa/
+-------------------
+
+ABOUT THE WEBINAR
+
+As described in the April NISO/DCMI webinar by Dan Brickley, schema.org is
+a search-engine initiative aimed at helping webmasters use structured data
+markup to improve the discovery and display of search results. Drupal 7
+makes it easy to markup HTML pages with schema.org terms, allowing users to
+quickly build websites with structured data that can be understood by
+Google and displayed as Rich Snippets.
+
+Improved search results are only part of the story, however. Data-bearing
+documents become machine-processable once you find them. The subject
+matter, important facts, calendar events, authorship, licensing, and
+whatever else
+you might like to share become there for the taking. Sales reports, RSS
+feeds, industry analysis, maps, diagrams and process artifacts can now
+connect back to other data sets to provide linkage to context and related
+content. The key to this is the adoption standards for both the data model
+(RDF) and the means of weaving it into documents (RDFa). Drupal 7 has
+become the leading content platform to adopt these standards.
+
+This webinar will describe how RDFa and Drupal 7 can improve how
+organizations publish information and data on the Web for both internal and
+external consumption. It will discuss what is required to use these
+features and how they impact publication workflow. The talk will focus on
+high-level and accessible demonstrations of what is possible. Technical
+people should learn how to proceed while non-technical people will learn
+what is possible.
+
+Speakers
+
+Brian Sletten (Bosatsu Consulting) is a liberal arts-educated software
+engineer with a focus on using and evangelizing forward-leaning
+technologies. He has a background as a system architect, a developer, a
+security consultant, a mentor, a team lead, an author and a trainer and
+operates in all of those roles as needed. His experience has spanned the
+online game, defense, finance, academic, hospitality, retail and commercial
+domains. He has worked with a wide variety of technologies such as network
+matrix switch controls, 3D simulation/visualization, Grid Computing, P2P
+and Semantic Web-based systems. He has a B.S. in Computer Science from the
+College of William and Mary. He is President of Bosatsu Consulting, Inc.
+and lives in Los Angeles, CA.
+
+St?phane Corlosquet (Software Engineer and Drupal Developer at MIND
+Informatics) has been a driving force in incorporating Semantic Web
+capabilities into the core of the Drupal Content Management System. He
+holds a master's degree specializing in Semantic Web from the Digital
+Enterprise Research Institute (DERI), Ireland, and has published widely
+read papers and technical publications, including two chapters in the book,
+Definitive Guide to Drupal 7. St?phane has worked as the head of IT and Web
+development for Ici Formation and Eco Innovation and currently works at
+MassGeneral Institute for Neurodegenerative Disease (MIND), MGH, as a
+Software Engineer developing the Science Collaboration Framework, a
+Drupal-based distribution for building online communities of researchers in
+biomedecine.
+
+Thomas Baker, Chief Information Officer of the Dublin Core Metadata
+Initiative, has recently co-chaired the W3C Semantic Web Deployment Working
+Group and the W3C Incubator Group on Library Linked Data.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121006/9a586074/attachment.htm>
+
+From s.karampatakis at gmail.com  Mon Oct  8 14:40:01 2012
+From: s.karampatakis at gmail.com (Sotiris Karampatakis)
+Date: Mon, 8 Oct 2012 16:40:01 +0300
+Subject: [open-bibliography] LOD in Bibliography: The celebrated Public
+ Library of Veroia in Web 3.0
+Message-ID: <CA+xVvd0K7FrgCwFp4EOKB-8R1+_X57NUqP_smNJkGGt1XVaCbg@mail.gmail.com>
+
+Hi all,
+OKFN Greece proudly announces the first Linked Open Data Project in
+Bibliography in Greece. You can find more information about, at this blog
+post http://gr.okfn.org/2012/10/libver/.
+
+We are waiting for your feedback, and exchange of experiences!
+
+Best Regards,
+Karampatakis Sotiris
+OKFN Greece Member
+
+-- 
+Sotiris Karampatakis
+M. Sc. Web Science
+Faculty of Mathematics
+Aristotle University of Thessaloniki
+Greece
+mail:s.karampatakis at gmail.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121008/281356ad/attachment.htm>
+
+From krichel at openlib.org  Fri Oct 19 10:09:00 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Fri, 19 Oct 2012 11:09:00 +0200
+Subject: [open-bibliography] OAI8 at the University of Geneva. 19-21 June
+	2013
+Message-ID: <20121019090900.GA8234@openlib.org>
+
+  
+  2013 sees the 8th OAI Workshop on Innovations in Scholarly Communication
+  at the University of Geneva and at CERN. These Workshops are major
+  international gatherings where those interested in Scholarly Communication
+  developments can meet, discuss and network. OAI8 will be taking place in
+  the context of the EU?s launch of its ?80 billion Horizon 2020 programme,
+  which has Open Access as a key deliverable of the outputs from its funded
+  research programs. New areas to be discussed at OAI8 will be Alternative
+  Metrics and a special focus on Scholarly Communication developments in the
+  Arts and Humanities. An introductory video, announcing the Conference, can
+  be seen at http://indico.cern.ch/conferenceDisplay.py?confId=211600
+  
+  Please reserve 19-21 June 2013 in your diaries. On behalf of the
+  Programme Committee, we look forward to seeing you in Geneva.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From T.Cheesman at swansea.ac.uk  Mon Oct 22 14:41:28 2012
+From: T.Cheesman at swansea.ac.uk (Cheesman T.)
+Date: Mon, 22 Oct 2012 14:41:28 +0100
+Subject: [open-bibliography] Extract Translations from WorldCat?
+Message-ID: <9F7FA2E0294A934CA0CD9E97BD580F84129051FF@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+
+Hello, dear Open Bibliography group,
+
+ 
+
+[I sent the following to the ScraperWiki list yesterday and David Jones
+has suggested I try you - saying: "I think some people there have done
+some WorldCat hacking". But come to think of it, there might be better
+sources than WorldCat for the data I'm interested in?]
+
+ 
+
+Here's a major challenge - possibly new (?): scrape out of WorldCat all
+the items which are translations, and link them with all the items which
+are translated. 
+
+ 
+
+Doing this would (1) help anyone find any translations of a work or find
+the original of any translation (= a tool which performs as an interface
+to WorldCat data) and (2) build a dynamic dataset representing global
+cultural flows (= a stats tool).
+
+ 
+
+Data about WorldCat items includes OCLC number, title, date, publisher,
+language, edition/format, personal names under 'author' (sometimes also
+'responsibility'), sometimes 'other titles', 'notes' etc. - the fields
+vary depending on the library catalogue or other source they came from.
+
+ 
+
+In the case of translations, the fact that a work is a translation is
+often only shown in the title field:  '... translated from ... by ...'
+can appear.  So we might have to start by collating all items with such
+phrases (in all languages) in the title field, and extracting names.
+Translator names will be key links.
+
+ 
+
+An 'other title', esp if it is in a different language (but that won't
+be marked), is probably an original title (but might be the title of a
+translation...).  
+
+ 
+
+WorldCat entries are cross-referenced to ''all editions and formats' -
+and that includes multiple copies, differing editions, and translations,
+but translations are only linked IF they have the same title as the
+original (or partly the same). So the English translation of Kristeva's
+"Hannah Arendt" biography is linked to the Japanese and Polish
+translations, but not to the French original. 
+
+ 
+
+Index Translationum, started in 1932 by the League of Nations, now run
+by UNESCO, keeps a record of all the world's literary translations. Its
+records could be used to cross-check links, perhaps?
+
+ 
+
+Just an idea..!
+
+ 
+
+Tom
+
+ 
+
+ 
+
+Dr Tom Cheesman
+
+Reader in German 
+
+College of Arts and Humanities
+
+Swansea University
+
+SA2 8PP
+
+T: +44 (0)1792 205678 x 4030
+
+M: (+)(0)7736408064
+
+Institution: www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/ 
+
+Version Variation: www.delightedbeauty.org and
+www.delightedbeauty.org/vvv 
+
+Asylum: www.swanseabassgroup.org
+
+Publishing: www.lulu.com/hafan
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121022/b6e846b2/attachment.htm>
+
+From J.Salter at leeds.ac.uk  Mon Oct 22 15:16:17 2012
+From: J.Salter at leeds.ac.uk (John Salter)
+Date: Mon, 22 Oct 2012 15:16:17 +0100
+Subject: [open-bibliography] Extract Translations from WorldCat?
+In-Reply-To: <9F7FA2E0294A934CA0CD9E97BD580F84129051FF@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+References: <9F7FA2E0294A934CA0CD9E97BD580F84129051FF@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+Message-ID: <7154BCBB8909D642AE6F44CA713DBC20056B9EB632D5@HERMES7.ds.leeds.ac.uk>
+
+Hi Tom,
+The xISBN API already returns multiple language variations of an item (and editions) e.g.
+http://xisbn.worldcat.org/webservices/xid/isbn/0596002815?method=getEditions&fl=*&format=json (also:
+http://www.oclc.org/developer/documentation/xisbn/response-details)
+
+This would cover *recent* items (e.g. items with an ISBN), but not older texts - and I'm not sure how you tell which language is the original?
+
+Does that help at all with what you're trying to do?
+Cheers,
+John
+
+________________________________
+From: open-bibliography-bounces at lists.okfn.org [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Cheesman T.
+Sent: 22 October 2012 14:41
+To: open-bibliography at lists.okfn.org
+Subject: [open-bibliography] Extract Translations from WorldCat?
+
+Hello, dear Open Bibliography group,
+
+
+[I sent the following to the ScraperWiki list yesterday and David Jones has suggested I try you - saying: "I think some people there have done some WorldCat hacking". But come to think of it, there might be better sources than WorldCat for the data I'm interested in?]
+
+Here's a major challenge - possibly new (?): scrape out of WorldCat all the items which are translations, and link them with all the items which are translated.
+
+Doing this would (1) help anyone find any translations of a work or find the original of any translation (= a tool which performs as an interface to WorldCat data) and (2) build a dynamic dataset representing global cultural flows (= a stats tool).
+
+Data about WorldCat items includes OCLC number, title, date, publisher, language, edition/format, personal names under 'author' (sometimes also 'responsibility'), sometimes 'other titles', 'notes' etc. - the fields vary depending on the library catalogue or other source they came from.
+
+In the case of translations, the fact that a work is a translation is often only shown in the title field:  '... translated from ... by ...' can appear.  So we might have to start by collating all items with such phrases (in all languages) in the title field, and extracting names. Translator names will be key links.
+
+An 'other title', esp if it is in a different language (but that won't be marked), is probably an original title (but might be the title of a translation...).
+
+WorldCat entries are cross-referenced to ''all editions and formats' - and that includes multiple copies, differing editions, and translations, but translations are only linked IF they have the same title as the original (or partly the same). So the English translation of Kristeva's "Hannah Arendt" biography is linked to the Japanese and Polish translations, but not to the French original.
+
+Index Translationum, started in 1932 by the League of Nations, now run by UNESCO, keeps a record of all the world's literary translations. Its records could be used to cross-check links, perhaps?
+
+Just an idea..!
+
+Tom
+
+
+Dr Tom Cheesman
+Reader in German
+College of Arts and Humanities
+Swansea University
+SA2 8PP
+T: +44 (0)1792 205678 x 4030
+M: (+)(0)7736408064
+Institution: www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/
+Version Variation: www.delightedbeauty.org and www.delightedbeauty.org/vvv
+Asylum: www.swanseabassgroup.org
+Publishing: www.lulu.com/hafan
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121022/3467d15c/attachment.htm>
+
+From T.Cheesman at swansea.ac.uk  Mon Oct 22 15:43:51 2012
+From: T.Cheesman at swansea.ac.uk (Cheesman T.)
+Date: Mon, 22 Oct 2012 15:43:51 +0100
+Subject: [open-bibliography] Extract Translations from WorldCat?
+In-Reply-To: <7154BCBB8909D642AE6F44CA713DBC20056B9EB632D5@HERMES7.ds.leeds.ac.uk>
+References: <9F7FA2E0294A934CA0CD9E97BD580F84129051FF@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+	<7154BCBB8909D642AE6F44CA713DBC20056B9EB632D5@HERMES7.ds.leeds.ac.uk>
+Message-ID: <9F7FA2E0294A934CA0CD9E97BD580F8412905371@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+
+Thanks John. That's definitely a start! 
+
+ 
+
+How are the various ISBNS and/or OCLCs associated? Is that done
+manually? (I notice that the OCLC 749427863, for one of the Polish
+editions, is not in any of the lists of OCLCs e.g. at 177669176 - so it
+must be an ISBN association?)
+
+ 
+
+There is an 'Original Language' field - but only for the translations -
+and that's not the same as a link or pointer to an original-language
+edition.
+
+ 
+
+Tricky!
+
+Cheers
+
+Tom
+
+Dr Tom Cheesman
+
+Reader in German 
+
+College of Arts and Humanities
+
+Swansea University
+
+SA2 8PP
+
+T: +44 (0)1792 205678 x 4030
+
+M: (+)(0)7736408064
+
+Institution: www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/ 
+
+Version Variation: www.delightedbeauty.org and
+www.delightedbeauty.org/vvv 
+
+Asylum: www.swanseabassgroup.org
+
+Publishing: www.lulu.com/hafan
+
+ 
+
+ 
+
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of John
+Salter
+Sent: 22 October 2012 15:16
+To: 'List for Working Group on Open Bibliographic Data'
+Subject: Re: [open-bibliography] Extract Translations from WorldCat?
+
+ 
+
+Hi Tom,
+
+The xISBN API already returns multiple language variations of an item
+(and editions) e.g.
+
+http://xisbn.worldcat.org/webservices/xid/isbn/0596002815?method=getEdit
+ions&fl=*&format=json (also: 
+
+http://www.oclc.org/developer/documentation/xisbn/response-details)
+
+ 
+
+This would cover *recent* items (e.g. items with an ISBN), but not older
+texts - and I'm not sure how you tell which language is the original?
+
+ 
+
+Does that help at all with what you're trying to do?
+
+Cheers,
+
+John
+
+ 
+
+________________________________
+
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Cheesman
+T.
+Sent: 22 October 2012 14:41
+To: open-bibliography at lists.okfn.org
+Subject: [open-bibliography] Extract Translations from WorldCat?
+
+Hello, dear Open Bibliography group,
+
+ 
+
+[I sent the following to the ScraperWiki list yesterday and David Jones
+has suggested I try you - saying: "I think some people there have done
+some WorldCat hacking". But come to think of it, there might be better
+sources than WorldCat for the data I'm interested in?]
+
+ 
+
+Here's a major challenge - possibly new (?): scrape out of WorldCat all
+the items which are translations, and link them with all the items which
+are translated. 
+
+ 
+
+Doing this would (1) help anyone find any translations of a work or find
+the original of any translation (= a tool which performs as an interface
+to WorldCat data) and (2) build a dynamic dataset representing global
+cultural flows (= a stats tool).
+
+ 
+
+Data about WorldCat items includes OCLC number, title, date, publisher,
+language, edition/format, personal names under 'author' (sometimes also
+'responsibility'), sometimes 'other titles', 'notes' etc. - the fields
+vary depending on the library catalogue or other source they came from.
+
+ 
+
+In the case of translations, the fact that a work is a translation is
+often only shown in the title field:  '... translated from ... by ...'
+can appear.  So we might have to start by collating all items with such
+phrases (in all languages) in the title field, and extracting names.
+Translator names will be key links.
+
+ 
+
+An 'other title', esp if it is in a different language (but that won't
+be marked), is probably an original title (but might be the title of a
+translation...).  
+
+ 
+
+WorldCat entries are cross-referenced to ''all editions and formats' -
+and that includes multiple copies, differing editions, and translations,
+but translations are only linked IF they have the same title as the
+original (or partly the same). So the English translation of Kristeva's
+"Hannah Arendt" biography is linked to the Japanese and Polish
+translations, but not to the French original. 
+
+ 
+
+Index Translationum, started in 1932 by the League of Nations, now run
+by UNESCO, keeps a record of all the world's literary translations. Its
+records could be used to cross-check links, perhaps?
+
+ 
+
+Just an idea..!
+
+ 
+
+Tom
+
+ 
+
+ 
+
+Dr Tom Cheesman
+
+Reader in German 
+
+College of Arts and Humanities
+
+Swansea University
+
+SA2 8PP
+
+T: +44 (0)1792 205678 x 4030
+
+M: (+)(0)7736408064
+
+Institution: www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/ 
+
+Version Variation: www.delightedbeauty.org and
+www.delightedbeauty.org/vvv 
+
+Asylum: www.swanseabassgroup.org
+
+Publishing: www.lulu.com/hafan
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121022/c94e6bf9/attachment-0001.htm>
+
+From kcoyle at kcoyle.net  Mon Oct 22 16:30:45 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 22 Oct 2012 08:30:45 -0700
+Subject: [open-bibliography] Extract Translations from WorldCat?
+In-Reply-To: <9F7FA2E0294A934CA0CD9E97BD580F8412905371@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+References: <9F7FA2E0294A934CA0CD9E97BD580F84129051FF@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+	<7154BCBB8909D642AE6F44CA713DBC20056B9EB632D5@HERMES7.ds.leeds.ac.uk>
+	<9F7FA2E0294A934CA0CD9E97BD580F8412905371@CCS-EXCHANGE1.brynmill.swan.ac.uk>
+Message-ID: <508566A5.7040701@kcoyle.net>
+
+Here's the OCLC documentation on their xISBN algorithm:
+
+http://www.worldcat.org/affiliate/webservices/xisbn/app.jsp
+
+"Original" editions (either original language or original print or 
+original edition) are not identified in library cataloging. This is a 
+huge gap, but it seems to be a near-universal one.
+
+kc
+
+On 10/22/12 7:43 AM, Cheesman T. wrote:
+> Thanks John. That?s definitely a start!
+>
+> How are the various ISBNS and/or OCLCs associated? Is that done manually? (I notice that the OCLC749427863,for one of the Polish editions, is not in any of the lists of OCLCs e.g. at177669176 ? so it must be an ISBN association?)
+>
+> There is an ?Original Language? field ? but only for thetranslations ?
+> and that?s not the same as a link or pointer to an original-language
+> edition.
+>
+> Tricky!
+>
+> Cheers
+>
+> Tom
+>
+> Dr Tom Cheesman
+>
+> Reader in German
+>
+> College of Arts and Humanities
+>
+> Swansea University
+>
+> SA2 8PP
+>
+> T: +44 (0)1792 205678 x 4030
+>
+> M: (+)(0)7736408064
+>
+> Institution: www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/
+>
+> Version Variation: www.delightedbeauty.org /and/
+> www.delightedbeauty.org/vvv
+>
+> Asylum: www.swanseabassgroup.org
+>
+> Publishing: www.lulu.com/hafan
+>
+> *From:*open-bibliography-bounces at lists.okfn.org
+> [mailto:open-bibliography-bounces at lists.okfn.org] *On Behalf Of *John Salter
+> *Sent:* 22 October 2012 15:16
+> *To:* 'List for Working Group on Open Bibliographic Data'
+> *Subject:* Re: [open-bibliography] Extract Translations from WorldCat?
+>
+> Hi Tom,
+>
+> The xISBN API already returns multiple language variations of an item
+> (and editions) e.g.
+>
+> http://xisbn.worldcat.org/webservices/xid/isbn/0596002815?method=getEditions&fl=*&format=json (also:
+>
+>
+> http://www.oclc.org/developer/documentation/xisbn/response-details)
+>
+> This would cover *recent* items (e.g. items with an ISBN), but not older
+> texts - and I'm not sure how you tell which language is the original?
+>
+> Does that help at all with what you're trying to do?
+>
+> Cheers,
+>
+> John
+>
+> ------------------------------------------------------------------------
+>
+> *From:*open-bibliography-bounces at lists.okfn.org
+> <mailto:open-bibliography-bounces at lists.okfn.org>
+> [mailto:open-bibliography-bounces at lists.okfn.org] *On Behalf Of *Cheesman T.
+> *Sent:* 22 October 2012 14:41
+> *To:* open-bibliography at lists.okfn.org
+> <mailto:open-bibliography at lists.okfn.org>
+> *Subject:* [open-bibliography] Extract Translations from WorldCat?
+>
+> Hello, dear Open Bibliography group,
+>
+> [I sent the following to the ScraperWiki list yesterday and David Jones
+> has suggested I try you ? saying: ?I think some people there have done
+> some WorldCat hacking?. But come to think of it, there might be better
+> sources than WorldCat for the data I?m interested in?]
+>
+> Here's a major challenge - possibly new (?): scrape out of WorldCat all
+> the items which are translations, and link them with all the items which
+> are translated.
+>
+> Doing this would (1) help anyone find any translations of a work or find
+> the original of any translation (= a tool which performs as an interface
+> to WorldCat data) and (2) build a dynamic dataset representing global
+> cultural flows (= a stats tool).
+>
+> Data about WorldCat items includes OCLC number, title, date, publisher,
+> language, edition/format, personal names under 'author' (sometimes also
+> 'responsibility'), sometimes 'other titles', 'notes' etc. - the fields
+> vary depending on the library catalogue or other source they came from.
+>
+> In the case of translations, the fact that a work is a translation is
+> often only shown in the title field:  '... translated from ... by ...'
+> can appear.  So we might have to start by collating all items with such
+> phrases (in all languages) in the title field, and extracting names.
+> Translator names will be key links.
+>
+> An 'other title', esp if it is in a different language (but that won't
+> be marked), is probably an original title (but might be the title of a
+> translation...).
+>
+> WorldCat entries are cross-referenced to ''all editions and formats' -
+> and that includes multiple copies, differing editions, and translations,
+> but translations are only linked IF they have the same title as the
+> original (or partly the same). So the English translation of Kristeva's
+> "Hannah Arendt" biography is linked to the Japanese and Polish
+> translations, but not to the French original.
+>
+> Index Translationum, started in 1932 by the League of Nations, now run
+> by UNESCO, keeps a record of all the world's literary translations. Its
+> records could be used to cross-check links, perhaps?
+>
+> Just an idea..!
+>
+> Tom
+>
+> Dr Tom Cheesman
+>
+> Reader in German
+>
+> College of Arts and Humanities
+>
+> Swansea University
+>
+> SA2 8PP
+>
+> T: +44 (0)1792 205678 x 4030
+>
+> M: (+)(0)7736408064
+>
+> Institution: www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/
+> <http://www.swansea.ac.uk/staff/academic/ArtsHumanities/cheesmant/>
+>
+> Version Variation: www.delightedbeauty.org
+> <http://www.delightedbeauty.org> /and/ www.delightedbeauty.org/vvv
+> <http://www.delightedbeauty.org/vvv>
+>
+> Asylum: www.swanseabassgroup.org <http://www.swanseabassgroup.org>
+>
+> Publishing: www.lulu.com/hafan <http://www.lulu.com/hafan>
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From pohl at hbz-nrw.de  Mon Oct 29 11:02:05 2012
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Mon, 29 Oct 2012 12:02:05 +0100
+Subject: [open-bibliography] Reminder: Register for SWIB12 (Semantic Web in
+ Libraries, Cologne, 26 - 28 Nov)
+Message-ID: <508E703D020000140004B40B@agrippa.hbz-nrw.de>
+
+This is a reminder for everybody interested to register for SWIB12 (Semantic Web in Libraries) Conference in Cologne, 26 - 28 November 2012.
+
+Please register before November 19th at http://swib.org/swib12. For all people registering late: Please bring a proof of payment to the conference.
+
+
+Towards an international LOD library ecosystem
+
+To an ever increasing extent Linked Open Data (LOD) is developing into a mainstream topic, with more and more organizations announcing LOD projects and services. Furthermore, and especially during the last two years, Linked Open Data has received a lot more attention from the library world. Examples ranging from the Library of Congress' initiative "A Bibliographic Framework for the Digital Age", the Conference of European National Librarians and their vote to support the open licensing of their data, groups like LODLAM, IFLA'S Semantic Web Special Interest Group, to the point of library system vendors and providers discussing and experimenting with Linked Data technology - all these clearly reflect that LOD has gained a lot of momentum in library land.
+
+The question today is about how to ensure that LOD won't be a temporary hype but that it will gain ground in the scenery of future infrastructures. SWIB12 will focus on the adaption of Semantic Web approaches in applications for libraries and science. In the last years major efforts have been put into generating LOD datasets from legacy systems and into promoting the LOD approach towards a global and open information space. Upcoming challenges will involve the strategic and technical alignment of catalogues and legacy systems in libraries and the authoring environments for scholarly communication - both in a data and service infrastructure based on the principles of the Semantic Web.
+
+Full programme at http://swib.org/swib12/programme.php
+
+
+Offical Twitter Hashtag:
+#swib12 
+
+Further information and contact:
+
+Adrian Pohl
+North Rhine-Westphalian Library Service Center (hbz)
+Phone +49 221 400 75-235
+E-Mail: swib(at)hbz-nrw.de
+
+Joachim Neubert
+German National Library of Economics
+Leibniz Information Centre for Economics (ZBW)
+Phone +49 40 428 34-462
+E-Mail: j.neubert(at) zbw.eu
+
+Looking forward to meet you in Cologne - Adrian and Joachim
+
+
+
+
+From pm286 at cam.ac.uk  Tue Oct 30 21:37:59 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 30 Oct 2012 21:37:59 +0000
+Subject: [open-bibliography] [Open-access] [OT] bibliography sharing?
+In-Reply-To: <87wqy7fzl5.fsf@pobox.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+Message-ID: <CAD2k14MgKg0eVGMEXL1jXkoOhqDngduTnv01Eb5SOJH-Gy==ug@mail.gmail.com>
+
+[Copying (correct) mail address for open-bibliography]
+
+On Tue, Oct 30, 2012 at 8:56 PM, Tom Roche <Tom_Roche at pobox.com> wrote:
+
+>
+> Dunno if this is OT for this group, but ... has anyone done a brief
+> howto or guide to bibliography/citation sharing? Mendeley is probably
+> the obvious option, but there are other (and IIUC freer) mechanisms,
+> e.g., Zotero groups
+>
+> http://www.zotero.org/groups/browse
+>
+> but I'm guessing (knowing little in this space) there are more.
+>
+> apologies if there's a better channel for this question,
+> otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/pm286%40cam.ac.uk
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121030/8984eac2/attachment.htm>
+
+From naomi.lillie at okfn.org  Wed Oct 31 12:19:25 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Wed, 31 Oct 2012 12:19:25 +0000
+Subject: [open-bibliography] Fwd: [okfn-discuss] Request: Volunteers to
+ curate open/public data sources to support Hurricane Sandy recovery
+In-Reply-To: <CA+YLJLu0W=CZRACdiiXUw6iBXbAML2jcvwW5kEvNHvi5CQEFLA@mail.gmail.com>
+References: <CA+YLJLu0W=CZRACdiiXUw6iBXbAML2jcvwW5kEvNHvi5CQEFLA@mail.gmail.com>
+Message-ID: <CACGRf4JNUsdUkFm7yDbpahFjffg5pVfzNShd4U5A8u3Q2cVQWA@mail.gmail.com>
+
+Hi all, wondered if you might be interested in the below effort. Regards,
+Naomi
+
+
+---------- Forwarded message ----------
+From: Tim McNamara <paperless at timmcnamara.co.nz>
+Date: 31 October 2012 07:08
+Subject: [okfn-discuss] Request: Volunteers to curate open/public data
+sources to support Hurricane Sandy recovery
+To: Open Knowledge Foundation discussion list <okfn-discuss at lists.okfn.org>
+
+
+Hello all,
+
+This weekend, several groups of volunteers around the world will gather to
+undertake projects to support the hurricane recovery efforts[0]. The OKFN
+community has a distinct ability to help here, in particular it has lots of
+knowledge about datahub.io.
+
+There are bound to be hundreds of disparate spreadsheets, databases and
+other information sources spring up over the next few days. It would be
+excellent if they could be indexed as appropriately tagged. That will
+foster discovery and reuse greatly.
+
+Would anyone be interested in helping out with this?
+
+
+
+Tim McNamara
+
+[0] http://crisiscommons.org/2012/10/30/sandycrisiscamp/
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+Unsubscribe:
+http://lists.okfn.org/mailman/options/okfn-discuss/naomi.lillie%40okfn.org
+
+
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121031/4da83683/attachment.htm>
+

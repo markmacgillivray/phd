@@ -1,0 +1,439 @@
+From oldakquill at gmail.com  Sun Sep  7 13:36:02 2008
+From: oldakquill at gmail.com (Oldak Quill)
+Date: Sun, 7 Sep 2008 13:36:02 +0100
+Subject: [open-science] Open science and OKFN
+Message-ID: <54f6f2050809070536s66d05da7jd860883de7f8d150@mail.gmail.com>
+
+Just an e-mail about OKFN and open science, the state of open science,
+and a suggestion as to what is needed.
+
+Looking at the OKFN website, OKFN currently has no open science
+projects. Some of the tools supported by OKFN are incidentally related
+to open science (data distribution, e.g.). Have there been any ideas
+or suggestions about how OKFN may develop open science other than
+non-specific licenses and tools supported currently? What was the push
+to set up this list?
+
+Beyond OKFN, open science has been building momentum in the last two
+years. Some notable open science projects (that I know of):
+
+*http://www.biomedcentral.com/ BioMed Central - "an independent
+publishing house committed to providing immediate open access to
+peer-reviewed biomedical research". BioMed Central currently supports
+a couple of hundred journals and licenses these under the CC-by-2.0
+license, an OKFN Open Knoweldge Definition conformant license.
+
+*http://sciencecommons.org/ Science Commons - "designs strategies and
+tools for faster, more efficient web-enabled scientific research. We
+identify unnecessary barriers to research, craft policy guidelines and
+legal agreements to lower those barriers, and develop technology to
+make research data and materials easier to find and use." A project of
+Creative Commons.
+
+*A number of projects maintained by the US federal government (the NIH
+and the NCBI) are necessarily public domain.
+
+
+Open science is multifaceted. The means to do research should be as
+free and as open as possible (i.e. software tools), data must be open,
+and papers and other interpretations of data must be open (free to
+access and reuse). I here define "interpretations of data" very
+broadly to include scientific papers, diagrams, other texts, and
+annotation projects (annotated proteins/chemicals, e.g.). I would
+suggest that these are the three areas that must be pursued in open
+science: research tools, data and interpreted data.
+
+The current state of science more-often-than-not results in
+information and tools being locked-down. This is not compatible with
+the spirit of science. To be explicit: the spirit of science is the
+discovery and free exchange of scientific knowledge. If software tools
+in research must be paid for, if data cannot be shared, and if a
+subscription is required to access journal contents, the spirit of
+science is betrayed. In these scenarios, profit-making has become more
+important than science itself.
+
+-- 
+Oldak Quill (oldakquill at gmail.com)
+
+
+From jonathan.gray at okfn.org  Tue Sep  9 00:14:27 2008
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 09 Sep 2008 01:14:27 +0200
+Subject: [open-science] Open science and OKFN
+In-Reply-To: <54f6f2050809070536s66d05da7jd860883de7f8d150@mail.gmail.com>
+References: <54f6f2050809070536s66d05da7jd860883de7f8d150@mail.gmail.com>
+Message-ID: <48C5B1D3.9000906@okfn.org>
+
+Thanks for your post Oldak!
+
+I'll try and keep my response brief...
+
+  * As mentioned on our blog, this list came out of discussions I had 
+with Kaitlin Thaney (Science Commons) and Cameron Neylon (Open Wetware). 
+None of us could think of a mailing list for those with a general 
+interest in open science. The purpose of setting up this list was to 
+keep these people in touch with each other. I hope it will become a 
+relatively low volume list for relevant announcements, queries and other 
+items of interest. (Our thinking was roughly 'we're all quite busy, but 
+it would be nice to keep in closer contact'!)
+
+  * The Open Knowledge Foundation aims to promote open knowledge in all 
+its forms - including scientific publications, research data, and so on. 
+At the moment our most relevant work is on standards (cf. 
+http://opendefinition.org and Science Commons' Protocol for OA Data, 
+http://ur1.ca/55e) and resource discovery (cf. http://ckan.net).
+For more on the OKF and open science, see SC's interview with Rufus 
+Pollock: http://ur1.ca/55f. We are currently planning an event on open 
+science resource discovery for this autumn. We would very much like to 
+provide whatever support we can to the open science community. Much of 
+our work is 'community driven' - so feedback, suggestions, project 
+proposals and so on are most welcome (probably off-list or on 
+okfn-discuss would be best)!
+
+  * Regarding your comments on areas of open science, you may be 
+interested to see Science Commons' 'Principles for open science', 
+presented in Barcelona in July: http://ur1.ca/55h.
+
+I hope this is helpful!
+
+Warm regards,
+
+Jonathan
+
+
+Oldak Quill wrote:
+> Just an e-mail about OKFN and open science, the state of open science,
+> and a suggestion as to what is needed.
+> 
+> Looking at the OKFN website, OKFN currently has no open science
+> projects. Some of the tools supported by OKFN are incidentally related
+> to open science (data distribution, e.g.). Have there been any ideas
+> or suggestions about how OKFN may develop open science other than
+> non-specific licenses and tools supported currently? What was the push
+> to set up this list?
+> 
+> Beyond OKFN, open science has been building momentum in the last two
+> years. Some notable open science projects (that I know of):
+> 
+> *http://www.biomedcentral.com/ BioMed Central - "an independent
+> publishing house committed to providing immediate open access to
+> peer-reviewed biomedical research". BioMed Central currently supports
+> a couple of hundred journals and licenses these under the CC-by-2.0
+> license, an OKFN Open Knoweldge Definition conformant license.
+> 
+> *http://sciencecommons.org/ Science Commons - "designs strategies and
+> tools for faster, more efficient web-enabled scientific research. We
+> identify unnecessary barriers to research, craft policy guidelines and
+> legal agreements to lower those barriers, and develop technology to
+> make research data and materials easier to find and use." A project of
+> Creative Commons.
+> 
+> *A number of projects maintained by the US federal government (the NIH
+> and the NCBI) are necessarily public domain.
+> 
+> 
+> Open science is multifaceted. The means to do research should be as
+> free and as open as possible (i.e. software tools), data must be open,
+> and papers and other interpretations of data must be open (free to
+> access and reuse). I here define "interpretations of data" very
+> broadly to include scientific papers, diagrams, other texts, and
+> annotation projects (annotated proteins/chemicals, e.g.). I would
+> suggest that these are the three areas that must be pursued in open
+> science: research tools, data and interpreted data.
+> 
+> The current state of science more-often-than-not results in
+> information and tools being locked-down. This is not compatible with
+> the spirit of science. To be explicit: the spirit of science is the
+> discovery and free exchange of scientific knowledge. If software tools
+> in research must be paid for, if data cannot be shared, and if a
+> subscription is required to access journal contents, the spirit of
+> science is betrayed. In these scenarios, profit-making has become more
+> important than science itself.
+> 
+
+
+
+From wdjoyner at gmail.com  Thu Sep 11 04:09:51 2008
+From: wdjoyner at gmail.com (David Joyner)
+Date: Wed, 10 Sep 2008 23:09:51 -0400
+Subject: [open-science] Virginia Begins Open-Source Physics Textbook
+Message-ID: <8cf963450809102009s65ab54aw6ba81a75f37d8c53@mail.gmail.com>
+
+FYI (news from slashdot):
+http://news.slashdot.org/article.pl?sid=08/09/10/1556242
+
+
+From mike at opensci.info  Thu Sep 11 12:58:09 2008
+From: mike at opensci.info (oscimike)
+Date: Thu, 11 Sep 2008 07:58:09 -0400
+Subject: [open-science] Virginia Begins Open-Source Physics Textbook
+In-Reply-To: <8cf963450809102009s65ab54aw6ba81a75f37d8c53@mail.gmail.com>
+References: <8cf963450809102009s65ab54aw6ba81a75f37d8c53@mail.gmail.com>
+Message-ID: <8eabe1b70809110458s73d2ab62ufb1dadaf638e93d0@mail.gmail.com>
+
+Looks interesting, they are partnering with www.ck12.org , does anyone have
+experience or opinions about that organization?
+Here is the Request for Information in HTML format:
+http://doc.zooos.com/view?doc=http://www.technology.virginia.gov/PhysicsFlexbook_Final.doc
+This is very good and exciting to see, however it seems like they are
+starting from scratch, instead of building on any of the existing efforts?
+Thanks for the info :)
+
+On Wed, Sep 10, 2008 at 11:09 PM, David Joyner <wdjoyner at gmail.com> wrote:
+
+> FYI (news from slashdot):
+> http://news.slashdot.org/article.pl?sid=08/09/10/1556242
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20080911/67f0a4fd/attachment.htm 
+
+From jonathan.gray at okfn.org  Thu Sep 11 13:13:15 2008
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 11 Sep 2008 14:13:15 +0200
+Subject: [open-science] Virginia Begins Open-Source Physics Textbook
+In-Reply-To: <8eabe1b70809110458s73d2ab62ufb1dadaf638e93d0@mail.gmail.com>
+References: <8cf963450809102009s65ab54aw6ba81a75f37d8c53@mail.gmail.com>
+	<8eabe1b70809110458s73d2ab62ufb1dadaf638e93d0@mail.gmail.com>
+Message-ID: <48C90B5B.6000305@okfn.org>
+
+oscimike wrote:
+> Looks interesting, they are partnering with www.ck12.org 
+> <http://www.ck12.org> , does anyone have experience or opinions about 
+> that organization?
+
+I hadn't heard of them - but they look great! I just invited them to our 
+open textbook meetup:
+
+http://blog.okfn.org/2008/09/10/open-textbook-virtual-meeting-29th-september-2008/
+
+Jonathan
+
+
+From mike at opensci.info  Tue Sep 16 22:58:16 2008
+From: mike at opensci.info (oscimike)
+Date: Tue, 16 Sep 2008 17:58:16 -0400
+Subject: [open-science] US Congress considering bill to restrict NIH open
+	access publication
+Message-ID: <8eabe1b70809161458l1937b5c9t306dd8a2435d1afe@mail.gmail.com>
+
+
+
+From h.spencer at natureny.com  Wed Sep 17 17:24:35 2008
+From: h.spencer at natureny.com (Hilary Spencer)
+Date: Wed, 17 Sep 2008 12:24:35 -0400
+Subject: [open-science] US Congress considering bill to restrict NIH
+ open access publication
+In-Reply-To: <8eabe1b70809161458l1937b5c9t306dd8a2435d1afe@mail.gmail.com>
+References: <8eabe1b70809161458l1937b5c9t306dd8a2435d1afe@mail.gmail.com>
+Message-ID: <48D12F43.2070505@natureny.com>
+
+Lots of coverage on Peter Suber's OA News blog:
+http://www.earlham.edu/~peters/fos/2008_09_07_fosblogarchive.html
+http://www.earlham.edu/~peters/fos/2008_09_14_fosblogarchive.html
+
+Since the House begins their recess on Sept 26th (and doesn't reconvene 
+until January), no action will be taken on this bill until 2009:
+http://www.libraryjournal.com/info/CA6596784.html?nid=2673#news1
+
+
+oscimike wrote:
+> From http://arstechnica.com/articles/culture/open-access-science.ars
+>
+> "The House of Representatives has seen the introduction of 
+> legislation, HR 6845 
+> <http://thomas.loc.gov/cgi-bin/query/z?c110:H.R.6845:> that, depending 
+> on its final format, may significantly curtail or eliminate the NIH's 
+> ability to continue its open access policy. The current bill would 
+> prevent any arm of the federal government from making research funding 
+> contingent upon "the transfer or license to or for a Federal agency 
+> of... any right provided under paragraph (1) or (2) of section 106 
+> <http://www.law.cornell.edu/copyright/copyright.act.chapt1b.html> in 
+> an extrinsic work, to the extent that, solely for purposes of this 
+> subsection, such right involves the availability to the public of that 
+> work." Those Section 106 rights include the reproduction of the work."
+>
+> Extremely concerning, if you ask me the PubMed open access is one of 
+> the best things NIH has done recently, and should be supported, not 
+> endangered!
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>   
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20080917/57f5170d/attachment.htm 
+
+From mike at opensci.info  Sat Sep 20 14:05:57 2008
+From: mike at opensci.info (Mike Chelen)
+Date: Sat, 20 Sep 2008 09:05:57 -0400
+Subject: [open-science] US Congress considering bill to restrict NIH
+	open access publication
+In-Reply-To: <48D12F43.2070505@natureny.com>
+References: <8eabe1b70809161458l1937b5c9t306dd8a2435d1afe@mail.gmail.com>
+	<48D12F43.2070505@natureny.com>
+Message-ID: <685daa0d0809200605ie545c71l36252be5615bf054@mail.gmail.com>
+
+Thanks for the links, here is one more bit of coverage that includes
+some helpful info on the members of the committees:
+http://openaccessday.org/2008/09/18/nih-mandate-under-attack-we-need-your-help-by-924/
+Interesting to hear it will not have a chance of action for some time,
+hopefully we can use that interval to spread awareness and gather
+enough opinion to affect that of the representatives :)
+
+On Wed, Sep 17, 2008 at 12:24 PM, Hilary Spencer <h.spencer at natureny.com> wrote:
+> Lots of coverage on Peter Suber's OA News blog:
+> http://www.earlham.edu/~peters/fos/2008_09_07_fosblogarchive.html
+> http://www.earlham.edu/~peters/fos/2008_09_14_fosblogarchive.html
+>
+> Since the House begins their recess on Sept 26th (and doesn't reconvene
+> until January), no action will be taken on this bill until 2009:
+> http://www.libraryjournal.com/info/CA6596784.html?nid=2673#news1
+>
+>
+> oscimike wrote:
+>
+> From http://arstechnica.com/articles/culture/open-access-science.ars
+>
+> "The House of Representatives has seen the introduction of legislation, HR
+> 6845 that, depending on its final format, may significantly curtail or
+> eliminate the NIH's ability to continue its open access policy. The current
+> bill would prevent any arm of the federal government from making research
+> funding contingent upon "the transfer or license to or for a Federal agency
+> of... any right provided under paragraph (1) or (2) of section 106 in an
+> extrinsic work, to the extent that, solely for purposes of this subsection,
+> such right involves the availability to the public of that work." Those
+> Section 106 rights include the reproduction of the work."
+>
+> Extremely concerning, if you ask me the PubMed open access is one of the
+> best things NIH has done recently, and should be supported, not endangered!
+>
+> ________________________________
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+>
+
+
+From wdjoyner at gmail.com  Sat Sep 20 14:19:19 2008
+From: wdjoyner at gmail.com (David Joyner)
+Date: Sat, 20 Sep 2008 09:19:19 -0400
+Subject: [open-science] US Congress considering bill to restrict NIH
+	open access publication
+In-Reply-To: <685daa0d0809200605ie545c71l36252be5615bf054@mail.gmail.com>
+References: <8eabe1b70809161458l1937b5c9t306dd8a2435d1afe@mail.gmail.com>
+	<48D12F43.2070505@natureny.com>
+	<685daa0d0809200605ie545c71l36252be5615bf054@mail.gmail.com>
+Message-ID: <8cf963450809200619i47e941eex4cd886d0f07741c7@mail.gmail.com>
+
+On Sat, Sep 20, 2008 at 9:05 AM, Mike Chelen <mike at opensci.info> wrote:
+> Thanks for the links, here is one more bit of coverage that includes
+> some helpful info on the members of the committees:
+> http://openaccessday.org/2008/09/18/nih-mandate-under-attack-we-need-your-help-by-924/
+> Interesting to hear it will not have a chance of action for some time,
+> hopefully we can use that interval to spread awareness and gather
+> enough opinion to affect that of the representatives :)
+
+
+Thanks for the link. I just emailed Cardin, who is the MD senator.
+
+
+>
+> On Wed, Sep 17, 2008 at 12:24 PM, Hilary Spencer <h.spencer at natureny.com> wrote:
+>> Lots of coverage on Peter Suber's OA News blog:
+>> http://www.earlham.edu/~peters/fos/2008_09_07_fosblogarchive.html
+>> http://www.earlham.edu/~peters/fos/2008_09_14_fosblogarchive.html
+>>
+>> Since the House begins their recess on Sept 26th (and doesn't reconvene
+>> until January), no action will be taken on this bill until 2009:
+>> http://www.libraryjournal.com/info/CA6596784.html?nid=2673#news1
+>>
+>>
+>> oscimike wrote:
+>>
+>> From http://arstechnica.com/articles/culture/open-access-science.ars
+>>
+>> "The House of Representatives has seen the introduction of legislation, HR
+>> 6845 that, depending on its final format, may significantly curtail or
+>> eliminate the NIH's ability to continue its open access policy. The current
+>> bill would prevent any arm of the federal government from making research
+>> funding contingent upon "the transfer or license to or for a Federal agency
+>> of... any right provided under paragraph (1) or (2) of section 106 in an
+>> extrinsic work, to the extent that, solely for purposes of this subsection,
+>> such right involves the availability to the public of that work." Those
+>> Section 106 rights include the reproduction of the work."
+>>
+>> Extremely concerning, if you ask me the PubMed open access is one of the
+>> best things NIH has done recently, and should be supported, not endangered!
+>>
+>> ________________________________
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+From stuart.macdonald at ed.ac.uk  Fri Sep 26 14:41:57 2008
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Fri, 26 Sep 2008 14:41:57 +0100
+Subject: [open-science] Data Visualisation utilities in a Web 2.0 environment
+Message-ID: <48DCE6A5.9080701@ed.ac.uk>
+
+*Briefing Paper: Part 2 ? Spatial Data in a Web 2.0 Environment and Beyond
+
+*As part of the JISC-funded DISC-UK DataShare project, a briefing paper 
+detailing and comparing a number of spatial data visualisation tools, 
+mashups and initiatives is now available. This project deliverable 
+entitled Data Visualisation Tools: Part 2 ? Spatial Data in a Web 2.0 
+Environment and Beyond can be downloaded in PDF from the DISC-UK 
+Datashare website at:
+
+http://www.disc-uk.org/docs/spatial_data_mashup.pdf.
+
+For other project deliverables visit: 
+http://www.disc-uk.org/deliverables.html.
+
+regards
+Stuart Macdonald
+
+DISC-UK DataShare - http://www.disc-uk.org/datashare.html
+EDINA National Data Centre & Edinburgh University Data Library
+
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+

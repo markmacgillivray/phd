@@ -1,0 +1,1257 @@
+From dgraziotin at task3.cc  Wed Oct  2 12:37:40 2013
+From: dgraziotin at task3.cc (Daniel Graziotin)
+Date: Wed, 2 Oct 2013 11:37:40 +0000
+Subject: [Open-access] Introducing myself and some things I work on
+Message-ID: <A2FE8762EE55DB40BE770BE1FB0AA5ED10128CB8@DB3PRD0411MB429.eurprd04.prod.outlook.com>
+
+Dear all,
+
+I have just subscribed to this mailing list. I briefly introduce myself. Sorry for cross-posting this first e-mail to open-science and open-access.
+
+I am a PhD student in Computer Science at the free University of Bozen-Bolzano (IT). My research interests include human aspects in empirical Software Engineering with psychological measurements, Web Engineering, and Open-{Access, Data, Source}.
+
+I volunteered for the OKFN at the CKAN project (more specifically, datapkg/dpm and DataDeck) in the past. I sometimes try to help with some developing activities. However, as I started my PhD I began hitting paywalls, thus becoming more interested in Open Access and Open Science in general. I am exploring Open Access venues like the Journal of Open Research Software <http://openresearchsoftware.metajnl.com> and PeerJ <http://peerj.com>. Otherwise, I self-archive all of my research papers. Talking about self-archiving, I strive to advocate this practice, especially in Computer Science research. Incredibly, quite nobody knows about green Open Access there, nor on the right to self-archive.
+
+I recently delivered a presentation at my faculty, called "What is self-archiving - and why should I care?" <http://dx.doi.org/10.6084/m9.figshare.806275>. Additionally, I developed rchiveit, a Web tool to spread the awareness of self-archiving among researchers (in particular Computer Science researchers). It is nothing else than a wrapper around SHERPA/RoMEO APIs. However, it looks "fresher" and it tries to just get to the point, by displaying the minimum amount of information. It is live at <http://rchive.it>. The website contains some text on why researchers should self-archive. From some feedback received, I see that indeed, it is helping some people there. On the other hand, there is a lot of space for improvement.
+
+I would like to get involved with the OKFN Open Science and Access working groups. I think that the best I can offer is my experience as a developer (especially Web developer) and as a Software Engineer (my MSc curricula). I would also love to help spreading OA awareness in CS and other fields.
+
+Another idea would be to have the OKFN as an "incubator" for rchiveit, in order to attract some development.
+
+I look forward to working with you towards a more transparent science.
+
+--Daniel Graziotin
+Orcid: http://orcid.org/0000-0002-9107-7681
+
+
+
+
+From sanglorian at gmail.com  Tue Oct  8 06:10:23 2013
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Tue, 8 Oct 2013 16:10:23 +1100
+Subject: [Open-access] FOSsil Bank Update (8 October 2013)
+Message-ID: <CAMuj-eLLFPF-yEp5JZjTHy3NZtFQa31oFbiTPoyxTuiRp7Hs_w@mail.gmail.com>
+
+Hi folks,
+Here's another update for you.
+ #FundFreeCulture
+
+I'm particularly chuffed to see others start to pick up the
+#FundFreeCulture hashtag on Twitter. Not many others, to be honest, but
+some!
+Newly spotted
+
+*Underground Meats* is going to share (in the public domain) the complex
+(but exciting!) process of becoming a USDA-certified meat processor. Plus,
+$24 gets you a salami!
+http://www.kickstarter.com/projects/undergroundmeats/underground-meats-open-source-food-safety-model(4
+days left; $42,693/$40,000)
+
+They're making a second episode of the comedic short film *Caminandes*, and
+you can get a copy for about 25 euro (early bird discount till 12 October;
+CC BY): http://www.blender3d.org/e-shop/product_info_n.php?products_id=165
+
+*Free the Monsters* is an IndieGoGo campaign to release concept art and 3D
+models (CC BY-SA; 17 days left; $1,275/$1,375 ? flexible funding):
+http://www.indiegogo.com/projects/free-the-monsters
+
+Picture book *Stick's Masterpiece* is available from Amazon.com (CC BY-SA;
+$13; $2 on Kindle): http://www.amazon.com/gp/product/0989715000/
+
+You can patronise *Rafu *on Patreon ? he makes FLO tabletop RPGs (like
+Enter the Avenger, listed below): http://www.patreon.com/rafu
+
+You can also buy the mostly non-FLO magazine *Words Without Master **issue
+1,* and one of your four dollars goes to Rafu:
+http://orgasmocerebrale.blogspot.it/2013/10/enter-enter-avenger.html
+
+You can buy a *GNU branded travel mug* and support the Free Software
+Foundation. Guaranteed to impress members of the general public ($25):
+http://shop.fsf.org/product/gnu-30-travel-mug/
+Ongoing
+
+*Open Well-Tempered Clavier ? Ba?h to Bach *is a project to score and
+record Bach?s Well-Tempered Clavier - including stretch goals to make the
+scores accessible to the blind (31 days left; $31,127/$30,000):*
+http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach
+*<http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach>
+
+*Set Chopin Free *will record that composer?s entire corpus and return it
+to the public domain ($80,442/$75,000; 12 days left): *
+http://www.kickstarter.com/projects/Musopen/set-chopin-free*<http://www.kickstarter.com/projects/Musopen/set-chopin-free>
+
+*0 A.D. *is an RTS that?s been under development for some time. They've
+updated their page (29 days left; $123,142/$160,000 ? flexible funding): *
+http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game
+*<http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game>
+
+*App-Make-inator* from Lunduke is on Bountysource. (GNU GPL; 8 days to go;
+$433/$3,500):*https://www.bountysource.com/fundraisers/468*<https://www.bountysource.com/fundraisers/468>
+Concluded
+
+*Tupi *is 2D animation software on Kickstarter that was unsuccessful. (GNU
+GPL; $4,299/$30,000):
+http://www.kickstarter.com/projects/175927790/tupi-2d-animation-software-for-everyone
+FLO Works
+
+*The Dictionary of Sydney* has some FLO entries (CC BY-SA):
+http://fossilbank.wikidot.com/entry:dictionary-of-sydney
+
+*Pixabay *is a photo site (CC0): http://fossilbank.wikidot.com/entry:pixabay
+
+*Eyewriter *is a public domain system that allows people to draw using only
+their eyes (public domain): http://fossilbank.wikidot.com/entry:eyewriter
+Teaching Copyright
+
+*Smartcopying *is an official guide to copyright issues for Australian
+educational institutions (CC BY-SA):
+http://fossilbank.wikidot.com/entry:smartcopying
+
+*All Right to Copy?* is a tool from Smartcopying to teach students about
+copyright (CC BY-SA): http://fossilbank.wikidot.com/entry:all-right-to-copy
+
+*The Electronic Frontiers Foundation* does great education and activist
+work (CC BY): http://fossilbank.wikidot.com/entry:eff
+
+*Teaching Copyright* is the EFF's curriculum on digital rights (CC BY):
+http://fossilbank.wikidot.com/entry:teaching-copyright
+
+*Free to Mix *is a guide from the NZ government on what you can legally
+remix (CC BY): http://fossilbank.wikidot.com/entry:free-to-mix
+Literature
+
+*Project N *is a light novel, to become the script for a manga (GPL):
+http://fossilbank.wikidot.com/entry:project-n
+
+*Emily C O'Leary* has written poems, essays and short stories (CC BY-SA):
+http://fossilbank.wikidot.com/entry:project-n
+
+*The SCP Foundation* is an X-Files like collective fiction project (CC
+BY-SA): http://fossilbank.wikidot.com/entry:the-scp-foundation
+Tabletop Games
+
+*Rookvale* is a tabletop RPG with cinematic tactical combat (with demons)
+(CC BY-SA): http://fossilbank.wikidot.com/entry:rookvale
+
+*The d100II SRD *allows you to play old d100 games (OGL):
+http://fossilbank.wikidot.com/entry:d100ii-srd
+
+*The Traveller RPG *has a few HTML versions of the game (OGL):
+http://fossilbank.wikidot.com/work:traveller
+
+*Enter the Avenger* is a short and simple swords & sorcery RPG (CC BY-SA):
+http://fossilbank.wikidot.com/entry:enter-the-avenger
+Pornography
+
+Created a new genre for this:
+http://fossilbank.wikidot.com/genre:pornography
+
+And I suppose this is as good a time as any to reiterate that while the
+FOSsil Bank exercises some mild curatorial discretion with regards to the
+quality of entries (the rule is basically: 'If you can be bothered adding
+it to the wiki, it's probably noteworthy enough/complete enough/good enough
+to stay there'), it does not examine or endorse the pages that it links to.
+Some may contain graphic, adult or offensive content.
+
+
+The Flickr photos of *suicidegirls *are/were free culture (CC BY):
+http://fossilbank.wikidot.com/entry:suicidegirls
+
+*Freedom Porn *is a wiki for amateurs interested in 'ethical' porn and
+radical politics (CC BY-SA):
+http://fossilbank.wikidot.com/entry:freedom-porn
+Proprietary Shareable Works
+
+*The Wu Ming Foundation* is literature written by a collective, in English
+or Italian (CC BY-NC-SA):
+http://fossilbank.wikidot.com/entry:wu-ming-foundation
+
+*Mashup Breakdown* shows where the samples in Girl Talk's music come from
+(CC BY-NC): http://fossilbank.wikidot.com/entry:mashup-breakdown
+
+*Feeding the City* is a study of the poor of Mumbai (CC BY-ND):
+http://fossilbank.wikidot.com/entry:feeding-the-city
+
+*Shared Creations* is a book about making use of Creative Commons (CC
+BY-NC-SA): http://fossilbank.wikidot.com/entry:shared-creations
+
+*The Good Girl* is a 20-minute long pornographic film (CC BY-NC-ND):
+http://fossilbank.wikidot.com/entry:the-good-girl
+
+
+Have a good fortnight,
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131008/c1abaddc/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Thu Oct 10 09:22:41 2013
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Thu, 10 Oct 2013 09:22:41 +0100
+Subject: [Open-access] [open-science] Fake Cancer study published in 157
+	Open Access Journals
+In-Reply-To: <52542F11.3030509@wisc.edu>
+References: <CABPM+wov8xXukMxK2uR8_wHw=Q+oSwckMG_UZu=8PKEqx=6YbA@mail.gmail.com>
+	<0E99D16BAAD86442AE952F2FB91AAAAC0119C75CA9@CERNXCHG12.cern.ch>
+	<CAD2k14MDZhsHkrAoWAkYAiD2hF=YZYCh3gVp1GYnT1VaCP7Qbg@mail.gmail.com>
+	<CADB6pjNQ5i=g28dNrt4ABxuJEpuUPH5a3Z2S7btcAVN8Q-cfNQ@mail.gmail.com>
+	<CAOoxy7KMTzHEjf9tSsqZSav2T0myFQJ9CuYW1dQ9i2FA1ZrRFQ@mail.gmail.com>
+	<CACnMvBZp9qOwuMNgkjPjF9NrBNSTpDHQGKtE2fshbcwzq50JiA@mail.gmail.com>
+	<CADB6pjOBCi+Xy57ebK5yc7etirW09ccw5j=Q7jfOJqpG1UwiiQ@mail.gmail.com>
+	<52542F11.3030509@wisc.edu>
+Message-ID: <CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+
+Hi All
+
+I agree time is of the essence and have set up a googledoc, however I have
+a morning in a molecular lab to look forward to and won't be able to
+populate it until lunchtime - please feel free to plough ahead with
+suggesting 300 words!
+
+https://docs.google.com/document/d/1kgFHnG-HhstNbDE2AOX5LXNkqSOTyefy1LRpB2Rc328/edit#
+
+No matter what we think of this journalistic piece (as Francois points out,
+it was never intended as a scientific study and appears in the News section
+of Science) the message is reaching lots of people from high profile media
+outlets that open access means poor quality research rather than that some
+journals do poor peer review and APC business models are a gift to
+fraudulent publishers, so I think we should make some sort of statement
+with other organisations who are interested.
+
+I think the latter point raises some really interesting questions for a
+social scientist to tackle with a well designed study, as Carl points out
+in his earlier email:
+"What is the greater potential concern here: that well-intentioned authors
+are being deceived, or that demand from dishonest authors has created a
+large market for dishonest publishers (possibly in an attempt to deceive
+employers who assess their output by volume?)"
+
+Please pass this email onto other people who may be interested/tweet the
+link to the document. Even better get them to sign up to the mailing list -
+now accessible from the front page of the website for those who find
+mailman pages a bit old school:
+http://science.okfn.org/.
+
+Jenny
+
+
+On Tue, Oct 8, 2013 at 5:13 PM, Luke Winslow <lawinslow at wisc.edu> wrote:
+
+>  Klaus. I now believe you are just trolling. Thanks for reminding me that
+> the best way to deal with internet trolls is to not engage them.
+>
+>
+> But it would be wonderful to see an alliance of reputable institutions
+> like OKF putting together a concise, well-formulated rebuttal, and
+> broadcasting it well beyond the confines of the OA community. Starting with
+> the Letters column of The Economist.
+>
+> I completely agree. The Economist is widely read. But more importantly,
+> the letter section is widely read and respected as well (MHO). A letter
+> there from people with a bigger reputation than me would be the first step.
+> Or perhaps a letter signed by the open knowledge foundation itself? (I have
+> the feeling they would not accept a letter not signed by an individual).
+>
+> Quick survey says letters are ~300 words or less. Not sure what their
+> criteria is, but 300 seems to be about the longest letter (maybe 350) based
+> on a brief (non-scientific!) survey of a<http://www.economist.com/news/letters/21586511-our-capital-freeze-index-utah-chinese-banks-montessori-schools-biofuels-brazilian-foreign>
+> few<http://www.economist.com/news/letters/21587182-biodiversity-software-jobs-unemployment>
+> issues<http://www.economist.com/news/letters/21586273-syria-chemical-weapons-high-speed-rail-azerbaijan-italy-burials>
+> .
+>
+> I think it would be important to get it in by yesterday. The economist is
+> weekly and they often run criticisms of the past issue in the very next
+> issue. Best to get it in while it is fresh on people's minds.
+>
+> What's next? Think Science would accept some sort of follow-up? Any other
+> journals or major outlets?
+>
+> -Luke
+>
+>
+> On 2013-10-08 10:15, Klaus Graf wrote:
+>
+>  The same nonsense you have written before.
+>
+> If I write an article on Tibet I do not have the duty to take the rest of
+> the world as control group. "Really bad" is only what OA advocates do when
+> ignoring uncomfortable truths.
+>
+>  Klaus Graf
+>
+>
+> 2013/10/8 Mike Taylor <mike at indexdata.com>
+>
+>> There were indeed VERY serious flaws, and I'm a bit surprised that
+>> anyone would claim not to be able to see them. I enumerated some of
+>> them here:
+>>
+>> http://svpow.com/2013/10/07/anti-tutorial-how-to-design-and-execute-a-really-bad-study/
+>>
+>> On 8 October 2013 15:12, Graham Triggs <grahamtriggs at gmail.com> wrote:
+>> > On 7 October 2013 19:33, Klaus Graf <klausgraf at googlemail.com> wrote:
+>> >>
+>> >> See also
+>> >> http://archivalia.tumblr.com/tagged/openaccess
+>> >>
+>> >> I still cannot see serious flaws
+>> >
+>> >
+>> > I'm not going to claim serious flaws in the methodology, or even in
+>> what the
+>> > article itself states. However, to accept it as an expose of OA alone
+>> is a
+>> > serious flaw.
+>> >
+>> > a) There is no comparative data for submissions to closed access
+>> journals
+>> > b) No attempt was made (or at least documented to have been made) to
+>> obtain
+>> > waivers for the APCs
+>> >
+>> > On that second point, the article was submitted with African
+>> affiliations,
+>> > which would have been cause to grant a waiver for any of the OA
+>> publishers
+>> > that operate such policies for lower income countries.
+>> >
+>> > Either, and preferably both, of these would have given indication as to
+>> > whether the acceptances were driven by predatory desires to reap the
+>> APCs.
+>> > As it is, the Bohannon article is missing (at least) two critical
+>> pieces of
+>> > evidence, which means it is only telling half a story, at best.
+>> >
+>> > Besides, this is ultimately a largely self-correcting problem. Open
+>> science
+>> > can be discredited, journals will get reputations for being routinely
+>> > discredited (Negative Impact Factors, if you will) and no serious author
+>> > with real results is going to want to publish in journals with a bad
+>> > reputation. (And for any new authors that are not so well informed,
+>> there
+>> > should be appropriate support structures from their funders, colleagues
+>> and
+>> > institutions to avoid the problems).
+>> >
+>> > If predatory publishers remain, and a small number of authors can
+>> afford to
+>> > pay them to publish what they know to be crap, so be it. The only
+>> danger of
+>> > that is bogus studies being published in order to sell useless products
+>> as
+>> > being scientifically proven - but that's a consumer issue, not a
+>> > research/science one.
+>> >
+>> > This would be a much more serious issue if credible journals that
+>> command a
+>> > good reputation were accepting nonsense to harvest APCs. But this study
+>> > actually showed that they did not. And whilst anyone could make a
+>> mistake,
+>> > the respected journals aren't going to wave through poor articles -
+>> because
+>> > they would very quickly lose their reputation (and hence value, and
+>> > revenue).
+>> >
+>> > G
+>> >
+>>   > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>> >
+>>
+>
+>
+>
+> _______________________________________________
+> open-science mailing listopen-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/88c4cfdf/attachment.htm>
+
+From michelle.brook at okfn.org  Thu Oct 10 09:52:59 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Thu, 10 Oct 2013 10:52:59 +0200
+Subject: [Open-access] [open-science] Fake Cancer study published in 157
+ Open Access Journals
+In-Reply-To: <CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+References: <CABPM+wov8xXukMxK2uR8_wHw=Q+oSwckMG_UZu=8PKEqx=6YbA@mail.gmail.com>
+	<0E99D16BAAD86442AE952F2FB91AAAAC0119C75CA9@CERNXCHG12.cern.ch>
+	<CAD2k14MDZhsHkrAoWAkYAiD2hF=YZYCh3gVp1GYnT1VaCP7Qbg@mail.gmail.com>
+	<CADB6pjNQ5i=g28dNrt4ABxuJEpuUPH5a3Z2S7btcAVN8Q-cfNQ@mail.gmail.com>
+	<CAOoxy7KMTzHEjf9tSsqZSav2T0myFQJ9CuYW1dQ9i2FA1ZrRFQ@mail.gmail.com>
+	<CACnMvBZp9qOwuMNgkjPjF9NrBNSTpDHQGKtE2fshbcwzq50JiA@mail.gmail.com>
+	<CADB6pjOBCi+Xy57ebK5yc7etirW09ccw5j=Q7jfOJqpG1UwiiQ@mail.gmail.com>
+	<52542F11.3030509@wisc.edu>
+	<CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+Message-ID: <CABOTVX_A3n59YmYD6GkXED2RJddnpLCG7XTD+2QwrXt9Yxt6sA@mail.gmail.com>
+
+Hey all,
+
+Just to say that I've started to draft a document from OKF. I'll share this
+later today as I'm just nipping out for a meeting.
+
+Best,
+Michelle
+
+
+On 10 October 2013 10:22, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+
+> Hi All
+>
+> I agree time is of the essence and have set up a googledoc, however I have
+> a morning in a molecular lab to look forward to and won't be able to
+> populate it until lunchtime - please feel free to plough ahead with
+> suggesting 300 words!
+>
+>
+> https://docs.google.com/document/d/1kgFHnG-HhstNbDE2AOX5LXNkqSOTyefy1LRpB2Rc328/edit#
+>
+> No matter what we think of this journalistic piece (as Francois points
+> out, it was never intended as a scientific study and appears in the News
+> section of Science) the message is reaching lots of people from high
+> profile media outlets that open access means poor quality research rather
+> than that some journals do poor peer review and APC business models are a
+> gift to fraudulent publishers, so I think we should make some sort of
+> statement with other organisations who are interested.
+>
+> I think the latter point raises some really interesting questions for a
+> social scientist to tackle with a well designed study, as Carl points out
+> in his earlier email:
+> "What is the greater potential concern here: that well-intentioned
+> authors are being deceived, or that demand from dishonest authors has
+> created a large market for dishonest publishers (possibly in an attempt to
+> deceive employers who assess their output by volume?)"
+>
+> Please pass this email onto other people who may be interested/tweet the
+> link to the document. Even better get them to sign up to the mailing list -
+> now accessible from the front page of the website for those who find
+> mailman pages a bit old school:
+> http://science.okfn.org/.
+>
+> Jenny
+>
+>
+> On Tue, Oct 8, 2013 at 5:13 PM, Luke Winslow <lawinslow at wisc.edu> wrote:
+>
+>>  Klaus. I now believe you are just trolling. Thanks for reminding me that
+>> the best way to deal with internet trolls is to not engage them.
+>>
+>>
+>> But it would be wonderful to see an alliance of reputable institutions
+>> like OKF putting together a concise, well-formulated rebuttal, and
+>> broadcasting it well beyond the confines of the OA community. Starting with
+>> the Letters column of The Economist.
+>>
+>> I completely agree. The Economist is widely read. But more importantly,
+>> the letter section is widely read and respected as well (MHO). A letter
+>> there from people with a bigger reputation than me would be the first step.
+>> Or perhaps a letter signed by the open knowledge foundation itself? (I have
+>> the feeling they would not accept a letter not signed by an individual).
+>>
+>> Quick survey says letters are ~300 words or less. Not sure what their
+>> criteria is, but 300 seems to be about the longest letter (maybe 350) based
+>> on a brief (non-scientific!) survey of a<http://www.economist.com/news/letters/21586511-our-capital-freeze-index-utah-chinese-banks-montessori-schools-biofuels-brazilian-foreign>
+>> few<http://www.economist.com/news/letters/21587182-biodiversity-software-jobs-unemployment>
+>> issues<http://www.economist.com/news/letters/21586273-syria-chemical-weapons-high-speed-rail-azerbaijan-italy-burials>
+>> .
+>>
+>> I think it would be important to get it in by yesterday. The economist is
+>> weekly and they often run criticisms of the past issue in the very next
+>> issue. Best to get it in while it is fresh on people's minds.
+>>
+>> What's next? Think Science would accept some sort of follow-up? Any other
+>> journals or major outlets?
+>>
+>> -Luke
+>>
+>>
+>> On 2013-10-08 10:15, Klaus Graf wrote:
+>>
+>>  The same nonsense you have written before.
+>>
+>> If I write an article on Tibet I do not have the duty to take the rest of
+>> the world as control group. "Really bad" is only what OA advocates do when
+>> ignoring uncomfortable truths.
+>>
+>>  Klaus Graf
+>>
+>>
+>> 2013/10/8 Mike Taylor <mike at indexdata.com>
+>>
+>>> There were indeed VERY serious flaws, and I'm a bit surprised that
+>>> anyone would claim not to be able to see them. I enumerated some of
+>>> them here:
+>>>
+>>> http://svpow.com/2013/10/07/anti-tutorial-how-to-design-and-execute-a-really-bad-study/
+>>>
+>>> On 8 October 2013 15:12, Graham Triggs <grahamtriggs at gmail.com> wrote:
+>>> > On 7 October 2013 19:33, Klaus Graf <klausgraf at googlemail.com> wrote:
+>>> >>
+>>> >> See also
+>>> >> http://archivalia.tumblr.com/tagged/openaccess
+>>> >>
+>>> >> I still cannot see serious flaws
+>>> >
+>>> >
+>>> > I'm not going to claim serious flaws in the methodology, or even in
+>>> what the
+>>> > article itself states. However, to accept it as an expose of OA alone
+>>> is a
+>>> > serious flaw.
+>>> >
+>>> > a) There is no comparative data for submissions to closed access
+>>> journals
+>>> > b) No attempt was made (or at least documented to have been made) to
+>>> obtain
+>>> > waivers for the APCs
+>>> >
+>>> > On that second point, the article was submitted with African
+>>> affiliations,
+>>> > which would have been cause to grant a waiver for any of the OA
+>>> publishers
+>>> > that operate such policies for lower income countries.
+>>> >
+>>> > Either, and preferably both, of these would have given indication as to
+>>> > whether the acceptances were driven by predatory desires to reap the
+>>> APCs.
+>>> > As it is, the Bohannon article is missing (at least) two critical
+>>> pieces of
+>>> > evidence, which means it is only telling half a story, at best.
+>>> >
+>>> > Besides, this is ultimately a largely self-correcting problem. Open
+>>> science
+>>> > can be discredited, journals will get reputations for being routinely
+>>> > discredited (Negative Impact Factors, if you will) and no serious
+>>> author
+>>> > with real results is going to want to publish in journals with a bad
+>>> > reputation. (And for any new authors that are not so well informed,
+>>> there
+>>> > should be appropriate support structures from their funders,
+>>> colleagues and
+>>> > institutions to avoid the problems).
+>>> >
+>>> > If predatory publishers remain, and a small number of authors can
+>>> afford to
+>>> > pay them to publish what they know to be crap, so be it. The only
+>>> danger of
+>>> > that is bogus studies being published in order to sell useless
+>>> products as
+>>> > being scientifically proven - but that's a consumer issue, not a
+>>> > research/science one.
+>>> >
+>>> > This would be a much more serious issue if credible journals that
+>>> command a
+>>> > good reputation were accepting nonsense to harvest APCs. But this study
+>>> > actually showed that they did not. And whilst anyone could make a
+>>> mistake,
+>>> > the respected journals aren't going to wave through poor articles -
+>>> because
+>>> > they would very quickly lose their reputation (and hence value, and
+>>> > revenue).
+>>> >
+>>> > G
+>>> >
+>>>   > _______________________________________________
+>>> > open-science mailing list
+>>> > open-science at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>> >
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing listopen-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+*
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | *http://linkedup-project.eu|
+@LinkedUpProjec<http://twitter.com/LinkedUpProject>
+*t* | linking data for education
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/64995a2b/attachment-0001.htm>
+
+From michelle.brook at okfn.org  Thu Oct 10 11:01:03 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Thu, 10 Oct 2013 12:01:03 +0200
+Subject: [Open-access] [open-science] Fake Cancer study published in 157
+ Open Access Journals
+In-Reply-To: <CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+References: <CABPM+wov8xXukMxK2uR8_wHw=Q+oSwckMG_UZu=8PKEqx=6YbA@mail.gmail.com>
+	<0E99D16BAAD86442AE952F2FB91AAAAC0119C75CA9@CERNXCHG12.cern.ch>
+	<CAD2k14MDZhsHkrAoWAkYAiD2hF=YZYCh3gVp1GYnT1VaCP7Qbg@mail.gmail.com>
+	<CADB6pjNQ5i=g28dNrt4ABxuJEpuUPH5a3Z2S7btcAVN8Q-cfNQ@mail.gmail.com>
+	<CAOoxy7KMTzHEjf9tSsqZSav2T0myFQJ9CuYW1dQ9i2FA1ZrRFQ@mail.gmail.com>
+	<CACnMvBZp9qOwuMNgkjPjF9NrBNSTpDHQGKtE2fshbcwzq50JiA@mail.gmail.com>
+	<CADB6pjOBCi+Xy57ebK5yc7etirW09ccw5j=Q7jfOJqpG1UwiiQ@mail.gmail.com>
+	<52542F11.3030509@wisc.edu>
+	<CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+Message-ID: <CABOTVX8jW_snpdphzcJQehhLE=0bJCX7gi=XQQsTPrX9kX8DJA@mail.gmail.com>
+
+Hey all,
+
+Thank you ever so much for this thread and the suggestion of writing a
+letter in to the Economist.
+
+Taking this idea on board, and some of the comments in this thread, I've
+quickly drafted a letter which can be found here:
+https://docs.google.com/a/okfn.org/document/d/17cj70QbpdHUVHzG5HpN5GC49Um29SPeVMimTExidRYQ/edit
+
+It would be great to get the thoughts from members of the community on this
+draft.
+
+We will submit the letter to the Economist, and sign it either from Rufus
+Pollock or Jonathan
+Gray (although possibly 'with support from the open science working group')
+as we need a CEO/Directors name on it.
+
+Best,
+Michelle
+
+
+On 10 October 2013 10:22, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+
+> Hi All
+>
+> I agree time is of the essence and have set up a googledoc, however I have
+> a morning in a molecular lab to look forward to and won't be able to
+> populate it until lunchtime - please feel free to plough ahead with
+> suggesting 300 words!
+>
+>
+> https://docs.google.com/document/d/1kgFHnG-HhstNbDE2AOX5LXNkqSOTyefy1LRpB2Rc328/edit#
+>
+> No matter what we think of this journalistic piece (as Francois points
+> out, it was never intended as a scientific study and appears in the News
+> section of Science) the message is reaching lots of people from high
+> profile media outlets that open access means poor quality research rather
+> than that some journals do poor peer review and APC business models are a
+> gift to fraudulent publishers, so I think we should make some sort of
+> statement with other organisations who are interested.
+>
+> I think the latter point raises some really interesting questions for a
+> social scientist to tackle with a well designed study, as Carl points out
+> in his earlier email:
+> "What is the greater potential concern here: that well-intentioned
+> authors are being deceived, or that demand from dishonest authors has
+> created a large market for dishonest publishers (possibly in an attempt to
+> deceive employers who assess their output by volume?)"
+>
+> Please pass this email onto other people who may be interested/tweet the
+> link to the document. Even better get them to sign up to the mailing list -
+> now accessible from the front page of the website for those who find
+> mailman pages a bit old school:
+> http://science.okfn.org/.
+>
+> Jenny
+>
+>
+> On Tue, Oct 8, 2013 at 5:13 PM, Luke Winslow <lawinslow at wisc.edu> wrote:
+>
+>>  Klaus. I now believe you are just trolling. Thanks for reminding me that
+>> the best way to deal with internet trolls is to not engage them.
+>>
+>>
+>> But it would be wonderful to see an alliance of reputable institutions
+>> like OKF putting together a concise, well-formulated rebuttal, and
+>> broadcasting it well beyond the confines of the OA community. Starting with
+>> the Letters column of The Economist.
+>>
+>> I completely agree. The Economist is widely read. But more importantly,
+>> the letter section is widely read and respected as well (MHO). A letter
+>> there from people with a bigger reputation than me would be the first step.
+>> Or perhaps a letter signed by the open knowledge foundation itself? (I have
+>> the feeling they would not accept a letter not signed by an individual).
+>>
+>> Quick survey says letters are ~300 words or less. Not sure what their
+>> criteria is, but 300 seems to be about the longest letter (maybe 350) based
+>> on a brief (non-scientific!) survey of a<http://www.economist.com/news/letters/21586511-our-capital-freeze-index-utah-chinese-banks-montessori-schools-biofuels-brazilian-foreign>
+>> few<http://www.economist.com/news/letters/21587182-biodiversity-software-jobs-unemployment>
+>> issues<http://www.economist.com/news/letters/21586273-syria-chemical-weapons-high-speed-rail-azerbaijan-italy-burials>
+>> .
+>>
+>> I think it would be important to get it in by yesterday. The economist is
+>> weekly and they often run criticisms of the past issue in the very next
+>> issue. Best to get it in while it is fresh on people's minds.
+>>
+>> What's next? Think Science would accept some sort of follow-up? Any other
+>> journals or major outlets?
+>>
+>> -Luke
+>>
+>>
+>> On 2013-10-08 10:15, Klaus Graf wrote:
+>>
+>>  The same nonsense you have written before.
+>>
+>> If I write an article on Tibet I do not have the duty to take the rest of
+>> the world as control group. "Really bad" is only what OA advocates do when
+>> ignoring uncomfortable truths.
+>>
+>>  Klaus Graf
+>>
+>>
+>> 2013/10/8 Mike Taylor <mike at indexdata.com>
+>>
+>>> There were indeed VERY serious flaws, and I'm a bit surprised that
+>>> anyone would claim not to be able to see them. I enumerated some of
+>>> them here:
+>>>
+>>> http://svpow.com/2013/10/07/anti-tutorial-how-to-design-and-execute-a-really-bad-study/
+>>>
+>>> On 8 October 2013 15:12, Graham Triggs <grahamtriggs at gmail.com> wrote:
+>>> > On 7 October 2013 19:33, Klaus Graf <klausgraf at googlemail.com> wrote:
+>>> >>
+>>> >> See also
+>>> >> http://archivalia.tumblr.com/tagged/openaccess
+>>> >>
+>>> >> I still cannot see serious flaws
+>>> >
+>>> >
+>>> > I'm not going to claim serious flaws in the methodology, or even in
+>>> what the
+>>> > article itself states. However, to accept it as an expose of OA alone
+>>> is a
+>>> > serious flaw.
+>>> >
+>>> > a) There is no comparative data for submissions to closed access
+>>> journals
+>>> > b) No attempt was made (or at least documented to have been made) to
+>>> obtain
+>>> > waivers for the APCs
+>>> >
+>>> > On that second point, the article was submitted with African
+>>> affiliations,
+>>> > which would have been cause to grant a waiver for any of the OA
+>>> publishers
+>>> > that operate such policies for lower income countries.
+>>> >
+>>> > Either, and preferably both, of these would have given indication as to
+>>> > whether the acceptances were driven by predatory desires to reap the
+>>> APCs.
+>>> > As it is, the Bohannon article is missing (at least) two critical
+>>> pieces of
+>>> > evidence, which means it is only telling half a story, at best.
+>>> >
+>>> > Besides, this is ultimately a largely self-correcting problem. Open
+>>> science
+>>> > can be discredited, journals will get reputations for being routinely
+>>> > discredited (Negative Impact Factors, if you will) and no serious
+>>> author
+>>> > with real results is going to want to publish in journals with a bad
+>>> > reputation. (And for any new authors that are not so well informed,
+>>> there
+>>> > should be appropriate support structures from their funders,
+>>> colleagues and
+>>> > institutions to avoid the problems).
+>>> >
+>>> > If predatory publishers remain, and a small number of authors can
+>>> afford to
+>>> > pay them to publish what they know to be crap, so be it. The only
+>>> danger of
+>>> > that is bogus studies being published in order to sell useless
+>>> products as
+>>> > being scientifically proven - but that's a consumer issue, not a
+>>> > research/science one.
+>>> >
+>>> > This would be a much more serious issue if credible journals that
+>>> command a
+>>> > good reputation were accepting nonsense to harvest APCs. But this study
+>>> > actually showed that they did not. And whilst anyone could make a
+>>> mistake,
+>>> > the respected journals aren't going to wave through poor articles -
+>>> because
+>>> > they would very quickly lose their reputation (and hence value, and
+>>> > revenue).
+>>> >
+>>> > G
+>>> >
+>>>   > _______________________________________________
+>>> > open-science mailing list
+>>> > open-science at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>> >
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing listopen-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+*
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | *http://linkedup-project.eu|
+@LinkedUpProjec<http://twitter.com/LinkedUpProject>
+*t* | linking data for education
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/d374e29d/attachment-0001.htm>
+
+From eric.f.vandevelde at gmail.com  Thu Oct 10 18:10:53 2013
+From: eric.f.vandevelde at gmail.com (Eric F. Van de Velde)
+Date: Thu, 10 Oct 2013 10:10:53 -0700
+Subject: [Open-access] Where the Puck won't be
+Message-ID: <CALQVpOGWeC7kHiD+DbQdeWjLTsdpBQNuCc9NZJ9o-513N9vpDw@mail.gmail.com>
+
+Green Open Access as a survival strategy for libraries:
+
+The academic library has, by default, tied its destiny to a service with no
+realistic prospects of long-term survival. It has become a systems
+integrator that stitches together outsourced components into a digital
+recreation of a paper-based library. This horseless carriage provides the
+same commodity service to an undergraduate student majoring in chemistry, a
+graduate student in economics, and a professor of literature. Because it
+overwhelms the library's budget, organizational structure, and
+decision-making processes, this expensive and inefficient service hampers
+innovation in areas that are the library's best hope for survival.
+
+Continue at
+http://scitechsociety.blogspot.com/2013/10/where-puck-wont-be.html
+
+http://scitechsociety.blogspot.com
+Twitter: @evdvelde
+
+E-mail: eric.f.vandevelde at gmail.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/61d4b604/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Oct 10 19:04:32 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 10 Oct 2013 19:04:32 +0100
+Subject: [Open-access] [open-science] Fake Cancer study published in 157
+ Open Access Journals
+In-Reply-To: <CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+References: <CABPM+wov8xXukMxK2uR8_wHw=Q+oSwckMG_UZu=8PKEqx=6YbA@mail.gmail.com>
+	<0E99D16BAAD86442AE952F2FB91AAAAC0119C75CA9@CERNXCHG12.cern.ch>
+	<CAD2k14MDZhsHkrAoWAkYAiD2hF=YZYCh3gVp1GYnT1VaCP7Qbg@mail.gmail.com>
+	<CADB6pjNQ5i=g28dNrt4ABxuJEpuUPH5a3Z2S7btcAVN8Q-cfNQ@mail.gmail.com>
+	<CAOoxy7KMTzHEjf9tSsqZSav2T0myFQJ9CuYW1dQ9i2FA1ZrRFQ@mail.gmail.com>
+	<CACnMvBZp9qOwuMNgkjPjF9NrBNSTpDHQGKtE2fshbcwzq50JiA@mail.gmail.com>
+	<CADB6pjOBCi+Xy57ebK5yc7etirW09ccw5j=Q7jfOJqpG1UwiiQ@mail.gmail.com>
+	<52542F11.3030509@wisc.edu>
+	<CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+Message-ID: <CAD2k14Mo-HNy2_kqy7kUgV9itTD_LqjW8Eq9H-b1hro5TGKNfQ@mail.gmail.com>
+
+My deep concern about the Bohannon sting is not the methodology but the
+motivation. This reads exactly like the "dirty tricks" of PRISM/AAP and
+Dezenhall in 2007 where the AAP (to which AAAS belongs) paid a consultant
+to discredit OA. "Open Access is junk science".
+
+I have blogged my concerns and some links at* *
+http://blogs.ch.cam.ac.uk/pmr/2013/10/10/the-bohannon-sting-can-we-trust-aaasscience-or-is-this-prism-reemerging-from-the-grave/
+*
+
+*
+I shall try to ask this to the Science journalists later today in the video
+conference.
+*
+*
+*
+*
+
+
+On Thu, Oct 10, 2013 at 9:22 AM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Hi All
+>
+> I agree time is of the essence and have set up a googledoc, however I have
+> a morning in a molecular lab to look forward to and won't be able to
+> populate it until lunchtime - please feel free to plough ahead with
+> suggesting 300 words!
+>
+>
+> https://docs.google.com/document/d/1kgFHnG-HhstNbDE2AOX5LXNkqSOTyefy1LRpB2Rc328/edit#
+>
+> No matter what we think of this journalistic piece (as Francois points
+> out, it was never intended as a scientific study and appears in the News
+> section of Science) the message is reaching lots of people from high
+> profile media outlets that open access means poor quality research rather
+> than that some journals do poor peer review and APC business models are a
+> gift to fraudulent publishers, so I think we should make some sort of
+> statement with other organisations who are interested.
+>
+> I think the latter point raises some really interesting questions for a
+> social scientist to tackle with a well designed study, as Carl points out
+> in his earlier email:
+> "What is the greater potential concern here: that well-intentioned
+> authors are being deceived, or that demand from dishonest authors has
+> created a large market for dishonest publishers (possibly in an attempt to
+> deceive employers who assess their output by volume?)"
+>
+> Please pass this email onto other people who may be interested/tweet the
+> link to the document. Even better get them to sign up to the mailing list -
+> now accessible from the front page of the website for those who find
+> mailman pages a bit old school:
+> http://science.okfn.org/.
+>
+> Jenny
+>
+>
+> On Tue, Oct 8, 2013 at 5:13 PM, Luke Winslow <lawinslow at wisc.edu> wrote:
+>
+>>  Klaus. I now believe you are just trolling. Thanks for reminding me that
+>> the best way to deal with internet trolls is to not engage them.
+>>
+>>
+>> But it would be wonderful to see an alliance of reputable institutions
+>> like OKF putting together a concise, well-formulated rebuttal, and
+>> broadcasting it well beyond the confines of the OA community. Starting with
+>> the Letters column of The Economist.
+>>
+>> I completely agree. The Economist is widely read. But more importantly,
+>> the letter section is widely read and respected as well (MHO). A letter
+>> there from people with a bigger reputation than me would be the first step.
+>> Or perhaps a letter signed by the open knowledge foundation itself? (I have
+>> the feeling they would not accept a letter not signed by an individual).
+>>
+>> Quick survey says letters are ~300 words or less. Not sure what their
+>> criteria is, but 300 seems to be about the longest letter (maybe 350) based
+>> on a brief (non-scientific!) survey of a<http://www.economist.com/news/letters/21586511-our-capital-freeze-index-utah-chinese-banks-montessori-schools-biofuels-brazilian-foreign>
+>> few<http://www.economist.com/news/letters/21587182-biodiversity-software-jobs-unemployment>
+>> issues<http://www.economist.com/news/letters/21586273-syria-chemical-weapons-high-speed-rail-azerbaijan-italy-burials>
+>> .
+>>
+>> I think it would be important to get it in by yesterday. The economist is
+>> weekly and they often run criticisms of the past issue in the very next
+>> issue. Best to get it in while it is fresh on people's minds.
+>>
+>> What's next? Think Science would accept some sort of follow-up? Any other
+>> journals or major outlets?
+>>
+>> -Luke
+>>
+>>
+>> On 2013-10-08 10:15, Klaus Graf wrote:
+>>
+>>  The same nonsense you have written before.
+>>
+>> If I write an article on Tibet I do not have the duty to take the rest of
+>> the world as control group. "Really bad" is only what OA advocates do when
+>> ignoring uncomfortable truths.
+>>
+>>  Klaus Graf
+>>
+>>
+>> 2013/10/8 Mike Taylor <mike at indexdata.com>
+>>
+>>> There were indeed VERY serious flaws, and I'm a bit surprised that
+>>> anyone would claim not to be able to see them. I enumerated some of
+>>> them here:
+>>>
+>>> http://svpow.com/2013/10/07/anti-tutorial-how-to-design-and-execute-a-really-bad-study/
+>>>
+>>> On 8 October 2013 15:12, Graham Triggs <grahamtriggs at gmail.com> wrote:
+>>> > On 7 October 2013 19:33, Klaus Graf <klausgraf at googlemail.com> wrote:
+>>> >>
+>>> >> See also
+>>> >> http://archivalia.tumblr.com/tagged/openaccess
+>>> >>
+>>> >> I still cannot see serious flaws
+>>> >
+>>> >
+>>> > I'm not going to claim serious flaws in the methodology, or even in
+>>> what the
+>>> > article itself states. However, to accept it as an expose of OA alone
+>>> is a
+>>> > serious flaw.
+>>> >
+>>> > a) There is no comparative data for submissions to closed access
+>>> journals
+>>> > b) No attempt was made (or at least documented to have been made) to
+>>> obtain
+>>> > waivers for the APCs
+>>> >
+>>> > On that second point, the article was submitted with African
+>>> affiliations,
+>>> > which would have been cause to grant a waiver for any of the OA
+>>> publishers
+>>> > that operate such policies for lower income countries.
+>>> >
+>>> > Either, and preferably both, of these would have given indication as to
+>>> > whether the acceptances were driven by predatory desires to reap the
+>>> APCs.
+>>> > As it is, the Bohannon article is missing (at least) two critical
+>>> pieces of
+>>> > evidence, which means it is only telling half a story, at best.
+>>> >
+>>> > Besides, this is ultimately a largely self-correcting problem. Open
+>>> science
+>>> > can be discredited, journals will get reputations for being routinely
+>>> > discredited (Negative Impact Factors, if you will) and no serious
+>>> author
+>>> > with real results is going to want to publish in journals with a bad
+>>> > reputation. (And for any new authors that are not so well informed,
+>>> there
+>>> > should be appropriate support structures from their funders,
+>>> colleagues and
+>>> > institutions to avoid the problems).
+>>> >
+>>> > If predatory publishers remain, and a small number of authors can
+>>> afford to
+>>> > pay them to publish what they know to be crap, so be it. The only
+>>> danger of
+>>> > that is bogus studies being published in order to sell useless
+>>> products as
+>>> > being scientifically proven - but that's a consumer issue, not a
+>>> > research/science one.
+>>> >
+>>> > This would be a much more serious issue if credible journals that
+>>> command a
+>>> > good reputation were accepting nonsense to harvest APCs. But this study
+>>> > actually showed that they did not. And whilst anyone could make a
+>>> mistake,
+>>> > the respected journals aren't going to wave through poor articles -
+>>> because
+>>> > they would very quickly lose their reputation (and hence value, and
+>>> > revenue).
+>>> >
+>>> > G
+>>> >
+>>>   > _______________________________________________
+>>> > open-science mailing list
+>>> > open-science at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>> >
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing listopen-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/3badb0db/attachment.htm>
+
+From laurence.bianchini at mysciencework.com  Thu Oct 10 10:33:51 2013
+From: laurence.bianchini at mysciencework.com (Laurence Bianchini)
+Date: Thu, 10 Oct 2013 11:33:51 +0200
+Subject: [Open-access] [open-science] Program of the Open Access Week 2013
+In-Reply-To: <CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+References: <CABPM+wov8xXukMxK2uR8_wHw=Q+oSwckMG_UZu=8PKEqx=6YbA@mail.gmail.com>
+	<0E99D16BAAD86442AE952F2FB91AAAAC0119C75CA9@CERNXCHG12.cern.ch>
+	<CAD2k14MDZhsHkrAoWAkYAiD2hF=YZYCh3gVp1GYnT1VaCP7Qbg@mail.gmail.com>
+	<CADB6pjNQ5i=g28dNrt4ABxuJEpuUPH5a3Z2S7btcAVN8Q-cfNQ@mail.gmail.com>
+	<CAOoxy7KMTzHEjf9tSsqZSav2T0myFQJ9CuYW1dQ9i2FA1ZrRFQ@mail.gmail.com>
+	<CACnMvBZp9qOwuMNgkjPjF9NrBNSTpDHQGKtE2fshbcwzq50JiA@mail.gmail.com>
+	<CADB6pjOBCi+Xy57ebK5yc7etirW09ccw5j=Q7jfOJqpG1UwiiQ@mail.gmail.com>
+	<52542F11.3030509@wisc.edu>
+	<CABPM+wq3gzn4OGU+E3ZLZ_0MVaDp5objFYygSHE2rDeiSWyJaQ@mail.gmail.com>
+Message-ID: <3CCDD036-AE9C-4327-B5BB-0CC381B011F4@mysciencework.com>
+
+Hello,
+
+The Open Access Week 2013 will take place in less than 2 weeks now! There's a very nice program this year in Paris and the events will all be livestreamed and livetweeted.
+Here below is the presentation of the events. We really need help to communicate about this program and about the live-streams that will be available at http://www.mysciencework.com/fr/open-access-week
+
+- program and subscription http://www.mysciencework.com/fr/open-access-week
+- the poster is attached to that email
+- livetweet will be made following the hashtag #OAW13
+- the announcement :
+
+Discover the Programme for Open Access Week 2013!
+
+Three Parisian evenings under the auspices of the orange padlock ? 21, 23 and 24 October ? at prestigious locations of dissemination of knowledge! Three events broadcast online and on the social networks, plus practical workshops.
+
+Information, registration and streaming: http://www.mysciencework.com/en/open-access-week
+
+Open Access Week, an international event in its 7th year, is an opportunity for the scientific community and civil society to discover and discuss the implications of open access.
+
+Participate in Open Access Week and celebrate access for all to scientific knowledge!
+
+
+
+Laurence Bianchini, PhD 
+Partnership Director, Science Journalist
++352 278 428 430
+
++33 (0) 6 59 08 66 81 
+ @BianchiniPhD
+laurence.bianchini at mysciencework.com
+
+MyScienceWork
+Research Network
+www.mysciencework.com
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/235cb066/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Poster OAW A3.jpg
+Type: image/jpeg
+Size: 1357752 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/235cb066/attachment-0001.jpg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: cleardot.gif
+Type: image/gif
+Size: 43 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131010/235cb066/attachment-0001.gif>
+
+From laurence.bianchini at mysciencework.com  Mon Oct 14 10:11:21 2013
+From: laurence.bianchini at mysciencework.com (Laurence Bianchini)
+Date: Mon, 14 Oct 2013 11:11:21 +0200
+Subject: [Open-access]  [open-science] Open Access Week 2013
+Message-ID: <90C5432F-5825-4ECB-B44B-77362EAD2C05@mysciencework.com>
+
+Hello,
+
+The Open Access Week 2013 will take place in less than 2 weeks now! There's a very nice program this year in Paris and the events will all be livestreamed and livetweeted.
+Here below is the presentation of the events. We really need help to communicate about this program and about the live-streams that will be available at http://www.mysciencework.com/fr/open-access-week
+
+- program and subscription http://www.mysciencework.com/fr/open-access-week
+- the poster available here https://drive.google.com/#folders/0B_r58DhrQuttTktpTFJxR3Q5RXc
+- livetweet will be made following the hashtag #OAW13
+- the announcement :
+
+Discover the Programme for Open Access Week 2013!
+
+Three Parisian evenings under the auspices of the orange padlock ? 21, 23 and 24 October ? at prestigious locations of dissemination of knowledge! Three events broadcast online and on the social networks, plus practical workshops.
+
+Information, registration and streaming: http://www.mysciencework.com/en/open-access-week
+
+Open Access Week, an international event in its 7th year, is an opportunity for the scientific community and civil society to discover and discuss the implications of open access.
+
+Participate in Open Access Week and celebrate access for all to scientific knowledge!
+
+
+Laurence Bianchini, PhD 
+Partnership Director, Science Journalist
++352 278 428 430
+
++33 (0) 6 59 08 66 81 /+
+
+ @BianchiniPhD
+laurence.bianchini at mysciencework.com
+
+MyScienceWork
+Global Research Community
+www.mysciencework.com
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20131014/73013253/attachment.htm>
+

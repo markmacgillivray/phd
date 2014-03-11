@@ -1,0 +1,4546 @@
+From mike at indexdata.com  Sun Sep  1 08:51:06 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Sun, 1 Sep 2013 08:51:06 +0100
+Subject: [Open-access] [okfn-labs] Open Access Button Hackday 7-8th
+ September! Sign up!
+In-Reply-To: <CAPKcAuiMXsn-PE-dWHMS4Y-mWb=P-MCV5BJD3xuPhPESCZnKwA@mail.gmail.com>
+References: <CAPKcAuhYX=rjdpxj_-KhHiwZD8WCZs2dak3Q0j+GE8UzXkF9cA@mail.gmail.com>
+	<CABPM+woK2FnQfxNpSFRoV_s18mTDbH=HvXyEwcT2-rUP0pD5Hg@mail.gmail.com>
+	<CAD2k14PrX9dTVa=yWAX3L3EC103cbAZ-G27J6Odv52YPKhfeNA@mail.gmail.com>
+	<CAPKcAuiMXsn-PE-dWHMS4Y-mWb=P-MCV5BJD3xuPhPESCZnKwA@mail.gmail.com>
+Message-ID: <CACnMvBaU9SA9i3_NEPY-kkS90OkhxDOkcAz6s4TaJ6Qy9PcD5A@mail.gmail.com>
+
+Hi, Joe. My apologies that Who Needs Access has been stalled recently
+-- I have just had so much else going on that I've not found the time
+to do more interviews. It's still the case that we're really keen to
+have other people also creating articles on that site, so if you'd
+like to contribute some, they would be very welcome.
+
+I am delighted to think our site played some role in catalysing the
+OAB project. Keep up the good work!
+
+-- Mike.
+
+
+
+
+
+On 29 August 2013 14:55, Open Access Button <oabutton at gmail.com> wrote:
+> Hi Jenny!
+>
+> Thanks for cc'ing! We know about, and love Who Needs Access! In fact we
+> spoke about it very early in the project - the personal story aspect of our
+> idea actually probably has it's inspiration from there. We haven't spoken
+> about it recently but I think a collaboration there would be very natural.
+>
+> At the moment we're just trying to get it up and running in a form which is
+> feasible for users! Hence why we need the hackathon (once again please sign
+> up even if you'd like to hack remotely)
+>
+> Great Peter! We'll release location soon, just seeing if we can get C4CC or
+> if we're going to use our back-up. That's one reason why it's important to
+> sign up!
+>
+> Thanks,
+>
+> Joe
+>
+>
+> On 29 August 2013 10:54, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>> Greetings,
+>> Great idea - where is it?
+>> (I can probably come on Sunday only)
+>>
+>> P.
+>>
+>>
+>>
+>> On Thu, Aug 29, 2013 at 9:55 AM, Jenny Molloy <jenny.molloy at okfn.org>
+>> wrote:
+>>>
+>>> Hi Joe and David
+>>>
+>>> Great idea! I'm copying in the open science and open access mailing lists
+>>> as well, Mike Taylor who is a member of these lists started a site called
+>>> Who Needs Access? http://whoneedsaccess.org/ containing interviews and
+>>> features on people who have been hindered by a lack of access to research
+>>> (as well as those who have been helped by open access). Perhaps there might
+>>> be scope for combining our efforts and helping out on your initiative!
+>>>
+>>> Jenny
+>>>
+>>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>
+>
+>
+>
+> --
+> Open Access Project Lead : Twitter : Blog : Github : Google Group :
+> Medsin-UK is a registered charity tackling global and local health
+> inequalities. Registered charity number: 1111824
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+
+
+From sanglorian at gmail.com  Mon Sep  2 01:44:05 2013
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Mon, 2 Sep 2013 10:44:05 +1000
+Subject: [Open-access] [FC-discuss] FOSsil Bank Update (31 August 2013)
+In-Reply-To: <CA+QewsPgW3jGwOWS9ZfaLfS4bHor=2qtU6t0Cd05ER-7rh=Pcg@mail.gmail.com>
+References: <CAMuj-e++tPwKjfTyVd=F+g_S93-bLg2h_fAbq30Fi0HnKx1Y0g@mail.gmail.com>
+	<CA+QewsPgW3jGwOWS9ZfaLfS4bHor=2qtU6t0Cd05ER-7rh=Pcg@mail.gmail.com>
+Message-ID: <CAMuj-eJdtcwDe3H7AcSqjT_o8475gnbxVYwrziQrWRsm2uu8_g@mail.gmail.com>
+
+Hey Sage,
+
+Good question!
+
+Each time I put together the update, I check the #FundFreeCulture hashtag -
+so if you tweet using that tag, I should pick it up.
+
+You could also email me directly, and I'll make sure to retweet and include
+it in the update.
+
+Finally, if it's a Creative Commons licensed Kickstarter project, get in
+touch with Creative Commons (ATTN Elliot) and they'll put it up on their
+page.
+
+Cheers,
+Chris
+
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+
+
+On 31 August 2013 21:45, Sage Ross <sage at ragesoss.com> wrote:
+
+> I'm mainly interested in contributing to the #FundFreeCulture section.
+> What's the best way to do that?
+>
+> Here are the projects I've supported recently that I would add:
+>
+> Mailpile, a project to make email encryption user-friendly and beautiful.
+> http://www.indiegogo.com/projects/mailpile-taking-e-mail-back
+>
+> apngasm, a project to make better software for creating animated PNG files
+> (and banish the scourge of animated gifs that afflict us currently).
+>
+> http://www.kickstarter.com/projects/374397522/apngasm-foss-animated-png-tools-and-apng-standardi
+>
+> Replicant, FSF's project to make CyanogenMod Android usable without
+> proprietary drivers.
+> https://crm.fsf.org/civicrm/contribute/transact?reset=1&id=19
+>
+> -Sage
+>
+> On Aug 31, 2013 2:35 AM, "Chris Sakkas" <sanglorian at gmail.com> wrote:
+> >
+> > Well, it?s been a long time since the last update! There?s a lot of
+> stuff this time, and it?s heavily skewed towards free, libre and open
+> (because that?s the content that I can be bothered creating entries for).
+> >
+> > Permanent version:
+> http://livinglibre1.wordpress.com/2013/08/31/fossil-bank-update-31-august/
+> >
+> > Brief Survey
+> >
+> > Hi folks,
+> >
+> > I?d appreciate it if you could answer these two questions for me ?
+> either on this list, or email directly to me.
+> >
+> > What is stopping you from contributing to FOSsil Bank?
+> > When I set up the FOSsil Bank, I expected members of the community to
+> contribute to the catalogue. After a few years, about 99% of the 1000+
+> entries were added by me. I don?t resent this, but I?d like to get more
+> involvement from others.
+> >
+> > Does having the raw links instead of hyperlinks change your experience?
+> > It?s a bit faster for me to copy-paste the URL rather than set up a
+> hyperlink. But if that reduces readability, I?ll change back.
+> >
+> > #FundFreeCulture
+> >
+> > Tupi is 2D animation software on Kickstarter. (GNU GPL; 26 days to go;
+> $1,939/$30,000):
+> http://www.kickstarter.com/projects/175927790/tupi-2d-animation-software-for-everyone
+> >
+> > App-Make-inator from Lunduke is on Bountysource. (GNU GPL; 25 days to
+> go; $248/$3,500): https://www.bountysource.com/fundraisers/468
+> >
+> > Josh Woodward is on Patreon. He?s already created two songs, and we
+> could always do with more! (CC BY; $202.65/song):
+> http://www.patreon.com/joshwoodward
+> >
+> > Stick?s Masterpiece sadly failed to fund on Kickstarter. However, you
+> can buy it from their website. (CC BY-SA; $2,129/$7,700):
+> http://www.kickstarter.com/projects/256329797/sticks-masterpiece-hardcover-childrens-book;
+> http://brotherswhim.com/product/sticks-masterpiece-hardcover-book
+> >
+> > Terry Hancock?s Lunatics pilot episode sadly failed to fund on
+> Kickstarter. (CC BY-SA; $2,081/$42,000):
+> http://www.kickstarter.com/projects/2144275086/finish-lunatics-pilot-episode
+> >
+> > The Open Bundle was successfully funded. ($12,088/$10,000)
+> http://open.commonly.cc/
+> >
+> > Librivox?s fundraising drive is over, but they could always use more!
+> http://librivox.org/2013/07/03/librivox-needs-your-help-2/
+> >
+> > The second Future of Copyright Contest on IndieGoGo made it. (CC
+> BY-SA; $1,056/$500)
+> >
+> > Data Dealer is an online game about collecting and selling personal
+> data. It was successful (CC BY-SA; $28,720/$50,362)
+> >
+> > New Free, Libre and Open Works
+> > My Projects
+> >
+> > A Free, Libre and Open Glossary (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:a-free-libre-and-open-glossary
+> >
+> > Future of Copyright 2.0 is a collection of fiction and non-fiction on
+> copyright; I submitted a short story (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:future-of-copyright-2-0
+> >
+> > Music and Radio
+> >
+> > TINT is a sports podcast (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:tint
+> >
+> > Doug Whitfield is a free culture advocate, host of TINT and a
+> photographer (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:doug-whitfield
+> >
+> > Copyleft Song is a metal song about why libre is so important (CC
+> BY-SA): http://fossilbank.wikidot.com/entry:copyleft-notice
+> >
+> > Jonathan Coulton?s only free/libre/open song, Wikipedia Chanukah, is a
+> reading of the Wikipedia article (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:wikipedia-chanukah
+> >
+> > Unseen Studio is a podcast network promoting Creative Commons culture
+> and open source software (plays libre and proprietary music):
+> http://fossilbank.wikidot.com/entry:unseen-studio
+> >
+> > CC-licensed music, 24/7 with RynoTheBearded (plays libre and proprietary
+> music): http://fossilbank.wikidot.com/entry:rynothebearded
+> >
+> > CCHits plays Creative Commons music based on public preferences (libre
+> and proprietary): http://fossilbank.wikidot.com/entry:cchits
+> >
+> > Rathole Radio is a fortnightly Internet radio show (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:rathole-radio
+> >
+> > MMO is a catchy band (CC BY-SA): http://fossilbank.wikidot.com/entry:mmo
+> >
+> > Information
+> >
+> > The Foundations for an Open Source City is a book on how Raleigh, NC,
+> became an ?open source city?. (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:the-foundations-for-an-open-source-city
+> >
+> > Diagonal is a Spanish language periodical (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:diagonal
+> >
+> > The Data Journalism Handbook is now available in French, Spanish and
+> Russian (CC BY-SA):
+> http://fossilbank.wikidot.com/work:data-journalism-handbook
+> >
+> > OpenChem is an entire chemistry curriculum (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:openchem
+> >
+> > New Education Highway is a non-profit working with OER and local
+> educators (CC BY):
+> http://fossilbank.wikidot.com/entry:new-education-highway
+> >
+> > A discussion of OER in Perspectives on Open and Distance Learning (CC
+> BY-SA):
+> http://fossilbank.wikidot.com/entry:perspectives-on-open-and-distance-learning
+> >
+> > Choosing an OSS License Doesn?t Need to be Scary is a Github initiative
+> (CC BY):
+> http://fossilbank.wikidot.com/entry:choosing-an-oss-license-doesnt-need-to-be-scary
+> >
+> > Right to Music advocates for free, fair and independent music (CC
+> BY-SA): http://fossilbank.wikidot.com/entry:right-to-music
+> >
+> > Lawrence Liang is a lawyer who has writtten about free culture (CC BY;
+> CC BY-NC-SA): http://fossilbank.wikidot.com/entry:lawrence-liang
+> >
+> > He wrote A Guide to Open Content Licenses (CC BY-NC-SA):
+> http://fossilbank.wikidot.com/entry:a-guide-to-open-content-licenses
+> >
+> > The Australian Census data from 2011 (CC BY):
+> http://fossilbank.wikidot.com/entry:australian-census-2011
+> >
+> > Trolling Effects is a resource for those sued by patent trolls (CC BY):
+> http://fossilbank.wikidot.com/entry:trolling-effects
+> >
+> > Film and Video
+> >
+> > The Nordic CC Film Festival highlights a lot of terrific films (all CC
+> licences): http://fossilbank.wikidot.com/entry:nordic-cc-film-festival
+> >
+> > Living Room is a musical stop-motion short film about the secret life of
+> chewing gum (CC BY-SA): http://fossilbank.wikidot.com/entry:living-room
+> >
+> > Free Fall is a short film about a boy who dreams of being an astronaut
+> (CC BY): http://fossilbank.wikidot.com/entry:free-fall
+> >
+> > Deconstructing Masculinity is a film about gender norms (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:deconstructing-masculinity
+> >
+> > Las Calles Hablan is a movie about Barcelona street art (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:las-calles-hablan
+> >
+> > A documentary on open programming languages, Hello World (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:hello-world
+> >
+> > Caminades is a very short and funny animated film about a llama trying
+> to cross a busy road (CC BY):
+> http://fossilbank.wikidot.com/entry:caminades
+> >
+> > Big Buck Bunny Loves Creative Commons explains why CC is so important
+> (CC BY):
+> http://fossilbank.wikidot.com/entry:big-buck-bunny-loves-creative-commons
+> >
+> > Tube is the first independent Blender movie (CC BY):
+> http://fossilbank.wikidot.com/entry:tube
+> >
+> > Art and Literature
+> >
+> > Successfully ransomed, the Open Game Art Bundle can now be downloaded by
+> any person (CC0):
+> http://fossilbank.wikidot.com/entry:the-open-game-art-bundle
+> >
+> > Photos by Joi Ito and writings from others in FreeSouls.cc (CC BY):
+> http://fossilbank.wikidot.com/entry:freesouls
+> >
+> > The Brothers Whim create beautiful children?s picture books (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:brothers-whim
+> >
+> > The Comic Strip Library is a library of public domain comic strips
+> (public domain):
+> http://fossilbank.wikidot.com/entry:the-comic-strip-library
+> >
+> > Hoborg is an experiment in crowdsourced fiction writing (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:hoborg
+> >
+> > Software
+> >
+> > Find free, libre and open replacements to software on Prism Break (GNU
+> GPL): (http://fossilbank.wikidot.com/entry:prism-break
+> >
+> > The server-side code to the Estonian electronic voting system is
+> available for scrutiny (CC BY-NC-ND):
+> http://fossilbank.wikidot.com/entry:evalimine
+> >
+> > KA Lite is software that allows Khan Academy videos to be watched
+> offline (MIT License): http://fossilbank.wikidot.com/entry:ka-lite
+> >
+> > pdfreaders.org is a collection of free, libre and open PDF readers
+> (libre): http://fossilbank.wikidot.com/entry:pdfreaders-org
+> >
+> > Electronic Games
+> >
+> > Moonshades is a dungeon-crawling computer game you can play online (CC
+> BY): http://fossilbank.wikidot.com/entry:moonshades
+> >
+> > Bryan Lunduke designs electronic games for a living (GNU GPL, CC BY-SA):
+> http://fossilbank.wikidot.com/entry:lunduke
+> >
+> > Tabletop Games
+> >
+> > E6 is ?the game inside D&D?; a simpler, low-level-only version of the
+> game (OGL): http://fossilbank.wikidot.com/entry:e6
+> >
+> > A Spark in Fate Core brings collaborative worldbuilding to the Fate
+> roleplaying game (CC BY):
+> http://fossilbank.wikidot.com/entry:a-spark-in-fate-core
+> >
+> > Men of Stones is a Shakespeare-inspired tabletop game (OGL):
+> http://fossilbank.wikidot.com/entry:men-of-stones
+> >
+> > Pantheon is a storytelling game about a hero?s journey and the gods
+> (public domain): http://fossilbank.wikidot.com/entry:pantheon
+> >
+> > Quick-Play is a simple, generic RPG (public domain):
+> http://fossilbank.wikidot.com/entry:quick-play
+> >
+> > Destiny Dice mixes up the dice used in the Fate RPG (CC BY):
+> http://fossilbank.wikidot.com/entry:destiny-dice
+> >
+> > Weird World is an RPG based on Apocalypse World (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:weird-world
+> >
+> > Beyond Belief Games has converted Swords & Wizardry to other settings
+> (OGL): http://fossilbank.wikidot.com/entry:beyond-belief-games
+> >
+> > Phantom 52 is a supernatural RPG (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:phantom-52
+> >
+> > Johnstone Metzger has written books for the Dungeon World RPG (CC BY-SA;
+> CC BY-NC): http://fossilbank.wikidot.com/entry:johnstone-metzger
+> >
+> > Non-FLO
+> >
+> > The Accessible Icon Symbol would like to use a more dynamic disabled
+> access symbol (CC BY-NC-SA):
+> http://fossilbank.wikidot.com/entry:the-accessible-icon-project
+> >
+> > Ampersand is a political, progressive comic (CC BY-NC-SA):
+> http://fossilbank.wikidot.com/entry:ampersand
+> >
+> > Autodesk has licensed its support (CC BY-NC-ND; CC BY-NC-SA):
+> http://fossilbank.wikidot.com/entry:autodesk
+> >
+> > ---
+> >
+> > Cheers,
+> >
+> > Chris
+> >
+> > Chris Sakkas
+> > Admin of the FOSsil Bank wiki and the Living Libre blog and Twitter feed.
+> >
+> > _______________________________________________
+> > Discuss mailing list
+> > Discuss at freeculture.org
+> > http://lists.freeculture.org/mailman/listinfo/discuss
+> > FAQ: http://wiki.freeculture.org/Fc-discuss
+> >
+>
+>
+> _______________________________________________
+> Discuss mailing list
+> Discuss at freeculture.org
+> http://lists.freeculture.org/mailman/listinfo/discuss
+> FAQ: http://wiki.freeculture.org/Fc-discuss
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130902/6c92228c/attachment-0001.htm>
+
+From klausgraf at googlemail.com  Tue Sep  3 15:08:40 2013
+From: klausgraf at googlemail.com (Klaus Graf)
+Date: Tue, 3 Sep 2013 16:08:40 +0200
+Subject: [Open-access] CC-BY
+Message-ID: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+
+http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+
+Thoughts?
+
+Klaus Graf
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/57beefe1/attachment.htm>
+
+From laurent.romary at inria.fr  Tue Sep  3 15:55:19 2013
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Tue, 3 Sep 2013 16:55:19 +0200
+Subject: [Open-access] CC-BY
+In-Reply-To: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+Message-ID: <801DC7AE-FC27-422C-89CB-C5AE2ED2E039@inria.fr>
+
+Well. It reflects the infelicitous conflation between the licensing debate (= how to get to an open knowledge society) and the APC vs. subscription tension. We are in a situation (e.g. in this list) where the latter prevents a real analysis of what we, scholars, may want as an optimal model for disseminating research results at large.
+Laurent
+
+Le 3 sept. 2013 ? 16:08, Klaus Graf a ?crit :
+
+> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+> 
+> Thoughts?
+> 
+> Klaus Graf
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+
+Laurent Romary
+INRIA & HUB-IDSL
+laurent.romary at inria.fr
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/d56efb47/attachment.htm>
+
+From klausgraf at googlemail.com  Tue Sep  3 18:27:31 2013
+From: klausgraf at googlemail.com (Klaus Graf)
+Date: Tue, 3 Sep 2013 19:27:31 +0200
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+Message-ID: <CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+
+I cannot see the NSA context of CC-BY, sorry.
+
+There was no copyright in the middle ages and a lot of fruitful plagiarism.
+May I remember to my thoughts at
+
+http://jlsc-pub.org/jlsc/vol1/iss1/5/
+
+CC-BY-ND blocks translations and other derivative works.
+
+CC-BY-NC blocks scholarly use in commercial context e.g. use in the most
+(commercial) e-journals.
+
+Klaus Graf
+
+
+2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+
+> This argument appears to reflect a position of technological determinism
+> which I reject - the idea that we are helpless to do anything but adapt to
+> advancing technology. The key problem with this argument is that it is we
+> humans that create the technology, and we have the ability to shape it.
+>
+> Another example of this kind of argument that people are thankfully
+> beginning to question, is the idea that now that we have the internet it is
+> ridiculous to think that there is any notion of privacy and the
+> accompanying idea that society both can and does accept this.
+>
+> Snowden's revelations of NSA surveillance are such a good illustration of
+> the dangers of this loss of privacy that people are beginning to take
+> notice and say that yes, we do want privacy in the online environment.
+> Humans are not helpless with respect to this technology; we created it, and
+> we can shape it future.
+>
+> This perspective is essential to the work of advocates for open access,
+> open science, a free and open internet. We work for this (I think) because
+> we perceive this as a desirable potential of the internet, and we do not
+> believe that this potential will be achieved by sitting back and watching
+> the technology unfold, but rather because we think action is both necessary
+> and desirable.
+>
+> If you're interested in the social shaping of technology, you might want
+> to read some of Andrew Feenberg, e.g. Questioning Technology or
+> Transforming Technology.
+>
+> ~ my two bits ~ thoughts?
+>
+> Heather Morrison
+>
+>
+> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+>
+> > This kind of thing has been happening for a while. It is a natural
+> consequence of open licenses. Wikipedia has been re-packaged and sold many
+> times. While I can't find an example, popular open source software has
+> fallen prey from time to time, being repackaged and sold to uninformed
+> consumers who don't realize there are cost-free versions available.
+> >
+> > I would argue this new world requires more of the consumer. Be savvy. Do
+> a little google research. There's no going back to simpler times, the
+> complexity is here to stay.
+> >
+> > -Luke
+> >
+> > On 2013-09-03 9:08 AM, Klaus Graf wrote:
+> >> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+> >>
+> >> Thoughts?
+> >>
+> >> Klaus Graf
+> >>
+> >>
+> >> _______________________________________________
+> >> open-science mailing list
+> >>
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >>
+> >> Unsubscribe:
+> >> http://lists.okfn.org/mailman/options/open-science
+> >
+> > --
+> > Limnology and Marine Science
+> > University of Wisconsin - Madison
+> >
+> > Mailing Address:
+> > 680 N. Park St.
+> > Madison, WI 53706
+> >
+> > Skype: lawinslow
+> > Web: http://www.bookofluke.org
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+> --
+> Dr. Heather Morrison
+> Assistant Professor
+> ?cole des sciences de l'information / School of Information Studies
+> University of Ottawa
+>
+> http://www.sis.uottawa.ca/faculty/hmorrison.html
+> Heather.Morrison at uottawa.ca
+>
+> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+> sept-1 oct 2013
+>
+> http://www.sis.uottawa.ca/accreditation.html
+> http://www.esi.uottawa.ca/accreditation.html
+>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/06be63bf/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Sep  3 18:50:35 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 3 Sep 2013 18:50:35 +0100
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+Message-ID: <CAD2k14NUorLVCEMvu9i6rWJ5dv4_5jHFCOH2nnc3SbD5E6zfDA@mail.gmail.com>
+
+I have had in-depth discussions with both Heather Morrison and Rosie
+Redfield. I think they misinterpret what CC-BY allows and what CC-NC
+prevents. In science, at least, we have used CC-BY for 10 years with no
+problems. The only real effect , in science, for CC-NC - is that it allows
+the publisher (not the author) to make additional money from reselling
+rights to the article. Thus a CC-NC for an Elsevier article does not forbid
+commercial re-use- it simply means that re-users have to pay Elsevier an
+additional and lucrative tax. CC-NC in science is about ibcreasing
+publisher income, not about restricting re-use.
+
+In A+H the current ethos is that authors sell their books.  CC-NC may have
+a bearing on this, though it will depend on the exact details of copyright
+and the publisher. In general CC-NC controls who can make money.
+
+
+On Tue, Sep 3, 2013 at 6:27 PM, Klaus Graf <klausgraf at googlemail.com> wrote:
+
+> I cannot see the NSA context of CC-BY, sorry.
+>
+> There was no copyright in the middle ages and a lot of fruitful
+> plagiarism. May I remember to my thoughts at
+>
+> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+>
+> CC-BY-ND blocks translations and other derivative works.
+>
+> CC-BY-NC blocks scholarly use in commercial context e.g. use in the most
+> (commercial) e-journals.
+>
+> Klaus Graf
+>
+>
+> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+>
+>> This argument appears to reflect a position of technological determinism
+>> which I reject - the idea that we are helpless to do anything but adapt to
+>> advancing technology. The key problem with this argument is that it is we
+>> humans that create the technology, and we have the ability to shape it.
+>>
+>> Another example of this kind of argument that people are thankfully
+>> beginning to question, is the idea that now that we have the internet it is
+>> ridiculous to think that there is any notion of privacy and the
+>> accompanying idea that society both can and does accept this.
+>>
+>> Snowden's revelations of NSA surveillance are such a good illustration of
+>> the dangers of this loss of privacy that people are beginning to take
+>> notice and say that yes, we do want privacy in the online environment.
+>> Humans are not helpless with respect to this technology; we created it, and
+>> we can shape it future.
+>>
+>> This perspective is essential to the work of advocates for open access,
+>> open science, a free and open internet. We work for this (I think) because
+>> we perceive this as a desirable potential of the internet, and we do not
+>> believe that this potential will be achieved by sitting back and watching
+>> the technology unfold, but rather because we think action is both necessary
+>> and desirable.
+>>
+>> If you're interested in the social shaping of technology, you might want
+>> to read some of Andrew Feenberg, e.g. Questioning Technology or
+>> Transforming Technology.
+>>
+>> ~ my two bits ~ thoughts?
+>>
+>> Heather Morrison
+>>
+>>
+>>
+>> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+>>
+>> > This kind of thing has been happening for a while. It is a natural
+>> consequence of open licenses. Wikipedia has been re-packaged and sold many
+>> times. While I can't find an example, popular open source software has
+>> fallen prey from time to time, being repackaged and sold to uninformed
+>> consumers who don't realize there are cost-free versions available.
+>> >
+>> > I would argue this new world requires more of the consumer. Be savvy.
+>> Do a little google research. There's no going back to simpler times, the
+>> complexity is here to stay.
+>> >
+>> > -Luke
+>> >
+>> > On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>> >> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>> >>
+>> >> Thoughts?
+>> >>
+>> >> Klaus Graf
+>> >>
+>> >>
+>> >> _______________________________________________
+>> >> open-science mailing list
+>> >>
+>> >> open-science at lists.okfn.org
+>> >> http://lists.okfn.org/mailman/listinfo/open-science
+>> >>
+>> >> Unsubscribe:
+>> >> http://lists.okfn.org/mailman/options/open-science
+>> >
+>> > --
+>> > Limnology and Marine Science
+>> > University of Wisconsin - Madison
+>> >
+>> > Mailing Address:
+>> > 680 N. Park St.
+>> > Madison, WI 53706
+>> >
+>> > Skype: lawinslow
+>> > Web: http://www.bookofluke.org
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>> --
+>> Dr. Heather Morrison
+>> Assistant Professor
+>> ?cole des sciences de l'information / School of Information Studies
+>> University of Ottawa
+>>
+>> http://www.sis.uottawa.ca/faculty/hmorrison.html
+>> Heather.Morrison at uottawa.ca
+>>
+>> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+>> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+>> sept-1 oct 2013
+>>
+>> http://www.sis.uottawa.ca/accreditation.html
+>> http://www.esi.uottawa.ca/accreditation.html
+>>
+>>
+>>
+>>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/2df2cdbe/attachment-0001.htm>
+
+From eric.f.vandevelde at gmail.com  Tue Sep  3 19:09:06 2013
+From: eric.f.vandevelde at gmail.com (Eric F. Van de Velde)
+Date: Tue, 3 Sep 2013 11:09:06 -0700
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+Message-ID: <CALQVpOF5Cfr7MeRaz_Rw=TSN2KFT5seZMri4yFUAZhBAX2Pa1A@mail.gmail.com>
+
+For those enamored with copyright licenses, the following TEDx talk is a
+refreshing departure. Some industries manage quite well without copyright
+protection. It's worth a listen...
+
+http://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture.html
+
+http://scitechsociety.blogspot.com
+Twitter: @evdvelde
+
+Phone: (626) 376-5415
+E-mail: eric.f.vandevelde at gmail.com
+
+
+On Tue, Sep 3, 2013 at 10:27 AM, Klaus Graf <klausgraf at googlemail.com>wrote:
+
+> I cannot see the NSA context of CC-BY, sorry.
+>
+> There was no copyright in the middle ages and a lot of fruitful
+> plagiarism. May I remember to my thoughts at
+>
+> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+>
+> CC-BY-ND blocks translations and other derivative works.
+>
+> CC-BY-NC blocks scholarly use in commercial context e.g. use in the most
+> (commercial) e-journals.
+>
+> Klaus Graf
+>
+>
+> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+>
+>> This argument appears to reflect a position of technological determinism
+>> which I reject - the idea that we are helpless to do anything but adapt to
+>> advancing technology. The key problem with this argument is that it is we
+>> humans that create the technology, and we have the ability to shape it.
+>>
+>> Another example of this kind of argument that people are thankfully
+>> beginning to question, is the idea that now that we have the internet it is
+>> ridiculous to think that there is any notion of privacy and the
+>> accompanying idea that society both can and does accept this.
+>>
+>> Snowden's revelations of NSA surveillance are such a good illustration of
+>> the dangers of this loss of privacy that people are beginning to take
+>> notice and say that yes, we do want privacy in the online environment.
+>> Humans are not helpless with respect to this technology; we created it, and
+>> we can shape it future.
+>>
+>> This perspective is essential to the work of advocates for open access,
+>> open science, a free and open internet. We work for this (I think) because
+>> we perceive this as a desirable potential of the internet, and we do not
+>> believe that this potential will be achieved by sitting back and watching
+>> the technology unfold, but rather because we think action is both necessary
+>> and desirable.
+>>
+>> If you're interested in the social shaping of technology, you might want
+>> to read some of Andrew Feenberg, e.g. Questioning Technology or
+>> Transforming Technology.
+>>
+>> ~ my two bits ~ thoughts?
+>>
+>> Heather Morrison
+>>
+>>
+>> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+>>
+>> > This kind of thing has been happening for a while. It is a natural
+>> consequence of open licenses. Wikipedia has been re-packaged and sold many
+>> times. While I can't find an example, popular open source software has
+>> fallen prey from time to time, being repackaged and sold to uninformed
+>> consumers who don't realize there are cost-free versions available.
+>> >
+>> > I would argue this new world requires more of the consumer. Be savvy.
+>> Do a little google research. There's no going back to simpler times, the
+>> complexity is here to stay.
+>> >
+>> > -Luke
+>>
+>> >
+>> > On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>> >> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>> >>
+>> >> Thoughts?
+>> >>
+>> >> Klaus Graf
+>> >>
+>> >>
+>> >> _______________________________________________
+>> >> open-science mailing list
+>> >>
+>> >> open-science at lists.okfn.org
+>> >> http://lists.okfn.org/mailman/listinfo/open-science
+>> >>
+>> >> Unsubscribe:
+>> >> http://lists.okfn.org/mailman/options/open-science
+>> >
+>> > --
+>> > Limnology and Marine Science
+>> > University of Wisconsin - Madison
+>> >
+>> > Mailing Address:
+>> > 680 N. Park St.
+>> > Madison, WI 53706
+>> >
+>> > Skype: lawinslow
+>> > Web: http://www.bookofluke.org
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>> --
+>> Dr. Heather Morrison
+>> Assistant Professor
+>> ?cole des sciences de l'information / School of Information Studies
+>> University of Ottawa
+>>
+>> http://www.sis.uottawa.ca/faculty/hmorrison.html
+>> Heather.Morrison at uottawa.ca
+>>
+>> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+>> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+>> sept-1 oct 2013
+>>
+>> http://www.sis.uottawa.ca/accreditation.html
+>> http://www.esi.uottawa.ca/accreditation.html
+>>
+>>
+>>
+>>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/0a88f82d/attachment.htm>
+
+From laurent.romary at inria.fr  Wed Sep  4 09:24:41 2013
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Wed, 4 Sep 2013 10:24:41 +0200
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <CALQVpOF5Cfr7MeRaz_Rw=TSN2KFT5seZMri4yFUAZhBAX2Pa1A@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+	<CALQVpOF5Cfr7MeRaz_Rw=TSN2KFT5seZMri4yFUAZhBAX2Pa1A@mail.gmail.com>
+Message-ID: <1DBF7D6F-4796-4762-BD53-114E79E7135B@inria.fr>
+
+Thanks for this. A very nice example, and just imagine this in a world were the clients are also the producers, like in science... let's be proud of plagiarism in an open scientific world!
+Laurent
+
+Le 3 sept. 2013 ? 20:09, Eric F. Van de Velde a ?crit :
+
+> For those enamored with copyright licenses, the following TEDx talk is a refreshing departure. Some industries manage quite well without copyright protection. It's worth a listen...
+> 
+> http://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture.html
+> 
+> http://scitechsociety.blogspot.com
+> Twitter: @evdvelde
+> 
+> Phone: (626) 376-5415
+> E-mail: eric.f.vandevelde at gmail.com
+> 
+> 
+> On Tue, Sep 3, 2013 at 10:27 AM, Klaus Graf <klausgraf at googlemail.com> wrote:
+> I cannot see the NSA context of CC-BY, sorry.
+> 
+> There was no copyright in the middle ages and a lot of fruitful plagiarism. May I remember to my thoughts at
+> 
+> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+> 
+> CC-BY-ND blocks translations and other derivative works.
+> 
+> CC-BY-NC blocks scholarly use in commercial context e.g. use in the most (commercial) e-journals.
+> 
+> Klaus Graf
+> 
+> 
+> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+> This argument appears to reflect a position of technological determinism which I reject - the idea that we are helpless to do anything but adapt to advancing technology. The key problem with this argument is that it is we humans that create the technology, and we have the ability to shape it.
+> 
+> Another example of this kind of argument that people are thankfully beginning to question, is the idea that now that we have the internet it is ridiculous to think that there is any notion of privacy and the accompanying idea that society both can and does accept this.
+> 
+> Snowden's revelations of NSA surveillance are such a good illustration of the dangers of this loss of privacy that people are beginning to take notice and say that yes, we do want privacy in the online environment. Humans are not helpless with respect to this technology; we created it, and we can shape it future.
+> 
+> This perspective is essential to the work of advocates for open access, open science, a free and open internet. We work for this (I think) because we perceive this as a desirable potential of the internet, and we do not believe that this potential will be achieved by sitting back and watching the technology unfold, but rather because we think action is both necessary and desirable.
+> 
+> If you're interested in the social shaping of technology, you might want to read some of Andrew Feenberg, e.g. Questioning Technology or Transforming Technology.
+> 
+> ~ my two bits ~ thoughts?
+> 
+> Heather Morrison
+> 
+> 
+> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+> 
+> > This kind of thing has been happening for a while. It is a natural consequence of open licenses. Wikipedia has been re-packaged and sold many times. While I can't find an example, popular open source software has fallen prey from time to time, being repackaged and sold to uninformed consumers who don't realize there are cost-free versions available.
+> >
+> > I would argue this new world requires more of the consumer. Be savvy. Do a little google research. There's no going back to simpler times, the complexity is here to stay.
+> >
+> > -Luke
+> 
+> >
+> > On 2013-09-03 9:08 AM, Klaus Graf wrote:
+> >> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+> >>
+> >> Thoughts?
+> >>
+> >> Klaus Graf
+> >>
+> >>
+> >> _______________________________________________
+> >> open-science mailing list
+> >>
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >>
+> >> Unsubscribe:
+> >> http://lists.okfn.org/mailman/options/open-science
+> >
+> > --
+> > Limnology and Marine Science
+> > University of Wisconsin - Madison
+> >
+> > Mailing Address:
+> > 680 N. Park St.
+> > Madison, WI 53706
+> >
+> > Skype: lawinslow
+> > Web: http://www.bookofluke.org
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> 
+> --
+> Dr. Heather Morrison
+> Assistant Professor
+> ?cole des sciences de l'information / School of Information Studies
+> University of Ottawa
+> 
+> http://www.sis.uottawa.ca/faculty/hmorrison.html
+> Heather.Morrison at uottawa.ca
+> 
+> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+> sept-1 oct 2013
+> 
+> http://www.sis.uottawa.ca/accreditation.html
+> http://www.esi.uottawa.ca/accreditation.html
+> 
+> 
+> 
+> 
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> 
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+
+Laurent Romary
+INRIA & HUB-IDSL
+laurent.romary at inria.fr
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130904/739b3056/attachment-0001.htm>
+
+From lawinslow at wisc.edu  Tue Sep  3 15:48:58 2013
+From: lawinslow at wisc.edu (Luke Winslow)
+Date: Tue, 03 Sep 2013 09:48:58 -0500
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+Message-ID: <5225F6DA.20209@wisc.edu>
+
+This kind of thing has been happening for a while. It is a natural 
+consequence of open licenses. Wikipedia has been re-packaged and sold 
+many times 
+<http://scholarlykitchen.sspnet.org/2010/04/06/wikipedia-pod-a-flooded-amazon-the-endless-spigot-at-alpha-and-betascript-publishing/>. 
+While I can't find an example, popular open source software has fallen 
+prey from time to time, being repackaged and sold to uninformed 
+consumers who don't realize there are cost-free versions available.
+
+I would argue this new world requires more of the consumer. Be savvy. Do 
+a little google research. There's no going back to simpler times, the 
+complexity is here to stay.
+
+-Luke
+
+On 2013-09-03 9:08 AM, Klaus Graf wrote:
+> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>
+> Thoughts?
+>
+> Klaus Graf
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+-- 
+Limnology and Marine Science
+University of Wisconsin - Madison
+
+Mailing Address:
+680 N. Park St.
+Madison, WI 53706
+
+Skype: lawinslow
+Web: http://www.bookofluke.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/5e0e2654/attachment-0001.htm>
+
+From b.brembs at gmail.com  Tue Sep  3 16:32:51 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Tue, 3 Sep 2013 17:32:51 +0200
+Subject: [Open-access] CC-BY
+In-Reply-To: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+Message-ID: <687078340.20130903173251@gmail.com>
+
+On Tuesday, September 3, 2013, 4:08:40 PM, you wrote:
+
+> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+
+> Thoughts?
+
+Here are mine (comment on article):
+
+Just PLoS ONE alone has published almost 100k OA articles since its inception. Now editors are going through all of these articles and picking the 'best' ones for a compilation in a book. And after all of this work (that Nature editors charge a hefty fee for, pre-publication!), some people are actually concerned that the publisher charges a measly 100 dollars for such a book? Granted, Nature (with a self-proclaimed cost *per article* of 35,000 dollars) would claim their selection process is much more rigorous and 'high quality' - but one only needs to look at the retraction rate of journals like Nature to get an idea just how 'rigorous' their selection is.
+
+Bottom line: one can complain that the way in which this particular publisher is re-using the articles can be improved, but if anything, this sort of post-publication review and filter is what we need to see *more* of, not less.
+
+Would the affected authors be equally dismayed if someone developed the cure for a disease after reading one of these books as a means to get up to speed on that particular affliction?
+I can understand the issues with form, but that doesn't mean the function is equally bad.
+
+Everyone concerned about this practice ought to be on fire to get rid of GlamMagz and then deal with this minor issue.
+
+Also here:
+http://bjoern.brembs.net/2013/07/publisher_selects_the_best_science_authors_complain/
+
+Best wishes,
+
+Bjoern
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurogenetics
+Universit?t Regensburg
+Germany
+
+
+
+From Heather.Morrison at uottawa.ca  Tue Sep  3 18:15:08 2013
+From: Heather.Morrison at uottawa.ca (Heather Morrison)
+Date: Tue, 3 Sep 2013 17:15:08 +0000
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <5225F6DA.20209@wisc.edu>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+Message-ID: <48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+
+This argument appears to reflect a position of technological determinism which I reject - the idea that we are helpless to do anything but adapt to advancing technology. The key problem with this argument is that it is we humans that create the technology, and we have the ability to shape it.
+
+Another example of this kind of argument that people are thankfully beginning to question, is the idea that now that we have the internet it is ridiculous to think that there is any notion of privacy and the accompanying idea that society both can and does accept this.
+
+Snowden's revelations of NSA surveillance are such a good illustration of the dangers of this loss of privacy that people are beginning to take notice and say that yes, we do want privacy in the online environment. Humans are not helpless with respect to this technology; we created it, and we can shape it future.
+
+This perspective is essential to the work of advocates for open access, open science, a free and open internet. We work for this (I think) because we perceive this as a desirable potential of the internet, and we do not believe that this potential will be achieved by sitting back and watching the technology unfold, but rather because we think action is both necessary and desirable.
+
+If you're interested in the social shaping of technology, you might want to read some of Andrew Feenberg, e.g. Questioning Technology or Transforming Technology.
+
+~ my two bits ~ thoughts?
+
+Heather Morrison
+
+
+On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+
+> This kind of thing has been happening for a while. It is a natural consequence of open licenses. Wikipedia has been re-packaged and sold many times. While I can't find an example, popular open source software has fallen prey from time to time, being repackaged and sold to uninformed consumers who don't realize there are cost-free versions available.
+> 
+> I would argue this new world requires more of the consumer. Be savvy. Do a little google research. There's no going back to simpler times, the complexity is here to stay.
+> 
+> -Luke
+> 
+> On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>> 
+>> Thoughts?
+>> 
+>> Klaus Graf
+>> 
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> 
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> Unsubscribe: 
+>> http://lists.okfn.org/mailman/options/open-science
+> 
+> -- 
+> Limnology and Marine Science
+> University of Wisconsin - Madison
+> 
+> Mailing Address:
+> 680 N. Park St.
+> Madison, WI 53706
+> 
+> Skype: lawinslow
+> Web: http://www.bookofluke.org
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+-- 
+Dr. Heather Morrison
+Assistant Professor
+?cole des sciences de l'information / School of Information Studies
+University of Ottawa
+
+http://www.sis.uottawa.ca/faculty/hmorrison.html
+Heather.Morrison at uottawa.ca
+
+ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+sept-1 oct 2013
+
+http://www.sis.uottawa.ca/accreditation.html
+http://www.esi.uottawa.ca/accreditation.html
+
+
+
+
+
+From Heather.Morrison at uottawa.ca  Tue Sep  3 20:08:10 2013
+From: Heather.Morrison at uottawa.ca (Heather Morrison)
+Date: Tue, 3 Sep 2013 19:08:10 +0000
+Subject: [Open-access] [open-science] CC-BY
+In-Reply-To: <CAD2k14NUorLVCEMvu9i6rWJ5dv4_5jHFCOH2nnc3SbD5E6zfDA@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+	<CAD2k14NUorLVCEMvu9i6rWJ5dv4_5jHFCOH2nnc3SbD5E6zfDA@mail.gmail.com>
+Message-ID: <12939EC6-5681-4158-907D-F0146AC69CA2@uottawa.ca>
+
+On 2013-09-03, at 1:50 PM, Peter Murray-Rust wrote:
+
+> I have had in-depth discussions with both Heather Morrison and Rosie Redfield.
+
+Do you have any details about these discussions? I have no memory of this. Perhaps you spoke with another Heather Morrison? My name is not uncommon. 
+
+> I think they misinterpret what CC-BY allows and what CC-NC prevents.
+
+PMR, are you assuming that I am advocating for CC-NC? If so, your assumption is not correct. I advocate against the push for CC-BY as a default, and especially against forcing people to use this license. However, I am not convinced that any of the CC licenses is exactly right for scholarly works. I advocate for experimentation in this area, not requiring a particular license. My own position on this topic is expressed in my blogpost, Articulating the commons: a leaderful approach:
+http://poeticeconomics.blogspot.ca/2011/12/articulating-commons-leaderful-approach.html
+
+> In science, at least, we have used CC-BY for 10 years with no problems.
+
+Do you have evidence to back up this assertion?
+
+The majority of scientific works published in the last 10 years, to the best of my knowledge, have been published as toll access. Of the works published as open access, not all are published with CC licenses, and those that are published with CC licenses do not necessarily use CC-BY.
+
+
+> The only real effect , in science, for CC-NC - is that it allows the publisher (not the author) to make additional money from reselling rights to the article. Thus a CC-NC for an Elsevier article does not forbid commercial re-use- it simply means that re-users have to pay Elsevier an additional and lucrative tax. CC-NC in science is about ibcreasing publisher income, not about restricting re-use.
+
+This statement assumes that publishers retain copyright. I argue that scholarly authors, not publishers, should retain copyright. 
+
+I also argue that blanket permission for commercial rights (CC-BY) is a larger problem for downstream re-enclosure than CC-NC. For example,  there is nothing to stop a publisher from removing the CC-BY copy and replacing it with one that is CC-BY-NC, or one that is All Rights Reserved. There is nothing in the CC-BY license that would prohibit this.
+
+Consider that the world's largest OA publisher, BioMedCentral, was sold to Springer, a primarily toll access publisher, a few years ago. Recently, Springer was sold to a new set of private interests - the 4th such transfer of ownership for this company in about a decade. If a downstream owner of BMC content wanted to revert this content to toll access, there is nothing in CC-BY to prevent them from doing so. Fortunately, BMC content is also in PubMedCentral - but a for-profit company wishing to reap profits from toll access to this content would have significant incentive to lobby against public funding for PMC, and in this economic environment governments may well listen. For this reason, I strongly encourage authors, even authors publishing in fully OA venues, to also self-archive in both disciplinary and institutional repositories.   
+
+> 
+> In A+H the current ethos is that authors sell their books.
+
+Not all social sciences, arts and humanities scholars publish books. There is a diversity of scholarly practices in this broad set of disciplines. Many disciplines and sub-disciplines are just as much oriented towards journal articles as much as the sciences. In science also there is a diversity of publishing practices - scientists  write books, too. 
+
+> CC-NC may have a bearing on this, though it will depend on the exact details of copyright and the publisher. In general CC-NC controls who can make money.
+
+Note that I am not necessarily advocating for CC-NC, rather advocating against CC-BY, particularly the explicit granting of commercial and derivative rights, and particularly policies enforcing the use of this license. Klaus' point about no copyright in the middle ages is a good one; no copyright may be better than the explicit granting of commercial rights and derivatives with CC-BY. For example, the attribution requirement and strong author moral rights of CC-BY are in some ways problematic for scholarship. 
+
+One point where we might agree is that it is not helpful to scholarship to have commercial publishers retaining copyright and releasing works under the NC license so that they can retain commercial rights. Where we likely differ is our assessment of what the problem is. I think that your position is that NC is the problem. My position is that extensive commercial involvement in scholarly publishing is the problem. I think your position is that forbidding NC will solve the problem, whereas my position is that forbidding NC will make things worse. 
+
+best,
+
+Heather Morrison
+> 
+> 
+> On Tue, Sep 3, 2013 at 6:27 PM, Klaus Graf <klausgraf at googlemail.com> wrote:
+> I cannot see the NSA context of CC-BY, sorry.
+> 
+> There was no copyright in the middle ages and a lot of fruitful plagiarism. May I remember to my thoughts at
+> 
+> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+> 
+> CC-BY-ND blocks translations and other derivative works.
+> 
+> CC-BY-NC blocks scholarly use in commercial context e.g. use in the most (commercial) e-journals.
+> 
+> Klaus Graf
+> 
+> 
+> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+> This argument appears to reflect a position of technological determinism which I reject - the idea that we are helpless to do anything but adapt to advancing technology. The key problem with this argument is that it is we humans that create the technology, and we have the ability to shape it.
+> 
+> Another example of this kind of argument that people are thankfully beginning to question, is the idea that now that we have the internet it is ridiculous to think that there is any notion of privacy and the accompanying idea that society both can and does accept this.
+> 
+> Snowden's revelations of NSA surveillance are such a good illustration of the dangers of this loss of privacy that people are beginning to take notice and say that yes, we do want privacy in the online environment. Humans are not helpless with respect to this technology; we created it, and we can shape it future.
+> 
+> This perspective is essential to the work of advocates for open access, open science, a free and open internet. We work for this (I think) because we perceive this as a desirable potential of the internet, and we do not believe that this potential will be achieved by sitting back and watching the technology unfold, but rather because we think action is both necessary and desirable.
+> 
+> If you're interested in the social shaping of technology, you might want to read some of Andrew Feenberg, e.g. Questioning Technology or Transforming Technology.
+> 
+> ~ my two bits ~ thoughts?
+> 
+> Heather Morrison
+> 
+> 
+> 
+> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+> 
+>> This kind of thing has been happening for a while. It is a natural consequence of open licenses. Wikipedia has been re-packaged and sold many times. While I can't find an example, popular open source software has fallen prey from time to time, being repackaged and sold to uninformed consumers who don't realize there are cost-free versions available.
+>> 
+>> I would argue this new world requires more of the consumer. Be savvy. Do a little google research. There's no going back to simpler times, the complexity is here to stay.
+>> 
+>> -Luke
+>> 
+>> On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>>> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>>> 
+>>> Thoughts?
+>>> 
+>>> Klaus Graf
+>>> 
+>>> 
+>>> _______________________________________________
+>>> open-science mailing list
+>>> 
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>> 
+>>> Unsubscribe:
+>>> http://lists.okfn.org/mailman/options/open-science
+>> 
+>> --
+>> Limnology and Marine Science
+>> University of Wisconsin - Madison
+>> 
+>> Mailing Address:
+>> 680 N. Park St.
+>> Madison, WI 53706
+>> 
+>> Skype: lawinslow
+>> Web: http://www.bookofluke.org
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> 
+> --
+> Dr. Heather Morrison
+> Assistant Professor
+> ?cole des sciences de l'information / School of Information Studies
+> University of Ottawa
+> 
+> http://www.sis.uottawa.ca/faculty/hmorrison.html
+> Heather.Morrison at uottawa.ca
+> 
+> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+> sept-1 oct 2013
+> 
+> http://www.sis.uottawa.ca/accreditation.html
+> http://www.esi.uottawa.ca/accreditation.html
+> 
+> 
+> 
+> 
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> 
+> 
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+-- 
+Dr. Heather Morrison
+Assistant Professor
+?cole des sciences de l'information / School of Information Studies
+University of Ottawa
+
+http://www.sis.uottawa.ca/faculty/hmorrison.html
+Heather.Morrison at uottawa.ca
+
+ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+sept-1 oct 2013
+
+http://www.sis.uottawa.ca/accreditation.html
+http://www.esi.uottawa.ca/accreditation.html
+
+
+
+-- 
+Dr. Heather Morrison
+Assistant Professor
+?cole des sciences de l'information / School of Information Studies
+University of Ottawa
+
+http://www.sis.uottawa.ca/faculty/hmorrison.html
+Heather.Morrison at uottawa.ca
+
+ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+sept-1 oct 2013
+
+http://www.sis.uottawa.ca/accreditation.html
+http://www.esi.uottawa.ca/accreditation.html
+
+
+
+
+
+From ilabastida at ub.edu  Tue Sep  3 21:41:52 2013
+From: ilabastida at ub.edu (Ignasi Labastida i Juan)
+Date: Tue, 3 Sep 2013 22:41:52 +0200
+Subject: [Open-access] [open-science]  CC-BY
+In-Reply-To: <7141d0c0d06749c2b7f9a930cb6ca135@DAUHTPRO02.da.ub.edu>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+	<7141d0c0d06749c2b7f9a930cb6ca135@DAUHTPRO02.da.ub.edu>
+Message-ID: <CADWO+RBw=9PeVpaV_LpAu7=6vCNy0pg7LP5JiVAR5Yu2bRxjSg@mail.gmail.com>
+
+Hi,
+
+An interesting opposite point of view can be found here:
+Free Knowledge based on Creative Commons Licenses. Consequences, risks and
+side-effects of the license module 'non-commercial use only ? NC'
+http://www.vlaamse-erfgoedbibliotheek.be/en/node/2725
+
+Best
+
+Ignasi
+
+
+2013/9/3 Peter Murray-Rust <pm286 at cam.ac.uk>
+
+>  I have had in-depth discussions with both Heather Morrison and Rosie
+> Redfield. I think they misinterpret what CC-BY allows and what CC-NC
+> prevents. In science, at least, we have used CC-BY for 10 years with no
+> problems. The only real effect , in science, for CC-NC - is that it allows
+> the publisher (not the author) to make additional money from reselling
+> rights to the article. Thus a CC-NC for an Elsevier article does not forbid
+> commercial re-use- it simply means that re-users have to pay Elsevier an
+> additional and lucrative tax. CC-NC in science is about ibcreasing
+> publisher income, not about restricting re-use.
+>
+>  In A+H the current ethos is that authors sell their books.  CC-NC may
+> have a bearing on this, though it will depend on the exact details of
+> copyright and the publisher. In general CC-NC controls who can make money.
+>
+>
+> On Tue, Sep 3, 2013 at 6:27 PM, Klaus Graf <klausgraf at googlemail.com>wrote:
+>
+>>   I cannot see the NSA context of CC-BY, sorry.
+>>
+>>  There was no copyright in the middle ages and a lot of fruitful
+>> plagiarism. May I remember to my thoughts at
+>>
+>> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+>>
+>>  CC-BY-ND blocks translations and other derivative works.
+>>
+>>  CC-BY-NC blocks scholarly use in commercial context e.g. use in the most
+>> (commercial) e-journals.
+>>
+>>  Klaus Graf
+>>
+>>
+>> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+>>
+>>> This argument appears to reflect a position of technological determinism
+>>> which I reject - the idea that we are helpless to do anything but adapt to
+>>> advancing technology. The key problem with this argument is that it is we
+>>> humans that create the technology, and we have the ability to shape it.
+>>>
+>>> Another example of this kind of argument that people are thankfully
+>>> beginning to question, is the idea that now that we have the internet it is
+>>> ridiculous to think that there is any notion of privacy and the
+>>> accompanying idea that society both can and does accept this.
+>>>
+>>> Snowden's revelations of NSA surveillance are such a good illustration
+>>> of the dangers of this loss of privacy that people are beginning to take
+>>> notice and say that yes, we do want privacy in the online environment.
+>>> Humans are not helpless with respect to this technology; we created it, and
+>>> we can shape it future.
+>>>
+>>> This perspective is essential to the work of advocates for open access,
+>>> open science, a free and open internet. We work for this (I think) because
+>>> we perceive this as a desirable potential of the internet, and we do not
+>>> believe that this potential will be achieved by sitting back and watching
+>>> the technology unfold, but rather because we think action is both necessary
+>>> and desirable.
+>>>
+>>> If you're interested in the social shaping of technology, you might want
+>>> to read some of Andrew Feenberg, e.g. Questioning Technology or
+>>> Transforming Technology.
+>>>
+>>> ~ my two bits ~ thoughts?
+>>>
+>>> Heather Morrison
+>>>
+>>>
+>>>
+>>> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+>>>
+>>> > This kind of thing has been happening for a while. It is a natural
+>>> consequence of open licenses. Wikipedia has been re-packaged and sold many
+>>> times. While I can't find an example, popular open source software has
+>>> fallen prey from time to time, being repackaged and sold to uninformed
+>>> consumers who don't realize there are cost-free versions available.
+>>> >
+>>> > I would argue this new world requires more of the consumer. Be savvy.
+>>> Do a little google research. There's no going back to simpler times, the
+>>> complexity is here to stay.
+>>> >
+>>> > -Luke
+>>> >
+>>> > On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>>> >>
+>>> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>>> >>
+>>> >> Thoughts?
+>>> >>
+>>> >> Klaus Graf
+>>> >>
+>>> >>
+>>> >> _______________________________________________
+>>> >> open-science mailing list
+>>> >>
+>>> >> open-science at lists.okfn.org
+>>> >> http://lists.okfn.org/mailman/listinfo/open-science
+>>> >>
+>>> >> Unsubscribe:
+>>> >> http://lists.okfn.org/mailman/options/open-science
+>>> >
+>>> > --
+>>> > Limnology and Marine Science
+>>> > University of Wisconsin - Madison
+>>> >
+>>> > Mailing Address:
+>>> > 680 N. Park St.
+>>> > Madison, WI 53706
+>>> >
+>>> > Skype: lawinslow
+>>> > Web: http://www.bookofluke.org
+>>> > _______________________________________________
+>>> > open-science mailing list
+>>> > open-science at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>>
+>>> --
+>>>   Dr. Heather Morrison
+>>> Assistant Professor
+>>> ?cole des sciences de l'information / School of Information Studies
+>>> University of Ottawa
+>>>
+>>> http://www.sis.uottawa.ca/faculty/hmorrison.html
+>>> Heather.Morrison at uottawa.ca
+>>>
+>>> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+>>> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+>>> sept-1 oct 2013
+>>>
+>>> http://www.sis.uottawa.ca/accreditation.html
+>>> http://www.esi.uottawa.ca/accreditation.html
+>>>
+>>>
+>>>
+>>>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+>
+> Aquest correu electr?nic i els annexos poden contenir informaci?
+> confidencial o protegida legalment i est? adre?at exclusivament a la
+> persona o entitat destinat?ria. Si no sou el destinatari final o la persona
+> encarregada de rebre?l, no esteu autoritzat a llegir-lo, retenir-lo,
+> modificar-lo, distribuir-lo, copiar-lo ni a revelar-ne el contingut. Si heu
+> rebut aquest correu electr?nic per error, us preguem que n?informeu al
+> remitent i que elimineu del sistema el missatge i el material annex que
+> pugui contenir. Gr?cies per la vostra col?laboraci?.
+>
+> Este correo electr?nico y sus anexos pueden contener informaci?n
+> confidencial o legalmente protegida y est? exclusivamente dirigido a la
+> persona o entidad destinataria. Si usted no es el destinatario final o la
+> persona encargada de recibirlo, no est? autorizado a leerlo, retenerlo,
+> modificarlo, distribuirlo, copiarlo ni a revelar su contenido. Si ha
+> recibido este mensaje electr?nico por error, le rogamos que informe al
+> remitente y elimine del sistema el mensaje y el material anexo que pueda
+> contener. Gracias por su colaboraci?n.
+>
+> This email message and any documents attached to it may contain
+> confidential or legally protected material and are intended solely for the
+> use of the individual or organization to whom they are addressed. We remind
+> you that if you are not the intended recipient of this email message or the
+> person responsible for processing it, then you are not authorized to read,
+> save, modify, send, copy or disclose any of its contents. If you have
+> received this email message by mistake, we kindly ask you to inform the
+> sender of this and to eliminate both the message and any attachments it
+> carries from your account. Thank you for your collaboration.
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130903/e07da14e/attachment-0001.htm>
+
+From punk.kish at gmail.com  Tue Sep  3 22:25:41 2013
+From: punk.kish at gmail.com (Mr. Puneet Kishor)
+Date: Tue, 3 Sep 2013 17:25:41 -0400
+Subject: [Open-access] [open-science]  CC-BY
+In-Reply-To: <CADWO+RBw=9PeVpaV_LpAu7=6vCNy0pg7LP5JiVAR5Yu2bRxjSg@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+	<7141d0c0d06749c2b7f9a930cb6ca135@DAUHTPRO02.da.ub.edu>
+	<CADWO+RBw=9PeVpaV_LpAu7=6vCNy0pg7LP5JiVAR5Yu2bRxjSg@mail.gmail.com>
+Message-ID: <E5C2E180-3CB7-4054-A88C-5D12DF2B20FC@gmail.com>
+
+Thanks for bringing that up Ignasi. That is one of the well known reasons why NC is not advised if one intends the work to be really open. Inability to legally mix NC with SA is a big barrier. Which is why BY or BY-SA are the best licenses.
+
+
+On Sep 3, 2013, at 4:41 PM, Ignasi Labastida i Juan <ilabastida at ub.edu> wrote:
+
+> Hi,
+> 
+> An interesting opposite point of view can be found here:
+> Free Knowledge based on Creative Commons Licenses. Consequences, risks and
+> side-effects of the license module 'non-commercial use only ? NC'
+> http://www.vlaamse-erfgoedbibliotheek.be/en/node/2725
+> 
+> Best
+> 
+> Ignasi
+> 
+> 
+> 2013/9/3 Peter Murray-Rust <pm286 at cam.ac.uk>
+> 
+>> I have had in-depth discussions with both Heather Morrison and Rosie
+>> Redfield. I think they misinterpret what CC-BY allows and what CC-NC
+>> prevents. In science, at least, we have used CC-BY for 10 years with no
+>> problems. The only real effect , in science, for CC-NC - is that it allows
+>> the publisher (not the author) to make additional money from reselling
+>> rights to the article. Thus a CC-NC for an Elsevier article does not forbid
+>> commercial re-use- it simply means that re-users have to pay Elsevier an
+>> additional and lucrative tax. CC-NC in science is about ibcreasing
+>> publisher income, not about restricting re-use.
+>> 
+>> In A+H the current ethos is that authors sell their books.  CC-NC may
+>> have a bearing on this, though it will depend on the exact details of
+>> copyright and the publisher. In general CC-NC controls who can make money.
+>> 
+>> 
+>> On Tue, Sep 3, 2013 at 6:27 PM, Klaus Graf <klausgraf at googlemail.com>wrote:
+>> 
+>>>  I cannot see the NSA context of CC-BY, sorry.
+>>> 
+>>> There was no copyright in the middle ages and a lot of fruitful
+>>> plagiarism. May I remember to my thoughts at
+>>> 
+>>> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+>>> 
+>>> CC-BY-ND blocks translations and other derivative works.
+>>> 
+>>> CC-BY-NC blocks scholarly use in commercial context e.g. use in the most
+>>> (commercial) e-journals.
+>>> 
+>>> Klaus Graf
+>>> 
+>>> 
+>>> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+>>> 
+>>>> This argument appears to reflect a position of technological determinism
+>>>> which I reject - the idea that we are helpless to do anything but adapt to
+>>>> advancing technology. The key problem with this argument is that it is we
+>>>> humans that create the technology, and we have the ability to shape it.
+>>>> 
+>>>> Another example of this kind of argument that people are thankfully
+>>>> beginning to question, is the idea that now that we have the internet it is
+>>>> ridiculous to think that there is any notion of privacy and the
+>>>> accompanying idea that society both can and does accept this.
+>>>> 
+>>>> Snowden's revelations of NSA surveillance are such a good illustration
+>>>> of the dangers of this loss of privacy that people are beginning to take
+>>>> notice and say that yes, we do want privacy in the online environment.
+>>>> Humans are not helpless with respect to this technology; we created it, and
+>>>> we can shape it future.
+>>>> 
+>>>> This perspective is essential to the work of advocates for open access,
+>>>> open science, a free and open internet. We work for this (I think) because
+>>>> we perceive this as a desirable potential of the internet, and we do not
+>>>> believe that this potential will be achieved by sitting back and watching
+>>>> the technology unfold, but rather because we think action is both necessary
+>>>> and desirable.
+>>>> 
+>>>> If you're interested in the social shaping of technology, you might want
+>>>> to read some of Andrew Feenberg, e.g. Questioning Technology or
+>>>> Transforming Technology.
+>>>> 
+>>>> ~ my two bits ~ thoughts?
+>>>> 
+>>>> Heather Morrison
+>>>> 
+>>>> 
+>>>> 
+>>>> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+>>>> 
+>>>>> This kind of thing has been happening for a while. It is a natural
+>>>> consequence of open licenses. Wikipedia has been re-packaged and sold many
+>>>> times. While I can't find an example, popular open source software has
+>>>> fallen prey from time to time, being repackaged and sold to uninformed
+>>>> consumers who don't realize there are cost-free versions available.
+>>>>> 
+>>>>> I would argue this new world requires more of the consumer. Be savvy.
+>>>> Do a little google research. There's no going back to simpler times, the
+>>>> complexity is here to stay.
+>>>>> 
+>>>>> -Luke
+>>>>> 
+>>>>> On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>>>>>> 
+>>>> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>>>>>> 
+>>>>>> Thoughts?
+>>>>>> 
+>>>>>> Klaus Graf
+>>>>>> 
+>>>>>> 
+>>>>>> _______________________________________________
+>>>>>> open-science mailing list
+>>>>>> 
+>>>>>> open-science at lists.okfn.org
+>>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>>> 
+>>>>>> Unsubscribe:
+>>>>>> http://lists.okfn.org/mailman/options/open-science
+>>>>> 
+>>>>> --
+>>>>> Limnology and Marine Science
+>>>>> University of Wisconsin - Madison
+>>>>> 
+>>>>> Mailing Address:
+>>>>> 680 N. Park St.
+>>>>> Madison, WI 53706
+>>>>> 
+>>>>> Skype: lawinslow
+>>>>> Web: http://www.bookofluke.org
+>>>>> _______________________________________________
+>>>>> open-science mailing list
+>>>>> open-science at lists.okfn.org
+>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>>> 
+>>>> --
+>>>>  Dr. Heather Morrison
+>>>> Assistant Professor
+>>>> ?cole des sciences de l'information / School of Information Studies
+>>>> University of Ottawa
+>>>> 
+>>>> http://www.sis.uottawa.ca/faculty/hmorrison.html
+>>>> Heather.Morrison at uottawa.ca
+>>>> 
+>>>> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+>>>> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+>>>> sept-1 oct 2013
+>>>> 
+>>>> http://www.sis.uottawa.ca/accreditation.html
+>>>> http://www.esi.uottawa.ca/accreditation.html
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>> 
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>> 
+>>> 
+>> 
+>> 
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> 
+>> 
+>> Aquest correu electr?nic i els annexos poden contenir informaci?
+>> confidencial o protegida legalment i est? adre?at exclusivament a la
+>> persona o entitat destinat?ria. Si no sou el destinatari final o la persona
+>> encarregada de rebre?l, no esteu autoritzat a llegir-lo, retenir-lo,
+>> modificar-lo, distribuir-lo, copiar-lo ni a revelar-ne el contingut. Si heu
+>> rebut aquest correu electr?nic per error, us preguem que n?informeu al
+>> remitent i que elimineu del sistema el missatge i el material annex que
+>> pugui contenir. Gr?cies per la vostra col?laboraci?.
+>> 
+>> Este correo electr?nico y sus anexos pueden contener informaci?n
+>> confidencial o legalmente protegida y est? exclusivamente dirigido a la
+>> persona o entidad destinataria. Si usted no es el destinatario final o la
+>> persona encargada de recibirlo, no est? autorizado a leerlo, retenerlo,
+>> modificarlo, distribuirlo, copiarlo ni a revelar su contenido. Si ha
+>> recibido este mensaje electr?nico por error, le rogamos que informe al
+>> remitente y elimine del sistema el mensaje y el material anexo que pueda
+>> contener. Gracias por su colaboraci?n.
+>> 
+>> This email message and any documents attached to it may contain
+>> confidential or legally protected material and are intended solely for the
+>> use of the individual or organization to whom they are addressed. We remind
+>> you that if you are not the intended recipient of this email message or the
+>> person responsible for processing it, then you are not authorized to read,
+>> save, modify, send, copy or disclose any of its contents. If you have
+>> received this email message by mistake, we kindly ask you to inform the
+>> sender of this and to eliminate both the message and any attachments it
+>> carries from your account. Thank you for your collaboration.
+>> 
+>> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+
+
+From Heather.Morrison at uottawa.ca  Wed Sep  4 02:43:24 2013
+From: Heather.Morrison at uottawa.ca (Heather Morrison)
+Date: Wed, 4 Sep 2013 01:43:24 +0000
+Subject: [Open-access] [open-science]  CC-BY
+In-Reply-To: <E5C2E180-3CB7-4054-A88C-5D12DF2B20FC@gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<5225F6DA.20209@wisc.edu>
+	<48C3D80F-1C07-47FE-9EAC-B1AF69BECBB5@uottawa.ca>
+	<CADB6pjMR19WK8UNcA9STJS4gWHQVDxfWPxRp_9bsJdxcAvy16w@mail.gmail.com>
+	<7141d0c0d06749c2b7f9a930cb6ca135@DAUHTPRO02.da.ub.edu>
+	<CADWO+RBw=9PeVpaV_LpAu7=6vCNy0pg7LP5JiVAR5Yu2bRxjSg@mail.gmail.com>
+	<E5C2E180-3CB7-4054-A88C-5D12DF2B20FC@gmail.com>
+Message-ID: <B7757521-BA50-4DF5-AE97-FFA23C7F846B@uottawa.ca>
+
+There is a CC-BY-NC-SA license. For details, see the Creative Commons license description:
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This is what I use for my blog, and is the license that I recommend as the strongest protection for open access downstream. It's not perfect and I fully understand if others wish to make works open access via a different CC license, or without a CC license. "Free of charge and free of most copyright and licensing restrictions" (from Suber's short definition of OA) is good enough for me.
+
+Note that CC licensed works do not necessarily meet this definition of open access, including CC-BY which does not necessarily mean free of charge. 
+
+best,
+
+Heather Morrison
+
+On 2013-09-03, at 5:25 PM, Mr. Puneet Kishor wrote:
+
+> Thanks for bringing that up Ignasi. That is one of the well known reasons why NC is not advised if one intends the work to be really open. Inability to legally mix NC with SA is a big barrier. Which is why BY or BY-SA are the best licenses.
+> 
+> 
+> On Sep 3, 2013, at 4:41 PM, Ignasi Labastida i Juan <ilabastida at ub.edu> wrote:
+> 
+>> Hi,
+>> 
+>> An interesting opposite point of view can be found here:
+>> Free Knowledge based on Creative Commons Licenses. Consequences, risks and
+>> side-effects of the license module 'non-commercial use only ? NC'
+>> http://www.vlaamse-erfgoedbibliotheek.be/en/node/2725
+>> 
+>> Best
+>> 
+>> Ignasi
+>> 
+>> 
+>> 2013/9/3 Peter Murray-Rust <pm286 at cam.ac.uk>
+>> 
+>>> I have had in-depth discussions with both Heather Morrison and Rosie
+>>> Redfield. I think they misinterpret what CC-BY allows and what CC-NC
+>>> prevents. In science, at least, we have used CC-BY for 10 years with no
+>>> problems. The only real effect , in science, for CC-NC - is that it allows
+>>> the publisher (not the author) to make additional money from reselling
+>>> rights to the article. Thus a CC-NC for an Elsevier article does not forbid
+>>> commercial re-use- it simply means that re-users have to pay Elsevier an
+>>> additional and lucrative tax. CC-NC in science is about ibcreasing
+>>> publisher income, not about restricting re-use.
+>>> 
+>>> In A+H the current ethos is that authors sell their books.  CC-NC may
+>>> have a bearing on this, though it will depend on the exact details of
+>>> copyright and the publisher. In general CC-NC controls who can make money.
+>>> 
+>>> 
+>>> On Tue, Sep 3, 2013 at 6:27 PM, Klaus Graf <klausgraf at googlemail.com>wrote:
+>>> 
+>>>> I cannot see the NSA context of CC-BY, sorry.
+>>>> 
+>>>> There was no copyright in the middle ages and a lot of fruitful
+>>>> plagiarism. May I remember to my thoughts at
+>>>> 
+>>>> http://jlsc-pub.org/jlsc/vol1/iss1/5/
+>>>> 
+>>>> CC-BY-ND blocks translations and other derivative works.
+>>>> 
+>>>> CC-BY-NC blocks scholarly use in commercial context e.g. use in the most
+>>>> (commercial) e-journals.
+>>>> 
+>>>> Klaus Graf
+>>>> 
+>>>> 
+>>>> 2013/9/3 Heather Morrison <Heather.Morrison at uottawa.ca>
+>>>> 
+>>>>> This argument appears to reflect a position of technological determinism
+>>>>> which I reject - the idea that we are helpless to do anything but adapt to
+>>>>> advancing technology. The key problem with this argument is that it is we
+>>>>> humans that create the technology, and we have the ability to shape it.
+>>>>> 
+>>>>> Another example of this kind of argument that people are thankfully
+>>>>> beginning to question, is the idea that now that we have the internet it is
+>>>>> ridiculous to think that there is any notion of privacy and the
+>>>>> accompanying idea that society both can and does accept this.
+>>>>> 
+>>>>> Snowden's revelations of NSA surveillance are such a good illustration
+>>>>> of the dangers of this loss of privacy that people are beginning to take
+>>>>> notice and say that yes, we do want privacy in the online environment.
+>>>>> Humans are not helpless with respect to this technology; we created it, and
+>>>>> we can shape it future.
+>>>>> 
+>>>>> This perspective is essential to the work of advocates for open access,
+>>>>> open science, a free and open internet. We work for this (I think) because
+>>>>> we perceive this as a desirable potential of the internet, and we do not
+>>>>> believe that this potential will be achieved by sitting back and watching
+>>>>> the technology unfold, but rather because we think action is both necessary
+>>>>> and desirable.
+>>>>> 
+>>>>> If you're interested in the social shaping of technology, you might want
+>>>>> to read some of Andrew Feenberg, e.g. Questioning Technology or
+>>>>> Transforming Technology.
+>>>>> 
+>>>>> ~ my two bits ~ thoughts?
+>>>>> 
+>>>>> Heather Morrison
+>>>>> 
+>>>>> 
+>>>>> 
+>>>>> On 2013-09-03, at 10:48 AM, Luke Winslow wrote:
+>>>>> 
+>>>>>> This kind of thing has been happening for a while. It is a natural
+>>>>> consequence of open licenses. Wikipedia has been re-packaged and sold many
+>>>>> times. While I can't find an example, popular open source software has
+>>>>> fallen prey from time to time, being repackaged and sold to uninformed
+>>>>> consumers who don't realize there are cost-free versions available.
+>>>>>> 
+>>>>>> I would argue this new world requires more of the consumer. Be savvy.
+>>>>> Do a little google research. There's no going back to simpler times, the
+>>>>> complexity is here to stay.
+>>>>>> 
+>>>>>> -Luke
+>>>>>> 
+>>>>>> On 2013-09-03 9:08 AM, Klaus Graf wrote:
+>>>>>>> 
+>>>>> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>>>>>>> 
+>>>>>>> Thoughts?
+>>>>>>> 
+>>>>>>> Klaus Graf
+>>>>>>> 
+>>>>>>> 
+>>>>>>> _______________________________________________
+>>>>>>> open-science mailing list
+>>>>>>> 
+>>>>>>> open-science at lists.okfn.org
+>>>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>>>> 
+>>>>>>> Unsubscribe:
+>>>>>>> http://lists.okfn.org/mailman/options/open-science
+>>>>>> 
+>>>>>> --
+>>>>>> Limnology and Marine Science
+>>>>>> University of Wisconsin - Madison
+>>>>>> 
+>>>>>> Mailing Address:
+>>>>>> 680 N. Park St.
+>>>>>> Madison, WI 53706
+>>>>>> 
+>>>>>> Skype: lawinslow
+>>>>>> Web: http://www.bookofluke.org
+>>>>>> _______________________________________________
+>>>>>> open-science mailing list
+>>>>>> open-science at lists.okfn.org
+>>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>>>> 
+>>>>> --
+>>>>> Dr. Heather Morrison
+>>>>> Assistant Professor
+>>>>> ?cole des sciences de l'information / School of Information Studies
+>>>>> University of Ottawa
+>>>>> 
+>>>>> http://www.sis.uottawa.ca/faculty/hmorrison.html
+>>>>> Heather.Morrison at uottawa.ca
+>>>>> 
+>>>>> ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+>>>>> Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+>>>>> sept-1 oct 2013
+>>>>> 
+>>>>> http://www.sis.uottawa.ca/accreditation.html
+>>>>> http://www.esi.uottawa.ca/accreditation.html
+>>>>> 
+>>>>> 
+>>>>> 
+>>>>> 
+>>>> 
+>>>> _______________________________________________
+>>>> open-access mailing list
+>>>> open-access at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>>> 
+>>>> 
+>>> 
+>>> 
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>> 
+>>> 
+>>> Aquest correu electr?nic i els annexos poden contenir informaci?
+>>> confidencial o protegida legalment i est? adre?at exclusivament a la
+>>> persona o entitat destinat?ria. Si no sou el destinatari final o la persona
+>>> encarregada de rebre?l, no esteu autoritzat a llegir-lo, retenir-lo,
+>>> modificar-lo, distribuir-lo, copiar-lo ni a revelar-ne el contingut. Si heu
+>>> rebut aquest correu electr?nic per error, us preguem que n?informeu al
+>>> remitent i que elimineu del sistema el missatge i el material annex que
+>>> pugui contenir. Gr?cies per la vostra col?laboraci?.
+>>> 
+>>> Este correo electr?nico y sus anexos pueden contener informaci?n
+>>> confidencial o legalmente protegida y est? exclusivamente dirigido a la
+>>> persona o entidad destinataria. Si usted no es el destinatario final o la
+>>> persona encargada de recibirlo, no est? autorizado a leerlo, retenerlo,
+>>> modificarlo, distribuirlo, copiarlo ni a revelar su contenido. Si ha
+>>> recibido este mensaje electr?nico por error, le rogamos que informe al
+>>> remitente y elimine del sistema el mensaje y el material anexo que pueda
+>>> contener. Gracias por su colaboraci?n.
+>>> 
+>>> This email message and any documents attached to it may contain
+>>> confidential or legally protected material and are intended solely for the
+>>> use of the individual or organization to whom they are addressed. We remind
+>>> you that if you are not the intended recipient of this email message or the
+>>> person responsible for processing it, then you are not authorized to read,
+>>> save, modify, send, copy or disclose any of its contents. If you have
+>>> received this email message by mistake, we kindly ask you to inform the
+>>> sender of this and to eliminate both the message and any attachments it
+>>> carries from your account. Thank you for your collaboration.
+>>> 
+>>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+-- 
+Dr. Heather Morrison
+Assistant Professor
+?cole des sciences de l'information / School of Information Studies
+University of Ottawa
+
+http://www.sis.uottawa.ca/faculty/hmorrison.html
+Heather.Morrison at uottawa.ca
+
+ALA Accreditation site visit scheduled for 30 Sept-1 Oct 2013 /
+Visite du comit? externe pour l'accr?ditation par l'ALA est pr?vu le 30
+sept-1 oct 2013
+
+http://www.sis.uottawa.ca/accreditation.html
+http://www.esi.uottawa.ca/accreditation.html
+
+
+
+
+
+From mike at indexdata.com  Wed Sep  4 21:29:31 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 4 Sep 2013 21:29:31 +0100
+Subject: [Open-access] CC-BY
+In-Reply-To: <687078340.20130903173251@gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<687078340.20130903173251@gmail.com>
+Message-ID: <CACnMvBbCJ+UWGOqB=Y0Z0XNTxqifmj14Dn-h0=0X_vrKXxyTKQ@mail.gmail.com>
+
+On 3 September 2013 16:32, Bjoern Brembs <b.brembs at gmail.com> wrote:
+> On Tuesday, September 3, 2013, 4:08:40 PM, you wrote:
+>
+>> http://blogs.ubc.ca/chendricks/2013/08/31/troubling-open-access-cc-by/
+>
+>> Thoughts?
+>
+> Here are mine (comment on article):
+>
+> Just PLoS ONE alone has published almost 100k OA articles since its inception. Now editors are going through all of these articles and picking the 'best' ones for a compilation in a book.
+
+Would that it were so. I am pretty darned certain that their selection
+process is:
+http://lmgtfy.com/?q=site%3Aplosone.org+ecology+desert
+
+If they ARE doing more, then it's to say the least surprising that
+there are no introductions explaining why the successful articles made
+the cut.
+
+-- Mike.
+
+
+From b.brembs at gmail.com  Wed Sep  4 21:52:22 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Wed, 4 Sep 2013 22:52:22 +0200
+Subject: [Open-access] CC-BY
+In-Reply-To: <CACnMvBbCJ+UWGOqB=Y0Z0XNTxqifmj14Dn-h0=0X_vrKXxyTKQ@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<687078340.20130903173251@gmail.com>
+	<CACnMvBbCJ+UWGOqB=Y0Z0XNTxqifmj14Dn-h0=0X_vrKXxyTKQ@mail.gmail.com>
+Message-ID: <1344859149.20130904225222@gmail.com>
+
+On Wednesday, September 4, 2013, 10:29:31 PM, you wrote:
+
+>> Just PLoS ONE alone has published almost 100k OA articles since its inception. Now editors are going through all of these articles and picking the 'best' ones for a compilation in a book.
+
+> Would that it were so. I am pretty darned certain that their selection
+> process is:
+> http://lmgtfy.com/?q=site%3Aplosone.org+ecology+desert
+
+Possibly, perhaps even likely - but who's to say that this isn't pretty much what CNS editors are doing when deciding what to send out for review? So in sticking with the "quality by selection" meme, that's how I put it - why use different assumptions for the same opaque process? :-)
+
+I actually don't really care how CNS or Apple select - chances are it's useless to me (and potentially most others) either way. But if one such useless selection is touted as "the best" without evidence, I damned well can claim "the best" for any other such opaque and useless exercise. :-)
+
+Bjoern
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurogenetics
+Universit?t Regensburg
+Germany
+
+
+
+From mike at indexdata.com  Wed Sep  4 21:56:31 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 4 Sep 2013 21:56:31 +0100
+Subject: [Open-access] CC-BY
+In-Reply-To: <1344859149.20130904225222@gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<687078340.20130903173251@gmail.com>
+	<CACnMvBbCJ+UWGOqB=Y0Z0XNTxqifmj14Dn-h0=0X_vrKXxyTKQ@mail.gmail.com>
+	<1344859149.20130904225222@gmail.com>
+Message-ID: <CACnMvBY8SvTd+z-S6o9qT5MttOrOa6zP7JN+tvJPCySR4w6-Cw@mail.gmail.com>
+
+On 4 September 2013 21:52, Bjoern Brembs <b.brembs at gmail.com> wrote:
+> On Wednesday, September 4, 2013, 10:29:31 PM, you wrote:
+>
+>>> Just PLoS ONE alone has published almost 100k OA articles since its inception. Now editors are going through all of these articles and picking the 'best' ones for a compilation in a book.
+>
+>> Would that it were so. I am pretty darned certain that their selection
+>> process is:
+>> http://lmgtfy.com/?q=site%3Aplosone.org+ecology+desert
+>
+> Possibly, perhaps even likely - but who's to say that this isn't pretty much what CNS editors are doing when deciding what to send out for review? So in sticking with the "quality by selection" meme, that's how I put it - why use different assumptions for the same opaque process? :-)
+
+Your argument in defence of Apple Academic Press seems to be "the
+other kids are all doing it". That was never an argument that
+impressed my mother, and it's not working on me, either.
+
+-- Mike.
+
+
+From b.brembs at gmail.com  Thu Sep  5 06:07:41 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Thu, 05 Sep 2013 07:07:41 +0200
+Subject: [Open-access] CC-BY
+In-Reply-To: <CACnMvBY8SvTd+z-S6o9qT5MttOrOa6zP7JN+tvJPCySR4w6-Cw@mail.gmail.com>
+References: <CADB6pjMyH131juy0g9JPpWb2kuWu-LaN5Pp6RJcXrLGzAf=c_A@mail.gmail.com>
+	<687078340.20130903173251@gmail.com>
+	<CACnMvBbCJ+UWGOqB=Y0Z0XNTxqifmj14Dn-h0=0X_vrKXxyTKQ@mail.gmail.com>
+	<1344859149.20130904225222@gmail.com>
+	<CACnMvBY8SvTd+z-S6o9qT5MttOrOa6zP7JN+tvJPCySR4w6-Cw@mail.gmail.com>
+Message-ID: <5228119D.2030309@gmail.com>
+
+On 09/04/2013 10:56 PM, Mike Taylor wrote:
+> Your argument in defence of Apple Academic Press seems to be "the 
+> other kids are all doing it". That was never an argument that 
+> impressed my mother, and it's not working on me, either. -- Mike. 
+
+No, my argument is: "but mom, I only took one cookie to give it to 
+little Ben after dinner, when Tom took the whole jar and ate all of the 
+cookies right away! Why isn't he grounded, too?" Would that have 
+impressed your mother? :-)
+
+That's all I'm saying.
+
+If you want to know what is *starting* to go around in my head as people 
+keep pushing this minor issue, read below, but I don't recommend it :-)
+
+Cheers,
+
+Bjoern
+
+
+--------------------------
+
+
+This publisher takes my article and extends the reach of it? So what? I 
+ought to be happy.
+This publisher extends the reach of my work without my name on it? So 
+what? It's not mine anyway, it's the tax payer's.
+This publisher charges for their work extending the reach of 
+taxpayer-funded research? So what? We all get paid for the work we do.
+This publisher uses some of the money they charge to employ people and 
+pay taxes? So what, that's what tax-funded research is supposed to do, 
+at least according to the politicians.
+This behavior violates the license under which the work is published? 
+Well then perhaps we ought to change the license to make this behavior 
+not violating it.
+
+The more people keep pushing this issue, the more I'm starting to think 
+that perhaps the right license for tax-funded research would be one 
+where the authors are not allowed to be mentioned on re-use, but where 
+'funded by the taxpayer' has to replace the author list.
+Now there's a whole host of reasons why this isn't practicable, but in 
+principle...
+
+Just to re-emphasize: I can see why people are upset and from a 
+traditional perspective their concerns are fully legitimate. I felt like 
+that myself - we all have the subjective impression of ownership of our 
+articles. What is *starting* to form in my head now is the suspicion 
+that we might perhaps need to reconsider some of our priorities.
+
+I don't think we serve the taxpayer by prioritizing the limitation of 
+re-use. Perhaps, one of our priorities should be to demonstrate to 
+authors that re-use is desirable, in *almost* whichever form.
+
+I'm not saying pushing this issue promotes limiting re-use, not 
+deliberately nor intentionally anyway, but look at Rosie's and some 
+other posts: the effect this whole spat has is that people flock to NC, 
+which one might consider counter-productive, or at least an unintended 
+consequence? I suspect that potential competitors of Apple AP see these 
+posts and discard this form of re-use right away instead of endorsing it 
+and out-competing AAP (easy enough). Perhaps what we're doing here is 
+even worse: perhaps we're closing the door to a whole market of 
+selection and aggregation services that might evolve and would have been 
+immensely beneficial had we not squelched it when it was in its infancy.
+
+
+
+
+From oabutton at gmail.com  Thu Sep  5 10:58:52 2013
+From: oabutton at gmail.com (Open Access Button)
+Date: Thu, 5 Sep 2013 10:58:52 +0100
+Subject: [Open-access] Open Access Button Hackathon Details
+Message-ID: <CAPKcAuipwbMRZz05w1vkkobUgS7FGCN-Y1Lm0=HTcKRGqkJUgg@mail.gmail.com>
+
+Hi Folks,
+
+For anyone interested in the Open Access Button the final details for the
+hackathon are here
+http://oabutton.wordpress.com/2013/09/04/open-access-button-hackathon-everything-you-need-to-know/
+
+Thanks all!
+
+Joe
+
+-- 
+Open Access Project Lead : Twitter <https://twitter.com/OA_Button>:
+Blog<http://oabutton.wordpress.com/> :
+Github <https://github.com/oabutton> : Google
+Group<https://groups.google.com/forum/?hl=en-GB#!forum/open-access-button-general>:
+Medsin-UK
+is a registered charity tackling global and local health inequalities.
+Registered charity number: 1111824
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/8e61aa22/attachment.htm>
+
+From b.brembs at gmail.com  Thu Sep  5 11:17:31 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Thu, 5 Sep 2013 12:17:31 +0200
+Subject: [Open-access] special issue on publishing reform in 'publication'?
+Message-ID: <586643169.20130905121731@gmail.com>
+
+Hi all,
+
+I've just been invited to edit a special issue in the MDPI journal 'publications' on a topic I can specify. If I do it, I thought it should revolve around replacing journal rank (i.e., altmetrics, ALM, etc.) and other (technical?) means to transcend a journal-based literature towards a coherent knowledge-dissemination infrastructure that incorporates of course text, but also software and data.
+
+However, I'm a little hesitant as I don't have no experience with the publisher:
+http://en.wikipedia.org/wiki/MDPI
+http://www.mdpi.com/about/
+
+nor the journal:
+
+http://www.mdpi.com/journal/publications
+
+I can see that Heather Morrison has published in there, but that's about it.
+
+I'm also doubtful as to which authors would be interested in submitting what to such a special issue.
+
+What do you think, should I do it? If so, who of you would be interested in contributing? If you have access to any other mailing lists or different means of dissemination, please by all means do send this around the various 'open' communities. I'll blog something and tweet it to see what the resonance from that end might be.
+
+I'm not sure I'm the right guy, but I'd let myself be convinced to try it anyway :-)
+
+Many thanks in advance,
+
+Bjoern
+
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurogenetics
+Universit?t Regensburg
+Germany
+
+
+
+From pm286 at cam.ac.uk  Thu Sep  5 11:41:36 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 5 Sep 2013 11:41:36 +0100
+Subject: [Open-access] special issue on publishing reform in
+	'publication'?
+In-Reply-To: <586643169.20130905121731@gmail.com>
+References: <586643169.20130905121731@gmail.com>
+Message-ID: <CAD2k14Pr7OrhfcVBXupBP2ng1Y46o3+dgua1L2piGr0VVk_hUg@mail.gmail.com>
+
+I know the MDPI people though haven't seen them for some years. They
+started with "Molecules" which is a straightforward journal for publishing
+chemistry and (may be) the largest collection of OA papers in main stream
+chemistry. A few years after they started I wrote to them that their
+licence was not compatible with BOAI and they changed it very quickly to
+CC-BY.
+
+I use their papers as a resource for extracting chemistry but I haven't
+published there. For Molecules the charge =1800 CHF ==1250 GBP approx.
+
+I have no recent experience but believe they are a competent OA publisher.
+Whether it's value for money I have no opinion. I think they are reasonably
+technically competent on production, though I have found unusual fonts in
+the PDFs.
+
+So I would have no current reservations.
+
+P.
+
+
+
+On Thu, Sep 5, 2013 at 11:17 AM, Bjoern Brembs <b.brembs at gmail.com> wrote:
+
+> Hi all,
+>
+> I've just been invited to edit a special issue in the MDPI journal
+> 'publications' on a topic I can specify. If I do it, I thought it should
+> revolve around replacing journal rank (i.e., altmetrics, ALM, etc.) and
+> other (technical?) means to transcend a journal-based literature towards a
+> coherent knowledge-dissemination infrastructure that incorporates of course
+> text, but also software and data.
+>
+> However, I'm a little hesitant as I don't have no experience with the
+> publisher:
+> http://en.wikipedia.org/wiki/MDPI
+> http://www.mdpi.com/about/
+>
+> nor the journal:
+>
+> http://www.mdpi.com/journal/publications
+>
+> I can see that Heather Morrison has published in there, but that's about
+> it.
+>
+> I'm also doubtful as to which authors would be interested in submitting
+> what to such a special issue.
+>
+> What do you think, should I do it? If so, who of you would be interested
+> in contributing? If you have access to any other mailing lists or different
+> means of dissemination, please by all means do send this around the various
+> 'open' communities. I'll blog something and tweet it to see what the
+> resonance from that end might be.
+>
+> I'm not sure I'm the right guy, but I'd let myself be convinced to try it
+> anyway :-)
+>
+> Many thanks in advance,
+>
+> Bjoern
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurogenetics
+> Universit?t Regensburg
+> Germany
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/d2efb16f/attachment.htm>
+
+From b.brembs at gmail.com  Thu Sep  5 12:19:02 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Thu, 5 Sep 2013 13:19:02 +0200
+Subject: [Open-access] special issue on publishing reform in
+	'publication'?
+In-Reply-To: <CAD2k14Pr7OrhfcVBXupBP2ng1Y46o3+dgua1L2piGr0VVk_hUg@mail.gmail.com>
+References: <586643169.20130905121731@gmail.com>
+	<CAD2k14Pr7OrhfcVBXupBP2ng1Y46o3+dgua1L2piGr0VVk_hUg@mail.gmail.com>
+Message-ID: <373491769.20130905131902@gmail.com>
+
+On Thursday, September 5, 2013, 12:41:36 PM, you wrote:
+
+> So I would have no current reservations. 
+
+Excellent, thanks!
+
+Would you be interested in contributing a paper on current content-mining state of the art and what infrastructure would have to be developed to fully leverage the technology?
+
+Cheers,
+
+Bjoern
+
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurogenetics
+Universit?t Regensburg
+Germany
+
+
+
+From pm286 at cam.ac.uk  Thu Sep  5 12:40:26 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 5 Sep 2013 12:40:26 +0100
+Subject: [Open-access] special issue on publishing reform in
+	'publication'?
+In-Reply-To: <373491769.20130905131902@gmail.com>
+References: <586643169.20130905121731@gmail.com>
+	<CAD2k14Pr7OrhfcVBXupBP2ng1Y46o3+dgua1L2piGr0VVk_hUg@mail.gmail.com>
+	<373491769.20130905131902@gmail.com>
+Message-ID: <CAD2k14Pi+KRdBPDONaesiowX8Eb9iYhCDwSxn0MO5haYQ+ZVCQ@mail.gmail.com>
+
+On Thu, Sep 5, 2013 at 12:19 PM, Bjoern Brembs <b.brembs at gmail.com> wrote:
+
+> On Thursday, September 5, 2013, 12:41:36 PM, you wrote:
+>
+> > So I would have no current reservations.
+>
+> Excellent, thanks!
+>
+> Would you be interested in contributing a paper on current content-mining
+> state of the art and what infrastructure would have to be developed to
+> fully leverage the technology?
+>
+
+Yes - with the reservation that it's not easy for me to find CHF 1800.  I
+think Ross will be interested.
+
+
+>
+> Cheers,
+>
+> Bjoern
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurogenetics
+> Universit?t Regensburg
+> Germany
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/117fde5c/attachment.htm>
+
+From b.brembs at gmail.com  Thu Sep  5 12:44:52 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Thu, 5 Sep 2013 13:44:52 +0200
+Subject: [Open-access] special issue on publishing reform in
+	'publication'?
+In-Reply-To: <CAD2k14Pi+KRdBPDONaesiowX8Eb9iYhCDwSxn0MO5haYQ+ZVCQ@mail.gmail.com>
+References: <586643169.20130905121731@gmail.com>
+	<CAD2k14Pr7OrhfcVBXupBP2ng1Y46o3+dgua1L2piGr0VVk_hUg@mail.gmail.com>
+	<373491769.20130905131902@gmail.com>
+	<CAD2k14Pi+KRdBPDONaesiowX8Eb9iYhCDwSxn0MO5haYQ+ZVCQ@mail.gmail.com>
+Message-ID: <1969951580.20130905134452@gmail.com>
+
+On Thursday, September 5, 2013, 1:40:26 PM, you wrote:
+
+> Yes - with the reservation that it's not easy for me to
+> find CHF 1800.  I think Ross will be interested.
+
+IIRC, all APCs are waived for this issue.
+
+Bjoern
+
+
+
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurogenetics
+Universit?t Regensburg
+Germany
+
+
+
+From pm286 at cam.ac.uk  Thu Sep  5 12:57:48 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 5 Sep 2013 12:57:48 +0100
+Subject: [Open-access] special issue on publishing reform in
+	'publication'?
+In-Reply-To: <1969951580.20130905134452@gmail.com>
+References: <586643169.20130905121731@gmail.com>
+	<CAD2k14Pr7OrhfcVBXupBP2ng1Y46o3+dgua1L2piGr0VVk_hUg@mail.gmail.com>
+	<373491769.20130905131902@gmail.com>
+	<CAD2k14Pi+KRdBPDONaesiowX8Eb9iYhCDwSxn0MO5haYQ+ZVCQ@mail.gmail.com>
+	<1969951580.20130905134452@gmail.com>
+Message-ID: <CAD2k14OAgieAOUXHX6NJHz0v41rkMfgUK54f9ofdxxMGNYqmqQ@mail.gmail.com>
+
+Then no reservations!
+
+
+On Thu, Sep 5, 2013 at 12:44 PM, Bjoern Brembs <b.brembs at gmail.com> wrote:
+
+> On Thursday, September 5, 2013, 1:40:26 PM, you wrote:
+>
+> > Yes - with the reservation that it's not easy for me to
+> > find CHF 1800.  I think Ross will be interested.
+>
+> IIRC, all APCs are waived for this issue.
+>
+> Bjoern
+>
+>
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurogenetics
+> Universit?t Regensburg
+> Germany
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/bdaff778/attachment.htm>
+
+From Jeffrey.Beall at ucdenver.edu  Thu Sep  5 16:37:57 2013
+From: Jeffrey.Beall at ucdenver.edu (Beall, Jeffrey)
+Date: Thu, 5 Sep 2013 09:37:57 -0600
+Subject: [Open-access] special issue on publishing reform in
+ publication'?
+Message-ID: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+
+Bjoern, Peter, and others:
+
+
+
+This blog post may be relevant:
+
+
+
+"Why I Resigned from the Editorial Board of Climate over its Akasofu Publication" = http://www.skepticalscience.com/brierly-resignation-climate-akasofu.html
+
+
+
+The author is Dr. Chris Brierley from University College London. Climate is published by MDPI. This publisher is not on my list, but I do find it borderline, and I regularly receive inquiries asking whether it's legitimate or not. (I had a fee-waived article published in one of their journals in 2010).
+
+
+
+So, this question may be relevant: Do you want to have your article published by a corporation that also publishes questionable climate science research?
+
+
+
+--Jeffrey Beall
+
+
+
+
+
+
+
+-----Original Message-----
+From: open-access-bounces at lists.okfn.org [mailto:open-access-bounces at lists.okfn.org] On Behalf Of Bjoern Brembs
+Sent: Thursday, September 05, 2013 5:19 AM
+To: Peter Murray-Rust
+Cc: open-science; open-access at lists.okfn.org
+Subject: Re: [Open-access] special issue on publishing reform in 'publication'?
+
+
+
+On Thursday, September 5, 2013, 12:41:36 PM, you wrote:
+
+
+
+> So I would have no current reservations.
+
+
+
+Excellent, thanks!
+
+
+
+Would you be interested in contributing a paper on current content-mining state of the art and what infrastructure would have to be developed to fully leverage the technology?
+
+
+
+Cheers,
+
+
+
+Bjoern
+
+
+
+
+
+
+
+
+
+--
+
+Bj?rn Brembs
+
+---------------------------------------------
+
+http://brembs.net
+
+Neurogenetics
+
+Universit?t Regensburg
+
+Germany
+
+
+
+
+
+_______________________________________________
+
+open-access mailing list
+
+open-access at lists.okfn.org<mailto:open-access at lists.okfn.org>
+
+http://lists.okfn.org/mailman/listinfo/open-access
+
+Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/a7998e01/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Sep  5 17:19:24 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 5 Sep 2013 17:19:24 +0100
+Subject: [Open-access] special issue on publishing reform in
+	publication'?
+In-Reply-To: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+References: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+Message-ID: <CAD2k14N+pu4iD4HV=0JEsFH3DuORbzLbPV-gV0LByOWR6JL3bQ@mail.gmail.com>
+
+This is a useful discussion point.
+
+I stand by what I wrote - in the field of chemistry and materials my
+analysis of the papers and the editorial board (of Molecules) seems fully
+satisfactory. See http://www.mdpi.com/journal/molecules/editors which has
+many people I know and many Nobel Laureates. The journal has been going for
+17 years and I have no evidence that these people are on the board without
+their knowledge.
+
+ALL journals can have rogue papers. Some years ago J.A.C.S published a
+paper on Sodium Hydride oxidation (sic)  whose argument was rubbish (
+http://totallysynthetic.com/blog/?p=1903 . The blogosphere tore it to
+shreds in 24 hours including repeating the experiment. No competent referee
+could have allowed it through. Yet it took about three years for the ACS to
+issue a retraction. I see no real difference with the current climate
+science paper. Wiley published a worse one (in Proteomics, on the relation
+of the soul (sic) to mitochondria
+http://www.theguardian.com/science/blog/2008/feb/13/thankstocjv5040forputting).
+I myself have been been on the editorial board of a journal and asked
+to
+review an appalling paper - I said on no account should it go through - and
+it did.
+
+So it isn't appropriate to criticise a publisher on one bad paper. Who
+knows, it may even get retracted. (I haven't read it). It may even be an
+appropriate viewpoint even if not mainstream.
+
+Some publishers have complete journals which are rubbish and which break
+all the rules of peer-review. One Elsevier example is
+http://en.wikipedia.org/wiki/Elsevier#Chaos.2C_Solitons_.26_Fractals where
+hundreds of unacceptable papers have been published. But that wouldn't stop
+me publishing with Elsevier. (I have stopped for other more valid reasons).
+
+I have no evidence one way or another than MDPI has more or less
+unacceptable journals and papers than any other.
+
+For any journal I would be concerned if there was widespread documented
+malpractice which had been reported and no action had been taken. And if
+this were true for a number of journals from a publisher I could be
+concerned for the publisher. I have no evidence of this in this case.
+
+
+
+On Thu, Sep 5, 2013 at 4:37 PM, Beall, Jeffrey
+<Jeffrey.Beall at ucdenver.edu>wrote:
+
+> Bjoern, Peter, and others:****
+>
+> ** **
+>
+> This blog post may be relevant:****
+>
+> ** **
+>
+> ?Why I Resigned from the Editorial Board of *Climate* over its Akasofu
+> Publication? =
+> http://www.skepticalscience.com/brierly-resignation-climate-akasofu.html**
+> **
+>
+> ** **
+>
+> The author is Dr. Chris Brierley from University College London. *Climate*is published by MDPI. This publisher is not on my list, but I do find it
+> borderline, and I regularly receive inquiries asking whether it?s
+> legitimate or not. (I had a fee-waived article published in one of their
+> journals in 2010). ****
+>
+> ** **
+>
+> So, this question may be relevant: Do you want to have your article
+> published by a corporation that also publishes questionable climate science
+> research?****
+>
+> ** **
+>
+> --Jeffrey Beall****
+>
+> ** **
+>
+> ** **
+>
+> ** **
+>
+> -----Original Message-----
+> From: open-access-bounces at lists.okfn.org [mailto:
+> open-access-bounces at lists.okfn.org] On Behalf Of Bjoern Brembs
+> Sent: Thursday, September 05, 2013 5:19 AM
+> To: Peter Murray-Rust
+> Cc: open-science; open-access at lists.okfn.org
+> Subject: Re: [Open-access] special issue on publishing reform in
+> 'publication'?
+>
+> ** **
+>
+> On Thursday, September 5, 2013, 12:41:36 PM, you wrote:****
+>
+> ** **
+>
+> > So I would have no current reservations. ****
+>
+> ** **
+>
+> Excellent, thanks!****
+>
+> ** **
+>
+> Would you be interested in contributing a paper on current content-mining
+> state of the art and what infrastructure would have to be developed to
+> fully leverage the technology?****
+>
+> ** **
+>
+> Cheers,****
+>
+> ** **
+>
+> Bjoern****
+>
+> ** **
+>
+> ** **
+>
+> ** **
+>
+> ** **
+>
+> -- ****
+>
+> Bj?rn Brembs****
+>
+> ---------------------------------------------****
+>
+> http://brembs.net****
+>
+> Neurogenetics****
+>
+> Universit?t Regensburg****
+>
+> Germany****
+>
+> ** **
+>
+> ** **
+>
+> _______________________________________________****
+>
+> open-access mailing list****
+>
+> open-access at lists.okfn.org****
+>
+> http://lists.okfn.org/mailman/listinfo/open-access****
+>
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access****
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/b0dadcb4/attachment-0001.htm>
+
+From b.brembs at gmail.com  Thu Sep  5 17:33:42 2013
+From: b.brembs at gmail.com (Bjoern Brembs)
+Date: Thu, 5 Sep 2013 18:33:42 +0200
+Subject: [Open-access] special issue on publishing reform in
+	publication'?
+In-Reply-To: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+References: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+Message-ID: <199393821.20130905183342@gmail.com>
+
+On Thursday, September 5, 2013, 5:37:57 PM, you wrote:
+
+> The author is Dr. Chris Brierley from University College
+> London. Climate is published by MDPI.
+
+Thanks a lot for your info, Jeffrey! Due to your links I found a few other stories of quite ghastly papers in journals by this publisher.
+
+> So, this question may be relevant: Do you want to have
+> your article published by a corporation that also
+> publishes questionable climate science research?
+
+If I may generalize the question somewhat: "Do you want to have you article published by a corporation that also publishes questionable research?"
+
+If I said 'no' to this question, I couldn't use any publisher! The GlamMagz (Science, Nature, Lancet, Cell, New England Journal of Medicine, etc.) have the highest retraction rates on the market, all of them have at some point published outrageous falsehoods (cold fusion, arsenic life,  Sodium Hydride oxidation, the relation
+of the soul (sic) to mitochondria, etc.) and fallen for sometimes outrageously obvious fraud (e.g. Jan-Hendrik Schoen) or less obvious, but sustained fraud ( Diederik Stapel, Who-Suk Wang, etc.).
+There is not a single indicator in the literature that points towards hi-ranking journals publishing higher quality research, but a few studies show some solid negative trends, i.e., indicating that one should not rely on the content of the high-impact journals. If I cut out all the publishers which publish the, say, top 20 journals for the reason that they "also publish questionable research", I'd be completely out of publishers.
+
+So, as much as one might want to do that, it's impossible to shun the entire corporation because of some papers.
+As Peter wrote: "ALL journals can have rogue papers."
+And ALL publishers can have rogue journals (besides 'Solitons and Fractals' Elsevier also publishes the brilliant 'Homeopathy' - not a parody and, of course, the infamous fake "Australasian Journal of..." suite of journals).
+
+That leaves looking at the journal. One should probably be wary of journals that do not have demonstrable peer-review (hard as that sometimes might be to establish - GlamMagz, e.g. only peer-review about 40% of the submitted articles and editors openly boast publishing articles against the recommendation of the reviewers) and that have too high retraction rates, both of which would indicate that the journal is attracting cranks.
+
+Does anybody know if the journal 'publications' has any such indicators of attracting cranks?
+
+Thanks!
+
+Bjoern
+
+
+
+
+-- 
+Bj?rn Brembs
+---------------------------------------------
+http://brembs.net
+Neurogenetics
+Universit?t Regensburg
+Germany
+
+
+
+From ross.mounce at gmail.com  Thu Sep  5 18:26:37 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 6 Sep 2013 01:26:37 +0800
+Subject: [Open-access] special issue on publishing reform in
+	'publication'?
+In-Reply-To: <586643169.20130905121731@gmail.com>
+References: <586643169.20130905121731@gmail.com>
+Message-ID: <CAJr+OEw4i3qmJyr62uK1At7SGdU-+6zMpVExyp7C1sG=HEie0A@mail.gmail.com>
+
+RE: MDPI
+
+Phil Lord has written a positive, but honest review of his experience
+publishing a paper in an MDPI journal here:
+http://www.russet.org.uk/blog/2297
+
+So yes, I gather MDPI are competent publishers
+On Sep 5, 2013 6:30 PM, "Bjoern Brembs" <b.brembs at gmail.com> wrote:
+
+> Hi all,
+>
+> I've just been invited to edit a special issue in the MDPI journal
+> 'publications' on a topic I can specify. If I do it, I thought it should
+> revolve around replacing journal rank (i.e., altmetrics, ALM, etc.) and
+> other (technical?) means to transcend a journal-based literature towards a
+> coherent knowledge-dissemination infrastructure that incorporates of course
+> text, but also software and data.
+>
+> However, I'm a little hesitant as I don't have no experience with the
+> publisher:
+> http://en.wikipedia.org/wiki/MDPI
+> http://www.mdpi.com/about/
+>
+> nor the journal:
+>
+> http://www.mdpi.com/journal/publications
+>
+> I can see that Heather Morrison has published in there, but that's about
+> it.
+>
+> I'm also doubtful as to which authors would be interested in submitting
+> what to such a special issue.
+>
+> What do you think, should I do it? If so, who of you would be interested
+> in contributing? If you have access to any other mailing lists or different
+> means of dissemination, please by all means do send this around the various
+> 'open' communities. I'll blog something and tweet it to see what the
+> resonance from that end might be.
+>
+> I'm not sure I'm the right guy, but I'd let myself be convinced to try it
+> anyway :-)
+>
+> Many thanks in advance,
+>
+> Bjoern
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurogenetics
+> Universit?t Regensburg
+> Germany
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130906/14c5fa50/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Sep  5 20:49:58 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 5 Sep 2013 20:49:58 +0100
+Subject: [Open-access] special issue on publishing reform in
+	publication'?
+In-Reply-To: <199393821.20130905183342@gmail.com>
+References: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+	<199393821.20130905183342@gmail.com>
+Message-ID: <CAD2k14OCgNbqLyGB+2ZDgpj0w1yjTxbPr0hcwbXb6tMM9s-jdw@mail.gmail.com>
+
+OK,
+Let's take this as an example of the pluses and minuses of journals.
+
+I am not a supporter of the journal as container. We need to find ways of
+assessing the article without the journal. In the current case I have read
+the titles of the current articles and the authors. On a quick skim they
+look worthy articles, honestly written. I would tend to trust the author's
+judgments as to what they write and rely on referees to pick up possible
+problems.
+
+For reference I did an invited article for Serials Review (Elsevier) about
+3-4 years ago - before I joined the boycott. The experience was awful. It
+was an open access issue and (I believe) we were promised the articles
+would always be visible. In fact they put them behind a paywall after a few
+months. I spent about 100 emails trying to get the journal to accept HTML
+as the submission format.  AFAICR there was no peer-review that changed the
+article - it went in as submitted.
+
+So I have an article in SR. No-one reads it. The JIF is a staggering 0.9 or
+something (not that I care). More people have read it on Nature Preceedings
+and DSpace @ cam than ever anyone did on Elsevier's pages (they don't gives
+stats anyway).
+
+So I have everything to gain by moving to MDPI. People will or will not
+read the article because of what's in it, not because the publisher earns
+billions USD / year. They might even make their decision because Bjorn is
+the  editor and I am the  author.
+
+
+
+On Thu, Sep 5, 2013 at 5:33 PM, Bjoern Brembs <b.brembs at gmail.com> wrote:
+
+> On Thursday, September 5, 2013, 5:37:57 PM, you wrote:
+>
+> > The author is Dr. Chris Brierley from University College
+> > London. Climate is published by MDPI.
+>
+> Thanks a lot for your info, Jeffrey! Due to your links I found a few other
+> stories of quite ghastly papers in journals by this publisher.
+>
+> > So, this question may be relevant: Do you want to have
+> > your article published by a corporation that also
+> > publishes questionable climate science research?
+>
+> If I may generalize the question somewhat: "Do you want to have you
+> article published by a corporation that also publishes questionable
+> research?"
+>
+> If I said 'no' to this question, I couldn't use any publisher! The
+> GlamMagz (Science, Nature, Lancet, Cell, New England Journal of Medicine,
+> etc.) have the highest retraction rates on the market, all of them have at
+> some point published outrageous falsehoods (cold fusion, arsenic life,
+>  Sodium Hydride oxidation, the relation
+> of the soul (sic) to mitochondria, etc.) and fallen for sometimes
+> outrageously obvious fraud (e.g. Jan-Hendrik Schoen) or less obvious, but
+> sustained fraud ( Diederik Stapel, Who-Suk Wang, etc.).
+> There is not a single indicator in the literature that points towards
+> hi-ranking journals publishing higher quality research, but a few studies
+> show some solid negative trends, i.e., indicating that one should not rely
+> on the content of the high-impact journals. If I cut out all the publishers
+> which publish the, say, top 20 journals for the reason that they "also
+> publish questionable research", I'd be completely out of publishers.
+>
+> So, as much as one might want to do that, it's impossible to shun the
+> entire corporation because of some papers.
+> As Peter wrote: "ALL journals can have rogue papers."
+> And ALL publishers can have rogue journals (besides 'Solitons and
+> Fractals' Elsevier also publishes the brilliant 'Homeopathy' - not a parody
+> and, of course, the infamous fake "Australasian Journal of..." suite of
+> journals).
+>
+> That leaves looking at the journal. One should probably be wary of
+> journals that do not have demonstrable peer-review (hard as that sometimes
+> might be to establish - GlamMagz, e.g. only peer-review about 40% of the
+> submitted articles and editors openly boast publishing articles against the
+> recommendation of the reviewers) and that have too high retraction rates,
+> both of which would indicate that the journal is attracting cranks.
+>
+> Does anybody know if the journal 'publications' has any such indicators of
+> attracting cranks?
+>
+> Thanks!
+>
+> Bjoern
+>
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurogenetics
+> Universit?t Regensburg
+> Germany
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/7b65064c/attachment.htm>
+
+From michelle.brook at okfn.org  Fri Sep  6 00:29:43 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Fri, 6 Sep 2013 00:29:43 +0100
+Subject: [Open-access] Open Knowledge MeetUp - Cape Town 10 September
+Message-ID: <CABOTVX8k_MKi_zfp50Lrgq+4803dKq3dzZJ_rBwwy_MNCSmPFw@mail.gmail.com>
+
+Hey all,
+
+I'm heading out to Cape Town next week with Jenny Molloy (Open Science
+Working Group coordinator) to run an open science workshop alongside Open
+UCT. While we're out there, we would be really keen to meet up with as many
+people as possible from the Open Knowledge community!
+
+Mark Horner (CEO of Siyavulaha) very kindly found us space for a meetup at
+the* Open Innovation Centre, Cape Town*, from *19:00 on 10 September*. More
+details can be found here:
+http://www.meetup.com/OpenKnowledgeFoundation/Cape-Town/1021072/
+
+Come share tales of your projects and activities, and find out about what
+others are doing! I'm hoping we can have a series of lightning talks, so
+please let me know if you would like to talk, and I'll add you to the list.
+Do circulate it to others you know in Cape Town who may be interested!
+
+If you really can't come along and join us, but fancy a coffee on Monday or
+Tuesday, let us know. We've got some free time on those days at present,
+and we are really keen to use it to meet up with interesting people in Cape
+Town.
+
+Best wishes,
+Michelle
+
+
+-- 
+*
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | *http://linkedup-project.eu|
+@LinkedUpProjec<http://twitter.com/LinkedUpProject>
+*t* | linking data for education
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130906/09ae26eb/attachment-0001.htm>
+
+From eventos at dt.sibi.usp.br  Thu Sep  5 14:26:45 2013
+From: eventos at dt.sibi.usp.br (Eventos SIBiUSP)
+Date: Thu, 5 Sep 2013 10:26:45 -0300
+Subject: [Open-access] =?iso-8859-1?q?4=AA_CONFOA_-_Programa=E7=E3o_e_insc?=
+	=?iso-8859-1?q?ri=E7=F5es?=
+Message-ID: <CANxoPnDvhJXUyKtRr3HKkZ-PqJ1jgWiBa4HJaYMBtxgRFQub7g@mail.gmail.com>
+
+*A programa??o da 4? Confer?ncia Luso-Brasileira sobre Acesso Aberto est?
+publicada*
+
+*
+*
+
+*Programa??o ?* Visite o site e veja a programa??o completa, que contar?
+com mesas de debates, comunica??es de trabalhos, cursos e apresenta??es de
+p?steres:
+http://www.acessolivre.pt/c/index.php/confoa2013/2013/schedConf/program
+
+*Inscri??es ?* O evento, que acontece de 6 a 9 de outubro de 2013 no
+Audit?rio da Biblioteca Brasiliana da USP, ? gratuito e est? com as
+inscri??es abertas, que devem ser feitas exclusivamente pelo site:
+http://www.acessoaberto.pt/c/index.php/confoa2013/2013/schedConf/registration
+
+*Cursos ?* Ser?o oferecidas tamb?m diversas oficinas, cujas inscri??es
+dever?o ser feitas por e-mail enviado para
+confoa2013 at sibi.usp.br<Confoa2013 at sibi.usp.br>, com
+os seguintes dados: nome completo, email, institui??o, oficina(s) de
+interesse.
+
+Agradecemos a presen?a e solicitamos ampla divulga??o.
+
+
+Atenciosamente,
+
+*Comiss?o Organizadora da 4? CONFOA*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130905/d09f6219/attachment.htm>
+
+From peter.suber at gmail.com  Fri Sep  6 17:36:10 2013
+From: peter.suber at gmail.com (Peter Suber)
+Date: Fri, 6 Sep 2013 12:36:10 -0400
+Subject: [Open-access] [open-science] special issue on publishing reform
+ in publication'?
+In-Reply-To: <CAD2k14OCgNbqLyGB+2ZDgpj0w1yjTxbPr0hcwbXb6tMM9s-jdw@mail.gmail.com>
+References: <64DB27005E2FD3439E88502D7A5C9121010246103E15@CORTEZ.ucdenver.pvt>
+	<199393821.20130905183342@gmail.com>
+	<CAD2k14OCgNbqLyGB+2ZDgpj0w1yjTxbPr0hcwbXb6tMM9s-jdw@mail.gmail.com>
+Message-ID: <CAB0+At4oLoN0BsBzLCETmDXc0BmKi+T2DCQSS4JcbC7XmngLHQ@mail.gmail.com>
+
+I'm on the editorial board of MDPI's _Publications_.
+http://www.mdpi.com/journal/publications/editors
+
+So are some other people I know and trust, including Bo-Christer
+Bj?rk, Andr?e Rathemacher, and Carol Tenopir. (BTW, the entry for me on the
+editorial board web page is out of date.)
+
+I was introduced to MDPI years ago by Francis Muguet, a completely honest
+and very hard-working chemist, lawyer, and activist for OA.
+http://en.wikipedia.org/wiki/Francis_Muguet
+
+I've seen blog discussions on whether MDPI is (or is becoming) predatory.
+I'm sensitive to these. On the one hand, I've seen no evidence to date that
+MDPI is a dishonest operation. On the other hand, as soon as I do, I'm
+prepared to step down.
+
+In that sense, I welcome further discussion of MDPI's track record. Every
+journal should be open to continual scrutiny. At the same time, I'm
+delighted that Bjorn will guest-edit an issue of _Publications_.
+
+     Peter S.
+
+Peter Suber
+bit.ly/petersuber
+
+
+
+On Thu, Sep 5, 2013 at 3:49 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> OK,
+> Let's take this as an example of the pluses and minuses of journals.
+>
+> I am not a supporter of the journal as container. We need to find ways of
+> assessing the article without the journal. In the current case I have read
+> the titles of the current articles and the authors. On a quick skim they
+> look worthy articles, honestly written. I would tend to trust the author's
+> judgments as to what they write and rely on referees to pick up possible
+> problems.
+>
+> For reference I did an invited article for Serials Review (Elsevier) about
+> 3-4 years ago - before I joined the boycott. The experience was awful. It
+> was an open access issue and (I believe) we were promised the articles
+> would always be visible. In fact they put them behind a paywall after a few
+> months. I spent about 100 emails trying to get the journal to accept HTML
+> as the submission format.  AFAICR there was no peer-review that changed the
+> article - it went in as submitted.
+>
+> So I have an article in SR. No-one reads it. The JIF is a staggering 0.9
+> or something (not that I care). More people have read it on Nature
+> Preceedings and DSpace @ cam than ever anyone did on Elsevier's pages (they
+> don't gives stats anyway).
+>
+> So I have everything to gain by moving to MDPI. People will or will not
+> read the article because of what's in it, not because the publisher earns
+> billions USD / year. They might even make their decision because Bjorn is
+> the  editor and I am the  author.
+>
+>
+>
+> On Thu, Sep 5, 2013 at 5:33 PM, Bjoern Brembs <b.brembs at gmail.com> wrote:
+>
+>> On Thursday, September 5, 2013, 5:37:57 PM, you wrote:
+>>
+>> > The author is Dr. Chris Brierley from University College
+>> > London. Climate is published by MDPI.
+>>
+>> Thanks a lot for your info, Jeffrey! Due to your links I found a few
+>> other stories of quite ghastly papers in journals by this publisher.
+>>
+>> > So, this question may be relevant: Do you want to have
+>> > your article published by a corporation that also
+>> > publishes questionable climate science research?
+>>
+>> If I may generalize the question somewhat: "Do you want to have you
+>> article published by a corporation that also publishes questionable
+>> research?"
+>>
+>> If I said 'no' to this question, I couldn't use any publisher! The
+>> GlamMagz (Science, Nature, Lancet, Cell, New England Journal of Medicine,
+>> etc.) have the highest retraction rates on the market, all of them have at
+>> some point published outrageous falsehoods (cold fusion, arsenic life,
+>>  Sodium Hydride oxidation, the relation
+>> of the soul (sic) to mitochondria, etc.) and fallen for sometimes
+>> outrageously obvious fraud (e.g. Jan-Hendrik Schoen) or less obvious, but
+>> sustained fraud ( Diederik Stapel, Who-Suk Wang, etc.).
+>> There is not a single indicator in the literature that points towards
+>> hi-ranking journals publishing higher quality research, but a few studies
+>> show some solid negative trends, i.e., indicating that one should not rely
+>> on the content of the high-impact journals. If I cut out all the publishers
+>> which publish the, say, top 20 journals for the reason that they "also
+>> publish questionable research", I'd be completely out of publishers.
+>>
+>> So, as much as one might want to do that, it's impossible to shun the
+>> entire corporation because of some papers.
+>> As Peter wrote: "ALL journals can have rogue papers."
+>> And ALL publishers can have rogue journals (besides 'Solitons and
+>> Fractals' Elsevier also publishes the brilliant 'Homeopathy' - not a parody
+>> and, of course, the infamous fake "Australasian Journal of..." suite of
+>> journals).
+>>
+>> That leaves looking at the journal. One should probably be wary of
+>> journals that do not have demonstrable peer-review (hard as that sometimes
+>> might be to establish - GlamMagz, e.g. only peer-review about 40% of the
+>> submitted articles and editors openly boast publishing articles against the
+>> recommendation of the reviewers) and that have too high retraction rates,
+>> both of which would indicate that the journal is attracting cranks.
+>>
+>> Does anybody know if the journal 'publications' has any such indicators
+>> of attracting cranks?
+>>
+>> Thanks!
+>>
+>> Bjoern
+>>
+>>
+>>
+>>
+>> --
+>> Bj?rn Brembs
+>> ---------------------------------------------
+>> http://brembs.net
+>> Neurogenetics
+>> Universit?t Regensburg
+>> Germany
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130906/fb03aa57/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Thu Sep 12 10:21:25 2013
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Thu, 12 Sep 2013 10:21:25 +0100
+Subject: [Open-access] Open and collaborative science for development
+ workshop - follow us in Cape Town
+Message-ID: <CABPM+wp3qY4rLgnMVFBCUcLXzBn6cuZdvtNZ-=Wbzk-7iocvGg@mail.gmail.com>
+
+Hi All
+
+The IDRC funded and OKF/OpenUCT organised workshop on open and
+collaborative science for development started today at the University of
+Cape Town!
+You can find the original blog post here:
+http://science.okfn.org/2013/07/20/open-science-for-development/
+The project proposal here:
+https://sites.google.com/a/okfn.org/opensciencedev/our-mission
+
+Follow us on *#openscidev* and *#openscience* - we would love your
+engagement and interaction over the next two days so please tweet back your
+thoughts and comments!
+We will be blogging each evening and posting summaries to our discussion
+group https://sites.google.com/a/okfn.org/opensciencedev/discussion for
+more in depth debate.
+
+Do spread the word and get in touch via these routes - input and
+perspectives from those in the global south would be particularly
+interesting for us as we try and build a research agenda to better
+understand the challenges and opportunities in applying open approaches to
+science for development.
+
+Best wishes
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130912/bd1f32c1/attachment.htm>
+
+From gutam2000 at gmail.com  Sat Sep 14 05:09:48 2013
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Sat, 14 Sep 2013 09:39:48 +0530
+Subject: [Open-access] ICAR adopts Open Access policy
+Message-ID: <CA+4KT3pnaHcHs_oKKxAKMFYfGWnf9ykT1OEDr8mnKBLU3VGV9A@mail.gmail.com>
+
+ *ICAR adopts Open Access policy*
+
+Today (13th September 2013) the Indian Council of Agricultural Research (
+ICAR <http://icar.org.in/en/node/6609>) had announced its Open Access
+policy on its website <http://icar.org.in/en/node/6609>.
+
+The full-text of Open Access policy of the ICAR is follows:
+ ICAR
+'s Open Access Policy
+
+   - Each ICAR institute to setup an Open Access Institutional Repository.
+   - ICAR shall setup a central harvester to harvest the metadata and
+   full-text of all the records from all the OA repositories of the ICAR
+   institutes for one stop access to all the agricultural knowledge generated
+   in ICAR.
+   - All the meta-data and other information of the institutional
+   repositories are copyrighted with the ICAR. These are licensed for use,
+   re-use and sharing for academic and research purposes. Commercial and other
+   reuse requires written permission.
+   - All publications viz., research articles, popular articles,
+   monographs, catalogues, conference proceedings, success stories, case
+   studies, annual reports, newsletters, pamphlets, brochures, bulletins,
+   summary of the completed projects, speeches, and other grey literatures
+   available with the institutes to be placed under Open Access.
+   - The institutes are free to place their unpublished reports in their
+   open access repository. They are encouraged to share their works in public
+   repositories like YouTube and social networking sites like Facebook ?,
+   Google+, etc. along with appropriate disclaimer.
+   - The authors of the scholarly articles produced from the research
+   conducted at the ICAR institutes have to deposit immediately the final
+   authors version manuscripts of papers accepted for publication (pre-prints
+   and post-prints) in the institute?s Open Access repository.
+   - Scientists and other research personnel of the ICAR working in all
+   ICAR institutes or elsewhere are encouraged to publish their research work
+   with publishers which allow self- archiving in Open Access Institutional
+   Repositories.
+   - The authors of the scholarly literature produced from the research
+   funded in whole or part by the ICAR or by other Public Funds at ICAR
+   establishments are required to deposit the final version of the author's
+   peer-reviewed manuscript in the ICAR institute?s Open Access Institutional
+   Repository.
+   - Scientists are advised to mention the ICAR?s Open Access policy while
+   signing the copyright agreements with the publishers and the embargo, if
+   any, should not be later than 12 months.
+   - M.Sc. and Ph.D. thesis/dissertations (full contents) and summary of
+   completed research projects to be deposited in the institutes open access
+   repository after completion of the work. The metadata (e.g., title,
+   abstract, authors, publisher, etc.) be freely accessible from the time of
+   deposition of the content and their free unrestricted use through Open
+   Access can be made after an embargo period not more than 12 months.
+   - All the journals published by the ICAR have been made Open Access.
+   Journals, conference proceedings and other scholarly literature published
+   with the financial support from ICAR to the professional societies and
+   others, to be made Open.
+   - The documents having material to be patented or commercialised, or
+   where the promulgations would infringe a legal commitment by the institute
+   and/or the author, may not be included in institute?s Open Access
+   repository. However, the ICAR scientists and staff as authors of the
+   commercial books may negotiate with the publishers to share the same via
+   institutional repositories after a suitable embargo period.
+
+*Implementation*
+
+The DKMA to function as nodal agency for implementation of the ICAR Open
+Access policy. The DKMA will organize advocacy workshops and capacity
+building of scientific & technical personnel, repository administrators,
+editors and publishers on Institutional Repositories, application and usage
+of Free and Open Source Software.
+
+*End Note*
+
+OA initiative is not a single event. It is a process and expects full
+compliance over a period of three years.  Therefore, the proposed modest
+policy is a first step in the journey towards formal declaration
+of openness and then after reviews progress, compliance and impact
+periodically.
+  --
+Sridhar Gutam PhD, ARS, Patent Laws (NALSAR), IP & Biotech. (WIPO)
+Senior Scientist (Plant Physiology), Central Institute for Subtropical
+Horticulture <http://cishlko.org/>
+Joint Secretary, Agricultural Research Service Scientists'
+Forum<http://www.icar.org.in/node/1168>
+Convenor, Open Access India <https://www.facebook.com/oaindia>
+Country Representative, Young Professionals' Platform for Agricultural
+Research for Development <http://ypard.net/>
+Rehmankhera, Kakori Post
+Lucknow 226101, Uttar Pradesh, India
+Phone: +91-522-2841022/23/24; Fax: +91-522-2841025
+Mobile:+91-9005760036/8005346136
+Publications: http://works.bepress.com/sridhar_gutam/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130914/2cd63e7f/attachment.htm>
+
+From rayna.st at gmail.com  Sat Sep 14 18:06:54 2013
+From: rayna.st at gmail.com (Rayna)
+Date: Sat, 14 Sep 2013 19:06:54 +0200
+Subject: [Open-access] OKCon 'Open & Citizen Science' hackday: submissions
+	and poll :)
+Message-ID: <CANACerEXG3iuv3E8mk9wUisCGjjUTpWDYkzO92gwjPBN8TFUOg@mail.gmail.com>
+
+Dear all,
+
+As you remember, Stefan and myself are coordinating the OKCon 'Open &
+Citizen Science' satellite event on 19 September.
+
+All submissions are now collected (we are slightly behind schedule,
+apologies), and the poll is up. You can:
+* read the proposed projects here:
+http://blog.hatewasabi.info/announcement-okcon-open-citizen-science-submissions/
+* vote for the one you would like to work on next Thursday here:
+http://doodle.com/qa7t4agnekzgidst
+
+Thanks much and looking very much forward to meeting up and geeking out
+soonish!
+
+Rayna & Stefan
+
+-- 
+"Change l'ordre du monde plut?t que tes d?sirs."
+
+http://de.linkedin.com/in/raynas
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130914/bad5fe1b/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Sep 14 18:48:49 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 14 Sep 2013 18:48:49 +0100
+Subject: [Open-access] OKCon 'Open & Citizen Science' hackday:
+ submissions and poll :)
+In-Reply-To: <CANACerEXG3iuv3E8mk9wUisCGjjUTpWDYkzO92gwjPBN8TFUOg@mail.gmail.com>
+References: <CANACerEXG3iuv3E8mk9wUisCGjjUTpWDYkzO92gwjPBN8TFUOg@mail.gmail.com>
+Message-ID: <CAD2k14MNnPfvkvRvuUzb8Weafkk=MYk10bPbeqEVsOqgrHZGSg@mail.gmail.com>
+
+I shall be there on Thursday but I really can't make a choice ATM - too
+many I want to be involved with!
+
+Note that if you select a doodle option you don't seem to be able then to
+remove it and select "none"
+P.
+
+(my own experience of hackathons is that they often anneal in the first
+hour or so of the day and commitment depends on who comes as much as
+predetermined choices).
+
+
+On Sat, Sep 14, 2013 at 6:06 PM, Rayna <rayna.st at gmail.com> wrote:
+
+> Dear all,
+>
+> As you remember, Stefan and myself are coordinating the OKCon 'Open &
+> Citizen Science' satellite event on 19 September.
+>
+> All submissions are now collected (we are slightly behind schedule,
+> apologies), and the poll is up. You can:
+> * read the proposed projects here:
+> http://blog.hatewasabi.info/announcement-okcon-open-citizen-science-submissions/
+>  * vote for the one you would like to work on next Thursday here:
+> http://doodle.com/qa7t4agnekzgidst
+>
+> Thanks much and looking very much forward to meeting up and geeking out
+> soonish!
+>
+> Rayna & Stefan
+>
+> --
+> "Change l'ordre du monde plut?t que tes d?sirs."
+>
+> http://de.linkedin.com/in/raynas
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130914/2c6c50c8/attachment.htm>
+
+From eventos at dt.sibi.usp.br  Wed Sep 11 18:31:29 2013
+From: eventos at dt.sibi.usp.br (Eventos SIBiUSP)
+Date: Wed, 11 Sep 2013 14:31:29 -0300
+Subject: [Open-access] =?iso-8859-1?q?4=AA_CONFOA_-_Avisos=3A_normas_para_?=
+	=?iso-8859-1?q?entrega_dos_trabalhos=2C_programa=E7=E3o_e_inscri?=
+	=?iso-8859-1?q?=E7=F5es?=
+Message-ID: <CANxoPnB5VMsgQ33Jnok2HtZboDm4id19kMHeEqdtNDOGBf6y0A@mail.gmail.com>
+
+*4? CONFER?NCIA LUSO-BRASILEIRA SOBRE ACESSO ABERTO*
+
+
+
+*Normas para Comunica??es e P?steres*
+
+As diretrizes para a confec??o de comunica??es e p?steres foi publicada.
+Veja os detalhes em:
+http://www.acessoaberto.pt/c/index.php/confoa2013/2013/about/submissions#onlineSubmissions
+
+* *
+
+*Programa??o*
+
+A programa??o da 4? CONFOA inclui mesas-redondas, comunica??es,
+apresenta??es de p?steres e cursos. Confira no link:
+http://www.acessolivre.pt/c/index.php/confoa2013/2013/schedConf/program
+
+
+
+*Inscri??es*
+
+As vagas para o evento est?o quase completas, e o prazo final est? se
+aproximando. Fa?a sua inscri??o no link:
+http://www.acessoaberto.pt/c/index.php/confoa2013/2013/schedConf/registration
+
+
+
+ Atenciosamente,
+
+-- 
+*Comiss?o Organizadora*
+*CONFOA 2013*
+*4? Confer?ncia Luso-Brasileira sobre Acesso Aberto*
+
+*http://www.sibi.usp.br/confoa2013* <http://www.sibi.usp.br/confoa2013>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130911/935b0711/attachment.htm>
+
+From dasbabini at gmail.com  Mon Sep 16 03:15:49 2013
+From: dasbabini at gmail.com (Dominique Babini)
+Date: Sun, 15 Sep 2013 23:15:49 -0300
+Subject: [Open-access] OA declarations
+Message-ID: <CA+fw2RbKnBgAtyTVxDRCNHrz5HVS8wQxHtN_2CKzGT0GH12qfw@mail.gmail.com>
+
+When listing the ?B? declarations on Open Access, we should add the
+?Salvador de Bah?a Declaration on Open Access: the developing world
+perspective?, a Declaration promoted by SciELO in 2005 which urges
+governments to make Open Access a high priority in their scholary
+development policies. These include:
+
+?  Insist that publicly funded research is available in Open Access;
+
+?  Consider the cost of publication as part of the cost of research;
+
+?  Strengthen local Open Access journals and repositories, and other
+relevant initiatives;
+
+?  Promote the integration of scholarly information from developing
+countries into the repository of the world?s knowledge.
+
+
+
+http://blog.scielo.org/en/2013/09/13/unesco-guidelines-provide-a-detailed-review-of-open-access/#.UjZmocbTuoM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130915/e3269b6b/attachment.htm>
+
+From subbiah.arunachalam at gmail.com  Mon Sep 16 11:02:03 2013
+From: subbiah.arunachalam at gmail.com (Subbiah Arunachalam)
+Date: Mon, 16 Sep 2013 15:32:03 +0530
+Subject: [Open-access] OA declarations
+In-Reply-To: <CA+fw2RbKnBgAtyTVxDRCNHrz5HVS8wQxHtN_2CKzGT0GH12qfw@mail.gmail.com>
+References: <CA+fw2RbKnBgAtyTVxDRCNHrz5HVS8wQxHtN_2CKzGT0GH12qfw@mail.gmail.com>
+Message-ID: <CABghs+YkcZEGkm2RrWdjr-71irN0iESn=HatKsL_rMngFcUO7A@mail.gmail.com>
+
+You may include the Bangalore Declaration of 2006 as well. It was adopted
+at an international workshop held at IISc, Bangalore, and drafted by Alma
+swan and Barbara Kirsop.
+
+Arun
+
+
+
+On Mon, Sep 16, 2013 at 7:45 AM, Dominique Babini <dasbabini at gmail.com>wrote:
+
+> When listing the ?B? declarations on Open Access, we should add the
+> ?Salvador de Bah?a Declaration on Open Access: the developing world
+> perspective?, a Declaration promoted by SciELO in 2005 which urges
+> governments to make Open Access a high priority in their scholary
+> development policies. These include:
+>
+> ?  Insist that publicly funded research is available in Open Access;
+>
+> ?  Consider the cost of publication as part of the cost of research;
+>
+> ?  Strengthen local Open Access journals and repositories, and other
+> relevant initiatives;
+>
+> ?  Promote the integration of scholarly information from developing
+> countries into the repository of the world?s knowledge.
+>
+>
+>
+>
+> http://blog.scielo.org/en/2013/09/13/unesco-guidelines-provide-a-detailed-review-of-open-access/#.UjZmocbTuoM
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/94366a68/attachment.htm>
+
+From michelle.brook at okfn.org  Mon Sep 16 13:26:45 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Mon, 16 Sep 2013 14:26:45 +0200
+Subject: [Open-access] Announcing our new Panton Fellows
+Message-ID: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+
+Hey all,
+
+We are really excited to introduce our new Panton fellows: Rosie Graves,
+Peter Kraker and Sam Moore. More information can be found:
+http://blog.okfn.org/2013/09/16/new-panton-fellows-announced. Each of them
+will write a short blog post soon, introducing themselves and their
+interests in a bit more detail.
+
+Peter K is out at OKCon with us, so if you are out in Geneva as well,
+please do keep an eye out to say hey!
+
+Michelle
+-- 
+*
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | *http://linkedup-project.eu|
+@LinkedUpProjec<http://twitter.com/LinkedUpProject>
+*t* | linking data for education
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/a8666ec1/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Sep 16 15:37:25 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 16 Sep 2013 15:37:25 +0100
+Subject: [Open-access] Announcing our new Panton Fellows
+In-Reply-To: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+References: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+Message-ID: <CAD2k14NsNJ-siP=oS-6cqAeceQvxDj=bEZwkzL+DDo9Ddy8d=A@mail.gmail.com>
+
+This is fantastic. We've had an exciting and difficult task selecting the
+fellows who had to work hard - they had to make videos and do skype
+interviews. We're also very pleased that at least two other finalists are
+present at OKCon and offer all our encouragement to them.
+
+Please read the blogs because one of the roles of the Fellows is to make
+new contacts, hopefully visit and talk with people who have overlapping
+interests and complementary skills or resources.
+
+
+
+On Mon, Sep 16, 2013 at 1:26 PM, Michelle Brook <michelle.brook at okfn.org>wrote:
+
+> Hey all,
+>
+> We are really excited to introduce our new Panton fellows: Rosie Graves,
+> Peter Kraker and Sam Moore. More information can be found:
+> http://blog.okfn.org/2013/09/16/new-panton-fellows-announced. Each of
+> them will write a short blog post soon, introducing themselves and their
+> interests in a bit more detail.
+>
+> Peter K is out at OKCon with us, so if you are out in Geneva as well,
+> please do keep an eye out to say hey!
+>
+> Michelle
+> --
+> *
+>
+> Michelle Brook
+>
+> Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+>
+> The Open Knowledge Foundation <http://okfn.org/>
+>
+> Empowering through Open Knowledge
+>
+> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+>
+>
+> LinkedUp | *http://linkedup-project.eu| @LinkedUpProjec<http://twitter.com/LinkedUpProject>
+> *t* | linking data for education
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/1f1b9a06/attachment.htm>
+
+From dom at doaj.org  Mon Sep 16 16:18:24 2013
+From: dom at doaj.org (Dom Mitchell)
+Date: Mon, 16 Sep 2013 17:18:24 +0200 (CEST)
+Subject: [Open-access] DOAJ publishes response to public feedback on revised
+ "selection criteria" and a Roadmap
+Message-ID: <938242228.1314224.1379344704880.JavaMail.open-xchange@webmail.speednames.com>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/f55d006f/attachment.htm>
+
+From peter.suber at gmail.com  Mon Sep 16 22:59:46 2013
+From: peter.suber at gmail.com (Peter Suber)
+Date: Mon, 16 Sep 2013 17:59:46 -0400
+Subject: [Open-access] [GOAL] OA declarations
+In-Reply-To: <CA+fw2RbKnBgAtyTVxDRCNHrz5HVS8wQxHtN_2CKzGT0GH12qfw@mail.gmail.com>
+References: <CA+fw2RbKnBgAtyTVxDRCNHrz5HVS8wQxHtN_2CKzGT0GH12qfw@mail.gmail.com>
+Message-ID: <CAB0+At6_P1Qb1COSNLhUbNmnjADRPc27ELcJQW6dbnE+uH3s1Q@mail.gmail.com>
+
+Also see the Open Access Directory list of declarations in support of OA.
+http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA
+
+Note that OAD is a wiki and welcomes additions and corrections from the OA
+community.
+
+     Peter
+
+Peter Suber
+bit.ly/petersuber
+
+
+
+On Sun, Sep 15, 2013 at 10:15 PM, Dominique Babini <dasbabini at gmail.com>wrote:
+
+> When listing the ?B? declarations on Open Access, we should add the
+> ?Salvador de Bah?a Declaration on Open Access: the developing world
+> perspective?, a Declaration promoted by SciELO in 2005 which urges
+> governments to make Open Access a high priority in their scholary
+> development policies. These include:
+>
+> ?  Insist that publicly funded research is available in Open Access;
+>
+> ?  Consider the cost of publication as part of the cost of research;
+>
+> ?  Strengthen local Open Access journals and repositories, and other
+> relevant initiatives;
+>
+> ?  Promote the integration of scholarly information from developing
+> countries into the repository of the world?s knowledge.
+>
+>
+>
+>
+> http://blog.scielo.org/en/2013/09/13/unesco-guidelines-provide-a-detailed-review-of-open-access/#.UjZmocbTuoM
+>
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/5f294251/attachment-0001.htm>
+
+From sophie.kershaw at keble.oxon.org  Mon Sep 16 13:49:57 2013
+From: sophie.kershaw at keble.oxon.org (Sophie Kershaw)
+Date: Mon, 16 Sep 2013 13:49:57 +0100
+Subject: [Open-access] [okfn-discuss] Announcing our new Panton Fellows
+In-Reply-To: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+References: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+Message-ID: <CAB2qYTJqcuLaZkO3G6_+DGVFf7PThdV112GEZXf4Sky+_tyVrQ@mail.gmail.com>
+
+Congratulations, Rosie, Peter & Sam! Fantastic to hear of your appointment
+as the new Panton Fellows and I wish you all the best for a fantastic year
+ahead - Ross and I really enjoyed our respective Fellowships.
+
+Looking forward to hearing more about your projects in the coming
+weeks/months :)
+
+All the best,
+
+Sophie
+
+
+
+On Mon, Sep 16, 2013 at 1:26 PM, Michelle Brook <michelle.brook at okfn.org>wrote:
+
+> Hey all,
+>
+> We are really excited to introduce our new Panton fellows: Rosie Graves,
+> Peter Kraker and Sam Moore. More information can be found:
+> http://blog.okfn.org/2013/09/16/new-panton-fellows-announced. Each of
+> them will write a short blog post soon, introducing themselves and their
+> interests in a bit more detail.
+>
+> Peter K is out at OKCon with us, so if you are out in Geneva as well,
+> please do keep an eye out to say hey!
+>
+> Michelle
+> --
+> *
+>
+> Michelle Brook
+>
+> Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+>
+> The Open Knowledge Foundation <http://okfn.org/>
+>
+> Empowering through Open Knowledge
+>
+> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+>
+>
+> LinkedUp | *http://linkedup-project.eu| @LinkedUpProjec<http://twitter.com/LinkedUpProject>
+> *t* | linking data for education
+>
+>
+> _______________________________________________
+> okfn-discuss mailing list
+> okfn-discuss at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-discuss
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/3cd32f5b/attachment.htm>
+
+From pkraker at know-center.at  Mon Sep 16 13:54:23 2013
+From: pkraker at know-center.at (Peter Kraker)
+Date: Mon, 16 Sep 2013 12:54:23 +0000
+Subject: [Open-access] Announcing our new Panton Fellows
+In-Reply-To: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+References: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+Message-ID: <4F871716-F682-4FB4-B470-FB093B2C8D2D@know-center.at>
+
+Thank you so much, I am very honored and humbled to be selected as a Panton Fellow. Looking forward to getting started. My topics revolve around open and transparent altmetrics and visualizations, as well as an inclusive approach to open science. Please find me at OKCon or online (@PeterKraker) if you have ideas about that! #excited
+
+Best,
+Peter
+
+Am 16.09.2013 um 14:26 schrieb "Michelle Brook" <michelle.brook at okfn.org<mailto:michelle.brook at okfn.org>>:
+
+Hey all,
+
+We are really excited to introduce our new Panton fellows: Rosie Graves, Peter Kraker and Sam Moore. More information can be found: http://blog.okfn.org/2013/09/16/new-panton-fellows-announced. Each of them will write a short blog post soon, introducing themselves and their interests in a bit more detail.
+
+Peter K is out at OKCon with us, so if you are out in Geneva as well, please do keep an eye out to say hey!
+
+Michelle
+--
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation<http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn<http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork>  |  Blog<http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | http://linkedup-project.eu| @LinkedUpProjec<http://twitter.com/LinkedUpProject>t | linking data for education
+
+
+
+From punk.kish at gmail.com  Mon Sep 16 14:25:38 2013
+From: punk.kish at gmail.com (Puneet Kishor)
+Date: Mon, 16 Sep 2013 15:25:38 +0200
+Subject: [Open-access] [okfn-discuss] Announcing our new Panton Fellows
+In-Reply-To: <CAB2qYTJqcuLaZkO3G6_+DGVFf7PThdV112GEZXf4Sky+_tyVrQ@mail.gmail.com>
+References: <CABOTVX8WdsHm4eMZGeD8kn5b8RhVjy=jtA+Ywkz+B7YompB0nA@mail.gmail.com>
+	<CAB2qYTJqcuLaZkO3G6_+DGVFf7PThdV112GEZXf4Sky+_tyVrQ@mail.gmail.com>
+Message-ID: <1E682F5B-6706-4647-8835-B1C540AFA6B7@gmail.com>
+
+Congratulations, you three. 
+
+I had the joy of supporting Sophie's work, and Ross's and my paths crossed a few times as well. Let me know if you are science/data inclined, and need access to CC's resources or a contact in the Bay Area. It will be a pleasure to assist.
+
+
+
+--
+Puneet Kishor
+Science and Data Policy at Creative Commons
+
+On Sep 16, 2013, at 2:49 PM, Sophie Kershaw <sophie.kershaw at keble.oxon.org> wrote:
+
+> Congratulations, Rosie, Peter & Sam! Fantastic to hear of your appointment as the new Panton Fellows and I wish you all the best for a fantastic year ahead - Ross and I really enjoyed our respective Fellowships. 
+> 
+> Looking forward to hearing more about your projects in the coming weeks/months :)
+> 
+> All the best,
+> 
+> Sophie
+> 
+> 
+> 
+> On Mon, Sep 16, 2013 at 1:26 PM, Michelle Brook <michelle.brook at okfn.org> wrote:
+>> Hey all,
+>> 
+>> We are really excited to introduce our new Panton fellows: Rosie Graves, Peter Kraker and Sam Moore. More information can be found: http://blog.okfn.org/2013/09/16/new-panton-fellows-announced. Each of them will write a short blog post soon, introducing themselves and their interests in a bit more detail.
+>> 
+>> Peter K is out at OKCon with us, so if you are out in Geneva as well, please do keep an eye out to say hey!
+>> 
+>> Michelle
+>> ..
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130916/9e01a74d/attachment.htm>
+
+From rayna.st at gmail.com  Wed Sep 18 09:25:09 2013
+From: rayna.st at gmail.com (Rayna)
+Date: Wed, 18 Sep 2013 10:25:09 +0200
+Subject: [Open-access] Day -1: Open & Citizen Science satellite event at
+	#OKCon
+Message-ID: <CANACerGHfqOevjCGC-Tc1CGpfnnZJoyU7c219mV7sf8spMzFig@mail.gmail.com>
+
+Hey all,
+
+This is a gentle reminder that we are at day -1 of the Open & Citizen
+Science event at OKCon :) You can still have a look at the interesting
+proposals and vote for the one you want to join and work on tomorrow:
+http://science.okfn.org/2013/09/14/okcon-open-citizen-science-hackday-submissions/
+
+FYI: remote participation is not just possible, but also welcome :) As
+we'll have wifi, Skype/Hangout/pad are among the tools we can (and will)
+use tomorrow. So, don't shy away and join!
+
+Rayna
+
+-- 
+"Change l'ordre du monde plut?t que tes d?sirs."
+
+http://de.linkedin.com/in/raynas
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130918/4718efdb/attachment.htm>
+
+From teleyinex at gmail.com  Wed Sep 18 11:29:24 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Wed, 18 Sep 2013 12:29:24 +0200
+Subject: [Open-access] [open-science] Day -1: Open & Citizen Science
+	satellite event at #OKCon
+In-Reply-To: <CANACerGHfqOevjCGC-Tc1CGpfnnZJoyU7c219mV7sf8spMzFig@mail.gmail.com>
+References: <CANACerGHfqOevjCGC-Tc1CGpfnnZJoyU7c219mV7sf8spMzFig@mail.gmail.com>
+Message-ID: <CAGS_vfrHFhxHJAtFx9UnPjLwYru13s4i_MQ3dZVWzz5zvaxQDQ@mail.gmail.com>
+
+Hi there,
+
+I would be around so I could help to create your own CrowdCrafting project
+too! Looking forward to see you tomorrow!
+
+Cheers,
+
+Daniel
+
+
+On Wed, Sep 18, 2013 at 10:25 AM, Rayna <rayna.st at gmail.com> wrote:
+
+> Hey all,
+>
+> This is a gentle reminder that we are at day -1 of the Open & Citizen
+> Science event at OKCon :) You can still have a look at the interesting
+> proposals and vote for the one you want to join and work on tomorrow:
+> http://science.okfn.org/2013/09/14/okcon-open-citizen-science-hackday-submissions/
+>
+> FYI: remote participation is not just possible, but also welcome :) As
+> we'll have wifi, Skype/Hangout/pad are among the tools we can (and will)
+> use tomorrow. So, don't shy away and join!
+>
+> Rayna
+>
+> --
+> "Change l'ordre du monde plut?t que tes d?sirs."
+>
+> http://de.linkedin.com/in/raynas
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+http://daniellombrana.es
+http://citizencyberscience.net
+http://www.shuttleworthfoundation.org/fellows/daniel-lombrana/
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Please do NOT use proprietary file formats to share files
+like DOC or XLS, instead use PDF, HTML, RTF, TXT, CSV or
+any other format that does not impose on the user the employment
+of any specific software to work with the information inside the files.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130918/6b1ee6fa/attachment.htm>
+
+From eventos at dt.sibi.usp.br  Wed Sep 18 14:30:57 2013
+From: eventos at dt.sibi.usp.br (Eventos SIBiUSP)
+Date: Wed, 18 Sep 2013 10:30:57 -0300
+Subject: [Open-access] =?iso-8859-1?q?4=AA_CONFOA_-_Inscri=E7=F5es_prorrog?=
+	=?iso-8859-1?q?adas?=
+Message-ID: <CANxoPnBH4_f_QhnB0SVrK2CF-BVQStpJp21w5xzjvHSAw8Ui5A@mail.gmail.com>
+
+*4? CONFOA - inscri??es prorrogadas*
+
+
+
+Comunicamos que as inscri??es para a 4? Confer?ncia Luso-Brasileira sobre
+Acesso Aberto foram prorrogadas. O evento ? gratuito e tem como objetivo
+promover o compartilhamento, a discuss?o, a gera??o e a divulga??o de
+conhecimentos, pr?ticas e pesquisas sobre o acesso aberto em todas as suas
+dimens?es e perspectivas, servindo de catalisador ? dissemina??o de
+pol?ticas, pesquisa e desenvolvimento na ?rea.
+
+
+
+A CONFOA 2013 ser? realizada no Brasil, na Universidade de S?o Paulo, e
+pretende reunir interessados em atividades de pesquisa, desenvolvimento,
+gest?o de servi?os e defini??o de pol?ticas relacionadas com o acesso
+aberto ? produ??o cient?fica produzida em institui??es luso-brasileiras de
+pesquisa e ensino superior.
+
+
+
+*Servi?o:*
+
+O qu?: 4? Confer?ncia Luso-Brasileira sobre Acesso Aberto
+
+Per?odo: 6 a 9 de outubro
+
+Local: Audit?rio Istv?n Jancs?, Biblioteca Brasiliana USP
+
+
+
+*Links:*
+
+Site do evento<http://www.acessoaberto.pt/c/index.php/confoa2013/2013/schedConf/program>
+
+Programa??o completa<http://www.acessoaberto.pt/c/index.php/confoa2013/2013/schedConf/program>
+
+Inscri??es<http://www.acessoaberto.pt/c/index.php/confoa2013/2013/schedConf/registration>
+
+
+
+Atenciosamente,
+
+
+*Comiss?o Organizadora*
+*CONFOA 2013*
+*4? Confer?ncia Luso-Brasileira sobre Acesso Aberto*
+
+*http://www.sibi.usp.br/confoa2013* <http://www.sibi.usp.br/confoa2013>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130918/2fced201/attachment.htm>
+
+From giulea.immanuel at gmail.com  Sat Sep 21 01:29:29 2013
+From: giulea.immanuel at gmail.com (Immanuel Giulea)
+Date: Fri, 20 Sep 2013 20:29:29 -0400
+Subject: [Open-access] Four ways open access enhances academic freedom |
+	Impact of Social Sciences
+In-Reply-To: <CAB9Q_D2V_7sszup6yj2ha0W3KLTeo3TaZ9gKx0ZC8Yyz+x1wgQ@mail.gmail.com>
+References: <CAB9Q_D2V_7sszup6yj2ha0W3KLTeo3TaZ9gKx0ZC8Yyz+x1wgQ@mail.gmail.com>
+Message-ID: <CAB9Q_D0yxvM_1xNLjaNDGi3SKpzbm1umJF1TQtnKkBr3FhCPLg@mail.gmail.com>
+
+FYI
+
+http://blogs.lse.ac.uk/impactofsocialsciences/2013/04/30/4-ways-open-access-enhances-academic-freedom/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130920/5f122a1a/attachment.htm>
+
+From sanglorian at gmail.com  Sun Sep 22 04:21:30 2013
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sun, 22 Sep 2013 13:21:30 +1000
+Subject: [Open-access] FOSsil Bank Update - 22 September 2013
+Message-ID: <CAMuj-e+95kD+3ecJDP29iXa7QPMvLaYGePLyjJE9EU3E=ydJsA@mail.gmail.com>
+
+Hi folks,
+
+Back to more regular updates!
+Brief Survey
+
+I didn't get a lot of responses to the first question last time, so if you
+missed it please tackle it for me:
+
+*What is stopping you from contributing to FOSsil Bank?
+*When I set up the FOSsil Bank, I expected members of the community to
+contribute to the catalogue. After a few years, about 99% of the 1000+
+entries were added by me. I don?t resent this, but I?d like to get more
+involvement from others.
+#FundFreeCulture
+
+*Open Well-Tempered Clavier ? Ba?h to Bach *is a project to score and
+record Bach's Well-Tempered Clavier (48 days left; $11,865/$30,000):
+http://www.kickstarter.com/projects/293573191/open-well-tempered-clavier-bah-to-bach
+
+*Set Chopin Free *will record that composer's entire corpus and return it
+to the public domain ($79,971/$75,000; 28 days left):
+http://www.kickstarter.com/projects/Musopen/set-chopin-free
+
+<http://www.kickstarter.com/projects/trentish/grim-world-gaming-supplement-for-dungeon-world-and>
+
+*0 A.D. *is an RTS that's been under development for some time (29 days
+left; $17,380/$160,000 ? flexible funding):
+http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game
+
+*Replicant *is a fully free Android distro that could use some support:
+https://crm.fsf.org/civicrm/contribute/transact?reset=1&id=19
+
+*Grim World *successfully funded ? it's a resource for libre tabletop
+RPG *Dungeon
+World *(text is CC BY; $22,050/$5,000):
+http://www.kickstarter.com/projects/trentish/grim-world-gaming-supplement-for-dungeon-world-and
+
+*apngasm *is a project to create tools that animate PNG files to replace
+proprietary GIFs ? successfully funded ($10,433/$5,000):
+http://www.kickstarter.com/projects/374397522/apngasm-foss-animated-png-tools-and-apng-standardi
+
+*Deck of Legends *is a beautiful deck of illustrated cards that
+successfully funded (images are CC BY-SA; $12,005/$2,500):
+http://www.kickstarter.com/projects/thedandmom/deck-of-legends
+
+*Conquering Corsairs of the Seven Seas *is a card game that successfully
+funded (images are CC BY-SA; $9,241/$7,500):
+http://www.kickstarter.com/projects/azaroth42/conquering-corsairs-pirates-of-the-silver-seas?ref=live
+
+*mailpile *is a web-mail program you can run on your own computer ?
+successfully funded ($163,192/$100,000)
+
+*Tupi* is 2D animation software on Kickstarter. (GNU GPL; 4 days to go;
+$4,277/$30,000):
+http://www.kickstarter.com/projects/175927790/tupi-2d-animation-software-for-everyone
+
+*App-Make-inator* from Lunduke is on Bountysource. (GNU GPL; 3 days to go;
+$433/$3,500): https://www.bountysource.com/fundraisers/468
+Libre works
+
+I've split off audio works from musical ones:
+http://fossilbank.wikidot.com/category:audio-libre
+
+
+ *Hacker Public Radio *is a weekly Internet radio show (CC BY-SA):
+http://fossilbank.wikidot.com/entry:hacker-public-radio
+
+*National Repository of Open Educational Resources *is an Indian government
+resource (CC BY-SA): http://fossilbank.wikidot.com/entry:nroer
+
+*The Getty *hosts thousands of public domain images:
+http://fossilbank.wikidot.com/entry:the-getty
+
+*Free Knowledge Based on Creative Commons Licenses *is about the
+consequences of using the NonCommercial term (CC BY):
+http://fossilbank.wikidot.com/entry:free-knowledge-based-on-creative-commons-licenses
+
+*What's the Deal with Copyright and 3D Printing *does what it says, and
+does it well (CC BY-SA):
+http://fossilbank.wikidot.com/entry:what-s-the-deal-with-copyright-and-3d-printing
+
+*etcc *is a lovely Australian project where artists build on the artworks
+of others (CC BY): http://fossilbank.wikidot.com/entry:etcc
+
+*Tears of Steel (Chinese version) *is the Blender short movie redone by
+Chinese actors in Chinese (CC BY):
+http://fossilbank.wikidot.com/entry:tears-of-steel-chinese
+Tabletop games
+
+*So Now You're a Time Traveler *is a 2-page hack of *Cthulhu Dark *(CC BY):
+http://fossilbank.wikidot.com/entry:so-now-you-re-a-time-traveler
+
+*AdventureLand *is a short RPG for 'advanced role-players' (CC BY):
+http://fossilbank.wikidot.com/entry:adventureland
+
+*Libre: The Open Source Card Game *is a fantasy card game with hints of *Magic:
+The Gathering *(CC BY): http://fossilbank.wikidot.com/entry:libre-card-game
+
+*Anima Prime *has been around for a while, but there's now a pocket version
+(CC BY-SA): http://fossilbank.wikidot.com/work:anima-prime
+
+*The DramaSystem SRD *is the engine underneath the *Hillfolk *tabletop RPG
+(CC BY, OGL): http://fossilbank.wikidot.com/entry:dramasystem-srd
+
+*Johnstone Metzger's *offerings:
+
+   -
+
+   *Adventures on Dungeon Planet *is a resource for the *Dungeon World
+*tabletop
+   RPG (text is CC BY-SA; images CC BY-NC-SA):
+   http://fossilbank.wikidot.com/entry:adventures-on-dungeon-planet
+   -
+
+   *Evil Wizard in a Cave *is a short adventure for *Dungeon World
+*and *Labyrinth
+   Lord *(text is CC BY-SA):
+   http://fossilbank.wikidot.com/entry:evil-wizards-in-a-cave
+
+Proprietary shareable works
+
+*Brytenwalda *is an ancient Britain-themed miniatures game (CC BY-NC-SA):
+http://fossilbank.wikidot.com/entry:brytenwalda
+
+*Vector 3 *is a sci-fi tabletop board game (CC BY-NC):
+http://fossilbank.wikidot.com/entry:vector-3
+
+*Lasers & Feelings *is a 2-page sci-fi RPG by the brilliant John Harper (CC
+BY-NC-SA): http://fossilbank.wikidot.com/entry:lasers-feelings
+
+Cheers,
+Chris
+
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130922/b6a24025/attachment.htm>
+
+From ross.mounce at gmail.com  Wed Sep 25 00:32:14 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 25 Sep 2013 00:32:14 +0100
+Subject: [Open-access] Berlin 11 Satellite Conference for Students & Early
+	Stage Researchers
+Message-ID: <CAJr+OEyYCaO1y8FvVSa0D4UoTqRMvKTEx=o26vanmhfxU5G1aA@mail.gmail.com>
+
+fyi
+
+Thank you for your interest in attending the Berlin 11 Satellite
+Conference for Students & Early Stage Researchers on November 18th,
+2013 in Berlin, Germany!
+Our Organizing Committee has been hard at work behind the scenes, and
+we are excited to announce today that the conference website is now
+online at http://www.righttoresearch.org/act/berlin11.
+
+We are also excited to share that the conference will include
+presentations from Jack Andraka (Winner, 2012 Intel Science Fair),Alek
+Tarkowski (Former Member of the Board of Strategic Advisors to the
+Prime Minister of Poland), Cameron Neylon, (Director of Advocacy for
+the Public Library of Science), and Heather Joseph (Executive Director
+of SPARC).
+
+This exciting, first of its kind meeting reflects the importance of
+students and early stage researchers as the next generation of
+scholars and the impact these groups are already having in opening up
+scholarly communication. The conference will convene a discussion with
+leaders and innovators in the Open Access movement about the current
+state of Open Access and what participants can do to be catalysts for
+change locally, nationally, and beyond.
+
+On the conference website, you can now apply to attend the satellite conference.
+http://www.righttoresearch.org/act/berlin11/apply
+The short application shouldn't take much time and is necessary to
+ensure a diverse, representative, and active group of participants for
+this unique meeting. With generous support from the Max Planck
+Society, many participants will have the opportunity to have their
+travel and accommodation expenses covered by travel scholarships,
+which you can request directly from the application!  Applications are
+due by midnight on October 14th.
+
+You can find more information, including a complete list of speakers
+and available logistical details, on the conference website.
+
+I hope you will apply today and look forward to seeing many of you at
+the conference on November 18th!
+
+Cheers,
+
+Nick
+
+
+Nick Shockey
+Director, Right to Research Coalition
+Director of Student Advocacy, SPARC
+nick at arl.org
++1 202 296 2296
+Skype: nick.shockey
+http://www.righttoresearch.org
+http://www.arl.org/sparc
+
+-- 
+--
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student (writing-up now!)
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+

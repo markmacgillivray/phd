@@ -1,0 +1,339 @@
+From tom.olijhoek at gmail.com  Tue May  7 09:27:24 2013
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Tue, 7 May 2013 10:27:24 +0200
+Subject: [open-bibliography] book on effects of Deals of publishers with
+	libraries
+Message-ID: <CAGyWN8Ydt4i3e3XKS9AhG0GzXC89URB7FWi69gYDKHnhd6myLQ@mail.gmail.com>
+
+-- I apologize for any cross postings but I thought that the new book by
+Walt Crawford may ber interesting for people on these lists
+
+http://walt.lishost.org/2013/05/the-big-deal-and-the-damage-done/
+
+
+Tom Olijhoek
+Codex Consult
+www.codexconsult.eu
+coordinator @ccess open access working group  at OKF
+DOAJ  member of Advisory Board
+freelance advisor for the WorldBank Publishing Group
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130507/1f9b8f28/attachment.htm>
+
+From announce at dublincore.net  Tue May  7 15:18:48 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Tue, 7 May 2013 07:18:48 -0700
+Subject: [open-bibliography] NISO/DCMI Webinar: Semantic Mashups Across
+ Large, Heterogeneous Institutions: Experiences from the VIVO Service
+Message-ID: <CAP884EwshXdHdQ_8_H6rbb4A-saOm2Yo3_oqcYYCRPi5wx7itg@mail.gmail.com>
+
+******************Please excuse the cross postings******************
+
+Join NISO/DCMI for our joint May webinar
+
+--Webinar: Semantic Mashups Across Large, Heterogeneous Institutions:
+Experiences from the VIVO Service
+--Date: May 22, 2013
+--Time: 1:00 - 2:30 p.m. (Eastern Time - UTC 17:00:00) (World Clock:
+http://bit.ly/157qF2S)
+--Event webpage: http://www.niso.org/news/events/2013/dcmi/vivo/
+
+=========================================================================
+
+ABOUT THE WEBINAR:
+
+VIVO is a semantic web application focused on discovering researchers and
+research publications in the life sciences.  The service, which uses
+open-source software originally developed and implemented at Cornell
+University, operates by harvesting data about researcher interests,
+activities, and accomplishments from academic, administrative,
+professional, and funding sources.  Using a built-in, editable ontology for
+describing things such as People, Courses, and Publications, data is
+transformed into a Semantic-Web-compliant form.  VIVO provides automated
+and self-updating processes for improving data quality and authenticity.
+Starting with a classic Google-style search box, VIVO users can browse
+search results structured around people, research interests, courses,
+publications, and the like -- data that can be exposed for re-use by other
+systems in a machine-readable format.
+
+This webinar, held by a veteran at the Albert R. Mann Library Information
+Technology Services department at Cornell, where the VIVO project was born,
+presents the perspective of a software developer on the practicalities of
+building a high-quality Semantic-Web search service on existing data
+maintained in dozens of formats and software platforms at large, diverse
+institutions.  The talk will highlight services that leverage the Semantic
+Web platform in innovative ways, e.g., for finding researchers based on the
+text content of a particular Web page and for visualizing networks of
+collaboration across institutions.
+
+SPEAKER:
+
+John Fereira, a senior programmer/analyst and technology strategist at
+Cornell University, is a contributing member of the VIVO project team.  He
+also consults on issues related to information technology in higher
+education with an emphasis on open-source, modular, distributed software
+systems and is currently working on systems based on VIVO software for
+international Agricultural Information systems communities.
+
+Registration closes one hour before the webinar begins.
+
+For more information and to register, visit the event webpage:
+http://www.niso.org/news/events/2013/dcmi/vivo/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130507/ed31733a/attachment.htm>
+
+From jochen.schirrwagen at uni-bielefeld.de  Thu May 16 06:44:33 2013
+From: jochen.schirrwagen at uni-bielefeld.de (Jochen Schirrwagen)
+Date: Thu, 16 May 2013 07:44:33 +0200
+Subject: [open-bibliography] CfP - 1st international Workshop on "Linking
+ and Contextualizing Publications and Datasets"
+Message-ID: <15052_1368683076_ZZi0n0f3M1e8X.00_B42C268D-E952-4FFF-B425-35C95CAFB83B@uni-bielefeld.de>
+
+[*** Apologies for cross-posting ***]
+
+******************************************************************
+First Workshop on "Linking and Contextualizing Publications and Datasets"
+
+Valletta, Malta, September 26th, 2013
+Web site: http://lcpd2013.research-infrastructures.eu/
+E-mail: lcpd2013 at isti.cnr.it
+
+In conjunction with TPDL 2013 (http://www.tpdl2013.info)
+*******************************************************************
+
+###### Workshop Objectives ######
+
+The goal of this workshop is to provide researchers and practitioners in the fields of Digital Libraries, e-Science, and e-Research, with a forum where they can constructively explore foundational, organizational and systemic challenges in contexts having publishing, interlinking, preservation, discovery, access, and reuse of publications and datasets as focal points. It expects to contribute to the actual picture of the state of the art approaches and solutions that researchers and practitioners active in these fields have investigated and realized. 
+
+###### Workshop topics ######
+
+The workshop welcomes submissions reporting on theoretical, systemic, and foundational work targeting popular topics of linking and contextualizing datasets and publications. The topics of this workshop are of interest to, but not limited to, the following research avenues:
+
+- Metadata formats for publications and datasets: interlinking or contextualizing research outputs.
+- Metadata access services: exporting/discovering metadata to facilitate interlinking or contextualizing research outputs.
+- Data models expressing relationships between publications, datasets and other information apt for re-use, contextualization, etc.
+- Aggregation services: robust and scalable collection, integration, storage, interlinking, and visualization of heterogeneous objects and metadata from publication, dataset, and contextual content data sources
+- Linking and contextualization services: processing/mining interlinked objects and metadata relative for enrichment, disambiguation, annotation
+- Future publication models and services: novel concepts and management of ?enhanced publications?, ?research objects?, ?executable papers?.
+
+For more on these topics, please visit the workshop website.
+
+###### Important Dates ######
+
+Research paper submission: June 24th, 2013
+Notification of acceptance: July 29th, 2013
+Camera ready version: August 31st, 2013
+
+###### Paper Submission ######
+
+Authors are invited to submit original, unpublished research papers. Submitted manuscripts will have to be in PDF or Word, limited to 8 pages, written in english and following the guidelines for the LNCS format provided by Springer (http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). 
+
+The call for papers will invite authors to submit original, unpublished research papers. Submitted manuscripts will have to be limited to 8 pages, following the guidelines for the LNCS format provided by Springer. Preferred formats are PDF or Microsoft Word. Submission is on line at: https://www.easychair.org/conferences/?conf=lcpd2013 (EasyChair on-line system: you need to register an account to submit).
+
+Papers submitted to the workshop will undergo a single-blind peer-review process by Program Committee members. To be published on the proceedings, accepted contributions should be revised according to the reviews and at least one author is required to register and present the paper at the workshop.
+
+Proceedings, including abstracts from the invited speakers and the revised papers, will become a publication with ISBN (the organisers are in the process of selecting the publisher).
+
+###### Workshop Organisers ######
+
+- Lukasz Bolikowski, Centre for Open Science, ICM, University of Warsaw, Poland
+- Paolo Manghi, Istituto di Scienza e Tecnologie dell'Informazione (ISTI), National Research Council - (CNR), Pisa, Italy
+- Nikos Houssos, EKT, National Documentation Centre, Greece
+- Jochen Schirrwagen, Bielefeld University Library, Germany
+
+
+From michelle.brook at okfn.org  Tue May 21 12:01:51 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Tue, 21 May 2013 12:01:51 +0100
+Subject: [open-bibliography] LinkedUp Veni Competition: Linked and Open Data
+	for Education
+Message-ID: <CAB53Ly5P+eTgz93ZaXPkCzhX8wNxW9+v2VtaT5JSZ0P4hdVSpA@mail.gmail.com>
+
+Apologies for cross-posting - please circulate to anyone who may be
+interested.
+
+----------------------
+
+*Submission deadline 27 June*
+
+http://linkedup-challenge.org/
+
+The LinkedUp Project invites everyone, from researchers and students, to
+developers and businesses, to join the 'Veni' competition. This is the
+first of three consecutive competitions, and we?re calling for you to
+submit a prototype or demo that uses linked and/or open data for
+educational purposes.
+
+The total prize fund for ?Veni? is 5.000 EUR. However, the attractive
+prizes are only one reason to participate in the competition. It is also a
+great opportunity to work with the large, documented repository of linked
+datasets that the LinkedUp team is putting together. Participants will also
+be able to showcase their ideas and solutions to a wide community of
+researchers and practitioners:  All accepted demos and prototypes will be
+presented at OKCon (http://okcon.org/) in Geneva, on 17 September 2013.
+
+To help participants, the LinkedUp team is providing dedicated support,
+how-to's, examples and code recipes, and has a designated developer blog:
+http://data.linkededucation.org/linkedup/devtalk/
+
+We have also curated a number of high profile use cases from organisations
+such as the Commonwealth of Learning and Elsevier to serve as inspiration.
+
+Get started with the LinkedUp Dataset Catalogue now:
+http://data.linkededucation.org/linkedup/catalog/
+
+What are you waiting for? Join the Challenge today!
+
+- Find out about the LinkedUp Challenge: http://linkedup-challenge.org/
+- Subscribe to our mailinglist:
+https://www.l3s.de/mailman/listinfo/linkedup-public
+- Follow @linkedupproject: http://twitter.com/linkedupproject
+- Contact us directly for questions or support requests:
+http://linkedup-project.eu/contact/
+- Get more information about the LinkedUp Project:
+http://linkedup-project.eu/
+
+Best wishes,
+Michelle
+
+*
+
+Michelle Brook
+
+Community coordinator, Open Education | @MLBrook<https://twitter.com/MLBrook>
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+Empowering through Open Knowledge
+
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+
+
+LinkedUp | *http://linkedup-project.eu|
+@LinkedUpProjec<http://twitter.com/LinkedUpProject>
+*t*| linking data for education
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130521/8b6a351b/attachment.htm>
+
+From pohl at hbz-nrw.de  Thu May 23 08:13:20 2013
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Thu, 23 May 2013 09:13:20 +0200
+Subject: [open-bibliography] Deadline extension for SWIB13 (Semantic Web in
+ Libraries) to 9.6.2013
+Message-ID: <519DDDB002000014000500DB@agrippa.hbz-nrw.de>
+
+The submission deadline for  the fifth conference "Semantic Web in Libraries" (SWIB),  25.-27.11.2013 in Hamburg, has been extended to June 9, 2013. The call for proposals here once again:
+
+
+Call for Proposals: SWIB13 - Semantic Web in Libraries Conference ("Semantic Web in Bibliotheken"), 25.11. - 27.11.2013, Hamburg
+
+Linked Open Data (LOD) has become a widespread method for the publication and management of data on the web. Many libraries and related institutions have already run projects or launched products that comply with the LOD paradigm. New projects, services and tools are emerging continuously.
+
+The SWIB conference aims to provide substantial information on LOD developments relevant to the library world and to forster the exchange of ideas and experiences among practicioners. SWIB encourages thinking outside the box by involving participants and speakers from other domains, such as scholarly communications, museums and archives, or the publishing and news industry.
+
+As in the years before, SWIB13 will be organized by the North Rhine-Westphalian Library Service Centre (hbz) and the ZBW - German National Library of Economics /  Leibniz Information Centre for Economics. The conference language is English.
+
+Is there an interesting service, research topic or project that you would like to present at the conference? Or, can you offer giving a tutorial or a workshop on the afternoon of 25 November? We appreciate  proposals on the following or related topics:
+
+Projects & Applications
+
+* publication & consumption of linked data
+* integration of LOD into productive library applications
+* authorities and knowledge organization systems (thesauri, classifications, ontologies)
+* mash-ups (using data from different sources)
+* crowdsourcing approaches
+
+Technology (focus on Open Source software)
+
+* semantically enhanced data publication
+* data integration/enhancement/mapping
+* searching/information retrieval
+* linked data in library systems
+
+Standards & Best Practices
+
+* Bibframe, DAIA & other library specific open standards
+* provenance information
+* providing updates & syncing data sources
+* open data licensing
+
+We are looking forward to receiving your proposals by *26 May 2013*. 
+Please include an abstract of 1000-1500 characters and submit your abstract using our website at http://swib.org. 
+
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
+
+or
+
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
+
+Website: http://swib.org/swib13
+Twitter: http://twitter.com/swibcon
+Hashtag: #swib13
+
+
+
+From Valentine.Charles at KB.nl  Mon May 27 08:26:36 2013
+From: Valentine.Charles at KB.nl (Valentine Charles)
+Date: Mon, 27 May 2013 09:26:36 +0200
+Subject: [open-bibliography] Registration open for TPDL 2013 Tutorial
+	"Mapping cross-domain metadata to the Europeana Data Model (EDM)"
+Message-ID: <DB8FA84D05D2DB42B4A98BDB3E5558D601AE722E@goofy>
+
+****Apologies for cross-posting***
+
+ 
+
+ 
+
+Tutorial "Mapping cross-domain metadata to the Europeana Data Model
+(EDM)"
+
+ 
+
+22nd September 2013 in Valetta, Malta
+
+Register for TPDL and sign up for this tutorial at
+http://www.tpdl2013.info/
+
+ 
+
+This half-day tutorial will provide a technical introduction to the
+Europeana Data Model. It will present its main principles and discuss
+modelling issues that proved harder to solve. We will also present the
+semantic and technical challenges involved when mapping cross domain
+activities and invite participants to data alignment exercises and more
+discussion on the guiding principles of mapping. 
+
+ 
+
+For a complete programme and additional information, please visit
+http://tpdl2013.upatras.gr/tut-edm.php
+<http://tpdl2013.upatras.gr/tut-edm.php>  
+
+ 
+
+We are looking forward seeing you in Malta! 
+
+ 
+
+---
+
+
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130527/a3ea83a2/attachment.htm>
+

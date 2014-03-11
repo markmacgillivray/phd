@@ -1,0 +1,66 @@
+From adrian.pohl at okfn.org  Mon Dec  2 09:12:17 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 2 Dec 2013 10:12:17 +0100
+Subject: [open-bibliography] Virtual meeting discussing RLUK/TEL hackday
+ tomorrow (2013-12-03, 16:00 GMT)
+Message-ID: <CAOtd05G+4rVaFPQ3V12nv=-h+YL1tqK4PBrpkkJLoEg5F47UCA@mail.gmail.com>
+
+Hello,
+
+tomorrow will be the next virtual meeting of the Open Bibliographic
+Data group. See the agenda at
+http://pad.okfn.org/p/35th-open-bibliography-meeting .
+
+Owen Stephens will share his plans for a hackathon organized by
+Research Libraries UK (RLUK) and The European Library (TEL). He's
+looking for feedback and maybe some support from the openbiblio group.
+See the etherpad for details.
+
+All the best
+Adrian
+
+From Valentine.Charles at KB.nl  Tue Dec  3 11:50:52 2013
+From: Valentine.Charles at KB.nl (Valentine Charles)
+Date: Tue, 3 Dec 2013 11:50:52 +0000
+Subject: [open-bibliography] Digital Collections Contexts Workshop at
+	iConference 2014
+Message-ID: <E5C9E2790E641E4EA8FF8583923BBC0D04CA79@MBX-SRV-P200.wpakb.kb.nl>
+
+**Apologies for cross-posting**
+
+Digital Collection Contexts:
+Intellectual and Organizational Functions at Scale
+Full-day workshop at iConference
+Berlin, Germany
+March 4, 2014
+
+Registration is now open for a full-day workshop that examines conceptual and practical aspects of collections and the context they provide in the digital environment, especially in large-scale cultural heritage aggregations. Collections will be considered in relation to the information needs of scholars, roles of cultural institutions, and international interoperability. The workshop aims to:
+*   Broaden the conversation across an international community
+*   Further the research and development agenda for digital aggregations
+*   Relate conceptual advances to implementation goals
+*   Identify realistic approaches for collection representation, contextualization, and interoperability at scale
+
+Sessions will be led by European and North American experts from iSchools and projects developing large-scale digital cultural heritage collections.
+*   Morning session: Conceptual Foundations of Digital Collections
+*      Carole L. Palmer and Karen Wickett (CIRSS, University of Illinois)
+*      Hur-li Lee (School of Information Studies, University of Wisconsin-Milwaukee)
+*      Martin Doerr (Institute of Computer Science, Foundation for Research and Technology - Hellas)
+*      Carlo Meghini (Istituto di Scienza e Tecnologie dell'Informazione, Consiglio Nazionale delle Ricerche).
+*   Afternoon session: Practical Implications for Digital Collections
+*      Antoine Isaac (Europeana Foundation)
+*      Emily Gore and Amy Rudersdorf (Digital Public Library of America)
+*      Sheila Anderson (Centre for e-Research, King's College London)
+*      Shenghui Wang (OCLC Research)
+*      Mark Stevenson and Paul Clough (Department of Computer Science, University of Sheffield)
+
+For a complete program and additional information about the workshop, please visit http://bit.ly/collectionsworkshop2014.
+
+Early bird registration deadline is Sunday, December 15, 2013.  Workshops are included in the cost of conference registration. For more details, please see http://ischools.org/the-iconference/registration/.
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20131203/b33dcd06/attachment.html>
+

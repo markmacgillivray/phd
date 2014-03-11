@@ -1,0 +1,2784 @@
+From pitman at stat.Berkeley.EDU  Wed Sep  1 03:18:08 2010
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 31 Aug 2010 19:18:08 -0700
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>
+	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+Message-ID: <20100901021808.3C64180C8@bibserver.Berkeley.EDU>
+
+This all sounds right to me in principle.
+I cannot judge whether the RDF implementation is best possible, but 
+something way like this seems like the way to go. My main concern is that
+the conceptualization be simple enough that there is not too high an entry barrier
+to provision of data in the desired format.
+I'd like to hear more about your meshing tool. I've made several 
+naive starts at this problem in simple cases, especially in aggregating personal
+bibliographies (deduplicating bibitems) and in deduplicating lists of authors.
+A simple tool and adequate data framework and UI for these tasks would be most welcome.
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+----------------------------------------------
+
+"Ben O'Steen" <bosteen at gmail.com> wrote:
+
+> In my work on meshing bibliographic datasets together, I've been using a
+> conceptual tool that I would like to hear views on.
+>
+> I am creating nodes for the ideals of things on records - whether that is
+> for people, journals or even the bibliographic document itself. The ideal
+> represents the best and most complete data for that thing - something we'll
+> never really achieve, but that's not the point. This ideal serves as a node,
+> a hook,  on which we can join up records which describe the same thing
+> (person, frbr manifestation, etc) but which have differing data for.
+>
+> It's easy to consider it for 'deduplications' of say article references.
+> Consider two records, one from the ris feed from pubmed and one from a
+> citation in a plos article. These are found to be references to the same
+> article but as you can expect they differ, not just in terms of data but
+> also on terms of the source or author of that reference.
+>
+> The way I am tackling this is by creating a node for the ideal bibliographic
+> reference each aspires to and when dupes are believed to be found, these
+> ideal nodes are joined into a bundle using sameas (in a different store) and
+> this bundle has some provenance triples recording the how when and why for
+> this merging (using open provenance model verbs/classes)
+>
+> Eg:
+>
+> :bibrec  ---> record node from pubmed
+>
+> :citerec  ---> plos record
+>
+> _i suffix ---> ideal node
+>
+> - running analyser on record suggests two records are dupes, with a certain
+> confidence score from a certain weighted matching (call this 'heur.v0.13')
+>
+> Create ideal nodes Just In Time:
+>
+> :bibrec hasIdeal :bibrec_i
+> :citerec hasIdeal :citerec_I
+>
+> Make the bundle:
+>
+> :b1 a Bundle
+>    sameas :bibrec_i
+>    sameas :citerec_I
+>    opmv:wasGeneratedBy :p1
+>    created: 2010-08-......
+>
+> :p1 a opmv:Process
+>   Opmv:controlledBy :Ben
+>   Opmv:used :bibrec
+>   Opmv:used :citerec
+>
+> :confidence a ConfidenceReport
+>   Opmv:wasGeneratedBy :p1
+>   Hasreport <url of doc>  # for time being
+>
+> This structure let's me create an aggregated rdf dataset with the best guess
+> ideal records at any one time. Also, bundles can be merged later if required
+> creating a tree structure - the top bundle instance and the 'leaf' records
+> form a congruent closure and are thus exportable as such without the admin
+> structure triples necessary for ongoing maintenance. The bundle notion comes
+> from the excellent work by the team at southampton,  including Hugh glazer,
+> Ian milliard et al (google for coreference on the semantic web)
+>
+> Using this technique for entities like people is actually very similar. If I
+> use the words 'person' and 'persona' for the ideal and the data in a record
+> respectively. The persona can have alternative spellings, and time-dependant
+> details like a fleeting institutional affiliation, and so on. The
+> (difficult) trick is spotting when two persona's refer to the same person
+> but the process for merging is the same even if the creation of an
+> aggregated record for each is different.
+>
+> Ben
+>
+> (please forgive misspellings and the lack of url references, but I am typing
+> this from a waiting room)
+
+
+From kcoyle at kcoyle.net  Wed Sep  1 03:45:12 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 31 Aug 2010 19:45:12 -0700
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <4C7CD668.60207@okfn.org>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>
+	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+	<4C7CD668.60207@okfn.org>
+Message-ID: <20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+
+Doesn't a lot of this depend on how you define "same"? This is rather  
+complex today due to the replication of resources in various formats.  
+Is it the same if one citation is to the print copy of the article,  
+and another cites a postprint in a repository? (The latter may have  
+different formatting or different pagination depending on how it was  
+produced.) Is it that the texts are the same, or that the actual  
+publication is the same? (Which would mean that the article in the  
+journal and the postprint are considered different resources.) Do you  
+intend to distinguish between preprints and published articles? Would  
+you consider a piece of music on CD and its online copy to be the  
+same, even though the compression is different? As you can see, the  
+questions go on and on!
+
+There's also the question of confidence: what degree of confidence do  
+you need before declaring "same"? Do you prefer to err on the side of  
+over-bundling or under-bundling? This interacts with your definition  
+of sameness -- for example, let's say you decide that if you have two  
+texts with the same author, same title, and same year, they are the  
+same. You won't check for format, length, etc. That would probably  
+bring together pre-prints, post-prints, and possibly even different  
+versions of the same text. So in that way you have defined "same"  
+rather broadly. Or you could decide that two texts are the same only  
+if they both cite precisely the same publication with the same  
+pagination and full date. That is a different definition of same, with  
+more confidence.
+
+Hopefully, once you determine what you mean by "same" then you can  
+determine what you want to apply OWL sameAs to.
+
+As you can tell, I have agonized over this one for many a long hour. :-)
+
+kc
+
+Quoting William Waites <william.waites at okfn.org>:
+
+>  On 10-08-31 10:54, Ben O'Steen wrote:
+>> :b1 a Bundle
+>>
+>>    sameas :bibrec_i
+>>    sameas :citerec_I
+>>    opmv:wasGeneratedBy :p1
+>>    created: 2010-08-......
+>>
+>
+> I think this is reasoable as far as it goes. What you
+> haven't treated is how the properties present on
+> bibrec_i, citerec_i get migrated around.
+>
+> The OWL rule that we're trying to bypass is,
+>
+> { ?x owl:sameAs ?y . ?x ?p ?o } => { ?y ?p ?o }
+>
+> so do all properties from bibrec_i and citerec_i
+> get migrated to b1 and then any post-dedup queries
+> would typically be made against b1?
+>
+> Also mind the implication of sameas. It commutes
+> so what you are also saying here is,
+>
+>     :b1 a Person .
+>     :bibrec_i a Bundle .
+>     :citerec_i a Bundle .
+>
+> So maybe you don't really mean owl:sameAs on the
+> bundle.
+>
+> But if you don't mean owl:sameAs there, then where
+> do you put the properties? (Potential answer: pick
+> either bibrec_i or citerec_i arbitrarily and have a
+> specific predicate in the bundle to indicate that it
+> is the "primary" resource).
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+> 		http://ordf.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From krichel at openlib.org  Wed Sep  1 04:08:54 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Wed, 1 Sep 2010 05:08:54 +0200
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>
+	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+	<4C7CD668.60207@okfn.org>
+	<20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+Message-ID: <20100901030853.GA29105@openlib.org>
+
+
+  Karen Coyle writes
+
+> As you can see, the questions go on and on!
+ 
+  Deduplication is also service context dependent. As an example, for
+  AuthorClaim, I ignore PubMed Central records, since I assume---I
+  have not looked at this in as much detail as I should---that all
+  PubMed Central records are in PubMed, which I fully cover. I can do
+  this because full-text article retrieval is of no concern in an
+  author claiming service. If I were to run a full-text retrieval
+  service, I would be very foolish to do that.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From william.waites at okfn.org  Wed Sep  1 08:01:40 2010
+From: william.waites at okfn.org (William Waites)
+Date: Wed, 01 Sep 2010 08:01:40 +0100
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>	<4C7CD668.60207@okfn.org>
+	<20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+Message-ID: <4C7DFA54.2060008@okfn.org>
+
+ On 10-09-01 03:45, Karen Coyle wrote:
+> Doesn't a lot of this depend on how you define "same"? [...]
+> Hopefully, once you determine what you mean by "same" then you can
+> determine what you want to apply OWL sameAs to. 
+
+Yes. The meaning of owl:sameAs is well defined. It means,
+
+    If x owl:sameAs y, then the following are true:
+        * for every p,o such that the triple (x,p,o) exists, the
+           triple (y,p,o) is implied
+        * for every s,o such that the triple (s,x,o) exists, the
+           triple (s,y,o) is implied
+        * for every s,p such that the triple (s,p,x) exists, the
+           triple (s,p,y) is implied
+
+As you point out, having a weaker sameAs degenerates
+into "similar to", actually, "similar to in the relevant respects".
+Evaluating relevance means taking into account the *intent*
+of someone using the information, the *context* of any
+query that might eventually be made over the data. If
+anyone can come up with a tractable theory of similarity
+and relevance that holds generally they deserve at least a
+Nobel prise.
+
+Ben agreed in a private mail to me (that may have been
+intended for the list, there wasn't anything particularly
+private in it) that owl:sameAs is probably too strong a
+predicate for what he would like to accomplish.
+
+Even if you define a weaker version of sameAs for the
+intended use cases, call it similarTo, you still have to
+figure out how to arrange the data so that interesting
+properties, e.g. names and titles, get put in the right
+place so that you can make unambiguous queries that
+don't return duplicates. For example you might move
+all name variants up to a PersonBundle and your
+queries would always involve that and not individual
+Person resources.
+
+So what is needed to make this workable is a class,
+subclass of Bundle, for each type of thing that can be
+deduplicated and a generic similarTo predicate that
+points to the original resource, together with rules
+specific to that type of thing that say which properties
+get copied. (Alternatively, a generic Bundle and a
+number of thing-specific similarTo variants, and a
+corresponding set of rules).
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From bosteen at gmail.com  Wed Sep  1 08:56:32 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Wed, 01 Sep 2010 08:56:32 +0100
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <4C7DFA54.2060008@okfn.org>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>
+	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+	<4C7CD668.60207@okfn.org> <20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+	<4C7DFA54.2060008@okfn.org>
+Message-ID: <1283327796.16720.21.camel@monster>
+
+Sorry for the direct reply to Will, it wasn't secret - I hadn't checked
+the address once I hit 'Reply-to' :)
+
+Essentially, I said that I felt that the notion of 'sameas' worked fine
+when 'merging' or connecting the ideals (or their subsequent bundles).
+
+The reason I used the word Ideal is that it was meant as a mythical,
+perfect metadata record from which all other record representations
+might be derived. The desired implication is that all manifestations,
+all records are incomplete representations of this data.
+
+This is not to say that an aggregation of triples from all the sources
+would get us closer to an Ideal - far from it. Any representation has a
+bias, whether personal, conventional or otherwise. For example, the same
+record might have representations in MARC, RIS, or any number of RDF
+modelled versions - it could use a DC/PRISM model or FRBR/RDA in RDF or
+some other varient, heavy in literals or heavy in URIs.
+
+In response to Karen's point about the definition of 'same', it is down
+to the context and an acknowledgement that you can't please all of the
+people, all of the time. I think the phrase "same, for the intents and
+purposes of ...." helps point out what I am intending. 
+
+There is nothing wrong with duplication. We deduplicate to make certain
+tasks much easier and it is those tasks that define the 'sameness' that
+we should aim for. 
+
+This is why the technique of ideals and closures I described doesn't
+affect or alter the source data and why nothing irreversible happens
+without a very, very good reason. I am going to pair things up
+erroneously, and I am not going to be able to deduplicate whole datasets
+before they are used. I can attempt to make unpicking and merging on the
+fly as painless as possible and account for the fact that records may
+change after the fact which this is my attempt to do.
+
+The ideal records won't have any real metadata on them, save for admin
+triples - they will point to aggregations or format variations of what
+is my 'best guess' version of a record at the current time.
+
+Ben
+
+On Wed, 2010-09-01 at 08:01 +0100, William Waites wrote:
+> On 10-09-01 03:45, Karen Coyle wrote:
+> > Doesn't a lot of this depend on how you define "same"? [...]
+> > Hopefully, once you determine what you mean by "same" then you can
+> > determine what you want to apply OWL sameAs to. 
+> 
+> Yes. The meaning of owl:sameAs is well defined. It means,
+> 
+>     If x owl:sameAs y, then the following are true:
+>         * for every p,o such that the triple (x,p,o) exists, the
+>            triple (y,p,o) is implied
+>         * for every s,o such that the triple (s,x,o) exists, the
+>            triple (s,y,o) is implied
+>         * for every s,p such that the triple (s,p,x) exists, the
+>            triple (s,p,y) is implied
+> 
+> As you point out, having a weaker sameAs degenerates
+> into "similar to", actually, "similar to in the relevant respects".
+> Evaluating relevance means taking into account the *intent*
+> of someone using the information, the *context* of any
+> query that might eventually be made over the data. If
+> anyone can come up with a tractable theory of similarity
+> and relevance that holds generally they deserve at least a
+> Nobel prise.
+> 
+> Ben agreed in a private mail to me (that may have been
+> intended for the list, there wasn't anything particularly
+> private in it) that owl:sameAs is probably too strong a
+> predicate for what he would like to accomplish.
+> 
+> Even if you define a weaker version of sameAs for the
+> intended use cases, call it similarTo, you still have to
+> figure out how to arrange the data so that interesting
+> properties, e.g. names and titles, get put in the right
+> place so that you can make unambiguous queries that
+> don't return duplicates. For example you might move
+> all name variants up to a PersonBundle and your
+> queries would always involve that and not individual
+> Person resources.
+> 
+> So what is needed to make this workable is a class,
+> subclass of Bundle, for each type of thing that can be
+> deduplicated and a generic similarTo predicate that
+> points to the original resource, together with rules
+> specific to that type of thing that say which properties
+> get copied. (Alternatively, a generic Bundle and a
+> number of thing-specific similarTo variants, and a
+> corresponding set of rules).
+> 
+> Cheers,
+> -w
+> 
+
+
+
+
+From bosteen at gmail.com  Wed Sep  1 09:19:28 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Wed, 01 Sep 2010 09:19:28 +0100
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <20100901030853.GA29105@openlib.org>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>
+	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+	<4C7CD668.60207@okfn.org> <20100831194512.emd6njqdgk8gcc48@kcoyle.net>
+	<20100901030853.GA29105@openlib.org>
+Message-ID: <1283329168.16720.28.camel@monster>
+
+On Wed, 2010-09-01 at 05:08 +0200, Thomas Krichel wrote:
+> Karen Coyle writes
+> 
+> > As you can see, the questions go on and on!
+>  
+>   Deduplication is also service context dependent. ...
+
+
+I absolutely agree and I'll also say that when you are de-duplicating
+for any of these reasons, you will be using some probabilistic method of
+some kind, 99% of the time ;) Whether it's a fellegi-sunter based whole
+record dedupe, or single field (eg id) matching, there will be false
+positives and false negatives. 
+
+Your success rate will always be <100%, and the degree of success will
+vary depending on who and for what purpose this was done.
+
+Ben
+
+
+
+From emc59 at cam.ac.uk  Wed Sep  1 10:15:19 2010
+From: emc59 at cam.ac.uk (Edmund Chamberlain)
+Date: Wed, 01 Sep 2010 10:15:19 +0100
+Subject: [open-bibliography] BL data available under Creative Commons
+ Attribution-NonCommercial-ShareAlike 3.0 Unported License
+Message-ID: <4C7E19A7.5000104@cam.ac.uk>
+
+Apologies if this has been posted and missed:
+http://www.librarytechnology.org/ltg-displaytext.pl?RC=15024
+
+Sample of data here:
+http://www.bl.uk/bibliographic/rdfdcsample.xml
+
+Granularity issues aside, its a great development.
+
+Ed
+
+-- 
+Edmund Chamberlain
+Systems Development Librarian	
+Electronic Services and Systems
+Cambridge University Library
+West Road,
+Cambridge
+CB3 9DR
+
+tel: (+44) 01223 747437
+fax: (+44) 01223 333160
+
+email: emc59 at cam.ac.uk
+
+
+From bosteen at gmail.com  Wed Sep  1 10:15:13 2010
+From: bosteen at gmail.com (Benjamin O'Steen)
+Date: Wed, 01 Sep 2010 10:15:13 +0100
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <20100901021808.3C64180C8@bibserver.Berkeley.EDU>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>
+	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>
+	<20100901021808.3C64180C8@bibserver.Berkeley.EDU>
+Message-ID: <1283332513.18481.15.camel@beast>
+
+On Tue, 2010-08-31 at 19:18 -0700, Jim Pitman wrote:
+> I'd like to hear more about your meshing tool. I've made several 
+> naive starts at this problem in simple cases, especially in aggregating personal
+> bibliographies (deduplicating bibitems) and in deduplicating lists of authors.
+> A simple tool and adequate data framework and UI for these tasks would be most welcome.
+> --Jim
+
+I've been aiming to tackle this in a map-reduce style - once set of
+processes flag similarities and the other set 'reduce' and create the
+bundle-closure structure. This works in practice and so far, not a
+concern to me.
+
+I've just written up a description of what happens at the 'reduce' stage
+- what actually happens when things are found to be similar/'same'.
+
+The map stage is the one I am heavily working on. I, too, initially
+tried some naive approaches, initially attempting a weighted similarity
+using levenshtein distances, hoping to hit the 80:20 sweet spot, but I
+was getting nowhere near decent levels of hits. 
+
+I started to try other string similarity metrics, including one that
+split the fields into tokens before before similarity matching and
+balancing for omissions/additions. 
+
+The short story is that this whole area is not a new one, and I stopped
+trying to re-invent wheels and just accept that there is a reason why
+people use the more complex methods.
+
+(Good run down of string similarity metrics here:
+http://www.dcs.shef.ac.uk/~sam/stringmetrics.html
+)
+
+So, I am currently adapting a library called Febrl for this purpose -
+(Freely extensible biomedical record linkage) - which uses a combination
+of these string similarity metrics in a Fellegi-Sunter approach to
+dedupe. 
+
+http://datamining.anu.edu.au/projects/linkage.html
+
+Ben
+
+PS there is a useful paper surveying effectiveness of various string
+similarity techniques here:
+
+http://www.isi.edu/info-agents/workshops/ijcai03/papers/Cohen-p.pdf
+
+Worth reading.
+
+
+
+From mathias.schindler at gmail.com  Wed Sep  1 10:40:31 2010
+From: mathias.schindler at gmail.com (Mathias Schindler)
+Date: Wed, 1 Sep 2010 11:40:31 +0200
+Subject: [open-bibliography] BL data available under Creative Commons
+ Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <4C7E19A7.5000104@cam.ac.uk>
+References: <4C7E19A7.5000104@cam.ac.uk>
+Message-ID: <AANLkTi=+Xnfdfha2sDig9pDSzSnkQB-M=1MW-LCieTmT@mail.gmail.com>
+
+On Wed, Sep 1, 2010 at 11:15 AM, Edmund Chamberlain <emc59 at cam.ac.uk> wrote:
+> Apologies if this has been posted and missed:
+> http://www.librarytechnology.org/ltg-displaytext.pl?RC=15024
+>
+> Sample of data here:
+> http://www.bl.uk/bibliographic/rdfdcsample.xml
+>
+> Granularity issues aside, its a great development.
+
+I sent an email to BL and asked them to provide the bibliographic data
+under a free license as well (i.e. to get rid of the -nc restriction).
+
+In other news, the university libraries of T?bingen and Konstanz have
+recently released their data under cc-by-nc-sa and we had a fruitful
+exchange on changing the license to cc-by-sa or cc0. I am expecting
+the change any time soon.
+
+Mathias
+
+
+From krichel at openlib.org  Wed Sep  1 10:46:44 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Wed, 1 Sep 2010 11:46:44 +0200
+Subject: [open-bibliography] BL data available under Creative Commons
+ Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <4C7E19A7.5000104@cam.ac.uk>
+References: <4C7E19A7.5000104@cam.ac.uk>
+Message-ID: <20100901094641.GA10756@openlib.org>
+
+  Edmund Chamberlain writes
+> Apologies if this has been posted and missed:
+
+  Thanks!
+
+> http://www.librarytechnology.org/ltg-displaytext.pl?RC=15024
+
+  That's Marshall's site, the BL link is
+
+http://www.bl.uk/bibliographic/datafree.html
+
+> Granularity issues aside, its a great development.
+
+  Unfortunately, it does not contain the ETOC contents,
+  which is the one that's important for academic
+  librarianship.
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From cjg at ecs.soton.ac.uk  Wed Sep  1 14:01:30 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Wed, 01 Sep 2010 14:01:30 +0100
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <1283329168.16720.28.camel@monster>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>	<4C7CD668.60207@okfn.org>
+	<20100831194512.emd6njqdgk8gcc48@kcoyle.net>	<20100901030853.GA29105@openlib.org>
+	<1283329168.16720.28.camel@monster>
+	<4C7E4EAA.40409@ecs.soton.ac.uk>
+Message-ID: <EMEW3|a04aba13bd97464009db51ba8957c493m80E1Y03cjg|ecs.soton.ac.uk|4C7E4EAA.40409@ecs.soton.ac.uk>
+
+Hi. I've got a couple of points on this subject with two different "Hats"
+
+/Chris-the-eprints-guy: /
+EPrints 3.2.1 onwards provides some basic linked data, but the relevant 
+thing is it also produces good URIs suitable for linking via a 
+de-dupping service. It mints URIs for its metadata records, its 
+documents, the files in its documents (OK, those are just URLs of 
+files), which you would expect.
+
+It also makes URIs for people, conferences, conference locations, 
+publications and organisations. This is done by hashing known data about 
+them and a few assumptions.
+
+Example of our URIs can be seen here, a conference paper.
+http://eprints.ecs.soton.ac.uk/cgi/export/eprint/21498/RDFN3/ecs-eprint-21498.n3?mimetype=text/plain
+
+My hope is that this will be a good starting point for dedupping 
+services. We are open to suggestions from people who want to actively 
+use our data, and not that open to people who want us to do it "right" 
+based on their set of beliefs.
+
+/Chris-the-RDF-guy:
+/It's OK to say to similar things are the same, if they are the same for 
+the purposes of your dataset. A dataset about movie scripts would 
+consider the Adam West Batman very different from the Batman Begins 
+Batman. However a dataset mapping what comic book characters appear in 
+movies would probably treat both as the same, and declare their #batman 
+to be the same as all the comic book incarnations and all the movie 
+incarnations. They are all the sameAs your concept of batman FOR YOUR 
+PURPOSES.
+
+sameAs is a subjective term. Honouring it semantically should be based 
+on the source of the assertion. Sources should aim to be clear and 
+consistent in how they sameAs things.
+
+Just accept that sameAs is going to drift its meaning as we now have a 
+tide of non-logic-obsessed people building RDF, who don't give a durn 
+for your OWL.
+
+On 01/09/10 09:19, Ben O'Steen wrote:
+> On Wed, 2010-09-01 at 05:08 +0200, Thomas Krichel wrote:
+>    
+>> Karen Coyle writes
+>>
+>>      
+>>> As you can see, the questions go on and on!
+>>>        
+>>
+>>    Deduplication is also service context dependent. ...
+>>      
+>
+> I absolutely agree and I'll also say that when you are de-duplicating
+> for any of these reasons, you will be using some probabilistic method of
+> some kind, 99% of the time ;) Whether it's a fellegi-sunter based whole
+> record dedupe, or single field (eg id) matching, there will be false
+> positives and false negatives.
+>
+> Your success rate will always be<100%, and the degree of success will
+> vary depending on who and for what purpose this was done.
+>
+> Ben
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>    
+
+-- 
+Christopher Gutteridge -- http://id.ecs.soton.ac.uk/person/1248
+
+/ Lead Developer, EPrints Project, http://eprints.org/
+/ Web Projects Manager, ECS, University of Southampton, http://www.ecs.soton.ac.uk/
+/ Webmaster, Web Science Trust, http://www.webscience.org/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100901/8648bd60/attachment.htm>
+
+From pitman at stat.Berkeley.EDU  Thu Sep  2 00:28:13 2010
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Wed, 01 Sep 2010 16:28:13 -0700
+Subject: [open-bibliography] BL data available under Creative Commons
+ Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <4C7E19A7.5000104@cam.ac.uk>
+References: <4C7E19A7.5000104@cam.ac.uk>
+Message-ID: <20100901232813.7792D7F5B@bibserver.Berkeley.EDU>
+
+Edmund Chamberlain <emc59 at cam.ac.uk> wrote:
+
+> Apologies if this has been posted and missed:
+> http://www.librarytechnology.org/ltg-displaytext.pl?RC=15024
+>
+> Sample of data here:
+> http://www.bl.uk/bibliographic/rdfdcsample.xml
+>
+> Granularity issues aside, its a great development.
+
+Yes, this looks terrific. From http://www.bl.uk/bibliographic/datafree.html
+I see 
+
+Files are distributed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This seems to me a reasonable choice for biblio metadata, and one there is
+some hope of getting big non-profit data providers to use.
+I dont see any significant downside to the "NonCommercial" feature, and
+"ShareAlike" seems OK too. 
+
+However, the "Users are required to register for the service and agree ..."
+is a bit strange, and does not seem consistent with the license.  Are re-users
+of the data required also to register with BNL?
+It would be interesting to see a copy of the registration agreement.
+How about OKFN registering as a user and hosting a copy with easier access? 
+Or Thomas, how about hosting on 3lib?
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From flimm at ub.uni-koeln.de  Thu Sep  2 08:27:43 2010
+From: flimm at ub.uni-koeln.de (Oliver Flimm)
+Date: Thu, 2 Sep 2010 09:27:43 +0200
+Subject: [open-bibliography] BL data available under Creative Commons
+	Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <20100901232813.7792D7F5B@bibserver.Berkeley.EDU>
+References: <4C7E19A7.5000104@cam.ac.uk>
+	<20100901232813.7792D7F5B@bibserver.Berkeley.EDU>
+Message-ID: <20100902072743.GA9866@ub.uni-koeln.de>
+
+Hi,
+
+On Wed, Sep 01, 2010 at 04:28:13PM -0700, Jim Pitman wrote:
+> Files are distributed under a 
+> Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+> http://creativecommons.org/licenses/by-nc-sa/3.0/
+> 
+> This seems to me a reasonable choice for biblio metadata, and one there is
+> some hope of getting big non-profit data providers to use.
+> I dont see any significant downside to the "NonCommercial" feature, and
+> "ShareAlike" seems OK too. 
+
+hmm, when opening up our bibliographic data with hbz, we discussed possible
+metadata licenses quite a lot. Rather quick it was apparent, that
+except CC0 all CC-licenses had its problems - CC-A-NC-SA being the
+worst of all.
+
+Attribution means: When querying and combining thousands of
+SPARQL-Endpoints to finally get *one* result item, then you have to
+stick thousand attribution notices to the item, when showing it to the
+end user. Not very practical...
+
+Non commercial means: Wikipedia, Google and so on can't use it -
+meaning less use and visibility
+
+Share-alike means: The result of combinations of CC-*-SA and CC0 get
+"poisoned" by SA, because parts that once were CC0 are now bound to
+CC-*-SA.
+
+Nevertheless the step of releasing the data is good news. But it would
+be even better with a different type of license... Perhaps they'll
+reconsider their choice at some point and change the license...
+
+Regards,
+
+O. Flimm
+
+-- 
+Universitaet zu Koeln :: Universitaets- und Stadtbibliothek
+IT-Dienste :: Abteilung Universitaetsgesamtkatalog
+Universitaetsstr. 33 :: D-50931 Koeln
+Tel.: +49 221 470-3330 :: Fax: +49 221 470-5166
+flimm at ub.uni-koeln.de :: www.ub.uni-koeln.de
+
+
+From pohl at hbz-nrw.de  Thu Sep  2 08:51:40 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Thu, 02 Sep 2010 09:51:40 +0200
+Subject: [open-bibliography] Antw: Re: BL data available under Creative
+ Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <20100902072743.GA9866@ub.uni-koeln.de>
+References: <4C7E19A7.5000104@cam.ac.uk>
+	<20100901232813.7792D7F5B@bibserver.Berkeley.EDU>
+	<20100902072743.GA9866@ub.uni-koeln.de>
+Message-ID: <4C7F73AC0200001400037A49@agrippa.hbz-nrw.de>
+
+See also Rufus' post "Why Share-Alike Licenses are Open but
+Non-Commercial Ones Aren?t" which explains openness as an issue of
+legal interoperability which NC-licences doesn't confrom to[1] or the
+"classic" by Erik M?ller[2].
+
+Adrian
+
+[1]
+http://blog.okfn.org/2010/06/24/why-share-alike-licenses-are-open-but-non-commercial-ones-arent/
+[2] http://freedomdefined.org/Licenses/NC
+
+Oliver Flimm <flimm at ub.uni-koeln.de> 02.09.2010 09:27 >>>
+Hi,
+
+On Wed, Sep 01, 2010 at 04:28:13PM -0700, Jim Pitman wrote:
+> Files are distributed under a 
+> Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+License. 
+> http://creativecommons.org/licenses/by-nc-sa/3.0/ 
+> 
+> This seems to me a reasonable choice for biblio metadata, and one
+there is
+> some hope of getting big non-profit data providers to use.
+> I dont see any significant downside to the "NonCommercial" feature,
+and
+> "ShareAlike" seems OK too. 
+
+hmm, when opening up our bibliographic data with hbz, we discussed
+possible
+metadata licenses quite a lot. Rather quick it was apparent, that
+except CC0 all CC-licenses had its problems - CC-A-NC-SA being the
+worst of all.
+
+Attribution means: When querying and combining thousands of
+SPARQL-Endpoints to finally get *one* result item, then you have to
+stick thousand attribution notices to the item, when showing it to the
+end user. Not very practical...
+
+Non commercial means: Wikipedia, Google and so on can't use it -
+meaning less use and visibility
+
+Share-alike means: The result of combinations of CC-*-SA and CC0 get
+"poisoned" by SA, because parts that once were CC0 are now bound to
+CC-*-SA.
+
+Nevertheless the step of releasing the data is good news. But it would
+be even better with a different type of license... Perhaps they'll
+reconsider their choice at some point and change the license...
+
+Regards,
+
+O. Flimm
+
+-- 
+Universitaet zu Koeln :: Universitaets- und Stadtbibliothek
+IT-Dienste :: Abteilung Universitaetsgesamtkatalog
+Universitaetsstr. 33 :: D-50931 Koeln
+Tel.: +49 221 470-3330 :: Fax: +49 221 470-5166
+flimm at ub.uni-koeln.de :: www.ub.uni-koeln.de 
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org 
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From tim at librarything.com  Thu Sep  2 09:36:20 2010
+From: tim at librarything.com (Tim Spalding)
+Date: Thu, 2 Sep 2010 04:36:20 -0400
+Subject: [open-bibliography] Antw: Re: BL data available under Creative
+ Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <4C7F73AC0200001400037A49@agrippa.hbz-nrw.de>
+References: <4C7E19A7.5000104@cam.ac.uk>
+	<20100901232813.7792D7F5B@bibserver.Berkeley.EDU>
+	<20100902072743.GA9866@ub.uni-koeln.de>
+	<4C7F73AC0200001400037A49@agrippa.hbz-nrw.de>
+Message-ID: <AANLkTin0Lw8ns7iWiBwQG7UZt5aw90DZVBqDgb_28Yho@mail.gmail.com>
+
+As a company I obviously dislike NC. But more generally I would think
+it raises all sorts of problems for libraries to get NC MARC records.
+Most libraries don't do all their own work, but take part in all sorts
+of data improvement, data transfer and data processing relationships,
+with vendors in all sorts of relationships. At the most basic level,
+libraries exchange records, and there's no reliable way of coding the
+legal status of diffs into MARC records. All told, it's unclear to me
+what NC would bind, and what it wouldn't, what it would prevent for
+real, and what it would prevent because the situation is just too
+foggy.
+
+Another question is simple: Is OCLC "non-commercial" or not? I say
+"not on your life, they're a monstrous and extortionary data
+monopoly." But I'm sure they'd say they were. What is the CC answer?
+
+Tim
+
+On Thu, Sep 2, 2010 at 3:51 AM, Adrian Pohl <pohl at hbz-nrw.de> wrote:
+> See also Rufus' post "Why Share-Alike Licenses are Open but
+> Non-Commercial Ones Aren?t" which explains openness as an issue of
+> legal interoperability which NC-licences doesn't confrom to[1] or the
+> "classic" by Erik M?ller[2].
+>
+> Adrian
+>
+> [1]
+> http://blog.okfn.org/2010/06/24/why-share-alike-licenses-are-open-but-non-commercial-ones-arent/
+> [2] http://freedomdefined.org/Licenses/NC
+>
+> Oliver Flimm <flimm at ub.uni-koeln.de> 02.09.2010 09:27 >>>
+> Hi,
+>
+> On Wed, Sep 01, 2010 at 04:28:13PM -0700, Jim Pitman wrote:
+>> Files are distributed under a
+>> Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+> License.
+>> http://creativecommons.org/licenses/by-nc-sa/3.0/
+>>
+>> This seems to me a reasonable choice for biblio metadata, and one
+> there is
+>> some hope of getting big non-profit data providers to use.
+>> I dont see any significant downside to the "NonCommercial" feature,
+> and
+>> "ShareAlike" seems OK too.
+>
+> hmm, when opening up our bibliographic data with hbz, we discussed
+> possible
+> metadata licenses quite a lot. Rather quick it was apparent, that
+> except CC0 all CC-licenses had its problems - CC-A-NC-SA being the
+> worst of all.
+>
+> Attribution means: When querying and combining thousands of
+> SPARQL-Endpoints to finally get *one* result item, then you have to
+> stick thousand attribution notices to the item, when showing it to the
+> end user. Not very practical...
+>
+> Non commercial means: Wikipedia, Google and so on can't use it -
+> meaning less use and visibility
+>
+> Share-alike means: The result of combinations of CC-*-SA and CC0 get
+> "poisoned" by SA, because parts that once were CC0 are now bound to
+> CC-*-SA.
+>
+> Nevertheless the step of releasing the data is good news. But it would
+> be even better with a different type of license... Perhaps they'll
+> reconsider their choice at some point and change the license...
+>
+> Regards,
+>
+> O. Flimm
+>
+> --
+> Universitaet zu Koeln :: Universitaets- und Stadtbibliothek
+> IT-Dienste :: Abteilung Universitaetsgesamtkatalog
+> Universitaetsstr. 33 :: D-50931 Koeln
+> Tel.: +49 221 470-3330 :: Fax: +49 221 470-5166
+> flimm at ub.uni-koeln.de :: www.ub.uni-koeln.de
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Check out my library at http://www.librarything.com/profile/timspalding
+
+
+From rufus.pollock at okfn.org  Thu Sep  2 09:41:27 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 2 Sep 2010 09:41:27 +0100
+Subject: [open-bibliography] BL data available under Creative Commons
+ Attribution-NonCommercial-ShareAlike 3.0 Unported License
+In-Reply-To: <AANLkTi=+Xnfdfha2sDig9pDSzSnkQB-M=1MW-LCieTmT@mail.gmail.com>
+References: <4C7E19A7.5000104@cam.ac.uk>
+	<AANLkTi=+Xnfdfha2sDig9pDSzSnkQB-M=1MW-LCieTmT@mail.gmail.com>
+Message-ID: <AANLkTinQ6B2Nz98Qrz3cNZ2yja-9JVnZTjmCg60pECLM@mail.gmail.com>
+
+On 1 September 2010 10:40, Mathias Schindler
+<mathias.schindler at gmail.com> wrote:
+> On Wed, Sep 1, 2010 at 11:15 AM, Edmund Chamberlain <emc59 at cam.ac.uk> wrote:
+>> Apologies if this has been posted and missed:
+>> http://www.librarytechnology.org/ltg-displaytext.pl?RC=15024
+>>
+>> Sample of data here:
+>> http://www.bl.uk/bibliographic/rdfdcsample.xml
+
+Here's the main link I know about:
+<http://www.bl.uk/bibliographic/datafree.html>
+
+>> Granularity issues aside, its a great development.
+>
+> I sent an email to BL and asked them to provide the bibliographic data
+> under a free license as well (i.e. to get rid of the -nc restriction).
+
+I meant to respond straight away but things move fast on this list :)
+You are quite right that this data isn't yet open. However I'm
+optimistic some real open data is on the way.
+
+As people know from Peter Murray Rust's announcement to this list, the
+JISC OpenBib project [1] (in which I am participating) is making
+aiming to make available a reasonable set of *open* bibliographic data
+in linked open data form.
+
+[1]: http://openbiblio.net/p/jiscopenbib/
+
+As part of the project we had commitments from 3 specific sources
+(we're looking for more!) to provide some "raw" *open* bibliographic
+data:
+
+a) Cambridge University Library
+b) the British Library
+c) International Union of Crystallography
+
+In the last 2 months JISC OpenBib have been talking in detail with
+British Library and we're hoping to get an initial set of data from
+them quite soon. I don't know whether these discussions (and the
+original discussion of the project with them -- which took place in
+the Spring) has prompted this free data service but there should
+definitely be a set of real open data coming from them in the near
+future (though I should emphasize that, at this point at least, it
+certainly won't be their whole catalogue in MARC form!)
+
+> In other news, the university libraries of T?bingen and Konstanz have
+> recently released their data under cc-by-nc-sa and we had a fruitful
+> exchange on changing the license to cc-by-sa or cc0. I am expecting
+> the change any time soon.
+
+This is really great news. BTW if they are thinking of share-alike
+they really want the ODbL (http://opendatacommons.org/licenses/odbl/)
+rather than CC by-sa.
+
+Rufus
+
+
+From krichel at openlib.org  Thu Sep  2 19:07:24 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Thu, 2 Sep 2010 20:07:24 +0200
+Subject: [open-bibliography] [J.Neubert@zbw.eu: ANN: 20th Century Press
+	Archives beta version]
+Message-ID: <20100902180724.GC14072@openlib.org>
+
+
+  FYI 
+
+  The page is in German. It qualifies the data as "open linked
+  data". 
+
+----- Forwarded message from Neubert Joachim <J.Neubert at zbw.eu> -----
+
+From: Neubert Joachim <J.Neubert at zbw.eu>
+To: public-lld at w3.org
+Subject: ANN: 20th Century Press Archives beta version
+
+Just in time for the discussion of our use cases I'm pleased to announce
+the first beta version of 20th Century Press Archives
+
+ 
+
+  http://zbw.eu/beta/p20/about
+
+ 
+
+It makes use of the full dataset (some 250,000 documents) and links to
+DBpedia, German National Library's Name Authority and, for a few
+articles from US newspapers, to Chronicling America (thanks to Ed!).
+
+ 
+
+Enjoy - Joachim
+
+
+----- End forwarded message -----
+
+-- 
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From william.waites at okfn.org  Mon Sep  6 13:30:13 2010
+From: william.waites at okfn.org (William Waites)
+Date: Mon, 06 Sep 2010 13:30:13 +0100
+Subject: [open-bibliography] Disambiguation, deduplication and 'ideals'
+In-Reply-To: <EMEW3|a04aba13bd97464009db51ba8957c493m80E1Y03cjg|ecs.soton.ac.uk|4C7E4EAA.40409@ecs.soton.ac.uk>
+References: <AANLkTi=VrxOO_HrdHHJKZpp0AUUTv2EhRr8b4kqEKW7L@mail.gmail.com>	<AANLkTimF92dVj4dCL54oE30G_pafJ8sqBQ36Nee3_kbk@mail.gmail.com>	<4C7CD668.60207@okfn.org>	<20100831194512.emd6njqdgk8gcc48@kcoyle.net>	<20100901030853.GA29105@openlib.org>	<1283329168.16720.28.camel@monster>	<4C7E4EAA.40409@ecs.soton.ac.uk>
+	<EMEW3|a04aba13bd97464009db51ba8957c493m80E1Y03cjg|ecs.soton.ac.uk|4C7E4EAA.40409@ecs.soton.ac.uk>
+Message-ID: <4C84DED5.7020002@okfn.org>
+
+ On 10-09-01 14:01, Christopher Gutteridge wrote:
+> Just accept that sameAs is going to drift its meaning as we now have a
+> tide of non-logic-obsessed people building RDF, who don't give a durn
+> for your OWL.
+
+Just found a good paper dealing with just this (with
+some constructive proposals):
+
+http://events.linkeddata.org/ldow2010/papers/ldow2010_paper09.pdf
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From pohl at hbz-nrw.de  Mon Sep  6 16:30:52 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Mon, 06 Sep 2010 17:30:52 +0200
+Subject: [open-bibliography] Tomorrow: Virtual Meeting
+Message-ID: <4C85254C0200001400037C44@agrippa.hbz-nrw.de>
+
+Hello,
+ 
+sorry for being so late for this. Hopefully some of you have the time to attend anyway: Our next regular virtual meeting will be tomorrow at 16:00 UK time (BST). I started an Etherpad at http://okfnpad.org/3rd-open-bibliography-meeting. I haven't added that much topics to the agenda yet. Everybody feel free to edit.
+
+All the best
+Adrian
+
+
+
+From Corine.Deliot at bl.uk  Tue Sep  7 15:04:50 2010
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Tue, 7 Sep 2010 15:04:50 +0100
+Subject: [open-bibliography] New sample of BL data available
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BB7@w2k3-bspex2.ad.bl.uk>
+
+All, 
+
+ 
+
+A couple of weeks ago, the BL announced that it would make some of its
+datasets available free of charge. The first sample file provided a
+basic RDF/DC representation of our BNB data. We've now produced a more
+granular representation. A sample is available at:
+
+http://www.bl.uk/bibliographic/datasamples.html
+
+ 
+
+This is work in progress and feedback on the data structure is very
+welcome (on this list or direct to me, whatever is best). 
+
+ 
+
+Thanks,
+
+ 
+
+Corine
+
+ 
+
+*********************************
+
+Corine Deliot
+
+Metadata Standards Analyst
+
+The British Library
+
+Boston Spa, Wetherby
+
+West Yorkshire LS23 7BQ
+
+e-mail: corine.deliot at bl.uk
+
+*********************************
+
+ 
+
+
+**************************************************************************
+ 
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2009/10 : http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100907/97f3dde0/attachment.htm>
+
+From pohl at hbz-nrw.de  Tue Sep  7 15:32:53 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Tue, 07 Sep 2010 16:32:53 +0200
+Subject: [open-bibliography] Reminder: Virtual Meeting
+Message-ID: <4C8669350200001400037CCD@agrippa.hbz-nrw.de>
+
+The virtual meeting will start in half an hour at 16:00 BST.
+ 
+Adrian
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100907/ec346889/attachment.htm>
+
+From william.waites at okfn.org  Tue Sep  7 21:51:03 2010
+From: william.waites at okfn.org (William Waites)
+Date: Tue, 07 Sep 2010 21:51:03 +0100
+Subject: [open-bibliography] Call for Use Cases: Library Linked Data
+Message-ID: <4C86A5B7.2040807@okfn.org>
+
+W3C Library Linked Data Incubator Group -
+http://www.w3.org/2005/Incubator/lld/
+
+Call for Use Cases: Library Linked Data
+
+Are you currently using linked data technology [1] for library-related
+data, or considering doing it in the near future? If so, please tell us
+more by filling in the questionnaire below and sending it back to us or
+to public-lld at w3.org, preferably before October 15th, 2010.
+
+The information you provide will be influential in guiding the
+activities the Library Linked Data Incubator Group will undertake to
+help increase global interoperability of library data on the Web. The
+information you provide will be curated and published on the group
+wikispace at [3].
+
+We understand that your time is precious, so please don't feel you have
+to answer every question. Some sections of the templates are clearly
+marked as optional. However, the more information you can provide, the
+easier it will be for the Incubator Group to understand your case. And,
+of course, please do not hesitate to contact us if you have any trouble
+answering our questions. Editorial guidance on specific points is
+provided at [2], and examples are available at [3].
+
+We are particularly interested in use cases describing the use of
+library linked data for end-user oriented applications. However, we're
+not ruling anything out at this stage, and the Incubator Group will
+carefully consider all submissions we receive.
+
+On behalf of the Incubator Group, thanks in advance for your time,
+
+Emmanuelle Bermes (Emmanuelle.Bermes_bnf.fr),
+Alexander Haffner (A.Haffner_d-nb.de),
+Antoine Isaac (aisaac_few.vu.nl) and
+Jodi Schneider (jodi.schneider_deri.org)
+
+[1] http://www.w3.org/DesignIssues/LinkedData.html
+[2] http://www.w3.org/2005/Incubator/lld/wiki/UCCuration
+[3] http://www.w3.org/2005/Incubator/lld/wiki/UseCases
+
+================================================================
+================================================================
+
+=== Name ===
+
+A short name by which we can refer to the use case in discussions.
+
+=== Owner ===
+
+The contact person for this use case.
+
+=== Background and Current Practice ===
+
+Where this use case takes place in a specific domain, and so requires
+some prior information to understand, this section is used to describe
+that domain. As far as possible, please put explanation of the domain in
+here, to keep the scenario as short as possible. If this scenario is
+best illustrated by showing how applying technology could replace
+current existing practice, then this section can be used to describe the
+current practice. Often, the key to why a use case is important
+also lies in what problem would occur if it was not achieved, or what
+problem means it is hard to achieve.
+
+=== Goal ===
+
+Two short statements stating (1) what is achieved in the scenario
+without reference to linked data, and (2) how we use linked data
+technology to achieve this goal.
+
+=== Target Audience ===
+
+The main audience of your case. For example scholars, the general
+public, service providers, archivists, computer programs...
+
+=== Use Case Scenario ===
+
+The use case scenario itself, described as a story in which actors
+interact with systems. This section should focus on the user needs in
+this scenario. Do not mention technical aspects and/or the use of linked
+data.
+
+=== Application of linked data for the given use case ===
+
+This section describes how linked data technology could be used to
+support the use case above. Try to focus on linked data on an abstract
+level, without mentioning concrete applications and/or vocabularies.
+Hint: Nothing library domain specific.
+
+=== Existing Work (optional) ===
+
+This section is used to refer to existing technologies or approaches
+which achieve the use case (Hint: Specific approaches in the library
+domain). It may especially refer to running prototypes or applications.
+
+=== Related Vocabularies (optional) ===
+
+Here you can list and clarify the use of vocabularies (element sets and
+value vocabularies) which can be helpful and applied within this context.
+
+=== Problems and Limitations (optional) ===
+
+This section lists reasons why this scenario is or may be difficult to
+achieve, including pre-requisites which may not be met, technological
+obstacles etc. Please explicitly list here the technical challenges made
+apparent by this use case. This will aid in creating a roadmap to
+overcome those challenges.
+
+=== Related Use Cases and Unanticipated Uses (optional) ===
+
+The scenario above describes a particular case of using linked data.
+However, by allowing this scenario to take place, the likely solution
+allows for other use cases. This section captures unanticipated uses of
+the same system apparent in the use case scenario.
+
+=== References (optional) ===
+
+This section is used to refer to cited literature and quoted websites.
+
+
+
+From krichel at openlib.org  Tue Sep  7 22:21:27 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 7 Sep 2010 23:21:27 +0200
+Subject: [open-bibliography] Call for Use Cases: Library Linked Data
+In-Reply-To: <4C86A5B7.2040807@okfn.org>
+References: <4C86A5B7.2040807@okfn.org>
+Message-ID: <20100907212127.GC514@openlib.org>
+
+
+  Here comes my survey response re AuthorClaim.
+
+> Call for Use Cases: Library Linked Data
+> 
+> Are you currently using linked data technology [1] for library-related
+> data, or considering doing it in the near future? If so, please tell us
+> more by filling in the questionnaire below and sending it back to us or
+> to public-lld at w3.org, preferably before October 15th, 2010.
+> 
+> The information you provide will be influential in guiding the
+> activities the Library Linked Data Incubator Group will undertake to
+> help increase global interoperability of library data on the Web. The
+> information you provide will be curated and published on the group
+> wikispace at [3].
+> 
+> We understand that your time is precious, so please don't feel you have
+> to answer every question. Some sections of the templates are clearly
+> marked as optional. However, the more information you can provide, the
+> easier it will be for the Incubator Group to understand your case. And,
+> of course, please do not hesitate to contact us if you have any trouble
+> answering our questions. Editorial guidance on specific points is
+> provided at [2], and examples are available at [3].
+> 
+> We are particularly interested in use cases describing the use of
+> library linked data for end-user oriented applications. However, we're
+> not ruling anything out at this stage, and the Incubator Group will
+> carefully consider all submissions we receive.
+> 
+> On behalf of the Incubator Group, thanks in advance for your time,
+> 
+> Emmanuelle Bermes (Emmanuelle.Bermes_bnf.fr),
+> Alexander Haffner (A.Haffner_d-nb.de),
+> Antoine Isaac (aisaac_few.vu.nl) and
+> Jodi Schneider (jodi.schneider_deri.org)
+> 
+> [1] http://www.w3.org/DesignIssues/LinkedData.html
+> [2] http://www.w3.org/2005/Incubator/lld/wiki/UCCuration
+> [3] http://www.w3.org/2005/Incubator/lld/wiki/UseCases
+> 
+> ================================================================
+> ================================================================
+> 
+> === Name ===
+> 
+> A short name by which we can refer to the use case in discussions.
+
+  AuthorClaim
+
+> === Owner ===
+> 
+> The contact person for this use case.
+
+  Open Library Society c/o Thomas Krichel, krichel at openlib.org
+ 
+> === Background and Current Practice ===
+> 
+> Where this use case takes place in a specific domain, and so requires
+> some prior information to understand, this section is used to describe
+> that domain. As far as possible, please put explanation of the domain in
+> here, to keep the scenario as short as possible. If this scenario is
+> best illustrated by showing how applying technology could replace
+> current existing practice, then this section can be used to describe the
+> current practice. Often, the key to why a use case is important
+> also lies in what problem would occur if it was not achieved, or what
+> problem means it is hard to achieve.
+> 
+> === Goal ===
+> 
+> Two short statements stating (1) what is achieved in the scenario
+> without reference to linked data, and (2) how we use linked data
+> technology to achieve this goal.
+
+  (1) The application contributes to the identification of authors
+  (and editors, and potentially other contributors, but let's stick
+  to the term author for simplicity.)
+
+> 
+> === Target Audience ===
+> 
+> The main audience of your case. For example scholars, the general
+> public, service providers, archivists, computer programs...
+
+  Academic authors, who publish research papers.
+
+> === Use Case Scenario ===
+> 
+> The use case scenario itself, described as a story in which actors
+> interact with systems. This section should focus on the user needs in
+> this scenario. Do not mention technical aspects and/or the use of linked
+> data.
+
+  Registrants contact the service to fill in simple personal data such
+  as name and affiliation. They build a set of name variations.  The
+  service searches for the name of the person in a database of close
+  to 100,000,000 authorships. It proposes registrants that the item is
+  theirs or not. The result is a profile of documents that the person
+  has authored and not authored. The search is repeated periodically
+  to search for new additions to the document dataset. 
+
+> === Application of linked data for the given use case ===
+> 
+> This section describes how linked data technology could be used to
+> support the use case above. Try to focus on linked data on an abstract
+> level, without mentioning concrete applications and/or vocabularies.
+> Hint: Nothing library domain specific.
+
+  Linked data could be used to export the profiles, with bibliogrphic
+  information as usend in AuthorClaim *as well as* the original 
+  bibligraphic record. 
+   
+> === Existing Work (optional) ===
+> 
+> This section is used to refer to existing technologies or approaches
+> which achieve the use case (Hint: Specific approaches in the library
+> domain). It may especially refer to running prototypes or applications.
+
+  A piece related work in the library domain are name authority
+  files. Such files are usually maintained by a third person. In
+  AuthorClaim, the author maintains the profile. 
+
+> === Related Vocabularies (optional) ===
+> 
+> Here you can list and clarify the use of vocabularies (element sets and
+> value vocabularies) which can be helpful and applied within this context.
+> 
+> === Problems and Limitations (optional) ===
+> 
+> This section lists reasons why this scenario is or may be difficult to
+> achieve, including pre-requisites which may not be met, technological
+> obstacles etc. Please explicitly list here the technical challenges made
+> apparent by this use case. This will aid in creating a roadmap to
+> overcome those challenges.
+
+  There is no good free source for metadata about academic articles.
+  One can compile a dataset from sources, but then there is the issue
+  of duplication. 
+
+  The main challenge for the system at this time it to build applications
+  that will use the profiles. 
+ 
+> === Related Use Cases and Unanticipated Uses (optional) ===
+> 
+> The scenario above describes a particular case of using linked data.
+> However, by allowing this scenario to take place, the likely solution
+> allows for other use cases. This section captures unanticipated uses of
+> the same system apparent in the use case scenario.
+> 
+> === References (optional) ===
+> 
+> This section is used to refer to cited literature and quoted websites.
+
+  http://authorclaim.org is the main site.
+  ftp://authorclaim.org has the profiles for download
+  http://ariw.org is the contributor of institutional affiliations data.
+  http://3lib.org has information about some of the dataset used in AuthorClaim
+  http://acis.openlib.org has information about the software used
+  http://authors.repec.org has a very similar system using document
+  data from the RePEc digital library.
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From mjr at phonecoop.coop  Wed Sep  8 10:56:16 2010
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed,  8 Sep 2010 10:56:16 +0100 (BST)
+Subject: [open-bibliography] New sample of BL data available
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BB7@w2k3-bspex2.ad.bl.uk>
+Message-ID: <20100908095616.73F07F72E9@nail.towers.org.uk>
+
+"Deliot, Corine" wrote:
+> A couple of weeks ago, the BL announced that it would make some of its
+> datasets available free of charge. The first sample file provided a
+> basic RDF/DC representation of our BNB data. We've now produced a more
+> granular representation. A sample is available at:
+> http://www.bl.uk/bibliographic/datasamples.html
+> 
+> This is work in progress and feedback on the data structure is very
+> welcome (on this list or direct to me, whatever is best). 
+
+Are the free of charge datasets usable by the co-op?
+
+I thought I read they were for non-commercial users only and these
+samples only seem to say they're "for research purposes" so I'm not
+sure if they are safe for co-operative workers to touch.
+
+Why didn't BL just use CC0 like some others recently?  It would avoid
+this mess.
+
+Confused,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for Koha work http://www.software.coop/products/koha
+
+
+From Corine.Deliot at bl.uk  Wed Sep  8 12:09:47 2010
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Wed, 8 Sep 2010 12:09:47 +0100
+Subject: [open-bibliography] New sample of BL data available
+In-Reply-To: <20100908095616.73F07F72E9@nail.towers.org.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BB7@w2k3-bspex2.ad.bl.uk>
+	<20100908095616.73F07F72E9@nail.towers.org.uk>
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BC0@w2k3-bspex2.ad.bl.uk>
+
+Ray,
+
+You're correct, the datasets are for non-commercial users for research
+purposes only.
+
+If you are uncertain about whether you qualify for these, please contact
+metadata at bl.uk to discuss your requirements.
+
+What I am particularly interested in is feedback on the metadata, the
+RDF/DC XML, etc.
+
+Thanks
+
+Corine
+
+*********************************
+Corine Deliot
+Metadata Standards Analyst
+The British Library
+Boston Spa, Wetherby
+West Yorkshire LS23 7BQ
+e-mail: corine.deliot at bl.uk
+*********************************
+
+
+-----Original Message-----
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of MJ Ray
+Sent: 2010-09-08 10:56
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] New sample of BL data available
+
+"Deliot, Corine" wrote:
+> A couple of weeks ago, the BL announced that it would make some of its
+> datasets available free of charge. The first sample file provided a
+> basic RDF/DC representation of our BNB data. We've now produced a more
+> granular representation. A sample is available at:
+> http://www.bl.uk/bibliographic/datasamples.html
+> 
+> This is work in progress and feedback on the data structure is very
+> welcome (on this list or direct to me, whatever is best). 
+
+Are the free of charge datasets usable by the co-op?
+
+I thought I read they were for non-commercial users only and these
+samples only seem to say they're "for research purposes" so I'm not
+sure if they are safe for co-operative workers to touch.
+
+Why didn't BL just use CC0 like some others recently?  It would avoid
+this mess.
+
+Confused,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit
+co-op.
+Webmaster, Debian Developer, Past Koha RM, statistician, former
+lecturer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for Koha work http://www.software.coop/products/koha
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+**************************************************************************
+ 
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2009/10 : http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+
+
+From mathias.schindler at gmail.com  Wed Sep  8 12:27:06 2010
+From: mathias.schindler at gmail.com (Mathias Schindler)
+Date: Wed, 8 Sep 2010 13:27:06 +0200
+Subject: [open-bibliography] New sample of BL data available
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BC0@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BB7@w2k3-bspex2.ad.bl.uk>
+	<20100908095616.73F07F72E9@nail.towers.org.uk>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538BC0@w2k3-bspex2.ad.bl.uk>
+Message-ID: <AANLkTimAH87a+PBfX2rn-HBmnP3B8H6rGNkjV++seAD7@mail.gmail.com>
+
+On Wed, Sep 8, 2010 at 1:09 PM, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+> Ray,
+>
+> You're correct, the datasets are for non-commercial users for research
+> purposes only.
+>
+
+The current BL licensing model contains a -nc clause that restricts
+usage to non-commercial application. The license does not contain a
+clause to restrict usage to research purposes only and it does not
+contain any kind of information whether commercial research is allowed
+or forbidden.
+
+However, the -nc clause and an (additional) "research purposes only"
+clause render the data non-free by all defintions.
+
+
+Yours,
+Mathias
+
+-- 
+Mathias Schindler
+Projektmanager
+Wikimedia Deutschland e.V.
+web: http://www.wikimedia.de
+
+mail: mathias.schindler at wikimedia.de
+tel: +1 (415) 273 9454
+jabber: mathias.schindler at gmail.com
+skype: mathias-schindler
+
+
+Stellen Sie sich eine Welt vor, in der jeder Mensch freien Zugang zu
+der Gesamtheit des Wissens der Menschheit hat. Helfen Sie uns dabei!
+http://spenden.wikimedia.de/
+
+****Unterst?tzen Sie Freies Wissen mit einer SMS. Senden Sie einfach
+WIKI an 81190. Mit 5 Euro sichern Sie so die Verf?gbarkeit und
+Weiterentwicklung der Wikipedia.****
+
+Wikimedia Deutschland - Gesellschaft zur F?rderung Freien Wissens e.
+V. Eingetragen im Vereinsregister des Amtsgerichts
+Berlin-Charlottenburg unter der Nummer 23855 B. Als gemeinn?tzig
+anerkannt durch das Finanzamt f?r K?rperschaften I Berlin,
+Steuernummer 27/681/51985.
+
+
+From flimm at ub.uni-koeln.de  Wed Sep  8 12:34:47 2010
+From: flimm at ub.uni-koeln.de (Oliver Flimm)
+Date: Wed, 8 Sep 2010 13:34:47 +0200
+Subject: [open-bibliography] New sample of BL data available
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BC0@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538BB7@w2k3-bspex2.ad.bl.uk>
+	<20100908095616.73F07F72E9@nail.towers.org.uk>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538BC0@w2k3-bspex2.ad.bl.uk>
+Message-ID: <20100908113447.GA13873@ub.uni-koeln.de>
+
+Corine,
+
+On Wed, Sep 08, 2010 at 12:09:47PM +0100, Deliot, Corine wrote:
+> You're correct, the datasets are for non-commercial users for research
+> purposes only.
+> 
+> If you are uncertain about whether you qualify for these, please contact
+> metadata at bl.uk to discuss your requirements.
+
+I guess the inherent question is: Why should anybody put a lot of/any
+effort into the datasets - eg. augment its usefulness with the
+combination of other *free* datasets - considering its limited further
+use/audience - eg. no Wikipedia et al?
+
+At least, thats what comes to my mind - even if we would qualify for
+your license terms as a university library ;-)
+
+Regards,
+
+O. Flimm
+
+-- 
+Universitaet zu Koeln :: Universitaets- und Stadtbibliothek
+IT-Dienste :: Abteilung Universitaetsgesamtkatalog
+Universitaetsstr. 33 :: D-50931 Koeln
+Tel.: +49 221 470-3330 :: Fax: +49 221 470-5166
+flimm at ub.uni-koeln.de :: www.ub.uni-koeln.de
+
+
+From mjr at phonecoop.coop  Wed Sep  8 13:13:51 2010
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed,  8 Sep 2010 13:13:51 +0100 (BST)
+Subject: [open-bibliography] New sample of BL data available
+In-Reply-To: <20100908113447.GA13873@ub.uni-koeln.de>
+Message-ID: <20100908121352.05DC6F72E9@nail.towers.org.uk>
+
+Oliver Flimm wrote:
+> On Wed, Sep 08, 2010 at 12:09:47PM +0100, Deliot, Corine wrote:
+> > You're correct, the datasets are for non-commercial users for research
+> > purposes only.
+> 
+> I guess the inherent question is: Why should anybody put a lot of/any
+> effort into the datasets - eg. augment its usefulness with the
+> combination of other *free* datasets - considering its limited further
+> use/audience - eg. no Wikipedia et al?
+
+Yes, that's exactly right.  For example, the co-op does donate time,
+effort and money to community projects, but this sort of
+anti-commercial action by the British Library contradicts our
+principles of autonomy and widening economic participation, so we
+shouldn't support it.
+
+Why isn't a national organisation like bl.uk supporting the new
+ukgov Big Society and mutualisation agendas?  The government is
+the BL's main source of income, after all, so it's disappointing
+that the data isn't being freed for mutuals and VCSes too.
+
+Regards,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for Koha work http://www.software.coop/products/koha
+
+
+
+From bosteen at gmail.com  Thu Sep  9 15:06:34 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Thu, 09 Sep 2010 15:06:34 +0100
+Subject: [open-bibliography] [ANN] OFS - a python bitstream storage API w/
+ S3/pairtree/archive.org backends
+Message-ID: <1284041194.1852.29.camel@monster>
+
+http://openbiblio.net/2010/09/09/introducing-ofs-a-python-bucketobject-storage-library/
+
+Many of the members of this list likely share the same problem of
+storing bitstreams in an object- or uri-orientated manner so forgive me
+for posting about this general API for storage here.
+
+Blog post text follows:
+
+-----------------------------------------------------------------
+
+Many internally distributed storage systems ? such as Amazon?s S3
+service or Riak?s key-value architecture ?  have similarities in the
+manner in which data is labelled and subsequently retrieved. This is
+often because the systems themselves use a distributed hash table or a
+similar distribution algorithm to disperse and then later find the data
+they store.
+
+OFS is a python library that seeks to capitalise on their similarities ?
+providing a single, general API to put and get files from one of these
+services while hiding the specifics of the implementation from the user.
+This allows for local testing and development before transitioning to
+using one of the cloud services, services which typically cost real
+money and slows down testing due to the necessity of communicating with
+these services over an internet connection.
+
+Characteristics of OFS:
+
+      * Uses a ?bucket/label? mechanism to identify individual files
+      * Provides a list of content in a given bucket (as best as that
+        the service can provide)
+      * Provides per-file metadata in so far as the service can provide
+        (key-value or JSON encode-able data)
+      * Current backend plugins:
+              * Local storage ? based on the pairtree specification that
+                optimises file-distribution across a native file-system
+                to handle large quantities of files. Uses JSON to encode
+                arbitrary metadata about the files in a given bucket.
+              * Remote storage (S3 and Archive plugins written
+                by Friedrich Lindenberg (pudo) who has also made large
+                contributions to the codebase):
+                      * Amazon S3
+                      * Archive.org
+                      * Riak (in progress)
+              * Also in progress ? a REST Client by Friedrich Lindenberg
+                (pudo)
+              * One key desire is to provide opaque sharding ? breaking
+                up very large files to spread across buckets or even
+                systems to improve performance and the range of services
+                or backend systems OFS can make use of.
+
+It is plain that having the ability to write storage code in a common
+way, but make use of local as well as remote ?cloud? storage is of a
+great benefit. It encourages file storage to be codified in a
+distribute-able manner so that scaling later on is easier.
+
+This is a work in progress, but the local implementation is intended to
+be both a reference implementation as well as useful testing or even
+production backend for storage. Other backends potentially will have
+less comprehensive metadata support for individual files, but these
+?limits? will be included as optional warnings or exceptions once we
+have a handle on what they are.
+
+Please comment or give feedback on this library. Also, we would welcome
+any patches for other backend support to the library!
+
+http://bitbucket.org/okfn/ofs
+
+
+
+
+From cejo at uchicago.edu  Thu Sep  9 15:37:43 2010
+From: cejo at uchicago.edu (Charles E. Jones)
+Date: Thu,  9 Sep 2010 09:37:43 -0500 (CDT)
+Subject: [open-bibliography] British Library - Free Bibliographic records
+In-Reply-To: <1284041194.1852.29.camel@monster>
+References: <1284041194.1852.29.camel@monster>
+Message-ID: <20100909093743.ABA89950@mstore00.uchicago.edu>
+
+Apologies if this development from the British Library has already been mentioned:
+
+"The British Library is to make its extensive collections of bibliographic records available for free to researchers and other libraries: www.bl.uk/bibliographic/datafree.html
+
+As part of its work to open its metadata to wider use beyond the traditional library community, the British Library is making copies of its main catalogue and British National Bibliography datasets available for research purposes. Files are initially being made available in XML and structured in an RDF/DC format (see samples). Files are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+The British Library is currently investigating options for structuring its catalogue information as linked data and is collaborating with a number of organisations in examining the issues associated with making bibliographic metadata available in this way.
+
+Please contact metadata at bl.uk for further information."
+
+-Chuck Jones-
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Charles Ellwood Jones
+Head, ISAW Library
+Institute for the Study of the Ancient World
+15 East 84th Street
+New York, NY 10028
+voice: (212) 992-7832
+Fax: (212) 992-7809
+chuck.jones at nyu.edu
+(or cejo at uchicago.edu )
+http://homepages.nyu.edu/~cj35/
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+
+From pohl at hbz-nrw.de  Fri Sep 10 13:18:46 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Fri, 10 Sep 2010 14:18:46 +0200
+Subject: [open-bibliography] Minutes of the 3rd virtual meeting
+Message-ID: <4C8A3E460200001400037E3E@agrippa.hbz-nrw.de>
+
+Hello,
+ 
+I've now published the minutes of our last virtual meeting on tuesday.
+As we decided to use http://openbiblio.net as our group's blog it's
+published there, see
+http://openbiblio.net/2010/09/10/minutes-3rd-virtual-meeting-of-the-open-bibliography-group/.
+
+Nonetheless I add the minutes to this mail.
+
+All the best,
+Adrian
+
+= Minutes: 3rd Virtual Meeting of the Open Bibliography Group
+
+== Participants
+
+    * Adrian Pohl
+    * John Mark Ockerbloom
+    * Rufus Pollock
+    * Peter Murray-Rust
+
+==  Apologies
+
+    * Micah Altman
+
+== Minutes of former meetings
+
+For the minutes of former meetings see
+
+    * 1st meeting: http://okfnpad.org/Qv1jMMQL1h 
+    * 2nd meeting: http://okfnpad.org/wTnZOOxiRz 
+
+== Agenda
+
+=== Working group blog/website
+
+We decided to use http://openbiblio.net/ as the Working Group?s blog.
+In the future we?ll publish minutes and informations about ongoing
+activities there.
+
+We also reminded ourselves to use the group?s hashtag (#openbiblio)
+more frequently on twitter etc.
+
+=== Flyer
+
+We did some more work on the Open Biliographic Data flyer. It?s now
+posted on website and we solicit wider comments.
+
+=== Principles for Open Bibliographic Data
+
+see http://okfnpad.org/openbibliography-principles 
+
+We did some more work on this text and decided to not only adress
+libraries but also publishers and other institutions producing
+bibliographic data. More discussion is encouraged but please move it
+into the discussion part at the bottom of the document.
+
+=== Debrief from #jiscopenbib
+
+We had no time left for this. So it will happen on list.
+
+=== Infos from the lld-xg?
+
+Nobody from the lld-xg attended the meeting.
+
+=== Upcoming: Events and projects
+
+John Mark Ockerbloom hopes to promote open data at BooksOnline10 in
+Toronto (Oct 26)
+http://research.microsoft.com/en-us/events/booksonline10/ 
+
+
+
+
+From bosteen at gmail.com  Thu Sep 16 16:19:16 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Thu, 16 Sep 2010 16:19:16 +0100
+Subject: [open-bibliography] Discussion on openbiblio-dev about relative
+ merits of rdf bibliographic models
+Message-ID: <1284650356.25893.33.camel@monster>
+
+http://lists.okfn.org/pipermail/openbiblio-dev/2010-September/000074.html
+
+I posted this to the -dev list, so as not to bog everyone down with
+discussions of ontologies and the like, but my aim is that I produce
+data in a model that is useful to most people straight off the bat.
+
+So comments are very welcome :)
+
+Ben
+
+
+
+From ad.pohl at googlemail.com  Thu Sep 16 19:21:58 2010
+From: ad.pohl at googlemail.com (Adrian Pohl)
+Date: Thu, 16 Sep 2010 20:21:58 +0200
+Subject: [open-bibliography] Open Bibliographic Data flyer - paragraph added
+Message-ID: <AANLkTimdB+0gKXBk8TsnJWHVvbBjWsMZYtS4-p5rotPy@mail.gmail.com>
+
+Hello,
+
+I just added a paragraph to the Open Bibliographic Data flyer.
+
+See http://openbiblio.net/2010/09/10/open-bibliographic-data-flyer/#comment-36
+
+Language improvement is welcome.
+
+Cheers
+Adrian
+
+
+From rufus.pollock at okfn.org  Fri Sep 17 08:33:25 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 17 Sep 2010 08:33:25 +0100
+Subject: [open-bibliography] Open Bibliographic Data flyer - paragraph
+	added
+In-Reply-To: <AANLkTimdB+0gKXBk8TsnJWHVvbBjWsMZYtS4-p5rotPy@mail.gmail.com>
+References: <AANLkTimdB+0gKXBk8TsnJWHVvbBjWsMZYtS4-p5rotPy@mail.gmail.com>
+Message-ID: <AANLkTikd-N=JUSsOZiq2sga5uD7Hyq1frxVwD61KmsoB@mail.gmail.com>
+
+On 16 September 2010 19:21, Adrian Pohl <ad.pohl at googlemail.com> wrote:
+> Hello,
+>
+> I just added a paragraph to the Open Bibliographic Data flyer.
+>
+> See http://openbiblio.net/2010/09/10/open-bibliographic-data-flyer/#comment-36
+>
+> Language improvement is welcome.
+
+Great Adrian, I've already started circulating the flyer text to
+interested parties including libraries here in the UK.
+
+Rufus
+
+
+From rufus.pollock at okfn.org  Fri Sep 17 08:40:52 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 17 Sep 2010 08:40:52 +0100
+Subject: [open-bibliography] Open Bibliographic Data from the British Library
+Message-ID: <AANLkTim4bDXEJWBHLGTg5AFv5XWYNdF=hnGGvCVc2mbz@mail.gmail.com>
+
+Dear All,
+
+I know there has already been discussion on the list about open
+bibliographic from the British Library.
+
+As people are aware the data currently on their website is not open.
+However, as I said previously the JISC OpenBib project (of which I,
+Peter Murray-Rust and Ben O'Steen are a part) have been in discussion
+with them for several months about getting a large set of data that
+will be fully open.
+
+I just met again with the BL earlier this week and, fingers crossed,
+this data should be becoming available in the next few weeks.
+
+In the mean time, if people have queries for the BL I suggest
+directing them through myself or Peter Murray-Rust as we are already
+in dialogue with them.
+
+Regards,
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From rufus.pollock at okfn.org  Thu Sep 23 18:46:53 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 23 Sep 2010 18:46:53 +0100
+Subject: [open-bibliography] [pd-discuss] Free BMD and PD Calculators
+In-Reply-To: <C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>
+References: <AANLkTimfcNZWJ0VaM1S_ohc+tvb1bWzThaUQ=vUB6u97@mail.gmail.com>
+	<DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>
+	<C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>
+Message-ID: <AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+
+On 23 September 2010 18:37, Jordan S Hatcher
+<jordan at opencontentlawyer.com> wrote:
+> Hi everyone
+
+Thanks for the update Jordan. (I've also got some good news regarding
+birth and death date data but that is for a separate thread ...)
+
+> Not sure if this is a repeat of anything already discussed, but I had a chat with the Open Rights Group's new open data campaigner this week, and in addition to open biblio data, the birth marriage and (importantly) death records at the Free BMD database might be of some benefit:
+>
+> <http://www.freebmd.org.uk/>
+
+That data would be much more useful if it were open ;) See the terms
+and conditions:
+
+<http://www.freebmd.org.uk/terms.html>
+
+And further summary on CKAN package page:
+
+<http://ckan.net/package/freebmd>
+
+<quote>
+1. FreeBMD is provided free of charge for personal research purposes only.
+2. Access to the data held by FreeBMD is only permitted manually via
+the search page. The use of front end programs or sites to enter
+search parameters is strictly forbidden
+3. Data extracted from FreeBMD must not be reproduced in any form.
+</quote>
+
+> As I understand it, there some additional work being done at the moment to make the BMD records held by UK government, more public, more accurate. and more accessible.
+
+That would be of great value, especially if the data were open
+(http://opendefinition.org/).
+
+> Just a thought. ?If you think there's some area of open government data that ORG should be working on, I'm sure Javi would appreciate any help.
+>
+> Javier Ruiz <javier at openrightsgroup.org>
+
+I'll look to chat with him.
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From jordan at opencontentlawyer.com  Thu Sep 23 18:37:28 2010
+From: jordan at opencontentlawyer.com (Jordan S Hatcher)
+Date: Thu, 23 Sep 2010 18:37:28 +0100
+Subject: [open-bibliography] Free BMD and PD Calculators
+In-Reply-To: <DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>
+References: <AANLkTimfcNZWJ0VaM1S_ohc+tvb1bWzThaUQ=vUB6u97@mail.gmail.com>
+	<DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>
+Message-ID: <C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>
+
+Hi everyone
+
+Not sure if this is a repeat of anything already discussed, but I had a chat with the Open Rights Group's new open data campaigner this week, and in addition to open biblio data, the birth marriage and (importantly) death records at the Free BMD database might be of some benefit:
+
+<http://www.freebmd.org.uk/>
+
+As I understand it, there some additional work being done at the moment to make the BMD records held by UK government, more public, more accurate. and more accessible.
+
+Just a thought.  If you think there's some area of open government data that ORG should be working on, I'm sure Javi would appreciate any help.
+
+Javier Ruiz <javier at openrightsgroup.org>
+
+Thanks
+
+~Jordan
+
+____
+Mr. Jordan S Hatcher, JD, LLM
+
+More at: <http://www.jordanhatcher.com>
+Co-founder:  <http://www.opendatacommons.org>
+Open Knowledge: <http://www.okfn.org/>
+
+
+
+From javier at openrightsgroup.org  Thu Sep 23 22:42:23 2010
+From: javier at openrightsgroup.org (Javier Ruiz Diaz)
+Date: Thu, 23 Sep 2010 22:42:23 +0100
+Subject: [open-bibliography] [pd-discuss] Free BMD and PD Calculators
+In-Reply-To: <AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+References: <AANLkTimfcNZWJ0VaM1S_ohc+tvb1bWzThaUQ=vUB6u97@mail.gmail.com>
+	<DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>
+	<C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>
+	<AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+Message-ID: <77AEA463-A2FC-4376-AC02-5AE2AD577B8C@openrightsgroup.org>
+
+Hi there
+
+Jordan explained that for copyright calculator you need authors to have died over 70 years ago, and the FreeBMD has that information, as their gaps are in the more recent records. It could be very useful.
+
+I am afraid that opening up the reuse of BMD will be part of the campaign we are starting. From the little I know so far the licensing they have to transcribe and publish is a bit ad-hoc. 
+
+The General Registrar Office has its own project to digitise BMD indexes, which is on hold pending the spending review, but I haven't found anything about reuse. It seems that these records are outside the PSI re-use regulations.
+
+If you or anyone has any further info on genealogical data I really would appreciate it, as in our Open Data campaign we will be working closely with FreeBMD, so this will be a priority.
+
+They just appointed their first paid staffer as well, so things should get moving around this dataset.
+
+Lets meet soon.
+
+Best, Javi
+
+
+
+On 23 Sep 2010, at 18:46, Rufus Pollock wrote:
+
+> On 23 September 2010 18:37, Jordan S Hatcher
+> <jordan at opencontentlawyer.com> wrote:
+>> Hi everyone
+> 
+> Thanks for the update Jordan. (I've also got some good news regarding
+> birth and death date data but that is for a separate thread ...)
+> 
+>> Not sure if this is a repeat of anything already discussed, but I had a chat with the Open Rights Group's new open data campaigner this week, and in addition to open biblio data, the birth marriage and (importantly) death records at the Free BMD database might be of some benefit:
+>> 
+>> <http://www.freebmd.org.uk/>
+> 
+> That data would be much more useful if it were open ;) See the terms
+> and conditions:
+> 
+> <http://www.freebmd.org.uk/terms.html>
+> 
+> And further summary on CKAN package page:
+> 
+> <http://ckan.net/package/freebmd>
+> 
+> <quote>
+> 1. FreeBMD is provided free of charge for personal research purposes only.
+> 2. Access to the data held by FreeBMD is only permitted manually via
+> the search page. The use of front end programs or sites to enter
+> search parameters is strictly forbidden
+> 3. Data extracted from FreeBMD must not be reproduced in any form.
+> </quote>
+> 
+>> As I understand it, there some additional work being done at the moment to make the BMD records held by UK government, more public, more accurate. and more accessible.
+> 
+> That would be of great value, especially if the data were open
+> (http://opendefinition.org/).
+> 
+>> Just a thought.  If you think there's some area of open government data that ORG should be working on, I'm sure Javi would appreciate any help.
+>> 
+>> Javier Ruiz <javier at openrightsgroup.org>
+> 
+> I'll look to chat with him.
+> 
+> Rufus
+> -- 
+> Open Knowledge Foundation
+> Promoting Open Knowledge in a Digital Age
+> http://www.okfn.org/ - http://blog.okfn.org/
+
+
+
+From tfmorris at gmail.com  Fri Sep 24 22:15:53 2010
+From: tfmorris at gmail.com (Tom Morris)
+Date: Fri, 24 Sep 2010 17:15:53 -0400
+Subject: [open-bibliography] [pd-discuss] Free BMD and PD Calculators
+In-Reply-To: <AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+References: <AANLkTimfcNZWJ0VaM1S_ohc+tvb1bWzThaUQ=vUB6u97@mail.gmail.com>
+	<DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>
+	<C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>
+	<AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+Message-ID: <AANLkTimmu7CgW=nSujOqvZfkmwQGKd5wJOcjYfvkocHV@mail.gmail.com>
+
+On Thu, Sep 23, 2010 at 1:46 PM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+
+>> <http://www.freebmd.org.uk/>
+>
+> That data would be much more useful if it were open ;) See the terms
+> and conditions:
+>
+> 1. FreeBMD is provided free of charge for personal research purposes only.
+> 2. Access to the data held by FreeBMD is only permitted manually via
+> the search page. The use of front end programs or sites to enter
+> search parameters is strictly forbidden
+> 3. Data extracted from FreeBMD must not be reproduced in any form.
+
+I don't know if it's the reason behind FreeBMD's licensing, but
+historically the genealogical community has been gun shy of commercial
+ventures due to past bad experiences snarfing up freely provided data
+and then putting it behind pay walls and selling it back to the people
+that provided it.  That, and the sleazy business practices of
+companies like Ancestry have probably left a bad taste in people's
+mouths about commercial usage.  I think the objections can be overcome
+if the arguments are framed correctly, but it'll take some work.
+
+Tom
+
+
+From rufus.pollock at okfn.org  Sat Sep 25 11:51:00 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Sat, 25 Sep 2010 11:51:00 +0100
+Subject: [open-bibliography] [pd-discuss] Free BMD and PD Calculators
+In-Reply-To: <AANLkTimmu7CgW=nSujOqvZfkmwQGKd5wJOcjYfvkocHV@mail.gmail.com>
+References: <AANLkTimfcNZWJ0VaM1S_ohc+tvb1bWzThaUQ=vUB6u97@mail.gmail.com>
+	<DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>
+	<C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>
+	<AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+	<AANLkTimmu7CgW=nSujOqvZfkmwQGKd5wJOcjYfvkocHV@mail.gmail.com>
+Message-ID: <AANLkTinbjhU+NdJn1cNoSFO9TxPfaHFL+hCQFZjH4mAi@mail.gmail.com>
+
+On 24 September 2010 22:15, Tom Morris <tfmorris at gmail.com> wrote:
+> On Thu, Sep 23, 2010 at 1:46 PM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>
+>>> <http://www.freebmd.org.uk/>
+>>
+>> That data would be much more useful if it were open ;) See the terms
+>> and conditions:
+>>
+>> 1. FreeBMD is provided free of charge for personal research purposes only.
+>> 2. Access to the data held by FreeBMD is only permitted manually via
+>> the search page. The use of front end programs or sites to enter
+>> search parameters is strictly forbidden
+>> 3. Data extracted from FreeBMD must not be reproduced in any form.
+>
+> I don't know if it's the reason behind FreeBMD's licensing, but
+> historically the genealogical community has been gun shy of commercial
+> ventures due to past bad experiences snarfing up freely provided data
+> and then putting it behind pay walls and selling it back to the people
+> that provided it. ?That, and the sleazy business practices of
+> companies like Ancestry have probably left a bad taste in people's
+> mouths about commercial usage. ?I think the objections can be overcome
+> if the arguments are framed correctly, but it'll take some work.
+
+Thanks for the update on the background here Tom.
+
+Makes me think a share-alike license might be useful to address these
+sort of 'enclosure' concerns -- and sharealike would be open (as
+opposed to non-commercial restrictions).
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From graham at theseamans.net  Mon Sep 27 23:49:56 2010
+From: graham at theseamans.net (Graham Seaman)
+Date: Mon, 27 Sep 2010 23:49:56 +0100
+Subject: [open-bibliography] [pd-discuss] Free BMD and PD Calculators
+In-Reply-To: <AANLkTimmu7CgW=nSujOqvZfkmwQGKd5wJOcjYfvkocHV@mail.gmail.com>
+References: <AANLkTimfcNZWJ0VaM1S_ohc+tvb1bWzThaUQ=vUB6u97@mail.gmail.com>	<DA838ADB0007B14F8E602EB7892410F9036C9321@struik.uva.nl>	<C4119D2A-563C-44E3-B2D5-A6055EBBCB8B@opencontentlawyer.com>	<AANLkTi=TgRPF99k4fXcKNApmwYvn1scwdhbSt=DA7ctd@mail.gmail.com>
+	<AANLkTimmu7CgW=nSujOqvZfkmwQGKd5wJOcjYfvkocHV@mail.gmail.com>
+Message-ID: <4CA11F94.1000405@theseamans.net>
+
+ On 09/24/10 22:15, Tom Morris wrote:
+
+> I don't know if it's the reason behind FreeBMD's licensing, but
+> historically the genealogical community has been gun shy of commercial
+> ventures due to past bad experiences snarfing up freely provided data
+> and then putting it behind pay walls and selling it back to the people
+> that provided it.  That, and the sleazy business practices of
+> companies like Ancestry have probably left a bad taste in people's
+> mouths about commercial usage.  I think the objections can be overcome
+> if the arguments are framed correctly, but it'll take some work.
+>
+> Tom
+>
+The freebmd faq says:
+
+The ONS granted the right to place the database on the Internet on the
+condition that access to it be free of charge. Any commercialisation of
+the database would require the ONS' prior and very improbable
+authorisation.
+
+(http://www.freebmd.org.uk/FAQ.html#9).
+
+Public bodies have been so reluctant to allow general access to
+genealogical documents in the past - mainly on the grounds that general
+free availability would remove the revenue they need to preserve old
+documents - that where they do allow limited transcription by
+volunteers, those volunteers will generally self-police and block
+attempts to consolidate the data in any public place. This applies more
+to parish registers than the BMDs (but note that freedmb is only a free
+index to the records, and does not have a copy of the records
+themselves). For parish registers and censuses there are freereg.org.uk
+and freecen.org.uk, but there is actually far more transcribed material
+deliberately buried away in member-only yahoo groups etc, representing
+(literally) many person-years of skilled volunteer transcription work.
+Like Tom suggests, tread carefully or you may alienate the very people
+who should be natural okf supporters.
+
+Graham
+
+
+
+
+From pm286 at cam.ac.uk  Wed Sep 29 17:38:12 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 29 Sep 2010 17:38:12 +0100
+Subject: [open-bibliography] 'Art Meets Astrophysics': Galaxy Zoo and
+ Citizen Science - does this extend to Bibliography?
+Message-ID: <AANLkTi==eBKY4A1tog9zyL=F-OEJ37QyZU5JnVGSpff8@mail.gmail.com>
+
+At the risk of too much cross-posting, here is an example of citizen
+cataloguing
+
+Some of us in #jiscopenbib have floated the idea with JISC and others of
+citizien bibliographer and bibliography camps. If art can be catalogued in
+this way then so can books, journals etc.
+
+P.
+
+
+---------- Forwarded message ------
+
+
+
+While the immediate context is a specific project in the cataloguing of oil
+paintings, the model of public engagement and research which this project
+brings to bear on its task has much wider implications for research across
+the Arts & Humanities, and across Colleges. Specifically, it is relevant to
+a number of themes and ambitions which we have already identified through
+the Arts Lab research mapping project, and it can be applied to most of the
+emerging themes highlighted by the AHRC.
+
+
+
+Galaxy Zoo is the most high profile and developed example of the methodology
+of Citizen Science and there is much to learn from it and from its
+application in the ?Your Paintings? project. Information on Galaxy Zoo can
+be found at http://www.galaxyzoo.org/
+
+For further information on the philosophy and methodology of ?citizen
+science? and the Citizen Science Alliance, however, please check out
+http://citizensciencealliance.org/philosophy.html.
+
+
+
+In this context, I hope the ?Art meets Astrophysics? seminar will be of
+interest to you.
+
+
+
+Professor John Caughie
+Director, Arts Lab
+College of Arts
+
+http://www.gla.ac.uk/artslab/
+
+
+
+Email: john.caughie at glasgow.ac.uk
+Tel.: 0141 330 7383
+
+
+
+P.A.:  Anna Rosenfeldt
+Email: anna.rosenfeldt at glasgow.ac.uk
+Tel.: 0141 330 7382
+  ------------------------------
+
+
+
+You are cordially invited to attend the first seminar of the new Arts Lab &
+HATII Seminar Series: *"New Directions in Digital Humanities"*:
+
+
+
+*(1) ART MEETS ASTROPHYSICS*
+*Applying the Galaxy Zoo model of public engagement to the cataloguing of
+the nation?s oil paintings*
+
+
+
+*7 October 2010 5.15pm*
+
+Main Lecture Theatre - Sir Alexander Stone Building
+16 University Gardens, Glasgow
+
+
+The Public Catalogue Foundation has been collecting information on the
+200,000 oil paintings in public ownership in the UK. Before the Your
+Paintings database is put online to the public by the BBC it needs to be
+made fully searchable by tagging with concepts such as subject, style and
+date.
+
+The enormous task of (reliably and accurately) describing the pictorial
+content of 200,000 paintings requires a revolutionary new approach ... that
+developed by Galaxy Zoo to analyse the structures of galaxies. Galaxy Zoo 2,
+for example, attracted 250,000 amateur participants who made 60 million
+classifications of 250,000 galaxies in 14 months, which, with the
+application of clever statistical algorithms, produced results as accurate
+as professional astronomers would have achieved.
+
+Speakers:
+Andrew Greg
+Director, National Inventory Research Project, History of Art, University of
+Glasgow
+Andrew.Greg at glasgow.ac.uk
+
+Dr Arfon Smith
+Galaxy Zoo Technical Lead, Oxford Astrophysics, University of Oxford
+Arfon.Smith at astro.ox.ac.uk
+
+
+
+
+
+Anna Rosenfeldt
+PA to the Director of Arts Lab
+
+Phone: +44 (0)141 330 7382
+Email: anna.rosenfeldt at glasgow.ac.uk
+Web: www.gla.ac.uk/artslab/
+
+University of Glasgow
+16 University Gardens
+Glasgow G12 8QL
+
+The University of Glasgow, charity number SC004401
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100929/93960b4e/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Art meets Astrophysics_Poster.pdf
+Type: application/octet-stream
+Size: 49282 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100929/93960b4e/attachment-0001.obj>
+
+From bogus@does.not.exist.com  Fri Sep 10 10:36:58 2010
+From: bogus@does.not.exist.com ()
+Date: Fri, 10 Sep 2010 09:36:58 -0000
+Subject: No subject
+Message-ID: <mailman.7.1288973999.25619.open-bibliography@lists.okfn.org>
+
+    ... Authors should be aware that their submitted manuscript,
+    together with reviews, will be made publicly available on the
+    under review section...
+    ... It is strongly encouraged, that the described ontologies
+    are free, open, and accessible on the Web...
+    ... It is strongly encouraged, that the described tools or
+    systems are free, open, and accessible on the Web...
+
+And authors are of course free to make their papers, tools, etc.,
+available elsewhere, indeed encouraged to do so. 
+
+But you are correct, the journal itself is a print publication
+and we don't have proper public metadata for it. I actually 
+contacted the editors about this some time ago and they are 
+planning to make bibliographic metadata available (in RDF) as
+I understand it. It's just a question of time and resources.
+
+I hardly think they're evil. They encourage openness but don't
+necessarily enforce it. Do you have any suggestions about 
+alternative journals that might be "more open" for this type of
+material?
+
+-w
+
+
+From bogus@does.not.exist.com  Fri Sep 10 10:36:58 2010
+From: bogus@does.not.exist.com ()
+Date: Fri, 10 Sep 2010 09:36:58 -0000
+Subject: No subject
+Message-ID: <mailman.8.1290045362.25619.open-bibliography@lists.okfn.org>
+
+numbers - perhaps reorganization based on dewey ranges?
+
+Any range you are particularly interested in?
+
+Ben
+
+On Nov 17, 2010 9:43 PM, "Jim Pitman" <pitman at stat.berkeley.edu> wrote:
+
+Mark MacGillivray <mark at odaesa.com> wrote: > This is to notify list members
+that we have today publ...
+Released under CC0! Bravo.
+
+> We are also working on getting the data up in a more useful environment -
+details to follow very ...
+Excellent. I look forward to this.
+What I would like is to be able to easily filter out a dump of books by
+broad subject
+domain, e.g. mathematics or statistics, and then be able to do some serious
+processing of those
+locally. This should be easier to provide than a full API, right? Who to
+contact to lobby for
+priority for such use cases?
+
+Great thanks to all those who contributed to this effort.
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+--20cf3054a3d7200f5b04954a1753
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>Lobbying here is perfect :)</p>
+<p>From my trawls through the data, I&#39;ve noticed that most records have=
+ dewey numbers - perhaps reorganization based on dewey ranges?</p>
+<p>Any range you are particularly interested in?</p>
+<p>Ben</p>
+<p><blockquote type=3D"cite">On Nov 17, 2010 9:43 PM, &quot;Jim Pitman&quot=
+; &lt;<a href=3D"mailto:pitman at stat.berkeley.edu">pitman at stat.berkeley.edu<=
+/a>&gt; wrote:<br><br><p><font color=3D"#500050">Mark MacGillivray &lt;<a h=
+ref=3D"mailto:mark at odaesa.com">mark at odaesa.com</a>&gt; wrote:
+
+&gt; This is to notify list members that we have today publ...</font></p>Re=
+leased under CC0! Bravo.<br>
+<p><font color=3D"#500050">
+&gt; We are also working on getting the data up in a more useful environmen=
+t - details to follow very ...</font></p>Excellent. I look forward to this.=
+<br>
+What I would like is to be able to easily filter out a dump of books by bro=
+ad subject<br>
+domain, e.g. mathematics or statistics, and then be able to do some serious=
+ processing of those<br>
+locally. This should be easier to provide than a full API, right? Who to co=
+ntact to lobby for<br>
+priority for such use cases?<br>
+<br>
+Great thanks to all those who contributed to this effort.<br>
+--Jim<br>
+----------------------------------------------<br>
+Jim Pitman<br>
+Director, Bibliographic Knowledge Network Project<br>
+<a href=3D"http://www.bibkn.org/" target=3D"_blank">http://www.bibkn.org/</=
+a><br>
+<br>
+Professor of Statistics and Mathematics<br>
+University of California<br>
+367 Evans Hall # 3860<br>
+Berkeley, CA 94720-3860<br>
+<br>
+ph: 510-642-9970 =A0fax: 510-642-7892<br>
+e-mail: <a href=3D"mailto:pitman at stat.berkeley.edu">pitman at stat.berkeley.ed=
+u</a><br>
+URL: <a href=3D"http://www.stat.berkeley.edu/users/pitman" target=3D"_blank=
+">http://www.stat.berkeley.edu/users/pitman</a><br>
+<br>
+_______________________________________________<br>
+open-bibliography mailing list<br>
+<a href=3D"mailto:open-bibliography at lists.okfn.org">open-bibliography at lists=
+.okfn.org</a><br>
+<a href=3D"http://lists.okfn.org/mailman/listinfo/open-bibliography" target=
+=3D"_blank">http://lists.okfn.org/mailman/listinfo/open-bibliography</a><br=
+>
+</blockquote></p>
+
+--20cf3054a3d7200f5b04954a1753--
+
+
+From bogus@does.not.exist.com  Fri Sep 10 10:36:58 2010
+From: bogus@does.not.exist.com ()
+Date: Fri, 10 Sep 2010 09:36:58 -0000
+Subject: No subject
+Message-ID: <mailman.10.1291889406.25619.open-bibliography@lists.okfn.org>
+
+"Hyphen is always used for separating the prefix and the NBN string.
+Colon is used as the delimiting character if and only if a country
+code-based NBN namespace is split further in smaller sub-namespaces.
+If there are several national libraries in one country, these
+libraries can split their national namespace into smaller parts using
+this method."
+
+There are no sub-namespaces in the GB landscape so we should follow the =
+pattern below:=20
+urn:nbn:{ISO 3166 code}-{NBN string}
+
+GBA267005 is an instance of the British National Bibliography number, =
+i.e. the NBN string.
+=20
+So I think the format should be:
+urn:nbn:gb-GBA267005
+
+Cheers
+
+Corine
+
+*********************************
+The British Library
+Boston Spa, Wetherby
+West Yorkshire LS23 7BQ
+e-mail: corine.deliot at bl.uk                                              =
+                                                                         =
+                         =20
+*********************************
+
+-----Original Message-----
+From: open-bibliography-bounces at lists.okfn.org =
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of William =
+Waites
+Sent: 2010-12-08 22:08
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] URNs for National Bib Numbers
+
+* [2010-12-08 16:39:49 -0500] Ross Singer <ross.singer at talis.com> =
+=E9crit:
+
+] So, like Ben pointed out, I think the format for the bnb would be
+] something like:
+]=20
+] urn:nbn:gb:bnb-GBA267005
+]=20
+] although following the model that the Germans seem to use, it would
+] look more like:
+]=20
+] urn:nbn:gb:bnb:GBA267005
+
+In either case, as far as a service like Bibliographica is concerned I
+would propose to take a strategy like we already do with authors and
+series and suchlike, and continue to have the data in the store as it
+is now, but also put
+
+   <http://bnb.bibliographica.org/entry/GBA267005>
+       owl:sameAs <urn:nbn:gb:bnb:GBA267005>.
+
+That way statements that we have about this subject can be immediately
+found through dereferencing, but we still have something IFP-like that
+can be used to join across different datasets with information about
+the same thing. Likewise for the BL if they put up
+e.g. http://bl.uk/bnb/GBA267005.=20
+
+I favour the German approach FWIW, it looks more pleasant to my eyes,
+but it's not a strong preference.
+
+] I definitely agree with you, re: the downside of using URNs.  I wonder
+] if it would be worthwhile to set up a purl like:
+]=20
+] http://purl.org/NET/nbn/gb/bnb/{id}
+]=20
+] where "gb" could route to some nationally appropriate resolver?
+
+I'm down on purl.org these days because they are being very
+conservative about implementing CORS. But definitely something along
+these lines could be quite useful.
+
+Cheers,
+-w
+--=20
+William Waites
+http://eris.okfn.org/ww/foaf#i
+9C7E F636 52F6 1004 E40A  E565 98E3 BBF3 8320 7664
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+

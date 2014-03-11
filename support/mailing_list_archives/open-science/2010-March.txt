@@ -1,0 +1,4774 @@
+From jonathan.gray at okfn.org  Wed Mar  3 19:40:48 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 3 Mar 2010 20:40:48 +0100
+Subject: [open-science] Fwd: [SPARC-OpenData] Supplementary Data
+In-Reply-To: <list-18336753@arl.org>
+References: <list-18336753@arl.org>
+Message-ID: <54ca21751003031140n695528f6hd296240650fe1f0d@mail.gmail.com>
+
+This looks interesting!
+
+
+---------- Forwarded message ----------
+For a study on the costs associated with Supplementary Data in
+academic or scientific journals, I'd be interested in hearing from any
+journal or publisher willing to participate in a short interview.
+We're interested in learning about the costs, expenses, or changing
+time allocations related to the maintenance of Supplementary Data,
+whether these are editorial or production processes, ?direct costs, or
+other consequences.
+All replies will be kept confidential and results will be aggregated
+with an ongoing project on data archiving. ?Thank you.
+
+*****
+Peggy Schaeffer
+Communications Coordinator, Dryad
+pschaeffer at nescent.org
+
+http://www.datadryad.org
+http://blog.datadryad.org
+
+
+
+==========
+
+This message is sent to you because you are subscribed to
+?The SPARC-OpenData Mail List.
+To post, send your message to <SPARC-OpenData at arl.org>.
+To unsubscribe, email to <SPARC-OpenData-off at arl.org>.
+To switch to digest mode, email to <SPARC-OpenData-digest at arl.org>.
+Send administrative queries to <SPARC-OpenData-request at arl.org>.
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From egon.willighagen at gmail.com  Sun Mar  7 13:32:56 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sun, 7 Mar 2010 14:32:56 +0100
+Subject: [open-science] Displaying number of people that have endorsed
+	the Panton Principles?
+In-Reply-To: <54ca21751002230708s36d859c5u7e4e3b6d338caa78@mail.gmail.com>
+References: <54ca21751002230708s36d859c5u7e4e3b6d338caa78@mail.gmail.com>
+Message-ID: <6aeb064b1003070532h4d005c62j3a6b6a664b7cca73@mail.gmail.com>
+
+On Tue, Feb 23, 2010 at 4:08 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> Just wondered if - after looking at the code - you have any sense of
+> how difficult it would be to automatically display the number of
+> people that have endorsed the Panton Principles somewhere on the site?
+
+I would require some hacking I think. I'm afraid I won't have time for
+that until at least the end of March. Instead of things getting
+quieter, it just keeps building up... where is that tenure when you
+need it... ?? ;)
+
+Grtz,
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From mike at opensci.info  Tue Mar  9 12:08:01 2010
+From: mike at opensci.info (Mike Chelen)
+Date: Tue, 9 Mar 2010 07:08:01 -0500
+Subject: [open-science] Publicising the Panton Principles?
+In-Reply-To: <290ea1b01002250824n2b9e991fy265e2ac76a9633bb@mail.gmail.com>
+References: <54ca21751002231128g523104e3x836662a9a7b72078@mail.gmail.com> 
+	<67fd68331002232324wd0d7da6r642f37c18bcf7ebe@mail.gmail.com> 
+	<290ea1b01002250824n2b9e991fy265e2ac76a9633bb@mail.gmail.com>
+Message-ID: <685daa0d1003090408o34f8cd9ej99957b3604bf373@mail.gmail.com>
+
+Could the source PSD, AI, or SVG files be posted? Then anyone can
+generate various sizes without quality loss.
+
+Thanks
+-Mike
+
+On Thu, Feb 25, 2010 at 11:24 AM, Michele Mattioni <mattions at gmail.com> wrote:
+> Hi Peter,
+>
+> I'll second this idea. I think we can even make a streaming of the
+> event online, so we can have more people partecipating.
+>
+> Of course we need to try and see if it works properly.
+>
+> On Wed, Feb 24, 2010 at 7:24 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> On Tue, Feb 23, 2010 at 7:28 PM, Jonathan Gray <jonathan.gray at okfn.org>
+>> wrote:
+>>>
+>>> Hi,
+>>>
+>>> Just wonder if anyone has any cunning ideas about how we can continue
+>>> to get the word out about the Panton Principles?
+>>>
+>>
+>> I have started to bounce the idea of "Panton Discussions" where we invite
+>> someone to the Panton Arms and record/blog a discussion about Open Data. If
+>> we get along publishers / editors then they might like to report the
+>> discussion in their own organs or websites. A regular "Panton Discussions"
+>> series could have its own momentum. The range of people could be wide and
+>> there are already several on the endorsers list who would be very
+>> interesting to talk and record. Ideally the dicussants should be present in
+>> the Arms, but I can see occasional cases where we interview over Skype or
+>> whatever.
+>>
+>> P.
+>>
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From mike at opensci.info  Tue Mar  9 12:45:06 2010
+From: mike at opensci.info (Mike Chelen)
+Date: Tue, 9 Mar 2010 07:45:06 -0500
+Subject: [open-science] Displaying number of people that have endorsed
+	the Panton Principles?
+In-Reply-To: <6aeb064b1003070532h4d005c62j3a6b6a664b7cca73@mail.gmail.com>
+References: <54ca21751002230708s36d859c5u7e4e3b6d338caa78@mail.gmail.com> 
+	<6aeb064b1003070532h4d005c62j3a6b6a664b7cca73@mail.gmail.com>
+Message-ID: <685daa0d1003090445j40dbea70p223fafa127a843e9@mail.gmail.com>
+
+As a temporary hack, we can import the endorsement page HTML into a
+Google spreadsheet:
+https://spreadsheets.google.com/ccc?key=0AuD5dr31WtX4dG1yR3FUSzhtOHB3elpSOU1lY2N2WkE&hl=en
+
+There, the number of signatures is totaled, and should update every 15
+minutes. The results can be published as HTML, and embedded in an
+Iframe for inclusion in other sites:
+http://spreadsheets.google.com/pub?key=tmrGqTK8m8pwzZR9MeccvZA&single=true&gid=9&range=totalsignatures&output=html
+
+According to this, the Principles have reached 100 endorsements!
+
+Best,
+
+Mike Chelen
+http://twitter.com/mikechelen http://friendfeed.com/mikechelen
+http://facebook.com/mikechelen
+
+
+On Sun, Mar 7, 2010 at 8:32 AM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+> On Tue, Feb 23, 2010 at 4:08 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>> Just wondered if - after looking at the code - you have any sense of
+>> how difficult it would be to automatically display the number of
+>> people that have endorsed the Panton Principles somewhere on the site?
+>
+> I would require some hacking I think. I'm afraid I won't have time for
+> that until at least the end of March. Instead of things getting
+> quieter, it just keeps building up... where is that tenure when you
+> need it... ?? ;)
+>
+> Grtz,
+>
+> Egon
+>
+> --
+> Post-doc @ Uppsala University
+> Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+> Homepage: http://egonw.github.com/
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From mike at opensci.info  Tue Mar  9 15:19:39 2010
+From: mike at opensci.info (Mike Chelen)
+Date: Tue, 9 Mar 2010 10:19:39 -0500
+Subject: [open-science] Launch of the Panton Principles for Open Data in
+	Science + Is It Open Data?
+In-Reply-To: <6aeb064b1002191221m5f3a9396t9c92173e0a1d88d8@mail.gmail.com>
+References: <54ca21751002190259r3ac71553uf1686a82490d3b6c@mail.gmail.com> 
+	<6aeb064b1002190718k59919684va785a9fe06225f4f@mail.gmail.com> 
+	<54ca21751002190735m6317a2c9v102494a48dd4c5ec@mail.gmail.com> 
+	<6aeb064b1002190745q1cbb7e77ue98cc376b385124b@mail.gmail.com> 
+	<6aeb064b1002191221m5f3a9396t9c92173e0a1d88d8@mail.gmail.com>
+Message-ID: <685daa0d1003090719t72843141t6e5c6525fa856a9c@mail.gmail.com>
+
+Here is another list of endorsements summed by country:
+
+Country	Endorsements
+US	30
+GB	20
+DE	10
+ES	7
+NZ	4
+CA	3
+NL	3
+IN	3
+SE	2
+IT	2
+AU	2
+FR	2
+PL	1
+GR	1
+CH	1
+NO	1
+SI	1
+PT	1
+HU	1
+AR	1
+JP	1
+ZA	1
+
+Document contains some additional maps and charts:
+http://spreadsheets.google.com/pub?key=tmrGqTK8m8pwzZR9MeccvZA&gid=13
+
+Cheers,
+
+Mike Chelen
+http://twitter.com/mikechelen http://friendfeed.com/mikechelen
+http://facebook.com/mikechelen
+
+On Fri, Feb 19, 2010 at 3:21 PM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+> Hi all,
+>
+> On Fri, Feb 19, 2010 at 4:45 PM, Egon Willighagen
+> <egon.willighagen at gmail.com> wrote:
+>> On Fri, Feb 19, 2010 at 4:35 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>>> Do you think it would be difficult to modify?
+>>
+>> Doesn't look difficult...
+>
+> <snip>
+>
+>> Cannot do it in 5 minutes, but I'll check tonite... don't have
+>> wordpress installed, so will need some bit extra for testing...
+>
+> Deepest apologies for the 0's in the output once! String concatenation
+> is with '.' not with '+' as I am used to in Java :(
+>
+> But I hacked in some <span> elements, so you can now use the xpath
+> query //span[@class='signature']/span[@class='Country']/text() and
+> some linux command line magic:
+>
+> wget -O endorsed.html http://pantonprinciples.org/endorse...; xpath -q
+> -e "//span[@class='signature']/span[@class='Country']/text()"
+> endorsed.html | sort | uniq -c
+>
+> to get:
+>
+> ? ? ?1 Australia
+> ? ? ?1 Canada
+> ? ? ?1 Catalonia
+> ? ? ?2 Espa?a
+> ? ? ?2 France
+> ? ? ?5 Germany
+> ? ? ?1 Greece
+> ? ? ?1 Italy
+> ? ? ?1 Netherlands
+> ? ? ?1 Norway
+> ? ? ?1 Poland
+> ? ? ?1 Slovenia
+> ? ? ?1 Sweden
+> ? ? ?1 Switzerland
+> ? ? ?1 The Netherlands
+> ? ? ?8 UK
+> ? ? ?1 U.K.
+> ? ? ?1 United Kingdom
+> ? ? ?1 United States of America
+> ? ? ?9 USA
+>
+> The FOAF XHTML+RDFa is even trickier as WordPress does not produce
+> XHTML pages... that's not something I like to fiddle with... just
+> hacking the plugin gave me enough sweating...
+>
+> Egon
+>
+> --
+> Post-doc @ Uppsala University
+> Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+> Homepage: http://egonw.github.com/
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From pm286 at cam.ac.uk  Tue Mar  9 16:08:09 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 9 Mar 2010 16:08:09 +0000
+Subject: [open-science] FAQ for Panton Principles
+Message-ID: <67fd68331003090808vb79b423q23353eaee2a787a@mail.gmail.com>
+
+I presented the Panton Principles briefly to UKPubMedCentral (UKPMC) of
+which I am a member of the advisory board. I'm not attributing anything but
+there was general positive interest.
+
+One question I was asked related to how the principles enforced attribution
+and it made me think that we should have a set of FAQs answering questions
+like:
+"Do I need to include a license with my data?"
+"how does the public domain enforce attribution"
+...
+
+I would certainly find this useful. Given my occasionally sketchy and
+incorrect answers I would limit mysslef to the questions!
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100309/6767ed48/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Mar 12 17:03:10 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 12 Mar 2010 18:03:10 +0100
+Subject: [open-science] Fwd: Launch of the Panton Principles
+Message-ID: <54ca21751003120903h73585998hf2ec1ddb24eab59d@mail.gmail.com>
+
+---------- Forwarded message ----------
+
+Dear Jonathan,
+Liz Lyon has asked the UKOLN News Service to highlight the Open
+Knowledge Foundation's announcement of the Launch of the Panton
+Principles. An item has now been published.
+
+Please see:
+
+http://www.ukoln.ac.uk/news/get/2010/02/23/the-panton-principles-for-open-data-in-science/
+
+Best regards
+Richard
+--
+Richard Waller
+UKOLN
+The Library
+University of Bath
+Bath BA2 7AY
+UK
+tel +44 (0) 1225 383570
+fax +44 (0) 1225 386838
+email r.waller at ukoln.ac.uk
+web http://www.ukoln.ac.uk/
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Fri Mar 12 18:02:04 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 12 Mar 2010 19:02:04 +0100
+Subject: [open-science] Fwd: Panton Principles & Onthecommons.org
+In-Reply-To: <4B86B3FE.6050608@bollier.org>
+References: <4B86B3FE.6050608@bollier.org>
+Message-ID: <54ca21751003121002q69f30bach9d70653d002ea8fe@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+From: David Bollier
+Date: Thu, Feb 25, 2010 at 6:31 PM
+Subject: Panton Principles & Onthecommons.org
+
+Just wanted to let you know that I did a blog post on the Panton
+Principles on Onthecommons.org.
+
+Link is: ?http://www.onthecommons.org/content.php?id=2661
+
+Good luck in publicizing the principles! ?Hope all is well with you.
+
+
+Best,
+David Bollier
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From mfinn at usgs.gov  Mon Mar  8 21:25:07 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Mon, 8 Mar 2010 14:25:07 -0700
+Subject: [open-science] AutoCarto 2010 Call for Papers
+Message-ID: <OF24695CD4.AD704C88-ON872576E0.00758C18-872576E0.0075A8B7@usgs.gov>
+
+Apologies for any cross-postings.
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100308/0f3f9988/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Orlando Call Intl version.pdf
+Type: application/octet-stream
+Size: 716641 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100308/0f3f9988/attachment-0001.obj>
+
+From pm286 at cam.ac.uk  Wed Mar 17 16:43:47 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 17 Mar 2010 16:43:47 +0000
+Subject: [open-science] FAQs for the Panton Principles and Open Data
+Message-ID: <67fd68331003170943h3ab178d5y64f9086c3af5c597@mail.gmail.com>
+
+We are talking to a variety of editors and publishers who are keen to make
+data "open available" and in many cases mandate it as part of the scientific
+process. It's clear that although PP are (I hope) fairly self-explanatory
+the implications (licences, buttons, "public domain", community norms, etc.)
+are unclear and need careful explanation. One way to do this is through FAQs
+and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+OpenScience list to provide useful communal answers. I'll post the FAQs -
+feel welcome to add to them but not TOO many - and ask you to create
+answers. There is a pirate pad at:
+
+http://piratepad.net/LgLRcGLw35
+
+Please use to edit, discuss, hack etc.
+
+We will appreciate rapid feedback as we hope to promote this to attendees at
+the AmerChemicalSoc (ACS) next week.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49f69/attachment.htm>
+
+From mike at opensci.info  Mon Mar 22 08:53:20 2010
+From: mike at opensci.info (Mike Chelen)
+Date: Mon, 22 Mar 2010 04:53:20 -0400
+Subject: [open-science] FAQs for the Panton Principles and Open Data
+In-Reply-To: <67fd68331003170943h3ab178d5y64f9086c3af5c597@mail.gmail.com>
+References: <67fd68331003170943h3ab178d5y64f9086c3af5c597@mail.gmail.com>
+Message-ID: <685daa0d1003220153o15d1cc43x5827706a45ecc862@mail.gmail.com>
+
+Tried answering some of the questions, there could be some mistakes though ;)
+
+On Wed, Mar 17, 2010 at 12:43 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> We are talking to a variety of editors and publishers who are keen to make
+> data "open available" and in many cases mandate it as part of the scientific
+> process. It's clear that although PP are (I hope) fairly self-explanatory
+> the implications (licences, buttons, "public domain", community norms, etc.)
+> are unclear and need careful explanation. One way to do this is through FAQs
+> and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+> OpenScience list to provide useful communal answers. I'll post the FAQs -
+> feel welcome to add to them but not TOO many - and ask you to create
+> answers. There is a pirate pad at:
+>
+> http://piratepad.net/LgLRcGLw35
+>
+> Please use to edit, discuss, hack etc.
+>
+> We will appreciate rapid feedback as we hope to promote this to attendees at
+> the AmerChemicalSoc (ACS) next week.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+From rufus.pollock at okfn.org  Mon Mar 22 09:54:49 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 22 Mar 2010 09:54:49 +0000
+Subject: [open-science] FAQs for the Panton Principles and Open Data
+In-Reply-To: <685daa0d1003220153o15d1cc43x5827706a45ecc862@mail.gmail.com>
+References: <67fd68331003170943h3ab178d5y64f9086c3af5c597@mail.gmail.com>
+	<685daa0d1003220153o15d1cc43x5827706a45ecc862@mail.gmail.com>
+Message-ID: <b68e90821003220254n33125eeblfc191a3478aea882@mail.gmail.com>
+
+On 22 March 2010 08:53, Mike Chelen <mike at opensci.info> wrote:
+> Tried answering some of the questions, there could be some mistakes though ;)
+
+Great work Mike. I've gone through and added some more and done some
+tidying up. We've almost got full coverage now (just a couple of TODOs
+in there) though I'm sure over time we can much expand on some of
+those answers.
+
+Rufus
+
+> On Wed, Mar 17, 2010 at 12:43 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> We are talking to a variety of editors and publishers who are keen to make
+>> data "open available" and in many cases mandate it as part of the scientific
+>> process. It's clear that although PP are (I hope) fairly self-explanatory
+>> the implications (licences, buttons, "public domain", community norms, etc.)
+>> are unclear and need careful explanation. One way to do this is through FAQs
+>> and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+>> OpenScience list to provide useful communal answers. I'll post the FAQs -
+>> feel welcome to add to them but not TOO many - and ask you to create
+>> answers. There is a pirate pad at:
+>>
+>> http://piratepad.net/LgLRcGLw35
+>>
+>> Please use to edit, discuss, hack etc.
+>>
+>> We will appreciate rapid feedback as we hope to promote this to attendees at
+>> the AmerChemicalSoc (ACS) next week.
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From bosteen at maysubdivide.org  Mon Mar 22 10:15:19 2010
+From: bosteen at maysubdivide.org (Ben O'Steen)
+Date: Mon, 22 Mar 2010 10:15:19 +0000
+Subject: [open-science] FAQs for the Panton Principles and Open Data
+In-Reply-To: <b68e90821003220254n33125eeblfc191a3478aea882@mail.gmail.com>
+References: <67fd68331003170943h3ab178d5y64f9086c3af5c597@mail.gmail.com>
+	<685daa0d1003220153o15d1cc43x5827706a45ecc862@mail.gmail.com>
+	<b68e90821003220254n33125eeblfc191a3478aea882@mail.gmail.com>
+Message-ID: <f2a62b8a1003220315i13f351daod5b13621d426d1a1@mail.gmail.com>
+
+I've attempted the somewhat tricky Q8 regarding community norms, as it
+looked invitingly blank. Hopefully, if I have completely missed the point,
+it may encourage someone to rectify it due to the xkcd effect:
+http://xkcd.com/386/
+
+<http://xkcd.com/386/>Ben
+
+On 22 March 2010 09:54, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+
+> On 22 March 2010 08:53, Mike Chelen <mike at opensci.info> wrote:
+> > Tried answering some of the questions, there could be some mistakes
+> though ;)
+>
+> Great work Mike. I've gone through and added some more and done some
+> tidying up. We've almost got full coverage now (just a couple of TODOs
+> in there) though I'm sure over time we can much expand on some of
+> those answers.
+>
+> Rufus
+>
+> > On Wed, Mar 17, 2010 at 12:43 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> >> We are talking to a variety of editors and publishers who are keen to
+> make
+> >> data "open available" and in many cases mandate it as part of the
+> scientific
+> >> process. It's clear that although PP are (I hope) fairly
+> self-explanatory
+> >> the implications (licences, buttons, "public domain", community norms,
+> etc.)
+> >> are unclear and need careful explanation. One way to do this is through
+> FAQs
+> >> and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+> >> OpenScience list to provide useful communal answers. I'll post the FAQs
+> -
+> >> feel welcome to add to them but not TOO many - and ask you to create
+> >> answers. There is a pirate pad at:
+> >>
+> >> http://piratepad.net/LgLRcGLw35
+> >>
+> >> Please use to edit, discuss, hack etc.
+> >>
+> >> We will appreciate rapid feedback as we hope to promote this to
+> attendees at
+> >> the AmerChemicalSoc (ACS) next week.
+> >>
+> >>
+> >>
+> >> --
+> >> Peter Murray-Rust
+> >> Reader in Molecular Informatics
+> >> Unilever Centre, Dep. Of Chemistry
+> >> University of Cambridge
+> >> CB2 1EW, UK
+> >> +44-1223-763069
+> >>
+> >> _______________________________________________
+> >> open-science mailing list
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >>
+> >>
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+>
+>
+>
+> --
+> Open Knowledge Foundation
+> Promoting Open Knowledge in a Digital Age
+> http://www.okfn.org/ - http://blog.okfn.org/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100322/33e0e626/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Mar 22 13:44:39 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 22 Mar 2010 13:44:39 +0000
+Subject: [open-science] FAQs for the Panton Principles and Open Data
+In-Reply-To: <f2a62b8a1003220315i13f351daod5b13621d426d1a1@mail.gmail.com>
+References: <67fd68331003170943h3ab178d5y64f9086c3af5c597@mail.gmail.com>
+	<685daa0d1003220153o15d1cc43x5827706a45ecc862@mail.gmail.com>
+	<b68e90821003220254n33125eeblfc191a3478aea882@mail.gmail.com>
+	<f2a62b8a1003220315i13f351daod5b13621d426d1a1@mail.gmail.com>
+Message-ID: <67fd68331003220644u1f7c9c6ia20cd2f4e6af03a7@mail.gmail.com>
+
+On Mon, Mar 22, 2010 at 10:15 AM, Ben O'Steen <bosteen at maysubdivide.org>wrote:
+
+> I've attempted the somewhat tricky Q8 regarding community norms, as it
+> looked invitingly blank. Hopefully, if I have completely missed the point,
+> it may encourage someone to rectify it due to the xkcd effect:
+> http://xkcd.com/386/
+
+
+I like the wording very much.
+
+Thanks to everyone - I can show this to an editorial board this morning.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100322/7c34a399/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Mar 23 12:41:46 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 23 Mar 2010 13:41:46 +0100
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+Message-ID: <54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+
+Wonder if there's any scope here for a radio show on open science?
+
+J.
+
+
+---------- Forwarded message ----------
+From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+Date: Tue, Mar 23, 2010 at 1:33 PM
+Subject: JISC ITT: Organisation and Production of a Series of Internet
+Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+To: JISC-ANNOUNCE at jiscmail.ac.uk
+
+
+***Apologies for Cross Posting***
+
+The JISC invites proposals to organise and produce a series of
+internet radio shows to communicate key themes of the JISC e-Learning
+Programme. These shows will be aimed at senior managers and
+practitioners working in UK further and higher education.
+
+It is expected that a total of 10 shows would be broadcasted over a
+two year period, focusing on topics which are of relevance to senior
+managers working in further and higher education, and draw together
+outcomes from the e-Learning Programme which can assist senior
+managers in addressing these issues.
+
+Total funding of up to ?50,000 (including VAT, travel and subsistence)
+is available for this work.
+
+The deadline for proposals is 12.00 noon UK time on Tuesday 11th May 2010.
+
+It is envisaged that bidders will be notified of the outcome of the
+evaluation process in the week commencing 24th May 2010.
+
+The successful bidder will be expected to start work by 1st June 2010.
+
+The final show will be due to have been completed by 1st June 2012,
+with a short final report describing the processes involved in
+producing the shows and any recommendations for future e-Learning
+Programme radio shows being provided by 31st July 2012.
+
+A full version of the ITT can be found here.
+
+
+Jennifer Stockford
+Committee Support Officer JLT JSR
+JISC Executive, Northavon House,
+Coldharbour Lane, Bristol, BS16 1QD
+
+Please visit our website: http://www.jisc.ac.uk/
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Tue Mar 23 12:57:50 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 23 Mar 2010 12:57:50 +0000
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+	<54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+Message-ID: <67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com>
+
+Great idea.
+I would be very happy to include the Panton Lunch interviews in this.
+
+P.
+
+
+On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Wonder if there's any scope here for a radio show on open science?
+>
+> J.
+>
+>
+> ---------- Forwarded message ----------
+> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+> Date: Tue, Mar 23, 2010 at 1:33 PM
+> Subject: JISC ITT: Organisation and Production of a Series of Internet
+> Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+> To: JISC-ANNOUNCE at jiscmail.ac.uk
+>
+>
+> ***Apologies for Cross Posting***
+>
+> The JISC invites proposals to organise and produce a series of
+> internet radio shows to communicate key themes of the JISC e-Learning
+> Programme. These shows will be aimed at senior managers and
+> practitioners working in UK further and higher education.
+>
+> It is expected that a total of 10 shows would be broadcasted over a
+> two year period, focusing on topics which are of relevance to senior
+> managers working in further and higher education, and draw together
+> outcomes from the e-Learning Programme which can assist senior
+> managers in addressing these issues.
+>
+> Total funding of up to ?50,000 (including VAT, travel and subsistence)
+> is available for this work.
+>
+> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May 2010.
+>
+> It is envisaged that bidders will be notified of the outcome of the
+> evaluation process in the week commencing 24th May 2010.
+>
+> The successful bidder will be expected to start work by 1st June 2010.
+>
+> The final show will be due to have been completed by 1st June 2012,
+> with a short final report describing the processes involved in
+> producing the shows and any recommendations for future e-Learning
+> Programme radio shows being provided by 31st July 2012.
+>
+> A full version of the ITT can be found here.
+>
+>
+> Jennifer Stockford
+> Committee Support Officer JLT JSR
+> JISC Executive, Northavon House,
+> Coldharbour Lane, Bristol, BS16 1QD
+>
+> Please visit our website: http://www.jisc.ac.uk/
+>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100323/1ad385a9/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Mar 23 13:01:58 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 23 Mar 2010 14:01:58 +0100
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+	<54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+	<67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com>
+Message-ID: <54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+
+Indeed. Seems a perfect fit. Also branching out into international
+case studies, examples of the benefits of data sharing, etc would make
+for richer listening. Anyone know anyone with radio production
+experience who might be interested in this?
+
+J.
+
+On Tue, Mar 23, 2010 at 1:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> Great idea.
+> I would be very happy to include the Panton Lunch interviews in this.
+>
+> P.
+>
+>
+> On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <jonathan.gray at okfn.org>
+> wrote:
+>>
+>> Wonder if there's any scope here for a radio show on open science?
+>>
+>> J.
+>>
+>>
+>> ---------- Forwarded message ----------
+>> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+>> Date: Tue, Mar 23, 2010 at 1:33 PM
+>> Subject: JISC ITT: Organisation and Production of a Series of Internet
+>> Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+>> To: JISC-ANNOUNCE at jiscmail.ac.uk
+>>
+>>
+>> ***Apologies for Cross Posting***
+>>
+>> The JISC invites proposals to organise and produce a series of
+>> internet radio shows to communicate key themes of the JISC e-Learning
+>> Programme. These shows will be aimed at senior managers and
+>> practitioners working in UK further and higher education.
+>>
+>> It is expected that a total of 10 shows would be broadcasted over a
+>> two year period, focusing on topics which are of relevance to senior
+>> managers working in further and higher education, and draw together
+>> outcomes from the e-Learning Programme which can assist senior
+>> managers in addressing these issues.
+>>
+>> Total funding of up to ?50,000 (including VAT, travel and subsistence)
+>> is available for this work.
+>>
+>> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May 2010.
+>>
+>> It is envisaged that bidders will be notified of the outcome of the
+>> evaluation process in the week commencing 24th May 2010.
+>>
+>> The successful bidder will be expected to start work by 1st June 2010.
+>>
+>> The final show will be due to have been completed by 1st June 2012,
+>> with a short final report describing the processes involved in
+>> producing the shows and any recommendations for future e-Learning
+>> Programme radio shows being provided by 31st July 2012.
+>>
+>> A full version of the ITT can be found here.
+>>
+>>
+>> Jennifer Stockford
+>> Committee Support Officer JLT JSR
+>> JISC Executive, Northavon House,
+>> Coldharbour Lane, Bristol, BS16 1QD
+>>
+>> Please visit our website: http://www.jisc.ac.uk/
+>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From yishaym at gmail.com  Tue Mar 23 13:04:25 2010
+From: yishaym at gmail.com (Yishay Mor)
+Date: Tue, 23 Mar 2010 13:04:25 +0000
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+	<54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com> 
+	<67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com> 
+	<54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+Message-ID: <e5fbfda11003230604t390f5e46u27b733b31af629b4@mail.gmail.com>
+
+As I read the call, they want someone to produce 10 shows on their agenda. I
+don't see how this fits.
+___________________________
+ Yishay Mor, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+
+
+
+On 23 March 2010 13:01, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> Indeed. Seems a perfect fit. Also branching out into international
+> case studies, examples of the benefits of data sharing, etc would make
+> for richer listening. Anyone know anyone with radio production
+> experience who might be interested in this?
+>
+> J.
+>
+> On Tue, Mar 23, 2010 at 1:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> > Great idea.
+> > I would be very happy to include the Panton Lunch interviews in this.
+> >
+> > P.
+> >
+> >
+> > On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <jonathan.gray at okfn.org>
+> > wrote:
+> >>
+> >> Wonder if there's any scope here for a radio show on open science?
+> >>
+> >> J.
+> >>
+> >>
+> >> ---------- Forwarded message ----------
+> >> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+> >> Date: Tue, Mar 23, 2010 at 1:33 PM
+> >> Subject: JISC ITT: Organisation and Production of a Series of Internet
+> >> Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+> >> To: JISC-ANNOUNCE at jiscmail.ac.uk
+> >>
+> >>
+> >> ***Apologies for Cross Posting***
+> >>
+> >> The JISC invites proposals to organise and produce a series of
+> >> internet radio shows to communicate key themes of the JISC e-Learning
+> >> Programme. These shows will be aimed at senior managers and
+> >> practitioners working in UK further and higher education.
+> >>
+> >> It is expected that a total of 10 shows would be broadcasted over a
+> >> two year period, focusing on topics which are of relevance to senior
+> >> managers working in further and higher education, and draw together
+> >> outcomes from the e-Learning Programme which can assist senior
+> >> managers in addressing these issues.
+> >>
+> >> Total funding of up to ?50,000 (including VAT, travel and subsistence)
+> >> is available for this work.
+> >>
+> >> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May
+> 2010.
+> >>
+> >> It is envisaged that bidders will be notified of the outcome of the
+> >> evaluation process in the week commencing 24th May 2010.
+> >>
+> >> The successful bidder will be expected to start work by 1st June 2010.
+> >>
+> >> The final show will be due to have been completed by 1st June 2012,
+> >> with a short final report describing the processes involved in
+> >> producing the shows and any recommendations for future e-Learning
+> >> Programme radio shows being provided by 31st July 2012.
+> >>
+> >> A full version of the ITT can be found here.
+> >>
+> >>
+> >> Jennifer Stockford
+> >> Committee Support Officer JLT JSR
+> >> JISC Executive, Northavon House,
+> >> Coldharbour Lane, Bristol, BS16 1QD
+> >>
+> >> Please visit our website: http://www.jisc.ac.uk/
+> >>
+> >>
+> >>
+> >>
+> >> --
+> >> Jonathan Gray
+> >>
+> >> Community Coordinator
+> >> The Open Knowledge Foundation
+> >> http://blog.okfn.org
+> >>
+> >> http://twitter.com/jwyg
+> >> http://identi.ca/jwyg
+> >>
+> >> _______________________________________________
+> >> open-science mailing list
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100323/774b845d/attachment-0001.htm>
+
+From sara.gray at okfn.org  Tue Mar 23 13:08:57 2010
+From: sara.gray at okfn.org (Sara Wingate Gray)
+Date: Tue, 23 Mar 2010 13:08:57 +0000
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+	<54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+	<67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com>
+	<54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+Message-ID: <AE278158-BF09-4401-9D18-CCEA71D647CA@okfn.org>
+
+Actually, I happen to have radio production experience: I produced (and presented) a weekly 2 hour show for Future Radio in Norfolk for 2 years before becoming itinerant and sending them podcast versions for a short while after that. I can advise on bit rate, and also know how to do all the recording blah: equipment is pretty cheap nowadays with very good quality recording capacity, roundabout the 500GBP mark would get a pretty near top of the range portable recording device which would be able to produce both broadcast quality as well as the lower bit rate for podcast/streams...
+
+Sara Wingate Gray
+--------------------------
+sara.gray at okfn.org
+
+The Open Knowledge Foundation
+http://www.okfn.org
+
+On 23 Mar 2010, at 13:01, Jonathan Gray wrote:
+
+> Indeed. Seems a perfect fit. Also branching out into international
+> case studies, examples of the benefits of data sharing, etc would make
+> for richer listening. Anyone know anyone with radio production
+> experience who might be interested in this?
+> 
+> J.
+> 
+> On Tue, Mar 23, 2010 at 1:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> Great idea.
+>> I would be very happy to include the Panton Lunch interviews in this.
+>> 
+>> P.
+>> 
+>> 
+>> On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <jonathan.gray at okfn.org>
+>> wrote:
+>>> 
+>>> Wonder if there's any scope here for a radio show on open science?
+>>> 
+>>> J.
+>>> 
+>>> 
+>>> ---------- Forwarded message ----------
+>>> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+>>> Date: Tue, Mar 23, 2010 at 1:33 PM
+>>> Subject: JISC ITT: Organisation and Production of a Series of Internet
+>>> Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+>>> To: JISC-ANNOUNCE at jiscmail.ac.uk
+>>> 
+>>> 
+>>> ***Apologies for Cross Posting***
+>>> 
+>>> The JISC invites proposals to organise and produce a series of
+>>> internet radio shows to communicate key themes of the JISC e-Learning
+>>> Programme. These shows will be aimed at senior managers and
+>>> practitioners working in UK further and higher education.
+>>> 
+>>> It is expected that a total of 10 shows would be broadcasted over a
+>>> two year period, focusing on topics which are of relevance to senior
+>>> managers working in further and higher education, and draw together
+>>> outcomes from the e-Learning Programme which can assist senior
+>>> managers in addressing these issues.
+>>> 
+>>> Total funding of up to ?50,000 (including VAT, travel and subsistence)
+>>> is available for this work.
+>>> 
+>>> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May 2010.
+>>> 
+>>> It is envisaged that bidders will be notified of the outcome of the
+>>> evaluation process in the week commencing 24th May 2010.
+>>> 
+>>> The successful bidder will be expected to start work by 1st June 2010.
+>>> 
+>>> The final show will be due to have been completed by 1st June 2012,
+>>> with a short final report describing the processes involved in
+>>> producing the shows and any recommendations for future e-Learning
+>>> Programme radio shows being provided by 31st July 2012.
+>>> 
+>>> A full version of the ITT can be found here.
+>>> 
+>>> 
+>>> Jennifer Stockford
+>>> Committee Support Officer JLT JSR
+>>> JISC Executive, Northavon House,
+>>> Coldharbour Lane, Bristol, BS16 1QD
+>>> 
+>>> Please visit our website: http://www.jisc.ac.uk/
+>>> 
+>>> 
+>>> 
+>>> 
+>>> --
+>>> Jonathan Gray
+>>> 
+>>> Community Coordinator
+>>> The Open Knowledge Foundation
+>>> http://blog.okfn.org
+>>> 
+>>> http://twitter.com/jwyg
+>>> http://identi.ca/jwyg
+>>> 
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> 
+>> 
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> 
+> 
+> 
+> 
+> -- 
+> Jonathan Gray
+> 
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+> 
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+From p.walk at ukoln.ac.uk  Tue Mar 23 13:13:56 2010
+From: p.walk at ukoln.ac.uk (Paul Walk)
+Date: Tue, 23 Mar 2010 13:13:56 +0000
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+	<54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+	<67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com>
+	<54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+Message-ID: <4710CCCA-CC19-4F1A-9035-7D273811DA26@ukoln.ac.uk>
+
+Jonathan et. al.
+I happen to have Adrian Stevenson (copied) on my team at UKOLN - Adrian has radio production experience and a professional interest in open/linked data.
+
+I'd like to put a 'marker of interest' down at this stage - I will need to check the details of the JISC ITT, but this does look like an opportunity which fits UKOLN's remit, strategic interests and resources.
+
+Paul
+
+On 23 Mar 2010, at 13:01, Jonathan Gray wrote:
+
+> Indeed. Seems a perfect fit. Also branching out into international
+> case studies, examples of the benefits of data sharing, etc would make
+> for richer listening. Anyone know anyone with radio production
+> experience who might be interested in this?
+> 
+> J.
+> 
+> On Tue, Mar 23, 2010 at 1:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> Great idea.
+>> I would be very happy to include the Panton Lunch interviews in this.
+>> 
+>> P.
+>> 
+>> 
+>> On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <jonathan.gray at okfn.org>
+>> wrote:
+>>> 
+>>> Wonder if there's any scope here for a radio show on open science?
+>>> 
+>>> J.
+>>> 
+>>> 
+>>> ---------- Forwarded message ----------
+>>> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+>>> Date: Tue, Mar 23, 2010 at 1:33 PM
+>>> Subject: JISC ITT: Organisation and Production of a Series of Internet
+>>> Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+>>> To: JISC-ANNOUNCE at jiscmail.ac.uk
+>>> 
+>>> 
+>>> ***Apologies for Cross Posting***
+>>> 
+>>> The JISC invites proposals to organise and produce a series of
+>>> internet radio shows to communicate key themes of the JISC e-Learning
+>>> Programme. These shows will be aimed at senior managers and
+>>> practitioners working in UK further and higher education.
+>>> 
+>>> It is expected that a total of 10 shows would be broadcasted over a
+>>> two year period, focusing on topics which are of relevance to senior
+>>> managers working in further and higher education, and draw together
+>>> outcomes from the e-Learning Programme which can assist senior
+>>> managers in addressing these issues.
+>>> 
+>>> Total funding of up to ?50,000 (including VAT, travel and subsistence)
+>>> is available for this work.
+>>> 
+>>> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May 2010.
+>>> 
+>>> It is envisaged that bidders will be notified of the outcome of the
+>>> evaluation process in the week commencing 24th May 2010.
+>>> 
+>>> The successful bidder will be expected to start work by 1st June 2010.
+>>> 
+>>> The final show will be due to have been completed by 1st June 2012,
+>>> with a short final report describing the processes involved in
+>>> producing the shows and any recommendations for future e-Learning
+>>> Programme radio shows being provided by 31st July 2012.
+>>> 
+>>> A full version of the ITT can be found here.
+>>> 
+>>> 
+>>> Jennifer Stockford
+>>> Committee Support Officer JLT JSR
+>>> JISC Executive, Northavon House,
+>>> Coldharbour Lane, Bristol, BS16 1QD
+>>> 
+>>> Please visit our website: http://www.jisc.ac.uk/
+>>> 
+>>> 
+>>> 
+>>> 
+>>> --
+>>> Jonathan Gray
+>>> 
+>>> Community Coordinator
+>>> The Open Knowledge Foundation
+>>> http://blog.okfn.org
+>>> 
+>>> http://twitter.com/jwyg
+>>> http://identi.ca/jwyg
+>>> 
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> 
+>> 
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> 
+> 
+> 
+> 
+> -- 
+> Jonathan Gray
+> 
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+> 
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+
+--------------------------------------------
+Paul Walk
+Deputy Director
+UKOLN (University of Bath)
+http://www.ukoln.ac.uk/
+p.walk at ukoln.ac.uk
++44(0)1225383933
+--------------------------------------------
+
+
+
+
+
+
+From jonathan.gray at okfn.org  Tue Mar 23 13:16:16 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 23 Mar 2010 14:16:16 +0100
+Subject: [open-science] Fwd: JISC ITT: Organisation and Production of a
+	Series of Internet Radio Shows to Communicate Key Themes of
+	the JISC e-Learning Programme
+In-Reply-To: <e5fbfda11003230604t390f5e46u27b733b31af629b4@mail.gmail.com>
+References: <036EE812E722444BA9F31E5575F7ACDA2C1C2FF92F@hefce-ex1.hefce.ac.uk>
+	<54ca21751003230541j37f5c7ecw438ac9cf54a5125c@mail.gmail.com>
+	<67fd68331003230557n338850abx3e2a5481689a32f@mail.gmail.com>
+	<54ca21751003230601v5afb10fbl9f43073ce2af9c64@mail.gmail.com>
+	<e5fbfda11003230604t390f5e46u27b733b31af629b4@mail.gmail.com>
+Message-ID: <54ca21751003230616q21042c78se0ef9744820bd7a0@mail.gmail.com>
+
+Quite right Yishay! I interpreted this as a call for shows/series of
+shows such that we could propose something on open data in science,
+but looks like its pretty focused on finding someone to produce a much
+broader series on e-Learning. My mistake - wishful reading!
+
+Perhaps we should nevertheless try and do a series of podcasts on open
+data in science on our own steam (a la Panton discussions)?
+
+All the best,
+
+Jonathan
+
+P.S. Apologies for brevity - I've injured my hand so typing is slower
+than usual!
+
+
+On Tue, Mar 23, 2010 at 2:04 PM, Yishay Mor <yishaym at gmail.com> wrote:
+> As I read the call, they want someone to produce 10 shows on their agenda. I
+> don't see how this fits.
+> ___________________________
+> ?Yishay Mor, London Knowledge Lab
+> ? http://www.lkl.ac.uk/people/mor.html
+>
+>
+>
+> On 23 March 2010 13:01, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>>
+>> Indeed. Seems a perfect fit. Also branching out into international
+>> case studies, examples of the benefits of data sharing, etc would make
+>> for richer listening. Anyone know anyone with radio production
+>> experience who might be interested in this?
+>>
+>> J.
+>>
+>> On Tue, Mar 23, 2010 at 1:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+>> wrote:
+>> > Great idea.
+>> > I would be very happy to include the Panton Lunch interviews in this.
+>> >
+>> > P.
+>> >
+>> >
+>> > On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <jonathan.gray at okfn.org>
+>> > wrote:
+>> >>
+>> >> Wonder if there's any scope here for a radio show on open science?
+>> >>
+>> >> J.
+>> >>
+>> >>
+>> >> ---------- Forwarded message ----------
+>> >> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+>> >> Date: Tue, Mar 23, 2010 at 1:33 PM
+>> >> Subject: JISC ITT: Organisation and Production of a Series of Internet
+>> >> Radio Shows to Communicate Key Themes of the JISC e-Learning Programme
+>> >> To: JISC-ANNOUNCE at jiscmail.ac.uk
+>> >>
+>> >>
+>> >> ***Apologies for Cross Posting***
+>> >>
+>> >> The JISC invites proposals to organise and produce a series of
+>> >> internet radio shows to communicate key themes of the JISC e-Learning
+>> >> Programme. These shows will be aimed at senior managers and
+>> >> practitioners working in UK further and higher education.
+>> >>
+>> >> It is expected that a total of 10 shows would be broadcasted over a
+>> >> two year period, focusing on topics which are of relevance to senior
+>> >> managers working in further and higher education, and draw together
+>> >> outcomes from the e-Learning Programme which can assist senior
+>> >> managers in addressing these issues.
+>> >>
+>> >> Total funding of up to ?50,000 (including VAT, travel and subsistence)
+>> >> is available for this work.
+>> >>
+>> >> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May
+>> >> 2010.
+>> >>
+>> >> It is envisaged that bidders will be notified of the outcome of the
+>> >> evaluation process in the week commencing 24th May 2010.
+>> >>
+>> >> The successful bidder will be expected to start work by 1st June 2010.
+>> >>
+>> >> The final show will be due to have been completed by 1st June 2012,
+>> >> with a short final report describing the processes involved in
+>> >> producing the shows and any recommendations for future e-Learning
+>> >> Programme radio shows being provided by 31st July 2012.
+>> >>
+>> >> A full version of the ITT can be found here.
+>> >>
+>> >>
+>> >> Jennifer Stockford
+>> >> Committee Support Officer JLT JSR
+>> >> JISC Executive, Northavon House,
+>> >> Coldharbour Lane, Bristol, BS16 1QD
+>> >>
+>> >> Please visit our website: http://www.jisc.ac.uk/
+>> >>
+>> >>
+>> >>
+>> >>
+>> >> --
+>> >> Jonathan Gray
+>> >>
+>> >> Community Coordinator
+>> >> The Open Knowledge Foundation
+>> >> http://blog.okfn.org
+>> >>
+>> >> http://twitter.com/jwyg
+>> >> http://identi.ca/jwyg
+>> >>
+>> >> _______________________________________________
+>> >> open-science mailing list
+>> >> open-science at lists.okfn.org
+>> >> http://lists.okfn.org/mailman/listinfo/open-science
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069
+>> >
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Tue Mar 23 13:16:42 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Tue, 23 Mar 2010 13:16:42 -0000
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+References: <mailman.7.1268913601.9526.open-science@lists.okfn.org>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA024F330F@SEGBLOGR0008.springer-sbm.com>
+
+Dear all,
+
+Writing from a publisher that is keen to make data available, I'd like
+to point out two sets of guidance relevant to some matters arising from
+the pirate pad discussions on the Panton Principles.
+
+Firstly, the issue of protecting privacy in human subject research. This
+is a major barrier to the sharing of clinical information and I wonder
+if it is being glossed over in the FAQ (13). Some practical guidance on
+openly sharing clinical data was published in the BMJ earlier this year,
+for example:
+http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+
+Secondly, applying PP prior to publication. At BioMed Central, for
+example, we encourage openly sharing data before formal publication [in
+a peer-reviewed journal] and encourage editors to not preclude open
+projects from publication. 
+http://www.biomedcentral.com/info/about/duplicatepublication
+So perhaps PP should be applied more uniformly, without the need to
+clarify what 'publication' is.
+
+Best regards,
+
+Iain
+
+
+Iain Hrynaszkiewicz
+Managing Editor
+BioMed Central
+Floor 6, 236 Gray's Inn Road
+London, WC1X 8HL
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011
+W: www.biomedcentral.com/
+
+
+
+
+-----Original Message-----
+From: open-science-bounces at lists.okfn.org
+[mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+open-science-request at lists.okfn.org
+Sent: 18 March 2010 12:00
+To: open-science at lists.okfn.org
+Subject: open-science Digest, Vol 17, Issue 7
+
+Send open-science mailing list submissions to
+	open-science at lists.okfn.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.okfn.org/mailman/listinfo/open-science
+or, via email, send a message with subject or body 'help' to
+	open-science-request at lists.okfn.org
+
+You can reach the person managing the list at
+	open-science-owner at lists.okfn.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of open-science digest..."
+
+
+Today's Topics:
+
+   1. FAQs for the Panton Principles and Open Data (Peter Murray-Rust)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Wed, 17 Mar 2010 16:43:47 +0000
+From: Peter Murray-Rust <pm286 at cam.ac.uk>
+Subject: [open-science] FAQs for the Panton Principles and Open Data
+To: open-science <open-science at lists.okfn.org>
+Message-ID:
+	<67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+Content-Type: text/plain; charset="iso-8859-1"
+
+We are talking to a variety of editors and publishers who are keen to
+make
+data "open available" and in many cases mandate it as part of the
+scientific
+process. It's clear that although PP are (I hope) fairly
+self-explanatory
+the implications (licences, buttons, "public domain", community norms,
+etc.)
+are unclear and need careful explanation. One way to do this is through
+FAQs
+and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+OpenScience list to provide useful communal answers. I'll post the FAQs
+-
+feel welcome to add to them but not TOO many - and ask you to create
+answers. There is a pirate pad at:
+
+http://piratepad.net/LgLRcGLw35
+
+Please use to edit, discuss, hack etc.
+
+We will appreciate rapid feedback as we hope to promote this to
+attendees at
+the AmerChemicalSoc (ACS) next week.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL:
+<http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+f69/attachment-0001.htm>
+
+------------------------------
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-science
+
+
+End of open-science Digest, Vol 17, Issue 7
+*******************************************
+
+
+From daniel.mietchen at googlemail.com  Tue Mar 23 13:26:03 2010
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Tue, 23 Mar 2010 14:26:03 +0100
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA024F330F@SEGBLOGR0008.springer-sbm.com>
+References: <mailman.7.1268913601.9526.open-science@lists.okfn.org>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA024F330F@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <10ed603b1003230626w67e799b8ibcc09870857c102b@mail.gmail.com>
+
+Dear Iain,
+
+on the first point, what do you think of the current phrasing
+"Respecting the privacy of research subjects should be an integral
+part of the decision whether to make the data Open."?
+
+With kind regards,
+
+Daniel
+
+On Tue, Mar 23, 2010 at 2:16 PM, Iain Hrynaszkiewicz
+<Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> Dear all,
+>
+> Writing from a publisher that is keen to make data available, I'd like
+> to point out two sets of guidance relevant to some matters arising from
+> the pirate pad discussions on the Panton Principles.
+>
+> Firstly, the issue of protecting privacy in human subject research. This
+> is a major barrier to the sharing of clinical information and I wonder
+> if it is being glossed over in the FAQ (13). Some practical guidance on
+> openly sharing clinical data was published in the BMJ earlier this year,
+> for example:
+> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>
+> Secondly, applying PP prior to publication. At BioMed Central, for
+> example, we encourage openly sharing data before formal publication [in
+> a peer-reviewed journal] and encourage editors to not preclude open
+> projects from publication.
+> http://www.biomedcentral.com/info/about/duplicatepublication
+> So perhaps PP should be applied more uniformly, without the need to
+> clarify what 'publication' is.
+>
+> Best regards,
+>
+> Iain
+>
+>
+> Iain Hrynaszkiewicz
+> Managing Editor
+> BioMed Central
+> Floor 6, 236 Gray's Inn Road
+> London, WC1X 8HL
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> W: www.biomedcentral.com/
+>
+>
+>
+>
+> -----Original Message-----
+> From: open-science-bounces at lists.okfn.org
+> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+> open-science-request at lists.okfn.org
+> Sent: 18 March 2010 12:00
+> To: open-science at lists.okfn.org
+> Subject: open-science Digest, Vol 17, Issue 7
+>
+> Send open-science mailing list submissions to
+> ? ? ? ?open-science at lists.okfn.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> ? ? ? ?http://lists.okfn.org/mailman/listinfo/open-science
+> or, via email, send a message with subject or body 'help' to
+> ? ? ? ?open-science-request at lists.okfn.org
+>
+> You can reach the person managing the list at
+> ? ? ? ?open-science-owner at lists.okfn.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of open-science digest..."
+>
+>
+> Today's Topics:
+>
+> ? 1. FAQs for the Panton Principles and Open Data (Peter Murray-Rust)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Wed, 17 Mar 2010 16:43:47 +0000
+> From: Peter Murray-Rust <pm286 at cam.ac.uk>
+> Subject: [open-science] FAQs for the Panton Principles and Open Data
+> To: open-science <open-science at lists.okfn.org>
+> Message-ID:
+> ? ? ? ?<67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> We are talking to a variety of editors and publishers who are keen to
+> make
+> data "open available" and in many cases mandate it as part of the
+> scientific
+> process. It's clear that although PP are (I hope) fairly
+> self-explanatory
+> the implications (licences, buttons, "public domain", community norms,
+> etc.)
+> are unclear and need careful explanation. One way to do this is through
+> FAQs
+> and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+> OpenScience list to provide useful communal answers. I'll post the FAQs
+> -
+> feel welcome to add to them but not TOO many - and ask you to create
+> answers. There is a pirate pad at:
+>
+> http://piratepad.net/LgLRcGLw35
+>
+> Please use to edit, discuss, hack etc.
+>
+> We will appreciate rapid feedback as we hope to promote this to
+> attendees at
+> the AmerChemicalSoc (ACS) next week.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL:
+> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+> f69/attachment-0001.htm>
+>
+> ------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> End of open-science Digest, Vol 17, Issue 7
+> *******************************************
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+http://www.google.com/profiles/daniel.mietchen
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Tue Mar 23 13:36:37 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Tue, 23 Mar 2010 13:36:37 -0000
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+References: <mailman.7.1268913601.9526.open-science@lists.okfn.org>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA024F330F@SEGBLOGR0008.springer-sbm.com>
+	<10ed603b1003230626w67e799b8ibcc09870857c102b@mail.gmail.com>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA024F332B@SEGBLOGR0008.springer-sbm.com>
+
+Dear Daniel,
+
+Thanks -- I like the tone of the revised version. I am guessing discussion of the alternatives to fully open data, in cases where privacy cannot be protected, is beyond the scope of these FAQs (in which case no further information is needed)?
+
+Best regards,
+
+Iain
+
+-----Original Message-----
+From: Daniel Mietchen [mailto:daniel.mietchen at googlemail.com] 
+Sent: 23 March 2010 13:26
+To: Iain Hrynaszkiewicz
+Cc: open-science at lists.okfn.org
+Subject: Re: [open-science] open-science Digest, Vol 17, Issue 7
+
+Dear Iain,
+
+on the first point, what do you think of the current phrasing
+"Respecting the privacy of research subjects should be an integral
+part of the decision whether to make the data Open."?
+
+With kind regards,
+
+Daniel
+
+On Tue, Mar 23, 2010 at 2:16 PM, Iain Hrynaszkiewicz
+<Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> Dear all,
+>
+> Writing from a publisher that is keen to make data available, I'd like
+> to point out two sets of guidance relevant to some matters arising from
+> the pirate pad discussions on the Panton Principles.
+>
+> Firstly, the issue of protecting privacy in human subject research. This
+> is a major barrier to the sharing of clinical information and I wonder
+> if it is being glossed over in the FAQ (13). Some practical guidance on
+> openly sharing clinical data was published in the BMJ earlier this year,
+> for example:
+> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>
+> Secondly, applying PP prior to publication. At BioMed Central, for
+> example, we encourage openly sharing data before formal publication [in
+> a peer-reviewed journal] and encourage editors to not preclude open
+> projects from publication.
+> http://www.biomedcentral.com/info/about/duplicatepublication
+> So perhaps PP should be applied more uniformly, without the need to
+> clarify what 'publication' is.
+>
+> Best regards,
+>
+> Iain
+>
+>
+> Iain Hrynaszkiewicz
+> Managing Editor
+> BioMed Central
+> Floor 6, 236 Gray's Inn Road
+> London, WC1X 8HL
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> W: www.biomedcentral.com/
+>
+>
+>
+>
+> -----Original Message-----
+> From: open-science-bounces at lists.okfn.org
+> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+> open-science-request at lists.okfn.org
+> Sent: 18 March 2010 12:00
+> To: open-science at lists.okfn.org
+> Subject: open-science Digest, Vol 17, Issue 7
+>
+> Send open-science mailing list submissions to
+> ? ? ? ?open-science at lists.okfn.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> ? ? ? ?http://lists.okfn.org/mailman/listinfo/open-science
+> or, via email, send a message with subject or body 'help' to
+> ? ? ? ?open-science-request at lists.okfn.org
+>
+> You can reach the person managing the list at
+> ? ? ? ?open-science-owner at lists.okfn.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of open-science digest..."
+>
+>
+> Today's Topics:
+>
+> ? 1. FAQs for the Panton Principles and Open Data (Peter Murray-Rust)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Wed, 17 Mar 2010 16:43:47 +0000
+> From: Peter Murray-Rust <pm286 at cam.ac.uk>
+> Subject: [open-science] FAQs for the Panton Principles and Open Data
+> To: open-science <open-science at lists.okfn.org>
+> Message-ID:
+> ? ? ? ?<67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> We are talking to a variety of editors and publishers who are keen to
+> make
+> data "open available" and in many cases mandate it as part of the
+> scientific
+> process. It's clear that although PP are (I hope) fairly
+> self-explanatory
+> the implications (licences, buttons, "public domain", community norms,
+> etc.)
+> are unclear and need careful explanation. One way to do this is through
+> FAQs
+> and we (Rufus, Cameron, Jonathan + me) are asking for the help of the
+> OpenScience list to provide useful communal answers. I'll post the FAQs
+> -
+> feel welcome to add to them but not TOO many - and ask you to create
+> answers. There is a pirate pad at:
+>
+> http://piratepad.net/LgLRcGLw35
+>
+> Please use to edit, discuss, hack etc.
+>
+> We will appreciate rapid feedback as we hope to promote this to
+> attendees at
+> the AmerChemicalSoc (ACS) next week.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL:
+> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+> f69/attachment-0001.htm>
+>
+> ------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> End of open-science Digest, Vol 17, Issue 7
+> *******************************************
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+http://www.google.com/profiles/daniel.mietchen
+
+From cameron.neylon at stfc.ac.uk  Tue Mar 23 06:35:43 2010
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Tue, 23 Mar 2010 06:35:43 +0000
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+In-Reply-To: <10ed603b1003230626w67e799b8ibcc09870857c102b@mail.gmail.com>
+Message-ID: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+
+The original idea behind the Panton Principles was that we sidestep this
+issue. The key point being that where there are privacy issues (or other
+issues) you simply do not choose to publish the data. The PP are not, at
+least as far as the bullet points are concerned, to dictate when, how, or if
+data are published.
+
+The PP are intended to be applied after the decision has been taken to
+publish the data. And by "publish" we meant to be extremely general - hence
+the addition I made the other day to the FAQ. I think it is important to be
+clear on this point because the term "publish" often means something very
+different to different people. And for many researchers it explicitly
+doesn't include "make available on the web".
+
+Cheers
+
+Cameron
+
+
+On 23/03/2010 13:26, "daniel.mietchen at googlemail.com"
+<daniel.mietchen at googlemail.com> wrote:
+
+> Dear Iain,
+
+on the first point, what do you think of the current
+> phrasing
+"Respecting the privacy of research subjects should be an
+> integral
+part of the decision whether to make the data Open."?
+
+
+>
+>With kind regards,
+
+Daniel
+
+
+
+> On Tue, Mar 23, 2010 at 2:16 PM, Iain
+> Hrynaszkiewicz
+<Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> Dear all,
+>
+>
+> Writing from a publisher that is keen to make data available, I'd like
+> to
+> point out two sets of guidance relevant to some matters arising from
+> the
+> pirate pad discussions on the Panton Principles.
+>
+> Firstly, the issue of
+> protecting privacy in human subject research. This
+> is a major barrier to the
+> sharing of clinical information and I wonder
+> if it is being glossed over in
+> the FAQ (13). Some practical guidance on
+> openly sharing clinical data was
+> published in the BMJ earlier this year,
+> for example:
+>
+> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>
+> Secondly, applying PP
+> prior to publication. At BioMed Central, for
+> example, we encourage openly
+> sharing data before formal publication [in
+> a peer-reviewed journal] and
+> encourage editors to not preclude open
+> projects from publication.
+>
+> http://www.biomedcentral.com/info/about/duplicatepublication
+> So perhaps PP
+> should be applied more uniformly, without the need to
+> clarify what
+> 'publication' is.
+>
+> Best regards,
+>
+> Iain
+>
+>
+> Iain Hrynaszkiewicz
+>
+> Managing Editor
+> BioMed Central
+> Floor 6, 236 Gray's Inn Road
+> London, WC1X
+> 8HL
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> W:
+> www.biomedcentral.com/
+>
+>
+>
+>
+> -----Original Message-----
+> From:
+> open-science-bounces at lists.okfn.org
+>
+> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+>
+> open-science-request at lists.okfn.org
+> Sent: 18 March 2010 12:00
+> To:
+> open-science at lists.okfn.org
+> Subject: open-science Digest, Vol 17, Issue
+> 7
+>
+> Send open-science mailing list submissions to
+> ? ? ?
+> ?open-science at lists.okfn.org
+>
+> To subscribe or unsubscribe via the World
+> Wide Web, visit
+> ? ? ? ?http://lists.okfn.org/mailman/listinfo/open-science
+>
+> or, via email, send a message with subject or body 'help' to
+> ? ? ?
+> ?open-science-request at lists.okfn.org
+>
+> You can reach the person managing the
+> list at
+> ? ? ? ?open-science-owner at lists.okfn.org
+>
+> When replying, please
+> edit your Subject line so it is more specific
+> than "Re: Contents of
+> open-science digest..."
+>
+>
+> Today's Topics:
+>
+> ? 1. FAQs for the Panton
+> Principles and Open Data (Peter Murray-Rust)
+>
+>
+>
+> ----------------------------------------------------------------------
+>
+>
+> Message: 1
+> Date: Wed, 17 Mar 2010 16:43:47 +0000
+> From: Peter Murray-Rust
+> <pm286 at cam.ac.uk>
+> Subject: [open-science] FAQs for the Panton Principles and
+> Open Data
+> To: open-science <open-science at lists.okfn.org>
+> Message-ID:
+> ? ?
+> ? ?<67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> We are talking to a variety
+> of editors and publishers who are keen to
+> make
+> data "open available" and
+> in many cases mandate it as part of the
+> scientific
+> process. It's clear
+> that although PP are (I hope) fairly
+> self-explanatory
+> the implications
+> (licences, buttons, "public domain", community norms,
+> etc.)
+> are unclear
+> and need careful explanation. One way to do this is through
+> FAQs
+> and we
+> (Rufus, Cameron, Jonathan + me) are asking for the help of the
+> OpenScience
+> list to provide useful communal answers. I'll post the FAQs
+> -
+> feel welcome
+> to add to them but not TOO many - and ask you to create
+> answers. There is a
+> pirate pad at:
+>
+> http://piratepad.net/LgLRcGLw35
+>
+> Please use to edit,
+> discuss, hack etc.
+>
+> We will appreciate rapid feedback as we hope to promote
+> this to
+> attendees at
+> the AmerChemicalSoc (ACS) next week.
+>
+>
+>
+> --
+>
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of
+> Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+>
+> URL:
+> 
+> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+>
+> f69/attachment-0001.htm>
+>
+> ------------------------------
+>
+>
+> _______________________________________________
+> open-science mailing list
+>
+> open-science at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> End of open-science
+> Digest, Vol 17, Issue 7
+> *******************************************
+>
+>
+> _______________________________________________
+> open-science mailing list
+>
+> open-science at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+--
+> 
+http://www.google.com/profiles/daniel.mietchen
+
+_____________________________
+> __________________
+open-science mailing
+> list
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-s
+> cience
+
+
+-- 
+Scanned by iCritical.
+
+
+From wilbanks at creativecommons.org  Wed Mar 24 13:19:05 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Wed, 24 Mar 2010 09:19:05 -0400
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+In-Reply-To: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+References: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+Message-ID: <4BAA1149.1080201@creativecommons.org>
+
+I sent a version of this to Daniel privately, but he noted that perhaps 
+it might have gone to the list as well. It ties into Cameron's point 
+about avoiding this question entirely in the PP, but also into the 
+importance of understanding what "open data" actually means.
+
+Remember that "open" in the sense of the SC protocol, the OKF definition 
+and the panton principles is about the *intellectual property* rights 
+associated with data - copyrights, database rights - and *contractual 
+property* rights associated with data products. Open doesn't mean it's 
+free of constraints like privacy, and it also doesn't mean the data are 
+actually *useful* - curated, annotated, explained.
+
+Privacy rights are vastly complex and cannot be waived with public 
+licenses like intellectual property rights. there is a complex process 
+known as "informed consent" that must be achieved before privacy rights 
+can be legally waived, and that consent must be vetted through a process 
+approved by an institution's IRB (institutional review board). The IRB 
+terms govern the movement of data, under application by researchers.
+
+Thus, data can indeed be "open" under the PP but not made available to 
+the world, as the PP only touch on the IP aspects of data. Privacy 
+rights create a major driver for using the public domain on data 
+actually, as the  prevalence of privacy rights on vast swaths of science 
+data - be clinical health data or social science research - renders 
+those data incompatible with "viral" sharing regimes on data, as many 
+viral regimes disallow the addition of content that cannot itself be 
+made viral.
+
+When the data is in the PD, it can flow into a clinical or social 
+science database, and then be redistributed under the terms that the IRB 
+set forward for the original data, as redistribution of data is 
+invaluable in these fields, albeit under much tighter restrictions than 
+we associate with "open" science.
+
+We're working on standardizing IRB agreements right now at Creative 
+Commons, based on our years of experience with the huntingtons, 
+parkinsons, alzheimers, and other rare disease communities that deal 
+with privacy issues in the clinical space. these are in many ways the 
+easy ones, because the diseases involved make informed consent easier to 
+get. informed consent for healthy control subjects is going to be the 
+harder problem. and in social science the issues may be irresolvable - 
+deidentification is so easy these days, and getting easier.
+
+We're also working on standards for publishing data sets in a format 
+that is actively "re-useful" and will be publishing a set of 
+recommendations tomorrow in conjunction with the PLoS Forum that encode 
+the PP as the legal part of a multivariate problem of making online data 
+actively reusable.
+
+I would prefer the FAQs not overstate the power of "open" from an IP 
+perspective. Data that is online but burdened with privacy, or with poor 
+curation and annotation, lacking persistent URIs, and so forth - that 
+data meets the principles, but is likely to be of little use to a 
+working scientist. We run the risk of overheated expectations if we 
+simply say "raw data now" - the reality is far more complex, and we're 
+not all Tim BL ):-)
+
+jtw
+
+
+On 3/23/10 2:35 AM, Cameron Neylon wrote:
+> The original idea behind the Panton Principles was that we sidestep this
+> issue. The key point being that where there are privacy issues (or other
+> issues) you simply do not choose to publish the data. The PP are not, at
+> least as far as the bullet points are concerned, to dictate when, how, or if
+> data are published.
+>
+> The PP are intended to be applied after the decision has been taken to
+> publish the data. And by "publish" we meant to be extremely general - hence
+> the addition I made the other day to the FAQ. I think it is important to be
+> clear on this point because the term "publish" often means something very
+> different to different people. And for many researchers it explicitly
+> doesn't include "make available on the web".
+>
+> Cheers
+>
+> Cameron
+>
+>
+> On 23/03/2010 13:26, "daniel.mietchen at googlemail.com"
+> <daniel.mietchen at googlemail.com>  wrote:
+>
+>> Dear Iain,
+>
+> on the first point, what do you think of the current
+>> phrasing
+> "Respecting the privacy of research subjects should be an
+>> integral
+> part of the decision whether to make the data Open."?
+>
+>
+>>
+>> With kind regards,
+>
+> Daniel
+>
+>
+>
+>> On Tue, Mar 23, 2010 at 2:16 PM, Iain
+>> Hrynaszkiewicz
+> <Iain.Hrynaszkiewicz at biomedcentral.com>  wrote:
+>> Dear all,
+>>
+>>
+>> Writing from a publisher that is keen to make data available, I'd like
+>> to
+>> point out two sets of guidance relevant to some matters arising from
+>> the
+>> pirate pad discussions on the Panton Principles.
+>>
+>> Firstly, the issue of
+>> protecting privacy in human subject research. This
+>> is a major barrier to the
+>> sharing of clinical information and I wonder
+>> if it is being glossed over in
+>> the FAQ (13). Some practical guidance on
+>> openly sharing clinical data was
+>> published in the BMJ earlier this year,
+>> for example:
+>>
+>> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>>
+>> Secondly, applying PP
+>> prior to publication. At BioMed Central, for
+>> example, we encourage openly
+>> sharing data before formal publication [in
+>> a peer-reviewed journal] and
+>> encourage editors to not preclude open
+>> projects from publication.
+>>
+>> http://www.biomedcentral.com/info/about/duplicatepublication
+>> So perhaps PP
+>> should be applied more uniformly, without the need to
+>> clarify what
+>> 'publication' is.
+>>
+>> Best regards,
+>>
+>> Iain
+>>
+>>
+>> Iain Hrynaszkiewicz
+>>
+>> Managing Editor
+>> BioMed Central
+>> Floor 6, 236 Gray's Inn Road
+>> London, WC1X
+>> 8HL
+>> T: +44 (0)20 3192 2175
+>> F: +44 (0)20 3192 2011
+>> W:
+>> www.biomedcentral.com/
+>>
+>>
+>>
+>>
+>> -----Original Message-----
+>> From:
+>> open-science-bounces at lists.okfn.org
+>>
+>> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+>>
+>> open-science-request at lists.okfn.org
+>> Sent: 18 March 2010 12:00
+>> To:
+>> open-science at lists.okfn.org
+>> Subject: open-science Digest, Vol 17, Issue
+>> 7
+>>
+>> Send open-science mailing list submissions to
+>>
+>>   open-science at lists.okfn.org
+>>
+>> To subscribe or unsubscribe via the World
+>> Wide Web, visit
+>>         http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>> or, via email, send a message with subject or body 'help' to
+>>
+>>   open-science-request at lists.okfn.org
+>>
+>> You can reach the person managing the
+>> list at
+>>         open-science-owner at lists.okfn.org
+>>
+>> When replying, please
+>> edit your Subject line so it is more specific
+>> than "Re: Contents of
+>> open-science digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>    1. FAQs for the Panton
+>> Principles and Open Data (Peter Murray-Rust)
+>>
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>>
+>> Message: 1
+>> Date: Wed, 17 Mar 2010 16:43:47 +0000
+>> From: Peter Murray-Rust
+>> <pm286 at cam.ac.uk>
+>> Subject: [open-science] FAQs for the Panton Principles and
+>> Open Data
+>> To: open-science<open-science at lists.okfn.org>
+>> Message-ID:
+>>
+>>     <67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+>>
+>> Content-Type: text/plain; charset="iso-8859-1"
+>>
+>> We are talking to a variety
+>> of editors and publishers who are keen to
+>> make
+>> data "open available" and
+>> in many cases mandate it as part of the
+>> scientific
+>> process. It's clear
+>> that although PP are (I hope) fairly
+>> self-explanatory
+>> the implications
+>> (licences, buttons, "public domain", community norms,
+>> etc.)
+>> are unclear
+>> and need careful explanation. One way to do this is through
+>> FAQs
+>> and we
+>> (Rufus, Cameron, Jonathan + me) are asking for the help of the
+>> OpenScience
+>> list to provide useful communal answers. I'll post the FAQs
+>> -
+>> feel welcome
+>> to add to them but not TOO many - and ask you to create
+>> answers. There is a
+>> pirate pad at:
+>>
+>> http://piratepad.net/LgLRcGLw35
+>>
+>> Please use to edit,
+>> discuss, hack etc.
+>>
+>> We will appreciate rapid feedback as we hope to promote
+>> this to
+>> attendees at
+>> the AmerChemicalSoc (ACS) next week.
+>>
+>>
+>>
+>> --
+>>
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of
+>> Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>>
+>> URL:
+>>
+>> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+>>
+>> f69/attachment-0001.htm>
+>>
+>> ------------------------------
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>>
+>> open-science at lists.okfn.org
+>>
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>> End of open-science
+>> Digest, Vol 17, Issue 7
+>> *******************************************
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>>
+>> open-science at lists.okfn.org
+>>
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+>
+> --
+>>
+> http://www.google.com/profiles/daniel.mietchen
+>
+> _____________________________
+>> __________________
+> open-science mailing
+>> list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-s
+>> cience
+>
+>
+
+
+From tom.moritz at gmail.com  Wed Mar 24 14:36:22 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Wed, 24 Mar 2010 07:36:22 -0700
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+In-Reply-To: <4BAA1149.1080201@creativecommons.org>
+References: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+	<4BAA1149.1080201@creativecommons.org>
+Message-ID: <e74b7bec1003240736l4580b642u8f8030cf3fcde69d@mail.gmail.com>
+
+John's comments are important and point up a fundamental issue respecting
+making disclosed
+data *effective* / *useful.*  Data placed on an electronic billboard next to
+the Santa Monica Freeway
+are openly available but are virtually useless except by a series of
+cumbersome machinations...*
+*
+At a time when government agencies in the US are being pushed to disclose
+data it is essential
+that we develop guidelines and standards for making disclosed data directly
+useful -- not just "informative"...
+
+The IPCC situation ("Climate-gate") has made all the more clear why the
+precise lineages and provenance of data
+-- the record of scientific work flow, transformations, combinations and
+recombinations -- must be readily available for
+review and assessment...
+
+Tom
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034
+USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+--Heraclitus
+
+Please consider the environment before printing this email.
+
+
+On Wed, Mar 24, 2010 at 6:19 AM, John Wilbanks <wilbanks at creativecommons.org
+> wrote:
+
+> I sent a version of this to Daniel privately, but he noted that perhaps it
+> might have gone to the list as well. It ties into Cameron's point about
+> avoiding this question entirely in the PP, but also into the importance of
+> understanding what "open data" actually means.
+>
+> Remember that "open" in the sense of the SC protocol, the OKF definition
+> and the panton principles is about the *intellectual property* rights
+> associated with data - copyrights, database rights - and *contractual
+> property* rights associated with data products. Open doesn't mean it's free
+> of constraints like privacy, and it also doesn't mean the data are actually
+> *useful* - curated, annotated, explained.
+>
+> Privacy rights are vastly complex and cannot be waived with public licenses
+> like intellectual property rights. there is a complex process known as
+> "informed consent" that must be achieved before privacy rights can be
+> legally waived, and that consent must be vetted through a process approved
+> by an institution's IRB (institutional review board). The IRB terms govern
+> the movement of data, under application by researchers.
+>
+> Thus, data can indeed be "open" under the PP but not made available to the
+> world, as the PP only touch on the IP aspects of data. Privacy rights create
+> a major driver for using the public domain on data actually, as the
+>  prevalence of privacy rights on vast swaths of science data - be clinical
+> health data or social science research - renders those data incompatible
+> with "viral" sharing regimes on data, as many viral regimes disallow the
+> addition of content that cannot itself be made viral.
+>
+> When the data is in the PD, it can flow into a clinical or social science
+> database, and then be redistributed under the terms that the IRB set forward
+> for the original data, as redistribution of data is invaluable in these
+> fields, albeit under much tighter restrictions than we associate with "open"
+> science.
+>
+> We're working on standardizing IRB agreements right now at Creative
+> Commons, based on our years of experience with the huntingtons, parkinsons,
+> alzheimers, and other rare disease communities that deal with privacy issues
+> in the clinical space. these are in many ways the easy ones, because the
+> diseases involved make informed consent easier to get. informed consent for
+> healthy control subjects is going to be the harder problem. and in social
+> science the issues may be irresolvable - deidentification is so easy these
+> days, and getting easier.
+>
+> We're also working on standards for publishing data sets in a format that
+> is actively "re-useful" and will be publishing a set of recommendations
+> tomorrow in conjunction with the PLoS Forum that encode the PP as the legal
+> part of a multivariate problem of making online data actively reusable.
+>
+> I would prefer the FAQs not overstate the power of "open" from an IP
+> perspective. Data that is online but burdened with privacy, or with poor
+> curation and annotation, lacking persistent URIs, and so forth - that data
+> meets the principles, but is likely to be of little use to a working
+> scientist. We run the risk of overheated expectations if we simply say "raw
+> data now" - the reality is far more complex, and we're not all Tim BL ):-)
+>
+> jtw
+>
+>
+>
+> On 3/23/10 2:35 AM, Cameron Neylon wrote:
+>
+>> The original idea behind the Panton Principles was that we sidestep this
+>> issue. The key point being that where there are privacy issues (or other
+>> issues) you simply do not choose to publish the data. The PP are not, at
+>> least as far as the bullet points are concerned, to dictate when, how, or
+>> if
+>> data are published.
+>>
+>> The PP are intended to be applied after the decision has been taken to
+>> publish the data. And by "publish" we meant to be extremely general -
+>> hence
+>> the addition I made the other day to the FAQ. I think it is important to
+>> be
+>> clear on this point because the term "publish" often means something very
+>> different to different people. And for many researchers it explicitly
+>> doesn't include "make available on the web".
+>>
+>> Cheers
+>>
+>> Cameron
+>>
+>>
+>> On 23/03/2010 13:26, "daniel.mietchen at googlemail.com"
+>> <daniel.mietchen at googlemail.com>  wrote:
+>>
+>>  Dear Iain,
+>>>
+>>
+>> on the first point, what do you think of the current
+>>
+>>> phrasing
+>>>
+>> "Respecting the privacy of research subjects should be an
+>>
+>>> integral
+>>>
+>> part of the decision whether to make the data Open."?
+>>
+>>
+>>
+>>> With kind regards,
+>>>
+>>
+>> Daniel
+>>
+>>
+>>
+>>  On Tue, Mar 23, 2010 at 2:16 PM, Iain
+>>> Hrynaszkiewicz
+>>>
+>> <Iain.Hrynaszkiewicz at biomedcentral.com>  wrote:
+>>
+>>> Dear all,
+>>>
+>>>
+>>> Writing from a publisher that is keen to make data available, I'd like
+>>> to
+>>> point out two sets of guidance relevant to some matters arising from
+>>> the
+>>> pirate pad discussions on the Panton Principles.
+>>>
+>>> Firstly, the issue of
+>>> protecting privacy in human subject research. This
+>>> is a major barrier to the
+>>> sharing of clinical information and I wonder
+>>> if it is being glossed over in
+>>> the FAQ (13). Some practical guidance on
+>>> openly sharing clinical data was
+>>> published in the BMJ earlier this year,
+>>> for example:
+>>>
+>>> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>>>
+>>> Secondly, applying PP
+>>> prior to publication. At BioMed Central, for
+>>> example, we encourage openly
+>>> sharing data before formal publication [in
+>>> a peer-reviewed journal] and
+>>> encourage editors to not preclude open
+>>> projects from publication.
+>>>
+>>> http://www.biomedcentral.com/info/about/duplicatepublication
+>>> So perhaps PP
+>>> should be applied more uniformly, without the need to
+>>> clarify what
+>>> 'publication' is.
+>>>
+>>> Best regards,
+>>>
+>>> Iain
+>>>
+>>>
+>>> Iain Hrynaszkiewicz
+>>>
+>>> Managing Editor
+>>> BioMed Central
+>>> Floor 6, 236 Gray's Inn Road
+>>> London, WC1X
+>>> 8HL
+>>> T: +44 (0)20 3192 2175
+>>> F: +44 (0)20 3192 2011
+>>> W:
+>>> www.biomedcentral.com/
+>>>
+>>>
+>>>
+>>>
+>>> -----Original Message-----
+>>> From:
+>>> open-science-bounces at lists.okfn.org
+>>>
+>>> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+>>>
+>>> open-science-request at lists.okfn.org
+>>> Sent: 18 March 2010 12:00
+>>> To:
+>>> open-science at lists.okfn.org
+>>> Subject: open-science Digest, Vol 17, Issue
+>>> 7
+>>>
+>>> Send open-science mailing list submissions to
+>>>
+>>>  open-science at lists.okfn.org
+>>>
+>>> To subscribe or unsubscribe via the World
+>>> Wide Web, visit
+>>>        http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>> or, via email, send a message with subject or body 'help' to
+>>>
+>>>  open-science-request at lists.okfn.org
+>>>
+>>> You can reach the person managing the
+>>> list at
+>>>        open-science-owner at lists.okfn.org
+>>>
+>>> When replying, please
+>>> edit your Subject line so it is more specific
+>>> than "Re: Contents of
+>>> open-science digest..."
+>>>
+>>>
+>>> Today's Topics:
+>>>
+>>>   1. FAQs for the Panton
+>>> Principles and Open Data (Peter Murray-Rust)
+>>>
+>>>
+>>>
+>>> ----------------------------------------------------------------------
+>>>
+>>>
+>>> Message: 1
+>>> Date: Wed, 17 Mar 2010 16:43:47 +0000
+>>> From: Peter Murray-Rust
+>>> <pm286 at cam.ac.uk>
+>>> Subject: [open-science] FAQs for the Panton Principles and
+>>> Open Data
+>>> To: open-science<open-science at lists.okfn.org>
+>>> Message-ID:
+>>>
+>>>    <67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+>>>
+>>> Content-Type: text/plain; charset="iso-8859-1"
+>>>
+>>> We are talking to a variety
+>>> of editors and publishers who are keen to
+>>> make
+>>> data "open available" and
+>>> in many cases mandate it as part of the
+>>> scientific
+>>> process. It's clear
+>>> that although PP are (I hope) fairly
+>>> self-explanatory
+>>> the implications
+>>> (licences, buttons, "public domain", community norms,
+>>> etc.)
+>>> are unclear
+>>> and need careful explanation. One way to do this is through
+>>> FAQs
+>>> and we
+>>> (Rufus, Cameron, Jonathan + me) are asking for the help of the
+>>> OpenScience
+>>> list to provide useful communal answers. I'll post the FAQs
+>>> -
+>>> feel welcome
+>>> to add to them but not TOO many - and ask you to create
+>>> answers. There is a
+>>> pirate pad at:
+>>>
+>>> http://piratepad.net/LgLRcGLw35
+>>>
+>>> Please use to edit,
+>>> discuss, hack etc.
+>>>
+>>> We will appreciate rapid feedback as we hope to promote
+>>> this to
+>>> attendees at
+>>> the AmerChemicalSoc (ACS) next week.
+>>>
+>>>
+>>>
+>>> --
+>>>
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of
+>>> Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>>
+>>> -------------- next part --------------
+>>> An HTML attachment was scrubbed...
+>>>
+>>> URL:
+>>>
+>>> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+>>>
+>>> f69/attachment-0001.htm>
+>>>
+>>> ------------------------------
+>>>
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>>
+>>> open-science at lists.okfn.org
+>>>
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>>
+>>> End of open-science
+>>> Digest, Vol 17, Issue 7
+>>> *******************************************
+>>>
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>>
+>>> open-science at lists.okfn.org
+>>>
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>>
+>>
+>>
+>> --
+>>
+>>>
+>>>  http://www.google.com/profiles/daniel.mietchen
+>>
+>> _____________________________
+>>
+>>> __________________
+>>>
+>> open-science mailing
+>>
+>>> list
+>>>
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-s
+>>
+>>> cience
+>>>
+>>
+>>
+>>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100324/d6e14c10/attachment-0001.htm>
+
+From daniel.mietchen at googlemail.com  Wed Mar 24 15:34:49 2010
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Wed, 24 Mar 2010 16:34:49 +0100
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+In-Reply-To: <e74b7bec1003240736l4580b642u8f8030cf3fcde69d@mail.gmail.com>
+References: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+	<4BAA1149.1080201@creativecommons.org>
+	<e74b7bec1003240736l4580b642u8f8030cf3fcde69d@mail.gmail.com>
+Message-ID: <10ed603b1003240834h703ce6e3jc32dc89d559f87a1@mail.gmail.com>
+
+Thank you, John and Tom, for your comments.
+
+I cleaned up after myself, taking your comments into account as best as I could:
+http://piratepad.net/ep/pad/view/LgLRcGLw35/rev.7354 .
+
+Daniel
+
+On Wed, Mar 24, 2010 at 3:36 PM, Tom Moritz <tom.moritz at gmail.com> wrote:
+> John's comments are important and point up a fundamental issue respecting
+> making disclosed
+> data effective / useful.? Data placed on an electronic billboard next to the
+> Santa Monica Freeway
+> are openly available but are virtually useless except by a series of
+> cumbersome machinations...
+>
+> At a time when government agencies in the US are being pushed to disclose
+> data it is essential
+> that we develop guidelines and standards for making disclosed data directly
+> useful -- not just "informative"...
+>
+> The IPCC situation ("Climate-gate") has made all the more clear why the
+> precise lineages and provenance of data
+> -- the record of scientific work flow, transformations, combinations and
+> recombinations -- must be readily available for
+> review and assessment...
+>
+> Tom
+>
+> Tom Moritz
+> 1968 1/2 South Shenandoah Street,
+> Los Angeles, California 90034
+> USA
+> +1 310 963 0199 (cell)
+> tommoritz (Skype)
+> http://www.linkedin.com/in/tmoritz
+>
+> ?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+> --Heraclitus
+>
+> Please consider the environment before printing this email.
+>
+>
+> On Wed, Mar 24, 2010 at 6:19 AM, John Wilbanks
+> <wilbanks at creativecommons.org> wrote:
+>>
+>> I sent a version of this to Daniel privately, but he noted that perhaps it
+>> might have gone to the list as well. It ties into Cameron's point about
+>> avoiding this question entirely in the PP, but also into the importance of
+>> understanding what "open data" actually means.
+>>
+>> Remember that "open" in the sense of the SC protocol, the OKF definition
+>> and the panton principles is about the *intellectual property* rights
+>> associated with data - copyrights, database rights - and *contractual
+>> property* rights associated with data products. Open doesn't mean it's free
+>> of constraints like privacy, and it also doesn't mean the data are actually
+>> *useful* - curated, annotated, explained.
+>>
+>> Privacy rights are vastly complex and cannot be waived with public
+>> licenses like intellectual property rights. there is a complex process known
+>> as "informed consent" that must be achieved before privacy rights can be
+>> legally waived, and that consent must be vetted through a process approved
+>> by an institution's IRB (institutional review board). The IRB terms govern
+>> the movement of data, under application by researchers.
+>>
+>> Thus, data can indeed be "open" under the PP but not made available to the
+>> world, as the PP only touch on the IP aspects of data. Privacy rights create
+>> a major driver for using the public domain on data actually, as the
+>> ?prevalence of privacy rights on vast swaths of science data - be clinical
+>> health data or social science research - renders those data incompatible
+>> with "viral" sharing regimes on data, as many viral regimes disallow the
+>> addition of content that cannot itself be made viral.
+>>
+>> When the data is in the PD, it can flow into a clinical or social science
+>> database, and then be redistributed under the terms that the IRB set forward
+>> for the original data, as redistribution of data is invaluable in these
+>> fields, albeit under much tighter restrictions than we associate with "open"
+>> science.
+>>
+>> We're working on standardizing IRB agreements right now at Creative
+>> Commons, based on our years of experience with the huntingtons, parkinsons,
+>> alzheimers, and other rare disease communities that deal with privacy issues
+>> in the clinical space. these are in many ways the easy ones, because the
+>> diseases involved make informed consent easier to get. informed consent for
+>> healthy control subjects is going to be the harder problem. and in social
+>> science the issues may be irresolvable - deidentification is so easy these
+>> days, and getting easier.
+>>
+>> We're also working on standards for publishing data sets in a format that
+>> is actively "re-useful" and will be publishing a set of recommendations
+>> tomorrow in conjunction with the PLoS Forum that encode the PP as the legal
+>> part of a multivariate problem of making online data actively reusable.
+>>
+>> I would prefer the FAQs not overstate the power of "open" from an IP
+>> perspective. Data that is online but burdened with privacy, or with poor
+>> curation and annotation, lacking persistent URIs, and so forth - that data
+>> meets the principles, but is likely to be of little use to a working
+>> scientist. We run the risk of overheated expectations if we simply say "raw
+>> data now" - the reality is far more complex, and we're not all Tim BL ):-)
+>>
+>> jtw
+>>
+>>
+>> On 3/23/10 2:35 AM, Cameron Neylon wrote:
+>>>
+>>> The original idea behind the Panton Principles was that we sidestep this
+>>> issue. The key point being that where there are privacy issues (or other
+>>> issues) you simply do not choose to publish the data. The PP are not, at
+>>> least as far as the bullet points are concerned, to dictate when, how, or
+>>> if
+>>> data are published.
+>>>
+>>> The PP are intended to be applied after the decision has been taken to
+>>> publish the data. And by "publish" we meant to be extremely general -
+>>> hence
+>>> the addition I made the other day to the FAQ. I think it is important to
+>>> be
+>>> clear on this point because the term "publish" often means something very
+>>> different to different people. And for many researchers it explicitly
+>>> doesn't include "make available on the web".
+>>>
+>>> Cheers
+>>>
+>>> Cameron
+>>>
+>>>
+>>> On 23/03/2010 13:26, "daniel.mietchen at googlemail.com"
+>>> <daniel.mietchen at googlemail.com> ?wrote:
+>>>
+>>>> Dear Iain,
+>>>
+>>> on the first point, what do you think of the current
+>>>>
+>>>> phrasing
+>>>
+>>> "Respecting the privacy of research subjects should be an
+>>>>
+>>>> integral
+>>>
+>>> part of the decision whether to make the data Open."?
+>>>
+>>>
+>>>>
+>>>> With kind regards,
+>>>
+>>> Daniel
+>>>
+>>>
+>>>
+>>>> On Tue, Mar 23, 2010 at 2:16 PM, Iain
+>>>> Hrynaszkiewicz
+>>>
+>>> <Iain.Hrynaszkiewicz at biomedcentral.com> ?wrote:
+>>>>
+>>>> Dear all,
+>>>>
+>>>>
+>>>> Writing from a publisher that is keen to make data available, I'd like
+>>>> to
+>>>> point out two sets of guidance relevant to some matters arising from
+>>>> the
+>>>> pirate pad discussions on the Panton Principles.
+>>>>
+>>>> Firstly, the issue of
+>>>> protecting privacy in human subject research. This
+>>>> is a major barrier to the
+>>>> sharing of clinical information and I wonder
+>>>> if it is being glossed over in
+>>>> the FAQ (13). Some practical guidance on
+>>>> openly sharing clinical data was
+>>>> published in the BMJ earlier this year,
+>>>> for example:
+>>>>
+>>>> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>>>>
+>>>> Secondly, applying PP
+>>>> prior to publication. At BioMed Central, for
+>>>> example, we encourage openly
+>>>> sharing data before formal publication [in
+>>>> a peer-reviewed journal] and
+>>>> encourage editors to not preclude open
+>>>> projects from publication.
+>>>>
+>>>> http://www.biomedcentral.com/info/about/duplicatepublication
+>>>> So perhaps PP
+>>>> should be applied more uniformly, without the need to
+>>>> clarify what
+>>>> 'publication' is.
+>>>>
+>>>> Best regards,
+>>>>
+>>>> Iain
+>>>>
+>>>>
+>>>> Iain Hrynaszkiewicz
+>>>>
+>>>> Managing Editor
+>>>> BioMed Central
+>>>> Floor 6, 236 Gray's Inn Road
+>>>> London, WC1X
+>>>> 8HL
+>>>> T: +44 (0)20 3192 2175
+>>>> F: +44 (0)20 3192 2011
+>>>> W:
+>>>> www.biomedcentral.com/
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> -----Original Message-----
+>>>> From:
+>>>> open-science-bounces at lists.okfn.org
+>>>>
+>>>> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+>>>>
+>>>> open-science-request at lists.okfn.org
+>>>> Sent: 18 March 2010 12:00
+>>>> To:
+>>>> open-science at lists.okfn.org
+>>>> Subject: open-science Digest, Vol 17, Issue
+>>>> 7
+>>>>
+>>>> Send open-science mailing list submissions to
+>>>>
+>>>> ?open-science at lists.okfn.org
+>>>>
+>>>> To subscribe or unsubscribe via the World
+>>>> Wide Web, visit
+>>>> ? ? ? ?http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>> or, via email, send a message with subject or body 'help' to
+>>>>
+>>>> ?open-science-request at lists.okfn.org
+>>>>
+>>>> You can reach the person managing the
+>>>> list at
+>>>> ? ? ? ?open-science-owner at lists.okfn.org
+>>>>
+>>>> When replying, please
+>>>> edit your Subject line so it is more specific
+>>>> than "Re: Contents of
+>>>> open-science digest..."
+>>>>
+>>>>
+>>>> Today's Topics:
+>>>>
+>>>> ? 1. FAQs for the Panton
+>>>> Principles and Open Data (Peter Murray-Rust)
+>>>>
+>>>>
+>>>>
+>>>> ----------------------------------------------------------------------
+>>>>
+>>>>
+>>>> Message: 1
+>>>> Date: Wed, 17 Mar 2010 16:43:47 +0000
+>>>> From: Peter Murray-Rust
+>>>> <pm286 at cam.ac.uk>
+>>>> Subject: [open-science] FAQs for the Panton Principles and
+>>>> Open Data
+>>>> To: open-science<open-science at lists.okfn.org>
+>>>> Message-ID:
+>>>>
+>>>> ? ?<67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+>>>>
+>>>> Content-Type: text/plain; charset="iso-8859-1"
+>>>>
+>>>> We are talking to a variety
+>>>> of editors and publishers who are keen to
+>>>> make
+>>>> data "open available" and
+>>>> in many cases mandate it as part of the
+>>>> scientific
+>>>> process. It's clear
+>>>> that although PP are (I hope) fairly
+>>>> self-explanatory
+>>>> the implications
+>>>> (licences, buttons, "public domain", community norms,
+>>>> etc.)
+>>>> are unclear
+>>>> and need careful explanation. One way to do this is through
+>>>> FAQs
+>>>> and we
+>>>> (Rufus, Cameron, Jonathan + me) are asking for the help of the
+>>>> OpenScience
+>>>> list to provide useful communal answers. I'll post the FAQs
+>>>> -
+>>>> feel welcome
+>>>> to add to them but not TOO many - and ask you to create
+>>>> answers. There is a
+>>>> pirate pad at:
+>>>>
+>>>> http://piratepad.net/LgLRcGLw35
+>>>>
+>>>> Please use to edit,
+>>>> discuss, hack etc.
+>>>>
+>>>> We will appreciate rapid feedback as we hope to promote
+>>>> this to
+>>>> attendees at
+>>>> the AmerChemicalSoc (ACS) next week.
+>>>>
+>>>>
+>>>>
+>>>> --
+>>>>
+>>>> Peter Murray-Rust
+>>>> Reader in Molecular Informatics
+>>>> Unilever Centre, Dep. Of
+>>>> Chemistry
+>>>> University of Cambridge
+>>>> CB2 1EW, UK
+>>>> +44-1223-763069
+>>>>
+>>>> -------------- next part --------------
+>>>> An HTML attachment was scrubbed...
+>>>>
+>>>> URL:
+>>>>
+>>>> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+>>>>
+>>>> f69/attachment-0001.htm>
+>>>>
+>>>> ------------------------------
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>>
+>>>> open-science at lists.okfn.org
+>>>>
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>>
+>>>> End of open-science
+>>>> Digest, Vol 17, Issue 7
+>>>> *******************************************
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>>
+>>>> open-science at lists.okfn.org
+>>>>
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>>>
+>>> http://www.google.com/profiles/daniel.mietchen
+>>>
+>>> _____________________________
+>>>>
+>>>> __________________
+>>>
+>>> open-science mailing
+>>>>
+>>>> list
+>>>
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-s
+>>>>
+>>>> cience
+>>>
+>>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+http://www.google.com/profiles/daniel.mietchen
+
+
+From yishaym at gmail.com  Wed Mar 24 16:00:41 2010
+From: yishaym at gmail.com (Yishay Mor)
+Date: Wed, 24 Mar 2010 16:00:41 +0000
+Subject: [open-science] JISC Grant Funding 1/10: Access to Resources and
+	Open Innovation (was: JISC ITT: Organisation and Production
+	of a Series of Internet Radio Shows to Communicate Key Themes
+	of the JISC e-Learning Programme)
+Message-ID: <e5fbfda11003240900k7c161013h5adea3e1403fd7d9@mail.gmail.com>
+
+Perhaps this is better suited:
+http://www.jisc.ac.uk/fundingopportunities/funding_calls/2010/02/grant110bce.aspx
+
+The idea:
+Produce an open buisness model and supporting open training and advocacy
+resources for open scientific knowledge
+
+Many institutions are reluctant to adopt an open knowledge policy for fear
+of loosing potential revenue. This is predominantly a result of misleading
+media and outdated concepts. To address these issues, we will:
+* develop a viable and robust buisiness model for open scientific inovation,
+including business plans, legal templates, case studies
+* produce open training and advocacy resources to educate and guide
+intitutions in applying this model, inluding podcasts, videos, whitepapers,
+* run training workshops for managers, researchers and adminstrators.
+
+I won't be able to lead on this, so in the spirit of open knowledge, I'm
+offering the idea for whoever would want to take it forward. I will be
+interested in collaborating on it if someone else can take the lead.
+
+___________________________
+ Yishay Mor, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+
+
+
+On 23 March 2010 13:16, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> Quite right Yishay! I interpreted this as a call for shows/series of
+> shows such that we could propose something on open data in science,
+> but looks like its pretty focused on finding someone to produce a much
+> broader series on e-Learning. My mistake - wishful reading!
+>
+> Perhaps we should nevertheless try and do a series of podcasts on open
+> data in science on our own steam (a la Panton discussions)?
+>
+> All the best,
+>
+> Jonathan
+>
+> P.S. Apologies for brevity - I've injured my hand so typing is slower
+> than usual!
+>
+>
+> On Tue, Mar 23, 2010 at 2:04 PM, Yishay Mor <yishaym at gmail.com> wrote:
+> > As I read the call, they want someone to produce 10 shows on their
+> agenda. I
+> > don't see how this fits.
+> > ___________________________
+> >  Yishay Mor, London Knowledge Lab
+> >   http://www.lkl.ac.uk/people/mor.html
+> >
+> >
+> >
+> > On 23 March 2010 13:01, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> >>
+> >> Indeed. Seems a perfect fit. Also branching out into international
+> >> case studies, examples of the benefits of data sharing, etc would make
+> >> for richer listening. Anyone know anyone with radio production
+> >> experience who might be interested in this?
+> >>
+> >> J.
+> >>
+> >> On Tue, Mar 23, 2010 at 1:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> >> wrote:
+> >> > Great idea.
+> >> > I would be very happy to include the Panton Lunch interviews in this.
+> >> >
+> >> > P.
+> >> >
+> >> >
+> >> > On Tue, Mar 23, 2010 at 12:41 PM, Jonathan Gray <
+> jonathan.gray at okfn.org>
+> >> > wrote:
+> >> >>
+> >> >> Wonder if there's any scope here for a radio show on open science?
+> >> >>
+> >> >> J.
+> >> >>
+> >> >>
+> >> >> ---------- Forwarded message ----------
+> >> >> From: Jennifer STOCKFORD [7072] <j.stockford at jisc.ac.uk>
+> >> >> Date: Tue, Mar 23, 2010 at 1:33 PM
+> >> >> Subject: JISC ITT: Organisation and Production of a Series of
+> Internet
+> >> >> Radio Shows to Communicate Key Themes of the JISC e-Learning
+> Programme
+> >> >> To: JISC-ANNOUNCE at jiscmail.ac.uk
+> >> >>
+> >> >>
+> >> >> ***Apologies for Cross Posting***
+> >> >>
+> >> >> The JISC invites proposals to organise and produce a series of
+> >> >> internet radio shows to communicate key themes of the JISC e-Learning
+> >> >> Programme. These shows will be aimed at senior managers and
+> >> >> practitioners working in UK further and higher education.
+> >> >>
+> >> >> It is expected that a total of 10 shows would be broadcasted over a
+> >> >> two year period, focusing on topics which are of relevance to senior
+> >> >> managers working in further and higher education, and draw together
+> >> >> outcomes from the e-Learning Programme which can assist senior
+> >> >> managers in addressing these issues.
+> >> >>
+> >> >> Total funding of up to ?50,000 (including VAT, travel and
+> subsistence)
+> >> >> is available for this work.
+> >> >>
+> >> >> The deadline for proposals is 12.00 noon UK time on Tuesday 11th May
+> >> >> 2010.
+> >> >>
+> >> >> It is envisaged that bidders will be notified of the outcome of the
+> >> >> evaluation process in the week commencing 24th May 2010.
+> >> >>
+> >> >> The successful bidder will be expected to start work by 1st June
+> 2010.
+> >> >>
+> >> >> The final show will be due to have been completed by 1st June 2012,
+> >> >> with a short final report describing the processes involved in
+> >> >> producing the shows and any recommendations for future e-Learning
+> >> >> Programme radio shows being provided by 31st July 2012.
+> >> >>
+> >> >> A full version of the ITT can be found here.
+> >> >>
+> >> >>
+> >> >> Jennifer Stockford
+> >> >> Committee Support Officer JLT JSR
+> >> >> JISC Executive, Northavon House,
+> >> >> Coldharbour Lane, Bristol, BS16 1QD
+> >> >>
+> >> >> Please visit our website: http://www.jisc.ac.uk/
+> >> >>
+> >> >>
+> >> >>
+> >> >>
+> >> >> --
+> >> >> Jonathan Gray
+> >> >>
+> >> >> Community Coordinator
+> >> >> The Open Knowledge Foundation
+> >> >> http://blog.okfn.org
+> >> >>
+> >> >> http://twitter.com/jwyg
+> >> >> http://identi.ca/jwyg
+> >> >>
+> >> >> _______________________________________________
+> >> >> open-science mailing list
+> >> >> open-science at lists.okfn.org
+> >> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >> >
+> >> >
+> >> >
+> >> > --
+> >> > Peter Murray-Rust
+> >> > Reader in Molecular Informatics
+> >> > Unilever Centre, Dep. Of Chemistry
+> >> > University of Cambridge
+> >> > CB2 1EW, UK
+> >> > +44-1223-763069
+> >> >
+> >>
+> >>
+> >>
+> >> --
+> >> Jonathan Gray
+> >>
+> >> Community Coordinator
+> >> The Open Knowledge Foundation
+> >> http://blog.okfn.org
+> >>
+> >> http://twitter.com/jwyg
+> >> http://identi.ca/jwyg
+> >>
+> >> _______________________________________________
+> >> open-science mailing list
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> >
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100324/1930c6ea/attachment-0001.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Wed Mar 24 14:46:25 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Wed, 24 Mar 2010 14:46:25 -0000
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+References: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+	<4BAA1149.1080201@creativecommons.org>
+	<e74b7bec1003240736l4580b642u8f8030cf3fcde69d@mail.gmail.com>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA024F3644@SEGBLOGR0008.springer-sbm.com>
+
+Dear John, and Tom,
+
+ 
+
+I was excited to read your discussions of data standards and look forward to the PLoS article (tomorrow?).
+
+ 
+
+BMC Research Notes (http://www.biomedcentral.com/bmcresnotes/) is also very interested in this area and is trying to encourage data-driven publications, data harvesting and re-use; a corollary to which is guidance and best practice for sharing in different science disciplines.
+
+ 
+
+Best wishes,
+
+ 
+
+Iain
+
+ 
+
+PS. I absolutely agree consent for sharing from human subjects, as part of study recruitment, is key to overcoming privacy barriers.
+
+ 
+
+From: Tom Moritz [mailto:tom.moritz at gmail.com] 
+Sent: 24 March 2010 14:36
+To: John Wilbanks
+Cc: Cameron Neylon; Iain Hrynaszkiewicz; open-science at lists.okfn.org
+Subject: Re: [open-science] open-science Digest, Vol 17, Issue 7
+
+ 
+
+John's comments are important and point up a fundamental issue respecting making disclosed 
+data effective / useful.  Data placed on an electronic billboard next to the Santa Monica Freeway
+are openly available but are virtually useless except by a series of cumbersome machinations...
+
+At a time when government agencies in the US are being pushed to disclose data it is essential
+that we develop guidelines and standards for making disclosed data directly useful -- not just "informative"...
+
+The IPCC situation ("Climate-gate") has made all the more clear why the precise lineages and provenance of data 
+-- the record of scientific work flow, transformations, combinations and recombinations -- must be readily available for
+review and assessment...
+
+Tom
+
+Tom Moritz
+1968 1/2 South Shenandoah Street, 
+Los Angeles, California 90034 
+USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz 
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --Heraclitus                             
+
+Please consider the environment before printing this email.
+
+
+
+On Wed, Mar 24, 2010 at 6:19 AM, John Wilbanks <wilbanks at creativecommons.org> wrote:
+
+I sent a version of this to Daniel privately, but he noted that perhaps it might have gone to the list as well. It ties into Cameron's point about avoiding this question entirely in the PP, but also into the importance of understanding what "open data" actually means.
+
+Remember that "open" in the sense of the SC protocol, the OKF definition and the panton principles is about the *intellectual property* rights associated with data - copyrights, database rights - and *contractual property* rights associated with data products. Open doesn't mean it's free of constraints like privacy, and it also doesn't mean the data are actually *useful* - curated, annotated, explained.
+
+Privacy rights are vastly complex and cannot be waived with public licenses like intellectual property rights. there is a complex process known as "informed consent" that must be achieved before privacy rights can be legally waived, and that consent must be vetted through a process approved by an institution's IRB (institutional review board). The IRB terms govern the movement of data, under application by researchers.
+
+Thus, data can indeed be "open" under the PP but not made available to the world, as the PP only touch on the IP aspects of data. Privacy rights create a major driver for using the public domain on data actually, as the  prevalence of privacy rights on vast swaths of science data - be clinical health data or social science research - renders those data incompatible with "viral" sharing regimes on data, as many viral regimes disallow the addition of content that cannot itself be made viral.
+
+When the data is in the PD, it can flow into a clinical or social science database, and then be redistributed under the terms that the IRB set forward for the original data, as redistribution of data is invaluable in these fields, albeit under much tighter restrictions than we associate with "open" science.
+
+We're working on standardizing IRB agreements right now at Creative Commons, based on our years of experience with the huntingtons, parkinsons, alzheimers, and other rare disease communities that deal with privacy issues in the clinical space. these are in many ways the easy ones, because the diseases involved make informed consent easier to get. informed consent for healthy control subjects is going to be the harder problem. and in social science the issues may be irresolvable - deidentification is so easy these days, and getting easier.
+
+We're also working on standards for publishing data sets in a format that is actively "re-useful" and will be publishing a set of recommendations tomorrow in conjunction with the PLoS Forum that encode the PP as the legal part of a multivariate problem of making online data actively reusable.
+
+I would prefer the FAQs not overstate the power of "open" from an IP perspective. Data that is online but burdened with privacy, or with poor curation and annotation, lacking persistent URIs, and so forth - that data meets the principles, but is likely to be of little use to a working scientist. We run the risk of overheated expectations if we simply say "raw data now" - the reality is far more complex, and we're not all Tim BL ):-)
+
+jtw
+
+
+
+
+On 3/23/10 2:35 AM, Cameron Neylon wrote:
+
+The original idea behind the Panton Principles was that we sidestep this
+issue. The key point being that where there are privacy issues (or other
+issues) you simply do not choose to publish the data. The PP are not, at
+least as far as the bullet points are concerned, to dictate when, how, or if
+data are published.
+
+The PP are intended to be applied after the decision has been taken to
+publish the data. And by "publish" we meant to be extremely general - hence
+the addition I made the other day to the FAQ. I think it is important to be
+clear on this point because the term "publish" often means something very
+different to different people. And for many researchers it explicitly
+doesn't include "make available on the web".
+
+Cheers
+
+Cameron
+
+
+On 23/03/2010 13:26, "daniel.mietchen at googlemail.com"
+<daniel.mietchen at googlemail.com>  wrote:
+
+Dear Iain,
+
+
+on the first point, what do you think of the current
+
+phrasing
+
+"Respecting the privacy of research subjects should be an
+
+integral
+
+part of the decision whether to make the data Open."?
+
+
+
+
+With kind regards,
+
+
+Daniel
+
+
+
+
+On Tue, Mar 23, 2010 at 2:16 PM, Iain
+Hrynaszkiewicz
+
+<Iain.Hrynaszkiewicz at biomedcentral.com>  wrote:
+
+Dear all,
+
+
+Writing from a publisher that is keen to make data available, I'd like
+to
+point out two sets of guidance relevant to some matters arising from
+the
+pirate pad discussions on the Panton Principles.
+
+Firstly, the issue of
+protecting privacy in human subject research. This
+is a major barrier to the
+sharing of clinical information and I wonder
+if it is being glossed over in
+the FAQ (13). Some practical guidance on
+openly sharing clinical data was
+published in the BMJ earlier this year,
+for example:
+
+http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+
+Secondly, applying PP
+prior to publication. At BioMed Central, for
+example, we encourage openly
+sharing data before formal publication [in
+a peer-reviewed journal] and
+encourage editors to not preclude open
+projects from publication.
+
+http://www.biomedcentral.com/info/about/duplicatepublication
+So perhaps PP
+should be applied more uniformly, without the need to
+clarify what
+'publication' is.
+
+Best regards,
+
+Iain
+
+
+Iain Hrynaszkiewicz
+
+Managing Editor
+BioMed Central
+Floor 6, 236 Gray's Inn Road
+London, WC1X
+8HL
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011
+W:
+www.biomedcentral.com/
+
+
+
+
+-----Original Message-----
+From:
+open-science-bounces at lists.okfn.org
+
+[mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+
+open-science-request at lists.okfn.org
+Sent: 18 March 2010 12:00
+To:
+open-science at lists.okfn.org
+Subject: open-science Digest, Vol 17, Issue
+7
+
+Send open-science mailing list submissions to
+
+ open-science at lists.okfn.org
+
+To subscribe or unsubscribe via the World
+Wide Web, visit
+       http://lists.okfn.org/mailman/listinfo/open-science
+
+or, via email, send a message with subject or body 'help' to
+
+ open-science-request at lists.okfn.org
+
+You can reach the person managing the
+list at
+       open-science-owner at lists.okfn.org
+
+When replying, please
+edit your Subject line so it is more specific
+than "Re: Contents of
+open-science digest..."
+
+
+Today's Topics:
+
+  1. FAQs for the Panton
+Principles and Open Data (Peter Murray-Rust)
+
+
+
+----------------------------------------------------------------------
+
+
+Message: 1
+Date: Wed, 17 Mar 2010 16:43:47 +0000
+From: Peter Murray-Rust
+<pm286 at cam.ac.uk>
+Subject: [open-science] FAQs for the Panton Principles and
+Open Data
+To: open-science<open-science at lists.okfn.org>
+Message-ID:
+
+   <67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>
+
+Content-Type: text/plain; charset="iso-8859-1"
+
+We are talking to a variety
+of editors and publishers who are keen to
+make
+data "open available" and
+in many cases mandate it as part of the
+scientific
+process. It's clear
+that although PP are (I hope) fairly
+self-explanatory
+the implications
+(licences, buttons, "public domain", community norms,
+etc.)
+are unclear
+and need careful explanation. One way to do this is through
+FAQs
+and we
+(Rufus, Cameron, Jonathan + me) are asking for the help of the
+OpenScience
+list to provide useful communal answers. I'll post the FAQs
+-
+feel welcome
+to add to them but not TOO many - and ask you to create
+answers. There is a
+pirate pad at:
+
+http://piratepad.net/LgLRcGLw35
+
+Please use to edit,
+discuss, hack etc.
+
+We will appreciate rapid feedback as we hope to promote
+this to
+attendees at
+the AmerChemicalSoc (ACS) next week.
+
+
+
+--
+
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of
+Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+
+URL:
+
+<http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+
+f69/attachment-0001.htm>
+
+------------------------------
+
+
+_______________________________________________
+open-science mailing list
+
+open-science at lists.okfn.org
+
+http://lists.okfn.org/mailman/listinfo/open-science
+
+
+End of open-science
+Digest, Vol 17, Issue 7
+*******************************************
+
+
+_______________________________________________
+open-science mailing list
+
+open-science at lists.okfn.org
+
+http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+
+--
+
+ 
+
+http://www.google.com/profiles/daniel.mietchen
+
+_____________________________
+
+__________________
+
+open-science mailing
+
+list
+
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-s
+
+cience
+
+ 
+
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-science
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100324/2fd18785/attachment-0001.htm>
+
+From wilbanks at creativecommons.org  Wed Mar 24 15:09:04 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Wed, 24 Mar 2010 11:09:04 -0400
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA024F3644@SEGBLOGR0008.springer-sbm.com>
+References: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+	<4BAA1149.1080201@creativecommons.org>
+	<e74b7bec1003240736l4580b642u8f8030cf3fcde69d@mail.gmail.com>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA024F3644@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <4BAA2B10.5010808@creativecommons.org>
+
+Here's our short working paper on this topic. We're posting it to our 
+website later today after a few details get crossed off.
+
+On 3/24/10 10:46 AM, Iain Hrynaszkiewicz wrote:
+> Dear John, and Tom,
+>
+> I was excited to read your discussions of data standards and look
+> forward to the PLoS article (tomorrow?).
+>
+> /BMC Research Notes/ (http://www.biomedcentral.com/bmcresnotes/) is also
+> very interested in this area and is trying to encourage data-driven
+> publications, data harvesting and re-use; a corollary to which is
+> guidance and best practice for sharing in different science disciplines.
+>
+> Best wishes,
+>
+> Iain
+>
+> PS. I absolutely agree consent for sharing from human subjects, as part
+> of study recruitment, is key to overcoming privacy barriers.
+>
+> *From:* Tom Moritz [mailto:tom.moritz at gmail.com]
+> *Sent:* 24 March 2010 14:36
+> *To:* John Wilbanks
+> *Cc:* Cameron Neylon; Iain Hrynaszkiewicz; open-science at lists.okfn.org
+> *Subject:* Re: [open-science] open-science Digest, Vol 17, Issue 7
+>
+> John's comments are important and point up a fundamental issue
+> respecting making disclosed
+> data /_effective_/ / /_useful._/ Data placed on an electronic billboard
+> next to the Santa Monica Freeway
+> are openly available but are virtually useless except by a series of
+> cumbersome machinations.../_
+> _/
+> At a time when government agencies in the US are being pushed to
+> disclose data it is essential
+> that we develop guidelines and standards for making disclosed data
+> directly useful -- not just "informative"...
+>
+> The IPCC situation ("Climate-gate") has made all the more clear why the
+> precise lineages and provenance of data
+> -- the record of scientific work flow, transformations, combinations and
+> recombinations -- must be readily available for
+> review and assessment...
+>
+> Tom
+>
+> Tom Moritz
+> 1968 1/2 South Shenandoah Street,
+> Los Angeles, California 90034
+> USA
+> +1 310 963 0199 (cell)
+> tommoritz (Skype)
+> http://www.linkedin.com/in/tmoritz
+>
+> ?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+> --Heraclitus
+>
+> Please consider the environment before printing this email.
+>
+> On Wed, Mar 24, 2010 at 6:19 AM, John Wilbanks
+> <wilbanks at creativecommons.org <mailto:wilbanks at creativecommons.org>> wrote:
+>
+> I sent a version of this to Daniel privately, but he noted that perhaps
+> it might have gone to the list as well. It ties into Cameron's point
+> about avoiding this question entirely in the PP, but also into the
+> importance of understanding what "open data" actually means.
+>
+> Remember that "open" in the sense of the SC protocol, the OKF definition
+> and the panton principles is about the *intellectual property* rights
+> associated with data - copyrights, database rights - and *contractual
+> property* rights associated with data products. Open doesn't mean it's
+> free of constraints like privacy, and it also doesn't mean the data are
+> actually *useful* - curated, annotated, explained.
+>
+> Privacy rights are vastly complex and cannot be waived with public
+> licenses like intellectual property rights. there is a complex process
+> known as "informed consent" that must be achieved before privacy rights
+> can be legally waived, and that consent must be vetted through a process
+> approved by an institution's IRB (institutional review board). The IRB
+> terms govern the movement of data, under application by researchers.
+>
+> Thus, data can indeed be "open" under the PP but not made available to
+> the world, as the PP only touch on the IP aspects of data. Privacy
+> rights create a major driver for using the public domain on data
+> actually, as the prevalence of privacy rights on vast swaths of science
+> data - be clinical health data or social science research - renders
+> those data incompatible with "viral" sharing regimes on data, as many
+> viral regimes disallow the addition of content that cannot itself be
+> made viral.
+>
+> When the data is in the PD, it can flow into a clinical or social
+> science database, and then be redistributed under the terms that the IRB
+> set forward for the original data, as redistribution of data is
+> invaluable in these fields, albeit under much tighter restrictions than
+> we associate with "open" science.
+>
+> We're working on standardizing IRB agreements right now at Creative
+> Commons, based on our years of experience with the huntingtons,
+> parkinsons, alzheimers, and other rare disease communities that deal
+> with privacy issues in the clinical space. these are in many ways the
+> easy ones, because the diseases involved make informed consent easier to
+> get. informed consent for healthy control subjects is going to be the
+> harder problem. and in social science the issues may be irresolvable -
+> deidentification is so easy these days, and getting easier.
+>
+> We're also working on standards for publishing data sets in a format
+> that is actively "re-useful" and will be publishing a set of
+> recommendations tomorrow in conjunction with the PLoS Forum that encode
+> the PP as the legal part of a multivariate problem of making online data
+> actively reusable.
+>
+> I would prefer the FAQs not overstate the power of "open" from an IP
+> perspective. Data that is online but burdened with privacy, or with poor
+> curation and annotation, lacking persistent URIs, and so forth - that
+> data meets the principles, but is likely to be of little use to a
+> working scientist. We run the risk of overheated expectations if we
+> simply say "raw data now" - the reality is far more complex, and we're
+> not all Tim BL ):-)
+>
+> jtw
+>
+>
+>
+>
+> On 3/23/10 2:35 AM, Cameron Neylon wrote:
+>
+> The original idea behind the Panton Principles was that we sidestep this
+> issue. The key point being that where there are privacy issues (or other
+> issues) you simply do not choose to publish the data. The PP are not, at
+> least as far as the bullet points are concerned, to dictate when, how, or if
+> data are published.
+>
+> The PP are intended to be applied after the decision has been taken to
+> publish the data. And by "publish" we meant to be extremely general - hence
+> the addition I made the other day to the FAQ. I think it is important to be
+> clear on this point because the term "publish" often means something very
+> different to different people. And for many researchers it explicitly
+> doesn't include "make available on the web".
+>
+> Cheers
+>
+> Cameron
+>
+>
+> On 23/03/2010 13:26, "daniel.mietchen at googlemail.com
+> <mailto:daniel.mietchen at googlemail.com>"
+> <daniel.mietchen at googlemail.com <mailto:daniel.mietchen at googlemail.com>>
+> wrote:
+>
+> Dear Iain,
+>
+>
+> on the first point, what do you think of the current
+>
+> phrasing
+>
+> "Respecting the privacy of research subjects should be an
+>
+> integral
+>
+> part of the decision whether to make the data Open."?
+>
+>
+> With kind regards,
+>
+>
+> Daniel
+>
+>
+> On Tue, Mar 23, 2010 at 2:16 PM, Iain
+> Hrynaszkiewicz
+>
+> <Iain.Hrynaszkiewicz at biomedcentral.com
+> <mailto:Iain.Hrynaszkiewicz at biomedcentral.com>> wrote:
+>
+> Dear all,
+>
+>
+> Writing from a publisher that is keen to make data available, I'd like
+> to
+> point out two sets of guidance relevant to some matters arising from
+> the
+> pirate pad discussions on the Panton Principles.
+>
+> Firstly, the issue of
+> protecting privacy in human subject research. This
+> is a major barrier to the
+> sharing of clinical information and I wonder
+> if it is being glossed over in
+> the FAQ (13). Some practical guidance on
+> openly sharing clinical data was
+> published in the BMJ earlier this year,
+> for example:
+>
+> http://www.bmj.com/cgi/content/full/340/jan28_1/c181
+>
+> Secondly, applying PP
+> prior to publication. At BioMed Central, for
+> example, we encourage openly
+> sharing data before formal publication [in
+> a peer-reviewed journal] and
+> encourage editors to not preclude open
+> projects from publication.
+>
+> http://www.biomedcentral.com/info/about/duplicatepublication
+> So perhaps PP
+> should be applied more uniformly, without the need to
+> clarify what
+> 'publication' is.
+>
+> Best regards,
+>
+> Iain
+>
+>
+> Iain Hrynaszkiewicz
+>
+> Managing Editor
+> BioMed Central
+> Floor 6, 236 Gray's Inn Road
+> London, WC1X
+> 8HL
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+> W:
+> www.biomedcentral.com/ <http://www.biomedcentral.com/>
+>
+>
+>
+>
+> -----Original Message-----
+> From:
+> open-science-bounces at lists.okfn.org
+> <mailto:open-science-bounces at lists.okfn.org>
+>
+> [mailto:open-science-bounces at lists.okfn.org
+> <mailto:open-science-bounces at lists.okfn.org>] On Behalf Of
+>
+> open-science-request at lists.okfn.org
+> <mailto:open-science-request at lists.okfn.org>
+> Sent: 18 March 2010 12:00
+> To:
+> open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+> Subject: open-science Digest, Vol 17, Issue
+> 7
+>
+> Send open-science mailing list submissions to
+>
+> open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+>
+> To subscribe or unsubscribe via the World
+> Wide Web, visit
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+> or, via email, send a message with subject or body 'help' to
+>
+> open-science-request at lists.okfn.org
+> <mailto:open-science-request at lists.okfn.org>
+>
+> You can reach the person managing the
+> list at
+> open-science-owner at lists.okfn.org <mailto:open-science-owner at lists.okfn.org>
+>
+> When replying, please
+> edit your Subject line so it is more specific
+> than "Re: Contents of
+> open-science digest..."
+>
+>
+> Today's Topics:
+>
+> 1. FAQs for the Panton
+> Principles and Open Data (Peter Murray-Rust)
+>
+>
+>
+> ----------------------------------------------------------------------
+>
+>
+> Message: 1
+> Date: Wed, 17 Mar 2010 16:43:47 +0000
+> From: Peter Murray-Rust
+> <pm286 at cam.ac.uk <mailto:pm286 at cam.ac.uk>>
+> Subject: [open-science] FAQs for the Panton Principles and
+> Open Data
+> To: open-science<open-science at lists.okfn.org
+> <mailto:open-science at lists.okfn.org>>
+> Message-ID:
+>
+> <67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com
+> <mailto:67fd68331003170943h3ab178d5y64f9086c3af5c597 at mail.gmail.com>>
+>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> We are talking to a variety
+> of editors and publishers who are keen to
+> make
+> data "open available" and
+> in many cases mandate it as part of the
+> scientific
+> process. It's clear
+> that although PP are (I hope) fairly
+> self-explanatory
+> the implications
+> (licences, buttons, "public domain", community norms,
+> etc.)
+> are unclear
+> and need careful explanation. One way to do this is through
+> FAQs
+> and we
+> (Rufus, Cameron, Jonathan + me) are asking for the help of the
+> OpenScience
+> list to provide useful communal answers. I'll post the FAQs
+> -
+> feel welcome
+> to add to them but not TOO many - and ask you to create
+> answers. There is a
+> pirate pad at:
+>
+> http://piratepad.net/LgLRcGLw35
+>
+> Please use to edit,
+> discuss, hack etc.
+>
+> We will appreciate rapid feedback as we hope to promote
+> this to
+> attendees at
+> the AmerChemicalSoc (ACS) next week.
+>
+>
+>
+> --
+>
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of
+> Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+>
+> URL:
+>
+> <http://lists.okfn.org/pipermail/open-science/attachments/20100317/a4e49
+>
+> f69/attachment-0001.htm>
+>
+> ------------------------------
+>
+>
+> _______________________________________________
+> open-science mailing list
+>
+> open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> End of open-science
+> Digest, Vol 17, Issue 7
+> *******************************************
+>
+>
+> _______________________________________________
+> open-science mailing list
+>
+> open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+>
+> --
+>
+> http://www.google.com/profiles/daniel.mietchen
+>
+> _____________________________
+>
+> __________________
+>
+> open-science mailing
+>
+> list
+>
+> open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+> http://lists.okfn.org/mailman/listinfo/open-s
+>
+> cience
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org <mailto:open-science at lists.okfn.org>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: data-publication-edit.pdf
+Type: application/pdf
+Size: 163307 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100324/2175edce/attachment-0001.pdf>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Fri Mar 26 16:16:08 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Fri, 26 Mar 2010 16:16:08 -0000
+Subject: [open-science] open-science Digest, Vol 17, Issue 7
+References: <C7CE11BF.BB82%cameron.neylon@stfc.ac.uk>
+	<4BAA1149.1080201@creativecommons.org>
+	<e74b7bec1003240736l4580b642u8f8030cf3fcde69d@mail.gmail.com>
+	<0DBF2BD4A4CE9B45B8A90A65CD8338EA024F3644@SEGBLOGR0008.springer-sbm.com>
+	<4DB9DDA6-6DE9-4F61-A37B-03AC56611054@ed.ac.uk>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA025672CC@SEGBLOGR0008.springer-sbm.com>
+
+Dear Chris,
+
+Thanks for your reply. I think my comment may have been taken out of
+context.
+
+I don't mean to suggest we should be using consent as a reason to go
+ahead and share identifiable information at will. When we can perturb
+data so that its statistical value is retained but individual anonymity
+protected, I agree that this is the best approach. But this is not
+always possible or appropriate. As anonymity is so hard to achieve with
+certainty, when there is a non-negligible risk that individuals might be
+identified from published information we must obtain consent for
+publication of that data. As well as data protection legislation journal
+publishers and editors subscribe to codes of ethics that require consent
+for publication of identifiable information, and that only data that are
+scientifically relevant are shared (published). So editors should still
+make every effort to preserve anonymity (by removing details not
+relevant to the science of the article in question) *and* obtain
+consent, unless data are anonymous with certainty (very hard to
+achieve). The classic example is the medical case report but this has
+become increasingly recognised in clinical research in general. The BMJ
+now has a policy (informed by the guidelines I referred to earlier in
+this thread) whereby any article including 3 or more indirect
+identifiers (from a list of 28 potential items), such as age or sex,
+must document whether consent for publication/data sharing was obtained.
+Data tables in clinical research articles often include this level of
+detail.
+
+http://resources.bmj.com/bmj/bmj/authors/types-of-article/research
+"We also strongly support the view that researchers should seek informed
+consent to data sharing from research participants upfront, at the
+recruitment stage. There are good ethical and practical reasons for
+doing so. Even if the investigators have no current plans to share raw
+data, at some future time data sharing may become the norm. If so,
+sharing will be much easier if no one has to try to seek consent
+retrospectively.
+
+Consent is particularly important because participants may be
+identifiable in a dataset - even an "anonymised" one that does not
+contain names or addresses. The combination of three or more indirect
+identifiers such as age, sex, and an unusual clinical detail may be
+enough for at least the participant, or another interested party, to
+recognise themselves.
+
+Therefore, please provide at the end of your manuscript a data sharing
+statement such as:
+
+"Data sharing: technical appendix, statistical code, and dataset
+available from the corresponding author at <email address or url>.
+Participants gave informed consent for data sharing [or ...consent was
+not obtained but the presented data are anonymised and risk of
+identification is low... or consent was not obtained but the potential
+benefits of sharing these data outweigh the potential harms because...]"
+
+Best wishes,
+
+Iain
+
+
+Iain Hrynaszkiewicz
+Managing Editor
+BioMed Central
+Floor 6, 236 Gray's Inn Road
+London, WC1X 8HL
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011
+W: www.biomedcentral.com/
+
+
+
+
+
+-----Original Message-----
+From: Chris Rusbridge [mailto:c.rusbridge at ed.ac.uk] 
+Sent: 25 March 2010 10:03
+To: Iain Hrynaszkiewicz
+Cc: Tom Moritz; John Wilbanks; open-science at lists.okfn.org
+Subject: Re: [open-science] open-science Digest, Vol 17, Issue 7
+
+Iain, I felt rather worried about possible implications of your
+statement "consent for sharing from human subjects, as part of study
+recruitment, is key to overcoming privacy barriers". Informed consent is
+critical to doing any research at all on data from human subjects, but
+AFAIK ethics committees would rarely allow open release of identifiable
+data on those human subjects. The sole exception I am aware of would be
+quotation of qualitative/interview responses, and the appropriate course
+seems to be to go back to the subject showing the precise quote in
+context and getting a release at that point.
+
+The default position should surely be that prior informed consent is
+never sufficient for open publication of identifiable data on human
+subjects, so the data cannot be open in a BBB sense. It should be open
+in the sense of being subject to scrutiny from a qualified person who
+takes on the obligations of privacy. Properly de-identified or
+aggregated data could possibly be made open provided steps are taken to
+make it non-disclosive, even in combination with arbitrary other data,
+although most data custodians want a step involving identification and
+agreement to some kind of licence (again incompatible with BBB). I
+believe the techniques for de-identification can involve adding noise to
+some variables.
+
+--
+Chris Rusbridge
+Director, Digital Curation Centre
+Email: c.rusbridge at ed.ac.uk    Phone 0131 6513823
+University of Edinburgh
+Appleton Tower, Crichton St, Edinburgh EH8 9LE
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+On 24 Mar 2010, at 14:46, Iain Hrynaszkiewicz wrote:
+
+> Dear John, and Tom,
+>  
+> I was excited to read your discussions of data standards and look
+forward to the PLoS article (tomorrow?).
+>  
+> BMC Research Notes (http://www.biomedcentral.com/bmcresnotes/) is also
+very interested in this area and is trying to encourage data-driven
+publications, data harvesting and re-use; a corollary to which is
+guidance and best practice for sharing in different science disciplines.
+>  
+> Best wishes,
+>  
+> Iain
+>  
+> PS. I absolutely agree consent for sharing from human subjects, as
+part of study recruitment, is key to overcoming privacy barriers.
+>  
+
+
+
+From kanzure at gmail.com  Tue Mar 30 19:31:07 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Tue, 30 Mar 2010 13:31:07 -0500
+Subject: [open-science] Fwd: Metagenomics,
+	Metadata and Meta-analysis / Biosharing - SIG at ISMB 2010 [Call
+	for PAPERS and POSTERS]
+In-Reply-To: <4BB1F385.9030401@ebi.ac.uk>
+References: <4BB1F385.9030401@ebi.ac.uk>
+Message-ID: <55ad6af71003301131l70613b0fqcbda09e50604f5ad@mail.gmail.com>
+
+In particular this CFA is asking for:
+"* Projects enabling open data sharing in science"
+.. which seems like a possibly interesting target for some of the work
+carried out re: PP and data licensing?
+
+---------- Forwarded message ----------
+From: Susanna Sansone <sansone at ebi.ac.uk>
+Date: Tue, Mar 30, 2010 at 7:50 AM
+Subject: Metagenomics, Metadata and Meta-analysis / Biosharing - SIG
+at ISMB  2010 [Call for PAPERS and POSTERS]
+To: w3c semweb HCLS <public-semweb-lifesci at w3.org>
+
+
+ISMB SIG CALL FOR ABSTRACTS AND POSTERS - Deadline April 30
+
+Metagenomics, Metadata and Meta-analysis / Biosharing
+A Special Interest Group (SIG) organized by the Genomic Standards
+Consortium (http://gensc.org)
+at ISMB 2010 on July 9-10, 2010 in Boston, Massachusetts, USA
+
+URL: http://tinyurl.com/m3bio2010
+
+There are now thousands of genomes and metagenomes available for study.
+Interest in
+improved sampling of diverse environments (e.g. ocean, soil, sediment,
+and a range of
+hosts) combined with advances in the development and application of
+ultra-high
+throughput sequence methodologies are set to vastly accelerate the pace
+at which new
+metagenomes are generated. The M3/Biosharing SIG will explore the latest
+concepts, algorithms, tools, informatic pipelines, databases and
+standards that are being developed to cope with the analysis of vast
+quantities of metagenomic data. It will also seek to facilitate a
+broader dialogue among funders, journals, standards developers,
+technology developers and researchers on the critical issue of data
+sharing within the metagenomics community and beyond through the
+inaugural meeting of the BioSharing community (See http://biosharing.org
+for a list of participating communities).
+
+Through two days of invited and contributed talks, panel discussions,
+and flash talks associated with poster sessions, we aim to highlight
+scientific advances in these fields and identify core computational
+challenges facing the wider community. We invite you to submit extended
+abstracts to be considered as talks or posters for the M3/Biosharing
+SIG. The abstracts will be reviewed by the SIG program committee for
+suitability and quality. Select abstracts will be published in a special
+issue of the open access online journal Standards in Genomic Sciences
+(http://standardsingenomics.org/).
+
+Topics include, but are not limited to:
+
+M3
+* Metagenome and microbiome studies of biological interest
+* Metagenome annotation
+* Consistent contextual (meta)data acquisition and storage in metagenomics
+* Contextual (meta)data and sequence data correlation studies
+* Computational infrastructures for metagenomic data processing
+* Algorithms, data structures and database architectures
+
+BioSharing
+* Standard operating procedures, data standards. Ontologies and file formats
+* Projects enabling open data sharing in science
+* Data Sharing Policies
+
+Confirmed Plenary speakers include:
+* Nikos Kyrpides, DOE Joint Genome Institute
+* Michael Ashburner, University of Cambridge
+* James Tiedje, Michigan State University
+* Edward DeLong, Massachusetts Institute of Technology
+* Ewan Birney, European Bioinformatics Institute
+* Folker Meyer, Argonne National Laboratory
+* Eric Alm, Massachusetts Institute of Technology
+
+Co-chairs:
+* Edward DeLong, Massachusetts Institute of Technology
+* Owen White, University of Maryland
+* Dawn Field, NERC Centre for Ecology and Hydrology, UK
+* Susanna-Assunta Sansone, European Bioinformatics Institute
+
+Important dates:
+* April 30, 2010: talk and poster abstracts due
+* May 7, 2010: notification of acceptance
+* July 9-10, 2010: M3/Biosharing SIG event
+
+For more information including submission:
+http://tinyurl.com/m3bio2010
+
+
+Best regards,
+Peter Sterk on behalf of the GSC (http://gensc.org/)
+
+--
+
+
+
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From david.shotton at zoo.ox.ac.uk  Wed Mar 31 23:09:08 2010
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Wed, 31 Mar 2010 23:09:08 +0100
+Subject: [open-science] open-science Digest, Vol 17, Issue 16
+In-Reply-To: <mailman.4159.1269504820.21079.open-science@lists.okfn.org>
+References: <mailman.4159.1269504820.21079.open-science@lists.okfn.org>
+Message-ID: <4BB3C804.5010701@zoo.ox.ac.uk>
+
+1. Re: open-science Digest, Vol 17, Issue 7: On March 24, John Wilbanks 
+wrote:
+> Here's our short working paper on this topic. We're posting it to our
+> website later today after a few details get crossed off.
+>   
+Could not find this paper on your web site, John.  Please share a link.
+
+David
+-- 
+
+Dr David Shotton                                                      
+ david.shotton at zoo.ox.ac.uk <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+Reader in Image Bioinformatics
+
+Image Bioinformatics Research Group                                 
+http://ibrg.zoo.ox.ac.uk
+Department of Zoology, University of Oxford                  tel: 
++44-(0)1865-271193
+South Parks Road, Oxford OX1 3PS, UK                    fax: 
++44-(0)1865-310447
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100331/b7b03c9e/attachment.htm>
+

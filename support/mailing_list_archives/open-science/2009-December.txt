@@ -1,0 +1,178 @@
+From jonathan.gray at okfn.org  Mon Dec 21 13:43:55 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 21 Dec 2009 13:43:55 +0000
+Subject: [open-science] Looking for Climate Data group editors!
+Message-ID: <54ca21750912210543s2fa60897j8a9134018f2fcbf5@mail.gmail.com>
+
+Anyone interested in helping to maintain an up to date list of key
+climate related datasets?
+
+  http://ckan.net/group/climatedata
+
+This is a collaboration between the Open Knowledge Foundation
+(okfn.org), Clear Climate Code (clearclimatecode.org) and the
+scientists at Real Climate (realclimate.org).
+
+If you'd like to help out - please drop me a line off list!
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From fn at imm.dtu.dk  Mon Dec 21 14:20:20 2009
+From: fn at imm.dtu.dk (Finn Aarup Nielsen)
+Date: Mon, 21 Dec 2009 15:20:20 +0100 (CET)
+Subject: [open-science] Looking for Climate Data group editors!
+In-Reply-To: <54ca21750912210543s2fa60897j8a9134018f2fcbf5@mail.gmail.com>
+References: <54ca21750912210543s2fa60897j8a9134018f2fcbf5@mail.gmail.com>
+Message-ID: <Pine.LNX.4.62L.0912211509450.22981@serv1.imm.dtu.dk>
+
+
+
+
+On Mon, 21 Dec 2009, Jonathan Gray wrote:
+
+> Anyone interested in helping to maintain an up to date list of key
+> climate related datasets?
+>
+>  http://ckan.net/group/climatedata
+>
+> This is a collaboration between the Open Knowledge Foundation
+> (okfn.org), Clear Climate Code (clearclimatecode.org) and the
+> scientists at Real Climate (realclimate.org).
+
+Interesting! I have been looking for such a nice list.
+
+
+I am wondering about the now famous CRU HadCRUT3 data set.
+On this page http://ckan.net/package/uea-cru-hadcrut3 it says that the 
+data is open. However, on the 'Met office' homepage
+http://hadobs.metoffice.com/hadcrut3/terms_and_conditions.html
+it says: "The material may be downloaded to file or printer for the 
+purposes of private study and scientific research. Any other proposed use 
+of the material is subject to a copyright licence available from the Met 
+Office".
+
+http://opendefinition.org/1.0 has "The license shall not restrict any 
+party from selling or giving away the work either on its own or as part of 
+a package made from works from many different sources."
+
+I would say that the Met Office directly restricts redistribution as 
+stated in The Open Knowledge Definition.
+
+Maybe a more Open Knowledge compatible license is available from the CRU 
+web site? However, due to the security breach they now have changed the 
+web site so the CKAN links does not work.
+
+
+all the best
+Finn
+___________________________________________________________________
+
+          Finn Aarup Nielsen, DTU Informatics, Denmark
+  Lundbeck Foundation Center for Integrated Molecular Brain Imaging
+    http://www.imm.dtu.dk/~fn/      http://nru.dk/staff/fnielsen/
+___________________________________________________________________
+
+
+
+From jonathan.gray at okfn.org  Mon Dec 21 15:23:26 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 21 Dec 2009 15:23:26 +0000
+Subject: [open-science] Looking for Climate Data group editors!
+In-Reply-To: <Pine.LNX.4.62L.0912211509450.22981@serv1.imm.dtu.dk>
+References: <54ca21750912210543s2fa60897j8a9134018f2fcbf5@mail.gmail.com>
+	<Pine.LNX.4.62L.0912211509450.22981@serv1.imm.dtu.dk>
+Message-ID: <54ca21750912210723o7009024w6028874660a68ecf@mail.gmail.com>
+
+On Mon, Dec 21, 2009 at 2:20 PM, Finn Aarup Nielsen <fn at imm.dtu.dk> wrote:
+> Interesting! I have been looking for such a nice list.
+
+Great - we very much hope that it will be a useful resource. We are
+currently trying to make it more comprehensive by integrating other
+similar lists! Also this will be a useful way to start to make
+enquiries about whether datasets are open or not.
+
+If anyone is interested in helping out - please let me know!
+
+> I am wondering about the now famous CRU HadCRUT3 data set.
+> On this page http://ckan.net/package/uea-cru-hadcrut3 it says that the data
+> is open. However, on the 'Met office' homepage
+> http://hadobs.metoffice.com/hadcrut3/terms_and_conditions.html
+> it says: "The material may be downloaded to file or printer for the purposes
+> of private study and scientific research. Any other proposed use of the
+> material is subject to a copyright licence available from the Met Office".
+
+Indeed - I recall that before the UEA CRU website was taken down, it
+distributed another copy of the data, which seemed to only require
+attribution for others to reuse it. Thats what the ue-cru-hadcrut3
+page is about:
+
+  http://ckan.net/package/uea-cru-hadcrut3
+
+The Met Office copy is at:
+
+  http://ckan.net/package/uk-metoffice-hadcrut3
+
+And, as you say the Met Office data does not seem to be open.
+
+> http://opendefinition.org/1.0 has "The license shall not restrict any party
+> from selling or giving away the work either on its own or as part of a
+> package made from works from many different sources."
+>
+> I would say that the Met Office directly restricts redistribution as stated
+> in The Open Knowledge Definition.
+
+Fully agree!
+
+> Maybe a more Open Knowledge compatible license is available from the CRU web
+> site? However, due to the security breach they now have changed the web site
+> so the CKAN links does not work.
+
+Yes - you're right. I think we should leave this for now, rather than
+point to Met Office copy, as it could be that the original UEA CRU
+copy comes back, including the less restrictive license.
+
+See, e.g., the page on the Wayback machine from May 2008:
+
+  http://web.archive.org/web/20080523203513/http://www.cru.uea.ac.uk/cru/data/index.htm
+
+Which states:
+
+  The various datasets on the CRU website are provided for all to use,
+provided the sources are acknowledged. Acknowledgement should
+preferably be by citing one or more of the papers referenced on the
+appropriate page. The website can also be acknowledged if deemed
+necessary. CRU will endeavour to update the majority of the data pages
+at timely intervals although this cannot be guaranteed by specific
+dates.
+
+Best wishes,
+
+Jonathan
+
+> all the best
+> Finn
+> ___________________________________________________________________
+>
+> ? ? ? ? Finn Aarup Nielsen, DTU Informatics, Denmark
+> ?Lundbeck Foundation Center for Integrated Molecular Brain Imaging
+> ? http://www.imm.dtu.dk/~fn/ ? ? ?http://nru.dk/staff/fnielsen/
+> ___________________________________________________________________
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+

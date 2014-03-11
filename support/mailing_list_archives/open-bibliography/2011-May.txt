@@ -1,0 +1,1669 @@
+From mark at odaesa.com  Mon May  2 17:14:58 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Mon, 2 May 2011 17:14:58 +0100
+Subject: [open-bibliography] reminder: openbiblio workshop
+Message-ID: <BANLkTimHqUisb-A5hjYAFWTzPWnnhm8pog@mail.gmail.com>
+
+REMINDER
+
+The openbiblio workshop is this week, on Friday 6th May 2011, in
+London Knowledge Lab, 1000 - 1800.
+
+Sign up is via the web form at:
+
+http://openbiblio.net/openbiblio-workshop
+
+Further details of the schedule and links to the event are on the
+okfnpad that we will be using:
+
+http://okfnpad.org/openbiblio-workshop
+
+This event provides the opportunity to discuss key issues with open
+bibliopgrahic datasets:
+
+* using available data, making more data available
+* user generated collections
+* deduplicating and merging objects
+* sharing changes and updating datasets
+
+
+From adrian.pohl at okfn.org  Tue May  3 11:18:00 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 3 May 2011 12:18:00 +0200
+Subject: [open-bibliography] Virtual meeting today, 2011-05-03, 15:00 GMT
+Message-ID: <BANLkTi=V6B4OTw++G0sEV3n9G-oYzj-Qjw@mail.gmail.com>
+
+Hello,
+
+today will be the 11th meeting of the OKFN Working Group on Open
+Bibliographic Data. See the etherpad for more information about
+communication channels and agenda:
+http://okfnpad.org/11th-open-bibliography-meeting
+
+All the best
+Adrian
+
+
+From owen at ostephens.com  Tue May  3 12:02:07 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Tue, 3 May 2011 12:02:07 +0100
+Subject: [open-bibliography] Examples of open bibliographic data
+In-Reply-To: <20110429160116.DA9D3801E@bibserver.Berkeley.EDU>
+References: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+	<20110429153946.C9F44801E@bibserver.Berkeley.EDU>
+	<BANLkTinTDR0pQef1hE3Or=bWHW=HeKKDbg@mail.gmail.com>
+	<20110429160116.DA9D3801E@bibserver.Berkeley.EDU>
+Message-ID: <15574811-5B9D-4E54-8DD8-29E8B2AC2FFD@ostephens.com>
+
+Thanks to Jonathan for posting this, and Jim for the discussion.
+
+The list at http://obd.jisc.ac.uk/examples points to CKAN as the list in itself isn't meant to be exhaustive, but as a way for people exploring the use cases around which the guide is based to see real world examples of open data release.
+
+In terms of the licensing the list is just one page within the guide, and it is the guide that is licensed as CC-BY
+
+Owen
+
+PS in terms of the CrossRef data - I've not seen anything relating to the licensing of this data - if anyone has any information on this it would be welcome
+
+
+On 29 Apr 2011, at 17:01, Jim Pitman wrote:
+
+> Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> 
+>> I would hope that all of these (and more) are listed as part of the CKAN bibliographic data group:
+>> http://ckan.net/group/bibliographic
+> 
+> Me too, and this hope might be realized if the resources used to maintain the JISC list
+> were directed towards the CKAN list and the JISC list then derived from the CKAN list by script,
+> rather than JISC maintaining its own list with an unsuitable license (CC BY).
+> 
+>> This lives at the OKF, we plan to maintain it in perpetuity, it is
+>> machine readable, anyone can contribute to it, and it is openly licensed.
+> 
+> Excellent.  
+> 
+>> The JISC OBD list is nice for a quick, human-readable overview though
+> 
+> Sure, but I am concerned about the waste of resources to maintain such a list separately from CKAN.
+> Is the data on the JISC  list entirely derived from the CKAN data?
+> If so, why not properly acknowledge this to promote CKAN?
+> And if not, how to get the additional information back to CKAN?
+> It does not seem useful to be promoting two overlapping lists in this space.
+> I would rather see all such efforts directed to promoting CKAN.
+> 
+> My questions:
+> 
+>>> -- why is CC BY being used rather than CC0 for a list of public domain facts (who has published what data with what license where?)
+> 
+>>> And what about the new Xref exposure of its 46M records one by one by API?
+>>> http://www.crossref.org/CrossTech/2011/04/content_negotiation_for_crossr.html
+>>> Is it open data?
+> remain to stimulate discussion on the list.
+> cheers
+> --Jim
+> 
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+> 
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+> 
+> ph: 510-642-9970  fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110503/9b0e2795/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue May  3 12:27:28 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 3 May 2011 12:27:28 +0100
+Subject: [open-bibliography] Examples of open bibliographic data
+In-Reply-To: <15574811-5B9D-4E54-8DD8-29E8B2AC2FFD@ostephens.com>
+References: <BANLkTikRGk3kZMg2Qnoo-3cjW8rKZBCxVQ@mail.gmail.com>
+	<20110429153946.C9F44801E@bibserver.Berkeley.EDU>
+	<BANLkTinTDR0pQef1hE3Or=bWHW=HeKKDbg@mail.gmail.com>
+	<20110429160116.DA9D3801E@bibserver.Berkeley.EDU>
+	<15574811-5B9D-4E54-8DD8-29E8B2AC2FFD@ostephens.com>
+Message-ID: <BANLkTim833KmTyEtHQ_Di=tkz-Xs5r5LaA@mail.gmail.com>
+
+I went to the OBD meeting earlier this year and AFAIK the examples weren't
+present then. Their addition is useful
+
+On Tue, May 3, 2011 at 12:02 PM, Owen Stephens <owen at ostephens.com> wrote:
+
+> Thanks to Jonathan for posting this, and Jim for the discussion.
+>
+> The list at http://obd.jisc.ac.uk/examples points to CKAN as the list in
+> itself isn't meant to be exhaustive, but as a way for people exploring the
+> use cases around which the guide is based to see real world examples of open
+> data release.
+>
+>
+My understanding of ODB is that it created resource for managers to decide
+when and where Open Bibliography mattered to them. A prospectus or
+whitepaper, fixed in time. So the examples are simply examples, though
+useful.
+
+My personal interpretation was that OBD was aimed mainly at managers and
+will have whatever force JISC documents have on managers (I have no idea how
+widely this sort of thing is used). Owen - please correct.
+
+Hopefully it will bring our OB activities to the notice of those managers.
+
+But we have to continue the struggle to liberate bibliographic data.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110503/c9b4212a/attachment.htm>
+
+From mark at odaesa.com  Tue May  3 15:24:46 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 3 May 2011 15:24:46 +0100
+Subject: [open-bibliography] JSON-LD update
+Message-ID: <BANLkTimH-AP5igbPnep+RxGohSmnQX66Eg@mail.gmail.com>
+
+Update on the JSON-LD vs RDF/JSON issues.
+
+We can build a valid JSON document with JSON-LD. It seems we missed
+part of the description. However there are still some issues with the
+spec being incomplete.
+
+Do we have scope to influence additions to the spec?
+
+
+Mark
+
+
+From tfmorris at gmail.com  Tue May  3 16:22:47 2011
+From: tfmorris at gmail.com (Tom Morris)
+Date: Tue, 3 May 2011 11:22:47 -0400
+Subject: [open-bibliography] JSON-LD update
+In-Reply-To: <BANLkTimH-AP5igbPnep+RxGohSmnQX66Eg@mail.gmail.com>
+References: <BANLkTimH-AP5igbPnep+RxGohSmnQX66Eg@mail.gmail.com>
+Message-ID: <BANLkTikGw3-xc77KeSK9eNbMvyWVn7CF1A@mail.gmail.com>
+
+On Tue, May 3, 2011 at 10:24 AM, Mark MacGillivray <mark at odaesa.com> wrote:
+> Update on the JSON-LD vs RDF/JSON issues.
+>
+> We can build a valid JSON document with JSON-LD. It seems we missed
+> part of the description. However there are still some issues with the
+> spec being incomplete.
+>
+> Do we have scope to influence additions to the spec?
+
+Quoting the web site:
+
+"Collaborating
+There are several ways that you can collaborate in the development of JSON-LD:
+
+Code: github
+Mailing List: json-ld at googlegroups.com
+IRC: #json-ld on Freenode"
+
+Tom
+
+
+From kcoyle at kcoyle.net  Tue May  3 17:24:52 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 03 May 2011 09:24:52 -0700
+Subject: [open-bibliography] Fwd: OPEN ACCESS Papers from the Wessex
+	Institute of Technology
+Message-ID: <20110503092452.37596c6kdz1tqedw@kcoyle.net>
+
+
+
+----- Forwarded message from marketing at witpress.com -----
+     Date: Thu, 28 Apr 2011 10:49:35 +0100
+     From: WIT Press Marketing <marketing at witpress.com>
+  Subject: OPEN ACCESS Papers from the Wessex Institute of Technology
+       To: kcoyle at kcoyle.net
+
+*Wessex Institute of Technology papers published through 2009  
+available on Open Access basis in WIT ****Press e-library*
+------------------------------------------------------------------------
+
+WITPress has announced that, effective immediately, Wessex Institute  
+of Technology papers in their e-library published from 1993 through  
+2009 are available on an Open Access basis.
+
+The Wessex Institute of Technology is making the papers Open Access in  
+order to ensure the widest dissemination of papers presented at  
+WITConferences.
+
+The WITPress e-library consists of six sets of Transactions containing  
+papers presented at Wessex Institute of Technology conferences, as  
+follows:
+
+    * Biomedicine and Health
+    * The Built Environment
+    * Ecology and the Environment
+    * Engineering Sciences
+    * Information and Communication Technologies
+    * Modelling and Simulation
+
+A seventh set of Transactions, State of the Art in Science &  
+Engineering, contains selected chapters from WITPress books on the  
+latest developments in various fields of science and engineering.
+
+------------------------------------------------------------------------
+
+*Please follow this link to the **WIT**Press website to see more  
+information: *
+
+*http://www.witpress.com/
+
+*
+------------------------------------------------------------------------
+Simon Ibbotson
+WITPress UK
+Marketing Co-ordinator
+Tel: +44 (0)238 029 3223
+Fax: +44 (0)238 029 2853
+Email: sibbotson at witpress.com
+
+Dee Halzack
+USOffice
+Marketing Manager
+Tel: (1) 978 667 5841
+Fax: (1) 978 667 7582
+Email: dhalzack at witpress.com
+------------------------------------------------------------------------
+
+Please note: We endeavour to e-mail you only information relevant to  
+your field. However, if you are now specializing in another field and  
+wish to receive news relevant to that area, or if you no longer wish  
+to be included in this list please email: marketing at witpress.comess.com
+
+
+----- End forwarded message -----
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ww at styx.org  Sun May  8 17:01:39 2011
+From: ww at styx.org (William Waites)
+Date: Sun, 8 May 2011 18:01:39 +0200
+Subject: [open-bibliography] Translating Medline XML to RDF
+Message-ID: <20110508160139.GH31006@styx.org>
+
+Some writings on the WIP:
+
+  http://eris.okfn.org/ww/2011/05/medline
+
+This is quite exciting, looking forward to doing some measurements on
+how much of which type of information we actually have in
+there. Unfortunately I think that the best we will be able to do in
+the near term is make dumps available as this really is an enormous
+amount of data and we lack the resources to put it, e.g. in a
+triplestore.
+
+-w
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From adrian.pohl at okfn.org  Mon May  9 20:14:21 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 9 May 2011 21:14:21 +0200
+Subject: [open-bibliography] Fwd: [LOD-LAM] Archives Hub Linked Data Release
+In-Reply-To: <4F673A73-C188-4FE1-897B-63537CE19F98@ukoln.ac.uk>
+References: <4F673A73-C188-4FE1-897B-63537CE19F98@ukoln.ac.uk>
+Message-ID: <BANLkTi=aCT2BTu6aSAKwFxkEr2erVW4j1w@mail.gmail.com>
+
+Hello,
+
+the LOCAH project has published its first test dataset under a CC0
+public domain waiver. For more information about the release of this
+archival data see the mail form Adrian Stevenson below. Does anybody
+know whether there also is a full dump available?
+
+In the announcement, also the project is mentioned to publish COPAC as
+Linked Data in a month time. Hopefully, this library catalog also will
+be published under CC0.
+
+Cheers
+Adrian
+
+---------- Forwarded message ----------
+From: Adrian Stevenson <a.stevenson at ukoln.ac.uk>
+Date: 2011/5/9
+Subject: [LOD-LAM] Archives Hub Linked Data Release
+To: lod-lam at googlegroups.com
+
+
+Dear All
+
+On behalf of the UK JISC-funded LOCAH Project: Linked Open Copac and
+Archives Hub [1], I'm very pleased to announce the release of
+http://data.archiveshub.ac.uk, our first Linked Data set. The project
+is making records from the Archives Hub service [2] and Copac service
+[3] available as Linked Data. The Archives Hub is an aggregation of
+archival metadata from repositories across the UK; Copac provides
+access to the merged library catalogues of libraries throughout the
+UK, including all national libraries.
+
+More information about the release is available on our project blog at
+http://blogs.ukoln.ac.uk/locah/2011/05/09/archives-hub-linked-data-release/.
+We encourage feedback on the data, the model and any other aspect of
+data.archiveshub.ac.uk, so please leave comments or contact us
+directly.
+
+I would personally like to thank the LOCAH team for all their hard
+work on this exciting and challenging project. I?d also like to thank
+our technology partner, Talis [4] for kindly providing our Linked Data
+store.
+
+[1] http://blogs.ukoln.ac.uk/locah/about/
+[2] http://archiveshub.ac.uk/
+[3] http://copac.ac.uk/
+[4] http://www.talis.com/
+
+Cheers
+
+Adrian
+__________________________________
+Adrian Stevenson
+LOCAH Project Manager
+UKOLN
+University of Bath
+Bath
+BA2 7AY
+UK
+
+Tel: +44 (0) 161 445 4934
+a.stevenson at ukoln.ac.uk
+http://twitter.com/adrianstevenson
+http://blogs.ukoln.ac.uk/locah/
+http://twitter.com/locahproject
+http://www.ukoln.ac.uk/
+
+
+From owen at ostephens.com  Tue May 10 10:25:17 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Tue, 10 May 2011 10:25:17 +0100
+Subject: [open-bibliography] Invitation to the Discovery Conference, London,
+	26th May
+Message-ID: <F65EAED4-151F-405D-821D-A6744B928BFF@ostephens.com>
+
+This may be of interest - specifically licensing of metadata (bibliographic and other) will be part of the discussion, and also looking at ways such open metadata might be exploited.
+
+How can we better serve UK educators and researchers to excel in their work by increasing access to and visibility of relevant content?
+The work of the Resource Discovery Taskforce has entered a new phase of active implementation. This conference marks the launch of ?Discovery: a metadata ecology for UK education and research?, a programme of activity that will build critical mass through opening up data, exploring and demonstrating what open data makes possible, and actively addressing barriers to progress in this critical agenda for the future of libraries, archives and museums.
+
+The Discovery conference will address and debate challenges from researchers in both humanities and sciences
+Chaired by Professor David Baker, Deputy Chair of the JISC Board, and Nick Poole of Collections Trust
+?         Hear from Dr Stuart Lee at Oxford University and Professor Peter Murray-Rust at Cambridge University arguing the case for what researchers need to fuel their discovery, then participate in the Research Conversation on how to respond to those challenges
+?         Participate in the Teaching and Learning Conversation to share your ideas on assessing and responding to student expectations, with input from Dr Drew Whitworth at Manchester University
+?         In the afternoon, work with the Discovery team to look at opportunities for taking action around special collections and aggregation services
+?         Contribute your ideas to the Big Event session ? a new initiative to set up a focal point for exploring content from a number of different sources as a catalyst for collaboration
+?         Hear about a new strategy to make progress on licensing issues
+ 
+Venue: Wellcome Trust, Gibbs Building, 215 Euston Road, London, NW1 2BE
+Date: Thursday 26th May 2011, 10.00am-4.00pm
+ 
+Who should attend? Leaders and managers, practitioners, developers and advocates from libraries, archives, museums, associated publishers and interested organisations, who want early involvement in making digital content easy to find, share and re-use.
+ 
+Register at: http://rdtf-discovery.eventbrite.com
+ 
+For more information on the JISC and RLUK Resource Discovery Taskforce, visit: http://rdtf.mimas.ac.uk
+Owen Stephens
+Owen Stephens Consulting
+Web: http://www.ostephens.com
+Email: owen at ostephens.com
+Telephone: 0121 288 6936
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110510/8d765fa5/attachment.htm>
+
+From daniel.dietrich at okfn.org  Sat May 14 13:16:32 2011
+From: daniel.dietrich at okfn.org (Daniel Dietrich)
+Date: Sat, 14 May 2011 14:16:32 +0200
+Subject: [open-bibliography] OKCon 2011: preliminary programme + list of
+	speakers
+Message-ID: <C5E11F1A-0F16-48E6-9D32-2FDF62DFFC73@okfn.org>
+
+Dear all,
+
+I am happy to announce the preliminary Programme of the Open Knowledge Conference - OKCon 2011
+
+	http://okcon.org/2011/programme
+
+It already includes a great variety of interesting talks and sessions. Final version will be published around June, 1st.
+
+I am delighted to share with you a sneak preview list of speakers already confirmed their coming.
+
+	http://okcon.org/2011/speakers
+
+You are invited to also join the pro-OKCon workshops and a screen scraping day - kind of hackathon, see more: http://okcon.org/blog
+
+All in all we are exited and looking forward to a great Conference with all of you! 
+
+Please note: There are only 15 days left to get your early bird ticket.
+
+	http://okcon2011.eventbrite.com/
+
+
+All the best
+Daniel
+
+PS: sorry for cross-posting
+
+--
+Daniel Dietrich
+
+The Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+www.okfn.org  -  www.opendefinition.org
+
+Mail: daniel.dietrich at okfn.org
+Mobil: +49 171 780 870 3
+Twitter: @ddie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110514/451ea1e8/attachment.htm>
+
+From Anders.Soderback at sub.su.se  Mon May 16 11:20:35 2011
+From: Anders.Soderback at sub.su.se (=?utf-8?B?QW5kZXJzIFPDtmRlcmLDpGNr?=)
+Date: Mon, 16 May 2011 12:20:35 +0200
+Subject: [open-bibliography] The Swedish Library Association to promote open
+	bibliographic data
+Message-ID: <858E607BE3B1D046861AEFDBE275A4AC05223D8619@mail2>
+
+At it?s annual member meeting Thursday last week, the Swedish Library Association decided to add promotion of free, shareable, open bibliographic data to it?s Orientation of Activities for 2012-2013. This addition was suggested by Christina Persson, head of the Gothenburg city library, and was approved by the members who attended the meeting. The meeting has given the library association board mandate to formulate this new addition to the Orientation of Activities.
+
+Information in English regarding the Swedish Libriary Association and its Orientation of Activities for 2010-2011 is found at http://www.biblioteksforeningen.org/english/base.html.
+
+I will distribute more information to this list as it becomes available.
+
+Best regards
+Anders S?derb?ck
+
+
+Anders S?derb?ck
+Teamleader ? Dept. of e-resources
+
+Stockholms University Library
+Universitetsv?gen 14 D
+106 91 Stockholm
+phone: +46 (0)8 16 27 79
+cellphone: 073 460 48 74
+anders.soderback at sub.su.se<mailto:anders.soderback at sub.su.se>
+www.sub.su.se<http://www.sub.su.se/>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110516/d01c317b/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed May 18 14:15:52 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 18 May 2011 15:15:52 +0200
+Subject: [open-bibliography] The Swedish Library Association to promote
+ open bibliographic data
+In-Reply-To: <858E607BE3B1D046861AEFDBE275A4AC05223D8619@mail2>
+References: <858E607BE3B1D046861AEFDBE275A4AC05223D8619@mail2>
+Message-ID: <BANLkTikmW8ehBUwujepHxyUWJv4Du=dZrQ@mail.gmail.com>
+
+This is fantastic news Anders! Do you think Christina might be
+interested in writing a guest post on this on the Open Knowledge
+Foundation blog (blog.okfn.org) so we can help publicise this? Also it
+would be great if you could invite her to join the OKF's Working Group
+on Open Bibliographic Data!
+
+All the best,
+
+Jonathan
+
+2011/5/16 Anders S?derb?ck <Anders.Soderback at sub.su.se>:
+> At it?s annual member meeting Thursday last week, the Swedish Library
+> Association decided to add promotion of free, shareable, open bibliographic
+> data to it?s Orientation of Activities for 2012-2013. This addition was
+> suggested by Christina Persson, head of the Gothenburg city library, and was
+> approved by the members who attended the meeting. The meeting has given the
+> library association board mandate to formulate this new addition to the
+> Orientation of Activities.
+>
+>
+>
+> Information in English regarding the Swedish Libriary Association and its
+> Orientation of Activities for 2010-2011 is found at
+> http://www.biblioteksforeningen.org/english/base.html.
+>
+>
+>
+> I will distribute more information to this list as it becomes available.
+>
+>
+>
+> Best regards
+>
+> Anders S?derb?ck
+>
+>
+>
+>
+>
+> Anders S?derb?ck
+>
+> Teamleader ? Dept. of e-resources
+>
+>
+>
+> Stockholms University Library
+>
+> Universitetsv?gen 14 D
+>
+> 106 91 Stockholm
+>
+> phone: +46 (0)8 16 27 79
+>
+> cellphone: 073 460 48 74
+>
+> anders.soderback at sub.su.se
+>
+> www.sub.su.se
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pohl at hbz-nrw.de  Fri May 20 12:25:57 2011
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Fri, 20 May 2011 13:25:57 +0200
+Subject: [open-bibliography] SWIB11 Call for Participation (Semantic Web in
+ Libraries, 28.-30.11. in Hamburg
+Message-ID: <4DD66BE5020000140003F752@agrippa.hbz-nrw.de>
+
+After the success of the "Semantic Web in Libraries" (SWIB) events in 2009 and 2010, the SWIB11 will take place in Hamburg from 28 to 30 November 2011. The conference will again be organised by the NorthRhine-Westphalian Library Service Centre (hbz), Cologne, and the German National Library of Economics - Leibniz Information Centre forEconomics (ZBW), Kiel and Hamburg.
+ 
+A rising number of actors in librarianship and its related fields areexperimenting with Semantic Web technologies and Linked Open Data (LOD). The LOD cloud as a whole grew by 300% in 2010, whereas the amount of data relevant for libraries grew by nearly 1000%. The W3C has created a "Linked Library Data" group to observe this development, whose first report is due to be published in August. The "Semantic Web Special Interest Group" established by IFLA shows that this topic has shown up on their radar as well. At the same time, the principles and workflows of traditional scientific communication and publication are under scrutiny with a view to a consistently web-based data and service infrastructure comprising the entire research and publication process. Concepts like "nano-publications", "Semantic Publishing", "Open Data", "Enhanced Publications" or "Research Objects" mark the re-orientation of academic work, away from monolithic, comparatively unflexible and barely interlinked reference points towards a distributed, comparatively granular data infrastructure which is continuously accessible to researchers and into which their contributions recognizably return.
+ 
+These are the questions and topics which we would like to discuss with you at the conference:
+ 
+* How do I find my way around the LOD cloud and how do I achieve maximum visibility for my assets?
+* How do we produce useful links to and between newly published datasets?
+* Where do we find best practice examples for LOD-based applications which show the added value created by linking assets, in particulardomain-overlapping assets?
+* What are the trends in scholarly communication? What are the consequences of the transformation of traditional research and publication processes for libraries and what are the opportunities Linked Open Data can offer here?
+* Library Authority Files and their potential as LOD for library applications or research information systems
+* What could or should a future Linked Open Data infrastructure look like? Are there trends to adapt library applications or research environments to the Semantic Web and to support their users in RDF
+  publishing?
+* Open licences as a prerequisite for LOD-based infrastructures
+* What kind of support is to be expected from W3C, international and national bodies for future development?
+ 
+These are our topics for SWIB11. Do you have an interesting project or research topic that should be presented at the conference? We would like to receive suggestions and proposals for contributions (with a brief abstract, no more than one page) until 20 June 2011. The conference will be held in German, but contributions in English are welcome. Please send them electronically to:
+ 
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
+ 
+or
+ 
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
+ 
+Website: http://swib.org/swib11
+Twitter: #swib11
+ 
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110520/e435ea04/attachment.htm>
+
+From alexander.dutton at oucs.ox.ac.uk  Mon May 23 15:52:30 2011
+From: alexander.dutton at oucs.ox.ac.uk (Alexander Dutton)
+Date: Mon, 23 May 2011 15:52:30 +0100
+Subject: [open-bibliography] Misciting identifiers (openbiblio workshop
+	follow-up)
+Message-ID: <4DDA74AE.2040107@oucs.ox.ac.uk>
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi all,
+
+At the openbiblio workshop it was suggested that I try to quantify
+what proportion of citations were incorrect in some way. To start
+doing this, I've been visualising the networks produced when one
+groups references to papers by common identifiers. It seems that DOIs
+are vastly more often wrong than any other type of identifier.
+
+
+Were the world perfect, each group would contain at most one of each
+type of identifier, and each reference would be a close match for each
+other reference in that group. Where a reference miscites an
+identifier it will generally stick out from the network it becomes
+part of.
+
+So, I'd like to present a lot of pretty graphs:
+<http://alexdutton.co.uk/reclusterings/>. Here, coloured nodes are
+references to papers (either citations, NLM XML headers from the OA
+subset, or the result of querying the pubmed API for a header for a
+particular PMID). The different colours represent groups of references
+clustered by similarity. The white nodes are identifiers, with the
+shape representing the scheme (DOI, PMID, PMC, URI, etc). The edges
+mean "this paper is associated with this identifier".
+
+Having done this it seems that there are a few different types of
+miscitation, so I've picked out some exemplars:
+
+
+<http://alexdutton.co.uk/reclusterings/00000119.png>
+
+The lone green thing is a citation that likely has an incorrect DOI.
+
+
+<http://alexdutton.co.uk/reclusterings/00000103.png>
+
+This is probably a failure of my clustering, though I can't be sure
+without checking.
+
+
+<http://alexdutton.co.uk/reclusterings/00000514.png>
+
+This looks to be a bug in the data returned by the pubmed API. There are
+a number of PMIDs that elicit a DOI of '10.1093/aje/'. e.g.
+<http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&rettype=xml&id=15583373>.
+
+
+<http://alexdutton.co.uk/reclusterings/00000142.png>
+
+Awkward in that it's impossible to work out which citation of that DOI
+in the middle is correct.
+
+
+<http://alexdutton.co.uk/reclusterings/00000534.png>
+
+This one looks rather clear cut.
+
+
+<http://alexdutton.co.uk/reclusterings/00000546.png>
+
+This one looks odd as the green cluster are so separated. The fault here
+seems to be with the paper with PMID ID 20948869, where reference 26
+(the far left green one) and reference 27 (the rightmost red one) have
+their PMIDs swapped.
+
+
+<http://alexdutton.co.uk/reclusterings/00000303.png>
+
+Also fairly clear cut.
+
+
+<http://alexdutton.co.uk/reclusterings/00000256.png>
+
+There are lots of these, and looking at the data behind them, the stuff
+that comes back from the API looks nothing like the data on the reference.
+
+
+- -- 
+Alexander Dutton
+OpenCitations developer
+Department of Zoology, University of Oxford, ? 01865 (6)13483
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+Comment: Using GnuPG with Fedora - http://enigmail.mozdev.org/
+
+iEYEARECAAYFAk3adK4ACgkQS0pRIabRbjA3+wCcD48zt1CsiEX8eAFStlNPvMdM
+hqIAniY5FCrEHqeU/0ytRpNcIAfAIT33
+=qZ0r
+-----END PGP SIGNATURE-----
+
+
+
+From adrian.pohl at okfn.org  Wed May 25 09:19:40 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 25 May 2011 10:19:40 +0200
+Subject: [open-bibliography] Openbiblio at OCLC
+Message-ID: <BANLkTik+BZdzR4LhYZ5QWjmE1Zt5NOZqDA@mail.gmail.com>
+
+Hello,
+
+here is a very interesting post by John Mark Ockerbloom pointing out
+that OCLC is now considering open data licensing (ODC-BY):
+
+http://everybodyslibraries.com/2011/05/24/open-datas-role-in-transforming-our-bibliographic-framework/
+
+This topic that was addressed by OKFN already in 2007[1] now finally
+gets broader attention. There's much of OKFN material used in OCLC's
+slide set on Linked Open Data![2]
+
+Adrian
+
+[1] http://wiki.okfn.org/FutureOfBibliographicControl
+
+[2] http://www.oclc.org/multimedia/2011/files/globalcouncil/Buzash_Calhoun_Dunsire_Linked_Data.pdf
+
+
+From kcoyle at kcoyle.net  Wed May 25 15:24:00 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 25 May 2011 07:24:00 -0700
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <BANLkTik+BZdzR4LhYZ5QWjmE1Zt5NOZqDA@mail.gmail.com>
+References: <BANLkTik+BZdzR4LhYZ5QWjmE1Zt5NOZqDA@mail.gmail.com>
+Message-ID: <20110525072400.18261rqggvr6ju2o@kcoyle.net>
+
+There is some "yeah, but..." to this story. When Karen Calhoun said at  
+the recent members council meeting that OCLC is considering the ODC-BY  
+license, she also said that they still consider the OCLC record use  
+policy to be in force. It appears that they consider these two -- the  
+license and the policy -- to be able to co-exist. The policy states  
+that any "down stream" users must abide by the policy, which has  
+stricter requirements than ODC-BY. I found the announcement by Calhoun  
+to be puzzling. In addition, she said this on a panel about linked  
+data. Since linked data refers to metadata statements, not records or  
+files, again it isn't clear how any license based on records and files  
+can be pertinent.
+
+Not to mention the fact that Karen Calhoun has quite suddenly  
+announced her retirement at the end of this month.
+
+It's all mysterious.
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello,
+>
+> here is a very interesting post by John Mark Ockerbloom pointing out
+> that OCLC is now considering open data licensing (ODC-BY):
+>
+> http://everybodyslibraries.com/2011/05/24/open-datas-role-in-transforming-our-bibliographic-framework/
+>
+> This topic that was addressed by OKFN already in 2007[1] now finally
+> gets broader attention. There's much of OKFN material used in OCLC's
+> slide set on Linked Open Data![2]
+>
+> Adrian
+>
+> [1] http://wiki.okfn.org/FutureOfBibliographicControl
+>
+> [2]  
+> http://www.oclc.org/multimedia/2011/files/globalcouncil/Buzash_Calhoun_Dunsire_Linked_Data.pdf
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From tennantr at oclc.org  Wed May 25 16:17:21 2011
+From: tennantr at oclc.org (Roy Tennant)
+Date: Wed, 25 May 2011 08:17:21 -0700
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <20110525072400.18261rqggvr6ju2o@kcoyle.net>
+Message-ID: <CA026B91.45C0F%tennantr@oclc.org>
+
+On 5/25/11 5/25/11 ? 7:24 AM, "Karen Coyle" <kcoyle at kcoyle.net> wrote:
+
+> Not to mention the fact that Karen Calhoun has quite suddenly
+> announced her retirement at the end of this month.
+>
+> It's all mysterious.
+
+I can't let this personal jab go by without comment. I consider Karen
+Calhoun a friend as well as a respected colleague. The comment above seems
+aimed to cast aspersions where none should be cast. Any announcement of
+someone leaving their current employer is "quite sudden" by its very nature.
+
+In reality, Karen has been sliding toward this for quite some time. Her
+family (she has grandkids) live in the Pittsburgh area and she has been
+increasingly spending time there. A natural progression toward full
+retirement offered itself, where she could work part-time at the University
+of Pittsburgh, consult with OCLC as we work to fill the rather large void
+she will leave here, and spend more time with her family. I will not stand
+idly by while insinuations are made that are completely without merit.
+Roy 
+
+
+
+
+From mjr at phonecoop.coop  Wed May 25 20:48:59 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed, 25 May 2011 20:48:59 +0100 (BST)
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <20110525072400.18261rqggvr6ju2o@kcoyle.net>
+Message-ID: <20110525194859.CC31B9EC0B@nail.towers.org.uk>
+
+Karen Coyle wrote:
+> There is some "yeah, but..." to this story. When Karen Calhoun said at  
+> the recent members council meeting that OCLC is considering the ODC-BY  
+> license, she also said that they still consider the OCLC record use  
+> policy to be in force. It appears that they consider these two -- the  
+> license and the policy -- to be able to co-exist. The policy states  
+> that any "down stream" users must abide by the policy, which has  
+> stricter requirements than ODC-BY. [...]
+
+Damn it!  I was getting all optimistic for a few hours there!
+
+So it won't be simply ODC-BY (which I forget what that is) but
+ODC-BY+OCLC-usage-policy... which isn't really ODC-BY then.
+
+I simply don't understand why a cooperative wants that record use
+policy.  "Co-operatives are based on the values of self-help,
+self-responsibility, democracy, equality, equity and solidarity. In
+the tradition of their founders, co-operative members believe in the
+ethical values of honesty, openness, social responsibility and caring
+for others." (from www.ica.coop)  OK, it might have been adopted
+democratically, while solidarity and social responsibility are probably
+arguable, but several of the others seem less so.
+
+Of course, I didn't find the ICA values on oclc.org just now!
+The OCLC values and principles that you can download from
+http://www.oclc.org/us/en/about/cooperation/governance/default.htm 
+are very different.  If they lose the argument in court over whether
+they are a co-op, I think those unusual values and principles may be
+part of the reason.
+
+Down again...
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+http://koha-community.org supporter, web and LMS developer, statistician.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for Koha work http://www.software.coop/products/koha
+
+
+From kcoyle at kcoyle.net  Wed May 25 21:56:53 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 25 May 2011 13:56:53 -0700
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <20110525194859.CC31B9EC0B@nail.towers.org.uk>
+References: <20110525194859.CC31B9EC0B@nail.towers.org.uk>
+Message-ID: <20110525135653.118917errt11wpat@kcoyle.net>
+
+Quoting MJ Ray <mjr at phonecoop.coop>:
+
+
+> Damn it!  I was getting all optimistic for a few hours there!
+>
+> So it won't be simply ODC-BY (which I forget what that is) but
+> ODC-BY+OCLC-usage-policy... which isn't really ODC-BY then.
+
+That's what I heard Calhoun say. The slide states:
+
+Our preliminary thoughts on Open Data Licensing
+?We are considering recommending ODC-BY
+?Distinguishes between the database and its contents (or portions of contents)
+?[Member DATABASE NAME] would be the name of the member?s or group?s  
+catalog, and the member or group = the licensor
+?License notice wording in accordance with instructions in ODC licenses
+?Still under investigation?your input invited and welcome
+
+I'm not totally discouraged -- there are folks at OCLC who understand  
+LOD and there are some interesting LD efforts there (http://dewey.info  
+and http://viaf.org). I really think that the LOD "tsunami" will have  
+an effect on OCLC, and we'll see movement in that direction. To my  
+mind the best approach is to continue to develop LOD and to continue  
+to raise awareness.
+
+I had a call this morning with a group of open data advocates in  
+Italy, and they report the same issues that many are finding, which is  
+that the actual legal status of library data is unknown. Continuing  
+that conversation in all available venues is going to be a key  
+"consciousness raising" act; the more we understand that issue widely  
+in our community the more we will find an expectation of openness.  
+That expectation is our strongest weapon.
+
+We also need to educate people about LD -- that linked data  is not a  
+database dump but is an interaction between data created by different  
+people possibly in different communities. I think this will ease some  
+of the fears that people have. I try to explain that letting people  
+link to you does not change your data anymore than letting people link  
+to your web site changes the site. It's possible that we can reconcile  
+business models and linking when this is better understood.
+
+kc
+
+
+
+>
+> I simply don't understand why a cooperative wants that record use
+> policy.  "Co-operatives are based on the values of self-help,
+> self-responsibility, democracy, equality, equity and solidarity. In
+> the tradition of their founders, co-operative members believe in the
+> ethical values of honesty, openness, social responsibility and caring
+> for others." (from www.ica.coop)  OK, it might have been adopted
+> democratically, while solidarity and social responsibility are probably
+> arguable, but several of the others seem less so.
+>
+> Of course, I didn't find the ICA values on oclc.org just now!
+> The OCLC values and principles that you can download from
+> http://www.oclc.org/us/en/about/cooperation/governance/default.htm
+> are very different.  If they lose the argument in court over whether
+> they are a co-op, I think those unusual values and principles may be
+> part of the reason.
+>
+> Down again...
+> --
+> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+> http://koha-community.org supporter, web and LMS developer, statistician.
+> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+> Available for hire for Koha work http://www.software.coop/products/koha
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From adrian.pohl at okfn.org  Thu May 26 10:43:08 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 26 May 2011 11:43:08 +0200
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <20110525135653.118917errt11wpat@kcoyle.net>
+References: <20110525194859.CC31B9EC0B@nail.towers.org.uk>
+	<20110525135653.118917errt11wpat@kcoyle.net>
+Message-ID: <BANLkTinbgbUbts+g-=FajOC6rLAtTdC3Aw@mail.gmail.com>
+
+Hello,
+
+I don't see it necessarily as a problem that the "policy" should
+co-exist with an open data recommendation. The policy isn't legally
+binding anyway but a "social contract".
+
+Obviously, it would be contradictory to recommend open data and forbid
+single libraries to publish their data under an open license as OCLC
+tried to do through the policy. Actually, the answers OCLC gave to my
+questions on open data in the community forum in 2010[1] should then
+be invalid and superseded by a recommendation for open data (in the
+case this recommendation is really made by OCLC.)
+
+
+2011/5/25 Karen Coyle <kcoyle at kcoyle.net>:
+> Quoting MJ Ray <mjr at phonecoop.coop>:
+>
+>
+>> Damn it! ?I was getting all optimistic for a few hours there!
+>>
+>> So it won't be simply ODC-BY (which I forget what that is) but
+>> ODC-BY+OCLC-usage-policy... which isn't really ODC-BY then.
+>
+> That's what I heard Calhoun say. The slide states:
+>
+> Our preliminary thoughts on Open Data Licensing
+> ?We are considering recommending ODC-BY
+> ?Distinguishes between the database and its contents (or portions of
+> contents)
+> ?[Member DATABASE NAME] would be the name of the member?s or group?s
+> catalog, and the member or group = the licensor
+> ?License notice wording in accordance with instructions in ODC licenses
+> ?Still under investigation?your input invited and welcome
+
+I read this like OCLC may choose a similar approach that the hbz and
+another German library service center (BSZ) have chosen to open up a
+union catalog: OCLC basically would recommend open licensing for parts
+of WorldCat. If a member library or group wants to follow the
+recommendation, OCLC publishes the data with holdings from the member
+or member group as Open Data under an ODC-BY license. This is my take
+on interpreting these slides. Roy, it would be good if you could bring
+some more clarity into this...
+
+Cheers
+Adrian
+
+[1] http://www.oclc.org/worldcat/recorduse/policy/forum/forum.pdf
+
+> I'm not totally discouraged -- there are folks at OCLC who understand LOD
+> and there are some interesting LD efforts there (http://dewey.info and
+> http://viaf.org). I really think that the LOD "tsunami" will have an effect
+> on OCLC, and we'll see movement in that direction. To my mind the best
+> approach is to continue to develop LOD and to continue to raise awareness.
+>
+> I had a call this morning with a group of open data advocates in Italy, and
+> they report the same issues that many are finding, which is that the actual
+> legal status of library data is unknown. Continuing that conversation in all
+> available venues is going to be a key "consciousness raising" act; the more
+> we understand that issue widely in our community the more we will find an
+> expectation of openness. That expectation is our strongest weapon.
+>
+> We also need to educate people about LD -- that linked data ?is not a
+> database dump but is an interaction between data created by different people
+> possibly in different communities. I think this will ease some of the fears
+> that people have. I try to explain that letting people link to you does not
+> change your data anymore than letting people link to your web site changes
+> the site. It's possible that we can reconcile business models and linking
+> when this is better understood.
+>
+> kc
+>
+>
+>
+>>
+>> I simply don't understand why a cooperative wants that record use
+>> policy. ?"Co-operatives are based on the values of self-help,
+>> self-responsibility, democracy, equality, equity and solidarity. In
+>> the tradition of their founders, co-operative members believe in the
+>> ethical values of honesty, openness, social responsibility and caring
+>> for others." (from www.ica.coop) ?OK, it might have been adopted
+>> democratically, while solidarity and social responsibility are probably
+>> arguable, but several of the others seem less so.
+>>
+>> Of course, I didn't find the ICA values on oclc.org just now!
+>> The OCLC values and principles that you can download from
+>> http://www.oclc.org/us/en/about/cooperation/governance/default.htm
+>> are very different. ?If they lose the argument in court over whether
+>> they are a co-op, I think those unusual values and principles may be
+>> part of the reason.
+>>
+>> Down again...
+>> --
+>> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+>> http://koha-community.org supporter, web and LMS developer, statistician.
+>> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+>> Available for hire for Koha work http://www.software.coop/products/koha
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From jenny.shaw at fideltaconsulting.co.uk  Thu May 26 13:27:27 2011
+From: jenny.shaw at fideltaconsulting.co.uk (Jenny Shaw)
+Date: Thu, 26 May 2011 13:27:27 +0100
+Subject: [open-bibliography] (no subject)
+In-Reply-To: <BANLkTinbgbUbts+g-=FajOC6rLAtTdC3Aw@mail.gmail.com>
+References: <20110525194859.CC31B9EC0B@nail.towers.org.uk>	<20110525135653.118917errt11wpat@kcoyle.net>
+	<BANLkTinbgbUbts+g-=FajOC6rLAtTdC3Aw@mail.gmail.com>
+Message-ID: <00e001cc1ba0$47c4f830$d74ee890$@shaw@fideltaconsulting.co.uk>
+
+Hi all,
+
+You may already know this, but JISC in the UK have just published an Open Bibliographic Data Guide: http://obd.jisc.ac.uk/
+
+Enjoy!
+
+Back to lurking....
+
+Jenny
+
+
+
+From Anders.Soderback at sub.su.se  Thu May 26 13:35:11 2011
+From: Anders.Soderback at sub.su.se (=?iso-8859-1?Q?Anders_S=F6derb=E4ck?=)
+Date: Thu, 26 May 2011 14:35:11 +0200
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <BANLkTinbgbUbts+g-=FajOC6rLAtTdC3Aw@mail.gmail.com>
+Message-ID: <CA0413C7.43E4%anders.soderback@sub.su.se>
+
+I agree with Adrian. An actual open license issued by OCLC would, I think,
+supercede the policy. One of my main critiques of the policy is that I
+find it vague. An actual license should make things clearer. However, all
+my dealings with OCLC have ended with a "yeah, but.." or, as the FAQ
+attached to the police answers every question: "Yes. Please note,
+however..." I would actually prefer a straight no.
+
+As regards to Karens notes about LD, I haven't met any fear of it. Rather
+reactions like "Interesting, but how can it actually solve my problem? I
+have a vendor that is willing to do this for me right now, if I only sign
+this contract, and I need the issue solved, not wait for something that
+_might_ solve my problems in a few years!"
+
+/ Anders
+
+
+
+Den 2011-05-26 11.43 skrev Adrian Pohl <adrian.pohl at okfn.org>:
+
+>Hello,
+>
+>I don't see it necessarily as a problem that the "policy" should
+>co-exist with an open data recommendation. The policy isn't legally
+>binding anyway but a "social contract".
+>
+>Obviously, it would be contradictory to recommend open data and forbid
+>single libraries to publish their data under an open license as OCLC
+>tried to do through the policy. Actually, the answers OCLC gave to my
+>questions on open data in the community forum in 2010[1] should then
+>be invalid and superseded by a recommendation for open data (in the
+>case this recommendation is really made by OCLC.)
+>
+>
+>2011/5/25 Karen Coyle <kcoyle at kcoyle.net>:
+>> Quoting MJ Ray <mjr at phonecoop.coop>:
+>>
+>>
+>>> Damn it!  I was getting all optimistic for a few hours there!
+>>>
+>>> So it won't be simply ODC-BY (which I forget what that is) but
+>>> ODC-BY+OCLC-usage-policy... which isn't really ODC-BY then.
+>>
+>> That's what I heard Calhoun say. The slide states:
+>>
+>> Our preliminary thoughts on Open Data Licensing
+>> ?We are considering recommending ODC-BY
+>> ?Distinguishes between the database and its contents (or portions of
+>> contents)
+>> ?[Member DATABASE NAME] would be the name of the member?s or group?s
+>> catalog, and the member or group = the licensor
+>> ?License notice wording in accordance with instructions in ODC licenses
+>> ?Still under investigation?your input invited and welcome
+>
+>I read this like OCLC may choose a similar approach that the hbz and
+>another German library service center (BSZ) have chosen to open up a
+>union catalog: OCLC basically would recommend open licensing for parts
+>of WorldCat. If a member library or group wants to follow the
+>recommendation, OCLC publishes the data with holdings from the member
+>or member group as Open Data under an ODC-BY license. This is my take
+>on interpreting these slides. Roy, it would be good if you could bring
+>some more clarity into this...
+>
+>Cheers
+>Adrian
+>
+>[1] http://www.oclc.org/worldcat/recorduse/policy/forum/forum.pdf
+>
+>> I'm not totally discouraged -- there are folks at OCLC who understand
+>>LOD
+>> and there are some interesting LD efforts there (http://dewey.info and
+>> http://viaf.org). I really think that the LOD "tsunami" will have an
+>>effect
+>> on OCLC, and we'll see movement in that direction. To my mind the best
+>> approach is to continue to develop LOD and to continue to raise
+>>awareness.
+>>
+>> I had a call this morning with a group of open data advocates in Italy,
+>>and
+>> they report the same issues that many are finding, which is that the
+>>actual
+>> legal status of library data is unknown. Continuing that conversation
+>>in all
+>> available venues is going to be a key "consciousness raising" act; the
+>>more
+>> we understand that issue widely in our community the more we will find
+>>an
+>> expectation of openness. That expectation is our strongest weapon.
+>>
+>> We also need to educate people about LD -- that linked data  is not a
+>> database dump but is an interaction between data created by different
+>>people
+>> possibly in different communities. I think this will ease some of the
+>>fears
+>> that people have. I try to explain that letting people link to you does
+>>not
+>> change your data anymore than letting people link to your web site
+>>changes
+>> the site. It's possible that we can reconcile business models and
+>>linking
+>> when this is better understood.
+>>
+>> kc
+>>
+>>
+>>
+>>>
+>>> I simply don't understand why a cooperative wants that record use
+>>> policy.  "Co-operatives are based on the values of self-help,
+>>> self-responsibility, democracy, equality, equity and solidarity. In
+>>> the tradition of their founders, co-operative members believe in the
+>>> ethical values of honesty, openness, social responsibility and caring
+>>> for others." (from www.ica.coop)  OK, it might have been adopted
+>>> democratically, while solidarity and social responsibility are probably
+>>> arguable, but several of the others seem less so.
+>>>
+>>> Of course, I didn't find the ICA values on oclc.org just now!
+>>> The OCLC values and principles that you can download from
+>>> http://www.oclc.org/us/en/about/cooperation/governance/default.htm
+>>> are very different.  If they lose the argument in court over whether
+>>> they are a co-op, I think those unusual values and principles may be
+>>> part of the reason.
+>>>
+>>> Down again...
+>>> --
+>>> MJ Ray (slef), member of www.software.coop, a for-more-than-profit
+>>>co-op.
+>>> http://koha-community.org supporter, web and LMS developer,
+>>>statistician.
+>>> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+>>> Available for hire for Koha work http://www.software.coop/products/koha
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>>
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> ph: 1-510-540-7596
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>_______________________________________________
+>open-bibliography mailing list
+>open-bibliography at lists.okfn.org
+>http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+From kcoyle at kcoyle.net  Thu May 26 14:38:14 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 26 May 2011 06:38:14 -0700
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <BANLkTinbgbUbts+g-=FajOC6rLAtTdC3Aw@mail.gmail.com>
+References: <20110525194859.CC31B9EC0B@nail.towers.org.uk>
+	<20110525135653.118917errt11wpat@kcoyle.net>
+	<BANLkTinbgbUbts+g-=FajOC6rLAtTdC3Aw@mail.gmail.com>
+Message-ID: <20110526063814.18155wx60346rb9i@kcoyle.net>
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+>> Our preliminary thoughts on Open Data Licensing
+>> ?We are considering recommending ODC-BY
+>> ?Distinguishes between the database and its contents (or portions of
+>> contents)
+>> ?[Member DATABASE NAME] would be the name of the member?s or group?s
+>> catalog, and the member or group = the licensor
+>> ?License notice wording in accordance with instructions in ODC licenses
+>> ?Still under investigation?your input invited and welcome
+>
+> I read this like OCLC may choose a similar approach that the hbz and
+> another German library service center (BSZ) have chosen to open up a
+> union catalog: OCLC basically would recommend open licensing for parts
+> of WorldCat.
+
+As far as I can tell, this only refers to OCLC members releasing data  
+from their own library catalogs. That's also what the record use  
+policy covers: members sharing their catalog data with others. OCLC  
+does contract for use of WorldCat data, as it has with Google for  
+GoogleBooks. That's unrelated to the policy.
+
+kc
+
+
+
+> If a member library or group wants to follow the
+> recommendation, OCLC publishes the data with holdings from the member
+> or member group as Open Data under an ODC-BY license. This is my take
+> on interpreting these slides. Roy, it would be good if you could bring
+> some more clarity into this...
+>
+> Cheers
+> Adrian
+>
+> [1] http://www.oclc.org/worldcat/recorduse/policy/forum/forum.pdf
+>
+>> I'm not totally discouraged -- there are folks at OCLC who understand LOD
+>> and there are some interesting LD efforts there (http://dewey.info and
+>> http://viaf.org). I really think that the LOD "tsunami" will have an effect
+>> on OCLC, and we'll see movement in that direction. To my mind the best
+>> approach is to continue to develop LOD and to continue to raise awareness.
+>>
+>> I had a call this morning with a group of open data advocates in Italy, and
+>> they report the same issues that many are finding, which is that the actual
+>> legal status of library data is unknown. Continuing that conversation in all
+>> available venues is going to be a key "consciousness raising" act; the more
+>> we understand that issue widely in our community the more we will find an
+>> expectation of openness. That expectation is our strongest weapon.
+>>
+>> We also need to educate people about LD -- that linked data ?is not a
+>> database dump but is an interaction between data created by different people
+>> possibly in different communities. I think this will ease some of the fears
+>> that people have. I try to explain that letting people link to you does not
+>> change your data anymore than letting people link to your web site changes
+>> the site. It's possible that we can reconcile business models and linking
+>> when this is better understood.
+>>
+>> kc
+>>
+>>
+>>
+>>>
+>>> I simply don't understand why a cooperative wants that record use
+>>> policy. ?"Co-operatives are based on the values of self-help,
+>>> self-responsibility, democracy, equality, equity and solidarity. In
+>>> the tradition of their founders, co-operative members believe in the
+>>> ethical values of honesty, openness, social responsibility and caring
+>>> for others." (from www.ica.coop) ?OK, it might have been adopted
+>>> democratically, while solidarity and social responsibility are probably
+>>> arguable, but several of the others seem less so.
+>>>
+>>> Of course, I didn't find the ICA values on oclc.org just now!
+>>> The OCLC values and principles that you can download from
+>>> http://www.oclc.org/us/en/about/cooperation/governance/default.htm
+>>> are very different. ?If they lose the argument in court over whether
+>>> they are a co-op, I think those unusual values and principles may be
+>>> part of the reason.
+>>>
+>>> Down again...
+>>> --
+>>> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+>>> http://koha-community.org supporter, web and LMS developer, statistician.
+>>> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+>>> Available for hire for Koha work http://www.software.coop/products/koha
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>>
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> ph: 1-510-540-7596
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From jonathan.gray at okfn.org  Fri May 27 00:02:27 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 27 May 2011 01:02:27 +0200
+Subject: [open-bibliography] Discovery Open Metadata Principles
+Message-ID: <BANLkTima_TMhj4qpbbMHd8-TLCRkEKywsg@mail.gmail.com>
+
+This is great to see! :-)
+
+http://discovery.ac.uk/businesscase/principles/
+
+Owen: might you consider writing a short piece about it for the OKF blog?
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From emc59 at cam.ac.uk  Fri May 27 12:25:25 2011
+From: emc59 at cam.ac.uk (Edmund Chamberlain)
+Date: Fri, 27 May 2011 12:25:25 +0100
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <mailman.5.1306407603.23118.open-bibliography@lists.okfn.org>
+References: <mailman.5.1306407603.23118.open-bibliography@lists.okfn.org>
+Message-ID: <4DDF8A25.1000904@cam.ac.uk>
+
+We had an interesting discussion with Karen this week regarding this as 
+part of our work with the on the COMET project. It appears that OCLC are 
+indeed considering ODC-By as the recommended license for libraries 
+wishing to share data derived from Worldcat.
+
+My personal understanding was that this licensing was seen as being 
+compatible (in terms of a legal substitute rather than an addition) with 
+the rights and responsibilities of members whereas PDDL was not. 
+Hopefully someone from OCLC can give us some clarification and greater 
+specifics on this.
+
+Karen mentioned her upcoming retirement, indicated that was there was a 
+clear handover path in place for her work on Open Data and that they 
+have been consulting with acknowledged legal experts in Open Data 
+licensing. They next hope to gain feedback from the library community 
+and beyond on this issue, especially with regards to how attribution 
+would work in practice.
+
+I'd be personally interested in the Open Data community's feelings on 
+attribution licensing for data in general. Thoughts and ideas are good, 
+but practical examples of where it has inconvenienced, disrupted or 
+conversely assisted efforts would be very welcome.
+
+ From a library point of view, I can see some advantage in having 
+attribution retained, given that our hard work in creating an original 
+record is acknowledged.
+
+ From a developer point of view, I can only imagine it working in 
+practice if OCLC give clear guidelines on attribution and make it 
+painless. Quite how attribution would work in an 'ecology' of linked 
+data is also something I'd also welcome thoughts and opinions on.
+
+I think its also worth highlighting that OCLC have clearly realised that 
+non-commercial licensing is not suitable for bibliography, and have also 
+avoided the mis-step of trying to 'roll their own' license. This is in 
+itself a very good sign.
+
+Whilst I have a personal preference for PDDL/CC0 due to ease of 
+consumption, I feel that if OCLC do adopt an Open Data Common License 
+recommendation it will still be a major step forward for libraries 
+wishing to share data on a wider scale.
+
+Best wishes
+
+Ed Chamberlain
+
+
+-- 
+Edmund Chamberlain
+Systems Development Librarian	
+Electronic Services and Systems
+Cambridge University Library
+West Road,
+Cambridge
+CB3 9DR
+
+tel: (+44) 01223 747437
+fax: (+44) 01223 333160
+
+email: emc59 at cam.ac.uk
+
+Try LibrarySearch at http://search.lib.cam.ac.uk - a new way to discover 
+Cambridge Library Collections
+
+
+From jonathan.gray at okfn.org  Fri May 27 12:27:29 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 27 May 2011 13:27:29 +0200
+Subject: [open-bibliography] Openbiblio at OCLC
+In-Reply-To: <4DDF8A25.1000904@cam.ac.uk>
+References: <mailman.5.1306407603.23118.open-bibliography@lists.okfn.org>
+	<4DDF8A25.1000904@cam.ac.uk>
+Message-ID: <BANLkTikEQfifwak3aAgvyaTgsn_QA-SUpw@mail.gmail.com>
+
+I wonder if anyone from OCLC might be interested in writing a short
+piece for blog.okfn.org about their recent thinking in relation to
+open data? If so it would be great if they could contact me off-list!
+:-)
+
+J.
+
+On Fri, May 27, 2011 at 1:25 PM, Edmund Chamberlain <emc59 at cam.ac.uk> wrote:
+> We had an interesting discussion with Karen this week regarding this as part
+> of our work with the on the COMET project. It appears that OCLC are indeed
+> considering ODC-By as the recommended license for libraries wishing to share
+> data derived from Worldcat.
+>
+> My personal understanding was that this licensing was seen as being
+> compatible (in terms of a legal substitute rather than an addition) with the
+> rights and responsibilities of members whereas PDDL was not. Hopefully
+> someone from OCLC can give us some clarification and greater specifics on
+> this.
+>
+> Karen mentioned her upcoming retirement, indicated that was there was a
+> clear handover path in place for her work on Open Data and that they have
+> been consulting with acknowledged legal experts in Open Data licensing. They
+> next hope to gain feedback from the library community and beyond on this
+> issue, especially with regards to how attribution would work in practice.
+>
+> I'd be personally interested in the Open Data community's feelings on
+> attribution licensing for data in general. Thoughts and ideas are good, but
+> practical examples of where it has inconvenienced, disrupted or conversely
+> assisted efforts would be very welcome.
+>
+> From a library point of view, I can see some advantage in having attribution
+> retained, given that our hard work in creating an original record is
+> acknowledged.
+>
+> From a developer point of view, I can only imagine it working in practice if
+> OCLC give clear guidelines on attribution and make it painless. Quite how
+> attribution would work in an 'ecology' of linked data is also something I'd
+> also welcome thoughts and opinions on.
+>
+> I think its also worth highlighting that OCLC have clearly realised that
+> non-commercial licensing is not suitable for bibliography, and have also
+> avoided the mis-step of trying to 'roll their own' license. This is in
+> itself a very good sign.
+>
+> Whilst I have a personal preference for PDDL/CC0 due to ease of consumption,
+> I feel that if OCLC do adopt an Open Data Common License recommendation it
+> will still be a major step forward for libraries wishing to share data on a
+> wider scale.
+>
+> Best wishes
+>
+> Ed Chamberlain
+>
+>
+> --
+> Edmund Chamberlain
+> Systems Development Librarian
+> Electronic Services and Systems
+> Cambridge University Library
+> West Road,
+> Cambridge
+> CB3 9DR
+>
+> tel: (+44) 01223 747437
+> fax: (+44) 01223 333160
+>
+> email: emc59 at cam.ac.uk
+>
+> Try LibrarySearch at http://search.lib.cam.ac.uk - a new way to discover
+> Cambridge Library Collections
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+

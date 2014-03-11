@@ -1,0 +1,1466 @@
+From wouter.gerritsma at wur.nl  Mon Feb  3 10:53:45 2014
+From: wouter.gerritsma at wur.nl (Gerritsma, Wouter)
+Date: Mon, 3 Feb 2014 10:53:45 +0000
+Subject: [Open-access] Suggestions for the OA infrastructure in the
+	Netherlands
+Message-ID: <DDF88A3816B9844C864052A8A0755621426F7809@SCOMP0937.wurnet.nl>
+
+Dear All,
+
+In a reaction to the speech of Junior Minister @SanderDekker, during APE2014, I have written a blogpost on the subject of improving the OA infrastructure in The Netherlands.
+For those interested this can be found at http://wowter.net/2014/02/02/week-review-week-5-2014/
+
+Yours sincerely
+Wouter
+
+
+Wouter Gerritsma
+Team leader research support
+Information Specialist - Bibliometrician
+Wageningen UR Library
+PO box 9100
+6700 HA Wageningen
+The Netherlands
+++31 3174 83052
+Wouter.gerritsma at wur.nl<mailto:Wouter.gerritsma at wur.nl%0d>
+wageningenur.nl/library<http://wageningenur.nl/library>
+@wowter<http://twitter.com/Wowter/>
+wowter.net<http://wowter.net/>
+
+#AWCP http://tinyurl.com/mk65m36
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140203/89754819/attachment.html>
+
+From grahamtriggs at gmail.com  Mon Feb  3 11:11:14 2014
+From: grahamtriggs at gmail.com (Graham Triggs)
+Date: Mon, 3 Feb 2014 11:11:14 +0000
+Subject: [Open-access] Suggestions for the OA infrastructure in the
+	Netherlands
+In-Reply-To: <DDF88A3816B9844C864052A8A0755621426F7809@SCOMP0937.wurnet.nl>
+References: <DDF88A3816B9844C864052A8A0755621426F7809@SCOMP0937.wurnet.nl>
+Message-ID: <CAOoxy7JTQmg8EPEhDvq1J3PoksYtxGz_v5Tv7mCHcq8Sqt+RrQ@mail.gmail.com>
+
+Hi,
+
+I have a few (of slightly conflicting) comments about one statement in this:
+
+"...I see one clear and present danger in the view of our junior minister.
+If he accepts the Golden Route as the only route, it might lead to the
+negligence of the Green Route and subsequently the deterioration repository
+infrastructure in the Netherlands."
+
+1) Repository infrastructure is really only going to be neglected if:
+a) It's not recognised that there are other important uses for
+repositories, besides storing final publications
+b) Funds are diverted in order to (partly) pay for Gold APCs.
+
+2) There is no good reason to abandon repositories in light of going Gold.
+Given possible concerns about the future of publishers / journals, and
+potential problems caused by changes of ownership for journals, then
+repositories provide a useful insurance against copies served by publisher
+sites possibly dropping off the net.
+
+3) The big difference is that you no longer need to mandate deposit to the
+repository - you can more effectively gather the content through direct
+push relationships with publishers, or harvesting the content. And there
+should be no license restrictions against that (e.g. they ought to be CC-BY)
+
+4) Repositories can also serve as a platform for enabling additional
+services - e.g. text-mining - across multiple publisher's content.
+
+Now for the slightly conflicting:
+
+5) We shouldn't be worried about maintaining repository infrastructure as a
+matter of ideology. If there is no need for repository infrastructure, what
+does it matter if it degrades? However, as I've pointed out, there are
+other reasons to consider infrastructure to hold research outputs, beyond
+making them publicly accessible in lieu of the publishers site providing
+access.
+
+G
+
+
+
+On 3 February 2014 10:53, Gerritsma, Wouter <wouter.gerritsma at wur.nl> wrote:
+
+>  Dear All,
+>
+>
+>
+> In a reaction to the speech of Junior Minister @SanderDekker, during
+> APE2014, I have written a blogpost on the subject of improving the OA
+> infrastructure in The Netherlands.
+>
+> For those interested this can be found at
+> http://wowter.net/2014/02/02/week-review-week-5-2014/
+>
+>
+>
+> Yours sincerely
+>
+> Wouter
+>
+>
+>
+>
+>
+> Wouter Gerritsma
+>
+> Team leader research support
+>
+> Information Specialist - Bibliometrician
+>
+> Wageningen UR Library
+>
+> PO box 9100
+>
+> 6700 HA Wageningen
+>
+> The Netherlands
+>
+> ++31 3174 83052
+>
+> Wouter.gerritsma at wur.nl <Wouter.gerritsma at wur.nl%0d>
+>
+> wageningenur.nl/library
+>
+> @wowter <http://twitter.com/Wowter/>
+>
+> wowter.net
+>
+>
+>
+> #AWCP http://tinyurl.com/mk65m36
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140203/77d9a42d/attachment.html>
+
+From jonathan.gray at okfn.org  Mon Feb  3 16:04:26 2014
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 3 Feb 2014 17:04:26 +0100
+Subject: [Open-access] Fwd: Call for proposals to host FOSTER training
+ events on open access, open data and open science
+In-Reply-To: <CAHZoB7Y9xQLQiVsAVn3Z21+4DzoreUOvgm8q4fZ1FrhQj+GvtA@mail.gmail.com>
+References: <CAHZoB7Y9xQLQiVsAVn3Z21+4DzoreUOvgm8q4fZ1FrhQj+GvtA@mail.gmail.com>
+Message-ID: <CAELjFBt-PLyjt9oKazvuNo5=13pFT2fn2DvPmXUJ23xKT6dFfw@mail.gmail.com>
+
+This might be of interest to some of you: co-funding available for events
+to promote open access and open science.
+
+---------- Forwarded message ----------
+
+
+
+*Training for Open Science in Europe - get involved! *
+http://www.fosteropenscience.eu/training-call-2014/
+
+*Call for proposals to host FOSTER training events on open access, open
+data and open science*
+
+The FOSTER project (Facilitate Open Science Training for European Research,
+http://www.fosteropenscience.eu/) aims to support different stakeholders,
+especially young researchers, in practicing open access, open data sharing
+and open science. FOSTER will support community training actions via two
+annual open calls for events. The first call is issued in February 2014 for
+events in June - December 2014, and the second call will be issued in
+October 2014 for events in 2015.
+
+Do you feel you can effectively train on open science topics? Can you make
+a difference? We are now inviting proposals to host FOSTER training events
+on open access, open data and open science to be held from June to December
+2014. FOSTER will provide limited co-funding for events. With your help we
+want to organize both engaging and instructive events that reach out to
+diverse disciplinary communities and countries in the European Research
+Area.
+
+We are looking to support different types of training events and
+strategies, ranging from short (one or two-hour) workshops, through to
+summer schools. Some examples of the training formats and content that we
+would like to support:
+
+   - Training targeting graduate schools in European universities, e.g.
+   summer schools, seminars, etc.
+   - Courses for trainers/multipliers who can carry on further training and
+   dissemination activities within their institutions, countries and/or
+   disciplinary communities.
+   - Workshops for researchers participating in community/disciplinary
+   conferences.
+   - Training in compliance with the open access policies and rules of
+   participation set out for Horizon 2020.
+   - Training in integrating open access and open data principles and
+   practices in the current research work-flow by targeting young researchers.
+   - Training targeting one of the stakeholders - academic staff
+   (researchers and students), institutions (research administrators,
+   librarians), research project managers, policy-makers and staff working  in
+   funding bodies.
+
+*FOSTER support*
+
+FOSTER will provide assistance in shaping the training programme, selecting
+training materials and speakers/trainers, etc. Co-funding for the events
+will also be provided (such as cost of the venue, materials, travel of
+speakers, etc.).
+
+*How to apply and a deadline*
+
+1. Describe the training goals, target audiences, budget needed and any
+co-funding offered. Please fill in the application form which can be
+downloaded here:
+http://www.fosteropenscience.eu/form/training/FOSTER_Training_proposal_form.doc
+
+2. Please submit your training application *no later than Monday, 17 March
+2014* here: http://www.fosteropenscience.eu/form/training/.
+
+3. If you have any have technical problems, you can email your training
+application to iryna.kuchma[@]eifl.net
+
+*Who can apply?*
+
+Organisations from the European Research Area are eligible to participate.
+
+*Evaluation procedure*
+
+Funding will be granted on a competitive basis. Proposals will be selected
+by FOSTER based on the following criteria:
+
+   - Aims and topics of the event targeting open access and open science
+   practices, in particular in relation to publicly funded research in Horizon
+   2020 and national funding schemes;
+   - Outreach potential (number of relevant stakeholders directly involved
+   on the training event);
+   - Potential for "multiplication" (institutional or disciplinary) of
+   train the trainers programmes;
+   - Level of engagement with Graduate Schools and embedding in standard
+   curriculum;
+   - National/regional diversity;
+   - Disciplinary diversity;
+   - Cost-efficiency.
+
+Support will be provided to at least ten training programmes for academic
+staff and students, research administrators and librarians, research
+project managers and staff working in funding bodies.
+
+Selected proposals will be notified no later than 30 April 2014.
+
+*About FOSTER *
+
+FOSTER (Facilitate Open Science Training for European Research), an
+FP7-funded project, aims to accelerate knowledge and practice of open
+access and open science, especially among young researchers, across all
+fields. In addition, it will mobilize other stakeholders, such as project
+managers, administrators, and librarians, in support of this aim.
+
+*Contact person*
+
+If you have any questions or need clarifications, please contact Iryna
+Kuchma (iryna.kuchma[@]eifl.net).
+
+
+
+
+-- 
+
+Jonathan Gray
+
+Director of Policy and Ideas  | *@jwyg <https://twitter.com/jwyg>*
+
+The Open Knowledge Foundation <http://okfn.org/>
+
+*Empowering through Open Knowledgeokfn.org <http://okfn.org/>  |  @okfn
+<http://twitter.com/OKFN>  |  OKF on Facebook
+<https://www.facebook.com/OKFNetwork>  |  Blog <http://blog.okfn.org/>  |
+ Newsletter <http://okfn.org/about/newsletter>*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140203/d65eaa18/attachment.html>
+
+From iryna.kuchma at eifl.net  Mon Feb  3 14:35:25 2014
+From: iryna.kuchma at eifl.net (Iryna Kuchma)
+Date: Mon, 3 Feb 2014 16:35:25 +0200
+Subject: [Open-access] Call for proposals to host FOSTER training events on
+ open access, open data and open science
+Message-ID: <CAHZoB7Y9xQLQiVsAVn3Z21+4DzoreUOvgm8q4fZ1FrhQj+GvtA@mail.gmail.com>
+
+*Training for Open Science in Europe - get involved! *
+http://www.fosteropenscience.eu/training-call-2014/
+
+*Call for proposals to host FOSTER training events on open access, open
+data and open science*
+
+The FOSTER project (Facilitate Open Science Training for European Research,
+http://www.fosteropenscience.eu/) aims to support different stakeholders,
+especially young researchers, in practicing open access, open data sharing
+and open science. FOSTER will support community training actions via two
+annual open calls for events. The first call is issued in February 2014 for
+events in June - December 2014, and the second call will be issued in
+October 2014 for events in 2015.
+
+Do you feel you can effectively train on open science topics? Can you make
+a difference? We are now inviting proposals to host FOSTER training events
+on open access, open data and open science to be held from June to December
+2014. FOSTER will provide limited co-funding for events. With your help we
+want to organize both engaging and instructive events that reach out to
+diverse disciplinary communities and countries in the European Research
+Area.
+
+We are looking to support different types of training events and
+strategies, ranging from short (one or two-hour) workshops, through to
+summer schools. Some examples of the training formats and content that we
+would like to support:
+
+   - Training targeting graduate schools in European universities, e.g.
+   summer schools, seminars, etc.
+   - Courses for trainers/multipliers who can carry on further training and
+   dissemination activities within their institutions, countries and/or
+   disciplinary communities.
+   - Workshops for researchers participating in community/disciplinary
+   conferences.
+   - Training in compliance with the open access policies and rules of
+   participation set out for Horizon 2020.
+   - Training in integrating open access and open data principles and
+   practices in the current research work-flow by targeting young researchers.
+   - Training targeting one of the stakeholders - academic staff
+   (researchers and students), institutions (research administrators,
+   librarians), research project managers, policy-makers and staff working  in
+   funding bodies.
+
+*FOSTER support*
+
+FOSTER will provide assistance in shaping the training programme, selecting
+training materials and speakers/trainers, etc. Co-funding for the events
+will also be provided (such as cost of the venue, materials, travel of
+speakers, etc.).
+
+*How to apply and a deadline*
+
+1. Describe the training goals, target audiences, budget needed and any
+co-funding offered. Please fill in the application form which can be
+downloaded here:
+http://www.fosteropenscience.eu/form/training/FOSTER_Training_proposal_form.doc
+
+2. Please submit your training application *no later than Monday, 17 March
+2014* here: http://www.fosteropenscience.eu/form/training/.
+
+3. If you have any have technical problems, you can email your training
+application to iryna.kuchma[@]eifl.net
+
+*Who can apply?*
+
+Organisations from the European Research Area are eligible to participate.
+
+*Evaluation procedure*
+
+Funding will be granted on a competitive basis. Proposals will be selected
+by FOSTER based on the following criteria:
+
+   - Aims and topics of the event targeting open access and open science
+   practices, in particular in relation to publicly funded research in Horizon
+   2020 and national funding schemes;
+   - Outreach potential (number of relevant stakeholders directly involved
+   on the training event);
+   - Potential for "multiplication" (institutional or disciplinary) of
+   train the trainers programmes;
+   - Level of engagement with Graduate Schools and embedding in standard
+   curriculum;
+   - National/regional diversity;
+   - Disciplinary diversity;
+   - Cost-efficiency.
+
+Support will be provided to at least ten training programmes for academic
+staff and students, research administrators and librarians, research
+project managers and staff working in funding bodies.
+
+Selected proposals will be notified no later than 30 April 2014.
+
+*About FOSTER *
+
+FOSTER (Facilitate Open Science Training for European Research), an
+FP7-funded project, aims to accelerate knowledge and practice of open
+access and open science, especially among young researchers, across all
+fields. In addition, it will mobilize other stakeholders, such as project
+managers, administrators, and librarians, in support of this aim.
+
+*Contact person*
+
+If you have any questions or need clarifications, please contact Iryna
+Kuchma (iryna.kuchma[@]eifl.net).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140203/e308931b/attachment-0001.html>
+
+From subbiah.arunachalam at gmail.com  Mon Feb  3 17:12:17 2014
+From: subbiah.arunachalam at gmail.com (Subbiah Arunachalam)
+Date: Mon, 3 Feb 2014 22:42:17 +0530
+Subject: [Open-access] Fwd: Muthu Madhan wins the EPT Award
+In-Reply-To: <CABghs+Y9mJ9AD50HycSCx1cUyJ++md7-7kEkq8iGmJM-4pKU=Q@mail.gmail.com>
+References: <CABghs+Y9mJ9AD50HycSCx1cUyJ++md7-7kEkq8iGmJM-4pKU=Q@mail.gmail.com>
+Message-ID: <CABghs+ajT7snDFqU0f96PPiaon08fwuUQy34Bp-DzjejHM-7PA@mail.gmail.com>
+
+Drar Dr Dar:
+
+Here is some good news. Our esteemed colleague and friend, Muthu Madhan of
+ICRISAT, has been selected as a joint winner for this year's EPT Award for
+Open Access. Please see the mail he has received from the Chairman of EPT,
+Prof. Derek Law. This news is worth sharing with the entire CGIAR community.
+
+Regards.
+
+Arun
+
+
+
+From: Derek Law [mailto:d.law at strath.ac.uk]
+Sent: Monday, February 03, 2014 1:10 AM
+To: franc at library.iisc.ernet.in; Madhan, M (ICRISAT-IN)
+Cc: 'Patrick Corran'
+Subject: RE: Nomination for EPT award
+
+Dear Mr Madhan,
+
+The judging panel for the 2013 EPT Award for Contributions to Open Access
+has now considered the nominations
+submitted to it and reached its decisions. Unusually, the high quality of
+nominations has led the panel to declare
+a joint winner for the first time.
+
+It is then with the very greatest pleasure that I write to tell you that
+you have been selected as joint winner of the 2013
+EPT Award for Open Access, following your nomination by Dr Francis
+Jayakanth.
+The joint winner with you is Rosemary  Otando, Systems Librarian, EIFL
+Country and Open Access Coordinator at the
+University of Nairobi Library in, Kenya.
+
+We shall be in touch shortly with more information and to discuss how the
+award can best be made so that your
+distinctive contribution can be recognised as widely as possible.
+
+With congratulations and every good wish
+Yours sincerely
+Derek Law
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140203/cf8bbc85/attachment-0001.html>
+
+From subbiah.arunachalam at gmail.com  Thu Feb  6 06:22:49 2014
+From: subbiah.arunachalam at gmail.com (Subbiah Arunachalam)
+Date: Thu, 6 Feb 2014 11:52:49 +0530
+Subject: [Open-access] EPT award
+Message-ID: <CABghs+a_RSgn+_UB_K7LRCCVqVby-PmPvo4nitSaA_YEz1fMkw@mail.gmail.com>
+
+*http://epublishingtrust.net/recipients-of-the-ept-open-access-awards-2013/
+<http://epublishingtrust.net/recipients-of-the-ept-open-access-awards-2013/>*
+
+
+
+*Recipients of the EPT Open Access Awards 2013*
+
+Posted on February 5,
+2014<http://epublishingtrust.net/recipients-of-the-ept-open-access-awards-2013/>
+ by Leslie Chan <http://epublishingtrust.net/author/chan_uts_6195ca_3606/>
+
+The Electronic Publishing Trust for Development
+(EPT<http://epublishingtrust.net/>)
+is pleased to announce the winner of its 3rd Annual Award in recognition of
+the effort made by individuals working in the developing and emerging
+countries in the furtherance of Open Access (OA) to scholarly publications.
+
+This year, the trust received 10 nominations from a broad spread of
+countries (Armenia, Egypt, India, Kenya) and covering a very varied range
+of work. The panel members were impressed by the high standard of
+nominations, and in the end were unable to decide between two, so
+declaredMuthu Madhan, India, and Rosemary  Otando, Kenya, as joint winners.
+
+Muthu Madhan is Manager, Library and information Services, ICRISAT,
+Hyderabad 502324, India,and has been highly influential in promoting Open
+Access within the Indian research community and been heavily involved in
+setting up many open access repositories - to date he has been instrumental
+in setting up at least 10 repositories including one for data,  and in
+developing  mandatory repository deposition for  all Institute publications
+in two institutions [see for example http://oar.icrisat.org,
+http://ethesis.nitrkl.ac.in/<http://oar.icrisat.org%2C%20http/ethesis.nitrkl.ac.in/>].
+His solid achievements in driving the establishment of 'green' open access
+in India make him a worthy recipient of the award.
+
+Rosemary Otando is Systems Librarian, and EIFL Country and Open Access
+Coordinator in the University of Nairobi Library , Nairobi, Kenya. She has
+led OA activities in Kenya, raising awareness among different academic
+groups, and been instrumental in establishing the University of Nairobi
+Open Access Policy and repository [seehttp://erepository.uonbi.ac.ke/]. In
+addition she has been active in training, and in facilitating an initiative
+which has led to the establishment of 20 institutional repositories.
+
+In their own different ways, both Muthu Madan and Rosemary Otando are
+playing critical roles in establishing OA in their different academic
+environments.
+
+The award will be presented to each of them at a suitable event later in
+the year.
+The panel also awarded certificates of commendation to two further
+applicants, Mandy Taha, Egypt,and (jointly) to Tigran Zargaryan and Tigran
+Zakaryan, Armenia.
+
+Mandy Taha, Senior Librarian and Project Leader, IFLA Center for Arabic
+Speaking Libraries in the Library of Alexandria, Egypt, has taken a leading
+role in supporting and publicising Open Access in Egypt and Tunisia , work
+which is already having an impact on OA in her region [see
+http://www.openaccessweek.org/profile/MandyTaha]. She has participated in
+training in Tunisia and Egypt [
+http://alexlibrarians2.wordpress.com/course-program/congratulations/], and
+established a series of seminars and talks to popularise OA among
+University students and staff.
+
+Tigran Zargaryan and Tigran Zakaryan, National Library of Armenia, Armenia,
+have been active in raising awareness and advocating Open Access in Armenia
+and have set up an Open Access journals' portal linked to a National
+Research Repository containing all of the Armenian scholarly journals
+published by the Armenian Academy of
+Sciences<http://www.flib.sci.am/eng/node/3>
+as well as repositories at other institutes.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140206/117d7f95/attachment.html>
+
+From stuart.a.lawson at gmail.com  Tue Feb 11 09:26:44 2014
+From: stuart.a.lawson at gmail.com (Stuart Lawson)
+Date: Tue, 11 Feb 2014 09:26:44 +0000
+Subject: [Open-access] Wikimania 2014 London
+Message-ID: <CABBjnRFn4H2zhH1tt722QAZ148E_1Hc41EmxXhpeeJ1ynMbhXw@mail.gmail.com>
+
+Hi Everyone,
+
+Wikimania 2014 London is now open for
+submissions<https://wikimania2014.wikimedia.org/wiki/Submissions>.
+The conference themes are focused on openness and may be of interest to
+members of this list, such as Open
+Data<https://wikimania2014.wikimedia.org/wiki/Main_Page/Open_Data> and
+the Future of Education<https://wikimania2014.wikimedia.org/wiki/Main_Page/Future_of_Education>
+. The Open Scholarship<https://wikimania2014.wikimedia.org/wiki/Main_Page/Open_Scholarship>
+theme
+includes open access.
+
+Looking forward to seeing some of you there!
+
+Thanks,
+
+Stuart Lawson
+@Lawsonstu
+Open Access Community Liaison, Wikimania 2014
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140211/de4c1ef5/attachment.html>
+
+From oa.openaccess at gmail.com  Thu Feb 13 17:31:09 2014
+From: oa.openaccess at gmail.com (Omega Alpha | Open Access)
+Date: Thu, 13 Feb 2014 12:31:09 -0500
+Subject: [Open-access] Journal of Buddhist Ethics celebrates twenty years
+	open access
+Message-ID: <818445F9-7433-4E67-BAD2-A4CA0974C510@gmail.com>
+
+Journal of Buddhist Ethics celebrates twenty years open access
+<http://wp.me/p20y83-TR>
+
+As 2013 was drawing to a close, the Journal of Buddhist Ethics celebrated twenty years of continuous publication as a pioneering and highly regarded online open access journal in Buddhist Studies and the larger field of Religious Studies. ... I am not fond of thinking how quickly the last twenty years appear to have flown by. But I am amazed both by the developments of computer and network technology in the interim and the insight of scholars who grasped early-on the potential of this technology as a medium for scholarly communication. ...
+
+Gary F. Daught
+Omega Alpha | Open Access
+Advocate for open access academic publishing in religion and theology
+<http://oaopenaccess.wordpress.com/>
+oa.openaccess at gmail dot com | @OAopenaccess
+
+
+From angela_pimentel9 at hotmail.com  Fri Feb 14 15:26:33 2014
+From: angela_pimentel9 at hotmail.com (angela pimentel)
+Date: Fri, 14 Feb 2014 14:26:33 -0100
+Subject: [Open-access] Data Set Diabetes
+Message-ID: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+
+Hello,
+My name is Angela and I'm starting my Phd program in the areas of Machine Learning and Diabetes.I would like to know if there is any data set that I could have access related to this area? This data set would be on diabetic subjects and would measure a variety of vital signs (Electrodermal activity, Electrocardiogram etc) in parallel with the invasive measurement of glucose.
+I appreciated if you could answer my request,
+Best regards,
+Angela Pimentel 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140214/fff82c9d/attachment.html>
+
+From gutam2000 at gmail.com  Sat Feb 15 10:10:32 2014
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Sat, 15 Feb 2014 15:40:32 +0530
+Subject: [Open-access] ICOA2014 call for papers, Tunis, 27-28 November 2014
+Message-ID: <CA+4KT3qF6EU8uyRnYu+c64Ud+LyFiy2xvzd_0b2+71v3kbQfsQ@mail.gmail.com>
+
+[Forwarded message from Mohamed BEN ROMDHANE]
+
+*Call for papers*
+
+*international conference *
+
+*<<*
+*Open Access and scientific research: towards new
+values*<http://icoa2014.sciencesconf.org/>
+
+*>> *
+*Tunis, 27-28 November 2014*
+*Organizers*
+The research unit "Digital Library and Heritage", of the
+*Higher Institute of Documentation* *(ISD)*, Manouba University, Tunisia
+*In partnership with*
+The* National University Center for Scientific and Technical Documentation
+(CNUDST)**, *Tunisia
+*Conference Chair*
+*Mohamed Ben Romdhane*, Higher Institute of Documentation *(ISD)*, Manouba
+University, Tunisia
+Contact : mbromdhane at yahoo.fr
+*Presentation*
+While the Open Access (OA) movement, with its green and gold routes, has
+reached a certain maturity in the world and mainly in developed countries
+thanks to the policies of strengthening open access to Scientific and
+Technical Information (STI) in all areas, it continues to progress in the
+developing countries including  the Arab and African  states.
+Indeed, the advance of OA in these countries was prejudiced by the lack of
+awareness among researchers and policy makers of the benefits it could
+provide in terms of visibility of scientific production, democratization of
+access to research results and application of performance indicators in the
+academic environment.
+This conference is a contribution in order to propel the OA movement
+globally and especially in the countries of the South endorsing reflection
+on issues related to the role of OA in the valorizing of scientific
+research. It tries to show the different approaches and policies related to
+this new model as well as the feedback and the role that libraries have to
+play in this new scene. The objective of the conference is to promote the
+exchange of experiences, views, and research results between researchers,
+academics, and librarians from different disciplines, on related aspects to
+the new models of scholarly communication. It will be a good occasion to
+discuss how to offer solutions to common challenges.
+It will provide an overview on the latest innovations in the field of OA to
+STI and raise awareness of researchers and different stakeholders of the
+benefits of OA and get them actively involved in this movement. Moreover,
+there will be an opportunity to build networks of collaborative work
+between researchers from different countries that could initiate joint
+projects.
+*Themes*
+Academic researchers can submit papers in one of the following themes:
+-          *Open Access Theories*: the theoretical foundations of the OA
+movement and the reasons for its success or failure;
+-          *Requirements of digital scholarly communication*: the
+transition from traditional to digital scholarly communication and the role
+of ICTs and networks to enhance the development of OA;
+-          *Economic Approaches of OA*: the limits of the traditional
+economic model of scientific communication and the emergence of new
+business models related to OA and the development of digital output and
+digitisation;
+-          *Open Access Policies* :  the establishment of institutional,
+national or international policies for access to STI;
+-          *Implementing Open Access at universities*: achievement and
+evaluation of OA resources such as open archives (disciplinary and
+institutional repositories), Open Access Journals (OAJ), scholarly social
+networks...);
+-          *Open Access and utilization of scientific research*: State of
+the art and emerging new practices for researchers;
+-          *Open Access to STI and Libraries*: role of the libraries and
+the librarians in the establishment, management of OA services and the
+promotion of OA ;
+-          *Open Access, copyright and emerging forms of scholarship: *aspects
+related to traditional and new forms of copyright, including Creative
+Commons, and new forms of scholarship ;
+-          *Scholarly communication and ethics: *aspects relating to the
+quality and integrity of scholarship.
+ *Important* *dates*
+-          *February 15, 2014*               : call for abstracts
+-          *March 30, 2014*                    : deadline for submission of
+extended abstracts (2 pages)
+-          *April 30, 2014*                      : Notification of
+acceptance of abstracts
+-          *July 30,  2014*                       : Deadline for submission
+of full papers
+-          *September 22, 2014*          : Acceptance Notification of full
+papers
+-          *November, 27-28  2014*    : Conference
+*Submission*
+Authors interested in one of the themes of the conference are invited to
+submit, in the first instance, long abstracts of their proposals before the
+deadline as specified above in English, French or Arabic. Authors should
+follow the instructions of submission as mentioned in the platform (they
+should contain the title, problematic issues, methodology, the main
+results, keywords and a brief bibliography). This text should be 2 pages
+long, RTF, doc or docx formats, Times New Roman font, size 12, and
+single-spaced.
+The authors of accepted abstracts will be asked later to submit the full
+text according to the model which will be communicated to all concerned
+authors in time.
+Each full-text paper will be anonymously evaluated by two reviewers from
+the scientific committee who should decide the final acceptance or refusal
+of the paper.
+*Scientific committee*
+
+ -     *Alawi Al Hashimi*, University of Bahre?n, Bahre?n.
+-     *Mihaele Banek Zorika*, Faculty of human and social sciences,
+University of Zagreb, Croatia.
+-     *Mohamed Ben Romdhane, *Higher Institute of Documentation, University
+of Manouba , Tunisia.
+-     *Mokhtar Ben Henda*, University of Bordeaux Montaigne, France.
+-     *Mohamed Montassar Ben Slama, *Science college of Tunis, University
+of Tunis El-Manar, Tunisia.
+-     *Chaibdraatani Bentenbi*, University of Oran, Algeria.
+-     *Christine Berthaud*, CCSD, HAL, France.
+-     *Abdelmajid  Bouazza,* Sultan Quabus University,  Sultanat Oman.
+-     *Azzeddine Bouderbane*, University of Constantine 2, Algeria.
+-     *Ch?rifa* * Boukacem*, Lyon 1 - ELICO, URFIST Lyon, France.
+-     *Hassen Chaabani, *University of Monastir, Tunisian Association of
+Anthropology, Tunisia.
+-     *Ghislaine Chartron, *CNAM-INTD, France.
+-     *Madjid Dahmane, *National Library of Algeria, Algeria.
+-     *Mamadou Diara, *School of Librarians, Archivists and Documentalists,
+Senegal.
+-     *Raja Fenniche, *Higher Institute of Documentation, University of
+Manouba, Tunisia.
+-     *Yassine Gargouri*, Institute of cognitives sciences, University of
+Qu?bec, Montr?al, Canada.
+-     *Wahid Gdoura*, Higher Institute of Documentation, University of
+Manouba , Tunisia.
+-     *Jean Claude* * Gu?don*, University of Montr?al, Canada.
+-     *Sridhar Gutam*, Central Institute for  Subtropical Horticulture,
+India.
+-     *Stevan Harnad*, College of Humanities sciences, University of
+Qu?bec, Canada.
+-     *Nozha Ibnlkhayat, *Institute of information studies, Morocco.
+-     *Naeema Jabr*, Sultan Quabus University,  Sultanat Oman.
+-     *Iryna Kuchma, *EIFL, Ukraine.
+-     *Saloua Mahmoud, *Higher Institute of Documentation, University of
+Manouba , Tunisia.
+-     *Stephan Maud, *College of information and Documentation, University
+of Lebanon*,  *Lebanon.
+-     *Abderrazak Mkadmi*, Middle East College, Sultanat of Oman.
+-     *Heather Morrison, *School of Information Studies, University of
+Ottawa, Canada.
+-     *Tarek Ouerfelli*, Higher Institute of Documentation, University of
+Manouba , Tunisia.
+-     *Jean-Michel Sala?n, *Ecole centrale de Lyon, France.
+-     *Yemna Sayeb, *Institut Sup?rieur des Arts Multim?dia de la Manouba,
+University of Manouba , Tunisia.
+-     *Sherif Kamel  Schaheen, * Cairo University, Egypt.
+-     *Ren? Schneider*, Haute Ecole de Gestion de Gen?ve, Switzerland.
+-     *Joachim Schopfel,* University of Lille 3, France.
+-     *Benjamin Zapliko, *Institute of Social Sciences of Leibniz : GESIS,
+Germany*.*
+
+ *Organizing committee*
+
+ -     *Bessem Amira*, CNUDST.
+-     *Slaheddine Ben Ali*, CNUDST.
+-     *Chokri Ben Romdhane*, CNUDST.
+-     *Hella Ghaffari Ben Jemia*, Science college of Tunis, University
+of  Tunis
+El-Manar.
+-     *Ibrahim Bounhas*, ISD, University of Manouba.
+-     *Olfa Chater*, ISD, University of Manouba.
+-     *Amel Chemli*, CNUDST.
+-     *Raja Fenniche*, ISD, University of Manouba.
+-     *Souheil Houissa*, ISD, University of Manouba.
+-     *Houda Hamdi*, CNUDST
+-     *Tarek Ouerfelli, *ISD, University of Manouba.
+-     *Sami Oueslati*, ISD, University of Manouba.
+-     *Rachid Zghibi*, ISD, University of Manouba.
+
+ *Conference proceedings *
+The conference proceedings will be published on paper form by the *ISD* and
+distributed to speakers and participants to the conference. An Open Access
+digital version will be published by the *CNUDST*.
+*Registration information*
+The registration will be open on the following platform of the conference:
+  http://icoa2014.sciencesconf.org/.
+Registration fees :
+-          Teacher - Researcher / Professional: TTC 250 DT / 150 EURO TTC / $
+200 incl.
+-          Student (Masters / PhD): 150 DT TTC / 80 EURO TTC / $ 100 incl.
+Registration fees include:
+-          Participation in all scientific sessions
+-          The binder kit
+-          Coffee breaks
+-          Lunches
+*Contact *
+*For further information, please visit the conference platform: *
+http://icoa2014.sciencesconf.org/
+Or contact :
+-          *Conference email: *icoa2014 at sciencesconf.org
+-          *Mohamed Ben Romdhane : *mbromdhane at yahoo.fr
+-          *Tarek Ouerfelli : *tarek_ouerfelli at yahoo.fr
+
+  *Higher Institute of Documentation*
+
+ Campus of Manouba, 2010 Manouba, Tunisia
+
+*Tel.* : (+216) 71 601 050 ; *Fax.* : (+216) 71 600 200
+Website : www.isd.rnu.tn
+
+
+
+
+  *National University Center for Scientific and Technical Documentation
+(CNUDST)*
+Rue Menzel Bourguiba - 1030 - Tunis - TUNISIE    (coin avec Avenue Ouled
+Haffouz)
+B.P. 85 -1002, Tunis Belvedere - Tunisia
+Website : www.cnudst.rnrt.tn/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140215/f0e793d5/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ICOA2014_CallForPapers_Eng.pdf
+Type: application/pdf
+Size: 732375 bytes
+Desc: not available
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140215/f0e793d5/attachment-0001.pdf>
+
+From pm286 at cam.ac.uk  Sat Feb 15 22:40:21 2014
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 16 Feb 2014 09:40:21 +1100
+Subject: [Open-access] Data Set Diabetes
+In-Reply-To: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+References: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+Message-ID: <CAD2k14Nk7W15n_QOsx+cyv+k+QZPSUpkdDeRwK+=jzgC_yAzBA@mail.gmail.com>
+
+First of all thanks for posting, Angela and I hope you have settled well
+into you initial studies and research. I hope someone has an answer for you
+but don't be surprised if not.
+
+Finding data in any area is not easy. That's a major reason why CKAN was
+started. Some disciplines (space, meteorology, some health) publish data
+sets as such but most scientists either publish datasets along with a paper
+or, more commonly, don't publish them at all.
+
+I think in OKFN we should tackle this in the following ways (cf Panton
+Principles):
+
+* encourage the posting of data (probably most usefully alongside papers)
+* help to create metadata so the datasets can be discovered
+* push journals, libraries etc. to take this seriously (very few do)
+
+and build search engines.
+
+What we need is a search engine for science. Google etc. don't do that as
+they don't generally understand the domains. The data should probably be
+transformed into a semantic form (e.g. Jim Hendler created/discovered a
+miilion+ semantic datasets in RDF).
+
+But there's an awful lot of data out there already , which is why I am
+pushing content-mining.
+
+And the major problem is that vested interests (e.g. academic publishers,
+reference works) don't want this data discovered and published because
+their business models are based on reselling the information that we have
+created and is already out there.
+
+
+_______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140216/0e887acb/attachment.html>
+
+From L.Osinski at tue.nl  Sun Feb 16 10:31:57 2014
+From: L.Osinski at tue.nl (Osinski, L.)
+Date: Sun, 16 Feb 2014 10:31:57 +0000
+Subject: [Open-access] Data Set Diabetes
+In-Reply-To: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+References: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+Message-ID: <9A431591A001F04D9822A8FE3B72A57B043161F0@XSERVER20B.campus.tue.nl>
+
+Angela,
+
+You could try: http://archive.ics.uci.edu/ml/index.html [UC Irvine Machine Learning Repository ]. Search for 'diabetes' and you'll find 2 data sets on diabetes.
+I'm not an expert in the field of diabetes, so I'm not sure if you're looking for this kind of data. Perhaps the data sets are too old.
+
+Kind regards,
+
+Leon Osinski
+Eindhoven University of Technology
+The Netherlands
+
+From: open-access [mailto:open-access-bounces at lists.okfn.org] On Behalf Of angela pimentel
+Sent: vrijdag 14 februari 2014 16:27
+To: open-science at lists.okfn.org; open-access at lists.okfn.org
+Subject: [Open-access] Data Set Diabetes
+
+Hello,
+
+My name is Angela and I'm starting my Phd program in the areas of Machine Learning and Diabetes.
+I would like to know if there is any data set that I could have access related to this area? This data set would be on diabetic subjects and would measure a variety of vital signs (Electrodermal activity, Electrocardiogram etc) in parallel with the invasive measurement of glucose.
+
+I appreciated if you could answer my request,
+
+Best regards,
+
+Angela Pimentel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140216/f68f4aab/attachment.html>
+
+From imma.subirats at gmail.com  Mon Feb 24 09:33:08 2014
+From: imma.subirats at gmail.com (Imma Subirats)
+Date: Mon, 24 Feb 2014 10:33:08 +0100
+Subject: [Open-access] OR2014 Conference Update: Registration Open;
+	New Scholarship Programme
+Message-ID: <CACPP308-oR9C7BO3sUakkeCeyJgWpDN0r=4ig=Y=WK+kkvzB7g@mail.gmail.com>
+
+FOR IMMEDIATE RELEASE
+
+A message from the Open Repositories 2014 Conference organizers
+
+February 21, 2014
+Read it online: http://bit.ly/1mwHBZx
+
+Register for Open Repositories 2014
+New scholarship programme aims to expand OR participation
+
+Helsinki, FI  We are pleased to announce that registration for Open
+Repositories 2014 is now open. The five-day conference will be held in
+Helsinki, the capital of Finland, from June 9 to June 13, 2014. You
+will find full registration information on the following page:
+http://or2014.helsinki.fi/?page_id=454.
+
+*Open Repositories 2014?registration and fees*
+
+The early registration fee, 320 EUR, will be available until May 4.
+After May 4, the registration fee will be 400 EUR. The conference
+dinner will be held on Wednesday, June 11, on Valkosaari Island in
+Helsinki Harbor (more information here) and is priced separately at 60
+EUR. There is also a special Friday evening excursion to Suomenlinna
+Sea Fortress (more information here) available for those delegates who
+will be staying in Helsinki until Saturday.
+
+The full conference program is expected to be available in late April
+once the review process is completed. An early draft version of the
+schedule (subject to change) is available here:
+https://www.conftool.com/or2014/sessions.php.
+
+The registration process will be handled by TAVI Congress Bureau. If
+you have questions related to conference registration, you can contact
+them directly at or-2014[at]tavicon.fi.
+
+*Pilot scholarship programme*
+
+A highlight of this year's conference is the availability of delegate
+scholarships for the first time. The Open Repositories Steering
+Committee is delighted to announce a pilot Scholarship Programme for
+OR2014. This programme aims to expand participation by providing
+registration support for a small number of delegates to this year's
+conference. The scholarship programme is open to librarians,
+repository managers, developers and researchers in digital libraries
+and related fields.
+
+Please note: the OR2014 scholarship programme provides a full discount
+for conference registration and the conference dinner. It does not
+cover other costs including accommodation, travel and subsistence. It
+is anticipated that the applicant's home institution will provide
+financial support to supplement an OR scholarship award.
+
+Only fully-completed applications will be accepted. The deadline for
+applications is Sunday, March 14, 2014.
+
+You may apply for funding here: http://or2014.helsinki.fi/?page_id=412
+
+For more information or to nominate someone for a scholarship, please
+contact the Scholarship Committee chair, William J Nixon
+(william.nixon at glasgow.ac.uk).
+
+All the best,
+
+Imma Subirats
+Knowledge and Information Management Officer
+OEKC, FAO of the United Nations
+Viale delle Terme di Caracalla
+00153 Rome (Italy)
+
+From sanglorian at gmail.com  Tue Feb 25 00:24:38 2014
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Tue, 25 Feb 2014 11:24:38 +1100
+Subject: [Open-access] FOSsil Bank Update (25 February 2014)
+Message-ID: <CAMuj-eLf8Et34XVp+c+j+po6MPnT74Fgi8usr3Pr=OS8uCUYeg@mail.gmail.com>
+
+Hi folks,
+
+It's been two and a half months, so there's quite an amount of updates
+stored up. I've splitted this update in two - I'll post the second half
+next week.
+
+Thanks to *Leonard Kirke* who identified several CC0 works and sources to
+be added to the FOSsil Bank. Remember that you can always send me details
+of libre works that are missing from the FOSsil Bank if you don't feel
+comfortable adding them yourself.
+
+---
+
+In a review of 2013 in tabletop gaming, open licensing got a mention:
+http://livinglibre1.wordpress.com/2014/01/03/2013-in-tabletop-gaming-open-licensing-gets-a-mention/
+#FundFreeCulture
+
+If you spot a chance to #FundFreeCulture, shoot me an email and tweet about
+it!
+
+I tweet from https://twitter.com/living_libre
+
+@crowdfundFLOSS is a Twitter account that posts about crowdfunding libre
+software: https://twitter.com/crowdfundfloss
+
+The *Patreon *page on the FOSsil Bank collects Patreon projects with a
+#FundFreeCulture component - whether that's the entire work, or text only:
+http://fossilbank.wikidot.com/patreon
+
+Since the last update:
+
+   -
+
+   Josh Woodward (songs): http://www.patreon.com/creation?hid=175883
+   -
+
+   Rafu (tabletop RPGs): http://www.patreon.com/rafu&ty=2
+   -
+
+   The Fate Codex (for the tabletop RPG Fate):
+   http://www.patreon.com/Trumonz
+
+The* #FundFreeCulture *page collects free, libre and open sources and works
+that are - in some way - for sale or use donations as a funding model:
+http://fossilbank.wikidot.com/fundfreeculture
+*New*
+
+*Powers **F**or Good *is a new superhero tabletop RPG from Sage Latorra
+(one of the people behind *Dungeon World, *a popular libre RPG) (pay what
+you want, including nothing):
+http://rpg.drivethrustuff.com/product/126205/Powers-For-Good-%230
+
+*Shattered Time *is an open source computer RPG on Kickstarter (CC BY;
+Apache) (10 days left, $2,348/$100,000):
+https://www.kickstarter.com/projects/90524059/shattered-time-open-source-crpg
+
+*Internet Archive *had a December fundraising drive, but you can still
+donate now: https://archive.org/donate/
+
+Frustrated by 'open' gift guides that included CC ND and NC works (or
+downright all rights reserved ones!) I created a free, libre and open gift
+guide:
+http://livinglibre1.wordpress.com/2013/12/06/a-truly-free-libre-and-open-gift-guide-first-notes/
+*Ongoing*
+
+*The Public Domain Review Store **is operating*! Buy posters and prints
+taken (and usually adapted) from public domain works (prices start at
+around $21): http://publicdomainreview.org/store/
+
+*RK3: The Third Verse *is an adventure module for the *Dungeon World *tabletop
+roleplaying game. The text is CC BY-SA; layout and art is proprietary. ($6
+PDF, $14 hardcopy)
+http://redboxvancouver.wordpress.com/2013/10/28/rk3-the-third-verse/
+Concluded
+
+*Linux Voice *is a new magazine about everyone's favourite operating system
+from much of the team behind Linux Format; after nine months, all content
+from an issue will be CC BY-SA licensed (successfully funded;
+?127,603/?90,000): http://www.indiegogo.com/projects/linux-voice
+
+*Revenge of the Cats *is an oddly named experimental FPS (GPL, CC BY 4.0)
+(successfully funded; $1697/$1500):
+http://www.indiegogo.com/projects/resurrect-revenge-of-the-cats-ethernet-as-open-source-project
+Libre works and sources
+
+*Jono Bacon *runs Wired magazine, is involved in Ubuntu and is a member of
+the band Severed Fifth (CC BY-SA, CC BY-NC-SA, among others):
+http://fossilbank.wikidot.com/entry:jono-bacon
+Music
+
+*Severed Fifth *is a heavy metal band including Jono Bacon, that has
+released three albums (CC BY-SA):
+http://fossilbank.wikidot.com/entry:severed-fifth
+
+*Give Life Back to Music *is the first public domain music label (Public
+Domain Mark): http://fossilbank.wikidot.com/entry:give-life-back-to-music
+
+*Season of Gratitude *is a collection of Christmas songs from remix website
+ccMixter (CC BY-NC-SA, CC BY-NC, CC BY):
+http://fossilbank.wikidot.com/entry:season-of-gratitude
+
+*Free! Music! Sampler *is a collection of 36 songs under Creative Commons
+licences, of which 13 are libre:
+http://fossilbank.wikidot.com/entry:free-music-sampler
+*Information*
+
+*The Peeragogy Handbook *describes a system for collaborative learning and
+collaborative work (CC0):
+http://fossilbank.wikidot.com/entry:the-peeragogy-handbook
+
+*Copyright Week *is an information campaign from EFF about problems with
+copyright (CC BY): http://fossilbank.wikidot.com/entry:copyright-week
+
+*WikiPremed MCAT Course *aims to lower the financial barriers to becoming a
+doctor and improve the quality of MCAT review (CC BY-SA):
+http://fossilbank.wikidot.com/entry:wikipremed-mcat-course
+
+*The First 100 Days of Government *is Australia's Abbott Government's
+description of its accomplishments (CC BY):
+http://fossilbank.wikidot.com/entry:the-first-100-days-of-government
+
+*OERu *is a collection of online courses offered by world-class
+institutions (CC BY): http://fossilbank.wikidot.com/entry:oeru
+
+*Oil Contracts *is a >200 page book on how oil contracts work (CC BY-SA):
+http://fossilbank.wikidot.com/entry:oil-contracts
+
+
+Cheers,
+
+Chris
+
+*Chris Sakkas**Admin of the FOSsil Bank wiki
+<http://fossilbank.wikidot.com/> and the Living Libre blog
+<http://www.livinglibre.com> and Twitter feed
+<https://twitter.com/#%21/living_libre>.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140225/97506392/attachment.html>
+
+From wolftune at gmail.com  Tue Feb 25 00:43:06 2014
+From: wolftune at gmail.com (Aaron Wolf)
+Date: Mon, 24 Feb 2014 16:43:06 -0800
+Subject: [Open-access] [FC-discuss] FOSsil Bank Update (25 February 2014)
+In-Reply-To: <CAMuj-eLf8Et34XVp+c+j+po6MPnT74Fgi8usr3Pr=OS8uCUYeg@mail.gmail.com>
+References: <CAMuj-eLf8Et34XVp+c+j+po6MPnT74Fgi8usr3Pr=OS8uCUYeg@mail.gmail.com>
+Message-ID: <CAEmkM=awd6UYeRdz28vWx2ZQ2KNT4RMjx1jp=6V8sk9rAEf_pw@mail.gmail.com>
+
+Great work, Chris! As always.
+
+I do not think Jono Bacon is involved with Wired magazine though. As far as
+I can tell, the only connection is that the Wired editor-in-chief, Chris
+Anderson, wrote the forward to Jono's book.
+
+Someone correct me if I'm wrong please.
+
+Cheers,
+Aaron Wolf
+Snowdrift.coop
+
+--
+Aaron Wolf
+wolftune.com
+
+
+On Mon, Feb 24, 2014 at 4:24 PM, Chris Sakkas <sanglorian at gmail.com> wrote:
+
+> Hi folks,
+>
+> It's been two and a half months, so there's quite an amount of updates
+> stored up. I've splitted this update in two - I'll post the second half
+> next week.
+>
+> Thanks to *Leonard Kirke* who identified several CC0 works and sources to
+> be added to the FOSsil Bank. Remember that you can always send me details
+> of libre works that are missing from the FOSsil Bank if you don't feel
+> comfortable adding them yourself.
+>
+> ---
+>
+> In a review of 2013 in tabletop gaming, open licensing got a mention:
+> http://livinglibre1.wordpress.com/2014/01/03/2013-in-tabletop-gaming-open-licensing-gets-a-mention/
+> #FundFreeCulture
+>
+> If you spot a chance to #FundFreeCulture, shoot me an email and tweet
+> about it!
+>
+> I tweet from https://twitter.com/living_libre
+>
+> @crowdfundFLOSS is a Twitter account that posts about crowdfunding libre
+> software: https://twitter.com/crowdfundfloss
+>
+> The *Patreon *page on the FOSsil Bank collects Patreon projects with a
+> #FundFreeCulture component - whether that's the entire work, or text only:
+> http://fossilbank.wikidot.com/patreon
+>
+> Since the last update:
+>
+>    -
+>
+>    Josh Woodward (songs): http://www.patreon.com/creation?hid=175883
+>    -
+>
+>    Rafu (tabletop RPGs): http://www.patreon.com/rafu&ty=2
+>    -
+>
+>    The Fate Codex (for the tabletop RPG Fate):
+>    http://www.patreon.com/Trumonz
+>
+> The* #FundFreeCulture *page collects free, libre and open sources and
+> works that are - in some way - for sale or use donations as a funding
+> model: http://fossilbank.wikidot.com/fundfreeculture
+> *New*
+>
+> *Powers **F**or Good *is a new superhero tabletop RPG from Sage Latorra
+> (one of the people behind *Dungeon World, *a popular libre RPG) (pay what
+> you want, including nothing):
+> http://rpg.drivethrustuff.com/product/126205/Powers-For-Good-%230
+>
+> *Shattered Time *is an open source computer RPG on Kickstarter (CC BY;
+> Apache) (10 days left, $2,348/$100,000):
+> https://www.kickstarter.com/projects/90524059/shattered-time-open-source-crpg
+>
+> *Internet Archive *had a December fundraising drive, but you can still
+> donate now: https://archive.org/donate/
+>
+> Frustrated by 'open' gift guides that included CC ND and NC works (or
+> downright all rights reserved ones!) I created a free, libre and open gift
+> guide:
+> http://livinglibre1.wordpress.com/2013/12/06/a-truly-free-libre-and-open-gift-guide-first-notes/
+> *Ongoing*
+>
+> *The Public Domain Review Store **is operating*! Buy posters and prints
+> taken (and usually adapted) from public domain works (prices start at
+> around $21): http://publicdomainreview.org/store/
+>
+> *RK3: The Third Verse *is an adventure module for the *Dungeon World *tabletop
+> roleplaying game. The text is CC BY-SA; layout and art is proprietary. ($6
+> PDF, $14 hardcopy)
+> http://redboxvancouver.wordpress.com/2013/10/28/rk3-the-third-verse/
+> Concluded
+>
+> *Linux Voice *is a new magazine about everyone's favourite operating
+> system from much of the team behind Linux Format; after nine months, all
+> content from an issue will be CC BY-SA licensed (successfully funded;
+> ?127,603/?90,000): http://www.indiegogo.com/projects/linux-voice
+>
+> *Revenge of the Cats *is an oddly named experimental FPS (GPL, CC BY 4.0)
+> (successfully funded; $1697/$1500):
+> http://www.indiegogo.com/projects/resurrect-revenge-of-the-cats-ethernet-as-open-source-project
+> Libre works and sources
+>
+> *Jono Bacon *runs Wired magazine, is involved in Ubuntu and is a member
+> of the band Severed Fifth (CC BY-SA, CC BY-NC-SA, among others):
+> http://fossilbank.wikidot.com/entry:jono-bacon
+> Music
+>
+> *Severed Fifth *is a heavy metal band including Jono Bacon, that has
+> released three albums (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:severed-fifth
+>
+> *Give Life Back to Music *is the first public domain music label (Public
+> Domain Mark): http://fossilbank.wikidot.com/entry:give-life-back-to-music
+>
+> *Season of Gratitude *is a collection of Christmas songs from remix
+> website ccMixter (CC BY-NC-SA, CC BY-NC, CC BY):
+> http://fossilbank.wikidot.com/entry:season-of-gratitude
+>
+> *Free! Music! Sampler *is a collection of 36 songs under Creative Commons
+> licences, of which 13 are libre:
+> http://fossilbank.wikidot.com/entry:free-music-sampler
+> *Information*
+>
+> *The Peeragogy Handbook *describes a system for collaborative learning
+> and collaborative work (CC0):
+> http://fossilbank.wikidot.com/entry:the-peeragogy-handbook
+>
+> *Copyright Week *is an information campaign from EFF about problems with
+> copyright (CC BY): http://fossilbank.wikidot.com/entry:copyright-week
+>
+> *WikiPremed MCAT Course *aims to lower the financial barriers to becoming
+> a doctor and improve the quality of MCAT review (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:wikipremed-mcat-course
+>
+> *The First 100 Days of Government *is Australia's Abbott Government's
+> description of its accomplishments (CC BY):
+> http://fossilbank.wikidot.com/entry:the-first-100-days-of-government
+>
+> *OERu *is a collection of online courses offered by world-class
+> institutions (CC BY): http://fossilbank.wikidot.com/entry:oeru
+>
+> *Oil Contracts *is a >200 page book on how oil contracts work (CC BY-SA):
+> http://fossilbank.wikidot.com/entry:oil-contracts
+>
+>
+> Cheers,
+>
+> Chris
+>
+> *Chris Sakkas**Admin of the FOSsil Bank wiki
+> <http://fossilbank.wikidot.com/> and the Living Libre blog
+> <http://www.livinglibre.com> and Twitter feed
+> <https://twitter.com/#%21/living_libre>.*
+>
+> _______________________________________________
+> Discuss mailing list
+> Discuss at freeculture.org
+> http://lists.freeculture.org/mailman/listinfo/discuss
+> FAQ: http://wiki.freeculture.org/Fc-discuss
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140224/6a259078/attachment.html>
+
+From dougie.carnall at gmail.com  Thu Feb 27 09:00:53 2014
+From: dougie.carnall at gmail.com (Douglas Carnall)
+Date: Thu, 27 Feb 2014 10:00:53 +0100
+Subject: [Open-access] Data Set Diabetes
+In-Reply-To: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+References: <DUB125-W7569CF960EF2220AE39D68AB9C0@phx.gbl>
+Message-ID: <CAJZW5i3N=C6jEE8iKJzLGL-oACANtT6C2tbQ-2eb7DqheQDPgg@mail.gmail.com>
+
+Hi Angela,
+
+The diabetes consultant I worked for in York District Hospital in 1991 had
+built his own diabetic record database on a BBC microcomputer, and there
+have been many such initiatives since. As most diabetes care takes care in
+the UK in general practice, which is highly computerised, I'd suggest you
+get in touch with its research body, the Royal College, and see what they
+can suggest:
+http://www.rcgp.org.uk/clinical-and-research/clinical-resources/diabetes.aspx
+
+If you're looking for clinical datasets to run machine learning algorithms
+over, you might also approach the big diabetes charity that funds research:
+https://www.diabetes.org.uk/Research/ . If you can explain what you need to
+someone with an overview of all of major studies they fund, you could
+then--having suitably briefed yourself by reading their  publication output,
+and writing a focussed proposal--approach the principal investigator for
+access to the data.
+
+I dare say that the Scandinavian countries would have analogously
+well-organised services, but I'm not so familiar with the landscape there.
+Best of luck!
+
+Regards to all,
+
+D.
+
+
+2014-02-14 16:26 GMT+01:00 angela pimentel <angela_pimentel9 at hotmail.com>:
+
+> Hello,
+>
+> My name is Angela and I'm starting my Phd program in the areas of Machine
+> Learning and Diabetes.
+> I would like to know if there is any data set that I could have access
+> related to this area? This data set would be on diabetic subjects and would
+> measure a variety of vital signs (Electrodermal activity, Electrocardiogram
+> etc) in parallel with the invasive measurement of glucose.
+>
+> I appreciated if you could answer my request,
+>
+> Best regards,
+>
+> Angela Pimentel
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> https://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: https://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Douglas Carnall
+dougie.carnall at gmail.com
+http://cabinetbeezer.info
+Traduction vers l'anglais
+R?daction de textes en anglais
+Coaching pour pr?sentations en anglais
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140227/7ae542ff/attachment.html>
+
+From marianne.haska at royalsociety.org  Thu Feb 27 17:17:55 2014
+From: marianne.haska at royalsociety.org (Haska, Marianne)
+Date: Thu, 27 Feb 2014 17:17:55 +0000
+Subject: [Open-access] =?windows-1252?q?World=92s_first_scientific_publish?=
+ =?windows-1252?q?er_launches_new_open_access_journal?=
+In-Reply-To: <293d095de73a406ab6d5183ef80a6938@RS-GS-EX01.rsnet.local>
+References: <293d095de73a406ab6d5183ef80a6938@RS-GS-EX01.rsnet.local>
+Message-ID: <592b3fca44b3478691e5788337ab3bfa@RS-GS-EX01.rsnet.local>
+
+Apologies for cross-posting
+
+
+------------------------------
+
+
+
+World?s first scientific publisher launches new open access journal
+Royal Society Open Science will publish on the basis of objective peer review
+The Royal Society has announced the launch of Royal Society Open Science, a new open access journal publishing original research across the entire range of science on the basis of objective peer review.
+Royal Society Open Science will be the first of the Royal Society?s journals to cover the entire range of science and mathematics. It will provide a scalable publishing service, allowing the Society to publish all the high quality work it receives without the restrictions on scope, length or impact imposed by traditional journals. The cascade model will allow the Royal Society to make more efficient use of the precious resource of peer review and reduce the duplication of effort in needlessly repeated reviews of the same article.
+The journal will have a number of distinguishing features:
+
+  *   objective peer review (publishing all articles which are scientifically sound, leaving any judgement of importance or potential impact to the reader)
+  *   it will offer open peer review as an option
+  *   articles will embody open data principles
+  *   each article will have a suite of article level metrics and encourage post-publication comments
+  *   the Editorial team will consist entirely of practicing scientist and draw upon the expertise of the Royal Society?s Fellowship
+  *   in addition to direct submissions, it will accept articles referred from other Royal Society journals
+
+Royal Society Open Science welcomes the submission of all high quality science including articles which may usually be difficult to publish elsewhere, for example, those that include negative findings. The journal will launch officially later in 2014 and will cover life sciences, physical sciences, mathematics, engineering and computer science.
+On March 6th 2015 the Royal Society will mark the 350th anniversary of the launch of Philosophical Transactions.
+Sir Paul Nurse, President of the Royal Society, said:
+?Philosophical Transactions was the first journal dedicated to scientific endeavour and introduced the concepts of scientific priority and peer review. Today more than 20,000 scientific journals around the world are based on these two key principles and it is difficult to imagine a research process functioning without them. The publishing model is continually evolving and it?s important that the Royal Society?s own journal offerings do so too. We are delighted to be publishing this exciting new journal. We hope that Royal Society Open Science demonstrates our continued support for open access publishing and a commitment to publishing research that benefits science and humanity.?
+NOTES FOR EDITORS
+For further information contact:
+Nicola Kane
+Press and Public Relations
+The Royal Society, London
+Tel: 020 7451 2508
+E-mail: nicola.kane at royalsociety.org<mailto:nicola.kane at royalsociety.org>
+The Royal Society is a self-governing Fellowship of many of the world?s most distinguished scientists drawn from all areas of science, engineering, and medicine. The Society?s fundamental purpose, as it has been since its foundation in 1660, is to recognise, promote, and support excellence in science and to encourage the development and use of science for the benefit of humanity.
+The Society?s strategic priorities emphasise its commitment to the highest quality science, to curiosity-driven research, and to the development and use of science for the benefit of society. These priorities are:
+1. Promoting science and its benefits
+2. Recognising excellence in science
+3. Supporting outstanding science
+4. Providing scientific advice for policy
+5. Fostering international and global cooperation
+6. Education and public engagement
+For further information please visit http://royalsociety.org<http://royalsociety.org/>. Follow the Royal Society on Twitter at http://twitter.com/royalsociety or on Facebook at http://www.facebook.com/theroyalsociety.
+
+Marianne Haska
+Institutional Open Access Consultant
+The Royal Society
++33 488 432 179 (available Thursdays and Fridays)
+marianne.haska at royalsociety.org<mailto:marianne.haska at royalsociety.org>
+
+Registered Charity No 207043
+
+
+*************************************************************************
+This email is sent on behalf of The Royal Society, 6-9 Carlton House Terrace, London SW1Y 5AG, United Kingdom. 
+
+You should carry out your own virus check before opening any attachment. The Royal Society accepts no liability for any loss or damage which may be caused by software viruses or interception or interruption of this email.
+The contents of this email and any attachments are intended for the confidential use of the named recipient(s) only. They may be legally privileged and should not be communicated to or relied upon by any person without our express written consent. If you are not an addressee (or you have received this mail in error) please notify us immediately by email to: ithelpdesk at royalsociety.org
+
+Registered charity no. 207043
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-access/attachments/20140227/87e1041a/attachment.html>
+

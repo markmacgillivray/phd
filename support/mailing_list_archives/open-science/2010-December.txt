@@ -1,0 +1,1601 @@
+From jcmcoppice12 at gmail.com  Wed Dec  1 14:58:46 2010
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 1 Dec 2010 14:58:46 +0000
+Subject: [open-science] Reminder: Working Group Meeting - Today 17:30 GMT
+Message-ID: <AANLkTikcVrGvzhgfUaVo5uWrjC=_ihw3pgsuXW2iTUu3@mail.gmail.com>
+
+Dear All
+
+Just a reminder about the meeting today at 17.30 GMT. If you haven't
+already, please add your Skype ID to http://okfnpad.org/sciencewg-meetings.
+
+I look forward to speaking to you later, and for those who can't make the
+meeting a summary of the discussions will be sent out shortly after.
+
+Jenny
+
+
+On Fri, Nov 19, 2010 at 11:46 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Dear All
+>
+> Just a quick note to mention that our next working group meeting is coming
+> up soon. Apologies for the absence of a meeting this month, I was trying to
+> organise one but it turns out my emails haven't been reaching the list, so
+> I'm starting again! This will be the last meeting before 2011 so it would be
+> great if as many people as possible could participate, everyone is welcome
+> whether you've attended in the past or not.
+>
+> When:      Wednesday 1st December at 17.30 GMT
+> Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh)
+> and Skype (add your Skype ID to http://okfnpad.org/sciencewg-meetings)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-meetings
+> Add anything you'd like to be discussed or new ideas to the agenda (even if
+> you can't make it yourself, just make sure you add enough details).
+>
+> I'll be helping Greg with working group coordination going forward, and
+> getting involved with some other tasks at the OKF, so I look forward to
+> being in touch with many of you soon!
+>
+> Jenny
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101201/e4228a82/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Tue Dec  7 19:28:59 2010
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Tue, 7 Dec 2010 19:28:59 +0000
+Subject: [open-science] Minutes from WG Meeting Dec 1 2010
+In-Reply-To: <AANLkTikbpPcuBZKtcA0kuRBYmoEpGvtpSN3WrPcKrUm2@mail.gmail.com>
+References: <AANLkTikbpPcuBZKtcA0kuRBYmoEpGvtpSN3WrPcKrUm2@mail.gmail.com>
+Message-ID: <AANLkTi=C0E+_UyVODwCh2eadDd6i7AeFf7TSKni5zqak@mail.gmail.com>
+
+Dear All
+
+See below for a summary of key points from the WG meeting on Dec 1 2010,
+I've listed here the main updates, followed by a list of things you could
+contribute to and any interesting events that are coming up. If you'd like
+more detailed updates on projects or to view the full minutes, visit
+http://okfnpad.org/sciencewg-meetings
+
+-------------------
+Updates:
+
+Panton Principles:
+- Panton Papers are in progress and the BMC is willing to publish these once
+complete.
+- Further publicity and info such as a web banner and PP related podcasts
+are in progress.
+
+WG Community:
+- The home of the Open Science WG is here http://science.okfn.org/ and we
+hope to have more content posted soon as well as links to the Wiki and other
+relevant pages.
+- There should soon be a Google Calendar for all Open Science related
+meetings and events of interest - more details on how to contribute to both
+the blog and calendar pending.
+
+Planned Events:
+- An Open Data in Science event is being planned for February 2011 in
+Oxford.
+- There may be scope for organising an Open Data in Science Workshop in the
+future.
+- Speaker suggestions are needed for the OKCon science stream (see Things to
+Do below)
+- See OKF/Open Science Related Events below for confirmed events.
+
+IsItOpen Requests
+- Template letter by Heather and Peter can be found at
+http://okfnpad.org/isitopenLetters
+- All requests have been answered and Heather has blogged about the results
+and tips/lessons learned at http://science.okfn.org/
+- Might be time to pause and consider the process, maybe tips/lessons
+learned could be fed back into system.
+
+------------------
+Things to Do!
+
+1) Heather Piwowar would like to draw people's attention to a community hub
+for progress notes on tool support for tracking citations to nontraditional
+products. Please contribute if you have suggestions for how to move this
+forward!  http://bit.ly/cFgi94 <http://bit.ly/cFgi94>
+2) The annual OKF conference OKCon will be taking place again next year and
+we are looking for suggestions of speakers to invite for a science themed
+stream - check the pad for current suggestions and add your own.
+3) Make some Is It Open? requests! For more information see Heather's blog
+posts at http://science.okfn.org/ and visit http://www.isitopendata.org/ to
+make your request.
+4) Iain Hrynaszkiewicz at BMC is continuing to draft open data goals
+following on from the BMC open data statement. He would like input and
+suggestions from the WG on documenting the steps to implementing the BMC
+open data statement. Look out for future emails from Iain regarding this and
+please contribute.
+
+----------------
+OKF/Open Science Related Events:
+
+13-14th Dec 2010 - Open Access Open Data Conference http://www.oaod2010.de
+WG member Iain Hrynaszkiewicz is attending. Get in touch if you are too, or
+if there are any OKF related points you would like Iain to raise/discuss.
+
+15-16th Jan 2011 - Peter Murray-Rust is organising a 2 day hackathon
+involving the OKF and JISC in Cambridge, followed by....
+17th Jan 2011 - Peter Murray-Rust Symposium
+http://www-ucc.ch.cam.ac.uk/news/peter-murray-rust-symposium-17th-january-2011
+More information on http://wwmm.ch.cam.ac.uk/blogs/murrayrust/. Please
+register if you'd like to attend.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101207/730d6dea/attachment.htm>
+
+From egon.willighagen at gmail.com  Wed Dec 29 11:27:03 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 29 Dec 2010 12:27:03 +0100
+Subject: [open-science] CC0 RDF hosting service
+Message-ID: <AANLkTinctc5JfQo_DOtoUyzK=mLiN7Mk_EWWKFk4Y+gu@mail.gmail.com>
+
+Hi all,
+
+Mark Hahnel has extended his Science 3.0 website with a CC0 RDF
+hosting service. The purpose is small data sets, like results from
+experiments.
+
+http://www.science3point0.com/opendata/
+
+It is still new, and most certainly not in its final form. Yet, this
+should be of such interested to the Open Science community I had to
+forward the new here.
+
+With kind regards,
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Research Associate
+University of Cambridge
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From egon.willighagen at gmail.com  Wed Dec 29 11:47:24 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 29 Dec 2010 12:47:24 +0100
+Subject: [open-science] CC0 RDF hosting service
+In-Reply-To: <AANLkTinctc5JfQo_DOtoUyzK=mLiN7Mk_EWWKFk4Y+gu@mail.gmail.com>
+References: <AANLkTinctc5JfQo_DOtoUyzK=mLiN7Mk_EWWKFk4Y+gu@mail.gmail.com>
+Message-ID: <AANLkTimL20u=aXvBH+dG-wQpJJ=nZBzc2e1dU_n3+S_B@mail.gmail.com>
+
+On Wed, Dec 29, 2010 at 12:27 PM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+> Mark Hahnel has extended his Science 3.0 website with a CC0 RDF
+> hosting service.
+
+The full announcement can be found at:
+
+http://www.science3point0.com/blog/2010/12/29/cc0-rdf-hosting-for-scientists/
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Research Associate
+University of Cambridge
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.31.1304503888.30686.open-science@lists.okfn.org>
+
+profit. Last year hackathon registration was just 20EUR to cover basic
+costs. Should we find sponsors, we can make the event open.
+At the moment the practical details of the organization are a bit confused,
+as we have a major player from US which was interested in co-organizing, bu=
+t
+it's clear anymore. I'm holding for the time being both ULU and Welcome
+Trust Collection sites. Hackathon would be more likely in the former (or
+perhaps even in some university in London).
+
+ciao,
+Andrea
+
+ Il giorno 02/mag/2011, alle ore 00.14, Jenny Molloy ha scritto:
+- Hide quoted text -
+
+Dear Andrea
+
+Thank you for contacting the OKF regarding running an open data event in
+conjunction with the SWAT4LS conference in December. Your email was
+forwarded to the Open Data in Science working group and there are several
+members who are keen to organise something.
+
+In terms of the type of event, you mentioned either a workshop or an evenin=
+g
+event in your email. We would be keen to organise both, with an open data
+hack day followed by a presentation of the work from the day and some
+speakers, if that sounds good to you.
+
+Some of the topics that came up on the list were:
+Open Research Mapping of malaria research to form a figurative and literal
+map of open research/data including timelines, geolocation, citation links,
+etc.
+Building an open data toolkit such as guides, publicity materials to raise
+people=92s awareness of the importance of open data.
+
+The idea is for this to be a practical workshop, where people will learn
+about the issues surrounding open data while creating something useful for
+the scientific community. In addition, people who want help with specific
+open data questions will be working alongside those who are likely to be
+able to answer them.
+
+We'd be very keen to hear your views!
+
+Best wishes
+
+Jenny Molloy
+
+OKF Open Data in Science Working Group Coordinator
+Email: jenny.molloy at okfn.org
+Skype: jcmcoppice12
+
+
+
+
+
+ Andrea Splendiani
+Senior Bioinformatics Scientist
+Centre for Mathematical and Computational Biology
++44(0)1582 763133 ext 2004
+andrea.splendiani at bbsrc.ac.uk
+
+
+On Fri, Apr 29, 2011 at 12:56 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote=
+:
+
+> It will certainly work, if we prepare the ground. Ben has explored the
+> malaria open papers and I think this is a very good starting point for
+> several different reasons...
+> * it's feasible, there's a critical mass of information available. The te=
+rm
+> "malaria" is much more precise than some other medical terms so
+> preision/recall is good
+> * it's a global challenge and inclusive. We could do some really valuable
+> OSM stuff
+> * everyone has heard of it
+> * there's a chance that it could link up to other funded efforts (e.g. Ma=
+t
+> Todd's Open Drug initiative)
+>
+> To prepare we need to get a critical group of us physically together and
+> prepare some working material. Ben's stuff is a really good start and sho=
+uld
+> act to bring people in for later hackfests. For the main event we already
+> need an infrastructure that people can add to - hackfests are not always
+> good at creating a viable infrastructure. We need something with the feel=
+ of
+> OSM mapping parties where the vision has been implemented in part and
+> volunteers can easily add to it.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+--0016e68ee44d622cb704a2707a06
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Dear All<br><br>Some more info from Andrea, who is organising the conferenc=
+e. I sent him brief details of our proposals. His ideas (full email further=
+ down):<br><br><div>I&#39;m thinking about planning two days=20
+before the workshop. We already have some tutorial proposed, but I think
+ it would be good to have as well a more informal &quot;hackathon-like&quot=
+;=20
+space.<br></div>
+<div>Just as an example:</div>
+<div>we could have:</div>
+<div>Wednesday: hackathons</div>
+<div>Thursday: Tutorial + evening/discussion/panel on open data in science<=
+/div>
+<div>Friday: Workshop, where some results from the hackathon can be present=
+ed in the poster/demo session.</div>
+<div>Last
+ year the hackathon experience was capped to 20pp and it was=20
+interesting, but a bit disorganized. It ended up being a big tutorial.</div=
+>
+<div>The
+ problem with setting a topic too tightly is that participants may come=20
+from different backgrounds and it&#39;s hard to find a common focus.</div>
+<div>I can probably gather a few people interested in pathways information,=
+ though.</div>
+<div>Another option would be to have a more loose setting where we have som=
+e open data/semantic web &quot;clinics&quot;.</div>
+<div>Yet another idea could be to have a tutorial on the use of CKAN techno=
+logies for Life Sciences.</div><br>Would anyone be willing to join a Skype =
+discussion about this if we can find a time when Andrea is free? Peter, may=
+be you would be a good person to discuss how to run a hackathon for people =
+with diverse interests?<br>
+
+<br>Jenny<br><br>---------- Forwarded message ----------<br>From: <b class=
+=3D"gmail_sendername">Andrea Splendiani</b> <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:andrea.splendiani at bbsrc.ac.uk">andrea.splendiani at bbsrc.ac.uk</a>=
+&gt;</span><br>
+
+Date: Mon, May 2, 2011 at 9:02 PM<br>Subject: Re: Open Data in Science at S=
+WAT4LS<br>To: Jenny Molloy &lt;<a href=3D"mailto:jenny.molloy at okfn.org">jen=
+ny.molloy at okfn.org</a>&gt;<br><br><br>Dear Jenny,<div><br></div><div>let me=
+ explain better my situation.</div>
+
+<div>I&#39;m
+ going to organize a workshop on Semantic Web applications for the Life=20
+Sciences in London this year (late november, beginning of december).</div><=
+div>The
+ workshop is at its 4th edition and so far it has been pretty=20
+successful. Up to last year, it consisted of a one day workshop with a=20
+traditional academic style: presentations of peer-reviewed papers,=20
+keynotes, panel, poster/demo session, and a special issue associated in=20
+an international journal.</div><div>In the past edition in Berlin, we=20
+have added to the 1 day workshop 2 days of tutorials and hackathon-like=20
+events (see the link to the 2010 edition from the <a href=3D"http://swat4ls=
+.org/" target=3D"_blank">swat4ls.org</a> website).</div><div>The
+ workshop itself has been on sound basis so far (we had 50 submissions=20
+for a 1 day workshop last year), it will likely run on Friday and follow
+ a traditional pattern.</div><div>I&#39;m thinking about planning two days=
+=20
+before the workshop. We already have some tutorial proposed, but I think
+ it would be good to have as well a more informal &quot;hackathon-like&quot=
+;=20
+space.</div><div>Just as an example:</div><div>we could have:</div><div>Wed=
+nesday: hackathons</div><div>Thursday: Tutorial + evening/discussion/panel =
+on open data in science</div><div>Friday: Workshop, where some results from=
+ the hackathon can be presented in the poster/demo session.</div>
+
+<div>Last
+ year the hackathon experience was capped to 20pp and it was=20
+interesting, but a bit disorganized. It ended up being a big tutorial.</div=
+><div>The
+ problem with setting a topic too tightly is that participants may come=20
+from different backgrounds and it&#39;s hard to find a common focus.</div><=
+div>I can probably gather a few people interested in pathways information, =
+though.</div><div>Another option would be to have a more loose setting wher=
+e we have some open data/semantic web &quot;clinics&quot;.</div>
+
+<div>Yet another idea could be to have a tutorial on the use of CKAN techno=
+logies for Life Sciences.</div><div><br></div><div>How do these ideas sound=
+ ? Perhaps we can catch-up on Skype and discuss it a bit.</div><div><br>
+
+</div><div>From
+ a practical point of view, we charge participants, though not for=20
+profit. Last year hackathon registration was just 20EUR to cover basic=20
+costs. Should we find sponsors, we can make the event open.=A0</div><div>At
+ the moment the practical details of the organization are a bit=20
+confused, as we have a major player from US which was interested in=20
+co-organizing, but it&#39;s clear anymore. I&#39;m holding for the time bei=
+ng=20
+both ULU and Welcome Trust Collection sites. Hackathon would be more=20
+likely in the former (or perhaps even in some university in London).</div><=
+div><br></div><div>ciao,</div><div>Andrea</div><br><div><div>=A0Il giorno 0=
+2/mag/2011, alle ore 00.14, Jenny Molloy ha scritto:</div><div><div><span i=
+d=3D"q_12fb2618200d3ed5_1" class=3D"h4">- Hide quoted text -</span></div>
+
+<div class=3D"im"><br><blockquote type=3D"cite"><div>Dear Andrea</div><div>=
+<br></div><div>Thank
+ you for contacting the OKF regarding running an open data event in=20
+conjunction with the SWAT4LS conference in December. Your email was=20
+forwarded to the Open Data in Science working group and there are=20
+several members who are keen to organise something.</div>
+
+
+
+
+<div><br></div><div>In terms of the type of event, you mentioned either a
+ workshop or an evening event in your email. We would be keen to=20
+organise both, with an open data hack day followed by a presentation of=20
+the work from the day and some speakers, if that sounds good to you.</div>
+
+
+
+
+<div><br></div><div>Some of the topics that came up on the list were:</div>=
+<div>Open Research Mapping of malaria research to form a=A0<span style=3D"b=
+order-collapse: collapse; font-family: arial,sans-serif; font-size: 13px;">=
+figurative and literal map of open research/data including timelines, geolo=
+cation, citation links, etc.</span></div>
+
+
+
+
+
+
+<div>Building an open data toolkit such as guides, publicity materials to r=
+aise people=92s awareness of the importance of open data.=A0</div><div>=A0<=
+/div><div>The
+ idea is for this to be a practical workshop, where people will learn=20
+about the issues surrounding open data while creating something useful=20
+for the scientific community. In addition, people who want help with=20
+specific open data questions will be working alongside those who are=20
+likely to be able to answer them.=A0</div>
+
+
+
+<div><br></div><div>We&#39;d be very keen to hear your views!</div><div><br=
+></div><div>Best wishes</div><div><br></div><div>Jenny Molloy</div><div><br=
+></div><div>OKF Open Data in Science Working Group Coordinator <br>Email:<a=
+ href=3D"mailto:jenny.molloy at okfn.org" target=3D"_blank"> jenny.molloy at okfn=
+.org</a><br>
+
+
+
+Skype: jcmcoppice12<br><br></div><div><br></div><div><br></div>
+<div><br></div>
+</blockquote></div></div></div><br>
+<span style=3D"border-collapse: separate; color: rgb(0, 0, 0); font-family:=
+ Helvetica; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; text-indent: 0px; text-transfo=
+rm: none; white-space: normal; word-spacing: 0px; font-size: medium;"><div>
+
+Andrea Splendiani</div><div>Senior Bioinformatics Scientist</div><div>Centr=
+e for Mathematical and Computational Biology</div><div>+44(0)1582 763133 ex=
+t 2004</div><div><a href=3D"mailto:andrea.splendiani at bbsrc.ac.uk" target=3D=
+"_blank">andrea.splendiani at bbsrc.ac.uk</a></div>
+
+</span><br><br><div class=3D"gmail_quote">On Fri, Apr 29, 2011 at 12:56 AM,=
+ Peter Murray-Rust <span dir=3D"ltr">&lt;<a href=3D"mailto:pm286 at cam.ac.uk"=
+>pm286 at cam.ac.uk</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote"=
+ style=3D"margin: 0pt 0pt 0pt 0.8ex; border-left: 1px solid rgb(204, 204, 2=
+04); padding-left: 1ex;">
+
+It will certainly work, if we prepare the ground. Ben has explored the mala=
+ria open papers and I think this is a very good starting point for several =
+different reasons...<br>* it&#39;s feasible, there&#39;s a critical mass of=
+ information available. The term &quot;malaria&quot; is much more precise t=
+han some other medical terms so preision/recall is good<br>
+
+
+* it&#39;s a global challenge and inclusive. We could do some really valuab=
+le OSM stuff<br>* everyone has heard of it<br>* there&#39;s a chance that i=
+t could link up to other funded efforts (e.g. Mat Todd&#39;s Open Drug init=
+iative)<br>
+
+
+<br>To prepare we need to get a critical group of us physically together an=
+d prepare some working material. Ben&#39;s stuff is a really good start and=
+ should act to bring people in for later hackfests. For the main event we a=
+lready need an infrastructure that people can add to - hackfests are not al=
+ways good at creating a viable infrastructure. We need something with the f=
+eel of OSM mapping parties where the vision has been implemented in part an=
+d volunteers can easily add to it.<br>
+
+<font color=3D"#888888">
+<br clear=3D"all"><br>-- <br></font><div><div></div><div class=3D"h5">Peter=
+ Murray-Rust<br>Reader in Molecular Informatics<br>Unilever Centre, Dep. Of=
+ Chemistry<br>University of Cambridge<br>CB2 1EW, UK<br>+44-1223-763069<br>
+
+
+</div></div></blockquote></div><br>
+
+--0016e68ee44d622cb704a2707a06--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.44.1308707869.30686.open-science@lists.okfn.org>
+
+exchanges of views and using practical exercises
+or
+o Traditional panel discussion: maximum 3-4 speakers (maximum 15 minutes
+each) followed by extended discussion with audience
+
+In terms of which theme we would fit into, I think we could argue for
+6. Information
+Telecommunications; Surveillance; Digitalization of the arts; Search
+technologies; Is the World Wide Web going to collapse? Nanosensors; Quantum
+computation; Nanotechnologies; Ethics data protection and privacy; Risk
+assessment; Social sciences; Is e-
+mail the end of history? Storage communication and display technologies
+
+ESOF 2008
+Sharing scientific data: who benefits?
+Saturday 19 July | 16.30 - 18.00
+Room 11, Palau de Congressos de Barcelona
+Digital datasets =97 text-based, numeric, audio, video or image-based =97 f=
+orm
+the output of all scientific disciplines. How is this data being made
+available for sharing? What quality control mechanisms are in place? What
+kinds of naming conventions, tags, and metadata are in use and how effectiv=
+e
+are they at helping to manage open data? Who is storing, archiving and
+curating open data and at which levels? And how is the production and
+sharing of open data assessed? What processes are in place for crediting
+scientists with making their raw data openly accessible for sharing and use=
+?
+To what extent can and should data publication replace traditional forms of
+publication of research findings?
+
+ORGANISER
+Alma Swan, Key Perspectives Ltd, United Kingdom
+
+SPEAKERS
+Peter Murray-Rust, University of Cambridge, United Kingdom
+Open Data: the researcher=92s perspective
+
+Philip Campbell, Nature, United Kingdom
+Open Data: what publishers can do
+
+Max V=F6gler, Deutsche Forschungsgemeinschaft, DFG Germany
+Funding Open Data: some thoughts and challenges on the road ahead
+
+
+On Wed, Jun 22, 2011 at 1:25 AM, Jonathan Gray <jonathan.gray at okfn.org>wrot=
+e:
+
+> This sounds like a *great* idea and definitely worth doing!
+>
+> All: what do you think?
+>
+> J.
+>
+> On Tue, Jun 21, 2011 at 7:55 PM, maria <adresamariei at yahoo.co.uk> wrote:
+> >
+> > Hi everyone,
+> > I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open
+> > Forum), starring Dublin as the European Capital of Science for 11-15 Ju=
+ly
+> > 2012- http://www.dublinscience2012.ie/
+> > There are two openings for projects, both having the deadline on the 30
+> of
+> > June:
+> > 1. The Scientific Session Proposals - mainly as
+> > workshops/presentations/roundtable/conference/Pecha Kucha
+> > 2. The Public Engagement Proposal  -  mainly as an activity, creative
+> > idea, theatre, film, Interactive
+> Dialogue, Exhibition,  Workshop,  Outdoor
+> > Event,  Debate and so on.
+> >
+> > Do you think our working group can develop one (or more) project
+> proposals
+> > on Open Data in Science/Panton Principles? I would be a great opportuni=
+ty
+> to
+> > attend ESOF next year and I would like to invite you for an online
+> > brainstorm in the next days. Hopefully, in the best case scenario, by t=
+he
+> > end of the week we can choose the best ideas, refine them and prepare t=
+he
+> > proposal for the 30 of June.
+> > What do you think? Let's plan something!
+> > Best,
+> > Maria
+> > PS: You can find below some extra info from the official press release:
+> >
+> > "Dublin City of Science 2012 comprises a year-long series of
+> science-linked
+> > events,
+> > the centre-piece of which will be the Euroscience Open Form (ESOF), whi=
+ch
+> > will be
+> > held in the Convention Centre Dublin from 11-15 July 2012.
+> > ESOF is an interdisciplinary, pan-European meeting, held under the
+> auspices
+> > of
+> > Euroscience, which aims to:
+> > Showcase the latest advances in science and technology.
+> > Promote a dialogue on the role of science and technology in society and
+> > public policy.
+> > Stimulate and provoke public interest, excitement and debate about
+> science
+> > and technology.
+> > The event will bring together over 5,000 scientists, business leaders,
+> > government
+> > officials and international media to discuss the best of European scien=
+ce
+> > and to
+> > address all of the major global challenges, including Energy, Climate
+> > Change, Food
+> > and Health.
+> > Dublin was awarded the honour of hosting this event following an open
+> > competition in
+> > 2008. The Dublin bid was led by the Chief Scientific Adviser to the
+> > Government, Prof
+> > Cunningham, with the support of Forf=E1s and beat off stiff competition
+> from
+> > Vienna.
+> > Prof Cunningham and Forf=E1s are now responsible for planning and
+> organisation
+> > of
+> > ESOF. In addition, they will coordinate other activities and events in
+> the
+> > Dublin City of
+> > Science 2012 programme."
+> >
+> > Maria
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> >
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+--0016368e264b1e80f304a6434bc5
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+I&#39;m definitely in favour, I&#39;ve attended the last two ESOFs and thou=
+ght they were really good. They attract a cross-disciplinary crowd with rep=
+resentatives from sci comm/publishing/policy/industry etc as well as resear=
+chers. There&#39;s usually a lot of early career scientists in particular b=
+ecause they give a big discount to people under 35. Peter Murray Rust spoke=
+ in 2008 in Barcelona on the topic of open data in science (abstract from s=
+ession posted at the end of this email, although it is ridiculously broad!)=
+<br>
+
+<br>Perhaps we could take a look at some exciting things that are being don=
+e/could be done with open data (rather than a general &#39;why is open good=
+&#39; discussion), and then examine why it isn&#39;t all happening yet. May=
+be we could make this a discussion with the audience as to why they might/m=
+ight not consider publishing their data openly? Entirely different suggesti=
+ons and further thoughts welcome!<br>
+
+<br>Jenny<br><br>PS Fitting into the call:<br>From the list of possible for=
+mats, I guess the following would be best:<br>o Workshop: a flexible format=
+, led by a speaker experienced in stimulating exchanges of views and using =
+practical exercises<br>
+
+or<br>o Traditional panel discussion: maximum 3-4 speakers (maximum 15 minu=
+tes each) followed by extended discussion with audience<br><br>In terms of =
+which theme we would fit into, I think we could argue for<br>6. Information=
+<br>
+
+Telecommunications; Surveillance; Digitalization of the arts; Search techno=
+logies; Is the World Wide Web going to collapse? Nanosensors; Quantum compu=
+tation; Nanotechnologies; Ethics data protection and privacy; Risk assessme=
+nt; Social sciences; Is e-<br>
+
+mail the end of history? Storage communication and display technologies<br>=
+<br>ESOF 2008<br>Sharing scientific data: who benefits?<br>Saturday 19 July=
+ | 16.30 - 18.00<br>Room 11, Palau de Congressos de Barcelona<br>Digital da=
+tasets =97 text-based, numeric, audio, video or image-based =97 form the ou=
+tput of all scientific disciplines. How is this data being made available f=
+or sharing? What quality control mechanisms are in place? What kinds of nam=
+ing conventions, tags, and metadata are in use and how effective are they a=
+t helping to manage open data? Who is storing, archiving and curating open =
+data and at which levels? And how is the production and sharing of open dat=
+a assessed? What processes are in place for crediting scientists with makin=
+g their raw data openly accessible for sharing and use? To what extent can =
+and should data publication replace traditional forms of publication of res=
+earch findings?<br>
+
+<br>ORGANISER<br>Alma Swan, Key Perspectives Ltd, United Kingdom<br><br>SPE=
+AKERS<br>Peter Murray-Rust, University of Cambridge, United Kingdom<br>Open=
+ Data: the researcher=92s perspective<br><br>Philip Campbell, Nature, Unite=
+d Kingdom<br>
+
+Open Data: what publishers can do<br><br>Max V=F6gler, Deutsche Forschungsg=
+emeinschaft, DFG Germany<br>Funding Open Data: some thoughts and challenges=
+ on the road ahead<br><br><br><div class=3D"gmail_quote">On Wed, Jun 22, 20=
+11 at 1:25 AM, Jonathan Gray <span dir=3D"ltr">&lt;<a href=3D"mailto:jonath=
+an.gray at okfn.org">jonathan.gray at okfn.org</a>&gt;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">This sounds like =
+a *great* idea and definitely worth doing!<br>
+<br>
+All: what do you think?<br>
+<br>
+J.<br>
+<div><div></div><div class=3D"h5"><br>
+On Tue, Jun 21, 2011 at 7:55 PM, maria &lt;<a href=3D"mailto:adresamariei at y=
+ahoo.co.uk">adresamariei at yahoo.co.uk</a>&gt; wrote:<br>
+&gt;<br>
+&gt; Hi everyone,<br>
+&gt; I stumbled upon a Call for Proposals from ESOF 2012 (Euroscience Open<=
+br>
+&gt; Forum), starring Dublin as the European Capital of Science for 11-15 J=
+uly<br>
+&gt; 2012-=A0<a href=3D"http://www.dublinscience2012.ie/" target=3D"_blank"=
+>http://www.dublinscience2012.ie/</a><br>
+&gt; There are two openings for projects, both having the deadline on the 3=
+0 of<br>
+&gt; June:<br>
+&gt; 1. The Scientific Session Proposals=A0- mainly as<br>
+&gt; workshops/presentations/roundtable/conference/Pecha Kucha<br>
+&gt; 2. The Public Engagement Proposal =A0- =A0mainly as an activity, creat=
+ive<br>
+&gt; idea,=A0theatre, film,=A0Interactive Dialogue,=A0Exhibition,=A0=A0Work=
+shop,=A0=A0Outdoor<br>
+&gt; Event,=A0=A0Debate and so on.<br>
+&gt;<br>
+&gt; Do you think our working group can develop one (or more) project propo=
+sals<br>
+&gt; on Open Data in Science/Panton Principles? I would be a great opportun=
+ity to<br>
+&gt; attend ESOF next year and=A0I would like to invite you for an online<b=
+r>
+&gt; brainstorm in the next days. Hopefully, in the best case scenario, by =
+the<br>
+&gt; end of the week we can choose the best ideas, refine them and prepare =
+the<br>
+&gt; proposal for the 30 of June.<br>
+&gt; What do you think? Let&#39;s plan something!<br>
+&gt; Best,<br>
+&gt; Maria<br>
+&gt; PS: You can find below some extra info from the official press release=
+:<br>
+&gt;<br>
+&gt; &quot;Dublin City of Science 2012 comprises a year-long series of scie=
+nce-linked<br>
+&gt; events,<br>
+&gt; the centre-piece of which will be the Euroscience Open Form (ESOF), wh=
+ich<br>
+&gt; will be<br>
+&gt; held in the Convention Centre Dublin from 11-15 July 2012.<br>
+&gt; ESOF is an interdisciplinary, pan-European meeting, held under the aus=
+pices<br>
+&gt; of<br>
+&gt; Euroscience, which aims to:<br>
+&gt; Showcase the latest advances in science and technology.<br>
+&gt; Promote a dialogue on the role of science and technology in society an=
+d<br>
+&gt; public policy.<br>
+&gt; Stimulate and provoke public interest, excitement and debate about sci=
+ence<br>
+&gt; and technology.<br>
+&gt; The event will bring together over 5,000 scientists, business leaders,=
+<br>
+&gt; government<br>
+&gt; officials and international media to discuss the best of European scie=
+nce<br>
+&gt; and to<br>
+&gt; address all of the major global challenges, including Energy, Climate<=
+br>
+&gt; Change, Food<br>
+&gt; and Health.<br>
+&gt; Dublin was awarded the honour of hosting this event following an open<=
+br>
+&gt; competition in<br>
+&gt; 2008. The Dublin bid was led by the Chief Scientific Adviser to the<br=
+>
+&gt; Government, Prof<br>
+&gt; Cunningham, with the support of Forf=E1s and beat off stiff competitio=
+n from<br>
+&gt; Vienna.<br>
+&gt; Prof Cunningham and Forf=E1s are now responsible for planning and orga=
+nisation<br>
+&gt; of<br>
+&gt; ESOF. In addition, they will coordinate other activities and events in=
+ the<br>
+&gt; Dublin City of<br>
+&gt; Science 2012 programme.&quot;<br>
+&gt;<br>
+&gt; Maria<br>
+</div></div>&gt; _______________________________________________<br>
+&gt; open-science mailing list<br>
+&gt; <a href=3D"mailto:open-science at lists.okfn.org">open-science at lists.okfn=
+.org</a><br>
+&gt; <a href=3D"http://lists.okfn.org/mailman/listinfo/open-science" target=
+=3D"_blank">http://lists.okfn.org/mailman/listinfo/open-science</a><br>
+&gt;<br>
+&gt;<br>
+<br>
+<br>
+<br>
+--<br>
+Jonathan Gray<br>
+<br>
+Community Coordinator<br>
+The Open Knowledge Foundation<br>
+<a href=3D"http://blog.okfn.org" target=3D"_blank">http://blog.okfn.org</a>=
+<br>
+<br>
+<a href=3D"http://twitter.com/jwyg" target=3D"_blank">http://twitter.com/jw=
+yg</a><br>
+<a href=3D"http://identi.ca/jwyg" target=3D"_blank">http://identi.ca/jwyg</=
+a><br>
+<br>
+_______________________________________________<br>
+open-science mailing list<br>
+<a href=3D"mailto:open-science at lists.okfn.org">open-science at lists.okfn.org<=
+/a><br>
+<a href=3D"http://lists.okfn.org/mailman/listinfo/open-science" target=3D"_=
+blank">http://lists.okfn.org/mailman/listinfo/open-science</a><br>
+</blockquote></div><br>
+
+--0016368e264b1e80f304a6434bc5--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.80.1313485669.30686.open-science@lists.okfn.org>
+
+2. The creation of some basic guidelines on preparing/publishing
+additional (supplementary) files. Comprehensive information on "what do
+we mean by data?" wasn't deemed necessary (or possible) but some basic
+principles might be useful e.g. supplementary tables should not be
+provided as PDF files.
+
+> It seems like this paper is perhaps unfairly putting the burden of
+> responsibility on the authors of meta-analyses, rather than on
+> publishers who I imagine could easily (surely?) let ISI count ESM/SI
+> citations. Why does this issue even exist in 2011 (the Digitial
+> Age)!?!?
+
+One would think so - are there any publishers on the list who wouldn't
+mind giving their perspective or explaining the challenges?
+
+Jenny
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.81.1313785033.30686.open-science@lists.okfn.org>
+
+This trend continues with new activities from NCEAS and the DataONE project.
+ For example, we just held two workshops at this month's ESA meeting, one on
+Data use and re-use that drew 51 scientists, and one on writing Data
+Management plans that drew 212 participants.  We have upcoming workshops of
+this sort at the Environmental Information Management workshop in September,
+at Super Computing 2011 in November, and at the American Geophysical Union
+meeting in December. Slides and information on these DataONE activities are
+here:
+
+https://www.dataone.org/trainings
+
+Hope this is helpful in some way.
+Matt
+
+On Fri, Aug 19, 2011 at 8:11 AM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+>
+>> # Open Science/Open Data at Science Conferences
+>> Iain Hrynaszkiewicz is keen to find out whether open science and open
+>> data in science are presented at conferences that are not specifically
+>> aimed at the open community. If you have seen it done, have entered a
+>> proposal or know of any others who have then do start a conversation
+>> on the list. It would be useful to compare experiences to find out how
+>> best to approach this and get more exposure for the ideas of open
+>> data/open science.
+>>
+>
+> I'm familiar with a few add-on workshops, birds-of-a-feature sessions, and
+> community forums set up adjacent to or within traditional conferences:
+>
+>    - Open Science workshop 2009 <http://psb09openscience.wordpress.com/>,
+>    one day before the Pacific Symposium on Biocomputing.
+>    - Open (Notebook) Science birds-of-a-feather<http://researchremix.wordpress.com/2007/07/18/ismb-2007-bof-open-notebook-science/> at
+>    2007 ISMB (followup<http://researchremix.wordpress.com/2007/08/07/summary-of-ons-bof-at-ismb/#comments>
+>    )
+>    - Data archiving and Open notebook sessions<http://researchremix.wordpress.com/2010/07/05/evolution-2010-and-ievobio-recap/>at Evolution and iEvoBio 2010
+>    - Open Science birds-of-a-feather<http://researchremix.wordpress.com/2010/07/12/recap-of-ievobio-bof-on-open-science-data-sharing-reuse-credit/>at iEvoBio 2010
+>    - Community Forum on Reproducible Research<http://kingkong.amath.washington.edu/rrforum/>right before ICIAM 2011
+>    - there was a panel proposal about Open Notebook Science submitted to
+>    iConference 2011 but it wasn't accepted
+>
+> I think there was a workshop at a neuro conference before 2007 but I can't
+> easily find the link.
+>
+> I've also presented my research into open data availability as solo
+> presentations/posters at several traditional science and infosci
+> conferences, for what that is worth.
+>
+> Heather
+>
+> --
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   studying research data sharing and reuse
+>   remotely from Dept of Zoology, UBC, Vancouver Canada
+> http://researchremix.org
+> @researchremix <http://twitter.com/#!/researchremix>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+--0016e6d99ba9b5171c04aae169da
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+There have been lots of data sharing and data management activities over th=
+e last decade in ecology and environmental science. =A0For example, we have=
+ sponsored open data sharing and management workshops at the Ecological Soc=
+iety of America annual conference since about 2000, held training sessions =
+for scientists on how to expose data in networks like the Knowledge Network=
+ for Biocomplexity since about the same time, and held professional develop=
+ment activities around exposing scientists at field stations and early care=
+er faculty on principals of data sharing and tools for data sharing. =A0As =
+a rough estimate, our group of collaborators has probably held 30-40 worksh=
+op activities of this type aimed at science audiences since roughly 2000.<d=
+iv>
+<br></div><div>Although I don&#39;t have links to all of these, here&#39;s =
+a couple:</div><div><br></div><div>A KNB data sharing tools workshop in 200=
+4:=A0<a href=3D"http://knb.ecoinformatics.org/knbworkshop.jsp">http://knb.e=
+coinformatics.org/knbworkshop.jsp</a></div>
+<div>From our &quot;Resource Discovery Initiative for Field Stations&quot;:=
+=A0<a href=3D"http://seek.ecoinformatics.org/Wiki.jsp%3Fpage=3DRCNTrainingO=
+ctober17November2003.html">http://seek.ecoinformatics.org/Wiki.jsp%3Fpage=
+=3DRCNTrainingOctober17November2003.html</a></div>
+<div><br></div><div>This trend continues with new activities from NCEAS and=
+ the DataONE project. =A0For example, we just held two workshops at this mo=
+nth&#39;s ESA meeting, one on Data use and re-use that drew 51 scientists, =
+and one on writing Data Management plans that drew 212 participants. =A0We =
+have upcoming workshops of this sort at the Environmental Information Manag=
+ement workshop in September, at Super Computing 2011 in November, and at th=
+e American Geophysical Union meeting in December. Slides and information on=
+ these DataONE activities are here:</div>
+<div><br></div><div><a href=3D"https://www.dataone.org/trainings">https://w=
+ww.dataone.org/trainings</a></div><div><br>Hope this is helpful in some way=
+.</div><div>Matt</div><div><br><div class=3D"gmail_quote">On Fri, Aug 19, 2=
+011 at 8:11 AM, Heather Piwowar <span dir=3D"ltr">&lt;<a href=3D"mailto:hpi=
+wowar at gmail.com" target=3D"_blank">hpiwowar at gmail.com</a>&gt;</span> wrote:=
+<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+<div class=3D"gmail_quote"><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><br>
+# Open Science/Open Data at Science Conferences<br>
+Iain Hrynaszkiewicz is keen to find out whether open science and open<br>
+data in science are presented at conferences that are not specifically<br>
+aimed at the open community. If you have seen it done, have entered a<br>
+proposal or know of any others who have then do start a conversation<br>
+on the list. It would be useful to compare experiences to find out how<br>
+best to approach this and get more exposure for the ideas of open<br>
+data/open science.<br></blockquote><div><br></div><div>I&#39;m familiar wit=
+h a few add-on workshops, birds-of-a-feature sessions, and community forums=
+ set up adjacent to or within traditional conferences:</div><div><ul><li>
+
+
+
+
+<a href=3D"http://psb09openscience.wordpress.com/" target=3D"_blank">Open S=
+cience workshop 2009</a>, one day before the=A0Pacific Symposium on Biocomp=
+uting.</li><li><a href=3D"http://researchremix.wordpress.com/2007/07/18/ism=
+b-2007-bof-open-notebook-science/" target=3D"_blank">Open (Notebook) Scienc=
+e birds-of-a-feather</a>=A0at 2007 ISMB (<a href=3D"http://researchremix.wo=
+rdpress.com/2007/08/07/summary-of-ons-bof-at-ismb/#comments" target=3D"_bla=
+nk">followup</a>)</li>
+
+
+
+
+<li><a href=3D"http://researchremix.wordpress.com/2010/07/05/evolution-2010=
+-and-ievobio-recap/" target=3D"_blank">Data archiving and Open notebook ses=
+sions</a> at Evolution and iEvoBio 2010</li><li><a href=3D"http://researchr=
+emix.wordpress.com/2010/07/12/recap-of-ievobio-bof-on-open-science-data-sha=
+ring-reuse-credit/" target=3D"_blank">Open Science birds-of-a-feather</a> a=
+t iEvoBio 2010</li>
+
+
+
+
+<li><a href=3D"http://kingkong.amath.washington.edu/rrforum/" target=3D"_bl=
+ank">Community Forum on Reproducible Research</a> right before ICIAM 2011</=
+li><li>there was a panel proposal about Open Notebook Science submitted to =
+iConference 2011 but it wasn&#39;t accepted</li>
+
+
+
+
+</ul><div>I think there was a workshop at a neuro conference before 2007 bu=
+t I can&#39;t easily find the link.</div><div><br></div><div>I&#39;ve also =
+presented my research into open data availability as solo presentations/pos=
+ters=A0at several traditional science and infosci conferences, for what tha=
+t is worth.</div>
+
+
+
+
+</div><div><br></div><div>Heather</div><div><br></div><font color=3D"#88888=
+8"><div><div>--</div>Heather Piwowar<div><br>DataONE postdoc with NESCent a=
+nd Dryad</div><div>=A0=A0studying research data sharing and reuse<br>=A0=A0=
+remotely from Dept of Zoology, UBC, Vancouver Canada<br>
+
+
+
+<a href=3D"http://researchremix.org/" target=3D"_blank">http://researchremi=
+x.org</a><br><a href=3D"http://twitter.com/#!/researchremix" target=3D"_bla=
+nk">@researchremix</a></div></div></font></div>
+<br>_______________________________________________<br>
+open-science mailing list<br>
+<a href=3D"mailto:open-science at lists.okfn.org" target=3D"_blank">open-scien=
+ce at lists.okfn.org</a><br>
+<a href=3D"http://lists.okfn.org/mailman/listinfo/open-science" target=3D"_=
+blank">http://lists.okfn.org/mailman/listinfo/open-science</a><br>
+<br></blockquote></div><br>
+</div>
+
+--0016e6d99ba9b5171c04aae169da--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.112.1322847985.30686.open-science@lists.okfn.org>
+
+surmise that the NCBI taxonomy, presumably with a bias toward human
+and model organisms, as well as its adoption by Uniprot, should be the
+preferred choice for expressing taxon info in the context of
+biomedical knowledge?
+
+Next question (thinking that I know the answer) is how to integrate
+datasets that use one of each: NCBI and Darwin? Of course, we can
+shelve this and come back to it some other year, if we want to dig
+into something more specifically biomedical. The issue will eventually
+come back to haunt us in any case. For example, with chemical
+identifiers..
+
+Also, is taxon out of scope for Identifier.org ?
+
+Cheers,
+Scott
+
+===================================
+[Jerven]
+Hi All,
+
+Don't wish to spam the mailing list about which taxonomy to use. However if
+you actually look at the darwin and uniprot taxonomy "schema" then they are
+very similar. And even in the taxonomy world it doesn't have that many
+controversies.
+
+Its the instances that get hairy.
+i.e. is it
+
+Dugu is a rodentia
+<purl.uniprot.org/taxonomy/10160> rdfs:subClassOf <
+purl.uniprot.org/taxonomy/9989>
+or
+Dugu is a Caviomorpha
+<purl.uniprot.org/taxonomy/10160> rdfs:subClassOf <
+http://dbpedia.org/resource/Caviomorpha>
+
+Which gets taxonomist all exited :)
+
+Mapping schemas is easy to do here. Its mapping instances that get the
+feuds started :D
+
+Regards,
+Jerven
+
+============================================
+PMR comment - this isn't spam, it's science!
+============================================
+PMR - thanks for this. If we can make progress on identifiers it makes *me*
+happy!
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+--0015173ff2d4dc66c304b31f8b60
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Jenny has highlighted that we shall be using this list to discuss the hacka=
+thon. I suggest we use a separate title for each thread, prefaced by HACKAT=
+HON-<br><br>My problem is how to create indentiers for (say) viruses. If yo=
+u look at Wikipedia it doesn&#39;t give IDs. But I then discovered (by chan=
+ce) taxid: which gives numbers. But the pages don&#39;t give static URIs (t=
+hey contain cgi). I am cutting and pasing the discussion (and I shal;l refe=
+r any others to here.<br>
+<br><table class=3D"cf gJ" cellpadding=3D"0"><tbody><tr><td class=3D"gF gK"=
+><table class=3D"cf ix" cellpadding=3D"0"><tbody><tr><td><div class=3D"iw">=
+<span class=3D"ik"><img title=3D"" class=3D"de" id=3D"upi" name=3D"upi" src=
+=3D"https://mail.google.com/mail/images/cleardot.gif" height=3D"16px" width=
+=3D"16px"></span><span class=3D"gD" style=3D"color:#790619">Jerven Bollema<=
+/span> </div>
+</td></tr></tbody></table></td><td class=3D"gH"><br></td><td class=3D"gH"><=
+br></td></tr></tbody></table>Hi Peter, All,<br>
+<br>
+All taxons in the UniProt taxonomy can be found via (<a href=3D"http://purl=
+.uniprot.org/taxonomy/10305" target=3D"_blank">http://purl.uniprot.org/taxo=
+nomy/10305</a>).
+ This is synchronized with the NCBI taxonomy and is the same in the=20
+public version (release delta excepted). Some limited NCBI taxonomy=20
+curation happens at the Swiss-Prot group which also does the UniProt rdf
+ work (Guess where I work ;).<br>
+<br>
+In this case you actually have an link in rdf from the herpes virus to=20
+its hosts. The proteins it encodes (might not be all for each virus=20
+isolate e.g. in this case only a single virion membrane protein is=20
+known) and links to relevant papers as well as related virion proteins.<br>
+Will love to show you all how you can get this data in RDF and work with it=
+ using SPARQL.<br>
+<br>
+Regards,<br>
+Jerven<br clear=3D"all">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D<br><br><table class=3D"cf gJ" cellpadding=3D"0"><tbody><tr><td cl=
+ass=3D"gF gK"><table class=3D"cf ix" cellpadding=3D"0"><tbody><tr><td><div =
+class=3D"iw"><span class=3D"gD" style=3D"color:#c88900">M. Scott Marshall</=
+span> <span class=3D"hb"><span class=3D"g2"></span> </span></div>
+</td></tr></tbody></table></td><td class=3D"gH"><div class=3D"gK"><span cla=
+ss=3D"iD">show details</span> <span id=3D":1vn" class=3D"g3" title=3D"Fri, =
+Dec 2, 2011 at 11:36 AM" alt=3D"Fri, Dec 2, 2011 at 11:36 AM">11:36 AM (6 h=
+ours ago)</span> <span></span></div>
+</td><td class=3D"gH"><br></td></tr></tbody></table>Dear Peter and Jerven,<=
+br>
+<br>
+Nice blog with dawg and frog!<br>
+<br>
+Thanks for the answer Jerven. I&#39;m looking forward to this.<br>
+<br>
+Not wanting to start (too much) commotion but also bumped into this<br>
+for taxons: <a href=3D"http://rs.tdwg.org/dwc/index.htm" target=3D"_blank">=
+http://rs.tdwg.org/dwc/index.htm</a><br>
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.113.1322847985.30686.open-science@lists.okfn.org>
+
+surmise that the NCBI taxonomy, presumably with a bias toward human<br>
+and model organisms, as well as its adoption by Uniprot, should be the<br>
+preferred choice for expressing taxon info in the context of<br>
+biomedical knowledge?<br>
+<br>
+Next question (thinking that I know the answer) is how to integrate<br>
+datasets that use one of each: NCBI and Darwin? Of course, we can<br>
+shelve this and come back to it some other year, if we want to dig<br>
+into something more specifically biomedical. The issue will eventually<br>
+come back to haunt us in any case. For example, with chemical<br>
+identifiers..<br>
+<br>
+Also, is taxon out of scope for Identifier.org ?<br>
+<br>
+Cheers,<br>
+Scott<br><br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>[Jerven]<br>Hi All,<br>
+<br>
+Don&#39;t wish to spam the mailing list about which taxonomy to use. Howeve=
+r
+ if you actually look at the darwin and uniprot taxonomy &quot;schema&quot;=
+ then=20
+they are very similar. And even in the taxonomy world it doesn&#39;t have=
+=20
+that many controversies.<br>
+<br>
+Its the instances that get hairy.<br>
+i.e. is it<br>
+<br>
+Dugu is a rodentia<br>
+&lt;<a href=3D"http://purl.uniprot.org/taxonomy/10160" target=3D"_blank">pu=
+rl.uniprot.org/taxonomy/10160</a>&gt; rdfs:subClassOf &lt;<a href=3D"http:/=
+/purl.uniprot.org/taxonomy/9989" target=3D"_blank">purl.uniprot.org/taxonom=
+y/9989</a>&gt;<br>
+
+or<br>
+Dugu is a Caviomorpha<br>
+&lt;<a href=3D"http://purl.uniprot.org/taxonomy/10160" target=3D"_blank">pu=
+rl.uniprot.org/taxonomy/10160</a>&gt; rdfs:subClassOf &lt;<a href=3D"http:/=
+/dbpedia.org/resource/Caviomorpha" target=3D"_blank">http://dbpedia.org/res=
+ource/Caviomorpha</a>&gt;<br>
+
+<br>
+Which gets taxonomist all exited :)<br>
+<br>
+Mapping schemas is easy to do here. Its mapping instances that get the feud=
+s started :D<br>
+<br>
+Regards,<br><font color=3D"#888888">
+Jerven</font><br><br>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D<br>PMR comment - this isn&#39;t spam, it&#39;s science!<br>=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>PMR - thanks for this. If =
+we can make progress on identifiers it makes *me* happy!<br>
+-- <br>Peter Murray-Rust<br>Reader in Molecular Informatics<br>Unilever Cen=
+tre, Dep. Of Chemistry<br>University of Cambridge<br>CB2 1EW, UK<br>+44-122=
+3-763069<br>
+
+--0015173ff2d4dc66c304b31f8b60--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.118.1323626381.30686.open-science@lists.okfn.org>
+
+iring and salary freezes, furloughs, salary cuts, layoffs, nonrenewals, red=
+uction and elimination of academic programs and colleges, revision of curri=
+cula, changes in academic policy, elimination of tenure, substantial change=
+s in workload&quot;...<br>
+
+<a href=3D"http://www.aaup.org/aaup/financial/mainpage.htm" target=3D"_blan=
+k">http://www.aaup.org/aaup/<u></u>financial/mainpage.htm</a><br>
+<br>
+As a personal story, lack of financial security is one of the reasons why I=
+ use CC-NC. The vast majority of my own work is not funded at all. This is =
+increasingly common in the social sciences and humanities. There could be a=
+ point in time where I might have good reason to want to try to sell some o=
+f my work, to pay my rent and grocery bills. Not that I personally am that =
+important, but the measures mentioned above indicate that I have plenty of =
+company. Like most scholars and publishers, I am the 99%.<br>
+
+<br>
+If I gave away my work and saw that someone else had sold it and kept the p=
+rofits for themselves, I would be MAD. Not only at them - but also at anyon=
+e who told me that I should give away my work. If I was among those who wer=
+e recently laid off, and I saw someone else profiting off my work, I would =
+be REALLY REALLY MAD. Wouldn&#39;t you?<br>
+
+<br>
+Publishers also need resources in order to produce work, whether this is pa=
+id, volunteer, or in-kind. There are some areas where funding is generous a=
+nd full support for OA via article processing fees may well be feasible. Ho=
+wever, in many scholarly areas funding is much less generous, and publisher=
+s may NEED to reserve commercial rights. Even with the well-funded areas, i=
+f publishers develop hybrid revenue streams by reserving commercial rights,=
+ that might well make it possible to offer more affordable article processi=
+ng fees to academia.<br>
+
+<br>
+Regarding CC abandoning NC: I am trying to recommend to CC (if I can get re=
+gistered to speak) that they adjust the licenses rather than abandoning NC.=
+ For example, if there is concern that people are interpreting NC as not in=
+cluding educational rights, then add a statement to the NC license along th=
+e lines of &quot;Education is not commercial&quot;. Not only would this imp=
+rove the NC license, in the long term I believe that this will add to suppo=
+rt for good overall copyright licensing on an international level, as educa=
+tion should be understood as noncommercial, period. If CC abandons NC, I wo=
+uld have to abandon CC. (I would like to note that I am a strong supporter =
+of CC today - I speak out for CC, use the licenses, encourage others to do =
+so, and contribute to the annual donation campaign).<br>
+
+<br>
+While we are on the topic of CC licensing, some comments about the other el=
+ements:<br>
+<br>
+SA: this is necessary to ensure that authors, their publishers and institut=
+ions, who give away their works have access to derivatives built on them. T=
+his is not just a third-world problem. I hear that there have been severe f=
+unding cuts to higher education even in the UK.<br>
+
+<br>
+Noderivatives: there are valid scholarly reasons why noderivatives may some=
+times be a superior license. One example is the area at the boundary of pha=
+rmacology and toxicology. Here, relying on an imperfect translation could k=
+ill people. Another is that in some scholarly areas, such as literature and=
+ art, creative expression is the very heart of the scholarship. It strikes =
+me that many scholars would be more likely to share their work if they felt=
+ comfortable that they had the right to insist on no derivatives.<br>
+
+<br>
+I hope this message gets through to the list - my last two messages to the =
+open science list don&#39;t seem to have gone through.<br>
+<br>
+best,<br>
+<br>
+Heather Morrison, MLIS<br>
+Doctoral Candidate, Simon Fraser University School of Communication<br>
+<a href=3D"http://pages.cmns.sfu.ca/heather-morrison/" target=3D"_blank">ht=
+tp://pages.cmns.sfu.ca/<u></u>heather-morrison/</a><br>
+The Imaginary Journal of Poetic Economics<br>
+<a href=3D"http://poeticeconomics.blogspot.com" target=3D"_blank">http://po=
+eticeconomics.<u></u>blogspot.com</a><div><div></div><div class=3D"h5"><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+______________________________<u></u>_________________<br>
+open-science mailing list<br>
+<a href=3D"mailto:open-science at lists.okfn.org" target=3D"_blank">open-scien=
+ce at lists.okfn.org</a><br>
+<a href=3D"http://lists.okfn.org/mailman/listinfo/open-science" target=3D"_=
+blank">http://lists.okfn.org/mailman/<u></u>listinfo/open-science</a><br>
+</div></div></blockquote></div><br></div>
+
+--bcaec50166cba9248d04b3d4c757--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.139.1329838609.30686.open-science@lists.okfn.org>
+
+Oxford to take part in shaping the future of publishing.
+
+The event is free, and you can optionally email
+victoria at EvolutionOfScience.org to reserve a seat.
+
+www.EvolutionOfScience.org<https://legacy.nexus.ox.ac.uk/OWA/redir.aspx?C=46bfecd718d541d69c2d536cf84bc33a&URL=http%3a%2f%2fwww.EvolutionOfScience.org>
+
+--20cf307d07427ebe8b04b97b2d6a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<font face=3D"arial, helvetica, sans-serif">Dear All</font><div><font face=
+=3D"arial, helvetica, sans-serif"><br></font></div><div><font face=3D"arial=
+, helvetica, sans-serif">Info on an event on scientific publishing in Oxfor=
+d featuring Cameron Neylon and with myself and Peter Murray-Rust in the aud=
+ience - if you&#39;re available please do come along and let us know so we =
+can make sure to say hi!</font></div>
+
+<div><span style=3D"font-family:arial,helvetica,sans-serif"><br></span></di=
+v><div><span style=3D"font-family:arial,helvetica,sans-serif">If not, I&#39=
+;ll let you all know when the video is out.=A0</span><span style=3D"font-fa=
+mily:arial,helvetica,sans-serif">There is a flyer available at=A0</span><a =
+href=3D"https://legacy.nexus.ox.ac.uk/OWA/redir.aspx?C=3D46bfecd718d541d69c=
+2d536cf84bc33a&amp;URL=3Dhttp%3a%2f%2fwww.EvolutionOfScience.org" target=3D=
+"_blank" style=3D"font-family:arial,helvetica,sans-serif;font-size:13px">ww=
+w.EvolutionOfScience.org</a><span style=3D"font-family:arial,helvetica,sans=
+-serif">=A0if you happen to be in a position to post it somewhere.</span></=
+div>
+
+<div><font face=3D"arial, helvetica, sans-serif"><br></font></div><div><fon=
+t face=3D"arial, helvetica, sans-serif">Jenny</font></div><div><font face=
+=3D"arial, helvetica, sans-serif"><br></font></div><div><font face=3D"arial=
+, helvetica, sans-serif"><br>
+
+</font></div><div><font face=3D"arial, helvetica, sans-serif"><span style=
+=3D"font-size:13px">On leap-Wednesday the 29th Feb, a rare chance to meet a=
+n eminent panel of speakers and debate</span><br style=3D"font-size:13px"><=
+br style=3D"font-size:13px">
+
+<span style=3D"font-size:13px">The Scientific Evolution: Open Science and t=
+he Future of Publishing</span><br style=3D"font-size:13px"><br style=3D"fon=
+t-size:13px"><span style=3D"font-size:13px">The panel includes speakers fro=
+m Nature, Elsevier, and the Wellcome trust, together with Lord Robert Winst=
+on, Cameron Neylon and Victor Henning, CEO of Mendeley.</span><br style=3D"=
+font-size:13px">
+
+<br style=3D"font-size:13px"><span style=3D"font-size:13px">We&#39;ll addre=
+ss question like,</span><br style=3D"font-size:13px"><span style=3D"font-si=
+ze:13px">Do we still need science journals in the internet age?</span><br s=
+tyle=3D"font-size:13px">
+
+<span style=3D"font-size:13px">Is there something better than peer review?<=
+/span><br style=3D"font-size:13px"><span style=3D"font-size:13px">How will =
+scientific papers evolve?</span><br style=3D"font-size:13px"><span style=3D=
+"font-size:13px">Is the Elsevier boycott (<a href=3D"http://thecostofknowle=
+dge.com">thecostofknowledge.com</a>) the start of something big?</span><br =
+style=3D"font-size:13px">
+
+<br style=3D"font-size:13px"><span style=3D"font-size:13px">The change has =
+already begun: SOPA and the RWA, the boycott of Elsevier. Science is evolvi=
+ng to become more open. How will you make the most of the change? Come to d=
+iscover, to debate, and come to take action.</span><br style=3D"font-size:1=
+3px">
+
+<br style=3D"font-size:13px"><span style=3D"font-size:13px">From 3:30pm on =
+29th Feb, Wednesday of 7th Week: be at Rhodes House in Oxford to take part =
+in shaping the future of publishing.</span><br style=3D"font-size:13px"><br=
+ style=3D"font-size:13px">
+
+<span style=3D"font-size:13px">The event is free, and you can optionally em=
+ail victoria at EvolutionOfScience.org to reserve a seat.</span><br style=3D"f=
+ont-size:13px"><br style=3D"font-size:13px"><a href=3D"https://legacy.nexus=
+.ox.ac.uk/OWA/redir.aspx?C=3D46bfecd718d541d69c2d536cf84bc33a&amp;URL=3Dhtt=
+p%3a%2f%2fwww.EvolutionOfScience.org" target=3D"_blank" style=3D"font-size:=
+13px">www.EvolutionOfScience.org</a></font></div>
+
+
+--20cf307d07427ebe8b04b97b2d6a--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.141.1329942706.30686.open-science@lists.okfn.org>
+
+to take part in shaping the future of publishing.
+
+The event is free, and you can optionally email
+reserve at EvolutionOfScience.org  to reserve a seat.
+
+www.EvolutionOfScience.org
+
+
+--B_3412787499_34398650
+Content-type: text/html;
+	charset="US-ASCII"
+Content-transfer-encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<TITLE>Open Access event in Oxford, 29 February 2012</TITLE>
+</HEAD>
+<BODY>
+<FONT FACE=3D"Calibri, Verdana, Helvetica, Arial"><SPAN STYLE=3D'font-size:12pt=
+'>Forwarding from Simon Benjamin<BR>
+The Senior Fellow in Quantum Materials,<BR>
+Dept Materials, Oxford.<BR>
+www.qunat.org<BR>
+-------------------------------------<BR>
+<BR>
+On leap-Wednesday the 29th Feb, a rare chance to meet an eminent panel of s=
+peakers and debate:<BR>
+<BR>
+The Scientific Evolution: Open Science and the Future of Publishing<BR>
+<BR>
+The panel includes speakers from Nature, Elsevier, and the Wellcome trust, =
+together with Lord Robert Winston, Cameron Neylon and Victor Henning, CEO of=
+ Mendeley.<BR>
+<BR>
+We'll address question like,<BR>
+Do we still need science journals in the internet age?<BR>
+Is there something better than peer review?<BR>
+How will scientific papers evolve?<BR>
+Is the Elsevier boycott (thecostofknowledge.com) the start of something big=
+?<BR>
+<BR>
+The change has already begun: SOPA and the RWA, the boycott of Elsevier. Sc=
+ience is evolving to become more open. How will you make the most of the cha=
+nge? Come to discover, to debate, and come to take action.<BR>
+<BR>
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.142.1329942706.30686.open-science@lists.okfn.org>
+
+d to take part in shaping the future of publishing.<BR>
+<BR>
+The event is free, and you can optionally email &nbsp;<FONT COLOR=3D"#0000FF"=
+><U><a href=3D"reserve at EvolutionOfScience.org">reserve at EvolutionOfScience.org<=
+/a></U></FONT> &nbsp;to reserve a seat.<BR>
+<BR>
+www.EvolutionOfScience.org<BR>
+</SPAN></FONT>
+</BODY>
+</HTML>
+
+
+--B_3412787499_34398650--
+
+
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.174.1338993322.30686.open-science@lists.okfn.org>
+
+what he makes of it all ;-)
+
+Best
+
+A
+
+> If they won't do this, then you should give very serious consideration
+> to pulling your article and submitting it elsewhere. However much they
+> call this issue "open archaeology", if it snaps shut in six months
+> then it's not open, and by giving them your work on those terms you
+> would be lending credibility to their abuse of "open". I do appreciate
+> that withdrawing and resubmitting is a royal pain; but in the long run
+> it's probably the best thing for your paper: it will get read and
+> cited more.
+>
+> -- Mike.
+>
+>
+> On 6 June 2012 14:40,  <anthony at beckhome.info> wrote:
+>> Not my call, but I can ask the theme editor.
+>>
+>> Thanks
+>>
+>> A
+>>
+>>> Can you shame them at least into doing the opposite? NON-open for six
+>>> months, then release under CC BY after that embargo elapses?
+>>>
+>>> -- Mike.
+>>>
+>>>
+>>> On 6 June 2012 14:15, ?<anthony at beckhome.info> wrote:
+>>>> The irony of this situation is not lost on any of us. Amazingly T&F
+>>>> can
+>>>> not be shamed into doing the 'right thing'. However, in this instance
+>>>> the
+>>>> need for the message for the community is as important as the
+>>>> principles......
+>>>>
+>>>> Thanks
+>>>>
+>>>> A
+>>>>
+>>>>> On 6 June 2012 14:07, ?<anthony at beckhome.info> wrote:
+>>>>>> Thanks Mike and Ross,
+>>>>>>
+>>>>>> Unfortunately Taylor and Francis are not going to go for any form of
+>>>>>> CC
+>>>>>> licence.
+>>>>>>
+>>>>>> The texts in this issues will be made available for 6 months and
+>>>>>> then
+>>>>>> revert to T&Fs normal terms and conditions. What I want to do is to
+>>>>>> allow
+>>>>>> text mining of the papers for at least that 6 month period and
+>>>>>> potentially
+>>>>>> in perpetuity. Hence, I want/need some clause that specifically
+>>>>>> allows
+>>>>>> text mining.
+>>>>>
+>>>>> That is not any part of an "open archaeology" theme.
+>>>>>
+>>>>> If you want an "open for text-mining for six months, then paywalled"
+>>>>> licence, you'll have to write one yourself, for the very good reason
+>>>>> that no-one else has done anything that silly.
+>>>>>
+>>>>> Sorry if that reply is unhelpful, but it's the truth. Criticism aimed
+>>>>> not at you, of course, but at T&F.
+>>>>>
+>>>>> -- Mike.
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>> open-science at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>>
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+
+
+
+

@@ -1,0 +1,3612 @@
+From jessy.cowansharp at gmail.com  Sun Aug  1 20:59:42 2010
+From: jessy.cowansharp at gmail.com (Jessy Cowan-Sharp)
+Date: Sun, 1 Aug 2010 12:59:42 -0700
+Subject: [open-science] "I am an open scientist"
+Message-ID: <AANLkTinW4k4Fc_Bdc7G=Vgnnx8+dG_zXg3yYmqQmG1dQ@mail.gmail.com>
+
+hi all,
+
+i was at the open science summit this week/end along with peter and cameron,
+and thought it was really inspiring if a bit organizationally messy. i was
+bummed that no outputs were planned, but after many different people
+asserting that they are "open scientists," I decided to start an etherpad,
+to see if there was enough consensus to put together a "pledge" about what
+that means, to publish and encourage people to sign, put badges on their
+blogs, etc.
+
+I think about 8 people contributed to it. The pad is here:
+http://ideas.tinyhax.com/pledge
+
+I'm curious if others on the list have any interest in working with this and
+refining it into something we can release. IMHO the goal is not to develop
+something with super formal requirements and metrics, but rather something
+that reflects intentions and builds momentum around thinking of yourself as
+an "open scientist".
+
+Any interest?
+Jessy
+
+-- 
+Jessy Cowan-Sharp
+http://jessykate.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100801/6a909c0b/attachment.htm>
+
+From greg at grossmeier.net  Mon Aug  2 20:07:16 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Mon, 2 Aug 2010 15:07:16 -0400
+Subject: [open-science] Working Group Meeting - August 4th
+In-Reply-To: <20100721020734.GD15118@grossmeier.net>
+References: <20100721020734.GD15118@grossmeier.net>
+Message-ID: <20100802190716.GL2384@grossmeier.net>
+
+Reminder!
+
+We will be having our meeting on August 4th at 1700 UTC.
+
+Details and the growing agenda is at: 
+http://okfnpad.org/science-20100804
+
+If you plan on attending, please send me your Skype ID. Mine is 
+greg.grossmeier
+
+Best,
+
+Greg
+
+
+
+<quoting name="Greg Grossmeier" date="2010-07-20" time="22:07:34 -0400">
+> Hello Open Sciencers,
+> 
+> Our next working group meeting will be August 4th at 1700 UTC (6PM 
+> London, 1PM New York, http://ur1.ca/0sajl ).
+> 
+> Participation will be via IRC and Skype (if less than 8 people, 
+> conference line if more, details to follow.
+> 
+> Please let me know if you will be able to attend the meeting.
+> 
+> 
+> There is probably much to catch up with, so please add your agenda items 
+> to the EtherPad at: http://okfnpad.org/science-20100804
+> 
+> So far, the agenda is (pulling items from the last meeting):
+>  * Panton Discussions (podcast/interviews of users/supporters of PP)
+>   * Who?
+>    * Mark Patterson: 
+>      http://www.plos.org/about/people/publishing.php#mpatterson
+>    * <please insert more names here>
+> 
+>  * PP Logo
+>   * I believe we settled on this one: 
+>     http://lists.okfn.org/pipermail/open-science/attachments/20100223/08f0fabf/attachment-0008.png
+> 
+>  * PP Translations
+>   * Status update?
+>   * Currently have Russian and Spanish?
+> 
+>  * <Insert your Agenda Item Here>
+> 
+> -- 
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From kanzure at gmail.com  Mon Aug  2 20:08:27 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Mon, 2 Aug 2010 14:08:27 -0500
+Subject: [open-science] Fwd: [CHMINF-L] House Hearing Explores Debate Over
+	Free Access to Journal Articles - ScienceInsider
+In-Reply-To: <789961678.1961521.1280775046357.JavaMail.brainiac@v0101-06.clearspring.local>
+References: <789961678.1961521.1280775046357.JavaMail.brainiac@v0101-06.clearspring.local>
+Message-ID: <AANLkTik4Jt1oo-6BzejF83=_pwvSeTOamcRDTZF7GsGy@mail.gmail.com>
+
+---------- Forwarded message ----------
+From:  <buntrock16 at myfairpoint.net>
+Date: Mon, Aug 2, 2010 at 1:50 PM
+Subject: [CHMINF-L] House Hearing Explores Debate Over Free Access to
+Journal Articles - ScienceInsider
+To: CHMINF-L at listserv.indiana.edu
+
+
+Open Access
+
+http://news.sciencemag.org/scienceinsider/2010/07/house-hearing-explores-debate.html?etoc=&sms_ss=email
+
+---
+This message was sent by buntrock16 at myfairpoint.net via
+http://addthis.com. ?Please note that AddThis does not verify email
+addresses.
+
+Make sharing easier with the AddThis Toolbar:
+http://www.addthis.com/go/toolbar-em
+
+CHMINF-L Archives (also to join or leave CHMINF-L, etc.)
+http://listserv.indiana.edu/archives/chminf-l.html
+Search the CHMINF-L archives at:
+https://listserv.indiana.edu/cgi-bin/wa-iub.exe?S1=chminf-l
+Sponsors of CHMINF-L:
+http://www.indiana.edu/~libchem/chminfsupport.htm
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From tjv at bio.unc.edu  Tue Aug  3 13:42:07 2010
+From: tjv at bio.unc.edu (Vision, Todd J)
+Date: Tue, 3 Aug 2010 08:42:07 -0400
+Subject: [open-science] open-science Digest, Vol 22, Issue 3
+In-Reply-To: <mailman.7.1280833202.24726.open-science@lists.okfn.org>
+References: <mailman.7.1280833202.24726.open-science@lists.okfn.org>
+Message-ID: <9454AC0C18B2E647985050D8472212FD02BB8D508A@ITS-MSXMB0.ad.unc.edu>
+
+Some thoughts on what's missing in this policy debate right now:
+http://blog.datadryad.org/2010/07/30/the-us-congress-and-selective-data-blindness/
+
+It's great to see the emphasis on opendata.gov, and around open access publications.  But I am dismayed by the surprisingly tepid stance that US agencies like the Natl Science Foundations are taking regarding the availability of science data collected with public grant dollars:
+http://www.nsf.gov/news/news_summ.jsp?cntn_id=116928
+ 
+Todd
+
+---------- Forwarded message ----------
+From:  <buntrock16 at myfairpoint.net>
+Date: Mon, Aug 2, 2010 at 1:50 PM
+Subject: [CHMINF-L] House Hearing Explores Debate Over Free Access to Journal Articles - ScienceInsider
+To: CHMINF-L at listserv.indiana.edu
+
+Open Access
+
+http://news.sciencemag.org/scienceinsider/2010/07/house-hearing-explores-debate.html?etoc=&sms_ss=email
+
+
+From dorothea.salo at gmail.com  Tue Aug  3 14:50:20 2010
+From: dorothea.salo at gmail.com (Dorothea Salo)
+Date: Tue, 3 Aug 2010 08:50:20 -0500
+Subject: [open-science] open-science Digest, Vol 22, Issue 3
+In-Reply-To: <9454AC0C18B2E647985050D8472212FD02BB8D508A@ITS-MSXMB0.ad.unc.edu>
+References: <mailman.7.1280833202.24726.open-science@lists.okfn.org>
+	<9454AC0C18B2E647985050D8472212FD02BB8D508A@ITS-MSXMB0.ad.unc.edu>
+Message-ID: <AANLkTi=jP0ySJqud1MxjdFYfaQ9_0YB0uFhaaLhULvOx@mail.gmail.com>
+
+On Tue, Aug 3, 2010 at 7:42 AM, Vision, Todd J <tjv at bio.unc.edu> wrote:
+> Some thoughts on what's missing in this policy debate right now:
+> http://blog.datadryad.org/2010/07/30/the-us-congress-and-selective-data-blindness/
+>
+> It's great to see the emphasis on opendata.gov, and around open access publications. ?But I am dismayed by the surprisingly tepid stance that US agencies like the Natl Science Foundations are taking regarding the availability of science data collected with public grant dollars:
+> http://www.nsf.gov/news/news_summ.jsp?cntn_id=116928
+
+Think a bit more long-term. The NIH Public Access Policy didn't burst
+full-formed from the head of Jove either.
+
+There are serious problems -- social, cultural, and technical -- to be
+solved before any kind of open-data mandate. Some are such that open
+data is not even an option, e.g. personally-identifiable data in
+human-subjects research (the danger of which is raised to a truly
+nasty power because of the ease of reidentification via dataset
+mashup). Others can be solved in time, e.g. data standards for
+disciplines that lack them (namely, MOST). Others will take a lengthy
+process of researcher education; I hope you don't think every NSF
+grantee understands what they produce by way of data, much less how to
+preserve, present, and share them.
+
+Given that, the NSF could only be tepid at this early date. An
+out-of-the-blue data mandate would have caused widespread
+insurrection; this is a shot over the bow, a signal, a way to boil the
+frog. Give them time; they'll turn up the heat.
+
+Dorothea
+
+-- 
+Dorothea Salo? ? ? ? ? ? ? ? dsalo at library.wisc.edu
+Research Services Librarian? ? ? AIM: mindsatuw
+University of Wisconsin
+Rm 330B, Memorial Library
+(608) 262-5493
+
+
+From jeanclaude.bradley at gmail.com  Tue Aug  3 15:26:32 2010
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Tue, 3 Aug 2010 07:26:32 -0700
+Subject: [open-science] Working Group Meeting - August 4th
+In-Reply-To: <20100802190716.GL2384@grossmeier.net>
+References: <20100721020734.GD15118@grossmeier.net>
+	<20100802190716.GL2384@grossmeier.net>
+Message-ID: <AANLkTi=sTWyzkXM3qXiBnz9RKPj+epQmO7bscojsFhMg@mail.gmail.com>
+
+jean-claudebradley
+
+On Mon, Aug 2, 2010 at 12:07 PM, Greg Grossmeier <greg at grossmeier.net>wrote:
+
+> Reminder!
+>
+> We will be having our meeting on August 4th at 1700 UTC.
+>
+> Details and the growing agenda is at:
+> http://okfnpad.org/science-20100804
+>
+> If you plan on attending, please send me your Skype ID. Mine is
+> greg.grossmeier
+>
+> Best,
+>
+> Greg
+>
+>
+>
+> <quoting name="Greg Grossmeier" date="2010-07-20" time="22:07:34 -0400">
+> > Hello Open Sciencers,
+> >
+> > Our next working group meeting will be August 4th at 1700 UTC (6PM
+> > London, 1PM New York, http://ur1.ca/0sajl ).
+> >
+> > Participation will be via IRC and Skype (if less than 8 people,
+> > conference line if more, details to follow.
+> >
+> > Please let me know if you will be able to attend the meeting.
+> >
+> >
+> > There is probably much to catch up with, so please add your agenda items
+> > to the EtherPad at: http://okfnpad.org/science-20100804
+> >
+> > So far, the agenda is (pulling items from the last meeting):
+> >  * Panton Discussions (podcast/interviews of users/supporters of PP)
+> >   * Who?
+> >    * Mark Patterson:
+> >      http://www.plos.org/about/people/publishing.php#mpatterson
+> >    * <please insert more names here>
+> >
+> >  * PP Logo
+> >   * I believe we settled on this one:
+> >
+> http://lists.okfn.org/pipermail/open-science/attachments/20100223/08f0fabf/attachment-0008.png
+> >
+> >  * PP Translations
+> >   * Status update?
+> >   * Currently have Russian and Spanish?
+> >
+> >  * <Insert your Agenda Item Here>
+> >
+> > --
+> > |       Greg Grossmeier |
+> > | http://grossmeier.net |
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+>
+> --
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100803/1b7daa6a/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Aug  3 19:00:12 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 3 Aug 2010 19:00:12 +0100
+Subject: [open-science] Working Group Meeting - August 4th
+In-Reply-To: <20100802190716.GL2384@grossmeier.net>
+References: <20100721020734.GD15118@grossmeier.net>
+	<20100802190716.GL2384@grossmeier.net>
+Message-ID: <AANLkTi=UMFiQPDXGbyFY15yFmDY6wCOv_DF5ksdgGZWi@mail.gmail.com>
+
+On Mon, Aug 2, 2010 at 8:07 PM, Greg Grossmeier <greg at grossmeier.net> wrote:
+
+> Reminder!
+>
+> We will be having our meeting on August 4th at 1700 UTC.
+>
+> Details and the growing agenda is at:
+> http://okfnpad.org/science-20100804
+>
+> If you plan on attending, please send me your Skype ID. Mine is
+> greg.grossmeier
+>
+
+peter.murray.rust
+
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100803/4117ec62/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Aug  3 19:25:40 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 3 Aug 2010 19:25:40 +0100
+Subject: [open-science] FRPAA and free journal access continues
+Message-ID: <AANLkTimfQXeEeX4TZxHh2-xrgkq6+vicRnGz1PDj5qfE@mail.gmail.com>
+
+In Science magazine:
+
+http://news.sciencemag.org/scienceinsider/2010/07/house-hearing-explores-debate.html
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100803/029807f9/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Wed Aug  4 12:39:12 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Wed, 4 Aug 2010 12:39:12 +0100
+Subject: [open-science] Putting together a list of science data archives
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02C4D300@SEGBLOGR0008.springer-sbm.com>
+
+Dear Open Science folks,
+
+ 
+
+I am trying to put together a list of known archives for scientific data
+- for Open Data and restricted access, pre- and/or post publication of
+associated papers, and at the international, funder and institution
+level (or all of the above).
+
+ 
+
+I would appreciate any suggestions you can offer. In short, where can we
+host data?
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+ 
+
+Iain Hrynaszkiewicz
+
+Associate Journal Publisher
+
+BioMed Central
+
+Floor 6, 236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011
+
+W: www.biomedcentral.com/
+
+
+Join the BioMed Central Authors and Editors group on LinkedIn:
+http://www.linkedin.com/groups?gid=2807240
+
+This group has been created to encourage conversation and information
+sharing among research professionals.
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100804/26ce10bd/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug  4 12:49:16 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 4 Aug 2010 12:49:16 +0100
+Subject: [open-science] Putting together a list of science data archives
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02C4D300@SEGBLOGR0008.springer-sbm.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02C4D300@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <AANLkTikZRS5pTN19wMfD+08XNT0EG+Ag0qDFbWf=516M@mail.gmail.com>
+
+On Wed, Aug 4, 2010 at 12:39 PM, Iain Hrynaszkiewicz <
+Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+
+>  Dear Open Science folks,
+>
+>
+>
+> I am trying to put together a list of known archives for scientific data ?
+> for Open Data and restricted access, pre- and/or post publication of
+> associated papers, and at the international, funder and institution level
+> (or all of the above).
+>
+>
+>
+> I would appreciate any suggestions you can offer. In short, where can we
+> host data?
+>
+
+This is a large field and I would try to split it into disciplines and find
+people in each to report. If you/we are trying to be fairly comprehensive
+it's probably a lot of detailed work.  I am currently convinced that this
+has to be done on a per-discipline basis (
+http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2519 ).
+
+P.
+
+
+>
+> Best regards,
+>
+>
+>
+> Iain
+>
+>
+>
+> Iain Hrynaszkiewicz
+>
+> *Associate Journal Publisher*
+>
+> *Bio**Med** Central*
+>
+> Floor 6, 236 Gray's Inn Road
+> London, WC1X 8HB
+>
+> T: +44 (0)20 3192 2175
+> F: +44 (0)20 3192 2011
+>
+> W: *www.biomedcentral.com/*
+>
+>
+> *Join the BioMed Central Authors and Editors group on LinkedIn:
+> http://www.linkedin.com/groups?gid=2807240*
+>
+> *This group has been created to encourage conversation and information
+> sharing among research professionals.*
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100804/5e5531c6/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Wed Aug  4 12:56:44 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Wed, 4 Aug 2010 12:56:44 +0100
+Subject: [open-science] Putting together a list of science data archives
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02C4D300@SEGBLOGR0008.springer-sbm.com>
+	<AANLkTikZRS5pTN19wMfD+08XNT0EG+Ag0qDFbWf=516M@mail.gmail.com>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02C4D31A@SEGBLOGR0008.springer-sbm.com>
+
+A comprehensive list would be a great resource and I will happily share
+the list of suggestions received (if preferable replies can be sent to
+me direct rather than the whole Open Science list).
+
+ 
+
+However, at this stage a not-so-comprehensive overview of what we know
+is out there would also be very valuable. Obvious candidates are Dryad,
+UKDA, PANGAEA etc but I'm sure there are many more.
+
+ 
+
+Best,
+
+ 
+
+Iain
+
+ 
+
+From: peter.murray.rust at googlemail.com
+[mailto:peter.murray.rust at googlemail.com] On Behalf Of Peter Murray-Rust
+Sent: 04 August 2010 12:49
+To: Iain Hrynaszkiewicz
+Cc: open-science at lists.okfn.org
+Subject: Re: [open-science] Putting together a list of science data
+archives
+
+ 
+
+ 
+
+On Wed, Aug 4, 2010 at 12:39 PM, Iain Hrynaszkiewicz
+<Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+
+Dear Open Science folks,
+
+ 
+
+I am trying to put together a list of known archives for scientific data
+- for Open Data and restricted access, pre- and/or post publication of
+associated papers, and at the international, funder and institution
+level (or all of the above).
+
+ 
+
+I would appreciate any suggestions you can offer. In short, where can we
+host data?
+
+
+This is a large field and I would try to split it into disciplines and
+find people in each to report. If you/we are trying to be fairly
+comprehensive it's probably a lot of detailed work.  I am currently
+convinced that this has to be done on a per-discipline basis
+(http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2519 ).
+
+P.
+
+	 
+
+	Best regards,
+
+	 
+
+	Iain
+
+	 
+
+	Iain Hrynaszkiewicz
+
+	Associate Journal Publisher
+
+	BioMed Central
+
+	Floor 6, 236 Gray's Inn Road
+	London, WC1X 8HB
+
+	T: +44 (0)20 3192 2175
+	F: +44 (0)20 3192 2011
+
+	W: www.biomedcentral.com/
+
+	
+	Join the BioMed Central Authors and Editors group on LinkedIn:
+http://www.linkedin.com/groups?gid=2807240
+
+	This group has been created to encourage conversation and
+information sharing among research professionals.
+
+	 
+
+	
+	_______________________________________________
+	open-science mailing list
+	open-science at lists.okfn.org
+	http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100804/04f3c37d/attachment-0001.htm>
+
+From peters at earlham.edu  Wed Aug  4 13:16:52 2010
+From: peters at earlham.edu (Peter Suber)
+Date: Wed, 4 Aug 2010 08:16:52 -0400
+Subject: [open-science] Putting together a list of science data archives
+In-Reply-To: <AANLkTikZRS5pTN19wMfD+08XNT0EG+Ag0qDFbWf=516M@mail.gmail.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02C4D300@SEGBLOGR0008.springer-sbm.com>
+	<AANLkTikZRS5pTN19wMfD+08XNT0EG+Ag0qDFbWf=516M@mail.gmail.com>
+Message-ID: <AANLkTinh2=7aP8524zpAc847LtLA2_AZt8+ibxLdtcXG@mail.gmail.com>
+
+At the Open Access Directory (a wiki), we've had such a list for a couple of
+years.
+http://oad.simmons.edu/oadwiki/Data_repositories
+
+We'd welcome help from any quarter in making it accurate, comprehensive, and
+well-annotated.
+
+Here's the OAD home page.
+http://oad.simmons.edu/ <http://oad.simmons.edu/oadwiki/Main_Page>
+
+If the OAD is new to you, we minimize spam and vandalism by requiring
+contributors to register.  But registration is free and easy.
+
+     Peter (Suber)
+
+
+On Wed, Aug 4, 2010 at 7:49 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Wed, Aug 4, 2010 at 12:39 PM, Iain Hrynaszkiewicz <
+> Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+>
+>>  Dear Open Science folks,
+>>
+>>
+>>
+>> I am trying to put together a list of known archives for scientific data ?
+>> for Open Data and restricted access, pre- and/or post publication of
+>> associated papers, and at the international, funder and institution level
+>> (or all of the above).
+>>
+>>
+>>
+>> I would appreciate any suggestions you can offer. In short, where can we
+>> host data?
+>>
+>
+> This is a large field and I would try to split it into disciplines and find
+> people in each to report. If you/we are trying to be fairly comprehensive
+> it's probably a lot of detailed work.  I am currently convinced that this
+> has to be done on a per-discipline basis (
+> http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2519 ).
+>
+> P.
+>
+>
+>>
+>> Best regards,
+>>
+>>
+>>
+>> Iain
+>>
+>>
+>>
+>> Iain Hrynaszkiewicz
+>>
+>> *Associate Journal Publisher*
+>>
+>> *Bio**Med** Central*
+>>
+>> Floor 6, 236 Gray's Inn Road
+>> London, WC1X 8HB
+>>
+>> T: +44 (0)20 3192 2175
+>> F: +44 (0)20 3192 2011
+>>
+>> W: *www.biomedcentral.com/*
+>>
+>>
+>> *Join the BioMed Central Authors and Editors group on LinkedIn:
+>> http://www.linkedin.com/groups?gid=2807240*
+>>
+>> *This group has been created to encourage conversation and information
+>> sharing among research professionals.*
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100804/f086eda9/attachment.htm>
+
+From egon.willighagen at gmail.com  Wed Aug  4 15:52:32 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 4 Aug 2010 15:52:32 +0100
+Subject: [open-science] Working Group Meeting - August 4th
+In-Reply-To: <20100721020734.GD15118@grossmeier.net>
+References: <20100721020734.GD15118@grossmeier.net>
+Message-ID: <AANLkTim9yfnc16O12c4y=t7gp3bjv2wxjttPXGQVRrmL@mail.gmail.com>
+
+On Wed, Jul 21, 2010 at 3:07 AM, Greg Grossmeier <greg at grossmeier.net> wrote:
+> Our next working group meeting will be August 4th at 1700 UTC (6PM
+> London, 1PM New York, http://ur1.ca/0sajl ).
+
+I'm sorry but I am afraid I won't be able to join as I am away for
+conference in Oxford... for a long while I was hoping that the day
+program would have been ended in time, but no luck...
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From daniel.mietchen at googlemail.com  Thu Aug  5 00:26:15 2010
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Thu, 5 Aug 2010 01:26:15 +0200
+Subject: [open-science] Panton Papers
+In-Reply-To: <AANLkTinTNVzO9W7HWFqxMMjWMiJmh8PJVjWmK9hDTDCb@mail.gmail.com>
+References: <AANLkTintegNz2e-4qSDeRRZ+jY-9xM4SbkhsbK-6KbF4@mail.gmail.com>
+	<C874B29D.DEE5%cameron.neylon@stfc.ac.uk>
+	<20100729094102.M61725@ctt-journal.com>
+	<AANLkTinTNVzO9W7HWFqxMMjWMiJmh8PJVjWmK9hDTDCb@mail.gmail.com>
+Message-ID: <AANLkTimg3x=Nb3-yEX=E+xzSjCGBSyX2rC4duMgWgSWj@mail.gmail.com>
+
+Following up on tonight's Skype session, I would think it is best to
+keep shaping the ideas for the individual papers for a while, which
+can be done in the existing
+http://science.okfnpad.org/PantonPapers .
+
+I have also set up
+http://panton-papers.okfnpad.org as a more dedicated option, and we
+could start filling
+http://panton-papers.okfnpad.org/Overview
+there with the structure of the series that is emerging in
+http://okfnpad.org/science-20100804 .
+
+Once we have reached workable consensus there, we can use the running
+titles of the individual papers as the titles for the corresponding
+pads.
+
+Daniel
+
+On Thu, Jul 29, 2010 at 4:32 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Thu, Jul 29, 2010 at 10:44 AM, ctt-journal managing editor
+> <managingeditor at ctt-journal.com> wrote:
+>>
+>> agree with Cameron to keep working out the ideas/subjects for some time
+>> and then see how what needs to be said may fit into which parcel :-)
+>>
+>> btw, what boundaries do we want those parcels to have? semi-permeable?
+>>
+>>
+> I am sure there will be permeability. For a start some of the ideas are
+> still emerging and others overlap.
+>
+> I hope to come up with about one paper per day. I would expect (?at least,
+> ?about) another week so then we can? see what we've got.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+http://www.google.com/profiles/daniel.mietchen
+
+
+From greg at grossmeier.net  Thu Aug  5 01:56:01 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Wed, 4 Aug 2010 20:56:01 -0400
+Subject: [open-science] Science WG 8/4 Meeting Summary
+Message-ID: <20100805005601.GZ2384@grossmeier.net>
+
+Hello Group!
+
+Thanks again for taking the fire alarm fiasco in stride!
+
+Since this pad became quite large, I'm not going to copy much of it here. 
+If you want to see the entire document, please go to: 
+http://okfnpad.org/science-20100804
+
+Present:
+  * Brian Glanz
+  * Claudia Koltzenburg
+  * Daniel Mietchen
+  * Jonathan Gray
+  * Iain Hrynaszkiewicz
+  * Mike Chelen
+  * Greg Grossmeier
+  * Peter Murray-Rust
+  * Jean-Claude Bradley (initially) -- skype mike was out of work
+
+
+Action items I collected from the meeting (please reply and append any 
+that I missed:
+
+ * Claudia gets into touch with Ada Yonath http://ff.im/nWEk8 to find out 
+   if she will be in Cambridge anytime soon for a Panton Discussion.
+
+ * Rufus to produce the SVG of two versions of the Panton Principles 
+   buttons.
+
+ * Panton translations:
+   * Make separate page per language
+   * Add the ISO codes
+   * Announce the translations, do a translation drive
+   * For more: http://www.science3point0.com/wiki/panton-principles/
+
+ * ClaudiaK will contact Ada Yonath about PP
+
+ * Rufus: Section/page on PP for Institutional supporters esp. 
+   journals/organizations that have signed up
+
+ * Produce a PP poster / 1 pager for faculty noticeboards/
+
+ * Iaian will produce PP banner spec
+
+ * Greg will create a simple set of slides giving an introduction (links 
+   to faqs if needed)
+
+ * Panton Papers:
+   * We decided to show our intention to help write certain papers. Here 
+     is the current set of topics and people who have signed up:
+     * What is Open Data? - Mike, Peter, and Claudia
+     * Data Ownership. - Greg, Claudia
+     * Data Mining. - Peter
+     * Reproducibility. - Daniel, and asking Victoria
+     * Funder Requirements. - Daniel
+     * Why Share Data? - Iain, Mike, Daniel
+     * Best Practices. - Mike, Claudia
+     * Subject/Institutional Repositories. - Claudia
+   * These topics are orphans are waiting to be adopted:
+     * When should I share my data?
+     * How does data sharing change data collection?
+
+ * CKAN and DataPKG
+   * Volunteer as an editor/data package maintainer!
+   * Rufus will contact Data Dryad
+   * Claudia made it clear that Cellular Therapy and Transplantation will 
+     accept data as both supplamental and possibly primary publications. 
+     With offer to work closely with CKAN on the creation of this 
+     process.
+
+ * flowerpoint (Fabiana Kubke)
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From jeanclaude.bradley at gmail.com  Thu Aug  5 02:23:55 2010
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Wed, 4 Aug 2010 21:23:55 -0400
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <20100805005601.GZ2384@grossmeier.net>
+References: <20100805005601.GZ2384@grossmeier.net>
+Message-ID: <AANLkTimqMUOcdTvHE0v8EJSni0RdJ9wO-shNfK89-66f@mail.gmail.com>
+
+sorry I had some trouble with my connection - I'll have it fixed for next
+time
+
+On Wed, Aug 4, 2010 at 8:56 PM, Greg Grossmeier <greg at grossmeier.net> wrote:
+
+> Hello Group!
+>
+> Thanks again for taking the fire alarm fiasco in stride!
+>
+> Since this pad became quite large, I'm not going to copy much of it here.
+> If you want to see the entire document, please go to:
+> http://okfnpad.org/science-20100804
+>
+> Present:
+>  * Brian Glanz
+>  * Claudia Koltzenburg
+>  * Daniel Mietchen
+>  * Jonathan Gray
+>  * Iain Hrynaszkiewicz
+>  * Mike Chelen
+>  * Greg Grossmeier
+>  * Peter Murray-Rust
+>  * Jean-Claude Bradley (initially) -- skype mike was out of work
+>
+>
+> Action items I collected from the meeting (please reply and append any
+> that I missed:
+>
+>  * Claudia gets into touch with Ada Yonath http://ff.im/nWEk8 to find out
+>   if she will be in Cambridge anytime soon for a Panton Discussion.
+>
+>  * Rufus to produce the SVG of two versions of the Panton Principles
+>   buttons.
+>
+>  * Panton translations:
+>   * Make separate page per language
+>   * Add the ISO codes
+>   * Announce the translations, do a translation drive
+>   * For more: http://www.science3point0.com/wiki/panton-principles/
+>
+>  * ClaudiaK will contact Ada Yonath about PP
+>
+>  * Rufus: Section/page on PP for Institutional supporters esp.
+>   journals/organizations that have signed up
+>
+>  * Produce a PP poster / 1 pager for faculty noticeboards/
+>
+>  * Iaian will produce PP banner spec
+>
+>  * Greg will create a simple set of slides giving an introduction (links
+>   to faqs if needed)
+>
+>  * Panton Papers:
+>   * We decided to show our intention to help write certain papers. Here
+>     is the current set of topics and people who have signed up:
+>     * What is Open Data? - Mike, Peter, and Claudia
+>     * Data Ownership. - Greg, Claudia
+>     * Data Mining. - Peter
+>     * Reproducibility. - Daniel, and asking Victoria
+>     * Funder Requirements. - Daniel
+>     * Why Share Data? - Iain, Mike, Daniel
+>     * Best Practices. - Mike, Claudia
+>     * Subject/Institutional Repositories. - Claudia
+>   * These topics are orphans are waiting to be adopted:
+>     * When should I share my data?
+>     * How does data sharing change data collection?
+>
+>  * CKAN and DataPKG
+>   * Volunteer as an editor/data package maintainer!
+>   * Rufus will contact Data Dryad
+>   * Claudia made it clear that Cellular Therapy and Transplantation will
+>     accept data as both supplamental and possibly primary publications.
+>     With offer to work closely with CKAN on the creation of this
+>     process.
+>
+>  * flowerpoint (Fabiana Kubke)
+>
+> --
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100804/52dc59d0/attachment-0001.htm>
+
+From koltzenburg at w4w.net  Thu Aug  5 13:03:09 2010
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Thu, 5 Aug 2010 14:03:09 +0200
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <20100805005601.GZ2384@grossmeier.net>
+References: <20100805005601.GZ2384@grossmeier.net>
+Message-ID: <20100805114956.M35181@ctt-journal.com>
+
+Hi Greg, hi all,
+
+thank yo for your speedy and useful summary,
+for first afterthoughts, I suggest we continue on http://okfnpad.org/science-20100804
+
+> Thanks again for taking the fire alarm fiasco in stride!
+
+my pleasure, 
+let's thank pmr for his sure intuition that your newcomer CK will handle this ;-)
+
+----
+PPapers CONCEPT for the series
+
+hands up, please ;-)
+who is planning to continue the conceptual work for the PPaper series on
+http://science.okfnpad.org/PantonPapers
+?
+methinks we need some version management now (4 August --> here)
+or continue elsewhere?
+it should be great to use collaborative spaces only (by which I mean to suggest: no blogs ;-)
+
+----
+from Greg's summary:
+> ? * Claudia made it clear that Cellular Therapy and Transplantation will 
+> ? ? accept data as both supplamental and possibly primary publications. 
+> ? ? With offer to work closely with CKAN on the creation of this 
+> ? ? process.
+
+would anyone from CKAN be so kind as to get into touch with me on this issue?
+
+----
+thanks & cheers,
+?
+Claudia
+who is looking forward to the next skype session(sorry, will be off "in the wild" @kungsleden in early September)
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100805/5f889536/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Aug  5 13:27:13 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 5 Aug 2010 14:27:13 +0200
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <20100805114956.M35181@ctt-journal.com>
+References: <20100805005601.GZ2384@grossmeier.net>
+	<20100805114956.M35181@ctt-journal.com>
+Message-ID: <AANLkTikKOpy0-9Sf_LiXH-QNGe4DD-9yi3FxO-WuA7q8@mail.gmail.com>
+
+On Thu, Aug 5, 2010 at 2:03 PM,  <koltzenburg at w4w.net> wrote:
+> would anyone from CKAN be so kind as to get into touch with me on this
+> issue?
+
+Copied you an intro to Friedrich on CKAN dev team, and will start
+thread on ckan-discuss once ball is rolling. Will report relevant
+findings/developments here! ;-)
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From koltzenburg at w4w.net  Thu Aug  5 13:28:44 2010
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Thu, 5 Aug 2010 14:28:44 +0200
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <AANLkTikKOpy0-9Sf_LiXH-QNGe4DD-9yi3FxO-WuA7q8@mail.gmail.com>
+References: <20100805005601.GZ2384@grossmeier.net>
+	<20100805114956.M35181@ctt-journal.com>
+	<AANLkTikKOpy0-9Sf_LiXH-QNGe4DD-9yi3FxO-WuA7q8@mail.gmail.com>
+Message-ID: <20100805122748.M88441@w4w.net>
+
+thanks, Jonathan, 
+subscribe done,
+Claudia
+
+On Thu, 5 Aug 2010 14:27:13 +0200, Jonathan Gray wrote
+> On Thu, Aug 5, 2010 at 2:03 PM, ?<koltzenburg at w4w.net> wrote: 
+> > would anyone from CKAN be so kind as to get into touch with me on this 
+> > issue? 
+> 
+> Copied you an intro to Friedrich on CKAN dev team, and will start 
+> thread on ckan-discuss once ball is rolling. Will report relevant 
+> findings/developments here! ;-) 
+> 
+> -- 
+> Jonathan Gray 
+> 
+> Community Coordinator 
+> The Open Knowledge Foundation 
+> http://blog.okfn.org 
+> 
+> http://twitter.com/jwyg 
+> http://identi.ca/jwyg
+
+~~~ 
+C. Koltzenburg, Managing editor 
+Cellular Therapy and Transplantation, http://www.ctt-journal.com
+
+University Medical Center Hamburg-Eppendorf, Germany 
+Mobile: +4917649826236 
+<managingeditor at ctt-journal.com> 
+http://www.koltzenburg.net/aiki/CalenDar 
+~~~
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100805/23a7d337/attachment.htm>
+
+From cameron.neylon at stfc.ac.uk  Thu Aug  5 14:16:51 2010
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Thu, 05 Aug 2010 14:16:51 +0100
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <20100805114956.M35181@ctt-journal.com>
+Message-ID: <C8807853.E123%cameron.neylon@stfc.ac.uk>
+
+> ---- 
+> PPapers CONCEPT for the series
+> 
+> hands up, please ;-)
+> who is planning to continue the conceptual work for the PPaper series on
+> http://science.okfnpad.org/PantonPapers
+> 
+I would like to help out but my bandwidth is really limited for next two
+months. I can probably drop in on whatever is the most recent document and
+add ideas/comments from time to time and might be able to to do focussed
+collaborative bursts if they are scheduled.
+
+
+-- 
+Scanned by iCritical.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100805/51bb449f/attachment.htm>
+
+From egon.willighagen at gmail.com  Thu Aug  5 14:45:39 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Thu, 5 Aug 2010 14:45:39 +0100
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <C8807853.E123%cameron.neylon@stfc.ac.uk>
+References: <20100805114956.M35181@ctt-journal.com>
+	<C8807853.E123%cameron.neylon@stfc.ac.uk>
+Message-ID: <AANLkTi=xmKsXpGBmJHjs88rpNKLoQhU+bQZp0Rtsv0cm@mail.gmail.com>
+
+On Thu, Aug 5, 2010 at 2:16 PM, Cameron Neylon
+<cameron.neylon at stfc.ac.uk> wrote:
+> ----
+> PPapers CONCEPT for the series
+>
+> hands up, please ;-)
+> who is planning to continue the conceptual work for the PPaper series on
+> http://science.okfnpad.org/PantonPapers
+>
+> I would like to help out but my bandwidth is really limited for next two
+> months. I can probably drop in on whatever is the most recent document and
+> add ideas/comments from time to time and might be able to to do focussed
+> collaborative bursts if they are scheduled.
+
+I'm sort of in the same situation... :(
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From koltzenburg at w4w.net  Thu Aug  5 15:08:59 2010
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Thu, 5 Aug 2010 16:08:59 +0200
+Subject: [open-science] Science WG 8/4 Meeting Summary
+In-Reply-To: <C8807853.E123%cameron.neylon@stfc.ac.uk>
+References: <20100805114956.M35181@ctt-journal.com>
+	<C8807853.E123%cameron.neylon@stfc.ac.uk>
+Message-ID: <20100805140702.M56550@w4w.net>
+
+collaborative bursts sounds just great, Cameron,
+so let's hope we get the schedules in track for you to catch the train
+... and for us to enjoy your collaborative company :-)
+
+still, we need to agree on what shall be "the most recent document"
+
+more hands up, please
+Claudia
+
+On Thu, 05 Aug 2010 14:16:51 +0100, Cameron Neylon wrote
+> ---- 
+> PPapers CONCEPT for the series 
+> 
+> hands up, please ;-) 
+> who is planning to continue the conceptual work for the PPaper series on 
+> http://science.okfnpad.org/PantonPapers 
+> 
+> I would like to help out but my bandwidth is really limited for next two months. I can probably drop in on whatever is the most recent document and add ideas/comments from time to time and might be able to to do focussed collaborative bursts if they are scheduled.
+> 
+> 
+> -- 
+> Scanned by iCritical.
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100805/d0a0f347/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Aug  6 09:07:58 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 6 Aug 2010 10:07:58 +0200
+Subject: [open-science] Fwd: Policy statements on scientific data (in one
+	place!)
+In-Reply-To: <AANLkTi=aiuBnnfTt9N=BAgN2UXOnrYbt_Uzuu+pAM3+k@mail.gmail.com>
+References: <AANLkTi=aiuBnnfTt9N=BAgN2UXOnrYbt_Uzuu+pAM3+k@mail.gmail.com>
+Message-ID: <AANLkTinb+4MzjJsPQFFcLJLhVV+3z_u9X63MvdXbaYRe@mail.gmail.com>
+
+This looks useful! ;-)
+
+http://www.codata.org/resources/databases/data_access/policies.html
+
+
+---------- Forwarded message ----------
+
+
+Have come across something that may interest people interested in scientific
+data sharing, especially environmental & meteorological [1]. International
+Council for Science : Committee on Data for Science and Technology (CODATA)
+has collated policy statements on open data from several dozen agencies.
+
+[1] http://www.codata.org/resources/databases/data_access/policies.html
+
+-----------------------------------------
+Full text of this topic in The Open Government Ninjas:
+http://groups.open.org.nz/r/topic/2zPCOZkPPAuImLvpqIAKwX
+
+To leave The Open Government Ninjas, email
+mailto:ninja-talk at groups.open.org.nz?Subject=unsubscribe
+
+Start your own free groups and site with
+OnlineGroups.Net http://onlinegroups.net
+
+Host your own online groups site with
+GroupServer http://groupserver.org
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Fri Aug  6 09:41:03 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 6 Aug 2010 09:41:03 +0100
+Subject: [open-science] Fwd: Policy statements on scientific data (in
+	one place!)
+In-Reply-To: <AANLkTinb+4MzjJsPQFFcLJLhVV+3z_u9X63MvdXbaYRe@mail.gmail.com>
+References: <AANLkTi=aiuBnnfTt9N=BAgN2UXOnrYbt_Uzuu+pAM3+k@mail.gmail.com>
+	<AANLkTinb+4MzjJsPQFFcLJLhVV+3z_u9X63MvdXbaYRe@mail.gmail.com>
+Message-ID: <AANLkTi=-22qQ5cXW4X5mmjsGdhZ1_b04D77-ep0+x66i@mail.gmail.com>
+
+On Fri, Aug 6, 2010 at 9:07 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> This looks useful! ;-)
+>
+> http://www.codata.org/resources/databases/data_access/policies.html
+>
+>
+> Yes - there is also a special issue on "Open Data" (2007) which is worth
+browsing:
+http://www.codata.org/dsj/special-open-data.html
+
+
+
+
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100806/bf21d0ac/attachment-0001.htm>
+
+From koltzenburg at w4w.net  Fri Aug  6 10:07:43 2010
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Fri, 6 Aug 2010 11:07:43 +0200
+Subject: [open-science] China Re: Fwd: Policy statements on scientific data
+	(in one place!)
+In-Reply-To: <AANLkTi=-22qQ5cXW4X5mmjsGdhZ1_b04D77-ep0+x66i@mail.gmail.com>
+References: <AANLkTi=aiuBnnfTt9N=BAgN2UXOnrYbt_Uzuu+pAM3+k@mail.gmail.com>
+	<AANLkTinb+4MzjJsPQFFcLJLhVV+3z_u9X63MvdXbaYRe@mail.gmail.com>
+	<AANLkTi=-22qQ5cXW4X5mmjsGdhZ1_b04D77-ep0+x66i@mail.gmail.com>
+Message-ID: <20100806090537.M61643@ctt-journal.com>
+
+thanks, pmr,
+
+e.g. China: 
+Open Access to Scientific Data: Promoting Science and Innovation, Guan-Hua Xu, Chinese Ministry of Science and Technology, 2007, doi:10.2481/dsj.6.OD21
+
+has anyone seen any update on this?
+
+thanks,
+Claudia
+
+On Fri, 6 Aug 2010 09:41:03 +0100, Peter Murray-Rust wrote
+> On Fri, Aug 6, 2010 at 9:07 AM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> This looks useful! ;-)
+> 
+> http://www.codata.org/resources/databases/data_access/policies.html
+> 
+> 
+> Yes - there is also a special issue on "Open Data" (2007) which is worth browsing:
+> http://www.codata.org/dsj/special-open-data.html
+> ?
+> ?
+> ?-- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> 
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100806/b67d4bc2/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Aug  6 10:35:55 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 6 Aug 2010 10:35:55 +0100
+Subject: [open-science] China Re: Fwd: Policy statements on scientific
+	data (in one place!)
+In-Reply-To: <20100806090537.M61643@ctt-journal.com>
+References: <AANLkTi=aiuBnnfTt9N=BAgN2UXOnrYbt_Uzuu+pAM3+k@mail.gmail.com>
+	<AANLkTinb+4MzjJsPQFFcLJLhVV+3z_u9X63MvdXbaYRe@mail.gmail.com>
+	<AANLkTi=-22qQ5cXW4X5mmjsGdhZ1_b04D77-ep0+x66i@mail.gmail.com>
+	<20100806090537.M61643@ctt-journal.com>
+Message-ID: <AANLkTi=RjVarqk_watuf=Lxccbn1iR3vUJcF-Q+LXRYd@mail.gmail.com>
+
+The Open Data Journal is both free-of-charge for authors and readers (I
+think because it has UNESCO support and most labour is gifted voluntarily).
+Henry Rzepa and I published 2 papers in it in 2002. So If we don't worry
+about the odious Impact factor - and rely on the per-article excellence of
+what we write -  it may be a useful organ to consider publishing in.
+
+On Fri, Aug 6, 2010 at 10:07 AM, <koltzenburg at w4w.net> wrote:
+
+>  thanks, pmr,
+>
+>
+> > Yes - there is also a special issue on "Open Data" (2007) which is worth
+> browsing:
+> > http://www.codata.org/dsj/special-open-data.html
+> >
+>
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100806/38c4f409/attachment.htm>
+
+From band at acm.org  Fri Aug  6 12:14:45 2010
+From: band at acm.org (William L. Anderson)
+Date: Fri, 06 Aug 2010 06:14:45 -0500
+Subject: [open-science] China Re: Fwd: Policy statements on scientific
+ data (in one place!)
+In-Reply-To: <AANLkTi=RjVarqk_watuf=Lxccbn1iR3vUJcF-Q+LXRYd@mail.gmail.com>
+References: <AANLkTi=aiuBnnfTt9N=BAgN2UXOnrYbt_Uzuu+pAM3+k@mail.gmail.com>	<AANLkTinb+4MzjJsPQFFcLJLhVV+3z_u9X63MvdXbaYRe@mail.gmail.com>	<AANLkTi=-22qQ5cXW4X5mmjsGdhZ1_b04D77-ep0+x66i@mail.gmail.com>	<20100806090537.M61643@ctt-journal.com>
+	<AANLkTi=RjVarqk_watuf=Lxccbn1iR3vUJcF-Q+LXRYd@mail.gmail.com>
+Message-ID: <4C5BEEA5.1070909@acm.org>
+
+Dear Peter and others, as an Associate Editors for the CODATA Data
+Science Journal (http://www.codata.org/dsj/index.html), we welcome
+papers on all aspects of data science, including long-term and usable
+access to scientific and technical data.
+
+-Bill Anderson
+
+Peter Murray-Rust wrote:
+> The Open Data Journal is both free-of-charge for authors and readers (I
+> think because it has UNESCO support and most labour is gifted
+> voluntarily). Henry Rzepa and I published 2 papers in it in 2002. So If
+> we don't worry about the odious Impact factor - and rely on the
+> per-article excellence of what we write -  it may be a useful organ to
+> consider publishing in.
+> 
+> [ ... ]
+
+-- 
+
+William L. Anderson
+
+mailto:band at praxis101.com
+cell | SMS:  +1 512 560 9753
+Skype: wm_anderson
+http://twitter.com/band
+
+Associate Editor, CODATA Data Science Journal
+    http://www.codata.org/dsj/index.html
+
+
+
+From pm286 at cam.ac.uk  Sun Aug  8 13:55:25 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 8 Aug 2010 13:55:25 +0100
+Subject: [open-science] The Green Chain Reaction - please get involved
+Message-ID: <AANLkTi=A5==6cn6vLymW1eEhQYRdbW2=Mww9FXo_mO-v@mail.gmail.com>
+
+As you can see from http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2526 I am
+planning an ambitious event for #solo2010. If this succeeds it should give
+the OKF high visibility in Science (there will be lots of media coverage).
+I'm looking for help. This doesn't need to be chemical - it's primarily
+organisational. For example providing a project page with names of OKF=based
+helpers.
+
+I would love to be able to show that the OKF is able to react to communal
+Open data-driven projects. It's new ground for all of us. There is no risk
+of failure other than apathy.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100808/06128501/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Aug 11 13:40:19 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 11 Aug 2010 14:40:19 +0200
+Subject: [open-science] Fwd: FW: London Citizen Cyberscience Summit,
+	2-3 September 2010
+In-Reply-To: <0E5DFBD0E5E27443A0987F766478716305567BF0@exchange-be4.centre.ad.gla.ac.uk>
+References: <0E5DFBD0E5E27443A0987F766478716305567BF0@exchange-be4.centre.ad.gla.ac.uk>
+Message-ID: <AANLkTi=-5_kXL8iktTC_MYaQyCtm95buE8oigZVZRnOJ@mail.gmail.com>
+
+Would be great if some folks from this group were able to represent
+the open data is science WG at this event in London!
+
+Can anyone make it? Worth asking if there's any room for a brief slot?
+
+Jonathan
+
+---------- Forwarded message ----------
+
+London Citizen Cyberscience Summit
+
+?2-3 September 2010, King?s College London
+
+?The world?s first summit on citizen cyberscience will be held at
+King?s College London on 2-3 September.
+
+
+
+Citizen cyberscience is a growing trend where ordinary people use
+their computers and the world wide web to contribute?in meaningful
+ways to an increasingly wide range of scientific challenges.
+
+
+
+Citizen cyberscience activity takes place all over the world and by
+its very nature participants very rarely ? if ever ? meet. This event
+will showcase a cross-section of these projects and will provide a
+platform for scientists and citizens to share their thoughts on the
+impact of citizen cyberscience face-to-face.
+
+
+
+The summit will be hosted by King?s College London, and is organised
+jointly by the Citizen Cyberscience Centre, based at CERN in Geneva;
+the Centre for e-Research at King?s; Queen Mary, University of London;
+Imperial College London; University College London and GridRepublic.
+It is supported by the Shuttleworth Foundation, the Joint Information
+Systems Committee (JISC), e-ScienceTalk and Microsoft?Research.
+
+
+
+Confirmed speakers include David Anderson, director of the SETI at home
+project, Space Sciences Laboratory, University of Berkeley; George
+Dyson, historian and philosopher of science and author of ?Darwin
+Among the Machines?; and Myles Allen, head of ClimatePrediction.net at
+Oxford University.
+
+
+
+There are currently more than 100 active citizen cyberscience projects
+-?many address topical themes, such as modelling climate change
+(ClimatePrediction.net) or simulating the spread of malaria
+(MalariaControl.net). King?s staff will demonstrate how citizen
+cyberscience can be applied to the cultural heritage sector through
+the East London Theatre Archive project (elta-project.org).
+
+
+
+The event will be of interest to both amateur and professional
+scientists, to people who care about the impact of science on society,
+and of society on science, and to those working in the digital
+humanities and cultural heritage.
+
+
+
+The Citizen Cyberscience Summit will take place on 2-3 September 2010
+in the Anatomy Theatre & Museum?at?King?s College London?s Strand
+Campus.?To see the full programme and to book tickets, see
+www.citizencyberscience.net/summit. The event will also be webcast.
+
+
+
+___
+
+
+
+Anna Ashton
+
+Communications & Administrative Officer
+
+
+
+Centre for e-Research
+
+King's College London
+
+26-29 Drury Lane
+
+London, WC2B 5RL
+
+
+
+Tel: 020 7848 2689
+
+Fax: 020 7848 1989
+
+
+
+http://www.kcl.ac.uk/iss/cerch
+
+Follow us on Twitter @CeRch_KCL
+
+
+
+
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From pm286 at cam.ac.uk  Wed Aug 11 15:14:45 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 11 Aug 2010 15:14:45 +0100
+Subject: [open-science] Fwd: FW: London Citizen Cyberscience Summit,
+ 2-3 September 2010
+In-Reply-To: <AANLkTi=-5_kXL8iktTC_MYaQyCtm95buE8oigZVZRnOJ@mail.gmail.com>
+References: <0E5DFBD0E5E27443A0987F766478716305567BF0@exchange-be4.centre.ad.gla.ac.uk>
+	<AANLkTi=-5_kXL8iktTC_MYaQyCtm95buE8oigZVZRnOJ@mail.gmail.com>
+Message-ID: <AANLkTikrHeYoUzMHq0MTbkNJCC=K_ML3TVFUf7g1W7Zq@mail.gmail.com>
+
+On Wed, Aug 11, 2010 at 1:40 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Would be great if some folks from this group were able to represent
+> the open data is science WG at this event in London!
+>
+> Can anyone make it? Worth asking if there's any room for a brief slot?
+>
+
+I have registered. It clashes slightly with Science Online
+
+
+>
+> Jonathan
+>
+> ---------- Forwarded message ----------
+>
+> London Citizen Cyberscience Summit
+>
+>  2-3 September 2010, King?s College London
+>
+>  The world?s first summit on citizen cyberscience will be held at
+> King?s College London on 2-3 September.
+>
+>
+>
+> Citizen cyberscience is a growing trend where ordinary people use
+> their computers and the world wide web to contribute in meaningful
+> ways to an increasingly wide range of scientific challenges.
+>
+>
+>
+> Citizen cyberscience activity takes place all over the world and by
+> its very nature participants very rarely ? if ever ? meet. This event
+> will showcase a cross-section of these projects and will provide a
+> platform for scientists and citizens to share their thoughts on the
+> impact of citizen cyberscience face-to-face.
+>
+>
+>
+> The summit will be hosted by King?s College London, and is organised
+> jointly by the Citizen Cyberscience Centre, based at CERN in Geneva;
+> the Centre for e-Research at King?s; Queen Mary, University of London;
+> Imperial College London; University College London and GridRepublic.
+> It is supported by the Shuttleworth Foundation, the Joint Information
+> Systems Committee (JISC), e-ScienceTalk and Microsoft Research.
+>
+>
+>
+> Confirmed speakers include David Anderson, director of the SETI at home
+> project, Space Sciences Laboratory, University of Berkeley; George
+> Dyson, historian and philosopher of science and author of ?Darwin
+> Among the Machines?; and Myles Allen, head of ClimatePrediction.net at
+> Oxford University.
+>
+>
+>
+> There are currently more than 100 active citizen cyberscience projects
+> - many address topical themes, such as modelling climate change
+> (ClimatePrediction.net) or simulating the spread of malaria
+> (MalariaControl.net). King?s staff will demonstrate how citizen
+> cyberscience can be applied to the cultural heritage sector through
+> the East London Theatre Archive project (elta-project.org).
+>
+>
+>
+> The event will be of interest to both amateur and professional
+> scientists, to people who care about the impact of science on society,
+> and of society on science, and to those working in the digital
+> humanities and cultural heritage.
+>
+>
+>
+> The Citizen Cyberscience Summit will take place on 2-3 September 2010
+> in the Anatomy Theatre & Museum at King?s College London?s Strand
+> Campus. To see the full programme and to book tickets, see
+> www.citizencyberscience.net/summit. The event will also be webcast.
+>
+>
+>
+> ___
+>
+>
+>
+> Anna Ashton
+>
+> Communications & Administrative Officer
+>
+>
+>
+> Centre for e-Research
+>
+> King's College London
+>
+> 26-29 Drury Lane
+>
+> London, WC2B 5RL
+>
+>
+>
+> Tel: 020 7848 2689
+>
+> Fax: 020 7848 1989
+>
+>
+>
+> http://www.kcl.ac.uk/iss/cerch
+>
+> Follow us on Twitter @CeRch_KCL
+>
+>
+>
+>
+>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100811/95e45f15/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug 11 16:48:49 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 11 Aug 2010 16:48:49 +0100
+Subject: [open-science] The Green Chain Reaction - please get involved
+In-Reply-To: <AANLkTin4mt+2-PY-C8v8e9V6NS-7WO8Pz-=ae+PtOx8e@mail.gmail.com>
+References: <AANLkTi=A5==6cn6vLymW1eEhQYRdbW2=Mww9FXo_mO-v@mail.gmail.com>
+	<AANLkTi=2UhkZKCuD_rYTK9FMQRGN21B2jNwc8ObKP65k@mail.gmail.com>
+	<AANLkTinrx--cYvC3upfRmP_5kb7fdsTgbnjCPjm=AmWG@mail.gmail.com>
+	<AANLkTimBX7timCAN9dZnsJ6BU0dTRg9yqvKH2jOG23i+@mail.gmail.com>
+	<AANLkTimscyfeVaj_CMsdE0o4x3vrws1TFbCBwTE757ji@mail.gmail.com>
+	<AANLkTin4mt+2-PY-C8v8e9V6NS-7WO8Pz-=ae+PtOx8e@mail.gmail.com>
+Message-ID: <AANLkTikqoHaq=SH-HranFwNzc40gCGnFmsAM5HBzz7Zf@mail.gmail.com>
+
+I've opened this out to the OKF open-science list as there will be others
+who will be interested.
+
+On Wed, Aug 11, 2010 at 2:23 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Peter and others,
+>
+> Sure, I'd be happy to help with that!
+>
+
+Wonderful
+
+>
+> I assume I'll model my emails after the existing ones on the IsItOpen site.
+>  Do you have suggestions on how to identify the right person to send the
+> emails to?
+>
+
+We know many of them, and they will need customising.
+
+
+> Are any of the previous IsItOpen enquiries considered "Resolved"?  If not
+> and some should be, may I help with that organization?  It would help my
+> browsing :)
+>
+
+That would be REALLY great. If you can say something like - "many thanks for
+replying, and we're very happy / would like more info, etc..."
+
+>
+> In short:  let me know when and how to start.
+>
+> btw to see if I could edit the green chain wiki etc I added IsItOpen
+> volunteering as an area where people can help contribute.  After I did that
+> I realized maybe you didn't want to highlight this sort of volunteering
+> rolled under the umbrella of the green chain project?  If that is true, let
+> me know and I'll remove it.
+>
+
+I'm very happy for it to be highlighted! It allows me to highlight you, the
+OKF, JISC and several others.
+
+>
+> another btw, I've removed Todd Vision from the email CC.  As my PI, he was
+> curious, but I don't want to fill his inbox.
+>
+
+Good.
+
+Hacking code, maybe back in 2 hours
+
+>
+> Exciting!
+>
+> Heather
+>
+>
+> On Tue, Aug 10, 2010 at 4:03 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>>
+>>
+>> On Mon, Aug 9, 2010 at 8:40 PM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+>>
+>>> Peter,
+>>>
+>>> Great!
+>>>
+>>> I'll keep my eye on the list.  Let me know how/when I can help, and if
+>>> you have a suggested location for notes/wikipages.
+>>>
+>>
+>> The wiki is now all at:
+>>
+>> http://scienceonlinelondon.wikidot.com/topics:green-chain-reaction
+>> as its probably the best place for people to see it.
+>>
+>> It would be really great if you could help make the IsItOpen request
+>> system work. This was built by Jenny, Rufus and others from an idea I had
+>> based on whatdotheyknow.org (FOI). It's a system to request information
+>> from publishers as to whether their data is truly Open. The problem as you
+>> know is that it is usually unclear.
+>>
+>> I intend to use this to ask publishers whether we can data-mine their
+>> chemical reactions. We know we can do this with BMC, PLoS, Acta E and a few
+>> others. The problem is that we haven't really put the proper attention to
+>> collating replies. In particular it's valuable to make sure they get
+>> courteous replies (even if they say no).
+>>
+>> So we'd like to start by asking the committed OA publishers, get "yes"
+>> from them and then start the not-so-committed ones. How far we'll get before
+>> the date I don't know. I'd like to present this at the meeting and at least
+>> be able to show successes.
+>>
+>> But if there are other aspects of organization you can see feel free to
+>> suggest them.
+>>
+>> P.
+>>
+>>
+>>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100811/634bd8c0/attachment.htm>
+
+From hpiwowar at gmail.com  Wed Aug 11 18:45:36 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Wed, 11 Aug 2010 10:45:36 -0700
+Subject: [open-science] The Green Chain Reaction - please get involved
+In-Reply-To: <AANLkTikqoHaq=SH-HranFwNzc40gCGnFmsAM5HBzz7Zf@mail.gmail.com>
+References: <AANLkTi=A5==6cn6vLymW1eEhQYRdbW2=Mww9FXo_mO-v@mail.gmail.com>
+	<AANLkTi=2UhkZKCuD_rYTK9FMQRGN21B2jNwc8ObKP65k@mail.gmail.com>
+	<AANLkTinrx--cYvC3upfRmP_5kb7fdsTgbnjCPjm=AmWG@mail.gmail.com>
+	<AANLkTimBX7timCAN9dZnsJ6BU0dTRg9yqvKH2jOG23i+@mail.gmail.com>
+	<AANLkTimscyfeVaj_CMsdE0o4x3vrws1TFbCBwTE757ji@mail.gmail.com>
+	<AANLkTin4mt+2-PY-C8v8e9V6NS-7WO8Pz-=ae+PtOx8e@mail.gmail.com>
+	<AANLkTikqoHaq=SH-HranFwNzc40gCGnFmsAM5HBzz7Zf@mail.gmail.com>
+Message-ID: <AANLkTikFX6pe3VyWNGpmWHQrWH+dAb8f4VXKO=KwL-PX@mail.gmail.com>
+
+Peter,
+
+Sounds good.  I've established a login at IsItOpen.  It looks like I need
+some behind-the-scenes access to view the full email addresses of
+previous correspondence?  I will wait for that and any other instruction
+before moving ahead.
+
+One thing I noticed is that the greenchem How can I get
+involved<http://scienceonlinelondon.wikidot.com/greenchem:how-can-i-get-involved>
+page
+doesn't actually say how people can get involved.  Shall I add a sentence
+suggesting that volunteers should send you an email, Peter, or ???
+
+Heather
+
+
+On Wed, Aug 11, 2010 at 8:48 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> I've opened this out to the OKF open-science list as there will be others
+> who will be interested.
+>
+> On Wed, Aug 11, 2010 at 2:23 PM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+>
+>> Peter and others,
+>>
+>> Sure, I'd be happy to help with that!
+>>
+>
+> Wonderful
+>
+>>
+>> I assume I'll model my emails after the existing ones on the IsItOpen
+>> site.  Do you have suggestions on how to identify the right person to send
+>> the emails to?
+>>
+>
+> We know many of them, and they will need customising.
+>
+>
+>>  Are any of the previous IsItOpen enquiries considered "Resolved"?  If not
+>> and some should be, may I help with that organization?  It would help my
+>> browsing :)
+>>
+>
+> That would be REALLY great. If you can say something like - "many thanks
+> for replying, and we're very happy / would like more info, etc..."
+>
+>>
+>> In short:  let me know when and how to start.
+>>
+>>
+>>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100811/eb654354/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Wed Aug 11 18:57:41 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 11 Aug 2010 18:57:41 +0100
+Subject: [open-science] The Green Chain Reaction - please get involved
+In-Reply-To: <AANLkTikFX6pe3VyWNGpmWHQrWH+dAb8f4VXKO=KwL-PX@mail.gmail.com>
+References: <AANLkTi=A5==6cn6vLymW1eEhQYRdbW2=Mww9FXo_mO-v@mail.gmail.com>
+	<AANLkTi=2UhkZKCuD_rYTK9FMQRGN21B2jNwc8ObKP65k@mail.gmail.com>
+	<AANLkTinrx--cYvC3upfRmP_5kb7fdsTgbnjCPjm=AmWG@mail.gmail.com>
+	<AANLkTimBX7timCAN9dZnsJ6BU0dTRg9yqvKH2jOG23i+@mail.gmail.com>
+	<AANLkTimscyfeVaj_CMsdE0o4x3vrws1TFbCBwTE757ji@mail.gmail.com>
+	<AANLkTin4mt+2-PY-C8v8e9V6NS-7WO8Pz-=ae+PtOx8e@mail.gmail.com>
+	<AANLkTikqoHaq=SH-HranFwNzc40gCGnFmsAM5HBzz7Zf@mail.gmail.com>
+	<AANLkTikFX6pe3VyWNGpmWHQrWH+dAb8f4VXKO=KwL-PX@mail.gmail.com>
+Message-ID: <AANLkTimKZWsmQ=LNa4DyK18j+zwKdMV8Dw2Y3QhnsAx=@mail.gmail.com>
+
+On Wed, Aug 11, 2010 at 6:45 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Peter,
+>
+> Sounds good.  I've established a login at IsItOpen.  It looks like I need
+> some behind-the-scenes access to view the full email addresses of
+> previous correspondence?  I will wait for that and any other instruction
+> before moving ahead.
+>
+
+I think Rufus is the most likely person to know, or possibly Jonathan Gray.
+I didn't actually code anything.
+
+
+>
+> One thing I noticed is that the greenchem How can I get involved<http://scienceonlinelondon.wikidot.com/greenchem:how-can-i-get-involved> page
+> doesn't actually say how people can get involved.  Shall I add a sentence
+> suggesting that volunteers should send you an email, Peter, or ???
+>
+
+Please do, although it's probably a good idea that they leave their name on
+the Wiki to make sure they don't get forgotten.
+
+> Heather
+>
+>
+> On Wed, Aug 11, 2010 at 8:48 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> I've opened this out to the OKF open-science list as there will be others
+>> who will be interested.
+>>
+>> On Wed, Aug 11, 2010 at 2:23 PM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+>>
+>>> Peter and others,
+>>>
+>>> Sure, I'd be happy to help with that!
+>>>
+>>
+>> Wonderful
+>>
+>>>
+>>> I assume I'll model my emails after the existing ones on the IsItOpen
+>>> site.  Do you have suggestions on how to identify the right person to send
+>>> the emails to?
+>>>
+>>
+>> We know many of them, and they will need customising.
+>>
+>>
+>>>  Are any of the previous IsItOpen enquiries considered "Resolved"?  If
+>>> not and some should be, may I help with that organization?  It would help my
+>>> browsing :)
+>>>
+>>
+>> That would be REALLY great. If you can say something like - "many thanks
+>> for replying, and we're very happy / would like more info, etc..."
+>>
+>>>
+>>> In short:  let me know when and how to start.
+>>>
+>>>
+>>>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100811/9af47920/attachment.htm>
+
+From koltzenburg at w4w.net  Wed Aug 11 21:37:48 2010
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Wed, 11 Aug 2010 22:37:48 +0200
+Subject: [open-science] ? PP @ Cologne meeting 13-14 Dec
+In-Reply-To: <AANLkTimKZWsmQ=LNa4DyK18j+zwKdMV8Dw2Y3QhnsAx=@mail.gmail.com>
+References: <AANLkTi=A5==6cn6vLymW1eEhQYRdbW2=Mww9FXo_mO-v@mail.gmail.com>
+	<AANLkTi=2UhkZKCuD_rYTK9FMQRGN21B2jNwc8ObKP65k@mail.gmail.com>
+	<AANLkTinrx--cYvC3upfRmP_5kb7fdsTgbnjCPjm=AmWG@mail.gmail.com>
+	<AANLkTimBX7timCAN9dZnsJ6BU0dTRg9yqvKH2jOG23i+@mail.gmail.com>
+	<AANLkTimscyfeVaj_CMsdE0o4x3vrws1TFbCBwTE757ji@mail.gmail.com>
+	<AANLkTin4mt+2-PY-C8v8e9V6NS-7WO8Pz-=ae+PtOx8e@mail.gmail.com>
+	<AANLkTikqoHaq=SH-HranFwNzc40gCGnFmsAM5HBzz7Zf@mail.gmail.com>
+	<AANLkTikFX6pe3VyWNGpmWHQrWH+dAb8f4VXKO=KwL-PX@mail.gmail.com>
+	<AANLkTimKZWsmQ=LNa4DyK18j+zwKdMV8Dw2Y3QhnsAx=@mail.gmail.com>
+Message-ID: <20100811203547.M25786@w4w.net>
+
+hi crowd,
+
+has any PP activist been asked for a contribution to:
+
+"Open Access - Open Data" 
+Programme (so far...) 
+http://www.oaod2010.de/index.php?id=63
+
+cheers,
+Claudia
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100811/49b9910a/attachment.htm>
+
+From wilbanks at creativecommons.org  Thu Aug 12 16:32:03 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 12 Aug 2010 08:32:03 -0700
+Subject: [open-science] CC Public Domain Mark
+In-Reply-To: <list-18987768@arl.org>
+References: <list-18987768@arl.org>
+Message-ID: <29BFAD37-3D12-4804-9D9B-EA0CB8BF527C@creativecommons.org>
+
+Apologies for cross-posting.
+
+I thought everyone should be aware of the new Creative Commons Public Domain Mark and the ability to perform cut-and-paste citation from inside the CC0 "human readable" deed. I have detailed the work in a blog post at http://scienceblogs.com/commonknowledge/2010/08/i_am_cribbing_significant_amou.php - please feel free to ask me questions directly if you are interested. 
+
+We expect to build a significant amount of normative infrastructure around the citation capability in our partnerships with the larger open science players who are already using CC0, such as Sage Bionetworks (hopefully this will provide some useful functionality to the Sage Cite project), Personal Genome Project, Polar Information Commons, and our emerging work on open energy and climate change data. And hopefully the PDM mark will begin to gain some traction with larger, governmental entities in the coming months to ensure that the bedrock of open data is as open as it can be...
+
+jtw
+
+
+
+
+From steelgraham at hotmail.com  Sat Aug 14 18:21:41 2010
+From: steelgraham at hotmail.com (Graham Steel)
+Date: Sat, 14 Aug 2010 17:21:41 +0000
+Subject: [open-science] =?windows-1252?q?Rare_Sharing_of_Data_Leads_to_Pro?=
+ =?windows-1252?q?gress_on_Alzheimer=92s_=28NYTimes=29?=
+Message-ID: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>
+
+
+Dear All,
+
+As you may already know, there has been a lot of discussion on the web in the last 24 hours regarding 'Rare Sharing of Data Leads to Progress on Alzheimer?s (NYTimes)':- http://www.nytimes.com/2010/08/13/health/research/13alzheimer.html?emc=eta1
+
+May I propose that this article/discussion is put on the agenda for the next monthly meet up of the OKFN's Working Group on Open Data in Science.
+
+As Glyn Moody put it so well (IMHO) on Twitter yesterday, " this should be the norm, not 'rare' "
+
+Thanks,
+
+gks
+ 
+
+  
+H: +44 (0)141 422 1483 (after 18.00 GMT)
+C: +44 (0)7900441046
+E: steelgraham7 at gmail.com
+Fav: http://www.plos.org - research made public
+Fb: http://www.facebook.com/home.php#/profile.php?id=709026752
+Blog: http://mcblawg.blogspot.com/ 
+Twitter: http://twitter.com/McDawg
+FriendFeed: http://friendfeed.com/mcdawg 
+
+ 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100814/24cfe180/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Aug 14 18:32:47 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 14 Aug 2010 18:32:47 +0100
+Subject: [open-science]
+	=?windows-1252?q?Rare_Sharing_of_Data_Leads_to_Pro?=
+	=?windows-1252?q?gress_on_Alzheimer=92s_=28NYTimes=29?=
+In-Reply-To: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>
+References: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>
+Message-ID: <AANLkTimjUB=Q6S60BDtxUOKeME6o00N3O=kL9dCa8=uC@mail.gmail.com>
+
+On Sat, Aug 14, 2010 at 6:21 PM, Graham Steel <steelgraham at hotmail.com>wrote:
+
+>  Dear All,
+>
+> As you may already know, there has been a lot of discussion on the web in
+> the last 24 hours regarding 'Rare Sharing of Data Leads to Progress on
+> Alzheimer?s (NYTimes)':-
+> http://www.nytimes.com/2010/08/13/health/research/13alzheimer.html?emc=eta1
+>
+> May I propose that this article/discussion is put on the agenda for the
+> next monthly meet up of the OKFN's Working Group on Open Data in Science.
+>
+
+This is an excellent high-profile example of Open Data. Do you have
+suggestions as to how we can take this forward.
+
+There is so much happening in this area now that we have to work out what is
+the best use of our resources and how to get more people involved. Maybe we
+shoudl use this and others as picked examples of why Open data works - a
+sort of prospectus.
+
+Unfortunately not everyone will be convinced and in chemistry it's really
+tough.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100814/bdfe210f/attachment.htm>
+
+From steelgraham at hotmail.com  Sat Aug 14 20:00:06 2010
+From: steelgraham at hotmail.com (Graham Steel)
+Date: Sat, 14 Aug 2010 19:00:06 +0000
+Subject: [open-science]
+ =?windows-1252?q?Rare_Sharing_of_Data_Leads_to_Pro?=
+ =?windows-1252?q?gress_on_Alzheimer=92s_=28NYTimes=29?=
+In-Reply-To: <AANLkTimjUB=Q6S60BDtxUOKeME6o00N3O=kL9dCa8=uC@mail.gmail.com>
+References: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>,
+	<AANLkTimjUB=Q6S60BDtxUOKeME6o00N3O=kL9dCa8=uC@mail.gmail.com>
+Message-ID: <BAY139-W19D2101811495C09D159BAB4990@phx.gbl>
+
+
+Peter/All,
+
+The issue here to me that I'd like to see more widely discussed is who actually has access to such 'open data'.
+
+I'm 99.9% certain that I read a comment yesterday, that gaining access to the data from the Alzheimer's dataset requires a log-in/approval. 
+
+There was a similar situaion in June in terms of Pharma data from failed Alzheimer's drug trials being made 'open'. 
+
+Drug Makers Will Share Data From Failed Alzheimer's Trials - WSJ
+
+--
+
+See this thread and you'll see what i'm getting at.
+
+
+gks
+ 
+
+
+
+Date: Sat, 14 Aug 2010 18:32:47 +0100
+Subject: Re: [open-science] Rare Sharing of Data Leads to Progress on Alzheimer?s (NYTimes)
+From: pm286 at cam.ac.uk
+To: steelgraham at hotmail.com
+CC: open-science at lists.okfn.org
+
+
+
+On Sat, Aug 14, 2010 at 6:21 PM, Graham Steel <steelgraham at hotmail.com> wrote:
+
+
+
+
+
+
+Dear All,
+
+As you may already know, there has been a lot of discussion on the web in the last 24 hours regarding 'Rare Sharing of Data Leads to Progress on Alzheimer?s (NYTimes)':- http://www.nytimes.com/2010/08/13/health/research/13alzheimer.html?emc=eta1
+
+
+May I propose that this article/discussion is put on the agenda for the next monthly meet up of the OKFN's Working Group on Open Data in Science.
+
+This is an excellent high-profile example of Open Data. Do you have suggestions as to how we can take this forward.
+
+ 
+There is so much happening in this area now that we have to work out what is the best use of our resources and how to get more people involved. Maybe we shoudl use this and others as picked examples of why Open data works - a sort of prospectus.
+
+
+Unfortunately not everyone will be convinced and in chemistry it's really tough.
+
+P.
+
+ 
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+ 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100814/ace63408/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Aug 15 00:19:16 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 15 Aug 2010 00:19:16 +0100
+Subject: [open-science]
+	=?windows-1252?q?Rare_Sharing_of_Data_Leads_to_Pro?=
+	=?windows-1252?q?gress_on_Alzheimer=92s_=28NYTimes=29?=
+In-Reply-To: <BAY139-W19D2101811495C09D159BAB4990@phx.gbl>
+References: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>
+	<AANLkTimjUB=Q6S60BDtxUOKeME6o00N3O=kL9dCa8=uC@mail.gmail.com>
+	<BAY139-W19D2101811495C09D159BAB4990@phx.gbl>
+Message-ID: <AANLkTi=RCXZOaB=QP5AqnCd2+SNWDkVWuOGfoTURb1eD@mail.gmail.com>
+
+On Sat, Aug 14, 2010 at 8:00 PM, Graham Steel <steelgraham at hotmail.com>wrote:
+
+>  Peter/All,
+>
+> The issue here to me that I'd like to see more widely discussed is who
+> actually has access to such 'open data'.
+>
+> I'm 99.9% certain that I read a comment yesterday, that gaining access to
+> the data from the Alzheimer's dataset requires a log-in/approval.
+>
+> There was a similar situaion in June in terms of Pharma data from failed
+> Alzheimer's drug trials being made 'open'.
+>
+> Drug Makers Will Share Data From Failed Alzheimer's Trials - WSJ<http://online.wsj.com/article/SB10001424052748703627704575298783153884208.html?mod=wsj_share_facebook>
+>
+> --
+>
+> See this thread <http://www.als.net/forum/Default.aspx?g=posts&t=48301>and you'll see what i'm getting at.
+>
+
+If you mean that the data are not effectively OKD-Open then this is worth
+advertising. Logins often creat pseudo-walled gardens where you cannot
+extract the whole data. This is very important.
+
+P.
+
+
+> gks
+>
+>
+>
+>
+>
+> ------------------------------
+> Date: Sat, 14 Aug 2010 18:32:47 +0100
+> Subject: Re: [open-science] Rare Sharing of Data Leads to Progress on
+> Alzheimer?s (NYTimes)
+> From: pm286 at cam.ac.uk
+> To: steelgraham at hotmail.com
+> CC: open-science at lists.okfn.org
+>
+>
+>
+>
+> On Sat, Aug 14, 2010 at 6:21 PM, Graham Steel <steelgraham at hotmail.com>wrote:
+>
+>  Dear All,
+>
+> As you may already know, there has been a lot of discussion on the web in
+> the last 24 hours regarding 'Rare Sharing of Data Leads to Progress on
+> Alzheimer?s (NYTimes)':-
+> http://www.nytimes.com/2010/08/13/health/research/13alzheimer.html?emc=eta1
+>
+> May I propose that this article/discussion is put on the agenda for the
+> next monthly meet up of the OKFN's Working Group on Open Data in Science.
+>
+>
+> This is an excellent high-profile example of Open Data. Do you have
+> suggestions as to how we can take this forward.
+>
+> There is so much happening in this area now that we have to work out what
+> is the best use of our resources and how to get more people involved. Maybe
+> we shoudl use this and others as picked examples of why Open data works - a
+> sort of prospectus.
+>
+> Unfortunately not everyone will be convinced and in chemistry it's really
+> tough.
+>
+> P.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100815/77fecc97/attachment.htm>
+
+From jeanclaude.bradley at gmail.com  Sun Aug 15 17:13:56 2010
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Sun, 15 Aug 2010 12:13:56 -0400
+Subject: [open-science]
+	=?windows-1252?q?Rare_Sharing_of_Data_Leads_to_Pro?=
+	=?windows-1252?q?gress_on_Alzheimer=92s_=28NYTimes=29?=
+In-Reply-To: <BAY139-W19D2101811495C09D159BAB4990@phx.gbl>
+References: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>
+	<AANLkTimjUB=Q6S60BDtxUOKeME6o00N3O=kL9dCa8=uC@mail.gmail.com>
+	<BAY139-W19D2101811495C09D159BAB4990@phx.gbl>
+Message-ID: <AANLkTikV=p1NmdoMb_2va52f_z7_96hyzBGn1mst3XTr@mail.gmail.com>
+
+Graham - you may be thinking of my comment.  I tried to access the dataset
+but it required either registration or registration and filling out an
+application.  I don't know if this disqualifies it as truly "open" but from
+a practical standpoint I think allowing anonymous access to data and
+enabling referring via a simple URL are very important for promoting its
+use.
+
+Jean-Claude
+
+On Sat, Aug 14, 2010 at 3:00 PM, Graham Steel <steelgraham at hotmail.com>wrote:
+
+>  Peter/All,
+>
+> The issue here to me that I'd like to see more widely discussed is who
+> actually has access to such 'open data'.
+>
+> I'm 99.9% certain that I read a comment yesterday, that gaining access to
+> the data from the Alzheimer's dataset requires a log-in/approval.
+>
+> There was a similar situaion in June in terms of Pharma data from failed
+> Alzheimer's drug trials being made 'open'.
+>
+> Drug Makers Will Share Data From Failed Alzheimer's Trials - WSJ<http://online.wsj.com/article/SB10001424052748703627704575298783153884208.html?mod=wsj_share_facebook>
+>
+> --
+>
+> See this thread <http://www.als.net/forum/Default.aspx?g=posts&t=48301>and you'll see what i'm getting at.
+>
+> gks
+>
+>
+>
+>
+>
+> ------------------------------
+> Date: Sat, 14 Aug 2010 18:32:47 +0100
+> Subject: Re: [open-science] Rare Sharing of Data Leads to Progress on
+> Alzheimer?s (NYTimes)
+> From: pm286 at cam.ac.uk
+> To: steelgraham at hotmail.com
+> CC: open-science at lists.okfn.org
+>
+>
+>
+>
+> On Sat, Aug 14, 2010 at 6:21 PM, Graham Steel <steelgraham at hotmail.com>wrote:
+>
+>  Dear All,
+>
+> As you may already know, there has been a lot of discussion on the web in
+> the last 24 hours regarding 'Rare Sharing of Data Leads to Progress on
+> Alzheimer?s (NYTimes)':-
+> http://www.nytimes.com/2010/08/13/health/research/13alzheimer.html?emc=eta1
+>
+> May I propose that this article/discussion is put on the agenda for the
+> next monthly meet up of the OKFN's Working Group on Open Data in Science.
+>
+>
+> This is an excellent high-profile example of Open Data. Do you have
+> suggestions as to how we can take this forward.
+>
+> There is so much happening in this area now that we have to work out what
+> is the best use of our resources and how to get more people involved. Maybe
+> we shoudl use this and others as picked examples of why Open data works - a
+> sort of prospectus.
+>
+> Unfortunately not everyone will be convinced and in chemistry it's really
+> tough.
+>
+> P.
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100815/d8aff7b4/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Mon Aug 16 13:09:30 2010
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Mon, 16 Aug 2010 14:09:30 +0200
+Subject: [open-science]
+	=?utf-8?q?Rare_Sharing_of_Data_Leads_to_Progress_o?=
+	=?utf-8?q?n_Alzheimer=E2=80=99s_=28NYTimes=29?=
+In-Reply-To: <AANLkTikV=p1NmdoMb_2va52f_z7_96hyzBGn1mst3XTr@mail.gmail.com>
+References: <BAY139-W268BE301866CF6A69364E6B4990@phx.gbl>
+	<AANLkTimjUB=Q6S60BDtxUOKeME6o00N3O=kL9dCa8=uC@mail.gmail.com>
+	<BAY139-W19D2101811495C09D159BAB4990@phx.gbl>
+	<AANLkTikV=p1NmdoMb_2va52f_z7_96hyzBGn1mst3XTr@mail.gmail.com>
+Message-ID: <AANLkTin5Dd2yvbq3MPXNHXQcSDLOPuOMUwTQ=iwcZTJQ@mail.gmail.com>
+
+Some of my colleagues are working with part of these data (mainly MRI
+scans), and I am registered for their site as well, using the data
+mainly for testing purposes.
+
+I agree that their conditions for access to data are more open than
+those of most research projects in the neuroimaging field,
+but think that they are miles away from the kind of open data sharing
+that is common practice in genetics or astrophysics and the goal of
+OKFN.
+
+Things are complicated by the need to balance openness of the data
+with privacy of the participants in the study.
+
+For more details, see
+http://www.loni.ucla.edu/ADNI/Data/ADNI_DataUsers.shtml and follow the
+"apply now" link.
+
+Daniel
+
+
+On Sun, Aug 15, 2010 at 6:13 PM, Jean-Claude Bradley
+<jeanclaude.bradley at gmail.com> wrote:
+> Graham - you may be thinking of my comment. ?I tried to access the dataset
+> but it required either registration or registration and filling out an
+> application. ?I don't know if this disqualifies it as truly "open" but from
+> a practical standpoint I think allowing anonymous access to data and
+> enabling referring via a simple URL are very important for promoting its
+> use.
+> Jean-Claude
+>
+> On Sat, Aug 14, 2010 at 3:00 PM, Graham Steel <steelgraham at hotmail.com>
+> wrote:
+>>
+>> Peter/All,
+>>
+>> The issue here to me that I'd like to see more widely discussed is who
+>> actually has access to such 'open data'.
+>>
+>> I'm 99.9% certain that I read a comment yesterday, that gaining access to
+>> the data from the Alzheimer's dataset requires a log-in/approval.
+>>
+>> There was a similar situaion in June in terms of Pharma data from failed
+>> Alzheimer's drug trials being made 'open'.
+>>
+>> Drug Makers Will Share Data From Failed Alzheimer's Trials - WSJ
+>>
+>> --
+>>
+>> See this thread and you'll see what i'm getting at.
+>>
+>> gks
+>>
+>>
+>>
+>>
+>> ________________________________
+>> Date: Sat, 14 Aug 2010 18:32:47 +0100
+>> Subject: Re: [open-science] Rare Sharing of Data Leads to Progress on
+>> Alzheimer?s (NYTimes)
+>> From: pm286 at cam.ac.uk
+>> To: steelgraham at hotmail.com
+>> CC: open-science at lists.okfn.org
+>>
+>>
+>>
+>> On Sat, Aug 14, 2010 at 6:21 PM, Graham Steel <steelgraham at hotmail.com>
+>> wrote:
+>>
+>> Dear All,
+>>
+>> As you may already know, there has been a lot of discussion on the web in
+>> the last 24 hours regarding 'Rare Sharing of Data Leads to Progress on
+>> Alzheimer?s (NYTimes)':-
+>> http://www.nytimes.com/2010/08/13/health/research/13alzheimer.html?emc=eta1
+>>
+>> May I propose that this article/discussion is put on the agenda for the
+>> next monthly meet up of the OKFN's Working Group on Open Data in Science.
+>>
+>> This is an excellent high-profile example of Open Data. Do you have
+>> suggestions as to how we can take this forward.
+>>
+>> There is so much happening in this area now that we have to work out what
+>> is the best use of our resources and how to get more people involved. Maybe
+>> we shoudl use this and others as picked examples of why Open data works - a
+>> sort of prospectus.
+>>
+>> Unfortunately not everyone will be convinced and in chemistry it's really
+>> tough.
+>>
+>> P.
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+>
+> --
+> Jean-Claude Bradley, Ph. D.
+> E-Learning Coordinator for the College of Arts and Sciences
+> Associate Professor of Chemistry
+> Drexel University
+>
+> http://usefulchem.blogspot.com
+> http://drexel-coas-elearning.blogspot.com
+> http://drexel-coas-talks-mp3-podcast.blogspot.com/
+> http://friendfeed.com/jcbradley
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+http://www.google.com/profiles/daniel.mietchen
+
+
+From hpiwowar at gmail.com  Thu Aug 19 23:04:54 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Thu, 19 Aug 2010 15:04:54 -0700
+Subject: [open-science] IsItOpen letter for feedback
+Message-ID: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+
+Hullo OKFN,
+
+We've drafted a letter to send to publishers on behalf of the OKF through
+IsItOpen, requesting clarification on journal policies with respect to Open
+Data.  We've received feedback on the draft from several sources and the
+letter has improved greatly as a result.  Your turn!
+
+Please have a look at it here:
+http://okfnpad.org/isitopenLetters
+
+and add your comments and suggestions.
+
+Although we aren't in a rush, we'd like to send the email out relatively
+soon so please comment in the next few days?
+
+Thanks!
+
+ Heather Piwowar
+*DataONE <https://dataone.org/> postdoc with NESCent<http://www.nescent.org/>
+ and Dryad
+<http://datadryad.org/>*
+*remote from Dept of Zoology, UBC, Vancouver Canada*
+*hpiwowar at nescent.org*
+*@researchremix <http://www.twitter.com/researchremix>*
+*
+
+<http://www.twitter.com/researchremix>*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100819/d6951a08/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Aug 20 08:06:06 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 20 Aug 2010 08:06:06 +0100
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+Message-ID: <AANLkTimsgOefncqouhN+NmAV4KTypzdRH9_khccxn96R@mail.gmail.com>
+
+On Thu, Aug 19, 2010 at 11:04 PM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+
+> Hullo OKFN,
+>
+> We've drafted a letter to send to publishers on behalf of the OKF through
+> IsItOpen, requesting clarification on journal policies with respect to Open
+> Data.  We've received feedback on the draft from several sources and the
+> letter has improved greatly as a result.  Your turn!
+>
+
+Many thanks for your rapid and dedicated help, Heather. I have added some
+notes at the end to cover some of the points we discussed, include those
+raised by PeterS.
+
+>
+> Please have a look at it here:
+> http://okfnpad.org/isitopenLetters
+>
+> and add your comments and suggestions.
+>
+> Although we aren't in a rush, we'd like to send the email out relatively
+> soon so please comment in the next few days?
+>
+
+I am visiting Iain_H at BMC today and hope to have a few minutes to discuss
+this. That should give good feedback from a mainstream Open Access
+(OKD-compliant) publisher.
+
+P.
+
+
+>
+> Thanks!
+>
+>  Heather Piwowar
+> *DataONE <https://dataone.org/> postdoc with NESCent<http://www.nescent.org/>
+>  and Dryad
+>  <http://datadryad.org/>*
+> *remote from Dept of Zoology, UBC, Vancouver Canada*
+> *hpiwowar at nescent.org*
+> *@researchremix <http://www.twitter.com/researchremix>*
+> *
+>
+> <http://www.twitter.com/researchremix>*
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100820/558ce5b1/attachment.htm>
+
+From kanzure at gmail.com  Sat Aug 21 05:05:58 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Fri, 20 Aug 2010 23:05:58 -0500
+Subject: [open-science] Fwd: [GRG] fundraising for mitochondrial uncoupling
+	research
+In-Reply-To: <002d01cb40e3$aec549b0$0c4fdd10$@org>
+References: <002d01cb40e3$aec549b0$0c4fdd10$@org>
+Message-ID: <AANLkTi=t=q0nTJCM3vu9Xj8kFBo3wbrZnsQHjj7dGpsW@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Reason <reason at longevitymeme.org>
+Date: Fri, Aug 20, 2010 at 10:48 PM
+Subject: [GRG] fundraising for mitochondrial uncoupling research
+To: Gerontology Research Group <grg at lists.ucla.edu>
+
+
+I see that the Immortality Institute is fundraising for a mitochondrial
+uncoupling project to take place in a Singaporean lab:
+
+http://www.fightaging.org/archives/2010/08/fundraising-for-mitochondrial-unc
+oupling-research.php
+
+Project proposal:
+
+http://www.imminst.org/forum/index.php?app=custompages&module=view&section=d
+isplay&do=show&pageId=2
+
+This sort of low-cost crowdsourced fundraising - combined with two-way
+dialog between researchers and donors, plus a great deal more incremental
+transparency in reporting on the research than is usually the case - is
+something that should be encouraged. It is the future of research, just as
+diverse and distributed open source software development was the future of
+coding back in the 1960s. When the cost of modest research projects is
+comparable to the cost of self-publishing an illustrated book, as is getting
+to be the case, you will see all of the business models currently used in
+the art-publishing industry migrate into life science research. e.g. ransom,
+straight donation, multi-patronage, etc. This is an important trend and sea
+change, and one that bears watching. Those of you who run labs and ride herd
+on postgrads will, I predict, be seeing an increasing fraction of your
+funding arriving this way as time goes on and costs fall.
+
+(Though it will, I think, require a round of successful startups for
+coordinating science funding that operate something like the Kiva model for
+the very control-oriented universities to start paying attention to what's
+going on here).
+
+Reason
+
+
+_______________________________________________
+GRG mailing list
+GRG at lists.ucla.edu
+http://lists.ucla.edu/cgi-bin/mailman/listinfo/grg
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From pm286 at cam.ac.uk  Mon Aug 23 16:21:04 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 23 Aug 2010 16:21:04 +0100
+Subject: [open-science] Panton Discussion with Richard Poynder
+Message-ID: <AANLkTi=s-T2epAnhO_7s97uxwwr+J0pDAzbKiZgoD7cN@mail.gmail.com>
+
+We will be having our first  Panton Discussion at the Panton Arms tomorrow @
+1200 see http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2565
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100823/622d624a/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Aug 26 19:31:19 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 26 Aug 2010 19:31:19 +0100
+Subject: [open-science] Fwd: EPSRC: Joint EPSRC and POST Postgraduate
+	Initiative 2011
+In-Reply-To: <8B46777A-2EC6-4D05-B001-52AE1A55C50B@cam.ac.uk>
+References: <CFDD97880DA2B545A82C8C82494B9F9E0220FAD0F6AE@angeltwo.internal.admin.cam.ac.uk>
+	<8B46777A-2EC6-4D05-B001-52AE1A55C50B@cam.ac.uk>
+Message-ID: <AANLkTinoKFNKFZoRTnF9-N7ZQVQNkwh-SLqD18U2zOkr@mail.gmail.com>
+
+Looks a great opportunity for a scientist interested in governmental process
+
+
+
+*JOINT EPSRC AND POST POSTGRADUATE INITIATIVE 2011*
+
+*DEADLINE: **1 October 2010***
+
+A three month secondment opportunity to the Parliamentary Office of Science
+and Technology (POST) open to EPSRC funded PhD students.
+
+*E**LIGIBILITY*: All EPSRC funded postgraduate students registered for a PhD
+or EngD who will be in their second or third year (or fourth year for
+Industrial Doctorate, Engineering Doctorate, or Centres for Doctoral
+Training candidates) of full-time study in March 2011, are eligible.
+
+*SCOPE*: During his/her time in Parliament, an EPSRC/POST Fellow should
+expect to produce a POSTnote, contribute to a longer report, or assist a
+select committee in a current inquiry.  The Fellowship will involve:
+
+   - Identifying and liaising with a wide range of interested parties
+   including industry, academia, regulatory bodies, non-governmental
+   organisations and government.
+   - Drafting concise briefing materials.
+   - Responding to comments from internal and external peer review.
+
+There may also be opportunities for Fellows to organise seminars to inform
+or disseminate their work.
+
+*FUNDING*: The successful applicant will receive a three month extension to
+their PhD funding, EPSRC will make arrangements to reimburse the additional
+costs to the university to ensure that their stipend will continue to be
+paid while based at POST. When a candidate is based at POST, computing,
+email and other facilities necessary for the project will be supplied by
+POST.
+Fellows are expected to spend as much time as possible working in POST's
+offices in Westminster.
+
+*APPLICATION PROCEDURE*: Applicants should submit to EPSRC by 1 October
+2010:
+
+   - A completed application form (available at *
+   http://www.epsrc.ac.uk/SiteCollectionDocuments/other/POSTApplicationForm.pdf
+   *<http://www.epsrc.ac.uk/SiteCollectionDocuments/other/POSTApplicationForm.pdf>),
+   which has been approved by their Head of Department or principal supervisor.
+   - A two-page briefing on the topic of ?Volcanic Ash?
+
+
+The fellowship is for three months and may be carried out from March 2011,
+but candidates should try to avoiding starting in June, July and August,
+which are the summer recess months.
+
+*CONTACT*: Jenny Aranha, email
+*jenny.aranha at epsrc.ac.uk*<jenny.aranha at epsrc.ac.uk>;
+Chandrika Nath from POST, tel 0207 219 3891.
+
+********************************
+*FURTHER INFORMATION*:
+
+   - Scheme web page at *
+   http://www.epsrc.ac.uk/funding/fellows/other/Pages/post.aspx*<http://www.epsrc.ac.uk/funding/fellows/other/Pages/post.aspx>
+   - Details of the Initiative at *
+   http://www.epsrc.ac.uk/SiteCollectionDocuments/other/POSTSecondment2011.pdf
+   *<http://www.epsrc.ac.uk/SiteCollectionDocuments/other/POSTSecondment2011.pdf>
+
+________________
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100826/ac87185a/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Wed Aug 25 18:47:35 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Wed, 25 Aug 2010 18:47:35 +0100
+Subject: [open-science] BioMed Central 2010 Open Data Award nominations
+	now...open!
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA02DC3874@SEGBLOGR0008.springer-sbm.com>
+
+Dear Open Science folks,
+
+ 
+
+Just a short note to let you know that the 2010 BioMed Central Open Data
+Award nominations are now open.
+
+ 
+
+http://www.biomedcentral.com/researchawards/opendata/
+
+ 
+
+Building on experience from the 2009 award (awarded in June 2010) we
+have provided space for nominators to comment on how harvestable and
+re-usable the data are, and to what extent the data being made open goes
+beyond cultural norms of their domain.
+
+ 
+
+http://www.biomedcentral.com/researchawards/opendata_nominations
+
+ 
+
+Any feedback and, of course, nominations gratefully received.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+Iain Hrynaszkiewicz
+Associate Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com <http://www.biomedcentral.com/> 
+
+Follow BioMed Central:
+
+  <http://twitter.com/BioMedCentral> 
+
+  <http://www.facebook.com/BioMedCentral> 
+
+  <http://www.linkedin.com/groups?gid=2807240> 
+
+  <http://www.youtube.com/user/BioMedCentral> 
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100825/c67378c2/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 17476 bytes
+Desc: image001.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100825/c67378c2/attachment-0003.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11050 bytes
+Desc: image002.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100825/c67378c2/attachment-0004.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 11164 bytes
+Desc: image003.jpg
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100825/c67378c2/attachment-0005.jpeg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 357 bytes
+Desc: image004.gif
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100825/c67378c2/attachment-0001.gif>
+
+From mfinn at usgs.gov  Thu Aug 26 18:38:50 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Thu, 26 Aug 2010 11:38:50 -0600
+Subject: [open-science] =?iso-8859-1?q?Special_Session_on_=3FKML_=26_the_M?=
+ =?iso-8859-1?q?odified-_=28or_Pseudo-=29_Mercator_Projection=3F?=
+Message-ID: <OFDA4B4BCB.38200B1E-ON8725778B.0060BF87-8725778B.0060F0F0@usgs.gov>
+
+We would like to call your attention to a special session on ?KML & the 
+Modified- (or Pseudo-) Mercator Projection? organized on behalf of the GIS 
+Division of ASPRS and the Cyberinfrastructure Specialty Group of the AAG 
+at GIS in the Rockies 2010, Loveland, CO.
+
+The session features the following presentations:
+Benjamin Tuttle, National Geospatial-Intelligence Agency  --  Harnessing 
+KML and Google Earth to Visualize Your Data
+Jackson Cothren, University of Arkansas  --  Using Google Maps as a Source 
+of Ground Control for the CORONA Archaeological Atlas
+Noel Zinn, Hydrometronics LLC  --  Web Mercator: Non-Conformal, 
+Non-Mercator
+Mano Marks, Google  --  New Geo features at Google: Google Earth 5.2, 
+Fusion Tables, and more
+
+You can See Detail Schedule Here (Excel sheet) .
+
+Please consider joining us at this conference September 14-17th. For more 
+information, see 
+http://www.gisintherockies.org/GISITR2010/Home/Default.aspx.
+
+Online Registration closes September 11th!!
+
+If you have any questions, please contact Michael P. Finn, US Geological 
+Survey, at mfinn at usgs.gov.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100826/99570f8a/attachment.htm>
+
+From jonathan.gray at okfn.org  Mon Aug 30 17:48:18 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 30 Aug 2010 18:48:18 +0200
+Subject: [open-science] Panton discussions
+Message-ID: <AANLkTin=e-H8xTsUYiFt++F2MNWgx4Wv6ntjDiegEi-Q@mail.gmail.com>
+
+Blog post from Richard!
+
+http://poynder.blogspot.com/2010/08/open-data-panton-discussions.html
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From greg at grossmeier.net  Mon Aug 30 18:59:07 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Mon, 30 Aug 2010 13:59:07 -0400
+Subject: [open-science] Working Group Meeting - September 1st
+Message-ID: <20100830175907.GE3248@grossmeier.net>
+
+Hello Open Sciencers,
+
+Our next working group meeting will be September 1st at 1700 UTC (6PM
+London, 1PM New York, http://ur1.ca/1e2t4 ).
+
+Participation will be via IRC and Skype (if less than 8 people,
+conference line if more, details to follow.) The IRC channel is #okfn on 
+irc.oftc.net
+
+Please let me know if you will be able to attend the meeting.
+
+The agenda is growing at:
+http://okfnpad.org/science-20100901
+
+Please add any agenda items you have.
+
+Best,
+
+Greg
+
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From pm286 at cam.ac.uk  Mon Aug 30 20:43:31 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 30 Aug 2010 20:43:31 +0100
+Subject: [open-science] Working Group Meeting - September 1st
+In-Reply-To: <20100830175907.GE3248@grossmeier.net>
+References: <20100830175907.GE3248@grossmeier.net>
+Message-ID: <AANLkTi=uRvMCm8b=D-pt35zh-GRJfx5ZG93BnqRUJzZs@mail.gmail.com>
+
+On Mon, Aug 30, 2010 at 6:59 PM, Greg Grossmeier <greg at grossmeier.net>wrote:
+
+> Hello Open Sciencers,
+>
+> Our next working group meeting will be September 1st at 1700 UTC (6PM
+> London, 1PM New York, http://ur1.ca/1e2t4 ).
+>
+> Participation will be via IRC and Skype (if less than 8 people,
+> conference line if more, details to follow.) The IRC channel is #okfn on
+> irc.oftc.net
+>
+> Please let me know if you will be able to attend the meeting.
+>
+
+I should manage it. We have a JISC meeting in the afternoon for
+OpenBibliography
+
+
+>
+> The agenda is growing at:
+> http://okfnpad.org/science-20100901
+>
+> Please add any agenda items you have.
+>
+> Best,
+>
+> Greg
+>
+>
+> --
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100830/c5317214/attachment.htm>
+
+From hpiwowar at gmail.com  Tue Aug 31 13:42:21 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Tue, 31 Aug 2010 05:42:21 -0700
+Subject: [open-science] State of "Is it Open Data"?
+In-Reply-To: <AANLkTinoGAQ5QQ_XB1D+SW5n2XhACAt=rtUMEz-F1p_f@mail.gmail.com>
+References: <AANLkTikFF3KI-kJogCri--aGtAHf73SXm4in6boONudu@mail.gmail.com>
+	<AANLkTinoGAQ5QQ_XB1D+SW5n2XhACAt=rtUMEz-F1p_f@mail.gmail.com>
+Message-ID: <AANLkTina-rfAmB5f_W=V+c2=8eo3COj9z_Ub4ks-bn26@mail.gmail.com>
+
+Hi all,
+
+PMR and I (on behalf of OKN) sent a few IsItOpenData enquiries yesterday
+(BMC, PLoS, Nature, Mendeley), and already have one very positive response
+from PLoS<http://www.isitopendata.org/enquiry/view/78d7400e-6d5e-4510-aff1-0d106bb9fcfa/>
+.
+
+I have two service functionality questions/suggestions to add to those
+below, based on using the system:
+
+   1. My link-heavy enquiry email unfortunately tends to be identified as
+   Spam.  We might want to alert enquiry-writers to this possibility on the
+   composition page, and either suggest they use few links or send an
+   out-of-band personal email to give the recipient a heads-up.  Of course this
+   increases the likelihood of (c) below.  Any other suggestions to avoid spam
+   filters?
+   2. Are the enquiry-writers alerted when they receive a response?  It
+   doesn't appear so.  This is quite inconvenient, and could lead to delayed or
+   incomplete resolution.  Would it be easy to add?
+
+Thanks,
+Heather
+
+Heather Piwowar
+* *
+
+* *
+
+* *
+
+* *
+
+* *
+*
+
+DataONE postdoc with NESCent and Dryad
+
+**
+
+remote from Dept of Zoology, UBC, Vancouver Canada
+
+**
+
+hpiwowar at nescent.org
+
+** **
+
+http://researchremix.org
+** **@researchremix
+
+<http://twitter.com/researchremix>*
+
+On Mon, Jul 26, 2010 at 12:59 AM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+
+> On 20 July 2010 06:48, Egon Willighagen <egon.willighagen at gmail.com>
+> wrote:
+> > Hi all,
+> >
+> > I just extracted about 3.3M SMILES strings (chemical line notation)
+> > from PubChem for a subset of structures I need to algorithm
+> > validation. Of course, I'd like to share this data set Openly, as I
+> > know at least one other person who is interested in it, and we would
+> > like to compare results...
+> >
+> > So, I went over to "Is it Open Data" [0]. But browsing the queries, I
+> > note that many are actually unanswered since the post in 2009... what
+> > is the workflow here with respect to following up on queries?
+>
+> A big issue we have here at the moment is that:
+>
+> a) people are under no obligation to respond
+> b) we probably should add a facility to ping automatedly enquiry
+> creators if their enquiry has not got answered after a certain time.
+> (E.g. my enquiry to UN [1] seems to have disappeared into the long
+> grass so I should ping them again)
+> c) people sometimes respond out of band (where you write to people you
+> sort of know) (e.g. the planning alerts data enquiry [2] was
+> successful but they didn't respond on the site and I think this was
+> also true for some of PMR's enquiries). This is a problem as it means
+> we don't have a public statement.
+>
+> [1]: <
+> http://www.isitopendata.org/enquiry/view/a9610524-d391-465e-b785-b100eda99e37/
+> >
+> [2]: <
+> http://www.isitopendata.org/enquiry/view/010f2fb6-1315-480d-995d-0134185f3dd6/
+> >
+>
+> > Otherwise, it would be nice if people could express their interest in
+> > a resolution for that particular query... sort of voting, so to say.
+> > For example, I quite like the queries about the data in Chemistry
+> > Central and J. Chem. Inf.
+>
+> I think this would be a great feature. Any interested coders :) ?
+>
+> Rufus
+>
+> > Egon
+> >
+> > 0.http://www.isitopendata.org/
+> >
+> > --
+> > Post-doc @ Uppsala University
+> > Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+> > Homepage: http://egonw.github.com/
+> > Blog: http://chem-bla-ics.blogspot.com/
+> > PubList: http://www.citeulike.org/user/egonw/tag/papers
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+>
+>
+>
+> --
+> Open Knowledge Foundation
+> Promoting Open Knowledge in a Digital Age
+> http://www.okfn.org/ - http://blog.okfn.org/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100831/f58ec4c3/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Aug 31 14:07:48 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 31 Aug 2010 14:07:48 +0100
+Subject: [open-science] State of "Is it Open Data"?
+In-Reply-To: <AANLkTina-rfAmB5f_W=V+c2=8eo3COj9z_Ub4ks-bn26@mail.gmail.com>
+References: <AANLkTikFF3KI-kJogCri--aGtAHf73SXm4in6boONudu@mail.gmail.com>
+	<AANLkTinoGAQ5QQ_XB1D+SW5n2XhACAt=rtUMEz-F1p_f@mail.gmail.com>
+	<AANLkTina-rfAmB5f_W=V+c2=8eo3COj9z_Ub4ks-bn26@mail.gmail.com>
+Message-ID: <AANLkTikJE-ich-q3--A5DFTNOoNXUQ03pquXq08OKPUU@mail.gmail.com>
+
+On Tue, Aug 31, 2010 at 1:42 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Hi all,
+>
+> PMR and I (on behalf of OKN) sent a few IsItOpenData enquiries yesterday
+> (BMC, PLoS, Nature, Mendeley), and already have one very positive response
+> from PLoS<http://www.isitopendata.org/enquiry/view/78d7400e-6d5e-4510-aff1-0d106bb9fcfa/>
+> .
+>
+
+This is great. They say they have to be clearer about data, so I think we
+should push them gently on the actual factual questions and also persuade
+them to add licences/buttons.
+
+>
+> I have two service functionality questions/suggestions to add to those
+> below, based on using the system:
+>
+>    1. My link-heavy enquiry email unfortunately tends to be identified as
+>    Spam.  We might want to alert enquiry-writers to this possibility on the
+>    composition page, and either suggest they use few links or send an
+>    out-of-band personal email to give the recipient a heads-up.  Of course this
+>    increases the likelihood of (c) below.  Any other suggestions to avoid spam
+>    filters?
+>    2. Are the enquiry-writers alerted when they receive a response?  It
+>    doesn't appear so.  This is quite inconvenient, and could lead to delayed or
+>    incomplete resolution.  Would it be easy to add?
+>
+> This was all done with volunteer labour, I think. We would really love
+continuing volunteers to take this on. It may be that we can seek funding if
+this is seen as a success but I think we have to do this ourselves at
+present. So:
+.... IIOD is clearly a valuable OKF function... please volunteer to help
+enhance it even further
+
+
+> Thanks,
+> Heather
+>
+
+
+
+> Heather Piwowar
+> * *
+>
+> * *
+>
+> * *
+>
+> * *
+>
+> * *
+> *
+>
+> DataONE postdoc with NESCent and Dryad
+>
+> **
+>
+> remote from Dept of Zoology, UBC, Vancouver Canada
+>
+> **
+>
+> hpiwowar at nescent.org
+>
+> ** **
+>
+> http://researchremix.org
+> ** **@researchremix
+>
+> <http://twitter.com/researchremix>*
+>
+> On Mon, Jul 26, 2010 at 12:59 AM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+>
+>> On 20 July 2010 06:48, Egon Willighagen <egon.willighagen at gmail.com>
+>> wrote:
+>> > Hi all,
+>> >
+>> > I just extracted about 3.3M SMILES strings (chemical line notation)
+>> > from PubChem for a subset of structures I need to algorithm
+>> > validation. Of course, I'd like to share this data set Openly, as I
+>> > know at least one other person who is interested in it, and we would
+>> > like to compare results...
+>> >
+>> > So, I went over to "Is it Open Data" [0]. But browsing the queries, I
+>> > note that many are actually unanswered since the post in 2009... what
+>> > is the workflow here with respect to following up on queries?
+>>
+>> A big issue we have here at the moment is that:
+>>
+>> a) people are under no obligation to respond
+>> b) we probably should add a facility to ping automatedly enquiry
+>> creators if their enquiry has not got answered after a certain time.
+>> (E.g. my enquiry to UN [1] seems to have disappeared into the long
+>> grass so I should ping them again)
+>> c) people sometimes respond out of band (where you write to people you
+>> sort of know) (e.g. the planning alerts data enquiry [2] was
+>> successful but they didn't respond on the site and I think this was
+>> also true for some of PMR's enquiries). This is a problem as it means
+>> we don't have a public statement.
+>>
+>> [1]: <
+>> http://www.isitopendata.org/enquiry/view/a9610524-d391-465e-b785-b100eda99e37/
+>> >
+>> [2]: <
+>> http://www.isitopendata.org/enquiry/view/010f2fb6-1315-480d-995d-0134185f3dd6/
+>> >
+>>
+>> > Otherwise, it would be nice if people could express their interest in
+>> > a resolution for that particular query... sort of voting, so to say.
+>> > For example, I quite like the queries about the data in Chemistry
+>> > Central and J. Chem. Inf.
+>>
+>> I think this would be a great feature. Any interested coders :) ?
+>>
+>> Rufus
+>>
+>> > Egon
+>> >
+>> > 0.http://www.isitopendata.org/
+>> >
+>> > --
+>> > Post-doc @ Uppsala University
+>> > Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+>> > Homepage: http://egonw.github.com/
+>> > Blog: http://chem-bla-ics.blogspot.com/
+>> > PubList: http://www.citeulike.org/user/egonw/tag/papers
+>> >
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> >
+>>
+>>
+>>
+>> --
+>> Open Knowledge Foundation
+>> Promoting Open Knowledge in a Digital Age
+>> http://www.okfn.org/ - http://blog.okfn.org/
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100831/f9f8017b/attachment.htm>
+
+From egon.willighagen at gmail.com  Tue Aug 31 14:19:47 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Tue, 31 Aug 2010 15:19:47 +0200
+Subject: [open-science] State of "Is it Open Data"?
+In-Reply-To: <AANLkTina-rfAmB5f_W=V+c2=8eo3COj9z_Ub4ks-bn26@mail.gmail.com>
+References: <AANLkTikFF3KI-kJogCri--aGtAHf73SXm4in6boONudu@mail.gmail.com>
+	<AANLkTinoGAQ5QQ_XB1D+SW5n2XhACAt=rtUMEz-F1p_f@mail.gmail.com>
+	<AANLkTina-rfAmB5f_W=V+c2=8eo3COj9z_Ub4ks-bn26@mail.gmail.com>
+Message-ID: <AANLkTikK7kZRULxYX+5sWZgo-kJYnwFzDVeayzK9g_3f@mail.gmail.com>
+
+On Tue, Aug 31, 2010 at 2:42 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+> PMR and I (on behalf of OKN) sent a few IsItOpenData enquiries yesterday
+> (BMC, PLoS, Nature, Mendeley), and already have one very positive response
+> from PLoS.
+
+I do not fully understand the response... at one place I think they
+say the data is CC-BY and at other places they say it is conform the
+Panton Principles (CC0 or PDDL or any other public domain waiver)...
+which is it?
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Post-doc @ Uppsala University (only until 2010-09-30)
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From cameron.neylon at stfc.ac.uk  Tue Aug 31 14:30:38 2010
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Tue, 31 Aug 2010 14:30:38 +0100
+Subject: [open-science] State of "Is it Open Data"?
+In-Reply-To: <AANLkTikK7kZRULxYX+5sWZgo-kJYnwFzDVeayzK9g_3f@mail.gmail.com>
+Message-ID: <C8A2C28E.E68B%cameron.neylon@stfc.ac.uk>
+
+> On Tue, Aug 31, 2010 at 2:42 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+>> PMR and I (on behalf of OKN) sent a few IsItOpenData enquiries yesterday
+>> (BMC, PLoS, Nature, Mendeley), and already have one very positive response
+>> from PLoS.
+> 
+> I do not fully understand the response... at one place I think they
+> say the data is CC-BY and at other places they say it is conform the
+> Panton Principles (CC0 or PDDL or any other public domain waiver)...
+> which is it?
+
+We've got a long way to go in making clear all of these distinctions. And at
+the same time we don't want to put off those people acting in good faith
+either. I know there are initiatives at both BMC and PLoS looking at how to
+handle this. It will require changes to the licensing arrangements (to have
+authors explicitly make data, intepreted generously as PD) as well as
+changes to the declarations made on each paper so its going to be tough but
+I think working with PLoS and BMC to come up with some good examples of how
+it can be done is the way forward here.
+
+BMC are for instance putting Open-Data buttons on figures and supplementary
+data but while this is a nice declaration of what you can do it needs to be
+backed up with a licence/waiver that makes it happen. To do that you need to
+modify the publication agreements between author and publisher to make
+explicit the licensing arrangements for different components of the overall
+work. Which can't be done retrospectively really. So lots of work for the
+future.
+
+Cheers
+
+Cameron
+
+
+-- 
+Scanned by iCritical.
+
+
+From jonathan.gray at okfn.org  Tue Aug 31 17:01:41 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 31 Aug 2010 18:01:41 +0200
+Subject: [open-science] Panton Principles banner design?
+Message-ID: <AANLkTi=E0zPFZsZFWL8sfmYaJ3=n25FdPLJzenLxgqq+@mail.gmail.com>
+
+On Fri, Aug 6, 2010 at 10:47 AM, Iain Hrynaszkiewicz
+<Iain.Hrynaszkiewicz at biomedcentral.com> wrote:
+> ????????? Whoever is preparing the PP banner advert just send it me whenever
+> you?re ready and we can get it placed within a few days of receipt
+>
+
+Iain from BioMedCentral has kindly offered to place a Panton
+Principles banner on the BMC site. Anyone interested in working on a
+banner? Suggest we try to produce a few then vote? ;-)
+
+We could blog about this and ask people to add prospective banners to
+e.g. a Flickr group? What do folks think?
+
+All the best,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+

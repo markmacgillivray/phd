@@ -1,0 +1,3193 @@
+From rufus.pollock at okfn.org  Mon Dec  6 13:21:25 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 6 Dec 2010 13:21:25 +0000
+Subject: [open-bibliography] Anyone going to code4lib 2011?
+Message-ID: <AANLkTi=YVdQ9_Yf2gni1hehqsuBSdQ6Mq=rGi3ez2UyM@mail.gmail.com>
+
+Is anyone going to code4lib 2011 (http://code4lib.org/) in Bloomington Illinois.
+
+I won't be going to code4lib 2011 and I wondered if anyone from this
+list would be interested in giving a lightning talk there about the
+working group and recent open data developments -- I imagine it would
+be of interest to participants.
+
+Rufus
+
+
+From adrian.pohl at okfn.org  Tue Dec  7 11:05:24 2010
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 7 Dec 2010 12:05:24 +0100
+Subject: [open-bibliography] Virtual meeting today
+Message-ID: <AANLkTimcd9u_L4xBsn0_d7heQbm+-OW1FegOcVS68wjk@mail.gmail.com>
+
+Hello,
+
+it's the month's first tuesday and so today the Openbiblio virtual
+meeting is scheduled at 16:00 GMT. Unfortunately I can't attend due to
+private obligations. Anyway, I created an Etherpad for the meeting:
+
+http://okfnpad.org/6th-open-bibliography-meeting
+
+I proposed one agenda point on the etherpad: Commenting and correcting
+the principles on open bibliographic data draft.
+Peter, Mark and I did some more work on the principles and would
+bevery happy to get some comments by other people.
+Please add further agenda points as needed.
+
+Hope you'll have a fruitful meeting.
+
+Cheers
+Adrian
+
+
+From kcoyle at kcoyle.net  Tue Dec  7 15:35:45 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 07 Dec 2010 07:35:45 -0800
+Subject: [open-bibliography] Virtual meeting today
+In-Reply-To: <AANLkTimcd9u_L4xBsn0_d7heQbm+-OW1FegOcVS68wjk@mail.gmail.com>
+References: <AANLkTimcd9u_L4xBsn0_d7heQbm+-OW1FegOcVS68wjk@mail.gmail.com>
+Message-ID: <20101207073545.155760z9mu7g7lg1@kcoyle.net>
+
+I'm confused by the Etherpad note that the meeting has taken place --  
+I thought it would be in an hour from now, but maybe I have my time  
+zones mixed up. GMT is 8 hours from Pacific, right?
+
+Anyway, I have LOTS of comments on the draft, some of which I will  
+summarize here.
+
+First, there are wording changes that I would normally like to make.  
+However, because there is the UK/US language difference, if a native  
+UK speaker has already gone over this, then we should discuss before I  
+suggest those changes.
+
+Other comments:
+
+1. Do not use "free", which is ambiguous. Use "without cost" or  
+"without restriction" as appropriate.
+
+2. Do not use "record" -- the citations created by authors are not  
+records. Can we find another term, such as "bibliographic  
+description", "bibliographic data"?
+
+3. "addressing" does not work for me... I want to use something based  
+on the term "location"
+
+4. I don't think the list of data elements in the first second is  
+helpful, and I don't think it necessarily serves both functions  
+(identification and location). Perhaps for actual identification of a  
+publication we can refer to library catalog entries and citation rules  
+like MLA without needing a list of data elements. For the location  
+function (assuming this means actually getting your hands or eyes on  
+the item) you need a library catalog entry or a URL (for online  
+documents).
+
+5. I'm not sure why the heading in this first section is  
+"Bibliographic data already in the public domain", unless the  
+intention is "Why we maintain that bibliographic data is not covered  
+by copyright." The wording does not say that to me.
+
+6. the section on URIs seems to be aimed at online resources, not  
+bibliographic data in the web environment. We have bib data in the web  
+environment that does not have URIs or URLs.
+
+7. I would not assert that user-generated tags are public domain. We  
+can't make that decision for all users who contribute tags. I agree  
+that it is a good idea to get users to agree that use of their tags is  
+unrestricted, but the circumstances in which users tag things varies  
+greatly, so this broad statement is problematic.
+
+7a. Rather than asserting that things are public domain, I would  
+rather assert that these things are not covered by intellectual  
+property rights. It's a language quibble, but I feel that "public  
+domain" is a legal term and not a description. That may just be me.
+
+8. Subject headings and classification notations may be considered  
+creative work on the part of the cataloger. I would put them in the  
+second category of data elements to which rights may apply.
+
+9. "Sponsorship" -- is this sponsorship of the content or the  
+publication? I assume that it refers to the sponsorship of research  
+that is often cited.
+
+10. This is more of a general concept, but in my  own mind I am  
+unclear on the rights status of name authority data. Selecting one  
+fact to represent a display of many similar facts does not seem to  
+meet the creativity requirement (that US law requires). But I agree  
+that it belongs in this "grey area" category in the document.
+
+11. #3 of the recommendations should refer to ANY restrictions on the  
+data, including attribution. Once we start mashing up data, anything  
+but pure open use becomes impossible. So perhaps this point should be  
+about ANY restrictions, of which non-commercial is one, attribution is  
+another, and even share-alike is another. (Note, if W3C provenance  
+work becomes a reality, we could say that people should pass on  
+provenance data that is received. This wouldn't so much be for the  
+rights issue, in my mind, but so that people can make selections based  
+on whose data they trust most. One issue with provenance is that is  
+could give people a way to attempt to control their data, and we will  
+probably need to address that if it becomes a reality.)
+
+I hope this all doesn't sound harsh -- I didn't take the time to  
+soften my language :-) in my haste to get this down. I can make the  
+purely editorial corrections on the Google doc if you would like. The  
+other bits we may need to discuss. Another option would be that I make  
+changes -- perhaps in another copy of the document? (I can't remember  
+off-hand if Google docs has a "revert" function) And then we can  
+discuss that version.
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello,
+>
+> it's the month's first tuesday and so today the Openbiblio virtual
+> meeting is scheduled at 16:00 GMT. Unfortunately I can't attend due to
+> private obligations. Anyway, I created an Etherpad for the meeting:
+>
+> http://okfnpad.org/6th-open-bibliography-meeting
+>
+> I proposed one agenda point on the etherpad: Commenting and correcting
+> the principles on open bibliographic data draft.
+> Peter, Mark and I did some more work on the principles and would
+> bevery happy to get some comments by other people.
+> Please add further agenda points as needed.
+>
+> Hope you'll have a fruitful meeting.
+>
+> Cheers
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pitman at stat.Berkeley.EDU  Tue Dec  7 15:45:28 2010
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 07 Dec 2010 07:45:28 -0800
+Subject: [open-bibliography] Virtual meeting today
+In-Reply-To: <20101207073545.155760z9mu7g7lg1@kcoyle.net>
+References: <AANLkTimcd9u_L4xBsn0_d7heQbm+-OW1FegOcVS68wjk@mail.gmail.com>
+	<20101207073545.155760z9mu7g7lg1@kcoyle.net>
+Message-ID: <20101207154528.E54AB7FB3@bibserver.Berkeley.EDU>
+
+Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> I'm confused by the Etherpad note that the meeting has taken place --  
+
+
+The "Note: The meeting didn't take place, only Jim Pitman and Adrian Pohl had a phone talk."
+refers to what happened last month.
+
+
+> I thought it would be in an hour from now, but maybe I have my time  
+> zones mixed up. GMT is 8 hours from Pacific, right?
+
+Right. Looks like its happening in 15 minutes from now.
+
+--Jim
+
+
+
+
+>
+> Anyway, I have LOTS of comments on the draft, some of which I will  
+> summarize here.
+>
+> First, there are wording changes that I would normally like to make.  
+> However, because there is the UK/US language difference, if a native  
+> UK speaker has already gone over this, then we should discuss before I  
+> suggest those changes.
+>
+> Other comments:
+>
+> 1. Do not use "free", which is ambiguous. Use "without cost" or  
+> "without restriction" as appropriate.
+>
+> 2. Do not use "record" -- the citations created by authors are not  
+> records. Can we find another term, such as "bibliographic  
+> description", "bibliographic data"?
+>
+> 3. "addressing" does not work for me... I want to use something based  
+> on the term "location"
+>
+> 4. I don't think the list of data elements in the first second is  
+> helpful, and I don't think it necessarily serves both functions  
+> (identification and location). Perhaps for actual identification of a  
+> publication we can refer to library catalog entries and citation rules  
+> like MLA without needing a list of data elements. For the location  
+> function (assuming this means actually getting your hands or eyes on  
+> the item) you need a library catalog entry or a URL (for online  
+> documents).
+>
+> 5. I'm not sure why the heading in this first section is  
+> "Bibliographic data already in the public domain", unless the  
+> intention is "Why we maintain that bibliographic data is not covered  
+> by copyright." The wording does not say that to me.
+>
+> 6. the section on URIs seems to be aimed at online resources, not  
+> bibliographic data in the web environment. We have bib data in the web  
+> environment that does not have URIs or URLs.
+>
+> 7. I would not assert that user-generated tags are public domain. We  
+> can't make that decision for all users who contribute tags. I agree  
+> that it is a good idea to get users to agree that use of their tags is  
+> unrestricted, but the circumstances in which users tag things varies  
+> greatly, so this broad statement is problematic.
+>
+> 7a. Rather than asserting that things are public domain, I would  
+> rather assert that these things are not covered by intellectual  
+> property rights. It's a language quibble, but I feel that "public  
+> domain" is a legal term and not a description. That may just be me.
+>
+> 8. Subject headings and classification notations may be considered  
+> creative work on the part of the cataloger. I would put them in the  
+> second category of data elements to which rights may apply.
+>
+> 9. "Sponsorship" -- is this sponsorship of the content or the  
+> publication? I assume that it refers to the sponsorship of research  
+> that is often cited.
+>
+> 10. This is more of a general concept, but in my  own mind I am  
+> unclear on the rights status of name authority data. Selecting one  
+> fact to represent a display of many similar facts does not seem to  
+> meet the creativity requirement (that US law requires). But I agree  
+> that it belongs in this "grey area" category in the document.
+>
+> 11. #3 of the recommendations should refer to ANY restrictions on the  
+> data, including attribution. Once we start mashing up data, anything  
+> but pure open use becomes impossible. So perhaps this point should be  
+> about ANY restrictions, of which non-commercial is one, attribution is  
+> another, and even share-alike is another. (Note, if W3C provenance  
+> work becomes a reality, we could say that people should pass on  
+> provenance data that is received. This wouldn't so much be for the  
+> rights issue, in my mind, but so that people can make selections based  
+> on whose data they trust most. One issue with provenance is that is  
+> could give people a way to attempt to control their data, and we will  
+> probably need to address that if it becomes a reality.)
+>
+> I hope this all doesn't sound harsh -- I didn't take the time to  
+> soften my language :-) in my haste to get this down. I can make the  
+> purely editorial corrections on the Google doc if you would like. The  
+> other bits we may need to discuss. Another option would be that I make  
+> changes -- perhaps in another copy of the document? (I can't remember  
+> off-hand if Google docs has a "revert" function) And then we can  
+> discuss that version.
+>
+> kc
+>
+> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+>
+> > Hello,
+> >
+> > it's the month's first tuesday and so today the Openbiblio virtual
+> > meeting is scheduled at 16:00 GMT. Unfortunately I can't attend due to
+> > private obligations. Anyway, I created an Etherpad for the meeting:
+> >
+> > http://okfnpad.org/6th-open-bibliography-meeting
+> >
+> > I proposed one agenda point on the etherpad: Commenting and correcting
+> > the principles on open bibliographic data draft.
+> > Peter, Mark and I did some more work on the principles and would
+> > bevery happy to get some comments by other people.
+> > Please add further agenda points as needed.
+> >
+> > Hope you'll have a fruitful meeting.
+> >
+> > Cheers
+> > Adrian
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+>
+>
+>
+> -- 
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From mark at odaesa.com  Wed Dec  8 11:09:11 2010
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Wed, 8 Dec 2010 11:09:11 +0000
+Subject: [open-bibliography] Please provide comments
+Message-ID: <AANLkTi=jr0YgWR0bxH5vFQgEMXE_x_YCH76ntC9Aakbd@mail.gmail.com>
+
+Hi,
+
+I have put up a post on our project blog:
+
+http://openbiblio.net/2010/12/06/jisc-openbibliography-development-ideas/
+
+Please provide comments with any suggestions for useful developments -
+having a collection of these comments from the wider community will
+help us to direct our efforts.
+
+
+Mark MacGillivray
+
+
+From ww at eris.okfn.org  Wed Dec  8 13:38:02 2010
+From: ww at eris.okfn.org (William Waites)
+Date: Wed, 8 Dec 2010 14:38:02 +0100
+Subject: [open-bibliography] FW: The EBM Special Issues Volume 1,
+	Number 1-2 / 2010 is Online
+Message-ID: <20101208133802.GB43802@styx.org>
+
+Following up a previous discussion about the openness of the SWJ, in
+addition to their open and transparent review process, see below...
+
+Cheers,
+-w
+
+----- Forwarded message from Pascal Hitzler <pascal.hitzler at wright.edu> -----
+
+Date: Wed, 08 Dec 2010 05:30:33 -0500
+From: Pascal Hitzler <pascal.hitzler at wright.edu>
+Subject: Semantic Web journal: The EBM Special Issues Volume 1,  Number 1-2 / 2010 is Online
+To: Pascal Hitzler <pascal at pascal-hitzler.de>
+Message-id: <4CFF5E49.9010105 at wright.edu>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.12)
+ Gecko/20101027 Lightning/1.0b2 Thunderbird/3.1.6
+
+The Semantic Web journal first issue is out:
+
+http://www.semantic-web-journal.net/issues
+
+http://iospress.metapress.com/content/j8748565511j/
+
+and it's actually visible to all - no subscription is necessary. It 
+contains vision statements on various Semantic Web topics and so should 
+hopefully be a perfect source of inspiration for research.
+
+Pascal.
+
+-- 
+Prof. Dr. Pascal Hitzler
+Dept. of Computer Science, Wright State University, Dayton, OH
+pascal at pascal-hitzler.de   http://www.knoesis.org/pascal/
+Semantic Web Textbook: http://www.semantic-web-book.org
+Semantic Web Journal: http://www.semantic-web-journal.net
+
+
+----- End forwarded message -----
+
+-- 
+William Waites
+http://eris.okfn.org/ww/foaf#i
+9C7E F636 52F6 1004 E40A  E565 98E3 BBF3 8320 7664
+
+
+From bosteen at gmail.com  Wed Dec  8 20:28:46 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Wed, 08 Dec 2010 20:28:46 +0000
+Subject: [open-bibliography] URNs for National Bib Numbers
+Message-ID: <1291840126.3833.45.camel@monster>
+
+http://tools.ietf.org/html/rfc3188
+
+Ross Singer just put this onto twitter a second ago and I think that
+this might be an acceptable way to generate URNs for the bibliographic
+data, specifically for the BNB data in my mind.
+
+Eg as far as my understanding of the rfc goes,
+http://bnb.bibliographica.org/entry/GBA267005 would have a URN of:
+
+urn:nbn:gb-uk2001008809279
+
+(using British Library id, originally "(Uk)008809279" and published year
+of 2001)
+
+URNs don't resolve so how we incorporate them or even if we incorporate
+them is up for discussion :)
+
+Including a triple of <http://bnb.bibliographica.org/entry/GBA267005>
+<owl:sameAs> <urn:nbn:gb-uk2001008809279> might be a way perhaps,
+replacing my ahem magicked open vocab term of 'blid' for the British
+Library ID.
+
+As to the end use, I'm not sure but this seems like it might sensible
+and would trade one triple for another.
+
+The con side to this is that it pushes a lot of meaning into the URI
+format, the structure of which tells you about the source, year, and so
+on without typing the property as being a british library id.
+
+Any Ideas?
+
+Ben
+
+
+
+From bosteen at gmail.com  Wed Dec  8 20:40:55 2010
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Wed, 08 Dec 2010 20:40:55 +0000
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <1291840126.3833.45.camel@monster>
+References: <1291840126.3833.45.camel@monster>
+Message-ID: <1291840855.3833.47.camel@monster>
+
+Further guidance from Ross (who I hope doesn't mind me relaying things
+here :))
+
+Year isn't necessary, the German guidance below doesn't use it:
+
+http://www.persistent-identifier.de/?link=860&lang=en
+
+And 
+http://bnb.bibliographica.org/entry/GBA267005 
+
+might be given a URN of:
+
+urn:nbn:gb:bnb:GBA267005 
+
+Ben
+
+On Wed, 2010-12-08 at 20:28 +0000, Ben O'Steen wrote:
+> http://tools.ietf.org/html/rfc3188
+> 
+> Ross Singer just put this onto twitter a second ago and I think that
+> this might be an acceptable way to generate URNs for the bibliographic
+> data, specifically for the BNB data in my mind.
+> 
+> Eg as far as my understanding of the rfc goes,
+> http://bnb.bibliographica.org/entry/GBA267005 would have a URN of:
+> 
+> urn:nbn:gb-uk2001008809279
+> 
+> (using British Library id, originally "(Uk)008809279" and published year
+> of 2001)
+> 
+> URNs don't resolve so how we incorporate them or even if we incorporate
+> them is up for discussion :)
+> 
+> Including a triple of <http://bnb.bibliographica.org/entry/GBA267005>
+> <owl:sameAs> <urn:nbn:gb-uk2001008809279> might be a way perhaps,
+> replacing my ahem magicked open vocab term of 'blid' for the British
+> Library ID.
+> 
+> As to the end use, I'm not sure but this seems like it might sensible
+> and would trade one triple for another.
+> 
+> The con side to this is that it pushes a lot of meaning into the URI
+> format, the structure of which tells you about the source, year, and so
+> on without typing the property as being a british library id.
+> 
+> Any Ideas?
+> 
+> Ben
+
+
+
+
+From ross.singer at talis.com  Wed Dec  8 21:39:49 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Wed, 8 Dec 2010 16:39:49 -0500
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <1291840855.3833.47.camel@monster>
+References: <1291840126.3833.45.camel@monster>
+	<1291840855.3833.47.camel@monster>
+Message-ID: <AANLkTi=DyjMeLb1KJV_STFY56v+C5iXZy557rwkQPP+r@mail.gmail.com>
+
+Right, the original RFC for NBNs is a little vague on a couple of
+counts.  My interpretation of the section around that F-code is that
+it's specific to the National Library of Finland and maybe its
+inclusion in the RFC is to give implementers some guidance if they
+have no persistent identifier scheme?  I don't really know (and
+reading RFCs is akin to pouring acid in my eyes on an enjoyment
+scale).
+
+The RFC also gives the following URN template:
+
+urn:nbn:{ISO 3166 code}-{NBN string}
+or
+urn:nbn:{ISO 3166 code}:{sub-namespace code}-{NBN string}
+
+So, like Ben pointed out, I think the format for the bnb would be
+something like:
+
+urn:nbn:gb:bnb-GBA267005
+
+although following the model that the Germans seem to use, it would
+look more like:
+
+urn:nbn:gb:bnb:GBA267005
+
+but it's hard to tell.  Neither the National Library of Sweden nor the
+National Library of Hungary appear to include their nbns in their
+catalogs (so, by default, they aren't appearing in either library's
+RDF).
+
+I definitely agree with you, re: the downside of using URNs.  I wonder
+if it would be worthwhile to set up a purl like:
+
+http://purl.org/NET/nbn/gb/bnb/{id}
+
+where "gb" could route to some nationally appropriate resolver?
+
+Not sure.
+
+-Ross.
+
+On Wed, Dec 8, 2010 at 3:40 PM, Ben O'Steen <bosteen at gmail.com> wrote:
+> Further guidance from Ross (who I hope doesn't mind me relaying things
+> here :))
+>
+> Year isn't necessary, the German guidance below doesn't use it:
+>
+> http://www.persistent-identifier.de/?link=860&lang=en
+>
+> And
+> http://bnb.bibliographica.org/entry/GBA267005
+>
+> might be given a URN of:
+>
+> urn:nbn:gb:bnb:GBA267005
+>
+> Ben
+>
+> On Wed, 2010-12-08 at 20:28 +0000, Ben O'Steen wrote:
+>> http://tools.ietf.org/html/rfc3188
+>>
+>> Ross Singer just put this onto twitter a second ago and I think that
+>> this might be an acceptable way to generate URNs for the bibliographic
+>> data, specifically for the BNB data in my mind.
+>>
+>> Eg as far as my understanding of the rfc goes,
+>> http://bnb.bibliographica.org/entry/GBA267005 would have a URN of:
+>>
+>> urn:nbn:gb-uk2001008809279
+>>
+>> (using British Library id, originally "(Uk)008809279" and published year
+>> of 2001)
+>>
+>> URNs don't resolve so how we incorporate them or even if we incorporate
+>> them is up for discussion :)
+>>
+>> Including a triple of <http://bnb.bibliographica.org/entry/GBA267005>
+>> <owl:sameAs> <urn:nbn:gb-uk2001008809279> might be a way perhaps,
+>> replacing my ahem magicked open vocab term of 'blid' for the British
+>> Library ID.
+>>
+>> As to the end use, I'm not sure but this seems like it might sensible
+>> and would trade one triple for another.
+>>
+>> The con side to this is that it pushes a lot of meaning into the URI
+>> format, the structure of which tells you about the source, year, and so
+>> on without typing the property as being a british library id.
+>>
+>> Any Ideas?
+>>
+>> Ben
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> Please consider the environment before printing this email.
+>
+> Find out more about Talis at http://www.talis.com/
+> shared innovation?
+>
+> Any views or personal opinions expressed within this email may not be those of Talis Information Ltd or its employees. The content of this email message and any files that may be attached are confidential, and for the usage of the intended recipient only. If you are not the intended recipient, then please return this message to the sender and delete it. Any use of this e-mail by an unauthorised recipient is prohibited.
+>
+> Talis Information Ltd is a member of the Talis Group of companies and is registered in England No 3638278 with its registered office at Knights Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+>
+> Talis North America is Talis Inc., 11400 Branch Ct., Fredericksburg, VA 22408, United States of America.
+>
+
+
+From ww at eris.okfn.org  Wed Dec  8 22:07:44 2010
+From: ww at eris.okfn.org (William Waites)
+Date: Wed, 8 Dec 2010 23:07:44 +0100
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <AANLkTi=DyjMeLb1KJV_STFY56v+C5iXZy557rwkQPP+r@mail.gmail.com>
+References: <1291840126.3833.45.camel@monster>
+	<1291840855.3833.47.camel@monster>
+	<AANLkTi=DyjMeLb1KJV_STFY56v+C5iXZy557rwkQPP+r@mail.gmail.com>
+Message-ID: <20101208220744.GA45283@styx.org>
+
+* [2010-12-08 16:39:49 -0500] Ross Singer <ross.singer at talis.com> ?crit:
+
+] So, like Ben pointed out, I think the format for the bnb would be
+] something like:
+] 
+] urn:nbn:gb:bnb-GBA267005
+] 
+] although following the model that the Germans seem to use, it would
+] look more like:
+] 
+] urn:nbn:gb:bnb:GBA267005
+
+In either case, as far as a service like Bibliographica is concerned I
+would propose to take a strategy like we already do with authors and
+series and suchlike, and continue to have the data in the store as it
+is now, but also put
+
+   <http://bnb.bibliographica.org/entry/GBA267005>
+       owl:sameAs <urn:nbn:gb:bnb:GBA267005>.
+
+That way statements that we have about this subject can be immediately
+found through dereferencing, but we still have something IFP-like that
+can be used to join across different datasets with information about
+the same thing. Likewise for the BL if they put up
+e.g. http://bl.uk/bnb/GBA267005. 
+
+I favour the German approach FWIW, it looks more pleasant to my eyes,
+but it's not a strong preference.
+
+] I definitely agree with you, re: the downside of using URNs.  I wonder
+] if it would be worthwhile to set up a purl like:
+] 
+] http://purl.org/NET/nbn/gb/bnb/{id}
+] 
+] where "gb" could route to some nationally appropriate resolver?
+
+I'm down on purl.org these days because they are being very
+conservative about implementing CORS. But definitely something along
+these lines could be quite useful.
+
+Cheers,
+-w
+-- 
+William Waites
+http://eris.okfn.org/ww/foaf#i
+9C7E F636 52F6 1004 E40A  E565 98E3 BBF3 8320 7664
+
+
+From Corine.Deliot at bl.uk  Thu Dec  9 10:09:59 2010
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Thu, 9 Dec 2010 10:09:59 -0000
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <20101208220744.GA45283@styx.org>
+References: <1291840126.3833.45.camel@monster><1291840855.3833.47.camel@monster><AANLkTi=DyjMeLb1KJV_STFY56v+C5iXZy557rwkQPP+r@mail.gmail.com>
+	<20101208220744.GA45283@styx.org>
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+
+Regarding the format:
+
+
+From ww at eris.okfn.org  Thu Dec  9 12:23:04 2010
+From: ww at eris.okfn.org (William Waites)
+Date: Thu, 9 Dec 2010 13:23:04 +0100
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+References: <20101208220744.GA45283@styx.org>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+Message-ID: <20101209122303.GB45283@styx.org>
+
+* [2010-12-09 10:09:59 -0000] Deliot, Corine <Corine.Deliot at bl.uk> ?crit:
+
+] There are no sub-namespaces in the GB landscape so we should follow the pattern below: 
+] urn:nbn:{ISO 3166 code}-{NBN string}
+
+NLS?
+
+-w
+-- 
+William Waites
+http://eris.okfn.org/ww/foaf#i
+9C7E F636 52F6 1004 E40A  E565 98E3 BBF3 8320 7664
+
+
+From ross.singer at talis.com  Thu Dec  9 14:46:53 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Thu, 9 Dec 2010 09:46:53 -0500
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <20101209122303.GB45283@styx.org>
+References: <20101208220744.GA45283@styx.org>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+	<20101209122303.GB45283@styx.org>
+Message-ID: <AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com>
+
+NLW, as well, I would think.
+
+-Ross.
+
+On Thu, Dec 9, 2010 at 7:23 AM, William Waites <ww at river.styx.org> wrote:
+> * [2010-12-09 10:09:59 -0000] Deliot, Corine <Corine.Deliot at bl.uk> ?crit:
+>
+> ] There are no sub-namespaces in the GB landscape so we should follow the pattern below:
+> ] urn:nbn:{ISO 3166 code}-{NBN string}
+>
+> NLS?
+>
+> -w
+> --
+> William Waites
+> http://eris.okfn.org/ww/foaf#i
+> 9C7E F636 52F6 1004 E40A ?E565 98E3 BBF3 8320 7664
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> Please consider the environment before printing this email.
+>
+> Find out more about Talis at http://www.talis.com/
+> shared innovation?
+>
+> Any views or personal opinions expressed within this email may not be those of Talis Information Ltd or its employees. The content of this email message and any files that may be attached are confidential, and for the usage of the intended recipient only. If you are not the intended recipient, then please return this message to the sender and delete it. Any use of this e-mail by an unauthorised recipient is prohibited.
+>
+> Talis Information Ltd is a member of the Talis Group of companies and is registered in England No 3638278 with its registered office at Knights Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+>
+> Talis North America is Talis Inc., 11400 Branch Ct., Fredericksburg, VA 22408, United States of America.
+>
+
+
+From ross.singer at talis.com  Thu Dec  9 14:50:13 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Thu, 9 Dec 2010 09:50:13 -0500
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com>
+References: <20101208220744.GA45283@styx.org>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+	<20101209122303.GB45283@styx.org>
+	<AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com>
+Message-ID: <AANLkTi=9rZrGGzo=MT9fi_meg8ft8uS4u0JEO=vHwzJp@mail.gmail.com>
+
+That said, "The British National Bibliography (BNB) records the
+publishing activity of the United Kingdom and the Republic of Ireland"
+http://www.bl.uk/reshelp/atyourdesk/docsupply/productsservices/bnb/index.html
+
+So, I guess maybe not.
+
+-Ross.
+
+On Thu, Dec 9, 2010 at 9:46 AM, Ross Singer <ross.singer at talis.com> wrote:
+> NLW, as well, I would think.
+>
+> -Ross.
+>
+> On Thu, Dec 9, 2010 at 7:23 AM, William Waites <ww at river.styx.org> wrote:
+>> * [2010-12-09 10:09:59 -0000] Deliot, Corine <Corine.Deliot at bl.uk> ?crit:
+>>
+>> ] There are no sub-namespaces in the GB landscape so we should follow the pattern below:
+>> ] urn:nbn:{ISO 3166 code}-{NBN string}
+>>
+>> NLS?
+>>
+>> -w
+>> --
+>> William Waites
+>> http://eris.okfn.org/ww/foaf#i
+>> 9C7E F636 52F6 1004 E40A ?E565 98E3 BBF3 8320 7664
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>> Please consider the environment before printing this email.
+>>
+>> Find out more about Talis at http://www.talis.com/
+>> shared innovation?
+>>
+>> Any views or personal opinions expressed within this email may not be those of Talis Information Ltd or its employees. The content of this email message and any files that may be attached are confidential, and for the usage of the intended recipient only. If you are not the intended recipient, then please return this message to the sender and delete it. Any use of this e-mail by an unauthorised recipient is prohibited.
+>>
+>> Talis Information Ltd is a member of the Talis Group of companies and is registered in England No 3638278 with its registered office at Knights Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+>>
+>> Talis North America is Talis Inc., 11400 Branch Ct., Fredericksburg, VA 22408, United States of America.
+>>
+>
+
+
+From Corine.Deliot at bl.uk  Thu Dec  9 15:03:01 2010
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Thu, 9 Dec 2010 15:03:01 -0000
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <AANLkTi=9rZrGGzo=MT9fi_meg8ft8uS4u0JEO=vHwzJp@mail.gmail.com>
+References: <20101208220744.GA45283@styx.org><19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk><20101209122303.GB45283@styx.org><AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com>
+	<AANLkTi=9rZrGGzo=MT9fi_meg8ft8uS4u0JEO=vHwzJp@mail.gmail.com>
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB7@w2k3-bspex2.ad.bl.uk>
+
+Well, actually, what I had in mind when I wrote my initial post was the other circumstance mentioned by the rfc, which is "when a national library may also assign a trusted organisation(s) its own sub-namespace" and how we assign BNB numbers amongst all the legal deposit libraries (including NLS and NLW), etc. etc.
+
+In any case, I was thinking too narrowly. I don't know if NLS and NLW assign their own NBNs (I will try and find out) but in any case they could potentially do so, so I think we need to split the national namespace just in case.
+
+What I'd like to know though is if the format Open Bibliography is choosing for the (BL) bnb will constrain the BL in the future if/when we decide to implement our NBNs as URNs. This is something we've been discussing.
+
+What is the benefit for Open Bibliography? You've already created an identifier for the resource based on the BNB.
+
+Thanks
+
+Corine
+
+*********************************
+Corine Deliot
+Metadata Standards Analyst
+The British Library
+Boston Spa, Wetherby
+West Yorkshire LS23 7BQ
+e-mail: corine.deliot at bl.uk
+*********************************
+
+
+-----Original Message-----
+From: rxs at talisplatform.com [mailto:rxs at talisplatform.com] On Behalf Of Ross Singer
+Sent: 2010-12-09 14:50
+To: William Waites; List for Working Group on Open Bibliographic Data
+Cc: Deliot, Corine
+Subject: Re: [open-bibliography] URNs for National Bib Numbers
+
+That said, "The British National Bibliography (BNB) records the
+publishing activity of the United Kingdom and the Republic of Ireland"
+http://www.bl.uk/reshelp/atyourdesk/docsupply/productsservices/bnb/index.html
+
+So, I guess maybe not.
+
+-Ross.
+
+On Thu, Dec 9, 2010 at 9:46 AM, Ross Singer <ross.singer at talis.com> wrote:
+> NLW, as well, I would think.
+>
+> -Ross.
+>
+> On Thu, Dec 9, 2010 at 7:23 AM, William Waites <ww at river.styx.org> wrote:
+>> * [2010-12-09 10:09:59 -0000] Deliot, Corine <Corine.Deliot at bl.uk> ?crit:
+>>
+>> ] There are no sub-namespaces in the GB landscape so we should follow the pattern below:
+>> ] urn:nbn:{ISO 3166 code}-{NBN string}
+>>
+>> NLS?
+>>
+>> -w
+>> --
+>> William Waites
+>> http://eris.okfn.org/ww/foaf#i
+>> 9C7E F636 52F6 1004 E40A ?E565 98E3 BBF3 8320 7664
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>> Please consider the environment before printing this email.
+>>
+>> Find out more about Talis at http://www.talis.com/
+>> shared innovation(tm)
+>>
+>> Any views or personal opinions expressed within this email may not be those of Talis Information Ltd or its employees. The content of this email message and any files that may be attached are confidential, and for the usage of the intended recipient only. If you are not the intended recipient, then please return this message to the sender and delete it. Any use of this e-mail by an unauthorised recipient is prohibited.
+>>
+>> Talis Information Ltd is a member of the Talis Group of companies and is registered in England No 3638278 with its registered office at Knights Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+>>
+>> Talis North America is Talis Inc., 11400 Branch Ct., Fredericksburg, VA 22408, United States of America.
+>>
+>
+
+
+From ross.singer at talis.com  Thu Dec  9 16:22:04 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Thu, 9 Dec 2010 11:22:04 -0500
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB7@w2k3-bspex2.ad.bl.uk>
+References: <20101208220744.GA45283@styx.org>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+	<20101209122303.GB45283@styx.org>
+	<AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com>
+	<AANLkTi=9rZrGGzo=MT9fi_meg8ft8uS4u0JEO=vHwzJp@mail.gmail.com>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB7@w2k3-bspex2.ad.bl.uk>
+Message-ID: <AANLkTi=Am7CsW9YvQe=oVn_f_-JkSJ_Gky73Nr_z-_OA@mail.gmail.com>
+
+On Thu, Dec 9, 2010 at 10:03 AM, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+
+> In any case, I was thinking too narrowly. I don't know if NLS and NLW assign their own NBNs (I will try and find out) but in any case they could potentially do so, so I think we need to split the national namespace just in case.
+>
+I agree - they certainly publish their own bibliographies (at least
+Scotland does, Wales doesn't seem to have anything analogous:
+http://www.llgc.org.uk/index.php?id=readinglists), although there's no
+indication of any sort of NBN.  Of course that doesn't mean there's
+not some system they use internally (or that some number, based on
+F-code, for instance, couldn't be adopted).
+
+> What I'd like to know though is if the format Open Bibliography is choosing for the (BL) bnb will constrain the BL in the future if/when we decide to implement our NBNs as URNs. This is something we've been discussing.
+>
+Well, certainly it could force your hand a bit, depending on the
+uptake.  In the absence of an established form, I think it's possible
+that a de facto form could arise, if prevalent enough.
+
+I think we're at the point where compiling all of the identifiers we
+have about resources is a necessary step for disambiguation and these
+identifiers are going to have to be formatted in unambiguous ways.
+
+> What is the benefit for Open Bibliography? You've already created an identifier for the resource based on the BNB.
+
+This is true, but it's non-standard.  So we (in this case, "we"
+meaning "Talis") start using the Open Bibliography BNB URIs as the
+identifiers for the BNB in Aspire or Prism (for example): is the BL
+comfortable this (Open Bibliography) being the de facto identifier
+assignment agency for the BNB?  If the Library of Congress were to
+publish their catalog as linked data, how should they represent BNB
+numbers?  What about the Open Library?  As linked library data gains
+momentum, I think we're going to have to have identifiers like these
+in place for people to correctly identify the resources in their
+collections.
+
+And, again, while URNs are less than ideal from a linked data
+perspective, they are good for providing a consistent and unique
+identifier, which is exactly what we need.
+
+-Ross.
+
+
+From Corine.Deliot at bl.uk  Fri Dec 10 15:59:29 2010
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Fri, 10 Dec 2010 15:59:29 -0000
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <AANLkTi=Am7CsW9YvQe=oVn_f_-JkSJ_Gky73Nr_z-_OA@mail.gmail.com>
+References: <20101208220744.GA45283@styx.org><19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk><20101209122303.GB45283@styx.org><AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com><AANLkTi=9rZrGGzo=MT9fi_meg8ft8uS4u0JEO=vHwzJp@mail.gmail.com><19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB7@w2k3-bspex2.ad.bl.uk>
+	<AANLkTi=Am7CsW9YvQe=oVn_f_-JkSJ_Gky73Nr_z-_OA@mail.gmail.com>
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538DBD@w2k3-bspex2.ad.bl.uk>
+
+BNB data has been provided in an open structure to enable
+experimentation. 
+
+The British Library is investigating various platform options for
+hosting the BNB and other datasets as Linked Open Data. Future releases
+of the BNB will include persistent identifiers based on the BNB number
+and we are concerned that the premature assignment of URNs may prejudice
+this activity.
+
+Corine
+
+*********************************
+Metadata Standards Analyst
+The British Library
+Boston Spa, Wetherby
+West Yorkshire LS23 7BQ
+e-mail: corine.deliot at bl.uk
+*********************************
+
+
+-----Original Message-----
+From: rxs at talisplatform.com [mailto:rxs at talisplatform.com] On Behalf Of
+Ross Singer
+Sent: 2010-12-09 16:22
+To: Deliot, Corine
+Cc: William Waites; List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] URNs for National Bib Numbers
+
+On Thu, Dec 9, 2010 at 10:03 AM, Deliot, Corine <Corine.Deliot at bl.uk>
+wrote:
+
+> In any case, I was thinking too narrowly. I don't know if NLS and NLW
+assign their own NBNs (I will try and find out) but in any case they
+could potentially do so, so I think we need to split the national
+namespace just in case.
+>
+I agree - they certainly publish their own bibliographies (at least
+Scotland does, Wales doesn't seem to have anything analogous:
+http://www.llgc.org.uk/index.php?id=readinglists), although there's no
+indication of any sort of NBN.  Of course that doesn't mean there's
+not some system they use internally (or that some number, based on
+F-code, for instance, couldn't be adopted).
+
+> What I'd like to know though is if the format Open Bibliography is
+choosing for the (BL) bnb will constrain the BL in the future if/when we
+decide to implement our NBNs as URNs. This is something we've been
+discussing.
+>
+Well, certainly it could force your hand a bit, depending on the
+uptake.  In the absence of an established form, I think it's possible
+that a de facto form could arise, if prevalent enough.
+
+I think we're at the point where compiling all of the identifiers we
+have about resources is a necessary step for disambiguation and these
+identifiers are going to have to be formatted in unambiguous ways.
+
+> What is the benefit for Open Bibliography? You've already created an
+identifier for the resource based on the BNB.
+
+This is true, but it's non-standard.  So we (in this case, "we"
+meaning "Talis") start using the Open Bibliography BNB URIs as the
+identifiers for the BNB in Aspire or Prism (for example): is the BL
+comfortable this (Open Bibliography) being the de facto identifier
+assignment agency for the BNB?  If the Library of Congress were to
+publish their catalog as linked data, how should they represent BNB
+numbers?  What about the Open Library?  As linked library data gains
+momentum, I think we're going to have to have identifiers like these
+in place for people to correctly identify the resources in their
+collections.
+
+And, again, while URNs are less than ideal from a linked data
+perspective, they are good for providing a consistent and unique
+identifier, which is exactly what we need.
+
+-Ross.
+
+
+From ross.singer at talis.com  Fri Dec 10 21:04:45 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Fri, 10 Dec 2010 16:04:45 -0500
+Subject: [open-bibliography] URNs for National Bib Numbers
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A201538DBD@w2k3-bspex2.ad.bl.uk>
+References: <20101208220744.GA45283@styx.org>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB1@w2k3-bspex2.ad.bl.uk>
+	<20101209122303.GB45283@styx.org>
+	<AANLkTinJOEV13_emkZOc3c6fN5htijub502G1rRqYEF0@mail.gmail.com>
+	<AANLkTi=9rZrGGzo=MT9fi_meg8ft8uS4u0JEO=vHwzJp@mail.gmail.com>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DB7@w2k3-bspex2.ad.bl.uk>
+	<AANLkTi=Am7CsW9YvQe=oVn_f_-JkSJ_Gky73Nr_z-_OA@mail.gmail.com>
+	<19BB7EB59CBC594D8DD9F3ACA1EB24A201538DBD@w2k3-bspex2.ad.bl.uk>
+Message-ID: <AANLkTikUuOZsMP-sYPzxjZ=hQwWz+yppAL0+=43iNC0y@mail.gmail.com>
+
+Apologies if my reply came across as antagonistic to BL's planning
+process (it wasn't intended to be), my point was merely that the
+longer there is an absence of an official policy here, the greater the
+odds of a alternative solution muddying the waters.  If that
+alternative gains enough momentum, I think your concerns are extremely
+justified.
+
+-Ross.
+
+On Fri, Dec 10, 2010 at 10:59 AM, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+> BNB data has been provided in an open structure to enable
+> experimentation.
+>
+> The British Library is investigating various platform options for
+> hosting the BNB and other datasets as Linked Open Data. Future releases
+> of the BNB will include persistent identifiers based on the BNB number
+> and we are concerned that the premature assignment of URNs may prejudice
+> this activity.
+>
+> Corine
+>
+> *********************************
+> Metadata Standards Analyst
+> The British Library
+> Boston Spa, Wetherby
+> West Yorkshire LS23 7BQ
+> e-mail: corine.deliot at bl.uk
+> *********************************
+>
+>
+> -----Original Message-----
+> From: rxs at talisplatform.com [mailto:rxs at talisplatform.com] On Behalf Of
+> Ross Singer
+> Sent: 2010-12-09 16:22
+> To: Deliot, Corine
+> Cc: William Waites; List for Working Group on Open Bibliographic Data
+> Subject: Re: [open-bibliography] URNs for National Bib Numbers
+>
+> On Thu, Dec 9, 2010 at 10:03 AM, Deliot, Corine <Corine.Deliot at bl.uk>
+> wrote:
+>
+>> In any case, I was thinking too narrowly. I don't know if NLS and NLW
+> assign their own NBNs (I will try and find out) but in any case they
+> could potentially do so, so I think we need to split the national
+> namespace just in case.
+>>
+> I agree - they certainly publish their own bibliographies (at least
+> Scotland does, Wales doesn't seem to have anything analogous:
+> http://www.llgc.org.uk/index.php?id=readinglists), although there's no
+> indication of any sort of NBN. ?Of course that doesn't mean there's
+> not some system they use internally (or that some number, based on
+> F-code, for instance, couldn't be adopted).
+>
+>> What I'd like to know though is if the format Open Bibliography is
+> choosing for the (BL) bnb will constrain the BL in the future if/when we
+> decide to implement our NBNs as URNs. This is something we've been
+> discussing.
+>>
+> Well, certainly it could force your hand a bit, depending on the
+> uptake. ?In the absence of an established form, I think it's possible
+> that a de facto form could arise, if prevalent enough.
+>
+> I think we're at the point where compiling all of the identifiers we
+> have about resources is a necessary step for disambiguation and these
+> identifiers are going to have to be formatted in unambiguous ways.
+>
+>> What is the benefit for Open Bibliography? You've already created an
+> identifier for the resource based on the BNB.
+>
+> This is true, but it's non-standard. ?So we (in this case, "we"
+> meaning "Talis") start using the Open Bibliography BNB URIs as the
+> identifiers for the BNB in Aspire or Prism (for example): is the BL
+> comfortable this (Open Bibliography) being the de facto identifier
+> assignment agency for the BNB? ?If the Library of Congress were to
+> publish their catalog as linked data, how should they represent BNB
+> numbers? ?What about the Open Library? ?As linked library data gains
+> momentum, I think we're going to have to have identifiers like these
+> in place for people to correctly identify the resources in their
+> collections.
+>
+> And, again, while URNs are less than ideal from a linked data
+> perspective, they are good for providing a consistent and unique
+> identifier, which is exactly what we need.
+>
+> -Ross.
+>
+
+
+From adrian.pohl at okfn.org  Sun Dec 19 19:14:38 2010
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Sun, 19 Dec 2010 20:14:38 +0100
+Subject: [open-bibliography] Openbiblio Principles was: Virtual meeting today
+In-Reply-To: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+References: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+Message-ID: <AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+
+Hello Karen,
+
+thanks for your valuable input. I'm commenting inline. Here is a link
+to the discussed document: http://bit.ly/gIfB11
+
+2010/12/7 Karen Coyle <kcoyle at kcoyle.net>:
+
+> First, there are wording changes that I would normally like to make.
+> However, because there is the UK/US language difference, if a native UK
+> speaker has already gone over this, then we should discuss before I suggest
+> those changes.
+
+Definitely someone should align the wording as soon as we have agreed
+on the content.
+
+> Other comments:
+>
+> 1. Do not use "free", which is ambiguous. Use "without cost" or "without
+> restriction" as appropriate.
+
+There is only one instance of "free", in the "preamble" bit.
+Personally, I don't mind using "free" there. "Without restriction"
+would be wrong (because we say attribution and share-alike are ok too)
+but please change it if you've got a good better wording.
+
+> 2. Do not use "record" -- the citations created by authors are not records.
+> Can we find another term, such as "bibliographic description",
+> "bibliographic data"?
+
+I changed it to "bibliographic description".
+
+>
+> 3. "addressing" does not work for me... I want to use something based on the
+> term "location"
+
+We have to make clear what we are talking about. I don't exactly know
+what Peter actually had in mind when he proposed this definition of a
+bibliographic record/description. I always thought he meant locating a
+resource in the context of a journal, an edited volume etc. On the
+other side locating may mean locating in a collection, indicating a
+place on the shelf. Maybe you think - as well as I do - about holdings
+information and call number that adress a specific book. We certainly
+should make this clear in the text.
+
+> 4. I don't think the list of data elements in the first second is helpful,
+> and I don't think it necessarily serves both functions (identification and
+> location). Perhaps for actual identification of a publication we can refer
+> to library catalog entries and citation rules like MLA without needing a
+> list of data elements. For the location function (assuming this means
+> actually getting your hands or eyes on the item) you need a library catalog
+> entry or a URL (for online documents).
+
+Refering to catalog entries and citation rules sounds good. It also
+would shorten the text quite a bit. Would you change that bit?
+Regarding the location function we must first make clear what we mean
+by that (see above). I think Peter had something other in mind when he
+proposed this.
+
+> 5. I'm not sure why the heading in this first section is "Bibliographic data
+> already in the public domain", unless the intention is "Why we maintain that
+> bibliographic data is not covered by copyright." The wording does not say
+> that to me.
+
+The wording isn't clear but I couldn't think of anything better. It
+should indicate that the ?section covers those parts of bibliographic
+descriptions which are not copyrightable and thus from the point of
+their creation in the public domain. Any ideas for a better wording?
+Then please change it.
+
+> 6. the section on URIs seems to be aimed at online resources, not
+> bibliographic data in the web environment. We have bib data in the web
+> environment that does not have URIs or URLs.
+
+...on the other side we can identify print resources with URIs. I
+think the text in this part is ok because of being vague enough ("can
+be achieved" and now "is possible").
+
+> 7. I would not assert that user-generated tags are public domain. We can't
+> make that decision for all users who contribute tags. I agree that it is a
+> good idea to get users to agree that use of their tags is unrestricted, but
+> the circumstances in which users tag things varies greatly, so this broad
+> statement is problematic.
+
+In the first draft tags and subject headings were in the group of
+legally uncertain data as you suggest. I don't know why the act of
+tagging and indexing should be creative enough to gain copyright over
+taggings... But to be safe we might (again) put it into the next
+section.
+
+> 7a. Rather than asserting that things are public domain, I would rather
+> assert that these things are not covered by intellectual property rights.
+> It's a language quibble, but I feel that "public domain" is a legal term and
+> not a description. That may just be me.
+
+Hmm, I don't see this problem. We could contribute to making "public
+domain" a common term. I think it is already used quite often.
+
+> 8. Subject headings and classification notations may be considered creative
+> work on the part of the cataloger. I would put them in the second category
+> of data elements to which rights may apply.
+
+See above.
+
+> 9. "Sponsorship" -- is this sponsorship of the content or the publication? I
+> assume that it refers to the sponsorship of research that is often cited.
+
+You are right.
+
+> 10. This is more of a general concept, but in my ?own mind I am unclear on
+> the rights status of name authority data. Selecting one fact to represent a
+> display of many similar facts does not seem to meet the creativity
+> requirement (that US law requires). But I agree that it belongs in this
+> "grey area" category in the document.
+
+I agree that name authority data might as well be public domain.
+
+> 11. #3 of the recommendations should refer to ANY restrictions on the data,
+> including attribution. Once we start mashing up data, anything but pure open
+> use becomes impossible. So perhaps this point should be about ANY
+> restrictions, of which non-commercial is one, attribution is another, and
+> even share-alike is another. (Note, if W3C provenance work becomes a
+> reality, we could say that people should pass on provenance data that is
+> received. This wouldn't so much be for the rights issue, in my mind, but so
+> that people can make selections based on whose data they trust most. One
+> issue with provenance is that is could give people a way to attempt to
+> control their data, and we will probably need to address that if it becomes
+> a reality.)
+
+I don't agree with this. The recommendations built on each other and
+it's #4 which says what you propose for #3. So you basically are
+proposing deleting #3 and - if we do so - we could also delete #1 and
+#2 because anybody who complies to #4 also complies to the three
+principles before that.
+
+> I hope this all doesn't sound harsh -- I didn't take the time to soften my
+> language :-) in my haste to get this down. I can make the purely editorial
+> corrections on the Google doc if you would like. The other bits we may need
+> to discuss. Another option would be that I make changes -- perhaps in
+> another copy of the document? (I can't remember off-hand if Google docs has
+> a "revert" function) And then we can discuss that version.
+
+Everybody's free to add comments to the document and change the
+content. Actually, google docs does versionizing.
+
+All the best
+Adrian
+
+> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+>
+>> Hello,
+>>
+>> it's the month's first tuesday and so today the Openbiblio virtual
+>> meeting is scheduled at 16:00 GMT. Unfortunately I can't attend due to
+>> private obligations. Anyway, I created an Etherpad for the meeting:
+>>
+>> http://okfnpad.org/6th-open-bibliography-meeting
+>>
+>> I proposed one agenda point on the etherpad: Commenting and correcting
+>> the principles on open bibliographic data draft.
+>> Peter, Mark and I did some more work on the principles and would
+>> bevery happy to get some comments by other people.
+>> Please add further agenda points as needed.
+>>
+>> Hope you'll have a fruitful meeting.
+>>
+>> Cheers
+>> Adrian
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From pm286 at cam.ac.uk  Sun Dec 19 20:13:43 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 19 Dec 2010 20:13:43 +0000
+Subject: [open-bibliography] Openbiblio Principles was: Virtual meeting
+	today
+In-Reply-To: <AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+References: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+	<AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+Message-ID: <AANLkTinG=GwOFVjOuRZ1irvU2YPJrFod6oSi7U2C34zs@mail.gmail.com>
+
+On Sun, Dec 19, 2010 at 7:14 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello Karen,
+>
+
+Thanks very much for your input Karen,
+
+As is probably clear it is not easy to get this right. The word
+"bibliography" itself means different things to different people
+
+>
+> thanks for your valuable input. I'm commenting inline. Here is a link
+> to the discussed document: http://bit.ly/gIfB11
+>
+> 2010/12/7 Karen Coyle <kcoyle at kcoyle.net>:
+>
+> > First, there are wording changes that I would normally like to make.
+> > However, because there is the UK/US language difference, if a native UK
+> > speaker has already gone over this, then we should discuss before I
+> suggest
+> > those changes.
+>
+> Definitely someone should align the wording as soon as we have agreed
+> on the content.
+>
+> What I think has happened is:
+* a number of us wrote the Panton Principles for Scientific Data
+* Adrian used this to create  the Bibliography equivalent and some of the
+the phrases are probably fairly intact
+* Adrian has translated our discussion into the current document.
+
+So it should not be regarded as finished
+
+> > Other comments:
+> >
+> > 1. Do not use "free", which is ambiguous. Use "without cost" or "without
+> > restriction" as appropriate.
+>
+> There is only one instance of "free", in the "preamble" bit.
+> Personally, I don't mind using "free" there. "Without restriction"
+> would be wrong (because we say attribution and share-alike are ok too)
+> but please change it if you've got a good better wording.
+>
+> The Open Source terms are "gratis" and "libre" which work well there. They
+have finally been carried over to Open Access where they also work well. (If
+this had been done 10 years agao I beleieve that freedom of data would be
+much advanced)
+
+
+> > 2. Do not use "record" -- the citations created by authors are not
+> records.
+> > Can we find another term, such as "bibliographic description",
+> > "bibliographic data"?
+>
+> I changed it to "bibliographic description".
+>
+> I think at this time this is the best we have arrived at
+
+
+> >
+> > 3. "addressing" does not work for me... I want to use something based on
+> the
+> > term "location"
+>
+> We have to make clear what we are talking about. I don't exactly know
+> what Peter actually had in mind when he proposed this definition of a
+> bibliographic record/description. I always thought he meant locating a
+> resource in the context of a journal, an edited volume etc.
+
+
+Yes
+
+
+> On the
+> other side locating may mean locating in a collection, indicating a
+> place on the shelf.
+
+
+No :-)
+
+> Maybe you think - as well as I do - about holdings
+> information and call number that adress a specific book. We certainly
+> should make this clear in the text.
+>
+It may be helpful to visualize my motivation as from a scientist who until
+recently had no interaction with mainstream library practice. The motivation
+springs from the fact that secondary publishers use metadata to control our
+actions and also charge us money for it. We live in occupied territory.
+
+In science the action location or condition of an artifact is irrelevant
+unlike monographs and incunabula. The article is platonic and there is a
+platonic abstraction of the route to find and identify it - that's what I
+mean by scientific bibliography. "Current contents" (does it still exist?)
+is bibliography which should be ours by right.
+
+
+> > 4. I don't think the list of data elements in the first second is
+> helpful,
+> > and I don't think it necessarily serves both functions (identification
+> and
+> > location).
+
+
+I think I mean something different by "location" - I mean the ability to
+find any copy of the platonic article whereas for a physical book this is
+different for each exemplar. That is valuable for a particularly library and
+I'm happy for it to be considered but it's not part of my struggle. (BTW I
+am supportive of all aspects of bibliography - I'm just keener on one part!)
+
+
+> Perhaps for actual identification of a publication we can refer
+> > to library catalog entries and citation rules like MLA without needing a
+> > list of data elements. For the location function (assuming this means
+> > actually getting your hands or eyes on the item) you need a library
+> catalog
+> > entry or a URL (for online documents).
+>
+> I think the enumeration is valuable but need not be in the main body - it
+could be an addendum. The purpose was to point out that these were things
+that belonged by right to the commons. The great mistake of Open Access was
+not spelling out in detail what they wanted and it was confused with
+meaningless terms such as "light green". So we must not allow the publishers
+to grab bits of our territory. The principles must - somewhere - address
+that.
+
+This is not quibbling. Failure to free bibliography costs academia hundreds
+of millions of dollars a year
+
+
+
+> Refering to catalog entries and citation rules sounds good. It also
+> would shorten the text quite a bit. Would you change that bit?
+>
+
+I am agnostic about individual catalogues so long as they are controlled by
+the creators and not third parties monopolising and constricting us. The
+Libray of XYZ university should hold the rights to its own catalogue of
+physical holdings. The rights to bibliography of electronic artifacts should
+belong to the commons
+
+
+> Regarding the location function we must first make clear what we mean
+> by that (see above). I think Peter had something other in mind when he
+> proposed this.
+>
+> > 5. I'm not sure why the heading in this first section is "Bibliographic
+> data
+> > already in the public domain", unless the intention is "Why we maintain
+> that
+> > bibliographic data is not covered by copyright." The wording does not say
+> > that to me.
+>
+> The wording isn't clear but I couldn't think of anything better. It
+> should indicate that the  section covers those parts of bibliographic
+> descriptions which are not copyrightable and thus from the point of
+> their creation in the public domain. Any ideas for a better wording?
+> Then please change it.
+>
+> Yes, please do Karen! Adrian and I have wrestled with this and it reflects
+our backgrounds. A third party would be valuable here. You need to try to
+get into both our brains!
+
+
+> > 6. the section on URIs seems to be aimed at online resources, not
+> > bibliographic data in the web environment. We have bib data in the web
+> > environment that does not have URIs or URLs.
+>
+> ...on the other side we can identify print resources with URIs. I
+> think the text in this part is ok because of being vague enough ("can
+> be achieved" and now "is possible").
+>
+> I am a practising TBList and believe that all Web data *should* carry
+URIs==URLs
+
+
+> > 7. I would not assert that user-generated tags are public domain. We
+> can't
+> > make that decision for all users who contribute tags. I agree that it is
+> a
+> > good idea to get users to agree that use of their tags is unrestricted,
+> but
+> > the circumstances in which users tag things varies greatly, so this broad
+> > statement is problematic.
+>
+
+
+>
+> In the first draft tags and subject headings were in the group of
+> legally uncertain data as you suggest. I don't know why the act of
+> tagging and indexing should be creative enough to gain copyright over
+> taggings... But to be safe we might (again) put it into the next
+> section.
+>
+
+If a third party wishes to take Open (libre) bibliography and tag it and
+posses the result, fine. What we have to avoid is the use of tagging to
+restrict us from our common right
+
+
+>
+> > 7a. Rather than asserting that things are public domain, I would rather
+> > assert that these things are not covered by intellectual property rights.
+> > It's a language quibble, but I feel that "public domain" is a legal term
+> and
+> > not a description. That may just be me.
+>
+> Hmm, I don't see this problem. We could contribute to making "public
+> domain" a common term. I think it is already used quite often.
+>
+> The Pantonistas spent 2 years on this. It's not easy, but Jordan hatcher
+and John Wilbanks converged on Public Domain being the only workable
+solution for science data. This is because it *has* to conform with laws and
+while these vary between jurisdictions the Public Domain was a universal
+solution.
+
+PD doesn't apply to - say - scholarly content because *automatically* that
+carries copyright - by law. In contrast we argued that scientific data did
+NOT, de facto, carry copyright. However to make this abundantly clear we
+need to go through a conscious (but now simple) process of dedicating the
+content to the PD - the PDDL. My guess is that this works for bibliography
+as well - it is not, de facto, copyright.
+
+
+> > 8. Subject headings and classification notations may be considered
+> creative
+> > work on the part of the cataloger. I would put them in the second
+> category
+> > of data elements to which rights may apply.
+>
+> See above.
+>
+> I'd agree
+
+
+> > 9. "Sponsorship" -- is this sponsorship of the content or the
+> publication? I
+> > assume that it refers to the sponsorship of research that is often cited.
+>
+> You are right.
+>
+> > 10. This is more of a general concept, but in my  own mind I am unclear
+> on
+> > the rights status of name authority data. Selecting one fact to represent
+> a
+> > display of many similar facts does not seem to meet the creativity
+> > requirement (that US law requires). But I agree that it belongs in this
+> > "grey area" category in the document.
+>
+> I agree that name authority data might as well be public domain.
+>
+
+Anything we can manage to argue here will help
+
+
+>
+> > 11. #3 of the recommendations should refer to ANY restrictions on the
+> data,
+> > including attribution. Once we start mashing up data, anything but pure
+> open
+> > use becomes impossible. So perhaps this point should be about ANY
+> > restrictions, of which non-commercial is one, attribution is another, and
+> > even share-alike is another. (Note, if W3C provenance work becomes a
+> > reality, we could say that people should pass on provenance data that is
+> > received. This wouldn't so much be for the rights issue, in my mind, but
+> so
+> > that people can make selections based on whose data they trust most. One
+> > issue with provenance is that is could give people a way to attempt to
+> > control their data, and we will probably need to address that if it
+> becomes
+> > a reality.)
+>
+> I don't agree with this. The recommendations built on each other and
+> it's #4 which says what you propose for #3. So you basically are
+> proposing deleting #3 and - if we do so - we could also delete #1 and
+> #2 because anybody who complies to #4 also complies to the three
+> principles before that.
+>
+> > I hope this all doesn't sound harsh -- I didn't take the time to soften
+> my
+> > language :-) in my haste to get this down. I can make the purely
+> editorial
+> > corrections on the Google doc if you would like. The other bits we may
+> need
+> > to discuss. Another option would be that I make changes -- perhaps in
+> > another copy of the document? (I can't remember off-hand if Google docs
+> has
+> > a "revert" function) And then we can discuss that version.
+>
+> Everybody's free to add comments to the document and change the
+> content. Actually, google docs does versionizing.
+>
+> All the best
+> Adrian
+>
+> P.
+
+FWIW I am stuck in Barcelona because of the snow
+
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20101219/e1caf9e6/attachment-0001.htm>
+
+From kcoyle at kcoyle.net  Sun Dec 19 21:21:38 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 19 Dec 2010 13:21:38 -0800
+Subject: [open-bibliography] Openbiblio Principles was: Virtual meeting
+ today
+In-Reply-To: <AANLkTinG=GwOFVjOuRZ1irvU2YPJrFod6oSi7U2C34zs@mail.gmail.com>
+References: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+	<AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+	<AANLkTinG=GwOFVjOuRZ1irvU2YPJrFod6oSi7U2C34zs@mail.gmail.com>
+Message-ID: <20101219132138.4538745krdnhp5ya@kcoyle.net>
+
+Quoting Peter Murray-Rust <pm286 at cam.ac.uk>:
+
+
+>> > 1. Do not use "free", which is ambiguous. Use "without cost" or "without
+>> > restriction" as appropriate.
+
+>> The Open Source terms are "gratis" and "libre" which work well there. They
+> have finally been carried over to Open Access where they also work well. (If
+> this had been done 10 years agao I beleieve that freedom of data would be
+> much advanced)
+
+Peter, not sure what you are suggesting here: that we use 'gratis' and  
+'libre' or 'Open Access'?
+
+
+> It may be helpful to visualize my motivation as from a scientist who until
+> recently had no interaction with mainstream library practice. The motivation
+> springs from the fact that secondary publishers use metadata to control our
+> actions and also charge us money for it. We live in occupied territory.
+>
+> In science the action location or condition of an artifact is irrelevant
+> unlike monographs and incunabula. The article is platonic and there is a
+> platonic abstraction of the route to find and identify it - that's what I
+> mean by scientific bibliography. "Current contents" (does it still exist?)
+> is bibliography which should be ours by right.
+
+I think I'm beginning to understand. To me "locate" isn't limited to  
+physical items -- essentially Google "locates" things for you with its  
+search. The OpenURL concept (used heavily for academic articles) is  
+that of locating the most appropriate copy -- it recognizes that there  
+is often more than one "instance" of a scientific article; some  
+instances may be physical, some may be electronic; some are in the  
+library, some are covered by the library's subscription. It is often  
+referred to as a "locator service" (which I would feel comfortable  
+using for something like Google as well).
+
+Does your term "address" have the sense of providing one or more  
+actual links? In other words, would both of these be an address?:
+
+Journal of X, vol 3 n 6, pp 746
+http://journalofx/3/6/746
+
+
+>
+>
+> I think I mean something different by "location" - I mean the ability to
+> find any copy of the platonic article whereas for a physical book this is
+> different for each exemplar. That is valuable for a particularly library and
+> I'm happy for it to be considered but it's not part of my struggle. (BTW I
+> am supportive of all aspects of bibliography - I'm just keener on one part!)
+
+Right. This is also what library functions aim to do.
+
+>>
+>> I think the enumeration is valuable but need not be in the main body - it
+> could be an addendum. The purpose was to point out that these were things
+> that belonged by right to the commons. The great mistake of Open Access was
+> not spelling out in detail what they wanted and it was confused with
+> meaningless terms such as "light green". So we must not allow the publishers
+> to grab bits of our territory. The principles must - somewhere - address
+> that.
+>
+> This is not quibbling. Failure to free bibliography costs academia hundreds
+> of millions of dollars a year
+
+It wasn't clear to me the purpose of that list. Yes, if you feel that  
+particular elements are public domain, it would be good to provide a  
+list. For readability, it may be best included in an appendix or  
+addendum. I think that lists in the middle of text tend to drive  
+readers away. :-)
+
+>
+>> Regarding the location function we must first make clear what we mean
+>> by that (see above). I think Peter had something other in mind when he
+>> proposed this.
+>>
+>> > 5. I'm not sure why the heading in this first section is "Bibliographic
+>> data
+>> > already in the public domain", unless the intention is "Why we maintain
+>> that
+>> > bibliographic data is not covered by copyright." The wording does not say
+>> > that to me.
+>>
+>> The wording isn't clear but I couldn't think of anything better. It
+>> should indicate that the  section covers those parts of bibliographic
+>> descriptions which are not copyrightable and thus from the point of
+>> their creation in the public domain. Any ideas for a better wording?
+>> Then please change it.
+>>
+>> Yes, please do Karen! Adrian and I have wrestled with this and it reflects
+> our backgrounds. A third party would be valuable here. You need to try to
+> get into both our brains!
+
+I think it was the "already" that threw me on this. If you want it to  
+be declarative, you could say:
+
+Bibliographic Data is Public Domain Data
+
+If the following paragraphs are an argument for open bib data, you could say:
+
+Why Bibliographic Data is Public Domain Information (or Data)
+
+>
+>
+>> > 6. the section on URIs seems to be aimed at online resources, not
+>> > bibliographic data in the web environment. We have bib data in the web
+>> > environment that does not have URIs or URLs.
+>>
+>> ...on the other side we can identify print resources with URIs. I
+>> think the text in this part is ok because of being vague enough ("can
+>> be achieved" and now "is possible").
+>>
+>> I am a practising TBList and believe that all Web data *should* carry
+> URIs==URLs
+
+
+Well, maybe it should, but the vast majority does not, and we wouldn't  
+want that data to be excluded from the discussion. Think about all of  
+the citations in articles and digitized books. I wouldn't  
+over-emphasize URIs. That's not really about the data but about the  
+technical format, and it seems to me that we want bib data, not just  
+bib data in certain formats, to be open.
+
+
+>
+> If a third party wishes to take Open (libre) bibliography and tag it and
+> posses the result, fine. What we have to avoid is the use of tagging to
+> restrict us from our common right
+
+So maybe that is a good point to make: that although someone may add  
+to bibliographic information, and those additions may be worthy of  
+some kind of IP ownership, it should not be the case that those  
+additions change the copyright status of the bib data itself. There is  
+an easy analogy in this for books: publishers often take a public  
+domain title, add an introduction or some other text, and then  
+republish to PD book. They can copyright the introduction or other  
+added text, but the original PD work remains in the public domain.  
+Publishers slap copyrights on these books, but if you look at the  
+small print the (c) only applies to the new part.
+
+We should say that adding to bibliographic description does NOT change  
+the public domain status of the factual part of the description; only  
+the added parts *may* be covered by copyright. By saying this, a whole  
+database (like EBSCO) therefore contains some copyrighted material,  
+but they have not gained copyright over the names of authors or titles  
+of articles, only over the part that they contributed that is creative  
+in nature (well, the creative part is from US law, so we probably  
+can't use that term).
+
+>>
+>> Hmm, I don't see this problem. We could contribute to making "public
+>> domain" a common term. I think it is already used quite often.
+>>
+>> The Pantonistas spent 2 years on this. It's not easy, but Jordan hatcher
+> and John Wilbanks converged on Public Domain being the only workable
+> solution for science data. This is because it *has* to conform with laws and
+> while these vary between jurisdictions the Public Domain was a universal
+> solution.
+>
+> PD doesn't apply to - say - scholarly content because *automatically* that
+> carries copyright - by law. In contrast we argued that scientific data did
+> NOT, de facto, carry copyright. However to make this abundantly clear we
+> need to go through a conscious (but now simple) process of dedicating the
+> content to the PD - the PDDL. My guess is that this works for bibliography
+> as well - it is not, de facto, copyright.
+
+I'll go along with this as long as we are very clear about what we  
+mean by public domain and why certain aspects of bib data are not  
+covered by copyright. Unfortunately, we haven't had a court decision  
+to back us up, and so we are kind of whistling in the dark. I think it  
+would make sense to say that we are declaring this to be in the public  
+domain (which is a kind of challenge) rather than stating that  
+"factually" it *is* in the public domain, which is not (yet) true.
+
+>>
+>> > 11. #3 of the recommendations should refer to ANY restrictions on the
+>> data,
+>> > including attribution. Once we start mashing up data, anything but pure
+>> open
+>> > use becomes impossible. So perhaps this point should be about ANY
+>> > restrictions, of which non-commercial is one, attribution is another, and
+>> > even share-alike is another. (Note, if W3C provenance work becomes a
+>> > reality, we could say that people should pass on provenance data that is
+>> > received. This wouldn't so much be for the rights issue, in my mind, but
+>> so
+>> > that people can make selections based on whose data they trust most. One
+>> > issue with provenance is that is could give people a way to attempt to
+>> > control their data, and we will probably need to address that if it
+>> becomes
+>> > a reality.)
+>>
+>> I don't agree with this. The recommendations built on each other and
+>> it's #4 which says what you propose for #3. So you basically are
+>> proposing deleting #3 and - if we do so - we could also delete #1 and
+>> #2 because anybody who complies to #4 also complies to the three
+>> principles before that.
+
+
+I went back and read the earlier statements and it is true that they  
+would all have to be removed. So I think it would be worth discussing  
+this. AFter all, if we've spent the entire document saying that  
+factual bib data is in the public domain, then there shouldn't be any  
+need for talk about licenses. I'm now quite confused about the overall  
+goals of this document.
+
+
+>
+> FWIW I am stuck in Barcelona because of the snow
+
+
+I can think of worse places, and hope you are at least comfortable,  
+warm, with a drink in hand. :-)
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ww at styx.org  Sun Dec 19 22:29:20 2010
+From: ww at styx.org (William Waites)
+Date: Sun, 19 Dec 2010 23:29:20 +0100
+Subject: [open-bibliography] Openbiblio Principles was: Virtual
+	meeting	today
+In-Reply-To: <20101219132138.4538745krdnhp5ya@kcoyle.net>
+References: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+	<AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+	<AANLkTinG=GwOFVjOuRZ1irvU2YPJrFod6oSi7U2C34zs@mail.gmail.com>
+	<20101219132138.4538745krdnhp5ya@kcoyle.net>
+Message-ID: <20101219222920.GL1281@styx.org>
+
+(Writing very much in a personal capacity, explicitly *not*
+the position of OKF or anyone else).
+
+* [2010-12-19 13:21:38 -0800] Karen Coyle <kcoyle at kcoyle.net> ?crit:
+
+] After all, if we've spent the entire document saying that  
+] factual bib data is in the public domain, then there shouldn't be any  
+] need for talk about licenses. I'm now quite confused about the overall  
+] goals of this document.
+
+Firstly I think the reason to talk about licenses is because some
+places do not have a public domain as such, the best you can do is
+release something under a license that confers the same rights that
+people would have if there were a public domain.
+
+That said, I would like to draw attention to the history of this
+discourse in the free software world. Part of the root problem is the
+ambiguity in the word free -- most languages have different words for
+the concept of free of cost and freedom. In terms of free software it
+has come to mean freedom in terms of the Four Freedoms of the Free
+Software Definition, the intellectual ancestor of the Panton
+Principles.
+
+It has become the practice to refer to software whose license
+incorporates a copyleft principle, that insists that derivatives must
+also be free, as "free" and software that is otherwise free but
+doesn't impose this requirement as "open". Until the legal loophole of
+dual licensing was discovered free software was considered hostile to
+venture capital investment and open software became popular in those
+circles precisely because it was possible to make it proprietary.
+
+The situation was then exascerbated by the Creative Commons promoting
+intellectual property with a "chose what restrictions you wish to put
+on your work" spectrum of licenses for creative works. Essentially
+this popularised the restriction of others' rights where previously
+only people with lawyers could do this. You could make analogy with
+the state (police, military, etc.) previously being the ones entitled
+to carry weapons whereas now the populace has been armed. Not
+necessarily very helpful.
+
+Now back to this thread. It is being advocated that bibliographic
+information be released as if it were public domain information. The
+subtle point being glossed over is that it isn't even clear that the
+machinery of intellectual property can apply to this type of data (and
+some pretty good arguments that it cannot) so by saying that it should
+be public domain or equivalently licensed the point that it is subject
+to the intellectual property regime is already being conceded.
+
+*IF* this type of data can be intellectual property, and it should
+somehow be considered part of the common stock of humanity, but work
+has to be done to make it suitably available and useable, then it is
+actually worth making some effort to make sure it stays that
+way. Otherwise we will be encouraging people to take the open data and
+add their special secret information to make proprietary data. Right
+now we are going to significant effort to separate what is open from
+what is proprietary. Not using copyleft terms defeats the purpose.
+
+Cheers,
+-w
+
+
+From pm286 at cam.ac.uk  Sun Dec 19 22:41:59 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 19 Dec 2010 22:41:59 +0000
+Subject: [open-bibliography] Openbiblio Principles was: Virtual meeting
+	today
+In-Reply-To: <20101219132138.4538745krdnhp5ya@kcoyle.net>
+References: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+	<AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+	<AANLkTinG=GwOFVjOuRZ1irvU2YPJrFod6oSi7U2C34zs@mail.gmail.com>
+	<20101219132138.4538745krdnhp5ya@kcoyle.net>
+Message-ID: <AANLkTin15fv_xY=j5FeXDJzdECN=RLyuzFBRSjeSnqAw@mail.gmail.com>
+
+On Sun, Dec 19, 2010 at 9:21 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+
+> Quoting Peter Murray-Rust <pm286 at cam.ac.uk>:
+>
+>
+>
+>
+>> > 1. Do not use "free", which is ambiguous. Use "without cost" or "without
+>>>
+>>> > restriction" as appropriate.
+>>>
+>>>
+>>
+>
+>> The Open Source terms are "gratis" and "libre" which work well there. They
+>>>
+>>>
+>>>
+>> have finally been carried over to Open Access where they also work well.
+>> (If
+>> this had been done 10 years agao I beleieve that freedom of data would be
+>> much advanced)
+>>
+>>
+>
+> Peter, not sure what you are suggesting here: that we use 'gratis' and
+> 'libre'
+
+Yes - at least explore them
+
+
+> or 'Open Access'?
+>
+>
+No!!
+
+>
+>
+>
+>> It may be helpful to visualize my motivation as from a scientist who until
+>>
+>> recently had no interaction with mainstream library practice. The
+>> motivation
+>> springs from the fact that secondary publishers use metadata to control
+>> our
+>> actions and also charge us money for it. We live in occupied territory.
+>>
+>> In science the action location or condition of an artifact is irrelevant
+>> unlike monographs and incunabula. The article is platonic and there is a
+>> platonic abstraction of the route to find and identify it - that's what I
+>> mean by scientific bibliography. "Current contents" (does it still exist?)
+>> is bibliography which should be ours by right.
+>>
+>>
+>
+> I think I'm beginning to understand. To me "locate" isn't limited to
+> physical items -- essentially Google "locates" things for you with its
+> search.
+
+
+Yes!
+
+
+> The OpenURL concept (used heavily for academic articles) is that of
+> locating the most appropriate copy -- it recognizes that there is often more
+> than one "instance" of a scientific article; some instances may be physical,
+> some may be electronic; some are in the library, some are covered by the
+> library's subscription. It is often referred to as a "locator service"
+> (which I would feel comfortable using for something like Google as well).
+>
+>
+>
+Yes - most scientists don't actually care what instance they receive. In
+some subjects the "final" version matters. However the difference between
+the authors' final version (e.g. Word) and the publishers' PDF is
+often irrelevant - scientists don't really care about pagination within a
+journal (they only need the pages to locate and identify the article. In
+some cases they prefer the authors' version as it hasn't been trashed into
+unprocessable PDF.
+
+
+> Does your term "address" have the sense of providing one or more actual
+> links? In other words, would both of these be an address?:
+>
+>
+>
+Yes.
+
+
+> Journal of X, vol 3 n 6, pp 746
+>
+>
+This also acts as an Identifier
+
+> http://journalofx/3/6/746
+>
+>
+let's call that http://www.publisher.org/*journalofx/3/6/746*
+
+There are some subtleties. Both require an address resolver. The first is
+relatively useful for machines UNLESS there is something like Google. A
+human may be able to solve this by going to a publisher web site and
+browsing through (though some publishers websites are so awful it's
+unbelievable). On many of them I can't find how to browse the archives.
+
+The second also requires an Address resolver but it's so common you don't
+think of it, yet the whole Net is built on it. It's the DNS system which
+looks up all registered domain names and translates them into IP addresses.
+This allows the browser or user agent to navigate to the publisher site.
+Then the publisher server decodes *journalofx/3/6/746*  into the actual
+place in the filestore (normally there is a close mapping). If there is a
+query, then it's a database search
+
+The universal DOI is also an address resolver. It turns unique strings into
+web addresses. This is done by doi.org and publishers pay them a small fee
+for each DOI minted. Again there is usually a split between top level and
+publisher
+
+>
+>
+>
+>>
+>> I think I mean something different by "location" - I mean the ability to
+>> find any copy of the platonic article whereas for a physical book this is
+>> different for each exemplar. That is valuable for a particularly library
+>> and
+>> I'm happy for it to be considered but it's not part of my struggle. (BTW I
+>> am supportive of all aspects of bibliography - I'm just keener on one
+>> part!)
+>>
+>>
+>
+> Right. This is also what library functions aim to do.
+>
+>
+>
+>>  I think the enumeration is valuable but need not be in the main body -
+>>> it
+>>>
+>>>
+>> could be an addendum. The purpose was to point out that these were things
+>> that belonged by right to the commons. The great mistake of Open Access
+>> was
+>> not spelling out in detail what they wanted and it was confused with
+>> meaningless terms such as "light green". So we must not allow the
+>> publishers
+>> to grab bits of our territory. The principles must - somewhere - address
+>> that.
+>>
+>> This is not quibbling. Failure to free bibliography costs academia
+>> hundreds
+>> of millions of dollars a year
+>>
+>>
+>
+> It wasn't clear to me the purpose of that list. Yes, if you feel that
+> particular elements are public domain, it would be good to provide a list.
+> For readability, it may be best included in an appendix or addendum. I think
+> that lists in the middle of text tend to drive readers away. :-)
+>
+>
+>
+Accepted
+
+
+>
+>>
+>>> Regarding the location function we must first make clear what we mean
+>>> by that (see above). I think Peter had something other in mind when he
+>>> proposed this.
+>>>
+>>> > 5. I'm not sure why the heading in this first section is "Bibliographic
+>>> data
+>>> > already in the public domain", unless the intention is "Why we maintain
+>>> that
+>>> > bibliographic data is not covered by copyright." The wording does not
+>>> say
+>>> > that to me.
+>>>
+>>> The wording isn't clear but I couldn't think of anything better. It
+>>> should indicate that the  section covers those parts of bibliographic
+>>> descriptions which are not copyrightable and thus from the point of
+>>> their creation in the public domain. Any ideas for a better wording?
+>>> Then please change it.
+>>>
+>>> Yes, please do Karen! Adrian and I have wrestled with this and it
+>>> reflects
+>>>
+>>>
+>> our backgrounds. A third party would be valuable here. You need to try to
+>> get into both our brains!
+>>
+>>
+>
+> I think it was the "already" that threw me on this. If you want it to be
+> declarative, you could say:
+>
+> Bibliographic Data is Public Domain Data
+>
+>
+>
+That is our fundamental assertion.
+
+
+> If the following paragraphs are an argument for open bib data, you could
+> say:
+>
+> Why Bibliographic Data is Public Domain Information (or Data)
+>
+>
+The problem is that the document could be a clarifying document (in which
+case fine) or it could be a declaration of independence. Unfortuantely I
+think it's the latter. So it's
+
+
+We hold these truths to be
+self-evident<https://mail.google.com/wiki/Self-evident>,
+that all men are created equal, that they are endowed by their
+Creator<https://mail.google.com/wiki/Creator_deity>with certain
+unalienable
+Rights <https://mail.google.com/wiki/Inalienable_rights>, that among these
+are Life, Liberty, and the Pursuit of
+Happiness<https://mail.google.com/wiki/Life,_liberty_and_the_pursuit_of_happiness>.
+
+
+
+ Here "We" means the founding fathers, not the whole of humantity. They
+asserted it as a political fact, not a universally held truth. I think it's
+the same with bibliography.
+
+>
+>>
+>>
+>>> > 6. the section on URIs seems to be aimed at online resources, not
+>>> > bibliographic data in the web environment. We have bib data in the web
+>>> > environment that does not have URIs or URLs.
+>>>
+>>> ...on the other side we can identify print resources with URIs. I
+>>> think the text in this part is ok because of being vague enough ("can
+>>> be achieved" and now "is possible").
+>>>
+>>> I am a practising TBList and believe that all Web data *should* carry
+>>>
+>>>
+>> URIs==URLs
+>>
+>>
+>
+>
+> Well, maybe it should, but the vast majority does not, and we wouldn't want
+> that data to be excluded from the discussion.
+
+
+It isn't. It's
+
+
+> Think about all of the citations in articles and digitized books.
+
+
+I have - and that's what Open Bibliography and Open Citations are trying to
+liberate
+
+
+> I wouldn't over-emphasize URIs. That's not really about the data but about
+> the technical format, and it seems to me that we want bib data, not just bib
+> data in certain formats, to be open.
+
+
+No - URIs are IDENTIFIERS. Every bibliographic description should have a
+unique identifier
+
+>
+>
+>
+>
+>> If a third party wishes to take Open (libre) bibliography and tag it and
+>> posses the result, fine. What we have to avoid is the use of tagging to
+>> restrict us from our common right
+>>
+>>
+>
+> So maybe that is a good point to make: that although someone may add to
+> bibliographic information, and those additions may be worthy of some kind of
+> IP ownership, it should not be the case that those additions change the
+> copyright status of the bib data itself.
+
+
+Exactly
+
+
+> There is an easy analogy in this for books: publishers often take a public
+> domain title, add an introduction or some other text, and then republish to
+> PD book. They can copyright the introduction or other added text, but the
+> original PD work remains in the public domain. Publishers slap copyrights on
+> these books, but if you look at the small print the (c) only applies to the
+> new part.
+>
+>
+Yes, but this often effectively removes the original from the PD because of
+the lack of metadata. Uncertainty always come down on the side of the
+powerful. Copyright is only resolved by lawyers
+
+
+> We should say that adding to bibliographic description does NOT change the
+> public domain status of the factual part of the description; only the added
+> parts *may* be covered by copyright. By saying this, a whole database (like
+> EBSCO) therefore contains some copyrighted material, but they have not
+> gained copyright over the names of authors or titles of articles, only over
+> the part that they contributed that is creative in nature (well, the
+> creative part is from US law, so we probably can't use that term).
+>
+
+Yes this is our inalienable right
+
+
+>
+>
+>
+>>  Hmm, I don't see this problem. We could contribute to making "public
+>>> domain" a common term. I think it is already used quite often.
+>>>
+>>> The Pantonistas spent 2 years on this. It's not easy, but Jordan hatcher
+>>>
+>>>
+>> and John Wilbanks converged on Public Domain being the only workable
+>> solution for science data. This is because it *has* to conform with laws
+>> and
+>> while these vary between jurisdictions the Public Domain was a universal
+>> solution.
+>>
+>> PD doesn't apply to - say - scholarly content because *automatically* that
+>> carries copyright - by law. In contrast we argued that scientific data did
+>> NOT, de facto, carry copyright. However to make this abundantly clear we
+>> need to go through a conscious (but now simple) process of dedicating the
+>> content to the PD - the PDDL. My guess is that this works for bibliography
+>> as well - it is not, de facto, copyright.
+>>
+>>
+>
+> I'll go along with this as long as we are very clear about what we mean by
+> public domain and why certain aspects of bib data are not covered by
+> copyright. Unfortunately, we haven't had a court decision to back us up, and
+> so we are kind of whistling in the dark. I think it would make sense to say
+> that we are declaring this to be in the public domain (which is a kind of
+> challenge) rather than stating that "factually" it *is* in the public
+> domain, which is not (yet) true.
+>
+>
+>
+>>  > 11. #3 of the recommendations should refer to ANY restrictions on the
+>>> data,
+>>> > including attribution. Once we start mashing up data, anything but pure
+>>> open
+>>> > use becomes impossible. So perhaps this point should be about ANY
+>>> > restrictions, of which non-commercial is one, attribution is another,
+>>> and
+>>> > even share-alike is another. (Note, if W3C provenance work becomes a
+>>> > reality, we could say that people should pass on provenance data that
+>>> is
+>>> > received. This wouldn't so much be for the rights issue, in my mind,
+>>> but
+>>> so
+>>> > that people can make selections based on whose data they trust most.
+>>> One
+>>> > issue with provenance is that is could give people a way to attempt to
+>>> > control their data, and we will probably need to address that if it
+>>> becomes
+>>> > a reality.)
+>>>
+>>> I don't agree with this. The recommendations built on each other and
+>>> it's #4 which says what you propose for #3. So you basically are
+>>> proposing deleting #3 and - if we do so - we could also delete #1 and
+>>> #2 because anybody who complies to #4 also complies to the three
+>>> principles before that.
+>>>
+>>>
+>>
+>
+> I went back and read the earlier statements and it is true that they would
+> all have to be removed. So I think it would be worth discussing this. AFter
+> all, if we've spent the entire document saying that factual bib data is in
+> the public domain, then there shouldn't be any need for talk about licenses.
+> I'm now quite confused about the overall goals of this document.
+>
+>
+>
+>
+>> FWIW I am stuck in Barcelona because of the snow
+>>
+>>
+>
+>
+> I can think of worse places, and hope you are at least comfortable, warm,
+> with a drink in hand. :-)
+>
+> kc
+>
+> --
+> Karen Coyle
+>   kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20101219/9cb84a29/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Sun Dec 19 23:00:18 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 19 Dec 2010 23:00:18 +0000
+Subject: [open-bibliography] Openbiblio Principles was: Virtual meeting
+	today
+In-Reply-To: <20101219222920.GL1281@styx.org>
+References: <AANLkTikJ=9gMJiA2Xe=_P1GbpFRyty7WJLtxza_k4J4X@mail.gmail.com>
+	<AANLkTinYu6ccwL+z8gFV5UGNL8q2hfC1M-V--Sfy8wO9@mail.gmail.com>
+	<AANLkTinG=GwOFVjOuRZ1irvU2YPJrFod6oSi7U2C34zs@mail.gmail.com>
+	<20101219132138.4538745krdnhp5ya@kcoyle.net>
+	<20101219222920.GL1281@styx.org>
+Message-ID: <AANLkTi=Mwsa+_S6HV45grpVCbDXszZUD9b-ibi_TL8x7@mail.gmail.com>
+
+On Sun, Dec 19, 2010 at 10:29 PM, William Waites <ww at styx.org> wrote:
+
+> (Writing very much in a personal capacity, explicitly *not*
+> the position of OKF or anyone else).
+>
+> Everyone in the OKF writes for themselves (unless it's a cheque)...
+
+Now back to this thread. It is being advocated that bibliographic
+information be released as if it were public domain information. The
+subtle point being glossed over is that it isn't even clear that the
+machinery of intellectual property can apply to this type of data (and
+some pretty good arguments that it cannot) so by saying that it should
+be public domain or equivalently licensed the point that it is subject
+to the intellectual property regime is already being conceded.
+This is the key point. The problem is that others have already grabbed this
+as their property. They may have no right but we have to have a mechanism
+that contests this. In this area logical arguments don't work - the ground
+is too shaky and lawyers aren't logicians.
+
+
+*IF* this type of data can be intellectual property, and it should
+somehow be considered part of the common stock of humanity, but work
+has to be done to make it suitably available and useable, then it is
+actually worth making some effort to make sure it stays that
+way.
+
+Agreed - we are debating the mechanism
+
+ Otherwise we will be encouraging people to take the open data and
+add their special secret information to make proprietary data.
+
+Possibly true, but probably they need no encouragement. In practice it's
+highly unlikely that corporations will look at science data and say = "oh
+good, it's now Open so we can start to possess it". They will have been
+possessing it anyway. They occupy land that they think they can get away
+with, not that can definitively be proved to be non-owned.
+
+
+ Right now we are going to significant effort to separate what is open from
+what is proprietary. Not using copyleft terms defeats the purpose.
+I think we are going to have to consult Jordan soon...
+
+P.
+
+Cheers,
+-w
+
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20101219/42838691/attachment.htm>
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.17.1299049803.30686.open-bibliography@lists.okfn.org>
+
+OCLC Research and Cambridge University collaborate on Open Metadata project - 28 Feb 2011
+
+Library information provider OCLC Research, US, and Cambridge University have announced that both organisations will jointly conduct a six-month, JISC-funded investigation into the value of making collection metadata openly available in a sustainable manner.
+
+The COMET (Cambridge OPen METadata) project will release a sub-set of bibliographic data from Cambridge University Library catalogues as linked data in multiple formats. This activity will test a number of technologies and methodologies for releasing open bibliographic data including XML, RDF, SPARQL, and JSON.
+
+To enhance linking options, records will be enriched using two OCLC Research services to assign FAST (Faceted Application of Subject Terminology) and VIAF (Virtual International Authority File) headings. This will allow for effective information retrieval and semantic interoperability.
+
+Starting in February 2011, COMET will document the availability of metadata for the library's collections which can be released openly in machine-readable formats and the barriers which prevent other data from being exposed in this way.
+
+It is expected that the project will bring value to the wider community by contributing substantially to the availability of open metadata. Linking to FAST and VIAF headings will demonstrate the potential usefulness of a structured semantic approach to data. The project will also look at the value data enrichment offers for resource discovery. 
+
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.131.1328222960.30686.open-bibliography@lists.okfn.org>
+
+1. ACCESS
+The work shall be available as a whole and at no more than a reasonable reproduction cost, preferably downloading via the Internet without charge.
+
+Mendeley has declined repeated requests to provide a complete database dump.
+
+I also have problems with CC-BY for biblio data, especially when the BY is from a secondary 
+indexer, not even the original publisher, and we are talking about public domain metadata 
+in the first place.  What is the effect of the BY clause on biblio metadata?  I think almost 
+nothing, because of the clause in CC-BY that the status of public  elements is in no way 
+affected by the license.  Still, the BY clause has a chilling effect on the kind of 
+"frictionless sharing" of biblio data which I think we should be promoting.
+(Thanks to Facebook for this notion in another context.) 
+In particular, I strongly dislike the display requirements  
+http://dev.mendeley.com/docs/display-guidelines/
+
+-- Any content obtained from Mendeley must include proper attribution as such. Mendeley brand elements should be placed within close proximity to the content, so that the users can easily understand the source. For those wishing to brand the content as their own, please contact trademarks at mendeley.com with the subject line "SELF BRANDING."
+
+I do not think this community should encourage or condone this sort of commercialization of
+biblio data. I would rather see promotion of ideas of provenance of biblio data, enforced by
+open community norms, rather than legal attribution requirements. I would rather see us promote
+non-commercial alternatives, and create bibliographic stores unencumbered with BY requirements,
+but including provenenance assertions whenever possible.
+
+If I pick up a bib record from Mendeley, and personally check that its data agrees with
+whatever other data I may have from other sources, why should I  be legally obliged to 
+credit Mendeley as the source. Or even am I obliged at all? If I have some repututation as 
+a maintainer of high quality bibliographies, it is probably more important to further users of 
+the data that that I have checked it than that I copied it from Mendeley.
+
+I am not offering a solution to the provenance issue for biblio data. 
+But I think CC-BY licenses are not the way to solve it.
+And that this community should think about what alternative standards might be promoted.
+
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.132.1328281400.30686.open-bibliography@lists.okfn.org>
+
+Another embedding I have used extensively is
+
+links = {http://...  anchor 1
+	http://...  anchor 2
+         .....  },
+
+which contains the same info except for the "rel" and other attributes of the link.
+A third option would be 
+
+link_1_html = {... },
+link_2_html = {... },
+
+where the ... is a plain html rep of the link e.g. <a href="$url$" rel = "$rel$" title = "$title$" .... >$anchor$</a>
+It is a general question for this group to consider:
+How best to choose and promote such simple ad hoc extensions of common standards which can be
+round-tripped to BibJSON without loss of information? 
+Promotion of such extensions could play a big role in adoption/expansion of BibJSON/BibServer.
+--Jim
+----------------------------------------------
+Jim Pitman
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.181.1340544139.30686.open-bibliography@lists.okfn.org>
+
+4. Absence of Technological Restriction
+
+The work must be provided in such a form that there are no technological
+obstacles to the performance of the above activities. This can be achieved
+by the provision of the work in an open data format, i.e. one whose
+specification is publicly and freely available and which places no
+restrictions monetary or otherwise upon its use.
+I am not familiar with the details of what OCLC is releasing but it I would
+have thought the provider had a duty to make it possible to access all the
+content in some way (dumps and iterators are the two things that come to
+mind). Do OCLC give an indication of how to get all the data? Because
+simply saying "our data is Open but you can't get it" isn't really Open.
+
+I have some sympathy for data providers as I have had to create a set of
+crawlers to download Open Data that I have collected. It's a non-trivial
+problem.
+
+
+> Mathias
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+--f46d04182820de1f8204c337c057
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div class=3D"gmail_quote">On Sun, Jun 24, 2012 at 1:21 PM, Mathias=
+ Schindler <span dir=3D"ltr">&lt;<a href=3D"mailto:mathias.schindler at gmail.=
+com" target=3D"_blank">mathias.schindler at gmail.com</a>&gt;</span> wrote:<br=
+><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1=
+px #ccc solid;padding-left:1ex">
+<div class=3D"im">On Thu, Jun 21, 2012 at 5:08 AM, <a href=3D"mailto:todd.d=
+.robbins at gmail.com">todd.d.robbins at gmail.com</a><br>
+&lt;<a href=3D"mailto:todd.d.robbins at gmail.com">todd.d.robbins at gmail.com</a=
+>&gt; wrote:<br>
+&gt; Just a few links to go with the fabulous news:<br>
+&gt;<br>
+&gt; <a href=3D"http://www.oclc.org/us/en/news/releases/2012/201238.htm" ta=
+rget=3D"_blank">http://www.oclc.org/us/en/news/releases/2012/201238.htm</a>=
+<br>
+&gt; <a href=3D"http://dataliberate.com/2012/06/oclc-worldcat-linked-data-r=
+elease-significant-in-many-ways/" target=3D"_blank">http://dataliberate.com=
+/2012/06/oclc-worldcat-linked-data-release-significant-in-many-ways/</a><br=
+>
+
+&gt; <a href=3D"http://www.essepuntato.it/lode/http://purl.org/library/" ta=
+rget=3D"_blank">http://www.essepuntato.it/lode/http://purl.org/library/</a>=
+<br>
+&gt; <a href=3D"http://www.oclc.org/data.html" target=3D"_blank">http://www=
+.oclc.org/data.html</a><br>
+&gt;<br>
+<br>
+</div>OCLC later released a statement that there won&#39;t be a data dump o=
+f the<br>
+ODC-by-licensed data for what they describe as technical reasons.<br></bloc=
+kquote><div><br>From (4) in the Open Defintions I quote:<br><h3 style=3D"ma=
+rgin-left:40px">4. Absence of Technological Restriction</h3>
+
+<p style=3D"margin-left:40px">The work must be provided in such a form that=
+ there are no=20
+technological obstacles to the performance of the above activities. This
+ can be achieved by the provision of the work in an open data format,=20
+i.e. one whose specification is publicly and freely available and which=20
+places no restrictions monetary or otherwise upon its use.</p>I am not fami=
+liar with the details of what OCLC is releasing but it I would have thought=
+ the provider had a duty to make it possible to access all the content in s=
+ome way (dumps and iterators are the two things that come to mind). Do OCLC=
+ give an indication of how to get all the data? Because simply saying &quot=
+;our data is Open but you can&#39;t get it&quot; isn&#39;t really Open.<br>
+<br>I have some sympathy for data providers as I have had to create a set o=
+f crawlers to download Open Data that I have collected. It&#39;s a non-triv=
+ial problem.<br><br></div><blockquote class=3D"gmail_quote" style=3D"margin=
+:0pt 0pt 0pt 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"=
+>
+
+<br>
+Mathias<br>
+<br>
+_______________________________________________<br>
+open-bibliography mailing list<br>
+<a href=3D"mailto:open-bibliography at lists.okfn.org">open-bibliography at lists=
+.okfn.org</a><br>
+<a href=3D"http://lists.okfn.org/mailman/listinfo/open-bibliography" target=
+=3D"_blank">http://lists.okfn.org/mailman/listinfo/open-bibliography</a><br=
+>
+</blockquote></div><br><br clear=3D"all"><br>-- <br>Peter Murray-Rust<br>Re=
+ader in Molecular Informatics<br>Unilever Centre, Dep. Of Chemistry<br>Univ=
+ersity of Cambridge<br>CB2 1EW, UK<br>+44-1223-763069<br>
+
+--f46d04182820de1f8204c337c057--
+
+
+From bogus@does.not.exist.com  Sun Dec 12 18:29:16 2010
+From: bogus@does.not.exist.com ()
+Date: Sun, 12 Dec 2010 18:29:16 -0000
+Subject: No subject
+Message-ID: <mailman.238.1345454622.30686.open-bibliography@lists.okfn.org>
+
+want "crowdcrafting" all the people participating in the project will build
+this project because it is important to them.
+
+In any case, maybe you will have to involve people in the later stages of
+your project for validating some data, so if you want, you could use
+PyBossa to do this. If you need more info about the project, let me know it=
+.
+
+Cheers,
+
+Daniel
+
+On Sat, Aug 18, 2012 at 11:38 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote=
+:
+
+> Thanks, Nathan.
+> No one is going to put pressure on you to do anything - but the
+> oppoertunity for jointly coalescing projects is there.
+>
+> On Sat, Aug 18, 2012 at 10:14 PM, Nathan Rice <
+> nathan.alexander.rice at gmail.com> wrote:
+>
+>>
+>> Wow, I'm surprised this has made its way around as much as it has.  I
+>> suppose if a project makes a jaded bioinformatics guy like me excited,
+>> it shouldn't surprise me that others would find it interesting too.
+>>
+>> There is huge potential in automation which is why it's exciting. I
+> realise I didn't answer your original question - see later.
+>
+> I'm still a little bit intimidated by the amount of work that will be
+>> involved in getting a really solid, fully automated pipeline.
+>
+>
+> Then take things at a pace that can be managed. No-one has to be a hero b=
+y
+> themselves.
+>
+>
+>> I'm
+>> trying to take it a step at a time.  I've almost finished a curated
+>> list of plants, experimental molecules and compounds, and I'm fine
+>> tuning the pubmed search code to reduce the initial signal to noise
+>> ratio.
+>>
+>
+> It may be that when you expose those you will find overlap with other
+> people.
+>
+>>
+>> I'm still not sure exactly how I want to go about selecting articles
+>> to use as the training data set for article filtration.  A manually
+>> curated list would probably work best, but given the number of
+>> features that are available, I expect that the training set would need
+>> to be at least 1,000 articles in size to get decent results.  This
+>> might just be one of those cases where I need to bite the bullet, put
+>> a large pot of coffee on, and get to work.
+>>
+>> To do content mining properly requires a considerable annotated corpus.
+> Generally it's split 3 ways - training, testing and validation. But such =
+a
+> corpus is very valuable. Unfortunately copyright normally means it can't =
+be
+> redistributed (I've had this fight with publishers). However that will
+> change as they realise that alienating the world won't work as they aren'=
+t
+> very competent totalitarians.
+>
+>
+>> >   - PDF hacking (I have done a lot of this but we need more. Open font
+>> info.
+>> > Postscript reconstruction
+>>
+>> I have played with this a bit, one issue that is frustrating is many
+>> PDFanalysis tools will randomly insert spaces due to font kerning, and
+>> will order text based on vertical position on the page, rather than
+>> preserving column order.  If there is a PDF text extraction tool that
+>> doesn't do these I would love to know.
+>>
+>
+> I work with PDFBox and pull this out character by character. I throw away
+> all sequential information and only use coordinates and font-size.  This
+> works pretty well for me. I can see some excessive kernings and ligatures
+> may defeat it but at present I suspect I get less than 1 spurious space p=
+er
+> 1000 chars. And remember we also have vocabularies to help tune this.
+>
+>>
+>>
+>> >   - shallow natural language processing and NPL resources (e.g. vocabs=
+,
+>> > character sets)
+>> >   - classification techniques (e.g. Lucene/Solr) for text and diagrams
+>> >
+>> > I think if we harness all these we will have a large step change in th=
+e
+>> > automation of extraction of scientific information from "the
+>> literature".
+>> >
+>> > And one-by-one the publishers will come to us because they will need u=
+s.
+>>
+>> It is really a shame that metadata isn't more standardized for journal
+>> articles.
+>
+>
+> We have been addressing this in the Open biblio project(s). BibJSON acts
+> as an unofficial normalization of article metadata. If you mean
+> domain-specific metadata then we have to do this ourselves - and I am
+> confident we can - it will be better than keywords (I have little faith i=
+n
+> them)
+>
+>
+>>  Pubmed MeSH terms and chemical lists are OK but there is so
+>> much more that could be annotated for the article.
+>>
+>> I am very interested in generic classifiers at this level.
+>
+>
+>
+>>  > Timescale - about 1 year to have something major to report - about 5
+>> years
+>> > to change the way scientific information is managed.
+>>
+>> Scientific articles seem like the perfect place for semantic metadata.
+>>  In particular, clinical trial articles should have a nice, standard
+>> set of metadata artifacts for computer analysis, since they are so
+>> cookie cutter.
+>>
+>
+> I looked at this 2-3 years ago - for clinical trials on nutrition. IIRC
+> the abstracts were very useful metadata - they were structured and used
+> standard-ish terms. I think they could be NLP'ed quite well.
+>
+>>
+>>
+>> I have actually already invested some of my (unfortunately scant)
+>> resources into having people go through mined pubmed articles and
+>> create metadata annotations.  Unfortunately, without a lot of machine
+>> learning input set filtration, this is going to cost at least
+>> $10,000-20,000 USD to finish for my purposes, and more every time the
+>> list is updated.  It would be much better to get really solid
+>> algorithms together so that nobody has to incur costs on this
+>> magnitude :)
+>>
+>
+> Ultimately humans have to validate the metadata. You need an
+> inter-annotator agreement. In chemistry we found that the maximum agreeme=
+nt
+> between expert human chemists was 93% for whether a phrase was a chemical
+> or not. Machines by definition cannot do better than this.
+>
+> It's tempting to develop crowdsourcing for annotation but it's important
+> that the crowd is part of the project, not just passive slaves.
+>
+>>
+>>
+>> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+--=20
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7
+http://github.com/teleyinex
+http://www.flickr.com/photos/teleyinex
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci=C3=B3n contenida en =C3=A9l.
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7
+
+--485b3918aed81aad3504c7ac7881
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi,<br><br>I think that Peter has raised several good points about human va=
+lidation and how they should not be treated like &quot;monkeys&quot; workin=
+g for the project :-)<br><br>From CCC we love to say that instead of crowds=
+ourcing a project what we want &quot;crowdcrafting&quot; all the people par=
+ticipating in the project will build this project because it is important t=
+o them.<br>
+
+<br>In any case, maybe you will have to involve people in the later stages =
+of your project for validating some data, so if you want, you could use PyB=
+ossa to do this. If you need more info about the project, let me know it.<b=
+r>
+
+<br>Cheers,<br><br>Daniel<br><br><div class=3D"gmail_quote">On Sat, Aug 18,=
+ 2012 at 11:38 PM, Peter Murray-Rust <span dir=3D"ltr">&lt;<a href=3D"mailt=
+o:pm286 at cam.ac.uk" target=3D"_blank">pm286 at cam.ac.uk</a>&gt;</span> wrote:<=
+br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+Thanks, Nathan.<br>No one is going to put pressure on you to do anything - =
+but the oppoertunity for jointly coalescing projects is there.<br><br><div =
+class=3D"gmail_quote"><div class=3D"im">On Sat, Aug 18, 2012 at 10:14 PM, N=
+athan Rice <span dir=3D"ltr">&lt;<a href=3D"mailto:nathan.alexander.rice at gm=
+ail.com" target=3D"_blank">nathan.alexander.rice at gmail.com</a>&gt;</span> w=
+rote:<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div><br>
+</div>Wow, I&#39;m surprised this has made its way around as much as it has=
+. =C2=A0I<br>
+suppose if a project makes a jaded bioinformatics guy like me excited,<br>
+it shouldn&#39;t surprise me that others would find it interesting too.<br>
+<div><br></div></blockquote></div><div>There is huge potential in automatio=
+n which is why it&#39;s exciting. I realise I didn&#39;t answer your origin=
+al question - see later. <br>
+<br>
+</div><div class=3D"im"><blockquote class=3D"gmail_quote" style=3D"margin:0=
+ 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">I&#39;m still a litt=
+le bit intimidated by the amount of work that will be<br>
+involved in getting a really solid, fully automated pipeline. =C2=A0</block=
+quote></div><div><br>Then take things at a pace that can be managed. No-one=
+ has to be a hero by themselves.<br>=C2=A0<br></div><div class=3D"im"><bloc=
+kquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #cc=
+c solid;padding-left:1ex">
+
+
+I&#39;m<br>
+trying to take it a step at a time. =C2=A0I&#39;ve almost finished a curate=
+d<br>
+list of plants, experimental molecules and compounds, and I&#39;m fine<br>
+tuning the pubmed search code to reduce the initial signal to noise<br>
+ratio.<br></blockquote></div><div><br>It may be that when you expose those =
+you will find overlap with other people. <br></div><div class=3D"im"><block=
+quote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc=
+ solid;padding-left:1ex">
+
+
+
+<br>
+I&#39;m still not sure exactly how I want to go about selecting articles<br=
+>
+to use as the training data set for article filtration. =C2=A0A manually<br=
+>
+curated list would probably work best, but given the number of<br>
+features that are available, I expect that the training set would need<br>
+to be at least 1,000 articles in size to get decent results. =C2=A0This<br>
+might just be one of those cases where I need to bite the bullet, put<br>
+a large pot of coffee on, and get to work.<br>
+<div><br></div></blockquote></div><div>To do content mining properly requir=
+es a considerable annotated corpus. Generally it&#39;s split 3 ways - train=
+ing, testing and validation. But such a corpus is very valuable. Unfortunat=
+ely copyright normally means it can&#39;t be redistributed (I&#39;ve had th=
+is fight with publishers). However that will change as they realise that al=
+ienating the world won&#39;t work as they aren&#39;t very competent totalit=
+arians.<br>
+
+
+=C2=A0</div><div class=3D"im"><blockquote class=3D"gmail_quote" style=3D"ma=
+rgin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div>
+&gt; =C2=A0 - PDF hacking (I have done a lot of this but we need more. Open=
+ font info.<br>
+&gt; Postscript reconstruction<br>
+<br>
+</div>I have played with this a bit, one issue that is frustrating is many<=
+br>
+PDFanalysis tools will randomly insert spaces due to font kerning, and<br>
+will order text based on vertical position on the page, rather than<br>
+preserving column order. =C2=A0If there is a PDF text extraction tool that<=
+br>
+doesn&#39;t do these I would love to know.<br></blockquote></div><div><br>I=
+ work with PDFBox and pull this out character by character. I throw away al=
+l sequential information and only use coordinates and font-size.=C2=A0 This=
+ works pretty well for me. I can see some excessive kernings and ligatures =
+may defeat it but at present I suspect I get less than 1 spurious space per=
+ 1000 chars. And remember we also have vocabularies to help tune this.<br>
+
+
+</div><div class=3D"im"><blockquote class=3D"gmail_quote" style=3D"margin:0=
+ 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<br><div><br>
+&gt; =C2=A0 - shallow natural language processing and NPL resources (e.g. v=
+ocabs,<br>
+&gt; character sets)<br>
+&gt; =C2=A0 - classification techniques (e.g. Lucene/Solr) for text and dia=
+grams<br>
+&gt;<br>
+&gt; I think if we harness all these we will have a large step change in th=
+e<br>
+&gt; automation of extraction of scientific information from &quot;the lite=
+rature&quot;.<br>
+&gt;<br>
+&gt; And one-by-one the publishers will come to us because they will need u=
+s.<br>
+<br>
+</div>It is really a shame that metadata isn&#39;t more standardized for jo=
+urnal<br>
+articles. </blockquote></div><div><br>We have been addressing this in the O=
+pen biblio project(s). BibJSON acts as an unofficial normalization of artic=
+le metadata. If you mean domain-specific metadata then we have to do this o=
+urselves - and I am confident we can - it will be better than keywords (I h=
+ave little faith in them) <br>
+
+
+=C2=A0<br></div><div class=3D"im"><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">=C2=A0Pu=
+bmed MeSH terms and chemical lists are OK but there is so<br>
+much more that could be annotated for the article.<br>
+<div><br></div></blockquote></div><div>I am very interested in generic clas=
+sifiers at this level.<br><br>=C2=A0</div><div class=3D"im"><blockquote cla=
+ss=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pa=
+dding-left:1ex">
+
+<div>
+
+&gt; Timescale - about 1 year to have something major to report - about 5 y=
+ears<br>
+&gt; to change the way scientific information is managed.<br>
+<br>
+</div>Scientific articles seem like the perfect place for semantic metadata=
+.<br>
+=C2=A0In particular, clinical trial articles should have a nice, standard<b=
+r>
+set of metadata artifacts for computer analysis, since they are so<br>
+cookie cutter.<br></blockquote></div><div><br>I looked at this 2-3 years ag=
+o - for clinical trials on nutrition. IIRC the abstracts were very useful m=
+etadata - they were structured and used standard-ish terms. I think they co=
+uld be NLP&#39;ed quite well.<br>
+
+
+</div><div class=3D"im"><blockquote class=3D"gmail_quote" style=3D"margin:0=
+ 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div><br>
+<br>
+</div>I have actually already invested some of my (unfortunately scant)<br>
+resources into having people go through mined pubmed articles and<br>
+create metadata annotations. =C2=A0Unfortunately, without a lot of machine<=
+br>
+learning input set filtration, this is going to cost at least<br>
+$10,000-20,000 USD to finish for my purposes, and more every time the<br>
+list is updated. =C2=A0It would be much better to get really solid<br>
+algorithms together so that nobody has to incur costs on this<br>
+magnitude :)<br></blockquote></div><div><br>Ultimately humans have to valid=
+ate the metadata. You need an inter-annotator agreement. In chemistry we fo=
+und that the maximum agreement between expert human chemists was 93% for wh=
+ether a phrase was a chemical or not. Machines by definition cannot do bett=
+er than this. <br>
+
+
+<br>It&#39;s tempting to develop crowdsourcing for annotation but it&#39;s =
+important that the crowd is part of the project, not just passive slaves.<b=
+r></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border=
+-left:1px #ccc solid;padding-left:1ex">
+
+
+
+<div><div><br><br></div></div></blockquote></div><div class=3D"HOEnZb"><div=
+ class=3D"h5">-- <br>Peter Murray-Rust<br>Reader in Molecular Informatics<b=
+r>Unilever Centre, Dep. Of Chemistry<br>University of Cambridge<br>CB2 1EW,=
+ UK<br>
+
+<a href=3D"tel:%2B44-1223-763069" value=3D"+441223763069" target=3D"_blank"=
+>+44-1223-763069</a><br>
+
+</div></div></blockquote></div><br><br clear=3D"all"><br>-- <br>=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7<br>
+
+<a href=3D"http://github.com/teleyinex" target=3D"_blank">http://github.com=
+/teleyinex</a><br><a href=3D"http://www.flickr.com/photos/teleyinex" target=
+=3D"_blank">http://www.flickr.com/photos/teleyinex</a><br>=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7<br>
+
+Por favor, NO utilice formatos de archivo propietarios para el<br>intercamb=
+io de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV<br>o cualqu=
+ier otro que no obligue a utilizar un programa de un<br>fabricante concreto=
+ para tratar la informaci=C3=B3n contenida en =C3=A9l.<br>
+
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=
+=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=C2=B7=
+=C2=B7=C2=B7=C2=B7=C2=B7<br>
+
+--485b3918aed81aad3504c7ac7881--
+
+

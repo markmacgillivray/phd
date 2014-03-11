@@ -1,0 +1,362 @@
+From mark at cottagelabs.com  Sun Nov  3 14:21:13 2013
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Sun, 3 Nov 2013 14:21:13 +0000
+Subject: [open-bibliography] [okfn-discuss] Permission request (license)
+In-Reply-To: <5276433C.9040309@sciunto.org>
+References: <CAFxzj8QYbQps09EnqT+fT_XX9Tw-V3OVasujgCCHXtWTX7p58w@mail.gmail.com>
+	<527626F4.9010601@sciunto.org>
+	<CAD2k14Pm5i8iTxGe630D6=c1mKCZo=WcQqybohYmyGS1gkHVMQ@mail.gmail.com>
+	<20131103.123159.169676167.ww@styx.org>
+	<5276433C.9040309@sciunto.org>
+Message-ID: <CAFxzj8S2xGPhc1AOqocH=M2SiAhZKsA00oPR4E3RH35j3+MBBw@mail.gmail.com>
+
+I did not originally start the repo, I think it was Rufus. I am not saying
+he chose that license, but it may just have been put in there at the start
+at some point - I do not believe there is an ideology behind it being
+there. I usually use MIT or copyheart. As I did probably write most of the
+code, I would be happy to change the licence to MIT if that is helpful at
+this stage. If anyone is against this, please say so this week. (I have
+copied this mail to the old open-bibliography and openbiblio-dev lists too,
+in case anyone on there has an opinion.)
+
+
+Mark
+
+
+
+
+On Sun, Nov 3, 2013 at 12:36 PM, Fran?ois Boulogne <fboulogne at sciunto.org>wrote:
+
+> Le 03/11/2013 07:31, William Waites a ?crit :
+> >     > give these rights and grant them to you.
+> >
+> > LGPL for a library and not BSD, right?
+> >
+> >
+>
+> I switched to LGPL. LGPL is fine for me, and I prefer FSF's licenses.
+>
+> --
+> Fran?ois Boulogne.
+> http://www.sciunto.org
+> GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20131103/983f1cef/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Nov  3 14:28:31 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 3 Nov 2013 14:28:31 +0000
+Subject: [open-bibliography] [okfn-discuss] Permission request (license)
+In-Reply-To: <CAFxzj8S2xGPhc1AOqocH=M2SiAhZKsA00oPR4E3RH35j3+MBBw@mail.gmail.com>
+References: <CAFxzj8QYbQps09EnqT+fT_XX9Tw-V3OVasujgCCHXtWTX7p58w@mail.gmail.com>
+	<527626F4.9010601@sciunto.org>
+	<CAD2k14Pm5i8iTxGe630D6=c1mKCZo=WcQqybohYmyGS1gkHVMQ@mail.gmail.com>
+	<20131103.123159.169676167.ww@styx.org>
+	<5276433C.9040309@sciunto.org>
+	<CAFxzj8S2xGPhc1AOqocH=M2SiAhZKsA00oPR4E3RH35j3+MBBw@mail.gmail.com>
+Message-ID: <CAD2k14PkOViT6bg-j_cN6NfJsp7-NHMy+w4ofxS80U8WxxjJ2Q@mail.gmail.com>
+
+I support this. LGPL is somewhat more restrictive than MIT - I have had
+problems in the past where companies were unhappy with an LGPL library
+because they had to use static linking which was a performance/distrib hit.
+(I was a contributor to a larger system and the licence wasn't my choice).
+
+Francois, a thought. We would be delighted if you were able to post/blog
+your use case (e.g. on open-bibliography) in case anyone would be able to
+use it or contribute.
+
+
+
+
+On Sun, Nov 3, 2013 at 2:21 PM, Mark MacGillivray <mark at cottagelabs.com>wrote:
+
+> I did not originally start the repo, I think it was Rufus. I am not saying
+> he chose that license, but it may just have been put in there at the start
+> at some point - I do not believe there is an ideology behind it being
+> there. I usually use MIT or copyheart. As I did probably write most of the
+> code, I would be happy to change the licence to MIT if that is helpful at
+> this stage. If anyone is against this, please say so this week. (I have
+> copied this mail to the old open-bibliography and openbiblio-dev lists too,
+> in case anyone on there has an opinion.)
+>
+>
+> Mark
+>
+>
+>
+>
+> On Sun, Nov 3, 2013 at 12:36 PM, Fran?ois Boulogne <fboulogne at sciunto.org>wrote:
+>
+>> Le 03/11/2013 07:31, William Waites a ?crit :
+>> >     > give these rights and grant them to you.
+>> >
+>> > LGPL for a library and not BSD, right?
+>> >
+>> >
+>>
+>> I switched to LGPL. LGPL is fine for me, and I prefer FSF's licenses.
+>>
+>> --
+>> Fran?ois Boulogne.
+>> http://www.sciunto.org
+>> GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+>>
+>>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20131103/733d81cd/attachment.htm>
+
+From tfmorris at gmail.com  Sun Nov  3 22:20:03 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Sun, 3 Nov 2013 17:20:03 -0500
+Subject: [open-bibliography] [okfn-discuss] Permission request (license)
+In-Reply-To: <CAFxzj8S2xGPhc1AOqocH=M2SiAhZKsA00oPR4E3RH35j3+MBBw@mail.gmail.com>
+References: <CAFxzj8QYbQps09EnqT+fT_XX9Tw-V3OVasujgCCHXtWTX7p58w@mail.gmail.com>
+	<527626F4.9010601@sciunto.org>
+	<CAD2k14Pm5i8iTxGe630D6=c1mKCZo=WcQqybohYmyGS1gkHVMQ@mail.gmail.com>
+	<20131103.123159.169676167.ww@styx.org>
+	<5276433C.9040309@sciunto.org>
+	<CAFxzj8S2xGPhc1AOqocH=M2SiAhZKsA00oPR4E3RH35j3+MBBw@mail.gmail.com>
+Message-ID: <CAE9vqEGZ73sT-2GSD1rW_A3u3SXTcYXSb=4XiBaePFEvqr4Qtg@mail.gmail.com>
+
+For those on open-bibliography who missed the original thread, it is here:
+
+http://lists.okfn.org/pipermail/okfn-discuss/2013-November/009922.html
+
+Tom
+
+On Sun, Nov 3, 2013 at 9:21 AM, Mark MacGillivray <mark at cottagelabs.com>wrote:
+
+> I did not originally start the repo, I think it was Rufus. I am not saying
+> he chose that license, but it may just have been put in there at the start
+> at some point - I do not believe there is an ideology behind it being
+> there. I usually use MIT or copyheart. As I did probably write most of the
+> code, I would be happy to change the licence to MIT if that is helpful at
+> this stage. If anyone is against this, please say so this week. (I have
+> copied this mail to the old open-bibliography and openbiblio-dev lists too,
+> in case anyone on there has an opinion.)
+>
+>
+> Mark
+>
+>
+>
+>
+> On Sun, Nov 3, 2013 at 12:36 PM, Fran?ois Boulogne <fboulogne at sciunto.org>wrote:
+>
+>> Le 03/11/2013 07:31, William Waites a ?crit :
+>> >     > give these rights and grant them to you.
+>> >
+>> > LGPL for a library and not BSD, right?
+>> >
+>> >
+>>
+>> I switched to LGPL. LGPL is fine for me, and I prefer FSF's licenses.
+>>
+>> --
+>> Fran?ois Boulogne.
+>> http://www.sciunto.org
+>> GPG fingerprint: 25F6 C971 4875 A6C1 EDD1  75C8 1AA7 216E 32D5 F22F
+>>
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20131103/d2168ed6/attachment.htm>
+
+From adrian.pohl at okfn.org  Mon Nov  4 19:59:18 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 4 Nov 2013 20:59:18 +0100
+Subject: [open-bibliography] Virtual meeting will be next week, 2013-11-12,
+	16:00 GMT
+Message-ID: <CAOtd05F5HwfzykNX70FB1GyE1n3GB2KcyM9JOYAL+NFaM7KXKw@mail.gmail.com>
+
+Hello,
+
+as I am not able to moderate the meeting tomorrow, I have to postpone
+this month's meeting. It will happen next Tuesday, 12th of November at
+16:00 GMT.
+
+See http://pad.okfn.org/p/35th-open-bibliography-meeting for
+details.Please add relevant activities and developments you want to
+report on to the etherpad.
+
+All the best
+Adrian
+
+
+From pohl at hbz-nrw.de  Tue Nov  5 14:13:24 2013
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Tue, 05 Nov 2013 15:13:24 +0100
+Subject: [open-bibliography] REMINDER: SWIB - Semantic Web in Libraries /
+ 25.-27.11. in Hamburg
+Message-ID: <52790B140200001400053616@agrippa.hbz-nrw.de>
+
+In a few weeks the doors to the international conference SWIB ?
+Semantic Web in Libraries 2013 will open for the 5th time.
+If you have not had a chance yet to take a look at this year's
+programme, I briefly present the highlights to you here:
+
+- varied programme with workshops, community meetings, keynotes,
+lectures and lightning talks
+- pre-conference workshops
+- keynotes: D. Salo (Wisconsin University), M. Malmsten (National
+Library of Sweden)
+- ?16 further talks of international experts from the US, Greece, UK,
+Finland, Sweden, France, Hungary, Germany and Spain
+
+You can find the complete programme on our website:
+http://swib.org/swib13/programme.php
+
+I would be very glad to welcome you in Hamburg on 25th November.
+Incidentally, there are only a few places left in the workshops . You
+can register here: http://swib.org/swib13/general_information.php
+
+All the best
+Adrian
+
+
+Adrian Pohl
+- Linked Open Data -
+hbz - Hochschulbibliothekszentrum des Landes NRW
+Tel: (+49)(0)221 - 400 75 235
+http://www.hbz-nrw.de
+
+
+
+
+From adrian.pohl at okfn.org  Mon Nov 11 09:29:23 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 11 Nov 2013 10:29:23 +0100
+Subject: [open-bibliography] Meeting cancelled! Re: Virtual meeting will be
+ next week, 2013-11-12, 16:00 GMT
+Message-ID: <CAOtd05EgjnLpHCk8_5Oe-nyZ_dRWujSD8G6FUn=WM9zTKWQViQ@mail.gmail.com>
+
+I have some other obligation tomorrow that came in on short notice.
+
+Thus, the meeting will be cancelled. The next meeting will be on
+December 3rd. I edited the etherpad accordingly.
+
+- Adrian
+
+On 4 November 2013 20:59, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> as I am not able to moderate the meeting tomorrow, I have to postpone
+> this month's meeting. It will happen next Tuesday, 12th of November at
+> 16:00 GMT.
+>
+> See http://pad.okfn.org/p/35th-open-bibliography-meeting for
+> details.Please add relevant activities and developments you want to
+> report on to the etherpad.
+>
+> All the best
+> Adrian
+
+
+From announce at dublincore.net  Wed Nov 13 11:35:10 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Wed, 13 Nov 2013 03:35:10 -0800
+Subject: [open-bibliography] NISO/DCMI Webinar with Thomas Hickey:
+	Cooperative Authority Control
+Message-ID: <CAP884ExfK3NZCFBOMqh7u5-OE9LwkTTxqA2UhAksUSwqK49OKA@mail.gmail.com>
+
+***Please excuse the cross-posting***
+
+===============================================================
+NISO/DCMI Webinar: Cooperative Authority Control
+PRESENTER: Thomas Hickey, OCLC Research
+
+DATE: December 4, 2013
+TIME: 1:00pm - 2:30pm Eastern (18:00-19:30 UTC) World Clock:
+http://bit.ly/1aRZlbz
+INFORMATION & REGISTRATION:
+http://www.niso.org/news/events/2013/dcmi/authority/
+===============================================================
+
+ABOUT THE WEBINAR:
+
+Libraries around the world have a long tradition of maintaining authority
+files to assure the consistent presentation and indexing of names. As
+library authority files have become available online, the authority data
+has become accessible -- and many have been published as Linked Open Data
+(LOD) -- but names in one library authority file typically had no link to
+corresponding records for persons and organizations in other library
+authority files. After a successful experiment in matching the Library of
+Congress/NACO authority file with the German National Library's authority
+file, an online system called the Virtual International Authority File
+(VIAF) [1] was developed to facilitate sharing by ingesting, matching, and
+displaying the relations between records in multiple authority files.
+
+VIAF has grown from three source files in 2007 to more than two dozen files
+today. The system harvests authority records, enhances them with
+bibliographic information and brings them together into clusters when it is
+confident the records describe the same identity. Although the most visible
+part of VIAF is a HTML interface, the API beneath it supports a linked data
+view of VIAF with URIs representing the identities themselves, not just
+URIs for the clusters. It supports names for person, corporations,
+geographic entities, works, and expressions. With English, French, German,
+Spanish interfaces (and a Japanese in process), the system is used around
+the world, with over a million queries per day.
+
+The service harvests some 30 million authority records, enhances them with
+information from 100 million bibliographic records to produce a file of 20+
+million clusters, each representing a person, organization, jurisdiction,
+work, or expression. In addition to supporting a Web browser HTML
+interface, the API to VIAF supports content negotiation for other views,
+such as RDF-XML and MARC-21. Bulk dumps of the VIAF clusters are available
+under the ODC-By attribution license.
+
+The Webinar will cover some of the challenges VIAF meets in dealing with
+many different formats and approaches to describing identities, the
+relationship of VIAF to the source authority files, to other identity
+systems such as ORCID and ISNI, VIAF's approach to sustainability,
+governance and persistence, and how ambiguity is recognized and managed.
+
+ABOUT THE SPEAKER:
+
+Thomas Hickey [2] is Chief Scientist at OCLC where he helped found OCLC
+Research. Current interests include metadata creation and editing systems,
+authority control, parallel systems for bibliographic processing, and
+information retrieval and display. In addition to implementing VIAF, his
+group looks into exploring Web access to metadata, identification of FRBR
+works and expressions in WorldCat, the algorithmic creation of authorities,
+and the characterization of collections. He has an undergraduate degree in
+Physics and a Ph.D. in Library and Information Science.
+
+REGISTRATION:
+
+Registration is per site (access for one computer) and closes at 12:00 pm
+Eastern (17:00 UTC) on December 4, 2013. Discounts are available for NISO
+and DCMI members and students.
+
+For more information and to register, visit the event webpage:
+http://www.niso.org/news/events/2013/dcmi/authority/
+===============================================================
+
+[1] http://viaf.org/
+[2] http://www.oclc.org/research/people/hickeyt.html
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20131113/e0f387c7/attachment.html>
+

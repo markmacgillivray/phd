@@ -1,0 +1,217 @@
+From adrian.pohl at okfn.org  Tue Dec  4 09:37:58 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 4 Dec 2012 10:37:58 +0100
+Subject: [open-bibliography] Virtual Meeting to be postponed
+Message-ID: <CAOtd05Hq3R99LowNoBMt7N6AnFQmTKdZeQXYpDungSemgD+bUg@mail.gmail.com>
+
+Hello,
+
+today the group's monthly virtual meeting should take place.
+Unfortunately, I am sick and won't be able to host the meeting today.
+
+I propose postponing the meeting to next Tuesday, December 11th, 16:00
+GMT (see http://is.gd/openbibliomeeting27 for your local time). As
+usual, I've set up an etherpad for writing up the agenda:
+http://okfnpad.org/27th-open-bibliography-meeting
+
+All the best
+Adrian
+
+
+From kcoyle at kcoyle.net  Tue Dec  4 13:15:28 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 04 Dec 2012 05:15:28 -0800
+Subject: [open-bibliography] Virtual Meeting to be postponed
+In-Reply-To: <CAOtd05Hq3R99LowNoBMt7N6AnFQmTKdZeQXYpDungSemgD+bUg@mail.gmail.com>
+References: <CAOtd05Hq3R99LowNoBMt7N6AnFQmTKdZeQXYpDungSemgD+bUg@mail.gmail.com>
+Message-ID: <50BDF770.3040108@kcoyle.net>
+
+I have another meeting at that time. Is anyone open for a different day?
+
+kc
+
+On 12/4/12 1:37 AM, Adrian Pohl wrote:
+> Hello,
+>
+> today the group's monthly virtual meeting should take place.
+> Unfortunately, I am sick and won't be able to host the meeting today.
+>
+> I propose postponing the meeting to next Tuesday, December 11th, 16:00
+> GMT (see http://is.gd/openbibliomeeting27 for your local time). As
+> usual, I've set up an etherpad for writing up the agenda:
+> http://okfnpad.org/27th-open-bibliography-meeting
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From adrian.pohl at okfn.org  Tue Dec 11 07:56:41 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 11 Dec 2012 08:56:41 +0100
+Subject: [open-bibliography] Today's meeting cancelled was: Re: Virtual
+ Meeting to be postponed
+Message-ID: <CAOtd05FPQfvkQy_VNxscXTu6ru9ekgk_sHBPyku5TG7roN79dA@mail.gmail.com>
+
+As by now my partner is sick, I will have to fetch the children this
+afternoon and - again - won't be able to host the call.
+
+Karen suggested another day, but I am not able to have the meeting on
+another day before christmas. So we the next meeting will take place
+next year, on 8th of January. I'll update the etherpad accordingly.
+
+All the best
+Adrian
+
+On 4 December 2012 14:15, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> I have another meeting at that time. Is anyone open for a different day?
+>
+> kc
+>
+>
+> On 12/4/12 1:37 AM, Adrian Pohl wrote:
+>>
+>> Hello,
+>>
+>> today the group's monthly virtual meeting should take place.
+>> Unfortunately, I am sick and won't be able to host the meeting today.
+>>
+>> I propose postponing the meeting to next Tuesday, December 11th, 16:00
+>> GMT (see http://is.gd/openbibliomeeting27 for your local time). As
+>> usual, I've set up an etherpad for writing up the agenda:
+>> http://okfnpad.org/27th-open-bibliography-meeting
+>>
+>> All the best
+>> Adrian
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+
+
+From leighman-okfn at gmx.com  Wed Dec 12 13:51:11 2012
+From: leighman-okfn at gmx.com (Jack Leigh)
+Date: Wed, 12 Dec 2012 14:51:11 +0100
+Subject: [open-bibliography] Simple bibliography
+Message-ID: <20121212135112.252070@gmx.com>
+
+Dear all,
+
+We are trying to set up an online bibliography for the Converting the Isle project (http://www.asnc.cam.ac.uk/conversion/) and would like it to be easy to format, update, search by tags etc.
+Does anyone have any advice on a system for this?
+Zotero seems like the way to go as the use-case is quite simple. How does eg. the HTML export from Zotero shape up?
+I had a look at bibserver but it seems far too heavyweight and couldn't find a way to edit existing collections, only add new ones.
+
+Anyone done similar?
+
+Thanks,
+Jack
+
+
+From kcoyle at kcoyle.net  Wed Dec 12 15:34:26 2012
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 12 Dec 2012 07:34:26 -0800
+Subject: [open-bibliography] Simple bibliography
+In-Reply-To: <20121212135112.252070@gmx.com>
+References: <20121212135112.252070@gmx.com>
+Message-ID: <50C8A402.2000308@kcoyle.net>
+
+Jack, what types of materials will have in your bibliography? e.g. 
+books, articles, photographs? Have you looked at Mendeley, which can 
+create an HTML page (but I haven't played with it much).
+
+kc
+
+On 12/12/12 5:51 AM, Jack Leigh wrote:
+> Dear all,
+>
+> We are trying to set up an online bibliography for the Converting the Isle project (http://www.asnc.cam.ac.uk/conversion/) and would like it to be easy to format, update, search by tags etc.
+> Does anyone have any advice on a system for this?
+> Zotero seems like the way to go as the use-case is quite simple. How does eg. the HTML export from Zotero shape up?
+> I had a look at bibserver but it seems far too heavyweight and couldn't find a way to edit existing collections, only add new ones.
+>
+> Anyone done similar?
+>
+> Thanks,
+> Jack
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From tfmorris at gmail.com  Wed Dec 12 15:42:27 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Wed, 12 Dec 2012 10:42:27 -0500
+Subject: [open-bibliography] Simple bibliography
+In-Reply-To: <20121212135112.252070@gmx.com>
+References: <20121212135112.252070@gmx.com>
+Message-ID: <CAE9vqEFq_U5z2msJnmN+876Lnr9DeiEvNFyNDSXWBYHz7h9pPg@mail.gmail.com>
+
+On Wed, Dec 12, 2012 at 8:51 AM, Jack Leigh <leighman-okfn at gmx.com> wrote:
+
+> Dear all,
+>
+> We are trying to set up an online bibliography for the Converting the Isle
+> project (http://www.asnc.cam.ac.uk/conversion/) and would like it to be
+> easy to format, update, search by tags etc.
+> Does anyone have any advice on a system for this?
+> Zotero seems like the way to go as the use-case is quite simple. How does
+> eg. the HTML export from Zotero shape up?
+> I had a look at bibserver but it seems far too heavyweight and couldn't
+> find a way to edit existing collections, only add new ones.
+
+
+Mendeley is another reference/bibliography manager which is popular.  There
+are a number of comparisons of Zotero vs Mendeley (and often EndNote)
+around the web, but they tend to get dated as the packages evolve.  Here's
+one: http://hlwiki.slais.ubc.ca/index.php/Zotero_vs._Mendeley but since it
+was written Zotero has added duplicate detection/merging and Mendeley has
+added support for CSL so you can create your own citation styles (or better
+yet, reuse someone elses).
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20121212/9a23278d/attachment.htm>
+

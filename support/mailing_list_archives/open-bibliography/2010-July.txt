@@ -1,0 +1,4922 @@
+From owen at ostephens.com  Thu Jul  1 12:24:02 2010
+From: owen at ostephens.com (Owen Stephens)
+Date: Thu, 1 Jul 2010 12:24:02 +0100
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>
+	<AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com>
+Message-ID: <AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com>
+
+Thanks Tom,
+
+Hi Owen.  The purpose of the exercise that Anne is driving is to fine
+> tune the Freebase type descriptions to match the actual usage, not
+> make substantive changes.  What you're seeing is reflective of the
+> scheme that's in use today.
+>
+Thanks for clarifying - that's useful to know.
+
+
+> On Wed, Jun 30, 2010 at 4:12 AM, Owen Stephens <owen at ostephens.com> wrote:
+>
+> > I have to admit that I think the definition of 'book' given here is
+> slightly
+> > confusing as it takes a commonly used term and defines it as something
+> > different.
+>
+> To some degree this is inevitable, because common usage is to use the
+> term "book" to mean at least a couple of different things.  People use
+> it to mean both the author's work as well the particular editor or
+> copy in our library.  Another possible choice would be to avoid the
+> use of the term altogether since it's potentially confusing, but I
+> think it provides a useful anchor to help orient people.  They want
+> information on "books" not "works" or "manifestations."
+>
+>
+Agreed that book is not an unambiguous term even in daily usage, and also
+agreed that most people find it helpful to think about 'books' and dropping
+the term would be more confusing.
+
+Probably my main concern is (as noted in my previous mail) that the first
+part of the definition 'A book is a written work or a collection of written
+works in book form.', is contradicted by other parts of the definition.
+
+
+From william.waites at okfn.org  Thu Jul  1 12:33:59 2010
+From: william.waites at okfn.org (William Waites)
+Date: Thu, 01 Jul 2010 07:33:59 -0400
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>	<AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com>
+	<AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com>
+Message-ID: <4C2C7D27.60201@okfn.org>
+
+On 10-07-01 07:24, Owen Stephens wrote:
+>
+> Agreed that book is not an unambiguous term even in daily usage, and
+> also agreed that most people find it helpful to think about 'books'
+> and dropping the term would be more confusing.
+>
+> Probably my main concern is (as noted in my previous mail) that the
+> first part of the definition 'A book is a written work or a collection
+> of written works in book form.', is contradicted by other parts of the
+> definition.
+
+One of the nice things about FRBR is it is not limited to Works
+in book form -- it can include musical recordings, paintings,
+and other things that are not normally considered to be books
+and would be confusing if they were called books. I think that
+Work is sufficiently clear and that it is not unnatural for people
+to think of books as works.
+
+Beyond that, if we want to get deeper into using OWL perhaps
+it is appropriate to do something like,
+
+:Work a owl:Class .
+:Book owl:subClassOf :Work .
+:Performance owl:subClassOf :Work .
+:Painting owl:subClassOf :Work .
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100701/f40ef127/attachment.htm>
+
+From tim at librarything.com  Thu Jul  1 17:24:06 2010
+From: tim at librarything.com (Tim Spalding)
+Date: Thu, 1 Jul 2010 12:24:06 -0400
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <4C2C7D27.60201@okfn.org>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com> 
+	<AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com> 
+	<AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com> 
+	<4C2C7D27.60201@okfn.org>
+Message-ID: <AANLkTinft59oq2b9DZYbwI1r56HW7keEGHBsQeAmirR7@mail.gmail.com>
+
+For what it's worth, I think people can err in setting up a
+hard-and-fast system. The library world loves binary systems and
+deciding things at the start, not down the road.
+
+For example, a book either does or does not get the LCSH "Man-Woman
+Relations." This is strange, as about 90% of literature involves
+man-woman relationships to some degree or another. (Tagging, which
+allows for degree, is an improvement in this respect.) I would argue
+this sort of relationship has more to do with the physical constraints
+of catalog cards than anything else.
+
+This idea was extended to FRBR, which involves another set of binary
+understandings about relationships. The real world is much more
+nuanced. We have, for example, two basic texts of Hamlet, with neither
+one being original or the "parent" of the other. The history of works
+on LibraryThing is replete with more recent examples. The relationship
+between two books is a matter of degree, perspective and intended use.
+
+LibraryThing's solution is to have two layers. The first is a catalog
+layer, in which things are stored atomically and almost without
+schema. The second is a global layer, which either bubbles up from the
+catalog data or is imposed upon it. Either way, the global layer is
+understood to be a convenient abstraction, and susceptible to change.
+We should remember that classification is largely about imposing
+structure for a purpose, not finding structure and telling the truth
+about it.
+
+The digital world allows for a richer conception. So it's a shame
+library science and the semantic web people are too often drawn to
+arrows, trees and buckets.
+
+Tim
+
+
+From ockerblo at pobox.upenn.edu  Thu Jul  1 17:56:25 2010
+From: ockerblo at pobox.upenn.edu (John Mark Ockerbloom)
+Date: Thu, 01 Jul 2010 12:56:25 -0400
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <AANLkTinft59oq2b9DZYbwI1r56HW7keEGHBsQeAmirR7@mail.gmail.com>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>
+	<AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com>
+	<AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com>
+	<4C2C7D27.60201@okfn.org>
+	<AANLkTinft59oq2b9DZYbwI1r56HW7keEGHBsQeAmirR7@mail.gmail.com>
+Message-ID: <4C2CC8B9.3000408@pobox.upenn.edu>
+
+On 07/01/2010 12:24 PM, Tim Spalding wrote:
+> For what it's worth, I think people can err in setting up a
+> hard-and-fast system. The library world loves binary systems and
+> deciding things at the start, not down the road.
+>
+> For example, a book either does or does not get the LCSH "Man-Woman
+> Relations." This is strange, as about 90% of literature involves
+> man-woman relationships to some degree or another. (Tagging, which
+> allows for degree, is an improvement in this respect.) I would argue
+> this sort of relationship has more to do with the physical constraints
+> of catalog cards than anything else.
+
+Even outside the constraints of catalog cards, it's often considered
+a good idea to leave out "Man-woman relationships" or other subject
+descriptors that cover a large portion of a collection, in order to
+prevent overload when people go looking for books under that heading.
+
+I didn't take formal cataloger training, but my understand is that
+traditionally, you're only supposed to add a subject heading when it's
+both a primary and a distinctive characteristic of a work, as opposed
+to something that just happens to be featured in it at some level.
+The idea is that, when you look up the heading, you should find the books
+that are most centrally and definitively about man-women relationships
+in your collection, not all the books in your collection that happen
+to include men and women relating to each other somewhere in the text.
+You can see the usefulness of this kind of policy if you're specifically
+trying to do focused research on a previously defined topic.
+
+This is a different use case than you often see in tag-based browsing,
+though, where the purpose of subject descriptors isn't so much to
+draw your attention to a particular focus, but instead to filter
+a large collection into a smaller collection.  (In browsing scenarios
+like this, you're not asking "show me the books most concerned with
+man-woman relationships", but instead "show me your collection,
+filtering out the books that *don't* deal at all
+with man-women relationships".)
+
+Of course, in social systems like LibraryThing, you can also draw
+attention to particular places in that filter via tag frequencies.  But
+that might not quite what a scholarly researcher wants.  "Show me the
+books that the most people have associated with man-woman relationships"
+tends to filter for popularity more than "show me the books that
+are *concerned* most with man-woman relationships".  ("Relationships" might
+not be the best example, because this topic is a bit diffuse to begin
+with; but the difference is starker when you have a topic that's
+featured briefly in many popular works, but deeply in only a few,
+more obscure works.)
+
+So there really are two subtly different purposes for subject descriptors
+in large catalogs.  Moreover, the "distinctiveness" criterion in the
+traditional purpose is *necessarily* dependent on the collection that
+it's in; what's distinctive in one collection may be completely commomplace
+in another.
+
+One consequence of this is that if you're trying to compose together a large
+open collection from a bunch of smaller pre-existing collections, you're
+going to have to deal sensibly with the different purposes and contexts
+where subject headings have been assigned.  And, hopefully, try to come
+up with workable strategies and policies going forward.
+
+John Mark Ockerbloom
+
+
+From kcoyle at kcoyle.net  Thu Jul  1 18:42:45 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 01 Jul 2010 10:42:45 -0700
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <4C2CC8B9.3000408@pobox.upenn.edu>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com>
+	<AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com>
+	<AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com>
+	<4C2C7D27.60201@okfn.org>
+	<AANLkTinft59oq2b9DZYbwI1r56HW7keEGHBsQeAmirR7@mail.gmail.com>
+	<4C2CC8B9.3000408@pobox.upenn.edu>
+Message-ID: <20100701104245.69lmm1zekg8ocwcs@kcoyle.net>
+
+Quoting John Mark Ockerbloom <ockerblo at pobox.upenn.edu>:
+
+>
+> Even outside the constraints of catalog cards, it's often considered
+> a good idea to leave out "Man-woman relationships" or other subject
+> descriptors that cover a large portion of a collection, in order to
+> prevent overload when people go looking for books under that heading.
+
+I see this as presenting problems for federated searching. Less so for  
+books but definitely for journal articles, the context provides some  
+subject clues. I would guess that the Journal of Microbiology doesn't  
+tag all of its articles with the term "microbiology" since that is  
+assumed. But if you combine this journal with many others and do a  
+search on "microbiology" you may miss all of the ones in this journal.
+
+To me, this is not a fault so much of indexing but of the concept of  
+searching -- that we enter one or more search terms and get back a  
+result set, as if that is sufficient to define your area of interest.  
+In fact, you might be interested in the intersection of a number of  
+different topics, something searching doesn't really facilitate. I  
+might want man-woman relationships combined with microbiology or  
+whaling, but it's not easy to get there given what we have in our  
+metadata. We need to be able to navigate fuzzy sets, oddball  
+connections, and the interesting outlooks of other readers. This means  
+that we need to connect man-woman relationships to all of the works  
+where that is relevant, so that I can navigate that aspect of the work  
+in combination with others. I think the use of facets helps with this;  
+helps us chunk and refine and follow.
+
+kc
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ross.singer at talis.com  Thu Jul  1 22:00:13 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Thu, 1 Jul 2010 17:00:13 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+Message-ID: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+
+Hi everybody,
+
+I just wanted to let people know I've made the MARC codes for forms of
+musical compositions (
+http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+http://purl.org/ontology/mo/Genres.
+
+http://purl.org/NET/marccodes/muscomp/
+
+They follow the same naming convention as they would in the MARC 008 or 047,
+so it's easy to map (that is, no lookup needed) from your MARC data:
+
+http://purl.org/NET/marccodes/muscomp/sy#genre
+
+etc.
+
+The RDF is available as well:
+http://purl.org/NET/marccodes/muscomp/sy.rdf
+
+
+I'd love any feedback/suggestions/corrections/etc.
+
+Also, you can look around to see MARC country codes, geographic area codes
+and language codes.  Eventually I would like to get all of the MARC codes
+(not already modeled by LC) in there (
+http://www.loc.gov/standards/valuelist/).
+
+Thanks,
+-Ross.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100701/dc41ed57/attachment-0001.htm>
+
+From cjg at ecs.soton.ac.uk  Thu Jul  1 22:48:22 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Thu, 01 Jul 2010 22:48:22 +0100
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+References: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+	<4C2D0D25.1050508@ecs.soton.ac.uk>
+Message-ID: <EMEW3|8bca13f1b8287407af047ca400072a8dm60Mnd03cjg|ecs.soton.ac.uk|4C2D0D25.1050508@ecs.soton.ac.uk>
+
+Wow, all the best music I own is zz, nn or mu.
+
+** sulks away to listen to John Cage's 4'33 at maximum volume.
+
+Ross Singer wrote:
+> Hi everybody,
+>
+> I just wanted to let people know I've made the MARC codes for forms of 
+> musical compositions 
+> (http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as 
+> http://purl.org/ontology/mo/Genres.
+>
+> http://purl.org/NET/marccodes/muscomp/
+>
+> They follow the same naming convention as they would in the MARC 008 
+> or 047, so it's easy to map (that is, no lookup needed) from your MARC 
+> data:
+>
+> http://purl.org/NET/marccodes/muscomp/sy#genre
+>
+> etc.
+>
+> The RDF is available as well:
+> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>
+>
+> I'd love any feedback/suggestions/corrections/etc.
+>
+> Also, you can look around to see MARC country codes, geographic area 
+> codes and language codes.  Eventually I would like to get all of the 
+> MARC codes (not already modeled by LC) in there 
+> (http://www.loc.gov/standards/valuelist/).
+>
+> Thanks,
+> -Ross.
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>   
+
+-- 
+Christopher Gutteridge -- http://id.ecs.soton.ac.uk/person/1248
+
+/ Lead Developer, EPrints Project, http://eprints.org/
+/ Web Projects Manager, ECS, University of Southampton, http://www.ecs.soton.ac.uk/
+/ Webmaster, Web Science Trust, http://www.webscience.org/
+
+
+
+From tim at librarything.com  Fri Jul  2 07:47:57 2010
+From: tim at librarything.com (Tim Spalding)
+Date: Fri, 2 Jul 2010 02:47:57 -0400
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <4C2CC8B9.3000408@pobox.upenn.edu>
+References: <ED901A1E-AC1C-4D89-A8FB-25F0DC408FED@ostephens.com> 
+	<AANLkTimHjdbQIjjYpzOLq49934hWYqCZbw6qLLGqnGJ3@mail.gmail.com> 
+	<AANLkTin8KwIdG8ZfDn8W18vhqnugxJ2ciypw46fs4TEw@mail.gmail.com> 
+	<4C2C7D27.60201@okfn.org>
+	<AANLkTinft59oq2b9DZYbwI1r56HW7keEGHBsQeAmirR7@mail.gmail.com> 
+	<4C2CC8B9.3000408@pobox.upenn.edu>
+Message-ID: <AANLkTin8rGwonGOC85hQW8bLI67zDU9jvhF8iq-UUiJI@mail.gmail.com>
+
+> Even outside the constraints of catalog cards, it's often considered
+> a good idea to leave out "Man-woman relationships" or other subject
+> descriptors that cover a large portion of a collection, in order to
+> prevent overload when people go looking for books under that heading.
+
+The rule of three came about during the catalog card era, and was
+maintained after, but your argument does hold up as far as it goes. In
+doing so, however, I think we can see that classification is done for
+a reason, and generally in the context of a specific--and rapidly
+obsolete--use case. It is so very easy to slip into the notion that
+classification is something more than that?something simply true and
+appropriate to every context and use.
+
+> I didn't take formal cataloger training, but my understand is that
+> traditionally, you're only supposed to add a subject heading when it's
+> both a primary and a distinctive characteristic of a work, as opposed
+> to something that just happens to be featured in it at some level.
+> The idea is that, when you look up the heading, you should find the books
+> that are most centrally and definitively about man-women relationships
+> in your collection, not all the books in your collection that happen
+> to include men and women relating to each other somewhere in the text.
+> You can see the usefulness of this kind of policy if you're specifically
+> trying to do focused research on a previously defined topic.
+
+Well, yes and no. You can only see that if you presume the term is
+binary. Google has indexed 78 million pages with the word "CNN" in
+them, but when I search for it, it knows not to give me everything, in
+accession order, as most library systems would. It knows that
+"CNN"-ness is a number, or even an array, not a boolean.
+
+Similarly, something like 25,000 works on LibraryThing have been
+tagged "chick lit," but the top ones are really, really good examples
+of it.
+
+For more of this sort of thinking, see my YouTube conference video,
+"What's the big deal about tagging?" on YouTube
+http://www.youtube.com/user/librarythingtim#p/u/12/Ok7YinIhT0Y.
+
+>?"Show me the
+> books that the most people have associated with man-woman relationships"
+> tends to filter for popularity more than "show me the books that
+> are *concerned* most with man-woman relationships". ?("Relationships" might
+> not be the best example, because this topic is a bit diffuse to begin
+> with; but the difference is starker when you have a topic that's
+> featured briefly in many popular works, but deeply in only a few,
+> more obscure works.)
+
+There is something to what you say. Popularity will always be a
+factor, but not so simply as you say. It is trivial to "factor out"
+popularity--to ask not what books are most often chick lit overall,
+but what books are most often tagged chick lit, norming for
+popularity.
+
+In the case of tags, LibraryThing doesn't factor popularity out.* But
+factoring out popularity is absolutely basic to all such algorithms.
+If we didn't do it, the top recommendations for almost every book
+would be something by J. K. Rowling because, statistically, those are
+the books with the highest overlap, even for books of a completely
+different kind. The problem therefore presents itself as a lack of
+data. You can't put a book first in chick lit because a single person
+said so and it is the only tag it received (thus being "100% about
+chick lit!").
+
+> One consequence of this is that if you're trying to compose together a large
+> open collection from a bunch of smaller pre-existing collections, you're
+> going to have to deal sensibly with the different purposes and contexts
+> where subject headings have been assigned. ?And, hopefully, try to come
+> up with workable strategies and policies going forward.
+
+True. All I really want is for people to understand such decisions are
+about the purposes and contexts, and that these contexts are by no
+means guaranteed to be useful in the future.
+
+Tim
+
+*The results weren't better or more interesting, they were just
+confusing to people. The normed "salience" of a tag is, however,
+visible in which tags are bold in a tag cloud.
+
+
+From j.weinheimer at aur.edu  Fri Jul  2 08:54:35 2010
+From: j.weinheimer at aur.edu (Weinheimer Jim)
+Date: Fri, 2 Jul 2010 09:54:35 +0200
+Subject: [open-bibliography] Proposed definition for /book/book
+In-Reply-To: <AANLkTin8rGwonGOC85hQW8bLI67zDU9jvhF8iq-UUiJI@mail.gmail.com>
+Message-ID: <8CB2A72BE4144B4CAC0EF3E9A9F6D065034EE2ED29@AUR2010.aur.edu>
+
+Tim Spalding wrote:
+<snip>
+The rule of three came about during the catalog card era, and was
+maintained after, but your argument does hold up as far as it goes. In
+doing so, however, I think we can see that classification is done for
+a reason, and generally in the context of a specific--and rapidly
+obsolete--use case. It is so very easy to slip into the notion that
+classification is something more than that-something simply true and
+appropriate to every context and use.
+</snip>
+
+The purpose of assigning a specific classification number to an item has not really ever been because it is more "true" or "appropriate" than any other number. Catalogers have known since Day 1 that most resources that are even halfway complex in their subjects can easily be placed in 3 or 4 places within the classification system they are using, plus catalogers are aware that there are many different classifications in the world, some of them quite different in how they arrange their subjects. The most widely used in the library world are the Dewey Decimal, the Library of Congress, the Universal Decimal, but there are many others, some of them aimed only to a single institution.
+
+So, the purpose of assigning a classification number is to provide a level of predictability to an item, or in other words, a bit of standardization. The purpose of classification (as well as assignment of all headings) is to *bring the same things together*, so much as possible. Why?
+
+Because otherwise, people will have to look around in different places for resources on the same topic. I went into more detail on this in an article I wrote on my former website several years ago and it is still available in the internet archive: 
+http://web.archive.org/web/20020406052541/http://www.princeton.edu/~jamesw/mdata/MetadataCreation.html (the images don't seem to have survived, as happens so often in the Archive, but maybe they aren't so important to understand the ideas there)
+
+Therefore I do not assign a call number to an item because I "like" it or I feel it is "best"; people who do this often make huge mistakes (and I have seen this happening more and more as training of catalogers goes by the wayside), rather I must find similar items and assign the same numbers, whether I happen to like them or not. This same thing occurs for assigning controlled vocabulary (Rome vs. Roma, Tolstoy vs. Tolstoi, etc.). There are many headings I have assigned that I think are absolutely stupid, but since I am a cataloger, it is my job to assign those headings and not those that conform more to my own taste. 
+
+In terms of classification, the task is the same: to assign a controlled "relative location" within a specific collection, thereby making the resource more predictable for others to find--often this "other person" can only be another expert in the classification. Still, it is predictable.
+
+Problems with assigning classification numbers have been known since the days of the Library of Alexandria. Many of these problems may not be relevant today with virtual materials and more powerful systems. 
+
+We should also realize and use the so-called "syndetic structure" buried in the arrangement of the subject headings. For example, "Love" in the LC subject headings is in the arrangement:
+
+Psychology
+->Emotions
+-->Love
+--->Courtship
+---->Marriage proposals
+----->Mate selection
+This final heading then has related terms for 
+Man-woman relationships, and 
+Marriage brokerage.
+
+We see a "classification system" at work here. There are lots and lots and lots of other references and notes within all of this structure, and it seems to me as if this could be incredibly useful and highly popular if more advantage were made from it.
+
+[BTW, the rule of three deals with assignment of name headings and not with subjects]
+
+James Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+via Pietro Roselli, 4
+00153 Rome, Italy
+voice- 011 39 06 58330919 ext. 258
+fax-011 39 06 58330992
+
+
+From kcoyle at kcoyle.net  Fri Jul  2 15:05:10 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 02 Jul 2010 07:05:10 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+References: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+Message-ID: <20100702070510.7b6ijlhjeo8o4kk0@kcoyle.net>
+
+Quoting Ross Singer <ross.singer at talis.com>:
+
+> Hi everybody,
+>
+> I just wanted to let people know I've made the MARC codes for forms of
+> musical compositions (
+> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+> http://purl.org/ontology/mo/Genres.
+
+Thanks, Ross. I looked at the RDA terms [1] and interestingly type of  
+composition isn't one of the vocabularies that was defined in RDA. I  
+don't know whether that was an oversight or not -- type of composition  
+is included in the RDA rules, there's just no list to accompany it. So  
+this one may end up doing double duty: MARC and RDA.
+
+    kc
+[1]http://metadataregistry.org/rdabrowse.htm
+
+>
+> http://purl.org/NET/marccodes/muscomp/
+>
+> They follow the same naming convention as they would in the MARC 008 or 047,
+> so it's easy to map (that is, no lookup needed) from your MARC data:
+>
+> http://purl.org/NET/marccodes/muscomp/sy#genre
+>
+> etc.
+>
+> The RDF is available as well:
+> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>
+>
+> I'd love any feedback/suggestions/corrections/etc.
+>
+> Also, you can look around to see MARC country codes, geographic area codes
+> and language codes.  Eventually I would like to get all of the MARC codes
+> (not already modeled by LC) in there (
+> http://www.loc.gov/standards/valuelist/).
+>
+> Thanks,
+> -Ross.
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From cjg at ecs.soton.ac.uk  Fri Jul  2 15:34:00 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Fri, 02 Jul 2010 15:34:00 +0100
+Subject: [open-bibliography] eprints.ecs.soton CC0
+References: <4C2DF8D7.8070301@ecs.soton.ac.uk>
+Message-ID: <EMEW3|f491c110943a7342d147c8d599365610m61FY503cjg|ecs.soton.ac.uk|4C2DF8D7.8070301@ecs.soton.ac.uk>
+
+We'll make a more formal announcement later, but we've decided to make 
+the ECS EPrints repository eprints.ecs.soton.ac.uk have a completely 
+open RDF license. (CC0). This also covers our other "departmental 
+infrastructure RDF" such as projects, people, etc.
+
+It does *not* cover eprints.soton.ac.uk (the main university EPrints 
+repository), which moves more slowly and carefully. It does *not* cover 
+the documents in the repository.
+
+I think our license is please-attribute: We don't make any legal 
+requirement on you to do so, but it'd be nice if you could attribute our 
+data to us, unless it's a bother in which case don't worry about it.
+
+Hopefully this will help other places make the case for opening up data, 
+where appropriate.
+
+-- 
+Christopher Gutteridge -- http://id.ecs.soton.ac.uk/person/1248
+
+/ Lead Developer, EPrints Project, http://eprints.org/
+/ Web Projects Manager, ECS, University of Southampton, http://www.ecs.soton.ac.uk/
+/ Webmaster, Web Science Trust, http://www.webscience.org/
+
+
+
+From kcoyle at kcoyle.net  Sun Jul  4 15:53:48 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sun, 04 Jul 2010 07:53:48 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+References: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+Message-ID: <20100704075348.ajry5m5mk0ss04og@kcoyle.net>
+
+Another thought... how hard would it be do create entries for all of  
+the MARC codes in this way? I have them all in a database (and in this  
+[1] tab-delimited file, with documentation [2]). I could easily create  
+files with code-tab-display for each. Also, at [2] there is a link to  
+the MARC language codes, which I believe are slightly different to the  
+ISO codes, but in any case would be useful for translating MARC to RDF.
+
+kc
+[1] http://www.kcoyle.net/00s.txt
+[2] http://futurelib.pbworks.com/Data+and+Studies
+
+Quoting Ross Singer <ross.singer at talis.com>:
+
+> Hi everybody,
+>
+> I just wanted to let people know I've made the MARC codes for forms of
+> musical compositions (
+> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+> http://purl.org/ontology/mo/Genres.
+>
+> http://purl.org/NET/marccodes/muscomp/
+>
+> They follow the same naming convention as they would in the MARC 008 or 047,
+> so it's easy to map (that is, no lookup needed) from your MARC data:
+>
+> http://purl.org/NET/marccodes/muscomp/sy#genre
+>
+> etc.
+>
+> The RDF is available as well:
+> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>
+>
+> I'd love any feedback/suggestions/corrections/etc.
+>
+> Also, you can look around to see MARC country codes, geographic area codes
+> and language codes.  Eventually I would like to get all of the MARC codes
+> (not already modeled by LC) in there (
+> http://www.loc.gov/standards/valuelist/).
+>
+> Thanks,
+> -Ross.
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ross.singer at talis.com  Sun Jul  4 21:59:28 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Sun, 4 Jul 2010 16:59:28 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <20100704075348.ajry5m5mk0ss04og@kcoyle.net>
+References: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+	<20100704075348.ajry5m5mk0ss04og@kcoyle.net>
+Message-ID: <AANLkTim5_O8dDzOotNWxxpkafL_B2qZyxojrEkG1MJBM@mail.gmail.com>
+
+Karen,
+
+At http://purl.org/NET/marccodes/ there are MARC language codes, geographic
+area codes and country codes.
+
+I would like to add all of the codes that LC doesn't get to first.
+
+-Ross.
+
+On Sun, Jul 4, 2010 at 10:53 AM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Another thought... how hard would it be do create entries for all of the
+> MARC codes in this way? I have them all in a database (and in this [1]
+> tab-delimited file, with documentation [2]). I could easily create files
+> with code-tab-display for each. Also, at [2] there is a link to the MARC
+> language codes, which I believe are slightly different to the ISO codes, but
+> in any case would be useful for translating MARC to RDF.
+>
+> kc
+> [1] http://www.kcoyle.net/00s.txt
+> [2] http://futurelib.pbworks.com/Data+and+Studies
+>
+>
+> Quoting Ross Singer <ross.singer at talis.com>:
+>
+>  Hi everybody,
+>>
+>> I just wanted to let people know I've made the MARC codes for forms of
+>> musical compositions (
+>> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+>> http://purl.org/ontology/mo/Genres.
+>>
+>> http://purl.org/NET/marccodes/muscomp/
+>>
+>> They follow the same naming convention as they would in the MARC 008 or
+>> 047,
+>> so it's easy to map (that is, no lookup needed) from your MARC data:
+>>
+>> http://purl.org/NET/marccodes/muscomp/sy#genre
+>>
+>> etc.
+>>
+>> The RDF is available as well:
+>> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>>
+>>
+>> I'd love any feedback/suggestions/corrections/etc.
+>>
+>> Also, you can look around to see MARC country codes, geographic area codes
+>> and language codes.  Eventually I would like to get all of the MARC codes
+>> (not already modeled by LC) in there (
+>> http://www.loc.gov/standards/valuelist/).
+>>
+>> Thanks,
+>> -Ross.
+>>
+>>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100704/f8354e7d/attachment.htm>
+
+From jyoung at oclc.org  Sun Jul  4 15:26:53 2010
+From: jyoung at oclc.org (Young,Jeff (OR))
+Date: Sun, 4 Jul 2010 10:26:53 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <20100702070510.7b6ijlhjeo8o4kk0@kcoyle.net>
+References: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+	<20100702070510.7b6ijlhjeo8o4kk0@kcoyle.net>
+Message-ID: <52E301F960B30049ADEFBCCF1CCAEF5908DF4A1B@OAEXCH4SERVER.oa.oclc.org>
+
+The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+Full. 
+
+http://www.mygrid.org.uk/OWL/Validator
+
+I think it would be better as OWL DL. This could be done by separating
+the various types into separate identities using hash URIs. If anyone is
+interested, I could amend the example to show how.
+
+As a rule, I like using OWL DL better than OWL Full because my brain
+doesn't fall out nearly as often.
+
+http://www.w3.org/TR/owl-ref/#Sublanguage-def
+
+Jeff
+
+-----Original Message-----
+From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+On Behalf Of Karen Coyle
+Sent: Friday, July 02, 2010 10:05 AM
+To: Ross Singer
+Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+Data
+Subject: Re: MARC Codes for Forms of Musical Composition
+
+Quoting Ross Singer <ross.singer at talis.com>:
+
+> Hi everybody,
+>
+> I just wanted to let people know I've made the MARC codes for forms of
+> musical compositions (
+> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+> http://purl.org/ontology/mo/Genres.
+
+Thanks, Ross. I looked at the RDA terms [1] and interestingly type of  
+composition isn't one of the vocabularies that was defined in RDA. I  
+don't know whether that was an oversight or not -- type of composition  
+is included in the RDA rules, there's just no list to accompany it. So  
+this one may end up doing double duty: MARC and RDA.
+
+    kc
+[1]http://metadataregistry.org/rdabrowse.htm
+
+>
+> http://purl.org/NET/marccodes/muscomp/
+>
+> They follow the same naming convention as they would in the MARC 008
+or 047,
+> so it's easy to map (that is, no lookup needed) from your MARC data:
+>
+> http://purl.org/NET/marccodes/muscomp/sy#genre
+>
+> etc.
+>
+> The RDF is available as well:
+> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>
+>
+> I'd love any feedback/suggestions/corrections/etc.
+>
+> Also, you can look around to see MARC country codes, geographic area
+codes
+> and language codes.  Eventually I would like to get all of the MARC
+codes
+> (not already modeled by LC) in there (
+> http://www.loc.gov/standards/valuelist/).
+>
+> Thanks,
+> -Ross.
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+
+
+
+From aisaac at few.vu.nl  Sun Jul  4 17:10:23 2010
+From: aisaac at few.vu.nl (Antoine Isaac)
+Date: Sun, 04 Jul 2010 18:10:23 +0200
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <52E301F960B30049ADEFBCCF1CCAEF5908DF4A1B@OAEXCH4SERVER.oa.oclc.org>
+References: <AANLkTil7K4HjYD_xpdI4eagn9H8YQpxmhLHop1Bla8u6@mail.gmail.com>
+	<20100702070510.7b6ijlhjeo8o4kk0@kcoyle.net>
+	<52E301F960B30049ADEFBCCF1CCAEF5908DF4A1B@OAEXCH4SERVER.oa.oclc.org>
+Message-ID: <4C30B26F.4020405@few.vu.nl>
+
+(moving this thread from [1] to the wider LLD list, this can be of interest beyond the XG!)
+
+Hi Jeff,
+
+I'm not sure exactly why Ross' file is OWL Full, at least in the OWL 1 sense. In the validator you point to, I get the following output:
+
+
+>     * Untyped Object Property: http://umbel.org/umbel#isAbout
+>     * Untyped Object Property: http://purl.org/ontology/mo/wikipedia
+>     * Untyped Data Property: http://www.w3.org/2004/02/skos/core#prefLabel
+>     * Untyped Class: http://purl.org/ontology/mo/Genre
+>     * Untyped Individual: http://dbpedia.org/resource/Symphony
+>     * Untyped Individual: http://id.loc.gov/authorities/sh85131473#concept
+>     * Untyped Individual: http://en.wikipedia.org/wiki/Symphony
+
+
+It could be a aide effect of that specific validator's implementation, which expects all ontological data to be present in the source at validation time--remember that we're checking instance data here, while the primary purpose of this validator is, I expect, ontologies.
+Maybe if Ross had pulled the definitions for all the above constructs in his file, the problem would have vanished.
+
+Note that if you want to validate against the latest OWL2-DL, you can use http://owl.cs.manchester.ac.uk/validator/
+I've tried it, and it gives roughly the same results: in OWL2-DL you also have to declare explicitly the resources that you're using...
+
+Cheers,
+
+Antoine
+
+[1] http://lists.w3.org/Archives/Public/public-xg-lld/2010Jul/0000.html
+
+
+> The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+> Full.
+>
+> http://www.mygrid.org.uk/OWL/Validator
+>
+> I think it would be better as OWL DL. This could be done by separating
+> the various types into separate identities using hash URIs. If anyone is
+> interested, I could amend the example to show how.
+>
+> As a rule, I like using OWL DL better than OWL Full because my brain
+> doesn't fall out nearly as often.
+>
+> http://www.w3.org/TR/owl-ref/#Sublanguage-def
+>
+> Jeff
+>
+> -----Original Message-----
+> From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+> On Behalf Of Karen Coyle
+> Sent: Friday, July 02, 2010 10:05 AM
+> To: Ross Singer
+> Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+> Data
+> Subject: Re: MARC Codes for Forms of Musical Composition
+>
+> Quoting Ross Singer<ross.singer at talis.com>:
+>
+>> Hi everybody,
+>>
+>> I just wanted to let people know I've made the MARC codes for forms of
+>> musical compositions (
+>> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+>> http://purl.org/ontology/mo/Genres.
+>
+> Thanks, Ross. I looked at the RDA terms [1] and interestingly type of
+> composition isn't one of the vocabularies that was defined in RDA. I
+> don't know whether that was an oversight or not -- type of composition
+> is included in the RDA rules, there's just no list to accompany it. So
+> this one may end up doing double duty: MARC and RDA.
+>
+>      kc
+> [1]http://metadataregistry.org/rdabrowse.htm
+>
+>>
+>> http://purl.org/NET/marccodes/muscomp/
+>>
+>> They follow the same naming convention as they would in the MARC 008
+> or 047,
+>> so it's easy to map (that is, no lookup needed) from your MARC data:
+>>
+>> http://purl.org/NET/marccodes/muscomp/sy#genre
+>>
+>> etc.
+>>
+>> The RDF is available as well:
+>> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>>
+>>
+>> I'd love any feedback/suggestions/corrections/etc.
+>>
+>> Also, you can look around to see MARC country codes, geographic area
+> codes
+>> and language codes.  Eventually I would like to get all of the MARC
+> codes
+>> (not already modeled by LC) in there (
+>> http://www.loc.gov/standards/valuelist/).
+>>
+>> Thanks,
+>> -Ross.
+>>
+>
+>
+>
+
+
+
+From jyoung at oclc.org  Sun Jul  4 23:35:36 2010
+From: jyoung at oclc.org (Young,Jeff (OR))
+Date: Sun, 04 Jul 2010 18:35:36 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+Message-ID: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+
+Oops, sorry. I do seem to have some wires crossed. Let me talk to Andy
+Houghton to see if he can help sort out why I  believe multiple rdf:types
+are bad for instances.
+
+Jeff
+
+Antoine Isaac <aisaac at few.vu.nl> wrote:
+
+(moving this thread from [1] to the wider LLD list, this can be of
+interest beyond the XG!)
+
+Hi Jeff,
+
+I'm not sure exactly why Ross' file is OWL Full, at least in the OWL 1
+sense. In the validator you point to, I get the following output:
+
+
+>     * Untyped Object Property: http://umbel.org/umbel#isAbout
+>     * Untyped Object Property: http://purl.org/ontology/mo/wikipedia
+>     * Untyped Data Property:
+http://www.w3.org/2004/02/skos/core#prefLabel
+>     * Untyped Class: http://purl.org/ontology/mo/Genre
+>     * Untyped Individual: http://dbpedia.org/resource/Symphony
+>     * Untyped Individual:
+http://id.loc.gov/authorities/sh85131473#concept
+>     * Untyped Individual: http://en.wikipedia.org/wiki/Symphony
+
+
+It could be a aide effect of that specific validator's implementation,
+which expects all ontological data to be present in the source at
+validation time--remember that we're checking instance data here, while
+the primary purpose of this validator is, I expect, ontologies.
+Maybe if Ross had pulled the definitions for all the above constructs in
+his file, the problem would have vanished.
+
+Note that if you want to validate against the latest OWL2-DL, you can use
+http://owl.cs.manchester.ac.uk/validator/
+I've tried it, and it gives roughly the same results: in OWL2-DL you also
+have to declare explicitly the resources that you're using...
+
+Cheers,
+
+Antoine
+
+[1] http://lists.w3.org/Archives/Public/public-xg-lld/2010Jul/0000.html
+
+
+> The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+> Full.
+>
+> http://www.mygrid.org.uk/OWL/Validator
+>
+> I think it would be better as OWL DL. This could be done by separating
+> the various types into separate identities using hash URIs. If anyone is
+> interested, I could amend the example to show how.
+>
+> As a rule, I like using OWL DL better than OWL Full because my brain
+> doesn't fall out nearly as often.
+>
+> http://www.w3.org/TR/owl-ref/#Sublanguage-def
+>
+> Jeff
+>
+> -----Original Message-----
+> From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+> On Behalf Of Karen Coyle
+> Sent: Friday, July 02, 2010 10:05 AM
+> To: Ross Singer
+> Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+> Data
+> Subject: Re: MARC Codes for Forms of Musical Composition
+>
+> Quoting Ross Singer<ross.singer at talis.com>:
+>
+>> Hi everybody,
+>>
+>> I just wanted to let people know I've made the MARC codes for forms of
+>> musical compositions (
+>> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+>> http://purl.org/ontology/mo/Genres.
+>
+> Thanks, Ross. I looked at the RDA terms [1] and interestingly type of
+> composition isn't one of the vocabularies that was defined in RDA. I
+> don't know whether that was an oversight or not -- type of composition
+> is included in the RDA rules, there's just no list to accompany it. So
+> this one may end up doing double duty: MARC and RDA.
+>
+>      kc
+> [1]http://metadataregistry.org/rdabrowse.htm
+>
+>>
+>> http://purl.org/NET/marccodes/muscomp/
+>>
+>> They follow the same naming convention as they would in the MARC 008
+> or 047,
+>> so it's easy to map (that is, no lookup needed) from your MARC data:
+>>
+>> http://purl.org/NET/marccodes/muscomp/sy#genre
+>>
+>> etc.
+>>
+>> The RDF is available as well:
+>> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>>
+>>
+>> I'd love any feedback/suggestions/corrections/etc.
+>>
+>> Also, you can look around to see MARC country codes, geographic area
+> codes
+>> and language codes.  Eventually I would like to get all of the MARC
+> codes
+>> (not already modeled by LC) in there (
+>> http://www.loc.gov/standards/valuelist/).
+>>
+>> Thanks,
+>> -Ross.
+>>
+>
+>
+>
+
+
+
+
+
+
+From pm286 at cam.ac.uk  Mon Jul  5 13:33:20 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 5 Jul 2010 13:33:20 +0100
+Subject: [open-bibliography] W3C LLD (Bibliography) group [was: Re: MARC
+	Codes for Forms of Musical Composition]
+Message-ID: <AANLkTim6hIz2JJ-V2lJOVNxpNp3plFoAVX4kaJ0FW6kS@mail.gmail.com>
+
+On Sun, Jul 4, 2010 at 11:35 PM, Young,Jeff (OR) <jyoung at oclc.org> wrote:
+
+> Oops, sorry. I do seem to have some wires crossed. Let me talk to Andy
+> Houghton to see if he can help sort out why I  believe multiple rdf:types
+> are bad for instances.
+>
+> Jeff
+>
+> ...
+
+
+> Antoine Isaac <aisaac at few.vu.nl> wrote:
+>
+> (moving this thread from [1] to the wider LLD list, this can be of
+> interest beyond the XG!)
+>
+>  The crossposting has revealed a group I was unaware of - the W3C Library
+Linked Data list. From their site it looks as if they are now summarising
+their mails over the last few years.
+
+It would help me if anyone could briefly summarise what they have been / are
+doing and how this can relate to the OKF Open Bibliography work - in
+particular where we can each feed off the work of the other. I'd imagine,
+for example, that OKF are more likley to get involved in particular
+vocabularies and in collaborative instances (e.g. crowdsourcing)
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100705/080aedd1/attachment.htm>
+
+From kcoyle at kcoyle.net  Mon Jul  5 13:59:35 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 05 Jul 2010 05:59:35 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+Message-ID: <20100705055935.z7jytru0oww0wg0o@kcoyle.net>
+
+On a question of usage, would it be practical to have the MARC  
+2-letter code as a value in the RDF? After all, that is what is the  
+value in the MARC record. If one were to turn MARC into linked data,  
+the linking element would be the code. I realize that in the ideal  
+world the MARC2RDF would use the URI provided here, but ... Perhaps  
+either an altLabel or hiddenLabel?
+
+Also, there is a German translation, which I can pass along if you  
+have the time to add them.
+
+kc
+
+
+Quoting "Young,Jeff (OR)" <jyoung at oclc.org>:
+
+> Oops, sorry. I do seem to have some wires crossed. Let me talk to Andy
+> Houghton to see if he can help sort out why I  believe multiple rdf:types
+> are bad for instances.
+>
+> Jeff
+>
+> Antoine Isaac <aisaac at few.vu.nl> wrote:
+>
+> (moving this thread from [1] to the wider LLD list, this can be of
+> interest beyond the XG!)
+>
+> Hi Jeff,
+>
+> I'm not sure exactly why Ross' file is OWL Full, at least in the OWL 1
+> sense. In the validator you point to, I get the following output:
+>
+>
+>>     * Untyped Object Property: http://umbel.org/umbel#isAbout
+>>     * Untyped Object Property: http://purl.org/ontology/mo/wikipedia
+>>     * Untyped Data Property:
+> http://www.w3.org/2004/02/skos/core#prefLabel
+>>     * Untyped Class: http://purl.org/ontology/mo/Genre
+>>     * Untyped Individual: http://dbpedia.org/resource/Symphony
+>>     * Untyped Individual:
+> http://id.loc.gov/authorities/sh85131473#concept
+>>     * Untyped Individual: http://en.wikipedia.org/wiki/Symphony
+>
+>
+> It could be a aide effect of that specific validator's implementation,
+> which expects all ontological data to be present in the source at
+> validation time--remember that we're checking instance data here, while
+> the primary purpose of this validator is, I expect, ontologies.
+> Maybe if Ross had pulled the definitions for all the above constructs in
+> his file, the problem would have vanished.
+>
+> Note that if you want to validate against the latest OWL2-DL, you can use
+> http://owl.cs.manchester.ac.uk/validator/
+> I've tried it, and it gives roughly the same results: in OWL2-DL you also
+> have to declare explicitly the resources that you're using...
+>
+> Cheers,
+>
+> Antoine
+>
+> [1] http://lists.w3.org/Archives/Public/public-xg-lld/2010Jul/0000.html
+>
+>
+>> The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+>> Full.
+>>
+>> http://www.mygrid.org.uk/OWL/Validator
+>>
+>> I think it would be better as OWL DL. This could be done by separating
+>> the various types into separate identities using hash URIs. If anyone is
+>> interested, I could amend the example to show how.
+>>
+>> As a rule, I like using OWL DL better than OWL Full because my brain
+>> doesn't fall out nearly as often.
+>>
+>> http://www.w3.org/TR/owl-ref/#Sublanguage-def
+>>
+>> Jeff
+>>
+>> -----Original Message-----
+>> From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+>> On Behalf Of Karen Coyle
+>> Sent: Friday, July 02, 2010 10:05 AM
+>> To: Ross Singer
+>> Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+>> Data
+>> Subject: Re: MARC Codes for Forms of Musical Composition
+>>
+>> Quoting Ross Singer<ross.singer at talis.com>:
+>>
+>>> Hi everybody,
+>>>
+>>> I just wanted to let people know I've made the MARC codes for forms of
+>>> musical compositions (
+>>> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+>>> http://purl.org/ontology/mo/Genres.
+>>
+>> Thanks, Ross. I looked at the RDA terms [1] and interestingly type of
+>> composition isn't one of the vocabularies that was defined in RDA. I
+>> don't know whether that was an oversight or not -- type of composition
+>> is included in the RDA rules, there's just no list to accompany it. So
+>> this one may end up doing double duty: MARC and RDA.
+>>
+>>      kc
+>> [1]http://metadataregistry.org/rdabrowse.htm
+>>
+>>>
+>>> http://purl.org/NET/marccodes/muscomp/
+>>>
+>>> They follow the same naming convention as they would in the MARC 008
+>> or 047,
+>>> so it's easy to map (that is, no lookup needed) from your MARC data:
+>>>
+>>> http://purl.org/NET/marccodes/muscomp/sy#genre
+>>>
+>>> etc.
+>>>
+>>> The RDF is available as well:
+>>> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>>>
+>>>
+>>> I'd love any feedback/suggestions/corrections/etc.
+>>>
+>>> Also, you can look around to see MARC country codes, geographic area
+>> codes
+>>> and language codes.  Eventually I would like to get all of the MARC
+>> codes
+>>> (not already modeled by LC) in there (
+>>> http://www.loc.gov/standards/valuelist/).
+>>>
+>>> Thanks,
+>>> -Ross.
+>>>
+>>
+>>
+>>
+>
+>
+>
+>
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ross.singer at talis.com  Mon Jul  5 15:33:00 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Mon, 5 Jul 2010 10:33:00 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <20100705055935.z7jytru0oww0wg0o@kcoyle.net>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<20100705055935.z7jytru0oww0wg0o@kcoyle.net>
+Message-ID: <AANLkTilHBcUNuD6oCltLU_YeUAELy-wt3Wd-yUX3XN3P@mail.gmail.com>
+
+Karen, you're right, adding the actual code would be useful (the assumption
+of URIs being opaque and all).  This would also be useful for SPARQL queries
+(which what I've done here currently doesn't support, but can and should and
+will).
+
+Not sure of the best predicate -- maybe skos:notation?  Anyone have a strong
+opinion on this?
+
+I would love the German translation (and any other translations, as well!).
+ Is it for all of the MARC codes?
+
+-Ross.
+
+On Mon, Jul 5, 2010 at 8:59 AM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> On a question of usage, would it be practical to have the MARC 2-letter
+> code as a value in the RDF? After all, that is what is the value in the MARC
+> record. If one were to turn MARC into linked data, the linking element would
+> be the code. I realize that in the ideal world the MARC2RDF would use the
+> URI provided here, but ... Perhaps either an altLabel or hiddenLabel?
+>
+> Also, there is a German translation, which I can pass along if you have the
+> time to add them.
+>
+> kc
+>
+>
+>
+> Quoting "Young,Jeff (OR)" <jyoung at oclc.org>:
+>
+>  Oops, sorry. I do seem to have some wires crossed. Let me talk to Andy
+>> Houghton to see if he can help sort out why I  believe multiple rdf:types
+>> are bad for instances.
+>>
+>> Jeff
+>>
+>> Antoine Isaac <aisaac at few.vu.nl> wrote:
+>>
+>> (moving this thread from [1] to the wider LLD list, this can be of
+>> interest beyond the XG!)
+>>
+>> Hi Jeff,
+>>
+>> I'm not sure exactly why Ross' file is OWL Full, at least in the OWL 1
+>> sense. In the validator you point to, I get the following output:
+>>
+>>
+>>     * Untyped Object Property: http://umbel.org/umbel#isAbout
+>>>    * Untyped Object Property: http://purl.org/ontology/mo/wikipedia
+>>>    * Untyped Data Property:
+>>>
+>> http://www.w3.org/2004/02/skos/core#prefLabel
+>>
+>>>    * Untyped Class: http://purl.org/ontology/mo/Genre
+>>>    * Untyped Individual: http://dbpedia.org/resource/Symphony
+>>>    * Untyped Individual:
+>>>
+>> http://id.loc.gov/authorities/sh85131473#concept
+>>
+>>>    * Untyped Individual: http://en.wikipedia.org/wiki/Symphony
+>>>
+>>
+>>
+>> It could be a aide effect of that specific validator's implementation,
+>> which expects all ontological data to be present in the source at
+>> validation time--remember that we're checking instance data here, while
+>> the primary purpose of this validator is, I expect, ontologies.
+>> Maybe if Ross had pulled the definitions for all the above constructs in
+>> his file, the problem would have vanished.
+>>
+>> Note that if you want to validate against the latest OWL2-DL, you can use
+>> http://owl.cs.manchester.ac.uk/validator/
+>> I've tried it, and it gives roughly the same results: in OWL2-DL you also
+>> have to declare explicitly the resources that you're using...
+>>
+>> Cheers,
+>>
+>> Antoine
+>>
+>> [1] http://lists.w3.org/Archives/Public/public-xg-lld/2010Jul/0000.html
+>>
+>>
+>>  The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+>>> Full.
+>>>
+>>> http://www.mygrid.org.uk/OWL/Validator
+>>>
+>>> I think it would be better as OWL DL. This could be done by separating
+>>> the various types into separate identities using hash URIs. If anyone is
+>>> interested, I could amend the example to show how.
+>>>
+>>> As a rule, I like using OWL DL better than OWL Full because my brain
+>>> doesn't fall out nearly as often.
+>>>
+>>> http://www.w3.org/TR/owl-ref/#Sublanguage-def
+>>>
+>>> Jeff
+>>>
+>>> -----Original Message-----
+>>> From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+>>> On Behalf Of Karen Coyle
+>>> Sent: Friday, July 02, 2010 10:05 AM
+>>> To: Ross Singer
+>>> Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+>>> Data
+>>> Subject: Re: MARC Codes for Forms of Musical Composition
+>>>
+>>> Quoting Ross Singer<ross.singer at talis.com>:
+>>>
+>>>  Hi everybody,
+>>>>
+>>>> I just wanted to let people know I've made the MARC codes for forms of
+>>>> musical compositions (
+>>>> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+>>>> http://purl.org/ontology/mo/Genres.
+>>>>
+>>>
+>>> Thanks, Ross. I looked at the RDA terms [1] and interestingly type of
+>>> composition isn't one of the vocabularies that was defined in RDA. I
+>>> don't know whether that was an oversight or not -- type of composition
+>>> is included in the RDA rules, there's just no list to accompany it. So
+>>> this one may end up doing double duty: MARC and RDA.
+>>>
+>>>     kc
+>>> [1]http://metadataregistry.org/rdabrowse.htm
+>>>
+>>>
+>>>> http://purl.org/NET/marccodes/muscomp/
+>>>>
+>>>> They follow the same naming convention as they would in the MARC 008
+>>>>
+>>> or 047,
+>>>
+>>>> so it's easy to map (that is, no lookup needed) from your MARC data:
+>>>>
+>>>> http://purl.org/NET/marccodes/muscomp/sy#genre
+>>>>
+>>>> etc.
+>>>>
+>>>> The RDF is available as well:
+>>>> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>>>>
+>>>>
+>>>> I'd love any feedback/suggestions/corrections/etc.
+>>>>
+>>>> Also, you can look around to see MARC country codes, geographic area
+>>>>
+>>> codes
+>>>
+>>>> and language codes.  Eventually I would like to get all of the MARC
+>>>>
+>>> codes
+>>>
+>>>> (not already modeled by LC) in there (
+>>>> http://www.loc.gov/standards/valuelist/).
+>>>>
+>>>> Thanks,
+>>>> -Ross.
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>
+>>
+>>
+>>
+>>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100705/d24f255f/attachment.htm>
+
+From ross.singer at talis.com  Mon Jul  5 15:35:09 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Mon, 5 Jul 2010 10:35:09 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+Message-ID: <AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+
+Jeff, which resources have multiple rdf:types?  Of the muscomps, they should
+all only be mo:Genre.
+
+-Ross.
+
+On Sun, Jul 4, 2010 at 6:35 PM, Young,Jeff (OR) <jyoung at oclc.org> wrote:
+
+> Oops, sorry. I do seem to have some wires crossed. Let me talk to Andy
+> Houghton to see if he can help sort out why I  believe multiple rdf:types
+> are bad for instances.
+>
+> Jeff
+>
+> Antoine Isaac <aisaac at few.vu.nl> wrote:
+>
+> (moving this thread from [1] to the wider LLD list, this can be of
+> interest beyond the XG!)
+>
+> Hi Jeff,
+>
+> I'm not sure exactly why Ross' file is OWL Full, at least in the OWL 1
+> sense. In the validator you point to, I get the following output:
+>
+>
+> >     * Untyped Object Property: http://umbel.org/umbel#isAbout
+> >     * Untyped Object Property: http://purl.org/ontology/mo/wikipedia
+> >     * Untyped Data Property:
+> http://www.w3.org/2004/02/skos/core#prefLabel
+> >     * Untyped Class: http://purl.org/ontology/mo/Genre
+> >     * Untyped Individual: http://dbpedia.org/resource/Symphony
+> >     * Untyped Individual:
+> http://id.loc.gov/authorities/sh85131473#concept
+> >     * Untyped Individual: http://en.wikipedia.org/wiki/Symphony
+>
+>
+> It could be a aide effect of that specific validator's implementation,
+> which expects all ontological data to be present in the source at
+> validation time--remember that we're checking instance data here, while
+> the primary purpose of this validator is, I expect, ontologies.
+> Maybe if Ross had pulled the definitions for all the above constructs in
+> his file, the problem would have vanished.
+>
+> Note that if you want to validate against the latest OWL2-DL, you can use
+> http://owl.cs.manchester.ac.uk/validator/
+> I've tried it, and it gives roughly the same results: in OWL2-DL you also
+> have to declare explicitly the resources that you're using...
+>
+> Cheers,
+>
+> Antoine
+>
+> [1] http://lists.w3.org/Archives/Public/public-xg-lld/2010Jul/0000.html
+>
+>
+> > The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+> > Full.
+> >
+> > http://www.mygrid.org.uk/OWL/Validator
+> >
+> > I think it would be better as OWL DL. This could be done by separating
+> > the various types into separate identities using hash URIs. If anyone is
+> > interested, I could amend the example to show how.
+> >
+> > As a rule, I like using OWL DL better than OWL Full because my brain
+> > doesn't fall out nearly as often.
+> >
+> > http://www.w3.org/TR/owl-ref/#Sublanguage-def
+> >
+> > Jeff
+> >
+> > -----Original Message-----
+> > From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+> > On Behalf Of Karen Coyle
+> > Sent: Friday, July 02, 2010 10:05 AM
+> > To: Ross Singer
+> > Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+> > Data
+> > Subject: Re: MARC Codes for Forms of Musical Composition
+> >
+> > Quoting Ross Singer<ross.singer at talis.com>:
+> >
+> >> Hi everybody,
+> >>
+> >> I just wanted to let people know I've made the MARC codes for forms of
+> >> musical compositions (
+> >> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+> >> http://purl.org/ontology/mo/Genres.
+> >
+> > Thanks, Ross. I looked at the RDA terms [1] and interestingly type of
+> > composition isn't one of the vocabularies that was defined in RDA. I
+> > don't know whether that was an oversight or not -- type of composition
+> > is included in the RDA rules, there's just no list to accompany it. So
+> > this one may end up doing double duty: MARC and RDA.
+> >
+> >      kc
+> > [1]http://metadataregistry.org/rdabrowse.htm
+> >
+> >>
+> >> http://purl.org/NET/marccodes/muscomp/
+> >>
+> >> They follow the same naming convention as they would in the MARC 008
+> > or 047,
+> >> so it's easy to map (that is, no lookup needed) from your MARC data:
+> >>
+> >> http://purl.org/NET/marccodes/muscomp/sy#genre
+> >>
+> >> etc.
+> >>
+> >> The RDF is available as well:
+> >> http://purl.org/NET/marccodes/muscomp/sy.rdf
+> >>
+> >>
+> >> I'd love any feedback/suggestions/corrections/etc.
+> >>
+> >> Also, you can look around to see MARC country codes, geographic area
+> > codes
+> >> and language codes.  Eventually I would like to get all of the MARC
+> > codes
+> >> (not already modeled by LC) in there (
+> >> http://www.loc.gov/standards/valuelist/).
+> >>
+> >> Thanks,
+> >> -Ross.
+> >>
+> >
+> >
+> >
+>
+>
+>
+>
+>
+>
+> Please consider the environment before printing this email.
+>
+> Find out more about Talis at http://www.talis.com/
+> shared innovation?
+>
+> Any views or personal opinions expressed within this email may not be those
+> of Talis Information Ltd or its employees. The content of this email message
+> and any files that may be attached are confidential, and for the usage of
+> the intended recipient only. If you are not the intended recipient, then
+> please return this message to the sender and delete it. Any use of this
+> e-mail by an unauthorised recipient is prohibited.
+>
+> Talis Information Ltd is a member of the Talis Group of companies and is
+> registered in England No 3638278 with its registered office at Knights
+> Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100705/8120158b/attachment-0001.htm>
+
+From kcoyle at kcoyle.net  Mon Jul  5 16:04:51 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 05 Jul 2010 08:04:51 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <AANLkTilHBcUNuD6oCltLU_YeUAELy-wt3Wd-yUX3XN3P@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<20100705055935.z7jytru0oww0wg0o@kcoyle.net>
+	<AANLkTilHBcUNuD6oCltLU_YeUAELy-wt3Wd-yUX3XN3P@mail.gmail.com>
+Message-ID: <20100705080451.uigq5ylpw8gww800@kcoyle.net>
+
+On this page:
+   http://www.d-nb.de/standardisierung/formate/marc21.htm
+
+the first item under Deutsche Ubersetzung is a PDF that is a  
+translation of MARC21 into German. It has all of the MARC fixed field  
+codes. Unfortunately, it is a PDF, so if anyone knows of a more  
+malleable version, please speak up.
+
+kc
+
+Quoting Ross Singer <ross.singer at talis.com>:
+
+> Karen, you're right, adding the actual code would be useful (the assumption
+> of URIs being opaque and all).  This would also be useful for SPARQL queries
+> (which what I've done here currently doesn't support, but can and should and
+> will).
+>
+> Not sure of the best predicate -- maybe skos:notation?  Anyone have a strong
+> opinion on this?
+>
+> I would love the German translation (and any other translations, as well!).
+>  Is it for all of the MARC codes?
+>
+> -Ross.
+>
+> On Mon, Jul 5, 2010 at 8:59 AM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>
+>> On a question of usage, would it be practical to have the MARC 2-letter
+>> code as a value in the RDF? After all, that is what is the value in the MARC
+>> record. If one were to turn MARC into linked data, the linking element would
+>> be the code. I realize that in the ideal world the MARC2RDF would use the
+>> URI provided here, but ... Perhaps either an altLabel or hiddenLabel?
+>>
+>> Also, there is a German translation, which I can pass along if you have the
+>> time to add them.
+>>
+>> kc
+>>
+>>
+>>
+>> Quoting "Young,Jeff (OR)" <jyoung at oclc.org>:
+>>
+>>  Oops, sorry. I do seem to have some wires crossed. Let me talk to Andy
+>>> Houghton to see if he can help sort out why I  believe multiple rdf:types
+>>> are bad for instances.
+>>>
+>>> Jeff
+>>>
+>>> Antoine Isaac <aisaac at few.vu.nl> wrote:
+>>>
+>>> (moving this thread from [1] to the wider LLD list, this can be of
+>>> interest beyond the XG!)
+>>>
+>>> Hi Jeff,
+>>>
+>>> I'm not sure exactly why Ross' file is OWL Full, at least in the OWL 1
+>>> sense. In the validator you point to, I get the following output:
+>>>
+>>>
+>>>     * Untyped Object Property: http://umbel.org/umbel#isAbout
+>>>>    * Untyped Object Property: http://purl.org/ontology/mo/wikipedia
+>>>>    * Untyped Data Property:
+>>>>
+>>> http://www.w3.org/2004/02/skos/core#prefLabel
+>>>
+>>>>    * Untyped Class: http://purl.org/ontology/mo/Genre
+>>>>    * Untyped Individual: http://dbpedia.org/resource/Symphony
+>>>>    * Untyped Individual:
+>>>>
+>>> http://id.loc.gov/authorities/sh85131473#concept
+>>>
+>>>>    * Untyped Individual: http://en.wikipedia.org/wiki/Symphony
+>>>>
+>>>
+>>>
+>>> It could be a aide effect of that specific validator's implementation,
+>>> which expects all ontological data to be present in the source at
+>>> validation time--remember that we're checking instance data here, while
+>>> the primary purpose of this validator is, I expect, ontologies.
+>>> Maybe if Ross had pulled the definitions for all the above constructs in
+>>> his file, the problem would have vanished.
+>>>
+>>> Note that if you want to validate against the latest OWL2-DL, you can use
+>>> http://owl.cs.manchester.ac.uk/validator/
+>>> I've tried it, and it gives roughly the same results: in OWL2-DL you also
+>>> have to declare explicitly the resources that you're using...
+>>>
+>>> Cheers,
+>>>
+>>> Antoine
+>>>
+>>> [1] http://lists.w3.org/Archives/Public/public-xg-lld/2010Jul/0000.html
+>>>
+>>>
+>>>  The http://purl.org/NET/marccodes/muscomp/sy.rdf example assumes OWL
+>>>> Full.
+>>>>
+>>>> http://www.mygrid.org.uk/OWL/Validator
+>>>>
+>>>> I think it would be better as OWL DL. This could be done by separating
+>>>> the various types into separate identities using hash URIs. If anyone is
+>>>> interested, I could amend the example to show how.
+>>>>
+>>>> As a rule, I like using OWL DL better than OWL Full because my brain
+>>>> doesn't fall out nearly as often.
+>>>>
+>>>> http://www.w3.org/TR/owl-ref/#Sublanguage-def
+>>>>
+>>>> Jeff
+>>>>
+>>>> -----Original Message-----
+>>>> From: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+>>>> On Behalf Of Karen Coyle
+>>>> Sent: Friday, July 02, 2010 10:05 AM
+>>>> To: Ross Singer
+>>>> Cc: public-xg-lld at w3.org; List for Working Group on Open Bibliographic
+>>>> Data
+>>>> Subject: Re: MARC Codes for Forms of Musical Composition
+>>>>
+>>>> Quoting Ross Singer<ross.singer at talis.com>:
+>>>>
+>>>>  Hi everybody,
+>>>>>
+>>>>> I just wanted to let people know I've made the MARC codes for forms of
+>>>>> musical compositions (
+>>>>> http://www.loc.gov/standards/valuelist/marcmuscomp.html) available as
+>>>>> http://purl.org/ontology/mo/Genres.
+>>>>>
+>>>>
+>>>> Thanks, Ross. I looked at the RDA terms [1] and interestingly type of
+>>>> composition isn't one of the vocabularies that was defined in RDA. I
+>>>> don't know whether that was an oversight or not -- type of composition
+>>>> is included in the RDA rules, there's just no list to accompany it. So
+>>>> this one may end up doing double duty: MARC and RDA.
+>>>>
+>>>>     kc
+>>>> [1]http://metadataregistry.org/rdabrowse.htm
+>>>>
+>>>>
+>>>>> http://purl.org/NET/marccodes/muscomp/
+>>>>>
+>>>>> They follow the same naming convention as they would in the MARC 008
+>>>>>
+>>>> or 047,
+>>>>
+>>>>> so it's easy to map (that is, no lookup needed) from your MARC data:
+>>>>>
+>>>>> http://purl.org/NET/marccodes/muscomp/sy#genre
+>>>>>
+>>>>> etc.
+>>>>>
+>>>>> The RDF is available as well:
+>>>>> http://purl.org/NET/marccodes/muscomp/sy.rdf
+>>>>>
+>>>>>
+>>>>> I'd love any feedback/suggestions/corrections/etc.
+>>>>>
+>>>>> Also, you can look around to see MARC country codes, geographic area
+>>>>>
+>>>> codes
+>>>>
+>>>>> and language codes.  Eventually I would like to get all of the MARC
+>>>>>
+>>>> codes
+>>>>
+>>>>> (not already modeled by LC) in there (
+>>>>> http://www.loc.gov/standards/valuelist/).
+>>>>>
+>>>>> Thanks,
+>>>>> -Ross.
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> ph: 1-510-540-7596
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>>
+>>
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From jonathan.gray at okfn.org  Mon Jul  5 17:41:44 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 5 Jul 2010 18:41:44 +0200
+Subject: [open-bibliography] eprints.ecs.soton CC0
+In-Reply-To: <EMEW3|f491c110943a7342d147c8d599365610m61FY503cjg|ecs.soton.ac.uk|4C2DF8D7.8070301@ecs.soton.ac.uk>
+References: <4C2DF8D7.8070301@ecs.soton.ac.uk>
+	<EMEW3|f491c110943a7342d147c8d599365610m61FY503cjg|ecs.soton.ac.uk|4C2DF8D7.8070301@ecs.soton.ac.uk>
+Message-ID: <AANLkTimS72DiUSTzxBmnww3YtcM3bNy_PIhKPouYvTFM@mail.gmail.com>
+
+*Amazing*. ;-)
+
+Chris: would you be willing to write a brief guest post about this for
+OKF blog? Other recent guest posts at:
+
+  http://blog.okfn.org/taxonomy/guest-post/
+
+(All: if you can think of any open bibliographic data stuff that you'd
+like to blog about -- please don't hesitate to drop me a line!)
+
+Jonathan
+
+On Fri, Jul 2, 2010 at 4:34 PM, Christopher Gutteridge
+<cjg at ecs.soton.ac.uk> wrote:
+> We'll make a more formal announcement later, but we've decided to make the
+> ECS EPrints repository eprints.ecs.soton.ac.uk have a completely open RDF
+> license. (CC0). This also covers our other "departmental infrastructure RDF"
+> such as projects, people, etc.
+>
+> It does *not* cover eprints.soton.ac.uk (the main university EPrints
+> repository), which moves more slowly and carefully. It does *not* cover the
+> documents in the repository.
+>
+> I think our license is please-attribute: We don't make any legal requirement
+> on you to do so, but it'd be nice if you could attribute our data to us,
+> unless it's a bother in which case don't worry about it.
+>
+> Hopefully this will help other places make the case for opening up data,
+> where appropriate.
+>
+> --
+> Christopher Gutteridge -- http://id.ecs.soton.ac.uk/person/1248
+>
+> / Lead Developer, EPrints Project, http://eprints.org/
+> / Web Projects Manager, ECS, University of Southampton,
+> http://www.ecs.soton.ac.uk/
+> / Webmaster, Web Science Trust, http://www.webscience.org/
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From william.waites at okfn.org  Mon Jul  5 20:32:48 2010
+From: william.waites at okfn.org (William Waites)
+Date: Mon, 05 Jul 2010 15:32:48 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <20100705080451.uigq5ylpw8gww800@kcoyle.net>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>	<20100705055935.z7jytru0oww0wg0o@kcoyle.net>	<AANLkTilHBcUNuD6oCltLU_YeUAELy-wt3Wd-yUX3XN3P@mail.gmail.com>
+	<20100705080451.uigq5ylpw8gww800@kcoyle.net>
+Message-ID: <4C323360.1050107@okfn.org>
+
+On 10-07-05 11:04, Karen Coyle wrote:
+> On this page:
+>   http://www.d-nb.de/standardisierung/formate/marc21.htm
+>
+> the first item under Deutsche Ubersetzung is a PDF that is a
+> translation of MARC21 into German. It has all of the MARC fixed field
+> codes. Unfortunately, it is a PDF, so if anyone knows of a more
+> malleable version, please speak up.
+
+I was under the impression that in German speaking
+countries they used MAB and not MARC. Is this not
+correct? (Not that it's a bad thing to have translations
+of MARC anyways)
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From william.waites at okfn.org  Mon Jul  5 20:35:13 2010
+From: william.waites at okfn.org (William Waites)
+Date: Mon, 05 Jul 2010 15:35:13 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+Message-ID: <4C3233F1.3030601@okfn.org>
+
+On 10-07-05 10:35, Ross Singer wrote:
+> Jeff, which resources have multiple rdf:types?  Of the muscomps, they
+> should all only be mo:Genre.
+
+I think it is perfectly valid to have multiple types. At the
+very minimum everything is an rdfs:Resource whether
+stated explicitly or not. If something breaks when it is
+explicitly stated because it doesn't like multiple types I
+think that something is itself broken...
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From kcoyle at kcoyle.net  Mon Jul  5 22:30:30 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 05 Jul 2010 14:30:30 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <4C323360.1050107@okfn.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<20100705055935.z7jytru0oww0wg0o@kcoyle.net>
+	<AANLkTilHBcUNuD6oCltLU_YeUAELy-wt3Wd-yUX3XN3P@mail.gmail.com>
+	<20100705080451.uigq5ylpw8gww800@kcoyle.net>
+	<4C323360.1050107@okfn.org>
+Message-ID: <20100705143030.iroet4pmxnccwsws@kcoyle.net>
+
+Quoting William Waites <william.waites at okfn.org>:
+
+
+
+> I was under the impression that in German speaking
+> countries they used MAB and not MARC. Is this not
+> correct? (Not that it's a bad thing to have translations
+> of MARC anyways)
+
+They're moving from MAB to MARC, mainly because the primary  
+commercially available library systems use MARC.
+
+kc
+
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+> 		http://ordf.org/
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ross.singer at talis.com  Tue Jul  6 03:02:48 2010
+From: ross.singer at talis.com (Ross Singer)
+Date: Mon, 5 Jul 2010 22:02:48 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <4C3233F1.3030601@okfn.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+Message-ID: <AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+
+My question was more based on the fact that I don't think anything should
+have explicitly set multiple rdf:types in there.
+
+If so, I'm curious to what they are.
+
+-Ross.
+
+On Mon, Jul 5, 2010 at 3:35 PM, William Waites <william.waites at okfn.org>wrote:
+
+> On 10-07-05 10:35, Ross Singer wrote:
+> > Jeff, which resources have multiple rdf:types?  Of the muscomps, they
+> > should all only be mo:Genre.
+>
+> I think it is perfectly valid to have multiple types. At the
+> very minimum everything is an rdfs:Resource whether
+> stated explicitly or not. If something breaks when it is
+> explicitly stated because it doesn't like multiple types I
+> think that something is itself broken...
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+>                http://ordf.org/
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100705/bda0d831/attachment.htm>
+
+From A.Haffner at d-nb.de  Tue Jul  6 07:50:42 2010
+From: A.Haffner at d-nb.de (Haffner, Alexander)
+Date: Tue, 6 Jul 2010 08:50:42 +0200
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+Message-ID: <6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+
+I think in general it's not necessary to set any rdf:types. The resource
+turns into a particular type during interpreting a particular property.
+But setting rdf:types is important in cases using new specified and not
+standard compliant properties (i.e. extensions to SKOS)
+
+ 
+
+Regarding the German translation of MARC 21:
+
+First of all, last year we changed to MARC 21 as German interchange
+format, so MAB is gone...
+
+I already asked a colleague if we have a kind of table representation
+just comprising the code translations...more information comes up soon!
+
+
+ 
+
+Cheers, Alexander
+
+ 
+
+ 
+
+Von: public-xg-lld-request at w3.org [mailto:public-xg-lld-request at w3.org]
+Im Auftrag von Ross Singer
+Gesendet: Dienstag, 6. Juli 2010 04:03
+An: William Waites
+Cc: Young,Jeff (OR); Antoine Isaac; Karen Coyle; public-xg-lld at w3.org;
+List for Working Group on Open Bibliographic Data; public-lld
+Betreff: Re: MARC Codes for Forms of Musical Composition
+
+ 
+
+My question was more based on the fact that I don't think anything
+should have explicitly set multiple rdf:types in there.
+
+ 
+
+If so, I'm curious to what they are.
+
+ 
+
+-Ross.
+
+On Mon, Jul 5, 2010 at 3:35 PM, William Waites <william.waites at okfn.org>
+wrote:
+
+On 10-07-05 10:35, Ross Singer wrote:
+> Jeff, which resources have multiple rdf:types?  Of the muscomps, they
+> should all only be mo:Genre.
+
+I think it is perfectly valid to have multiple types. At the
+very minimum everything is an rdfs:Resource whether
+stated explicitly or not. If something breaks when it is
+explicitly stated because it doesn't like multiple types I
+think that something is itself broken...
+
+
+Cheers,
+-w
+
+--
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+               http://ordf.org/
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100706/c20482d9/attachment-0001.htm>
+
+From pohl at hbz-nrw.de  Tue Jul  6 10:55:42 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Tue, 06 Jul 2010 11:55:42 +0200
+Subject: [open-bibliography] Reminder: Wirtual Meeting
+Message-ID: <4C3319BE02000014000368DB@agrippa.hbz-nrw.de>
+
+Hallo,
+ 
+I'd like to remind everybody that today the working group will have its first virtual meeting on 16:00 UK time (world time map: http://www.weltzeit.de/zeitzonenkarte.php). See this etherpad for the agenda: http://okfnpad.org/Qv1jMMQL1h 
+
+Everybody is invited to join. As ten people have already announced their participation on the etherpad, we'll use IRC as medium of communication. The channel is #okfn on irc.oftc.net. You can connect via a standard IRC client or via the Mibbit web client by clicking http://ur1.ca/4fh and entering a nickname.
+
+Adrian
+
+
+
+From krichel at openlib.org  Tue Jul  6 11:13:22 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 6 Jul 2010 12:13:22 +0200
+Subject: [open-bibliography] Reminder: Wirtual Meeting
+In-Reply-To: <4C3319BE02000014000368DB@agrippa.hbz-nrw.de>
+References: <4C3319BE02000014000368DB@agrippa.hbz-nrw.de>
+Message-ID: <20100706101322.GB23858@openlib.org>
+
+  Adrian Pohl writes
+
+> Everybody is invited to join. As ten people have already announced
+> their participation on the etherpad, we'll use IRC as medium of
+> communication.
+
+  I think IRC is no fun. 
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From jonathan.gray at okfn.org  Tue Jul  6 11:19:35 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 6 Jul 2010 12:19:35 +0200
+Subject: [open-bibliography] Reminder: Wirtual Meeting
+In-Reply-To: <20100706101322.GB23858@openlib.org>
+References: <4C3319BE02000014000368DB@agrippa.hbz-nrw.de>
+	<20100706101322.GB23858@openlib.org>
+Message-ID: <AANLkTik5A1isoPZJgvdCDruLxNZswk2LrAQRFefSQgIC@mail.gmail.com>
+
+Yes we definitely want to do calls in future but:
+
+  (i) We've found Skype doesn't scale well to 8+ people.
+  (ii) Conference call facilities are expensive for participants (e.g.
+0.10 Euro/min x 60 = 6 EUR is not uncommon!).
+
+We're asking around about possible sponsorship for OKF to foot the
+bill for regular conference call facilities. If anyone has any ideas
+or is able to donate infrastructure for this call -- please say! ;-)
+
+J.
+
+On Tue, Jul 6, 2010 at 12:13 PM, Thomas Krichel <krichel at openlib.org> wrote:
+> ?Adrian Pohl writes
+>
+>> Everybody is invited to join. As ten people have already announced
+>> their participation on the etherpad, we'll use IRC as medium of
+>> communication.
+>
+> ?I think IRC is no fun.
+>
+>
+> ?Cheers,
+>
+> ?Thomas Krichel ? ? ? ? ? ? ? ? ? ?http://openlib.org/home/krichel
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?http://authorclaim.org/profile/pkr1
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? skype: thomaskrichel
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From krichel at openlib.org  Tue Jul  6 11:24:16 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 6 Jul 2010 12:24:16 +0200
+Subject: [open-bibliography] Reminder: Wirtual Meeting
+In-Reply-To: <AANLkTik5A1isoPZJgvdCDruLxNZswk2LrAQRFefSQgIC@mail.gmail.com>
+References: <4C3319BE02000014000368DB@agrippa.hbz-nrw.de>
+	<20100706101322.GB23858@openlib.org>
+	<AANLkTik5A1isoPZJgvdCDruLxNZswk2LrAQRFefSQgIC@mail.gmail.com>
+Message-ID: <20100706102416.GB25089@openlib.org>
+
+  Jonathan Gray writes
+> Yes we definitely want to do calls in future but:
+> 
+>   (i) We've found Skype doesn't scale well to 8+ people.
+
+  I have had no problems with a class of 10, with me in Novosibirsk
+  the rest around NYC. But I am blessed here with a symmetric
+  network at home. 
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From jonathan.gray at okfn.org  Tue Jul  6 14:02:01 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 6 Jul 2010 15:02:01 +0200
+Subject: [open-bibliography] Open bibliographic data workshop, Berlin,
+	7th October 2010
+Message-ID: <AANLkTilmwY8wDnSh6iFPIM1tqQeAnKEfu8o2dkLnvwQY@mail.gmail.com>
+
+Hi all,
+
+Just a quick note to let you know that we're currently organising an
+international open bibliographic data workshop / hackday at the Freie
+Universit?t Berlin on 7th October 2010.
+
+This will be very much focused on discussion and 'getting things done'
+-- rather than presentations per se. Key thing is to get interested
+folks together! Some ideas for things I'd be keen to see:
+
+  * discussion / drafting for a 'manual' for opening up bibliographic data
+  * discussion of the role of bibliographic data to help determine
+which works are in the public domain in which countries (to build
+services like publicdomainworks.net)
+  * discussion / hacking on key technologies -- e.g. versioning for
+data, RDF, data stores, user services, ...
+  * future of open bibliographic data -- what services people would
+like to see (e.g. using data as backbone for new kinds of research
+tools in digital humanities, representing data on maps/timelines)
+  * open bibliographic data / LOD
+  * add things here! ;-)
+
+Would be most grateful if folks could indicate their
+interest/availability on the following link so we get a clearer idea
+about numbers:
+
+  http://doodle.com/nrnssh36zty7wc98
+
+This will be a satellite event to the The 3rd Free Culture Research
+Conference on 8-9th October:
+
+  http://wikis.fu-berlin.de/display/fcrc/Home
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Tue Jul  6 14:34:20 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 6 Jul 2010 15:34:20 +0200
+Subject: [open-bibliography] Reminder: Wirtual Meeting
+In-Reply-To: <20100706102416.GB25089@openlib.org>
+References: <4C3319BE02000014000368DB@agrippa.hbz-nrw.de>
+	<20100706101322.GB23858@openlib.org>
+	<AANLkTik5A1isoPZJgvdCDruLxNZswk2LrAQRFefSQgIC@mail.gmail.com>
+	<20100706102416.GB25089@openlib.org>
+Message-ID: <AANLkTimlGDq9nSrXsfCyFTzldJCbmCWFl3YAAerP1ssg@mail.gmail.com>
+
+Okay for now I would suggest we use IRC as main 'assembly point' and
+Skype on an ad hoc basis if someone has fast/solid connection.
+Definitely have learnt the hard way that if you count on Skype and
+then it doesn't scale properly it can be very frustrating (people
+dropping out, can't hear anything, big delays, constantly dialling
+people in, etc)!
+
+J.
+
+On Tue, Jul 6, 2010 at 12:24 PM, Thomas Krichel <krichel at openlib.org> wrote:
+> ?Jonathan Gray writes
+>> Yes we definitely want to do calls in future but:
+>>
+>> ? (i) We've found Skype doesn't scale well to 8+ people.
+>
+> ?I have had no problems with a class of 10, with me in Novosibirsk
+> ?the rest around NYC. But I am blessed here with a symmetric
+> ?network at home.
+>
+> ?Cheers,
+>
+> ?Thomas Krichel ? ? ? ? ? ? ? ? ? ?http://openlib.org/home/krichel
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?http://authorclaim.org/profile/pkr1
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? skype: thomaskrichel
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ehs at pobox.com  Tue Jul  6 14:48:03 2010
+From: ehs at pobox.com (Ed Summers)
+Date: Tue, 6 Jul 2010 09:48:03 -0400
+Subject: [open-bibliography] Knowledge for All & the Citation Commons
+Message-ID: <AANLkTil3bzGC2wBZ5PxBeDyrfy4D5_wIY4lFcr5PkF-U@mail.gmail.com>
+
+I thought this recent news about the Knowledge for All project might
+be of interest:
+
+  Hot Type: Canadian University Hopes to Lead Fight Against High
+Subscription Prices
+  http://chronicle.com/article/Canadian-University-Hopes-to/66095/?key=QWN0JAc8ZXMfZ3AyKSBKeHZUb3UrIx5xPSVEYngaZVBT
+
+There seem to be an increasing amount of interest in bibliographic
+information on the web, such as the beginnings of a 'Citation Commons'
+being promoted by JISC and SURF?
+
+  Open Access for UK Research - JISC?s contributions
+  http://www.jisc.ac.uk/publications/programmerelated/2010/openaccessmainbrochure.aspx
+
+It would be great if we could all somehow work together on this. But
+perhaps it would be better to all share data in similar ways and let a
+thousand distributed, bibliographic flowers bloom?
+
+//Ed
+
+
+From jonathan.gray at okfn.org  Tue Jul  6 14:57:14 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 6 Jul 2010 15:57:14 +0200
+Subject: [open-bibliography] Knowledge for All & the Citation Commons
+In-Reply-To: <AANLkTil3bzGC2wBZ5PxBeDyrfy4D5_wIY4lFcr5PkF-U@mail.gmail.com>
+References: <AANLkTil3bzGC2wBZ5PxBeDyrfy4D5_wIY4lFcr5PkF-U@mail.gmail.com>
+Message-ID: <AANLkTilGmyoujnTEtuTkmXxuz1rYNC7OfbMJn2HHZ1kZ@mail.gmail.com>
+
+Thanks Ed!
+
+I'm hoping that we can go with the distributed option (flowers
+blooming) but also encourage collaboration by:
+
+  (i) inviting relevant folks to this group/list
+  (ii) building community via monthly calls and annual/biannual events
+
+Also promoting open bibliographic data at national library/policy
+level, via research funding bodies, etc will be important. And to do
+this effectively it will be valuable to continue to collate compelling
+examples of open bib data being reused in useful/interesting ways! ;-)
+
+J.
+
+On Tue, Jul 6, 2010 at 3:48 PM, Ed Summers <ehs at pobox.com> wrote:
+> I thought this recent news about the Knowledge for All project might
+> be of interest:
+>
+> ?Hot Type: Canadian University Hopes to Lead Fight Against High
+> Subscription Prices
+> ?http://chronicle.com/article/Canadian-University-Hopes-to/66095/?key=QWN0JAc8ZXMfZ3AyKSBKeHZUb3UrIx5xPSVEYngaZVBT
+>
+> There seem to be an increasing amount of interest in bibliographic
+> information on the web, such as the beginnings of a 'Citation Commons'
+> being promoted by JISC and SURF?
+>
+> ?Open Access for UK Research - JISC?s contributions
+> ?http://www.jisc.ac.uk/publications/programmerelated/2010/openaccessmainbrochure.aspx
+>
+> It would be great if we could all somehow work together on this. But
+> perhaps it would be better to all share data in similar ways and let a
+> thousand distributed, bibliographic flowers bloom?
+>
+> //Ed
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ehs at pobox.com  Tue Jul  6 15:05:13 2010
+From: ehs at pobox.com (Ed Summers)
+Date: Tue, 6 Jul 2010 10:05:13 -0400
+Subject: [open-bibliography] W3C LLD (Bibliography) group [was: Re: MARC
+	Codes for Forms of Musical Composition]
+In-Reply-To: <AANLkTim6hIz2JJ-V2lJOVNxpNp3plFoAVX4kaJ0FW6kS@mail.gmail.com>
+References: <AANLkTim6hIz2JJ-V2lJOVNxpNp3plFoAVX4kaJ0FW6kS@mail.gmail.com>
+Message-ID: <AANLkTilDgbuQ-gbwZfeyt1f9mKmaZd0Cjl4CnTBi2ICg@mail.gmail.com>
+
+On Mon, Jul 5, 2010 at 8:33 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> It would help me if anyone could briefly summarise what they have been / are
+> doing and how this can relate to the OKF Open Bibliography work - in
+> particular where we can each feed off the work of the other. I'd imagine,
+> for example, that OKF are more likley to get involved in particular
+> vocabularies and in collaborative instances (e.g. crowdsourcing)
+
+The Library Linked Data W3C Incubator Group just started up a couple
+months ago. So far the meetings have largely been oriented around
+getting the working group members acquainted, and starting to document
+some use cases for linked data in libraries [1]. More details about
+the group can be found in the incubator group charter [2]. It's my
+understanding that the incubator group will last 1 year, and after
+that they'll evaluate whether there is more work to be done in the
+area.
+
+We've seen some major national libraries releasing bibliographic
+linked data (Sweden, Germany, Hungary, US) and there is a desire to
+see if we can come up with some best practices to enable
+interoperability. It's also important that the various parties talk to
+each other, and coordinate activities if possible.
+
+William Waites of OKFN and several other open-bibliography
+participants are LLD members...so hopefully we'll see some good
+interplay between the two groups. In particular I think the okfn
+effort is better situated to put some of the ideas into practice,
+which will provide extremely valuable feedback.
+
+The LLD has a public discussion list [3], and I encourage you all to
+subscribe if you have the extra bandwidth.
+
+//Ed
+
+[1] http://www.w3.org/2005/Incubator/lld/wiki/UseCases
+[2] http://www.w3.org/2005/Incubator/lld/charter
+[3] http://lists.w3.org/Archives/Public/public-lld/
+
+
+From krichel at openlib.org  Tue Jul  6 16:07:44 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 6 Jul 2010 17:07:44 +0200
+Subject: [open-bibliography] W3C LLD (Bibliography) group [was: Re: MARC
+ Codes for Forms of Musical Composition]
+In-Reply-To: <AANLkTilDgbuQ-gbwZfeyt1f9mKmaZd0Cjl4CnTBi2ICg@mail.gmail.com>
+References: <AANLkTim6hIz2JJ-V2lJOVNxpNp3plFoAVX4kaJ0FW6kS@mail.gmail.com>
+	<AANLkTilDgbuQ-gbwZfeyt1f9mKmaZd0Cjl4CnTBi2ICg@mail.gmail.com>
+Message-ID: <20100706150744.GA27791@openlib.org>
+
+  Ed Summers writes
+
+> The LLD has a public discussion list [3], and I encourage you all to
+> subscribe if you have the extra bandwidth.
+
+  I did but it does not appear to be bandwith-intensive.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From e6h at e6h.org  Tue Jul  6 18:07:56 2010
+From: e6h at e6h.org (Erik Hetzner)
+Date: Tue, 06 Jul 2010 10:07:56 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <52E301F960B30049ADEFBCCF1CCAEF5908DF4D2E@OAEXCH4SERVER.oa.oclc.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<52E301F960B30049ADEFBCCF1CCAEF5908DF4D2E@OAEXCH4SERVER.oa.oclc.org>
+Message-ID: <E1OWBcq-0000yO-00@invisible.gimbo.net>
+
+At Tue, 6 Jul 2010 12:27:17 -0400,
+Young,Jeff (OR) wrote:
+> Let me address Ross' question before attempting to argue that restraint
+> to a single rdf:type is good practice.
+> 
+> Here is the example in question:
+> 
+> http://purl.org/NET/marccodes/muscomp/sy.rdf
+
+Hi,
+
+Once you bring OWL into the picture, every resource has rdf:type
+owl:Thing in addition to any defined rdf:type. Any rdfs:Class (C) that
+is rdfs:subClassOf another class (C') implies that every instance of
+type C is also of type C'. I would argue that a resource with multiple
+(implied) rdf:type(s) is the rule, not the exception.
+
+best, Erik Hetzner
+
+
+From jyoung at oclc.org  Tue Jul  6 17:27:17 2010
+From: jyoung at oclc.org (Young,Jeff (OR))
+Date: Tue, 6 Jul 2010 12:27:17 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+Message-ID: <52E301F960B30049ADEFBCCF1CCAEF5908DF4D2E@OAEXCH4SERVER.oa.oclc.org>
+
+Let me address Ross' question before attempting to argue that restraint
+to a single rdf:type is good practice.
+
+ 
+
+Here is the example in question:
+
+ 
+
+http://purl.org/NET/marccodes/muscomp/sy.rdf
+
+ 
+
+The owl:sameAs property asserts that these two URIs identify "the same
+thing" (http://www.w3.org/TR/owl-ref/#sameAs-def):
+
+ 
+
+http://purl.org/NET/marccodes/muscomp/sy#genre
+
+http://dbpedia.org/resource/Symphony
+
+ 
+
+The 1st URI responds with this statement:
+
+ 
+
+<http://purl.org/NET/marccodes/muscomp/sy#genre> rdf:type
+<http://purl.org/ontology/mo/Genre>
+
+ 
+
+The 2nd URI responds with this:
+
+ 
+
+<http://dbpedia.org/resource/Symphony> rdf:type
+<http://sw.opencyc.org/2008/06/10/concept/Mx4rwSmVfJwpEbGdrcN5Y29ycA> 
+
+<http://dbpedia.org/resource/Symphony> rdf:type
+<http://sw.opencyc.org/2008/06/10/concept/Mx4rvcNktpwpEbGdrcN5Y29ycA> 
+
+ 
+
+Other rdf:type and owl:sameAs assertions cascade from there in dbpedia.
+
+ 
+
+The following document isn't authoritative, but it discusses some of the
+confusion surrounding owl:sameAs and may also help us sort out the
+issues: 
+
+ 
+
+http://www.w3.org/2009/12/rdf-ws/papers/ws21. 
+
+ 
+
+Here is a quote:
+
+ 
+
+"However, owl:sameAs does have a particular semantics of individual
+identity, namely that the two individuals are exactly the same and so
+share all the same properties." (original emphasis).
+
+ 
+
+Since rdf:type is a property, I assume that an OWL reasoner should back
+me up in my claim that Ross' example has multiple rdf:types. I just
+downloaded Pellet and will report on the results once I figure out how
+to run it. Hopefully, it will demonstrate how "share" involving
+owl:sameAs plays out in practice.
+
+ 
+
+Jeff
+
+ 
+
+ 
+
+From: rxs at talisplatform.com [mailto:rxs at talisplatform.com] On Behalf Of
+Ross Singer
+Sent: Monday, July 05, 2010 10:03 PM
+To: William Waites
+Cc: Young,Jeff (OR); Antoine Isaac; Karen Coyle; public-xg-lld at w3.org;
+List for Working Group on Open Bibliographic Data; public-lld
+Subject: Re: MARC Codes for Forms of Musical Composition
+
+ 
+
+My question was more based on the fact that I don't think anything
+should have explicitly set multiple rdf:types in there.
+
+ 
+
+If so, I'm curious to what they are.
+
+ 
+
+-Ross.
+
+On Mon, Jul 5, 2010 at 3:35 PM, William Waites <william.waites at okfn.org>
+wrote:
+
+On 10-07-05 10:35, Ross Singer wrote:
+> Jeff, which resources have multiple rdf:types?  Of the muscomps, they
+> should all only be mo:Genre.
+
+I think it is perfectly valid to have multiple types. At the
+very minimum everything is an rdfs:Resource whether
+stated explicitly or not. If something breaks when it is
+explicitly stated because it doesn't like multiple types I
+think that something is itself broken...
+
+
+Cheers,
+-w
+
+--
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+               http://ordf.org/
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100706/f39d0cf3/attachment-0001.htm>
+
+From e6h at e6h.org  Tue Jul  6 20:36:16 2010
+From: e6h at e6h.org (Erik Hetzner)
+Date: Tue, 06 Jul 2010 12:36:16 -0700
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <87r5jga68a.wl%erik.hetzner@ucop.edu>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<52E301F960B30049ADEFBCCF1CCAEF5908DF4D2E@OAEXCH4SERVER.oa.oclc.org>
+	<87r5jga68a.wl%erik.hetzner@ucop.edu>
+Message-ID: <E1OWDwH-0007Do-00@invisible.gimbo.net>
+
+(Sorry for the spam; this was sent from the wrong email address, so I
+am re-sending.)
+
+At Tue, 06 Jul 2010 10:07:56 -0700,
+Erik Hetzner wrote:
+> 
+> At Tue, 6 Jul 2010 12:27:17 -0400,
+> Young,Jeff (OR) wrote:
+> > Let me address Ross' question before attempting to argue that restraint
+> > to a single rdf:type is good practice.
+> > 
+> > Here is the example in question:
+> > 
+> > http://purl.org/NET/marccodes/muscomp/sy.rdf
+> 
+> Hi,
+> 
+> Once you bring OWL into the picture, every resource has rdf:type
+> owl:Thing in addition to any defined rdf:type. Any rdfs:Class (C) that
+> is rdfs:subClassOf another class (C') implies that every instance of
+> type C is also of type C'. I would argue that a resource with multiple
+> (implied) rdf:type(s) is the rule, not the exception.
+> 
+> best, Erik Hetzner
+
+
+From pohl at hbz-nrw.de  Wed Jul  7 11:00:04 2010
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Wed, 07 Jul 2010 12:00:04 +0200
+Subject: [open-bibliography] Minutes of the first virtual meeting
+Message-ID: <4C346C440200001400036935@agrippa.hbz-nrw.de>
+
+Hello everybody,
+
+I am sending you the minutes of the yesterday's first virtual meeting of the OKFN Working Gropu on Open Bibliographic Data. It went quite well with using chat and etherpad and I think the meeting was very successfull. Thanks to all participants. We worked on a number of points and would appreciate everybody on the list sharing their thoughts and suggestions.
+
+On the etherpad (http://okfnpad.org/Qv1jMMQL1h) you'll find the minutes as well as the chatlog and additional informations on upcoming events and topics not discussed. Feel free to add and edit if I missed something. (E.G. I think not all participants are listed...)
+
+Cheers
+Adrian
+
+
+1st virtual meeting of the OKFN Working Group for Open Bibliographic Data
+
+Date: July, 6th 2010, 16:00 UK time (BST)
+
+Channels: 
+
+Meet on IRC (see: <http://okfn.org/contact>). If less than 8 people we'll  try Skype. Meeting results will be gathered on this etherpad.
+
+Participants
+
+- Adrian Pohl (moderation)
+- Rufus Pollock (actual moderation ;-)
+- Thomas Krichel
+- Felix Ostrowski
+- Peter Murray-Rust 
+- Karen Coyle 
+- Micah Altman
+- Ed Summers
+- William Waites
+- John Mark Ockerbloom
+- Ross Singer
+- Ben O'Steen
+
+Apologies
+
+- Tim Hubbard (but can't join until 17.00 at earliest)
+- MJ Ray (software.coop, but on prior engagement for another co-op)
+
+
+Agenda
+======
+
+1. Gathering updates and news about Open Bibliographic Data / guest blog posts on OKFN blog
+
+2. Open Data Flyer (http://wiki.okfn.org/Open%20Bibliographic%20Data%20Flyer ).
+
+3. Open Data Charter
+  
+4.  Open bibliographic data  workshop, Berlin, 7th October 2010
+
+5. usage of  open-bibliography   mailing list
+
+6. Regular virtual meetings
+
+
+Minutes
+=======
+
+1. Gathering updates and news about Open Bibliographic Data
+
+We looked for a tag for open bibliography related sources to be share via different platforms (twitter, delicious etc.).
+
+The following suggestions were made and voted for:
+
+      * obib: -1 -1
+      * openbiblio: +1 +1 +1 +1 +1  -1 (10 chars!) <-- dead sourceforge project by same name
+      * openbibliodata: +0
+      * openbib:  +1  <-- live software project by same name
+      * obid: -1 +1 +1
+      * openbibdata: +0
+      * obd: -1
+
+Obviously, openbiblio got the most votes. What does erverybody else think?
+
+Guest blog posts on OKFN blog about projects and thoughts on open bibliographic data are always welcome. Everybody is invited to contribute.
+  
+
+2. Open Data Flyer
+
+See this thread for background: http://lists.okfn.org/pipermail/open-bibliography/2010-May/000076.html 
+
+We launched a Pad version of the flyer for ease of collaborative editing here: http://okfnpad.org/bibliography-flyer 
+
+ACTIONS: 
+* Optimizing, layouting, printing and distributing it (Karen Coyle said she could try to do something more  "designed".)
+* Aim: one page A4
+* Designing an image/logo? Suggestions?
+      * AP: I am thinking about data with wings... But how do you draw data?
+      * Could reuse open data buttons merging them with something bibliographic?
+         --> http://opendefinition.org/buttons/ 
+* Re-translating to German. Translations to other languages?
+
+
+3. Open Data Charter
+Background: See the proposal on the mailing list: http://lists.okfn.org/pipermail/open-bibliography/2010-June/000209.html 
+
+This charter should be written short and simple. It should suggest a basic set of open data principles for library data. E.g. like Panton Principles (http://pantonprinciples.org/). Could also aim to get sign on/support from key people in libraries, archives, etc.
+
+See also: http://wiki.okfn.org/FutureOfBibliographicControl 
+
+ACTION: put up pad/wiki page and arrange a 15/30m sprint to get a core set out. Could reuse some of flyer and already have a good basis.
+
+
+4.  Open bibliographic data workshop, Berlin, 7th October 2010
+    * Details at: http://lists.okfn.org/pipermail/open-bibliography/2010-July/000253.html 
+      * Please participate in the Doodle poll to find out who can participate: http://doodle.com/nrnssh36zty7wc98 
+     
+
+5. usage of  open-bibliography  mailing list
+
+Felix Ostrowski brought this up "hoping not to have too many discussions on frbr here :-)"
+Basically, participants agreed that FRBR discussions should be limited but can't be avoided completely. William Waites reminded of the existence of openbiblio-dev for software and implementation details. openbiblio-dev list was  launched, see http://lists.okfn.org/pipermail/open-bibliography/2010-July/000253.html for details.
+
+
+6. Regular virtual meetings
+     * Date, time: We agreed on sticking to the first tuesday of the month, 16:00 UK time. Is this OK with everybody else?
+     * Adrian is trying to send a reminder before every meeting. (I'm on holiday during the next date & will ask Felix to do that.)
+     * tools
+       * The chat/etherpad combination worked quite well so we'll use this duo as long as more than eight people join the meeting.
+       * There were some objections to skype because it is not open. The OKFN is seeking for alternatives, see http://lists.okfn.org/pipermail/open-bibliography/2010-July/000251.html 
+    
+
+6b. Extra: Updates from the W3C incubator group on linked library data (lld-xg)
+
+We agreed on getting updates about the work of the lld-xg at each virtual meeting. For infos about this group see http://www.w3.org/2005/Incubator/lld/.
+Participants of this W3C group who are also in the OKFN Openbiblio group are:
+* Karen Coyle
+* William Waites
+* Ross Singer
+* Ed Summers
+
+BTW, Jodi Schneider set up a twitter list of lld-xg participants: http://twitter.com/jschneider/lldxg-members 
+
+
+7. Items not covered on which we may hold a skype call. Please add name if interested:
+
+  1. discussing the  future of bibliographic data sharing (e.g. Z39.50, web services, MARC21, MARCXML)
+      * kc; isn't this the whole banana? we need to break it down into manageable chunks
+        * Agree. Do you want to suggest a breakdown :)
+        kc:i'm organizing the topic list for the lld wg -- i think that will give us an outline. will share when done
+
+
+
+From william.waites at okfn.org  Thu Jul  8 07:48:34 2010
+From: william.waites at okfn.org (William Waites)
+Date: Thu, 08 Jul 2010 02:48:34 -0400
+Subject: [open-bibliography] MARC Codes for Forms of Musical Composition
+In-Reply-To: <6548F17059905B48B2A6F28CE3692BAA07589F01@OAEXCH4SERVER.oa.oclc.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org><AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com><52E301F960B30049ADEFBCCF1CCAEF5908DF4D2E@OAEXCH4SERVER.oa.oclc.org><87r5jga68a.wl%erik.hetzner@ucop.edu><E1OWDwH-0007Do-00@invisible.gimbo.net><E1OWEH7-0000zn-00@invisible.gimbo.net><52E301F960B30049ADEFBCCF1CCAEF5908DF5184@OAEXCH4SERVER.oa.oclc.org><AANLkTilFSy7SEbecVithOY0DCTD0IXF9NeK3YkfqZsHZ@mail.gmail.com><6548F17059905B48B2A6F28CE3692BAA07589E0A@OAEXCH4SERVER.oa.oclc.org><AANLkTilYxMjX8vOoeki3DV4HM3Vjfqze_HyTDspJgL0_@mail.gmail.com><E1OWaf5-0002Pe-00@invisible.gimbo.net><6548F17059905B48B2A6F28CE3692BAA07589EE4@OAEXCH4SERVER.oa.oclc.org>
+	<AANLkTimBdmrQRZnknanC6-5iPQYhb59g69jY4BHX-RbE@mail.gmail.com>
+	<6548F17059905B48B2A6F28CE3692BAA07589F01@OAEXCH4SERVER.oa.oclc.org>
+Message-ID: <4C3574C2.10402@okfn.org>
+
+On 10-07-07 17:23, Houghton,Andrew wrote:
+>
+>   <!-- Variant Representation -->
+>
+>   <foaf:Person rdf:about="#foaf:Person">
+>
+>     <dct:identifier>1</dct:identifier>
+>
+>  
+>
+>   <!-- Variant Representation -->
+>
+>   <skos:Concept rdf:about="#skos:Concept">
+>
+>     <dct:identifier>5</dct:identifier>
+>
+>
+
+Another way to handle this is to not use generic dct:identifiers
+like this. Instead use subProperties:
+
+personid rdfs:subPropertyOf dct:identifier .
+conceptid rdfs:subPropertyOf dct:identifier .
+
+Talino_Manu personid 123 .
+Talino_Manu conceptid 456 .
+
+{ ?sub rdfs:subProperty ?super . ?thing ?sub ?obj } =>
+{ ?thing ?super ?obj } .
+
+
+Think of the {A} =>  {B} (read => as "implies)  as analogous
+to a constraint or trigger in a relational database.
+ 
+A generic search would use dct:identifier. Something that knew
+about or implemented foaf:Person or skos:Concept in particular.
+So,
+
+SELECT ?thing WHERE { ?thing dct:identifier 123 }
+SELECT ?person WHERE { ?person personid 123 }
+SELECT ?concept WHERE { ?concept conceptid 456 }
+
+Would all work as expected.
+
+This can be mirrored in the object model that doesn't really
+need to support multiple inheritance. You might do something
+like this in Python, for example:
+
+class Person(Graph):
+	def mail(self, from_addr, message):
+		from smtplib import SMTP
+		s = SMTP()
+		addrs = self.objects(self.identifier, FOAF["mbox"])
+		s.sendmail(from_addr, addrs, message)
+
+class Concept(Graph):
+	def concepts(self):
+		yield self
+		for parent in self.objects(self.identifier, SKOS["subConceptOf"]):
+			yield Concept(identifier=parent.identifier)
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100708/37b07979/attachment.htm>
+
+From bosteen at gmail.com  Thu Jul  8 11:11:57 2010
+From: bosteen at gmail.com (Benjamin O'Steen)
+Date: Thu, 08 Jul 2010 11:11:57 +0100
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another FRBR thread)
+In-Reply-To: <6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+Message-ID: <1278583917.6422.26.camel@beast>
+
+
+Two hopefully quick points:
+
+After the massive FRBR thread, I came away with the notion that Work and
+Expression are redundant levels, and that by redrawing the lines between
+the layers and adding in more verbs we could better serve the aim of
+FRBR'ising the records.
+
+So... where are the verbs? I've been moving house etc so haven't
+followed the threads as close as I'd like, but I do think this is a
+perfect opportunity to collaborate on a list of verbs that interrelates
+the classes that remain - the new 'Work', 'Manifestation' and 'Item'
+
+Shall we kick off an etherpad for this? or has someone already started
+collating predicates and I am just behind the times?
+
+--------------------
+
+Electronic Items
+
+Item doesn't make an awful lot of sense with regards electronics or
+born-digital items. I think that we might broaden the schema a little
+here to allow something like an OAI-ORE Aggregation here instead of an
+Item. Would it be preferable to subclass it as 'DigitalItem' or to use
+it unaltered?
+
+This would enable us to describe whatever granularity of digital item we
+want or are able to using RDF relationships.
+
+Ben
+
+PS forgive me if I have just summarised previous conversations - I am
+catching up!
+
+
+
+From mjr at phonecoop.coop  Thu Jul  8 14:35:16 2010
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Thu,  8 Jul 2010 14:35:16 +0100 (BST)
+Subject: [open-bibliography] Reminder: Wirtual Meeting
+In-Reply-To: <AANLkTik5A1isoPZJgvdCDruLxNZswk2LrAQRFefSQgIC@mail.gmail.com>
+Message-ID: <20100708133516.64971F721E@nail.towers.org.uk>
+
+Jonathan Gray
+> Yes we definitely want to do calls in future but:
+> 
+>   (i) We've found Skype doesn't scale well to 8+ people.
+>   (ii) Conference call facilities are expensive for participants (e.g.
+> 0.10 Euro/min x 60 = 6 EUR is not uncommon!).
+> 
+> We're asking around about possible sponsorship for OKF to foot the
+> bill for regular conference call facilities. If anyone has any ideas
+> or is able to donate infrastructure for this call -- please say! ;-)
+
+The *Open* Bibliographic Data Working Group of the *Open* Knowledge
+Foundation shouldn't be using closed, divisive Skype, should it?
+
+http://sipphone.com/conference/ might work for this group but I've not
+tested how far it scales.  Use sip:1222xxxxxxx at proxy01.sipphone.com
+URLs for other SIP phones and regular phones might be able to call in
+on http://www.sipbroker.com/sipbroker/action/pstnNumbers with prefix
+*747.  Anyone know other similar SIP services?
+
+Hope that helps,
+-- 
+MJ Ray (slef) Webmaster and developer for hire at | software
+www.software.coop http://mjr.towers.org.uk        |  .... co
+IMO only: see http://mjr.towers.org.uk/email.html |  .... op
+
+
+From kcoyle at kcoyle.net  Thu Jul  8 14:41:04 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 08 Jul 2010 06:41:04 -0700
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another FRBR thread)
+In-Reply-To: <1278583917.6422.26.camel@beast>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+Message-ID: <20100708064104.ehzow7x1c0skog88@kcoyle.net>
+
+Verbs can be found at:
+
+http://vocab.org/frbr/core.html
+
+http://metadataregistry.org/schemaprop/list/schema_id/5.html
+
+kc
+
+Quoting Benjamin O'Steen <bosteen at gmail.com>:
+
+>
+> Two hopefully quick points:
+>
+> After the massive FRBR thread, I came away with the notion that Work and
+> Expression are redundant levels, and that by redrawing the lines between
+> the layers and adding in more verbs we could better serve the aim of
+> FRBR'ising the records.
+>
+> So... where are the verbs? I've been moving house etc so haven't
+> followed the threads as close as I'd like, but I do think this is a
+> perfect opportunity to collaborate on a list of verbs that interrelates
+> the classes that remain - the new 'Work', 'Manifestation' and 'Item'
+>
+> Shall we kick off an etherpad for this? or has someone already started
+> collating predicates and I am just behind the times?
+>
+> --------------------
+>
+> Electronic Items
+>
+> Item doesn't make an awful lot of sense with regards electronics or
+> born-digital items. I think that we might broaden the schema a little
+> here to allow something like an OAI-ORE Aggregation here instead of an
+> Item. Would it be preferable to subclass it as 'DigitalItem' or to use
+> it unaltered?
+>
+> This would enable us to describe whatever granularity of digital item we
+> want or are able to using RDF relationships.
+>
+> Ben
+>
+> PS forgive me if I have just summarised previous conversations - I am
+> catching up!
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From bosteen at gmail.com  Thu Jul  8 15:14:44 2010
+From: bosteen at gmail.com (Benjamin O'Steen)
+Date: Thu, 08 Jul 2010 15:14:44 +0100
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another FRBR thread)
+In-Reply-To: <20100708064104.ehzow7x1c0skog88@kcoyle.net>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<20100708064104.ehzow7x1c0skog88@kcoyle.net>
+Message-ID: <1278598484.8477.10.camel@beast>
+
+Thanks - I wasn't quite clear in hindsight. These predicates apply to
+the Work, Expression, Manifestation and Item hierarchy and have tight
+range and domain constraints as prescribed by the FRBR model.
+
+I was talking about realining or adding to the predicates when you take
+into consideration that some Expression-level predicates are arguably
+Work level relationships (or should be): eg translations and so on. For
+example, changing the range+domain of
+http://metadataregistry.org/schemaprop/show/id/1635.html
+(hasATranslation) from Expression to perhaps a union of Expression and
+Work? or simply from E -> E to W -> W?
+
+(predicate codified into RDF here:
+http://vocab.org/frbr/core.html#translation)
+
+Do we have a list of relationships where the range and domain need to be
+loosened, based on previous discussions? Will we require more
+relationships to describe the Works properly?
+
+Ben
+
+
+On Thu, 2010-07-08 at 06:41 -0700, Karen Coyle wrote:
+> Verbs can be found at:
+> 
+> http://vocab.org/frbr/core.html
+> 
+> http://metadataregistry.org/schemaprop/list/schema_id/5.html
+> 
+> kc
+> 
+> Quoting Benjamin O'Steen <bosteen at gmail.com>:
+> 
+> >
+> > Two hopefully quick points:
+> >
+> > After the massive FRBR thread, I came away with the notion that Work and
+> > Expression are redundant levels, and that by redrawing the lines between
+> > the layers and adding in more verbs we could better serve the aim of
+> > FRBR'ising the records.
+> >
+> > So... where are the verbs? I've been moving house etc so haven't
+> > followed the threads as close as I'd like, but I do think this is a
+> > perfect opportunity to collaborate on a list of verbs that interrelates
+> > the classes that remain - the new 'Work', 'Manifestation' and 'Item'
+> >
+> > Shall we kick off an etherpad for this? or has someone already started
+> > collating predicates and I am just behind the times?
+> >
+> > --------------------
+> >
+> > Electronic Items
+> >
+> > Item doesn't make an awful lot of sense with regards electronics or
+> > born-digital items. I think that we might broaden the schema a little
+> > here to allow something like an OAI-ORE Aggregation here instead of an
+> > Item. Would it be preferable to subclass it as 'DigitalItem' or to use
+> > it unaltered?
+> >
+> > This would enable us to describe whatever granularity of digital item we
+> > want or are able to using RDF relationships.
+> >
+> > Ben
+> >
+> > PS forgive me if I have just summarised previous conversations - I am
+> > catching up!
+> >
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+> 
+> 
+> 
+
+
+
+From william.waites at okfn.org  Thu Jul  8 17:29:31 2010
+From: william.waites at okfn.org (William Waites)
+Date: Thu, 08 Jul 2010 12:29:31 -0400
+Subject: [open-bibliography] owl:sameAs + congruence closure + similarity
+In-Reply-To: <AANLkTinRQCV4_kqQSyz-EwbMtFWMpgnRjLc5bls8nqpB@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>	<4C3233F1.3030601@okfn.org>	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>	<52E301F960B30049ADEFBCCF1CCAEF5908DF4D2E@OAEXCH4SERVER.oa.oclc.org>	<87r5jga68a.wl%erik.hetzner@ucop.edu>	<E1OWDwH-0007Do-00@invisible.gimbo.net>	<E1OWEH7-0000zn-00@invisible.gimbo.net>	<52E301F960B30049ADEFBCCF1CCAEF5908DF5184@OAEXCH4SERVER.oa.oclc.org>	<AANLkTilFSy7SEbecVithOY0DCTD0IXF9NeK3YkfqZsHZ@mail.gmail.com>	<6548F17059905B48B2A6F28CE3692BAA07589E0A@OAEXCH4SERVER.oa.oclc.org>	<AANLkTilYxMjX8vOoeki3DV4HM3Vjfqze_HyTDspJgL0_@mail.gmail.com>	<E1OWaf5-0002Pe-00@invisible.gimbo.net>	<6548F17059905B48B2A6F28CE3692BAA07589EE4@OAEXCH4SERVER.oa.oclc.org>	<AANLkTimBdmrQRZnknanC6-5iPQYhb59g69jY4BHX-RbE@mail.gmail.com>	<6548F17059905B48B2A6F28CE3692BAA07589F01@OAEXCH4SERVER.oa.oclc.org>	<4C353DE5.5040100@okfn.org>
+	<AANLkTinRQCV4_kqQSyz-EwbMtFWMpgnRjLc5bls8nqpB@mail.gmail.com>
+Message-ID: <4C35FCEB.7000809@okfn.org>
+
+On 10-07-08 12:14, Ross Singer wrote:
+>
+> I agree with Bernard that the use of owl:sameAs may wind up being
+> problematic in the long run and I'm not sure when, how or if it can be
+> reconciled.  There's a big gulf between rdfs:seeAlso and owl:sameAs
+> and, unfortunately, there's not much to use in between.  People want
+> to say that they're talking about the same /thing/ as someone else but
+> the only broadly accepted way to do so (currently) is to pull out the
+> atomic bomb that is owl:sameAs.
+>
+
+Speaking with my desk-neighbour at the university who is
+a reseacher in compilers, he thinks the notion of congruence
+closure will be useful in an implementation that tries to deal
+with owl:sameAs. You might pull in descriptions of everything
+in the graph described by owl:sameAs relationships, pick
+one (perhaps at random) to be canonical (within the program),
+move all properties to that one and treat the others as
+indirections.
+
+Only if people really mean owl:sameAs when they  say
+owl:sameAs though...
+
+I think there's actually a deep philosophical problem that
+underlies the gulv between dfs:seeAlso and owl:sameAs.
+It's easy to assert identity and it's easy to assert similarity
+in an undefined way. Defining specific, meaningful notions
+of "relevantly similar in this or that way" is hard.
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From kcoyle at kcoyle.net  Thu Jul  8 18:33:07 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 08 Jul 2010 10:33:07 -0700
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another FRBR thread)
+In-Reply-To: <1278598484.8477.10.camel@beast>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<20100708064104.ehzow7x1c0skog88@kcoyle.net>
+	<1278598484.8477.10.camel@beast>
+Message-ID: <20100708103307.b7hxhu434ooccc0k@kcoyle.net>
+
+Quoting Benjamin O'Steen <bosteen at gmail.com>:
+
+
+> I was talking about realining or adding to the predicates when you take
+> into consideration that some Expression-level predicates are arguably
+> Work level relationships (or should be): eg translations and so on. For
+> example, changing the range+domain of
+> http://metadataregistry.org/schemaprop/show/id/1635.html
+> (hasATranslation) from Expression to perhaps a union of Expression and
+> Work? or simply from E -> E to W -> W?
+
+I'm still not clear on what you are trying to do, but perhaps this helps:
+
+... in the FRBR document "is expression of" is a predicate that  
+relates an expression to a Work. Between each of the four Group 1  
+entities there appears to be a single relationship:
+   - is expression of (has expression)  E <-> Work
+   - is manifestation of (has manifestation) M <-> E
+   - is item of (has item) I <-> M
+
+As for translations, Work is an abstract, until it is expressed, so  
+only the Expression can be translated, not the Work. (That's the FRBR  
+logic, I'm not necessarily defending it.)
+
+I do think it is problematic that relationships have been specified as  
+relating only between certain FRBR entities. In some cases I can see  
+the logic (as in above on translations), in other cases I cannot.  
+There's a lot about the implementation of FRBR that I think is far  
+from settled.
+
+Actually, it's worse than that. A predicate is a relationship between  
+properties, yet the FRBR predicates have been made specific to a  
+particular entity. It's not clear to me whether the predicate as  
+defined is subject + predicate or predicate + object.
+
+Note that in the publishing of RDA (which uses a lot of FRBR elements)  
+we have tried to create a "general" level where properties and  
+predicates are free of the FRBR entities -- in particular the Group 1  
+entities -- so that communities with different interpretations of FRBR  
+can continue to operate.
+
+kc
+
+>
+> (predicate codified into RDF here:
+> http://vocab.org/frbr/core.html#translation)
+>
+> Do we have a list of relationships where the range and domain need to be
+> loosened, based on previous discussions? Will we require more
+> relationships to describe the Works properly?
+>
+> Ben
+>
+>
+> On Thu, 2010-07-08 at 06:41 -0700, Karen Coyle wrote:
+>> Verbs can be found at:
+>>
+>> http://vocab.org/frbr/core.html
+>>
+>> http://metadataregistry.org/schemaprop/list/schema_id/5.html
+>>
+>> kc
+>>
+>> Quoting Benjamin O'Steen <bosteen at gmail.com>:
+>>
+>> >
+>> > Two hopefully quick points:
+>> >
+>> > After the massive FRBR thread, I came away with the notion that Work and
+>> > Expression are redundant levels, and that by redrawing the lines between
+>> > the layers and adding in more verbs we could better serve the aim of
+>> > FRBR'ising the records.
+>> >
+>> > So... where are the verbs? I've been moving house etc so haven't
+>> > followed the threads as close as I'd like, but I do think this is a
+>> > perfect opportunity to collaborate on a list of verbs that interrelates
+>> > the classes that remain - the new 'Work', 'Manifestation' and 'Item'
+>> >
+>> > Shall we kick off an etherpad for this? or has someone already started
+>> > collating predicates and I am just behind the times?
+>> >
+>> > --------------------
+>> >
+>> > Electronic Items
+>> >
+>> > Item doesn't make an awful lot of sense with regards electronics or
+>> > born-digital items. I think that we might broaden the schema a little
+>> > here to allow something like an OAI-ORE Aggregation here instead of an
+>> > Item. Would it be preferable to subclass it as 'DigitalItem' or to use
+>> > it unaltered?
+>> >
+>> > This would enable us to describe whatever granularity of digital item we
+>> > want or are able to using RDF relationships.
+>> >
+>> > Ben
+>> >
+>> > PS forgive me if I have just summarised previous conversations - I am
+>> > catching up!
+>> >
+>> >
+>> > _______________________________________________
+>> > open-bibliography mailing list
+>> > open-bibliography at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> >
+>>
+>>
+>>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From william.waites at okfn.org  Thu Jul  8 18:56:30 2010
+From: william.waites at okfn.org (William Waites)
+Date: Thu, 08 Jul 2010 13:56:30 -0400
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another	FRBR thread)
+In-Reply-To: <20100708103307.b7hxhu434ooccc0k@kcoyle.net>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>	<4C3233F1.3030601@okfn.org>	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>	<1278583917.6422.26.camel@beast>	<20100708064104.ehzow7x1c0skog88@kcoyle.net>	<1278598484.8477.10.camel@beast>
+	<20100708103307.b7hxhu434ooccc0k@kcoyle.net>
+Message-ID: <4C36114E.6000901@okfn.org>
+
+On 10-07-08 13:33, Karen Coyle wrote:
+> Quoting Benjamin O'Steen <bosteen at gmail.com>:
+>
+>
+>> I was talking about realining or adding to the predicates when you take
+>> into consideration that some Expression-level predicates are arguably
+>> Work level relationships (or should be): eg translations and so on. For
+>> example, changing the range+domain of
+>> http://metadataregistry.org/schemaprop/show/id/1635.html
+>> (hasATranslation) from Expression to perhaps a union of Expression and
+>> Work? or simply from E -> E to W -> W?
+>
+> I'm still not clear on what you are trying to do, but perhaps this helps:
+>
+> ... in the FRBR document "is expression of" is a predicate that
+> relates an expression to a Work. Between each of the four Group 1
+> entities there appears to be a single relationship:
+>   - is expression of (has expression)  E <-> Work
+>   - is manifestation of (has manifestation) M <-> E
+>   - is item of (has item) I <-> M
+>
+> As for translations, Work is an abstract, until it is expressed, so
+> only the Expression can be translated, not the Work. (That's the FRBR
+> logic, I'm not necessarily defending it.)
+
+I think Ben is suggesting taking some inspiration from FRBR,
+but ditching its Expression class and defining more predicates.
+
+One way of doing this that is nice and reuseful is to use the
+existing FRBR classes with different relationship logic and
+reuse FRBR predicates where possible. The predicates embed
+FRBR relationship logic in their constraints so they would have
+to be changed to support our logic (FRBR absent Expression).
+
+I think it is best to define classes in a new vocabulary rather
+than try to shoehorn a different conceptual model into FRBR --
+see [0] which is very provisional and will try to follow the
+consensus on the wiki page.
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From kcoyle at kcoyle.net  Thu Jul  8 19:24:16 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 08 Jul 2010 11:24:16 -0700
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another FRBR thread)
+In-Reply-To: <4C36114E.6000901@okfn.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<20100708064104.ehzow7x1c0skog88@kcoyle.net>
+	<1278598484.8477.10.camel@beast>
+	<20100708103307.b7hxhu434ooccc0k@kcoyle.net>
+	<4C36114E.6000901@okfn.org>
+Message-ID: <20100708112416.q5ziq30jwoo40gog@kcoyle.net>
+
+I agree that if we do not want to use FRBR it would be better to  
+create another model rather than try to create FRBR/prime. I would  
+rather see a unified bibliographic record (not divided into WEMI) and  
+a set of agents. I'm not sure what to do about subjects because I  
+assume that ANYTHING can be a subject, so subject-ness is a  
+relationship, not an entity. That would leave it open for you to pull  
+in any property in the linked data space as a subject.
+
+FRBR basically solidifies the traditional library catalog card view,  
+which may be why so many of us are having a hard time with it.
+
+kc
+
+Quoting William Waites <william.waites at okfn.org>:
+
+> On 10-07-08 13:33, Karen Coyle wrote:
+>> Quoting Benjamin O'Steen <bosteen at gmail.com>:
+>>
+>>
+>>> I was talking about realining or adding to the predicates when you take
+>>> into consideration that some Expression-level predicates are arguably
+>>> Work level relationships (or should be): eg translations and so on. For
+>>> example, changing the range+domain of
+>>> http://metadataregistry.org/schemaprop/show/id/1635.html
+>>> (hasATranslation) from Expression to perhaps a union of Expression and
+>>> Work? or simply from E -> E to W -> W?
+>>
+>> I'm still not clear on what you are trying to do, but perhaps this helps:
+>>
+>> ... in the FRBR document "is expression of" is a predicate that
+>> relates an expression to a Work. Between each of the four Group 1
+>> entities there appears to be a single relationship:
+>>   - is expression of (has expression)  E <-> Work
+>>   - is manifestation of (has manifestation) M <-> E
+>>   - is item of (has item) I <-> M
+>>
+>> As for translations, Work is an abstract, until it is expressed, so
+>> only the Expression can be translated, not the Work. (That's the FRBR
+>> logic, I'm not necessarily defending it.)
+>
+> I think Ben is suggesting taking some inspiration from FRBR,
+> but ditching its Expression class and defining more predicates.
+>
+> One way of doing this that is nice and reuseful is to use the
+> existing FRBR classes with different relationship logic and
+> reuse FRBR predicates where possible. The predicates embed
+> FRBR relationship logic in their constraints so they would have
+> to be changed to support our logic (FRBR absent Expression).
+>
+> I think it is best to define classes in a new vocabulary rather
+> than try to shoehorn a different conceptual model into FRBR --
+> see [0] which is very provisional and will try to follow the
+> consensus on the wiki page.
+>
+> Cheers,
+> -w
+>
+> --
+> William Waites           <william.waites at okfn.org>
+> Mob: +44 789 798 9965    Open Knowledge Foundation
+> Fax: +44 131 464 4948                Edinburgh, UK
+>
+> RDF Indexing, Clustering and Inferencing in Python
+> 		http://ordf.org/
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From rxs at talisplatform.com  Thu Jul  8 16:35:05 2010
+From: rxs at talisplatform.com (Ross Singer)
+Date: Thu, 8 Jul 2010 11:35:05 -0400
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <1278583917.6422.26.camel@beast>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+Message-ID: <AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+
+On Thu, Jul 8, 2010 at 6:11 AM, Benjamin O'Steen <bosteen at gmail.com> wrote:
+
+>
+> Electronic Items
+>
+> Item doesn't make an awful lot of sense with regards electronics or
+> born-digital items. I think that we might broaden the schema a little
+> here to allow something like an OAI-ORE Aggregation here instead of an
+> Item. Would it be preferable to subclass it as 'DigitalItem' or to use
+> it unaltered?
+>
+>
+Why not?  Could you have multiple representations of the same
+'manifestation' (PDF, jpeg, PS, HTML, etc.).
+
+I mean, those are still completely analogous to 'item', aren't they?
+
+-Ross.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100708/e2eeebe1/attachment.htm>
+
+From kcoyle at kcoyle.net  Fri Jul  9 20:03:03 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Fri, 09 Jul 2010 12:03:03 -0700
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another  FRBR thread)
+In-Reply-To: <AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+Message-ID: <20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+
+Quoting Ross Singer <rxs at talisplatform.com>:
+
+
+> Why not?  Could you have multiple representations of the same
+> 'manifestation' (PDF, jpeg, PS, HTML, etc.).
+>
+> I mean, those are still completely analogous to 'item', aren't they?
+
+They're separate manifestations for publishers and (usually)  
+libraries. ISBN rules require a different ISBN for each carrier (back  
+to content v. carrier), although not all publishers follow that, and  
+it may not make sense where carriers are output on the fly.
+
+The basic rule is that manifestation includes the physical format;  
+item is a single instance.
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From rxs at talisplatform.com  Fri Jul  9 20:21:39 2010
+From: rxs at talisplatform.com (Ross Singer)
+Date: Fri, 9 Jul 2010 15:21:39 -0400
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+Message-ID: <AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+
+On Fri, Jul 9, 2010 at 3:03 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Quoting Ross Singer <rxs at talisplatform.com>:
+>
+>
+>  Why not?  Could you have multiple representations of the same
+>> 'manifestation' (PDF, jpeg, PS, HTML, etc.).
+>>
+>> I mean, those are still completely analogous to 'item', aren't they?
+>>
+>
+> They're separate manifestations for publishers and (usually)
+> libraries. ISBN rules require a different ISBN for each carrier (back
+> to content v. carrier), although not all publishers follow that, and
+> it may not make sense where carriers are output on the fly.
+>
+> Does apply to things that aren't books?  My mental picture was something
+more like:
+http://arxiv.org/abs/astro-ph/0406184
+
+-Ross.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100709/a05c713e/attachment.htm>
+
+From kcoyle at kcoyle.net  Sat Jul 10 14:51:12 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sat, 10 Jul 2010 06:51:12 -0700
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another  FRBR thread)
+In-Reply-To: <AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+Message-ID: <20100710065112.jgl91z0nq8g0oso4@kcoyle.net>
+
+Quoting Ross Singer <rxs at talisplatform.com>:
+
+
+>> Does apply to things that aren't books?  My mental picture was something
+> more like:
+> http://arxiv.org/abs/astro-ph/0406184
+>
+
+
+All of FRBR applies to anything one may catalog -- which generally  
+means recorded knowledge/creation, but can also include museum  
+objects. So, yes, articles are included.
+
+The museum folks have incorporated FRBR into a larger model called CIDOC CRM -
+and that's what has given us FRBRoo, a large unwieldy beast that makes  
+library data look streamlined. [1]
+
+kc
+[1] http://www.cidoc-crm.org/frbr_inro.html   (sic)
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From j.weinheimer at aur.edu  Sat Jul 10 15:22:45 2010
+From: j.weinheimer at aur.edu (Weinheimer Jim)
+Date: Sat, 10 Jul 2010 16:22:45 +0200
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>,
+	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+Message-ID: <8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>
+
+The guidelines followed by the Library of Congress, and therefore, by most other Anglo-American libraries are in "LC Rule Interpretation 1.0 Decisions Before Cataloging", which can be found at the Cooperative Cataloging Rules Wiki at:
+http://sites.google.com/site/opencatalogingrules/aacr2-chapter-1/1-0--decisions-before-cataloging---rev
+
+Even before you begin to do anything, you must ask whether the specific item you are working with is a copy of something already in the catalog, or something new. That rather simple task is actually very complex.
+
+They ask two apparently simple questions:
+Before creating a bibliographic record, determine what is being cataloged. Answer these two questions:
+1) What aspect of the bibliographic resource will the bibliographic record represent?
+2) What is the type of issuance of that aspect?
+
+Figuring out the answers takes you down some interesting paths. At the end of the Rule Interpretation, you will see some interesting guidelines that say what differences are allowed between one "manifestation" and another, e.g. different ISBNs do *not* have different manifestations.
+
+I think it is important to realize that there is a great deal of variation between different agencies (publishers, libraries, other organizations) concerning what determines a manifestation and many libraries have their own interpretations as well. (For example, is a photocopy a new item or a new manifestation? Different libraries do different things) In any case, each field and each institution has different needs and I do not see agreement on any of this whether FRBR and/or RDA is accepted or not.
+
+James L. Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+Rome, Italy
+________________________________________
+From: open-bibliography-bounces at lists.okfn.org [open-bibliography-bounces at lists.okfn.org] On Behalf Of Ross Singer [rxs at talisplatform.com]
+Sent: Friday, July 09, 2010 9:21 PM
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] More verbs. Electronic 'Items' (Yes,   another         FRBR thread)
+
+On Fri, Jul 9, 2010 at 3:03 PM, Karen Coyle <kcoyle at kcoyle.net<mailto:kcoyle at kcoyle.net>> wrote:
+Quoting Ross Singer <rxs at talisplatform.com<mailto:rxs at talisplatform.com>>:
+
+
+Why not?  Could you have multiple representations of the same
+'manifestation' (PDF, jpeg, PS, HTML, etc.).
+
+I mean, those are still completely analogous to 'item', aren't they?
+
+They're separate manifestations for publishers and (usually)
+libraries. ISBN rules require a different ISBN for each carrier (back
+to content v. carrier), although not all publishers follow that, and
+it may not make sense where carriers are output on the fly.
+
+Does apply to things that aren't books?  My mental picture was something more like:
+http://arxiv.org/abs/astro-ph/0406184
+
+-Ross.
+
+
+From william.waites at okfn.org  Sun Jul 11 15:31:32 2010
+From: william.waites at okfn.org (William Waites)
+Date: Sun, 11 Jul 2010 10:31:32 -0400
+Subject: [open-bibliography] ANN: Fresnel Support in ORDF
+Message-ID: <4C39D5C4.8050403@okfn.org>
+
+Just a quick note that in addition to the jQuery/JavaScript
+implementation of fresnel [0] there is now a functional,
+if not quite complete, implementation in Python for
+server-side applications [1] [2]. See for example the vocabulary
+at [3] which is rendered using it.
+
+A couple of vocabulary suggestions for the fresnel list,
+
+  * a predicate (we're using ordf:lens) that can exist in a
+    rdfg:Graph that gives a sensible default for which fresnel
+    document to use to render it. For example the vocabulary
+    in [3] has,
+
+        ordf: ordf:lens <http://ordf.org/lens/ontology>
+
+  * the Python implementation supports the use of
+    ReStructuredText in text literals. Right now it just does
+    this everywhere when a literal doesn't have a datatype.
+    It would be perhaps better to have a predicate to use
+    for a fresnel:Format, e.g.
+
+        foo a fresnel:Format ;
+            fresnel:valueStyle fresnel:rst .
+
+Cheers,
+-w
+
+[0] http://ordf.org/src/file/tip/public/js/jquery.fresnel.js
+[1] http://ordf.org/doc/ordf_vocab_fresnel.html
+[2] http://ordf.org/src/file/tip/ordf/vocab/fresnel.py
+[3] http://purl.org/NET/ordf/
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From j.weinheimer at aur.edu  Mon Jul 12 13:19:30 2010
+From: j.weinheimer at aur.edu (Weinheimer Jim)
+Date: Mon, 12 Jul 2010 14:19:30 +0200
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>,
+	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>,
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>
+Message-ID: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA862126@AUR2010.aur.edu>
+
+I realize I forgot to mention "Differences Between, Changes Within: Guidelines on When to Create a New Record" from ALA (http://www.acrl.org/ala/mgrps/divs/alcts/resources/org/cat/differences.cfm), which also differs from the LC practice.
+
+As a result from this multiplicity of guidelines which allow (or do not allow) for all kinds of variant, it is difficult to know precisely what information a specific resource has: what is the ISBN on the item, the number of pages, the precise dates on the item, and so on.
+
+James L. Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+Rome, Italy
+________________________________________
+From: open-bibliography-bounces at lists.okfn.org [open-bibliography-bounces at lists.okfn.org] On Behalf Of Weinheimer Jim [j.weinheimer at aur.edu]
+Sent: Saturday, July 10, 2010 4:22 PM
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] More verbs. Electronic 'Items' (Yes,   another         FRBR thread)
+
+The guidelines followed by the Library of Congress, and therefore, by most other Anglo-American libraries are in "LC Rule Interpretation 1.0 Decisions Before Cataloging", which can be found at the Cooperative Cataloging Rules Wiki at:
+http://sites.google.com/site/opencatalogingrules/aacr2-chapter-1/1-0--decisions-before-cataloging---rev
+
+Even before you begin to do anything, you must ask whether the specific item you are working with is a copy of something already in the catalog, or something new. That rather simple task is actually very complex.
+
+They ask two apparently simple questions:
+Before creating a bibliographic record, determine what is being cataloged. Answer these two questions:
+1) What aspect of the bibliographic resource will the bibliographic record represent?
+2) What is the type of issuance of that aspect?
+
+Figuring out the answers takes you down some interesting paths. At the end of the Rule Interpretation, you will see some interesting guidelines that say what differences are allowed between one "manifestation" and another, e.g. different ISBNs do *not* have different manifestations.
+
+I think it is important to realize that there is a great deal of variation between different agencies (publishers, libraries, other organizations) concerning what determines a manifestation and many libraries have their own interpretations as well. (For example, is a photocopy a new item or a new manifestation? Different libraries do different things) In any case, each field and each institution has different needs and I do not see agreement on any of this whether FRBR and/or RDA is accepted or not.
+
+James L. Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+Rome, Italy
+________________________________________
+From: open-bibliography-bounces at lists.okfn.org [open-bibliography-bounces at lists.okfn.org] On Behalf Of Ross Singer [rxs at talisplatform.com]
+Sent: Friday, July 09, 2010 9:21 PM
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] More verbs. Electronic 'Items' (Yes,   another         FRBR thread)
+
+On Fri, Jul 9, 2010 at 3:03 PM, Karen Coyle <kcoyle at kcoyle.net<mailto:kcoyle at kcoyle.net>> wrote:
+Quoting Ross Singer <rxs at talisplatform.com<mailto:rxs at talisplatform.com>>:
+
+
+Why not?  Could you have multiple representations of the same
+'manifestation' (PDF, jpeg, PS, HTML, etc.).
+
+I mean, those are still completely analogous to 'item', aren't they?
+
+They're separate manifestations for publishers and (usually)
+libraries. ISBN rules require a different ISBN for each carrier (back
+to content v. carrier), although not all publishers follow that, and
+it may not make sense where carriers are output on the fly.
+
+Does apply to things that aren't books?  My mental picture was something more like:
+http://arxiv.org/abs/astro-ph/0406184
+
+-Ross.
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From william.waites at okfn.org  Mon Jul 12 15:19:51 2010
+From: william.waites at okfn.org (William Waites)
+Date: Mon, 12 Jul 2010 10:19:51 -0400
+Subject: [open-bibliography] Fwd: Re: [openbiblio-dev] Curated lists and
+	openbiblio Web UI
+Message-ID: <4C3B2487.3090403@okfn.org>
+
+Forwarding to LLD WG, this mentions two use cases that may
+or may not be out of scope for the group since they might stray
+too far from traditional library science domains.
+
+Use case 1: how to express curated lists of works, as in bibliographies
+and reading lists.
+
+Use case 2: how to express the state of scholarly knowledge or
+debate about works and the relationships between them.
+
+Cheers,
+-w
+
+-------- Original Message --------
+
+On 10-07-12 08:46, Benjamin O'Steen wrote:
+
+> I wondered what your plans were for this area of the bibliographica
+> functionality? Curated lists, or something a little more (using some of
+> the argumentative predicates in the CiTO ontology, like 'confirms',
+> etc?)
+
+I've been meaning to write up the way I see aggregations/lists
+being done since it was mentioned on the list last week. Briefly
+making a curated list is just making an ore:Aggregation that
+includes another ore:Aggregation per work/book/whatever.
+The reason for two levels is that the lower level contains the
+Work and its Authors since you normally want that information
+together whereas the top level is a collection effectively of Works.
+
+Richer predicates, such as the argumentative ones from CiTO
+have been contemplated since the beginning but I think this
+might be orthogonal to curated lists?
+
+Not sure what happens when there is scholarly disagreement
+about whether one work confirms another... Do we need to
+go down the reification road here? e.g.:
+
+    scholar1 a foaf:Person ;
+        believes [ a Belief ;
+                         rdf:subject book1 ;
+                         rdf:predicate cito:confirms ;
+                         rdf:object book2 ] .
+
+    scholar2 a foaf:Person ;
+        believes [ a Belief ;
+                        rdf:subject book1 ;
+                        rdf:predicate cito:refutes ;
+                        rdf:object book2 ] .
+
+This might expose a missing predicate in cito -- scholar2
+might deny that book1 confirms book2 but not go so far as
+to say it refutes it. I guess we need to get into beliefs about
+beliefs in that case...
+
+Cheers,
+-w
+
+
+From tfmorris at gmail.com  Mon Jul 12 15:22:03 2010
+From: tfmorris at gmail.com (Tom Morris)
+Date: Mon, 12 Jul 2010 10:22:03 -0400
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>
+Message-ID: <AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+
+On Sat, Jul 10, 2010 at 10:22 AM, Weinheimer Jim <j.weinheimer at aur.edu> wrote:
+> The guidelines followed by the Library of Congress, and therefore, by most other
+> Anglo-American libraries are in "LC Rule Interpretation 1.0 Decisions Before Cataloging", ...
+
+Cataloging is just one use of bibliographic data.  Citations are
+another important use.  While different formats (e.g. Postscript &
+PDF) should nominally be identical, there's no guarantee, so I'd argue
+that each different format should be indexed as a separate
+manifestation (or equivalent in the schema of your choice).
+
+Tom
+
+
+From j.weinheimer at aur.edu  Mon Jul 12 16:02:01 2010
+From: j.weinheimer at aur.edu (Weinheimer Jim)
+Date: Mon, 12 Jul 2010 17:02:01 +0200
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+Message-ID: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+
+But this becomes a problem for comprehensibility and means a lot of work. My example was always this page of Thomas a Kempis' Imitation of Christ: 
+http://www.ccel.org/ccel/kempis/imitation.html. Is this one "thing" or several? (This site has actually gotten rid of several formats over the years, e.g. http://web.archive.org/web/20030924082152/http://www.ccel.org/ccel/kempis/imitation.html)
+
+Also, with materials in sites such as the Internet Archive, how do we deal with them:
+http://www.archive.org/details/imitationofchris00newy
+
+Is this 8 manifestations? That's a lot of extra records and work. Is it best for the readers and is it worthwhile to deal with them this way? And what happens when the Archive decides to automatically create, let's say XML versions for every document. Are these all going to be different manifestations? 
+
+For these sorts of reasons, I personally have major theoretical problems with the concept of "manifestation" especially with practical effects when applied generally. I see the "manifestation" primarily as a throwback to the catalog/unit card, and I think there are far better ways of handling them with modern tools. 
+
+But I realize we are probably stuck with what we have. 
+
+James L. Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+Rome, Italy
+________________________________________
+From: open-bibliography-bounces at lists.okfn.org [open-bibliography-bounces at lists.okfn.org] On Behalf Of Tom Morris [tfmorris at gmail.com]
+Sent: Monday, July 12, 2010 4:22 PM
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] More verbs. Electronic 'Items' (Yes,   another         FRBR thread)
+
+On Sat, Jul 10, 2010 at 10:22 AM, Weinheimer Jim <j.weinheimer at aur.edu> wrote:
+> The guidelines followed by the Library of Congress, and therefore, by most other
+> Anglo-American libraries are in "LC Rule Interpretation 1.0 Decisions Before Cataloging", ...
+
+Cataloging is just one use of bibliographic data.  Citations are
+another important use.  While different formats (e.g. Postscript &
+PDF) should nominally be identical, there's no guarantee, so I'd argue
+that each different format should be indexed as a separate
+manifestation (or equivalent in the schema of your choice).
+
+Tom
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From graham at theseamans.net  Mon Jul 12 17:29:27 2010
+From: graham at theseamans.net (graham)
+Date: Mon, 12 Jul 2010 17:29:27 +0100
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+ another 	FRBR thread)
+In-Reply-To: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>	<4C3233F1.3030601@okfn.org>	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>	<1278583917.6422.26.camel@beast>	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>	<8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+Message-ID: <4C3B42E7.2070703@theseamans.net>
+
+On 07/12/10 16:02, Weinheimer Jim wrote:
+
+> Also, with materials in sites such as the Internet Archive, how do we deal with them:
+> http://www.archive.org/details/imitationofchris00newy
+> 
+> Is this 8 manifestations? That's a lot of extra records and work. Is it best for the readers and is it worthwhile to deal with them this way? And what happens when the Archive decides to automatically create, let's say XML versions for every document. Are these all going to be different manifestations? 
+> 
+
+As a non-librarian, I have a related problem: I'm taking machine-OCRed
+text from Internet Archive sets like these and hand-proofing them. These
+are then going onto a site which contains text from a range of sources,
+much of it scanned from originals by volunteers. We may end up with
+variant copies of the same texts, and depending on the quality of the
+original ocr and care taken in subsequent proofreading, the copies can
+have varying fidelity to the originals. I would like to have some way to
+identify these texts as coming from a particular original (the internet
+archive is mostly extremely good at maintaining the camera metadata for
+its scans, so there is a solid starting point), but also to identify the
+series of processes it has been through after that. It seems to me that
+with the vary large number of copies of text versions of
+out-of-copyright material there are now floating round the internet some
+way of establishing this kind of chain - and the likelihood of fidelity
+to the original of the particular copy - is going to get more important.
+Were those rude jokes in your copy of Alice in Wonderland really put
+there by Carroll? Did Mark Twain really have such strange spelling as
+your copy of a Yankee at the Court of King Arthur suggests? etc. This
+doesn't seem to be the kind of thing librarians in general are
+interested in, but maybe there are relevant techniques from archivists
+dealing with mediaeval hand-copied texts?  Although these are definitely
+different 'manifestations' of a text in a loose sense, they don't seem
+to fit in FRBR either.
+
+Are there any existing ways to handle this kind of thing? None of my
+ideas for creating hashes of data + organization name as unique version
+identifiers seem to hold up :-( I really don't believe attempting to
+catalogue all the variants is either possible or desireable, surely each
+version needs to be self-describing, not listed in a single place.
+
+Graham
+
+
+From william.waites at okfn.org  Mon Jul 12 17:46:16 2010
+From: william.waites at okfn.org (William Waites)
+Date: Mon, 12 Jul 2010 12:46:16 -0400
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another	FRBR thread)
+In-Reply-To: <4C3B42E7.2070703@theseamans.net>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>	<4C3233F1.3030601@okfn.org>	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>	<1278583917.6422.26.camel@beast>	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>	<8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+	<4C3B42E7.2070703@theseamans.net>
+Message-ID: <4C3B46D8.3010200@okfn.org>
+
+On 10-07-12 12:29, graham wrote:
+> I would like to have some way to
+> identify these texts as coming from a particular original (the internet
+> archive is mostly extremely good at maintaining the camera metadata for
+> its scans, so there is a solid starting point), but also to identify the
+> series of processes it has been through after that. 
+>
+> Are there any existing ways to handle this kind of thing? None of my
+> ideas for creating hashes of data + organization name as unique version
+> identifiers seem to hold up :-( I really don't believe attempting to
+> catalogue all the variants is either possible or desireable, surely each
+> version needs to be self-describing, not listed in a single place.
+>   
+
+Sounds like the OPMV vocabulary might be useful, it deals
+with Artifacts and Processes operating on Artifacts (controlled
+by Agents).
+
+http://open-biomed.sourceforge.net/opmv/ns.html
+
+There is support in ORDF for this, see for example,
+http://ordf.org/schema/ordf where the opmv:wasGeneratedBy
+is filled in by the python process that imports a text file
+into the database -- and in this case doesn't perform any
+transformations but could well do.
+
+Cheers,
+-w
+
+-- 
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+		http://ordf.org/
+
+
+From j.weinheimer at aur.edu  Tue Jul 13 08:51:54 2010
+From: j.weinheimer at aur.edu (Weinheimer Jim)
+Date: Tue, 13 Jul 2010 09:51:54 +0200
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another	FRBR thread)
+In-Reply-To: <4C3B46D8.3010200@okfn.org>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org>
+	<AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com>
+	<4C3233F1.3030601@okfn.org>
+	<AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com>
+	<6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE>
+	<1278583917.6422.26.camel@beast>
+	<AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com>
+	<20100709120303.v0oe2c0lc00408oc@kcoyle.net>
+	<AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+	<4C3B42E7.2070703@theseamans.net>,<4C3B46D8.3010200@okfn.org>
+Message-ID: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212E@AUR2010.aur.edu>
+
+Graham,
+
+It looks like a wonderful project you are working on and should help a lot of people. And it's very interesting that we are seeing a return to the old scribal traditions of the pre-printing days, a tradition that has been forgotten, where today we take for granted that with additional editions (1st, 2nd, 3rd etc. editions) we end up with successive *improvements* of the text, we should remember that this idea of "improvement" has only been with us since the introduction of printing. Before printing, it was entirely turned around: the idea that the farther away from the original text we were, the more *corrupt* the text becomes, because of all the errors in hand copying. Therefore, in a world with all manuscripts the task was to recreate the original version.  Amazing how that is being transferred to the situation of today!
+
+My own opinion is that OPMV is a step in the right direction, and there are places to describe where, when and how changes took place and who did them, I see no provision there for detailing *what those changes were*, which is what people really want. To get an idea of a traditional manuscript collation, there is a good discussion at: http://www.skypoint.com/members/waltzmn/Collations.html with good examples, http://www.skypoint.com/members/waltzmn/Collations.html#Samples. This same basic method is used for early printed books as well although they also consider how the book was put together.
+
+The traditional library determinations of an edition/manifestation that I pointed out before are based much more on changes in the physical item than in the changes in the text, i.e. if the transcription of the title page, formal edition statement, dates (within certain limitations), physical paging, and series statement is all the same, it is *assumed* to be the same edition/manifestation and is therefore handled as an item. But of course, the text inside could be slightly different or even completely different because librarians do not have the time to check compare texts so thoroughly. The opposite is the same as well: if something on the title page, dates, etc. is *different* it is considered a new edition even though the text may be completely the same. (This has resulted several scams by unscrupulous publishers, by the way; plus it happens more honestly with US vs. UK publications) In librarian terminology, this is called "content vs. carrier". Library tradition, under pressure of productivity, has almost always concentrated much more on carrier.
+
+Naturally, the traditional collation methods of manuscripts cannot be used on web materials and I think the librarian emphasis on carrier also does not serve well in a digital environment. Still, the final product of a manuscript collation can be are pretty nice, since it details the changes very clearly. Modern tools can recreate these things automatically, e.g. in the Wikipedia History pages http://tinyurl.com/33khhjj where you can select any versions you want and the changes are displayed very clearly. 
+
+In your case, could you do something similar to the Wikipedia history page by doing file compares or something?
+
+James L. Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+Rome, Italy
+________________________________________
+From: open-bibliography-bounces at lists.okfn.org [open-bibliography-bounces at lists.okfn.org] On Behalf Of William Waites [william.waites at okfn.org]
+Sent: Monday, July 12, 2010 6:46 PM
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] More verbs. Electronic 'Items' (Yes,   another FRBR thread)
+
+On 10-07-12 12:29, graham wrote:
+> I would like to have some way to
+> identify these texts as coming from a particular original (the internet
+> archive is mostly extremely good at maintaining the camera metadata for
+> its scans, so there is a solid starting point), but also to identify the
+> series of processes it has been through after that.
+>
+> Are there any existing ways to handle this kind of thing? None of my
+> ideas for creating hashes of data + organization name as unique version
+> identifiers seem to hold up :-( I really don't believe attempting to
+> catalogue all the variants is either possible or desireable, surely each
+> version needs to be self-describing, not listed in a single place.
+>
+
+Sounds like the OPMV vocabulary might be useful, it deals
+with Artifacts and Processes operating on Artifacts (controlled
+by Agents).
+
+http://open-biomed.sourceforge.net/opmv/ns.html
+
+There is support in ORDF for this, see for example,
+http://ordf.org/schema/ordf where the opmv:wasGeneratedBy
+is filled in by the python process that imports a text file
+into the database -- and in this case doesn't perform any
+transformations but could well do.
+
+Cheers,
+-w
+
+--
+William Waites           <william.waites at okfn.org>
+Mob: +44 789 798 9965    Open Knowledge Foundation
+Fax: +44 131 464 4948                Edinburgh, UK
+
+RDF Indexing, Clustering and Inferencing in Python
+                http://ordf.org/
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From dan at cimec.ro  Tue Jul 13 10:24:16 2010
+From: dan at cimec.ro (Dan Matei)
+Date: Tue, 13 Jul 2010 12:24:16 +0300
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org><AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com><6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE><1278583917.6422.26.camel@beast><AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com><20100709120303.v0oe2c0lc00408oc@kcoyle.net><AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com><8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+Message-ID: <227CC41DC762464A8BB6B550A23F08EF@cimec.ro>
+
+
+> -----Original Message-----
+> From: open-bibliography-bounces at lists.okfn.org 
+> [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf 
+> Of Weinheimer Jim
+> Sent: 12 iulie 2010 18:02
+
+
+> 
+> But this becomes a problem for comprehensibility and means a 
+> lot of work. My example was always this page of Thomas a 
+> Kempis' Imitation of Christ: 
+> http://www.ccel.org/ccel/kempis/imitation.html. Is this one 
+> "thing" or several? (This site has actually gotten rid of 
+> several formats over the years, e.g. 
+
+Both :-) (remindes me of trinitarian vs. unitarian debate :-)
+
+Well, dear Jim, we see there 5 "things". They have something in common (or at least CCEL believes
+so, putting them on the same page :-) How would you call that commonality ?
+
+They are different incarnations of that commonality. Especially the mp3 incarnation looks pretty
+different than the other 4 for me. How would you call these incarnations ?
+
+
+> 
+> Also, with materials in sites such as the Internet Archive, 
+> how do we deal with them:
+> http://www.archive.org/details/imitationofchris00newy
+> 
+> Is this 8 manifestations? That's a lot of extra records and 
+> work. Is it best for the readers and is it worthwhile to deal 
+> with them this way? And what happens when the Archive decides 
+> to automatically create, let's say XML versions for every 
+> document. Are these all going to be different manifestations? 
+
+How would you call them ? You have to record some differences, for the sake of the user or in order
+to understand the different ways to mark "places" within the text (e.g. pages in pdf vs. locations
+in Kindle format).
+
+Besides, the "plain text" incarnation contains the string "^ccottifna to tl)e oriflinal intention of
+ti)c ^utbor." which I do not see in the other incarnations :-)
+
+If you are more catholic than the Pope, you produce 8 records. Otherwise, you exercise judgement and
+you produce less :-)
+
+
+> 
+> For these sorts of reasons, I personally have major 
+> theoretical problems with the concept of "manifestation" 
+> especially with practical effects when applied generally. I 
+> see the "manifestation" primarily as a throwback to the 
+> catalog/unit card, and I think there are far better ways of 
+> handling them with modern tools. 
+
+Name them for this case, please.
+
+
+Dan Matei
+
+
+
+
+From j.weinheimer at aur.edu  Tue Jul 13 11:23:50 2010
+From: j.weinheimer at aur.edu (Weinheimer Jim)
+Date: Tue, 13 Jul 2010 12:23:50 +0200
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <227CC41DC762464A8BB6B550A23F08EF@cimec.ro>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org><AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com><6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE><1278583917.6422.26.camel@beast><AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com><20100709120303.v0oe2c0lc00408oc@kcoyle.net><AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com><8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>,
+	<227CC41DC762464A8BB6B550A23F08EF@cimec.ro>
+Message-ID: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA862135@AUR2010.aur.edu>
+
+Dan Matei wrote:
+<snip>
+> For these sorts of reasons, I personally have major
+> theoretical problems with the concept of "manifestation"
+> especially with practical effects when applied generally. I
+> see the "manifestation" primarily as a throwback to the
+> catalog/unit card, and I think there are far better ways of
+> handling them with modern tools.
+
+Name them for this case, please.
+</snip>
+
+I believe that the problem lies with the very concept of the "manifestation" which I have tried to show here and in other places, that it has always been merely a matter of *definition* and not a matter of any fact. There has always been this dichotomy in cataloging anyway, e.g. to use FRBR terminology:
+
+Work/Expression (are abstractions. I cannot point to the *work* "Crime and Punishment* or any "Expression")
+vs.
+Manifestation/Item (are physical things. I can point to an Item containing "Crime and Punishment" and these items are combined into the "Manifestation")
+
+Library practice *assumes* that specific changes in the physical item means a change in the abstraction (which has always been known to be incorrect, but otherwise, the task was impossible). What are these specific changes? What I mentioned before: changes in title page transcription, dates, and so on. Different organizations have different definitions for this, and even in AACR2/LCRI cataloging, there was a major change in recording paging practices (we stopped counting plates in many cases) so therefore, one day a book with plates was considered a different manifestation, but after this new directive, they suddenly become copies. (I remember how horrified I was!  :-)  ) As I have tried to show with the LCRI 1.0 and the ALA guidelines (plus many others out there) determining if something is a new edition or copy (or in FRBR terms manifestation or item) is both difficult to learn and to do, plus it is semi-capricious.
+
+So, this led me to consider if there really is such a thing as a "manifestation" and if not, what is it? I have decided that the manifestation is a continuation of the hand-made catalog/unit card, which was used to summarize a collection's holdings. In reality, the "manifestation" is nothing more than a *group display of the items*. There is no single way of defining the group, and there are additional problems with manually determining manifestations, and can be very difficult to teach.
+
+[Since I am the historian, I want to point out that in the past, there was a lot of interest to keep the number of cards to a minimum, for various reasons, and  often, there were notes leading the searcher to the "main entry card" where other editions etc. could be found. I tried to find a good example in Princeton's scanned catalog, but could only find this: http://tinyurl.com/25ms8u3 where it says, For more information see main card.]
+
+My question is: if the manifestation is only a matter of definitions (IF title, publication information, dates etc. are all the same, then it is a duplicate; or if the date is within x number of years, it is a copy, and so on and so on) it seems as if this would be a perfect candidate for automatic sorting and display. If people (or computers) create the metadata record, they would always copy *exactly what they see* and instead of puzzling out which "manifestation" this item belongs to manually, let the machine sort out the displays.
+
+What would this mean in reality: most information currently in the manifestation would go to the item, and then when processing the item (using xml, rdf, RDBMS or whatever) any information that is the same as in another item would be replaced with a URI to that information. As far as displays of the "group of items" goes, that could be left to the discretion of each database manager.
+
+I think instituting something like this would make it far easier both for creating records and training, while everything would be much more accurate than what we have now.
+
+But again, I don't think anything will change on this.
+
+James L. Weinheimer  j.weinheimer at aur.edu
+Director of Library and Information Services
+The American University of Rome
+Rome, Italy
+
+From kcoyle at kcoyle.net  Tue Jul 13 14:52:10 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 13 Jul 2010 06:52:10 -0700
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another  FRBR thread)
+In-Reply-To: <227CC41DC762464A8BB6B550A23F08EF@cimec.ro>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org><AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com><6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE><1278583917.6422.26.camel@beast><AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com><20100709120303.v0oe2c0lc00408oc@kcoyle.net><AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com><8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>
+	<227CC41DC762464A8BB6B550A23F08EF@cimec.ro>
+Message-ID: <20100713065210.avah7kb51cw008kc@kcoyle.net>
+
+Quoting Dan Matei <dan at cimec.ro>:
+
+
+>
+> They are different incarnations of that commonality. Especially the   
+> mp3 incarnation looks pretty
+> different than the other 4 for me. How would you call these incarnations ?
+
+For sure, in libraryland the audio book is a new expression -- the  
+same text but expressed differently. (Publishers consider it a  
+performance. For Music, different performances are different  
+expressions, so by analogy...) When the change is a change in  
+presentation format, but still eye-readable text, it's considered a  
+new manifestation. Uncorrected OCR... well, libraries don't have a  
+category for that, since they don't work with that. It probably needs  
+to be a special case of expression, like translation.
+
+I wonder if the ISTC (international standard text code) will help us  
+out with any of these. I don't know if ISTC's would be assigned to  
+audio books or to OCR'd text, but they definitely would be assigned to  
+the various ebook formats. That would give you an identifier in common  
+between them even though the digital format has changed.
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From rufus.pollock at okfn.org  Tue Jul 13 16:27:36 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 13 Jul 2010 16:27:36 +0100
+Subject: [open-bibliography] http://openbiblio.net: new site for for open
+	biblio stuff (projects, musings etc)
+Message-ID: <AANLkTikIqWByGQXdGHMipq93kI3eHXb_hHale0ejUgNi@mail.gmail.com>
+
+Last week Ben O'Steen and I set up a wordpress install running at:
+
+<http://www.openbiblio.net/>
+
+We plan to centralise all blog/cms type info for the various open
+biblio projects we (the OKF) are involved in on that domain (i.e.
+Public Domain Works, Bibliographica, JISC OpenBib). (We've already
+migrated the content from: <http://blog.bibliographica.org/>  -- which
+itself contains all info from old http://blog.publicdomainworks.net/).
+
+We also want the site to be available for general usage for posting up
+open biblio(graphic) project information or news items, should people
+wish to use it! (Members of the working group would be especially
+welcome to do so).
+
+Thus, if there is anyone who would like to have access to post up
+material please ping Ben (in cc).
+
+Regards,
+
+Rufus and Ben
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From dan at cimec.ro  Tue Jul 13 16:43:56 2010
+From: dan at cimec.ro (Dan Matei)
+Date: Tue, 13 Jul 2010 18:43:56 +0300
+Subject: [open-bibliography] More verbs. Electronic 'Items' (Yes,
+	another 	FRBR thread)
+In-Reply-To: <8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA862135@AUR2010.aur.edu>
+References: <002d01cb1bc9$31572000$d71dae84@oa.oclc.org><AANLkTikohzrpayp8y-CLrA0BL78vE0tnTPBTJPMMlIXT@mail.gmail.com><4C3233F1.3030601@okfn.org><AANLkTilruHqChSqdYVLA7El2ejpecyBG0aQEWzrtFFO6@mail.gmail.com><6DA97EFF2763174B8BDC409CA19729840AC29B01@dbf-ex.AD.DDB.DE><1278583917.6422.26.camel@beast><AANLkTikIpX8afHrhwB7cq4WLgKRIsywnodSeLIAOWRKG@mail.gmail.com><20100709120303.v0oe2c0lc00408oc@kcoyle.net><AANLkTikVn1gypkLjNtdN_EpVW7Fq29kZM8HOIHQlu4ct@mail.gmail.com><8CB2A72BE4144B4CAC0EF3E9A9F6D065034EBD8A23@AUR2010.aur.edu>,
+	<AANLkTim6QrD4Ij2JvquZ3LiRGyt3zWstrMh1mog2e7T4@mail.gmail.com><8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA86212A@AUR2010.aur.edu>,
+	<227CC41DC762464A8BB6B550A23F08EF@cimec.ro>
+	<8CB2A72BE4144B4CAC0EF3E9A9F6D0652DAA862135@AUR2010.aur.edu>
+Message-ID: <C21822DE169F4C9FB4D6921959FC4711@cimec.ro>
+
+
+> -----Original Message-----
+> From: open-bibliography-bounces at lists.okfn.org 
+> [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf 
+> Of Weinheimer Jim
+> Sent: 13 iulie 2010 13:24
+
+> 
+> So, this led me to consider if there really is such a thing 
+> as a "manifestation" and if not, what is it? I have decided 
+
+Another abstraction ? :-)
+
+> 
+> My question is: if the manifestation is only a matter of 
+> definitions (IF title, publication information, dates etc. 
+> are all the same, then it is a duplicate; or if the date is 
+> within x number of years, it is a copy, and so on and so on) 
+> it seems as if this would be a perfect candidate for 
+> automatic sorting and display. If people (or computers) 
+> create the metadata record, they would always copy *exactly 
+> what they see* and instead of puzzling out which 
+> "manifestation" this item belongs to manually, let the 
+> machine sort out the displays.
+
+Hm, hm ... I'm sure you spot easily in 93.2% of the cases which are the features of an item which
+are not specific to that item (within the series we use to call edition) :-)
+
+> 
+> What would this mean in reality: most information currently 
+> in the manifestation would go to the item, and then when 
+> processing the item (using xml, rdf, RDBMS or whatever) any 
+> information that is the same as in another item would be 
+> replaced with a URI to that information. As far as displays 
+> of the "group of items" goes, that could be left to the 
+> discretion of each database manager.
+
+I still believe that the "common factor" (of the items) conventionally called "manifestation" is
+useful, from a practical point of view.
+
+For instance, suppose we produce the metadata using the RDF formalism. Let's say we have 4 nice
+literals:
+
+L1: THE IMITATION OF CHRIST
+
+L2: BY Thomas A Kempis
+
+L3: THE BRUCE PUBLISHING COMPANY
+
+L4: November 5, 1940
+
+
+and suppose you have in the catalogue 3 items a, b, c you decide to associate with these 4 literals.
+
+
+a isbd:titleProper L1
+a isbd:statementOfResponsibility L2
+a isbd:publisher L3
+a isbd:date L4
+
+...
+
+c isbd:date L4
+
+... in totto 12 rdf:statements.
+
+Now, suppose you notice the common factor of the 3 items and you "invent" an abstraction m, let's
+call it "manifestation" (only for the sake of the discussion :-) and you produce the rdf:statemens:
+
+
+m isbd:titleProper L1
+m isbd:statementOfResponsibility L2
+m isbd:publisher L3
+m isbd:date L4
+
+a frbr:exemplifies m
+b frbr:exemplifies m
+c frbr:exemplifies m
+
+... in totto 7 rdf:statements.
+
+In the first case you have n (items) x k (literals) statements and in the second case you have n + k
+statements.
+
+In a catalogue where n use to be 1 or 2, your solution is OK. But in a shared catalogue where n >> 2
+?
+
+
+> 
+> I think instituting something like this would make it far 
+> easier both for creating records and training, while 
+> everything would be much more accurate than what we have now.
+
+Maybe for the edge cases. But for the usual ones, I don't think is that hard. Even my numismats
+learn how to distinguish between the properties of an issue vs. the properties of an exemplar (coin)
+:-)
+
+Dan Matei
+
+
+
+
+From jodi.schneider at deri.org  Thu Jul 15 15:28:56 2010
+From: jodi.schneider at deri.org (Jodi Schneider)
+Date: Thu, 15 Jul 2010 15:28:56 +0100
+Subject: [open-bibliography] [openbiblio-dev] Curated lists and
+	openbiblio Web UI
+In-Reply-To: <4C3B2487.3090403@okfn.org>
+References: <4C3B2487.3090403@okfn.org>
+Message-ID: <EB2BDA96-281E-4356-8D4C-F004FCB7A099@deri.org>
+
+These are definitely in scope! Thanks, William! -Jodi
+
+PS-Very interested to talk more about use case 2 -- related to my dissertation work -- feel free to ping me offlist.
+
+On 12 Jul 2010, at 15:19, William Waites wrote:
+
+> Forwarding to LLD WG, this mentions two use cases that may
+> or may not be out of scope for the group since they might stray
+> too far from traditional library science domains.
+> 
+> Use case 1: how to express curated lists of works, as in bibliographies
+> and reading lists.
+> 
+> Use case 2: how to express the state of scholarly knowledge or
+> debate about works and the relationships between them.
+> 
+> Cheers,
+> -w
+> 
+> -------- Original Message --------
+> 
+> On 10-07-12 08:46, Benjamin O'Steen wrote:
+> 
+>> I wondered what your plans were for this area of the bibliographica
+>> functionality? Curated lists, or something a little more (using some of
+>> the argumentative predicates in the CiTO ontology, like 'confirms',
+>> etc?)
+> 
+> I've been meaning to write up the way I see aggregations/lists
+> being done since it was mentioned on the list last week. Briefly
+> making a curated list is just making an ore:Aggregation that
+> includes another ore:Aggregation per work/book/whatever.
+> The reason for two levels is that the lower level contains the
+> Work and its Authors since you normally want that information
+> together whereas the top level is a collection effectively of Works.
+> 
+> Richer predicates, such as the argumentative ones from CiTO
+> have been contemplated since the beginning but I think this
+> might be orthogonal to curated lists?
+> 
+> Not sure what happens when there is scholarly disagreement
+> about whether one work confirms another... Do we need to
+> go down the reification road here? e.g.:
+> 
+>    scholar1 a foaf:Person ;
+>        believes [ a Belief ;
+>                         rdf:subject book1 ;
+>                         rdf:predicate cito:confirms ;
+>                         rdf:object book2 ] .
+> 
+>    scholar2 a foaf:Person ;
+>        believes [ a Belief ;
+>                        rdf:subject book1 ;
+>                        rdf:predicate cito:refutes ;
+>                        rdf:object book2 ] .
+> 
+> This might expose a missing predicate in cito -- scholar2
+> might deny that book1 confirms book2 but not go so far as
+> to say it refutes it. I guess we need to get into beliefs about
+> beliefs in that case...
+> 
+> Cheers,
+> -w
+> 
+
+
+
+From emmanuelle.bermes at bnf.fr  Thu Jul 15 15:34:31 2010
+From: emmanuelle.bermes at bnf.fr (Emmanuelle Bermes)
+Date: Thu, 15 Jul 2010 16:34:31 +0200
+Subject: [open-bibliography] [openbiblio-dev] Curated lists and
+	openbiblio Web UI
+In-Reply-To: <EB2BDA96-281E-4356-8D4C-F004FCB7A099@deri.org>
+References: <4C3B2487.3090403@okfn.org>
+	<EB2BDA96-281E-4356-8D4C-F004FCB7A099@deri.org>
+Message-ID: <AANLkTilh35hdlV769tCw_SexOvzvf2g2qzJNykwjIW2j@mail.gmail.com>
+
++1
+Actually I added them to [1].
+
+Emmanuelle
+
+[1] http://www.w3.org/2005/Incubator/lld/wiki/UseCaseNotes
+
+On Thu, Jul 15, 2010 at 4:28 PM, Jodi Schneider <jodi.schneider at deri.org> wrote:
+> These are definitely in scope! Thanks, William! -Jodi
+>
+> PS-Very interested to talk more about use case 2 -- related to my dissertation work -- feel free to ping me offlist.
+>
+> On 12 Jul 2010, at 15:19, William Waites wrote:
+>
+>> Forwarding to LLD WG, this mentions two use cases that may
+>> or may not be out of scope for the group since they might stray
+>> too far from traditional library science domains.
+>>
+>> Use case 1: how to express curated lists of works, as in bibliographies
+>> and reading lists.
+>>
+>> Use case 2: how to express the state of scholarly knowledge or
+>> debate about works and the relationships between them.
+>>
+>> Cheers,
+>> -w
+>>
+>> -------- Original Message --------
+>>
+>> On 10-07-12 08:46, Benjamin O'Steen wrote:
+>>
+>>> I wondered what your plans were for this area of the bibliographica
+>>> functionality? Curated lists, or something a little more (using some of
+>>> the argumentative predicates in the CiTO ontology, like 'confirms',
+>>> etc?)
+>>
+>> I've been meaning to write up the way I see aggregations/lists
+>> being done since it was mentioned on the list last week. Briefly
+>> making a curated list is just making an ore:Aggregation that
+>> includes another ore:Aggregation per work/book/whatever.
+>> The reason for two levels is that the lower level contains the
+>> Work and its Authors since you normally want that information
+>> together whereas the top level is a collection effectively of Works.
+>>
+>> Richer predicates, such as the argumentative ones from CiTO
+>> have been contemplated since the beginning but I think this
+>> might be orthogonal to curated lists?
+>>
+>> Not sure what happens when there is scholarly disagreement
+>> about whether one work confirms another... Do we need to
+>> go down the reification road here? e.g.:
+>>
+>> ? ?scholar1 a foaf:Person ;
+>> ? ? ? ?believes [ a Belief ;
+>> ? ? ? ? ? ? ? ? ? ? ? ? rdf:subject book1 ;
+>> ? ? ? ? ? ? ? ? ? ? ? ? rdf:predicate cito:confirms ;
+>> ? ? ? ? ? ? ? ? ? ? ? ? rdf:object book2 ] .
+>>
+>> ? ?scholar2 a foaf:Person ;
+>> ? ? ? ?believes [ a Belief ;
+>> ? ? ? ? ? ? ? ? ? ? ? ?rdf:subject book1 ;
+>> ? ? ? ? ? ? ? ? ? ? ? ?rdf:predicate cito:refutes ;
+>> ? ? ? ? ? ? ? ? ? ? ? ?rdf:object book2 ] .
+>>
+>> This might expose a missing predicate in cito -- scholar2
+>> might deny that book1 confirms book2 but not go so far as
+>> to say it refutes it. I guess we need to get into beliefs about
+>> beliefs in that case...
+>>
+>> Cheers,
+>> -w
+>>
+>
+>
+>
+
+
+From jonathan.gray at okfn.org  Fri Jul 16 19:30:27 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 16 Jul 2010 20:30:27 +0200
+Subject: [open-bibliography] Open bibliographic data workshop, Berlin,
+	7th October 2010
+In-Reply-To: <AANLkTilmwY8wDnSh6iFPIM1tqQeAnKEfu8o2dkLnvwQY@mail.gmail.com>
+References: <AANLkTilmwY8wDnSh6iFPIM1tqQeAnKEfu8o2dkLnvwQY@mail.gmail.com>
+Message-ID: <AANLkTin_J24L7OFckWh7DuqABu2LLQ8dss0pK5uCJNtr@mail.gmail.com>
+
+Hi all,
+
+Just to let you know the rooms are now confirmed and I've started a
+planning document! ;-)
+
+  http://okfnpad.org/pdobd
+
+All the best,
+
+Jonathan
+
+On Tue, Jul 6, 2010 at 3:02 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> Hi all,
+>
+> Just a quick note to let you know that we're currently organising an
+> international open bibliographic data workshop / hackday at the Freie
+> Universit?t Berlin on 7th October 2010.
+>
+> This will be very much focused on discussion and 'getting things done'
+> -- rather than presentations per se. Key thing is to get interested
+> folks together! Some ideas for things I'd be keen to see:
+>
+> ?* discussion / drafting for a 'manual' for opening up bibliographic data
+> ?* discussion of the role of bibliographic data to help determine
+> which works are in the public domain in which countries (to build
+> services like publicdomainworks.net)
+> ?* discussion / hacking on key technologies -- e.g. versioning for
+> data, RDF, data stores, user services, ...
+> ?* future of open bibliographic data -- what services people would
+> like to see (e.g. using data as backbone for new kinds of research
+> tools in digital humanities, representing data on maps/timelines)
+> ?* open bibliographic data / LOD
+> ?* add things here! ;-)
+>
+> Would be most grateful if folks could indicate their
+> interest/availability on the following link so we get a clearer idea
+> about numbers:
+>
+> ?http://doodle.com/nrnssh36zty7wc98
+>
+> This will be a satellite event to the The 3rd Free Culture Research
+> Conference on 8-9th October:
+>
+> ?http://wikis.fu-berlin.de/display/fcrc/Home
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Fri Jul 16 19:32:28 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 16 Jul 2010 20:32:28 +0200
+Subject: [open-bibliography] Workshop on Open Bibliographic Data and the
+	Public Domain, Berlin, 7th October
+Message-ID: <AANLkTilKIyWt9XTl4_mCEkGQv4c8bym0wEYelLARNw9l@mail.gmail.com>
+
+Hi all,
+
+Just to let you know the rooms are now confirmed for the COMMUNIA WG6
+/ Public Domain Calculators / Open Bibliographic Data event in Berlin
+in October and I've started a planning document at:
+
+  http://okfnpad.org/pdobd
+
+All the best,
+
+Jonathan
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From krichel at openlib.org  Mon Jul 19 05:42:17 2010
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 19 Jul 2010 06:42:17 +0200
+Subject: [open-bibliography] Announce: Open Bibliography (JISCOBIB)
+Message-ID: <20100719044217.GA3964@openlib.org>
+
+
+  Comrades,
+
+  Is there more information about this? In particular, what
+  bibliographic data will be made available and when? If the sets are
+  substantial, I would like to intergrate them in AuthorClaim as soon
+  as possible. I guess this is also in the interest of the project
+  since they to show that the data is being used.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+

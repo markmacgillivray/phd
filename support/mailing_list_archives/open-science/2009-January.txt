@@ -1,0 +1,241 @@
+From jonathan.gray at okfn.org  Wed Jan 14 20:57:52 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 14 Jan 2009 20:57:52 +0000
+Subject: [open-science] Fwd: [open-gov] Government Science Data
+In-Reply-To: <51138b83-7823-474d-b414-ee04d0ddc17e@n41g2000yqh.googlegroups.com>
+References: <51138b83-7823-474d-b414-ee04d0ddc17e@n41g2000yqh.googlegroups.com>
+Message-ID: <54ca21750901141257s5070d89dw4b8ab1c54d984716@mail.gmail.com>
+
+I wonder if anyone has any ideas for the Obama administration on how
+scientific data is published? There's a reporter from Wired working on
+a story in this area. Details below...
+
+Jonathan
+
+---------- Forwarded message ----------
+From: Alexis Madrigal, Wired <alexis.madrigal at gmail.com>
+Date: Wed, Jan 14, 2009 at 6:32 PM
+Subject: [open-gov] Government Science Data
+To: Open Government <open-government at googlegroups.com>
+
+Hello Group,
+
+My name is Alexis Madrigal and I'm a science reporter with Wired.com.
+I'm working on a story about specific areas where the Obama
+administration could make scientific data from the USDA, Minerals
+Management Service, DOE, NIH, and other agencies more available and/or
+accessible. We're talking not just about having it online, but also in
+formats that make mashing it up better (the old XLS -> XML
+transition).
+
+I'd love the input of the group on either specific datasets that could
+get a makeover or success stories that have already occurred.
+
+Feel free to contact me at: alexis.madrigal at gmail.com or you can call
+my desk: 415-276-8481.
+
+Thanks,
+
+Alexis Madrigal
+Staff Writer
+Science and Energy
+Wired.com
+W: 415.276.8481
+M: 415.602.4953
+Wired Science: http://blog.wired.com/wiredscience/
+Book Research: http://www.greentechhistory.com
+
+
+From jonathan.gray at okfn.org  Wed Jan 21 22:49:45 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 21 Jan 2009 22:49:45 +0000
+Subject: [open-science] The role of open licensing in open science
+Message-ID: <54ca21750901211449u5e5bc9c9ma722d6cf661be866@mail.gmail.com>
+
+An interesting blog post from Michael Nielsen!
+
+J.
+
+---
+
+# The role of open licensing in open science
+# http://michaelnielsen.org/blog/?p=540
+
+The open science movement encourages scientists to make scientific
+information freely available online, so other scientists may reuse and
+build upon that information. Open science has many striking
+similarities to the open culture movement, developed by people like
+Lawrence Lessig and Richard Stallman. Both movements share the idea
+that powerful creative forces are unleashed when creative artifacts
+are freely shared in a creative commons, enabling other people to
+build upon and extend those artifacts. The artifact in question might
+be a set of text documents, like Wikipedia; it might be open source
+software, like Linux; or open scientific data, like the data from the
+Sloan Digital Sky Survey, used by services such as Galaxy Zoo. In each
+case, open information sharing enables creative acts not conceived by
+the originators of the information content.
+
+The advocates of open culture have developed a set of open content
+licenses, essentially a legal framework, based on copyright law, which
+strongly encourages and in some cases forces the open sharing of
+information. This open licensing strategy has been very successful in
+strengthening the creative commons, and so moving open culture
+forward.
+
+When talking to some open science advocates, I hear a great deal of
+interest and enthusiasm for open licenses for science. This enthusiasm
+seems prompted in part by the success of open licenses in promoting
+open culture. I think this is great - with a few minor caveats, I'm a
+proponent of open licenses for science - but the focus on open
+licenses sometimes bothers me. It seems to me that while open licenses
+are important for open science, they are by no means as critical as
+they are to open culture; open access is just the beginning of open
+science, not the end. This post discusses to what extent open licenses
+can be expected to play a role in open scientific culture.
+Open licenses and open culture
+
+Let me review the ideas behind the licensing used in the open culture
+movement. If you're familiar with the open culture movement, you'll
+have heard this all before; if you haven't, hopefully it's a useful
+introduction. In any case, it's worth getting all this fixed in our
+heads before addressing the connection to open science.
+
+The obvious thing for advocates of open culture to do is to get to
+work building a healthy public domain: writing software, producing
+movies, writing books and so on, releasing all that material into the
+public domain, and encouraging others to build upon those works. They
+could then use a moral suasion argument to encourage others to
+contribute back to the public domain.
+
+The problem is that many people and organizations don't find this kind
+of moral suasion very compelling. Companies take products from the
+public domain, build upon them, and then, for perfectly understandable
+reasons, fiercely protect the intellectual property they produce.
+Disney was happy to make use of the old tale of Cinderella, but they
+take a distinctly dim view of people taking their Cinderella movie and
+remixing it.
+
+People like Richard Stallman and Lawrence Lessig figured out how to
+add legal teeth to the moral suasion argument. Instead of relying on
+goodwill to get people to contribute back to the creative commons,
+they invented a new type of licensing that compels people to
+contribute back. There's now a whole bunch of such open licenses - the
+various varieties of the GNU Public License (GPL), Creative Commons
+licenses, and many others - with various technical differences between
+them. But there's a basic idea of viral licensing that's common to
+many (though not all) of the open licenses. This is the idea that
+anyone who extends a product released under such a license must
+release the extension under the same terms. Using such an open license
+is thus a lot like putting material into the public domain, in that
+both result in content being available in the creative commons, but
+the viral open licenses differ from the public domain in compelling
+people to contribute back into the creative commons.
+
+The consequences of this compulsion are interesting. In the early days
+of open licensing, the creative commons grew slowly. As the amount of
+content with an open license grew, though, things began to change.
+This has been most obvious in software development, which was where
+viral open licenses first took hold. Over time it became more tempting
+for software developers to start development with an existing open
+source product. Why develop a new product from scratch, when you can
+start with an existing codebase? This means that you can't use the
+most obvious business model - limit distribution to executable files,
+and charge for them - but many profitable open source companies have
+shown that alternate business models are possible. The result is that
+as time has gone on, even the most resolutely closed source companies
+(e.g., Microsoft) have found it difficult to avoid infection by open
+source. The result has been a gradually accelerating expansion of the
+creative commons, an expansion that has enabled extraordinary
+creativity.
+Open licenses and open science
+
+I'm not sure what role licensing will play in open science, but I do
+think there are some clear signs that it's not going to be as central
+a role as it's played in open culture.
+
+The first reason for thinking this is that a massive experiment in
+open licensing has already been tried within science. By law, works
+produced by US Federal Government employees are, with some caveats,
+automatically put into the public domain. Every time I've signed a
+"Copyright Transfer" agreement with an academic journal, there's
+always been in the fine print a clause exclusing US Government
+employees from having to transfer copyright. You can't give away what
+you don't own.
+
+This policy has greatly enriched the creative commons. And it's led to
+enormous innovation - for example, I've seen quite a few mapping
+services that build upon US Government data, presumably simply because
+that data is in the public domain. But in the scientific realm I don't
+get the impression that this is doing all that much to promote the
+growth of the same culture of mass collaboration as open licenses are
+enabling.
+
+(A similar discussion can be had about open access journals. The
+discucssion there is more complex, though, because (a) many of the
+journals have only been open access for a few years, and (b) the way
+work is licensed varies a lot from journal to journal. That's why I've
+focused on the US Government.)
+
+The second reason for questioning the centrality of open licenses is
+the observation that the main barriers to remixing and extension of
+scientific content aren't legal barriers. They are, instead, cultural
+barriers. If someone copies my work, as a scientist, I don't sue them.
+If I were to do that, it's in any case doubtful that the courts would
+do more than slap the violator on the wrist - it's not as though
+they'll directly make money. Instead, there's a strong cultural
+prohibition against such copying, expressed through widely-held
+community norms about plagiarism and acceptable forms of attribution.
+If someone copies my work, the right way to deal with it is to inform
+their colleagues, their superiors, and so on - in short, to deal with
+it by cultural rather than legal means.
+
+That's not to say there isn't a legal issue here. But it's a legal
+issue for publishers, not individual scientists. Many journal
+publishers have business models which are vulnerable to systematic
+large-scale attempts to duplicate their content. Someone could, for
+example, set up a "Pirate Bay" for scientific journal articles, making
+the world's scientific articles freely available. That's something
+those journals have to worry about, for legitimate short-term business
+reasons, and copyright law provides them with some form of protection
+and redress.
+
+My own opinion is that over the long run, it's likely that the
+publishers will move to open access business models, and that will be
+a good thing for open science. I might be wrong about that; I can
+imagine a world in which that doesn't happen, yet certain varieties of
+open science still flourish. Regardless of what you think about the
+future of journals, the larger point is that the legal issues around
+openness are only a small part of a much larger set of issues, issues
+which are mostly cultural. The key to moving to a more open scientific
+system is changing scientist's hearts and minds about the value and
+desirability of more openly sharing information, not reforming the
+legal rights under which they publish content.
+
+So, what's the right approach to licensing? John Wilbanks has argued,
+persuasively in my opinion, that data should be held in the public
+domain. I've sometimes wondered if this argument shouldn't be extended
+beyond data, to all forms of scientific content, including papers,
+provided (and this is a big "provided") the publisher's business
+interests can be met in way that adequately serves all parties. After
+all, if the scientific community is primarily a reputation economy,
+built around cultural norms, then why not simply remove the
+complication of copyright from the fray?
+
+Now, I should say that this is speculation on my part, and my thinking
+is incomplete on this set of issues. I'm most interested to hear what
+others have to say! I'm especially interested in efforts to craft open
+research licenses, like the license Victoria Stodden has been
+developing. But I must admit that it's not yet clear to me why,
+exactly, we need such licenses, or what interests they serve.
+Further reading
+
+I'm writing a book about "The Future of Science"; this post is part of
+a series where I try out ideas from the book in an open forum. A
+summary of many of the themes in the book is available in this essay.
+If you'd like to be notified when the book is available, please send a
+blank email to the.future.of.science at gmail.com with the subject
+"subscribe book". I'll email you to let you know in advance of
+publication. I will not use your email address for any other purpose!
+You can subscribe to my blog here.
+
+

@@ -1,0 +1,2396 @@
+From agosti at amnh.org  Thu Nov  1 05:14:35 2012
+From: agosti at amnh.org (Donat Agosti)
+Date: Thu, 1 Nov 2012 08:44:35 +0330
+Subject: [open-science] the future of publishing in taxonomy
+Message-ID: <006e01cdb7ef$ce68bdd0$6b3a3970$@amnh.org>
+
+Please find a link to our vision of the future of open taxonomy or biological systematics publishing, shifting from form to content.
+
+ 
+
+ 
+
+http://www.biomedcentral.com/1741-7007/10/87
+
+ 
+
+ 
+
+All the best
+
+ 
+
+Donat Agosti
+
+Plazi
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121101/f7409e38/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Fri Nov  2 16:05:45 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 2 Nov 2012 16:05:45 +0000
+Subject: [open-science] Content Mining Workshop
+Message-ID: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+
+Hi All
+
+I've had a request from a grad student via the Oxford Open Science group to
+run a hands-on workshop on data/content mining from the scientific
+literature, which sounds like an excellent idea.
+
+This would be a physically attended event in Oxford sometime Jan-Mar 2013
+(get in touch if you or someone you know might like to be involved in
+organising or contributing tools/data/exercises!).
+
+However, as well as providing the resources that are prepared for the
+workshop online, I thought that it would be great to use the opportunity to
+compile a list of tools and tutorials for those interested in finding out
+about content mining, what is technically possible and whether it could
+assist their research. Does anyone know of a site like this already in
+existence? There is some info on the NaCTem site
+http://www.nactem.ac.uk/teaching/ and various resources from individual
+courses dotted around the web.
+
+It would be a good tie in to the recent work by the working group on a
+Content Mining Manifesto and could be hosted alongside this.
+
+Thoughts on either the workshop or website very welcome!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121102/20585be0/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Nov  2 20:32:48 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 2 Nov 2012 20:32:48 +0000
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+Message-ID: <CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+
+I think this is a really good idea - I'd been thinking about suggesting it
+to OKF. People getting into this area spend a lot of time hacking about
+with substandard tools and ending up inefficient. I might be in UK end of
+Feb onwards and would certainly want to help.
+
+The vital need IMO is to list all the current tools and comment briefly on
+them. There are several levels (off the top of my head):
+* discovery - where is the content
+* scraping - getting it onto your machine (or relevant cloud)
+* extracting into "readable" form (e.g. PDF2Foo) - I am blogging about this
+* finding tables
+* searching for the bits you want (e.g. OSCAR for chemistry)
+* linking to known ontologies (e.g. PubChem)
+* fiinding somewhere to put the results
+
+and, of course we need to touch on legal aspects and other procedural
+matters.
+
+I can contribute chemistry (which although it may not be immediately
+relevant to everyone shows many of the aspects and most people know
+slightly what it is about - they have heard of molecules and chemical
+structures.
+
+On Fri, Nov 2, 2012 at 4:05 PM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+
+> Hi All
+>
+> I've had a request from a grad student via the Oxford Open Science group
+> to run a hands-on workshop on data/content mining from the scientific
+> literature, which sounds like an excellent idea.
+>
+> ...
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121102/cf4fb40f/attachment.htm>
+
+From ross.mounce at gmail.com  Fri Nov  2 23:09:53 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 2 Nov 2012 23:09:53 +0000
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+Message-ID: <CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+
+Likewise I think the workshop/meeting is a splendid and timely idea.
+
+I've already had a few inquiries about textmining from
+*palaeontologists*(and why not?) after I talked about mining in a
+recent conference talk in
+North Carolina (one of whom is in Oxford actually, John Clarke might well
+be interested in this, I've cc'd him into this message).
+
+As John and I were only just discussing earlier today, the scope and
+potential for mining techniques is massive and would be useful in so many
+different fields. e.g. anyone wanting to do a systematic
+(all-literature-encompassing) review on a broad topic
+
+I'll definitely try and be there if I can. I can't do Feb 11th-15th though
+(at another conference).
+
+Best,
+
+Ross
+
+On 2 November 2012 20:32, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> I think this is a really good idea - I'd been thinking about suggesting it
+> to OKF. People getting into this area spend a lot of time hacking about
+> with substandard tools and ending up inefficient. I might be in UK end of
+> Feb onwards and would certainly want to help.
+>
+> The vital need IMO is to list all the current tools and comment briefly on
+> them. There are several levels (off the top of my head):
+> * discovery - where is the content
+> * scraping - getting it onto your machine (or relevant cloud)
+> * extracting into "readable" form (e.g. PDF2Foo) - I am blogging about this
+> * finding tables
+> * searching for the bits you want (e.g. OSCAR for chemistry)
+> * linking to known ontologies (e.g. PubChem)
+> * fiinding somewhere to put the results
+>
+> and, of course we need to touch on legal aspects and other procedural
+> matters.
+>
+> I can contribute chemistry (which although it may not be immediately
+> relevant to everyone shows many of the aspects and most people know
+> slightly what it is about - they have heard of molecules and chemical
+> structures.
+>
+> On Fri, Nov 2, 2012 at 4:05 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+>
+>> Hi All
+>>
+>> I've had a request from a grad student via the Oxford Open Science group
+>> to run a hands-on workshop on data/content mining from the scientific
+>> literature, which sounds like an excellent idea.
+>>
+>> ...
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121102/ff6cd94e/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Fri Nov  2 23:14:15 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 2 Nov 2012 23:14:15 +0000
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+Message-ID: <CABPM+wrZPte1QVwgVuzFFu-UYojNSDMU21vNQFiL_k6WQvNkOA@mail.gmail.com>
+
+Thanks Ross - it was in fact John's suggestion - I should have thought to
+cc earlier (sorry John!)
+
+Great, I'll boot up a planning pad. Keep the suggestions coming!
+
+Jenny
+
+
+On Fri, Nov 2, 2012 at 11:09 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> Likewise I think the workshop/meeting is a splendid and timely idea.
+>
+> I've already had a few inquiries about textmining from *palaeontologists*(and why not?) after I talked about mining in a recent conference talk in
+> North Carolina (one of whom is in Oxford actually, John Clarke might well
+> be interested in this, I've cc'd him into this message).
+>
+> As John and I were only just discussing earlier today, the scope and
+> potential for mining techniques is massive and would be useful in so many
+> different fields. e.g. anyone wanting to do a systematic
+> (all-literature-encompassing) review on a broad topic
+>
+> I'll definitely try and be there if I can. I can't do Feb 11th-15th though
+> (at another conference).
+>
+> Best,
+>
+> Ross
+>
+>  On 2 November 2012 20:32, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>>  I think this is a really good idea - I'd been thinking about suggesting
+>> it to OKF. People getting into this area spend a lot of time hacking about
+>> with substandard tools and ending up inefficient. I might be in UK end of
+>> Feb onwards and would certainly want to help.
+>>
+>> The vital need IMO is to list all the current tools and comment briefly
+>> on them. There are several levels (off the top of my head):
+>> * discovery - where is the content
+>> * scraping - getting it onto your machine (or relevant cloud)
+>> * extracting into "readable" form (e.g. PDF2Foo) - I am blogging about
+>> this
+>> * finding tables
+>> * searching for the bits you want (e.g. OSCAR for chemistry)
+>> * linking to known ontologies (e.g. PubChem)
+>> * fiinding somewhere to put the results
+>>
+>> and, of course we need to touch on legal aspects and other procedural
+>> matters.
+>>
+>> I can contribute chemistry (which although it may not be immediately
+>> relevant to everyone shows many of the aspects and most people know
+>> slightly what it is about - they have heard of molecules and chemical
+>> structures.
+>>
+>> On Fri, Nov 2, 2012 at 4:05 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+>>
+>>> Hi All
+>>>
+>>> I've had a request from a grad student via the Oxford Open Science group
+>>> to run a hands-on workshop on data/content mining from the scientific
+>>> literature, which sounds like an excellent idea.
+>>>
+>>> ...
+>>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+>
+> --
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121102/8b0e9259/attachment.htm>
+
+From punk.kish at gmail.com  Fri Nov  2 23:23:15 2012
+From: punk.kish at gmail.com (Mr. Puneet Kishor)
+Date: Sat, 3 Nov 2012 07:23:15 +0800
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+Message-ID: <419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+
+(Wish I could be there).
+
+When the workshop is done, please package up the proceedings and any tools/presentations you demonstrate or develop so they may be reused. I can well imagine conducting one here State-side, for paleo as well as neo folks.
+
+
+On Nov 3, 2012, at 7:09 AM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> Likewise I think the workshop/meeting is a splendid and timely idea.
+> 
+> I've already had a few inquiries about textmining from
+> *palaeontologists*(and why not?) after I talked about mining in a
+> recent conference talk in
+> North Carolina (one of whom is in Oxford actually, John Clarke might well
+> be interested in this, I've cc'd him into this message).
+> 
+> As John and I were only just discussing earlier today, the scope and
+> potential for mining techniques is massive and would be useful in so many
+> different fields. e.g. anyone wanting to do a systematic
+> (all-literature-encompassing) review on a broad topic
+> 
+> I'll definitely try and be there if I can. I can't do Feb 11th-15th though
+> (at another conference).
+> 
+> Best,
+> 
+> Ross
+> 
+> On 2 November 2012 20:32, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> 
+>> I think this is a really good idea - I'd been thinking about suggesting it
+>> to OKF. People getting into this area spend a lot of time hacking about
+>> with substandard tools and ending up inefficient. I might be in UK end of
+>> Feb onwards and would certainly want to help.
+>> 
+>> The vital need IMO is to list all the current tools and comment briefly on
+>> them. There are several levels (off the top of my head):
+>> * discovery - where is the content
+>> * scraping - getting it onto your machine (or relevant cloud)
+>> * extracting into "readable" form (e.g. PDF2Foo) - I am blogging about this
+>> * finding tables
+>> * searching for the bits you want (e.g. OSCAR for chemistry)
+>> * linking to known ontologies (e.g. PubChem)
+>> * fiinding somewhere to put the results
+>> 
+>> and, of course we need to touch on legal aspects and other procedural
+>> matters.
+>> 
+>> I can contribute chemistry (which although it may not be immediately
+>> relevant to everyone shows many of the aspects and most people know
+>> slightly what it is about - they have heard of molecules and chemical
+>> structures.
+>> 
+>> On Fri, Nov 2, 2012 at 4:05 PM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+>> 
+>>> Hi All
+>>> 
+>>> I've had a request from a grad student via the Oxford Open Science group
+>>> to run a hands-on workshop on data/content mining from the scientific
+>>> literature, which sounds like an excellent idea.
+>>> 
+>>> ...
+>>> 
+>> 
+>> 
+>> 
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> ..
+> 
+> 
+> -- 
+> -- 
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+
+--
+Puneet Kishor
+Science and Data Policy at Creative Commons
+
+
+
+
+From jcmcoppice12 at gmail.com  Sat Nov  3 14:46:52 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Sat, 3 Nov 2012 14:46:52 +0000
+Subject: [open-science] Tamiflu Open Data Campaign
+Message-ID: <CABPM+wrumv__L65=jAhf1=KWYzCdGCt=RjgumhrXArTswS6zoA@mail.gmail.com>
+
+Dear All
+
+You might be interested in an open data campaign being spearheaded by the
+British Medical Journal to hold pharmaceutical company Roche accountable
+for failing to deliver promised clinical trial data on Tamiflu, a drug
+which countries have spent billions of pounds stock piling.
+
+Some of the articles supplied below give a more general overview of the
+problem of closed and missing data about clinical research.
+
+Jenny
+
+(via Tom Jefferson)
+
+Tamiflu open data campaign
+
+http://www.bmj.com/tamiflu
+
+Also:
+
+Editorial
+Godlee F. Clinical trial data for all drugs in current use. *BMJ
+*2012;345:e7304
+doi: 10.1136/bmj.e7304 (Published 29 October 2012)
+
+http://www.bmj.com/content/345/bmj.e7304
+
+Feature
+Payne D. Tamiflu: the battle for secret drug data. *BMJ *2012;345:e7303
+doi: 10.1136/bmj.e7303 (Published 29 October 2012)
+
+http://www.bmj.com/content/345/bmj.e7303
+
+News
+Zosia Kmietowicz. Academics plea for politicians to tackle problem of
+missing data.* BMJ *2012;345:e7306 doi: 10.1136/bmj.e7306 (Published 29
+October 2012)
+
+http://www.bmj.com/content/345/bmj.e7306
+
+Correspondence
+Godlee F. Open letter to Roche about oseltamivir trial data*BMJ *2012;345:e7305
+doi: 10.1136/bmj.e7305 (Published 29 October 2012).
+http://www.bmj.com/content/345/bmj.e7305
+
+Podcast (click on the fish icon right hand side, upper corner of webpage)
+http://www.bmj.com/multimedia
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121103/146bf940/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Nov  3 22:21:47 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 3 Nov 2012 22:21:47 +0000
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+	<419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+Message-ID: <CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+
+More thoughts.
+
+No one else is doing this (coordinating resources), but I feel there is a
+large hidden collection of people who want to do content-mining. They need
+a community and we are well placed to do this. The objective drivers are:
+* introductions to what is technically possible
+* overview of protocols
+* lists of existing software (crawlers, parsers, semantics, machine
+learning...)
+* lists of existing online resources (mining sites, name servers,
+geotaggers, etc.)
+* how to link results
+
+There are some out-of-the-box solutions but many require research and
+customisation for each source / domain. It may be necessary to train
+Natural Language Processors and Machine Learning. This can strongly benefit
+from community - there are many opportunities for annotation and we should
+be exploring annottaions tools(including the OKF's).
+
+Also this overlaps with the "lefthand end" of the School of Data and we
+should be exchanging information on a regular basis.
+
+For myself I am currently developing a PDF2SVG toolkit (under AMI2). This
+has the goal of completely transforming all PDF to a simpler and more
+uniform representation. I am blogging this semi-regularly ,
+http://blogs.ch.cam.ac.uk/pmr. Again there is great scope for involvement
+to alpha test and this could be a useful way of people getting into the PDF
+area.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121103/dd548e7b/attachment.htm>
+
+From punk.kish at gmail.com  Sun Nov  4 02:03:20 2012
+From: punk.kish at gmail.com (Mr. Puneet Kishor)
+Date: Sat, 3 Nov 2012 19:03:20 -0700
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+	<419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+	<CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+Message-ID: <5CC8EE82-B8FE-47D9-B0D6-5758D7CC66B9@gmail.com>
+
+It would be nice to have a list of research questions/projects that involve or could benefit from content mining. A heavy-duty example is below, but I am sure there are several research topics that could benefit from commonly available tools and techniques as well as perhaps crowd/community participation.
+
+Here is an example of a content mining project some of my colleagues are working on
+
+http://earthcube.ning.com/group/dark-geodata-concept-award/forum/topics/geodeepdive-bringing-dark-data-to-light
+
+More info on the project at http://hazy.cs.wisc.edu/hazy/geodeepdive/
+
+
+On Nov 3, 2012, at 3:21 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> More thoughts.
+> 
+> No one else is doing this (coordinating resources), but I feel there is a
+> large hidden collection of people who want to do content-mining. They need
+> a community and we are well placed to do this. The objective drivers are:
+> * introductions to what is technically possible
+> * overview of protocols
+> * lists of existing software (crawlers, parsers, semantics, machine
+> learning...)
+> * lists of existing online resources (mining sites, name servers,
+> geotaggers, etc.)
+> * how to link results
+> 
+> There are some out-of-the-box solutions but many require research and
+> customisation for each source / domain. It may be necessary to train
+> Natural Language Processors and Machine Learning. This can strongly benefit
+> from community - there are many opportunities for annotation and we should
+> be exploring annottaions tools(including the OKF's).
+> 
+> Also this overlaps with the "lefthand end" of the School of Data and we
+> should be exchanging information on a regular basis.
+> 
+> For myself I am currently developing a PDF2SVG toolkit (under AMI2). This
+> has the goal of completely transforming all PDF to a simpler and more
+> uniform representation. I am blogging this semi-regularly ,
+> http://blogs.ch.cam.ac.uk/pmr. Again there is great scope for involvement
+> to alpha test and this could be a useful way of people getting into the PDF
+> area.
+> 
+> P.
+> 
+
+
+
+
+--
+Puneet Kishor
+Science and Data Policy at Creative Commons
+
+
+
+
+From pm286 at cam.ac.uk  Sun Nov  4 21:15:43 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 4 Nov 2012 21:15:43 +0000
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+	<419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+	<CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+Message-ID: <CAD2k14MxN4jm+fraDN9k3yWjpvzZzS=Sor7H0qt2UJ_Eu_xizQ@mail.gmail.com>
+
+I had a request today asking if there was anywhere simple that people could
+start reading about content-mining. I think the answer is no. I don't even
+think there are good community sites for specialised text-mining and
+data-mining. So this makes it even more important to create some.
+
+The important thing to realise is that many aspects are not deeply
+technical. A lot requires us to collate fragmented knowledge. Here's one
+where I would welcome input from anyone.
+
+ So one of our first tasks in building AMI2 (intelligent reader of STM
+literature) is to find a recent paper from each publisher that is "Open
+Access" - i.e. labelled in some way as Open. Anyone can help in this. This
+will give us a corpus of papers that we can develop and test on.In that way
+we can develop a per-publisher technology. That's probably about 100. Then
+we summarize the information. It would be useful to have something like:
+
+Publisher name:
+Provides HTML?
+HTML figure format (PNG, JPG, etc...)
+HTML table format (PNG, HTML, XL, CSV ...)
+HTML References
+HTML Bibliographic Metadata
+
+BIBTEX metadata
+
+PDF?
+PDF fonts used (this will come out of AMI)
+PDF non-Unicode fonts (this will come out of AMI)
+PDF has Vector Graphics (also out of AMI)
+
+How are math equations provided (GIF, TeX, MathematicalPI, ...)
+
+Supplemental data?
+Supp outside firewall?
+Supp data formats (CIF, XL, Word, etc)
+
+Licence and or restriction for Open publications
+
+Crawling URLs and strategy (i.e. how do we find papers).
+
+If we summarize this it makes it much easier for anyone wanting to find
+information in a lot of journals. For example if we are looking for
+geological terms we may want to crawl Nature, Science, Amer. Mineral, etc.
+It's very useful if people have done the exploration and listed it. already
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121104/152256d7/attachment.htm>
+
+From agosti at amnh.org  Tue Nov  6 09:01:23 2012
+From: agosti at amnh.org (Donat Agosti)
+Date: Tue, 6 Nov 2012 12:31:23 +0330
+Subject: [open-science] pro-IBiosphere
+Message-ID: <07c301cdbbfd$5149bf40$f3dd3dc0$@amnh.org>
+
+Pro-iBiosphere is a European Union  FP7 funded project to develop an outline of a future European open biodiversity knowledge management system. The Pro-iBiosphere project has been launched on September 1, 2012 for the period of 2 years addressing technical and semantic interoperability issues and challenges that will ultimately lead to a more efficient system of the management of biodiversity information.  For practical reasons and to demonstrate the functionality of the proposed ideas, the test beds are primarily the production of floras and faunas produced at the partner's institutions, how they can be linked to external datasets, and how the new information can be made more widely accessible. 
+
+A series of open workshops will be help to discuss, challenge and improve the specific tasks in the envisioned system. Pilot studies will play a pivotal role in demonstrating the advantages, as well as the gaps in current technology, legal aspects and the sociology of the proposed system.
+
+ 
+
+Consortium partners are the Naturalis Leiden, the Royal Botanical Garden Kew, the National Botanic Garden Belgium,  the Botanic Garden and Botanical Museum Berlin-Dahlem, Sigma Orionis, Pensoft and Plazi.
+
+ 
+
+More information is available at http://www.pro-ibiosphere.eu/
+
+ 
+
+ 
+
+Donat Agosti
+
+Plazi / Pro-iBiosphere
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121106/acbf35a8/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue Nov  6 13:04:37 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 6 Nov 2012 13:04:37 +0000
+Subject: [open-science] The Open Science Working Group needs you!
+Message-ID: <CABPM+wrLMUrf5=hSTL+oTZZdRHY8dcFhgCQzZA0+6ON=tDeWUg@mail.gmail.com>
+
+Dear All
+
+As we have grown to over 400 people on the mailing list and activities have
+expanded it would be great to form a committee with a few more people on
+board to make sure the working group is as effective as possible in
+achieving our mission of opening up science and scientific research outputs.
+
+If you'd be interested in getting more involved in running the group and
+our activities and projects, get in touch!
+It would also be great to have representatives in local areas willing to
+act as open science champions in their own countries or cities.
+
+The types of roles we'd like to fill are below, as well as a reminder of
+some of the projects we've got on the go. The time commitment will be
+flexible and relatively low, but it will make a big difference to have
+someone keeping an eye on specific areas! If you know anyone not on the
+list who might be interested in getting involved, please forward this
+message to them.
+
+Working group coordinator (working with Jenny)
+Blog Editor
+Tech/Dev Lead
+Event Organiser
+Designer
+
+Active Projects:
+
+ - Panton Principles and Panton Fellowships
+- Content Mining Manifesto
+- pyBOSSA
+- Open Research Data Handbook
+- Open Science blog
+
+Tools and activities from other working groups of special interest:
+
+- BibServer (developed by Open Bibliography)
+- Open Access Index (@ccess and Open Bibliography)
+- DataHub (CKAN Team)
+- Who Needs Access? (@ccess)
+
+If you have any questions, please let me know - I look forward to hearing
+from you!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121106/51eac19d/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Tue Nov  6 13:32:35 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Tue, 6 Nov 2012 13:32:35 +0000
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAD2k14MxN4jm+fraDN9k3yWjpvzZzS=Sor7H0qt2UJ_Eu_xizQ@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+	<419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+	<CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+	<CAD2k14MxN4jm+fraDN9k3yWjpvzZzS=Sor7H0qt2UJ_Eu_xizQ@mail.gmail.com>
+Message-ID: <CABPM+wo0RscXQDPMnWh24jOaf=ndy7Vr7LCo-t+uYt+eKpc4Qw@mail.gmail.com>
+
+Thanks for your responses everyone, I think it's clear we've identified a
+need.
+I'm in the process of planning the next Open Science Hackday and I think it
+would be good to focus on content mining to try and get some of these
+resources off the ground, particularly as there are non-technical aspects
+to which many people can contribute. So in terms of next steps:
+
+1) Organise content mining themed open science hackday, to include a sprint
+on content for community sites [early Dec]
+
+Topics for inclusion:
+* introductions to what is technically possible
+* overview of protocols
+* lists of existing software (crawlers, parsers, semantics, machine
+learning...)
+* lists of existing online resources (mining sites, name servers,
+geotaggers, etc.)
+* how to link results
+* a list of research questions/projects that involve or could benefit from
+content mining
+
+2) Crowdsource AMI2 development corpus - please contribute!
+(Peter - I've copied your fields into a googledoc with the publishers from
+Ross' open access spreadsheet)
+
+https://docs.google.com/spreadsheet/ccc?key=0AtV3tIqIu0UZdFI5U3hRZVl0S05ZM0hNS3NYYTdFYnc
+
+3) Organise content mining workshop and make content available online
+[planning from Jan, run Mar/Apr]
+
+I hope this sounds good, I'll let you know as soon as I've sorted a date
+for the hackday and start booting up some documents for people to
+contribute to remotely or in their own time.
+
+Jenny
+
+
+
+On Sun, Nov 4, 2012 at 9:15 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> I had a request today asking if there was anywhere simple that people
+> could start reading about content-mining. I think the answer is no. I don't
+> even think there are good community sites for specialised text-mining and
+> data-mining. So this makes it even more important to create some.
+>
+> The important thing to realise is that many aspects are not deeply
+> technical. A lot requires us to collate fragmented knowledge. Here's one
+> where I would welcome input from anyone.
+>
+>  So one of our first tasks in building AMI2 (intelligent reader of STM
+> literature) is to find a recent paper from each publisher that is "Open
+> Access" - i.e. labelled in some way as Open. Anyone can help in this. This
+> will give us a corpus of papers that we can develop and test on.In that way
+> we can develop a per-publisher technology. That's probably about 100. Then
+> we summarize the information. It would be useful to have something like:
+>
+> Publisher name:
+> Provides HTML?
+> HTML figure format (PNG, JPG, etc...)
+> HTML table format (PNG, HTML, XL, CSV ...)
+> HTML References
+> HTML Bibliographic Metadata
+>
+> BIBTEX metadata
+>
+> PDF?
+> PDF fonts used (this will come out of AMI)
+> PDF non-Unicode fonts (this will come out of AMI)
+> PDF has Vector Graphics (also out of AMI)
+>
+> How are math equations provided (GIF, TeX, MathematicalPI, ...)
+>
+> Supplemental data?
+> Supp outside firewall?
+> Supp data formats (CIF, XL, Word, etc)
+>
+> Licence and or restriction for Open publications
+>
+> Crawling URLs and strategy (i.e. how do we find papers).
+>
+> If we summarize this it makes it much easier for anyone wanting to find
+> information in a lot of journals. For example if we are looking for
+> geological terms we may want to crawl Nature, Science, Amer. Mineral, etc.
+> It's very useful if people have done the exploration and listed it. already
+>
+> P.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121106/f3d4e115/attachment.htm>
+
+From jackpark at gmail.com  Tue Nov  6 14:30:12 2012
+From: jackpark at gmail.com (Jack Park)
+Date: Tue, 6 Nov 2012 06:30:12 -0800
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CABPM+wo0RscXQDPMnWh24jOaf=ndy7Vr7LCo-t+uYt+eKpc4Qw@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+	<419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+	<CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+	<CAD2k14MxN4jm+fraDN9k3yWjpvzZzS=Sor7H0qt2UJ_Eu_xizQ@mail.gmail.com>
+	<CABPM+wo0RscXQDPMnWh24jOaf=ndy7Vr7LCo-t+uYt+eKpc4Qw@mail.gmail.com>
+Message-ID: <CACeHAVDBNhe55ag7UxB5rC_ak2AebhfBdFcvpKH+kumLcK-L7g@mail.gmail.com>
+
+Hi Jenny,
+
+May I suggest that you run such an inquiry in DebateGraph [1] rather
+than email? It's a structured conversation mechanism for organizing
+facts, opinions, links, and so forth. People can subscribe to get
+emails of changes to the conversation.
+
+Cheers
+Jack
+[1] http://debategraph.org/
+
+On Tue, Nov 6, 2012 at 5:32 AM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> Thanks for your responses everyone, I think it's clear we've identified a
+> need.
+> I'm in the process of planning the next Open Science Hackday and I think it
+> would be good to focus on content mining to try and get some of these
+> resources off the ground, particularly as there are non-technical aspects to
+> which many people can contribute. So in terms of next steps:
+>
+> 1) Organise content mining themed open science hackday, to include a sprint
+> on content for community sites [early Dec]
+>
+> Topics for inclusion:
+> * introductions to what is technically possible
+> * overview of protocols
+> * lists of existing software (crawlers, parsers, semantics, machine
+> learning...)
+> * lists of existing online resources (mining sites, name servers,
+> geotaggers, etc.)
+> * how to link results
+> * a list of research questions/projects that involve or could benefit from
+> content mining
+>
+> 2) Crowdsource AMI2 development corpus - please contribute!
+> (Peter - I've copied your fields into a googledoc with the publishers from
+> Ross' open access spreadsheet)
+>
+> https://docs.google.com/spreadsheet/ccc?key=0AtV3tIqIu0UZdFI5U3hRZVl0S05ZM0hNS3NYYTdFYnc
+>
+> 3) Organise content mining workshop and make content available online
+> [planning from Jan, run Mar/Apr]
+>
+> I hope this sounds good, I'll let you know as soon as I've sorted a date for
+> the hackday and start booting up some documents for people to contribute to
+> remotely or in their own time.
+>
+> Jenny
+>
+>
+>
+> On Sun, Nov 4, 2012 at 9:15 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>> I had a request today asking if there was anywhere simple that people
+>> could start reading about content-mining. I think the answer is no. I don't
+>> even think there are good community sites for specialised text-mining and
+>> data-mining. So this makes it even more important to create some.
+>>
+>> The important thing to realise is that many aspects are not deeply
+>> technical. A lot requires us to collate fragmented knowledge. Here's one
+>> where I would welcome input from anyone.
+>>
+>>  So one of our first tasks in building AMI2 (intelligent reader of STM
+>> literature) is to find a recent paper from each publisher that is "Open
+>> Access" - i.e. labelled in some way as Open. Anyone can help in this. This
+>> will give us a corpus of papers that we can develop and test on.In that way
+>> we can develop a per-publisher technology. That's probably about 100. Then
+>> we summarize the information. It would be useful to have something like:
+>>
+>> Publisher name:
+>> Provides HTML?
+>> HTML figure format (PNG, JPG, etc...)
+>> HTML table format (PNG, HTML, XL, CSV ...)
+>> HTML References
+>> HTML Bibliographic Metadata
+>>
+>> BIBTEX metadata
+>>
+>> PDF?
+>> PDF fonts used (this will come out of AMI)
+>> PDF non-Unicode fonts (this will come out of AMI)
+>> PDF has Vector Graphics (also out of AMI)
+>>
+>> How are math equations provided (GIF, TeX, MathematicalPI, ...)
+>>
+>> Supplemental data?
+>> Supp outside firewall?
+>> Supp data formats (CIF, XL, Word, etc)
+>>
+>> Licence and or restriction for Open publications
+>>
+>> Crawling URLs and strategy (i.e. how do we find papers).
+>>
+>> If we summarize this it makes it much easier for anyone wanting to find
+>> information in a lot of journals. For example if we are looking for
+>> geological terms we may want to crawl Nature, Science, Amer. Mineral, etc.
+>> It's very useful if people have done the exploration and listed it. already
+>>
+>> P.
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+
+
+From tfmorris at gmail.com  Tue Nov  6 15:00:50 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Tue, 6 Nov 2012 10:00:50 -0500
+Subject: [open-science] Content Mining Workshop
+In-Reply-To: <CAD2k14MxN4jm+fraDN9k3yWjpvzZzS=Sor7H0qt2UJ_Eu_xizQ@mail.gmail.com>
+References: <CABPM+wpoVvZFvFSvzhTOX0E+_ZCZ1mP=TuKGwjUTXcYRXGrqWw@mail.gmail.com>
+	<CAD2k14NL-=bezs-PizFrmOS6tkPjnQz2SdC-D_ZWtrSJoSZLdA@mail.gmail.com>
+	<CAJr+OExwaJWBqXDiLOjPfNFqs7q1XbHXu+_LCcqS5t+p2-TiZw@mail.gmail.com>
+	<419E5163-A962-43EA-9810-8FB10D8410B3@gmail.com>
+	<CAD2k14ND91jRG3qOHD=v+mznY2w5Xi5tHi-dWJ8LWm-Y1ann5w@mail.gmail.com>
+	<CAD2k14MxN4jm+fraDN9k3yWjpvzZzS=Sor7H0qt2UJ_Eu_xizQ@mail.gmail.com>
+Message-ID: <CAE9vqEEdm81HLpOMbFV=1XxyF5-=7i_fUv+Nzn4Svx+DFwmbUA@mail.gmail.com>
+
+On Sun, Nov 4, 2012 at 4:15 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> So one of our first tasks in building AMI2 (intelligent reader of STM
+> literature)
+
+
+Where can I find a description of AMI2 (bigger than the parenthetical
+expression above)?  Has it got a project page?  A Github repo? A search of
+the OKFN site gives one hit implying that it's a "large software framework"
+but otherwise offers no clues.
+
+I may have said this before, but I find it dizzying trying to keep up with
+the stream of projects & TLAs that OKFN creates, renames and abandons.
+ It'd be great to have a page on the web site which lists all the projects,
+their current names, their previous names, what they're about, etc.
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121106/6b2a45b4/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Nov  6 22:55:24 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 6 Nov 2012 22:55:24 +0000
+Subject: [open-science] The Open Science Working Group needs you!
+In-Reply-To: <CABPM+wrLMUrf5=hSTL+oTZZdRHY8dcFhgCQzZA0+6ON=tDeWUg@mail.gmail.com>
+References: <CABPM+wrLMUrf5=hSTL+oTZZdRHY8dcFhgCQzZA0+6ON=tDeWUg@mail.gmail.com>
+Message-ID: <CAD2k14MTEY=+hamF4Mh9gjHQSe=WNSUMNG+rKoroCafKRq0uow@mail.gmail.com>
+
+I strongly support this , Jenny.
+(For those who don't realise it Jenny has put a HUGE amolunt of work into
+this).
+
+There must be post of people out there who hace skills that can be
+contributed. YOU DON'T HAVE TO BE A SCIENTIST. Much of the needed work is
+gathering resources and making them available on the web. A good
+Sunday-afternoon/evening activity!
+
+I am absolutely sure that any resource in this area will be highly valued.
+Your effort will be valuable and recognised.
+
+On Tue, Nov 6, 2012 at 1:04 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> As we have grown to over 400 people on the mailing list and activities
+> have expanded it would be great to form a committee with a few more people
+> on board to make sure the working group is as effective as possible in
+> achieving our mission of opening up science and scientific research outputs.
+>
+>
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121106/f7ab17db/attachment.htm>
+
+From gutam2000 at gmail.com  Wed Nov  7 05:23:04 2012
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Wed, 7 Nov 2012 10:53:04 +0530
+Subject: [open-science] The Open Science Working Group needs you!
+In-Reply-To: <CABPM+wrLMUrf5=hSTL+oTZZdRHY8dcFhgCQzZA0+6ON=tDeWUg@mail.gmail.com>
+References: <CABPM+wrLMUrf5=hSTL+oTZZdRHY8dcFhgCQzZA0+6ON=tDeWUg@mail.gmail.com>
+Message-ID: <CA+4KT3qEF2_+X-s-yrp7O66L4Ab+YtLKbdZvfRnHk+kGGT8N=w@mail.gmail.com>
+
+Dear Jenny and Others,
+
+After a long time gap I am sending a (reply) mail to this Open Science. I
+would like to get associated and would love to work on the following:-
+
+- Open Research Data Handbook
+
+- Open Access Index (@ccess and Open Bibliography)
+
+- Who Needs Access? (@ccess)
+
+And I would like to join with others who are working for the Access to
+Materials (Biological like Plants/Seeds - onlines of Open Source
+Software/Creative Commons Licensing)
+
+Thanks & Regards
+Sridhar
+__________________________________________________________
+Sridhar Gutam PhD, ARS, Patent Laws (NALSAR), IP & Biotech. (WIPO)
+Senior Scientist (Plant Physiology) Central Institute for Subtropical
+Horticulture <http://www.cishlko.org>
+ Joint Secretary, Agricultural Research Service Scientists'
+Forum<http://www.icar.org.in/en/node/1168>
+Convener, Open Access India <https://www.facebook.com/oaindia>
+Rehmankhera, Kakori Post
+Lucknow 227107, Uttar Pradesh, India
+Phone: +91-522-2841022/23/24; Fax: +91-522-2841025
+Mobile:+91-9005760036/8005346136
+Publications: http://works.bepress.com/sridhar_gutam/ <http://goo.gl/EQAwr>
+ <https://www.facebook.com/gutamsridhar>
+<http://www.linkedin.com/in/sridhargutam>
+<http://twitter.com/gutam2000><http://works.bepress.com/sridhar_gutam/rss.html>
+
+
+On 6 November 2012 18:34, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> As we have grown to over 400 people on the mailing list and activities
+> have expanded it would be great to form a committee with a few more people
+> on board to make sure the working group is as effective as possible in
+> achieving our mission of opening up science and scientific research outputs.
+>
+> If you'd be interested in getting more involved in running the group and
+> our activities and projects, get in touch!
+> It would also be great to have representatives in local areas willing to
+> act as open science champions in their own countries or cities.
+>
+> The types of roles we'd like to fill are below, as well as a reminder of
+> some of the projects we've got on the go. The time commitment will be
+> flexible and relatively low, but it will make a big difference to have
+> someone keeping an eye on specific areas! If you know anyone not on the
+> list who might be interested in getting involved, please forward this
+> message to them.
+>
+> Working group coordinator (working with Jenny)
+> Blog Editor
+> Tech/Dev Lead
+> Event Organiser
+> Designer
+>
+> Active Projects:
+>
+>  - Panton Principles and Panton Fellowships
+> - Content Mining Manifesto
+> - pyBOSSA
+> - Open Research Data Handbook
+> - Open Science blog
+>
+> Tools and activities from other working groups of special interest:
+>
+> - BibServer (developed by Open Bibliography)
+> - Open Access Index (@ccess and Open Bibliography)
+> - DataHub (CKAN Team)
+> - Who Needs Access? (@ccess)
+>
+> If you have any questions, please let me know - I look forward to hearing
+> from you!
+>
+> Jenny
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121107/4bcae85f/attachment.htm>
+
+From bschmidt at sub.uni-goettingen.de  Tue Nov  6 15:26:53 2012
+From: bschmidt at sub.uni-goettingen.de (Birgit Schmidt)
+Date: Tue, 6 Nov 2012 16:26:53 +0100
+Subject: [open-science] =?utf-8?q?Reminder=3A_Register_for_OpenAIRE_Confer?=
+ =?utf-8?q?ence_=E2=80=93_deadline_approaching?=
+Message-ID: <50992C3D.3060605@sub.uni-goettingen.de>
+
+*** Apologies for cross-posting ***
+
+Dear all,
+
+*Registration for OpenAIRE?s conference closes next Sunday, 11 November. 
+*Participation is free but seats are limited.
+
+To register please visit: http://www.openaire.eu/en/conference2012
+
+*OpenAIRE Conference "Enlightenment in the Knowledge Society"*
+
+Date: 21-22 November 2012
+Location: G?ttingen State and University Library, G?ttingen, Germany
+Hashtag:#openaire12
+Follow us:www.twitter.com/OpenAIRE_eu <http://www.twitter.com/OpenAIRE_eu>
+
+The conference will present the results of the OpenAIRE project which 
+supports the European Commission?s Seventh Framework Open Access 
+Pilot.^It will feature a picture of the open access & supporting 
+infrastructure landscape in Europe and offer views ranging from 
+researcher?s views on scientific information, to the role of data 
+infrastructures, research institutions and funders. This will offer a 
+fitting context to Horizon 2020, where open access will be a general 
+principle for all European researchprogrammes. The programme will also 
+give insight into the OpenAIREplus proje ct, which will link 
+publications to research data, enabling seamless access to scientific 
+knowledge.
+
+The agenda includes:
+
+?Introduction to OpenAIRE?s Achievements and Challenges
+
+?Services on Top of Repositories ? Enhancing the User Experience
+
+?Policies and Practices on Data and Publications ? A Legal Perspective
+
+?International Collaboration on Research Data Infrastructure (iCORDI) & 
+Research Data Alliance
+
+?Panel Discussion on Opening Access to Publications & Data ? Making the 
+Vision Reality
+
+The meeting is organized by OpenAIRE and OpenAIREplus, with the support 
+of the Directorate Generals for Communications Networks, Content and 
+Technology(CONNECT) and Research and Innovation (RTD). Invitees are 
+decision makers and other stakeholders in research from all EU Member 
+States and further Associated countries. The event is co-hosted by 
+G?ttingen University, founded in 1734 during the Enlightenment. 
+G?ttingen?s spirit of learning has been transferred to the 21^st century 
+by the promotion of open access successfully both in Europe and 
+internationally. The Conference will send an appropriate signal to the 
+European community at a time when the Commission?s Communication & 
+Recommendation on Scientific Information are being discussed in European 
+member states.
+
+We look forward to see you in G?ttingen!
+
+On behalf of the OpenAIRE team,
+Birgit Schmidt, OpenAIRE Scientific Manager
+
+-- 
+******************************************************
+Dr. Birgit Schmidt
+Scientific Manager
+
+Goettingen State and University Library
+- Electronic Publishing -
+Platz der Goettinger Sieben 1
+D-37073 Goettingen
+
+Tel. +49 551 39-5228
+Fax  +49 551 39-5222
+bschmidt at sub.uni-goettingen.de
+______________________________________________________
+
+COAR www.coar-repositories.org
+OpenAIRE www.openaire.eu
+OAPEN www.oapen.org
+Open Access www.open-access.net
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121106/fd814f6a/attachment.htm>
+
+From jenny.molloy at okfn.org  Thu Nov  8 14:17:57 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 8 Nov 2012 14:17:57 +0000
+Subject: [open-science] Open Science Video Statements
+Message-ID: <CABPM+wqJXWU8HeO+RytzxrkBZKpMD+dno7xustMme7FxOnKj6A@mail.gmail.com>
+
+Hi All
+
+OpenAIRE are looking for short video statements on open science by 14 Nov
+to play at OpenAIRE Conference 2012 (hopefully they'll also make them
+publicly available under an open license so we can play them at other open
+science events)
+
+
+From pm286 at cam.ac.uk  Thu Nov  8 21:47:27 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 8 Nov 2012 21:47:27 +0000
+Subject: [open-science] Open Science Video Statements
+In-Reply-To: <CABPM+wqJXWU8HeO+RytzxrkBZKpMD+dno7xustMme7FxOnKj6A@mail.gmail.com>
+References: <CABPM+wqJXWU8HeO+RytzxrkBZKpMD+dno7xustMme7FxOnKj6A@mail.gmail.com>
+Message-ID: <CAD2k14PTpyM4ar40YUdRpiR7FwXPJQnm2gEQE5T3WB2f3O9NrQ@mail.gmail.com>
+
+On Thu, Nov 8, 2012 at 2:17 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Hi All
+>
+> OpenAIRE are looking for short video statements on open science by 14 Nov
+> to play at OpenAIRE Conference 2012 (hopefully they'll also make them
+> publicly available under an open license so we can play them at other open
+> science events)
+>
+
+If we make them we can set our own licence - I iamgine you mean the ones
+they make and the collection. Yes, we should press for this.
+
+
+>
+> From https://www.openaire.eu/en/component/content/article/5-support/430
+> For example, how do view open science? Do you think linking data is
+> important in the future? If you?d like to send us a comment on how you do
+> your research, how you view open access, what we could do to change it and
+> meet your needs, please do get in touch. Feel free to be as honest and
+> controversial as you like ? the more futuristic the better!
+>
+
+> I think that sounds like our kind of thing so I hope several of you can
+> contribute!
+>
+> If anyone does make a video and would be happy for it to be posted on the
+> working group website as well, please let me know.
+>
+> I *have* brought my video out here. I shan't have an interviewer. See what
+I can do. It might be an #animalgarden production in that case.
+
+
+> Best wishes
+>
+> Jenny
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121108/bc6a4440/attachment.htm>
+
+From marcus.hanwell at kitware.com  Tue Nov 13 15:13:35 2012
+From: marcus.hanwell at kitware.com (Marcus D. Hanwell)
+Date: Tue, 13 Nov 2012 08:13:35 -0700
+Subject: [open-science] Fwd: Chemistry Phase II Year 1 Report
+In-Reply-To: <CAMkPkZVzif-4itzhGc3Fuecjd+egt7BDwN9WQu-iZdLCoeYxsA@mail.gmail.com>
+References: <CAMkPkZVbOzRtwJAt0kRyiYWNu3__1Q_g-E2YfT1CyYX-LAkjAA@mail.gmail.com>
+	<CAEiDrtUEUFLY1RxT4kmh2R-m=+FFMCkDWe32pjP64x0oxCdkPA@mail.gmail.com>
+	<CAMkPkZVzif-4itzhGc3Fuecjd+egt7BDwN9WQu-iZdLCoeYxsA@mail.gmail.com>
+Message-ID: <CAMkPkZUxbcOg2Wp-Tve21Zaa3bV0h0V+j+Esdck=TaApTNp06g@mail.gmail.com>
+
+Will,
+
+Just to confirm I just merged in Katie's edits, and pushed them to the
+git repository. Mainly spelling/grammar fixes. Look forward to seeing
+your changes.
+
+Marcus
+
+On Tue, Nov 13, 2012 at 7:59 AM, Marcus D. Hanwell
+<marcus.hanwell at kitware.com> wrote:
+> Hi Will,
+>
+> Please feel free to edit the document, I am more than happy to look
+> through the diff when you are done. Katie added a new version that I
+> assume has her edits, and I will see if I can merge it quickly before
+> leaving (she did it in Dropbox).
+>
+> I thought it was a useful mid-stage document to have, and really
+> appreciate your feedback. I agree on the conclusions - I wandered more
+> than I intended to there and was going to take a second look to cut it
+> down. If you see a good way to summarize please do.
+>
+> I am at the expo for most of the day, but should have time to make a
+> few changes. It would be good to submit this for approval
+> today/tomorrow once it looks about right.
+>
+> Thanks,
+>
+> Marcus
+>
+> On Tue, Nov 13, 2012 at 5:12 AM, Will Schroeder
+> <will.schroeder at kitware.com> wrote:
+>> Marcus-
+>>
+>> Very nice, probably more than what's expected but it's a good document to
+>> have.
+>>
+>> Do you want me to directly edit the document? I see some room for (minor)
+>> improvement. For example, I have a pet peeve about using the word "allow"
+>> and this document is rife with it :-)
+>>
+>> Also a couple of nits, for example the caption in Figure 5 seems to be
+>> amiss, the reference to Figure 8 on page 12 is missing a closing paren, etc.
+>>
+>> A brief conclusion section would be nice too, just reminding the reader of
+>> the work to be done in the coming year, and any challenges, etc.
+>>
+>> I'll be in today and we can talk some more.
+>>
+>> Cheers,
+>> Will
+>>
+>>
+>> On Mon, Nov 12, 2012 at 9:18 AM, Marcus D. Hanwell
+>> <marcus.hanwell at kitware.com> wrote:
+>>>
+>>> Hi Will,
+>>>
+>>> This is totally optional, but if you get a change the Phase II year 1
+>>> report is,
+>>>
+>>> http://kwsource.kitwarein.com/proposals/chemistry-vis-sbir
+>>>
+>>> I attach the PDF of it. I still need to add a little more for
+>>> Avogadro/conclusions and will be out there a week today (Nov 19) to
+>>> present end of year 1 progress.
+>>>
+>>> Any tips before I submit this would be appreciated if you have a
+>>> little time, most other people are at Supercomputing but Katie S. is
+>>> checking grammar etc.
+>>>
+>>> Thanks,
+>>>
+>>> Marcus
+>>> --
+>>> Marcus D. Hanwell, Ph.D.
+>>> Technical Leader, Kitware Inc.
+>>> (518) 881-4937
+>>
+>>
+>>
+>>
+>> --
+>> William J. Schroeder, PhD
+>> Kitware, Inc.
+>> 28 Corporate Drive
+>> Clifton Park, NY 12065
+>> will.schroeder at kitware.com
+>> http://www.kitware.com
+>> (518) 881-4902
+
+
+From marcus.hanwell at kitware.com  Tue Nov 13 15:22:25 2012
+From: marcus.hanwell at kitware.com (Marcus D. Hanwell)
+Date: Tue, 13 Nov 2012 08:22:25 -0700
+Subject: [open-science] Chemistry Phase II Year 1 Report
+In-Reply-To: <CAMkPkZUxbcOg2Wp-Tve21Zaa3bV0h0V+j+Esdck=TaApTNp06g@mail.gmail.com>
+References: <CAMkPkZVbOzRtwJAt0kRyiYWNu3__1Q_g-E2YfT1CyYX-LAkjAA@mail.gmail.com>
+	<CAEiDrtUEUFLY1RxT4kmh2R-m=+FFMCkDWe32pjP64x0oxCdkPA@mail.gmail.com>
+	<CAMkPkZVzif-4itzhGc3Fuecjd+egt7BDwN9WQu-iZdLCoeYxsA@mail.gmail.com>
+	<CAMkPkZUxbcOg2Wp-Tve21Zaa3bV0h0V+j+Esdck=TaApTNp06g@mail.gmail.com>
+Message-ID: <CAMkPkZX4=cOXpRbw67OC4xTs4haqhG2huUmEsCZ4m8rNmd9-Mw@mail.gmail.com>
+
+Hi,
+
+Apologies, this message wasn't intended for this list. I should always
+have coffee before handling email! Sorry about the noise, if possible
+please feel free to delete this message from the archive/discard.
+
+Marcus
+
+
+From jonathan.gray at okfn.org  Sat Nov 17 12:26:05 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 17 Nov 2012 13:26:05 +0100
+Subject: [open-science] Denton Declaration
+Message-ID: <CANQ_vu2kQJmjHy7SQ6ST81U1Yk9KaAMC3rUS6H951sGVSv_EGA@mail.gmail.com>
+
+This looks interesting.
+
+The Denton Declaration calls itself "An Open Data Manifesto" - but suspect
+it is more of "An Accessible Data Manifesto" (there is no explicit mention
+of data licensing, legal status or reusability).
+
+http://openaccess.unt.edu/denton_declaration
+
+Has anyone been in touch with them?
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121117/d798a481/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Nov 18 07:49:32 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 18 Nov 2012 07:49:32 +0000
+Subject: [open-science] [Open-access] Denton Declaration
+In-Reply-To: <F4F1AD5C-0BB9-4284-8732-2FEF42BF1A81@inria.fr>
+References: <CANQ_vu2kQJmjHy7SQ6ST81U1Yk9KaAMC3rUS6H951sGVSv_EGA@mail.gmail.com>
+	<F4F1AD5C-0BB9-4284-8732-2FEF42BF1A81@inria.fr>
+Message-ID: <CAD2k14M9h+vvZ4UzN4Mrmfgp6e=9ynARd4qOFeFKQTqmAdi5hQ@mail.gmail.com>
+
+On Sun, Nov 18, 2012 at 6:50 AM, Laurent Romary <laurent.romary at inria.fr>wrote:
+
+> This initiative looks interesting, because it is about self behavior as
+> science managers in panels and similar decisional environment. It is I
+> think an important advocacy step, before even people get to think of the
+> technical aspects of licensing. Let's sign! (I have known Allen Renear for
+> years; a visionary person in text technologies).
+> Laurent
+>
+
+Yes I have known Allen and have signed
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121118/2290e79c/attachment.htm>
+
+From paola.dimaio at gmail.com  Sun Nov 18 15:58:25 2012
+From: paola.dimaio at gmail.com (Paola Di Maio)
+Date: Sun, 18 Nov 2012 15:58:25 +0000
+Subject: [open-science] Fwd: Open Science Video Statements
+In-Reply-To: <CD147A262881C2498711DC95BDB0E748147A5492@UM-excdag-a02.um.gwdg.de>
+References: <CABPM+wqJXWU8HeO+RytzxrkBZKpMD+dno7xustMme7FxOnKj6A@mail.gmail.com>
+	<CAMXe=Srdrfr_q2_HtszcpAFt9yyPXiJOw4wRi+QdmZEuMGgCXA@mail.gmail.com>
+	<CABPM+wrxoi96ntebu6jh0vqfEGSXDVQqNOX6b1H2UHDrDiB47w@mail.gmail.com>
+	<CAMXe=So3fAzspeSvWR-S9m5KZWPnDOmdh3u1Hex-k+4+ra7Nvw@mail.gmail.com>
+	<CD147A262881C2498711DC95BDB0E748147A5492@UM-excdag-a02.um.gwdg.de>
+Message-ID: <CAMXe=So1up43ODf+4N-ppWOd+5vFrh+aXR0-s3f0Af=LXQwS_A@mail.gmail.com>
+
+Thank you Jenny for sharing
+For the public record, here is my video statement :-)
+
+ **
+
+here is a 90" statement****
+
+http://www.youtube.com/watch?v=UCRTKvTrI1Y&feature=youtu.be****
+
+here 6 slides****
+
+https://docs.google.com/presentation/d/14DSYIKNBHgqH-ZLPy61UHJyQYZaUvSHIbPz2iY2E3NI/edit
+****
+
+**
+
+
+---------- Forwarded message ----------
+From: Rettberg, Najla <najla.rettberg at sub.uni-goettingen.de>
+Date: Tue, Nov 13, 2012 at 4:49 PM
+Subject: AW: Open Science Video Statements
+To: "paoladimaio10 at googlemail.com" <paoladimaio10 at googlemail.com>
+
+
+ Paola! Thanks so much!****
+
+This is perfect, the wonders of technology!****
+
+** **
+
+I will share this link actually to draw in other researchers, we have about
+5 so far.****
+
+Your points are really important and we will use it in our film, which I
+hope to share with you when we make it er?this weekend!****
+
+** **
+
+The EC will appreciate it.****
+
+** **
+
+All the best and good luck,****
+
+Najla ****
+
+** **
+
+** **
+
+*Von:* paoladimaio10 at gmail.com [mailto:paoladimaio10 at gmail.com] *Im Auftrag
+von *Paola Di Maio
+*Gesendet:* Dienstag, 13. November 2012 15:34
+*An:* Jenny Molloy
+*Cc:* Rettberg, Najla
+*Betreff:* Re: Open Science Video Statements****
+
+** **
+
+Naja****
+
+could not find a way to upload my video to your dropbox (maybe my tunnel
+vision)****
+
+** **
+
+here is a 90" statement****
+
+http://www.youtube.com/watch?v=UCRTKvTrI1Y&feature=youtu.be****
+
+here 6 slides****
+
+https://docs.google.com/presentation/d/14DSYIKNBHgqH-ZLPy61UHJyQYZaUvSHIbPz2iY2E3NI/edit
+****
+
+** **
+
+let me know if this is OK cheers****
+
+** **
+
+Thank you very much!!****
+
+** **
+
+PDM****
+
+** **
+
+** **
+
+** **
+
+On Mon, Nov 12, 2012 at 1:55 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+****
+
+Hi Paolo****
+
+** **
+
+Yes, if you email to Najla that would be great!****
+
+Thanks!****
+
+** **
+
+Jenny****
+
+** **
+
+On Mon, Nov 12, 2012 at 12:45 PM, Paola Di Maio <paola.dimaio at gmail.com>
+wrote:****
+
+Greetings****
+
+** **
+
+Thank you Jenny-****
+
+** **
+
+where do i submit my video stement ?****
+
+just post an email to Najla?****
+
+** **
+
+thank you****
+
+** **
+
+PDM****
+
+On Thu, Nov 8, 2012 at 2:17 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:*
+***
+
+ Hi All****
+
+** **
+
+OpenAIRE are looking for short video statements on open science by 14 Nov
+to play at OpenAIRE Conference 2012 (hopefully they'll also make them
+publicly available under an open license so we can play them at other open
+science events)****
+
+** **
+
+
+From jenny.molloy at okfn.org  Wed Nov 21 16:40:03 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 21 Nov 2012 16:40:03 +0000
+Subject: [open-science] Open Science Statements
+Message-ID: <CABPM+woE5W+-Q2-Tz_KCZn=6PkQRq4pYFD178Oef7n_PEOV=SQ@mail.gmail.com>
+
+On behalf of Rettberg, Najla <najla.rettberg at sub.uni-goettingen.de>
+
+
+ Hi all,**
+
+**
+
+** **
+
+Thanks for all those who responded to our call for statements on open
+science.****
+
+Your messages are all now viewable via our OpenAIRE vimeo channel:****
+
+https://vimeo.com/channels/openaireconference2012 ****
+
+Your points of view were just seen at our conference, and well received. ***
+*
+
+** **
+
+** **
+
+Cheers,****
+
+** **
+
+Najla ****
+
+** **
+
+** **
+
+***********
+
+Najla Rettberg****
+
+G?ttingen State and University Library****
+
+49 (0)551- 39 5242****
+
+najla.rettberg at sub.uni-goettingen.de****
+
+www.openaire.eu ****
+
+** **
+
+** **
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121121/9945f436/attachment.htm>
+
+From mail at ajantriks.net  Thu Nov 22 12:09:45 2012
+From: mail at ajantriks.net (sumandro)
+Date: Thu, 22 Nov 2012 17:39:45 +0530
+Subject: [open-science] is open access for rich countries? invitation to a
+	discussion
+Message-ID: <50AE1609.3020801@ajantriks.net>
+
+Participate now in an online dialogue on open access and the developing 
+world
+
+You are invited to take part in an online discussion on Open Access (OA) 
+from the perspective of the developing world.
+
+Funded by DFID, through the Mobilising Knowledge for Development (MK4D) 
+programme in the Institute for Development Studies at Sussex University, 
+and managed through the African Commons project in South Africa and the 
+Centre for Internet and Society in India, the discussion will be hosted 
+on UNESCO?s WSIS Open Access Community Forum. This open access dialogue 
+will provide a valuable space to discuss different perspectives on what 
+open access means for the developing world and what it can offer.
+
+There is compelling evidence which indicates that OA has finally entered 
+mainstream discourse. Yet, in the developing world context there remain 
+specific challenges and untapped opportunities for OA. A series of open 
+access discussions aimed at developing world critical thinkers, 
+activists and academics, seeks to explore insights and articulate 
+opinion on OA in the developing world.  Join us for stimulating debate!
+
+Register here: 
+http://institutefordevelopmentstudies.createsend1.com/t/r-l-kuxltt-jluthukldd-j/
+
+Setting the context
+
+Open access has enjoyed a great deal of acceptance and growth over the 
+last decade, with a particularly strong spurt in the adoption of open 
+access policies by major agencies and governments in the last 12 months. 
+With open access policies and initiatives now being taken up by UNESCO, 
+the World Bank, the FAO, the European Commission, and the governments of 
+the United Kingdom and the United States, among others, it is clear that 
+open access has entered the global mainstream. These policies stress the 
+human rights potential of open access in providing access to scientific 
+and cultural knowledge, ensuring its impact and ensuring public access 
+to publicly funded research.
+
+We now know that open access can work in the immediate and short term in 
+providing better access to the research literature, whilst some of the 
+longer term consequences and effects are still emerging. This is 
+especially so in the developing world, which has been badly served by 
+the publishing system we have inherited from the 20th century, which has 
+marginalized research from developing countries. New opportunities and 
+possibilities are created by open access, and, at the same time certain 
+pitfalls need to be noted and avoided.
+
+A foundational report prepared to inform this dialogue shows the risks 
+posed to all scholarly communications, discourse and practices by the 
+publish-or-perish system, and indicates that in the developing world, 
+the detriments are potentially much deeper and more damaging.  As 
+researchers are incentivised to publish in overseas-based journals - 
+mostly unavailable in many developing world contexts - this research 
+?brain-drain? risks widening the gap between research and policy [1].
+
+Read more here
+
+Get discussing!
+
+The first debate will kick off on Tuesday, 27 November 2012.
+
+A general topic will be complemented by two sub discussions.  The 
+discussion will be hosted on the WSIS Knowledge Platform's Open Access 
+group. To take part you will be required to register on the platform.
+
+KEY TOPIC: Production, publication and consumption of scholarly 
+knowledge and OA.
+
+This will focus on the greater concern of scholarly research in the 
+developing country context debating the questions: What does OA imply 
+and offer the developing world in terms of production, publication and 
+consumption of academic materials and research activities? What are the 
+specific challenges and opportunities for access to knowledge in 
+developing countries?
+
+Within this topic the following sub-themes will be introduced:
+
+Sub-theme 1: Considering the issues of 'translation' of research for 
+development impact; co-production and increasing access to academic 
+materials; and the importance of OA in producing and sharing of 
+non-state-supported educational materials; and
+
+Sub-theme 2: OA in academia and the search for global prestige; the 
+perverse impact of metrics and rankings; scholarly knowledge production; 
+and sharing and consumption challenges in developing countries.
+
+We will keep you posted about the second debate which will take place 
+early in January 2013.
+
+In the meantime you are also encouraged to tweet about the discussions 
+using hashtag #developoa or follow the debates on Facebook here 
+<http://institutefordevelopmentstudies.createsend1.com/t/r-l-kuxltt-jluthukldd-y/>.
+
+More: 
+http://institutefordevelopmentstudies.createsend4.com/t/ViewEmail/r/4F291AC6F7BEC83F/CC051A4918137CD50B3A73003FEB3522
+
+-------------
+
+sumandro
+ajantriks.net
+
+
+From teleyinex at gmail.com  Wed Nov 28 07:30:50 2012
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Wed, 28 Nov 2012 08:30:50 +0100
+Subject: [open-science] Crowdcrafting.org powered by PyBossa
+Message-ID: <CAGS_vfoeennoOMeohhRqGGWMVep+ty4xeEEh=B_4ZPvtPoYW7g@mail.gmail.com>
+
+Dear all,
+
+In the last weeks we have been really busy working on PyBossa and our new
+web site crowdcrafting.org.
+
+As most of you already know, PyBossa is a joint effort between the Open
+Knowledge Foundation and Citizen Cyberscience
+Centre<http://citizencyberscience.net>,
+so we have been in two scientific applications using
+PyBossa<http://dev.pybossa.com>
+.
+
+We would like to share with you the *latest news* *about the projects* that
+we have now up and running and that *you may be interested* in *participating
+as volunteers* (an extra hand is always welcome!), *giving feedback* (we
+want to know what we are doing wrong), and if you like the platform and you
+have a project or idea that could use PyBossa *asking questions about how
+you can use PyBossa <http://dev.pybossa.com>* :-)
+
+Currently we have been working in two scientific projects:
+
+   - *ForestWatchers.net:* the goal of this project is to build a global
+   network of volunteers to monitor forests across the world with limited
+   means of self monitoring using a web application.
+   - *Feynman's Flowers <http://crowdcrafting.org/app/feynmanflowers>:  *this
+   CrowdCrafting.org application is using PyBossa to extract new information
+   about the subtle ways that molecules (at nano scale level) interact with
+   the surfaces they are stuck to, and how this affects their magnetic
+   properties.
+
+Those applications are using the *basic template apps* that we have created
+to help new users and developers to create their own applications for the
+PyBossa platform (you could deploy it in your own server or if you prefer
+use crowdcrafting.org <http://CrowdCrafting.org>):
+
+   - *Flickr Person Finder <http://crowdcrafting.org/app/flickrperson>*: a
+   simple pattern recognition image application. You can use it for
+   classifying objects or features within pictures, figures, photos, etc.
+   (this template was used to bootstrap Feynman's Flowers).
+   - *Urban Parks* <http://crowdcrafting.org/app/urbanpark>: a geo-coding
+   app template where you need to use web mapping tools to solve a problem
+   (this template was used as a starting point for ForestWatchers.net)
+   - *PDF Transcribe* <http://crowdcrafting.org/app/pdftranscribe>: a PDF
+   transcription template that could be used for transcribing full PDF
+   documents one page at a time including scanned images.
+
+We have also launched a new developers site for PyBossa called:
+
+http://dev.pybossa.com
+
+where we will be posting as soon as possible more information about
+projects that are using PyBossa, better documentation, specific tutorials,
+etc.
+
+For the moment we have one
+tutorial<http://docs.pybossa.com/en/latest/user/create-application-tutorial.html>and
+a full documentation site:
+
+http://docs.pybossa.com
+
+If you need any help with the framework or you want to know a bit more
+about it, do not hesitate and send me directly an e-mail. We can arrange a
+Skype or G+ Hangouts meeting if you prefer to talk instead of type :D
+
+Best regards,
+
+Daniel
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://github.com/teleyinex
+http://www.flickr.com/photos/teleyinex
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121128/dd62ddeb/attachment.htm>
+
+From joris.pekel at okfn.org  Wed Nov 28 14:52:31 2012
+From: joris.pekel at okfn.org (Joris Pekel)
+Date: Wed, 28 Nov 2012 15:52:31 +0100
+Subject: [open-science] Pybossa 101 Online Course
+Message-ID: <CAGALA3SvEU9Y4==Neen=r_W4UWKv20AkwQ=joQXzDz6MXdcfzA@mail.gmail.com>
+
+Dear all,
+
+recently, the Pybossa team has been working very hard which has led to
+Crowdcrafting.org, a free, open-source crowd-sourcing and micro-tasking
+platform. It enables people to create and run projects that utilise online
+assistance in performing tasks that require human cognition such as image
+classification, transcription, geocoding and more. Today I have published a
+blog on OpenGLAM about PDF transcription:
+http://openglam.org/2012/11/28/using-pybossa-for-transcribing-cultural-works/
+
+It is a very easy tool to create your own application, but getting started
+can be a bit tricky. Therefore I am very excited that Daniel Lombrana
+Gonzales of the Citizen Cyberscience Center has kindly offered to give a
+lecture via Google Hangout. We will start here with the absolute basics of
+installing Pybossa on your machine and creating a first simple app. We will
+start in the afternoon and work for 2-3 hours.
+
+I have set up a Doodle to find a good timeslot in the coming weeks for
+this. If you want to join, please indicate your availability.
+
+http://doodle.com/ewt478fpbsmienhn#table
+
+Hope that some of you can join and that we can see the first apps appearing
+soon!
+
+All the best,
+
+-- 
+Joris Pekel
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org
+http://twitter.com/jpekel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121128/95eb715f/attachment.htm>
+
+From teleyinex at gmail.com  Wed Nov 28 16:30:26 2012
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Wed, 28 Nov 2012 17:30:26 +0100
+Subject: [open-science] [okfn-labs] Pybossa 101 Online Course
+In-Reply-To: <3C133F4D3F7F4F3F9418E5C6BB3E449D@gmail.com>
+References: <CAGALA3SvEU9Y4==Neen=r_W4UWKv20AkwQ=joQXzDz6MXdcfzA@mail.gmail.com>
+	<3C133F4D3F7F4F3F9418E5C6BB3E449D@gmail.com>
+Message-ID: <CAGS_vfoZg-cDqKHTeVPrqDJ2C8YXW2y5AZtXLZCDP2aY+2Q0GA@mail.gmail.com>
+
+Hi there,
+
+Thanks for announcing this idea Joris and for contacting so many people :-)
+Few quick notes:
+
+1.- Google Hangouts+ only handles 9 people at the same time, so how do we
+do if we end up more than 9? IRC?
+2.- Zach, I already created some materials to learn PyBossa in P2PU.org:
+what about if I update the course? [1]
+
+Cheers,
+
+Daniel
+
+[1] https://p2pu.org/en/groups/pybossa/
+
+
+On Wed, Nov 28, 2012 at 4:26 PM, Zach Beauvais <z.beauvais at gmail.com> wrote:
+
+>  This looks amazing, Joris.
+>
+> Are there plans to make the 101 course available as something people can
+> use outside of a session (slides, video, tutorial microsite??)
+>
+> Cheers,
+> -Z
+>
+> --
+> Zach Beauvais | @zbeauvais <http://twitter.com/zbeauvais>
+> z.beauvais at gmail.com
+>  <http://zacheauvais.com>http://zachbeauvais.com
+>
+> On Wednesday, 28 November 2012 at 14:52, Joris Pekel wrote:
+>
+> Dear all,
+>
+> recently, the Pybossa team has been working very hard which has led to
+> Crowdcrafting.org, a free, open-source crowd-sourcing and micro-tasking
+> platform. It enables people to create and run projects that utilise online
+> assistance in performing tasks that require human cognition such as image
+> classification, transcription, geocoding and more. Today I have published a
+> blog on OpenGLAM about PDF transcription:
+> http://openglam.org/2012/11/28/using-pybossa-for-transcribing-cultural-works/
+>
+> It is a very easy tool to create your own application, but getting started
+> can be a bit tricky. Therefore I am very excited that Daniel Lombrana
+> Gonzales of the Citizen Cyberscience Center has kindly offered to give a
+> lecture via Google Hangout. We will start here with the absolute basics
+> of installing Pybossa on your machine and creating a first simple app. We
+> will start in the afternoon and work for 2-3 hours.
+>
+> I have set up a Doodle to find a good timeslot in the coming weeks for
+> this. If you want to join, please indicate your availability.
+>
+> http://doodle.com/ewt478fpbsmienhn#table
+>
+> Hope that some of you can join and that we can see the first apps
+> appearing soon!
+>
+> All the best,
+>
+> --
+> Joris Pekel
+> Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org
+> http://twitter.com/jpekel
+>
+>  _______________________________________________
+> okfn-labs mailing list
+> okfn-labs at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-labs
+> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-labs
+>
+>
+>
+> _______________________________________________
+> okfn-labs mailing list
+> okfn-labs at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-labs
+> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-labs
+>
+>
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://dev.pybossa.com
+http://github.com/teleyinex
+http://www.flickr.com/photos/teleyinex
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121128/847bcb3c/attachment.htm>
+
+From jenny.molloy at okfn.org  Fri Nov 30 00:14:51 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 30 Nov 2012 00:14:51 +0000
+Subject: [open-science] Open PhD Competition in Extreme Citizen Science
+In-Reply-To: <2C73B0873856EE4086A5A620FEDF99E948EAA0D9@AMSPRD0104MB125.eurprd01.prod.exchangelabs.com>
+References: <2C73B0873856EE4086A5A620FEDF99E948EAA0D9@AMSPRD0104MB125.eurprd01.prod.exchangelabs.com>
+Message-ID: <CABPM+wqHw7ZiU_PkUkh-Nx9dc=1pn=zCjsASDaOrw+HA=p0cRg@mail.gmail.com>
+
+Hi All
+
+This may be of interest to you or your contacts!
+
+Jenny
+
+** **
+
+*Open PhD Competition in Extreme Citizen Science*
+
+* *
+
+*Duration* ? 3 years****
+
+* *
+
+*Funding* The scholarship covers UCL tuition fees and provides a stipend of
+?15,590 per annum tax free. Travel expenses and research equipment will be
+provided to the successful candidate****
+
+* *
+
+*Funding Body* EPSRC****
+
+* *
+
+*Vacancy Information*****
+
+This is an open call for a prospective PhD student to propose a novel and
+exciting project to develop new methods in Extreme Citizen Science, or
+which addresses a particularly interesting or unusual problem.****
+
+The Extreme Citizen Science (ExCiteS) group at UCL is a collaborative and
+interdisciplinary research team, with the vision to challenge the way we do
+traditional science and engineering. While existing Citizen Science
+practices assume that educated citizens can participate in scientific data
+collection, but not in formulating research questions and/or in the
+analysis of results, we believe that the greatest future impacts of science
+are likely to be gained when almost everyone is empowered to participate in
+research and use scientific tools to improve their environment locally and
+share the knowledge globally.****
+
+Extreme Citizen Science is essentially science by citizens, where people
+take real ownership of the issues that concern them. Regardless of their
+level of literacy or education people can collect scientifically valid data
+to evidence, illustrate and frame the issue, then visualise and analyse the
+results to subsequently develop strategies in order to address it. Our team
+is working together to develop tools and methodologies that facilitate this
+process in which anyone (from individuals to groups and communities) can
+start their own scientific investigation. ExCiteS tools are developed and
+expanded directly with people in their communities allowing for co-created
+knowledge to be shared and used in a process of empowerment and action. In
+a technical sense, in ExCiteS we engage in a process of creating new
+languages which we technologically facilitate and which enable communities
+that are not in conversation to engage in a conversation, which has results
+and changes what is happening in that particular context ? whether it is
+the airplanes flying over Isleworth or the activities of Eco-guards in
+Congo.****
+
+To find more about us you can visit our website
+http://www.ucl.ac.uk/excites/ , read our blog
+http://uclexcites.wordpress.com/category/articles/  and look at
+presentations by our directors, Muki Haklay (see
+https://povesham.wordpress.com/tag/citizen-science/  ) and Jerome Lewis (
+http://www.youtube.com/watch?v=BXPfryZxUs0 ).****
+
+** **
+
+*Studentship Description*****
+
+** **
+
+We are looking for applicants who have research proposals that fall within
+and complement our aims and objectives. You should be able to provide a
+clear research idea that will contribute to or extend ExCiteS activities,
+but which will be theoretically sophisticated and methodologically novel.
+Your research proposal needs to explain what your contribution will be, the
+methods that you will use, an estimation of further support (beyond the
+studentship) that you will need to complete your studies, a timeline of key
+activities and also show how your work could complement our vision and
+other activities of the group.****
+
+* *
+
+*Person Specification*****
+
+** **
+
+Applicants should possess an honours degree (1st Class or 2:1 minimum), and
+a Masters degree in any discipline that contributes to the development of
+ExCiteS methods and theories. Currently the ExCiteS group consists of
+several PhD students and researchers from a multiplicity of backgrounds and
+skills: artists, planners, anthropologists, computer scientists, and
+geographers with knowledge in community development, electronic
+engineering, and conservation. Your application will not be limited to a
+specific discipline. Non-academic experience that relates to or contributes
+to your research is an asset but not a requirement. You will also need to
+demonstrate experience in project management and demonstrate that you can
+set yourself long term goals and achieve them, and be able to work with the
+diverse, multidisciplinary group that ExCiteS is. Language skills beyond
+English are desirable.****
+
+* *
+
+*Eligibility*****
+
+** **
+
+Applications are invited from UK and EU citizenship holders. Unfortunately,
+we will not be able to cover the difference in tuition fee costs for people
+from outside the EU, though you are welcome to apply if you are non-EU if
+you can self-fund the difference in tuition fees.****
+
+* *
+
+*Start Date*****
+
+** **
+
+The PhD studies will commence between February 2013 and October 2013, at
+time that is suitable to the candidate.****
+
+* *
+
+*Application Procedure*****
+
+** **
+
+Applicants should send a cover letter, 4 pages research proposal, examples
+of academic writing (e.g. Masters dissertation), outputs from past work, 2
+reference letters and CV to Gail Austen-Price (g.austen-price at ucl.ac.uk ).
+The cover letter should include a personal statement explaining your
+interest in citizen science, why you are interested in our project and how
+you would see your work integrated into ExCiteS vision and activities. You
+are welcome to contact Gail, Muki, Jerome and other members of the group
+with queries about your research proposal or if you would like to have an
+informal call about it.****
+
+* *
+
+*Closing Date*****
+
+** **
+
+26 January 2013****
+
+** **
+
+** **
+
+Muki Haklay: Professor of GIScience****
+
+Extreme Citizen Science (ExCiteS) research group****
+
+Department of Civil, Environmental & Geomatic Engineering
+University College London (UCL)
+Gower St. London WC1E 6BT****
+
+T: +44 20 7679 2745 E: m.haklay at ucl.ac.uk W: www.ucl.ac.uk/excites ****
+
+Mapping for Change - www.mappingforchange.org.uk****
+
+Blog: povesham.wordpress.com****
+
+** **
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121130/1b74372d/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Fri Nov 30 14:28:35 2012
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Fri, 30 Nov 2012 14:28:35 +0000
+Subject: [open-science] Launching the Open Sustainability Working Group
+Message-ID: <CAChagOA6fx31GRUJBU6VnKG8TH1KeOo3y4QB576K3EH7+V=0eA@mail.gmail.com>
+
+*Dear all,*
+
+We would like to announce the launching of the Open Sustainability Working
+Group<http://blog.okfn.org/2012/11/30/launching-open-sustainability-working-group/>of
+the Open Knowledge Foundation and invite you to join the Open
+Sustainability Mailing
+list<http://lists.okfn.org/mailman/listinfo/open-sustainability>.
+
+
+...
+
+*Sustainability is one of the most important challenges of our time. We are
+facing global environmental crises, such as climate change, resource
+depletion, deforestation, overfishing, eutrophication, loss of
+biodiversity, soil degradation, environmental pollution, etc. We need to
+move towards a more sustainable and resilient society, that ensures the
+well-being of current and future generations, that allows us to progress
+while stewarding the finite resources and the ecosystems we depend on. *
+
+*Data is needed to monitor the condition of the environment and to measure
+how we are performing and progressing (or not) towards sustainability.
+Transparency and feedback is key for good decision-making, for allowing
+accountability and for tracking and tuning performance. This is true both
+at an institutional level, such as working with national climate change
+goals; at a company level, such as deciding the materials for building a
+product; and at a personal level, deciding between chicken and salmon at
+the supermarket. However, most of the environmental information is closed,
+outdated, static, or/and in text documents that are not possible to process.
+
+*
+
+*For instance, unlike gross domestic product (GDP) and other publicly
+available data, carbon dioxide emissions data is not published frequently
+and in disaggregated form. While the current international climate
+negotiations at Doha
+<http://unfccc.int/meetings/doha_nov_2012/meeting/6815.php>discuss joint
+global efforts for the reduction of greenhouse gas emission, climate data
+is not freely and widely available. *
+*
+
+?Demand CO2 data!<http://blog.okfn.org/2012/09/21/demand-carbon-dioxide-data-says-hans-rosling-to-open-data-advocates-at-okfestival/>?
+urged Hans Rosling at the Open Knowledge Festival in Helsinki last
+September, encouraging a data-driven discussion of energy and resources.
+?We can have climate change beyond our expectations, which we haven?t done
+anything in time for? said Rosling in outlining the biggest challenges of
+our time. Activists don?t even demand the data. Many countries, such as
+Sweden, show up for climate negotiations without having done their CO2
+emissions reporting for many months. Our countries should report on climate
+data in order for us to see the big picture.
+
+Sustainability data should be open and freely available so anyone is free
+to use, reuse, and redistribute it. This data should be easy to access,
+both usable for the public but also accessible in standard machine-readable
+formats for enabling reuse and remix. And by sustainability data we do not
+mean only CO2 information, but all data that is necessary for measuring the
+state of, and changes in, the environment, and data which supports progress
+towards sustainability.  This include a diversity of things like:
+scientific climate data and temperature records, environmental impact
+assessment of products and services, emissions and pollution information
+from companies and governments, energy production data or ecosystem health
+indicators.
+
+To move towards this goal, we are founding a new Working Group on Open
+Sustainability, which seeks to:
+
+
+   - advocate and promote the opening up of sustainability information and
+   datasets
+   - collect sustainability information and maintain a knowledge base of
+   datasets
+   - act as a support environment / hub for the development of
+   community-driven projects
+   - provide a neutral platform for working towards standards and
+   harmonization of open sustainability data between different groups and
+   projects.
+
+
+The Open Sustainability Working Group is open for anyone to join.  We hope
+to form an interdisciplinary network from a range of backgrounds such as
+academics, business people, civil servants, technologists, campaigners,
+consultants and those from NGOs and international institutions.  Relevant
+areas of expertise include sustainability, industrial ecology, climate and
+environmental science, cleanweb development, ecological economics, social
+science, sustainability, energy, open data and transparency.  Join the Open
+Sustainability Working Group by signing up to the mailing
+list<http://lists.okfn.org/mailman/listinfo/open-sustainability>to
+share your ideas and to contribute.
+
+Creating a more sustainable society and mitigating climate change are some
+of the very hardest challenges we face.  It will require us to collaborate,
+to create new knowledge together and new ways of doing things. We need open
+data about the state of the planet, we need transparency about emissions
+and the impact of products and industries, we need feedback and we need
+accountability. We want to leverage all the ideas, technologies and energy
+we can to prevent catastrophic environmental change.
+
+This initiative was started by the OKFestival Open Knowledge and
+Sustainability and Green
+Hackathon<http://openeconomics.net/2012/10/06/okfestival-sustainability-stream-recap/>team
+including Jorge Zapico, Hannes Ebner (The Centre for Sustainable
+Communications at KTH), James Smith (Cleanweb UK), Chris Adams (AMEE), Jack
+Townsend (Southampton University) and Velichka Dimitrova (Open Knowledge
+Foundation).*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20121130/a571b673/attachment.htm>
+

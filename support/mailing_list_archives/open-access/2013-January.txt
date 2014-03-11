@@ -1,0 +1,2958 @@
+From tom.olijhoek at gmail.com  Thu Jan 10 22:24:36 2013
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Thu, 10 Jan 2013 23:24:36 +0100
+Subject: [Open-access] Fwd: [New post] Just published: Value all research
+	products
+In-Reply-To: <1015265.1353.0@wordpress.com>
+References: <1015265.1353.0@wordpress.com>
+Message-ID: <CAGyWN8bwGfYY0s2vTYJ6Zz0p_bJ=URuL_2-BSTRDOGcN9PnOvQ@mail.gmail.com>
+
+IMO interesting enough to post to the open access community lists
+article in Nature on use of altmetrics by Heather Piwowar
+apologies for possible cross-posting
+
+---------- Forwarded message ----------
+From: Research Remix <comment-reply at wordpress.com>
+Date: Thu, Jan 10, 2013 at 5:05 PM
+Subject: [New post] Just published: Value all research products
+To: tom.olijhoek at gmail.com
+
+
+**
+  Heather Piwowar posted: "A Nature editor contacted me in November, asking
+if I'd like to write a Comment about the upcoming NSF policy change in
+Biosketch instructions.  It sounded like a great chance to talk about the
+value of alternative research products with a wide audie"    Respond to
+this post by replying above this line
+      New post on *Research Remix*
+<http://researchremix.wordpress.com/author/researchremix/>  Just published:
+Value all research
+products<http://researchremix.wordpress.com/2013/01/10/nature-comment/>
+by
+Heather Piwowar <http://researchremix.wordpress.com/author/researchremix/>
+
+A Nature editor contacted me in November, asking if I'd like to write a
+Comment about the upcoming NSF policy change in Biosketch instructions.  It
+sounded like a great chance to talk about the value of alternative research
+products with a wide audience, so I agreed.  The comment was published
+yesterday and is now available here:
+
+Piwowar H. (2013). Value all research products, Nature, 493 (7431) 159-159.
+DOI: 10.1038/493159a <http://dx.doi.org/10.1038%2F493159a>
+
+Because of Nature's policies about copyright assignments for Comments, the
+comment is not open access and it is behind a paywall.  Arg.  That said, I
+requested that it be one of their "free" articles and they agreed, so it
+will be freely available at the above link for a week or two.  I will post
+the text up on my website as soon as I am able, 6 months from now.
+
+Working on a blog post about the process behind the scenes, because it was
+certainly unlike anything else I've published to date!
+
+Questions about the piece, or thoughts or opinions?  Welcome below, or on
+twitter to @researchremix <https://twitter.com/researchremix>.
+  *Heather Piwowar<http://researchremix.wordpress.com/author/researchremix/>
+* | January 10, 2013 at 8:05 am | Categories:
+Uncategorized<http://researchremix.wordpress.com/?cat=1>| URL:
+http://wp.me/p4g7f-lP
+
+ Comment<http://researchremix.wordpress.com/2013/01/10/nature-comment/#respond>
+   See all comments<http://researchremix.wordpress.com/2013/01/10/nature-comment/#comments>
+   Like<http://researchremix.wordpress.com/2013/01/10/nature-comment/?like_actor=31649961&like_hmac=0e2d9b09505b31cc9057e9f6aea0b99d&postid=1353&like=1&source=sub_email>
+
+     Unsubscribe or change your email settings at Manage
+Subscriptions<https://subscribe.wordpress.com/?key=a5af02e3a900f4624ed7668407ee05d9&email=tom.olijhoek%40gmail.com>.
+
+
+*Trouble clicking?* Copy and paste this URL into your browser:
+http://researchremix.wordpress.com/2013/01/10/nature-comment/
+         Thanks for flying with WordPress.com <http://wordpress.com>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130110/5c9f58c6/attachment.htm>
+
+From ross.mounce at okfn.org  Fri Jan 11 03:07:30 2013
+From: ross.mounce at okfn.org (Ross Mounce)
+Date: Fri, 11 Jan 2013 03:07:30 +0000
+Subject: [Open-access] Cost-effectiveness of open access publications
+Message-ID: <CAJr+OEzWvEfhAA64xKa9P6HP4xh27-Fgeu0rf34Vp=he3pvtYg@mail.gmail.com>
+
+Dear Jevin (I have cc'd the OA list to help spread the word),
+
+I've just seen your paper *Cost-effectiveness of open access
+publications<http://www.eigenfactor.org/openaccess/CostEffectiveness.pdf>
+*& the associated dynamic plot <http://www.eigenfactor.org/openaccess/>.
+
+"*We believe that it would be wiser for funders to support open access in
+ways that encourage price competition among*
+*open access publishers.*"  - I heartily agree with your coda.
+
+This is brilliant, much-needed, timely work. Congratulations.
+I've seen it said countless times in 2012 that 'Gold OA' journals
+*require *APCs.
+This plot & data will *convincingly* help dispel that myth and many more in
+the wider community.
+
+I was wondering if you had considered adding extra or alternative
+dimensions to the plot such as 'Openness of licence'
+
+I have done such a plot
+here<http://rossmounce.co.uk/2012/08/30/a-visualization-of-gold-open-access-options/>which
+garnered a fair bit of attention from the library, publishing, and OA
+communities back in August 2012.
+I intended to make a dynamic/interactive version but didn't have the skills
+or time available. Have also been promoting the idea of 'cost-savvy
+OA'<http://prezi.com/sxzg6om0ipgp/open-access/>
+
+
+Is it possible to download the underlying data from the plot somewhere? I'd
+be interested in building upon / exploring this excellent dataset.
+
+
+Kind regards,
+
+
+Ross
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130111/454f2435/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jan 11 11:20:47 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 11 Jan 2013 11:20:47 +0000
+Subject: [Open-access] House of Lords (UK) Open Access - submissions invited
+Message-ID: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+
+Should we try to get a response together
+
+---------- Forwarded message ----------
+From: Alma Swan <a.swan at talk21.com>
+Date: Fri, Jan 11, 2013 at 8:48 AM
+Subject: [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+developers and managers: awesome cross-search
+To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>,
+SPARC Open Access Forum <SPARC-OAForum at arl.org>
+
+
+ The UK's House of Lords (upper chamber of Parliament) Science & Technology
+Committee is conducting an enquiry into Open Access. Written submissions
+are welcome. Individuals and organisations are invited to give their views
+on the actions taken by Government and RCUK following publication of the
+Finch report.
+
+The HoL has issued guidance  <
+http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-enquiry>
+on how to make written submissions.
+
+In particular, there are four issues highlighted by the committee:
+
+   - support for universities in the form of funds to cover article
+   processing charges, and the response of universities and HEIs to these
+   efforts
+   - embargo periods for articles published under the Green model
+   - engagement with publishers, universities, learned societies and other
+   stakeholders in the development of research council Open Access policies
+   and guidance
+   - challenges and concerns raised by the scientific and publishing
+   communities, and how these have been addressed
+
+
+The deadline is 18th January.
+
+_______________________________________________
+GOAL mailing list
+GOAL at eprints.org
+http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130111/6938a290/attachment-0001.htm>
+
+From mike at indexdata.com  Fri Jan 11 12:10:29 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Fri, 11 Jan 2013 12:10:29 +0000
+Subject: [Open-access] [open-science] House of Lords (UK) Open Access -
+	submissions invited
+In-Reply-To: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+References: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+Message-ID: <CACnMvBY0_PCZm-XVgDjwf8Ck4ErAkohF5DvrOo4YcZHqdm9NxQ@mail.gmail.com>
+
+By all means, yes. But what's CRUCIAL is that we send our individual
+responses as soon as possible, and don't let that get held up or
+derailed by a potentially long-winded process of putting together one
+we can all sign up to.
+
+-- Mike.
+
+
+On 11 January 2013 11:20, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> Should we try to get a response together
+>
+> ---------- Forwarded message ----------
+> From: Alma Swan <a.swan at talk21.com>
+> Date: Fri, Jan 11, 2013 at 8:48 AM
+> Subject: [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+> developers and managers: awesome cross-search
+> To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>, SPARC
+> Open Access Forum <SPARC-OAForum at arl.org>
+>
+>
+> The UK's House of Lords (upper chamber of Parliament) Science & Technology
+> Committee is conducting an enquiry into Open Access. Written submissions are
+> welcome. Individuals and organisations are invited to give their views on
+> the actions taken by Government and RCUK following publication of the Finch
+> report.
+>
+> The HoL has issued guidance
+> <http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-enquiry>
+> on how to make written submissions.
+>
+> In particular, there are four issues highlighted by the committee:
+>
+> support for universities in the form of funds to cover article processing
+> charges, and the response of universities and HEIs to these efforts
+> embargo periods for articles published under the Green model
+> engagement with publishers, universities, learned societies and other
+> stakeholders in the development of research council Open Access policies and
+> guidance
+> challenges and concerns raised by the scientific and publishing communities,
+> and how these have been addressed
+>
+>
+> The deadline is 18th January.
+>
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+
+
+From tom.olijhoek at gmail.com  Fri Jan 11 12:21:15 2013
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 11 Jan 2013 13:21:15 +0100
+Subject: [Open-access] Fwd: enquiry into Open Access
+Message-ID: <CAGyWN8ZOC1k4mXAS5CwxTh2cRzQuQxadeOBPQsbDQYswiN130A@mail.gmail.com>
+
+>
+> FYI  Enquiry into Open Access at House of Lords   deadline  18 jan 2013
+>  see below point 3
+
+
+Q;  could / should we put in a reaction from our groups or /and OKF?
+
+---------- Forwarded message ----------
+From: <goal-request at eprints.org>
+Date: Fri, Jan 11, 2013 at 1:00 PM
+Subject: GOAL Digest, Vol 14, Issue 9
+To: goal at eprints.org
+
+
+Send GOAL mailing list submissions to
+        goal at eprints.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+or, via email, send a message with subject or body 'help' to
+        goal-request at eprints.org
+
+You can reach the person managing the list at
+        goal-owner at eprints.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of GOAL digest..."
+
+
+Today's Topics:
+
+   1. Policy by the Numbers: Open Access to Scholarly Literature
+      and How to Achieve It (Stevan Harnad)
+   2. Re: [SCHOLCOMM] New Year's challenge for repository
+      developers and managers: awesome cross-search (Kenneth Gleason)
+   3. Re: [SCHOLCOMM] New Year's challenge for repository
+      developers and managers: awesome cross-search (Alma Swan)
+
+----------------------------
+
+Message: 3
+Date: Fri, 11 Jan 2013 08:48:26 +0000
+From: Alma Swan <a.swan at talk21.com>
+Subject: [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+        developers and managers: awesome cross-search
+To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>,
+        SPARC Open Access Forum <SPARC-OAForum at arl.org>
+Message-ID: <CD15825A.20538%a.swan at talk21.com>
+Content-Type: text/plain; charset="us-ascii"
+
+The UK's House of Lords (upper chamber of Parliament) Science & Technology
+Committee is conducting an enquiry into Open Access. Written submissions are
+welcome. Individuals and organisations are invited to give their views on
+the actions taken by Government and RCUK following publication of the Finch
+report.
+
+The HoL has issued guidance
+<http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-e
+nquiry> on how to make written submissions.
+
+In particular, there are four issues highlighted by the committee:
+* support for universities in the form of funds to cover article processing
+charges, and the response of universities and HEIs to these efforts
+* embargo periods for articles published under the Green model
+* engagement with publishers, universities, learned societies and other
+stakeholders in the development of research council Open Access policies and
+guidance
+* challenges and concerns raised by the scientific and publishing
+communities, and how these have been addressed
+
+The deadline is 18th January.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL:
+http://mailman.ecs.soton.ac.uk/pipermail/goal/attachments/20130111/28ce2f01/attachment-0001.html
+
+------------------------------
+
+_______________________________________________
+GOAL mailing list
+GOAL at eprints.org
+http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+End of GOAL Digest, Vol 14, Issue 9
+***********************************
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130111/86a13818/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Jan 11 12:25:30 2013
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 11 Jan 2013 13:25:30 +0100
+Subject: [Open-access] [open-science] House of Lords (UK) Open Access -
+	submissions invited
+In-Reply-To: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+References: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+Message-ID: <CAGyWN8autBmbxi6CagPZj=XNmVrN6f9Wt4B1MOi_36aBPH2+wQ@mail.gmail.com>
+
+Peter,
+
+for some reason I  received your mail on this topic just when I had sent
+off mine, so I  cross-posted the topic to the lists
+Apologies for this
+
+TOM
+
+On Fri, Jan 11, 2013 at 12:20 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> Should we try to get a response together
+>
+> ---------- Forwarded message ----------
+> From: Alma Swan <a.swan at talk21.com>
+> Date: Fri, Jan 11, 2013 at 8:48 AM
+> Subject: [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+> developers and managers: awesome cross-search
+> To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>,
+> SPARC Open Access Forum <SPARC-OAForum at arl.org>
+>
+>
+>  The UK's House of Lords (upper chamber of Parliament) Science &
+> Technology Committee is conducting an enquiry into Open Access. Written
+> submissions are welcome. Individuals and organisations are invited to give
+> their views on the actions taken by Government and RCUK following
+> publication of the Finch report.
+>
+> The HoL has issued guidance  <
+> http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-enquiry>
+> on how to make written submissions.
+>
+> In particular, there are four issues highlighted by the committee:
+>
+>    - support for universities in the form of funds to cover article
+>    processing charges, and the response of universities and HEIs to these
+>    efforts
+>    - embargo periods for articles published under the Green model
+>    - engagement with publishers, universities, learned societies and
+>    other stakeholders in the development of research council Open Access
+>    policies and guidance
+>    - challenges and concerns raised by the scientific and publishing
+>    communities, and how these have been addressed
+>
+>
+> The deadline is 18th January.
+>
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130111/86dfd321/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jan 11 14:34:25 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 11 Jan 2013 14:34:25 +0000
+Subject: [Open-access] Fwd: [GOAL] House of Lords OA Inquiry
+In-Reply-To: <F8B61F769A89410AA8BA0372E6DA51D8@FrederickHP>
+References: <F8B61F769A89410AA8BA0372E6DA51D8@FrederickHP>
+Message-ID: <CAD2k14NxiiJx06kuf=Ca9cu8h0nE-A5gsniQHGhgCUJrJFw3aw@mail.gmail.com>
+
+A suggestion that we should aim at the researchers - makes sense
+
+---------- Forwarded message ----------
+From: Frederick Friend <ucylfjf at ucl.ac.uk>
+Date: Fri, Jan 11, 2013 at 1:40 PM
+Subject: [GOAL] House of Lords OA Inquiry
+To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>
+
+
+  It is certainly worth any subscriber to this list who supports open
+access submitting evidence, whether institutional or personal. Submissions
+to the 2004 Enquiry by the equivalent House of Commons Select Committee
+were taken seriously and many did influence the Committee?s Report,
+although (unfortunately) not the UK Government?s Response. I urge everybody
+not to tie themselves too closely to the four issues highlighted by the
+Committee. In particular it would be good to see submissions which look at
+OA from researchers? or taxpayers? perspectives.
+
+ Fred Friend
+Honorary Director Scholarly Communication UCL
+http://www.friendofopenaccess.org.uk
+
+
+  *From:* Alma Swan <a.swan at talk21.com>
+*Sent:* Friday, January 11, 2013 8:48 AM
+*To:* Global Open Access List (Successor of AmSci) <goal at eprints.org> ; SPARC
+Open Access Forum <SPARC-OAForum at arl.org>
+*Subject:* [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+developers and managers: awesome cross-search
+  The UK's House of Lords (upper chamber of Parliament) Science &
+Technology Committee is conducting an enquiry into Open Access. Written
+submissions are welcome. Individuals and organisations are invited to give
+their views on the actions taken by Government and RCUK following
+publication of the Finch report.
+
+The HoL has issued guidance <
+http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-enquiry>
+on how to make written submissions.
+
+In particular, there are four issues highlighted by the committee:
+
+   - support for universities in the form of funds to cover article
+   processing charges, and the response of universities and HEIs to these
+   efforts
+   - embargo periods for articles published under the Green model
+   - engagement with publishers, universities, learned societies and other
+   stakeholders in the development of research council Open Access policies
+   and guidance
+   - challenges and concerns raised by the scientific and publishing
+   communities, and how these have been addressed
+
+
+The deadline is 18th January.
+
+------------------------------
+_______________________________________________
+GOAL mailing list
+GOAL at eprints.org
+http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+_______________________________________________
+GOAL mailing list
+GOAL at eprints.org
+http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130111/42e695e6/attachment-0001.htm>
+
+From mike at indexdata.com  Sat Jan 12 11:35:36 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Sat, 12 Jan 2013 11:35:36 +0000
+Subject: [Open-access] [open-science] House of Lords (UK) Open Access -
+	submissions invited
+In-Reply-To: <CACnMvBY0_PCZm-XVgDjwf8Ck4ErAkohF5DvrOo4YcZHqdm9NxQ@mail.gmail.com>
+References: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+	<CACnMvBY0_PCZm-XVgDjwf8Ck4ErAkohF5DvrOo4YcZHqdm9NxQ@mail.gmail.com>
+Message-ID: <CACnMvBZyCtmuRuGK1m=O9ENfD1EmO4S5tyxkAcjJuc-+Ajs2RQ@mail.gmail.com>
+
+I have sent my own response, and posted it here for anyone who's interested:
+http://svpow.com/2013/01/12/my-submission-to-the-house-of-lords-science-and-technology-committee/
+
+If anything I said in there is at all useful towards a group response,
+please feel free to use it.
+
+-- Mike.
+
+
+
+On 11 January 2013 12:10, Mike Taylor <mike at indexdata.com> wrote:
+
+> By all means, yes. But what's CRUCIAL is that we send our individual
+> responses as soon as possible, and don't let that get held up or
+> derailed by a potentially long-winded process of putting together one
+> we can all sign up to.
+>
+> -- Mike.
+>
+>
+> On 11 January 2013 11:20, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> > Should we try to get a response together
+> >
+> > ---------- Forwarded message ----------
+> > From: Alma Swan <a.swan at talk21.com>
+> > Date: Fri, Jan 11, 2013 at 8:48 AM
+> > Subject: [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+> > developers and managers: awesome cross-search
+> > To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>,
+> SPARC
+> > Open Access Forum <SPARC-OAForum at arl.org>
+> >
+> >
+> > The UK's House of Lords (upper chamber of Parliament) Science &
+> Technology
+> > Committee is conducting an enquiry into Open Access. Written submissions
+> are
+> > welcome. Individuals and organisations are invited to give their views on
+> > the actions taken by Government and RCUK following publication of the
+> Finch
+> > report.
+> >
+> > The HoL has issued guidance
+> > <
+> http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-enquiry
+> >
+> > on how to make written submissions.
+> >
+> > In particular, there are four issues highlighted by the committee:
+> >
+> > support for universities in the form of funds to cover article processing
+> > charges, and the response of universities and HEIs to these efforts
+> > embargo periods for articles published under the Green model
+> > engagement with publishers, universities, learned societies and other
+> > stakeholders in the development of research council Open Access policies
+> and
+> > guidance
+> > challenges and concerns raised by the scientific and publishing
+> communities,
+> > and how these have been addressed
+> >
+> >
+> > The deadline is 18th January.
+> >
+> > _______________________________________________
+> > GOAL mailing list
+> > GOAL at eprints.org
+> > http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+> >
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130112/510ace8c/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Jan 12 11:56:58 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 12 Jan 2013 11:56:58 +0000
+Subject: [Open-access] [open-science] House of Lords (UK) Open Access -
+	submissions invited
+In-Reply-To: <CACnMvBZyCtmuRuGK1m=O9ENfD1EmO4S5tyxkAcjJuc-+Ajs2RQ@mail.gmail.com>
+References: <CAD2k14M-w6fqWJW-J+N7_3hUyqG8JsX+Gtuq-1UM+gr2yL6hUA@mail.gmail.com>
+	<CACnMvBY0_PCZm-XVgDjwf8Ck4ErAkohF5DvrOo4YcZHqdm9NxQ@mail.gmail.com>
+	<CACnMvBZyCtmuRuGK1m=O9ENfD1EmO4S5tyxkAcjJuc-+Ajs2RQ@mail.gmail.com>
+Message-ID: <CAD2k14NedP3RTMrSh2A9_oXdm5Fu0WLEU9FikfQ71jc75hcXLQ@mail.gmail.com>
+
+On Sat, Jan 12, 2013 at 11:35 AM, Mike Taylor <mike at indexdata.com> wrote:
+
+> I have sent my own response, and posted it here for anyone who's
+> interested:
+>
+> http://svpow.com/2013/01/12/my-submission-to-the-house-of-lords-science-and-technology-committee/
+>
+>
+This is an outstanding document and says 80% of what I would have said.
+
+Rather than repeat it I suggest we create a response from the
+researchers/readers point of view stressing those not employed in UK
+universities (i.e. mainly the scholarly poor). I think we can reasonably
+argue that Open public scientific research is a massive public good and
+that by opening our research we are contributing to the welfare and
+prosperity of those outside Britain as well as in it. I suspect that this
+will have particular appeal to the Lords. To that extent I think we could
+reasonably  take the approach:
+* OKF is a global movement (with UK origins)
+* we have collected significant experience and anecdotal evidence through
+our activities
+* this is almost certainly a very small proportion of the actual desire for
+scholarly information
+* in this area Britain's actions are a major beacon for the rest of the
+world.
+
+P.
+
+
+
+
+
+If anything I said in there is at all useful towards a group response,
+> please feel free to use it.
+>
+> -- Mike.
+>
+>
+>
+> On 11 January 2013 12:10, Mike Taylor <mike at indexdata.com> wrote:
+>
+>> By all means, yes. But what's CRUCIAL is that we send our individual
+>> responses as soon as possible, and don't let that get held up or
+>> derailed by a potentially long-winded process of putting together one
+>> we can all sign up to.
+>>
+>> -- Mike.
+>>
+>>
+>> On 11 January 2013 11:20, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> > Should we try to get a response together
+>> >
+>> > ---------- Forwarded message ----------
+>> > From: Alma Swan <a.swan at talk21.com>
+>> > Date: Fri, Jan 11, 2013 at 8:48 AM
+>> > Subject: [GOAL] Re: [SCHOLCOMM] New Year's challenge for repository
+>> > developers and managers: awesome cross-search
+>> > To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>,
+>> SPARC
+>> > Open Access Forum <SPARC-OAForum at arl.org>
+>> >
+>> >
+>> > The UK's House of Lords (upper chamber of Parliament) Science &
+>> Technology
+>> > Committee is conducting an enquiry into Open Access. Written
+>> submissions are
+>> > welcome. Individuals and organisations are invited to give their views
+>> on
+>> > the actions taken by Government and RCUK following publication of the
+>> Finch
+>> > report.
+>> >
+>> > The HoL has issued guidance
+>> > <
+>> http://www.openscholarship.org/jcms/c_7334/hol-guidance-notes-open-access-enquiry
+>> >
+>> > on how to make written submissions.
+>> >
+>> > In particular, there are four issues highlighted by the committee:
+>> >
+>> > support for universities in the form of funds to cover article
+>> processing
+>> > charges, and the response of universities and HEIs to these efforts
+>> > embargo periods for articles published under the Green model
+>> > engagement with publishers, universities, learned societies and other
+>> > stakeholders in the development of research council Open Access
+>> policies and
+>> > guidance
+>> > challenges and concerns raised by the scientific and publishing
+>> communities,
+>> > and how these have been addressed
+>> >
+>> >
+>> > The deadline is 18th January.
+>> >
+>> > _______________________________________________
+>> > GOAL mailing list
+>> > GOAL at eprints.org
+>> > http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+>> >
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>> >
+>>
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130112/44a15b4c/attachment.htm>
+
+From sanglorian at gmail.com  Sun Jan 13 02:57:43 2013
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sun, 13 Jan 2013 13:57:43 +1100
+Subject: [Open-access] [FOSsil Bank Update] 13 January 2013
+In-Reply-To: <CAMuj-e+wjfaqbrrisqjE4gzdtZQ1HzDaPy-hjbR4Yq9q6S8FKA@mail.gmail.com>
+References: <CAMuj-eKhRew9cgujt_tuMyA2iGTgTWvJbkQ+FHzubAxYqp2owQ@mail.gmail.com>
+	<CAMuj-e+wjfaqbrrisqjE4gzdtZQ1HzDaPy-hjbR4Yq9q6S8FKA@mail.gmail.com>
+Message-ID: <CAMuj-eLuOodpZJYH2mQZ7eTmW0-iqpCRK4LVkVF0+FRnerznVQ@mail.gmail.com>
+
+Hi folks,
+
+ It's been a while since the last FOSsil Bank update, both because I've
+been busy and because I haven't found many new works recently. I've also
+stopped adding most non-libre works when I come across them, which means
+this update has the greatest ratio of libre to non-libre works so far.
+
+ As always, if you know of works under public copyright licences (and,
+particularly, under free/libre/open licences) you can add them to the wiki
+yourself or email me and I'll add them. The same is also true for
+free/libre/open projects that are available for sale or are in the process
+of being crowdfunded, which I tweet about using the hashtag
+#FundFreeCulture.
+Dedication
+
+This update is dedicated to Aaron
+Swartz,<http://rememberaaronsw.tumblr.com/>who died on the 11th of
+January.
+#FundFreeCulture
+
+The Free Software Foundation is still running a membership
+drive.<http://www.reddit.com/r/freeculture/comments/14uvro/the_free_software_foundation_needs_your_support/>
+
+The FSF also has a Defective by Design
+drive<http://www.defectivebydesign.org/2012-appeal>going.
+ Follow-up
+
+So You Want to Be a Librarian <https://unglue.it/work/76348/> successfully
+funded on unglue.it, though the libre edition is not yet available. It
+raised $2,682 of its $2,500 goal (this goal was revised down from the
+original of $9,000 before the campaign ended). (CC BY-SA)
+
+The third Vicious Crucible (pick-up-and-play tabletop RPGs), Argentate
+Drift<http://www.kickstarter.com/projects/viciouscrucible/vicious-crucible-3-argentate-drift>,
+successfully funded on Kickstarter. ($2,493/$2,000) (CC BY-SA)
+
+Widgiverse<http://www.kickstarter.com/projects/1000859548/widgiverse-everybody-gets-one>,
+a voxel-based electronic game, failed to fund on Kickstarter. ($403/$49,000)
+(public domain)
+
+Wikipedia could still do with more donations, but its fundraising
+drive<https://donate.wikimedia.org/w/index.php?title=Special:FundraiserLandingPage>
+appears
+to be over.
+Libre works and sources Information
+
+Consequences, Risks and Side-Effects of the License Module Non-Commercial ?
+NC,<http://fossilbank.wikidot.com/work:consequences-risks-and-side-effects-of-the-license-modu>which
+is pretty much what it says in the title (CC BY-SA)
+
+Creative Commons: A User
+Guide<http://fossilbank.wikidot.com/work:creative-commons-a-user-guide>is
+now available in Spanish. (CC BY-SA)
+
+Queensland Government
+Data<http://fossilbank.wikidot.com/work:queensland-government-data>is
+now available. (CC BY)
+
+#PHONAR <http://fossilbank.wikidot.com/work:phonar> is an undergraduate
+photography class. (CC BY-SA)
+
+Muktware <http://fossilbank.wikidot.com/work:muktware> is one of the few
+free culture Linux magazines. (CC BY)
+
+Syria Deeply <http://fossilbank.wikidot.com/work:syria-deeply> has news on
+the conflict in Syria. (CC BY)
+
+The CryptoParty
+Handbook<http://fossilbank.wikidot.com/work:cryptoparty-handbook>is
+designed for beginners who want to protect their privacy. (CC BY-SA)
+Tabletop Games
+
+Death of the Japanese
+Emperor<http://fossilbank.wikidot.com/work:death-of-the-japanese-emperor>is
+an experimental LARP for 4-8 players. (CC BY-SA)
+
+The Modern Path <http://fossilbank.wikidot.com/work:the-modern-path> is a
+take on the tabletop RPG Pathfinder for modern campaigns. (OGL)
+
+TRIC SRD <http://fossilbank.wikidot.com/work:tric-srd> is a Dungeons &
+Dragons 4E clone. (OGL)
+
+Baba Yaga's Dancing
+Hut<http://fossilbank.wikidot.com/work:baba-yagas-dancing-hut>is a
+tabletop RPG. (CC BY)
+
+Sovereign <http://fossilbank.wikidot.com/work:sovereign> is a Risk-like
+boardgame. (CC BY-SA)
+
+I (Chris Sakkas) gathered a number of my tabletop
+RPGs<http://fossilbank.wikidot.com/source:chris-sakkas>(most of them
+libre licensed) in the one place.
+Music
+
+Millionaire Blonde
+<http://fossilbank.wikidot.com/source:millionaire-blonde>is an Italian
+folk band. I heartily recommend 'Andrea Si Sposa'. (CC BY-SA)
+Software
+
+The OpenPhotoProject
+<http://fossilbank.wikidot.com/work:openphoto>provides cloud-based
+storage for your images, whichever site you upload
+them to. (Apache 2.0)
+
+EveryCook <http://fossilbank.wikidot.com/work:everycook> is a project
+dedicated to better food through information. (CC BY-SA and an unnamed open
+source software licence).
+Art
+
+dilly daily draws
+<http://fossilbank.wikidot.com/source:dilly-daily-draws>is the art
+blog of Filipe Dilly. (CC BY)
+
+Circus Divas <http://fossilbank.wikidot.com/source:circus-divas> features
+art from a perverse circus. Some nudity and violence. (CC BY-SA)
+
+Mimi and Eunice now have some
+comics<http://fossilbank.wikidot.com/work:mimi-and-eunice>available in
+Czech and Korean. (CC BY-SA)
+
+The Catalogue ofIlluminated
+Manuscripts<http://fossilbank.wikidot.com/work:catalogue-of-illuminated-manuscripts>is
+a collection of 35,000 scans. (PD)
+Non-libre shareable works and sources
+
+Bad Panda Records
+<http://fossilbank.wikidot.com/source:bad-panda-records>offers weekly
+gratis music. (CC BY-NC-SA)
+
+Dungeonslayers 4 <http://fossilbank.wikidot.com/work:dungeonslayers-4> is a
+tabletop RPG in several European languages. (CC BY-NC-SA)
+
+
+Stay safe,
+
+Chris
+
+
+ *Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130113/7c735592/attachment-0001.htm>
+
+From eric.f.vandevelde at gmail.com  Tue Jan 15 01:39:01 2013
+From: eric.f.vandevelde at gmail.com (Eric F. Van de Velde)
+Date: Mon, 14 Jan 2013 17:39:01 -0800
+Subject: [Open-access] MOOCs teach OA a Lesson
+Message-ID: <CALQVpOFLH03EPv=dZ0DzvaHH3D==MsSeUw88ythszM5SwkNvYw@mail.gmail.com>
+
+In my most recent blog, I wonder why universities have been so far more
+receptive and supportive of MOOCs than they ever were of Open Access.
+
+http://scitechsociety.blogspot.com/2013/01/moocs-teach-oa-lesson.html
+
+--Eric.
+
+http://scitechsociety.blogspot.com
+
+Google Voice: (626) 898-5415
+Telephone:      (626) 376-5415
+Skype: efvandevelde -- Twitter: @evdvelde
+E-mail: eric.f.vandevelde at gmail.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130114/89416d94/attachment.htm>
+
+From ross.mounce at gmail.com  Tue Jan 15 22:02:40 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Tue, 15 Jan 2013 22:02:40 +0000
+Subject: [Open-access] Re - Invitation to participate in the stakeholder
+ dialogue "Licences for Europe" - REMINDER and additional information
+In-Reply-To: <CAD2k14M0dy0bD=1qAVqGE=G-iETCXzRbvzS0b2=b3XCJhFqbmw@mail.gmail.com>
+References: <CBC1E4D600CBD94D8CD934BE08B5B70A283CEEE6@S-DC-ESTB04-B.net1.cec.eu.int>
+	<CAD2k14M0dy0bD=1qAVqGE=G-iETCXzRbvzS0b2=b3XCJhFqbmw@mail.gmail.com>
+Message-ID: <CAJr+OEx6o6HgBu=3tbf1=SaDzxjNG5uxDXvikNJwpd3vNjaHuA@mail.gmail.com>
+
+Given the mining bit (from the PDF)
+
+*(iv) Text and data mining for scientific research purposes*
+This work strand should
+? Identify the scale and nature of demand for TDM access in the EU for
+scientific research purposes, and appropriate means of meeting this demand.
+? Explore the potential and possible limits of standard licensing models.
+? Assess the appropriateness and feasibility of technology platforms to
+facilitate TDM
+access.
+? Deliver solutions, including the possibility to develop effective
+platforms to facilitate
+TDM access.
+
+
+If I could get my Panton Fellowship travel allowance to cover this, I would
+go. Seems appropriate / relevant to the work I've been doing.
+
+Best,
+
+Ross
+
+
+On 15 January 2013 16:31, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> We *have* to get somebody to this. Unfortunately I shall be in AU.
+>
+> I think at this stage we have to send a name at least. It might not be the
+> person that goes. But we must send someone.
+>
+> I doubt they pay expenses.
+>
+> P.
+>
+>
+> ---------- Forwarded message ----------
+> From: <EC-LICENCES-FOR-EUROPE at ec.europa.eu>
+> Date: Tue, Jan 15, 2013 at 3:47 PM
+> Subject: Re - Invitation to participate in the stakeholder dialogue
+> "Licences for Europe" - REMINDER and additional information
+> To: EC-LICENCES-FOR-EUROPE at ec.europa.eu
+>
+>
+>  REMINDER
+> In their letter mailed on 21 December regarding "Licences for Europe", MM
+> Delsaux, Prats Monne and Viola invited your organisation to nominate
+> participants in the relevant Working Group(s) by Friday 11 January.
+>
+> If you have not done so by now, could you please reply by close on
+> Wednesday 16 January at the latest, providing the name, organisation and
+> contact details of your nominee(s). This will enable the Commission
+> Services to draw up membership lists for each of the 4 Working Groups.
+>
+> Where trade associations are concerned, the Commission has sought to make
+> it clear that it is interested to have the participation of a nominated
+> constituent member of such associations. It is not excluded that
+> representatives of associations themselves may nevertheless have a "back
+> row" presence, on request.
+>
+> PLENARY AND FIRST WORKING GROUP SESSIONS
+> We take this opportunity to ask you to block 4 February in your diary. It
+> is planned to hold the plenary session at noon, followed by the four
+> Working Groups in parallel in the afternoon. As you will be aware, the
+> Commission Services will in any case need to be in receipt of the
+> individual names of all participants in both the plenary and the working
+> groups for that occasion.
+>
+> A formal letter of invitation will follow.
+>
+> The
+>
+>
+> *From:* DOLBY Helen (MARKT) *On Behalf Of *MARKT LICENSING EUROPE
+> *Sent:* Friday, December 21, 2012 1:21 PM
+> *To:* MARKT LICENSING EUROPE
+> *Subject:* Invitation to participate in the stakeholder dialogue
+> "Licences for Europe"
+>
+>
+> Colleagues,
+>
+> Please find attached a letter of invitation to participate in the
+> stakeholder dialogue "Licences for Europe", announced by the Commission
+> Communication on "Content in the Digital Single Market" (COM(2012) 789
+> final) available at: *
+> http://ec.europa.eu/internal_market/copyright/index_en.htm*<http://ec.europa.eu/internal_market/copyright/index_en.htm>. We also attach provisional mandates for each of the Working Groups
+> described.
+>
+> We will be in touch with you early in the New Year to discuss your
+> participation.
+>
+> In the meantime, we wish you a happy and restorative Christmas break.
+>
+> Secretariat,
+> "Licences for Europe"
+>
+>
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130115/c411b615/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jan 16 08:22:00 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 16 Jan 2013 08:22:00 +0000
+Subject: [Open-access] Fwd: [OFA Fellows] Our next book,
+	April 2013 (Bottom-Up science)
+Message-ID: <CAD2k14MVib2qui1ib6uPi7pNUMdLWkG_HJ2NOiX4E2XanPWM-A@mail.gmail.com>
+
+For those who have volunteered to be authors of Bottom Up science
+
+---------- Forwarded message ----------
+From: Shane Coughlan <shane at opendawn.com>
+Date: Wed, Jan 16, 2013 at 4:41 AM
+Subject: Re: [OFA Fellows] Our next book, April 2013
+To: Peter Murray-Rust <pm286 at cam.ac.uk>
+Cc: ofafellows ofafellows <fellows at openforumeurope.org>
+
+
+Hi Peter
+
+On Jan 10, 2013, at 02:51 , Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> On Wed, Jan 9, 2013 at 12:44 PM, Shane Coughlan <shane at opendawn.com>
+wrote:
+> > Peter, an essay on the "Bottom-up creation of Open Scientific
+Knowledge" would be superb! I'm adding it to the list.
+>
+> I have floated this on the OKFN open-science list expecting that Imight
+get a reply sometime. As it is I've got  4 replies in 2 hours! This
+reflects the excitement of the topic and probably means that we shall have
+several different micro-contributions in the chapter. Because of the
+difficulty of coordinating a football team I've tentatively said we should
+restrict it to Europe (also helps with timezones) and we've also got a
+contributor from India.
+> Is there a formal page limit?
+
+Great news! There are no formal page limits. If you sail past 8 pages it
+might be time to consider slowing down, and after 12 pages it's almost
+certainly time to take a break, but that said... whatever is needed to get
+the job done.
+
+Regards
+
+Shane
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130116/69a3a46f/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jan 16 09:45:05 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 16 Jan 2013 09:45:05 +0000
+Subject: [Open-access] [open-science] Fwd: [OFA Fellows] Our next book,
+ April 2013 (Bottom-Up science)
+In-Reply-To: <CANACerH9-3Bb9g1yLg6wetGaZJv0d1E9wO0brxUCzfUF18mxGA@mail.gmail.com>
+References: <CAD2k14MVib2qui1ib6uPi7pNUMdLWkG_HJ2NOiX4E2XanPWM-A@mail.gmail.com>
+	<CANACerH9-3Bb9g1yLg6wetGaZJv0d1E9wO0brxUCzfUF18mxGA@mail.gmail.com>
+Message-ID: <CAD2k14P+sxSgLv_JT782ENrR+EAL+WK+k5JsjYThSWLRfOWeBg@mail.gmail.com>
+
+On Wed, Jan 16, 2013 at 9:29 AM, Rayna <rayna.st at gmail.com> wrote:
+
+> Thanks for the update, Peter. Should we fork this discussion only between
+> us who volunteered to write to avoid flooding everyone's email?
+>
+>
+YES!
+
+I'd like a skype between authors fairly soon. Jenny, can you coordinate
+this before end of week?
+
+P.
+
+
+
+> Rayna
+>
+> 2013/1/16 Peter Murray-Rust <pm286 at cam.ac.uk>
+>
+>> For those who have volunteered to be authors of Bottom Up science
+>>
+>> ---------- Forwarded message ----------
+>> From: Shane Coughlan <shane at opendawn.com>
+>> Date: Wed, Jan 16, 2013 at 4:41 AM
+>> Subject: Re: [OFA Fellows] Our next book, April 2013
+>> To: Peter Murray-Rust <pm286 at cam.ac.uk>
+>> Cc: ofafellows ofafellows <fellows at openforumeurope.org>
+>>
+>>
+>> Hi Peter
+>>
+>> On Jan 10, 2013, at 02:51 , Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> > On Wed, Jan 9, 2013 at 12:44 PM, Shane Coughlan <shane at opendawn.com>
+>> wrote:
+>> > > Peter, an essay on the "Bottom-up creation of Open Scientific
+>> Knowledge" would be superb! I'm adding it to the list.
+>> >
+>> > I have floated this on the OKFN open-science list expecting that Imight
+>> get a reply sometime. As it is I've got  4 replies in 2 hours! This
+>> reflects the excitement of the topic and probably means that we shall have
+>> several different micro-contributions in the chapter. Because of the
+>> difficulty of coordinating a football team I've tentatively said we should
+>> restrict it to Europe (also helps with timezones) and we've also got a
+>> contributor from India.
+>> > Is there a formal page limit?
+>>
+>> Great news! There are no formal page limits. If you sail past 8 pages it
+>> might be time to consider slowing down, and after 12 pages it's almost
+>> certainly time to take a break, but that said... whatever is needed to get
+>> the job done.
+>>
+>> Regards
+>>
+>> Shane
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+>
+> --
+> "Change l'ordre du monde plut?t que tes d?sirs."
+>
+> http://de.linkedin.com/in/raynas
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130116/b3694e2f/attachment.htm>
+
+From u.herb at scinoptica.com  Thu Jan 17 10:00:21 2013
+From: u.herb at scinoptica.com (Ulrich Herb)
+Date: Thu, 17 Jan 2013 11:00:21 +0100
+Subject: [Open-access] US policy on making federal data public?
+Message-ID: <50F7CBB5.8080605@scinoptica.com>
+
+dear all,
+
+
+this was new to me: the scholarly kitchen reports that an "US policy on 
+making federal data public is circulating on Capitol Hill" and that it 
+would include STM data, unlike the sk-author I would welcome such an 
+initiative.
+http://scholarlykitchen.sspnet.org/2013/01/17/leaked-data-policy-raises-monster-stm-data-issues/
+
+
+best
+
+ulrich
+-- 
+scinoptica science consulting and publishing consulting
+POB 10 13 13
+D-66013 Saarbr?cken
+Germany
+http://www.scinoptica.com/pages/en/start.php
++49-(0)157 84759877
+http://twitter.com/#!/scinoptica
+
+
+From ross.mounce at gmail.com  Thu Jan 17 23:16:48 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Thu, 17 Jan 2013 23:16:48 +0000
+Subject: [Open-access] Open Access licence data crowdsourcing exercise
+Message-ID: <CAJr+OExXP4ihdEghR0Jd7qiYVQ4UqXqf1MKvS2-q38Y5UvydcQ@mail.gmail.com>
+
+Dear OKFN lists,
+
+
+Jevin West has kindly made available the list of 985 journals and their
+publishers that he uses in his excellent OA plot here:
+http://www.eigenfactor.org/openaccess/index.php
+
+
+I would like to build on this data to assess the licence used by each one
+of those 985 journals to publish their articles.
+I have started the task on a collaborative, editable Google Spreadsheet
+here:
+https://docs.google.com/spreadsheet/ccc?key=0AtbO6mZEvieCdExBQm9UclBSaWxlMWVNelVDMHFnSkE
+
+
+If you have some spare time, or are interested in helping out please help
+us fill-in the data on spreadsheet, on the second sheet called 'Data'.
+
+It's pretty simple to help out. Just Google the journal name given in
+column A, and try and find out what licence it publishes its Open Access
+articles under e.g. the Creative Commons Attribution Licence (CC BY)
+
+Then fill-in the relevant details you find on the spreadsheet, in columns C
+& D and (optionally) your name too in column F (added by)
+All data filled-in on the datasheet will be public data for anyone to
+use/copy/remix CC0 http://creativecommons.org/publicdomain/zero/1.0/
+
+I have already scored 531 of the journals, so there's 454 left still to
+score - I need your help to get this task done!
+Many hands make light work...
+
+
+Best,
+
+Ross
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130117/98a5bec8/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jan 18 00:06:51 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 18 Jan 2013 00:06:51 +0000
+Subject: [Open-access] Open Access licence data crowdsourcing exercise
+In-Reply-To: <CAJr+OExXP4ihdEghR0Jd7qiYVQ4UqXqf1MKvS2-q38Y5UvydcQ@mail.gmail.com>
+References: <CAJr+OExXP4ihdEghR0Jd7qiYVQ4UqXqf1MKvS2-q38Y5UvydcQ@mail.gmail.com>
+Message-ID: <CAD2k14Pw_jaohryzWN_THgTQqb9iAWdqPt8i+fQEMXd4B4f81Q@mail.gmail.com>
+
+I strongly endorse Ross's call for help. It's not much effort and highly
+valuable and will further emhasize the value of Panton Fellowships in OKF
+
+
+
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/4f18c946/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jan 18 09:08:10 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 18 Jan 2013 09:08:10 +0000
+Subject: [Open-access] [open-science] Open Access licence data
+ crowdsourcing exercise
+In-Reply-To: <CAGS_vfrSV1NcYXyv+A3=o_=v9xT88TaUCkgjOp4C+D-X5Ou+2Q@mail.gmail.com>
+References: <CAJr+OExXP4ihdEghR0Jd7qiYVQ4UqXqf1MKvS2-q38Y5UvydcQ@mail.gmail.com>
+	<CAD2k14Pw_jaohryzWN_THgTQqb9iAWdqPt8i+fQEMXd4B4f81Q@mail.gmail.com>
+	<CAGS_vfrSV1NcYXyv+A3=o_=v9xT88TaUCkgjOp4C+D-X5Ou+2Q@mail.gmail.com>
+Message-ID: <CAD2k14OLpNOW5bssW2JJPD+OH6Z0-TcVcXXmOKfv6U1acKjQVA@mail.gmail.com>
+
+On Fri, Jan 18, 2013 at 8:58 AM, Daniel Lombra?a Gonz?lez <
+teleyinex at gmail.com> wrote:
+
+> Hi Peter and Ross,
+>
+> What about creating an app in Crowdcrafting for this problem? Will you be
+> interested? It could be really engaging for big media like slashdot.orgor similar web sites, so if we create an app that can help to do that, we
+> may send a notice to Reddit.com or Slashdot.org and get all the work done
+> really quickly.
+>
+>
+Great idea.
+
+
+> What do you think? This idea is only valuable if you don't have a really
+> tight dead-line.
+>
+> This will be an ongoing problem. However it may be that the psychological
+impact will be made in the near future.
+
+There will, however, be MANY applications of crowdcrafting in schol pub.
+One thing that would be really valuable is microtasks whcih could be
+launched when people read/access a publication or publisher. Let's say you
+have volunteered to help with this. Later you read a paper from a journal
+not already processed.The system alerts you "would you like to annotate
+this paper?" and then you do it. Or, "would you like to put this
+publisher/paper into the task list?"
+
+P.
+
+> Cheers,
+>
+> Daniel
+>
+>
+> On Fri, Jan 18, 2013 at 1:06 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> I strongly endorse Ross's call for help. It's not much effort and highly
+>> valuable and will further emhasize the value of Panton Fellowships in OKF
+>>
+>>
+>>
+>>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+>
+> --
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> http://daniellombrana.es
+> http://www.flickr.com/photos/teleyinex
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> Por favor, NO utilice formatos de archivo propietarios para el
+> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+> o cualquier otro que no obligue a utilizar un programa de un
+> fabricante concreto para tratar la informaci?n contenida en ?l.
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/c1b1d169/attachment.htm>
+
+From mark at cottagelabs.com  Fri Jan 18 11:45:17 2013
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Fri, 18 Jan 2013 11:45:17 +0000
+Subject: [Open-access] [open-science] Open Access licence data
+ crowdsourcing exercise
+In-Reply-To: <CAD2k14OLpNOW5bssW2JJPD+OH6Z0-TcVcXXmOKfv6U1acKjQVA@mail.gmail.com>
+References: <CAJr+OExXP4ihdEghR0Jd7qiYVQ4UqXqf1MKvS2-q38Y5UvydcQ@mail.gmail.com>
+	<CAD2k14Pw_jaohryzWN_THgTQqb9iAWdqPt8i+fQEMXd4B4f81Q@mail.gmail.com>
+	<CAGS_vfrSV1NcYXyv+A3=o_=v9xT88TaUCkgjOp4C+D-X5Ou+2Q@mail.gmail.com>
+	<CAD2k14OLpNOW5bssW2JJPD+OH6Z0-TcVcXXmOKfv6U1acKjQVA@mail.gmail.com>
+Message-ID: <CAFxzj8RbGoKGZaTd0jiL+cRL-qH4A+HQLJLvkADPaN2p7Bwysw@mail.gmail.com>
+
+On Fri, Jan 18, 2013 at 9:08 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> On Fri, Jan 18, 2013 at 8:58 AM, Daniel Lombra?a Gonz?lez <
+> teleyinex at gmail.com> wrote:
+>
+>> Hi Peter and Ross,
+>>
+>> What about creating an app in Crowdcrafting for this problem? Will you be
+>> interested? It could be really engaging for big media like slashdot.orgor similar web sites, so if we create an app that can help to do that, we
+>> may send a notice to Reddit.com or Slashdot.org and get all the work done
+>> really quickly.
+>>
+>>
+> Great idea.
+>
+
+For the latest work I have done on Bibserver, I considered the use of
+crowdcrafting too - I have not done it yet, but it is now possible to get
+bibserver to generate something like a list of similar articles which could
+then be passed to a crowdcrafting app for deduplication or cleanup, or
+collection of license terms or links to where an article can be downloaded.
+
+Mark
+
+
+
+
+
+>
+>
+>> What do you think? This idea is only valuable if you don't have a really
+>> tight dead-line.
+>>
+>> This will be an ongoing problem. However it may be that the psychological
+> impact will be made in the near future.
+>
+> There will, however, be MANY applications of crowdcrafting in schol pub.
+> One thing that would be really valuable is microtasks whcih could be
+> launched when people read/access a publication or publisher. Let's say you
+> have volunteered to help with this. Later you read a paper from a journal
+> not already processed.The system alerts you "would you like to annotate
+> this paper?" and then you do it. Or, "would you like to put this
+> publisher/paper into the task list?"
+>
+> P.
+>
+>> Cheers,
+>>
+>> Daniel
+>>
+>>
+>> On Fri, Jan 18, 2013 at 1:06 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>>
+>>> I strongly endorse Ross's call for help. It's not much effort and highly
+>>> valuable and will further emhasize the value of Panton Fellowships in OKF
+>>>
+>>>
+>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>>
+>>>
+>>
+>>
+>> --
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> http://daniellombrana.es
+>> http://www.flickr.com/photos/teleyinex
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> Por favor, NO utilice formatos de archivo propietarios para el
+>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+>> o cualquier otro que no obligue a utilizar un programa de un
+>> fabricante concreto para tratar la informaci?n contenida en ?l.
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/c9ea61e4/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Fri Jan 18 13:25:42 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 18 Jan 2013 13:25:42 +0000
+Subject: [Open-access] Fwd: [GOAL] Fwd: Business,
+ Innovation and Skills Committee announces inquiry into Open Access
+In-Reply-To: <9A08FEE5-0E00-4A55-8ECA-36BBB82B66F3@rluk.ac.uk>
+References: <32C1864B03DCDE49A0D225611964A58F93A168BA@MMEM011.parliament.uk>
+	<9A08FEE5-0E00-4A55-8ECA-36BBB82B66F3@rluk.ac.uk>
+Message-ID: <CAD2k14ObEnyicCs+K+mK3qhzgkyuZNeLdkKjWveuJ6pC_6ZW_w@mail.gmail.com>
+
+More UK requests for information on Open Access! These are likely to
+destroy various PhD/DPhils if we keep trying to answer them all... But we
+have to
+
+---------- Forwarded message ----------
+From: David Prosser <david.prosser at rluk.ac.uk>
+Date: Fri, Jan 18, 2013 at 1:15 PM
+Subject: [GOAL] Fwd: Business, Innovation and Skills Committee announces
+inquiry into Open Access
+To: "Global Open Access List (Successor of AmSci)" <goal at eprints.org>, BOAI
+Forum post <boai-forum at ecs.soton.ac.uk>, SPARC Open Access Forum <
+SPARC-OAForum at arl.org>
+
+
+Apologies, as ever, for cross positing.  A new Inquiry on Open Access in
+the UK Parliament.  This is a committee of MPs who scrutinise the workings
+of our Department of Business, Innovation and Skills (BIS).  Universities
+and research funding sit under this department.
+
+David
+
+
+
+
+Begin forwarded message:
+
+*From: *"MORRIS, Pam" <MORRISPR at parliament.uk>
+*Date: *18 January 2013 12:53:20 GMT
+*To: *"MORRIS, Pam" <MORRISPR at parliament.uk>
+*Subject: **Business, Innovation and Skills Committee announces inquiry
+into Open Access*
+
+*Business, Innovation and Skills Committee*
+* *
+*Select Committee Announcement No.42*
+*Friday 18 January, 2013*
+*For immediate release*
+* *
+*OPEN ACCESS*
+* *
+*Announcement of Inquiry*
+* *
+The Business, Innovation and Skills Committee today announces its intention
+to inquire into the Government?s Open Access policy.
+* *
+*Written submissions addressing the Committee?s inquiry are invited by
+close of business on**7 February 2013. Respondees are requested not to
+submit copies of responses to other consultations or to the Finch Report.*
+* *
+The Committee will consider a range of topics including:
+
+
+
+?       The Government?s acceptance of the recommendations of the Finch
+Group Report ?Accessibility, sustainability, excellence: how to expand
+access to research publications?, including its preference for the ?gold?
+over the ?green? open access model;
+
+?       Rights of use and re-use in relation to open access research
+publications, including the implications of Creative Commons ?CC-BY?
+licences;
+
+?       The costs of article processing charges (APCs) and the implications
+for research funding and for the taxpayer; and
+
+?       The level of ?gold? open access uptake in the rest of the world
+versus the UK, and the ability of UK higher education institutions to
+remain competitive.
+Written evidence should be sent to the Committee, *as an MS Word document*,
+by e-mail tobiscommem at parliament.uk.  <biscommem at parliament.uk.%20>
+
+
+A guide for written submissions to Select Committees may be found below:
+http://www.parliament.uk/documents/commons-committees/witnessguide.pdf ([image:
+PDF] PDF 431 KB)[image: Opens in a new
+window]<http://www.parliament.uk/documents/commons-committees/witnessguide.pdf>
+
+
+Parties submitting evidence are requested to follow these guidelines. Email
+submissions are strongly preferred. If you wish your evidence to remain
+confidential, please contact the Committee staff.
+* *
+*FURTHER INFORMATION:*
+* *
+*Committee Membership is as follows:*
+Chair: Mr Adrian Bailey MP (Lab) (West Bromwich West)
+Mr Brian Binley MP (Con) (Northampton South)     Paul Blomfield MP (Lab)
+(Sheffield Central)
+Katy Clark MP (Lab) (North Ayrshire and Arran)                     Mike
+Crockart MP (Lib Dem) (Edinburgh West)
+Caroline Dinenage MP (Con) (Gosport)
+Julie Elliott MP (Lab) (Sunderland Central)
+Rebecca Harris MP (Con) (Castle Point)
+Ann McKechin MP (Lab) (Glasgow North)
+Mr Robin Walker MP (Con) (Worcester)
+Nadhim Zahawi MP (Con) (Stratford upon Avon)
+* *
+*Committee Website*: www.parliament.uk/bis**
+*Media Information*: David Foster fosterda at parliament.uk   020 719 7556
+*Specific Committee Information*:  biscom at parliament.uk/ 020 7219 5777/ 020
+7219 5779
+*Watch committees and parliamentary debates online*:  www.parliamentlive.tv
+* *
+*Publications / Reports / Reference Material:* Copies of all select
+committee reports are available from the Parliamentary Bookshop (12 Bridge
+St, Westminster, 020 7219 3890) or the Stationery Office (0845 7023474).
+Committee reports, press releases, evidence transcripts, Bills; research
+papers, a directory of MPs, plus Hansard (from 8am daily) and much more,
+can be found onwww.parliament.uk
+
+
+
+
+
+------------------------------
+
+UK Parliament Disclaimer:
+This e-mail is confidential to the intended recipient. If you have received
+it in error, please notify the sender and delete it from your system. Any
+unauthorised use, disclosure, or copying is not permitted. This e-mail has
+been checked for viruses, but no liability is accepted for any damage
+caused by any virus transmitted by this e-mail.
+
+
+
+_______________________________________________
+GOAL mailing list
+GOAL at eprints.org
+http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/25b834ad/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 327 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/25b834ad/attachment.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 1009 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/25b834ad/attachment-0001.gif>
+
+From mark at cottagelabs.com  Fri Jan 18 13:51:04 2013
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Fri, 18 Jan 2013 13:51:04 +0000
+Subject: [Open-access] [SPAM:###] Re: [open-science] Open Access licence
+ data crowdsourcing exercise
+In-Reply-To: <CAKu3fAqZWs7w+megUWbFK87jL4OUcHOvRX_UD=B=xSnVek=yVQ@mail.gmail.com>
+References: <CAJr+OExXP4ihdEghR0Jd7qiYVQ4UqXqf1MKvS2-q38Y5UvydcQ@mail.gmail.com>
+	<CAD2k14Pw_jaohryzWN_THgTQqb9iAWdqPt8i+fQEMXd4B4f81Q@mail.gmail.com>
+	<CAGS_vfrSV1NcYXyv+A3=o_=v9xT88TaUCkgjOp4C+D-X5Ou+2Q@mail.gmail.com>
+	<CAD2k14OLpNOW5bssW2JJPD+OH6Z0-TcVcXXmOKfv6U1acKjQVA@mail.gmail.com>
+	<CAFxzj8RbGoKGZaTd0jiL+cRL-qH4A+HQLJLvkADPaN2p7Bwysw@mail.gmail.com>
+	<3281_1358513878_50F946D6_3281_5956_1_CAGS_vfoPYqFRGh0RQgrygXAMuWBSZQV+qsxFGE6gzzRaP3e=Cw@mail.gmail.com>
+	<CAKu3fAqZWs7w+megUWbFK87jL4OUcHOvRX_UD=B=xSnVek=yVQ@mail.gmail.com>
+Message-ID: <CAFxzj8QakpeGk-xkckQfgOxftCksBn7FG1agV5DVfA8Kx=Oyow@mail.gmail.com>
+
+Yes this would be a standard approach to verifying crowdsourced data.
+
+Mark
+
+
+On Fri, Jan 18, 2013 at 1:46 PM, Victoria Stodden <vcs at stodden.net> wrote:
+
+> Suggestion: Is it possible to design the interface so that multiple
+> people unknowingly collect information on the same journal? The idea
+> is that if 20 of 20 people independently say journal X uses CC BY then
+> it probably does, but if the license labeling in the spreadsheet turns
+> out to be inconsistent for a particular journal then closer scrutiny
+> can be applied (perhaps the journal isn't clear or uses a custom
+> hybrid license and people record this quite differently etc.). You
+> could, for example, randomize the order in which the empty cells are
+> presented to contributors.
+>
+> The reason to implement a redundancy approach is to increase the
+> chances that each entry is correct, and uncover areas of nuanced
+> licensing.
+>
+> Victoria
+>
+> On Fri, Jan 18, 2013 at 7:52 AM, Daniel Lombra?a Gonz?lez
+> <teleyinex at gmail.com> wrote:
+> >
+> > On Fri, Jan 18, 2013 at 12:45 PM, Mark MacGillivray <
+> mark at cottagelabs.com>
+> > wrote:
+> >>
+> >> On Fri, Jan 18, 2013 at 9:08 AM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> >> wrote:
+> >>>
+> >>> On Fri, Jan 18, 2013 at 8:58 AM, Daniel Lombra?a Gonz?lez
+> >>> <teleyinex at gmail.com> wrote:
+> >>>>
+> >>>> Hi Peter and Ross,
+> >>>>
+> >>>> What about creating an app in Crowdcrafting for this problem? Will you
+> >>>> be interested? It could be really engaging for big media like
+> slashdot.org
+> >>>> or similar web sites, so if we create an app that can help to do
+> that, we
+> >>>> may send a notice to Reddit.com or Slashdot.org and get all the work
+> done
+> >>>> really quickly.
+> >>>>
+> >>>
+> >>> Great idea.
+> >>
+> >>
+> >> For the latest work I have done on Bibserver, I considered the use of
+> >> crowdcrafting too - I have not done it yet, but it is now possible to
+> get
+> >> bibserver to generate something like a list of similar articles which
+> could
+> >> then be passed to a crowdcrafting app for deduplication or cleanup, or
+> >> collection of license terms or links to where an article can be
+> downloaded.
+> >
+> >
+> > That sounds feasible and possible :D As usual, if you need help (or
+> anyone
+> > on the list) for creating a PyBossa app, let me know it. I'll be happy to
+> > help you!
+> >
+> > Cheers,
+> >
+> > Daniel
+> >>
+> >>
+> >> Mark
+> >>
+> >>
+> >>
+> >>
+> >>>
+> >>>
+> >>>>
+> >>>> What do you think? This idea is only valuable if you don't have a
+> really
+> >>>> tight dead-line.
+> >>>>
+> >>> This will be an ongoing problem. However it may be that the
+> psychological
+> >>> impact will be made in the near future.
+> >>>
+> >>> There will, however, be MANY applications of crowdcrafting in schol
+> pub.
+> >>> One thing that would be really valuable is microtasks whcih could be
+> >>> launched when people read/access a publication or publisher. Let's say
+> you
+> >>> have volunteered to help with this. Later you read a paper from a
+> journal
+> >>> not already processed.The system alerts you "would you like to
+> annotate this
+> >>> paper?" and then you do it. Or, "would you like to put this
+> publisher/paper
+> >>> into the task list?"
+> >>>
+> >>> P.
+> >>>>
+> >>>> Cheers,
+> >>>>
+> >>>> Daniel
+> >>>>
+> >>>>
+> >>>> On Fri, Jan 18, 2013 at 1:06 AM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> >>>> wrote:
+> >>>>>
+> >>>>> I strongly endorse Ross's call for help. It's not much effort and
+> >>>>> highly valuable and will further emhasize the value of Panton
+> Fellowships in
+> >>>>> OKF
+> >>>>>
+> >>>>>
+> >>>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>> --
+> >>>>> Peter Murray-Rust
+> >>>>> Reader in Molecular Informatics
+> >>>>> Unilever Centre, Dep. Of Chemistry
+> >>>>> University of Cambridge
+> >>>>> CB2 1EW, UK
+> >>>>> +44-1223-763069
+> >>>>> _______________________________________________
+> >>>>> open-science mailing list
+> >>>>> open-science at lists.okfn.org
+> >>>>> http://lists.okfn.org/mailman/listinfo/open-science
+> >>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> >>>>>
+> >>>>
+> >>>>
+> >>>>
+> >>>> --
+> >>>>
+> >>>>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> >>>> http://daniellombrana.es
+> >>>> http://www.flickr.com/photos/teleyinex
+> >>>>
+> >>>>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> >>>> Por favor, NO utilice formatos de archivo propietarios para el
+> >>>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT,
+> CSV
+> >>>> o cualquier otro que no obligue a utilizar un programa de un
+> >>>> fabricante concreto para tratar la informaci?n contenida en ?l.
+> >>>>
+> >>>>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> --
+> >>> Peter Murray-Rust
+> >>> Reader in Molecular Informatics
+> >>> Unilever Centre, Dep. Of Chemistry
+> >>> University of Cambridge
+> >>> CB2 1EW, UK
+> >>> +44-1223-763069
+> >>>
+> >>> _______________________________________________
+> >>> open-access mailing list
+> >>> open-access at lists.okfn.org
+> >>> http://lists.okfn.org/mailman/listinfo/open-access
+> >>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >>>
+> >>
+> >
+> >
+> >
+> > --
+> >
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> > http://daniellombrana.es
+> > http://www.flickr.com/photos/teleyinex
+> >
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> > Por favor, NO utilice formatos de archivo propietarios para el
+> > intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+> > o cualquier otro que no obligue a utilizar un programa de un
+> > fabricante concreto para tratar la informaci?n contenida en ?l.
+> >
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/e5b5a0d6/attachment-0001.htm>
+
+From ross.mounce at gmail.com  Fri Jan 18 14:14:11 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 18 Jan 2013 14:14:11 +0000
+Subject: [Open-access] [open-science] Fwd: [GOAL] Fwd: Business,
+ Innovation and Skills Committee announces inquiry into Open Access
+In-Reply-To: <CAD2k14ObEnyicCs+K+mK3qhzgkyuZNeLdkKjWveuJ6pC_6ZW_w@mail.gmail.com>
+References: <32C1864B03DCDE49A0D225611964A58F93A168BA@MMEM011.parliament.uk>
+	<9A08FEE5-0E00-4A55-8ECA-36BBB82B66F3@rluk.ac.uk>
+	<CAD2k14ObEnyicCs+K+mK3qhzgkyuZNeLdkKjWveuJ6pC_6ZW_w@mail.gmail.com>
+Message-ID: <CAJr+OEw9wLBBjA+oG22DERmBmYQtNH1h+thKTeu-2-9kUqee8A@mail.gmail.com>
+
+On 18 January 2013 13:25, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> More UK requests for information on Open Access! These are likely to
+> destroy various PhD/DPhils if we keep trying to answer them all... But we
+> have to
+>
+
+Exactly.
+
+Given I just submitted something lengthy yesterday to the House of Lords
+inquiry, I'm alarmed that the "witness guidance" PDF for this new BIS call
+for evidence states:
+
+
+"Respondees are requested not to submit copies of responses to other
+consultations or to the Finch Report"
+
+I feel slightly cheated having submitted some of my 'best' to the House of
+Lords inquiry. I have half a mind to make this point in my BIS submission.
+ I think I will now have to re-word, re-arrange and re-focus.
+
+Above all we must not be put off from airing our legitimate views and
+evidence.
+
+
+Ross
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/481f8bac/attachment.htm>
+
+From ross.mounce at okfn.org  Fri Jan 18 14:18:28 2013
+From: ross.mounce at okfn.org (Ross Mounce)
+Date: Fri, 18 Jan 2013 14:18:28 +0000
+Subject: [Open-access] Fwd: Open Data Day, 23rd Feb 2013 - OKFN London meetup
+In-Reply-To: <CAB5oK9ZoBKf0VnbLckM_TrMtcyAW_AJm+oE5C8c9+D--5KE0NA@mail.gmail.com>
+References: <CAB5oK9a1mnaUnUtxGrgxPwm7TH+Li1Kty+NEKCBPOcQPRk75XQ@mail.gmail.com>
+	<CAB5oK9ZoBKf0VnbLckM_TrMtcyAW_AJm+oE5C8c9+D--5KE0NA@mail.gmail.com>
+Message-ID: <CAJr+OEy46ZB7g+jHEAJORS4rEn6qYk_bESRdyN2f-YuMcusydA@mail.gmail.com>
+
+Hi Everyone,
+
+Just wanted to let you know we?re organizing a meetup in London for Open
+Data Day 2013 (23rd February):
+
+http://www.eventbrite.com/event/5276951504
+
+Open Data Day is a gathering of citizens in cities around the world to
+write applications, liberate data, create visualizations and publish
+analyses using open public data to show support for and encourage the
+adoption of open data policies by the world's local, regional and national
+governments.
+
+The event is open to all, curious citizens, journalists, tech-geeks,
+students, scientists, graphic designers. Swing by on the day to hack, have
+a hangout and wrangle!
+
+Beatrice, Ross & Rufus
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/9598c55e/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Jan 18 15:46:13 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 18 Jan 2013 16:46:13 +0100
+Subject: [Open-access] [open-science] Fwd: [GOAL] Fwd: Business,
+ Innovation and Skills Committee announces inquiry into Open Access
+In-Reply-To: <CAJr+OEw9wLBBjA+oG22DERmBmYQtNH1h+thKTeu-2-9kUqee8A@mail.gmail.com>
+References: <32C1864B03DCDE49A0D225611964A58F93A168BA@MMEM011.parliament.uk>
+	<9A08FEE5-0E00-4A55-8ECA-36BBB82B66F3@rluk.ac.uk>
+	<CAD2k14ObEnyicCs+K+mK3qhzgkyuZNeLdkKjWveuJ6pC_6ZW_w@mail.gmail.com>
+	<CAJr+OEw9wLBBjA+oG22DERmBmYQtNH1h+thKTeu-2-9kUqee8A@mail.gmail.com>
+Message-ID: <CANQ_vu2GJWyBB8=vOTrEExRpfdy2RWwS5jfNG6QsuSGi4ohHDA@mail.gmail.com>
+
+Out of interest does anyone know why we are having all of these
+renewed consultations and inquiries?
+
+I know there has been quite a lot of behind the scenes lobbying against the
+Finch proposals from publishers, learned societies and others.
+
+I wonder if these consultations and inquiries are related to these
+complaints and criticisms? If so I wonder whether it would be worth very
+publicly restating the case for Finch?
+
+J.
+
+
+On Fri, Jan 18, 2013 at 3:14 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+>
+>
+> On 18 January 2013 13:25, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>> More UK requests for information on Open Access! These are likely to
+>> destroy various PhD/DPhils if we keep trying to answer them all... But we
+>> have to
+>>
+>
+> Exactly.
+>
+> Given I just submitted something lengthy yesterday to the House of Lords
+> inquiry, I'm alarmed that the "witness guidance" PDF for this new BIS call
+> for evidence states:
+>
+>
+> "Respondees are requested not to submit copies of responses to other
+> consultations or to the Finch Report"
+>
+> I feel slightly cheated having submitted some of my 'best' to the House of
+> Lords inquiry. I have half a mind to make this point in my BIS submission.
+>  I think I will now have to re-word, re-arrange and re-focus.
+>
+> Above all we must not be put off from airing our legitimate views and
+> evidence.
+>
+>
+> Ross
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/b6d19afc/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jan 18 16:10:09 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 18 Jan 2013 16:10:09 +0000
+Subject: [Open-access] [open-science] Fwd: [GOAL] Fwd: Business,
+ Innovation and Skills Committee announces inquiry into Open Access
+In-Reply-To: <CANQ_vu2GJWyBB8=vOTrEExRpfdy2RWwS5jfNG6QsuSGi4ohHDA@mail.gmail.com>
+References: <32C1864B03DCDE49A0D225611964A58F93A168BA@MMEM011.parliament.uk>
+	<9A08FEE5-0E00-4A55-8ECA-36BBB82B66F3@rluk.ac.uk>
+	<CAD2k14ObEnyicCs+K+mK3qhzgkyuZNeLdkKjWveuJ6pC_6ZW_w@mail.gmail.com>
+	<CAJr+OEw9wLBBjA+oG22DERmBmYQtNH1h+thKTeu-2-9kUqee8A@mail.gmail.com>
+	<CANQ_vu2GJWyBB8=vOTrEExRpfdy2RWwS5jfNG6QsuSGi4ohHDA@mail.gmail.com>
+Message-ID: <CAD2k14MZvh37efO2gMAoff0oDWmODfUM6hZwvP43WEaR3237KA@mail.gmail.com>
+
+On Fri, Jan 18, 2013 at 3:46 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Out of interest does anyone know why we are having all of these
+> renewed consultations and inquiries?
+>
+> I know there has been quite a lot of behind the scenes lobbying against
+> the Finch proposals from publishers, learned societies and others.
+>
+> I wonder if these consultations and inquiries are related to these
+> complaints and criticisms? If so I wonder whether it would be worth very
+> publicly restating the case for Finch?
+>
+
+Yes - I think it would. Without too much effort I think we can say that
+Finch set out a valuable trajectory for Open scientific research and
+publication and we hope that BIS would adopt it and the RCUK implementation
+with little change.
+
+Otherwise we are going to suffer death by exhaustion.
+
+>
+> J.
+>
+>
+> On Fri, Jan 18, 2013 at 3:14 PM, Ross Mounce <ross.mounce at gmail.com>wrote:
+>
+>>
+>>
+>> On 18 January 2013 13:25, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>>> More UK requests for information on Open Access! These are likely to
+>>> destroy various PhD/DPhils if we keep trying to answer them all... But we
+>>> have to
+>>>
+>>
+>> Exactly.
+>>
+>> Given I just submitted something lengthy yesterday to the House of Lords
+>> inquiry, I'm alarmed that the "witness guidance" PDF for this new BIS call
+>> for evidence states:
+>>
+>>
+>> "Respondees are requested not to submit copies of responses to other
+>> consultations or to the Finch Report"
+>>
+>> I feel slightly cheated having submitted some of my 'best' to the House
+>> of Lords inquiry. I have half a mind to make this point in my BIS
+>> submission.  I think I will now have to re-word, re-arrange and re-focus.
+>>
+>> Above all we must not be put off from airing our legitimate views and
+>> evidence.
+>>
+>>
+>> Ross
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>
+>>
+>
+>
+> --
+> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+> Support our work: okfn.org/support
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130118/2e6a264e/attachment.htm>
+
+From sumandro at gmail.com  Wed Jan 23 15:27:31 2013
+From: sumandro at gmail.com (sumandro)
+Date: Wed, 23 Jan 2013 20:57:31 +0530
+Subject: [Open-access] Is Open Access still relevant? | invitation to a
+	discussion
+Message-ID: <CAOCrZ=SumGsLVhUJ3QXxsCKcj9h=PJ0G4m6CpAK6NKTPV6Zajg@mail.gmail.com>
+
+Is Open Access still relevant?
+
+The last years have been both satisfying and challenging for the Open
+Access community worldwide. On one hand, we have experienced numerous
+'victories' of the OA agenda, such as the OA policy of Research Council UK,
+the Finch Committee report, and the OA policy of World Bank. Various
+agreeable arguments have been made forcefully to highlight the need for a
+transition to OA models of publication -- from betterment of academic
+practices, to economic growth to human development. On the other hand, the
+OA agenda seems like only one, and not a major one at that, 'openness'
+movement among a crowd of similarly prefixed movements. Further, the OA
+agenda increasingly appears to be a rather limited, rigid, and old one.
+Many other 'openness' movements such as Open Data and Open Educational
+Resources, one may argue, are more effectively designed to better academic
+practices, drive economic growth and influence human development.
+
+In a powerful critique of the existing OA agenda, Peter Murray-Rust asks:
+'Is "Open Access" the same sort of beast [as the modern ideology and
+practice of "Open"]?' <http://blog.okfn.org/2012/10/26/is-open-access-open/>.
+He goes on to list out the features of this 'modern ideology and practice
+of "Open"': meritocracy, universality of participation, a willingness to
+listen, openness of process, openness of results, and a mechanism to change
+current practices (please see his blog post for clarification of these
+features). Instead of having 'open' self-reflections about the changing
+context and the need for revised strategies, as Eve Gray explains, the OA
+agenda has often remained haunted by the Budapest Open Access Initiative
+past and failed to interact with emerging allies such as OA scholarly
+publications and grey literatures.
+
+To ask the looming question bluntly, is there a need to envision a new,
+more contemporary if nothing else, version of the OA agenda?
+
+In the face of increasing acceptance of OA for journal-based research
+publications by national and super-national bodies, what are the next
+frontiers of the OA agenda? Does the journal-centric strategy of the
+existing OA agenda needs revisiting? The last question is especially
+pertinent in the context of developing countries, where policy-making is
+often influenced by privately-funded research. Access to such documents
+(and their underlying datasets) are significant in such cases for ensuring
+government accountability, or simply to induce a broad, informed discussion
+regarding making of national policies. At the same time, the diversity of
+national policy frameworks across the world poses a critical challenge to
+any global movement that aims to address global concerns while engaging
+with local specificities and demands. Similarly for OA agenda, it is
+crucial to discuss the possibility of a more participatory, flexible and
+open process of setting strategic agendas at national and regional scales.
+In this context, it might be useful to revisit the BOAI definition of OA,
+and question whether this definition is sufficient for a global OA agenda,
+and also whether the existing OA models (such as Gold and Green OA) are
+sufficient for delivering the promise of that definition.
+
+To return to the context of various 'openness' movements unfolding
+worldwide, one may ask, if the OA agenda is now best pursued by dissolving
+it within other 'openness' movements? Should we talk more of an alliance
+between various 'openness' movements, or an expansion of some to
+incorporate the others?
+
+To take part in this fascinating debate which is hosted on the WSIS
+Knowledge Communities, click the following link here [
+http://www.wsis-community.org/pg/forum/topic/586392/is-open-access-only-for-rich-countries-participate-now-in-an-online-dialogue-on-open-access-and-the-developing-world/].
+Please note that you will need to go to the last page of the discussion as
+posts are ordered from first to last.
+
+*Register here*
+
+[
+http://www.wsis-community.org/pg/forum/topic/586392/is-open-access-only-for-rich-countries-participate-now-in-an-online-dialogue-on-open-access-and-the-developing-world/
+]
+
+[
+http://cvs2.uwc.ac.za/trac/chisimba/browser/branding/Chisimba_Newsletter/Chisimba_edition_3.pdf]
+[
+http://cvs2.uwc.ac.za/trac/chisimba/browser/branding/Chisimba_Newsletter/Chisimba_edition_3.pdf
+]
+
+[https://www.facebook.com/pages/Open-Access-debates/356010021156418]
+
+*Tweet using #developOA*
+
+Partners
+
+Institute for Development studies [http://www.ids.ac.uk/]
+
+[http://www.ids.ac.uk/]
+
+The Centre for Internet and Society [http://cis-india.org/]
+
+The African Commons Project [http://www.africancommons.org/]
+
+Resources [http://www.gray-area.co.za/]
+
+Open Access and and Development- Journals
+
+and Beyond [
+http://www.africancommons.org/wp-content/uploads/2012/11/Open-Access-and-Development-Journals-and-Beyond.pdf
+]
+
+[
+http://www.africancommons.org/wp-content/uploads/2012/11/Open-Access-and-Development-Journals-and-Beyond.pdf
+]
+
+[http://www.gray-area.co.za/]
+
+Gray Area -A blog which focuses on Access to Knowledge and Open Access [
+http://www.gray-area.co.za/]
+
+UNESCO Human Rights declaration [
+http://www.unesco.org/new/en/social-and-human-sciences/themes/human-rights-based-approach/60th-anniversary-of-udhr/unesco-and-the-declaration/
+]
+
+WSIS Knowledge Communities
+
+Open Access platform [
+http://www.wsis-community.org/pg/forum/topic/586392/is-open-access-only-for-rich-countries-participate-now-in-an-online-dialogue-on-open-access-and-the-developing-world/
+]
+
+Openuct initiative - opening scholarship [http://openuct.uct.ac.za/]
+
+Please send this email to someone you think may be interested.
+
+Funded by DFID [http://www.dfid.gov.uk/], through the Mobilising Knowledge
+for Development (MK4D) [
+http://www.dfid.gov.uk/R4D/Project/60700/Default.aspx]programme in
+
+the Institute for Development Studies [http://www.ids.ac.uk/] [
+http://www.ids.ac.uk]
+
+Emailer compiled by The African Commons Project [http://africancommons.org/]
+
+sumandro
+ajantriks.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130123/3b539a9a/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Mon Jan 28 11:00:58 2013
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Mon, 28 Jan 2013 11:00:58 +0000
+Subject: [Open-access] Slides and audio from the First Open Economics
+	Workshop in Cambridge, UK
+In-Reply-To: <CAChagOCw7D_zCq2Dw-hjKufsqtNOAN29pfcmVUt2yiyygv8Udg@mail.gmail.com>
+References: <CAChagOCw7D_zCq2Dw-hjKufsqtNOAN29pfcmVUt2yiyygv8Udg@mail.gmail.com>
+Message-ID: <CAChagOA6TZfqFeLxZwSkFOEXBeyAEAp_SwAvyJ1SroVsetYD6g@mail.gmail.com>
+
+Dear all,
+
+We have published sessions summary, slides and audio from the First Open
+Economics Workshop, which took place in Cambridge, UK last December
+gathering 40 academic economists, data publishers and funders of economics
+research, researchers and practitioners: *
+http://blog.okfn.org/2013/01/28/first-open-economics-international-workshop-recap/
+*
+
+The Open Knowledge Foundation realised this workshop together with the
+Centre for Intellectual Property and Information Law at Cambridge with the
+support of the Alfred P. Sloan Foundation.
+
+You can also visit the event's
+webpage<http://openeconomics.net/events/workshop-dec-2012/>and see
+some
+photos of the event on
+Flickr<http://www.flickr.com/photos/okfn/sets/72157632461581780/>
+.
+
+-- 
+Velichka Dimitrova
+Open Economics Project Coordinator
+Open Knowledge Foundation
+http://okfn.org | http://openeconomics.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130128/a0212c96/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Jan 28 22:51:11 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 28 Jan 2013 22:51:11 +0000
+Subject: [Open-access] [okfn-discuss] Help make a comparison of open
+	access journals on Wikipedia
+In-Reply-To: <CABhyRUgZhAr_XJy5bzHY+ADNFhOLOrsnviAqCYAJLJH4no2uZQ@mail.gmail.com>
+References: <CABhyRUgKB1uOfp2TBbQzchpm-EyrFMFPh9MsMHz7=-trWmJ+kw@mail.gmail.com>
+	<CABhyRUi3wChVr3o5jBY6LNz_j_p7UJsrzUGgkc1gPVx74=4Aqw@mail.gmail.com>
+	<CABPM+wqv2Yx5eJLY=hHEM6AC7NxA+mu5uyVgnvg0c4+70Hc1cQ@mail.gmail.com>
+	<CABhyRUgZhAr_XJy5bzHY+ADNFhOLOrsnviAqCYAJLJH4no2uZQ@mail.gmail.com>
+Message-ID: <CAD2k14Ppqm_k-paHTq5R0Ct30-ytTRhntBR8BBgUsS9h+kciZw@mail.gmail.com>
+
+I think this is a great idea. Wiki* is increasingly going to underpin
+scholarship (academia has not done a very good job).
+
+You should keep in touch with DOAJ (directory of OA journals). It's been
+relaunched. They have been patchy up to now, but may gte more comprehensive
+in the future. Possibilities include:
+* you feed off them.
+* they feed of you
+* mutual feeding.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130128/004c382f/attachment.htm>
+
+From pm286 at cam.ac.uk  Mon Jan 28 23:54:30 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 28 Jan 2013 23:54:30 +0000
+Subject: [Open-access] [okfn-discuss] Help make a comparison of open
+	access journals on Wikipedia
+In-Reply-To: <CABhyRUhM1f+0q3jy9R-B23aVqP3L2zCiNwVEV27=HoW7wxF8Eg@mail.gmail.com>
+References: <CABhyRUgKB1uOfp2TBbQzchpm-EyrFMFPh9MsMHz7=-trWmJ+kw@mail.gmail.com>
+	<CABhyRUi3wChVr3o5jBY6LNz_j_p7UJsrzUGgkc1gPVx74=4Aqw@mail.gmail.com>
+	<CABPM+wqv2Yx5eJLY=hHEM6AC7NxA+mu5uyVgnvg0c4+70Hc1cQ@mail.gmail.com>
+	<CABhyRUgZhAr_XJy5bzHY+ADNFhOLOrsnviAqCYAJLJH4no2uZQ@mail.gmail.com>
+	<CAD2k14Ppqm_k-paHTq5R0Ct30-ytTRhntBR8BBgUsS9h+kciZw@mail.gmail.com>
+	<CABhyRUhM1f+0q3jy9R-B23aVqP3L2zCiNwVEV27=HoW7wxF8Eg@mail.gmail.com>
+Message-ID: <CAD2k14Np+5opq50UZ72fVJr8cHxAPsVV7ada+0AiyoDni-yUDA@mail.gmail.com>
+
+On Mon, Jan 28, 2013 at 11:15 PM, K?ra <kxra at freeculture.org> wrote:
+
+>
+> On Mon, Jan 28, 2013 at 5:51 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> I think this is a great idea. Wiki* is increasingly going to underpin
+>> scholarship (academia has not done a very good job).
+>>
+>> You should keep in touch with DOAJ (directory of OA journals). It's been
+>> relaunched. They have been patchy up to now, but may gte more comprehensive
+>> in the future. Possibilities include:
+>> * you feed off them.
+>> * they feed of you
+>> * mutual feeding.
+>>
+>> P.
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> ___________________________
+>>
+>>
+> Have been in touch with them...no luck. Conversation thus far:
+>
+>
+They *should* be able to differentiate between licences. I think they don't
+regard it as high priority.
+
+At the risk of flooding almost all OKF lists I have added Open
+Bibliography. Mark MacGillivray and others have tools for starting to
+interrogate documents and their metadata about licences. Early days. But if
+DOAJ don't do it, we shall have to use machines to do it.
+
+
+
+
+
+> ---------- Forwarded message ----------
+> From: K?ra <kxra at riseup.net>
+> Date: Mon, Jan 28, 2013 at 6:09 PM
+> Subject: Re: DOAJ Feedback: Free culture licenses
+> To: Sonja Brage <sonja.brage at ub.lu.se>
+>
+>
+> I see. Where does this limitation stem from? Can this data not be compiled
+> over time so that this feature could be implemented? There are lots of
+> people who would help with such an effort.
+>
+> On Mon, Jan 28, 2013 at 1:03 PM, Sonja Brage <sonja.brage at ub.lu.se> wrote:
+>
+> (Sorry, i was not ironic. I thought that ?hell? was some derivative of
+> heil, but it was only a dropped ?o?. nothing new there.)
+>
+> Problem is that we cannot make a difference between the different CC:s in
+> the searches. we have received the question before.
+>
+> Regards, Sonja
+>
+>
+>
+> *Fr?n:* danny.piccirillo at gmail.com [mailto:danny.piccirillo at gmail.com] *F?r
+> *K?ra
+> *Skickat:* den 28 januari 2013 18:47
+> *Till:* Sonja Brage
+> *?mne:* Re: DOAJ Feedback: Free culture licenses
+>
+>
+>
+> Hello,
+>
+> No, because only some of the Creative Commons licenses are free culture.
+> CC-BY and CC-BY-SA are free culture, as well as public domain.
+> NonCommercial and Nonderivative are not free culture.
+>
+> Thanks,
+> K?ra
+>
+> On Mon, Jan 28, 2013 at 12:43 PM, Sonja Brage <sonja.brage at ub.lu.se>
+> wrote:
+> Hell,
+> Did you mean such a search (it is only creative commons):
+> http://www.doaj.org/doaj?func=licensedJournals&uiLanguage=en
+> Please get back if I have misunderstood.
+> Regards, the Doaj team, SB.
+> (What language is "hell"=hi?)
+> -----Ursprungligt meddelande-----
+> Fr?n: kxra at riseup.net [mailto:kxra at riseup.net]
+> Skickat: den 28 januari 2013 14:24
+> Till: Sonja Brage
+> ?mne: DOAJ Feedback: Free culture licenses
+>
+> Hell,
+>
+> I was wondering if an option could be added to filter out the journals
+> which use free culture licenses as defined by freedomdefined.org(endorsed by Creative Commons, Wikimedia, etc). This would be an invaluable
+> addition to the directory.
+>
+> Thanks,
+> K?ra
+>
+>
+> --
+> Board of Directors, Students for Free Culture: www.freeculture.org
+>
+> Blog: http://thesilentnumber.me  -  StatusNet Microblog:
+> http://identi.ca/kxra
+> Email: kxra at freeculture.org  -  SMS: +1.617.340.3661
+> Jabber/XMPP: kxra at riseup.net  -  IRC: kxra @freenode @oftc @indymedia
+>
+> _______________________________________________
+> okfn-discuss mailing list
+> okfn-discuss at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-discuss
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130128/f0be54e4/attachment.htm>
+
+From cn at cameronneylon.net  Tue Jan 29 00:40:11 2013
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Mon, 28 Jan 2013 16:40:11 -0800
+Subject: [Open-access] [open-science] [okfn-discuss] Help make a
+	comparison of open access journals on Wikipedia
+In-Reply-To: <CAD2k14Np+5opq50UZ72fVJr8cHxAPsVV7ada+0AiyoDni-yUDA@mail.gmail.com>
+References: <CABhyRUgKB1uOfp2TBbQzchpm-EyrFMFPh9MsMHz7=-trWmJ+kw@mail.gmail.com>
+	<CABhyRUi3wChVr3o5jBY6LNz_j_p7UJsrzUGgkc1gPVx74=4Aqw@mail.gmail.com>
+	<CABPM+wqv2Yx5eJLY=hHEM6AC7NxA+mu5uyVgnvg0c4+70Hc1cQ@mail.gmail.com>
+	<CABhyRUgZhAr_XJy5bzHY+ADNFhOLOrsnviAqCYAJLJH4no2uZQ@mail.gmail.com>
+	<CAD2k14Ppqm_k-paHTq5R0Ct30-ytTRhntBR8BBgUsS9h+kciZw@mail.gmail.com>
+	<CABhyRUhM1f+0q3jy9R-B23aVqP3L2zCiNwVEV27=HoW7wxF8Eg@mail.gmail.com>
+	<CAD2k14Np+5opq50UZ72fVJr8cHxAPsVV7ada+0AiyoDni-yUDA@mail.gmail.com>
+Message-ID: <B13FA895-FFCB-4B67-81F8-34D79FC3F092@cameronneylon.net>
+
+
+Re: DOAJ providing filter for Free Culture (CC BY/CC BY-SA) licenses
+> 
+> Have been in touch with them...no luck. Conversation thus far: 
+> 
+> 
+> They *should* be able to differentiate between licences. I think they don't regard it as high priority. 
+> 
+> At the risk of flooding almost all OKF lists I have added Open Bibliography. Mark MacGillivray and others have tools for starting to interrogate documents and their metadata about licences. Early days. But if DOAJ don't do it, we shall have to use machines to do it.
+
+Being able to search via license is on my wish list for future for DOAJ but yes, its not the highest current priority which is to stabilise the current system, catch up with backlog and start to tackle journal/publisher validation/quality control.
+
+Also worth noting that this would only ever provide the default license at the journal level. Relatively few journals are absolutely consistent in the licenses they use, although the default is a good first approximation.
+
+FWIW I did some analysis of the set of licenses within the Creative Commons subset of DOAJ and CC BY-SA isn't very common. CC BY-NC is more common. The figures are 174 (SA), 1174(BY), 486(NC) from my analysis. Many of these journals don't publish all that much so by articles there's much more CC BY content as this is the default for the larger OA publishers.
+
+Cheers
+
+Cameron
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130128/134b0fb3/attachment.htm>
+
+From mike at indexdata.com  Tue Jan 29 09:54:31 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Tue, 29 Jan 2013 09:54:31 +0000
+Subject: [Open-access] [open-science] [okfn-discuss] Help make a
+ comparison of open access journals on Wikipedia
+In-Reply-To: <CAD2k14Np+5opq50UZ72fVJr8cHxAPsVV7ada+0AiyoDni-yUDA@mail.gmail.com>
+References: <CABhyRUgKB1uOfp2TBbQzchpm-EyrFMFPh9MsMHz7=-trWmJ+kw@mail.gmail.com>
+	<CABhyRUi3wChVr3o5jBY6LNz_j_p7UJsrzUGgkc1gPVx74=4Aqw@mail.gmail.com>
+	<CABPM+wqv2Yx5eJLY=hHEM6AC7NxA+mu5uyVgnvg0c4+70Hc1cQ@mail.gmail.com>
+	<CABhyRUgZhAr_XJy5bzHY+ADNFhOLOrsnviAqCYAJLJH4no2uZQ@mail.gmail.com>
+	<CAD2k14Ppqm_k-paHTq5R0Ct30-ytTRhntBR8BBgUsS9h+kciZw@mail.gmail.com>
+	<CABhyRUhM1f+0q3jy9R-B23aVqP3L2zCiNwVEV27=HoW7wxF8Eg@mail.gmail.com>
+	<CAD2k14Np+5opq50UZ72fVJr8cHxAPsVV7ada+0AiyoDni-yUDA@mail.gmail.com>
+Message-ID: <CACnMvBawjqprbbE9Q2LZY6G5-BdqVaus_mp5hwNCx5xqZaNxOg@mail.gmail.com>
+
+DOAJ does have a slot in its metadata for licences: for example, if
+you search for "acta":
+http://www.doaj.org/doaj?func=findJournals&uiLanguage=en&hybrid=&query=acta
+27 of the 100 journals listed in the first page of results list the licence.
+
+Obviously, though, that's not nearly enough. From my perspective two
+top priorities for DOAJ now that it's up and running again are:
+
+1. Populate the Licence field for *all* journals. Obviously not all
+journals have an explicit statement of licence, but even for such
+journals it's much better that the DOAJ entry clearly state
+"unspecified" rather than no say anything.
+
+2. Extend the search form to allow narrowing by licence (and other
+criteria, I guess, but this is the big one).
+
+-- Mike
+
+
+
+On 28 January 2013 23:54, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Mon, Jan 28, 2013 at 11:15 PM, K?ra <kxra at freeculture.org> wrote:
+>>
+>>
+>> On Mon, Jan 28, 2013 at 5:51 PM, Peter Murray-Rust <pm286 at cam.ac.uk>
+>> wrote:
+>>>
+>>> I think this is a great idea. Wiki* is increasingly going to underpin
+>>> scholarship (academia has not done a very good job).
+>>>
+>>> You should keep in touch with DOAJ (directory of OA journals). It's been
+>>> relaunched. They have been patchy up to now, but may gte more comprehensive
+>>> in the future. Possibilities include:
+>>> * you feed off them.
+>>> * they feed of you
+>>> * mutual feeding.
+>>>
+>>> P.
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>> ___________________________
+>>>
+>>
+>> Have been in touch with them...no luck. Conversation thus far:
+>>
+>
+> They *should* be able to differentiate between licences. I think they don't
+> regard it as high priority.
+>
+> At the risk of flooding almost all OKF lists I have added Open Bibliography.
+> Mark MacGillivray and others have tools for starting to interrogate
+> documents and their metadata about licences. Early days. But if DOAJ don't
+> do it, we shall have to use machines to do it.
+>
+>
+>
+>
+>>
+>> ---------- Forwarded message ----------
+>> From: K?ra <kxra at riseup.net>
+>> Date: Mon, Jan 28, 2013 at 6:09 PM
+>> Subject: Re: DOAJ Feedback: Free culture licenses
+>> To: Sonja Brage <sonja.brage at ub.lu.se>
+>>
+>>
+>> I see. Where does this limitation stem from? Can this data not be compiled
+>> over time so that this feature could be implemented? There are lots of
+>> people who would help with such an effort.
+>>
+>> On Mon, Jan 28, 2013 at 1:03 PM, Sonja Brage <sonja.brage at ub.lu.se> wrote:
+>>
+>> (Sorry, i was not ironic. I thought that ?hell? was some derivative of
+>> heil, but it was only a dropped ?o?. nothing new there.)
+>>
+>> Problem is that we cannot make a difference between the different CC:s in
+>> the searches. we have received the question before.
+>>
+>> Regards, Sonja
+>>
+>>
+>>
+>> Fr?n: danny.piccirillo at gmail.com [mailto:danny.piccirillo at gmail.com] F?r
+>> K?ra
+>> Skickat: den 28 januari 2013 18:47
+>> Till: Sonja Brage
+>> ?mne: Re: DOAJ Feedback: Free culture licenses
+>>
+>>
+>>
+>> Hello,
+>>
+>> No, because only some of the Creative Commons licenses are free culture.
+>> CC-BY and CC-BY-SA are free culture, as well as public domain. NonCommercial
+>> and Nonderivative are not free culture.
+>>
+>> Thanks,
+>> K?ra
+>>
+>> On Mon, Jan 28, 2013 at 12:43 PM, Sonja Brage <sonja.brage at ub.lu.se>
+>> wrote:
+>>
+>> Hell,
+>> Did you mean such a search (it is only creative commons):
+>> http://www.doaj.org/doaj?func=licensedJournals&uiLanguage=en
+>> Please get back if I have misunderstood.
+>> Regards, the Doaj team, SB.
+>> (What language is "hell"=hi?)
+>> -----Ursprungligt meddelande-----
+>> Fr?n: kxra at riseup.net [mailto:kxra at riseup.net]
+>> Skickat: den 28 januari 2013 14:24
+>> Till: Sonja Brage
+>> ?mne: DOAJ Feedback: Free culture licenses
+>>
+>> Hell,
+>>
+>> I was wondering if an option could be added to filter out the journals
+>> which use free culture licenses as defined by freedomdefined.org (endorsed
+>> by Creative Commons, Wikimedia, etc). This would be an invaluable addition
+>> to the directory.
+>>
+>> Thanks,
+>> K?ra
+>>
+>>
+>> --
+>> Board of Directors, Students for Free Culture: www.freeculture.org
+>>
+>> Blog: http://thesilentnumber.me  -  StatusNet Microblog:
+>> http://identi.ca/kxra
+>> Email: kxra at freeculture.org  -  SMS: +1.617.340.3661
+>> Jabber/XMPP: kxra at riseup.net  -  IRC: kxra @freenode @oftc @indymedia
+>>
+>> _______________________________________________
+>> okfn-discuss mailing list
+>> okfn-discuss at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+>> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-discuss
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+
+
+From ross.mounce at gmail.com  Wed Jan 30 09:08:04 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 30 Jan 2013 09:08:04 +0000
+Subject: [Open-access] Royal Society organised Open Access workshop 25th Feb,
+	London
+Message-ID: <CAJr+OEzwB0uO3aweQx2DYyvBrLXcN9Mo33szzGUr4F+X1T5sfg@mail.gmail.com>
+
+The Royal Society is hosting a special one-day workshop to discuss the
+implications for scientific researchers of Government and funder policies
+on open access publication, including the Research Councils? policy which
+will take effect in April 2013 and HEFCE?s evolving policy in relation to
+the post-2014 REF.
+
+This will be a practical and constructive workshop that will help identify
+and clarify key issues as we move towards implementation of these policies
+and will be of particular interest to academic researchers and university
+administrators.
+
+*Dame Janet Finch* will chair the event and confirmed speakers include
+*Dr Michael
+Jubb*, Director of the Research Information Network, *David Sweeney*,
+Director for Research, Innovation and Skills at HEFCE, *Dr Tony
+Peatfield*, Medical
+Research Council, Director of Corporate Affairs, *Professor David Price*,
+Vice-Provost, Research, University College London, *Professor Tom Welton*,
+Head of Chemistry at Imperial College, *Phil Sykes*, Librarian, University
+of Liverpool, *Ian Russell*, Editorial Director, Science at Oxford
+University Press, *Dr Nicola Gulley*, Editorial Director, IOP Publishing and
+*Professor Geoffrey Smith*, Head of Department of Pathology, University of
+Cambridge and *Professor Miles Padgett*, Dean of Research, University of
+Glasgow.
+
+The workshop will look at the background to the new policy announced by
+David Willetts in July 2012, including the recommendations of the Finch
+working group, and will address the practical challenges of implementation
+from the perspectives of research funders, university and research
+administrators, university librarians, publishers and different scientific
+research communities.  It will also consider the implications of the
+requirement of the Research Councils and the Wellcome Trust for authors to
+use the CC-BY licence for their journal papers and conference proceedings.
+
+The meeting will be held at the Royal Society on 25 February and is
+sponsored by the Academy of Medical Sciences, the Institute of Physics, The
+Royal Society, The Royal Society of Chemistry and the Society of Biology.
+
+Register here for a free ticket (limited places available):
+
+http://openaccessworkshop.eventbrite.com/
+
+
+I'm going, you should too if you can come :)
+
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130130/4c5ccbf2/attachment.htm>
+
+From ross.mounce at gmail.com  Wed Jan 30 10:41:06 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 30 Jan 2013 10:41:06 +0000
+Subject: [Open-access] BIS open access inquiry
+Message-ID: <CAJr+OEwMcmnK2S9QUjOEdVYyfppU-hahV69mXgN3MvqPeK8tOQ@mail.gmail.com>
+
+Dear lists,
+
+
+Following-on the House of Lords
+inquiry<http://www.parliament.uk/business/committees/committees-a-z/lords-select/science-and-technology-committee/news/open-access/>,
+there is also a Business, Innovation and Skills Committee inquiry into the
+new RCUK open access mandate. A fair few of the 70 or so written evidence
+submissions<http://www.parliament.uk/documents/lords-committees/science-technology/Openaccess/OpenAccessevidence.pdf>
+ to the House of Lords inquiry were quite misguided in my opinion and few
+were from active researchers like myself.
+
+I was wondering therefore if you would perhaps consider submitting some
+written evidence to the BIS inquiry, further details
+here<http://www.parliament.uk/business/committees/committees-a-z/commons-select/business-innovation-and-skills/news/committee-announces-an-inquiry-into-open-access/>
+.
+
+The Committee will consider a range of topics including:
+
+   - The Government?s acceptance of the recommendations of the Finch Group
+   Report ?Accessibility, sustainability, excellence: how to expand access to
+   research publications?, including its preference for the ?gold? over the
+   ?green? open access model;
+   - Rights of use and re-use in relation to open access research
+   publications, including the implications of Creative Commons ?CC-BY?
+   licences;
+   - The costs of article processing charges (APCs) and the implications
+   for research funding and for the taxpayer; and
+   - The level of ?gold? open access uptake in the rest of the world versus
+   the UK, and the ability of UK higher education institutions to remain
+   competitive.
+
+Written evidence should be sent to the Committee, as an MS Word document,
+by e-mail to biscommem at parliament.uk.
+The deadline for BIS submissions is 7 February 2013.
+
+I am particularly concerned about the confusion in many recent blog posts
+in certain quarters over what Creative Commons licences actually do. Some
+have been attempting to portray the CC Attribution licence (CC BY)  as
+against 'author rights' or against 'academic freedom'. It would be good to
+make clear the benefits of this, perhaps even in terms of economics.
+
+
+This is a rare opportunity for for our voices to be heard. We should not
+waste this opportunity. Academic publishers will almost certainly be
+submitting their viewpoints and interests, so we need to make sure our
+interests are represented too.
+
+
+Best,
+
+Ross
+
+
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130130/90002456/attachment.htm>
+
+From rayna.st at gmail.com  Thu Jan 31 23:48:23 2013
+From: rayna.st at gmail.com (Rayna)
+Date: Fri, 1 Feb 2013 00:48:23 +0100
+Subject: [Open-access] OER in Brazil
+Message-ID: <CANACerHf1_SJprKf7MD61GxScJ7qmx=PBWJxAXOq-PcpuUqSkA@mail.gmail.com>
+
+Dear all,
+
+I received this letter with an invitation to sign:
+https://docs.google.com/document/d/1SAJkDvdNWbXwSUyLJhb2qZ395S8UZVj3UMk1Xp8zqXs/edit#
+
+For some background, please check out here:
+http://rea.net.br/site/sao-paulo-legis*
+lative-assembly-passes-9892011-oer-bill/*<http://rea.net.br/site/sao-paulo-legislative-assembly-passes-9892011-oer-bill/>
+
+I'm not sure whether this is something OKFN as an organization should sign,
+but in any case it is a very nice achievement and I believe it deserves our
+names :)
+
+Rayna
+
+-- 
+"Change l'ordre du monde plut?t que tes d?sirs."
+
+http://de.linkedin.com/in/raynas
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130201/27802c40/attachment.htm>
+

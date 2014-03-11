@@ -1,0 +1,127 @@
+From jonathan.gray at okfn.org  Tue Oct 13 14:11:50 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 13 Oct 2009 15:11:50 +0200
+Subject: [open-science] Open Data Fellowships at University of Michigan
+Message-ID: <54ca21750910130611m3331555fpa7498503194d5121@mail.gmail.com>
+
+For anyone that hasn't seen this:
+
+  http://opendata.si.umich.edu/index.html
+
+Overview:
+
+> Students with research interests in scientific data management, sharing and reuse have a unique opportunity to participate in the Open Data fellowship program. Open Data is an Integrative Graduate Education and Research Traineeship (IGERT) sponsored by NSF. Open Data fellows engage in a vibrant set of research activities at the University of Michigan in the conduct of responsible data-intensive science and engineering involving faculty and doctoral students from SI, Computer Science and Engineering, Bioinformatics, Materials Science, and Chemical Engineering.
+
+> The Open Data fellowships are designed to build a new community of practice around open sharing and reuse of scientific data through inter-disciplinary collaborative research, campus-based seminars and forums, and travel to research conferences.
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From jonathan.gray at okfn.org  Sat Oct 24 14:45:18 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 24 Oct 2009 14:45:18 +0100
+Subject: [open-science] The Fourth Paradigm: Data-Intensive Scientific
+	Discovery
+Message-ID: <54ca21750910240645x5272861dn3e0182be18cbb01d@mail.gmail.com>
+
+Anne Fitzgerald and Kylie Pappalardo recently pointed out this book,
+which has just been published under a CC-BY-SA license:
+
+  http://research.microsoft.com/en-us/collaboration/fourthparadigm/
+  http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_complete_lr.pdf
+
+"Increasingly, scientific breakthroughs will be powered by advanced
+computing capabilities that help researchers manipulate and explore
+massive datasets. The speed at which any given scientific discipline
+advances will depend on how well its researchers collaborate with one
+another, and with technologists, in areas of eScience such as
+databases, workflow management, visualization, and cloud computing
+technologies."
+
+In particular, there is an article on "The Future of Data Policy" by
+Anne Fitzgerald, Brian Fitzgerald and Kylie Pappalardo at, Queensland
+University of Technology that might be of interest to list members.
+
+Best wishes,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From casbon at gmail.com  Tue Oct 27 15:40:15 2009
+From: casbon at gmail.com (James Casbon)
+Date: Tue, 27 Oct 2009 15:40:15 +0000
+Subject: [open-science] NIH: Notice on Development of Data Sharing Policy
+	for Sequence and Related Genomic Data
+Message-ID: <15d850bd0910270840s18dd0d39xaa8dba72e8e9a6ff@mail.gmail.com>
+
+The NIH is updating its data sharing policy:
+http://grants.nih.gov/grants/guide/notice-files/NOT-HG-10-006.html
+
+The page seems to be a warning to those seeking NIH support to guess
+correctly what the policy will be, but it does invite further contact
+to discuss things.
+
+James
+
+
+From casbon at gmail.com  Tue Oct 27 15:58:28 2009
+From: casbon at gmail.com (James Casbon)
+Date: Tue, 27 Oct 2009 15:58:28 +0000
+Subject: [open-science] The Fourth Paradigm: Data-Intensive Scientific
+	Discovery
+In-Reply-To: <54ca21750910240645x5272861dn3e0182be18cbb01d@mail.gmail.com>
+References: <54ca21750910240645x5272861dn3e0182be18cbb01d@mail.gmail.com>
+Message-ID: <15d850bd0910270858l66a86c0bt8da8a8d24a2f3359@mail.gmail.com>
+
+2009/10/24 Jonathan Gray <jonathan.gray at okfn.org>:
+
+> In particular, there is an article on "The Future of Data Policy" by
+> Anne Fitzgerald, Brian Fitzgerald and Kylie Pappalardo at, Queensland
+> University of Technology that might be of interest to list members.
+
+Thanks, Jonathan.  I think the whole book looks interesting.
+
+
+From jonathan.gray at okfn.org  Sat Oct 31 11:15:16 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 31 Oct 2009 11:15:16 +0000
+Subject: [open-science] Open Source Science? Or Distributed Science?
+Message-ID: <54ca21750910310415n6a27af40u4e8d901e3566b2ec@mail.gmail.com>
+
+Interesting article from John Wilbanks!
+
+Jonathan
+
+---
+
+Open Source Science? Or Distributed Science?
+Posted on: October 30, 2009 8:58 AM, by John Wilbanks
+http://scienceblogs.com/commonknowledge/2009/10/open_source_science_or_distrib.php
+
+I was asked in an interview recently about "open source science" and
+it got me thinking about the ways that, in the "open" communities of
+practice, we frequently over-simplify the realities of how software
+like GNU/Linux actually came to be. Open Source refers to a software
+worldview. It's about software development, not a universal truth that
+can be easily exported. And it's well worth unpacking the worldview to
+understand it, and then to look at the realities of open source
+software as they map - or more frequently do not map - to science.
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+

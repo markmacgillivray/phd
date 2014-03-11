@@ -1,0 +1,547 @@
+From rufus.pollock at okfn.org  Wed Jul  1 13:04:05 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 1 Jul 2009 13:04:05 +0100
+Subject: [open-science] Fwd: Biodiversity Databases Spread,
+	Prompting 	Unification Call
+In-Reply-To: <93f340550906261322w7f0613e0w17313a838a482a52@mail.gmail.com>
+References: <93f340550906261322w7f0613e0w17313a838a482a52@mail.gmail.com>
+Message-ID: <b68e90820907010504p70eab5d0g4456df16119f8a7e@mail.gmail.com>
+
+Do you mean: is this an open science issue? Very much yes!
+
+As usual, it seems the main sticking point is going to be sorting out
+an agreed open license for the material ...
+
+Last time I looked at the license situation on e.g. EoL seemed fairly
+confusing with any one of main CC licenses (accepted) -- even though
+some of these are mutually incompatible! More details on:
+
+<http://www.ckan.net/package/read/eol>
+
+Rufus
+
+2009/6/26 Tim Schweizer <Tim.Schweizer at luther.edu>:
+> Is open-science part of this?
+> -Tim
+>
+> Tim Schweizer, Ph.D.
+> Office: (001) 563.387.1131
+> Mobile: (001) 563.581.9716
+> E-mail: Tim.Schweizer at luther.edu
+>
+>
+> Science 26 June 2009:
+> Vol. 324. no. 5935, pp. 1632 - 1633
+> DOI: 10.1126/science.324_1632News of the Week
+>
+> Biodiversity Databases Spread, Prompting Unification Call
+>
+> Claire Thomas
+>
+> Scientists increasingly recognize the value of collaborative, open-access
+> data sharing for understanding the world. But there's still a wide gap
+> between wanting to share and figuring out how to do it right, discovered
+> those who attended an international meeting on biodiversity this month. The
+> goal of e-Biosphere 09, a meeting for creators and users of the Encyclopedia
+> of Life, the Consortium for the Barcode of Life, the Catalogue of Life, and
+> other major efforts to build and manage open-access biodiversity databases,
+> was to figure out how to combine data from at least 100 systems into one
+> gigantic, online, open-access database that will eventually cover all life
+> on Earth, with lots of information, including primary research. But whether
+> these researchers are ready to create one-stop shopping for biodiversity
+> remains to be seen.
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Join our "100 supporters pledge": http://www.pledgebank.com/support-okfn
+Promoting Open Knowledge in a Digital Age - http://www.okfn.org/
+
+
+From wilbanks at creativecommons.org  Wed Jul  1 13:09:06 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Wed, 01 Jul 2009 08:09:06 -0400
+Subject: [open-science] Fwd: Biodiversity Databases Spread,
+ Prompting 	Unification Call
+In-Reply-To: <b68e90820907010504p70eab5d0g4456df16119f8a7e@mail.gmail.com>
+References: <93f340550906261322w7f0613e0w17313a838a482a52@mail.gmail.com>
+	<b68e90820907010504p70eab5d0g4456df16119f8a7e@mail.gmail.com>
+Message-ID: <4A4B51E2.9010509@creativecommons.org>
+
+Yes, EoL has had some of the same problems as others in culture, 
+thinking that CC licenses are internally compatible, which they of 
+course are not. SA licenses from CC are only compatible with themselves, 
+for example.
+
+See "If I use a Creative Commons-licensed work to create a new work (ie 
+a derivative work or adaptation), which Creative Commons license can I 
+use for my new work?" on our FAQ and that we blogged at 
+http://creativecommons.org/weblog/entry/7145
+
+jtw
+
+Rufus Pollock wrote:
+> Do you mean: is this an open science issue? Very much yes!
+> 
+> As usual, it seems the main sticking point is going to be sorting out
+> an agreed open license for the material ...
+> 
+> Last time I looked at the license situation on e.g. EoL seemed fairly
+> confusing with any one of main CC licenses (accepted) -- even though
+> some of these are mutually incompatible! More details on:
+> 
+> <http://www.ckan.net/package/read/eol>
+> 
+> Rufus
+> 
+> 2009/6/26 Tim Schweizer <Tim.Schweizer at luther.edu>:
+>> Is open-science part of this?
+>> -Tim
+>>
+>> Tim Schweizer, Ph.D.
+>> Office: (001) 563.387.1131
+>> Mobile: (001) 563.581.9716
+>> E-mail: Tim.Schweizer at luther.edu
+>>
+>>
+>> Science 26 June 2009:
+>> Vol. 324. no. 5935, pp. 1632 - 1633
+>> DOI: 10.1126/science.324_1632News of the Week
+>>
+>> Biodiversity Databases Spread, Prompting Unification Call
+>>
+>> Claire Thomas
+>>
+>> Scientists increasingly recognize the value of collaborative, open-access
+>> data sharing for understanding the world. But there's still a wide gap
+>> between wanting to share and figuring out how to do it right, discovered
+>> those who attended an international meeting on biodiversity this month. The
+>> goal of e-Biosphere 09, a meeting for creators and users of the Encyclopedia
+>> of Life, the Consortium for the Barcode of Life, the Catalogue of Life, and
+>> other major efforts to build and manage open-access biodiversity databases,
+>> was to figure out how to combine data from at least 100 systems into one
+>> gigantic, online, open-access database that will eventually cover all life
+>> on Earth, with lots of information, including primary research. But whether
+>> these researchers are ready to create one-stop shopping for biodiversity
+>> remains to be seen.
+>>
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>
+>>
+> 
+> 
+> 
+
+-- 
+
+----------------------------------------------------------------
+John Wilbanks
+
+VP for Science, Creative Commons
+http://creativecommons.org
+http://sciencecommons.org
+http://neurocommons.org
+
+"We make sharing easy, legal, and scalable."
+----------------------------------------------------------------
+
+
+From rufus.pollock at okfn.org  Thu Jul  2 14:44:46 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 2 Jul 2009 14:44:46 +0100
+Subject: [open-science] Fwd: Biodiversity Databases Spread,
+	Prompting 	Unification Call
+In-Reply-To: <4A4B51E2.9010509@creativecommons.org>
+References: <93f340550906261322w7f0613e0w17313a838a482a52@mail.gmail.com>
+	<b68e90820907010504p70eab5d0g4456df16119f8a7e@mail.gmail.com>
+	<4A4B51E2.9010509@creativecommons.org>
+Message-ID: <b68e90820907020644u18cebf4ct9d1c75623a69bdd3@mail.gmail.com>
+
+Ah, the problem with the "commons" name :) If CC were named "Creative
+License Choice" or the like I'd guess this would be less likely to
+happen ;)
+
+Rufus
+
+2009/7/1 John Wilbanks <wilbanks at creativecommons.org>:
+> Yes, EoL has had some of the same problems as others in culture, thinking
+> that CC licenses are internally compatible, which they of course are not. SA
+> licenses from CC are only compatible with themselves, for example.
+>
+> See "If I use a Creative Commons-licensed work to create a new work (ie a
+> derivative work or adaptation), which Creative Commons license can I use for
+> my new work?" on our FAQ and that we blogged at
+> http://creativecommons.org/weblog/entry/7145
+>
+> jtw
+>
+> Rufus Pollock wrote:
+>>
+>> Do you mean: is this an open science issue? Very much yes!
+>>
+>> As usual, it seems the main sticking point is going to be sorting out
+>> an agreed open license for the material ...
+>>
+>> Last time I looked at the license situation on e.g. EoL seemed fairly
+>> confusing with any one of main CC licenses (accepted) -- even though
+>> some of these are mutually incompatible! More details on:
+>>
+>> <http://www.ckan.net/package/read/eol>
+>>
+>> Rufus
+>>
+>> 2009/6/26 Tim Schweizer <Tim.Schweizer at luther.edu>:
+>>>
+>>> Is open-science part of this?
+>>> -Tim
+>>>
+>>> Tim Schweizer, Ph.D.
+>>> Office: (001) 563.387.1131
+>>> Mobile: (001) 563.581.9716
+>>> E-mail: Tim.Schweizer at luther.edu
+>>>
+>>>
+>>> Science 26 June 2009:
+>>> Vol. 324. no. 5935, pp. 1632 - 1633
+>>> DOI: 10.1126/science.324_1632News of the Week
+>>>
+>>> Biodiversity Databases Spread, Prompting Unification Call
+>>>
+>>> Claire Thomas
+>>>
+>>> Scientists increasingly recognize the value of collaborative, open-access
+>>> data sharing for understanding the world. But there's still a wide gap
+>>> between wanting to share and figuring out how to do it right, discovered
+>>> those who attended an international meeting on biodiversity this month.
+>>> The
+>>> goal of e-Biosphere 09, a meeting for creators and users of the
+>>> Encyclopedia
+>>> of Life, the Consortium for the Barcode of Life, the Catalogue of Life,
+>>> and
+>>> other major efforts to build and manage open-access biodiversity
+>>> databases,
+>>> was to figure out how to combine data from at least 100 systems into one
+>>> gigantic, online, open-access database that will eventually cover all
+>>> life
+>>> on Earth, with lots of information, including primary research. But
+>>> whether
+>>> these researchers are ready to create one-stop shopping for biodiversity
+>>> remains to be seen.
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>>
+>>>
+>>
+>>
+>>
+>
+> --
+>
+> ----------------------------------------------------------------
+> John Wilbanks
+>
+> VP for Science, Creative Commons
+> http://creativecommons.org
+> http://sciencecommons.org
+> http://neurocommons.org
+>
+> "We make sharing easy, legal, and scalable."
+> ----------------------------------------------------------------
+>
+
+
+
+-- 
+Join our "100 supporters pledge": http://www.pledgebank.com/support-okfn
+Promoting Open Knowledge in a Digital Age - http://www.okfn.org/
+
+
+From tom.moritz at gmail.com  Thu Jul  2 14:55:22 2009
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Thu, 2 Jul 2009 15:55:22 +0200
+Subject: [open-science] Fwd: Biodiversity Databases Spread,
+	Prompting 	Unification Call
+In-Reply-To: <b68e90820907020644u18cebf4ct9d1c75623a69bdd3@mail.gmail.com>
+References: <93f340550906261322w7f0613e0w17313a838a482a52@mail.gmail.com> 
+	<b68e90820907010504p70eab5d0g4456df16119f8a7e@mail.gmail.com> 
+	<4A4B51E2.9010509@creativecommons.org>
+	<b68e90820907020644u18cebf4ct9d1c75623a69bdd3@mail.gmail.com>
+Message-ID: <e74b7bec0907020655x317710c5jfdad3ea7ea5db0ba@mail.gmail.com>
+
+Hmmm.  "CLC"  -- I suppose if Garret Hardin had only written the "Tragedy of
+License Choices"
+we wouldn't be facing this definitional problem...?  8-]
+
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034
+USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+
+
+On Thu, Jul 2, 2009 at 3:44 PM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+
+> Ah, the problem with the "commons" name :) If CC were named "Creative
+> License Choice" or the like I'd guess this would be less likely to
+> happen ;)
+>
+> Rufus
+>
+> 2009/7/1 John Wilbanks <wilbanks at creativecommons.org>:
+> > Yes, EoL has had some of the same problems as others in culture, thinking
+> > that CC licenses are internally compatible, which they of course are not.
+> SA
+> > licenses from CC are only compatible with themselves, for example.
+> >
+> > See "If I use a Creative Commons-licensed work to create a new work (ie a
+> > derivative work or adaptation), which Creative Commons license can I use
+> for
+> > my new work?" on our FAQ and that we blogged at
+> > http://creativecommons.org/weblog/entry/7145
+> >
+> > jtw
+> >
+> > Rufus Pollock wrote:
+> >>
+> >> Do you mean: is this an open science issue? Very much yes!
+> >>
+> >> As usual, it seems the main sticking point is going to be sorting out
+> >> an agreed open license for the material ...
+> >>
+> >> Last time I looked at the license situation on e.g. EoL seemed fairly
+> >> confusing with any one of main CC licenses (accepted) -- even though
+> >> some of these are mutually incompatible! More details on:
+> >>
+> >> <http://www.ckan.net/package/read/eol>
+> >>
+> >> Rufus
+> >>
+> >> 2009/6/26 Tim Schweizer <Tim.Schweizer at luther.edu>:
+> >>>
+> >>> Is open-science part of this?
+> >>> -Tim
+> >>>
+> >>> Tim Schweizer, Ph.D.
+> >>> Office: (001) 563.387.1131
+> >>> Mobile: (001) 563.581.9716
+> >>> E-mail: Tim.Schweizer at luther.edu
+> >>>
+> >>>
+> >>> Science 26 June 2009:
+> >>> Vol. 324. no. 5935, pp. 1632 - 1633
+> >>> DOI: 10.1126/science.324_1632News of the Week
+> >>>
+> >>> Biodiversity Databases Spread, Prompting Unification Call
+> >>>
+> >>> Claire Thomas
+> >>>
+> >>> Scientists increasingly recognize the value of collaborative,
+> open-access
+> >>> data sharing for understanding the world. But there's still a wide gap
+> >>> between wanting to share and figuring out how to do it right,
+> discovered
+> >>> those who attended an international meeting on biodiversity this month.
+> >>> The
+> >>> goal of e-Biosphere 09, a meeting for creators and users of the
+> >>> Encyclopedia
+> >>> of Life, the Consortium for the Barcode of Life, the Catalogue of Life,
+> >>> and
+> >>> other major efforts to build and manage open-access biodiversity
+> >>> databases,
+> >>> was to figure out how to combine data from at least 100 systems into
+> one
+> >>> gigantic, online, open-access database that will eventually cover all
+> >>> life
+> >>> on Earth, with lots of information, including primary research. But
+> >>> whether
+> >>> these researchers are ready to create one-stop shopping for
+> biodiversity
+> >>> remains to be seen.
+> >>>
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> _______________________________________________
+> >>> open-science mailing list
+> >>> open-science at lists.okfn.org
+> >>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+> >>>
+> >>>
+> >>
+> >>
+> >>
+> >
+> > --
+> >
+> > ----------------------------------------------------------------
+> > John Wilbanks
+> >
+> > VP for Science, Creative Commons
+> > http://creativecommons.org
+> > http://sciencecommons.org
+> > http://neurocommons.org
+> >
+> > "We make sharing easy, legal, and scalable."
+> > ----------------------------------------------------------------
+> >
+>
+>
+>
+> --
+> Join our "100 supporters pledge": http://www.pledgebank.com/support-okfn
+> Promoting Open Knowledge in a Digital Age - http://www.okfn.org/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090702/a82a189a/attachment.htm 
+
+From jonathan.gray at okfn.org  Tue Jul  7 16:03:30 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 7 Jul 2009 17:03:30 +0200
+Subject: [open-science] Scientific findings in a Digital World
+In-Reply-To: <D2A0B26E2F2C864FB0103F5F7272158C024B355E@w2k3-lonex1.ad.bl.uk>
+References: <54ca21750905200831m33e3997cgecac28367b0d6236@mail.gmail.com>
+	<D2A0B26E2F2C864FB0103F5F7272158C024B355E@w2k3-lonex1.ad.bl.uk>
+Message-ID: <54ca21750907070803p33c3f4a9g4a9d3d8986c0b489@mail.gmail.com>
+
+On Mon, Jul 6, 2009 at 2:48 PM, White, Ben<Ben.White at bl.uk> wrote:
+> http://www.bl.uk/reshelp/experthelp/science/talkscience/ournextevent/our
+> nextevent.html
+>
+> Dear All
+>
+> Jonathan Wilbanks, Executive Director of Science Commons will be
+> speaking at the BL on research, innovation, scientific communications on
+> 22nd July. I would be grateful if you could spread the word! (see the
+> attached.)
+
+Thanks for this Ben!
+
+I've passed this on to our open-science, ok-london and general discussion lists!
+
+Best wishes,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From stuart.macdonald at ed.ac.uk  Thu Jul  9 15:06:39 2009
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Thu, 09 Jul 2009 15:06:39 +0100
+Subject: [open-science] Beyond the Repository Fringe 2009 - keynote speakers
+	announcement
+Message-ID: <4A55F96F.5010407@ed.ac.uk>
+
+Apologies for cross-posting:
+
+Beyond the Repository Fringe 2009 - Call for Participation
+
+Place:                Informatics Forum, University of Edinburgh
+Date:                30th/31st July 2009
+Wiki:                 http://wiki.repositoryfringe.org/
+Email:                rf09 at ed.ac.uk
+Hashtag:           #RF09
+
+Sponsored by JISC, the Beyond the Repository Fringe 2009 event will be
+hosted by the  University of Edinburgh with support from the Digital
+Curation Centre, the School of  Informatics, EDINA, and Information
+Services, as well as UKOLN and EPrints.
+
+This year the Repository Fringe organisers aim to draw on and showcase
+a range of inspirational repository developments, including those 
+produced from
+the JISC Rapid Innovation and Repository and Preservation programmes, 
+plus various
+'barcamps', 'hackdays' and repository challenges.
+
+Designed for an audience of developers, repository managers and
+practitioners, the programme retains an 'unconference' feel to it, and 
+seeks to canvass
+contribution from a wide range of repository actors for:
+
+-        Live demonstrations of innovative work;
+-        "Pecha Kucha" presentations on any subject relating to
+current, or future repository endeavours (i.e. a presenter shows 20
+images for 20 seconds apiece, for a total time of 6 minutes, 40 seconds);
+-        Round Table discussions;
+-        Formal presentations or tutorials on related topics;
+-        A 'Code Challenge'
+
+Keynote speakers are Ben O'Steen, Sally Rumsey, and Clifford Lynch.
+Jordan Hatcher will also present on the Open Database Licence (ODbL).
+To accompany this event there will be a DCC Associates' Network
+meeting (delegates will be able to join the network and participate on
+the day) and a DISC-UK DataShare workshop on 'research data
+requirements and digital repositories'.
+
+The dates of the event coincide with the start of the Edinburgh
+Festival season, which includes the Jazz and Blues Festival (31 July - 9 
+Aug), the
+Festival Fringe (7 Aug - 31 Aug), the Edinburgh International Festival 
+(14 Aug - 6 Sept),
+and the Edinburgh Book Festival (15 Aug - 31 Aug), as well as the usual 
+impromptu street
+theatre, musicians and sideshows.
+
+Register for this free event and sign up for a 'performance' of your
+choice at: http://beyondtherepositoryfringe-emailinvite.eventbrite.com/
+
+University accommodation is available at pre-Festival prices on a 
+first-come,
+first-served basis.
+
+To book please contact the Bed and Breakfast Team
+on 0131 651 2007 or email them at bed.breakfast at ed.ac.uk.
+Alternatively visit: 
+http://www.edinburghfirst.com/accommodation/availability.asp
+
+For further enquiries contact: rf09 at ed.ac.uk.
+
+regards
+Stuart Macdonald
+RF09 Organising Committee
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+

@@ -1,0 +1,3421 @@
+From jonathan.gray at okfn.org  Wed Apr  3 22:07:36 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 3 Apr 2013 14:07:36 -0700
+Subject: [Open-access] Landmark ruling will enable more lifesaving generic
+ drugs in developing countries
+Message-ID: <CAELjFBu4Bufka6ftRf5dz4WOkusBWQzi0zYc6yXfTP0y3t8JMg@mail.gmail.com>
+
+Just posted this on the main Open Knowledge Foundation blog, which I
+thought might be of interest here!
+
+Landmark ruling will enable more lifesaving generic drugs in developing
+countries
+http://blog.okfn.org/2013/04/03/landmark-ruling-generic-drugs-india/
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130403/2b413df5/attachment.htm>
+
+From sam.leon at okfn.org  Thu Apr  4 16:29:30 2013
+From: sam.leon at okfn.org (Sam Leon)
+Date: Thu, 04 Apr 2013 08:29:30 -0700 (PDT)
+Subject: [Open-access] Landmark ruling will enable more lifesaving
+ generic drugs in developing countries
+In-Reply-To: <CAELjFBu4Bufka6ftRf5dz4WOkusBWQzi0zYc6yXfTP0y3t8JMg@mail.gmail.com>
+References: <CAELjFBu4Bufka6ftRf5dz4WOkusBWQzi0zYc6yXfTP0y3t8JMg@mail.gmail.com>
+Message-ID: <1365089369861.2f4cdea1@Nodemailer>
+
+Big news!
+?
+Sent from Mailbox for iPhone
+
+On Wed, Apr 3, 2013 at 10:32 PM, Jonathan Gray <jonathan.gray at okfn.org>
+wrote:
+
+> Just posted this on the main Open Knowledge Foundation blog, which I
+> thought might be of interest here!
+> Landmark ruling will enable more lifesaving generic drugs in developing
+> countries
+> http://blog.okfn.org/2013/04/03/landmark-ruling-generic-drugs-india/
+> -- 
+> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+> Director of Policy and Ideas
+> The Open Knowledge Foundation <http://okfn.org/> |
+> @okfn<http://twitter.com/okfn>
+> Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130404/ac6a97a1/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Apr  5 00:14:57 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 5 Apr 2013 00:14:57 +0100
+Subject: [Open-access] =?windows-1252?q?Will_Obama=92s_new_=24100m_brain_m?=
+	=?windows-1252?q?apping_project_be_open_access=3F?=
+Message-ID: <CAELjFBtpMHRf-F3y1rHVc0oe-EdZC0q750xsnz=7yJRWfsvyBQ@mail.gmail.com>
+
+FYI just posted this:
+
+http://blog.okfn.org/2013/04/04/will-obamas-new-100m-brain-mapping-project-be-open-access/
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/6a773992/attachment.htm>
+
+From jenny.molloy at okfn.org  Fri Apr  5 14:36:33 2013
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 5 Apr 2013 14:36:33 +0100
+Subject: [Open-access] Nature Scientific Data platform and doing science
+	with open data
+Message-ID: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+
+Hi All
+
+Many of you will have seen this recent press release, but for those who
+haven't:
+http://www.nature.com/press_releases/scientificdata.html
+
+This ties in with a recent blog post on doing science with open data, from
+Tom Heath at the Open Data Institute, looking at the questions
+* What are the implications of 'doing science' with open data?
+* What changes are required in how we approach scientific methods and
+findings based on open data?
+http://www.theodi.org/blog/on-data-science-with-open-data
+
+Your thoughts and comments welcome!
+
+Jenny
+
+NPG to launch Scientific Data to help scientists publish and reuse research
+data
+
+Nature Publishing Group (NPG) today is pleased to announce the Spring 2014
+launch of Scientific Data. Open for submissions this autumn, Scientific Data is
+a new open-access, online-only platform for the publication of descriptions
+of scientifically valuable datasets. Scientific Data will initially focus
+on experimental datasets from the life, biomedical and environmental
+science communities with future plans to expand to other fields in the
+natural sciences.
+
+Scientific Data will introduce and publish a new type of content called
+Data Descriptors: peer-reviewed, scientific publications that provide
+detailed descriptions of experimental and observational datasets. Data
+Descriptors will be a combination of traditional scientific publication
+content and structured information curated in-house, and are designed to
+maximize reuse and enable searching, linking and data mining. Data
+Descriptors may be associated with articles from a broad range of journals.
+
+"Over recent years researchers, funders and learned societies alike have
+been calling for new ways to make scientific research, and research data,
+more available, reusable and reproducible," says Jason Wilde, Nature
+Publishing Group Business Development Director. "Scientific Data's central
+mission is to help foster the sharing and re-use of the data underpinning
+scientific research."
+
+"Scientific Data will allow for the formal peer-review, publication and
+citation of data sets and will provide a real opportunity to promote open
+data and promote the re-use of data held by NERC and other research
+organisations," says Mark Thorley, Head of Science Information at the
+Natural Environment Research Council and Chair of the Research Councils UK
+Research Outputs Network.
+
+Scientific Data gives credit through a citable publication, for depositing
+and sharing research data. Data Description will be accessible and
+searchable via the Scientific Data online data platform, under a Creative
+Commons license. The actual data files will be stored in one or more
+public, community-recognized systems. The full release of Data Description
+and associated data will be verified as part of the peer-review process.
+Where a community recognized repository does not exist, Scientific
+Data supports
+the deposit of the data into a more general repository such as Dryad and
+Figshare. All accepted data descriptors will be published on payment of an
+article-processing charge (APC) that will also cover the Data Description
+curation process.
+
+Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+the University of Oxford e-Research Centre, has worked with the NPG team
+for the past months to define the Data Description?s concept; she has now
+been appointed Honorary Academic Editor of Scientific Data. She will work
+closely with the Advisory Panel which is comprised of senior scientists,
+data repository representatives, bio-curators, librarians, and funders who
+guide the policies, standards, and editorial scope.
+
+"The ongoing conversation around data curation, sharing and publication has
+become increasingly exciting as various organisations have moved to
+encourage and in some cases support the sharing and reuse of data in
+context," says Honorary Academic Editor Sansone. "To inform the internal
+development of Scientific Data, I will continue to stay abreast of the
+fast-paced fields of data management and scholarly communication."
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/e7b09989/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Apr  5 15:06:01 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 5 Apr 2013 15:06:01 +0100
+Subject: [Open-access] Nature Scientific Data platform and doing science
+ with open data
+In-Reply-To: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+Message-ID: <CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+
+This is great news. Perhaps we should put something about this on the main
+OKF blog - in particular noting how we hope this will be explicitly
+encouraging researchers to publish data openly, as per the Panton
+Principles?
+
+
+On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Hi All
+>
+> Many of you will have seen this recent press release, but for those who
+> haven't:
+> http://www.nature.com/press_releases/scientificdata.html
+>
+> This ties in with a recent blog post on doing science with open data, from
+> Tom Heath at the Open Data Institute, looking at the questions
+> * What are the implications of 'doing science' with open data?
+> * What changes are required in how we approach scientific methods and
+> findings based on open data?
+> http://www.theodi.org/blog/on-data-science-with-open-data
+>
+> Your thoughts and comments welcome!
+>
+> Jenny
+>
+> NPG to launch Scientific Data to help scientists publish and reuse
+> research data
+>
+> Nature Publishing Group (NPG) today is pleased to announce the Spring 2014
+> launch of Scientific Data. Open for submissions this autumn, Scientific
+> Data is a new open-access, online-only platform for the publication of
+> descriptions of scientifically valuable datasets. Scientific Data will
+> initially focus on experimental datasets from the life, biomedical and
+> environmental science communities with future plans to expand to other
+> fields in the natural sciences.
+>
+> Scientific Data will introduce and publish a new type of content called
+> Data Descriptors: peer-reviewed, scientific publications that provide
+> detailed descriptions of experimental and observational datasets. Data
+> Descriptors will be a combination of traditional scientific publication
+> content and structured information curated in-house, and are designed to
+> maximize reuse and enable searching, linking and data mining. Data
+> Descriptors may be associated with articles from a broad range of journals.
+>
+> "Over recent years researchers, funders and learned societies alike have
+> been calling for new ways to make scientific research, and research data,
+> more available, reusable and reproducible," says Jason Wilde, Nature
+> Publishing Group Business Development Director. "Scientific Data's
+> central mission is to help foster the sharing and re-use of the data
+> underpinning scientific research."
+>
+> "Scientific Data will allow for the formal peer-review, publication and
+> citation of data sets and will provide a real opportunity to promote open
+> data and promote the re-use of data held by NERC and other research
+> organisations," says Mark Thorley, Head of Science Information at the
+> Natural Environment Research Council and Chair of the Research Councils UK
+> Research Outputs Network.
+>
+> Scientific Data gives credit through a citable publication, for
+> depositing and sharing research data. Data Description will be accessible
+> and searchable via the Scientific Data online data platform, under a
+> Creative Commons license. The actual data files will be stored in one or
+> more public, community-recognized systems. The full release of Data
+> Description and associated data will be verified as part of the peer-review
+> process. Where a community recognized repository does not exist, Scientific
+> Data supports the deposit of the data into a more general repository such
+> as Dryad and Figshare. All accepted data descriptors will be published on
+> payment of an article-processing charge (APC) that will also cover the Data
+> Description curation process.
+>
+> Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+> the University of Oxford e-Research Centre, has worked with the NPG team
+> for the past months to define the Data Description?s concept; she has now
+> been appointed Honorary Academic Editor of Scientific Data. She will work
+> closely with the Advisory Panel which is comprised of senior scientists,
+> data repository representatives, bio-curators, librarians, and funders who
+> guide the policies, standards, and editorial scope.
+>
+> "The ongoing conversation around data curation, sharing and publication
+> has become increasingly exciting as various organisations have moved to
+> encourage and in some cases support the sharing and reuse of data in
+> context," says Honorary Academic Editor Sansone. "To inform the internal
+> development of Scientific Data, I will continue to stay abreast of the
+> fast-paced fields of data management and scholarly communication."
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/a61a0f10/attachment.htm>
+
+From ross.mounce at gmail.com  Fri Apr  5 15:27:18 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 5 Apr 2013 15:27:18 +0100
+Subject: [Open-access] Nature Scientific Data platform and doing science
+ with open data
+In-Reply-To: <CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+Message-ID: <CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+
+It's not all great news...
+
+They're doing their usual NPG quirk of charging more if the
+author chooses to publish under CC BY rather than CC BY-NC (they're
+offering a 'choice' of licences).
+see http://www.nature.com/scientificdata/open-access/
+
+?585 for more restrictive licencing & ?650 for CC BY.
+This will of course help authors to choose the cheaper more restrictive
+option :(
+
+I've blogged about this before:
+http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+
+There's also no absolute guarantee the data will be open data as per
+http://opendefinition.org/ either. The data will go to appropriate
+community databases in some instances, and some of these may not be open.
+
+
+So, yes it's good that Nature care about data, and may offer some of it as
+open data - but unfortunately I think it's quite likely that it won't all
+be open, and there are better more open, less expensive data journals out
+there.
+
+Best,
+
+Ross
+
+
+
+On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> This is great news. Perhaps we should put something about this on the main
+> OKF blog - in particular noting how we hope this will be explicitly
+> encouraging researchers to publish data openly, as per the Panton
+> Principles?
+>
+>
+> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>
+>> Hi All
+>>
+>> Many of you will have seen this recent press release, but for those who
+>> haven't:
+>> http://www.nature.com/press_releases/scientificdata.html
+>>
+>> This ties in with a recent blog post on doing science with open data,
+>> from Tom Heath at the Open Data Institute, looking at the questions
+>> * What are the implications of 'doing science' with open data?
+>> * What changes are required in how we approach scientific methods and
+>> findings based on open data?
+>> http://www.theodi.org/blog/on-data-science-with-open-data
+>>
+>> Your thoughts and comments welcome!
+>>
+>> Jenny
+>>
+>> NPG to launch Scientific Data to help scientists publish and reuse
+>> research data
+>>
+>> Nature Publishing Group (NPG) today is pleased to announce the Spring
+>> 2014 launch of Scientific Data. Open for submissions this autumn, Scientific
+>> Data is a new open-access, online-only platform for the publication of
+>> descriptions of scientifically valuable datasets. Scientific Data will
+>> initially focus on experimental datasets from the life, biomedical and
+>> environmental science communities with future plans to expand to other
+>> fields in the natural sciences.
+>>
+>> Scientific Data will introduce and publish a new type of content called
+>> Data Descriptors: peer-reviewed, scientific publications that provide
+>> detailed descriptions of experimental and observational datasets. Data
+>> Descriptors will be a combination of traditional scientific publication
+>> content and structured information curated in-house, and are designed to
+>> maximize reuse and enable searching, linking and data mining. Data
+>> Descriptors may be associated with articles from a broad range of journals.
+>>
+>> "Over recent years researchers, funders and learned societies alike have
+>> been calling for new ways to make scientific research, and research data,
+>> more available, reusable and reproducible," says Jason Wilde, Nature
+>> Publishing Group Business Development Director. "Scientific Data's
+>> central mission is to help foster the sharing and re-use of the data
+>> underpinning scientific research."
+>>
+>> "Scientific Data will allow for the formal peer-review, publication and
+>> citation of data sets and will provide a real opportunity to promote open
+>> data and promote the re-use of data held by NERC and other research
+>> organisations," says Mark Thorley, Head of Science Information at the
+>> Natural Environment Research Council and Chair of the Research Councils UK
+>> Research Outputs Network.
+>>
+>> Scientific Data gives credit through a citable publication, for
+>> depositing and sharing research data. Data Description will be accessible
+>> and searchable via the Scientific Data online data platform, under a
+>> Creative Commons license. The actual data files will be stored in one or
+>> more public, community-recognized systems. The full release of Data
+>> Description and associated data will be verified as part of the peer-review
+>> process. Where a community recognized repository does not exist, Scientific
+>> Data supports the deposit of the data into a more general repository
+>> such as Dryad and Figshare. All accepted data descriptors will be published
+>> on payment of an article-processing charge (APC) that will also cover the
+>> Data Description curation process.
+>>
+>> Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+>> the University of Oxford e-Research Centre, has worked with the NPG team
+>> for the past months to define the Data Description?s concept; she has now
+>> been appointed Honorary Academic Editor of Scientific Data. She will
+>> work closely with the Advisory Panel which is comprised of senior
+>> scientists, data repository representatives, bio-curators, librarians, and
+>> funders who guide the policies, standards, and editorial scope.
+>>
+>> "The ongoing conversation around data curation, sharing and publication
+>> has become increasingly exciting as various organisations have moved to
+>> encourage and in some cases support the sharing and reuse of data in
+>> context," says Honorary Academic Editor Sansone. "To inform the internal
+>> development of Scientific Data, I will continue to stay abreast of the
+>> fast-paced fields of data management and scholarly communication."
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>
+>>
+>
+>
+> --
+> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+> Director of Policy and Ideas
+> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+> Support our work: okfn.org/support
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/fc4a09de/attachment-0001.htm>
+
+From mike at indexdata.com  Fri Apr  5 16:23:20 2013
+From: mike at indexdata.com (Mike Taylor)
+Date: Fri, 5 Apr 2013 16:23:20 +0100
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+Message-ID: <CACnMvBbAnzFTRD3cNtUgq5OHxjpdV-n2uqDFMWc550R7W_60dg@mail.gmail.com>
+
+RIght. Nature are leaping onto an already-solved problem, offering an
+inferior and more expensive solution. Not today, thank you!
+
+-- Mike.
+
+
+On 5 April 2013 15:41, Mr. Puneet Kishor <punk.kish at gmail.com> wrote:
+> I am with Ross.
+>
+> Why wouldn't I just put my data in figshare or Dryad and be done with it? Creating these "Data Descriptors" seems like inventing a new kind of publication that wasn't necessarily needed. And the differential pricing for different licenses is just goofy signifying god knows what -- are different licenses worth different amounts? This sends just the wrong kind of message.
+>
+>
+> On Apr 5, 2013, at 7:27 AM, Ross Mounce <ross.mounce at gmail.com> wrote:
+>
+>> It's not all great news...
+>>
+>> They're doing their usual NPG quirk of charging more if the
+>> author chooses to publish under CC BY rather than CC BY-NC (they're
+>> offering a 'choice' of licences).
+>> see http://www.nature.com/scientificdata/open-access/
+>>
+>> ?585 for more restrictive licencing & ?650 for CC BY.
+>> This will of course help authors to choose the cheaper more restrictive
+>> option :(
+>>
+>> I've blogged about this before:
+>> http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+>>
+>> There's also no absolute guarantee the data will be open data as per
+>> http://opendefinition.org/ either. The data will go to appropriate
+>> community databases in some instances, and some of these may not be open.
+>>
+>>
+>> So, yes it's good that Nature care about data, and may offer some of it as
+>> open data - but unfortunately I think it's quite likely that it won't all
+>> be open, and there are better more open, less expensive data journals out
+>> there.
+>>
+>> Best,
+>>
+>> Ross
+>>
+>>
+>>
+>> On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>>
+>>> This is great news. Perhaps we should put something about this on the main
+>>> OKF blog - in particular noting how we hope this will be explicitly
+>>> encouraging researchers to publish data openly, as per the Panton
+>>> Principles?
+>>>
+>>>
+>>> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>>>
+>>>> Hi All
+>>>>
+>>>> Many of you will have seen this recent press release, but for those who
+>>>> haven't:
+>>>> http://www.nature.com/press_releases/scientificdata.html
+>>>>
+>>>> This ties in with a recent blog post on doing science with open data,
+>>>> from Tom Heath at the Open Data Institute, looking at the questions
+>>>> * What are the implications of 'doing science' with open data?
+>>>> * What changes are required in how we approach scientific methods and
+>>>> findings based on open data?
+>>>> http://www.theodi.org/blog/on-data-science-with-open-data
+>>>>
+>>>> Your thoughts and comments welcome!
+>>>>
+>>>> Jenny
+>>>>
+>>>> NPG to launch Scientific Data to help scientists publish and reuse
+>>>> research data
+>>>>
+>>>> Nature Publishing Group (NPG) today is pleased to announce the Spring
+>>>> 2014 launch of Scientific Data. Open for submissions this autumn, Scientific
+>>>> Data is a new open-access, online-only platform for the publication of
+>>>> descriptions of scientifically valuable datasets. Scientific Data will
+>>>> initially focus on experimental datasets from the life, biomedical and
+>>>> environmental science communities with future plans to expand to other
+>>>> fields in the natural sciences.
+>>>>
+>>>> Scientific Data will introduce and publish a new type of content called
+>>>> Data Descriptors: peer-reviewed, scientific publications that provide
+>>>> detailed descriptions of experimental and observational datasets. Data
+>>>> Descriptors will be a combination of traditional scientific publication
+>>>> content and structured information curated in-house, and are designed to
+>>>> maximize reuse and enable searching, linking and data mining. Data
+>>>> Descriptors may be associated with articles from a broad range of journals.
+>>>>
+>>>> "Over recent years researchers, funders and learned societies alike have
+>>>> been calling for new ways to make scientific research, and research data,
+>>>> more available, reusable and reproducible," says Jason Wilde, Nature
+>>>> Publishing Group Business Development Director. "Scientific Data's
+>>>> central mission is to help foster the sharing and re-use of the data
+>>>> underpinning scientific research."
+>>>>
+>>>> "Scientific Data will allow for the formal peer-review, publication and
+>>>> citation of data sets and will provide a real opportunity to promote open
+>>>> data and promote the re-use of data held by NERC and other research
+>>>> organisations," says Mark Thorley, Head of Science Information at the
+>>>> Natural Environment Research Council and Chair of the Research Councils UK
+>>>> Research Outputs Network.
+>>>>
+>>>> Scientific Data gives credit through a citable publication, for
+>>>> depositing and sharing research data. Data Description will be accessible
+>>>> and searchable via the Scientific Data online data platform, under a
+>>>> Creative Commons license. The actual data files will be stored in one or
+>>>> more public, community-recognized systems. The full release of Data
+>>>> Description and associated data will be verified as part of the peer-review
+>>>> process. Where a community recognized repository does not exist, Scientific
+>>>> Data supports the deposit of the data into a more general repository
+>>>> such as Dryad and Figshare. All accepted data descriptors will be published
+>>>> on payment of an article-processing charge (APC) that will also cover the
+>>>> Data Description curation process.
+>>>>
+>>>> Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+>>>> the University of Oxford e-Research Centre, has worked with the NPG team
+>>>> for the past months to define the Data Description?s concept; she has now
+>>>> been appointed Honorary Academic Editor of Scientific Data. She will
+>>>> work closely with the Advisory Panel which is comprised of senior
+>>>> scientists, data repository representatives, bio-curators, librarians, and
+>>>> funders who guide the policies, standards, and editorial scope.
+>>>>
+>>>> "The ongoing conversation around data curation, sharing and publication
+>>>> has become increasingly exciting as various organisations have moved to
+>>>> encourage and in some cases support the sharing and reuse of data in
+>>>> context," says Honorary Academic Editor Sansone. "To inform the internal
+>>>> development of Scientific Data, I will continue to stay abreast of the
+>>>> fast-paced fields of data management and scholarly communication."
+>>>>
+>>>> _______________________________________________
+>>>> open-access mailing list
+>>>> open-access at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+>>> Director of Policy and Ideas
+>>> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+>>> Support our work: okfn.org/support
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>>
+>>>
+>>
+>>
+>> --
+>> --
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> Ross Mounce
+>> PhD Student & Open Knowledge Foundation Panton Fellow
+>> Fossils, Phylogeny and Macroevolution Research Group
+>> University of Bath, 4 South Building, Lab 1.07
+>> http://about.me/rossmounce
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+
+
+From pm286 at cam.ac.uk  Fri Apr  5 23:08:19 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 5 Apr 2013 23:08:19 +0100
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <515EEF68.3000209@gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+Message-ID: <CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+
+On Fri, Apr 5, 2013 at 4:36 PM, Susanna-Assunta Sansone <
+sa.sansone at gmail.com> wrote:
+
+>  Hi Ross and Puneet,
+>
+> good to see discussion; I am happy also to collect feedback, given that my
+> role is also to provide an outward facing side to accelerate the
+> communication.
+>
+>   Wearing my *Un of Oxford's hat*, it is my opinion that the structured/searchable
+> information is CC0 and for the more traditional narrative content the
+> author is given the choice (but note that the ND option is *not* among
+> these). Scientific Data will work only with open community databases; so
+> far Data Dryad and FigShare are indeed open.
+>
+> The author is given strong financial incentive to choose the NC option. as
+the -BY option is more expensive There seems to be no justification for
+this other than commercial interests of Nature. If tthe scientific
+community (Wellcome, NIH, NSF, RCUK, etc.) is arguing for CC-BY then it's
+irresponsible (at best) for NPG to do otherwise.
+
+
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/9d31de3a/attachment.htm>
+
+From punk.kish at gmail.com  Fri Apr  5 15:41:19 2013
+From: punk.kish at gmail.com (Mr. Puneet Kishor)
+Date: Fri, 5 Apr 2013 07:41:19 -0700
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+	and doing science with open data
+In-Reply-To: <CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+Message-ID: <84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+
+I am with Ross.
+
+Why wouldn't I just put my data in figshare or Dryad and be done with it? Creating these "Data Descriptors" seems like inventing a new kind of publication that wasn't necessarily needed. And the differential pricing for different licenses is just goofy signifying god knows what -- are different licenses worth different amounts? This sends just the wrong kind of message.
+
+
+On Apr 5, 2013, at 7:27 AM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> It's not all great news...
+> 
+> They're doing their usual NPG quirk of charging more if the
+> author chooses to publish under CC BY rather than CC BY-NC (they're
+> offering a 'choice' of licences).
+> see http://www.nature.com/scientificdata/open-access/
+> 
+> ?585 for more restrictive licencing & ?650 for CC BY.
+> This will of course help authors to choose the cheaper more restrictive
+> option :(
+> 
+> I've blogged about this before:
+> http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+> 
+> There's also no absolute guarantee the data will be open data as per
+> http://opendefinition.org/ either. The data will go to appropriate
+> community databases in some instances, and some of these may not be open.
+> 
+> 
+> So, yes it's good that Nature care about data, and may offer some of it as
+> open data - but unfortunately I think it's quite likely that it won't all
+> be open, and there are better more open, less expensive data journals out
+> there.
+> 
+> Best,
+> 
+> Ross
+> 
+> 
+> 
+> On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> 
+>> This is great news. Perhaps we should put something about this on the main
+>> OKF blog - in particular noting how we hope this will be explicitly
+>> encouraging researchers to publish data openly, as per the Panton
+>> Principles?
+>> 
+>> 
+>> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>> 
+>>> Hi All
+>>> 
+>>> Many of you will have seen this recent press release, but for those who
+>>> haven't:
+>>> http://www.nature.com/press_releases/scientificdata.html
+>>> 
+>>> This ties in with a recent blog post on doing science with open data,
+>>> from Tom Heath at the Open Data Institute, looking at the questions
+>>> * What are the implications of 'doing science' with open data?
+>>> * What changes are required in how we approach scientific methods and
+>>> findings based on open data?
+>>> http://www.theodi.org/blog/on-data-science-with-open-data
+>>> 
+>>> Your thoughts and comments welcome!
+>>> 
+>>> Jenny
+>>> 
+>>> NPG to launch Scientific Data to help scientists publish and reuse
+>>> research data
+>>> 
+>>> Nature Publishing Group (NPG) today is pleased to announce the Spring
+>>> 2014 launch of Scientific Data. Open for submissions this autumn, Scientific
+>>> Data is a new open-access, online-only platform for the publication of
+>>> descriptions of scientifically valuable datasets. Scientific Data will
+>>> initially focus on experimental datasets from the life, biomedical and
+>>> environmental science communities with future plans to expand to other
+>>> fields in the natural sciences.
+>>> 
+>>> Scientific Data will introduce and publish a new type of content called
+>>> Data Descriptors: peer-reviewed, scientific publications that provide
+>>> detailed descriptions of experimental and observational datasets. Data
+>>> Descriptors will be a combination of traditional scientific publication
+>>> content and structured information curated in-house, and are designed to
+>>> maximize reuse and enable searching, linking and data mining. Data
+>>> Descriptors may be associated with articles from a broad range of journals.
+>>> 
+>>> "Over recent years researchers, funders and learned societies alike have
+>>> been calling for new ways to make scientific research, and research data,
+>>> more available, reusable and reproducible," says Jason Wilde, Nature
+>>> Publishing Group Business Development Director. "Scientific Data's
+>>> central mission is to help foster the sharing and re-use of the data
+>>> underpinning scientific research."
+>>> 
+>>> "Scientific Data will allow for the formal peer-review, publication and
+>>> citation of data sets and will provide a real opportunity to promote open
+>>> data and promote the re-use of data held by NERC and other research
+>>> organisations," says Mark Thorley, Head of Science Information at the
+>>> Natural Environment Research Council and Chair of the Research Councils UK
+>>> Research Outputs Network.
+>>> 
+>>> Scientific Data gives credit through a citable publication, for
+>>> depositing and sharing research data. Data Description will be accessible
+>>> and searchable via the Scientific Data online data platform, under a
+>>> Creative Commons license. The actual data files will be stored in one or
+>>> more public, community-recognized systems. The full release of Data
+>>> Description and associated data will be verified as part of the peer-review
+>>> process. Where a community recognized repository does not exist, Scientific
+>>> Data supports the deposit of the data into a more general repository
+>>> such as Dryad and Figshare. All accepted data descriptors will be published
+>>> on payment of an article-processing charge (APC) that will also cover the
+>>> Data Description curation process.
+>>> 
+>>> Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+>>> the University of Oxford e-Research Centre, has worked with the NPG team
+>>> for the past months to define the Data Description?s concept; she has now
+>>> been appointed Honorary Academic Editor of Scientific Data. She will
+>>> work closely with the Advisory Panel which is comprised of senior
+>>> scientists, data repository representatives, bio-curators, librarians, and
+>>> funders who guide the policies, standards, and editorial scope.
+>>> 
+>>> "The ongoing conversation around data curation, sharing and publication
+>>> has become increasingly exciting as various organisations have moved to
+>>> encourage and in some cases support the sharing and reuse of data in
+>>> context," says Honorary Academic Editor Sansone. "To inform the internal
+>>> development of Scientific Data, I will continue to stay abreast of the
+>>> fast-paced fields of data management and scholarly communication."
+>>> 
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>> 
+>>> 
+>> 
+>> 
+>> --
+>> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+>> Director of Policy and Ideas
+>> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+>> Support our work: okfn.org/support
+>> 
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>> 
+>> 
+> 
+> 
+> -- 
+> -- 
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+
+
+From sa.sansone at gmail.com  Fri Apr  5 16:36:08 2013
+From: sa.sansone at gmail.com (Susanna-Assunta Sansone)
+Date: Fri, 05 Apr 2013 16:36:08 +0100
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+Message-ID: <515EEF68.3000209@gmail.com>
+
+Hi Ross and Puneet,
+
+good to see discussion; I am happy also to collect feedback, given that 
+my role is also to provide an outward facing side to accelerate the 
+communication.
+
+Hi Ross, just to point out this text too: "Metadata in the Data 
+Descriptors will be made available under the CC0 protocol to promote 
+maximum reuse." (http://www.nature.com/scientificdata/open-access/)
+The Data Descriptors (see 
+http://www.nature.com/scientificdata/for-authors/data-descriptor-content-and-submission/) 
+will consist of both traditional narrative publication content and 
+structured information, including key experimental metadata, that 
+describes the dataset in a standardized, searchable format to aide reuse 
+and discovery. Wearing my _Un of Oxford's hat_, it is my opinion that 
+the structured/searchable information is CC0 and for the more 
+traditional narrative content the author is given the choice (but note 
+that the ND option is _not_ among these). Scientific Data will work only 
+with open community databases; so far Data Dryad and FigShare are indeed 
+open.
+
+Hi Puneet, just to clarify that Data Descriptors are not mean to replace 
+e.g. DataCite metadata for traditional articles; but are meant to 
+describe the experimental steps. There are many many 
+(researchers-driven) community standardization efforts that want these 
+experimental steps richly described and standardized (fyi, see list for 
+biosciences at: http://biosharing.org/standards) so that when a dataset 
+is shared it can be understood, reused and in principle reproduced. 
+Therefore helping publish these experimental descriptors (using 
+community-0standrads as much as possible) is addressing a real need.
+
+Btw, for those attending the http://rigourandopenness.org/ I will be 
+there for more discussion.
+
+Thanks,
+Susanna
+
+Susanna-Assunta Sansone, PhD
+skype: susanna-a.sansone
+uk.linkedin.com/in/sasansone
+
+University of Oxford e-Research Centre
+Associate Director, Principal Investigator
+www.isacommons.org|www.biosharing.org
+
+Nature Publishing Group
+Consultant, Scientific Data
+www.nature.com/scientificdata
+--
+
+On 05/04/2013 15:41, Mr. Puneet Kishor wrote:
+> I am with Ross.
+>
+> Why wouldn't I just put my data in figshare or Dryad and be done with it? Creating these "Data Descriptors" seems like inventing a new kind of publication that wasn't necessarily needed. And the differential pricing for different licenses is just goofy signifying god knows what -- are different licenses worth different amounts? This sends just the wrong kind of message.
+>
+>
+> On Apr 5, 2013, at 7:27 AM, Ross Mounce <ross.mounce at gmail.com> wrote:
+>
+>> It's not all great news...
+>>
+>> They're doing their usual NPG quirk of charging more if the
+>> author chooses to publish under CC BY rather than CC BY-NC (they're
+>> offering a 'choice' of licences).
+>> see http://www.nature.com/scientificdata/open-access/
+>>
+>> ?585 for more restrictive licencing & ?650 for CC BY.
+>> This will of course help authors to choose the cheaper more restrictive
+>> option :(
+>>
+>> I've blogged about this before:
+>> http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+>>
+>> There's also no absolute guarantee the data will be open data as per
+>> http://opendefinition.org/ either. The data will go to appropriate
+>> community databases in some instances, and some of these may not be open.
+>>
+>>
+>> So, yes it's good that Nature care about data, and may offer some of it as
+>> open data - but unfortunately I think it's quite likely that it won't all
+>> be open, and there are better more open, less expensive data journals out
+>> there.
+>>
+>> Best,
+>>
+>> Ross
+>>
+>>
+>>
+>> On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>>
+>>> This is great news. Perhaps we should put something about this on the main
+>>> OKF blog - in particular noting how we hope this will be explicitly
+>>> encouraging researchers to publish data openly, as per the Panton
+>>> Principles?
+>>>
+>>>
+>>> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>>>
+>>>> Hi All
+>>>>
+>>>> Many of you will have seen this recent press release, but for those who
+>>>> haven't:
+>>>> http://www.nature.com/press_releases/scientificdata.html
+>>>>
+>>>> This ties in with a recent blog post on doing science with open data,
+>>>> from Tom Heath at the Open Data Institute, looking at the questions
+>>>> * What are the implications of 'doing science' with open data?
+>>>> * What changes are required in how we approach scientific methods and
+>>>> findings based on open data?
+>>>> http://www.theodi.org/blog/on-data-science-with-open-data
+>>>>
+>>>> Your thoughts and comments welcome!
+>>>>
+>>>> Jenny
+>>>>
+>>>> NPG to launch Scientific Data to help scientists publish and reuse
+>>>> research data
+>>>>
+>>>> Nature Publishing Group (NPG) today is pleased to announce the Spring
+>>>> 2014 launch of Scientific Data. Open for submissions this autumn, Scientific
+>>>> Data is a new open-access, online-only platform for the publication of
+>>>> descriptions of scientifically valuable datasets. Scientific Data will
+>>>> initially focus on experimental datasets from the life, biomedical and
+>>>> environmental science communities with future plans to expand to other
+>>>> fields in the natural sciences.
+>>>>
+>>>> Scientific Data will introduce and publish a new type of content called
+>>>> Data Descriptors: peer-reviewed, scientific publications that provide
+>>>> detailed descriptions of experimental and observational datasets. Data
+>>>> Descriptors will be a combination of traditional scientific publication
+>>>> content and structured information curated in-house, and are designed to
+>>>> maximize reuse and enable searching, linking and data mining. Data
+>>>> Descriptors may be associated with articles from a broad range of journals.
+>>>>
+>>>> "Over recent years researchers, funders and learned societies alike have
+>>>> been calling for new ways to make scientific research, and research data,
+>>>> more available, reusable and reproducible," says Jason Wilde, Nature
+>>>> Publishing Group Business Development Director. "Scientific Data's
+>>>> central mission is to help foster the sharing and re-use of the data
+>>>> underpinning scientific research."
+>>>>
+>>>> "Scientific Data will allow for the formal peer-review, publication and
+>>>> citation of data sets and will provide a real opportunity to promote open
+>>>> data and promote the re-use of data held by NERC and other research
+>>>> organisations," says Mark Thorley, Head of Science Information at the
+>>>> Natural Environment Research Council and Chair of the Research Councils UK
+>>>> Research Outputs Network.
+>>>>
+>>>> Scientific Data gives credit through a citable publication, for
+>>>> depositing and sharing research data. Data Description will be accessible
+>>>> and searchable via the Scientific Data online data platform, under a
+>>>> Creative Commons license. The actual data files will be stored in one or
+>>>> more public, community-recognized systems. The full release of Data
+>>>> Description and associated data will be verified as part of the peer-review
+>>>> process. Where a community recognized repository does not exist, Scientific
+>>>> Data supports the deposit of the data into a more general repository
+>>>> such as Dryad and Figshare. All accepted data descriptors will be published
+>>>> on payment of an article-processing charge (APC) that will also cover the
+>>>> Data Description curation process.
+>>>>
+>>>> Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+>>>> the University of Oxford e-Research Centre, has worked with the NPG team
+>>>> for the past months to define the Data Description?s concept; she has now
+>>>> been appointed Honorary Academic Editor of Scientific Data. She will
+>>>> work closely with the Advisory Panel which is comprised of senior
+>>>> scientists, data repository representatives, bio-curators, librarians, and
+>>>> funders who guide the policies, standards, and editorial scope.
+>>>>
+>>>> "The ongoing conversation around data curation, sharing and publication
+>>>> has become increasingly exciting as various organisations have moved to
+>>>> encourage and in some cases support the sharing and reuse of data in
+>>>> context," says Honorary Academic Editor Sansone. "To inform the internal
+>>>> development of Scientific Data, I will continue to stay abreast of the
+>>>> fast-paced fields of data management and scholarly communication."
+>>>>
+>>>> _______________________________________________
+>>>> open-access mailing list
+>>>> open-access at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>>>
+>>>>
+>>>
+>>> --
+>>> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+>>> Director of Policy and Ideas
+>>> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+>>> Support our work: okfn.org/support
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>>>
+>>>
+>>
+>> -- 
+>> -- 
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> Ross Mounce
+>> PhD Student & Open Knowledge Foundation Panton Fellow
+>> Fossils, Phylogeny and Macroevolution Research Group
+>> University of Bath, 4 South Building, Lab 1.07
+>> http://about.me/rossmounce
+>> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/6c23ca26/attachment-0001.htm>
+
+From tfmorris at gmail.com  Fri Apr  5 17:15:44 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Fri, 5 Apr 2013 12:15:44 -0400
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+Message-ID: <CAE9vqEE-HpW=4gyoLf+1A5R7ra2AAT3ZOcioSO2WdRJDza0dKA@mail.gmail.com>
+
+Yes, any discussion of this should definitely mention the solutions which
+are already in place like Figshare (and even OKFN's own CKAN/TheDataHub).
+ Highlighting the growing recognition of the importance of data publishing
+would be a useful blog post, but it would be better to survey the landscape
+than focus on Nature.
+
+There's also something a little perverse about their idea that to be
+"citable" you need to be blessed by a big publishing house. DOIs and even
+plain old garden variety URIs are eminently citable.  Of course, what they
+mean is "citable in a way that will grant you ivory tower kudos," which
+ties back in to the whole altmetrics discussion.
+
+Tom
+
+
+On Fri, Apr 5, 2013 at 10:41 AM, Mr. Puneet Kishor <punk.kish at gmail.com>wrote:
+
+> I am with Ross.
+>
+> Why wouldn't I just put my data in figshare or Dryad and be done with it?
+> Creating these "Data Descriptors" seems like inventing a new kind of
+> publication that wasn't necessarily needed. And the differential pricing
+> for different licenses is just goofy signifying god knows what -- are
+> different licenses worth different amounts? This sends just the wrong kind
+> of message.
+>
+>
+> On Apr 5, 2013, at 7:27 AM, Ross Mounce <ross.mounce at gmail.com> wrote:
+>
+> > It's not all great news...
+> >
+> > They're doing their usual NPG quirk of charging more if the
+> > author chooses to publish under CC BY rather than CC BY-NC (they're
+> > offering a 'choice' of licences).
+> > see http://www.nature.com/scientificdata/open-access/
+> >
+> > ?585 for more restrictive licencing & ?650 for CC BY.
+> > This will of course help authors to choose the cheaper more restrictive
+> > option :(
+> >
+> > I've blogged about this before:
+> > http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+> >
+> > There's also no absolute guarantee the data will be open data as per
+> > http://opendefinition.org/ either. The data will go to appropriate
+> > community databases in some instances, and some of these may not be open.
+> >
+> >
+> > So, yes it's good that Nature care about data, and may offer some of it
+> as
+> > open data - but unfortunately I think it's quite likely that it won't all
+> > be open, and there are better more open, less expensive data journals out
+> > there.
+> >
+> > Best,
+> >
+> > Ross
+> >
+> >
+> >
+> > On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> >
+> >> This is great news. Perhaps we should put something about this on the
+> main
+> >> OKF blog - in particular noting how we hope this will be explicitly
+> >> encouraging researchers to publish data openly, as per the Panton
+> >> Principles?
+> >>
+> >>
+> >> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> >>
+> >>> Hi All
+> >>>
+> >>> Many of you will have seen this recent press release, but for those who
+> >>> haven't:
+> >>> http://www.nature.com/press_releases/scientificdata.html
+> >>>
+> >>> This ties in with a recent blog post on doing science with open data,
+> >>> from Tom Heath at the Open Data Institute, looking at the questions
+> >>> * What are the implications of 'doing science' with open data?
+> >>> * What changes are required in how we approach scientific methods and
+> >>> findings based on open data?
+> >>> http://www.theodi.org/blog/on-data-science-with-open-data
+> >>>
+> >>> Your thoughts and comments welcome!
+> >>>
+> >>> Jenny
+> >>>
+> >>> NPG to launch Scientific Data to help scientists publish and reuse
+> >>> research data
+> >>>
+> >>> Nature Publishing Group (NPG) today is pleased to announce the Spring
+> >>> 2014 launch of Scientific Data. Open for submissions this autumn,
+> Scientific
+> >>> Data is a new open-access, online-only platform for the publication of
+> >>> descriptions of scientifically valuable datasets. Scientific Data will
+> >>> initially focus on experimental datasets from the life, biomedical and
+> >>> environmental science communities with future plans to expand to other
+> >>> fields in the natural sciences.
+> >>>
+> >>> Scientific Data will introduce and publish a new type of content called
+> >>> Data Descriptors: peer-reviewed, scientific publications that provide
+> >>> detailed descriptions of experimental and observational datasets. Data
+> >>> Descriptors will be a combination of traditional scientific publication
+> >>> content and structured information curated in-house, and are designed
+> to
+> >>> maximize reuse and enable searching, linking and data mining. Data
+> >>> Descriptors may be associated with articles from a broad range of
+> journals.
+> >>>
+> >>> "Over recent years researchers, funders and learned societies alike
+> have
+> >>> been calling for new ways to make scientific research, and research
+> data,
+> >>> more available, reusable and reproducible," says Jason Wilde, Nature
+> >>> Publishing Group Business Development Director. "Scientific Data's
+> >>> central mission is to help foster the sharing and re-use of the data
+> >>> underpinning scientific research."
+> >>>
+> >>> "Scientific Data will allow for the formal peer-review, publication and
+> >>> citation of data sets and will provide a real opportunity to promote
+> open
+> >>> data and promote the re-use of data held by NERC and other research
+> >>> organisations," says Mark Thorley, Head of Science Information at the
+> >>> Natural Environment Research Council and Chair of the Research
+> Councils UK
+> >>> Research Outputs Network.
+> >>>
+> >>> Scientific Data gives credit through a citable publication, for
+> >>> depositing and sharing research data. Data Description will be
+> accessible
+> >>> and searchable via the Scientific Data online data platform, under a
+> >>> Creative Commons license. The actual data files will be stored in one
+> or
+> >>> more public, community-recognized systems. The full release of Data
+> >>> Description and associated data will be verified as part of the
+> peer-review
+> >>> process. Where a community recognized repository does not exist,
+> Scientific
+> >>> Data supports the deposit of the data into a more general repository
+> >>> such as Dryad and Figshare. All accepted data descriptors will be
+> published
+> >>> on payment of an article-processing charge (APC) that will also cover
+> the
+> >>> Data Description curation process.
+> >>>
+> >>> Susanna-Assunta Sansone, Associate Director and Principal Investigator
+> at
+> >>> the University of Oxford e-Research Centre, has worked with the NPG
+> team
+> >>> for the past months to define the Data Description?s concept; she has
+> now
+> >>> been appointed Honorary Academic Editor of Scientific Data. She will
+> >>> work closely with the Advisory Panel which is comprised of senior
+> >>> scientists, data repository representatives, bio-curators, librarians,
+> and
+> >>> funders who guide the policies, standards, and editorial scope.
+> >>>
+> >>> "The ongoing conversation around data curation, sharing and publication
+> >>> has become increasingly exciting as various organisations have moved to
+> >>> encourage and in some cases support the sharing and reuse of data in
+> >>> context," says Honorary Academic Editor Sansone. "To inform the
+> internal
+> >>> development of Scientific Data, I will continue to stay abreast of the
+> >>> fast-paced fields of data management and scholarly communication."
+> >>>
+> >>> _______________________________________________
+> >>> open-access mailing list
+> >>> open-access at lists.okfn.org
+> >>> http://lists.okfn.org/mailman/listinfo/open-access
+> >>> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >>>
+> >>>
+> >>
+> >>
+> >> --
+> >> Jonathan Gray <http://jonathangray.org/> | @jwyg <
+> http://twitter.com/jwyg>
+> >> Director of Policy and Ideas
+> >> The Open Knowledge Foundation <http://okfn.org/> | @okfn<
+> http://twitter.com/okfn>
+> >> Support our work: okfn.org/support
+> >>
+> >> _______________________________________________
+> >> open-access mailing list
+> >> open-access at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-access
+> >> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >>
+> >>
+> >
+> >
+> > --
+> > --
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > Ross Mounce
+> > PhD Student & Open Knowledge Foundation Panton Fellow
+> > Fossils, Phylogeny and Macroevolution Research Group
+> > University of Bath, 4 South Building, Lab 1.07
+> > http://about.me/rossmounce
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/81bebc8b/attachment-0001.htm>
+
+From hgmorris at sfu.ca  Fri Apr  5 17:27:21 2013
+From: hgmorris at sfu.ca (Heather Morrison)
+Date: Fri, 5 Apr 2013 09:27:21 -0700
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+	and doing science with open data
+In-Reply-To: <CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+Message-ID: <ECD17867-6943-4881-8EF5-37E6B9FF3935@sfu.ca>
+
+Researchers could be deposited their data in their local repositories at no cost to them; most research institutions already have the repositories, so this is a bit of extra work / computer space but in most cases not much more. The peer review as usual will be done by researchers at no cost to the publisher. Publishers moving into this arena on a for-pay basis is not great news. 
+
+This whole system - free gifting of academic work in the form of research results and reviewing - rests on the assumption of secure academic positions at universities. What impact will trends such as MOOCs and automatic grading have on this system? 
+
+If we move forward towards transitioning scholarly communication to open access without addressing this question, are we in effect killing the goose that is laying those golden eggs?
+
+best,
+
+Dr. Heather Morrison
+Freedom for scholarship in the internet age
+http://summit.sfu.ca/item/12537
+
+
+
+On 2013-04-05, at 7:27 AM, Ross Mounce wrote:
+
+> It's not all great news...
+> 
+> They're doing their usual NPG quirk of charging more if the author chooses to publish under CC BY rather than CC BY-NC (they're offering a 'choice' of licences).
+> see http://www.nature.com/scientificdata/open-access/
+> 
+> ?585 for more restrictive licencing & ?650 for CC BY.
+> This will of course help authors to choose the cheaper more restrictive option :(
+> 
+> I've blogged about this before: http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+> 
+> There's also no absolute guarantee the data will be open data as per http://opendefinition.org/ either. The data will go to appropriate community databases in some instances, and some of these may not be open.
+> 
+> 
+> So, yes it's good that Nature care about data, and may offer some of it as open data - but unfortunately I think it's quite likely that it won't all be open, and there are better more open, less expensive data journals out there.
+> 
+> Best,
+> 
+> Ross
+> 
+> 
+> 
+> On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> This is great news. Perhaps we should put something about this on the main OKF blog - in particular noting how we hope this will be explicitly encouraging researchers to publish data openly, as per the Panton Principles?
+> 
+> 
+> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> Hi All
+> 
+> Many of you will have seen this recent press release, but for those who haven't:
+> http://www.nature.com/press_releases/scientificdata.html
+> 
+> This ties in with a recent blog post on doing science with open data, from Tom Heath at the Open Data Institute, looking at the questions
+> * What are the implications of 'doing science' with open data?
+> * What changes are required in how we approach scientific methods and findings based on open data?
+> http://www.theodi.org/blog/on-data-science-with-open-data
+> 
+> Your thoughts and comments welcome! 
+> 
+> Jenny
+> 
+> NPG to launch Scientific Data to help scientists publish and reuse research data
+> Nature Publishing Group (NPG) today is pleased to announce the Spring 2014 launch of Scientific Data. Open for submissions this autumn, Scientific Data is a new open-access, online-only platform for the publication of descriptions of scientifically valuable datasets. Scientific Data will initially focus on experimental datasets from the life, biomedical and environmental science communities with future plans to expand to other fields in the natural sciences.
+> Scientific Data will introduce and publish a new type of content called Data Descriptors: peer-reviewed, scientific publications that provide detailed descriptions of experimental and observational datasets. Data Descriptors will be a combination of traditional scientific publication content and structured information curated in-house, and are designed to maximize reuse and enable searching, linking and data mining. Data Descriptors may be associated with articles from a broad range of journals.
+> "Over recent years researchers, funders and learned societies alike have been calling for new ways to make scientific research, and research data, more available, reusable and reproducible," says Jason Wilde, Nature Publishing Group Business Development Director. "Scientific Data's central mission is to help foster the sharing and re-use of the data underpinning scientific research."
+> "Scientific Data will allow for the formal peer-review, publication and citation of data sets and will provide a real opportunity to promote open data and promote the re-use of data held by NERC and other research organisations," says Mark Thorley, Head of Science Information at the Natural Environment Research Council and Chair of the Research Councils UK Research Outputs Network.
+> Scientific Data gives credit through a citable publication, for depositing and sharing research data. Data Description will be accessible and searchable via the Scientific Data online data platform, under a Creative Commons license. The actual data files will be stored in one or more public, community-recognized systems. The full release of Data Description and associated data will be verified as part of the peer-review process. Where a community recognized repository does not exist, Scientific Data supports the deposit of the data into a more general repository such as Dryad and Figshare. All accepted data descriptors will be published on payment of an article-processing charge (APC) that will also cover the Data Description curation process.
+> Susanna-Assunta Sansone, Associate Director and Principal Investigator at the University of Oxford e-Research Centre, has worked with the NPG team for the past months to define the Data Description?s concept; she has now been appointed Honorary Academic Editor of Scientific Data. She will work closely with the Advisory Panel which is comprised of senior scientists, data repository representatives, bio-curators, librarians, and funders who guide the policies, standards, and editorial scope.
+> "The ongoing conversation around data curation, sharing and publication has become increasingly exciting as various organisations have moved to encourage and in some cases support the sharing and reuse of data in context," says Honorary Academic Editor Sansone. "To inform the internal development of Scientific Data, I will continue to stay abreast of the fast-paced fields of data management and scholarly communication."
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> 
+> 
+> 
+> 
+> -- 
+> Jonathan Gray | @jwyg
+> Director of Policy and Ideas
+> The Open Knowledge Foundation | @okfn
+> Support our work: okfn.org/support
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> 
+> 
+> 
+> 
+> -- 
+> -- 
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+
+
+
+From cboettig at gmail.com  Fri Apr  5 18:11:43 2013
+From: cboettig at gmail.com (Carl Boettiger)
+Date: Fri, 5 Apr 2013 10:11:43 -0700
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <515EEF68.3000209@gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+Message-ID: <CAN_1p9wUsv3-Kti13fLuG2sTF4bAM4FY7nJrAKxSMQjPUmopjw@mail.gmail.com>
+
+Susanna,
+
+Thank you for your comments.  It is indeed welcome that metadata are
+provided under CC0, just as Nature has done with metadata for it's other
+publications [1].  Such efforts deserve applause as an example to other
+publishers; and it is telling that it seems we must look
+to business-driven publishers (Nature, PeerJ) rather than our own
+scientific societies (AAAS?) for such innovation.  The perverse incentives
+in licensing costs that Ross draws attention to are perhaps the sad price
+we pay for that.
+
+I was wondering if you or others might comment in any greater length upon
+Tom's question about "citable".  We hear frequently how a DOI makes
+something "citable".  Journals have their own requirements about what can
+and cannot be "cited" -- perhaps they are driven by what sources are or
+aren't indexed by Thompson Reuters or others?  For instance, it is curious
+that Nature will frequently provide links in articles, but these are not
+indexed as citations.  Who controls what is "citable" - the DOI providers?
+the citation counters? the journal? the researchers themselves?
+
+[1] http://www.nature.com/press_releases/linkeddata.html
+
+
+Cheers,
+Carl
+
+
+On Fri, Apr 5, 2013 at 8:36 AM, Susanna-Assunta Sansone <
+sa.sansone at gmail.com> wrote:
+
+>  Hi Ross and Puneet,
+>
+> good to see discussion; I am happy also to collect feedback, given that my
+> role is also to provide an outward facing side to accelerate the
+> communication.
+>
+> Hi Ross, just to point out this text too: "Metadata in the Data
+> Descriptors will be made available under the CC0 protocol to promote
+> maximum reuse." (http://www.nature.com/scientificdata/open-access/)
+> The Data Descriptors (see
+> http://www.nature.com/scientificdata/for-authors/data-descriptor-content-and-submission/)
+> will consist of both traditional narrative publication content and
+> structured information, including key experimental metadata, that describes
+> the dataset in a standardized, searchable format to aide reuse and discovery.
+> Wearing my *Un of Oxford's hat*, it is my opinion that the structured/searchable
+> information is CC0 and for the more traditional narrative content the
+> author is given the choice (but note that the ND option is *not* among
+> these). Scientific Data will work only with open community databases; so
+> far Data Dryad and FigShare are indeed open.
+>
+> Hi Puneet, just to clarify that Data Descriptors are not mean to replace
+> e.g. DataCite metadata for traditional articles; but are meant to
+> describe the experimental steps. There are many many (researchers-driven)
+> community standardization efforts that want these experimental steps
+> richly described and standardized (fyi, see list for biosciences at:
+> http://biosharing.org/standards) so that when a dataset is shared it can
+> be understood, reused and in principle reproduced. Therefore helping
+> publish these experimental descriptors (using community-0standrads as
+> much as possible) is addressing a real need.
+>
+> Btw, for those attending the http://rigourandopenness.org/ I will be
+> there for more discussion.
+>
+> Thanks,
+> Susanna
+>
+> Susanna-Assunta Sansone, PhD
+> skype: susanna-a.sansoneuk.linkedin.com/in/sasansone
+>
+> University of Oxford e-Research Centre
+> Associate Director, Principal Investigatorwww.isacommons.org|www.biosharing.org
+>
+> Nature Publishing Group
+> Consultant, Scientific Datawww.nature.com/scientificdata
+> --
+>
+>  On 05/04/2013 15:41, Mr. Puneet Kishor wrote:
+>
+> I am with Ross.
+>
+> Why wouldn't I just put my data in figshare or Dryad and be done with it? Creating these "Data Descriptors" seems like inventing a new kind of publication that wasn't necessarily needed. And the differential pricing for different licenses is just goofy signifying god knows what -- are different licenses worth different amounts? This sends just the wrong kind of message.
+>
+>
+> On Apr 5, 2013, at 7:27 AM, Ross Mounce <ross.mounce at gmail.com> <ross.mounce at gmail.com> wrote:
+>
+>
+>  It's not all great news...
+>
+> They're doing their usual NPG quirk of charging more if the
+> author chooses to publish under CC BY rather than CC BY-NC (they're
+> offering a 'choice' of licences).
+> see http://www.nature.com/scientificdata/open-access/
+>
+> ?585 for more restrictive licencing & ?650 for CC BY.
+> This will of course help authors to choose the cheaper more restrictive
+> option :(
+>
+> I've blogged about this before:http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+>
+> There's also no absolute guarantee the data will be open data as perhttp://opendefinition.org/ either. The data will go to appropriate
+> community databases in some instances, and some of these may not be open.
+>
+>
+> So, yes it's good that Nature care about data, and may offer some of it as
+> open data - but unfortunately I think it's quite likely that it won't all
+> be open, and there are better more open, less expensive data journals out
+> there.
+>
+> Best,
+>
+> Ross
+>
+>
+>
+> On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> <jonathan.gray at okfn.org> wrote:
+>
+>
+>  This is great news. Perhaps we should put something about this on the main
+> OKF blog - in particular noting how we hope this will be explicitly
+> encouraging researchers to publish data openly, as per the Panton
+> Principles?
+>
+>
+> On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> <jenny.molloy at okfn.org> wrote:
+>
+>
+>  Hi All
+>
+> Many of you will have seen this recent press release, but for those who
+> haven't:http://www.nature.com/press_releases/scientificdata.html
+>
+> This ties in with a recent blog post on doing science with open data,
+> from Tom Heath at the Open Data Institute, looking at the questions
+> * What are the implications of 'doing science' with open data?
+> * What changes are required in how we approach scientific methods and
+> findings based on open data?http://www.theodi.org/blog/on-data-science-with-open-data
+>
+> Your thoughts and comments welcome!
+>
+> Jenny
+>
+> NPG to launch Scientific Data to help scientists publish and reuse
+> research data
+>
+> Nature Publishing Group (NPG) today is pleased to announce the Spring
+> 2014 launch of Scientific Data. Open for submissions this autumn, Scientific
+> Data is a new open-access, online-only platform for the publication of
+> descriptions of scientifically valuable datasets. Scientific Data will
+> initially focus on experimental datasets from the life, biomedical and
+> environmental science communities with future plans to expand to other
+> fields in the natural sciences.
+>
+> Scientific Data will introduce and publish a new type of content called
+> Data Descriptors: peer-reviewed, scientific publications that provide
+> detailed descriptions of experimental and observational datasets. Data
+> Descriptors will be a combination of traditional scientific publication
+> content and structured information curated in-house, and are designed to
+> maximize reuse and enable searching, linking and data mining. Data
+> Descriptors may be associated with articles from a broad range of journals.
+>
+> "Over recent years researchers, funders and learned societies alike have
+> been calling for new ways to make scientific research, and research data,
+> more available, reusable and reproducible," says Jason Wilde, Nature
+> Publishing Group Business Development Director. "Scientific Data's
+> central mission is to help foster the sharing and re-use of the data
+> underpinning scientific research."
+>
+> "Scientific Data will allow for the formal peer-review, publication and
+> citation of data sets and will provide a real opportunity to promote open
+> data and promote the re-use of data held by NERC and other research
+> organisations," says Mark Thorley, Head of Science Information at the
+> Natural Environment Research Council and Chair of the Research Councils UK
+> Research Outputs Network.
+>
+> Scientific Data gives credit through a citable publication, for
+> depositing and sharing research data. Data Description will be accessible
+> and searchable via the Scientific Data online data platform, under a
+> Creative Commons license. The actual data files will be stored in one or
+> more public, community-recognized systems. The full release of Data
+> Description and associated data will be verified as part of the peer-review
+> process. Where a community recognized repository does not exist, Scientific
+> Data supports the deposit of the data into a more general repository
+> such as Dryad and Figshare. All accepted data descriptors will be published
+> on payment of an article-processing charge (APC) that will also cover the
+> Data Description curation process.
+>
+> Susanna-Assunta Sansone, Associate Director and Principal Investigator at
+> the University of Oxford e-Research Centre, has worked with the NPG team
+> for the past months to define the Data Description?s concept; she has now
+> been appointed Honorary Academic Editor of Scientific Data. She will
+> work closely with the Advisory Panel which is comprised of senior
+> scientists, data repository representatives, bio-curators, librarians, and
+> funders who guide the policies, standards, and editorial scope.
+>
+> "The ongoing conversation around data curation, sharing and publication
+> has become increasingly exciting as various organisations have moved to
+> encourage and in some cases support the sharing and reuse of data in
+> context," says Honorary Academic Editor Sansone. "To inform the internal
+> development of Scientific Data, I will continue to stay abreast of the
+> fast-paced fields of data management and scholarly communication."
+>
+> _______________________________________________
+> open-access mailing listopen-access at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+> --
+> Jonathan Gray <http://jonathangray.org/> <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg> <http://twitter.com/jwyg>
+> Director of Policy and Ideas
+> The Open Knowledge Foundation <http://okfn.org/> <http://okfn.org/> | @okfn<http://twitter.com/okfn> <http://twitter.com/okfn>
+> Support our work: okfn.org/support
+>
+> _______________________________________________
+> open-access mailing listopen-access at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+>
+>
+> --
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> _______________________________________________
+> open-science mailing listopen-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+> _______________________________________________
+> open-science mailing listopen-science at lists.okfn.orghttp://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+Carl Boettiger
+UC Santa Cruz
+http://www.carlboettiger.info/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/4679fdf0/attachment-0001.htm>
+
+From cboettig at gmail.com  Fri Apr  5 18:14:25 2013
+From: cboettig at gmail.com (Carl Boettiger)
+Date: Fri, 5 Apr 2013 10:14:25 -0700
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <ECD17867-6943-4881-8EF5-37E6B9FF3935@sfu.ca>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<ECD17867-6943-4881-8EF5-37E6B9FF3935@sfu.ca>
+Message-ID: <CAN_1p9zFvDgP4Td89Sdn2UZ2ui9QZdnNF15Gcn+WSEAJJByUig@mail.gmail.com>
+
+Susanna,
+
+Thank you for your comments.  It is indeed welcome that metadata are
+provided under CC0, just as Nature has done with metadata for it's other
+publications [1].  Such efforts deserve applause as an example to other
+publishers; and it is telling that it seems we must look
+to business-driven publishers (Nature, PeerJ) rather than our own
+scientific societies (AAAS?) for such innovation.  The perverse incentives
+in licensing costs that Ross draws attention to are perhaps the sad price
+we pay for that.
+
+I was wondering if you or others might comment in any greater length upon
+Tom's question about "citable".  We hear frequently how a DOI makes
+something "citable".  Journals have their own requirements about what can
+and cannot be "cited" -- perhaps they are driven by what sources are or
+aren't indexed by Thompson Reuters or others?  For instance, it is curious
+that Nature will frequently provide links in articles, but these are not
+indexed as citations.  Who controls what is "citable" - the DOI providers?
+the citation counters? the journal? the researchers themselves?
+
+[1] http://www.nature.com/press_releases/linkeddata.html
+
+
+Cheers,
+Carl
+
+
+On Fri, Apr 5, 2013 at 9:27 AM, Heather Morrison <hgmorris at sfu.ca> wrote:
+
+> Researchers could be deposited their data in their local repositories at
+> no cost to them; most research institutions already have the repositories,
+> so this is a bit of extra work / computer space but in most cases not much
+> more. The peer review as usual will be done by researchers at no cost to
+> the publisher. Publishers moving into this arena on a for-pay basis is not
+> great news.
+>
+> This whole system - free gifting of academic work in the form of research
+> results and reviewing - rests on the assumption of secure academic
+> positions at universities. What impact will trends such as MOOCs and
+> automatic grading have on this system?
+>
+> If we move forward towards transitioning scholarly communication to open
+> access without addressing this question, are we in effect killing the goose
+> that is laying those golden eggs?
+>
+> best,
+>
+> Dr. Heather Morrison
+> Freedom for scholarship in the internet age
+> http://summit.sfu.ca/item/12537
+>
+>
+>
+> On 2013-04-05, at 7:27 AM, Ross Mounce wrote:
+>
+> > It's not all great news...
+> >
+> > They're doing their usual NPG quirk of charging more if the author
+> chooses to publish under CC BY rather than CC BY-NC (they're offering a
+> 'choice' of licences).
+> > see http://www.nature.com/scientificdata/open-access/
+> >
+> > ?585 for more restrictive licencing & ?650 for CC BY.
+> > This will of course help authors to choose the cheaper more restrictive
+> option :(
+> >
+> > I've blogged about this before:
+> http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+> >
+> > There's also no absolute guarantee the data will be open data as per
+> http://opendefinition.org/ either. The data will go to appropriate
+> community databases in some instances, and some of these may not be open.
+> >
+> >
+> > So, yes it's good that Nature care about data, and may offer some of it
+> as open data - but unfortunately I think it's quite likely that it won't
+> all be open, and there are better more open, less expensive data journals
+> out there.
+> >
+> > Best,
+> >
+> > Ross
+> >
+> >
+> >
+> > On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> > This is great news. Perhaps we should put something about this on the
+> main OKF blog - in particular noting how we hope this will be explicitly
+> encouraging researchers to publish data openly, as per the Panton
+> Principles?
+> >
+> >
+> > On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> > Hi All
+> >
+> > Many of you will have seen this recent press release, but for those who
+> haven't:
+> > http://www.nature.com/press_releases/scientificdata.html
+> >
+> > This ties in with a recent blog post on doing science with open data,
+> from Tom Heath at the Open Data Institute, looking at the questions
+> > * What are the implications of 'doing science' with open data?
+> > * What changes are required in how we approach scientific methods and
+> findings based on open data?
+> > http://www.theodi.org/blog/on-data-science-with-open-data
+> >
+> > Your thoughts and comments welcome!
+> >
+> > Jenny
+> >
+> > NPG to launch Scientific Data to help scientists publish and reuse
+> research data
+> > Nature Publishing Group (NPG) today is pleased to announce the Spring
+> 2014 launch of Scientific Data. Open for submissions this autumn,
+> Scientific Data is a new open-access, online-only platform for the
+> publication of descriptions of scientifically valuable datasets. Scientific
+> Data will initially focus on experimental datasets from the life,
+> biomedical and environmental science communities with future plans to
+> expand to other fields in the natural sciences.
+> > Scientific Data will introduce and publish a new type of content called
+> Data Descriptors: peer-reviewed, scientific publications that provide
+> detailed descriptions of experimental and observational datasets. Data
+> Descriptors will be a combination of traditional scientific publication
+> content and structured information curated in-house, and are designed to
+> maximize reuse and enable searching, linking and data mining. Data
+> Descriptors may be associated with articles from a broad range of journals.
+> > "Over recent years researchers, funders and learned societies alike have
+> been calling for new ways to make scientific research, and research data,
+> more available, reusable and reproducible," says Jason Wilde, Nature
+> Publishing Group Business Development Director. "Scientific Data's central
+> mission is to help foster the sharing and re-use of the data underpinning
+> scientific research."
+> > "Scientific Data will allow for the formal peer-review, publication and
+> citation of data sets and will provide a real opportunity to promote open
+> data and promote the re-use of data held by NERC and other research
+> organisations," says Mark Thorley, Head of Science Information at the
+> Natural Environment Research Council and Chair of the Research Councils UK
+> Research Outputs Network.
+> > Scientific Data gives credit through a citable publication, for
+> depositing and sharing research data. Data Description will be accessible
+> and searchable via the Scientific Data online data platform, under a
+> Creative Commons license. The actual data files will be stored in one or
+> more public, community-recognized systems. The full release of Data
+> Description and associated data will be verified as part of the peer-review
+> process. Where a community recognized repository does not exist, Scientific
+> Data supports the deposit of the data into a more general repository such
+> as Dryad and Figshare. All accepted data descriptors will be published on
+> payment of an article-processing charge (APC) that will also cover the Data
+> Description curation process.
+> > Susanna-Assunta Sansone, Associate Director and Principal Investigator
+> at the University of Oxford e-Research Centre, has worked with the NPG team
+> for the past months to define the Data Description?s concept; she has now
+> been appointed Honorary Academic Editor of Scientific Data. She will work
+> closely with the Advisory Panel which is comprised of senior scientists,
+> data repository representatives, bio-curators, librarians, and funders who
+> guide the policies, standards, and editorial scope.
+> > "The ongoing conversation around data curation, sharing and publication
+> has become increasingly exciting as various organisations have moved to
+> encourage and in some cases support the sharing and reuse of data in
+> context," says Honorary Academic Editor Sansone. "To inform the internal
+> development of Scientific Data, I will continue to stay abreast of the
+> fast-paced fields of data management and scholarly communication."
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >
+> >
+> >
+> >
+> > --
+> > Jonathan Gray | @jwyg
+> > Director of Policy and Ideas
+> > The Open Knowledge Foundation | @okfn
+> > Support our work: okfn.org/support
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >
+> >
+> >
+> >
+> > --
+> > --
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > Ross Mounce
+> > PhD Student & Open Knowledge Foundation Panton Fellow
+> > Fossils, Phylogeny and Macroevolution Research Group
+> > University of Bath, 4 South Building, Lab 1.07
+> > http://about.me/rossmounce
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+
+
+
+-- 
+Carl Boettiger
+UC Santa Cruz
+http://www.carlboettiger.info/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130405/7875236e/attachment-0001.htm>
+
+From hgmorris at sfu.ca  Fri Apr  5 18:30:59 2013
+From: hgmorris at sfu.ca (Heather Morrison)
+Date: Fri, 5 Apr 2013 10:30:59 -0700
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+	and doing science with open data
+In-Reply-To: <CAN_1p9zFvDgP4Td89Sdn2UZ2ui9QZdnNF15Gcn+WSEAJJByUig@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<ECD17867-6943-4881-8EF5-37E6B9FF3935@sfu.ca>
+	<CAN_1p9zFvDgP4Td89Sdn2UZ2ui9QZdnNF15Gcn+WSEAJJByUig@mail.gmail.com>
+Message-ID: <F6FC9F2F-FD0A-4DF2-B7DC-6631F8FE268A@sfu.ca>
+
+Data, charts, and word versions of my latest Dramatic Growth of Open Access issue are posted in the SFU SUMMIT here:
+http://summit.sfu.ca/item/12645
+
+Cite away!
+
+This took me seconds, costs nothing at all to me, saves me time as compared with working with a charging publisher (just upload, no fiddling with payment), and saves the university $ that could go towards actually paying scholars to do the work.
+
+At 600GBP ($935 Cdn), a hundred datasets like this would cost $93,500 - or a decent salary for a junior to mid career academic. It's about time we started to connect the dots in this way - more money flowing from universities to commercial entities means less money for the actual work of the university, less for faculty salaries and to support students.
+
+best,
+
+Dr. Heather Morrison
+Freedom for scholarship in the internet age
+http://summit.sfu.ca/item/12537
+
+On 2013-04-05, at 10:14 AM, Carl Boettiger wrote:
+
+> Susanna, 
+> 
+> Thank you for your comments.  It is indeed welcome that metadata are provided under CC0, just as Nature has done with metadata for it's other publications [1].  Such efforts deserve applause as an example to other publishers; and it is telling that it seems we must look to business-driven publishers (Nature, PeerJ) rather than our own scientific societies (AAAS?) for such innovation.  The perverse incentives in licensing costs that Ross draws attention to are perhaps the sad price we pay for that.
+> 
+> I was wondering if you or others might comment in any greater length upon Tom's question about "citable".  We hear frequently how a DOI makes something "citable".  Journals have their own requirements about what can and cannot be "cited" -- perhaps they are driven by what sources are or aren't indexed by Thompson Reuters or others?  For instance, it is curious that Nature will frequently provide links in articles, but these are not indexed as citations.  Who controls what is "citable" - the DOI providers? the citation counters? the journal? the researchers themselves?  
+> 
+> [1] http://www.nature.com/press_releases/linkeddata.html
+> 
+> 
+> Cheers,
+> Carl
+> 
+> 
+> On Fri, Apr 5, 2013 at 9:27 AM, Heather Morrison <hgmorris at sfu.ca> wrote:
+> Researchers could be deposited their data in their local repositories at no cost to them; most research institutions already have the repositories, so this is a bit of extra work / computer space but in most cases not much more. The peer review as usual will be done by researchers at no cost to the publisher. Publishers moving into this arena on a for-pay basis is not great news.
+> 
+> This whole system - free gifting of academic work in the form of research results and reviewing - rests on the assumption of secure academic positions at universities. What impact will trends such as MOOCs and automatic grading have on this system?
+> 
+> If we move forward towards transitioning scholarly communication to open access without addressing this question, are we in effect killing the goose that is laying those golden eggs?
+> 
+> best,
+> 
+> Dr. Heather Morrison
+> Freedom for scholarship in the internet age
+> http://summit.sfu.ca/item/12537
+> 
+> 
+> 
+> On 2013-04-05, at 7:27 AM, Ross Mounce wrote:
+> 
+> > It's not all great news...
+> >
+> > They're doing their usual NPG quirk of charging more if the author chooses to publish under CC BY rather than CC BY-NC (they're offering a 'choice' of licences).
+> > see http://www.nature.com/scientificdata/open-access/
+> >
+> > ?585 for more restrictive licencing & ?650 for CC BY.
+> > This will of course help authors to choose the cheaper more restrictive option :(
+> >
+> > I've blogged about this before: http://rossmounce.co.uk/2012/11/07/gold-oa-pricewatch/
+> >
+> > There's also no absolute guarantee the data will be open data as per http://opendefinition.org/ either. The data will go to appropriate community databases in some instances, and some of these may not be open.
+> >
+> >
+> > So, yes it's good that Nature care about data, and may offer some of it as open data - but unfortunately I think it's quite likely that it won't all be open, and there are better more open, less expensive data journals out there.
+> >
+> > Best,
+> >
+> > Ross
+> >
+> >
+> >
+> > On 5 April 2013 15:06, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> > This is great news. Perhaps we should put something about this on the main OKF blog - in particular noting how we hope this will be explicitly encouraging researchers to publish data openly, as per the Panton Principles?
+> >
+> >
+> > On 5 April 2013 14:36, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> > Hi All
+> >
+> > Many of you will have seen this recent press release, but for those who haven't:
+> > http://www.nature.com/press_releases/scientificdata.html
+> >
+> > This ties in with a recent blog post on doing science with open data, from Tom Heath at the Open Data Institute, looking at the questions
+> > * What are the implications of 'doing science' with open data?
+> > * What changes are required in how we approach scientific methods and findings based on open data?
+> > http://www.theodi.org/blog/on-data-science-with-open-data
+> >
+> > Your thoughts and comments welcome!
+> >
+> > Jenny
+> >
+> > NPG to launch Scientific Data to help scientists publish and reuse research data
+> > Nature Publishing Group (NPG) today is pleased to announce the Spring 2014 launch of Scientific Data. Open for submissions this autumn, Scientific Data is a new open-access, online-only platform for the publication of descriptions of scientifically valuable datasets. Scientific Data will initially focus on experimental datasets from the life, biomedical and environmental science communities with future plans to expand to other fields in the natural sciences.
+> > Scientific Data will introduce and publish a new type of content called Data Descriptors: peer-reviewed, scientific publications that provide detailed descriptions of experimental and observational datasets. Data Descriptors will be a combination of traditional scientific publication content and structured information curated in-house, and are designed to maximize reuse and enable searching, linking and data mining. Data Descriptors may be associated with articles from a broad range of journals.
+> > "Over recent years researchers, funders and learned societies alike have been calling for new ways to make scientific research, and research data, more available, reusable and reproducible," says Jason Wilde, Nature Publishing Group Business Development Director. "Scientific Data's central mission is to help foster the sharing and re-use of the data underpinning scientific research."
+> > "Scientific Data will allow for the formal peer-review, publication and citation of data sets and will provide a real opportunity to promote open data and promote the re-use of data held by NERC and other research organisations," says Mark Thorley, Head of Science Information at the Natural Environment Research Council and Chair of the Research Councils UK Research Outputs Network.
+> > Scientific Data gives credit through a citable publication, for depositing and sharing research data. Data Description will be accessible and searchable via the Scientific Data online data platform, under a Creative Commons license. The actual data files will be stored in one or more public, community-recognized systems. The full release of Data Description and associated data will be verified as part of the peer-review process. Where a community recognized repository does not exist, Scientific Data supports the deposit of the data into a more general repository such as Dryad and Figshare. All accepted data descriptors will be published on payment of an article-processing charge (APC) that will also cover the Data Description curation process.
+> > Susanna-Assunta Sansone, Associate Director and Principal Investigator at the University of Oxford e-Research Centre, has worked with the NPG team for the past months to define the Data Description?s concept; she has now been appointed Honorary Academic Editor of Scientific Data. She will work closely with the Advisory Panel which is comprised of senior scientists, data repository representatives, bio-curators, librarians, and funders who guide the policies, standards, and editorial scope.
+> > "The ongoing conversation around data curation, sharing and publication has become increasingly exciting as various organisations have moved to encourage and in some cases support the sharing and reuse of data in context," says Honorary Academic Editor Sansone. "To inform the internal development of Scientific Data, I will continue to stay abreast of the fast-paced fields of data management and scholarly communication."
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >
+> >
+> >
+> >
+> > --
+> > Jonathan Gray | @jwyg
+> > Director of Policy and Ideas
+> > The Open Knowledge Foundation | @okfn
+> > Support our work: okfn.org/support
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-access
+> >
+> >
+> >
+> >
+> > --
+> > --
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > Ross Mounce
+> > PhD Student & Open Knowledge Foundation Panton Fellow
+> > Fossils, Phylogeny and Macroevolution Research Group
+> > University of Bath, 4 South Building, Lab 1.07
+> > http://about.me/rossmounce
+> > -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> > Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> 
+> 
+> 
+> -- 
+> Carl Boettiger
+> UC Santa Cruz
+> http://www.carlboettiger.info/
+
+
+
+From hgmorris at sfu.ca  Fri Apr  5 23:48:16 2013
+From: hgmorris at sfu.ca (Heather Morrison)
+Date: Fri, 5 Apr 2013 15:48:16 -0700
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+	and doing science with open data
+In-Reply-To: <CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+	<CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+Message-ID: <6F2E8037-E743-4B17-8A0A-2FDEDDB5B32C@sfu.ca>
+
+On 2013-04-05, at 3:08 PM, Peter Murray-Rust wrote:
+
+The author is given strong financial incentive to choose the NC option. as the -BY option is more expensive There seems to be no justification for this other than commercial interests of Nature. If tthe scientific community (Wellcome, NIH, NSF, RCUK, etc.) is arguing for CC-BY then it's irresponsible (at best) for NPG to do otherwise.
+
+Comment:
+ 
+The Wellcome Trust, NIH, NSF, RCUK, etc., is the funding agency community, not the scientific community. There are some scientists arguing for CC-BY, but what little evidence we have on this suggests that the majority prefer more restrictive licenses - details and links here:
+http://poeticeconomics.blogspot.ca/2013/04/attitudes-and-values-regarding.html
+
+This is not to say that I support NPG on this. The license should be the author's, not the publishers, in my opinion. In other words, NC should mean "no blanket commercial rights granted to any third party", not "commercial rights reserved by NPG". Requests for commercial uses should go to the author, not the publisher, with "commercial" understood to be limited to resale of the content of the work per se. For example, if someone pays to print an article they might well pay for the printing service. This is not commercial use if no royalty is collected for the work.
+
+Because the Nature 6-month embargo is sufficient to meet the terms of OA policies, my suggestion to NPG would be to offer authors the choice of any CC license, not make any distinction in price, and encourage authors to rely on the green method to participate.
+
+best,
+
+Heather Morrison
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+
+
+
+From laurent.romary at inria.fr  Sat Apr  6 13:06:21 2013
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Sat, 6 Apr 2013 14:06:21 +0200
+Subject: [Open-access] Pratham Books goes CC-BY
+In-Reply-To: <CAN_1p9wUsv3-Kti13fLuG2sTF4bAM4FY7nJrAKxSMQjPUmopjw@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+	<CAN_1p9wUsv3-Kti13fLuG2sTF4bAM4FY7nJrAKxSMQjPUmopjw@mail.gmail.com>
+Message-ID: <FB44BB6F-FF5C-4FBF-AB95-51984B4F66B7@inria.fr>
+
+A very nice CC-BY story... http://blog.prathambooks.org/2013/03/pratham-books-is-open-for-publishing.html
+Laurent
+
+From pm286 at cam.ac.uk  Sat Apr  6 17:38:36 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 6 Apr 2013 17:38:36 +0100
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <CAE9vqEHL4tk3SOF972Yg0V_O1Earj9YVq9LAzN-nqHa85Pz5ow@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+	<CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+	<CAE9vqEHL4tk3SOF972Yg0V_O1Earj9YVq9LAzN-nqHa85Pz5ow@mail.gmail.com>
+Message-ID: <CAD2k14MXNESE3FB8viy7y+3MtS3ELrpjJaddDRZ0xT4WqBQ4SQ@mail.gmail.com>
+
+On Sat, Apr 6, 2013 at 5:10 PM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Fri, Apr 5, 2013 at 6:08 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>>
+>>  If tthe scientific community (Wellcome, NIH, NSF, RCUK, etc.) is arguing
+>> for CC-BY then it's irresponsible (at best) for NPG to do otherwise.
+>>
+>
+> Can you expand on why you believe this?
+>
+
+Because I believe that in scientific publishing there is an implied
+commitment from both sides to behave in a mututally constructive manner. If
+you argue that the morals and practices of STM publishers should emulate
+banks, energy companies, etc  in trying to make as much money as possible,
+creating confusion, and offering flawed deals then I concede your argument.
+
+I have published for years with publishers who behave in a reasonable
+manner (BMC, PLoS) who offer CC-BY publication without prevarication and
+confusion. They label their products coherently. Meanwhile the mainstream
+publishers are sowing confusion and actively fighting and lobbying against
+us. Many publishers have argued against content-mining, for example and
+CC-NC is deliberately used to prevent it.
+
+Remember that this is an asymmetric deal. Almost all the publishers' value
+is GIVEN by academia. It is responsible to give reasonable value in return,
+not try to grab more.
+
+Yes,  you probably think I'm looking back to a golden age (which never
+existed). But if STM publishing has descended to a dog-eat-dog fight we are
+not serving the people of the world.
+
+I shall be blogging on this.
+
+
+Personally, I think it would be extraordinarily unlikely for all parties in
+> a multi-party negotiation to have their interests perfectly aligned.
+>  Typically each party argues for their own interest.
+>
+> Tom
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130406/e6c89c8e/attachment.htm>
+
+From tfmorris at gmail.com  Sat Apr  6 17:10:04 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Sat, 6 Apr 2013 12:10:04 -0400
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+	<CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+Message-ID: <CAE9vqEHL4tk3SOF972Yg0V_O1Earj9YVq9LAzN-nqHa85Pz5ow@mail.gmail.com>
+
+On Fri, Apr 5, 2013 at 6:08 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>  If tthe scientific community (Wellcome, NIH, NSF, RCUK, etc.) is arguing
+> for CC-BY then it's irresponsible (at best) for NPG to do otherwise.
+>
+
+Can you expand on why you believe this?
+
+Personally, I think it would be extraordinarily unlikely for all parties in
+a multi-party negotiation to have their interests perfectly aligned.
+ Typically each party argues for their own interest.
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130406/4ce32c93/attachment.htm>
+
+From tfmorris at gmail.com  Sat Apr  6 23:46:17 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Sat, 6 Apr 2013 18:46:17 -0400
+Subject: [Open-access] [open-science] Nature Scientific Data platform
+ and doing science with open data
+In-Reply-To: <CAD2k14MXNESE3FB8viy7y+3MtS3ELrpjJaddDRZ0xT4WqBQ4SQ@mail.gmail.com>
+References: <CABPM+wrhWcbYRKVnzh6xZmtfyPTDu8C2O2btzNP_atD3f3LyCQ@mail.gmail.com>
+	<CAELjFBt4tHUaya7=OZYWOvasuNV7N7e9yW=Cc56S7Jsno2hXcQ@mail.gmail.com>
+	<CAJr+OEw_UR7nHNqLsUUcoPFApsOwtSgnMpDLJpvcZW1Zfgu1Nw@mail.gmail.com>
+	<84753017-87D9-4718-8C7B-01C6F70D9426@gmail.com>
+	<515EEF68.3000209@gmail.com>
+	<CAD2k14N-RwdSTzX9p=VSPqw-Sp+8DPGGRJyXKzWj4mhQ9WSo9g@mail.gmail.com>
+	<CAE9vqEHL4tk3SOF972Yg0V_O1Earj9YVq9LAzN-nqHa85Pz5ow@mail.gmail.com>
+	<CAD2k14MXNESE3FB8viy7y+3MtS3ELrpjJaddDRZ0xT4WqBQ4SQ@mail.gmail.com>
+Message-ID: <CAE9vqEF2gX6crzSb57MSR=cW3k=uiFy4tEmoo7R2jCT+fgdZKw@mail.gmail.com>
+
+On Sat, Apr 6, 2013 at 12:38 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+> On Sat, Apr 6, 2013 at 5:10 PM, Tom Morris <tfmorris at gmail.com> wrote:
+>
+>> On Fri, Apr 5, 2013 at 6:08 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>>
+>>>
+>>>  If tthe scientific community (Wellcome, NIH, NSF, RCUK, etc.) is
+>>> arguing for CC-BY then it's irresponsible (at best) for NPG to do otherwise.
+>>>
+>>
+>> Can you expand on why you believe this?
+>>
+>
+> Because I believe that in scientific publishing there is an implied
+> commitment from both sides to behave in a mututally constructive manner. If
+> you argue that the morals and practices of STM publishers should emulate
+> banks, energy companies, etc  in trying to make as much money as possible,
+> creating confusion, and offering flawed deals then I concede your argument.
+>
+
+Umm, I don't think I argued anything remotely close to that.  It was a
+simply a question.
+
+I don't see how working towards a mutually agreeable outcome necessarily
+entails walking in lockstep and being in 100% agreement on all things.
+ Everyone has different values and viewpoints, even within the scientific
+community.  Look at how different the values are from funders and
+researchers, or even among the researchers themselves.
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130406/176b2cf0/attachment.htm>
+
+From katie at ecancer.org  Tue Apr  9 09:29:19 2013
+From: katie at ecancer.org (Katie Foxall)
+Date: Tue, 9 Apr 2013 09:29:19 +0100
+Subject: [Open-access] Richard Smith article on altmetrics and the impact
+	factor
+Message-ID: <003f01ce34fc$55947a40$00bd6ec0$@ecancer.org>
+
+Dear All
+
+ 
+
+We've just published an editorial by Richard Smith, ex-editor of the BMJ, on
+new ways of measuring impact - hope you find it interesting.
+
+ 
+
+http://ecancer.org/journal/editorial/18-alternative-metrics-for-measuring-th
+e-quality-of-articles-and-journals.php 
+
+ 
+
+Regards
+
+ 
+
+Katie Foxall
+
+Publishing Manager
+
+ecancer
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130409/849ff83c/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Apr  9 16:21:45 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 9 Apr 2013 16:21:45 +0100
+Subject: [Open-access] Fwd: [oss4lib-discuss] programme for OAI8 in Geneva
+	19-21 June 2013
+In-Reply-To: <20130406160047.GA13656@openlib.org>
+References: <20130406160047.GA13656@openlib.org>
+Message-ID: <CAELjFBvjXv=T-17Ek_Zn0w1zx_0zfcG8XxLOBzS_X00PK5K2pw@mail.gmail.com>
+
+---------- Forwarded message ----------
+
+
+  OAI8 Workshop in Geneva, 19-21 June 2013
+
+  The OAI8 Workshop on Current Developments in Scholarly Communication
+  is taking place in the University of Geneva and in CERN, Geneva, on
+  19-21 June 2013. The Programme can be found at
+  http://indico.cern.ch/conferenceDisplay.py?confId=3D211600.
+
+  There are six plenary sessions on:
+
+
+  *         Technical developments
+
+  *         Metrics
+
+  *         Semantic Indexing
+
+  *         Research Data
+
+  *         Arts, Humanities and Social Sciences
+
+  *         Gold Open Access Infrastructures
+
+  The Tutorials, which start the Workshop, are devoted to:
+
+
+  *         Research Data Services
+
+  *         OJS, beyond editorial tradition
+
+  *         The NISO/OAI ResourceSync Synchronization Framework
+
+  *         Open Access Caf? 2013
+
+  *         Metrics
+
+  *         Metadata for the Research Lifecycle
+
+  Five Breakout Groups have been arranged so far for group discussions:
+
+
+  *         Altmetrics
+
+  *         Open Access Policy developments
+
+  *         How to make your university a monograph publisher
+
+  *         Open Annotations
+
+  *         Gold Open Access infrastructures
+
+  There will also be 20+ posters in the timetabled poster session.
+
+  OAI Workshops are prominent European OA events in the year in which
+  they are held. Places are still available and registration is open at
+
+http://indico.cern.ch/confRegistrationFormDisplay.py/display?confId=3D211600.
+The
+  OAI Workshops provide a space for all those interested in developments
+  in Scholarly Communication to come together to learn from each other,
+  to exchange ideas, and to hear papers from leading experts in the
+  field.
+
+  The OAI Organising Committee (see
+  http://indico.cern.ch/internalPage.py?pageId=3D7&confId=3D211600)
+  looks forward to meeting you all in Geneva in June
+
+
+  For the OAI8 Organising Committee with cheers,
+
+
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130409/44d607a9/attachment.htm>
+
+From rupert.gatti at openbookpublishers.com  Thu Apr 11 13:11:21 2013
+From: rupert.gatti at openbookpublishers.com (Rupert Gatti)
+Date: Thu, 11 Apr 2013 13:11:21 +0100
+Subject: [Open-access] Two part-time positions at Open Book Publishers
+Message-ID: <CAB0wTE_zhyVrsEJb+zcs9kQU8o-gtvMLhJD2Jpouypzk7j1mtQ@mail.gmail.com>
+
+Open Book Publishers <http://www.openbookpublishers.com>, a non-profit OA
+publisher based in Cambridge UK, is looking for a part-time Technical
+Support Officer and a part-time Marketing and Sales Associate. We are
+really looking for smart people with good IT skills who are enthusiastic
+about shaping OA publishing development.
+
+The Technical Support Officer will be responsible for maintaining and
+providing technical and IT support to the Academic Editors, maintaining
+OBP's website and digital products, creating and updating usage statistics
+and altmetrics, and managing account records.
+
+The Marketing and Sales Associate will be responsible for marketing our
+publishing activities and individual titles across both new media and
+traditional channels, liasing with authors on marketing strategies,
+expanding our presence in university libraries, and managing relationships
+with retailers and distributors.
+
+More details on both positions are available at:
+http://www.openbookpublishers.com/section/37/1/vacancies
+or contact rupert.gatti at openbookpublishers.com with any questions.
+
+-- 
+Dr Rupert Gatti
+Director
+Open Book Publishers
+tel: +44 1223 339929
+skype: jrupertjg
+
+www.openbookpublishers.com
+See our latest catalogue at
+https://www.openbookpublishers.com/shopimages/LatestCatalogue.pdf
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130411/8a26184f/attachment.htm>
+
+From everton.alvarenga at okfn.org  Fri Apr 12 22:22:53 2013
+From: everton.alvarenga at okfn.org (Everton Zanella Alvarenga)
+Date: Fri, 12 Apr 2013 18:22:53 -0300
+Subject: [Open-access] [Brazil] Science? Open!
+Message-ID: <CAOUmeJChk3_mVWt8yGEPyJqbsLsUnCcXtmLLQz03S6gZ-2QKww@mail.gmail.com>
+
+Hi all!
+
+It is a pleasure to announce the formation of a working group on open
+science in Brazil, led by Dr. Alexandre Hannud Abdo, advisory board of
+OKFN Brasil. We have at the moment more than 20 professors commited
+with open knowledge from more than 10 universities around the country
+that are part of this group we are creating.
+
+Please, see more details bellow (in Portuguese)
+
+http://br.okfn.org/2013/04/12/ciencia-aberta/
+
+If you know Brazilians involved with open science and open access, let
+Abdo (Cced) and me know, please.
+
+Tom
+
+--
+Everton Zanella Alvarenga (also Tom)
+OKFN Brasil - Rede pelo Conhecimento Livre
+http://br.okfn.org
+
+
+From jcmcoppice12 at gmail.com  Fri Apr 12 22:52:30 2013
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 12 Apr 2013 22:52:30 +0100
+Subject: [Open-access] [open-science] [Brazil] Science? Open!
+In-Reply-To: <CAOUmeJChk3_mVWt8yGEPyJqbsLsUnCcXtmLLQz03S6gZ-2QKww@mail.gmail.com>
+References: <CAOUmeJChk3_mVWt8yGEPyJqbsLsUnCcXtmLLQz03S6gZ-2QKww@mail.gmail.com>
+Message-ID: <CABPM+womFukGg-6NWgeovKVW2a--44cy6Uoaq6TsbKgsqaCjZQ@mail.gmail.com>
+
+Hi Tom and Ale
+
+Fantastic! Great to hear this :)
+I will get you listed on the local groups page and put up a quick blog post
+over on science.okfn.org
+
+
+Jenny
+
+
+On Fri, Apr 12, 2013 at 10:22 PM, Everton Zanella Alvarenga <
+everton.alvarenga at okfn.org> wrote:
+
+> Hi all!
+>
+> It is a pleasure to announce the formation of a working group on open
+> science in Brazil, led by Dr. Alexandre Hannud Abdo, advisory board of
+> OKFN Brasil. We have at the moment more than 20 professors commited
+> with open knowledge from more than 10 universities around the country
+> that are part of this group we are creating.
+>
+> Please, see more details bellow (in Portuguese)
+>
+> http://br.okfn.org/2013/04/12/ciencia-aberta/
+>
+> If you know Brazilians involved with open science and open access, let
+> Abdo (Cced) and me know, please.
+>
+> Tom
+>
+> --
+> Everton Zanella Alvarenga (also Tom)
+> OKFN Brasil - Rede pelo Conhecimento Livre
+> http://br.okfn.org
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130412/c83d6d64/attachment.htm>
+
+From everton.alvarenga at okfn.org  Fri Apr 12 22:54:49 2013
+From: everton.alvarenga at okfn.org (Everton Zanella Alvarenga)
+Date: Fri, 12 Apr 2013 18:54:49 -0300
+Subject: [Open-access] [open-science] [Brazil] Science? Open!
+In-Reply-To: <CABPM+womFukGg-6NWgeovKVW2a--44cy6Uoaq6TsbKgsqaCjZQ@mail.gmail.com>
+References: <CAOUmeJChk3_mVWt8yGEPyJqbsLsUnCcXtmLLQz03S6gZ-2QKww@mail.gmail.com>
+	<CABPM+womFukGg-6NWgeovKVW2a--44cy6Uoaq6TsbKgsqaCjZQ@mail.gmail.com>
+Message-ID: <CAOUmeJAm7HKG5wndxF0eDF9gpGyYq3emNLiYN9pykeZNQ3bU-A@mail.gmail.com>
+
+Thanks, Jenny.
+
+We are going to make an event in June here in Brazil. I will keep you
+informed.
+
+See you!
+
+Tom
+
+
+2013/4/12 Jenny Molloy <jcmcoppice12 at gmail.com>
+
+> Hi Tom and Ale
+>
+> Fantastic! Great to hear this :)
+> I will get you listed on the local groups page and put up a quick blog
+> post over on science.okfn.org
+>
+>
+> Jenny
+>
+>
+> --
+Everton Zanella Alvarenga (also Tom)
+OKFN Brasil - Rede pelo Conhecimento Livre
+http://br.okfn.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130412/c06a7ddb/attachment.htm>
+
+From sanglorian at gmail.com  Sat Apr 13 02:58:33 2013
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sat, 13 Apr 2013 11:58:33 +1000
+Subject: [Open-access] FOSsil Bank Update (13 April 2013)
+Message-ID: <CAMuj-eJtq=xKPdYriiiwFUKkdTtSyNn-S1rQwig_yxASx1d52w@mail.gmail.com>
+
+Hi folks,
+
+This is the second half of the monster update from two weeks ago, as well
+as some new content added over the fortnight.
+
+As always, if you know of works under public copyright licences (and,
+particularly, under free/libre/open licences) you can add them to the wiki
+yourself or email me and I?ll add them. The same is also true for
+free/libre/open projects that are available for sale or are in the process
+of being crowdfunded, which I tweet about using the hashtag
+#FundFreeCulture.
+#FundFreeCultureGeary
+<http://www.indiegogo.com/projects/geary-a-beautiful-modern-open-source-email-client?c=home>is
+an open source email client. ($24,950 of $100,000; 12 days remain)
+
+Monster Tome <http://www.kickstarter.com/projects/monstertome/monster-tome>is
+a project to create 20 public domain artworks of unusual monsters
+suggested by the backers. ($295 of $4,300; 18 days to go)
+
+The OpenShot Video
+Editor<http://www.kickstarter.com/projects/421164014/openshot-video-editor-for-windows-mac-and-linux>has
+shot through its goal, and has some stretch goals. ($31,740 of
+$20,000;
+4 days remain)
+
+Save the Public Domain Review!
+<http://publicdomainreview.org/support/>($14,409 of $20,000; 17 days
+to go)
+
+Justin, the creator of a free culture boardgame called To the Barricades,
+is asking for support to help him take art
+classes<http://blackflaggames.org/free-culture-patronage/>? and will
+create art in exchange. (free culture or free software licences
+of your choosing)
+
+The Free Software Foundation is still running a membership
+drive.<http://www.reddit.com/r/freeculture/comments/14uvro/the_free_software_foundation_needs_your_support/>They
+made their $350,000 goal, but are still looking for about a hundred
+new members.
+
+It may surprise you to learn that the open source Death
+Star<http://www.kickstarter.com/projects/461687407/kickstarter-open-source-death-star>project
+did not raise its ?20,000,000 goal.
+Misc
+
+An index <http://fossilbank.wikidot.com/dungeon-world-index> of *Dungeon
+World *content.
+
+The League of Moveable
+Type<http://fossilbank.wikidot.com/source:the-league-of-moveable-type>collects
+well-made typefaces and presents them artfully. (Libre licences)
+
+Number Appearing <http://fossilbank.wikidot.com/work:number-appearing> is a
+resource for the *Dungeon World *tabletop game. (CC BY)
+
+To the Barricades <http://fossilbank.wikidot.com/work:to-the-barricades> is
+a boardgame about a face-off between radicals and the police. (CC BY-SA)
+
+MediaGoblin <http://fossilbank.wikidot.com/work:mediagoblin> lets you host
+your own media. (GNU AGPL)
+
+The Hill Productions<http://fossilbank.wikidot.com/source:the-hill-productions>are
+an indie film company. (CC BY)
+Information
+
+Open States, <http://fossilbank.wikidot.com/work:open-states> where you can
+view US legislation. (CC BY)
+
+Triangle Wiki, <http://fossilbank.wikidot.com/work:triangle-wiki> a wiki
+about the Triangle region. (CC BY)
+
+Center for the Study of Innovative
+Freedom,<http://fossilbank.wikidot.com/source:center-for-the-study-of-innovative-freedom>Stephen
+Kinsella's libertarian blog. (CC0)
+
+Rad Geek People's
+Daily,<http://fossilbank.wikidot.com/source:rad-geek-people-s-daily>the
+*'official state media for a secessionist republic of one.' (CC BY) *
+
+*Open Food Facts, <http://fossilbank.wikidot.com/source:open-food-facts> a
+database of nutritional data. (ODBL, CC BY-SA, DBLC) *
+
+*Stanford Engineering
+Everywhere,<http://fossilbank.wikidot.com/source:standford-engineering-everywhere>including
+a three course introduction to computer science and seven more
+advanced courses. (CC BY) *
+
+*The School of Open, <http://fossilbank.wikidot.com/work:school-of-open> a
+series of courses about open practices like editing Wikipedia. (**CC BY-SA)
+*
+
+*Global Voices, <http://fossilbank.wikidot.com/source:global-voices> a
+network of bloggers in many languages. (CC BY) *
+
+*La Cura, <http://fossilbank.wikidot.com/work:la-cura-an-open-source-cure>an
+Open Source Code, an open data project on brain cancer. (CC BY)
+*
+
+*zero-project, <http://fossilbank.wikidot.com/source:zero-project> a
+collection of musical compositions, audiobooks and songs. (CC BY) *
+
+*Open Compute Project,<http://fossilbank.wikidot.com/source:open-compute-project>a
+computing infrastructure program spearheaded by Facebook. (CC BY, CC
+BY-SA and OWFa) *
+
+*Open Science Federation,<http://fossilbank.wikidot.com/source:open-science-federation>a
+nonprofit alliance focused on improving science. (PD)
+*
+
+*Constructs of Innocence in Selected Works of
+Cyberpunk,<http://fossilbank.wikidot.com/work:constructs-of-innocence-in-selected-works-of-cyberpunk>a
+Masters thesis dedicated to Aaron Swartz. (CC BY-SA)
+*
+
+*GIMP Magazine, <http://fossilbank.wikidot.com/work:gimp-magazine> a
+publication to promote GIMP and related OSS. (CC BY-SA) *
+
+*The Libertarian
+Standard,<http://fossilbank.wikidot.com/source:the-libertarian-standard>a
+blog. (CC BY)
+*
+
+*Boundless, <http://fossilbank.wikidot.com/source:boundless> textbooks. (CC
+BY, CC BY-SA) *
+
+*OpenTextBookStore,
+<http://fossilbank.wikidot.com/source:opentextbookstore>textbooks
+under libre and proprietary licences.
+** **(CC BY to CC BY-NC-SA) *
+
+*Open Course Library,<http://fossilbank.wikidot.com/source:open-course-library>education
+materials for 81 high-enrolment college courses. (CC BY)
+*
+
+*UNZ.org, <http://fossilbank.wikidot.com/source:unz-org> a collection of
+scanned journal articles. (PD or all rights reserved) *
+
+*ORBIT, <http://fossilbank.wikidot.com/source:orbit> Cambridge University
+OER (CC BY-SA or CC BY-NC ? it?s unclear)
+*
+
+*OER at AVU, <http://fossilbank.wikidot.com/source:oeravu> academic material
+from African universities. (CC BY-SA)
+*
+
+*OER Knowledge Cloud,<http://fossilbank.wikidot.com/source:oer-knowledge-cloud>UNESCO?s
+collection of information. (CC BY)
+*
+
+*K-12 Tech Tools <http://fossilbank.wikidot.com/source:k-12-tech-tools> is
+a collection of kid-safe online resources. (CC BY-SA)
+*
+
+*A Mathematical Way to Think about
+Biology<http://fossilbank.wikidot.com/work:a-mathematical-way-to-think-about-biology>(CC
+BY-SA).
+*
+
+mathispower4u <http://fossilbank.wikidot.com/source:mathispower4u> has over
+2,600 video mini-lessons. (CC BY)
+
+*An Anarchist FAQ
+<http://fossilbank.wikidot.com/work:an-anarchist-faq>(GNU FDL)
+*
+*Shareable Works*
+
+*No Straight Lines,
+<http://fossilbank.wikidot.com/work:no-straight-lines>about the design
+problems of our complex world. (CC BY-NC-SA)
+*
+
+*Ghost Lines, <http://fossilbank.wikidot.com/work:ghost-lines> a three-page
+tabletop RPG set in a post-apocalyptic, spirit-haunted world. (CC BY-NC-SA)
+*
+
+*Mobile Frame Zero,
+<http://fossilbank.wikidot.com/work:mobile-frame-zero>a miniatures
+game with robot squads made of LEGO. (CC BY-NC-SA)
+*
+
+*Mythender, <http://fossilbank.wikidot.com/work:mythender> a tabletop RPG
+about fighting the gods. (CC BY-NC) *
+
+*TPB AFK: The Pirate Bay Away from
+Keyboard,<http://fossilbank.wikidot.com/work:tpb-afk>a documentary
+about the court case against The Pirate Bay. (CC BY-NC-SA and
+a slightly longer version under CC BY-NC-ND) *
+
+*Hyperbole and a
+Half,<http://fossilbank.wikidot.com/work:hyperbole-and-a-half>a simply
+drawn comic of reminiscences. (CC BY-NC-ND)
+*
+
+*Theatre Is Evil, <http://fossilbank.wikidot.com/work:theatre-is-evil> an
+album from Amanda Palmer. (CC BY-NC-SA) *
+
+*A Story of Healing,
+<http://fossilbank.wikidot.com/work:a-story-of-healing>the first CC
+licensed Academy Award winning film. (CC BY-NC-ND)
+*
+
+*#littlesecretfilm,
+<http://fossilbank.wikidot.com/source:littlesecretfilm>a film project
+where people create films to particular rules. (CC BY-NC-ND)
+*
+
+*The International Free and Open Source Software Law
+Book.<http://fossilbank.wikidot.com/work:the-international-free-and-open-source-software-law-boo>(CC
+BY-ND)
+*
+
+*New Media Rights
+<http://fossilbank.wikidot.com/source:new-media-rights>provides
+educational material about the law. (CC BY-NC)
+*
+
+*What is a Roleplaying
+Game<http://fossilbank.wikidot.com/work:what-is-a-roleplaying-game>is
+a roleplaying game, and an explanation of them. (CC BY-NC)
+*
+
+*Two-Page Space <http://fossilbank.wikidot.com/work:two-page-space> is a
+complete d20 sci-fi RPG. (CC BY-NC-SA)
+*
+
+That's all folks,
+Chris
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130413/9fb2a50e/attachment-0001.htm>
+
+From michelle.brook at okfn.org  Sun Apr 14 10:04:43 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Sun, 14 Apr 2013 10:04:43 +0100
+Subject: [Open-access] Open Research Data Handbook - Call for Case Studies!
+Message-ID: <CAB53Ly6eQq+UBtgJ8L7VVnnj7frdE8mkMpWyKMpbEvyhD7UnNQ@mail.gmail.com>
+
+Hey,
+
+The Open Research Data Handbook - a collaborative and volunteer-led guide
+to Open Research Data practices - is beginning to take shape. We?ll be
+asking for comment on the first few chapters soon.
+
+We now need your help to gather *concrete case studies* which detail your
+experiences of working with Open Research Data. Specifically, we are
+looking for:
+* Stories of the benefits you have seen as a result of Open Research Data
+practices
+* Challenges you have faced in open research, and how you overcame them
+* Case studies of tools you have used to share research data or to make it
+openly available
+* Examples of how failing to follow open research practices has hindered
+the progress of research (including but not limited to science)
+* ... More ideas from you!
+
+Case studies should be around 200-500 words long. They should be concrete,
+based on real experiences, and should focus on one specific angle of open
+research data (you can submit more than one study!).
+
+To find out more and register your interest, please visit this blog post
+and form<http://blog.okfn.org/2013/04/09/open-research-data-handbook-call-for-case-studies/>
+.
+
+As we are keen to gather studies from diverse groups, please do circulate
+this email to friends, colleagues and any relevant mailing lists.
+
+We also welcome volunteers to help with drafting and editing the book. To
+contact the team directly, please email researchhandbook at okfn.org.
+
+We look forward to reading your open research data stories!
+
+All the best,
+Michelle (from the Open Research Data Handbook team)
+
+----------------------------------------------------
+Michelle Brook | @MLBrook
+Community coordinator, Open Educational Data
+
+LinkedUp | http://linkedup-project.eu | @LinkedUpProject
+
+Open Knowledge Foundation | @okfn
+Building the digital commons - support our work: okfn.org/support
+-------------------------------------------
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130414/d9da5b32/attachment.htm>
+
+From jenny.molloy at okfn.org  Sun Apr 14 17:05:54 2013
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 14 Apr 2013 17:05:54 +0100
+Subject: [Open-access] Oxford Open Science 2013
+Message-ID: <CABPM+wrM0OgRrJLZbuEqSHm+rkHQTsYCZ_C+14ny98e=+jQSMA@mail.gmail.com>
+
+Hi All
+
+Announcing the Oxford Open Science programme for 2013, all welcome, talks
+will be podcast under CC-BY after the event so if you can't make it just
+check the website for links. We may try Google Hangouts depending on
+demand, let me know if you'd be keen to join remotely.
+
+Jenny
+
+Oxford Open Science
+Oxford e-Research Centre, 7 Keble Road, 19:00-20:30
+
+Join us for informal discussion on open science in a digital age. Maybe
+you're looking at ways to share scientific data more effectively, planning
+a project involving citizen crowd sourcing, want to make your research as
+accessible as possible or maybe you're just interested in how openness and
+transparency could change the way we do science, come along and explore.
+
+Our first session of the year will introduce the way in which the web
+changes how we measure the impact of our research.
+
+24 Apr Altmetrics: Can we drop the ?alternative?? Iain Hrynaszkiewicz, F1000
+22 May [TBC] HackyourPhD Vincent Adams, UCL
+19 Jun Does open science promote innovation? Chas Bountra, Uni. of Oxford
+24 Jul A content mining revolution Peter Murray-Rust, Uni. of Cambridge
+21 Aug DIY Bio: Open hardware meets open science  William Beaufoy, London
+BioHackers
+25 Sep Crowdcrafting experiments Cyrus Hirjibehedin, UCL
+23 Oct Open science in developing countries Jenny Molloy, Uni. of Oxford
+27 Nov Open science tools workshop: Part 1 ? Data
+
+Join the Facebook group, follow @oxopensci on Twitter or check the website
+for more details.
+https://www.facebook.com/groups/oxopensci/
+http://science.okfn.org/community/local-groups/oxford-open-science/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130414/530fd596/attachment.htm>
+
+From rayna.st at gmail.com  Tue Apr 16 12:04:07 2013
+From: rayna.st at gmail.com (Rayna)
+Date: Tue, 16 Apr 2013 13:04:07 +0200
+Subject: [Open-access] Open & Citizen Science workgroup at OKF France
+	launched :)
+Message-ID: <CANACerEuBjn-xzF8FZ6wnozj-U26UO5HCWNq6zLYi3kPoHC4pw@mail.gmail.com>
+
+Dear all,
+
+It is a great pleasure for me to announce that the Open & Citizen Science
+workgroup at OKF France launched this morning :) The announcement -- in
+French, naturally -- is here:
+http://fr.okfn.org/2013/04/16/lancement-du-groupe-de-travail-science-ouverte-et-citoyenne/
+
+A few projects have volunteered to join forces (e.g., some here will
+remember WAXScience, the gender and science student project from Paris).
+
+An excellent start of the group is also the fact that it (and OKF France as
+a whole) is a partner of the NASA Space Apps Challenges -- Paris event
+(where I am leading the 'Citizen Science' challenges :) ).
+
+Talk soon,
+Rayna
+
+-- 
+"Change l'ordre du monde plut?t que tes d?sirs."
+
+http://de.linkedin.com/in/raynas
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130416/4d4b40ad/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Apr 16 14:38:53 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 16 Apr 2013 14:38:53 +0100
+Subject: [Open-access] Open & Citizen Science workgroup at OKF France
+	launched :)
+In-Reply-To: <CANACerEuBjn-xzF8FZ6wnozj-U26UO5HCWNq6zLYi3kPoHC4pw@mail.gmail.com>
+References: <CANACerEuBjn-xzF8FZ6wnozj-U26UO5HCWNq6zLYi3kPoHC4pw@mail.gmail.com>
+Message-ID: <CAD2k14Ov_n5hndhv_W0pXb7Z77O26LbNfHvG+geaAzvdQJsr_g@mail.gmail.com>
+
+Excellent!
+We very much look forward to hearing about WAX - presented at the OKF
+crowdsourcing hackathon a month ago. It's a simple clever idea (scanning
+FLICKR to count the gender ratio in photos of science activities)
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130416/6de8aecc/attachment.htm>
+
+From michelle.brook at okfn.org  Tue Apr 16 23:40:41 2013
+From: michelle.brook at okfn.org (Michelle Brook)
+Date: Tue, 16 Apr 2013 23:40:41 +0100
+Subject: [Open-access] [open-science] Open & Citizen Science workgroup
+ at OKF France launched :)
+In-Reply-To: <CAD2k14Ov_n5hndhv_W0pXb7Z77O26LbNfHvG+geaAzvdQJsr_g@mail.gmail.com>
+References: <CANACerEuBjn-xzF8FZ6wnozj-U26UO5HCWNq6zLYi3kPoHC4pw@mail.gmail.com>
+	<CAD2k14Ov_n5hndhv_W0pXb7Z77O26LbNfHvG+geaAzvdQJsr_g@mail.gmail.com>
+Message-ID: <CAB53Ly5Mdt_6r7nh6w23LGiGj=_u8McT2LKbf-Ngu07+op5fuw@mail.gmail.com>
+
+This sounds interesting. Is there a link/longer description anywhere?
+
+Michelle
+
+----------------------------------------------------
+Michelle Brook | @MLBrook
+Community coordinator, Open Educational Data
+
+LinkedUp | http://linkedup-project.eu | @LinkedUpProject
+
+Open Knowledge Foundation | @okfn
+Building the digital commons - support our work: okfn.org/support
+-------------------------------------------
+
+
+On Tue, Apr 16, 2013 at 2:38 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> Excellent!
+> We very much look forward to hearing about WAX - presented at the OKF
+> crowdsourcing hackathon a month ago. It's a simple clever idea (scanning
+> FLICKR to count the gender ratio in photos of science activities)
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130416/0d840c96/attachment.htm>
+
+From ross.mounce at gmail.com  Wed Apr 17 00:26:04 2013
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 17 Apr 2013 00:26:04 +0100
+Subject: [Open-access] [open-science] Open & Citizen Science workgroup
+ at OKF France launched :)
+In-Reply-To: <CAB53Ly5Mdt_6r7nh6w23LGiGj=_u8McT2LKbf-Ngu07+op5fuw@mail.gmail.com>
+References: <CANACerEuBjn-xzF8FZ6wnozj-U26UO5HCWNq6zLYi3kPoHC4pw@mail.gmail.com>
+	<CAD2k14Ov_n5hndhv_W0pXb7Z77O26LbNfHvG+geaAzvdQJsr_g@mail.gmail.com>
+	<CAB53Ly5Mdt_6r7nh6w23LGiGj=_u8McT2LKbf-Ngu07+op5fuw@mail.gmail.com>
+Message-ID: <CAJr+OEyJ3uJ_TsorLBMxMPY_4wQ7K4Xxemw_JXFYy7DB86Ff9A@mail.gmail.com>
+
+For more about WAX-science see their blog here:
+http://waxscience.blogspot.co.uk/
+
+and their Twitter here: https://twitter.com/waxscience
+
+It's still very early days for this project. So we shouldn't expect too
+much, too soon. But it's certainly very exciting & very welcome!
+
+Definitely one to watch in 2013
+
+
+Ross :)
+
+On 16 April 2013 23:40, Michelle Brook <michelle.brook at okfn.org> wrote:
+
+> This sounds interesting. Is there a link/longer description anywhere?
+>
+> Michelle
+>
+> ----------------------------------------------------
+> Michelle Brook | @MLBrook
+> Community coordinator, Open Educational Data
+>
+> LinkedUp | http://linkedup-project.eu | @LinkedUpProject
+>
+> Open Knowledge Foundation | @okfn
+> Building the digital commons - support our work: okfn.org/support
+> -------------------------------------------
+>
+>
+> On Tue, Apr 16, 2013 at 2:38 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> Excellent!
+>> We very much look forward to hearing about WAX - presented at the OKF
+>> crowdsourcing hackathon a month ago. It's a simple clever idea (scanning
+>> FLICKR to count the gender ratio in photos of science activities)
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130417/a70c5396/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Apr 18 15:27:00 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 18 Apr 2013 16:27:00 +0200
+Subject: [Open-access] Fwd: [open-economics] RECODE open research data
+	project
+In-Reply-To: <42D263A170E2894784493BEE679C5F204562BB1F@DBXPRD0510MB360.eurprd05.prod.outlook.com>
+References: <42D263A170E2894784493BEE679C5F204562BB1F@DBXPRD0510MB360.eurprd05.prod.outlook.com>
+Message-ID: <CAELjFBtJu3rs87m4SRr6vb90XzQO0kdzMn2wUiu1c8DR4JkKxQ@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+From: Library, Economics Collection <EconLibrary at eui.eu>
+Date: 18 April 2013 16:10
+Subject: [open-economics] RECODE open research data project
+To: "open-economics at lists.okfn.org" <open-economics at lists.okfn.org>
+
+
+Dear Colleagues,
+
+This project, funded by the EU, may be interesting...
+http://recodeproject.eu/
+
+With best wishes,
+
+Thomas
+
+"The Policy RECommendations for Open Access to Research Data in Europe
+(RECODE) project will leverage existing networks, communities and projects
+to address challenges within the open access and data dissemination and
+preservation sector and produce policy recommendations for open access to
+research data based on existing good practice.
+
+The open access to research data sector includes several different
+networks, initiatives, projects and communities that are fragmented by
+discipline, geography, stakeholder category (publishers, academics,
+repositories, etc.) as well as other boundaries. Many of these
+organisations are already addressing key barriers to open access to
+research data, such as stakeholder fragmentation, technical and
+infrastructural issues, ethical and legal issues, and state and
+institutional policy fragmentation. However, these organisations are often
+working in isolation or with limited contact with one another. RECODE will
+provide a space for European stakeholders interested in open access to
+research data to work together to provide common solutions for these
+issues. It will provide over-arching recommendations for a policy framework
+to support open access to European research data.
+
+The RECODE partners will identify relevant stakeholders, build upon and
+strengthen existing stakeholder engagement mechanisms. It will conduct
+studies of good practice and exchange good practice principles with
+relevant stakeholders and institutions during networking activities. The
+RECODE project will culminate in a series of policy recommendations for
+open access to research data targeted at different stakeholders and
+policy-makers."
+
+
+
+The information transmitted is intended only for the person or entity to
+which it is addressed and may contain confidential and/or privileged
+material. Any review, retransmission, dissemination, distribution,
+forwarding, or other use of, or taking of any action in reliance upon, this
+information by persons or entities other than the intended recipient is
+prohibited without the express permission of the sender. If you received
+this communication in error, please contact the sender and delete the
+material from any computer.
+
+
+
+_______________________________________________
+open-economics mailing list
+open-economics at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-economics
+Unsubscribe: http://lists.okfn.org/mailman/options/open-economics
+
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130418/7d9d0d0a/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Apr 25 11:34:09 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 25 Apr 2013 12:34:09 +0200
+Subject: [Open-access] =?windows-1252?q?Fwd=3A_Closed_Data=85_Excuses=2C_E?=
+	=?windows-1252?q?xcuses=3B_useful_reading?=
+In-Reply-To: <5179040E.4070308@it.ox.ac.uk>
+References: <5179040E.4070308@it.ox.ac.uk>
+Message-ID: <CAELjFBt49JVp+++s3KZODTe-iw8bgfZZ32sotmUJBRShCXO62A@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+
+Hi all,
+
+Over the last couple of days, Chris Gutteridge and I have been writing
+about how to counter concerns about opening up data:
+
+https://docs.google.com/document/d/1nDtHpnIDTY_G32EMJniXaOGBufjHCCk4VC9WGOf7jK4
+
+More relevant to this list, Carly Strasser of the Data Pub blog followed
+up with her own post, looking at these issues from more of an Open
+Science and research data perspective:
+
+http://datapub.cdlib.org/closed-data-excuses-excuses/
+
+A very useful read it is, too!
+
+
+Best regards,
+
+Alex
+
+- --
+Alexander Dutton
+Linked Open Data Architect, Office of the CIO; data.ox.ac.uk, OxPoints
+IT Services, University of Oxford
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.13 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJReQQOAAoJEPotabD1ANF7fGoH/1lbB9nNowddJ+9UR9KtINGJ
+fgPKfL47tYom5xBd+TqDIoXZOp/oJkfVYQdQaUs8P+IEPVwJz1PsH9NfB+7+/eBT
+QJZdAC/Crb2s85AQfiJ3CnhMTrgfvRjwd7yViU9l9HoSYXbzjDG6a481pcV+JBX6
+uqldw27jbhDoNew0INNBCSWQT4nYcPdJbyssdKDReR9j7ZkjUqNGaf2ErwIDZH0E
+bkb5Bm0ROXunI2cEXwPHaF8uSbdTV8gBIPCLFnnaKVuqTtUpWzOkhSLaz6W9bBXB
+0bkiIIGpkbyZBLmrFmAApKnQI5Y7gtUR0x2Nai4NgJH/O+N9a/l+jUVv0yHT3wo=
+=5h0y
+-----END PGP SIGNATURE-----
+
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130425/178ea0ed/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Apr 26 08:58:50 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 26 Apr 2013 08:58:50 +0100
+Subject: [Open-access] [open-science] Introduction
+In-Reply-To: <517A036B.1090803@gmail.com>
+References: <517A036B.1090803@gmail.com>
+Message-ID: <CAD2k14Mr9XkDpt5_YGJESyGYtxCuLL2uBPPQbFHps1s7m1FWfA@mail.gmail.com>
+
+On Fri, Apr 26, 2013 at 5:32 AM, Martyn Rittman <martynrittman at gmail.com>wrote:
+
+> Hi all,
+>
+>
+Greetings and welcome
+
+
+> I've been following the list for a few weeks now, but only just got around
+> to introducing myself. Having been a postdoc for a few years in the UK and
+> Germany (working on various kinds of biophysical instrumentation), I've
+> recently joined MDPI, an open access publisher in Basel, as an editor.
+>
+> [Copying open-access list]
+
+MDPI is a BOAI-compliant publishers and one of the relatively few such
+which publish chemistry. As a result I am using their content for
+content-mining (#ami2).
+
+ Up until 2008 they used the CC-NC licence. I wrote to them (and some other
+publishers) pointing out the downside of CC-NC.
+
+*Up to 2008 most articles published by MDPI contained the note "? year by
+MDPI (http://www.mdpi.org). Reproduction is permitted for noncommercial
+purposes". During 2008 MDPI journals started to publish articles under
+the Creative
+Commons Attribution License
+<http://creativecommons.org/licenses/by/3.0/>[image:
+external link]. However, all articles published by MDPI before and during
+2008 should be considered as released under the same Creative Commons
+Attribution License since 2008.*
+
+So it's worth writing to CC-NC publishers - many of whom are not aware of
+the downsides. Of course some of the others use CC-NC as a way of
+restricting redistribution to try to protect their markets. But we should
+still write.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130426/b6a71c58/attachment.htm>
+
+From everton.alvarenga at okfn.org  Mon Apr 29 13:41:16 2013
+From: everton.alvarenga at okfn.org (Everton Zanella Alvarenga)
+Date: Mon, 29 Apr 2013 09:41:16 -0300
+Subject: [Open-access] Inequitable power dynamics of global knowledge
+ production and exchange must be confronted head on Fwd: [Wikimedia-l]
+Message-ID: <CAOUmeJCQv11p_oHiS5b7oe-mBteoV=z4n32_968GJwBvK2HiRQ@mail.gmail.com>
+
+Hi, just sharing the text bellow I've sent to another mailing list. Tom
+
+
+---------- Forwarded message ----------
+From: Everton Zanella Alvarenga <tom at wikimedia.org>
+Date: 2013/4/29
+Subject: [Wikimedia-l] Inequitable power dynamics of global knowledge
+production and exchange must be confronted head on
+To: Wikimedia Mailing List <wikimedia-l at lists.wikimedia.org>
+
+
+Please, see
+
+http://blogs.lse.ac.uk/impactofsocialsciences/2013/04/29/redrawing-the-map-from-access-to-participation/
+
+Worth thinking on the impact this can also have on Wikimedia projects when
+it comes to the actual knowledge
+divide<http://en.wikipedia.org/wiki/Knowledge_divide>,
+mainly like Wikipedia, which aggregates knowledge in the form of a
+encyclopedia through reliable sources.
+
+This reminds me the reason why organizations like Article
+19<http://www.article19.org/>were created (private communication with
+a friend who worked there), where
+a UNESCO report from the 80's already pointed out such divide (I have to
+remember the name of the report).
+
+To face this reality is a way for we try to learn what can be done in terms
+of metrics on our global projects.
+
+(Although I must tell my biggest concern now is that we from the global
+south - or whatever you call it, maybe we could call the big fraction of
+the world without access to knowledge - have access to scientific and
+educational knowledge.)
+
+Tom
+
+--
+Everton Zanella Alvarenga (also Tom)
+"A life spent making mistakes is not only more honorable, but more useful
+than a life spent doing nothing."
+_______________________________________________
+Wikimedia-l mailing list
+Wikimedia-l at lists.wikimedia.org
+Unsubscribe: https://lists.wikimedia.org/mailman/listinfo/wikimedia-l
+
+
+--
+Everton Zanella Alvarenga (also Tom)
+OKFN Brasil - Rede pelo Conhecimento Livre
+http://br.okfn.org
+
+
+From mark at cottagelabs.com  Mon Apr 29 16:07:20 2013
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Mon, 29 Apr 2013 16:07:20 +0100
+Subject: [Open-access] ERRA
+Message-ID: <CAFxzj8RvD0p5eFiEV2O5oNvUBWhGwBkjb74dm=DUvN9zXbR+rg@mail.gmail.com>
+
+http://www.theregister.co.uk/2013/04/29/err_act_landgrab/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20130429/364d29f4/attachment.htm>
+

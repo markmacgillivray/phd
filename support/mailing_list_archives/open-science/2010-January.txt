@@ -1,0 +1,167 @@
+From PegasusInfo at earthlink.net  Wed Jan 20 17:56:27 2010
+From: PegasusInfo at earthlink.net (Peggy Schaeffer)
+Date: Wed, 20 Jan 2010 18:56:27 +0100
+Subject: [open-science] Scholarly Journals Introduce Data Archiving Policy
+Message-ID: <4B5743CB.2070108@earthlink.net>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100120/2dfc877a/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Jan 20 18:16:01 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 20 Jan 2010 18:16:01 +0000
+Subject: [open-science] Open Knowledge Conference (OKCon) 2010: Call for
+	Proposals
+Message-ID: <54ca21751001201016w4c173fbfra005c73a6247897f@mail.gmail.com>
+
+~~ Open Knowledge Conference (OKCon) 2010: Call for Proposals ~~
+
+ * where: London, UK
+ * when: Saturday 24th April, 2010
+ * www: http://www.okfn.org/okcon/
+ * last year: http://www.okfn.org/okcon/2009/
+ * cfp: http://www.okfn.org/okcon/cfp/ (deadline: Jan 31st 2010)
+ * hashtag: #okcon2010
+
+## Introduction
+
+OKCon, now in its fifth year, is the interdisciplinary conference that
+brings together individuals from across the open knowledge spectrum for
+a day of presentations and workshops.
+
+Open knowledge promises significant social and economic benefits in a
+wide range of areas from governance to science, culture to technology.
+Opening up access to content and data can radically increase access and
+reuse, improving transparency, fostering innovation and increasing
+societal welfare.
+
+This is a time of great change. In addition to high profile initiatives
+such as Wikipedia, OpenStreetMap and the Human Genome Project, there is
+enormous growth among open knowledge projects and communities at all
+levels. Moreover, in the last year, many governments across the world
+have begun opening up their data.
+
+And it doesn't stop there. In academia, open access to both publications
+and data has been gathering momentum, and similar calls to open up
+learning materials have been heard in education. Furthermore this
+gathering flood of open data and content is the creator and driver of
+massive technological change. How can we make this data available, how
+can we connect it together, how can we use it collaborate and share our
+work?
+
+Join us to discuss all of this and more!
+
+## Topics
+
+We welcome proposals on any aspect of creating, publishing or reusing
+content or data that is open in accordance with
+http://opendefinition.org. Topics include but are not limited to:
+
+### Technology
+
+ * Semantic Web and Linked Data in relation to open knowledge
+ * Platforms, methods and tools for creating, sharing and curating open
+   knowledge
+ * Light-weight, adaptive interaction models
+ * Open, decentralized social network applications
+ * Open geospatial data
+
+### Law, Society and Democracy
+
+ * Open Licensing, Legal Tools and the Public Domain
+ * Open government data and content (public sector information)
+ * Open knowledge and international development
+ * Opening up access to the law
+
+### Culture and Education
+
+ * Open educational tools and resources
+ * Business models for open content
+ * Incentive and rewards open-knowledge contributors
+ * Open textbooks
+ * Public domain digitisation initiatives
+
+### Science and Research
+
+ * Opening up scientific data
+ * Supporting scientific workflows with open knowledge models
+ * Open models for scientific innovation, funding and publication
+   ('open-access')
+ * Tools for analysing and visualizing open data
+ * Open knowledge in the humanities
+
+## Submission Details
+
+ * Submission deadline: January 31st 2010
+ * Notification of acceptance: March 1st
+ * Camera-ready papers due: March 31st
+
+We are accepting three types of submissions:
+
+ 1. Full papers of 5-10 pages describing novel strategies, tools,
+    services or best-practices related to open knowledge.
+ 2. Extended talk abstracts of 2-4 pages focusing on novel ideas,
+    ongoing work and upcoming research challenges.
+ 3. Proposals for short talks and demonstrations
+
+OKCon will implement an open submission and reviewing process. To make a
+submission visit:
+
+  * http://www.okfn.org/okcon/submit/
+
+Depending on the assessment of the submissions by the programme
+committee and external reviewers, submissions will be accepted either as
+full, short or lightning/poster presentations.
+
+Proceedings of OKCON will be published at http://ceur-ws.org. If you
+want your submission to be included in the conference proceedings you
+have to prepare a manuscript of your submission according to the LNCS
+Style.
+
+### Programme Committee
+
+ * S?ren Auer, AKSW/Universit?t Leipzig
+ * Christopher Corbin, UK Advisory Board on Public Sector Information
+ * Adnan Hadzi and Andrea Rota, Goldsmiths College, University of London
+ * Claudia M?ller-Birn, Carnegie Mellon University
+ * Peter Murray-Rust, University of Cambridge
+ * Rufus Pollock, Open Knowledge Foundation and Emmanuel College,
+   University of Cambridge
+ * Joseph Seddon, Wikimedia UK
+ * John Wilbanks, Science Commons
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+Twitter/Identica: jwyg
+
+
+From jonathan.gray at okfn.org  Thu Jan 28 17:40:48 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 28 Jan 2010 18:40:48 +0100
+Subject: [open-science] Looking for people interested in open science for
+	new network on open data in science!
+Message-ID: <54ca21751001280940i7f8cbeen5160e0b2e3f08d57@mail.gmail.com>
+
+Hi all,
+
+Just a quick note to ask for expressions of interest for a new network
+on open data in science. If you're interested, please contact me
+off-list as soon as possible!
+
+Particularly interested in early career-stage researchers/scientists,
+but all welcome!
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+Twitter/Identica: jwyg
+
+

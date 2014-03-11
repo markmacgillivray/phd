@@ -1,0 +1,3031 @@
+From pm286 at cam.ac.uk  Wed Jun  2 16:17:12 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 2 Jun 2010 16:17:12 +0100
+Subject: [open-science] Reminder: Working Group meeting on Wednesday
+In-Reply-To: <20100531182105.GA4187@grossmeier.net>
+References: <20100531182105.GA4187@grossmeier.net>
+Message-ID: <AANLkTilgRU_n9QD67JZcexLPkAmNIpFzFKh9OpvMQxSJ@mail.gmail.com>
+
+Greg my skype is peter.murray.rust
+
+P.
+
+
+
+On Mon, May 31, 2010 at 7:21 PM, Greg Grossmeier <greg at grossmeier.net>wrote:
+
+> Hello,
+>
+> This Wednesday at 17:00 UTC (6pm London, 1pm New York, 10am San
+> Francisco) is our working group conference call. Time and date in your
+> timezone: http://ur1.ca/03mr9  Please indicate your ability to attend
+> here: http://ur1.ca/04lrq
+>
+> = Participation: =
+>  * Chat (IRC): the #okfn channel on the OFTC IRC network (via a web
+>    interface here: http://ur1.ca/4fh )
+>  * Voice (Skype): please send me (Greg, skypeid:greg.grossmeier) your
+>    Skype ID before the call.
+>    * We will use a backup conference call line if there are more than 8
+>      participants.
+>  * Notes: http://pad.okfn.org/open-science
+>
+> = Possible agenda items: =
+>  * CKAN for open data in science
+>    * Chemistry data pilot -- what metadata
+>    * Need for discovery tools? E.g. to fit with existing workflows
+>  * Summaries in different domains. One or two - e.g. chemistry,
+>    biogenetics, or environmental, ...
+>    * Who are the key people in different areas...
+>  * Panton Principles - what next? building consensus: e.g. Wellcome, NSF
+>  * Panton discussions - podcast / interview
+>  * Guest blog posts - detail but also for non-specialists...
+>  * Competitions
+>    * e.g.: http://www.biomedcentral.com/researchawards/otherawards/
+>  * Logo / buttons
+>    *
+> http://lists.okfn.org/pipermail/open-science/2010-February/000170.html
+>  * Interns/grad students call for participation (what could they work
+>    on?)
+>  * International open data in science event? Two day
+>    workshop/unconference? E.g. in 2011-2012?
+>
+>
+> Best,
+>
+> Greg
+>
+> --
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100602/c4638484/attachment.htm>
+
+From egon.willighagen at gmail.com  Wed Jun  2 16:21:04 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 2 Jun 2010 17:21:04 +0200
+Subject: [open-science] Reminder: Working Group meeting on Wednesday
+In-Reply-To: <20100531182105.GA4187@grossmeier.net>
+References: <20100531182105.GA4187@grossmeier.net>
+Message-ID: <AANLkTilx2poKwUr0WFj0cogBDOKqRZvtLMADslgM5eTk@mail.gmail.com>
+
+Hi all,
+
+On Mon, May 31, 2010 at 8:21 PM, Greg Grossmeier <greg at grossmeier.net> wrote:
+> This Wednesday at 17:00 UTC (6pm London, 1pm New York, 10am San
+> Francisco) is our working group conference call. Time and date in your
+> timezone: http://ur1.ca/03mr9 ?Please indicate your ability to attend
+> here: http://ur1.ca/04lrq
+
+I will not be able to make it later today :(
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From rufus.pollock at okfn.org  Wed Jun  2 18:19:36 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 2 Jun 2010 18:19:36 +0100
+Subject: [open-science] remove duplicate entries on CKAN?
+In-Reply-To: <AANLkTimvDzVOQ8coZvWbkVIrog2clAsBDAlVSlAXOfeX@mail.gmail.com>
+References: <AANLkTimvDzVOQ8coZvWbkVIrog2clAsBDAlVSlAXOfeX@mail.gmail.com>
+Message-ID: <AANLkTilrrUss8og-5hNEaLwO1h_eAugXg8gzJhdr_r6V@mail.gmail.com>
+
+On 21 May 2010 15:10, Egon Willighagen <egon.willighagen at gmail.com> wrote:
+> Hi all,
+>
+> one more question about CKAN... I just updated some info on the LODD
+> data, and then saw that there is actually a second entry for the same
+> data:
+>
+> http://ckan.net/package/linking-open-drug-data
+> http://ckan.net/package/lodd_group
+>
+> How does one merge two entries and remove the duplicate?
+
+Sorry, for delayed reply! This has been a very frequent question:
+
+<http://wiki.okfn.org/ckan/doc/faq/#HowDoIDealwithDuplicatePackages>
+
+Basic answer at the moment is: "merge by hand" and deprecate
+("delete") duplicate package!
+
+Rufus
+
+
+From greg at grossmeier.net  Wed Jun  2 19:34:19 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Wed, 2 Jun 2010 14:34:19 -0400
+Subject: [open-science] Summary of today's meeting
+Message-ID: <20100602183419.GA7428@grossmeier.net>
+
+Hello Group,
+
+Here is the agenda and summary from today's meeting:
+http://wiki.okfn.org/wg/science/meetings/20100602
+
+Reproduced below for your convenience (though no guarantee on 
+formatting).
+
+Best,
+
+Greg
+
+
+
+Agenda
+
+    * CKAN for open data in science
+          o Chemistry data pilot -- what metadata
+          o Need for discovery tools? E.g. to fit with existing workflows 
+    * Summaries in different domains. One or two - e.g. chemistry, 
+biogenetics, or environmental, ...
+          o Who are the key people in different areas... 
+    * Panton Principles - what next? building consensus: e.g. Wellcome, 
+NSF
+    * Panton discussions - podcast / interview
+    * Guest blog posts - detail but also for non-specialists...
+    * Competitions
+          o e.g.: 
+http://www.biomedcentral.com/researchawards/otherawards/ 
+    * Logo / buttons
+    *
+
+      
+http://lists.okfn.org/pipermail/open-science/2010-February/000170.html
+    * Interns/grad students call for participation (what could they work 
+on?)
+    * International open data in science event? Two day 
+workshop/unconference? E.g. in 2011-2012? 
+
+Summary
+
+    * Searchable for science data
+    * Biographical data on science 19th century 
+
+Chemistry Data Discovery Process
+
+    * many use paid databases
+    * growing movement for freely accessible information
+          o Many people coming through wikipedia or google search 
+    * Getting ways to have Google index more information
+          o But google might not do chemistry specific data (too small 
+market) 
+    * Is there a need for specific basic chemistry metadata set?
+          o Metadata might not really be the problem
+          o Chemistry is very structure centric, so searching by 
+structures is needed (by wholes or fragments) 
+    * pointers from wikipedia to CKAN for references?
+          o but WP is not a place for lists (actively discouraged) 
+    * workshop on finding opendata in chemistry? next steps, etc
+          o Participants: send to blueobelisk list and the Chemistry WP 
+group
+          o Martin Walker (Wikipedia), Blue Obelisk List (Egon 
+Willighagen, Noel O'Boyle) 
+    * getting participation from the people who submitted the datasets
+          o wrt format (xml, rdf) 
+    * Can we provide the equivalent of Open Shakespeare for undergrad 
+chemistry students?
+    * Existing Chemistry packages:
+          o  http://ckan.net/package/search?q=chemistry&search=Search+Packages+%C2%BB
+          o  http://ckan.net/group/chemistry 
+    *
+
+      ChemSpider:
+          You have limited rights in this regard. You can only assemble a 
+database of 5000 structures or less, and their associated properties, 
+from our database without our permission. You can download up to 1000 
+structures per day from the website. Please contact us at 
+feedbackATchemspiderDOTcom to request an extension outside this 
+constraint. These constraints are under regular review so please feel 
+free to engage us in conversation. 
+
+          http://www.chemspider.com/FAQ.aspx 
+
+Panton Principles Concensus
+
+    * isitopen? use
+    * go to the OA publishers to get stated support (start with the DOAJ)
+    * Get grad students to lead the charge to contact publishers to adopt 
+the principles (or support of)
+          o Egon 
+    * Blogosphere / Friendfeed 
+
+Panton Discussions
+
+    * get the geographically close people first (eg: Mark Patterson from 
+PLoS)
+          o  http://www.plos.org/about/people/publishing.php#mpatterson 
+    * google docs with lists of people to include
+          o shoot for 3 people for half an hour 
+    * Great place for grad students/interns participation
+          o recording, coordination, editing, publishing, creating the "I 
+<3 PP" button 
+
+Logo
+
+    * Get the logo discussion going again on the list
+    * do a "I Support the Panton Principles" button 
+
+Unconference for Data
+
+    * Wellcome support? JISC? RIN? EBI? Bio Med Central? Shuttleworth?
+    * Main (Open)Data events:
+          o Open Access-related meetings 
+    * Time frame: Fall 2011. September. 
+
+
+Report on "Archive '10 NSF Workshop on Archiving Experiments to Raise 
+Scientific Standards"
+
+Perhaps of interest to the group, last week I attended the above workshop 
+at the computer science department at University of Utah. Details at the 
+workshop web site http://users.emulab.net/trac/archive10/ The 
+presentation I gave at the workshop is at http://punkish.org/651
+
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From jeanclaude.bradley at gmail.com  Wed Jun  2 20:31:25 2010
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Wed, 2 Jun 2010 15:31:25 -0400
+Subject: [open-science] Summary of today's meeting
+In-Reply-To: <20100602183419.GA7428@grossmeier.net>
+References: <20100602183419.GA7428@grossmeier.net>
+Message-ID: <AANLkTikJ5aMfl_xlZxqVbgS83S3EFURoliCjo7jn4QJD@mail.gmail.com>
+
+Thanks Greg - for the summary and link to your presentation too!
+
+On Wed, Jun 2, 2010 at 2:34 PM, Greg Grossmeier <greg at grossmeier.net> wrote:
+
+> Hello Group,
+>
+> Here is the agenda and summary from today's meeting:
+> http://wiki.okfn.org/wg/science/meetings/20100602
+>
+> Reproduced below for your convenience (though no guarantee on
+> formatting).
+>
+> Best,
+>
+> Greg
+>
+>
+>
+> Agenda
+>
+>    * CKAN for open data in science
+>          o Chemistry data pilot -- what metadata
+>          o Need for discovery tools? E.g. to fit with existing workflows
+>    * Summaries in different domains. One or two - e.g. chemistry,
+> biogenetics, or environmental, ...
+>          o Who are the key people in different areas...
+>    * Panton Principles - what next? building consensus: e.g. Wellcome,
+> NSF
+>    * Panton discussions - podcast / interview
+>    * Guest blog posts - detail but also for non-specialists...
+>    * Competitions
+>          o e.g.:
+> http://www.biomedcentral.com/researchawards/otherawards/
+>    * Logo / buttons
+>    *
+>
+>
+> http://lists.okfn.org/pipermail/open-science/2010-February/000170.html
+>    * Interns/grad students call for participation (what could they work
+> on?)
+>    * International open data in science event? Two day
+> workshop/unconference? E.g. in 2011-2012?
+>
+> Summary
+>
+>    * Searchable for science data
+>    * Biographical data on science 19th century
+>
+> Chemistry Data Discovery Process
+>
+>    * many use paid databases
+>    * growing movement for freely accessible information
+>          o Many people coming through wikipedia or google search
+>    * Getting ways to have Google index more information
+>          o But google might not do chemistry specific data (too small
+> market)
+>    * Is there a need for specific basic chemistry metadata set?
+>          o Metadata might not really be the problem
+>          o Chemistry is very structure centric, so searching by
+> structures is needed (by wholes or fragments)
+>    * pointers from wikipedia to CKAN for references?
+>          o but WP is not a place for lists (actively discouraged)
+>    * workshop on finding opendata in chemistry? next steps, etc
+>          o Participants: send to blueobelisk list and the Chemistry WP
+> group
+>          o Martin Walker (Wikipedia), Blue Obelisk List (Egon
+> Willighagen, Noel O'Boyle)
+>    * getting participation from the people who submitted the datasets
+>          o wrt format (xml, rdf)
+>    * Can we provide the equivalent of Open Shakespeare for undergrad
+> chemistry students?
+>    * Existing Chemistry packages:
+>          o
+> http://ckan.net/package/search?q=chemistry&search=Search+Packages+%C2%BB
+>          o  http://ckan.net/group/chemistry
+>    *
+>
+>      ChemSpider:
+>          You have limited rights in this regard. You can only assemble a
+> database of 5000 structures or less, and their associated properties,
+> from our database without our permission. You can download up to 1000
+> structures per day from the website. Please contact us at
+> feedbackATchemspiderDOTcom to request an extension outside this
+> constraint. These constraints are under regular review so please feel
+> free to engage us in conversation.
+>
+>          http://www.chemspider.com/FAQ.aspx
+>
+> Panton Principles Concensus
+>
+>    * isitopen? use
+>    * go to the OA publishers to get stated support (start with the DOAJ)
+>    * Get grad students to lead the charge to contact publishers to adopt
+> the principles (or support of)
+>          o Egon
+>    * Blogosphere / Friendfeed
+>
+> Panton Discussions
+>
+>    * get the geographically close people first (eg: Mark Patterson from
+> PLoS)
+>          o  http://www.plos.org/about/people/publishing.php#mpatterson
+>    * google docs with lists of people to include
+>          o shoot for 3 people for half an hour
+>    * Great place for grad students/interns participation
+>          o recording, coordination, editing, publishing, creating the "I
+> <3 PP" button
+>
+> Logo
+>
+>    * Get the logo discussion going again on the list
+>    * do a "I Support the Panton Principles" button
+>
+> Unconference for Data
+>
+>    * Wellcome support? JISC? RIN? EBI? Bio Med Central? Shuttleworth?
+>    * Main (Open)Data events:
+>          o Open Access-related meetings
+>    * Time frame: Fall 2011. September.
+>
+>
+> Report on "Archive '10 NSF Workshop on Archiving Experiments to Raise
+> Scientific Standards"
+>
+> Perhaps of interest to the group, last week I attended the above workshop
+> at the computer science department at University of Utah. Details at the
+> workshop web site http://users.emulab.net/trac/archive10/ The
+> presentation I gave at the workshop is at http://punkish.org/651
+>
+>
+> --
+> |       Greg Grossmeier |
+> | http://grossmeier.net |
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100602/6eda3d71/attachment-0001.htm>
+
+From greg at grossmeier.net  Wed Jun  2 21:31:10 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Wed, 2 Jun 2010 16:31:10 -0400
+Subject: [open-science] Summary of today's meeting
+In-Reply-To: <AANLkTikJ5aMfl_xlZxqVbgS83S3EFURoliCjo7jn4QJD@mail.gmail.com>
+References: <20100602183419.GA7428@grossmeier.net>
+	<AANLkTikJ5aMfl_xlZxqVbgS83S3EFURoliCjo7jn4QJD@mail.gmail.com>
+Message-ID: <20100602203110.GM2372@grossmeier.net>
+
+That was P. Kishor's presenation, not mine.
+
+But you're welcome. ;)
+
+Greg
+
+<quoting name="Jean-Claude Bradley" date="2010-06-02" time="15:31:25 -0400">
+> Thanks Greg - for the summary and link to your presentation too!
+> 
+> On Wed, Jun 2, 2010 at 2:34 PM, Greg Grossmeier <greg at grossmeier.net> wrote:
+> 
+> > Hello Group,
+> >
+> > Here is the agenda and summary from today's meeting:
+> > http://wiki.okfn.org/wg/science/meetings/20100602
+> >
+> > Reproduced below for your convenience (though no guarantee on
+> > formatting).
+> >
+> > Best,
+> >
+> > Greg
+> >
+> >
+> >
+> > Agenda
+> >
+> >    * CKAN for open data in science
+> >          o Chemistry data pilot -- what metadata
+> >          o Need for discovery tools? E.g. to fit with existing workflows
+> >    * Summaries in different domains. One or two - e.g. chemistry,
+> > biogenetics, or environmental, ...
+> >          o Who are the key people in different areas...
+> >    * Panton Principles - what next? building consensus: e.g. Wellcome,
+> > NSF
+> >    * Panton discussions - podcast / interview
+> >    * Guest blog posts - detail but also for non-specialists...
+> >    * Competitions
+> >          o e.g.:
+> > http://www.biomedcentral.com/researchawards/otherawards/
+> >    * Logo / buttons
+> >    *
+> >
+> >
+> > http://lists.okfn.org/pipermail/open-science/2010-February/000170.html
+> >    * Interns/grad students call for participation (what could they work
+> > on?)
+> >    * International open data in science event? Two day
+> > workshop/unconference? E.g. in 2011-2012?
+> >
+> > Summary
+> >
+> >    * Searchable for science data
+> >    * Biographical data on science 19th century
+> >
+> > Chemistry Data Discovery Process
+> >
+> >    * many use paid databases
+> >    * growing movement for freely accessible information
+> >          o Many people coming through wikipedia or google search
+> >    * Getting ways to have Google index more information
+> >          o But google might not do chemistry specific data (too small
+> > market)
+> >    * Is there a need for specific basic chemistry metadata set?
+> >          o Metadata might not really be the problem
+> >          o Chemistry is very structure centric, so searching by
+> > structures is needed (by wholes or fragments)
+> >    * pointers from wikipedia to CKAN for references?
+> >          o but WP is not a place for lists (actively discouraged)
+> >    * workshop on finding opendata in chemistry? next steps, etc
+> >          o Participants: send to blueobelisk list and the Chemistry WP
+> > group
+> >          o Martin Walker (Wikipedia), Blue Obelisk List (Egon
+> > Willighagen, Noel O'Boyle)
+> >    * getting participation from the people who submitted the datasets
+> >          o wrt format (xml, rdf)
+> >    * Can we provide the equivalent of Open Shakespeare for undergrad
+> > chemistry students?
+> >    * Existing Chemistry packages:
+> >          o
+> > http://ckan.net/package/search?q=chemistry&search=Search+Packages+%C2%BB
+> >          o  http://ckan.net/group/chemistry
+> >    *
+> >
+> >      ChemSpider:
+> >          You have limited rights in this regard. You can only assemble a
+> > database of 5000 structures or less, and their associated properties,
+> > from our database without our permission. You can download up to 1000
+> > structures per day from the website. Please contact us at
+> > feedbackATchemspiderDOTcom to request an extension outside this
+> > constraint. These constraints are under regular review so please feel
+> > free to engage us in conversation.
+> >
+> >          http://www.chemspider.com/FAQ.aspx
+> >
+> > Panton Principles Concensus
+> >
+> >    * isitopen? use
+> >    * go to the OA publishers to get stated support (start with the DOAJ)
+> >    * Get grad students to lead the charge to contact publishers to adopt
+> > the principles (or support of)
+> >          o Egon
+> >    * Blogosphere / Friendfeed
+> >
+> > Panton Discussions
+> >
+> >    * get the geographically close people first (eg: Mark Patterson from
+> > PLoS)
+> >          o  http://www.plos.org/about/people/publishing.php#mpatterson
+> >    * google docs with lists of people to include
+> >          o shoot for 3 people for half an hour
+> >    * Great place for grad students/interns participation
+> >          o recording, coordination, editing, publishing, creating the "I
+> > <3 PP" button
+> >
+> > Logo
+> >
+> >    * Get the logo discussion going again on the list
+> >    * do a "I Support the Panton Principles" button
+> >
+> > Unconference for Data
+> >
+> >    * Wellcome support? JISC? RIN? EBI? Bio Med Central? Shuttleworth?
+> >    * Main (Open)Data events:
+> >          o Open Access-related meetings
+> >    * Time frame: Fall 2011. September.
+> >
+> >
+> > Report on "Archive '10 NSF Workshop on Archiving Experiments to Raise
+> > Scientific Standards"
+> >
+> > Perhaps of interest to the group, last week I attended the above workshop
+> > at the computer science department at University of Utah. Details at the
+> > workshop web site http://users.emulab.net/trac/archive10/ The
+> > presentation I gave at the workshop is at http://punkish.org/651
+> >
+> >
+> > --
+> > |       Greg Grossmeier |
+> > | http://grossmeier.net |
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> 
+> 
+> 
+> -- 
+> Jean-Claude Bradley, Ph. D.
+> E-Learning Coordinator for the College of Arts and Sciences
+> Associate Professor of Chemistry
+> Drexel University
+> 
+> http://usefulchem.blogspot.com
+> http://drexel-coas-elearning.blogspot.com
+> http://drexel-coas-talks-mp3-podcast.blogspot.com/
+> http://friendfeed.com/jcbradley
+
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From kanzure at gmail.com  Fri Jun  4 15:58:25 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Fri, 4 Jun 2010 09:58:25 -0500
+Subject: [open-science] Open Science Summit 2010 (July 29-31 @ Berkeley,
+	California)
+Message-ID: <AANLkTilH1sXZGBZ4vFVyrK8sAsRuoXF5fkK0l2S0pHTK@mail.gmail.com>
+
+
+From jonathan.gray at okfn.org  Mon Jun  7 23:21:50 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 8 Jun 2010 00:21:50 +0200
+Subject: [open-science] Anyone know anyone at Polar Commons?
+Message-ID: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com>
+
+Would be great to invite them to this list -- and to guest blog about
+what they are doing!
+
+  http://www.polarcommons.org/
+
+Also what license will the data be under? Presume (and hope) CC0?
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From kaitlin at creativecommons.org  Mon Jun  7 23:29:15 2010
+From: kaitlin at creativecommons.org (Kaitlin Thaney)
+Date: Mon, 7 Jun 2010 18:29:15 -0400
+Subject: [open-science] Anyone know anyone at Polar Commons?
+In-Reply-To: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com>
+References: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com>
+Message-ID: <AANLkTilLmMTeLhPm18VcINjmmIxVikkHYGioQZWpqraq@mail.gmail.com>
+
+Hi Jonathan -
+
+The Polar Information Commons is a data sharing project led by a number of
+leaders in the field using data from the most recent International Polar
+Year. There are 2 options for badging the IPY data -- public domain under
+CC0 or CC-BY-3.0 where necessary.
+
+I'd suggest contacting Mark Parsons at the National Snow and Ice Data Center
+in Boulder, CO.
+
+Best,
+K
+
+
+--------------------------------------
+Kaitlin Thaney
+Program Manager
+Science Commons, a project of Creative Commons
+http://sciencecommons.org
+http://creativecommons.org
+kaitlin at creativecommons.org
+--------------------------------------
+
+
+On Mon, Jun 7, 2010 at 6:21 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Would be great to invite them to this list -- and to guest blog about
+> what they are doing!
+>
+>  http://www.polarcommons.org/
+>
+> Also what license will the data be under? Presume (and hope) CC0?
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100607/7586bde8/attachment.htm>
+
+From bchen at ciesin.columbia.edu  Mon Jun  7 23:45:29 2010
+From: bchen at ciesin.columbia.edu (Bob Chen)
+Date: Mon, 7 Jun 2010 18:45:29 -0400 (EDT)
+Subject: [open-science] Anyone know anyone at Polar Commons?
+In-Reply-To: <AANLkTilLmMTeLhPm18VcINjmmIxVikkHYGioQZWpqraq@mail.gmail.com>
+References: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com>
+	<AANLkTilLmMTeLhPm18VcINjmmIxVikkHYGioQZWpqraq@mail.gmail.com>
+Message-ID: <Pine.GSO.4.64.1006071843080.4987@pinebox.ciesin.columbia.edu>
+
+Jonathan, Kaitlin--
+
+I'm already on the list. Wasn't planning to blog, but will try to 
+coordinate with Mark P. to post some comments to the list later this 
+week from Oslo (Mark is there already, I'm waiting for my flight!).
+
+Cheers, Bob
+
+*****
+Dr. Robert S. Chen
+Director, Center for International Earth Science Information Network
+  (CIESIN), The Earth Institute, Columbia University
+Manager, NASA Socioeconomic Data and Applications Center (SEDAC)
+Secretary General, CODATA, Committee on Data for Science and Technology,
+  International Council for Science (ICSU)
+P.O. Box 1000, 61 Route 9W, Palisades, NY 10964 USA
+tel. +1 845-365-8952; fax +1 845-365-8922
+e-mail: bchen at ciesin.columbia.edu
+CIESIN web site: http://www.ciesin.columbia.edu
+SEDAC web site: http://sedac.ciesin.columbia.edu
+CODATA web site: http://www.codata.org
+
+
+On Mon, 7 Jun 2010, Kaitlin Thaney wrote:
+
+> Date: Mon, 7 Jun 2010 18:29:15 -0400
+> From: Kaitlin Thaney <kaitlin at creativecommons.org>
+> To: Jonathan Gray <jonathan.gray at okfn.org>, open-science at lists.okfn.org
+> Subject: Re: [open-science] Anyone know anyone at Polar Commons?
+> 
+> Hi Jonathan -
+>
+> The Polar Information Commons is a data sharing project led by a number of
+> leaders in the field using data from the most recent International Polar
+> Year. There are 2 options for badging the IPY data -- public domain under
+> CC0 or CC-BY-3.0 where necessary.
+>
+> I'd suggest contacting Mark Parsons at the National Snow and Ice Data Center
+> in Boulder, CO.
+>
+> Best,
+> K
+>
+>
+> --------------------------------------
+> Kaitlin Thaney
+> Program Manager
+> Science Commons, a project of Creative Commons
+> http://sciencecommons.org
+> http://creativecommons.org
+> kaitlin at creativecommons.org
+> --------------------------------------
+>
+>
+> On Mon, Jun 7, 2010 at 6:21 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+>
+>> Would be great to invite them to this list -- and to guest blog about
+>> what they are doing!
+>>
+>>  http://www.polarcommons.org/
+>>
+>> Also what license will the data be under? Presume (and hope) CC0?
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+
+
+From punkish at eidesis.org  Mon Jun  7 23:37:44 2010
+From: punkish at eidesis.org (Mr. Puneet Kishor)
+Date: Mon, 7 Jun 2010 17:37:44 -0500
+Subject: [open-science] Anyone know anyone at Polar Commons?
+In-Reply-To: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com>
+References: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com>
+Message-ID: <00E5D87C-280D-4D6B-95FF-D540FC29DAD8@eidesis.org>
+
+Jonathan,
+
+I know Paul Cutler (ICSU) who is involved with the Polar Commons. He might (blog) or suggest someone who might.
+
+
+On Jun 7, 2010, at 5:21 PM, Jonathan Gray wrote:
+
+> Would be great to invite them to this list -- and to guest blog about
+> what they are doing!
+> 
+>  http://www.polarcommons.org/
+> 
+> Also what license will the data be under? Presume (and hope) CC0?
+> 
+> -- 
+> Jonathan Gray
+> 
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+> 
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+Puneet Kishor http://punkish.org
+Carbon Model http://carbonmodel.org
+Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+-----------------------------------------------------------------------
+Assertions are politics; backing up assertions with evidence is science
+=======================================================================
+
+
+
+From tom.moritz at gmail.com  Tue Jun  8 04:10:42 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Mon, 7 Jun 2010 20:10:42 -0700
+Subject: [open-science] Anyone know anyone at Polar Commons?
+In-Reply-To: <00E5D87C-280D-4D6B-95FF-D540FC29DAD8@eidesis.org>
+References: <AANLkTinzkLZxJap2WVQI6vNfQ7XEc0RnNA5IaifSmLDA@mail.gmail.com> 
+	<00E5D87C-280D-4D6B-95FF-D540FC29DAD8@eidesis.org>
+Message-ID: <AANLkTinTVvbus-tHVveK7EiQ804E7NCA7SiX0DDdDIDP@mail.gmail.com>
+
+I was going to suggest Bob Chen (!?) -- Paul Uhlir (S NRC)  is almost always
+someone who can provide
+useful connections of this sort...
+
+Tom
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+--Heraclitus
+
+Please consider the environment before printing this email.
+
+
+On Mon, Jun 7, 2010 at 3:37 PM, Mr. Puneet Kishor <punkish at eidesis.org>wrote:
+
+> Jonathan,
+>
+> I know Paul Cutler (ICSU) who is involved with the Polar Commons. He might
+> (blog) or suggest someone who might.
+>
+>
+> On Jun 7, 2010, at 5:21 PM, Jonathan Gray wrote:
+>
+> > Would be great to invite them to this list -- and to guest blog about
+> > what they are doing!
+> >
+> >  http://www.polarcommons.org/
+> >
+> > Also what license will the data be under? Presume (and hope) CC0?
+> >
+> > --
+> > Jonathan Gray
+> >
+> > Community Coordinator
+> > The Open Knowledge Foundation
+> > http://blog.okfn.org
+> >
+> > http://twitter.com/jwyg
+> > http://identi.ca/jwyg
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+>
+> --
+> Puneet Kishor http://punkish.org
+> Carbon Model http://carbonmodel.org
+> Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+> Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+> Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+> -----------------------------------------------------------------------
+> Assertions are politics; backing up assertions with evidence is science
+> =======================================================================
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100607/bf7ac839/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Jun 15 08:33:59 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 15 Jun 2010 08:33:59 +0100
+Subject: [open-science] Climate Change
+Message-ID: <AANLkTil6jnqMiub3xwgGgW4KYwviy4otFrBcmF4-oAyc@mail.gmail.com>
+
+I have posted a report on a meeting I went to last night.
+http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2449
+I believe that this is an area in which the OKF's involvement will be
+positive and important.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100615/56f8ae51/attachment.htm>
+
+From lmckee at opengeospatial.org  Tue Jun 15 13:42:32 2010
+From: lmckee at opengeospatial.org (Lance McKee)
+Date: Tue, 15 Jun 2010 08:42:32 -0400
+Subject: [open-science] Climate Change
+In-Reply-To: <AANLkTil6jnqMiub3xwgGgW4KYwviy4otFrBcmF4-oAyc@mail.gmail.com>
+References: <AANLkTil6jnqMiub3xwgGgW4KYwviy4otFrBcmF4-oAyc@mail.gmail.com>
+Message-ID: <6FACC490-224A-4E91-A7A6-3E8BBA1F499A@opengeospatial.org>
+
+Peter,
+
+I call your attention to one activity of the Open Geospatial  
+Consortium (OGC): the GEOSS Architecture Implementation Pilot 3  
+(AIP-3) data sharing activity: http://sites.google.com/a/aip3.ogcnetwork.net/home/home/aip-3-kickoff/data-sharing-guidelines 
+  .
+
+There are many in the OGC (http://www.opengeospatial.org) who share  
+your concerns about climate data. OGC runs a consensus process in  
+which government and private sector organizations collaborate to  
+develop open interfaces and encodings that enable, among other things,  
+sharing of geospatial data, including climate data. I think the OGC is  
+likely to play an important role in the opening up of climate science.
+
+I invite you to look through a presentation in which I gathered my  
+learnings and musings about the importance, feasibility and  
+inevitability of persistent and open publishing of scientific  
+geospatial data: http://portal.opengeospatial.org/files/?artifact_id=37254 
+  .
+
+Lance McKee
+Senior Staff Writer
+Open Geospatial Consortium (OGC)
+508-752-0108
+lmckee at opengeospatial.org
+
+The OGC: International Location Standards
+http://www.opengeospatial.org
+
+
+
+
+
+
+On Jun 15, 2010, at 3:33 AM, Peter Murray-Rust wrote:
+
+> I have posted a report on a meeting I went to last night.
+> http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2449
+> I believe that this is an area in which the OKF's involvement will  
+> be positive and important.
+>
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100615/76b57903/attachment.htm>
+
+From wilbanks at creativecommons.org  Tue Jun 15 18:40:23 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Tue, 15 Jun 2010 10:40:23 -0700
+Subject: [open-science] Climate Change
+In-Reply-To: <6FACC490-224A-4E91-A7A6-3E8BBA1F499A@opengeospatial.org>
+References: <AANLkTil6jnqMiub3xwgGgW4KYwviy4otFrBcmF4-oAyc@mail.gmail.com>
+	<6FACC490-224A-4E91-A7A6-3E8BBA1F499A@opengeospatial.org>
+Message-ID: <8C764C09-26A3-463C-96A5-251020941B79@creativecommons.org>
+
+We've spent a lot of time on climate change and open science at Creative Commons. I have a personal interest, as my father is a climate change researcher and was an author on the most recent IPCC report. He and I co-wrote a paper on open innovation in sustainable development earlier this year which was OA, and the references for that paper are a good start for the non-data side of the problem. It's at http://www.mdpi.com/2071-1050/2/4/993/
+
+In most cases in climate change science, impacts, and adaptive responses, the hurdles for open science are not intellectual property rights but scientific practices related to confidentiality and protecting one's own data and models - a different challenge. The current evaluation of iPCC being done by the Interacademy Council at the request of the UN is beginning to take a look at how such conventional scientific practices can become a threat to the perceived integrity of science. IP is a footnote in the debate, unlike in OA or in free software or in free culture. Our successes in these spaces have sadly conditioned us to look at "free" legal tools as our hammers, and see the world as a bunch of nails. It's a great irony actually. 
+
+In the case of climate change mitigation, of course, the open science issues are similar to those in other areas of traditional manufactured technology - accentuated by the fact that the main drivers of increases in global GHG emissions are now in the larger developing countries, while the industrialized countries still control a lot of the intellectual property for addressing that problem....
+
+In many ways the "open" debate about data fails to capture the reality of these issues. Making data open, even fully compliant with the Science Commons protocol, is actually far from enough. I hope that we can make these debates nuanced enough that we don't push "open" as the end game, because I can comply with the protocol, or with Panton, and still have my data be worthless from a scientific perspective. An extreme example would be that I publish PDFs of my data under PDDL, and claim the mantle of "open". If we as a community push "open" as the goal, and not "useful" as the goal, then we enable that outcome. 
+
+Open climate science, at least as it regards data, is almost never an intellectual property problem. It's a culture problem, it's a technology problem (formats, ontologies, standards), and it's a language problem. It's a political problem, it's an incentive problem. Getting rid of the IP is no more than table stakes. And if we don't deal with the inventions - the technologies that both create climate problems and that promise to mitigate them in adaptation - then we won't be changing the world the way we want. That's a big part of why our science work has shifted to focusing significantly on patent licensing and materials transfer...
+
+jtw
+
+
+On Jun 15, 2010, at 5:42 AM, Lance McKee wrote:
+
+> Peter,
+> 
+> I call your attention to one activity of the Open Geospatial Consortium (OGC): the GEOSS Architecture Implementation Pilot 3 (AIP-3) data sharing activity: http://sites.google.com/a/aip3.ogcnetwork.net/home/home/aip-3-kickoff/data-sharing-guidelines .
+> 
+> There are many in the OGC (http://www.opengeospatial.org) who share your concerns about climate data. OGC runs a consensus process in which government and private sector organizations collaborate to develop open interfaces and encodings that enable, among other things, sharing of geospatial data, including climate data. I think the OGC is likely to play an important role in the opening up of climate science.
+> 
+> I invite you to look through a presentation in which I gathered my learnings and musings about the importance, feasibility and inevitability of persistent and open publishing of scientific geospatial data: http://portal.opengeospatial.org/files/?artifact_id=37254 .
+> 
+> Lance McKee
+> Senior Staff Writer
+> Open Geospatial Consortium (OGC)
+> 508-752-0108
+> lmckee at opengeospatial.org
+> 
+> The OGC: International Location Standards
+> http://www.opengeospatial.org
+> 
+> 
+> 
+> 
+> 
+> 
+> On Jun 15, 2010, at 3:33 AM, Peter Murray-Rust wrote:
+> 
+>> I have posted a report on a meeting I went to last night.
+>> http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2449
+>> I believe that this is an area in which the OKF's involvement will be positive and important.
+>> 
+>> -- 
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100615/eddb4981/attachment.htm>
+
+From lmckee at opengeospatial.org  Tue Jun 15 19:16:14 2010
+From: lmckee at opengeospatial.org (Lance McKee)
+Date: Tue, 15 Jun 2010 14:16:14 -0400
+Subject: [open-science] Climate Change
+In-Reply-To: <8C764C09-26A3-463C-96A5-251020941B79@creativecommons.org>
+References: <AANLkTil6jnqMiub3xwgGgW4KYwviy4otFrBcmF4-oAyc@mail.gmail.com>
+	<6FACC490-224A-4E91-A7A6-3E8BBA1F499A@opengeospatial.org>
+	<8C764C09-26A3-463C-96A5-251020941B79@creativecommons.org>
+Message-ID: <F5AF0003-D576-4F81-B2FE-01592632E414@opengeospatial.org>
+
+Thank you, John. This is a good statement of the problem by someone  
+more immersed in the issue than I am.
+
+I've skimmed the paper you wrote with your father, and I'm excited to  
+see that you are looking at sustainability through some of the same  
+disciplinary lenses I am interested in but don't understand well. When  
+I read it more carefully, I'll be looking for ties to the little I  
+know about "regime change", items to feed or dispell my gloom about  
+Schumpeter's seldom-noted prediction of the end of creative  
+destruction (monopolies win in the end), and implications for  
+sustainability of the "beyond-Metcalf's Law" network laws in Ogle's  
+"Smart World": 1) the law of tipping points, 2) the law of the fit get  
+rich, 3) the law of the fit get fitter, 4) the law of spontaneous  
+generation, 5) the law of navigation, 6) the law of hotspots, 7) the  
+law of small worlds networks, 8) the law of integration, 9) the law of  
+minimal effort.
+
+Thanks for your reply.
+
+Lance
+
+
+
+
+
+
+On Jun 15, 2010, at 1:40 PM, John Wilbanks wrote:
+
+> We've spent a lot of time on climate change and open science at  
+> Creative Commons. I have a personal interest, as my father is a  
+> climate change researcher and was an author on the most recent IPCC  
+> report. He and I co-wrote a paper on open innovation in sustainable  
+> development earlier this year which was OA, and the references for  
+> that paper are a good start for the non-data side of the problem.  
+> It's at http://www.mdpi.com/2071-1050/2/4/993/
+>
+> In most cases in climate change science, impacts, and adaptive  
+> responses, the hurdles for open science are not intellectual  
+> property rights but scientific practices related to confidentiality  
+> and protecting one's own data and models - a different challenge.  
+> The current evaluation of iPCC being done by the Interacademy  
+> Council at the request of the UN is beginning to take a look at how  
+> such conventional scientific practices can become a threat to the  
+> perceived integrity of science. IP is a footnote in the debate,  
+> unlike in OA or in free software or in free culture. Our successes  
+> in these spaces have sadly conditioned us to look at "free" legal  
+> tools as our hammers, and see the world as a bunch of nails. It's a  
+> great irony actually.
+>
+> In the case of climate change mitigation, of course, the open  
+> science issues are similar to those in other areas of traditional  
+> manufactured technology - accentuated by the fact that the main  
+> drivers of increases in global GHG emissions are now in the larger  
+> developing countries, while the industrialized countries still  
+> control a lot of the intellectual property for addressing that  
+> problem....
+>
+> In many ways the "open" debate about data fails to capture the  
+> reality of these issues. Making data open, even fully compliant with  
+> the Science Commons protocol, is actually far from enough. I hope  
+> that we can make these debates nuanced enough that we don't push  
+> "open" as the end game, because I can comply with the protocol, or  
+> with Panton, and still have my data be worthless from a scientific  
+> perspective. An extreme example would be that I publish PDFs of my  
+> data under PDDL, and claim the mantle of "open". If we as a  
+> community push "open" as the goal, and not "useful" as the goal,  
+> then we enable that outcome.
+>
+> Open climate science, at least as it regards data, is almost never  
+> an intellectual property problem. It's a culture problem, it's a  
+> technology problem (formats, ontologies, standards), and it's a  
+> language problem. It's a political problem, it's an incentive  
+> problem. Getting rid of the IP is no more than table stakes. And if  
+> we don't deal with the inventions - the technologies that both  
+> create climate problems and that promise to mitigate them in  
+> adaptation - then we won't be changing the world the way we want.  
+> That's a big part of why our science work has shifted to focusing  
+> significantly on patent licensing and materials transfer...
+>
+> jtw
+>
+>
+> On Jun 15, 2010, at 5:42 AM, Lance McKee wrote:
+>
+>> Peter,
+>>
+>> I call your attention to one activity of the Open Geospatial  
+>> Consortium (OGC): the GEOSS Architecture Implementation Pilot 3  
+>> (AIP-3) data sharing activity: http://sites.google.com/a/aip3.ogcnetwork.net/home/home/aip-3-kickoff/data-sharing-guidelines 
+>>  .
+>>
+>> There are many in the OGC (http://www.opengeospatial.org) who share  
+>> your concerns about climate data. OGC runs a consensus process in  
+>> which government and private sector organizations collaborate to  
+>> develop open interfaces and encodings that enable, among other  
+>> things, sharing of geospatial data, including climate data. I think  
+>> the OGC is likely to play an important role in the opening up of  
+>> climate science.
+>>
+>> I invite you to look through a presentation in which I gathered my  
+>> learnings and musings about the importance, feasibility and  
+>> inevitability of persistent and open publishing of scientific  
+>> geospatial data: http://portal.opengeospatial.org/files/?artifact_id=37254 
+>>  .
+>>
+>> Lance McKee
+>> Senior Staff Writer
+>> Open Geospatial Consortium (OGC)
+>> 508-752-0108
+>> lmckee at opengeospatial.org
+>>
+>> The OGC: International Location Standards
+>> http://www.opengeospatial.org
+>>
+>>
+>>
+>>
+>>
+>>
+>> On Jun 15, 2010, at 3:33 AM, Peter Murray-Rust wrote:
+>>
+>>> I have posted a report on a meeting I went to last night.
+>>> http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2449
+>>> I believe that this is an area in which the OKF's involvement will  
+>>> be positive and important.
+>>>
+>>> -- 
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100615/acfef763/attachment-0001.htm>
+
+From tom.moritz at gmail.com  Tue Jun 15 20:14:21 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Tue, 15 Jun 2010 12:14:21 -0700
+Subject: [open-science] Climate Change
+In-Reply-To: <8C764C09-26A3-463C-96A5-251020941B79@creativecommons.org>
+References: <AANLkTil6jnqMiub3xwgGgW4KYwviy4otFrBcmF4-oAyc@mail.gmail.com> 
+	<6FACC490-224A-4E91-A7A6-3E8BBA1F499A@opengeospatial.org> 
+	<8C764C09-26A3-463C-96A5-251020941B79@creativecommons.org>
+Message-ID: <AANLkTin86mWrwNteeKuyOhDgyMx14m7I09WnNmbpHc8h@mail.gmail.com>
+
+Thanks for this John --
+In recent months, I have been speaking (UCB, UCDavis, CalTech) on the theme
+"Data as Evidence" -- my intention is to broaden our concerns -- as you do
+in your comment...  In using this terminology I am attempting to co opt the
+force of argument for "evidence-based" policy...
+
+Respecting terminology, I have been (in the biodiversity community) using
+the rubric of "free, open and *effective* " access and use of data. I think
+"*effective*" is perhaps better than "*useful*" because it is less
+value-laden (?) and implies support for the ability to take and use, to test
+and evaluate and validate -- these are actions *assumed to be necessary* as
+a part of scientific practice but far too rarely actually practiced.
+
+( Of course *observational* data (as opposed to *experimental *data) pose
+problems in that they represent discrete, unique events -- that are by
+definition not replicable?  This is where we must rely on both the scope  of
+sampling geographically and chronologically ("longitudinally") to evaluate
+anomalies.
+
+The import of my focus on "evidence" is that *data are evidential* both in
+the *logic of science* and in the *political process of policy formation and
+decision making* -- though, I believe that different standards of proof
+apply scientifically (where the notion of probability and levels of
+confidence apply) and politically -- where I believe something more like the
+Anglo-American legal standard of *reasonable doubt* has force (particularly
+where acceptance of scientific projections has huge implications for vested
+economic power and wealth -- as in the case of climate change).
+
+In my view the special burden that we assume when we move from the *realm of
+scientific discourse *to the *realm of political discourse* is created by
+problems of scientific literacy in the body politic *and* by the difficulty
+many scientists have in formulating their scientific hypotheses in ways that
+are readily understandable. (Scientists are, in one sense, rewarded for
+their ability to conduct esoteric discourse...)
+
+I believe that the "problem set" we face is something like this:
+
+-- Clear and rigorous expression of the logic of scientific investigation
+(including logically supportable alternative hypotheses)
+-- Rigorous definition of the evidence that is deemed sufficient to support
+one or another hypothesis.
+-- Definition of the specific forms of data that provide this  evidence
+[At the American Museum of Natural History, a paper was published a few
+years ago that in my opinion is a good indicator of how this should be done
+SEE: RS Voss and L Emmons,  ?Mammalian diversity in Neotropical lowland
+rainforests : a preliminary assessment.?  Bulletin of the AMNH ; no. 230
+[New York] : American Museum of Natural History, 1996. -- It's freely
+available at teh AMNH Library DSpace site  --
+http://digitallibrary.amnh.org/dspace/handle/2246/1671 ]
+-- Rigorous definition of the methodology -- including apparatus,
+calibrations, competence -- necessary to obtain data
+-- Rigorous documentation of the actual data collection (I believe that this
+can be expressed using work flow applications like Kepler...?)
+-- Documentation of the data management procedures -- including capture,
+storage, transformations -- this is broadly the issue of lineage and
+provenance (many statistical packages including automated "scripting" that
+captures this information)
+-- publicly intelligible representation of the data (and of all the
+preceding documentation)
+-- clear argumentation on the basis of this evidence in favor of one or
+alternative policies with appropriate risk assessments
+
+Many of these elements are in place (or under development) but they are not
+(to my knowledge) coherently expressed as required practice...?
+
+I believe that, at the very least, for certain *canonical *data sets
+[Climate Change???] we have an absolute obligation to satisfy these
+requirements...
+
+
+Tom
+
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+--Heraclitus
+
+Please consider the environment before printing this email.
+
+
+On Tue, Jun 15, 2010 at 10:40 AM, John Wilbanks <
+wilbanks at creativecommons.org> wrote:
+
+> We've spent a lot of time on climate change and open science at Creative
+> Commons. I have a personal interest, as my father is a climate change
+> researcher and was an author on the most recent IPCC report. He and I
+> co-wrote a paper on open innovation in sustainable development earlier this
+> year which was OA, and the references for that paper are a good start for
+> the non-data side of the problem. It's at
+> http://www.mdpi.com/2071-1050/2/4/993/
+>
+> In most cases in climate change science, impacts, and adaptive responses,
+> the hurdles for open science are not intellectual property rights but
+> scientific practices related to confidentiality and protecting one's own
+> data and models - a different challenge. The current evaluation of iPCC
+> being done by the Interacademy Council at the request of the UN is beginning
+> to take a look at how such conventional scientific practices can become a
+> threat to the perceived integrity of science. IP is a footnote in the
+> debate, unlike in OA or in free software or in free culture. Our successes
+> in these spaces have sadly conditioned us to look at "free" legal tools as
+> our hammers, and see the world as a bunch of nails. It's a great irony
+> actually.
+>
+> In the case of climate change mitigation, of course, the open science
+> issues are similar to those in other areas of traditional manufactured
+> technology - accentuated by the fact that the main drivers of increases in
+> global GHG emissions are now in the larger developing countries, while the
+> industrialized countries still control a lot of the intellectual property
+> for addressing that problem....
+>
+> In many ways the "open" debate about data fails to capture the reality of
+> these issues. Making data open, even fully compliant with the Science
+> Commons protocol, is actually far from enough. I hope that we can make these
+> debates nuanced enough that we don't push "open" as the end game, because I
+> can comply with the protocol, or with Panton, and still have my data be
+> worthless from a scientific perspective. An extreme example would be that I
+> publish PDFs of my data under PDDL, and claim the mantle of "open". If we as
+> a community push "open" as the goal, and not "useful" as the goal, then we
+> enable that outcome.
+>
+> Open climate science, at least as it regards data, is almost never an
+> intellectual property problem. It's a culture problem, it's a technology
+> problem (formats, ontologies, standards), and it's a language problem. It's
+> a political problem, it's an incentive problem. Getting rid of the IP is no
+> more than table stakes. And if we don't deal with the inventions - the
+> technologies that both create climate problems and that promise to mitigate
+> them in adaptation - then we won't be changing the world the way we want.
+> That's a big part of why our science work has shifted to focusing
+> significantly on patent licensing and materials transfer...
+>
+> jtw
+>
+>
+> On Jun 15, 2010, at 5:42 AM, Lance McKee wrote:
+>
+> Peter,
+>
+> I call your attention to one activity of the Open Geospatial Consortium
+> (OGC): the GEOSS Architecture Implementation Pilot 3 (AIP-3) data sharing
+> activity:
+> http://sites.google.com/a/aip3.ogcnetwork.net/home/home/aip-3-kickoff/data-sharing-guidelines.
+>
+> There are many in the OGC (http://www.opengeospatial.org) who share your
+> concerns about climate data. OGC runs a consensus process in which
+> government and private sector organizations collaborate to develop open
+> interfaces and encodings that enable, among other things, sharing of
+> geospatial data, including climate data. I think the OGC is likely to play
+> an important role in the opening up of climate science.
+>
+> I invite you to look through a presentation in which I gathered my
+> learnings and musings about the importance, feasibility and inevitability of
+> persistent and open publishing of scientific geospatial data:
+> http://portal.opengeospatial.org/files/?artifact_id=37254 .
+>
+> Lance McKee
+>  Senior Staff Writer
+> Open Geospatial Consortium (OGC)
+> 508-752-0108
+> lmckee at opengeospatial.org
+>
+> The OGC: International Location Standards
+> http://www.opengeospatial.org
+>
+>
+>
+>
+>
+>
+> On Jun 15, 2010, at 3:33 AM, Peter Murray-Rust wrote:
+>
+> I have posted a report on a meeting I went to last night.
+> http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2449
+> I believe that this is an area in which the OKF's involvement will be
+> positive and important.
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100615/853dd559/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Jun 17 21:02:04 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 17 Jun 2010 22:02:04 +0200
+Subject: [open-science] CC Grants
+Message-ID: <AANLkTil_C1vTR6d43v-AYyFADBmhJsG4Z56Dq0ydG_85@mail.gmail.com>
+
+Anyone interested in putting in something for this?
+
+  http://wiki.creativecommons.org/Grants
+
+In particular it says:
+
+"Establishing metrics for and measuring the impact of CC-licensed
+works within a particular field or discipline, such as education or
+science, or particular geography, such as Africa."
+
+"Examining the effects that the licensing of databases and data have
+on scientific research and discovery."
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From invite at eventbrite.com  Sat Jun 19 02:26:37 2010
+From: invite at eventbrite.com (Network for Open Scientific Innovation)
+Date: Fri, 18 Jun 2010 20:26:37 -0500
+Subject: [open-science] Network for Open Scientific Innovation invites you
+	to Open Science Summit 2010 (Jul 29, 2010 - Jul 31, 2010)
+Message-ID: <1276910797.123416@eventbrite.com>
+
+
+
+What could be more important that optimizing 
+the functioning of our science + technology paradigm for a 21st century 
+Open Knowledge Economy? After
+many months of preparation, we are six weeks away from
+the first Open Science Summit, held
+this year at the Berkeley International House (I-house) in Berkeley,
+California on July 29-31. Are you signed up already,? GREAT!? If not,
+ register now? http://opensciencesummit.eventbrite.com/?? 
+If you can't join us this, year, you 
+can still help make this first conference a success, see below.
+Fora TV will stream the Summit at http://fora.tv/live/open_science/open_science_summit_2010
+
+More than 40
+speakers from across the country and around the world will discuss the 
+most urgent policy questions surrounding: gene patents, open access 
+data/journals, the future of peer review and scientific reputation,
+novel funding platforms for scientific research grants and technology 
+development, patient activism/cure entrepreneurship, citizen
+science, the rise of DIY biology and its attendant regulatory and 
+security concerns, and much more. ?Tickets are currently offered
+ at three different levels on our 
+registration website.
+Standard tickets are $100 and allow you access to all aspects of
+the conference.? Conferences shouldn't be exclusive, especially when the
+ future of science is at stake!? If you are a student, or otherwise 
+unable to afford even this price, we've set aside a block of tickets but
+ you must RSVP to us to verify your situation and get a 50% discount.? 
+ For $300, in addition to a standard 
+ticket, you will
+become a Citizen Science Community Lab Supporter and help with the
+formation of Biocurious,
+the first Bay Area community lab space for citizen science.? We have a 
+limited number of these opportunities.? Be a part of history be listed 
+as a founding supporter of the facility.? 19 spaces remain.
+Finally, for $450, you will receive
+recognition at the conference as an Open Science Champion Sponsor and
+your contribution will go toward funding for catering as well as travel
+costs for international participants. 8 opportunities remain.Our
+ stated goals are to: ?Create an annual flagship event and news
+hub to build and maintain the identity of the international Open
+Science Movement and to organize the various sub-communities into an
+effective, global, socio-technological force for rapid change in
+science/innovation policy? and you will be a part of making this a
+reality as an attendee of our inaugural conference and participant in
+the larger movement.Conference registration here: http://opensciencesummit.eventbrite.com/Full
+ list of speakers: http://opensciencesummit.com/presenters/
+Hotel information and directions: http://opensciencesummit.com/location/
+Register at the hotel Durant and 
+Bancroft by June 29 for the discounted room rates!? 
+Help us spread the word: http://opensciencesummit.com/media/
+Download a banner or flyer.
+Post to your blog, Facebook, tweet about us, and 
+Fwd to any mailing lists you are on.? We hope to see you for 
+what should be an amazing event!All the best,Joseph 
+Jackson and the OSS Staff
+
+
+
+------------------------------ 
+Event Summary:
+------------------------------ 
+
+Event: Open Science Summit 2010
+Date: Thursday, July 29, 2010 at 4:00 PM <span class="pipe">-</span> Saturday, July 31, 2010 at 10:00 PM (PT)
+Location: <b>Chevron Auditorium, International House</b><br />2299 Piedmont Avenue<br />Berkeley, CA 94720-2320<br /><br />
+
+------------------------------ 
+Event Details:
+------------------------------ 
+
+<p>Open Science Summit 2010: ?Updating the Social Contract for Science?</p>
+<p><font face="arial, helvetica, sans-serif"><font size="2">July 29-31 ?International House Berkeley ? ?</font><a href="http://www.opensciencesummit.com"><font size="2">opensciencesummit.com</font></a></font></p>
+<p>?</p>
+<p>Synthetic Biology, Gene Patents, Open Data, Open Access, Microfinance</p>
+<p>for Science, DIY science, DIY Biology, Alternative Funding for Science, Open</p>
+<p>Source Drugs, Patent Pools, Open Health/Medicine, Patient Advocacy for Innovation</p>
+<p>?</p>
+<p><font face="arial, helvetica, sans-serif" size="2">Ready for a rapid, radical reboot of the global innovation system for a truly free and open 21st?century knowledge economy? ?Join us at the first Open Science Summit, an attempt to gather all stakeholders who want to liberate our scientific and technological commons to enable an new era of decentralized, distributed innovation to solve humanity's greatest challenges.</font></p>
+<p><font face="arial, helvetica, sans-serif"><font size="2">In the last ten years, a collection of burgeoning movements has begun the herculean task of overhauling the outmoded institutions and worldviews that make up our global scientific governance system. Proponents of the Access to Knowledge movement (A2K) have united around the principle that data and knowledge are ?anti-rivalrous,? the value of information increases as it spreads.</font></font></p>
+<p><font face="arial, helvetica, sans-serif"><font size="2">Open Access Journals have demonstrated a new path for publishing that utilizes the power of the internet to instantly distribute ideas instead of imposing artificial scarcity to prop up old business models. ?Health 2.0? entrepreneurs are seeking to apply the lessons of e-commerce to empower patients.</font></font></p>
+<p><font face="arial, helvetica, sans-serif"><font size="2">However, these different efforts are each working on a piece of the problem without a view of the whole.?It is not sufficient or realistic to tweak one component of the innovation system (eg, patent policy) and assume the others stay static. Instead, dynamic, interactive, nonlinear change is unfolding.</font></font></p>
+<p style="text-align: left;"><font face="arial, helvetica, sans-serif"><font size="2">The Open Science Summit is the first and only event to consider what happens throughout the entire innovation chain as reform in one area influences the prospects in others. In the best case scenario, a virtuous circle of mutually reinforcing shifts toward transparency and collaboration could unleash hitherto untapped reserves of human ingenuity.</font></font></p>
+<p style="text-align: left;">?</p>
+<p style="text-align: center;"><font face="arial, helvetica, sans-serif"><font size="2">-----------------------------------------</font></font></p>
+<p style="text-align: left;"><font face="arial, helvetica, sans-serif"><font size="2"><br /></font></font></p>
+<p style="text-align: left;">We are also seeking donations.?<font face="arial, helvetica, sans-serif" size="2">All proceeds go to support the catering, travel costs, and production costs of the Open Science Summit, any additional funds raised will help establish the first Bay Area community lab for citizen science, BioCurious.?</font></p>
+<p style="text-align: center;"><font face="arial, helvetica, sans-serif" size="2">Go to?<a href="http://biocurious.org/">biocurious.org</a>?for more information.</font></p>
+<p style="text-align: center;">?</p>
+<p style="text-align: center;">
+<object width="250" height="250" data="http://widget.chipin.com/widget/id/4f7ef40019e70f8a" type="application/x-shockwave-flash">
+<param name="allowScriptAccess" value="always" />
+<param name="wmode" value="transparent" />
+<param name="event_title" value="Open%20Science%20Summit%202010" />
+<param name="event_desc" value="Updating%20the%20Social%20Contract%20for%20Science%202.0" />
+<param name="src" value="http://widget.chipin.com/widget/id/4f7ef40019e70f8a" />
+<param name="flashvars" value="event_title=Open%20Science%20Summit%202010&amp;event_desc=Updating%20the%20Social%20Contract%20for%20Science%202.0" />
+</object>
+</p>
+
+
+
+------------------------------ 
+Register Online:
+------------------------------ 
+
+More information and online registration are available here:
+http://opensciencesummit.eventbrite.com/?ref=eivte&amp;invite=Mzc2OTIwL29wZW4tc2NpZW5jZUBsaXN0cy5va2ZuLm9yZy8w%0A&amp;utm_source=eb_email&amp;utm_medium=email&amp;utm_campaign=invite
+
+----------------------------------------------------------------------
+
+Collect event fees online with Eventbrite
+http://www.eventbrite.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100618/f00f120c/attachment.htm>
+
+From sara.gray at okfn.org  Sun Jun 20 02:42:09 2010
+From: sara.gray at okfn.org (Sara Wingate Gray)
+Date: Sat, 19 Jun 2010 21:42:09 -0400
+Subject: [open-science] Call for OKF Newsletter items/info
+Message-ID: <CD2CF2F6-0C71-4EA3-BE1C-F5A8F740C6FD@okfn.org>
+
+Hello,
+Can I ask for any news/information and OKF relevant updates to be sent my way for inclusion in the upcoming OKF newsletter?
+
+This might be an item relevant to 'in brief' news, ie. a couple of sentences synopsis is fine; or it may be more comprehensive information about OKF recent activities (eg. the Bibliographica project) or recent open data activities and initiatives you've been involved in ? in which case send me full details or URLS so I can re-write/edit/summarise as appropriate.
+
+The more information the better: so send me what you've got in the first instance (no matter how small/insignificant an activity/outcome it may seem to be) so it can be whittled down from there. As usual, newly-discovered and useful URL/links to showcase are also appreciated.
+
+Please send to me by: the week beginning Monday 28th June in order to ensure inclusion.
+
+
+Thanks!
+
+
+Sara Wingate Gray
+--------------------------
+sara.gray at okfn.org
+
+The Open Knowledge Foundation
+http://www.okfn.org
+
+From kanzure at gmail.com  Sun Jun 20 02:54:29 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Sat, 19 Jun 2010 20:54:29 -0500
+Subject: [open-science] Call for OKF Newsletter items/info
+In-Reply-To: <CD2CF2F6-0C71-4EA3-BE1C-F5A8F740C6FD@okfn.org>
+References: <CD2CF2F6-0C71-4EA3-BE1C-F5A8F740C6FD@okfn.org>
+Message-ID: <AANLkTinpxjA3RF98geHFEa-SAYpIzRmFY2HU_cKBqGx5@mail.gmail.com>
+
+On Sat, Jun 19, 2010 at 8:42 PM, Sara Wingate Gray wrote:
+> Can I ask for any news/information and OKF relevant updates to be sent my way for inclusion in the upcoming OKF newsletter?
+
+We should probably mention something about the upcoming
+paper/presentation at scipy2010. Jonathan et al., sorry for my
+relative silence these past few weeks. I've been hard at work.
+
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From mfinn at usgs.gov  Sat Jun 19 21:37:46 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Sat, 19 Jun 2010 14:37:46 -0600
+Subject: [open-science] CfP: ICA Commission on Management and Economics of
+ Map Production -- Workshop on Management of Geographic Information and Map
+ Production
+Message-ID: <OF343C659D.E94A1AE9-ON87257747.0070FF32-87257747.007152AB@usgs.gov>
+
+Apologies for cross-posts.
+
+
+
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100619/6bc7efa2/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: cpf_AutoCarto_mapProduction.doc
+Type: application/octet-stream
+Size: 25600 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100619/6bc7efa2/attachment-0001.obj>
+
+From jonathan.gray at okfn.org  Tue Jun 22 19:38:38 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 22 Jun 2010 20:38:38 +0200
+Subject: [open-science] Fwd: Scientists for open data and authors of Panton
+	Principles named SPARC Innovators
+In-Reply-To: <list-18805662@arl.org>
+References: <list-18805662@arl.org>
+Message-ID: <AANLkTin8z7TxEDP-Z5Yoox7f66Em9veiqrQI3vzwzlz3@mail.gmail.com>
+
+Big congrats to all involved in the creating, supporting and endorsing
+the Panton Principles! ;-)
+
+  http://www.arl.org/sparc/innovator/panton.shtml
+
+Fantastic news!
+
+Jonathan
+
+---------- Forwarded message ----------
+From: Jennifer McLennan <jennifer at arl.org>
+Date: Tue, Jun 22, 2010 at 7:41 PM
+Subject: [SPARC-OpenData] Scientists for open data and authors of
+Panton Principles named SPARC Innovators
+To: SPARC-OpenData <SPARC-OpenData at arl.org>
+
+
+For Immediate Release
+June 22, 2010
+
+For more information, contact:
+
+Jennifer McLennan
+jennifer [at] arl [dot] org
+(202) 296-2296 ext 121
+
+Scientists for open data and authors of Panton Principles named SPARC Innovators
+
+Washington, DC ? Science is based on building on, reusing, and openly
+criticizing the published body of scientific knowledge. For science to
+effectively function, and for society to reap the full benefits from
+scientific endeavors, it is crucial that science data be made open.
+
+That?s the belief of four leaders who have put forth a groundbreaking
+set of recommendations for scientists to more easily share their data
+? The Panton Principles ? and who have been named the latest SPARC
+Innovators for their work.
+
+The authors of The Panton Principles are:
+
+? ? ? ? Peter Murray-Rust, chemist at the University of Cambridge;
+? ? ? ? Cameron Neylon, biochemist at the Rutherford Appleton
+Laboratory in Didcot, England;
+? ? ? ? Rufus Pollock, co-founder of the Open Knowledge Foundation and
+Mead Fellow in Economics, Emmanuel College, University of Cambridge;
+? ? ? ? John Wilbanks, vice president for Science, Creative Commons,
+San Francisco.
+
+The authors advocate making data freely available on the Internet for
+anyone to download, copy, analyze, reprocess, pass to software or use
+for any purpose without financial, legal or technical barriers.
+Through the Principles, the group aimed to develop clear language that
+explicitly defines how a scientist?s rights to his own data could be
+structured so others can freely reuse or build on it. The goal was to
+craft language simple enough that a scientist could easily follow it,
+and then focus on doing science rather than law.
+
+The Panton Principles were publicly launched in February of 2010, with
+a Web site at www.pantonprinciples.org to spread the word and an
+invitation to endorse. About 100 individuals and organizations have
+endorsed the Principles so far.
+
+?This is the first time we?re seeing diverse viewpoints crystallize
+around the pragmatic idea that we have to start somewhere, agree on
+the basics, and set the tone,? says Heather Joseph, Executive Director
+of SPARC (the Scholarly Publishing and Academic Resources Coalition).
+?The authors are all leading thinkers in this area ? as well as
+producers and consumers of data. They each approached the idea of open
+data from different directions, yet with the same drive to open up
+science, and ended up on common ground.?
+
+According to Pollock, ?It's commonplace that we advance by building on
+the work of colleagues and predecessors ? standing on the shoulders of
+giants. In a digital age, to build on the work of others we need
+something very concrete: access to the data of others and the freedom
+to use and reuse it. That's what the Panton Principles are about.?
+
+To read the full June 2010 SPARC Innovator profile, visit
+http://www.arl.org/sparc/innovator.
+
+The SPARC Innovator program recognizes advances in scholarly
+communication propelled by an individual, institution, or group.
+Typically, these advances exemplify SPARC principles by challenging
+the status quo in scholarly communication for the benefit of
+researchers, libraries, universities, and the public. SPARC Innovators
+are featured on the SPARC Web site semi-annually and have included the
+Optical Society of America, R. Preston McAfee; Harvard University FAS;
+student leaders; and others. SPARC Innovators are selected by the
+SPARC staff in consultation with the SPARC Steering Committee.
+
+Individuals can nominate their colleagues as potential SPARC
+Innovators at http://www.arl.org/sparc/innovator/nominate.html.
+
+For further information or to learn more about earlier SPARC
+Innovators, see the SPARC Web site at http://www.arl.org/sparc.
+
+###
+
+SPARC
+
+SPARC (Scholarly Publishing and Academic Resources Coalition), with
+SPARC Europe and SPARC Japan, is an international alliance of more
+than 800 academic and research libraries working to create a more open
+system of scholarly communication. SPARC?s advocacy, educational, and
+publisher partnership programs encourage expanded dissemination of
+research. SPARC is on the Web at http://www.arl.org/sparc.
+
+-------------------------------------
+Jennifer McLennan
+Director of Programs & Operations
+SPARC
+jennifer at arl.org
+(202) 296-2296 x121
+Fax: (202) 872-0884
+*******************************
+SPARC 2010 Digital Repositories Meeting
+November 8 & 9 - Baltimore, MD
+http://www.arl.org/sparc/media/09-0223.shtml
+*******************************
+Open Access Week 2010
+October 18 - 24. Everywhere.
+http://www.openaccessweek.org
+*******************************
+http://www.arl.org/sparc
+
+
+==========
+
+This message is sent to you because you are subscribed to
+?The SPARC-OpenData Mail List.
+To post, send your message to <SPARC-OpenData at arl.org>.
+To unsubscribe, email to <SPARC-OpenData-off at arl.org>.
+To switch to digest mode, email to <SPARC-OpenData-digest at arl.org>.
+Send administrative queries to <SPARC-OpenData-request at arl.org>.
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From cwhooker at fastmail.fm  Tue Jun 22 20:48:25 2010
+From: cwhooker at fastmail.fm (Bill Hooker)
+Date: Tue, 22 Jun 2010 12:48:25 -0700
+Subject: [open-science] Fwd: Scientists for open data and authors of
+ Panton Principles named SPARC Innovators
+In-Reply-To: <AANLkTin8z7TxEDP-Z5Yoox7f66Em9veiqrQI3vzwzlz3@mail.gmail.com>
+References: <list-18805662@arl.org>
+	<AANLkTin8z7TxEDP-Z5Yoox7f66Em9veiqrQI3vzwzlz3@mail.gmail.com>
+Message-ID: <1277236105.6610.1381391789@webmail.messagingengine.com>
+
+Hear, hear!  Well deserved.
+
+B.
+
+
+
+On Tue, 22 Jun 2010 20:38 +0200, "Jonathan Gray"
+<jonathan.gray at okfn.org> wrote:
+> Big congrats to all involved in the creating, supporting and endorsing
+> the Panton Principles! ;-)
+> 
+>   http://www.arl.org/sparc/innovator/panton.shtml
+> 
+> Fantastic news!
+> 
+> Jonathan
+> 
+> ---------- Forwarded message ----------
+> From: Jennifer McLennan <jennifer at arl.org>
+> Date: Tue, Jun 22, 2010 at 7:41 PM
+> Subject: [SPARC-OpenData] Scientists for open data and authors of
+> Panton Principles named SPARC Innovators
+> To: SPARC-OpenData <SPARC-OpenData at arl.org>
+> 
+> 
+> For Immediate Release
+> June 22, 2010
+> 
+> For more information, contact:
+> 
+> Jennifer McLennan
+> jennifer [at] arl [dot] org
+> (202) 296-2296 ext 121
+> 
+> Scientists for open data and authors of Panton Principles named SPARC
+> Innovators
+> 
+> Washington, DC ? Science is based on building on, reusing, and openly
+> criticizing the published body of scientific knowledge. For science to
+> effectively function, and for society to reap the full benefits from
+> scientific endeavors, it is crucial that science data be made open.
+> 
+> That?s the belief of four leaders who have put forth a groundbreaking
+> set of recommendations for scientists to more easily share their data
+> ? The Panton Principles ? and who have been named the latest SPARC
+> Innovators for their work.
+> 
+> The authors of The Panton Principles are:
+> 
+> ? ? ? ? Peter Murray-Rust, chemist at the University of Cambridge;
+> ? ? ? ? Cameron Neylon, biochemist at the Rutherford Appleton
+> Laboratory in Didcot, England;
+> ? ? ? ? Rufus Pollock, co-founder of the Open Knowledge Foundation and
+> Mead Fellow in Economics, Emmanuel College, University of Cambridge;
+> ? ? ? ? John Wilbanks, vice president for Science, Creative Commons,
+> San Francisco.
+> 
+> The authors advocate making data freely available on the Internet for
+> anyone to download, copy, analyze, reprocess, pass to software or use
+> for any purpose without financial, legal or technical barriers.
+> Through the Principles, the group aimed to develop clear language that
+> explicitly defines how a scientist?s rights to his own data could be
+> structured so others can freely reuse or build on it. The goal was to
+> craft language simple enough that a scientist could easily follow it,
+> and then focus on doing science rather than law.
+> 
+> The Panton Principles were publicly launched in February of 2010, with
+> a Web site at www.pantonprinciples.org to spread the word and an
+> invitation to endorse. About 100 individuals and organizations have
+> endorsed the Principles so far.
+> 
+> ?This is the first time we?re seeing diverse viewpoints crystallize
+> around the pragmatic idea that we have to start somewhere, agree on
+> the basics, and set the tone,? says Heather Joseph, Executive Director
+> of SPARC (the Scholarly Publishing and Academic Resources Coalition).
+> ?The authors are all leading thinkers in this area ? as well as
+> producers and consumers of data. They each approached the idea of open
+> data from different directions, yet with the same drive to open up
+> science, and ended up on common ground.?
+> 
+> According to Pollock, ?It's commonplace that we advance by building on
+> the work of colleagues and predecessors ? standing on the shoulders of
+> giants. In a digital age, to build on the work of others we need
+> something very concrete: access to the data of others and the freedom
+> to use and reuse it. That's what the Panton Principles are about.?
+> 
+> To read the full June 2010 SPARC Innovator profile, visit
+> http://www.arl.org/sparc/innovator.
+> 
+> The SPARC Innovator program recognizes advances in scholarly
+> communication propelled by an individual, institution, or group.
+> Typically, these advances exemplify SPARC principles by challenging
+> the status quo in scholarly communication for the benefit of
+> researchers, libraries, universities, and the public. SPARC Innovators
+> are featured on the SPARC Web site semi-annually and have included the
+> Optical Society of America, R. Preston McAfee; Harvard University FAS;
+> student leaders; and others. SPARC Innovators are selected by the
+> SPARC staff in consultation with the SPARC Steering Committee.
+> 
+> Individuals can nominate their colleagues as potential SPARC
+> Innovators at http://www.arl.org/sparc/innovator/nominate.html.
+> 
+> For further information or to learn more about earlier SPARC
+> Innovators, see the SPARC Web site at http://www.arl.org/sparc.
+> 
+> ###
+> 
+> SPARC
+> 
+> SPARC (Scholarly Publishing and Academic Resources Coalition), with
+> SPARC Europe and SPARC Japan, is an international alliance of more
+> than 800 academic and research libraries working to create a more open
+> system of scholarly communication. SPARC?s advocacy, educational, and
+> publisher partnership programs encourage expanded dissemination of
+> research. SPARC is on the Web at http://www.arl.org/sparc.
+> 
+> -------------------------------------
+> Jennifer McLennan
+> Director of Programs & Operations
+> SPARC
+> jennifer at arl.org
+> (202) 296-2296 x121
+> Fax: (202) 872-0884
+> *******************************
+> SPARC 2010 Digital Repositories Meeting
+> November 8 & 9 - Baltimore, MD
+> http://www.arl.org/sparc/media/09-0223.shtml
+> *******************************
+> Open Access Week 2010
+> October 18 - 24. Everywhere.
+> http://www.openaccessweek.org
+> *******************************
+> http://www.arl.org/sparc
+> 
+> 
+> ==========
+> 
+> This message is sent to you because you are subscribed to
+> ?The SPARC-OpenData Mail List.
+> To post, send your message to <SPARC-OpenData at arl.org>.
+> To unsubscribe, email to <SPARC-OpenData-off at arl.org>.
+> To switch to digest mode, email to <SPARC-OpenData-digest at arl.org>.
+> Send administrative queries to <SPARC-OpenData-request at arl.org>.
+> 
+> 
+> 
+> 
+> -- 
+> Jonathan Gray
+> 
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+> 
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+
+
+From millman at berkeley.edu  Tue Jun 22 21:04:15 2010
+From: millman at berkeley.edu (Jarrod Millman)
+Date: Tue, 22 Jun 2010 13:04:15 -0700
+Subject: [open-science] Open Research Computing in Python (June 25, 2010)
+Message-ID: <AANLkTimC7ktrT1ZFO1AlTt6Y-NiZyNtJq0fJCtk7zluG@mail.gmail.com>
+
+Hello,
+
+William Stein, Fernando Perez, and I are founding a non-profit
+foundation for mathematical and scientific research computing. Our
+purpose is to ensure unrestricted access to the best computational
+tools for research and education in mathematics, science, and
+engineering. Our aim is to do this primarily by fostering existing
+efforts and communities. The foundation will initially focus on
+Python, rather than other languages for scientific computing such as R
+or Scilab. Despite this initial focus on Python, the foundation's
+mission will not be merely to promote the use of Python in science.
+
+Please join us for our first event on June 25th at the Mathematical
+Sciences Research Institute (MSRI) in Berkeley, CA. The workshop is
+free and lunch is provided. In order to make sure that we have enough
+food, we are requiring anyone who wants to attend to RSVP by the end
+of the day Wednesday, June 23rd by sending an email to
+jarrod.millman+orcp2010 at gmail.com.
+
+For more details, please see:
+http://drupal.mscomp.org/orcp2010
+
+Thanks,
+Jarrod
+
+
+From jonathan.gray at okfn.org  Thu Jun 24 09:22:31 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 24 Jun 2010 10:22:31 +0200
+Subject: [open-science] Panton Principles in Russian!
+Message-ID: <AANLkTimbeDb53-D8_jTERjS4Diz9bvxo5Shf03OVFddU@mail.gmail.com>
+
+Many thanks Maxim! ;-)
+
+http://gis-lab.info/blog/2010-06/panton-principles/
+
+All: do you think it would be useful to start adding translations to PP site?
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Fri Jun 25 16:49:09 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 25 Jun 2010 17:49:09 +0200
+Subject: [open-science] Fwd:Launch of the Polar Information Commons in Oslo!
+In-Reply-To: <!~!UENERkVCMDkAAQACAAAAAAAAAAAAAAAAABgAAAAAAAAAEM9ppFCOnUWZUE3JxWApncKAAAAQAAAA2VrcIp3NBEypgn2Yp+ap1AEAAAAA@dial.oleane.com>
+References: <!~!UENERkVCMDkAAQACAAAAAAAAAAAAAAAAABgAAAAAAAAAEM9ppFCOnUWZUE3JxWApncKAAAAQAAAA2VrcIp3NBEypgn2Yp+ap1AEAAAAA@dial.oleane.com>
+Message-ID: <AANLkTikC1hNPy6WiTnJ5igB2R9jCVACdUrLrF-0Cr_Pr@mail.gmail.com>
+
+---------- Forwarded message ----------
+
+CODATA and its partners are delighted to announce the successful
+Launch of the Polar Information Commons at the IPY Oslo Science
+Conference in June. The event was officially launched by Professor
+Steven Chown, recipient at the conference of the prestigious Martha T.
+Muse award, Director of the Centre for Invasion Biology and a
+Professor in the Department of Botany and Zoology at Stellenbosch
+University.
+
+
+
+The launch was attended by approximately 100 people and the Polar
+Information Commons (PIC) booth was visited by many dignitaries
+throughout the week, including HRH Crown Prince Haakon of Norway and
+HSH Prince Albert II of Monaco.
+
+
+
+For photos of this and the event we invite you to visit the PIC photo gallery on
+
+http://www.polarcommons.org/oslo-photo-gallery.php
+
+
+
+The occasion was marked by the cutting of the PIC birthday cake by Kim
+Jochum, who represented the Association of Polar Early Career
+Scientists - the next generation of researchers who will take
+responsibility for continuing the momentum of IPY and polar research.
+
+
+
+The Launch of PIC was only one of many events and presentations that
+took place during the week whose focus was polar data issues. Among
+other presentations were:
+
+
+
+Implementing a Data Management System capable of supporting Antarctic
+science, SCAR activities within the Antarctic Treaty System, and
+contributing to the data legacy of the IPY: Kim Finney, Manager
+Australian Antarctic Data Centre.
+
+
+
+Freeing Data through the Polar Information Commons: CODATA Secretary
+General, Robert Chen, on behalf of Taco F de Bruin, NIOWZ, Royal
+Netherlands Institute for Sea Research.
+
+
+
+State of Polar Data: Mark Parsons, National Snow and Ice Data Centre, USA.
+
+The International Polar Year Metadata Portal: A Gateway to Discovery
+of Data and Services Resulting from the IPY Field Period. Stephanie
+Grebas, Global Change Master Directory
+
+The full program can be found on http://ipy-osc.no/osc_programme
+
+On Thursday 10th of June, relevant stakeholders gathered to discuss
+the development of the PIC post Oslo. A number of small working groups
+will be established to address governance, legal, outreach,
+technological and data stewardship issues as the PIC evolves.
+
+
+
+Check http://www.polarcommons.org over the coming months as events
+develop or contact the CODATA secretariat at codata at dial.oleane.com
+
+
+
+Finally we would like to thank the IPY Program office for their
+support in facilitating the activities and in particular the PIC
+Booth!
+
+
+
+
+
+
+
+Kathleen Cass
+
+Executive Director
+
+CODATA, 5 rue Auguste Vacquerie
+
+75016 Paris, France
+
+Ph: + 33 1 45250496
+
+http://www.codata.org
+
+CODATA Science Journal http://www.codata.org/dsj
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From norimaki at naver.com  Sat Jun 26 10:38:07 2010
+From: norimaki at naver.com (=?US-ASCII?B?SG9zZW9uZyBMZWU=?=)
+Date: Sat, 26 Jun 2010 18:38:07 +0900
+Subject: [open-science] [Funny]Speed of Light in Super Computer..?
+Message-ID: <f3e0da3e2e016621ec26d2982aa4cc84@a51160>
+
+Hi, I'm a student who loves physcis very much, and philosophy.
+ 
+And did you guys saw the movie Matrix? I saw whole series of it!
+ 
+Ever since i saw that fantastic movie, I cannot stop to think about it further.
+ 
+And thesedays I suspended that the speed of light might be the speed of the process of a great powerful computer! (in the logic of Matrix)
+ 
+First, let me suppose that this reality we are living is just an online game that the characters you control running around. And suppose that
+ 
+the problem happens on the internet process of server, then the whole characters will go slower than before but, since whole characters and the clients are
+ 
+bound to the process of the computer, all the characters are disadvanteged at speeding 
+ 
+by the internet problem. And for the characters, nothing happens because they cannot
+ 
+feel the processing speed of server while they might feel the speed of the other monsters and other characters.
+ 
+And If they got a spell 'teleportation', they can teleport to random space. But the speed of teleportation is bound to the processing speed. So 
+ 
+Even though the player put the magic on the charater to speed more, since the absolute speed is bound to the server's process, the character's speed cannot
+ 
+proceed the speed of teleportation equal to the processing speed!
+ 
+HAHAHAHAHA!
+ 
+Is it wonderful idea??
+ 
+If there is any people who are interested in these funny idea
+ 
+please don't hesitate to express your idea just email me!
+ 
+norimake at naver.com
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Science is equal for all
+ 
+ 
+ 
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100626/fd99f945/attachment.htm>
+
+From egon.willighagen at gmail.com  Sat Jun 26 11:20:50 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sat, 26 Jun 2010 12:20:50 +0200
+Subject: [open-science] Panton Principles in Russian!
+In-Reply-To: <AANLkTimbeDb53-D8_jTERjS4Diz9bvxo5Shf03OVFddU@mail.gmail.com>
+References: <AANLkTimbeDb53-D8_jTERjS4Diz9bvxo5Shf03OVFddU@mail.gmail.com>
+Message-ID: <AANLkTil6XUv06wI0SOPNYg_YYDGVI3gF4WlLfA9p03qH@mail.gmail.com>
+
+On Thu, Jun 24, 2010 at 10:22 AM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> All: do you think it would be useful to start adding translations to PP site?
+
+Yes, I think that would be a good idea. Make sure to add a note that
+the English one is normative. It would also be useful to add some
+guidelines then how people can add additional translations, including
+where to send it etc
+
+Egon
+
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From jonathan.gray at okfn.org  Mon Jun 28 14:12:05 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 28 Jun 2010 15:12:05 +0200
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+Message-ID: <AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+
+A question from Libby Bishop at the UK Data Archive...
+
+Would be most interested to hear responses to this!
+
+Jonathan
+
+---------- Forwarded message ----------
+
+Hello,
+
+I am trying to establish which, if any "Open" organisations explicitly
+endorse open (public/free) access to data.
+
+I have read through the Panton Principles which seem to be the
+clearest, strongest statement of openness of which I am aware.
+However, in the FAQ, it says that the PP have not been formally
+adopted by OSI, FSF, or EFF.
+
+Moreover, according to Stevan Harnand and his recent posts on the
+American Scientist Open Access forum, OA advocates only open access to
+publications, but not research data.
+
+Here at UKDA, we advocate free access to data for non-commercial use.
+However, the nature of some social science data, especially
+qualitative data, (confidentiality promises made, sensitive data,
+disclosure risks) obligates us to share data via a licence so that
+those "reusing" data do not violate the conditions and terms of use
+specified by the data depositor.
+
+In sum, it sounds as though there is at least some variation among
+diverse "open" initiatives as to what extent data per se should be
+public and free.? Is this statement correct?? Any details you can add
+would be greatly appreciated.
+
+Kind regards,
+
+Libby
+
+Libby Bishop, Ph.D.
+Research Data Management Senior Officer
+UK Data Archive-a service provider for the Economic and? Social Data
+Service (ESDS)
+
+www.esds.ac.uk/qualidata
+
+
+
+
+
+********************************************************************
+
+Legal disclaimer:
+
+Any views expressed by the sender of this message are not necessarily
+those of the UKDA or the ESDS.? This email and any files transmitted
+with it are confidential and intended solely for the use of the
+individual(s) or entity to whom they are addressed.
+
+*************************************************
+
+
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From rufus.pollock at okfn.org  Mon Jun 28 14:35:42 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 28 Jun 2010 14:35:42 +0100
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+Message-ID: <AANLkTiltazVqfpjcRA_odONSWqWV1pxO42kNwAlH3oXM@mail.gmail.com>
+
+On 28 June 2010 14:12, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> A question from Libby Bishop at the UK Data Archive...
+>
+> Would be most interested to hear responses to this!
+>
+> Jonathan
+>
+> ---------- Forwarded message ----------
+>
+> Hello,
+>
+> I am trying to establish which, if any "Open" organisations explicitly
+> endorse open (public/free) access to data.
+>
+> I have read through the Panton Principles which seem to be the
+> clearest, strongest statement of openness of which I am aware.
+> However, in the FAQ, it says that the PP have not been formally
+> adopted by OSI, FSF, or EFF.
+>
+> Moreover, according to Stevan Harnand and his recent posts on the
+> American Scientist Open Access forum, OA advocates only open access to
+> publications, but not research data.
+
+I don't know whether this is consensus within OA but whether it is or
+not doesn't really matter IMO since clearly open data is important in
+its own right (and potentially even more important than simple OA to
+the fulltext)
+
+> Here at UKDA, we advocate free access to data for non-commercial use.
+> However, the nature of some social science data, especially
+> qualitative data, (confidentiality promises made, sensitive data,
+> disclosure risks) obligates us to share data via a licence so that
+> those "reusing" data do not violate the conditions and terms of use
+> specified by the data depositor.
+
+We really need a FAQ relating to confidentiality etc (we had one
+started but I don't think it reached consensus ...). Basically, my
+feeling here is that where there are good reasons (such as
+confidentiality) where the data cannot be generally released then the
+PP don't apply. However, once you are releasing data generally (e.g.
+as must be the case where release the data under an NC license) the PP
+do apply.
+
+Thus my main comment to UKDA would be: remove the NC restriction --
+non-commercial restrictions and confidentiality issues are completely
+orthogonal so let's not confuse them.
+
+> In sum, it sounds as though there is at least some variation among
+> diverse "open" initiatives as to what extent data per se should be
+> public and free.? Is this statement correct?? Any details you can add
+> would be greatly appreciated.
+
+That's likely given the wide-ranging views on any topic ...
+
+Rufus
+
+> Kind regards,
+>
+> Libby
+>
+> Libby Bishop, Ph.D.
+> Research Data Management Senior Officer
+> UK Data Archive-a service provider for the Economic and? Social Data
+> Service (ESDS)
+>
+> www.esds.ac.uk/qualidata
+>
+>
+>
+>
+>
+> ********************************************************************
+>
+> Legal disclaimer:
+>
+> Any views expressed by the sender of this message are not necessarily
+> those of the UKDA or the ESDS.? This email and any files transmitted
+> with it are confidential and intended solely for the use of the
+> individual(s) or entity to whom they are addressed.
+>
+> *************************************************
+>
+>
+>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From pm286 at cam.ac.uk  Mon Jun 28 14:44:07 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 28 Jun 2010 14:44:07 +0100
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+Message-ID: <AANLkTik4njAfpuzU7qQfNNQSimUKdx1BcpDsLlm1lKO9@mail.gmail.com>
+
+Libby,
+Many thanks for your enquiry which is now on the open-science list at OKF. I
+am one of the 4 authors of the PP
+
+
+---------- Forwarded message ----------
+>
+> Hello,
+>
+> I am trying to establish which, if any "Open" organisations explicitly
+> endorse open (public/free) access to data.
+>
+
+This is an excellent endeavour and the more people and organizations
+involved the more comprehensive we hope we can become.
+
+>
+> I have read through the Panton Principles which seem to be the
+> clearest, strongest statement of openness of which I am aware.
+> However, in the FAQ, it says that the PP have not been formally
+> adopted by OSI, FSF, or EFF.
+>
+
+That's partly because I don't think they have been formally asked, and
+partly because the PP cover data rather than code - although clearly
+related. If these orgs wish to endorse the PP obviously that would be good.
+
+
+>
+> Moreover, according to Stevan Harnand and his recent posts on the
+> American Scientist Open Access forum, OA advocates only open access to
+> publications, but not research data.
+>
+
+PP covers data, OA covers (mainly) scholarly publishing or journals,
+articles, and some monographs. In practice they are largely distinct.
+
+It can be argued that an OA publication that uses a CC-BY or similarly
+strong libre licence also covers the data in the publication. We saw
+considerable problems with that approach and that is why an explict
+PP-compliant statement on data should also be made.
+
+In practice we would expect that publishers who publish journals licensed
+through CC-BY (or similar) are likely to be enthusiastic proponents of
+PP-compliant labelling of the data in, or associated with, the publication.
+The problem comes with weaker licences such as CC-NC or with self-archiving
+where no formal permissions are given.
+
+In practice in science several publishers expose data associated with
+closed-access publications. We hope that the community can persuade them to
+label them as PP-compliant. For this we have created a tool to ask the
+publishers (or any other data providers) if their data are PP-compliant (see
+http://www.isitopendata.org/ )
+
+
+> Here at UKDA, we advocate free access to data for non-commercial use.
+> However, the nature of some social science data, especially
+> qualitative data, (confidentiality promises made, sensitive data,
+> disclosure risks) obligates us to share data via a licence so that
+> those "reusing" data do not violate the conditions and terms of use
+> specified by the data depositor.
+>
+> In sum, it sounds as though there is at least some variation among
+> diverse "open" initiatives as to what extent data per se should be
+> public and free.  Is this statement correct?  Any details you can add
+> would be greatly appreciated.
+>
+
+There is great variation, some of which is unavoidable but a lot of which
+can be eliminated by spreading the word and the tools. It's worth continuing
+to follow the open-science list and asking questions :-)
+
+>
+> Kind regards,
+>
+> Libby
+>
+> Libby Bishop, Ph.D.
+> Research Data Management Senior Officer
+> UK Data Archive-a service provider for the Economic and  Social Data
+> Service (ESDS)
+>
+> www.esds.ac.uk/qualidata
+>
+>
+>
+>
+>
+> --
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100628/eea4b666/attachment.htm>
+
+From punkish at eidesis.org  Mon Jun 28 14:49:52 2010
+From: punkish at eidesis.org (Mr. Puneet Kishor)
+Date: Mon, 28 Jun 2010 08:49:52 -0500
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+Message-ID: <02D883EA-FA4C-45E3-8891-A4E3BEA256F6@eidesis.org>
+
+
+Libby Bishop wrote:
+
+> Here at UKDA, we advocate free access to data for non-commercial use.
+
+
+Could you please elaborate your reasoning behind your decision to restrict use of data to non-commercial use (assuming the original depositor has not put any such condition, and assuming there are no privacy issues).
+
+I continue to be puzzled and befuddled by open access advocates continuing to push and peddle non-commercial restrictions, as if non-commercial is virtuous. Why? Why the distrust and dislike of things commercial?
+
+
+-- 
+Puneet Kishor http://punkish.org
+Carbon Model http://carbonmodel.org
+Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+-----------------------------------------------------------------------
+Assertions are politics; backing up assertions with evidence is science
+=======================================================================
+
+
+
+From c.rusbridge at googlemail.com  Mon Jun 28 15:06:46 2010
+From: c.rusbridge at googlemail.com (Chris Rusbridge)
+Date: Mon, 28 Jun 2010 15:06:46 +0100
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <02D883EA-FA4C-45E3-8891-A4E3BEA256F6@eidesis.org>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+	<02D883EA-FA4C-45E3-8891-A4E3BEA256F6@eidesis.org>
+Message-ID: <42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+
+Speaking as someone who agreed such a restriction in the past, as the then Director of the Digital Curation Centre: we had an obligation to pursue "sustainability" as an explicit part of our funding conditions. On that basis, we decided that our default licence would be CC-BY-NC-SA. Our reasoning was that if there was money to be made from our resources, our sustainability obligation meant we had to try to be part of it. Putting a NC restriction doesn't mean "no commercial use, ever". It means "no commercial use unless you discuss with us the terms and conditions".
+
+In the 5 years or so I was part of the DCC I think this only caused us a problem a couple of times. From memory once we agreed with no conditions (the use was pretty much equivalent to academic use), and once we agreed terms that would allow the author to earn significant royalties before a cut was due to us. I need hardly say we have as yet received nothing, as far as I know.
+
+This is of course mostly in a text-based context. I'm not clear in my own mind in relation to data, on whether the barrier to re-use of any kind of licence (including BY and NC) can fully outweigh the need to strive for sustainability. However, I do remember investigations into Crown Copyright etc, well before the current openness regime, that suggested that only Ordnance Survey made any significant (5 figures or higher) annual returns on IP exploitation, as well as experiences from the eLib programme that misguided sustainability approaches led to potentially valuable resources being locked away. Which is all tending to make me think that commercially exploitable IPR in data will be comparatively rare, and therefore the default view SHOULD be for greater openness. 
+
+It would help if there were a more automated approach to the data citation problem since then one could at least demonstrate impact more easily, even if not sustainability!
+
+--
+Chris Rusbridge
+Consultant
+Mobile: +44 791 7423828
+Email: c.rusbridge at gmail.com
+
+
+
+
+On 28 Jun 2010, at 14:49, Mr. Puneet Kishor wrote:
+
+> 
+> Libby Bishop wrote:
+> 
+>> Here at UKDA, we advocate free access to data for non-commercial use.
+> 
+> 
+> Could you please elaborate your reasoning behind your decision to restrict use of data to non-commercial use (assuming the original depositor has not put any such condition, and assuming there are no privacy issues).
+> 
+> I continue to be puzzled and befuddled by open access advocates continuing to push and peddle non-commercial restrictions, as if non-commercial is virtuous. Why? Why the distrust and dislike of things commercial?
+> 
+> 
+> -- 
+> Puneet Kishor http://punkish.org
+> Carbon Model http://carbonmodel.org
+> Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+> Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+> Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+> -----------------------------------------------------------------------
+> Assertions are politics; backing up assertions with evidence is science
+> =======================================================================
+> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+From fn at imm.dtu.dk  Mon Jun 28 15:40:03 2010
+From: fn at imm.dtu.dk (Finn Aarup Nielsen)
+Date: Mon, 28 Jun 2010 16:40:03 +0200 (CEST)
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+	<02D883EA-FA4C-45E3-8891-A4E3BEA256F6@eidesis.org>
+	<42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+Message-ID: <Pine.LNX.4.62L.1006281623520.15015@serv1.imm.dtu.dk>
+
+
+
+On Mon, 28 Jun 2010, Chris Rusbridge wrote:
+
+> [...] However, I do remember investigations into Crown Copyright etc, 
+> well before the current openness regime, that suggested that only 
+> Ordnance Survey made any significant (5 figures or higher) annual 
+> returns on IP exploitation, [...]
+
+I wonder if your UK Met Office hasn't some income from selling data?
+
+If I understand a report correctly (http://www.dmi.dk/dmi/aar_08.pdf) I 
+see that 'Danmarks Meteorologiske Institut' has an income on around 50 
+million DDK (~7 million Euro) 'selling goods and services'. That is around 
+20% of their total income. Processed data costs 0.75 DDK per parameter 
+(0.1 Euro).
+
+
+/Finn
+
+___________________________________________________________________
+
+          Finn Aarup Nielsen, DTU Informatics, Denmark
+  Lundbeck Foundation Center for Integrated Molecular Brain Imaging
+    http://www.imm.dtu.dk/~fn/      http://nru.dk/staff/fnielsen/
+___________________________________________________________________
+
+
+
+From punkish at eidesis.org  Mon Jun 28 15:50:59 2010
+From: punkish at eidesis.org (Mr. Puneet Kishor)
+Date: Mon, 28 Jun 2010 09:50:59 -0500
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+	<02D883EA-FA4C-45E3-8891-A4E3BEA256F6@eidesis.org>
+	<42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+Message-ID: <B4EF4380-F8E6-4FD9-99C9-4633FEF46A0C@eidesis.org>
+
+
+On Jun 28, 2010, at 9:06 AM, Chris Rusbridge wrote:
+
+> Speaking as someone who agreed such a restriction in the past, as the then Director of the Digital Curation Centre: we had an obligation to pursue "sustainability" as an explicit part of our funding conditions.
+
+Fair enough. Nothing wrong with wanting to make money, if only to support oneself.
+
+> On that basis, we decided that our default licence would be CC-BY-NC-SA. Our reasoning was that if there was money to be made from our resources, our sustainability obligation meant we had to try to be part of it. Putting a NC restriction doesn't mean "no commercial use, ever". It means "no commercial use unless you discuss with us the terms and conditions".
+
+Ahh... that dreaded SA, another seemingly virtuous condition -- "do as I do" because, heck, I know best. But, that is another issue. 
+
+Back to the point -- yes, all CC licenses have a "waiver" clause whereby any and all of the license conditions can be waived if permission is asked first. But, why not make that clear right up front? Isn't it better to say "Do what you want OR if you are going to make money with my data, share the wealth"?
+
+Personally, I think one should be either in the "give data away" or "make money from data" business... one or the other, or both, but with a clean line between the two. As clean as possible. As little confusion as possible.
+
+
+
+> 
+> In the 5 years or so I was part of the DCC I think this only caused us a problem a couple of times. From memory once we agreed with no conditions (the use was pretty much equivalent to academic use), and once we agreed terms that would allow the author to earn significant royalties before a cut was due to us. I need hardly say we have as yet received nothing, as far as I know.
+> 
+> This is of course mostly in a text-based context. I'm not clear in my own mind in relation to data, on whether the barrier to re-use of any kind of licence (including BY and NC) can fully outweigh the need to strive for sustainability. However, I do remember investigations into Crown Copyright etc, well before the current openness regime, that suggested that only Ordnance Survey made any significant (5 figures or higher) annual returns on IP exploitation, as well as experiences from the eLib programme that misguided sustainability approaches led to potentially valuable resources being locked away. Which is all tending to make me think that commercially exploitable IPR in data will be comparatively rare, and therefore the default view SHOULD be for greater openness. 
+> 
+> It would help if there were a more automated approach to the data citation problem since then one could at least demonstrate impact more easily, even if not sustainability!
+> 
+> --
+> Chris Rusbridge
+> Consultant
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+> 
+> 
+> 
+> 
+> On 28 Jun 2010, at 14:49, Mr. Puneet Kishor wrote:
+> 
+>> 
+>> Libby Bishop wrote:
+>> 
+>>> Here at UKDA, we advocate free access to data for non-commercial use.
+>> 
+>> 
+>> Could you please elaborate your reasoning behind your decision to restrict use of data to non-commercial use (assuming the original depositor has not put any such condition, and assuming there are no privacy issues).
+>> 
+>> I continue to be puzzled and befuddled by open access advocates continuing to push and peddle non-commercial restrictions, as if non-commercial is virtuous. Why? Why the distrust and dislike of things commercial?
+>> 
+>> 
+>> -- 
+>> Puneet Kishor http://punkish.org
+>> Carbon Model http://carbonmodel.org
+>> Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+>> Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+>> Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+>> -----------------------------------------------------------------------
+>> Assertions are politics; backing up assertions with evidence is science
+>> =======================================================================
+>> 
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+
+
+
+From cameron.neylon at stfc.ac.uk  Mon Jun 28 15:52:20 2010
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Mon, 28 Jun 2010 15:52:20 +0100
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+Message-ID: <C84E75B4.D4D6%cameron.neylon@stfc.ac.uk>
+
+> Speaking as someone who agreed such a restriction in the past, as the then
+> Director of the Digital Curation Centre: we had an obligation to pursue
+> "sustainability" as an explicit part of our funding conditions. On that basis,
+> we decided that our default licence would be CC-BY-NC-SA. Our reasoning was
+> that if there was money to be made from our resources, our sustainability
+> obligation meant we had to try to be part of it. Putting a NC restriction
+> doesn't mean "no commercial use, ever". It means "no commercial use unless you
+> discuss with us the terms and conditions".
+
+Only have a moment but a quick response. The core argument on this point
+revolves around the issue of the opportunity costs involved in a) having NC
+licences and b) not acting as a catalyst to persuade _others_ to _not_ use
+NC licences vs the potential income to be generated.
+
+Overall for government data it has been shown in many situations that the
+net community return on giving data away is greater than that when you try
+and sell it. In several cases it has been shown that more money is made by
+the providers in question when they give data away. The best demonstrator of
+this has been the big database companies in the US are more profitable than
+EU ones despite (or perhaps because of) EU database rights.
+
+Of course these things are hard to estimate but to the extent that it is
+true it is reasonable to expect it to be _more_ true for data than for other
+objects (like text) which don't gain much more value in aggregate in the way
+data does.
+
+The sad truth is that while many people feel "if anyone is going to make
+money on this then we should" the reality is that no-one ends up making any
+money at all. Where we are talking about public investment focussing on
+sustainability can actually be a barrier to maximising ROI which is the true
+route to ultimate sustainability because it means that value is being
+created which will ultimately support further creation (and curation).
+
+Will try to respond to the original query in a bit more detail later.
+
+-- 
+Scanned by iCritical.
+
+
+From punkish at eidesis.org  Mon Jun 28 15:54:29 2010
+From: punkish at eidesis.org (Mr. Puneet Kishor)
+Date: Mon, 28 Jun 2010 09:54:29 -0500
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <C84E75B4.D4D6%cameron.neylon@stfc.ac.uk>
+References: <C84E75B4.D4D6%cameron.neylon@stfc.ac.uk>
+Message-ID: <71566913-F914-4933-ACC1-459911CE1210@eidesis.org>
+
+
+On Jun 28, 2010, at 9:52 AM, Cameron Neylon wrote:
+
+> The sad truth is that while many people feel "if anyone is going to make
+> money on this then we should" the reality is that no-one ends up making any
+> money at all.
+
+
+
+Well put. Prisoner's dilemma, and all that.
+
+
+-- 
+Puneet Kishor http://punkish.org
+Carbon Model http://carbonmodel.org
+Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+-----------------------------------------------------------------------
+Assertions are politics; backing up assertions with evidence is science
+=======================================================================
+
+
+
+From pm286 at cam.ac.uk  Mon Jun 28 16:06:23 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 28 Jun 2010 16:06:23 +0100
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <C84E75B4.D4D6%cameron.neylon@stfc.ac.uk>
+References: <42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+	<C84E75B4.D4D6%cameron.neylon@stfc.ac.uk>
+Message-ID: <AANLkTilRPIRnuihewSsI4KhQzToTpKGvqiJ8D9m493gy@mail.gmail.com>
+
+On Mon, Jun 28, 2010 at 3:52 PM, Cameron Neylon
+<cameron.neylon at stfc.ac.uk>wrote:
+
+Only have a moment but a quick response. The core argument on this point
+
+> revolves around the issue of the opportunity costs involved in a) having NC
+> licences and b) not acting as a catalyst to persuade _others_ to _not_ use
+> NC licences vs the potential income to be generated.
+>
+> This is an important discussion and I support what Cameron has said.
+
+There are some important features of NC or SA which don't apply to CC-BY,
+etc.
+
+* You cannot use the data for a "commercial" purpose without asking a human.
+Robots cannot make this decision. Therefore if you wish to use 1000 bits of
+fragmented data, you may have to ask 1000 questions.
+* a significant proportion of those 1000 humans will not reply. They are
+under no obligation to do so. In fairness they may just be too busy
+* it is a matter of opinion what is "commercial".
+ - including in a textbook? YES
+ - including in a newspaper article you get paid for? YES
+ - providing professional services? YES
+ - including it in an article published by a COMMERCIAL publisher? surely
+YES. (they will gain revenue from this)
+ - including it in an article published in a closed access non-profit
+journal? I'd say YES for the same reason
+
+So the re-use of NC data can be very limited. At every stage you have to ask
+questions.
+
+I agree there is a slight element of prisoner's dilemma in CC-BY. You are
+giving away your value so someone else can profit. But if you are brave
+then  it's likely that new markets will arise and you will be very well
+placed.
+
+If I were a Met Office, for example, I would grow my market on the quality
+and reliability of my products, not on a monopoly. That's easy for me to
+say, but there are examples where giving away increases sales.
+
+P.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100628/b0f9728e/attachment.htm>
+
+From wilbanks at creativecommons.org  Mon Jun 28 16:33:07 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Mon, 28 Jun 2010 08:33:07 -0700
+Subject: [open-science] Fwd: Open data and Panton Principles
+In-Reply-To: <42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+References: <71616097ED06A44691ED2B3FFA5EC422C95FB34B1E@MBOX3.essex.ac.uk>
+	<AANLkTillzbBVKJhtxkyUQhYijpF3x4zVM3-p9sIFg8Hd@mail.gmail.com>
+	<02D883EA-FA4C-45E3-8891-A4E3BEA256F6@eidesis.org>
+	<42DF9FC5-A6FF-464D-82C7-447505C77150@googlemail.com>
+Message-ID: <2E578ECB-D494-4E35-9D38-874C49207837@creativecommons.org>
+
+Elizabeth,
+
+I'm at your disposal if you'd ever like to chat in real time, and commend you on your work to release data. It's an unfortunate side effect to a robust movement and debate that it's far too easy to jump on those who don't "comply" with our requirements without first saying "huzzah." I'm often guilty of this :-)
+
+I think there are at least three issues tangled up in here, which I will try to detangle.  I will be cross-posting this to my blog in some version, but this is a bit stream of consciousness. Apologies for length, but this is vital to get right.
+
+The first is, "how successful are the principles?" - which is implicit in your question of who is "adopting" them. The second is the interaction of legal tools around intellectual property with other rights related to human subjects data. And the third is sustainability of data archives, which creates an incentive to contemplate "monetization" of data and/or use of tools that reserve commercial rights.
+
+I'll try to speak to each, but I'm speaking for myself here, not presuming to speak for the list or the other authors of the Panton Principles. Indeed it's fair to say that Rufus and I have very different positions on some of these topics, as most folks around here know :-)
+
+But that actually is related to the first issue. The principles are already a success to me, because the audience for them in many ways is the group of people who were trying to understand how some of the leaders in open data could reconcile the philosophical differences that naturally emerge in a decentralized movement. The differences of opinion inside open data were strong enough to be creating waves, and those waves could have been exploited by forces *outside* the open data world against us. Although I have a lively debate with Rufus and others on these issues, they're issues to us of how best to share, and the true threat to sharing regimes is from non-commons models. Panton to me is a spirited proof that we can put differences aside and agree on how to work together in a commons. 
+
+"Adoption" to me is often a red herring. The organizations you cite in your email don't actually make data - so getting them to sign on is not my priority. And getting organizations to "sign on" in general isn't my priority - I'm trying to get organizations to "release data"! Thus I would point to GSK's recent use of CC0, the Polar Information Commons' formation and commitment to the public domain, rather than to signatories to a web page. There are more than a dozen OA declarations and thousands of signatories to them, but the relevant number is 16%, which is the amount of literature that is actually OA. My personal focus is on getting foundations that invest in science to implement public domain terms as relate to IPRs in their funding agreements, which is PP compliant, but isn't about encouraging orgs to sign the principles as a declaration. In my experience getting a signature can actually release the pressure to *do something* about the data - one can say one has signed, and do nothing.
+
+The second issue is related to the rationale we've long held at Creative Commons about data in science (whether social or "hard" science), which is that the public domain creates the least interoperability problems. Issues of confidentiality, privacy, and human subjects protection are subject to a large, complex, and often contradictory set of legal regimes that are not internationally harmonized like copyright, and that are rapidly being overwhelmed by the advance of technological progress. The success of the folks who broke the Netflix data by re-identifying the people through cross-reference to other publicly available data is a good example of this - the Netflix data itself was de-identified, but it turns out that a few smart folks with lots of processor power can cross-reference to other movie review databases and bang, identify people uniquely.
+
+There is a very real risk of conflict between "licensing" and the sorts of good citizen regimes that need to be implemented to share this kind of sensitive data. We're grinding away on these issues at CC, between our work with the Sage Commons, some emerging clean energy commons efforts, and climate change projects in which citizens gather data on air quality via their cell phones. Copyright is tough enough to deal with, but when one adds in unique sui generis database rights and contracts, it gets nearly untenable, which is why three years ago we recommended the public domain as a solution - it leaves one in a situation where the only issues to be dealt with are privacy and technical formats..."only" being a relative term of course. Otherwise, it's easy to see a world where there are multiple contradictory requirements imposed on users and re-users of data, where there is a contract to protect privacy, a contract to mandate share alike, a database right trigger, and a copyright trigger *even if all four were simply in support of attribution*. 
+
+There is also the very real issue of technology as regards any licensing based on copying. As the semantic web becomes a reality, and data gets bigger, the need and the desire to make copies decreases. Thus, anything based on copying is likely to fade in power over time - because we'll simply all run federated queries. But that's another email. 
+
+My instinct is that the right way to share human subjects data (until we reach a cultural shift where there is non discrimination legislation and where people "own" their own data, rather than Facebook owning their data) is through a tiered stack of services and data provision, where the IP status is public domain, but where there is some norms encoding and liability to prevent abuse. That encoding might be through aggressive statistical "jittering" of data to de-identify it, it might be through some of the "differential privacy" techniques that allow service-based access to data or homomorphic encryption to allow for algorithmic access to sensitive data without its unencryption, or it might be through more classical approaches of request-based access to human subjects data, but lowering the transaction costs through the standardization of the various legal tools around the request and granting. We're looking at all of these here in real world situations and would be happy to provide you with some information if that's of interest. There are no easy answers.
+
+The third issue is one of sustainability. It's non trivial. But we should look at the realities of data. Selling data that isn't marketing data isn't big business. And every transaction cost imposed on the re-use of data is likely to decrease its net value over time, because it limits the conversion of data into a platform for services and applications. The opening of data is not like the building of e-commerce storefronts. It's like laying the foundations for the internet in the 1970s and 1980s. Open data is a long way away from the world of the web, where small transactions can add up to real money. It's in a far more protean state, one that needs standards and boring technical efforts, one that awaits a sea change in science culture, one that needs entirely new technologies (as new to us today as the web browser was in the mid 1970s, and as difficult to conceive - but hopefully not as far away!).
+
+Sustainability is a challenge that will require new business models, new cultures, good ideas in curation, and more than anything, funder commitment. It's not going to be solved via legal tools. I'd beware of any magic pixie dust license that promises sustainability via non-commercial terms. To the extent that NC terms work in my own experience, it's for individuals who want their songs and photos online without exploitation - and we don't, for the most part, turn songs and photos into the basis of new research. We don't federate songs and photos (again, for the most part!) for automated database query. Thus we shouldn't apply the same legal tools. 
+
+The public domain is not an easy decision. But it is a *simple* decision. And that, in the end, is the point. It's the only way to make a murderously complicated issue - intellectual property rights around data - simple enough that we can begin to address the other murderously complicated issues that *don't have a simple solution available*. 
+
+jtw
+
+On Jun 28, 2010, at 7:06 AM, Chris Rusbridge wrote:
+
+> Speaking as someone who agreed such a restriction in the past, as the then Director of the Digital Curation Centre: we had an obligation to pursue "sustainability" as an explicit part of our funding conditions. On that basis, we decided that our default licence would be CC-BY-NC-SA. Our reasoning was that if there was money to be made from our resources, our sustainability obligation meant we had to try to be part of it. Putting a NC restriction doesn't mean "no commercial use, ever". It means "no commercial use unless you discuss with us the terms and conditions".
+> 
+> In the 5 years or so I was part of the DCC I think this only caused us a problem a couple of times. From memory once we agreed with no conditions (the use was pretty much equivalent to academic use), and once we agreed terms that would allow the author to earn significant royalties before a cut was due to us. I need hardly say we have as yet received nothing, as far as I know.
+> 
+> This is of course mostly in a text-based context. I'm not clear in my own mind in relation to data, on whether the barrier to re-use of any kind of licence (including BY and NC) can fully outweigh the need to strive for sustainability. However, I do remember investigations into Crown Copyright etc, well before the current openness regime, that suggested that only Ordnance Survey made any significant (5 figures or higher) annual returns on IP exploitation, as well as experiences from the eLib programme that misguided sustainability approaches led to potentially valuable resources being locked away. Which is all tending to make me think that commercially exploitable IPR in data will be comparatively rare, and therefore the default view SHOULD be for greater openness. 
+> 
+> It would help if there were a more automated approach to the data citation problem since then one could at least demonstrate impact more easily, even if not sustainability!
+> 
+> --
+> Chris Rusbridge
+> Consultant
+> Mobile: +44 791 7423828
+> Email: c.rusbridge at gmail.com
+> 
+> 
+> 
+> 
+> On 28 Jun 2010, at 14:49, Mr. Puneet Kishor wrote:
+> 
+>> 
+>> Libby Bishop wrote:
+>> 
+>>> Here at UKDA, we advocate free access to data for non-commercial use.
+>> 
+>> 
+>> Could you please elaborate your reasoning behind your decision to restrict use of data to non-commercial use (assuming the original depositor has not put any such condition, and assuming there are no privacy issues).
+>> 
+>> I continue to be puzzled and befuddled by open access advocates continuing to push and peddle non-commercial restrictions, as if non-commercial is virtuous. Why? Why the distrust and dislike of things commercial?
+>> 
+>> 
+>> -- 
+>> Puneet Kishor http://punkish.org
+>> Carbon Model http://carbonmodel.org
+>> Charter Member, Open Source Geospatial Foundation http://www.osgeo.org
+>> Science Commons Fellow, http://sciencecommons.org/about/whoweare/kishor
+>> Nelson Institute, UW-Madison http://www.nelson.wisc.edu
+>> -----------------------------------------------------------------------
+>> Assertions are politics; backing up assertions with evidence is science
+>> =======================================================================
+>> 
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+

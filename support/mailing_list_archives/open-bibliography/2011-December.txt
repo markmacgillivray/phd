@@ -1,0 +1,2411 @@
+From announce at dublincore.net  Thu Dec  1 18:53:50 2011
+From: announce at dublincore.net (DCMI Announce)
+Date: Thu, 1 Dec 2011 10:53:50 -0800
+Subject: [open-bibliography] Call for Participation: (DC-2012) International
+ Conference on Dublin Core and Metadata Applications
+Message-ID: <CAP884EySHKgja33Ev+-Kto7K58tby_aBQ2MzrGisudorPcwrCQ@mail.gmail.com>
+
+===============================
+DC-2012 Call for Participation
+===============================
+
+International Conference on Dublin Core and Metadata Applications:
+"Metadata for Meeting Global Challenges"
+
+3-7 September 2012, Kuching, Sarawak, Malaysia
+
+Conference Website: http://purl.org/dcevents/dc-2012
+
+----------------------------------
+DEADLINES & IMPORTANT DATES:
+Submission Deadline: 23 March 2012
+Author Notification: 25 May 2012
+Final Copy: 29 June 2012
+----------------------------------
+
+DC-2012 will explore the global, national and regional roles of metadata in
+addressing global challenges such as food security, the digital divide, and
+sustainable development. Metadata plays a significant role globally in
+information systems shaping how we know, monitor and change social and
+governmental systems affecting everything from the environment, human
+rights and justice to education and peace. DC-2012 will bring together in
+Kuching the community of metadata scholars and practitioners to engage in
+the exchange of knowledge and best practices in developing languages of
+description to meet these global challenges.
+
+Beyond the conference theme, papers, reports, and poster submissions are
+welcome on a wide range of metadata topics, such as:
+
+-- Metadata principles, guidelines, and best practices
+-- Metadata quality (methods, tools, and practices)
+-- Conceptual models and frameworks (e.g., RDF, DCAM, OAIS)
+-- Application profiles
+-- Metadata generation (methods, tools, and practices)
+-- Metadata interoperability across domains, languages,
+   time, structures, and scales.
+-- Cross-domain metadata uses (e.g., recordkeeping, preservation,
+   curation, institutional repositories, publishing)
+-- Domain metadata (e.g., for corporations, cultural memory
+   institutions, education, government, and scientific fields)
+-- Bibliographic standards (e.g., RDA, FRBR, subject headings)
+   as Semantic Web vocabularies
+-- Accessibility metadata
+-- Metadata for scientific data, e-Science and grid applications
+-- Social tagging and user participation in building metadata
+-- Usage data (paradata/attention metadata)
+-- Knowledge Organization Systems (e.g., ontologies, taxonomies,
+   authority files, folksonomies, and thesauri) and Simple Knowledge
+   Organization Systems (SKOS)
+-- Ontology design and development
+-- Integration of metadata and ontologies
+-- Search engines and metadata
+-- Linked data and the Semantic Web (metadata and applications)
+-- Vocabulary registries and registry services
+
+----------------------------------
+SUBMISSIONS
+
+--All submissions for papers, reports, extended poster abstracts, community
+workshop and special sessions must do so through the DCMI Peer Review
+System at http://dcpapers.dublincore.org/index.php/pubs/.  Author
+registration with the peer review system and instructions for the
+submission process appear under the "Information for Authors" link.
+--All submissions must be in English.
+--All submissions will be peer-reviewed by the International Program
+Committee.
+--Unless previously arranged, accepted papers, project reports and posters
+must be presented in Kuching by at least one of their authors.
+
+Submissions for Asynchronous Participation:
+
+With prior arrangement, a few exceptional papers, project reports and
+extended poster abstracts will be accepted for asynchronous presentation by
+their authors. Submissions accepted for asynchronous presentation must
+follow both the general author guidelines for submission as well as
+additional instructions located at http://purl.org/dcevents/dc-2012/remote.
+
+----------------------------------
+START SUBMISSION: Register/Login at
+http://dcevents.dublincore.org/index.php/IntConf/dc-2012/author/submit?requiresAuthor=1
+----------------------------------
+
+PUBLICATION
+
+-- Accepted papers, project reports and poster abstracts will be published
+in the official Conference Proceedings at
+http://dcpapers.dublincore.org/ojs/pubs.
+-- Special session and community workshop session abstracts will be
+published in the online conference program.
+-- Papers, research reports and poster abstracts must conform to the
+appropriate formatting template available through the DCMI Peer Review
+System.
+-- Unless previously arranged, accepted papers, project reports and posters
+must be presented at The Hague by at least one of their authors.
+-- Submitting authors in all categories must provide basic information
+regarding current professional positions and affiliations as a condition of
+acceptance and publication.
+
+----------------------------------
+SUBMISSION CATEGORIES
+
+FULL PAPERS (8-10 pages; Peer reviewed)
+
+Full papers either describe innovative work in detail or provide critical,
+well-referenced overviews of key developments or good practice in the areas
+outlined above. Full papers will be assessed using the following criteria:
+
+(1) Originality of the approach to the topic and potential for
+implementation
+(2) Quality of the contribution to the implementation community
+(3) Significance of the results presented
+(4) Clarity of presentation
+
+PROJECT REPORTS (4-5 pages; Peer reviewed)
+
+Project reports describe a specific model, application, or activity in a
+concise presentation. Project reports will be assessed using the following
+criteria:
+
+(1) Conciseness and completeness of technical description
+(2) Usability of the technical description by other potential implementers
+(3) Clarity of presentation
+
+POSTERS (1-2 pages; Peer reviewed)
+
+Posters are for the presentation of projects or research under development
+or late-breaking results. Poster submission should consist of a one-two
+page extended abstract.  Posters will be assessed using the following
+criteria:
+
+(1) Concise statement of research or project goals and milestones
+(2) Significance of the research or project
+(3) Framing of key barriers and future research
+(4) Statement of results and accomplishments
+(5) Clarity of presentation
+
+One or more sessions will be scheduled for display and discussion of
+posters at the conference venue. Instructions on the preparation of the
+display poster can be found at
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/posterAuthors-2012
+.
+
+SPECIAL & PANEL SESSIONS
+
+Special and panel sessions are organized by experts in a specific area of
+metadata. Each special session serves as a focused exchange of the latest
+research and/or best practice in the area. A proposal for a special session
+consists of a single document of approximately 800-1,200 words in length
+containing:
+
+--Session title
+--35-50 word abstract for use in promoting the session
+--Brief description of the scope and motivation for the session
+--Names and brief CVs of session facilitators, presenters, or panelists
+--Brief CVs of the organizers
+
+DCMI COMMUNITY & TASK GROUP WORKSHOP SESSIONS
+
+DCMI Community Workshop & Task Group Sessions are intended to: (1) advance
+the specific work of DCMI entities as defined at
+http://dublincore.org/groups/#communities; and (2) to set the work agenda
+for the Community or Task Group for the coming year. Note: Communities
+wanting to present a special session or a panel in the area of the
+Community's interest should submit a proposal under Special & Panel
+Sessions above.
+
+----------------------------------
+
+PROGRAM COMMITTEE CO-CHAIRS
+--Schubert Foo
+    Professor and Associate Dean, Wee Kim Wee School of Communication and
+Information,
+    Nanyang Technological University, Singapore
+--Hans Overbeek
+    Stichting ICTU, The Hague, Netherlands
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111201/9835c388/attachment.htm>
+
+From adrian.pohl at okfn.org  Mon Dec  5 08:47:34 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 5 Dec 2011 09:47:34 +0100
+Subject: [open-bibliography] Virtual meeting tomorrow, December, 6th 2011,
+	16:00 GMT
+Message-ID: <CAOtd05HNtT4REsz+fvwcwsz8vM0=e3ScuYDJQZb-R_sRXSik9g@mail.gmail.com>
+
+Hello,
+
+the next virtual meeting of the openbiblio working group will be on
+Tuesday, December, 6th 2011, 16:00 GMT.
+
+See the etherpad at http://okfnpad.org/16th-open-bibliography-meeting
+
+Feel free to add agenda points.
+
+All the best
+Adrian
+
+
+From pm286 at cam.ac.uk  Mon Dec  5 10:11:06 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 5 Dec 2011 10:11:06 +0000
+Subject: [open-bibliography] Virtual meeting tomorrow, December, 6th 2011,
+ 16:00 GMT
+In-Reply-To: <CAOtd05HNtT4REsz+fvwcwsz8vM0=e3ScuYDJQZb-R_sRXSik9g@mail.gmail.com>
+References: <CAOtd05HNtT4REsz+fvwcwsz8vM0=e3ScuYDJQZb-R_sRXSik9g@mail.gmail.com>
+Message-ID: <CAD2k14NjAH1wHME3TQyMjFo04DP8Kh5jJXwvyB3Vr0P=B+0XTQ@mail.gmail.com>
+
+On Mon, Dec 5, 2011 at 8:47 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+
+I shall be at the OKF/JISC/SWAT4LS hackathon - not sure whether I will have
+connectivity. I'll try
+
+>
+> the next virtual meeting of the openbiblio working group will be on
+> Tuesday, December, 6th 2011, 16:00 GMT.
+>
+> See the etherpad at http://okfnpad.org/16th-open-bibliography-meeting
+>
+> Feel free to add agenda points.
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111205/25ad46e3/attachment.htm>
+
+From adrian.pohl at okfn.org  Fri Dec  9 14:28:48 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 9 Dec 2011 15:28:48 +0100
+Subject: [open-bibliography] DBLP now with open license
+Message-ID: <CAOtd05FSBBGAnF61iz4Ck1+YieXrY9dqw-eyXHJLifbw6iTKaQ@mail.gmail.com>
+
+Hello,
+
+I just posted the good news that the computer science bibliography
+DBLP has adopted an open license (ODC-BY) for its 1.8 million records:
+http://openbiblio.net/2011/12/09/dblp-releases-its-1-8-million-bibliographic-records-as-open-data/
+
+I already updated the entry on the Data Hub.[1]
+
+@Thomas: You can now resolve the isitopendata enquiry.[2] (Obviously,
+only the owner can resolve it, otherwise I'd done it myself.)
+
+Cheers,
+Adrian
+
+[1] http://thedatahub.org/dataset/dblp
+
+[2] http://isitopendata.org/enquiry/view/c810cc03-ae42-4de9-ba2d-cb03b64b79cb/
+
+
+From pitman at stat.Berkeley.EDU  Fri Dec  9 16:19:36 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Fri, 09 Dec 2011 08:19:36 -0800
+Subject: [open-bibliography] DBLP now with open license
+In-Reply-To: <CAOtd05FSBBGAnF61iz4Ck1+YieXrY9dqw-eyXHJLifbw6iTKaQ@mail.gmail.com>
+References: <CAOtd05FSBBGAnF61iz4Ck1+YieXrY9dqw-eyXHJLifbw6iTKaQ@mail.gmail.com>
+Message-ID: <20111209161936.2AEBE7ECD@bibserver.Berkeley.EDU>
+
+Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> I just posted the good news that the computer science bibliography
+> DBLP has adopted an open license (ODC-BY) for its 1.8 million records:
+> http://openbiblio.net/2011/12/09/dblp-releases-its-1-8-million-bibliographic-records-as-open-data/
+> I already updated the entry on the Data Hub.[1]
+
+Excellent! Mark, we should look at importing some or all of DBLP for BibServer display.
+I'm particularly interested in the more mathematical/statistical parts.
+We could also look at extracting records related to our technical interests like automated record clustering/deduplication.
+Karen and Adrian and I agreed at last openbiblio call that we should try to collect and publish knowledge and experience
+related to record clustering/deduplication in a wiki or similar setup. Having a list of technical articles
+on the topic would be a good start, and that might be extractable from DBLP.
+There is a lot of experience in this domain which is not easily accessible.
+Suggestions how to collect and organize that experience for the benefit of openbiblio efforts would be much appreciated.
+
+--Jim
+
+> [1] http://thedatahub.org/dataset/dblp
+> [2] http://isitopendata.org/enquiry/view/c810cc03-ae42-4de9-ba2d-cb03b64b79cb/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From pm286 at cam.ac.uk  Fri Dec  9 16:44:26 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 9 Dec 2011 16:44:26 +0000
+Subject: [open-bibliography] DBLP now with open license
+In-Reply-To: <CAOtd05FSBBGAnF61iz4Ck1+YieXrY9dqw-eyXHJLifbw6iTKaQ@mail.gmail.com>
+References: <CAOtd05FSBBGAnF61iz4Ck1+YieXrY9dqw-eyXHJLifbw6iTKaQ@mail.gmail.com>
+Message-ID: <CAD2k14O_fQomEYAVdA_6j1OcBH4qhadOr-F7yqcLvgbJ0rQdvw@mail.gmail.com>
+
+On Fri, Dec 9, 2011 at 2:28 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> I just posted the good news that the computer science bibliography
+> DBLP has adopted an open license (ODC-BY) for its 1.8 million records:
+>
+> http://openbiblio.net/2011/12/09/dblp-releases-its-1-8-million-bibliographic-records-as-open-data/
+>
+
+This is brilliant. Thx to all including the Dagstuhl (I was there two years
+ago for a bio-ontology meeting - noted the maths library but never thought
+twice then as I wasn't into bibliography.
+
+@MarkMacGillivray has made great progress with Bibserver and BibSoup
+technology and this is a great resource to feed into the system. @JimPitman
+will have a field day
+
+>
+>
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111209/1a30107a/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Dec 13 12:48:54 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Dec 2011 12:48:54 +0000
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+Message-ID: <CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+
+On Tue, Dec 13, 2011 at 12:02 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+>
+>>> On Mon, Dec 12, 2011 at 5:53 PM, Peter Binfield <pbinfield at plos.org>wrote:
+>>>
+>>> That?s what I thought. So why are CC-BY journals on it? (e.g. Sage Open)
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> *From:* Graham Steel [mailto:steelgraham7 at googlemail.com]
+>>> *Sent:* Monday, December 12, 2011 9:53 AM
+>>> *To:* Peter Binfield
+>>> *Cc:* Liz Allen
+>>> *Subject:* Re: Fake OA Journals - Spreadsheet
+>>>
+>>>
+>>>
+>>> The main issue surrounds the type of license used.
+>>>
+>>> Peter Murray-Rust has been blogging about this, most recently here<http://blogs.ch.cam.ac.uk/pmr/2011/12/07/%E2%80%9Copen-access%E2%80%9D-and-non-commercial-licences-summary/>.
+>>>
+>>>
+>>> On Mon, Dec 12, 2011 at 5:45 PM, Peter Binfield <pbinfield at plos.org>
+>>> wrote:
+>>>
+>>> Thanks Graham
+>>>
+>>>
+>>>
+>>> What qualifies a journal to get onto this sheet?
+>>>
+>>>
+>>> Peter Binfield, PhD
+>>>
+>>>
+>>> I've picked this up in the middle of the discussion.
+
+Peter,
+The intention was to survey the types of licence used in HYBRID journals
+and to allow people to judge whether the licences (and the fees) were
+appropriate. It's only a few days old.
+
+We did not add fully Open Access (gold) journals unless someone finds
+examples which have CC-NC or even more restrictive examples.
+
+Sage, Springer and others are there because I suspect they have both OA
+journals and Hybrids. The comparion of licences and prices is particularly
+valuable in these cases.
+
+As I said it's a few days old and if there is material that wrong or
+incomplete feel free to edit.
+
+
+>
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>>
+>>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111213/78808f0a/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Dec 13 13:24:45 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 13 Dec 2011 13:24:45 +0000
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CAJr+OEx0KSi4_RExWSKQY0gKr3q0ymL3Ln0kri4LazfceAb4JQ@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+	<CAJr+OEx0KSi4_RExWSKQY0gKr3q0ymL3Ln0kri4LazfceAb4JQ@mail.gmail.com>
+Message-ID: <CAD2k14MG58-Nw0Fu9D7h_2pHF2gH7GJyRRRiPy+++ajGA-Oqqw@mail.gmail.com>
+
+On Tue, Dec 13, 2011 at 1:09 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> > What qualifies a journal to get onto this sheet?
+>
+> I've taken a slightly more inclusive approach than PMR actually.
+>
+> I've included more than just OAhybrid journals.
+>
+> My position is that it should be a survey of all research publications
+> (e.g. journals, articles) that claim or self-label themselves as "open
+> access". Many as we have discovered are in fact NOT Open Access as per
+> the Budapest Declaration, despite this self-applied label.
+>
+The analysis of "all" journals is a task that we shouldn't expect any
+single person to even think about! (there are 26000 journals I think). Ross
+has already spent valuable PhD time on this  and deserves huge thanks.
+
+My motivation in suggesting this was that I or OKF could then have clear
+evidence to take back to funders and show that their "paid Open Access" was
+a substandard product (i.e. did not conform with the BOAI declaration or
+with SPARC's present position (I hope I'm right on that)). We would then
+urge funders to insist that they require at least CC-BY. My intention was
+to get an OKF document that summarised the present position and take it to
+funders, government, MPs, etc. When governments are requiring Open data,
+why are we accepting less at great cost for science. It's even possible
+that if a givernment agency published its own report it would now by CC-BY
+but that in a scholarly publication it would tbe restricted to CC-NC by the
+publisher.
+
+Note that the US government has always (at least as far as I remember)
+required that its publications are Open. Staff in (say) NIH publishing
+papers are required to make them open and not to hand over copyright. How
+much it actually happens in the pages of the journals I don't know.
+
+Perhaps this is something that the EU could address for its agencies. Or
+maybe it takes the same line as the US.
+
+P.
+
+
+
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111213/61936721/attachment.htm>
+
+From tfmorris at gmail.com  Tue Dec 13 17:47:20 2011
+From: tfmorris at gmail.com (Tom Morris)
+Date: Tue, 13 Dec 2011 12:47:20 -0500
+Subject: [open-bibliography] Google Refine contributor wanting to help
+ this community
+In-Reply-To: <CAE9vqEGs0Ze8sKy2xg_4z2xMUv-ZA5v52-n0c9iHb4fho=0mqg@mail.gmail.com>
+References: <CAChbWaMsS4XOgfMOhGNE0p2nvZ9fLGSgRth+64-iTPeRMrKHtw@mail.gmail.com>
+	<CAJ9UX46k69KZ9KfuKBuYsm9CbFMHXfpxvydOY3hcUEYjMZ_48Q@mail.gmail.com>
+	<CAD2k14MHYB-C-w44dxpB6T9CBeZYPok30XH3kA7UX6sm2JUKZg@mail.gmail.com>
+	<CAChbWaN=Kqj+KkB5xDfYhGCFFThkkZ5cEzCC5B5WzAdsX9AXXQ@mail.gmail.com>
+	<CAE9vqEGs0Ze8sKy2xg_4z2xMUv-ZA5v52-n0c9iHb4fho=0mqg@mail.gmail.com>
+Message-ID: <CAE9vqEF4m=6d188iw-Fo_MM060Caa9RoKyaSHNEaoGuhnpjeyQ@mail.gmail.com>
+
+On Wed, Oct 19, 2011 at 5:56 PM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Mon, Oct 17, 2011 at 12:22 AM, Thad Guidry <thadguidry at gmail.com>
+> wrote:
+>
+>  >(  Btw Tom, I might put a bounty on
+> > this again, not for sure however, since I do not directly need it, just
+> > helping scientist friends ;) and it looks like OKFN would like to see it
+> > happen as well ! )
+>
+> If someone wanted to pay for this, I'd certainly be
+> happy to knock something together and iterate on it with them or their
+> designated users.
+>
+
+We just shipped Refine 2.5, so now would be a good time to address this if
+there's any interest in the OKFN community (or elsewhere).
+
+Another interesting capability might be a Google Refine reconciliation
+service backed by BibSoup/BibServer/Bib* so that imported bibliographic
+data can be reconciled against existing entitities (journals, authors, etc)
+which are already in the database.
+
+Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111213/6eec6a94/attachment.htm>
+
+From thadguidry at gmail.com  Tue Dec 13 18:06:21 2011
+From: thadguidry at gmail.com (Thad Guidry)
+Date: Tue, 13 Dec 2011 12:06:21 -0600
+Subject: [open-bibliography] Google Refine contributor wanting to help
+ this community
+In-Reply-To: <CAE9vqEF4m=6d188iw-Fo_MM060Caa9RoKyaSHNEaoGuhnpjeyQ@mail.gmail.com>
+References: <CAChbWaMsS4XOgfMOhGNE0p2nvZ9fLGSgRth+64-iTPeRMrKHtw@mail.gmail.com>
+	<CAJ9UX46k69KZ9KfuKBuYsm9CbFMHXfpxvydOY3hcUEYjMZ_48Q@mail.gmail.com>
+	<CAD2k14MHYB-C-w44dxpB6T9CBeZYPok30XH3kA7UX6sm2JUKZg@mail.gmail.com>
+	<CAChbWaN=Kqj+KkB5xDfYhGCFFThkkZ5cEzCC5B5WzAdsX9AXXQ@mail.gmail.com>
+	<CAE9vqEGs0Ze8sKy2xg_4z2xMUv-ZA5v52-n0c9iHb4fho=0mqg@mail.gmail.com>
+	<CAE9vqEF4m=6d188iw-Fo_MM060Caa9RoKyaSHNEaoGuhnpjeyQ@mail.gmail.com>
+Message-ID: <CAChbWaMda4aR-SFdAMSYdEfAJ_ctH+J7sMcsy6NSq=-X9V62Vg@mail.gmail.com>
+
+I agree with Tom, now would be a good time !
+
+I would happily be the designated BibSoup "Importer" and "Reconciler" guru,
+if Tom and Mark want to hack on the tools and reconciliation code.  And I
+think Jim liked that idea as well, since he is a bit busy and wanted
+someone devoted to doing this kind of work, like me and Tom. :)
+
+-- 
+-Thad
+http://www.freebase.com/view/en/thad_guidry
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111213/8178e87b/attachment.htm>
+
+From mark at odaesa.com  Tue Dec 13 18:10:53 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 13 Dec 2011 18:10:53 +0000
+Subject: [open-bibliography] Google Refine contributor wanting to help
+ this community
+In-Reply-To: <CAChbWaMda4aR-SFdAMSYdEfAJ_ctH+J7sMcsy6NSq=-X9V62Vg@mail.gmail.com>
+References: <CAChbWaMsS4XOgfMOhGNE0p2nvZ9fLGSgRth+64-iTPeRMrKHtw@mail.gmail.com>
+	<CAJ9UX46k69KZ9KfuKBuYsm9CbFMHXfpxvydOY3hcUEYjMZ_48Q@mail.gmail.com>
+	<CAD2k14MHYB-C-w44dxpB6T9CBeZYPok30XH3kA7UX6sm2JUKZg@mail.gmail.com>
+	<CAChbWaN=Kqj+KkB5xDfYhGCFFThkkZ5cEzCC5B5WzAdsX9AXXQ@mail.gmail.com>
+	<CAE9vqEGs0Ze8sKy2xg_4z2xMUv-ZA5v52-n0c9iHb4fho=0mqg@mail.gmail.com>
+	<CAE9vqEF4m=6d188iw-Fo_MM060Caa9RoKyaSHNEaoGuhnpjeyQ@mail.gmail.com>
+	<CAChbWaMda4aR-SFdAMSYdEfAJ_ctH+J7sMcsy6NSq=-X9V62Vg@mail.gmail.com>
+Message-ID: <CAJ9UX44TVLqzehFDrUKuHfL3RKE0dCqQ9km-jCRkQUUZa52G+Q@mail.gmail.com>
+
+Hi all,
+
+On Tue, Dec 13, 2011 at 6:06 PM, Thad Guidry <thadguidry at gmail.com> wrote:
+> I agree with Tom, now would be a good time !
+>
+> I would happily be the designated BibSoup "Importer" and "Reconciler" guru,
+> if Tom and Mark want to hack on the tools and reconciliation code. ?And I
+> think Jim liked that idea as well, since he is a bit busy and wanted someone
+> devoted to doing this kind of work, like me and Tom. :)
+
+This would be great to have extra people working on, I would greatly
+appreciate it!
+
+How do you want to go from here? I could be available to talk about it
+some time tomorrow via skype if you like.
+
+Mark
+
+
+
+>
+> --
+> -Thad
+> http://www.freebase.com/view/en/thad_guidry
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From pm286 at cam.ac.uk  Wed Dec 14 03:01:36 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 14 Dec 2011 03:01:36 +0000
+Subject: [open-bibliography] Google Refine contributor wanting to help
+ this community
+In-Reply-To: <CAJ9UX44TVLqzehFDrUKuHfL3RKE0dCqQ9km-jCRkQUUZa52G+Q@mail.gmail.com>
+References: <CAChbWaMsS4XOgfMOhGNE0p2nvZ9fLGSgRth+64-iTPeRMrKHtw@mail.gmail.com>
+	<CAJ9UX46k69KZ9KfuKBuYsm9CbFMHXfpxvydOY3hcUEYjMZ_48Q@mail.gmail.com>
+	<CAD2k14MHYB-C-w44dxpB6T9CBeZYPok30XH3kA7UX6sm2JUKZg@mail.gmail.com>
+	<CAChbWaN=Kqj+KkB5xDfYhGCFFThkkZ5cEzCC5B5WzAdsX9AXXQ@mail.gmail.com>
+	<CAE9vqEGs0Ze8sKy2xg_4z2xMUv-ZA5v52-n0c9iHb4fho=0mqg@mail.gmail.com>
+	<CAE9vqEF4m=6d188iw-Fo_MM060Caa9RoKyaSHNEaoGuhnpjeyQ@mail.gmail.com>
+	<CAChbWaMda4aR-SFdAMSYdEfAJ_ctH+J7sMcsy6NSq=-X9V62Vg@mail.gmail.com>
+	<CAJ9UX44TVLqzehFDrUKuHfL3RKE0dCqQ9km-jCRkQUUZa52G+Q@mail.gmail.com>
+Message-ID: <CAD2k14PrQPGSV=B5VbdrSLco3dBPSg+jUZqHS5SuZg9=AMmdnQ@mail.gmail.com>
+
+On Tue, Dec 13, 2011 at 6:10 PM, Mark MacGillivray <mark at odaesa.com> wrote:
+
+> Hi all,
+>
+> On Tue, Dec 13, 2011 at 6:06 PM, Thad Guidry <thadguidry at gmail.com> wrote:
+> > I agree with Tom, now would be a good time !
+> >
+> > I would happily be the designated BibSoup "Importer" and "Reconciler"
+> guru,
+> > if Tom and Mark want to hack on the tools and reconciliation code.  And I
+> > think Jim liked that idea as well, since he is a bit busy and wanted
+> someone
+> > devoted to doing this kind of work, like me and Tom. :)
+>
+> This would be great to have extra people working on, I would greatly
+> appreciate it!
+>
+
+This is really exciting and important. We are keen that Open Bibliography
+is a community of practice. BibSoup deliberately has not "head" or central
+control - anyone can set up instances. Problems are resolved by community
+discussion. [Of course it will be useful to have some communal indexes]
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111214/684918bc/attachment-0001.htm>
+
+From msantori at otenet.gr  Wed Dec 14 05:49:05 2011
+From: msantori at otenet.gr (Manthos Santorineos)
+Date: Wed, 14 Dec 2011 07:49:05 +0200
+Subject: [open-bibliography] submissions
+Message-ID: <001501ccba24$19371110$4ba53330$@gr>
+
+ 
+
+ 
+
+Manthos Santorineos
+
+artist - researches 
+
+Assistant Professor Athens School of Fine Arts
+
+Multimedia - Hypermedia Lab
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111214/a13a7a98/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue Dec 13 00:02:48 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 13 Dec 2011 00:02:48 +0000
+Subject: [open-bibliography] Compiling licence details for all open access
+ journals in UK PubMedCentral (or PMC)
+Message-ID: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+
+I've just had a look at the spreadsheet for the first time since Saturday -
+wow! Amazing job Ross!
+https://docs.google.com/spreadsheet/ccc?key=0AtbO6mZEvieCdDFzdkVNQld6Mnc5NEpGWVlRUVhvM3c#gid=0
+
+In terms of completeness, I agree it's really hard to ensure good coverage
+of the publishers and we could do with a really good list including
+licences to continue with and crowdsource just the more difficult to find
+details like author pays charges. Also, from Ross' spreadsheet it looks
+like in many cases the licensing is journal rather than publisher specific,
+particularly so with the larger publishers. As this all started with a
+discussion about articles in UK PubMedCentral, I wonder if we could take
+their list of full or partial OA journals, get the license data for OA
+articles published in them and then work from there. The way to do this
+might be:
+
+a) Ask someone at UK PMC for such a list - any volunteers with contacts?
+This is preferable as it avoids a lot of work, but if not possible...
+
+b) Compile a list of journals flagged as open access, then search the
+article metadata for a few articles from that journal to find the licences
+
+I've included the open-biblio list for technical advice if this is our only
+option! Could we:
+1) Take the list of PMC journals flagged as full or partial OA (PMC journal
+list with open access indicator field available as CSV here
+http://www.ncbi.nlm.nih.gov/pmc/journals/#csvfile, UK PMC here
+http://ukpmc.ac.uk/journalList#csvfile, probably as another format
+somewhere...)
+2) Query the PMC metadata (using the UKPMC-OIA tool) for OA articles (could
+limit this to just a few (maybe even a single) records from each journal -
+license type is an attribute so could query for license-type="open-access")
+3) Extract licensing information (XML attribute
+http://www.ncbi.nlm.nih.gov/pmc/pmcdoc/tagging-guidelines/article/dobs.html#dob-license
+)
+4) Check for consistency (should be the same for all articles within a
+journal) and tabulate the results alongside the journal record in the
+journal list. We probably don't require all fields but obviously publisher
+and others are vital.
+
+We can then add in all of the excellent information Ross has collected
+(which probably includes journals not indexed by PMC), which would already
+cover a significant chunk
+
+Technical people - is this feasible and is it possible in a short enough
+time that it is worth it compared to crowdsourcing more content? This is
+not my area of expertise so you may have a much better way of doing it than
+the one I suggest above, I just worked backwards from what we want to end
+up with.
+
+Interestingly enough, the PMC XML guidance (
+http://dtd.nlm.nih.gov/publishing/tag-library/) states:
+The type of license, for example, ?open-access? for a license permitting
+*unrestricted* use, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+(my emphasis!)
+
+Feel free to assert that this is entirely unecessary, it depends how
+complete we want our coverage to be. Being able to generate evidence across
+a recognised source of OA material such as PMC or UK PMC could be powerful.
+We would need to cover more journals from the physical sciences in addition
+to be representative across fields, but Ross has already made great
+progress on this.
+
+Jenny
+
+
+
+
+
+
+
+On Mon, Dec 12, 2011 at 8:08 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> My original conception of the idea, was to look at every publisher that
+> labels articles as "open access" - this exact phrase. From there, I
+> assessed what licence (if any) could be found to support this self-applied
+> label.
+>
+> It's technically challenging to do. I'm not too familiar with
+> 'publisher-space' - it's a large unknown and relatively unmapped territory
+> to me. I have no idea how complete my list is for instance WRT STM
+> publishers.
+>
+> I could only find positive evidence that a few were truly Open Access (as
+> per the Budapest Declaration), most in my interpretation are labelled "open
+> access" and not really Open Access (i.e. they explicitly exclude some
+> uses), and for others there's simply a lack of data - I can't determine
+> what their policy is.
+>
+> I was just going to put BMC and PLoS on for clarity and completeness
+> actually, and further sort out the spreadsheet to make things clearer.
+> Apologies if any confusion was caused, the spreadsheet is far from finished
+> - if you spot any errors or can make any additions, then please go ahead!
+>
+> The colour highlighting that PMR suggested indicates the true Open Access
+> schemes / publishers I believe.
+>
+> Regards,
+>
+> Ross
+>
+>
+>
+>
+>
+> On Mon, Dec 12, 2011 at 6:22 PM, Graham Steel <steelgraham7 at googlemail.com
+> > wrote:
+>
+>> Comment from Pete Binfield, PLoS ONE
+>>
+>> Graham Steel
+>> 5:56 PM (24 minutes ago)
+>>
+>> to Peter, Liz
+>> Good point.
+>>
+>> I'll flag this up.
+>>
+>>
+>> On Mon, Dec 12, 2011 at 5:53 PM, Peter Binfield <pbinfield at plos.org>wrote:
+>>
+>> That?s what I thought. So why are CC-BY journals on it? (e.g. Sage Open)
+>>
+>>
+>>
+>>
+>>
+>> *From:* Graham Steel [mailto:steelgraham7 at googlemail.com]
+>> *Sent:* Monday, December 12, 2011 9:53 AM
+>> *To:* Peter Binfield
+>> *Cc:* Liz Allen
+>> *Subject:* Re: Fake OA Journals - Spreadsheet
+>>
+>>
+>>
+>> The main issue surrounds the type of license used.
+>>
+>> Peter Murray-Rust has been blogging about this, most recently here<http://blogs.ch.cam.ac.uk/pmr/2011/12/07/%E2%80%9Copen-access%E2%80%9D-and-non-commercial-licences-summary/>.
+>>
+>>
+>> On Mon, Dec 12, 2011 at 5:45 PM, Peter Binfield <pbinfield at plos.org>
+>> wrote:
+>>
+>> Thanks Graham
+>>
+>>
+>>
+>> What qualifies a journal to get onto this sheet?
+>>
+>>
+>> Peter Binfield, PhD
+>>
+>>
+>>
+>> --
+>> *An ounce of prevention is worth more than a pound of cure" Benjamin
+>> Franklin ~1800*
+>>
+>> H: +44 (0)141 422 1483 (after 6pm GMT)
+>>
+>> C: +44 (0)7827408070
+>>
+>> E: steelgraham7 at gmail.com
+>>
+>> U: http://www.plos.org - research made public
+>>
+>> Fb: http://www.facebook.com/home.php#/profile.php?id=709026752
+>>
+>> Blog: http://www.science3point0.com/mcblawg/
+>>
+>> Twitter: http://twitter.com/McDawg
+>>
+>> FriendFeed: http://friendfeed.com/steelgraham
+>>
+>> LIVESTREAMING : http://www.ustream.tv/user/McDawg
+>>
+>>
+>>
+>
+>
+>
+> --
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath
+> 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111213/c8f67478/attachment-0001.htm>
+
+From egon.willighagen at gmail.com  Tue Dec 13 06:48:01 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Tue, 13 Dec 2011 07:48:01 +0100
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+Message-ID: <CAMPqvY_BLpq7UQDqFo0ipmgO-7BzG7VTLGpRpwXHBMps4uo1xg@mail.gmail.com>
+
+On Tue, Dec 13, 2011 at 1:02 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>
+> I've just had a look at the spreadsheet for the first time since Saturday - wow! Amazing job Ross!
+> https://docs.google.com/spreadsheet/ccc?key=0AtbO6mZEvieCdDFzdkVNQld6Mnc5NEpGWVlRUVhvM3c#gid=0
+
+Indeed!
+
+I added the Beilstein Institute, with two gold OA journals, and the
+Molecular Diversity Preservation International, with more than 50 gold
+OA journals.
+
+> Interestingly enough, the PMC XML guidance (http://dtd.nlm.nih.gov/publishing/tag-library/) states:
+> The type of license, for example, ?open-access? for a license permitting *unrestricted* use, distribution, and reproduction in any medium, provided the original work is properly cited.
+> (my emphasis!)
+
+Interesting statement indeed... the unrestricted bit excludes
+NC-tained licenses as Open Access...  (or did they misinterpret the
+meaning of 'unrestricted' when writing up this statement?)
+
+> Feel free to assert that this is entirely unecessary,
+
+I think the statement is important. I do not know why PMC excludes NC
+clauses as Open Access... does anyone?
+
+Egon
+
+
+--
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet (http://ki.se/imm)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From egon.willighagen at gmail.com  Tue Dec 13 07:25:03 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Tue, 13 Dec 2011 08:25:03 +0100
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CAMPqvY_BLpq7UQDqFo0ipmgO-7BzG7VTLGpRpwXHBMps4uo1xg@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAMPqvY_BLpq7UQDqFo0ipmgO-7BzG7VTLGpRpwXHBMps4uo1xg@mail.gmail.com>
+Message-ID: <CAMPqvY9smA55boP3nFi+Hq=SPHb2vNe2FX2aLf+kf4G=u7K-uw@mail.gmail.com>
+
+On Tue, Dec 13, 2011 at 7:48 AM, Egon Willighagen
+<egon.willighagen at gmail.com> wrote:
+>> Interestingly enough, the PMC XML guidance (http://dtd.nlm.nih.gov/publishing/tag-library/) states:
+>> The type of license, for example, ?open-access? for a license permitting *unrestricted* use, distribution, and reproduction in any medium, provided the original work is properly cited.
+>> (my emphasis!)
+>
+> Interesting statement indeed... the unrestricted bit excludes
+> NC-tained licenses as Open Access... ?(or did they misinterpret the
+> meaning of 'unrestricted' when writing up this statement?)
+
+It is probably important to add the context... this quote is from a
+page describing an XML language, not a normative text... the quote in
+context can even be interpreted in several ways, one of which is that
+the description just describes *one* possibility of an open access
+license... (thanx to the person who contacted me off list, to bring
+this up!)
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet (http://ki.se/imm)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From nb at climatecode.org  Tue Dec 13 11:15:38 2011
+From: nb at climatecode.org (Nick Barnes)
+Date: Tue, 13 Dec 2011 11:15:38 +0000
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CAMPqvY9smA55boP3nFi+Hq=SPHb2vNe2FX2aLf+kf4G=u7K-uw@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAMPqvY_BLpq7UQDqFo0ipmgO-7BzG7VTLGpRpwXHBMps4uo1xg@mail.gmail.com>
+	<CAMPqvY9smA55boP3nFi+Hq=SPHb2vNe2FX2aLf+kf4G=u7K-uw@mail.gmail.com>
+Message-ID: <CADSvO-HuXfPW85=v1QFnBbMkc0h7ybdNqMWi0m4kt2CFCTXf=g@mail.gmail.com>
+
+This spreadsheet is awesome.  Can I plea for a rearrangement, moving
+the brief data columns (specifically, L "price range" and N
+"journal/hybrid") towards the left, pushing the evidence columns
+(F,G,K,M) to the right?  On my screen I can't view the price and the
+journal columns at the same time.  The evidence columns (and maybe the
+reporter column) are footnotes, in a sense.
+
+I'd do it myself but such a major change will disrupt anyone working
+with the document so should be agreed collectively (or at least
+announced on-list).
+
+Nick B
+
+
+From ross.mounce at gmail.com  Tue Dec 13 13:09:06 2011
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Tue, 13 Dec 2011 13:09:06 +0000
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+Message-ID: <CAJr+OEx0KSi4_RExWSKQY0gKr3q0ymL3Ln0kri4LazfceAb4JQ@mail.gmail.com>
+
+> What qualifies a journal to get onto this sheet?
+
+I've taken a slightly more inclusive approach than PMR actually.
+
+I've included more than just OAhybrid journals.
+
+My position is that it should be a survey of all research publications
+(e.g. journals, articles) that claim or self-label themselves as "open
+access". Many as we have discovered are in fact NOT Open Access as per
+the Budapest Declaration, despite this self-applied label.
+
+Thus included on the spreadsheet are OA hybrid journals,publishers,
+"open access" journals/publishers, and proper Open Access (Budapest
+Declaration) journals/publishers.
+
+Sometimes a publisher has multiple types of journals. So we try and
+differentiate between those streams. I suggest we score only those
+that are labelled "open access". Hence I should probably remove AAAS
+(Science) as AFAIK I don't they claim to make any of their articles
+"open access" - please correct me if you can find any though!
+
+However, I concede there may be another interesting line of
+investigation - that of journals that cleverly word their terms and
+conditions so as NOT to make use of the phrase "open access", whilst
+simultaneously making articles freely available and claiming that this
+is in full-compliance with funding agencies such as Wellcome Trust,
+NIH, NSF etc... Within the current scoring scheme of the spreadsheet
+to include this might be tricky - another separate colour perhaps, for
+cases such as these?
+
+Has anyone looked into whether CC-NC is compatible with funders terms
+and conditions?
+I hope it is not; as we have seen in many of the discussion threads
+here recently - the CC-NC license can and does harm research re-use
+potential.
+
+Regards,
+
+Ross
+
+
+
+PS Feel free to discuss further scoping issues, I'm just voicing my opinion...
+
+
+From heatherm at eln.bc.ca  Tue Dec 13 17:23:12 2011
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Tue, 13 Dec 2011 09:23:12 -0800
+Subject: [open-bibliography] [open-science] Compiling licence details
+	for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CAD2k14MG58-Nw0Fu9D7h_2pHF2gH7GJyRRRiPy+++ajGA-Oqqw@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+	<CAJr+OEx0KSi4_RExWSKQY0gKr3q0ymL3Ln0kri4LazfceAb4JQ@mail.gmail.com>
+	<CAD2k14MG58-Nw0Fu9D7h_2pHF2gH7GJyRRRiPy+++ajGA-Oqqw@mail.gmail.com>
+Message-ID: <88843EEB-759E-42DC-A2EA-E4FC9F9FBBA0@eln.bc.ca>
+
+On 2011-12-13, at 5:24 AM, Peter Murray-Rust wrote:
+
+
+Note that the US government has always (at least as far as I remember) required that its publications are Open. Staff in (say) NIH publishing papers are required to make them open and not to hand over copyright. How much it actually happens in the pages of the journals I don't know.
+ 
+Perhaps this is something that the EU could address for its agencies. Or maybe it takes the same line as the US.
+
+Comment:
+
+A search of PubMed for " Research Support, N.I.H., Intramural [pt]" on December 11, 2011 yields the following percentages of fulltext:
+
+Within 60 days of publication:  12% (this figure varies, no clear gains since 2008)
+Within 3 years of publication:  66% (this figure has steadily risen from 43% in 2008)
+
+To my knowledge, there is no way of figuring out what percentage is open access as opposed to freely available, regardless of how one defines open access.
+
+Full data available for download from my dataverse (thanks to Harvard), at:
+http://dvn.iq.harvard.edu/dvn/dv/dgoa
+
+See the latest full data edition, 3rd tab (PMC free).
+
+This spreadsheet is currently licensed as CC-BY-NC-SA. I have meaning to consider an appropriate data license, but have lost track of open data licensing discussions. Should I be looking at Panton Principles or an Open Knowledge license? Advice appreciated.
+
+Heather Morrison, MLIS
+Doctoral Candidate, Simon Fraser University School of Communication
+http://pages.cmns.sfu.ca/heather-morrison/
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+
+
+
+
+From heatherm at eln.bc.ca  Tue Dec 13 17:56:58 2011
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Tue, 13 Dec 2011 09:56:58 -0800
+Subject: [open-bibliography] Academic freedom, work for hire,
+	and who is subsidizing whom?
+In-Reply-To: <88843EEB-759E-42DC-A2EA-E4FC9F9FBBA0@eln.bc.ca>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+	<CAJr+OEx0KSi4_RExWSKQY0gKr3q0ymL3Ln0kri4LazfceAb4JQ@mail.gmail.com>
+	<CAD2k14MG58-Nw0Fu9D7h_2pHF2gH7GJyRRRiPy+++ajGA-Oqqw@mail.gmail.com>
+	<88843EEB-759E-42DC-A2EA-E4FC9F9FBBA0@eln.bc.ca>
+Message-ID: <F838BEFE-F2C6-4BDA-847A-342F2144902F@eln.bc.ca>
+
+While I fully support and advocate for funder open access policies, there are reasons to hesitate about funders insisting on particular licenses.
+
+It should be the author, not the funder and not the publisher, deciding on the terms of the license. That should be the aims of the author's rights movement, and this is the approach that is the best fit with academic freedom - another concept that is in need of support at this point in time.
+
+A limitation of the public funding argument is that in many cases public funding only covers some of the costs. For example, to become a grad student, one must first be a undergrad. There are still places where post-secondary education is fully subsidized, however partial or no subsidies seems to be more common. If a grad student is paying for their undergrad education (or perhaps still carrying debt), as well as paying tuition, while working on a research project, I would argue that it is the grad student who is funding the research. If grad students are to be told how to license their work on the basis that it is "publicly funding", I would advise grad students to say, okay where is the public funding?
+
+If we are saying that the main purpose of this research is to advance commercialization opportunities for the corporate sector, then I would argue that it is the students who are subsidizing the corporate sector.
+
+best,
+
+Heather Morrison, MLIS
+Doctoral Candidate, Simon Fraser University School of Communication
+http://pages.cmns.sfu.ca/heather-morrison/
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+
+
+
+
+
+From nb at climatecode.org  Wed Dec 14 15:16:58 2011
+From: nb at climatecode.org (Nick Barnes)
+Date: Wed, 14 Dec 2011 15:16:58 +0000
+Subject: [open-bibliography] [open-science] Academic freedom,
+ work for hire, and who is subsidizing whom?
+In-Reply-To: <F838BEFE-F2C6-4BDA-847A-342F2144902F@eln.bc.ca>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAD2k14NjK9_aLy_wr4D+Vcy4Tann5FiJ4dmkgya-4frwe5sv0Q@mail.gmail.com>
+	<CAJr+OEx0KSi4_RExWSKQY0gKr3q0ymL3Ln0kri4LazfceAb4JQ@mail.gmail.com>
+	<CAD2k14MG58-Nw0Fu9D7h_2pHF2gH7GJyRRRiPy+++ajGA-Oqqw@mail.gmail.com>
+	<88843EEB-759E-42DC-A2EA-E4FC9F9FBBA0@eln.bc.ca>
+	<F838BEFE-F2C6-4BDA-847A-342F2144902F@eln.bc.ca>
+Message-ID: <CADSvO-EvC99XKo4LMgx6xSSHo-Ykyaf0_hV5xu2FYWDEgMarOg@mail.gmail.com>
+
+On Tue, Dec 13, 2011 at 17:56, Heather Morrison <heatherm at eln.bc.ca> wrote:
+> A limitation of the public funding argument is that in many cases public funding only covers some of the costs. For example, to become a grad student, one must first be a undergrad. There are still places where post-secondary education is fully subsidized, however partial or no subsidies seems to be more common. If a grad student is paying for their undergrad education (or perhaps still carrying debt), as well as paying tuition, while working on a research project, I would argue that it is the grad student who is funding the research. If grad students are to be told how to license their work on the basis that it is "publicly funding", I would advise grad students to say, okay where is the public funding?
+
+Does an analogous argument apply to graduates working in the private
+sector?  If not, why not?  Their work products require their skills
+which are similarly based on their education, which someone (usually
+the graduate or a government) has paid for.  Are they entitled to a
+share of the work products based on that subsidy?  Or is it assumed
+that their salary pays for their skills?
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From thadguidry at gmail.com  Wed Dec 14 20:20:55 2011
+From: thadguidry at gmail.com (Thad Guidry)
+Date: Wed, 14 Dec 2011 14:20:55 -0600
+Subject: [open-bibliography] [open-science] Compiling licence details
+ for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <CAMPqvY_BLpq7UQDqFo0ipmgO-7BzG7VTLGpRpwXHBMps4uo1xg@mail.gmail.com>
+References: <CABPM+woOp5eLPce6tn_1Cz3Ld4bwvzMxx1z7=emG8Kkf5v_-zg@mail.gmail.com>
+	<CAMPqvY_BLpq7UQDqFo0ipmgO-7BzG7VTLGpRpwXHBMps4uo1xg@mail.gmail.com>
+Message-ID: <CAChbWaP8fF7RncXKrmOANnJGvjh92LEr2UMd9pFCRbtxuu0QNw@mail.gmail.com>
+
+>
+>
+> I think the statement is important. I do not know why PMC excludes NC
+> clauses as Open Access... does anyone?
+>
+> Egon
+>
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Researcher
+> Institutet f?r milj?medicin
+> Karolinska Institutet (http://ki.se/imm)
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+>
+I am a little confused by the terminology of the Creative Commons licenses
+within this group discussion.
+
+If you look at this particular PMC article and read the Acknowledgements
+section it seems to imply a CC-BY license:
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144372/
+
+and perhaps some assumptions are being made in this group discussion, where
+they should not be.  This page explained PMC's organization of "open
+access" quite well for me personally,
+http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/
+
+FYI,
+
+-- 
+-Thad
+http://www.freebase.com/view/en/thad_guidry
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111214/db2b4b76/attachment.htm>
+
+From mjr at phonecoop.coop  Wed Dec 14 20:37:46 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Wed, 14 Dec 2011 20:37:46 +0000
+Subject: [open-bibliography] [open-science] Compiling licence
+	details	for all open access journals in UK PubMedCentral (or PMC)
+In-Reply-To: <88843EEB-759E-42DC-A2EA-E4FC9F9FBBA0@eln.bc.ca>
+Message-ID: <E1RavaE-0006Ii-KN@petrol.towers.org.uk>
+
+Heather Morrison <heatherm at eln.bc.ca>
+> Perhaps this is something that the EU could address for its
+> agencies. Or maybe it takes the same line as the US.
+
+It's not at all like the US.  I think there's often a laissez-faire
+approach based on some concept of encouraging private enterprise.
+
+Also, the EU has a bad habit of inventing its own licences when asked
+to address this in other fields.  At least, I think that's why we were
+cursed with things like the degrades-to-GPL CeCILL-B licence and the
+not-so-simple EU Datagrid Licence.
+
+If anyone asks the EU to address this for its agencies, please be
+careful how the request is worded!
+
+(cc'd because it was crossposted to a list I don't belong to.)
+
+Hope that informs,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+http://koha-community.org supporter, web and library systems developer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire (including development) at http://www.software.coop/
+
+
+From Corine.Deliot at bl.uk  Thu Dec 15 11:17:23 2011
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Thu, 15 Dec 2011 11:17:23 -0000
+Subject: [open-bibliography] Sample subject specific journal article
+	metadata available for comment
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+
+Dear all,
+
+ 
+
+The British Library is currently examining options for making subject
+specific journal article metadata (e.g. Biotechnology) available for
+projects in a basic RDF/XML representation (i.e. not linked data). The
+metadata would be distributed under a Creative Commons CC0 1.0 Universal
+Public Domain Dedication licence. A sample file covering the topic of
+Palaeontology is now available for feedback at:
+http://www.bl.uk/bibliographic/datasamples.html
+
+ 
+
+Please contact us at metadata at bl.uk for further information
+
+ 
+
+All the best
+
+ 
+
+Corine
+
+ 
+
+************************************
+
+Corine Deliot
+
+Metadata Standards Analyst
+
+The British Library
+
+Boston Spa, West Yorkshire
+
+Leeds LS23 7BQ
+
+*************************************
+
+ 
+
+ 
+
+
+**************************************************************************
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2010/11 : http://www.bl.uk/annualreport2010-11http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/7a00dc31/attachment-0001.htm>
+
+From Corine.Deliot at bl.uk  Thu Dec 15 11:25:57 2011
+From: Corine.Deliot at bl.uk (Deliot, Corine)
+Date: Thu, 15 Dec 2011 11:25:57 -0000
+Subject: [open-bibliography] British Library Terms RDF schema now published
+Message-ID: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA4A@w2k3-bspex2.ad.bl.uk>
+
+Dear all,
+
+ 
+
+We've just published the British Library Terms RDF schema defined during
+our Linked Open BNB project. The one significant change between this and
+the draft schema is that we've had to change the namespace for this
+vocabulary. Anybody wishing to use blt: classes and properties should
+reference it as http://www.bl.uk/schemas/bibliographic/blterms#
+<http://www.bl.uk/schemas/bibliographic/blterms>  
+
+ 
+
+Please see http://www.bl.uk/schemas for further info on this schema and
+http://www.bl.uk/bibliographic/datafree.html for further info on our
+linked data project.
+
+ 
+
+Feel free to contact us at metadata at bl.uk 
+
+ 
+
+Best wishes
+
+ 
+
+Corine
+
+ 
+
+ 
+
+***********************************
+
+Corine Deliot
+
+Metadata Standards Analyst
+
+The British Library 
+
+Boston Spa
+
+Wetherby, LS23 7BQ
+
+**********************************
+
+
+**************************************************************************
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2010/11 : http://www.bl.uk/annualreport2010-11http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/79c08aba/attachment.htm>
+
+From naomi.lillie at okfn.org  Thu Dec 15 11:33:56 2011
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Thu, 15 Dec 2011 11:33:56 +0000
+Subject: [open-bibliography] Sample subject specific journal article
+ metadata available for comment
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+Message-ID: <CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com>
+
+Dear Corine,
+
+That's great, thanks - hopefully others will respond with feedback but in
+the meantime thank you for sending this through and keeping us informed.
+
+I have just started working with the OKFN (Open Biblio project) and look
+forward to liaising with you in future.
+
+Regards,
+Naomi
+
+
+On 15 December 2011 11:17, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+
+> ** ** **
+>
+> Dear all,****
+>
+> ** **
+>
+> The British Library is currently examining options for making subject
+> specific journal article **metadata** (e.g. Biotechnology) available for
+> projects in a basic RDF/XML representation (i.e. not linked data). The **
+> metadata** would be distributed under a Creative Commons CC0 1.0
+> Universal Public Domain Dedication licence. A sample file covering the
+> topic of Palaeontology is now available for feedback at:
+> http://www.bl.uk/bibliographic/datasamples.html****
+>
+> ** **
+>
+> Please contact us at metadata at bl.uk for further information****
+>
+> ** **
+>
+> All the best****
+>
+> ** **
+>
+> Corine****
+>
+> ** **
+>
+> ****************************************
+>
+> Corine Deliot****
+>
+> Metadata Standards Analyst****
+>
+> The British Library****
+>
+> **Boston** Spa, **West Yorkshire******
+>
+> **Leeds** LS23 7BQ****
+>
+> *****************************************
+>
+> ** **
+>
+> ** **
+>
+> **************************************************************************
+> Experience the British Library online at www.bl.uk
+>
+> The British Library?s new interactive Annual Report and Accounts 2010/11 :
+> www.bl.uk/annualreport2010-11 <http://www.bl.uk/knowledge>
+>
+> Help the British Library conserve the world's knowledge. Adopt a Book.
+> www.bl.uk/adoptabook
+>
+> The Library's St Pancras site is WiFi - enabled
+>
+> *************************************************************************
+>
+> The information contained in this e-mail is confidential and may be
+> legally privileged. It is intended for the addressee(s) only. If you are
+> not the intended recipient, please delete this e-mail and notify the
+> postmaster at bl.uk : The contents of this e-mail must not be disclosed or
+> copied without the sender's consent.
+>
+> The statements and opinions expressed in this message are those of the
+> author and do not necessarily reflect those of the British Library. The
+> British Library does not take any responsibility for the views of the
+> author.
+>
+> *************************************************************************
+>  Think before you print
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator (Open Bibliography)
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/ae37b542/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Dec 15 13:03:50 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 15 Dec 2011 13:03:50 +0000
+Subject: [open-bibliography] Sample subject specific journal article
+ metadata available for comment
+In-Reply-To: <CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+	<CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com>
+Message-ID: <CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+
+> On 15 December 2011 11:17, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+>
+>> ** ** **
+>>
+>> Dear all,****
+>>
+>> ** **
+>>
+>> The British Library is currently examining options for making subject
+>> specific journal article **metadata** (e.g. Biotechnology) available for
+>> projects in a basic RDF/XML representation (i.e. not linked data). The **
+>> metadata** would be distributed under a Creative Commons CC0 1.0
+>> Universal Public Domain Dedication licence. A sample file covering the
+>> topic of Palaeontology is now available for feedback at:
+>> http://www.bl.uk/bibliographic/datasamples.html
+>>
+>
+Corine - this sounds like Christmas has arrived early.
+
+Do you know Ross Mounce - a new Open palaeontological star. Because if not
+he will love this. Or perhaps you did for him as a Christmas present...
+
+
+> ****
+>>
+>> ** **
+>>
+>> Please contact us at metadata at bl.uk for further information****
+>>
+>> ** **
+>>
+>> All the best****
+>>
+>> ** **
+>>
+>> Corine****
+>>
+>> ** **
+>>
+>> ****************************************
+>>
+>> Corine Deliot****
+>>
+>> Metadata Standards Analyst****
+>>
+>> The British Library****
+>>
+>> **Boston** Spa, **West Yorkshire******
+>>
+>> **Leeds** LS23 7BQ****
+>>
+>> *****************************************
+>>
+>> ** **
+>>
+>> ** **
+>>
+>> **************************************************************************
+>> Experience the British Library online at www.bl.uk
+>>
+>> The British Library?s new interactive Annual Report and Accounts 2010/11
+>> : www.bl.uk/annualreport2010-11 <http://www.bl.uk/knowledge>
+>>
+>> Help the British Library conserve the world's knowledge. Adopt a Book.
+>> www.bl.uk/adoptabook
+>>
+>> The Library's St Pancras site is WiFi - enabled
+>>
+>> *************************************************************************
+>>
+>> The information contained in this e-mail is confidential and may be
+>> legally privileged. It is intended for the addressee(s) only. If you are
+>> not the intended recipient, please delete this e-mail and notify the
+>> postmaster at bl.uk : The contents of this e-mail must not be disclosed or
+>> copied without the sender's consent.
+>>
+>> The statements and opinions expressed in this message are those of the
+>> author and do not necessarily reflect those of the British Library. The
+>> British Library does not take any responsibility for the views of the
+>> author.
+>>
+>> *************************************************************************
+>>  Think before you print
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>>
+>
+>
+> --
+> Naomi Lillie
+> Foundation Administrator and Community Coordinator (Open Bibliography)
+> Open Knowledge Foundation
+> http://okfn.org/
+> Skype: n.lillie
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/52bf9886/attachment.htm>
+
+From thadguidry at gmail.com  Thu Dec 15 14:58:14 2011
+From: thadguidry at gmail.com (Thad Guidry)
+Date: Thu, 15 Dec 2011 08:58:14 -0600
+Subject: [open-bibliography] Sample subject specific journal article
+ metadata available for comment
+In-Reply-To: <CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+	<CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com>
+	<CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+Message-ID: <CAChbWaNzd3di+GNEiM4_iuXB_dh=tQOuN5EhD4AtvPvw_M-7nQ@mail.gmail.com>
+
+Corine,
+
+FYI, I saw a few pure "Geology" field of study articles in the sample file
+that were not concerning "Palaeontology" at all.
+
+Some were in the SPECIAL PAPERS- GEOLOGICAL SOCIETY OF AMERICA and others.
+
+1.  Will this occur because of a processing problem with the journal
+metadata received or manual mishaps ?  I am thinking that "Palaeontology"
+is indeed one of the carried subjects specified in the SPECIAL PAPERS-
+GEOLOGICAL SOCIETY OF AMERICA.  But a user of this sample XML does not
+really see this.  If so, then perhaps it might be best in the RDF/XML to
+also carry a URI that can take the user to the journal metadata that will
+list all the possible subjects that journal carries ?  Or is there another
+method for this discovery ?
+
+-- 
+-Thad
+http://www.freebase.com/view/en/thad_guidry
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/ab4ebf40/attachment.htm>
+
+From Heather.Rosie at bl.uk  Thu Dec 15 15:29:56 2011
+From: Heather.Rosie at bl.uk (Rosie, Heather)
+Date: Thu, 15 Dec 2011 15:29:56 -0000
+Subject: [open-bibliography] Sample subject specific journal article
+	metadata available for comment
+In-Reply-To: <CAChbWaNzd3di+GNEiM4_iuXB_dh=tQOuN5EhD4AtvPvw_M-7nQ@mail.gmail.com>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk><CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com><CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+	<CAChbWaNzd3di+GNEiM4_iuXB_dh=tQOuN5EhD4AtvPvw_M-7nQ@mail.gmail.com>
+Message-ID: <0658A983091DCF469C30F6C8F932E3AEDA2D8B@w2k3-bspex2.ad.bl.uk>
+
+Hi Thad
+
+ 
+
+The subject selection was based on the DDC (560 - Paleontology)
+assigned at journal title level rather than at article level so, as you
+say, "Palaeontology" is one of the carried subjects in this journal (the
+other being 551 - Geology, hydrology, meteorology).  For this sample, we
+are principally interested in feedback on the structure of the metadata
+rather than the subject selection; if we were to offer selections in
+this format in future, we would try to refine the subject selection
+using some other mechanisms, such as keywords in the title/abstract,
+other subject classes (LCC and local subject codes), although this would
+still be imperfect since BL metadata for journal articles is not
+currently classified or (subject) indexed at article title level.
+
+ 
+
+Many thanks for your interest.
+
+ 
+
+Heather
+
+ 
+
+Heather Rosie
+
+Online Metadata Analyst
+
+The British Library
+
+ 
+
+heather.rosie at bl.uk
+
+ 
+
+________________________________
+
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Thad
+Guidry
+Sent: 15 December 2011 14:58
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] Sample subject specific journal article
+metadata available for comment
+
+ 
+
+Corine,
+
+ 
+
+FYI, I saw a few pure "Geology" field of study articles in the sample
+file that were not concerning "Palaeontology" at all.
+
+ 
+
+Some were in the SPECIAL PAPERS- GEOLOGICAL SOCIETY OF AMERICA and
+others.
+
+ 
+
+1.  Will this occur because of a processing problem with the journal
+metadata received or manual mishaps ?  I am thinking that
+"Palaeontology" is indeed one of the carried subjects specified in the
+SPECIAL PAPERS- GEOLOGICAL SOCIETY OF AMERICA.  But a user of this
+sample XML does not really see this.  If so, then perhaps it might be
+best in the RDF/XML to also carry a URI that can take the user to the
+journal metadata that will list all the possible subjects that journal
+carries ?  Or is there another method for this discovery ?
+
+ 
+
+-- 
+-Thad
+http://www.freebase.com/view/en/thad_guidry
+
+
+**************************************************************************
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2010/11 : http://www.bl.uk/annualreport2010-11http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/186fd53c/attachment-0001.htm>
+
+From emc59 at cam.ac.uk  Thu Dec 15 15:45:22 2011
+From: emc59 at cam.ac.uk (Edmund Chamberlain)
+Date: Thu, 15 Dec 2011 15:45:22 +0000
+Subject: [open-bibliography] OCLC Fast available under ODC-by
+Message-ID: <4EEA1612.3090909@cam.ac.uk>
+
+May be of interest to folks here, press release here:
+
+http://www.oclc.org/news/releases/2011/201171.htm
+
+Great looking subject heading dataset. Sadly no bulk download or 
+queryable endpoint available (yet).
+
+-- 
+Edmund Chamberlain
+Systems Development Librarian	
+Electronic Services and Systems
+Cambridge University Library
+West Road,
+Cambridge
+CB3 9DR
+
+tel: (+44) 01223 747437
+fax: (+44) 01223 333160
+
+email: emc59 at cam.ac.uk
+
+Try LibrarySearch at http://search.lib.cam.ac.uk - a new way to discover 
+Cambridge Library Collections
+
+
+From thadguidry at gmail.com  Thu Dec 15 16:08:17 2011
+From: thadguidry at gmail.com (Thad Guidry)
+Date: Thu, 15 Dec 2011 10:08:17 -0600
+Subject: [open-bibliography] Sample subject specific journal article
+ metadata available for comment
+In-Reply-To: <0658A983091DCF469C30F6C8F932E3AEDA2D8B@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+	<CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com>
+	<CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+	<CAChbWaNzd3di+GNEiM4_iuXB_dh=tQOuN5EhD4AtvPvw_M-7nQ@mail.gmail.com>
+	<0658A983091DCF469C30F6C8F932E3AEDA2D8B@w2k3-bspex2.ad.bl.uk>
+Message-ID: <CAChbWaP51T62Yv9vOACa+UWT=xQdXfKwxct9paaYpTT4JM=P+w@mail.gmail.com>
+
+Heather,
+
+Many thanks for the explanation.  One final question.
+
+Who does the assigning of subjects at the journal title level ?  BL ?  Or
+do you simply take the subjects already assigned to the journal by the
+publishers ?
+
+-- 
+-Thad
+http://www.freebase.com/view/en/thad_guidry
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/4583eefe/attachment.htm>
+
+From tfmorris at gmail.com  Thu Dec 15 16:52:39 2011
+From: tfmorris at gmail.com (Tom Morris)
+Date: Thu, 15 Dec 2011 11:52:39 -0500
+Subject: [open-bibliography] Sample subject specific journal article
+ metadata available for comment
+In-Reply-To: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+Message-ID: <CAE9vqEGmGyHX2MrSNfs10wVeuuFKbZEFsKeiVyqq2GKJa9fsXg@mail.gmail.com>
+
+On Thu, Dec 15, 2011 at 6:17 AM, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+
+> The British Library is currently examining options for making subject
+> specific journal article metadata (e.g. Biotechnology) available for
+> projects in a basic RDF/XML representation (i.e. not linked data). The
+> metadata would be distributed under a Creative Commons CC0 1.0 Universal
+> Public Domain Dedication licence. A sample file covering the topic of
+> Palaeontology is now available for feedback at:
+> http://www.bl.uk/bibliographic/datasamples.html
+
+Awesome.  Could you expand on what is meant by the distinction between
+basic RDF and linked data?
+
+Does it have something to do with why a snippet like this:
+
+<rda:placeOfPublication>
+  <rdf:Description>
+    <rdfs:label>xuu</rdfs:label>
+    <skos:inScheme rdf:resource="http://id.loc.gov/vocabulary/countries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rda:placeOfPublication>
+
+doesn't simply link to http://id.loc.gov/vocabulary/countries/xuu ?  I
+think a direct link would be more useful and could it could be
+generated mechanically.  Ditto for
+http://id.loc.gov/vocabulary/iso639-2/eng
+
+Some other things I noticed:
+
+- Having the ISSN as both a URN and in textual forms seems redundant
+
+- There are author names which look malformed (perhaps as the result
+of a bad parse?), such as:
+  - , S. x.
+  - s
+  - , J.
+
+- XML encoding of special characters appears broken, e.g. de Ricql? is
+encoded as:
+
+    <rdfs:label>de Ricql&amp;#xe8</rdfs:label>
+
+  There seem to be two flavors of this problem.  Double escaping and
+double escaping with the trailing semicolon missing.
+
+- There are some improbable looking titles for articles which are
+supposedly in French:
+
+  CHARACTERIZATION OF CRUSTACEAN CENTRAL GLIA
+  CORTICAL CONNECTIONS OF AREA V4 IN THE MACAQUE
+  Paleogeographic-palinspastique maps of the Swiss Molasse Basin
+(Early Oligocene-Middle Miocene)
+
+- Palaeoworld and "PALAEOWORLD -NANJING THEN KIDLINGTON-" both have
+the same ISSN and appear to be the same journal despite being
+referenced separately.
+
+- Some journal names end with a full stop/dot/period ('.') while most
+do not.  A consistent convention would make the data easier to use.
+
+Thanks for making the data available!
+
+Tom
+
+
+From Heather.Rosie at bl.uk  Thu Dec 15 17:19:04 2011
+From: Heather.Rosie at bl.uk (Rosie, Heather)
+Date: Thu, 15 Dec 2011 17:19:04 -0000
+Subject: [open-bibliography] Sample subject specific journal article
+	metadata available for comment
+In-Reply-To: <CAChbWaP51T62Yv9vOACa+UWT=xQdXfKwxct9paaYpTT4JM=P+w@mail.gmail.com>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk><CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com><CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com><CAChbWaNzd3di+GNEiM4_iuXB_dh=tQOuN5EhD4AtvPvw_M-7nQ@mail.gmail.com><0658A983091DCF469C30F6C8F932E3AEDA2D8B@w2k3-bspex2.ad.bl.uk>
+	<CAChbWaP51T62Yv9vOACa+UWT=xQdXfKwxct9paaYpTT4JM=P+w@mail.gmail.com>
+Message-ID: <0658A983091DCF469C30F6C8F932E3AEDA2D90@w2k3-bspex2.ad.bl.uk>
+
+The Dewey is assigned at the BL.
+
+ 
+
+Heather
+
+ 
+
+Heather Rosie
+
+Online Metadata Analyst
+
+The British Library
+
+ 
+
+heather.rosie at bl.uk
+
+ 
+
+________________________________
+
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Thad
+Guidry
+Sent: 15 December 2011 16:08
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] Sample subject specific journal article
+metadata available for comment
+
+ 
+
+Heather,
+
+ 
+
+Many thanks for the explanation.  One final question.
+
+ 
+
+Who does the assigning of subjects at the journal title level ?  BL ?
+Or do you simply take the subjects already assigned to the journal by
+the publishers ?
+
+-- 
+-Thad
+http://www.freebase.com/view/en/thad_guidry
+
+
+**************************************************************************
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2010/11 : http://www.bl.uk/annualreport2010-11http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111215/13317969/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Dec 15 18:46:41 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 15 Dec 2011 18:46:41 +0000
+Subject: [open-bibliography] OCLC Fast available under ODC-by
+In-Reply-To: <4EEA1612.3090909@cam.ac.uk>
+References: <4EEA1612.3090909@cam.ac.uk>
+Message-ID: <CANQ_vu07rP04kXs17fazwXRDiZvJN8quYDU8fSYDOVMV0ykScg@mail.gmail.com>
+
+This is fantastic news! We should definitely blog about it!
+
+J.
+
+On Thu, Dec 15, 2011 at 3:45 PM, Edmund Chamberlain <emc59 at cam.ac.uk> wrote:
+> May be of interest to folks here, press release here:
+>
+> http://www.oclc.org/news/releases/2011/201171.htm
+>
+> Great looking subject heading dataset. Sadly no bulk download or queryable
+> endpoint available (yet).
+>
+> --
+> Edmund Chamberlain
+> Systems Development Librarian
+> Electronic Services and Systems
+> Cambridge University Library
+> West Road,
+> Cambridge
+> CB3 9DR
+>
+> tel: (+44) 01223 747437
+> fax: (+44) 01223 333160
+>
+> email: emc59 at cam.ac.uk
+>
+> Try LibrarySearch at http://search.lib.cam.ac.uk - a new way to discover
+> Cambridge Library Collections
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From ross.mounce at gmail.com  Thu Dec 15 15:48:00 2011
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Thu, 15 Dec 2011 15:48:00 +0000
+Subject: [open-bibliography] Sample subject specific journal article
+ metadata available for comment
+In-Reply-To: <CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+	<CACGRf4LFkC8H9Q9Fm6UCPYJj82+zJSa-sh0fGJyQ9zwPJ3Dnuw@mail.gmail.com>
+	<CAD2k14OTPCa27j3-rKb7+PNxedGPpqHSfQ74TGFogxUj=wjDqA@mail.gmail.com>
+Message-ID: <CAJr+OEx0aj50gQ4+rYeka-X32=dHZZ9v4g0VYmXtBMvOP38OaQ@mail.gmail.com>
+
+Open palaeontological star? I think not. I just rant and shout a bit
+;) Some of the true Open palaeo stars are listed in here though:
+http://prezi.com/d9yztcafx_ag/open-palaeontology/
+
+anyway...
+
+many thanks for the notification. I'll send some further emails off
+list about how I might be able to use this resource.
+
+Must say - palaeontology is a good choice of case study - most of the
+literature sits outside of PubMed so it's far less well served IMO
+
+best,
+
+Ross
+
+
+From Heather.Rosie at bl.uk  Fri Dec 16 10:15:13 2011
+From: Heather.Rosie at bl.uk (Rosie, Heather)
+Date: Fri, 16 Dec 2011 10:15:13 -0000
+Subject: [open-bibliography] Sample subject specific journal article
+	metadata available for comment
+In-Reply-To: <CAE9vqEGmGyHX2MrSNfs10wVeuuFKbZEFsKeiVyqq2GKJa9fsXg@mail.gmail.com>
+References: <19BB7EB59CBC594D8DD9F3ACA1EB24A2034EEA49@w2k3-bspex2.ad.bl.uk>
+	<CAE9vqEGmGyHX2MrSNfs10wVeuuFKbZEFsKeiVyqq2GKJa9fsXg@mail.gmail.com>
+Message-ID: <0658A983091DCF469C30F6C8F932E3AEDA2D96@w2k3-bspex2.ad.bl.uk>
+
+Hi Tom
+
+Many thanks for your comments.
+
+The purpose of releasing this initial data sample was to see how much interest there might be amongst researchers in having access to datasets in particular subject areas in a format in common use.  The metadata is derived from the British Library's "ETOC" database which provides subscription based access to 20,000 of the BL's most popular research journals.  The metadata is held in a proprietary, SGML, format.  The sample dataset, covering articles from journals classed as "Palaeontology", is our first attempt to make some of this data available under the same terms and conditions as our other "basic RDF/XML" metadata offerings (http://www.bl.uk/bibliographic/datafree.html#basicrdfxml). If there is sufficient interest, we may look to develop a linked data format similar to the BNB books dataset (http://www.bl.uk/bibliographic/datafree.html#lod).  To do this, however, would require more work on our part in terms of modelling which we are not in a position to do at this time.
+
+With regard to the errors in data content, no attempt has been made to correct this. The content is exactly as offered via the ETOC subscription service; only the format, coverage (limited to certain subject sets), and terms and conditions under which it can be accessed, have changed.
+
+Best wishes
+
+Heather 
+
+Heather Rosie
+Online Metadata Analyst
+The British Library
+ 
+heather.rosie at bl.uk
+ 
+
+-----Original Message-----
+From: open-bibliography-bounces at lists.okfn.org [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Tom Morris
+Sent: 15 December 2011 16:53
+To: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] Sample subject specific journal article metadata available for comment
+
+On Thu, Dec 15, 2011 at 6:17 AM, Deliot, Corine <Corine.Deliot at bl.uk> wrote:
+
+> The British Library is currently examining options for making subject
+> specific journal article metadata (e.g. Biotechnology) available for
+> projects in a basic RDF/XML representation (i.e. not linked data). The
+> metadata would be distributed under a Creative Commons CC0 1.0 Universal
+> Public Domain Dedication licence. A sample file covering the topic of
+> Palaeontology is now available for feedback at:
+> http://www.bl.uk/bibliographic/datasamples.html
+
+Awesome.  Could you expand on what is meant by the distinction between
+basic RDF and linked data?
+
+Does it have something to do with why a snippet like this:
+
+<rda:placeOfPublication>
+  <rdf:Description>
+    <rdfs:label>xuu</rdfs:label>
+    <skos:inScheme rdf:resource="http://id.loc.gov/vocabulary/countries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rda:placeOfPublication>
+
+doesn't simply link to http://id.loc.gov/vocabulary/countries/xuu ?  I
+think a direct link would be more useful and could it could be
+generated mechanically.  Ditto for
+http://id.loc.gov/vocabulary/iso639-2/eng
+
+Some other things I noticed:
+
+- Having the ISSN as both a URN and in textual forms seems redundant
+
+- There are author names which look malformed (perhaps as the result
+of a bad parse?), such as:
+  - , S. x.
+  - s
+  - , J.
+
+- XML encoding of special characters appears broken, e.g. de Ricql? is
+encoded as:
+
+    <rdfs:label>de Ricql&amp;#xe8</rdfs:label>
+
+  There seem to be two flavors of this problem.  Double escaping and
+double escaping with the trailing semicolon missing.
+
+- There are some improbable looking titles for articles which are
+supposedly in French:
+
+  CHARACTERIZATION OF CRUSTACEAN CENTRAL GLIA
+  CORTICAL CONNECTIONS OF AREA V4 IN THE MACAQUE
+  Paleogeographic-palinspastique maps of the Swiss Molasse Basin
+(Early Oligocene-Middle Miocene)
+
+- Palaeoworld and "PALAEOWORLD -NANJING THEN KIDLINGTON-" both have
+the same ISSN and appear to be the same journal despite being
+referenced separately.
+
+- Some journal names end with a full stop/dot/period ('.') while most
+do not.  A consistent convention would make the data easier to use.
+
+Thanks for making the data available!
+
+Tom
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+**************************************************************************
+Experience the British Library online at http://www.bl.uk/
+ 
+The British Library?s new interactive Annual Report and Accounts 2010/11 : http://www.bl.uk/annualreport2010-11http://www.bl.uk/knowledge
+ 
+Help the British Library conserve the world's knowledge. Adopt a Book. http://www.bl.uk/adoptabook
+ 
+The Library's St Pancras site is WiFi - enabled
+ 
+*************************************************************************
+ 
+The information contained in this e-mail is confidential and may be legally privileged. It is intended for the addressee(s) only. If you are not the intended recipient, please delete this e-mail and notify the mailto:postmaster at bl.uk : The contents of this e-mail must not be disclosed or copied without the sender's consent.
+ 
+The statements and opinions expressed in this message are those of the author and do not necessarily reflect those of the British Library. The British Library does not take any responsibility for the views of the author.
+ 
+*************************************************************************
+ Think before you print
+
+
+From astevens at k4all.ca  Sat Dec 17 16:45:14 2011
+From: astevens at k4all.ca (Amanda Stevens)
+Date: Sat, 17 Dec 2011 12:45:14 -0400
+Subject: [open-bibliography] Seeking open publisher authority file
+Message-ID: <CANWCp484_skh+fvC8QCBH0KBFaS1zJ39d+ubqDyZqokdXhjkQg@mail.gmail.com>
+
+Hello,
+
+Does anyone know of an authority file of scholarly journal publishers that
+is available as open data?  Ideally it would focus on journal publishers
+and be comprehensive, but incomplete files or files with a broader focus
+would also be useful.  I checked The Data Hub and did not find anything.
+ OCLC did some work on
+this<http://www.oclc.org/research/activities/publisherns/default.htm>a
+couple of years ago, but it doesn't look like anything came of it yet.
+ We're looking for such an authority file to use in the Knowledge for All
+open index of scholarly journal articles, but I think it could also be
+useful for other bibliographic data projects.
+
+Thanks!
+Amanda
+
+-- 
+Amanda Stevens
+Project Manager
+Knowledge for All
+astevens at k4all.ca
+http://k4all.ca
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111217/dad837a9/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Dec 17 17:14:43 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 17 Dec 2011 17:14:43 +0000
+Subject: [open-bibliography] Seeking open publisher authority file
+In-Reply-To: <CANWCp484_skh+fvC8QCBH0KBFaS1zJ39d+ubqDyZqokdXhjkQg@mail.gmail.com>
+References: <CANWCp484_skh+fvC8QCBH0KBFaS1zJ39d+ubqDyZqokdXhjkQg@mail.gmail.com>
+Message-ID: <CAD2k14M3AKRFntUvLuXQoo_6vhA7W7iV6YN_sRXcRBr7GvRzyg@mail.gmail.com>
+
+On Sat, Dec 17, 2011 at 4:45 PM, Amanda Stevens <astevens at k4all.ca> wrote:
+
+> Hello,
+>
+> Does anyone know of an authority file of scholarly journal publishers that
+> is available as open data?  Ideally it would focus on journal publishers
+> and be comprehensive, but incomplete files or files with a broader focus
+> would also be useful.  I checked The Data Hub and did not find anything.
+>  OCLC did some work on this<http://www.oclc.org/research/activities/publisherns/default.htm>a couple of years ago, but it doesn't look like anything came of it yet.
+>  We're looking for such an authority file to use in the Knowledge for All
+> open index of scholarly journal articles, but I think it could also be
+> useful for other bibliographic data projects.
+>
+
+You could try http://www.tictocs.ac.uk/
+This is a JISC project - I am not sure of the openness of all the journal
+metadata but I would hope the publisher data was noncontroversial.
+
+P.
+
+
+>
+> Thanks!
+> Amanda
+>
+> --
+> Amanda Stevens
+> Project Manager
+> Knowledge for All
+> astevens at k4all.ca
+> http://k4all.ca
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111217/a40cf326/attachment.htm>
+
+From Patrick.Hochstenbach at UGent.be  Sat Dec 17 17:32:00 2011
+From: Patrick.Hochstenbach at UGent.be (Patrick Hochstenbach)
+Date: Sat, 17 Dec 2011 18:32:00 +0100
+Subject: [open-bibliography] Seeking open publisher authority file
+In-Reply-To: <CANWCp484_skh+fvC8QCBH0KBFaS1zJ39d+ubqDyZqokdXhjkQg@mail.gmail.com>
+References: <CANWCp484_skh+fvC8QCBH0KBFaS1zJ39d+ubqDyZqokdXhjkQg@mail.gmail.com>
+Message-ID: <4AD78022-C66D-4F78-A60D-72BCFB70BB4C@UGent.be>
+
+You could try DOAJ
+
+www.doaj.org<http://www.doaj.org>
+
+It has an OAI-PMH port on
+
+http://www.doaj.org/oai
+
+Patrick
+
+--
+Ghent University Library
+Rozier 9 - Gent - Belgium
++32 (0)9 264.7980
+http://twitter.com/hochstenbach
+
+On 17 Dec 2011, at 17:47, "Amanda Stevens" <astevens at k4all.ca<mailto:astevens at k4all.ca>> wrote:
+
+Hello,
+
+Does anyone know of an authority file of scholarly journal publishers that is available as open data?  Ideally it would focus on journal publishers and be comprehensive, but incomplete files or files with a broader focus would also be useful.  I checked The Data Hub and did not find anything.  OCLC did some work on this<http://www.oclc.org/research/activities/publisherns/default.htm> a couple of years ago, but it doesn't look like anything came of it yet.  We're looking for such an authority file to use in the Knowledge for All open index of scholarly journal articles, but I think it could also be useful for other bibliographic data projects.
+
+Thanks!
+Amanda
+
+--
+Amanda Stevens
+Project Manager
+Knowledge for All
+astevens at k4all.ca<mailto:astevens at k4all.ca>
+http://k4all.ca
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org<mailto:open-bibliography at lists.okfn.org>
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111217/3980bd7e/attachment.htm>
+
+From r.bruce at jisc.ac.uk  Sat Dec 17 17:38:26 2011
+From: r.bruce at jisc.ac.uk (Rachel BRUCE)
+Date: Sat, 17 Dec 2011 17:38:26 +0000
+Subject: [open-bibliography] Seeking open publisher authority file
+In-Reply-To: <4AD78022-C66D-4F78-A60D-72BCFB70BB4C@UGent.be>
+References: <CANWCp484_skh+fvC8QCBH0KBFaS1zJ39d+ubqDyZqokdXhjkQg@mail.gmail.com>
+	<4AD78022-C66D-4F78-A60D-72BCFB70BB4C@UGent.be>
+Message-ID: <EE2B68CBA9D68B40ADDFE9C0DB7244315375D2B0E4@jisc-ex1.jisc.ac.uk>
+
+I would?ve hoped that Suncat could help, however I just took look at their newsletter and whilst they?ve been making efforts to open up their data and also exploring making it available as linked data it seems that licensing issues are still a barrier.  But it might be worth taking a look.
+
+http://www.suncat.ac.uk/news/suncat_newsletter9.pdf
+
+Just as an aside at the moment at jisc we?re about to embark on an analysis of all of these sorts of ?data sets? that are funded by us and hosted by related jisc services to assess the openness of the data and the value of making it more so.
+
+Rachel
+
+From: open-bibliography-bounces at lists.okfn.org [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Patrick Hochstenbach
+Sent: 17 December 2011 17:32
+To: List for Working Group on Open Bibliographic Data
+Cc: List for Working Group on Open Bibliographic Data
+Subject: Re: [open-bibliography] Seeking open publisher authority file
+
+You could try DOAJ
+
+www.doaj.org<http://www.doaj.org>
+
+It has an OAI-PMH port on
+
+http://www.doaj.org/oai
+
+Patrick
+
+--
+Ghent University Library
+Rozier 9 - Gent - Belgium
++32 (0)9 264.7980
+http://twitter.com/hochstenbach
+
+On 17 Dec 2011, at 17:47, "Amanda Stevens" <astevens at k4all.ca<mailto:astevens at k4all.ca>> wrote:
+Hello,
+
+Does anyone know of an authority file of scholarly journal publishers that is available as open data?  Ideally it would focus on journal publishers and be comprehensive, but incomplete files or files with a broader focus would also be useful.  I checked The Data Hub and did not find anything.  OCLC did some work on this<http://www.oclc.org/research/activities/publisherns/default.htm> a couple of years ago, but it doesn't look like anything came of it yet.  We're looking for such an authority file to use in the Knowledge for All open index of scholarly journal articles, but I think it could also be useful for other bibliographic data projects.
+
+Thanks!
+Amanda
+
+--
+Amanda Stevens
+Project Manager
+Knowledge for All
+astevens at k4all.ca<mailto:astevens at k4all.ca>
+http://k4all.ca
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org<mailto:open-bibliography at lists.okfn.org>
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20111217/eba964c0/attachment-0001.htm>
+

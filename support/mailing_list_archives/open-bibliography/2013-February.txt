@@ -1,0 +1,4122 @@
+From pm286 at cam.ac.uk  Fri Feb  1 01:12:13 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 1 Feb 2013 01:12:13 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAE9vqEHNz9V4PuTw3CeZ4OGCVgTnJpKnvmd7GEfFU3G-GZvh0g@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CAFxzj8QXoobq4qq9x7Vbq=xh4hSTk_iJcE6yTOdwSgoH1pzLSw@mail.gmail.com>
+	<CAD2k14MQ=ieXaAhmi2m=f5_AD9SjqZB3H5Wpnx5MPRn2OWL4sQ@mail.gmail.com>
+	<CAD2k14Mq0+hji9_b+-Te50yba5YGSLfZxqFgZZdzq_c2WTrgxg@mail.gmail.com>
+	<CAE9vqEHNz9V4PuTw3CeZ4OGCVgTnJpKnvmd7GEfFU3G-GZvh0g@mail.gmail.com>
+Message-ID: <CAD2k14OvDgvuq7kugSkUy2YGd9P_Q_sfJyR6vXp6zaN=mmrVvQ@mail.gmail.com>
+
+On Thu, Jan 31, 2013 at 11:06 PM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Thu, Jan 31, 2013 at 5:06 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> http://okfnpad.org/openmaterials if anyone wants to drop in. Add "_X" to
+>> your signin if you are not at the physical conference
+>
+>
+> "Sorry, only 16 people are allowed to edit a single pad at the same time
+> in the free version of EtherPad.
+>
+> Please see our pricing plans for information about having more than 16
+> collaborators."
+>
+> Too popular!  Actually we split into an overflow pad.
+
+P.
+
+
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130201/65560eb6/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Feb  1 01:14:02 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 1 Feb 2013 01:14:02 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAE9vqEHF73aq=U2v6eGF45wgZRTT19o0_Sgj1H8bqOT=qUu2GQ@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CAE9vqEHF73aq=U2v6eGF45wgZRTT19o0_Sgj1H8bqOT=qUu2GQ@mail.gmail.com>
+Message-ID: <CAD2k14Ogftufnz3YSOBrf+GbOJjCX7gHQgeDrajA+CyLhvQUGw@mail.gmail.com>
+
+On Thu, Jan 31, 2013 at 10:54 PM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Wed, Jan 30, 2013 at 10:41 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> I am giving a tutorial/workshop in about 18 hours on creating a
+>> scientific knowledgebase. I was thinking of getting each participant to
+>> create 1 simple bibliographic record by cutting and pasting from the
+>> Literature and then aggregating them.
+>>
+>> * is bibserver working? If not are there any existing examples of
+>> Bibserver/Bibsoup we can show?
+>> * can we upload individual records sequentially or do we have to bundle
+>> them.
+>> * they will probably cut and paste into an EtherPad - what is the best
+>> format? BibJSON?
+>
+>
+> Hand editing JSON seems like pretty much the last thing you'd want people
+> to do if you're trying to entice them with frictionless collaboration.
+>
+
+We were in a classroom environment and there were reasons why this was a
+good thing to do.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130201/a962bcd5/attachment-0001.htm>
+
+From kosson at gmail.com  Fri Feb  1 13:44:41 2013
+From: kosson at gmail.com (Constantinescu Nicolaie)
+Date: Fri, 1 Feb 2013 15:44:41 +0200
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+Message-ID: <CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+
+Thank you for this! I will make some time to fiddle with the conversion in
+php.
+Also I tried to access records from BibSoup, but I get a nice Internal
+Server Error every time. Can you fix that because I need more examples to
+make myself a guiding mockup.
+
+Thanks!
+
+On 31 January 2013 20:35, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Thu, Jan 31, 2013 at 4:17 PM, Constantinescu Nicolaie <kosson at gmail.com
+> > wrote:
+>
+>> Dear Peter Murray-Rust,
+>>
+>> I'm very interested to follow your tutorial. Do you have a live link,
+>> please?
+>>
+> https://dl.dropbox.com/u/6280676/XML%20in%20physical%20sciences.pptx
+>
+> Slides 8/9/10 and 18 are particularly relevant.  We need to convert the
+> (very good) IUCr HTML/DublinCore metadata into BibJSON. Should be about a
+> 10 - line program. I'll probably hack something in Java but Pythonistas or
+> anyone else are welcome to help.
+>
+> The goal is something like: "I read a paper, I capture the bibliography
+> and annotate it and save it for the world". I comment on it.Bit like what
+> Connotea (dead) did or Mendeley (proprietary) does.
+>
+>
+>> I believe BibJSON is one of the possible futures as long as nonSql
+>> databases catch on.
+>>
+>
+> They will.
+>
+>>
+>> And, no, you are not mad! Can't wait for the outcome of your tutorial if
+>> no live.
+>>
+>
+> The madness was only the timescale. If we can create something in the next
+> 2-3 days that would be wonderful as I can present on Monday (AU time)
+>
+>>
+>> Thnak you,
+>>
+>> On 31 January 2013 05:41, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>>> I am giving a tutorial/workshop in about 18 hours on creating a
+>>> scientific knowledgebase. I was thinking of getting each participant to
+>>> create 1 simple bibliographic record by cutting and pasting from the
+>>> Literature and then aggregating them.
+>>>
+>>> * is bibserver working? If not are there any existing examples of
+>>> Bibserver/Bibsoup we can show?
+>>> * can we upload individual records sequentially or do we have to bundle
+>>> them.
+>>> * they will probably cut and paste into an EtherPad - what is the best
+>>> format? BibJSON?
+>>> * is any Bibserver expert around at ca 0900 AU == 2200 UTC 2013-01-31
+>>> and could be active on Etherpad?
+>>> * am I completely mad?
+>>>
+>>> P.
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>>
+>> --
+>> Constantinescu Nicolaie
+>> Information Architect
+>> http://www.kosson.ro
+>> Open Acces Understanding
+>> http://startad.kosson.ro
+>> Information Science Sonar
+>> http://sonar.kosson.ro
+>> digital curator for Nostrum Monumentum
+>> http://memoria.kosson.ro
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+Constantinescu Nicolaie
+Information Architect
+http://www.kosson.ro
+Open Acces Understanding
+http://startad.kosson.ro
+Information Science Sonar
+http://sonar.kosson.ro
+digital curator for Nostrum Monumentum
+http://memoria.kosson.ro
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130201/9971091a/attachment.htm>
+
+From kosson at gmail.com  Fri Feb  1 13:54:42 2013
+From: kosson at gmail.com (Constantinescu Nicolaie)
+Date: Fri, 1 Feb 2013 15:54:42 +0200
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+Message-ID: <CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+
+I guest this is what it should be landed on:
+
+{
+    "type":"text",
+    "title":
+"(E)-2-[(Furan-2-yl)methyl&#173;idene]-7-methyl-2,3,4,9-tetra&#173;hydro-1H-carbazol-1-one",
+    "author":[
+        {"name": "Thiruvalluvar, A."},
+        {"name": "Archana, R."},
+        {"name": "Yamuna, E."},
+        {"name": "Rajendra Prasad, K.J."},
+        {"name": "Butcher, R.J."},
+        {"name": "Gupta, S.K."},
+        {"name": "&#214;zt&#252;rk Yildirim, S."}
+    ],
+    "publisher":"International Union of Crystallography",
+    "id":"urn:issn:1600-5368",
+    "collection":"organic compounds",
+    "year": "2013",
+    "journal": {"name": "Acta Crystallographica Section E: Structure
+Reports Online"},
+    "license": [
+        {"type":"CC","url":"http://creativecommons.org/licenses/by/2.0/uk","description":"Creative
+Commons","jurisdiction":"UK"}
+    ],
+    "link": [
+        {"url":"http://journals.iucr.org/e/issues/2013/02/00/tk5183/"}
+    ],
+    "identifier": [
+        {"type":"doi","id":"doi:10.1107/S1600536812051203"}
+    ],
+    "note":"In the title mol&#173;ecule, C18H15NO2, the atoms in the
+carbazole unit deviate from planarity [maximum deviation from mean plane =
+0.1317&#8197;(12)&#8197;&#197;]. The pyrrole ring makes dihedral angles of
+1.01&#8197;(8) and 18.56&#8197;(10)&#176; with the benzene and furan rings,
+respectively. The cyclo&#173;hexene ring adopts a half-chair conformation.
+In the crystal, pairs of N&#8212;H&#8943;O hydrogen bonds form an R22(10)
+ring. Mol&#173;ecules are further linked by C&#8212;H&#8943;O and
+C&#8212;H&#8943;&#960; inter&#173;actions, forming a three-dimensional
+network."
+}
+
+On 1 February 2013 15:44, Constantinescu Nicolaie <kosson at gmail.com> wrote:
+
+> Thank you for this! I will make some time to fiddle with the conversion in
+> php.
+> Also I tried to access records from BibSoup, but I get a nice Internal
+> Server Error every time. Can you fix that because I need more examples to
+> make myself a guiding mockup.
+>
+> Thanks!
+>
+>
+> On 31 January 2013 20:35, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>>
+>>
+>> On Thu, Jan 31, 2013 at 4:17 PM, Constantinescu Nicolaie <
+>> kosson at gmail.com> wrote:
+>>
+>>> Dear Peter Murray-Rust,
+>>>
+>>> I'm very interested to follow your tutorial. Do you have a live link,
+>>> please?
+>>>
+>> https://dl.dropbox.com/u/6280676/XML%20in%20physical%20sciences.pptx
+>>
+>> Slides 8/9/10 and 18 are particularly relevant.  We need to convert the
+>> (very good) IUCr HTML/DublinCore metadata into BibJSON. Should be about a
+>> 10 - line program. I'll probably hack something in Java but Pythonistas or
+>> anyone else are welcome to help.
+>>
+>> The goal is something like: "I read a paper, I capture the bibliography
+>> and annotate it and save it for the world". I comment on it.Bit like what
+>> Connotea (dead) did or Mendeley (proprietary) does.
+>>
+>>
+>>> I believe BibJSON is one of the possible futures as long as nonSql
+>>> databases catch on.
+>>>
+>>
+>> They will.
+>>
+>>>
+>>> And, no, you are not mad! Can't wait for the outcome of your tutorial if
+>>> no live.
+>>>
+>>
+>> The madness was only the timescale. If we can create something in the
+>> next 2-3 days that would be wonderful as I can present on Monday (AU time)
+>>
+>>>
+>>> Thnak you,
+>>>
+>>> On 31 January 2013 05:41, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>>
+>>>> I am giving a tutorial/workshop in about 18 hours on creating a
+>>>> scientific knowledgebase. I was thinking of getting each participant to
+>>>> create 1 simple bibliographic record by cutting and pasting from the
+>>>> Literature and then aggregating them.
+>>>>
+>>>> * is bibserver working? If not are there any existing examples of
+>>>> Bibserver/Bibsoup we can show?
+>>>> * can we upload individual records sequentially or do we have to bundle
+>>>> them.
+>>>> * they will probably cut and paste into an EtherPad - what is the best
+>>>> format? BibJSON?
+>>>> * is any Bibserver expert around at ca 0900 AU == 2200 UTC 2013-01-31
+>>>> and could be active on Etherpad?
+>>>> * am I completely mad?
+>>>>
+>>>> P.
+>>>>
+>>>> --
+>>>> Peter Murray-Rust
+>>>> Reader in Molecular Informatics
+>>>> Unilever Centre, Dep. Of Chemistry
+>>>> University of Cambridge
+>>>> CB2 1EW, UK
+>>>> +44-1223-763069
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Constantinescu Nicolaie
+>>> Information Architect
+>>> http://www.kosson.ro
+>>> Open Acces Understanding
+>>> http://startad.kosson.ro
+>>> Information Science Sonar
+>>> http://sonar.kosson.ro
+>>> digital curator for Nostrum Monumentum
+>>> http://memoria.kosson.ro
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> Constantinescu Nicolaie
+> Information Architect
+> http://www.kosson.ro
+> Open Acces Understanding
+> http://startad.kosson.ro
+> Information Science Sonar
+> http://sonar.kosson.ro
+> digital curator for Nostrum Monumentum
+> http://memoria.kosson.ro
+>
+
+
+
+-- 
+Constantinescu Nicolaie
+Information Architect
+http://www.kosson.ro
+Open Acces Understanding
+http://startad.kosson.ro
+Information Science Sonar
+http://sonar.kosson.ro
+digital curator for Nostrum Monumentum
+http://memoria.kosson.ro
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130201/dbb4d583/attachment-0001.htm>
+
+From mark.macgillivray at okfn.org  Sat Feb  2 10:14:02 2013
+From: mark.macgillivray at okfn.org (Mark MacGillivray)
+Date: Sat, 2 Feb 2013 10:14:02 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+	<CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+Message-ID: <CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+
+On Fri, Feb 1, 2013 at 1:54 PM, Constantinescu Nicolaie <kosson at gmail.com>wrote:
+
+> I guest this is what it should be landed on:
+
+
+Yep, that is right. You should be able to access the JSON now for any
+record by adding .json to the URL or negotiating for it on the command line:
+
+http://bibsoup.net/record/4fe9cf4eaa0abcf8ae46dcfb53d8d9d3.json
+
+(although for the time being the records include themselves in the
+"_source" parameter which is not necessary and will be removed soon. Also
+you can ignore things that start with "_". They are internal)
+
+Mark
+
+
+
+
+>
+> {
+>     "type":"text",
+>     "title":
+> "(E)-2-[(Furan-2-yl)methyl&#173;idene]-7-methyl-2,3,4,9-tetra&#173;hydro-1H-carbazol-1-one",
+>     "author":[
+>         {"name": "Thiruvalluvar, A."},
+>         {"name": "Archana, R."},
+>         {"name": "Yamuna, E."},
+>         {"name": "Rajendra Prasad, K.J."},
+>         {"name": "Butcher, R.J."},
+>         {"name": "Gupta, S.K."},
+>         {"name": "&#214;zt&#252;rk Yildirim, S."}
+>     ],
+>     "publisher":"International Union of Crystallography",
+>     "id":"urn:issn:1600-5368",
+>     "collection":"organic compounds",
+>     "year": "2013",
+>     "journal": {"name": "Acta Crystallographica Section E: Structure
+> Reports Online"},
+>     "license": [
+>         {"type":"CC","url":"http://creativecommons.org/licenses/by/2.0/uk","description":"Creative
+> Commons","jurisdiction":"UK"}
+>     ],
+>     "link": [
+>         {"url":"http://journals.iucr.org/e/issues/2013/02/00/tk5183/"}
+>     ],
+>     "identifier": [
+>         {"type":"doi","id":"doi:10.1107/S1600536812051203"}
+>     ],
+>     "note":"In the title mol&#173;ecule, C18H15NO2, the atoms in the
+> carbazole unit deviate from planarity [maximum deviation from mean plane =
+> 0.1317&#8197;(12)&#8197;&#197;]. The pyrrole ring makes dihedral angles of
+> 1.01&#8197;(8) and 18.56&#8197;(10)&#176; with the benzene and furan rings,
+> respectively. The cyclo&#173;hexene ring adopts a half-chair conformation.
+> In the crystal, pairs of N&#8212;H&#8943;O hydrogen bonds form an R22(10)
+> ring. Mol&#173;ecules are further linked by C&#8212;H&#8943;O and
+> C&#8212;H&#8943;&#960; inter&#173;actions, forming a three-dimensional
+> network."
+> }
+>
+> On 1 February 2013 15:44, Constantinescu Nicolaie <kosson at gmail.com>wrote:
+>
+>> Thank you for this! I will make some time to fiddle with the conversion
+>> in php.
+>> Also I tried to access records from BibSoup, but I get a nice Internal
+>> Server Error every time. Can you fix that because I need more examples to
+>> make myself a guiding mockup.
+>>
+>> Thanks!
+>>
+>>
+>> On 31 January 2013 20:35, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>
+>>>
+>>>
+>>> On Thu, Jan 31, 2013 at 4:17 PM, Constantinescu Nicolaie <
+>>> kosson at gmail.com> wrote:
+>>>
+>>>> Dear Peter Murray-Rust,
+>>>>
+>>>> I'm very interested to follow your tutorial. Do you have a live link,
+>>>> please?
+>>>>
+>>> https://dl.dropbox.com/u/6280676/XML%20in%20physical%20sciences.pptx
+>>>
+>>> Slides 8/9/10 and 18 are particularly relevant.  We need to convert the
+>>> (very good) IUCr HTML/DublinCore metadata into BibJSON. Should be about a
+>>> 10 - line program. I'll probably hack something in Java but Pythonistas or
+>>> anyone else are welcome to help.
+>>>
+>>> The goal is something like: "I read a paper, I capture the bibliography
+>>> and annotate it and save it for the world". I comment on it.Bit like what
+>>> Connotea (dead) did or Mendeley (proprietary) does.
+>>>
+>>>
+>>>> I believe BibJSON is one of the possible futures as long as nonSql
+>>>> databases catch on.
+>>>>
+>>>
+>>> They will.
+>>>
+>>>>
+>>>> And, no, you are not mad! Can't wait for the outcome of your tutorial
+>>>> if no live.
+>>>>
+>>>
+>>> The madness was only the timescale. If we can create something in the
+>>> next 2-3 days that would be wonderful as I can present on Monday (AU time)
+>>>
+>>>>
+>>>> Thnak you,
+>>>>
+>>>> On 31 January 2013 05:41, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>>>
+>>>>> I am giving a tutorial/workshop in about 18 hours on creating a
+>>>>> scientific knowledgebase. I was thinking of getting each participant to
+>>>>> create 1 simple bibliographic record by cutting and pasting from the
+>>>>> Literature and then aggregating them.
+>>>>>
+>>>>> * is bibserver working? If not are there any existing examples of
+>>>>> Bibserver/Bibsoup we can show?
+>>>>> * can we upload individual records sequentially or do we have to
+>>>>> bundle them.
+>>>>> * they will probably cut and paste into an EtherPad - what is the best
+>>>>> format? BibJSON?
+>>>>> * is any Bibserver expert around at ca 0900 AU == 2200 UTC 2013-01-31
+>>>>> and could be active on Etherpad?
+>>>>> * am I completely mad?
+>>>>>
+>>>>> P.
+>>>>>
+>>>>> --
+>>>>> Peter Murray-Rust
+>>>>> Reader in Molecular Informatics
+>>>>> Unilever Centre, Dep. Of Chemistry
+>>>>> University of Cambridge
+>>>>> CB2 1EW, UK
+>>>>> +44-1223-763069
+>>>>> _______________________________________________
+>>>>> open-bibliography mailing list
+>>>>> open-bibliography at lists.okfn.org
+>>>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Constantinescu Nicolaie
+>>>> Information Architect
+>>>> http://www.kosson.ro
+>>>> Open Acces Understanding
+>>>> http://startad.kosson.ro
+>>>> Information Science Sonar
+>>>> http://sonar.kosson.ro
+>>>> digital curator for Nostrum Monumentum
+>>>> http://memoria.kosson.ro
+>>>>
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>>
+>> --
+>> Constantinescu Nicolaie
+>> Information Architect
+>> http://www.kosson.ro
+>> Open Acces Understanding
+>> http://startad.kosson.ro
+>> Information Science Sonar
+>> http://sonar.kosson.ro
+>> digital curator for Nostrum Monumentum
+>> http://memoria.kosson.ro
+>>
+>
+>
+>
+> --
+> Constantinescu Nicolaie
+> Information Architect
+> http://www.kosson.ro
+> Open Acces Understanding
+> http://startad.kosson.ro
+> Information Science Sonar
+> http://sonar.kosson.ro
+> digital curator for Nostrum Monumentum
+> http://memoria.kosson.ro
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130202/9cf7d29f/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Feb  2 11:13:36 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 2 Feb 2013 11:13:36 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+	<CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+	<CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+Message-ID: <CAD2k14NuGHvimM=jDtqTRPudeO0GAMOuOE3-KqC9rCLOx_EVJA@mail.gmail.com>
+
+Mark,
+Not critical but is there any working Bibserver I can demo in 24 hours?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130202/cc85d069/attachment.htm>
+
+From mark.macgillivray at okfn.org  Sat Feb  2 11:39:44 2013
+From: mark.macgillivray at okfn.org (Mark MacGillivray)
+Date: Sat, 2 Feb 2013 11:39:44 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAD2k14NuGHvimM=jDtqTRPudeO0GAMOuOE3-KqC9rCLOx_EVJA@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+	<CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+	<CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+	<CAD2k14NuGHvimM=jDtqTRPudeO0GAMOuOE3-KqC9rCLOx_EVJA@mail.gmail.com>
+Message-ID: <CAFxzj8TEMe2dgJrZCvVQieKmnLxpBLL4yxGsnYmT8=2g056jog@mail.gmail.com>
+
+On Sat, Feb 2, 2013 at 11:13 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> Mark,
+> Not critical but is there any working Bibserver I can demo in 24 hours?
+
+
+The network connection where I am is a bit poor, but as far as I can tell
+http://bibsoup.net should be running fine at the moment. I can access the
+front page, the main /search, I can view individual records, create an
+account and login after I confirm it, and upload bibjson files and create
+records.
+
+There are not currently any translators available - the code that
+translated from say bibtex to bibjson has been separated out, and will be
+put up at a separate URL specifically for translating. So for now you do
+need a bibjson file if you want to upload, or manually create one.
+
+Mark
+
+
+
+
+>
+>
+> P.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130202/2267804c/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Sat Feb  2 21:42:14 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 2 Feb 2013 21:42:14 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAFxzj8TEMe2dgJrZCvVQieKmnLxpBLL4yxGsnYmT8=2g056jog@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+	<CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+	<CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+	<CAD2k14NuGHvimM=jDtqTRPudeO0GAMOuOE3-KqC9rCLOx_EVJA@mail.gmail.com>
+	<CAFxzj8TEMe2dgJrZCvVQieKmnLxpBLL4yxGsnYmT8=2g056jog@mail.gmail.com>
+Message-ID: <CAD2k14NrTE8sBJ5oHS4q+7mL-6sKq05DUw2w8H+4gDvkrwXHXQ@mail.gmail.com>
+
+On Sat, Feb 2, 2013 at 11:39 AM, Mark MacGillivray <
+mark.macgillivray at okfn.org> wrote:
+
+> On Sat, Feb 2, 2013 at 11:13 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> Mark,
+>> Not critical but is there any working Bibserver I can demo in 24 hours?
+>
+>
+> The network connection where I am is a bit poor, but as far as I can tell
+> http://bibsoup.net should be running fine at the moment. I can access the
+> front page, the main /search, I can view individual records, create an
+> account and login after I confirm it, and upload bibjson files and create
+> records.
+>
+
+Thanks = there's 102 malaria records - That's fine for demo. Does the
+faceted browsing (with bubbles) work? or visible anywhere?
+
+
+> There are not currently any translators available - the code that
+> translated from say bibtex to bibjson has been separated out, and will be
+> put up at a separate URL specifically for translating. So for now you do
+> need a bibjson file if you want to upload, or manually create one.
+>
+> Mark
+>
+>
+>
+>
+>>
+>>
+>> P.
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130202/edcf1a24/attachment.htm>
+
+From mark at cottagelabs.com  Sun Feb  3 09:16:29 2013
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Sun, 3 Feb 2013 09:16:29 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAD2k14NrTE8sBJ5oHS4q+7mL-6sKq05DUw2w8H+4gDvkrwXHXQ@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+	<CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+	<CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+	<CAD2k14NuGHvimM=jDtqTRPudeO0GAMOuOE3-KqC9rCLOx_EVJA@mail.gmail.com>
+	<CAFxzj8TEMe2dgJrZCvVQieKmnLxpBLL4yxGsnYmT8=2g056jog@mail.gmail.com>
+	<CAD2k14NrTE8sBJ5oHS4q+7mL-6sKq05DUw2w8H+4gDvkrwXHXQ@mail.gmail.com>
+Message-ID: <CAFxzj8TgEE0+T=ZFwjJqffo1ex_OeKsu72FhQMKAvhG_j0wSYA@mail.gmail.com>
+
+You can get the facets by viewing a collection. There is a test one:
+
+http://bibsoup.net/dal/new_collection
+
+There are no bubble vis just now, they have been removed whilst getting
+redeveloped.
+
+Mark
+On Feb 2, 2013 10:43 PM, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Sat, Feb 2, 2013 at 11:39 AM, Mark MacGillivray <
+> mark.macgillivray at okfn.org> wrote:
+>
+>> On Sat, Feb 2, 2013 at 11:13 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>>
+>>> Mark,
+>>> Not critical but is there any working Bibserver I can demo in 24 hours?
+>>
+>>
+>> The network connection where I am is a bit poor, but as far as I can tell
+>> http://bibsoup.net should be running fine at the moment. I can access
+>> the front page, the main /search, I can view individual records, create an
+>> account and login after I confirm it, and upload bibjson files and create
+>> records.
+>>
+>
+> Thanks = there's 102 malaria records - That's fine for demo. Does the
+> faceted browsing (with bubbles) work? or visible anywhere?
+>
+>
+>> There are not currently any translators available - the code that
+>> translated from say bibtex to bibjson has been separated out, and will be
+>> put up at a separate URL specifically for translating. So for now you do
+>> need a bibjson file if you want to upload, or manually create one.
+>>
+>> Mark
+>>
+>>
+>>
+>>
+>>>
+>>>
+>>> P.
+>>>
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130203/fb6eaafc/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Feb  3 10:47:35 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 3 Feb 2013 10:47:35 +0000
+Subject: [open-bibliography] Collaborative creation of a bibliography
+In-Reply-To: <CAFxzj8TgEE0+T=ZFwjJqffo1ex_OeKsu72FhQMKAvhG_j0wSYA@mail.gmail.com>
+References: <CAD2k14NuTXrOyoQMCbmUtuYLuj0-vD9YztQTxisHJT+RAD6B9g@mail.gmail.com>
+	<CADybtq0vwRfzfN2qCRgWpYmLvMcmVt-uN4Z7UxCQ1aWEJasW7Q@mail.gmail.com>
+	<CAD2k14N3ZgQfitZ_EEE+204tZ-pg3HtbZek0HoO6DCuKpebQ1w@mail.gmail.com>
+	<CADybtq17tYha4Or2kJV9arFYikA7E24WErLN-Y8NKKhO-P3g2Q@mail.gmail.com>
+	<CADybtq1h411nmBq0==fzQwRPLAkTi2J+bvr09KSeLKzhmAaNBQ@mail.gmail.com>
+	<CAFxzj8Sbwxp7L2DvUyeNf8V3UXJmUgMXKjPczuM2p__XcCJN0g@mail.gmail.com>
+	<CAD2k14NuGHvimM=jDtqTRPudeO0GAMOuOE3-KqC9rCLOx_EVJA@mail.gmail.com>
+	<CAFxzj8TEMe2dgJrZCvVQieKmnLxpBLL4yxGsnYmT8=2g056jog@mail.gmail.com>
+	<CAD2k14NrTE8sBJ5oHS4q+7mL-6sKq05DUw2w8H+4gDvkrwXHXQ@mail.gmail.com>
+	<CAFxzj8TgEE0+T=ZFwjJqffo1ex_OeKsu72FhQMKAvhG_j0wSYA@mail.gmail.com>
+Message-ID: <CAD2k14OVSC76Kf0f5AYL48-QSbWGK+ULWES4Od=twD2SD=Vp+w@mail.gmail.com>
+
+Thanks
+
+Will try to demo tomorrow
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130203/8490c4af/attachment.htm>
+
+From adrian.pohl at okfn.org  Mon Feb  4 13:49:17 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 4 Feb 2013 14:49:17 +0100
+Subject: [open-bibliography] Virtual meeting tomorrow (Tuesday,
+	2012/02/05 at 16:00 GMT)
+Message-ID: <CAOtd05FNzpHJxCWj3rkMxe86qmyxJzfXr-3DNTJ+r4zSPR3EBQ@mail.gmail.com>
+
+Hello,
+
+the next virtual meeting of the Working Group on Open Bibliographic
+Data will take place tomorrow on Tuesday, 5th February 2013, 16:00 GMT
+
+See the etherpad at http://okfnpad.org/28th-open-bibliography-meeting
+and please add agenda points.
+
+All the best
+Adrian
+
+
+From pm286 at cam.ac.uk  Mon Feb  4 22:02:30 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 4 Feb 2013 22:02:30 +0000
+Subject: [open-bibliography] Virtual meeting tomorrow (Tuesday,
+ 2012/02/05 at 16:00 GMT)
+In-Reply-To: <CAOtd05FNzpHJxCWj3rkMxe86qmyxJzfXr-3DNTJ+r4zSPR3EBQ@mail.gmail.com>
+References: <CAOtd05FNzpHJxCWj3rkMxe86qmyxJzfXr-3DNTJ+r4zSPR3EBQ@mail.gmail.com>
+Message-ID: <CAD2k14Nntaknf1XCDYrTAnORn0oCWH+ia2Fsw6fie6xBzQR8Hw@mail.gmail.com>
+
+On Mon, Feb 4, 2013 at 1:49 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> the next virtual meeting of the Working Group on Open Bibliographic
+> Data will take place tomorrow on Tuesday, 5th February 2013, 16:00 GMT
+>
+> I may be asleep (in AU) but ...
+I'd like to run a hackfest (in AU) later this month on Materials Science
+and make Bib an important aspect. Can we pull together a "hacking kit" for
+such an event (e.g. examples of BibJSON, some converters, a simple BibSoup,
+etc. The idea would be that people bring their personal bibliography -
+their papers and/or reading list and turn it into BibJSON and put it in
+Bibsoup.
+
+
+
+> See the etherpad at http://okfnpad.org/28th-open-bibliography-meeting
+> and please add agenda points.
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130204/83705d88/attachment.htm>
+
+From todd.d.robbins at gmail.com  Tue Feb  5 04:56:22 2013
+From: todd.d.robbins at gmail.com (todd.d.robbins at gmail.com)
+Date: Mon, 4 Feb 2013 21:56:22 -0700
+Subject: [open-bibliography] OCLC and FamilySearch partnership will combine
+ resources for richer genealogy research experience
+Message-ID: <CAM9_6uO1mZyB+u6kFbcQ6ctbxNXX65z+XVg=5aSUvvtDVT8E+w@mail.gmail.com>
+
+Very encouraging and exciting news:
+
+http://www.oclc.org/news/releases/2013/20135.htm
+
+Now to see if FamilySearch can be encourage to openly license their
+metadata.
+
+-- 
+Tod Robbins
+Digital Collections Librarian, MLIS
+todrobbins.com | @todrobbins <http://www.twitter.com/#!/todrobbins>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130204/9145f23d/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Feb  5 12:10:27 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 5 Feb 2013 12:10:27 +0000
+Subject: [open-bibliography] OCLC and FamilySearch partnership will
+ combine resources for richer genealogy research experience
+In-Reply-To: <CAM9_6uO1mZyB+u6kFbcQ6ctbxNXX65z+XVg=5aSUvvtDVT8E+w@mail.gmail.com>
+References: <CAM9_6uO1mZyB+u6kFbcQ6ctbxNXX65z+XVg=5aSUvvtDVT8E+w@mail.gmail.com>
+Message-ID: <CAD2k14OiX_xjxjPwTNWWkxhKP4V2HkHgaEM1R_ANO57hnP12bQ@mail.gmail.com>
+
+On Tue, Feb 5, 2013 at 4:56 AM, todd.d.robbins at gmail.com <
+todd.d.robbins at gmail.com> wrote:
+
+> Very encouraging and exciting news:
+>
+> http://www.oclc.org/news/releases/2013/20135.htm
+>
+
+I don't immediately see that this makes any information more Openly
+available. It seems a closed cartel. Or am I missing something?
+
+>
+> Now to see if FamilySearch can be encourage to openly license their
+> metadata.
+>
+> --
+> Tod Robbins
+> Digital Collections Librarian, MLIS
+> todrobbins.com | @todrobbins <http://www.twitter.com/#!/todrobbins>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130205/96a7281d/attachment.htm>
+
+From todd.d.robbins at gmail.com  Tue Feb  5 14:37:37 2013
+From: todd.d.robbins at gmail.com (todd.d.robbins at gmail.com)
+Date: Tue, 5 Feb 2013 07:37:37 -0700
+Subject: [open-bibliography] OCLC and FamilySearch partnership will
+ combine resources for richer genealogy research experience
+In-Reply-To: <CAD2k14OiX_xjxjPwTNWWkxhKP4V2HkHgaEM1R_ANO57hnP12bQ@mail.gmail.com>
+References: <CAM9_6uO1mZyB+u6kFbcQ6ctbxNXX65z+XVg=5aSUvvtDVT8E+w@mail.gmail.com>
+	<CAD2k14OiX_xjxjPwTNWWkxhKP4V2HkHgaEM1R_ANO57hnP12bQ@mail.gmail.com>
+Message-ID: <CAM9_6uN3b9ANeLVMWmE3izKfdWPjMXUrzToQrCTDj0jRwem14A@mail.gmail.com>
+
+I wouldn't say it's changed much in the way of "openness" as defined by the
+Open Definition and the various open licensing models, but it does
+aggregate the indexes of Family search into an international linked data
+system in WorldCat. I see it more as a start, and since OCLC is moving
+toward linked open data this partnership could help foster more openness
+within FamilySearch.
+
+Cheers!
+
+On Tuesday, February 5, 2013, Peter Murray-Rust wrote:
+
+>
+>
+> On Tue, Feb 5, 2013 at 4:56 AM, todd.d.robbins at gmail.com<javascript:_e({}, 'cvml', 'todd.d.robbins at gmail.com');>
+> <todd.d.robbins at gmail.com <javascript:_e({}, 'cvml',
+> 'todd.d.robbins at gmail.com');>> wrote:
+>
+>> Very encouraging and exciting news:
+>>
+>> http://www.oclc.org/news/releases/2013/20135.htm
+>>
+>
+> I don't immediately see that this makes any information more Openly
+> available. It seems a closed cartel. Or am I missing something?
+>
+>>
+>> Now to see if FamilySearch can be encourage to openly license their
+>> metadata.
+>>
+>> --
+>> Tod Robbins
+>> Digital Collections Librarian, MLIS
+>> todrobbins.com | @todrobbins <http://www.twitter.com/#!/todrobbins>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org <javascript:_e({}, 'cvml',
+>> 'open-bibliography at lists.okfn.org');>
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+
+
+-- 
+Tod Robbins
+Digital Collections Librarian, MLIS
+todrobbins.com | @todrobbins <http://www.twitter.com/#!/todrobbins>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130205/3f63d398/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Feb  9 00:58:15 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 9 Feb 2013 00:58:15 +0000
+Subject: [open-bibliography] NISO Launches New Initiative to Develop
+ Standard for Open Access Metadata and Indicators
+In-Reply-To: <000d01ce05c3$5ccbe130$1663a390$@richardpoynder.co.uk>
+References: <000d01ce05c3$5ccbe130$1663a390$@richardpoynder.co.uk>
+Message-ID: <CAD2k14Nnpb7xWvxCtxRCVq7n4i4iZYUPHyn-UqN9kArY7M=6ZA@mail.gmail.com>
+
+We should input into this?
+
+---------- Forwarded message ----------
+From: Richard Poynder <ricky at richardpoynder.co.uk>
+Date: Fri, Feb 8, 2013 at 6:13 AM
+Subject: [GOAL] NISO Launches New Initiative to Develop Standard for Open
+Access Metadata and Indicators
+To: goal at eprints.org
+
+
+[Forwarding from Cynthia Hodgson at NISO, via Peter Suber and SPARC OA
+Forum.]****
+
+** **
+
+*NISO Launches New Initiative to Develop Standard for Open Access Metadata
+and Indicators*
+
+** **
+
+*Interested participants from all library types, publishers, and funding
+agencies are encouraged to contact NISO*
+
+** **
+
+February 7, 2013 ? Baltimore, MD ? The National Information Standards
+Organization (NISO) voting members have approved a new project to develop
+standardized bibliographic metadata and visual indicators to describe the
+accessibility of journal articles as well as potentially describe how
+?open? the item is. Many offerings are available from publishers under the
+banner of *Open Access (OA)*, *Increased Access*, *Public Access*, or other
+descriptions; the terms offered vary between publishers and, in some cases,
+based on the funding organization of the author. Adding to the potential
+confusion, a number of publishers also offer hybrid options in which some
+articles are ?open? while the rest of the journal?s content are available
+only by subscription or license. No standardized bibliographic metadata
+currently provides information on whether a specific article is freely
+readable and what re-use rights might be available to readers. Visual
+indicators or icons indicating the openness of an article are inconsistent
+in both design and use across publishers or even across journals from the
+same publisher.****
+
+** **
+
+?The NISO OA metadata and indicator project would complement other related
+efforts currently underway,? states Nettie Lagace, NISO?s Associate
+Director for Programs. ?Such projects include CrossMark, CrossRef?s update
+identification service; *How Open Is It?*, a guide developed by PLoS,
+SPARC, and OASPA; Vocabularies for OA (V40A), a JISC/UKOLN project;
+ONIX-PL, a specification for communicating licensing terms developed by
+EDItEUR; the Linked Content Coalition; and NISO?s Open Discovery
+Initiative. Coordination and communication with these projects will be an
+important aspect of the NISO working group?s efforts.?****
+
+** **
+
+?The benefits of having standardized OA metadata and indicators should have
+a positive impact on many participants in the scholarly communications
+chain,? explains Todd Carpenter, NISO?s Executive Director. ?Funders who
+have implemented OA mandates would have a mechanism to determine if a
+specific article or researcher is compliant with their policies. Publishers
+of hybrid journals would benefit by having a simple mechanism for signaling
+the OA status of the articles published under that model. Authors could
+more easily determine whether their selected distribution option is being
+respected and be able to document their compliance with funder
+requirements. Readers could more easily ascertain from search results if
+they can read an article for free or fee?and more easily adhere to the
+terms that publishers have established. Aggregators and discovery service
+providers would have an improved mechanism of programmatically collecting
+and surfacing OA articles that are available in the community.?****
+
+** **
+
+The project launched by NISO will focus initially on metadata elements that
+describe the readership rights associated with an OA article. Specifically,
+the NISO Working Group will determine the optimal mechanisms to describe
+and transmit the right, if any, an arbitrary user has to access a specific
+article from any internet connection point. Recommendations will include a
+means for distribution and aggregation of this metadata in machine-readable
+form. The group will also consider the feasibility of incorporating
+information on re-use rights and the feasibility of reaching agreement on
+transmission of that data.****
+
+** **
+
+Individuals interested in participating in this working group should
+contact Nettie Lagace (nlagace at niso.org). An interest group list for this
+project will be available for those who would like to receive updates on
+the Working Group's progress and provide feedback to the group on its work.
+To subscribe, send an e-mail to oa-indicators-info-subscribe at list.niso.org.*
+***
+
+ ****
+
+Cynthia Hodgson****
+
+Technical Editor / Consultant****
+
+National Information Standards Organization****
+
+chodgson at niso.org****
+
+301-654-2512****
+
+** **
+
+_______________________________________________
+GOAL mailing list
+GOAL at eprints.org
+http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130209/a427f064/attachment.htm>
+
+From cn at cameronneylon.net  Sat Feb  9 08:39:05 2013
+From: cn at cameronneylon.net (cn at cameronneylon.net)
+Date: Sat, 9 Feb 2013 09:39:05 +0100
+Subject: [open-bibliography] [open-science] NISO Launches New Initiative
+	to Develop Standard for Open Access Metadata and Indicators
+In-Reply-To: <CAD2k14Nnpb7xWvxCtxRCVq7n4i4iZYUPHyn-UqN9kArY7M=6ZA@mail.gmail.com>
+References: <000d01ce05c3$5ccbe130$1663a390$@richardpoynder.co.uk>
+	<CAD2k14Nnpb7xWvxCtxRCVq7n4i4iZYUPHyn-UqN9kArY7M=6ZA@mail.gmail.com>
+Message-ID: <55B850B7-695F-4E6C-BBD3-44176EB392A3@cameronneylon.net>
+
+Please do. I am co-chairing this with Greg Tananbaum, who some of you may know from SPARC and Ed Pentz from Crossref. I should note that while there is a strand of work on permissions and rights here we are pretty explicit that we might not be able to get agreement on that from the NISO community.
+
+The idea is that getting agreement that we can't agree on rights transmission could actually be useful and that the first step of transmitting information on whether something should be 'accessible' is also useful. I would also say that my preference is for something very simple like a standard tag for holding a link to a license.
+
+Would be good to have OKF input.
+
+Cheers
+
+Cameron
+
+On 9 Feb 2013, at 01:58, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> We should input into this?
+> 
+> ---------- Forwarded message ----------
+> From: Richard Poynder <ricky at richardpoynder.co.uk>
+> Date: Fri, Feb 8, 2013 at 6:13 AM
+> Subject: [GOAL] NISO Launches New Initiative to Develop Standard for Open Access Metadata and Indicators
+> To: goal at eprints.org
+> 
+> 
+> [Forwarding from Cynthia Hodgson at NISO, via Peter Suber and SPARC OA Forum.]
+> 
+>  
+> 
+> NISO Launches New Initiative to Develop Standard for Open Access Metadata and Indicators
+> 
+>  
+> 
+> Interested participants from all library types, publishers, and funding agencies are encouraged to contact NISO
+> 
+>  
+> 
+> February 7, 2013 ? Baltimore, MD ? The National Information Standards Organization (NISO) voting members have approved a new project to develop standardized bibliographic metadata and visual indicators to describe the accessibility of journal articles as well as potentially describe how ?open? the item is. Many offerings are available from publishers under the banner of Open Access (OA), Increased Access, Public Access, or other descriptions; the terms offered vary between publishers and, in some cases, based on the funding organization of the author. Adding to the potential confusion, a number of publishers also offer hybrid options in which some articles are ?open? while the rest of the journal?s content are available only by subscription or license. No standardized bibliographic metadata currently provides information on whether a specific article is freely readable and what re-use rights might be available to readers. Visual indicators or icons indicating the openness of an article are inconsistent in both design and use across publishers or even across journals from the same publisher.
+> 
+>  
+> 
+> ?The NISO OA metadata and indicator project would complement other related efforts currently underway,? states Nettie Lagace, NISO?s Associate Director for Programs. ?Such projects include CrossMark, CrossRef?s update identification service; How Open Is It?, a guide developed by PLoS, SPARC, and OASPA; Vocabularies for OA (V40A), a JISC/UKOLN project; ONIX-PL, a specification for communicating licensing terms developed by EDItEUR; the Linked Content Coalition; and NISO?s Open Discovery Initiative. Coordination and communication with these projects will be an important aspect of the NISO working group?s efforts.?
+> 
+>  
+> 
+> ?The benefits of having standardized OA metadata and indicators should have a positive impact on many participants in the scholarly communications chain,? explains Todd Carpenter, NISO?s Executive Director. ?Funders who have implemented OA mandates would have a mechanism to determine if a specific article or researcher is compliant with their policies. Publishers of hybrid journals would benefit by having a simple mechanism for signaling the OA status of the articles published under that model. Authors could more easily determine whether their selected distribution option is being respected and be able to document their compliance with funder requirements. Readers could more easily ascertain from search results if they can read an article for free or fee?and more easily adhere to the terms that publishers have established. Aggregators and discovery service providers would have an improved mechanism of programmatically collecting and surfacing OA articles that are available in the community.?
+> 
+>  
+> 
+> The project launched by NISO will focus initially on metadata elements that describe the readership rights associated with an OA article. Specifically, the NISO Working Group will determine the optimal mechanisms to describe and transmit the right, if any, an arbitrary user has to access a specific article from any internet connection point. Recommendations will include a means for distribution and aggregation of this metadata in machine-readable form. The group will also consider the feasibility of incorporating information on re-use rights and the feasibility of reaching agreement on transmission of that data.
+> 
+>  
+> 
+> Individuals interested in participating in this working group should contact Nettie Lagace (nlagace at niso.org). An interest group list for this project will be available for those who would like to receive updates on the Working Group's progress and provide feedback to the group on its work. To subscribe, send an e-mail to oa-indicators-info-subscribe at list.niso.org.
+> 
+>  
+> 
+> Cynthia Hodgson
+> 
+> Technical Editor / Consultant
+> 
+> National Information Standards Organization
+> 
+> chodgson at niso.org
+> 
+> 301-654-2512
+> 
+>  
+> 
+> 
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+> 
+> 
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130209/0dc1bb2b/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Sat Feb  9 23:02:11 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 9 Feb 2013 23:02:11 +0000
+Subject: [open-bibliography] [open-science] NISO Launches New Initiative
+ to Develop Standard for Open Access Metadata and Indicators
+In-Reply-To: <CANACerGOSqBZiHJa1mfzwxjfSTsi8ep1GsfiNsg2hE78JyB=-w@mail.gmail.com>
+References: <000d01ce05c3$5ccbe130$1663a390$@richardpoynder.co.uk>
+	<CAD2k14Nnpb7xWvxCtxRCVq7n4i4iZYUPHyn-UqN9kArY7M=6ZA@mail.gmail.com>
+	<CANACerGOSqBZiHJa1mfzwxjfSTsi8ep1GsfiNsg2hE78JyB=-w@mail.gmail.com>
+Message-ID: <CAD2k14MYufa0BqZLO8Lx7NVUaZstq9_De736NV_2a-4EKYE-Zg@mail.gmail.com>
+
+See
+http://blogs.ch.cam.ac.uk/pmr/2013/02/07/institutional-readerism-the-royal-society-of-chemistry-isnt-putting-serious-effort-into-open-access/
+for an example of which standards are necessary.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130209/a7f33325/attachment.htm>
+
+From rayna.st at gmail.com  Sat Feb  9 22:34:33 2013
+From: rayna.st at gmail.com (Rayna)
+Date: Sat, 9 Feb 2013 23:34:33 +0100
+Subject: [open-bibliography] [open-science] NISO Launches New Initiative
+ to Develop Standard for Open Access Metadata and Indicators
+In-Reply-To: <CAD2k14Nnpb7xWvxCtxRCVq7n4i4iZYUPHyn-UqN9kArY7M=6ZA@mail.gmail.com>
+References: <000d01ce05c3$5ccbe130$1663a390$@richardpoynder.co.uk>
+	<CAD2k14Nnpb7xWvxCtxRCVq7n4i4iZYUPHyn-UqN9kArY7M=6ZA@mail.gmail.com>
+Message-ID: <CANACerGOSqBZiHJa1mfzwxjfSTsi8ep1GsfiNsg2hE78JyB=-w@mail.gmail.com>
+
+I'd put my 2 cents into a "YES" :)
+
+Rayna
+
+2013/2/9 Peter Murray-Rust <pm286 at cam.ac.uk>
+
+> We should input into this?
+>
+> ---------- Forwarded message ----------
+> From: Richard Poynder <ricky at richardpoynder.co.uk>
+> Date: Fri, Feb 8, 2013 at 6:13 AM
+> Subject: [GOAL] NISO Launches New Initiative to Develop Standard for Open
+> Access Metadata and Indicators
+> To: goal at eprints.org
+>
+>
+> [Forwarding from Cynthia Hodgson at NISO, via Peter Suber and SPARC OA
+> Forum.]****
+>
+> ** **
+>
+> *NISO Launches New Initiative to Develop Standard for Open Access
+> Metadata and Indicators*
+>
+> ** **
+>
+> *Interested participants from all library types, publishers, and funding
+> agencies are encouraged to contact NISO*
+>
+> ** **
+>
+> February 7, 2013 ? Baltimore, MD ? The National Information Standards
+> Organization (NISO) voting members have approved a new project to develop
+> standardized bibliographic metadata and visual indicators to describe the
+> accessibility of journal articles as well as potentially describe how
+> ?open? the item is. Many offerings are available from publishers under the
+> banner of *Open Access (OA)*, *Increased Access*, *Public Access*, or
+> other descriptions; the terms offered vary between publishers and, in some
+> cases, based on the funding organization of the author. Adding to the
+> potential confusion, a number of publishers also offer hybrid options in
+> which some articles are ?open? while the rest of the journal?s content are
+> available only by subscription or license. No standardized bibliographic
+> metadata currently provides information on whether a specific article is
+> freely readable and what re-use rights might be available to readers.
+> Visual indicators or icons indicating the openness of an article are
+> inconsistent in both design and use across publishers or even across
+> journals from the same publisher.****
+>
+> ** **
+>
+> ?The NISO OA metadata and indicator project would complement other related
+> efforts currently underway,? states Nettie Lagace, NISO?s Associate
+> Director for Programs. ?Such projects include CrossMark, CrossRef?s update
+> identification service; *How Open Is It?*, a guide developed by PLoS,
+> SPARC, and OASPA; Vocabularies for OA (V40A), a JISC/UKOLN project;
+> ONIX-PL, a specification for communicating licensing terms developed by
+> EDItEUR; the Linked Content Coalition; and NISO?s Open Discovery
+> Initiative. Coordination and communication with these projects will be an
+> important aspect of the NISO working group?s efforts.?****
+>
+> ** **
+>
+> ?The benefits of having standardized OA metadata and indicators should
+> have a positive impact on many participants in the scholarly communications
+> chain,? explains Todd Carpenter, NISO?s Executive Director. ?Funders who
+> have implemented OA mandates would have a mechanism to determine if a
+> specific article or researcher is compliant with their policies. Publishers
+> of hybrid journals would benefit by having a simple mechanism for signaling
+> the OA status of the articles published under that model. Authors could
+> more easily determine whether their selected distribution option is being
+> respected and be able to document their compliance with funder
+> requirements. Readers could more easily ascertain from search results if
+> they can read an article for free or fee?and more easily adhere to the
+> terms that publishers have established. Aggregators and discovery service
+> providers would have an improved mechanism of programmatically collecting
+> and surfacing OA articles that are available in the community.?****
+>
+> ** **
+>
+> The project launched by NISO will focus initially on metadata elements
+> that describe the readership rights associated with an OA article.
+> Specifically, the NISO Working Group will determine the optimal mechanisms
+> to describe and transmit the right, if any, an arbitrary user has to access
+> a specific article from any internet connection point. Recommendations will
+> include a means for distribution and aggregation of this metadata in
+> machine-readable form. The group will also consider the feasibility of
+> incorporating information on re-use rights and the feasibility of reaching
+> agreement on transmission of that data.****
+>
+> ** **
+>
+> Individuals interested in participating in this working group should
+> contact Nettie Lagace (nlagace at niso.org). An interest group list for this
+> project will be available for those who would like to receive updates on
+> the Working Group's progress and provide feedback to the group on its work.
+> To subscribe, send an e-mail to oa-indicators-info-subscribe at list.niso.org
+> .****
+>
+>  ****
+>
+> Cynthia Hodgson****
+>
+> Technical Editor / Consultant****
+>
+> National Information Standards Organization****
+>
+> chodgson at niso.org****
+>
+> 301-654-2512****
+>
+> ** **
+>
+> _______________________________________________
+> GOAL mailing list
+> GOAL at eprints.org
+> http://mailman.ecs.soton.ac.uk/mailman/listinfo/goal
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+"Change l'ordre du monde plut?t que tes d?sirs."
+
+http://de.linkedin.com/in/raynas
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130209/9b317c76/attachment.htm>
+
+From sam.leon at okfn.org  Wed Feb 13 15:08:48 2013
+From: sam.leon at okfn.org (Sam Leon)
+Date: Wed, 13 Feb 2013 15:08:48 +0000
+Subject: [open-bibliography] =?windows-1252?q?Announcing_the_Open_Humaniti?=
+	=?windows-1252?q?es_Awards_-_=8015=2C000_of_prizes_on_offer?=
+Message-ID: <CAE3MxAVs9c9d_zgG-UmPhRw4S9dHq=F5VZNZ4K9t8nzOa5e-_w@mail.gmail.com>
+
+Hi All,
+
+The Open Knowledge Foundation in association with the Digital Humanities
+Quarterly is excited to announce the launch of the first ever *Open
+Humanities Awards*. There are *?15,000* worth of prizes on offer for *3-5
+projects* that use *open content*,*open data* or *open source* tools
+to *further
+humanities teaching and research*. Whether you?re interested in patterns of
+allusion in Aristotle, networks of correspondence in the Jewish
+Enlightenment or digitising public domain editions of Dante, we?d love to
+hear about the kinds of open projects that could support your interest!
+
+The Awards will be judged by a distinguished cast of eminent Digital
+Humanists including Professor Stefan Gradmann (Humboldt University), Dr
+Susan Schreibman (Trinity College Dublin). Professor Andrew Prescott (Kings
+College London), Professor David Robey, (University of Oxford), Dr Melissa
+Terras (University College London),
+Nicole Coleman (Stanford University Humanities Center), Dr Laurent Romary
+(INRIA).
+
+*To apply and for more information visit openhumanitiesawards.org and feel
+free to contact me if you have any questions about the Awards. Deadline is
+12th March 2013, so get going and good luck!*
+
+All the best,
+Sam Leon
+
+-- 
+Sam Leon
+Project Manager
+Open Knowledge Foundation
+http://okfn.org/
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130213/bab8c207/attachment.htm>
+
+From krichel at openlib.org  Thu Feb 14 07:00:42 2013
+From: krichel at openlib.org (Thomas Krichel)
+Date: Thu, 14 Feb 2013 08:00:42 +0100
+Subject: [open-bibliography] registration open for OAI8 in Geneva 19-21 June
+	2013
+Message-ID: <20130214070042.GA29304@openlib.org>
+
+ 
+  OAI8, the 8th Workshop on Innovations in Scholarly Communication will
+  be held in Geneva, Switzerland, from Wednesday 19th to Friday 21st
+  June 2013. Program details and registration are now available at
+  https://indico.cern.ch/event/oai8. It will be possible to register
+  for a part or all of the programme.
+
+  The workshop will follow the successful format of previous sessions
+  mixing practical tutorials, presentations from cutting-edge projects
+  and research, discussion groups, posters, and an intense social
+  programme to maximise interaction and communication. Previous
+  workshops have built a strong community spirit. The event is a unique
+  opportunity to exchange ideas and contact details with a large public
+  connected to the OA movement. The OAI workshops are a series of the
+  most important international meetings in this field and take place
+  roughly every two years.
+  
+  Each iteration of the workshop series has dealt with issues relevant
+  to today. This year, research data will be one of the topics
+  tackled. In the light of the Royal Society Report "Science as an Open
+  Enterprise", European universities are beginning themselves to
+  consider the impact of the data deluge. The workshop will also revisit
+  the topic of metrics and suggest new approaches.
+  
+  Thanks to the continued support of our sponsors, the organisers have
+  been able to maintain the modest registration fee at the same level as
+  for the previous workshop, i.e. CHF 275. Moreover, a special early
+  bird fee of CHF 230 is offered until Wednesday 27th of March.
+  
+  Further information will be added to the website
+  https://indico.cern.ch/event/oai8, including details of the Breakout
+  Groups, of a pre-conference day about Duraspace, and the Call for
+  posters.
+  
+  The committee looks forward to welcoming you to Geneva.
+  
+  For the OAI8 Organising Committee with cheers,
+
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From lists at kcoyle.net  Fri Feb 15 22:20:14 2013
+From: lists at kcoyle.net (Karen Coyle)
+Date: Fri, 15 Feb 2013 14:20:14 -0800
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <511E7A80.4040103@cyber.law.harvard.edu>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+Message-ID: <511EB49E.3090903@kcoyle.net>
+
+Open Biblio Folks: much of the discussion in the notes is about 
+licensing of bib data. Perhaps we can read and discuss?
+
+kc
+
+
+-------- Original Message --------
+Subject: 	Re: [dpla-discussion] DPLA Board of Directors call: Thursday, 
+February 14, 1:00 PM EST
+Date: 	Fri, 15 Feb 2013 13:12:16 -0500
+From: 	Kenny Whitebloom <kwhitebloom at cyber.law.harvard.edu>
+Reply-To: 	dpla-discussion at eon.law.harvard.edu
+To: 	dpla-discussion at eon.law.harvard.edu
+
+
+
+Dear all,
+
+Notes from yesterday's Board of Directors call are now available at:
+
+http://dp.la/about/board/february-14-2013-board-of-directors-call/
+
+There you will also find the materials discussed during the call. Let us 
+know if you have any questions.
+
+Best,
+Kenny
+
+On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+> Dear all,
+>
+> The next DPLA Board of Directors call will take place this Thursday, 
+> February 14, at 1 PM EST.  This call is open to the public; more 
+> information is available on the DPLA website 
+> <http://dp.la/about/february-14-2013-board-of-directors-call>.
+>
+> The conference line is:
+>
+> *Dial-in*: 800-501-8979
+> *Access Code*: 2739336
+>
+> An agenda for the call is attached, along with supporting materials 
+> (also available online 
+> <http://dp.la/about/february-14-2013-board-of-directors-call>). 
+>  Please don't hesitate to be in touch with any questions.
+>
+> Best,
+> Kenny
+> -- 
+>   Kenny Whitebloom
+> Berkman Center for Internet & Society
+> 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+> 617-384-9107 | kenneth.whitebloom (skype) |http://cyber.law.harvard.edu  
+
+
+-- 
+Kenny Whitebloom
+Berkman Center for Internet & Society
+23 Everett Street, 2nd Floor, Cambridge, MA 02138
+617-384-9107 | kenneth.whitebloom (skype) |http://cyber.law.harvard.edu
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130215/4a563eb5/attachment.htm>
+-------------- next part --------------
+-- 
+You received this message because you are subscribed to the Digital Public
+Library of America planning initiative listserv.  
+
+To post to this group, email dpla-discussion at eon.law.harvard.edu
+To unsubscribe from this group, visit
+https://cyber.law.harvard.edu/lists/signoff/dpla-discussion
+To edit your subscription options, visit
+https://cyber.law.harvard.edu/lists/suboptions/dpla-discussion
+A searchable archive of all messages is available at
+https://cyber.law.harvard.edu/lists/arc/dpla-discussion
+
+We encourage you to post your ideas and resources to the DPLA public wiki:
+https://cyber.law.harvard.edu/dpla/Main_Page
+
+
+
+
+
+From jonathan.gray at okfn.org  Sat Feb 16 13:16:10 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 16 Feb 2013 14:16:10 +0100
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <511EB49E.3090903@kcoyle.net>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+Message-ID: <CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+
+Thanks Karen. Great it sounds like they are adopting a policy which include
+CC0. Does anyone know (or can anyone work out) whether CC0 will be a
+requirement for all metadata in DPLA?
+
+Two bits that I find quite bizarre:
+
+  * "Gore pointed out that in her experience working with prospective
+data-providers, most cultural heritage institutions are comfortable with
+the idea that the vast majority of metadata is not copyrightable" ->
+Presumably talking mainly about US GLAM institutions. Is this true? And
+does 'not copyrightable' equate to 'happy to release in bulk under CC0'?
+  * "Courant said that he thinks CC0 is still too restrictive of a license,
+which is why he likes
+using it as a ?backstop?, which the policy does." -> Not sure what 'too
+restrictive' means in this context? Too open? Too strong? To legally
+specific? Anyone know?
+
+J.
+
+On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net> wrote:
+
+>  Open Biblio Folks: much of the discussion in the notes is about licensing
+> of bib data. Perhaps we can read and discuss?
+>
+> kc
+>
+>
+> -------- Original Message --------  Subject: Re: [dpla-discussion] DPLA
+> Board of Directors call: Thursday, February 14, 1:00 PM EST  Date: Fri,
+> 15 Feb 2013 13:12:16 -0500  From: Kenny Whitebloom
+> <kwhitebloom at cyber.law.harvard.edu> <kwhitebloom at cyber.law.harvard.edu>  Reply-To:
+> dpla-discussion at eon.law.harvard.edu  To:
+> dpla-discussion at eon.law.harvard.edu
+>
+> Dear all,
+>
+> Notes from yesterday's Board of Directors call are now available at:
+>
+> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>
+> There you will also find the materials discussed during the call. Let us
+> know if you have any questions.
+>
+> Best,
+> Kenny
+>
+> On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>
+> Dear all,
+>
+>  The next DPLA Board of Directors call will take place this Thursday,
+> February 14, at 1 PM EST.  This call is open to the public; more
+> information is available on the DPLA website<http://dp.la/about/february-14-2013-board-of-directors-call>
+> .
+>
+>  The conference line is:
+>
+> *Dial-in*: 800-501-8979
+> *Access Code*: 2739336
+>
+> An agenda for the call is attached, along with supporting materials (also
+> available online<http://dp.la/about/february-14-2013-board-of-directors-call>).
+>  Please don't hesitate to be in touch with any questions.
+>
+>  Best,
+> Kenny
+>
+> --
+>  Kenny Whitebloom
+> Berkman Center for Internet & Society
+> 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+> 617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>
+>
+>
+> --
+> Kenny Whitebloom
+> Berkman Center for Internet & Society
+> 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+> 617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130216/306822af/attachment.htm>
+
+From jonathan.gray at okfn.org  Sat Feb 16 13:16:34 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 16 Feb 2013 14:16:34 +0100
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+Message-ID: <CAELjFBuaZ2vtyBd8LuXD5Z2yN=PWK48UNddDFNdbVOYj=_zjeg@mail.gmail.com>
+
+(P.S. those quotes were from
+http://dp.la/files/2013/02/DPLA_BoardCallNotesExternalVersion_0214131.pdf )
+
+
+On 16 February 2013 14:16, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> Thanks Karen. Great it sounds like they are adopting a policy which
+> include CC0. Does anyone know (or can anyone work out) whether CC0 will be
+> a requirement for all metadata in DPLA?
+>
+> Two bits that I find quite bizarre:
+>
+>   * "Gore pointed out that in her experience working with prospective
+> data-providers, most cultural heritage institutions are comfortable with
+> the idea that the vast majority of metadata is not copyrightable" ->
+> Presumably talking mainly about US GLAM institutions. Is this true? And
+> does 'not copyrightable' equate to 'happy to release in bulk under CC0'?
+>   * "Courant said that he thinks CC0 is still too restrictive of a
+> license, which is why he likes
+> using it as a ?backstop?, which the policy does." -> Not sure what 'too
+> restrictive' means in this context? Too open? Too strong? To legally
+> specific? Anyone know?
+>
+> J.
+>
+> On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net> wrote:
+>
+>>  Open Biblio Folks: much of the discussion in the notes is about
+>> licensing of bib data. Perhaps we can read and discuss?
+>>
+>> kc
+>>
+>>
+>> -------- Original Message --------  Subject: Re: [dpla-discussion] DPLA
+>> Board of Directors call: Thursday, February 14, 1:00 PM EST  Date: Fri,
+>> 15 Feb 2013 13:12:16 -0500  From: Kenny Whitebloom
+>> <kwhitebloom at cyber.law.harvard.edu> <kwhitebloom at cyber.law.harvard.edu>  Reply-To:
+>> dpla-discussion at eon.law.harvard.edu  To:
+>> dpla-discussion at eon.law.harvard.edu
+>>
+>> Dear all,
+>>
+>> Notes from yesterday's Board of Directors call are now available at:
+>>
+>> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>>
+>> There you will also find the materials discussed during the call. Let us
+>> know if you have any questions.
+>>
+>> Best,
+>> Kenny
+>>
+>> On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>
+>> Dear all,
+>>
+>>  The next DPLA Board of Directors call will take place this Thursday,
+>> February 14, at 1 PM EST.  This call is open to the public; more
+>> information is available on the DPLA website<http://dp.la/about/february-14-2013-board-of-directors-call>
+>> .
+>>
+>>  The conference line is:
+>>
+>> *Dial-in*: 800-501-8979
+>> *Access Code*: 2739336
+>>
+>> An agenda for the call is attached, along with supporting materials (also
+>> available online<http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>  Please don't hesitate to be in touch with any questions.
+>>
+>>  Best,
+>> Kenny
+>>
+>> --
+>>  Kenny Whitebloom
+>> Berkman Center for Internet & Society
+>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>> 617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>
+>>
+>>
+>> --
+>> Kenny Whitebloom
+>> Berkman Center for Internet & Society
+>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>> 617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+> Director of Policy and Ideas
+> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+> Support our work: okfn.org/support
+>
+
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130216/434138d5/attachment.htm>
+
+From tfmorris at gmail.com  Sat Feb 16 14:16:29 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Sat, 16 Feb 2013 09:16:29 -0500
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+Message-ID: <CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+
+On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Thanks Karen. Great it sounds like they are adopting a policy which
+> include CC0. Does anyone know (or can anyone work out) whether CC0 will be
+> a requirement for all metadata in DPLA?
+>
+
+I'm not a DPLA insider, but my reading is that all contributing
+institutions will be required to contribute anything copyrightable under a
+CC0 license.
+
+
+> Two bits that I find quite bizarre:
+>
+>   * "Gore pointed out that in her experience working with prospective
+> data-providers, most cultural heritage institutions are comfortable with
+> the idea that the vast majority of metadata is not copyrightable" ->
+> Presumably talking mainly about US GLAM institutions. Is this true? And
+> does 'not copyrightable' equate to 'happy to release in bulk under CC0'?
+>   * "Courant said that he thinks CC0 is still too restrictive of a
+> license, which is why he likes
+> using it as a ?backstop?, which the policy does." -> Not sure what 'too
+> restrictive' means in this context? Too open? Too strong? To legally
+> specific? Anyone know?
+>
+
+I think what they're going for here is that no license should be necessary
+at all because the metadata can't be copyrighted.  I suspect they want that
+to be their primary position, but are including CC0 as a
+fallback/fail-safe.  It's a bit of a nuanced position and I could be
+misreading it, but that's my interpretation.
+
+Tom
+
+
+>
+> J.
+>
+> On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net> wrote:
+>
+>>  Open Biblio Folks: much of the discussion in the notes is about
+>> licensing of bib data. Perhaps we can read and discuss?
+>>
+>> kc
+>>
+>>
+>> -------- Original Message --------  Subject: Re: [dpla-discussion] DPLA
+>> Board of Directors call: Thursday, February 14, 1:00 PM EST  Date: Fri,
+>> 15 Feb 2013 13:12:16 -0500  From: Kenny Whitebloom
+>> <kwhitebloom at cyber.law.harvard.edu> <kwhitebloom at cyber.law.harvard.edu>  Reply-To:
+>> dpla-discussion at eon.law.harvard.edu  To:
+>> dpla-discussion at eon.law.harvard.edu
+>>
+>> Dear all,
+>>
+>> Notes from yesterday's Board of Directors call are now available at:
+>>
+>> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>>
+>> There you will also find the materials discussed during the call. Let us
+>> know if you have any questions.
+>>
+>> Best,
+>> Kenny
+>>
+>> On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>
+>> Dear all,
+>>
+>>  The next DPLA Board of Directors call will take place this Thursday,
+>> February 14, at 1 PM EST.  This call is open to the public; more
+>> information is available on the DPLA website<http://dp.la/about/february-14-2013-board-of-directors-call>
+>> .
+>>
+>>  The conference line is:
+>>
+>> *Dial-in*: 800-501-8979
+>> *Access Code*: 2739336
+>>
+>> An agenda for the call is attached, along with supporting materials (also
+>> available online<http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>  Please don't hesitate to be in touch with any questions.
+>>
+>>  Best,
+>> Kenny
+>>
+>> --
+>>  Kenny Whitebloom
+>> Berkman Center for Internet & Society
+>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>
+>>
+>>
+>> --
+>> Kenny Whitebloom
+>> Berkman Center for Internet & Society
+>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+> Director of Policy and Ideas
+> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+> Support our work: okfn.org/support
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130216/02f0207e/attachment-0001.htm>
+
+From jpwilkin at umich.edu  Sat Feb 16 14:52:46 2013
+From: jpwilkin at umich.edu (John Wilkin)
+Date: Sat, 16 Feb 2013 09:52:46 -0500
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+	<CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+Message-ID: <CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+
+I'm not a DPLA insider, either, but I'm close enough to say with confidence
+that Tom's read of the intent, outlined in his paragraph that starts with "I
+think what they're going for here," is exactly right and nicely
+characterized.
+
+
+On Sat, Feb 16, 2013 at 9:16 AM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+>
+>> Thanks Karen. Great it sounds like they are adopting a policy which
+>> include CC0. Does anyone know (or can anyone work out) whether CC0 will be
+>> a requirement for all metadata in DPLA?
+>>
+>
+> I'm not a DPLA insider, but my reading is that all contributing
+> institutions will be required to contribute anything copyrightable under a
+> CC0 license.
+>
+>
+>> Two bits that I find quite bizarre:
+>>
+>>   * "Gore pointed out that in her experience working with prospective
+>> data-providers, most cultural heritage institutions are comfortable with
+>> the idea that the vast majority of metadata is not copyrightable" ->
+>> Presumably talking mainly about US GLAM institutions. Is this true? And
+>> does 'not copyrightable' equate to 'happy to release in bulk under CC0'?
+>>   * "Courant said that he thinks CC0 is still too restrictive of a
+>> license, which is why he likes
+>> using it as a ?backstop?, which the policy does." -> Not sure what 'too
+>> restrictive' means in this context? Too open? Too strong? To legally
+>> specific? Anyone know?
+>>
+>
+> I think what they're going for here is that no license should be necessary
+> at all because the metadata can't be copyrighted.  I suspect they want that
+> to be their primary position, but are including CC0 as a
+> fallback/fail-safe.  It's a bit of a nuanced position and I could be
+> misreading it, but that's my interpretation.
+>
+> Tom
+>
+>
+>>
+>> J.
+>>
+>> On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net> wrote:
+>>
+>>>  Open Biblio Folks: much of the discussion in the notes is about
+>>> licensing of bib data. Perhaps we can read and discuss?
+>>>
+>>> kc
+>>>
+>>>
+>>> -------- Original Message --------  Subject: Re: [dpla-discussion] DPLA
+>>> Board of Directors call: Thursday, February 14, 1:00 PM EST  Date: Fri,
+>>> 15 Feb 2013 13:12:16 -0500  From: Kenny Whitebloom
+>>> <kwhitebloom at cyber.law.harvard.edu> <kwhitebloom at cyber.law.harvard.edu>  Reply-To:
+>>> dpla-discussion at eon.law.harvard.edu  To:
+>>> dpla-discussion at eon.law.harvard.edu
+>>>
+>>> Dear all,
+>>>
+>>> Notes from yesterday's Board of Directors call are now available at:
+>>>
+>>> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>>>
+>>> There you will also find the materials discussed during the call. Let us
+>>> know if you have any questions.
+>>>
+>>> Best,
+>>> Kenny
+>>>
+>>> On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>>
+>>> Dear all,
+>>>
+>>>  The next DPLA Board of Directors call will take place this Thursday,
+>>> February 14, at 1 PM EST.  This call is open to the public; more
+>>> information is available on the DPLA website<http://dp.la/about/february-14-2013-board-of-directors-call>
+>>> .
+>>>
+>>>  The conference line is:
+>>>
+>>> *Dial-in*: 800-501-8979
+>>> *Access Code*: 2739336
+>>>
+>>> An agenda for the call is attached, along with supporting materials
+>>> (also available online<http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>>  Please don't hesitate to be in touch with any questions.
+>>>
+>>>  Best,
+>>> Kenny
+>>>
+>>> --
+>>>  Kenny Whitebloom
+>>> Berkman Center for Internet & Society
+>>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>>
+>>>
+>>>
+>>> --
+>>> Kenny Whitebloom
+>>> Berkman Center for Internet & Society
+>>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>>
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>>
+>> --
+>> Jonathan Gray <http://jonathangray.org/> | @jwyg<http://twitter.com/jwyg>
+>> Director of Policy and Ideas
+>> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+>> Support our work: okfn.org/support
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+
+
+-- 
+John Price Wilkin
+Executive Director, HathiTrust
+Associate University Librarian for Publishing and Technology
+University Library
+818 Hatcher South
+University of Michigan
+Ann Arbor, MI 48109-1205
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130216/f88956da/attachment.htm>
+
+From johnson.tom at gmail.com  Sat Feb 16 18:26:03 2013
+From: johnson.tom at gmail.com (Tom Johnson)
+Date: Sat, 16 Feb 2013 10:26:03 -0800
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+	<CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+	<CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+Message-ID: <CAJeHiNEVMU4bFXszerwPiriAt5jV7AptHwmyX3AcNAyRTyUkYw@mail.gmail.com>
+
+This was my impression as well.
+
+> Does anyone know (or can anyone work out) whether CC0 will be a
+requirement for all metadata in DPLA?
+
+This is an important question which may have been a bit ambiguous in the
+original statement. The revised statement is clear:
+
+"The DPLA?s partners agree that the vast majority of metadata is not
+subject to copyright. To the extent that metadata provided by the DPLA?s
+partners may be protected by copyright, however, those partners have agreed
+to dedicate such metadata to the public domain pursuant to a CC0 license. *This
+means that any raw metadata imported into the DPLA, which is protected by
+copyright, is provided under a CC0 license." *[emphasis in original]
+
+Under the statement as written, not only do contributing institutions agree
+to release their metadata as CC0 via DPLA, but there is an implicit
+agreement not to argue any copyright interest at all. I think the addition
+of point 4 is a nice touch as well. It doesn't add anything new, but it's a
+nice human readable summary clarifying the spirit of the policy.
+
+It's an excellent statement and I think we should do what we can to make
+sure that this multi-pronged approach is adopted by other large
+institutions.
+
+Oregon State University is in the process of discussing similar language
+with our legal department to apply to our published datasets.
+
+- Tom
+
+
+On Sat, Feb 16, 2013 at 6:52 AM, John Wilkin <jpwilkin at umich.edu> wrote:
+
+> I'm not a DPLA insider, either, but I'm close enough to say with
+> confidence that Tom's read of the intent, outlined in his paragraph that
+> starts with "I think what they're going for here," is exactly right and
+> nicely characterized.
+>
+>
+> On Sat, Feb 16, 2013 at 9:16 AM, Tom Morris <tfmorris at gmail.com> wrote:
+>
+>> On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+>>
+>>> Thanks Karen. Great it sounds like they are adopting a policy which
+>>> include CC0. Does anyone know (or can anyone work out) whether CC0 will be
+>>> a requirement for all metadata in DPLA?
+>>>
+>>
+>> I'm not a DPLA insider, but my reading is that all contributing
+>> institutions will be required to contribute anything copyrightable under a
+>> CC0 license.
+>>
+>>
+>>> Two bits that I find quite bizarre:
+>>>
+>>>   * "Gore pointed out that in her experience working with prospective
+>>> data-providers, most cultural heritage institutions are comfortable with
+>>> the idea that the vast majority of metadata is not copyrightable" ->
+>>> Presumably talking mainly about US GLAM institutions. Is this true? And
+>>> does 'not copyrightable' equate to 'happy to release in bulk under CC0'?
+>>>   * "Courant said that he thinks CC0 is still too restrictive of a
+>>> license, which is why he likes
+>>> using it as a ?backstop?, which the policy does." -> Not sure what 'too
+>>> restrictive' means in this context? Too open? Too strong? To legally
+>>> specific? Anyone know?
+>>>
+>>
+>> I think what they're going for here is that no license should be
+>> necessary at all because the metadata can't be copyrighted.  I suspect they
+>> want that to be their primary position, but are including CC0 as a
+>> fallback/fail-safe.  It's a bit of a nuanced position and I could be
+>> misreading it, but that's my interpretation.
+>>
+>> Tom
+>>
+>>
+>>>
+>>> J.
+>>>
+>>> On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net> wrote:
+>>>
+>>>>  Open Biblio Folks: much of the discussion in the notes is about
+>>>> licensing of bib data. Perhaps we can read and discuss?
+>>>>
+>>>> kc
+>>>>
+>>>>
+>>>> -------- Original Message --------  Subject: Re: [dpla-discussion]
+>>>> DPLA Board of Directors call: Thursday, February 14, 1:00 PM EST  Date:
+>>>> Fri, 15 Feb 2013 13:12:16 -0500  From: Kenny Whitebloom
+>>>> <kwhitebloom at cyber.law.harvard.edu> <kwhitebloom at cyber.law.harvard.edu>  Reply-To:
+>>>> dpla-discussion at eon.law.harvard.edu  To:
+>>>> dpla-discussion at eon.law.harvard.edu
+>>>>
+>>>> Dear all,
+>>>>
+>>>> Notes from yesterday's Board of Directors call are now available at:
+>>>>
+>>>> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>>>>
+>>>> There you will also find the materials discussed during the call. Let
+>>>> us know if you have any questions.
+>>>>
+>>>> Best,
+>>>> Kenny
+>>>>
+>>>> On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>>>
+>>>> Dear all,
+>>>>
+>>>>  The next DPLA Board of Directors call will take place this Thursday,
+>>>> February 14, at 1 PM EST.  This call is open to the public; more
+>>>> information is available on the DPLA website<http://dp.la/about/february-14-2013-board-of-directors-call>
+>>>> .
+>>>>
+>>>>  The conference line is:
+>>>>
+>>>> *Dial-in*: 800-501-8979
+>>>> *Access Code*: 2739336
+>>>>
+>>>> An agenda for the call is attached, along with supporting materials
+>>>> (also available online<http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>>>  Please don't hesitate to be in touch with any questions.
+>>>>
+>>>>  Best,
+>>>> Kenny
+>>>>
+>>>> --
+>>>>  Kenny Whitebloom
+>>>> Berkman Center for Internet & Society
+>>>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Kenny Whitebloom
+>>>> Berkman Center for Internet & Society
+>>>> 23 Everett Street, 2nd Floor, Cambridge, MA 02138617-384-9107 | kenneth.whitebloom (skype) | http://cyber.law.harvard.edu
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Jonathan Gray <http://jonathangray.org/> | @jwyg<http://twitter.com/jwyg>
+>>> Director of Policy and Ideas
+>>> The Open Knowledge Foundation <http://okfn.org/> | @okfn<http://twitter.com/okfn>
+>>> Support our work: okfn.org/support
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>
+>
+> --
+> John Price Wilkin
+> Executive Director, HathiTrust
+> Associate University Librarian for Publishing and Technology
+> University Library
+> 818 Hatcher South
+> University of Michigan
+> Ann Arbor, MI 48109-1205
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130216/c3c3a092/attachment-0001.htm>
+
+From kcoyle at kcoyle.net  Sat Feb 16 20:18:02 2013
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Sat, 16 Feb 2013 12:18:02 -0800
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAJeHiNEVMU4bFXszerwPiriAt5jV7AptHwmyX3AcNAyRTyUkYw@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+	<CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+	<CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+	<CAJeHiNEVMU4bFXszerwPiriAt5jV7AptHwmyX3AcNAyRTyUkYw@mail.gmail.com>
+Message-ID: <511FE97A.5000605@kcoyle.net>
+
+I think this is worthy of a blog post. Would you like me to start a 
+draft, and I can run that by the list before posting (I can't remember 
+if I can post, but Adrian can).
+
+BTW, #4 is:
+
+04. 	Free and Unencumbered Access to Metadata.
+
+Given the purposes of the policy and the copyright status of the 
+metadata, and pursuant to the DPLA?s terms of service, the DPLA?s users 
+are free to harvest, collect, modify, and/or otherwise use any metadata 
+contained in the DPLA.
+
+[thunderous applause]
+
+kc
+
+On 2/16/13 10:26 AM, Tom Johnson wrote:
+> This was my impression as well.
+>
+>>Does anyone know (or can anyone work out) whether CC0 will be a
+> requirement for all metadata in DPLA?
+>
+> This is an important question which may have been a bit ambiguous in the
+> original statement. The revised statement is clear:
+>
+> "The DPLA?s partners agree that the vast majority of metadata is not
+> subject to copyright. To the extent that metadata provided by the DPLA?s
+> partners may be protected by copyright, however, those partners have
+> agreed to dedicate such metadata to the public domain pursuant to a CC0
+> license. /This means that any raw metadata imported into the DPLA, which
+> is protected by copyright, is provided under a CC0 license." /[emphasis
+> in original]
+>
+> Under the statement as written, not only do contributing institutions
+> agree to release their metadata as CC0 via DPLA, but there is an
+> implicit agreement not to argue any copyright interest at all. I think
+> the addition of point 4 is a nice touch as well. It doesn't add anything
+> new, but it's a nice human readable summary clarifying the spirit of the
+> policy.
+>
+> It's an excellent statement and I think we should do what we can to make
+> sure that this multi-pronged approach is adopted by other large
+> institutions.
+>
+> Oregon State University is in the process of discussing similar language
+> with our legal department to apply to our published datasets.
+>
+> - Tom
+>
+>
+> On Sat, Feb 16, 2013 at 6:52 AM, John Wilkin <jpwilkin at umich.edu
+> <mailto:jpwilkin at umich.edu>> wrote:
+>
+>     I'm not a DPLA insider, either, but I'm close enough to say with
+>     confidence that Tom's read of the intent, outlined in his paragraph
+>     that starts with "I think what they're going for here," is exactly
+>     right and nicely characterized.
+>
+>
+>     On Sat, Feb 16, 2013 at 9:16 AM, Tom Morris <tfmorris at gmail.com
+>     <mailto:tfmorris at gmail.com>> wrote:
+>
+>         On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray
+>         <jonathan.gray at okfn.org <mailto:jonathan.gray at okfn.org>> wrote:
+>
+>             Thanks Karen. Great it sounds like they are adopting a
+>             policy which include CC0. Does anyone know (or can anyone
+>             work out) whether CC0 will be a requirement for all metadata
+>             in DPLA?
+>
+>
+>         I'm not a DPLA insider, but my reading is that all contributing
+>         institutions will be required to contribute anything
+>         copyrightable under a CC0 license.
+>
+>             Two bits that I find quite bizarre:
+>
+>                * "Gore pointed out that in her experience working with
+>             prospective data-providers, most cultural heritage
+>             institutions are comfortable with the idea that the vast
+>             majority of metadata is not copyrightable" -> Presumably
+>             talking mainly about US GLAM institutions. Is this true? And
+>             does 'not copyrightable' equate to 'happy to release in bulk
+>             under CC0'?
+>                * "Courant said that he thinks CC0 is still too
+>             restrictive of a license, which is why he likes
+>             using it as a ?backstop?, which the policy does." -> Not
+>             sure what 'too restrictive' means in this context? Too open?
+>             Too strong? To legally specific? Anyone know?
+>
+>
+>         I think what they're going for here is that no license should be
+>         necessary at all because the metadata can't be copyrighted.  I
+>         suspect they want that to be their primary position, but are
+>         including CC0 as a fallback/fail-safe.  It's a bit of a nuanced
+>         position and I could be misreading it, but that's my interpretation.
+>
+>         Tom
+>
+>
+>             J.
+>
+>             On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net
+>             <mailto:lists at kcoyle.net>> wrote:
+>
+>                 Open Biblio Folks: much of the discussion in the notes
+>                 is about licensing of bib data. Perhaps we can read and
+>                 discuss?
+>
+>                 kc
+>
+>
+>                 -------- Original Message --------
+>                 Subject: 	Re: [dpla-discussion] DPLA Board of Directors
+>                 call: Thursday, February 14, 1:00 PM EST
+>                 Date: 	Fri, 15 Feb 2013 13:12:16 -0500
+>                 From: 	Kenny Whitebloom
+>                 <kwhitebloom at cyber.law.harvard.edu>
+>                 <mailto:kwhitebloom at cyber.law.harvard.edu>
+>                 Reply-To: 	dpla-discussion at eon.law.harvard.edu
+>                 <mailto:dpla-discussion at eon.law.harvard.edu>
+>                 To: 	dpla-discussion at eon.law.harvard.edu
+>                 <mailto:dpla-discussion at eon.law.harvard.edu>
+>
+>
+>
+>                 Dear all,
+>
+>                 Notes from yesterday's Board of Directors call are now
+>                 available at:
+>
+>                 http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>
+>                 There you will also find the materials discussed during
+>                 the call. Let us know if you have any questions.
+>
+>                 Best,
+>                 Kenny
+>
+>                 On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>                 Dear all,
+>>
+>>                 The next DPLA Board of Directors call will take place
+>>                 this Thursday, February 14, at 1 PM EST.  This call is
+>>                 open to the public; more information is available on
+>>                 the DPLA website
+>>                 <http://dp.la/about/february-14-2013-board-of-directors-call>.
+>>
+>>                 The conference line is:
+>>
+>>                 *Dial-in*: 800-501-8979 <tel:800-501-8979>
+>>                 *Access Code*: 2739336
+>>
+>>                 An agenda for the call is attached, along with
+>>                 supporting materials (also available online
+>>                 <http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>                  Please don't hesitate to be in touch with any questions.
+>>
+>>                 Best,
+>>                 Kenny
+>>                 --
+>>                   Kenny Whitebloom
+>>                 Berkman Center for Internet & Society
+>>                 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>                 617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom (skype) |http://cyber.law.harvard.edu
+>
+>
+>                 --
+>                 Kenny Whitebloom
+>                 Berkman Center for Internet & Society
+>                 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>                 617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom (skype) |http://cyber.law.harvard.edu
+>
+>
+>
+>
+>                 _______________________________________________
+>                 open-bibliography mailing list
+>                 open-bibliography at lists.okfn.org
+>                 <mailto:open-bibliography at lists.okfn.org>
+>                 http://lists.okfn.org/mailman/listinfo/open-bibliography
+>                 Unsubscribe:
+>                 http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+>             --
+>             Jonathan Gray <http://jonathangray.org/> | @jwyg
+>             <http://twitter.com/jwyg>
+>             Director of Policy and Ideas
+>             The Open Knowledge Foundation <http://okfn.org/> | @okfn
+>             <http://twitter.com/okfn>
+>             Support our work: okfn.org/support <http://okfn.org/support/>
+>
+>             _______________________________________________
+>             open-bibliography mailing list
+>             open-bibliography at lists.okfn.org
+>             <mailto:open-bibliography at lists.okfn.org>
+>             http://lists.okfn.org/mailman/listinfo/open-bibliography
+>             Unsubscribe:
+>             http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>         _______________________________________________
+>         open-bibliography mailing list
+>         open-bibliography at lists.okfn.org
+>         <mailto:open-bibliography at lists.okfn.org>
+>         http://lists.okfn.org/mailman/listinfo/open-bibliography
+>         Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+>     --
+>     John Price Wilkin
+>     ExecutiveDirector, HathiTrust
+>     Associate University Librarian for Publishing and Technology
+>     University Library
+>     818 Hatcher South
+>     University of Michigan
+>     Ann Arbor, MI 48109-1205
+>
+>
+>     _______________________________________________
+>     open-bibliography mailing list
+>     open-bibliography at lists.okfn.org
+>     <mailto:open-bibliography at lists.okfn.org>
+>     http://lists.okfn.org/mailman/listinfo/open-bibliography
+>     Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From jonathan.gray at okfn.org  Sun Feb 17 10:33:09 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sun, 17 Feb 2013 11:33:09 +0100
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <511FE97A.5000605@kcoyle.net>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+	<CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+	<CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+	<CAJeHiNEVMU4bFXszerwPiriAt5jV7AptHwmyX3AcNAyRTyUkYw@mail.gmail.com>
+	<511FE97A.5000605@kcoyle.net>
+Message-ID: <CAELjFBvkF1tPTnQrKPE74WApxbWSOevNy1Xr80K9f5Bmmvr_3Q@mail.gmail.com>
+
+That would be great Karen! If you framed this for a general audience
+(explaining background and why this is important) we could run it on the
+main OKF blog...
+
+
+On 16 February 2013 21:18, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> I think this is worthy of a blog post. Would you like me to start a draft,
+> and I can run that by the list before posting (I can't remember if I can
+> post, but Adrian can).
+>
+> BTW, #4 is:
+>
+> 04.     Free and Unencumbered Access to Metadata.
+>
+> Given the purposes of the policy and the copyright status of the metadata,
+> and pursuant to the DPLA?s terms of service, the DPLA?s users are free to
+> harvest, collect, modify, and/or otherwise use any metadata contained in
+> the DPLA.
+>
+> [thunderous applause]
+>
+> kc
+>
+>
+> On 2/16/13 10:26 AM, Tom Johnson wrote:
+>
+>> This was my impression as well.
+>>
+>>  Does anyone know (or can anyone work out) whether CC0 will be a
+>>>
+>> requirement for all metadata in DPLA?
+>>
+>> This is an important question which may have been a bit ambiguous in the
+>> original statement. The revised statement is clear:
+>>
+>> "The DPLA?s partners agree that the vast majority of metadata is not
+>> subject to copyright. To the extent that metadata provided by the DPLA?s
+>> partners may be protected by copyright, however, those partners have
+>> agreed to dedicate such metadata to the public domain pursuant to a CC0
+>> license. /This means that any raw metadata imported into the DPLA, which
+>> is protected by copyright, is provided under a CC0 license." /[emphasis
+>>
+>> in original]
+>>
+>> Under the statement as written, not only do contributing institutions
+>> agree to release their metadata as CC0 via DPLA, but there is an
+>> implicit agreement not to argue any copyright interest at all. I think
+>> the addition of point 4 is a nice touch as well. It doesn't add anything
+>> new, but it's a nice human readable summary clarifying the spirit of the
+>> policy.
+>>
+>> It's an excellent statement and I think we should do what we can to make
+>> sure that this multi-pronged approach is adopted by other large
+>> institutions.
+>>
+>> Oregon State University is in the process of discussing similar language
+>> with our legal department to apply to our published datasets.
+>>
+>> - Tom
+>>
+>>
+>> On Sat, Feb 16, 2013 at 6:52 AM, John Wilkin <jpwilkin at umich.edu
+>> <mailto:jpwilkin at umich.edu>> wrote:
+>>
+>>     I'm not a DPLA insider, either, but I'm close enough to say with
+>>     confidence that Tom's read of the intent, outlined in his paragraph
+>>     that starts with "I think what they're going for here," is exactly
+>>     right and nicely characterized.
+>>
+>>
+>>     On Sat, Feb 16, 2013 at 9:16 AM, Tom Morris <tfmorris at gmail.com
+>>     <mailto:tfmorris at gmail.com>> wrote:
+>>
+>>         On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray
+>>         <jonathan.gray at okfn.org <mailto:jonathan.gray at okfn.org**>> wrote:
+>>
+>>             Thanks Karen. Great it sounds like they are adopting a
+>>             policy which include CC0. Does anyone know (or can anyone
+>>             work out) whether CC0 will be a requirement for all metadata
+>>             in DPLA?
+>>
+>>
+>>         I'm not a DPLA insider, but my reading is that all contributing
+>>         institutions will be required to contribute anything
+>>         copyrightable under a CC0 license.
+>>
+>>             Two bits that I find quite bizarre:
+>>
+>>                * "Gore pointed out that in her experience working with
+>>             prospective data-providers, most cultural heritage
+>>             institutions are comfortable with the idea that the vast
+>>             majority of metadata is not copyrightable" -> Presumably
+>>             talking mainly about US GLAM institutions. Is this true? And
+>>             does 'not copyrightable' equate to 'happy to release in bulk
+>>             under CC0'?
+>>                * "Courant said that he thinks CC0 is still too
+>>             restrictive of a license, which is why he likes
+>>             using it as a ?backstop?, which the policy does." -> Not
+>>             sure what 'too restrictive' means in this context? Too open?
+>>             Too strong? To legally specific? Anyone know?
+>>
+>>
+>>         I think what they're going for here is that no license should be
+>>         necessary at all because the metadata can't be copyrighted.  I
+>>         suspect they want that to be their primary position, but are
+>>         including CC0 as a fallback/fail-safe.  It's a bit of a nuanced
+>>         position and I could be misreading it, but that's my
+>> interpretation.
+>>
+>>         Tom
+>>
+>>
+>>             J.
+>>
+>>             On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net
+>>             <mailto:lists at kcoyle.net>> wrote:
+>>
+>>                 Open Biblio Folks: much of the discussion in the notes
+>>                 is about licensing of bib data. Perhaps we can read and
+>>                 discuss?
+>>
+>>                 kc
+>>
+>>
+>>                 -------- Original Message --------
+>>                 Subject:        Re: [dpla-discussion] DPLA Board of
+>> Directors
+>>                 call: Thursday, February 14, 1:00 PM EST
+>>                 Date:   Fri, 15 Feb 2013 13:12:16 -0500
+>>                 From:   Kenny Whitebloom
+>>                 <kwhitebloom at cyber.law.**harvard.edu<kwhitebloom at cyber.law.harvard.edu>
+>> >
+>>                 <mailto:kwhitebloom at cyber.law.**harvard.edu<kwhitebloom at cyber.law.harvard.edu>
+>> >
+>>                 Reply-To:       dpla-discussion at eon.law.**harvard.edu<dpla-discussion at eon.law.harvard.edu>
+>>                 <mailto:dpla-discussion at eon.**law.harvard.edu<dpla-discussion at eon.law.harvard.edu>
+>> >
+>>                 To:     dpla-discussion at eon.law.**harvard.edu<dpla-discussion at eon.law.harvard.edu>
+>>                 <mailto:dpla-discussion at eon.**law.harvard.edu<dpla-discussion at eon.law.harvard.edu>
+>> >
+>>
+>>
+>>
+>>
+>>                 Dear all,
+>>
+>>                 Notes from yesterday's Board of Directors call are now
+>>                 available at:
+>>
+>>                 http://dp.la/about/board/**february-14-2013-board-of-**
+>> directors-call/<http://dp.la/about/board/february-14-2013-board-of-directors-call/>
+>>
+>>                 There you will also find the materials discussed during
+>>                 the call. Let us know if you have any questions.
+>>
+>>                 Best,
+>>                 Kenny
+>>
+>>                 On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>
+>>>                 Dear all,
+>>>
+>>>                 The next DPLA Board of Directors call will take place
+>>>                 this Thursday, February 14, at 1 PM EST.  This call is
+>>>                 open to the public; more information is available on
+>>>                 the DPLA website
+>>>                 <http://dp.la/about/february-**
+>>> 14-2013-board-of-directors-**call<http://dp.la/about/february-14-2013-board-of-directors-call>
+>>> >.
+>>>
+>>>                 The conference line is:
+>>>
+>>>                 *Dial-in*: 800-501-8979 <tel:800-501-8979>
+>>>                 *Access Code*: 2739336
+>>>
+>>>
+>>>                 An agenda for the call is attached, along with
+>>>                 supporting materials (also available online
+>>>                 <http://dp.la/about/february-**
+>>> 14-2013-board-of-directors-**call<http://dp.la/about/february-14-2013-board-of-directors-call>
+>>> >).
+>>>
+>>>                  Please don't hesitate to be in touch with any questions.
+>>>
+>>>                 Best,
+>>>                 Kenny
+>>>                 --
+>>>                   Kenny Whitebloom
+>>>                 Berkman Center for Internet & Society
+>>>                 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>>                 617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom
+>>> (skype) |http://cyber.law.harvard.edu
+>>>
+>>
+>>
+>>                 --
+>>                 Kenny Whitebloom
+>>                 Berkman Center for Internet & Society
+>>                 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>                 617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom
+>> (skype) |http://cyber.law.harvard.edu
+>>
+>>
+>>
+>>
+>>
+>>                 ______________________________**_________________
+>>                 open-bibliography mailing list
+>>                 open-bibliography at lists.okfn.**org<open-bibliography at lists.okfn.org>
+>>                 <mailto:open-bibliography@**lists.okfn.org<open-bibliography at lists.okfn.org>
+>> >
+>>
+>>                 http://lists.okfn.org/mailman/**
+>> listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>                 Unsubscribe:
+>>                 http://lists.okfn.org/mailman/**options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>>
+>>
+>>
+>>
+>>             --
+>>             Jonathan Gray <http://jonathangray.org/> | @jwyg
+>>             <http://twitter.com/jwyg>
+>>
+>>             Director of Policy and Ideas
+>>             The Open Knowledge Foundation <http://okfn.org/> | @okfn
+>>             <http://twitter.com/okfn>
+>>             Support our work: okfn.org/support <http://okfn.org/support/>
+>>
+>>
+>>             ______________________________**_________________
+>>             open-bibliography mailing list
+>>             open-bibliography at lists.okfn.**org<open-bibliography at lists.okfn.org>
+>>             <mailto:open-bibliography@**lists.okfn.org<open-bibliography at lists.okfn.org>
+>> >
+>>
+>>             http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>             Unsubscribe:
+>>             http://lists.okfn.org/mailman/**options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>>
+>>
+>>
+>>         ______________________________**_________________
+>>         open-bibliography mailing list
+>>         open-bibliography at lists.okfn.**org<open-bibliography at lists.okfn.org>
+>>         <mailto:open-bibliography@**lists.okfn.org<open-bibliography at lists.okfn.org>
+>> >
+>>
+>>         http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>         Unsubscribe: http://lists.okfn.org/mailman/**
+>> options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>>
+>>
+>>
+>>
+>>     --
+>>     John Price Wilkin
+>>     ExecutiveDirector, HathiTrust
+>>
+>>     Associate University Librarian for Publishing and Technology
+>>     University Library
+>>     818 Hatcher South
+>>     University of Michigan
+>>     Ann Arbor, MI 48109-1205
+>>
+>>
+>>     ______________________________**_________________
+>>     open-bibliography mailing list
+>>     open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+>>     <mailto:open-bibliography@**lists.okfn.org<open-bibliography at lists.okfn.org>
+>> >
+>>
+>>     http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>>     Unsubscribe: http://lists.okfn.org/mailman/**
+>> options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>>
+>>
+>>
+>>
+>>
+>> ______________________________**_________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+>> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+>> Unsubscribe: http://lists.okfn.org/mailman/**options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>>
+>>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> ______________________________**_________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.**org <open-bibliography at lists.okfn.org>
+> http://lists.okfn.org/mailman/**listinfo/open-bibliography<http://lists.okfn.org/mailman/listinfo/open-bibliography>
+> Unsubscribe: http://lists.okfn.org/mailman/**options/open-bibliography<http://lists.okfn.org/mailman/options/open-bibliography>
+>
+
+
+
+-- 
+Jonathan Gray <http://jonathangray.org/> | @jwyg <http://twitter.com/jwyg>
+Director of Policy and Ideas
+The Open Knowledge Foundation <http://okfn.org/> |
+@okfn<http://twitter.com/okfn>
+Support our work: okfn.org/support
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130217/535d0509/attachment-0001.htm>
+
+From adrian.pohl at okfn.org  Mon Feb 18 14:24:44 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 18 Feb 2013 15:24:44 +0100
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAELjFBvkF1tPTnQrKPE74WApxbWSOevNy1Xr80K9f5Bmmvr_3Q@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+	<CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+	<CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+	<CAJeHiNEVMU4bFXszerwPiriAt5jV7AptHwmyX3AcNAyRTyUkYw@mail.gmail.com>
+	<511FE97A.5000605@kcoyle.net>
+	<CAELjFBvkF1tPTnQrKPE74WApxbWSOevNy1Xr80K9f5Bmmvr_3Q@mail.gmail.com>
+Message-ID: <CAOtd05G8zK25gwmWeoEy-+=njYxrCyEX5UWkAdp6LkBf-NHXww@mail.gmail.com>
+
+In January, Joris already published a post "Digital Public Library of
+America recommends CC0" both at the OpenGLAM blog[1] and at the main
+OKF blog[2]. Though the new policy draft is more detailed, there
+doesn't seem to be a significant change in content compared to the
+January version of a draft DPLA metadata policy. Thus, I'd say there
+is no need for another blog post. (Hope, you haven't started writing
+yet, Karen.)
+
+All the best
+Adrian
+
+[1] http://openglam.org/2013/01/21/digital-public-library-of-america-recommends-cc0/
+
+[2] http://blog.okfn.org/2013/01/22/digital-public-library-of-america-recommends-cc0/
+
+On 17 February 2013 11:33, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> That would be great Karen! If you framed this for a general audience
+> (explaining background and why this is important) we could run it on the
+> main OKF blog...
+>
+>
+> On 16 February 2013 21:18, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>>
+>> I think this is worthy of a blog post. Would you like me to start a draft,
+>> and I can run that by the list before posting (I can't remember if I can
+>> post, but Adrian can).
+>>
+>> BTW, #4 is:
+>>
+>> 04.     Free and Unencumbered Access to Metadata.
+>>
+>> Given the purposes of the policy and the copyright status of the metadata,
+>> and pursuant to the DPLA?s terms of service, the DPLA?s users are free to
+>> harvest, collect, modify, and/or otherwise use any metadata contained in the
+>> DPLA.
+>>
+>> [thunderous applause]
+>>
+>> kc
+>>
+>>
+>> On 2/16/13 10:26 AM, Tom Johnson wrote:
+>>>
+>>> This was my impression as well.
+>>>
+>>>> Does anyone know (or can anyone work out) whether CC0 will be a
+>>>
+>>> requirement for all metadata in DPLA?
+>>>
+>>> This is an important question which may have been a bit ambiguous in the
+>>> original statement. The revised statement is clear:
+>>>
+>>> "The DPLA?s partners agree that the vast majority of metadata is not
+>>> subject to copyright. To the extent that metadata provided by the DPLA?s
+>>> partners may be protected by copyright, however, those partners have
+>>> agreed to dedicate such metadata to the public domain pursuant to a CC0
+>>> license. /This means that any raw metadata imported into the DPLA, which
+>>> is protected by copyright, is provided under a CC0 license." /[emphasis
+>>>
+>>> in original]
+>>>
+>>> Under the statement as written, not only do contributing institutions
+>>> agree to release their metadata as CC0 via DPLA, but there is an
+>>> implicit agreement not to argue any copyright interest at all. I think
+>>> the addition of point 4 is a nice touch as well. It doesn't add anything
+>>> new, but it's a nice human readable summary clarifying the spirit of the
+>>> policy.
+>>>
+>>> It's an excellent statement and I think we should do what we can to make
+>>> sure that this multi-pronged approach is adopted by other large
+>>> institutions.
+>>>
+>>> Oregon State University is in the process of discussing similar language
+>>> with our legal department to apply to our published datasets.
+>>>
+>>> - Tom
+>>>
+>>>
+>>> On Sat, Feb 16, 2013 at 6:52 AM, John Wilkin <jpwilkin at umich.edu
+>>> <mailto:jpwilkin at umich.edu>> wrote:
+>>>
+>>>     I'm not a DPLA insider, either, but I'm close enough to say with
+>>>     confidence that Tom's read of the intent, outlined in his paragraph
+>>>     that starts with "I think what they're going for here," is exactly
+>>>     right and nicely characterized.
+>>>
+>>>
+>>>     On Sat, Feb 16, 2013 at 9:16 AM, Tom Morris <tfmorris at gmail.com
+>>>     <mailto:tfmorris at gmail.com>> wrote:
+>>>
+>>>         On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray
+>>>         <jonathan.gray at okfn.org <mailto:jonathan.gray at okfn.org>> wrote:
+>>>
+>>>             Thanks Karen. Great it sounds like they are adopting a
+>>>             policy which include CC0. Does anyone know (or can anyone
+>>>             work out) whether CC0 will be a requirement for all metadata
+>>>             in DPLA?
+>>>
+>>>
+>>>         I'm not a DPLA insider, but my reading is that all contributing
+>>>         institutions will be required to contribute anything
+>>>         copyrightable under a CC0 license.
+>>>
+>>>             Two bits that I find quite bizarre:
+>>>
+>>>                * "Gore pointed out that in her experience working with
+>>>             prospective data-providers, most cultural heritage
+>>>             institutions are comfortable with the idea that the vast
+>>>             majority of metadata is not copyrightable" -> Presumably
+>>>             talking mainly about US GLAM institutions. Is this true? And
+>>>             does 'not copyrightable' equate to 'happy to release in bulk
+>>>             under CC0'?
+>>>                * "Courant said that he thinks CC0 is still too
+>>>             restrictive of a license, which is why he likes
+>>>             using it as a ?backstop?, which the policy does." -> Not
+>>>             sure what 'too restrictive' means in this context? Too open?
+>>>             Too strong? To legally specific? Anyone know?
+>>>
+>>>
+>>>         I think what they're going for here is that no license should be
+>>>         necessary at all because the metadata can't be copyrighted.  I
+>>>         suspect they want that to be their primary position, but are
+>>>         including CC0 as a fallback/fail-safe.  It's a bit of a nuanced
+>>>         position and I could be misreading it, but that's my
+>>> interpretation.
+>>>
+>>>         Tom
+>>>
+>>>
+>>>             J.
+>>>
+>>>             On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net
+>>>             <mailto:lists at kcoyle.net>> wrote:
+>>>
+>>>                 Open Biblio Folks: much of the discussion in the notes
+>>>                 is about licensing of bib data. Perhaps we can read and
+>>>                 discuss?
+>>>
+>>>                 kc
+>>>
+>>>
+>>>                 -------- Original Message --------
+>>>                 Subject:        Re: [dpla-discussion] DPLA Board of
+>>> Directors
+>>>                 call: Thursday, February 14, 1:00 PM EST
+>>>                 Date:   Fri, 15 Feb 2013 13:12:16 -0500
+>>>                 From:   Kenny Whitebloom
+>>>                 <kwhitebloom at cyber.law.harvard.edu>
+>>>                 <mailto:kwhitebloom at cyber.law.harvard.edu>
+>>>                 Reply-To:       dpla-discussion at eon.law.harvard.edu
+>>>                 <mailto:dpla-discussion at eon.law.harvard.edu>
+>>>                 To:     dpla-discussion at eon.law.harvard.edu
+>>>                 <mailto:dpla-discussion at eon.law.harvard.edu>
+>>>
+>>>
+>>>
+>>>
+>>>                 Dear all,
+>>>
+>>>                 Notes from yesterday's Board of Directors call are now
+>>>                 available at:
+>>>
+>>>
+>>> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>>>
+>>>                 There you will also find the materials discussed during
+>>>                 the call. Let us know if you have any questions.
+>>>
+>>>                 Best,
+>>>                 Kenny
+>>>
+>>>                 On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>>>
+>>>>                 Dear all,
+>>>>
+>>>>                 The next DPLA Board of Directors call will take place
+>>>>                 this Thursday, February 14, at 1 PM EST.  This call is
+>>>>                 open to the public; more information is available on
+>>>>                 the DPLA website
+>>>>
+>>>> <http://dp.la/about/february-14-2013-board-of-directors-call>.
+>>>>
+>>>>                 The conference line is:
+>>>>
+>>>>                 *Dial-in*: 800-501-8979 <tel:800-501-8979>
+>>>>                 *Access Code*: 2739336
+>>>>
+>>>>
+>>>>                 An agenda for the call is attached, along with
+>>>>                 supporting materials (also available online
+>>>>
+>>>> <http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>>>
+>>>>                  Please don't hesitate to be in touch with any
+>>>> questions.
+>>>>
+>>>>                 Best,
+>>>>                 Kenny
+>>>>                 --
+>>>>                   Kenny Whitebloom
+>>>>                 Berkman Center for Internet & Society
+>>>>                 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>>>                 617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom
+>>>> (skype) |http://cyber.law.harvard.edu
+>>>
+>>>
+>>>
+>>>                 --
+>>>                 Kenny Whitebloom
+>>>                 Berkman Center for Internet & Society
+>>>                 23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>>                 617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom
+>>> (skype) |http://cyber.law.harvard.edu
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>                 _______________________________________________
+>>>                 open-bibliography mailing list
+>>>                 open-bibliography at lists.okfn.org
+>>>                 <mailto:open-bibliography at lists.okfn.org>
+>>>
+>>>                 http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>                 Unsubscribe:
+>>>                 http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>>
+>>>
+>>>             --
+>>>             Jonathan Gray <http://jonathangray.org/> | @jwyg
+>>>             <http://twitter.com/jwyg>
+>>>
+>>>             Director of Policy and Ideas
+>>>             The Open Knowledge Foundation <http://okfn.org/> | @okfn
+>>>             <http://twitter.com/okfn>
+>>>             Support our work: okfn.org/support <http://okfn.org/support/>
+>>>
+>>>
+>>>             _______________________________________________
+>>>             open-bibliography mailing list
+>>>             open-bibliography at lists.okfn.org
+>>>             <mailto:open-bibliography at lists.okfn.org>
+>>>
+>>>             http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>             Unsubscribe:
+>>>             http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>>
+>>>         _______________________________________________
+>>>         open-bibliography mailing list
+>>>         open-bibliography at lists.okfn.org
+>>>         <mailto:open-bibliography at lists.okfn.org>
+>>>
+>>>         http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>         Unsubscribe:
+>>> http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>>
+>>>
+>>>     --
+>>>     John Price Wilkin
+>>>     ExecutiveDirector, HathiTrust
+>>>
+>>>     Associate University Librarian for Publishing and Technology
+>>>     University Library
+>>>     818 Hatcher South
+>>>     University of Michigan
+>>>     Ann Arbor, MI 48109-1205
+>>>
+>>>
+>>>     _______________________________________________
+>>>     open-bibliography mailing list
+>>>     open-bibliography at lists.okfn.org
+>>>     <mailto:open-bibliography at lists.okfn.org>
+>>>
+>>>     http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>     Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> ph: 1-510-540-7596
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+>
+>
+>
+> --
+> Jonathan Gray | @jwyg
+> Director of Policy and Ideas
+> The Open Knowledge Foundation | @okfn
+> Support our work: okfn.org/support
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+From kcoyle at kcoyle.net  Mon Feb 18 15:12:37 2013
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 18 Feb 2013 07:12:37 -0800
+Subject: [open-bibliography] Fwd: Re: [dpla-discussion] DPLA Board of
+ Directors call: Thursday, February 14, 1:00 PM EST
+In-Reply-To: <CAOtd05G8zK25gwmWeoEy-+=njYxrCyEX5UWkAdp6LkBf-NHXww@mail.gmail.com>
+References: <511E7A80.4040103@cyber.law.harvard.edu>
+	<511EB49E.3090903@kcoyle.net>
+	<CAELjFBuNrX90Qcb4qUDT_Lh796316bx_dVdmV_QgQOOEjpVAcg@mail.gmail.com>
+	<CAE9vqEECHEXCcnyPkhmvTZe_5np=+dyxTT0MXcnga+o9Q=a+-A@mail.gmail.com>
+	<CAG5sEj9H=pkvr7U0tQ2NdTtt_K1T-b7ieSBTFGVu8g3BnRdUhA@mail.gmail.com>
+	<CAJeHiNEVMU4bFXszerwPiriAt5jV7AptHwmyX3AcNAyRTyUkYw@mail.gmail.com>
+	<511FE97A.5000605@kcoyle.net>
+	<CAELjFBvkF1tPTnQrKPE74WApxbWSOevNy1Xr80K9f5Bmmvr_3Q@mail.gmail.com>
+	<CAOtd05G8zK25gwmWeoEy-+=njYxrCyEX5UWkAdp6LkBf-NHXww@mail.gmail.com>
+Message-ID: <512244E5.8070108@kcoyle.net>
+
+Thanks, Adrian. I hadn't started writing, but now I can write it for a 
+different venue where I have an article due. Yeah! :-)
+
+kc
+
+On 2/18/13 6:24 AM, Adrian Pohl wrote:
+> In January, Joris already published a post "Digital Public Library of
+> America recommends CC0" both at the OpenGLAM blog[1] and at the main
+> OKF blog[2]. Though the new policy draft is more detailed, there
+> doesn't seem to be a significant change in content compared to the
+> January version of a draft DPLA metadata policy. Thus, I'd say there
+> is no need for another blog post. (Hope, you haven't started writing
+> yet, Karen.)
+>
+> All the best
+> Adrian
+>
+> [1] http://openglam.org/2013/01/21/digital-public-library-of-america-recommends-cc0/
+>
+> [2] http://blog.okfn.org/2013/01/22/digital-public-library-of-america-recommends-cc0/
+>
+> On 17 February 2013 11:33, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>> That would be great Karen! If you framed this for a general audience
+>> (explaining background and why this is important) we could run it on the
+>> main OKF blog...
+>>
+>>
+>> On 16 February 2013 21:18, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>>>
+>>> I think this is worthy of a blog post. Would you like me to start a draft,
+>>> and I can run that by the list before posting (I can't remember if I can
+>>> post, but Adrian can).
+>>>
+>>> BTW, #4 is:
+>>>
+>>> 04.     Free and Unencumbered Access to Metadata.
+>>>
+>>> Given the purposes of the policy and the copyright status of the metadata,
+>>> and pursuant to the DPLA?s terms of service, the DPLA?s users are free to
+>>> harvest, collect, modify, and/or otherwise use any metadata contained in the
+>>> DPLA.
+>>>
+>>> [thunderous applause]
+>>>
+>>> kc
+>>>
+>>>
+>>> On 2/16/13 10:26 AM, Tom Johnson wrote:
+>>>>
+>>>> This was my impression as well.
+>>>>
+>>>>> Does anyone know (or can anyone work out) whether CC0 will be a
+>>>>
+>>>> requirement for all metadata in DPLA?
+>>>>
+>>>> This is an important question which may have been a bit ambiguous in the
+>>>> original statement. The revised statement is clear:
+>>>>
+>>>> "The DPLA?s partners agree that the vast majority of metadata is not
+>>>> subject to copyright. To the extent that metadata provided by the DPLA?s
+>>>> partners may be protected by copyright, however, those partners have
+>>>> agreed to dedicate such metadata to the public domain pursuant to a CC0
+>>>> license. /This means that any raw metadata imported into the DPLA, which
+>>>> is protected by copyright, is provided under a CC0 license." /[emphasis
+>>>>
+>>>> in original]
+>>>>
+>>>> Under the statement as written, not only do contributing institutions
+>>>> agree to release their metadata as CC0 via DPLA, but there is an
+>>>> implicit agreement not to argue any copyright interest at all. I think
+>>>> the addition of point 4 is a nice touch as well. It doesn't add anything
+>>>> new, but it's a nice human readable summary clarifying the spirit of the
+>>>> policy.
+>>>>
+>>>> It's an excellent statement and I think we should do what we can to make
+>>>> sure that this multi-pronged approach is adopted by other large
+>>>> institutions.
+>>>>
+>>>> Oregon State University is in the process of discussing similar language
+>>>> with our legal department to apply to our published datasets.
+>>>>
+>>>> - Tom
+>>>>
+>>>>
+>>>> On Sat, Feb 16, 2013 at 6:52 AM, John Wilkin <jpwilkin at umich.edu
+>>>> <mailto:jpwilkin at umich.edu>> wrote:
+>>>>
+>>>>      I'm not a DPLA insider, either, but I'm close enough to say with
+>>>>      confidence that Tom's read of the intent, outlined in his paragraph
+>>>>      that starts with "I think what they're going for here," is exactly
+>>>>      right and nicely characterized.
+>>>>
+>>>>
+>>>>      On Sat, Feb 16, 2013 at 9:16 AM, Tom Morris <tfmorris at gmail.com
+>>>>      <mailto:tfmorris at gmail.com>> wrote:
+>>>>
+>>>>          On Sat, Feb 16, 2013 at 8:16 AM, Jonathan Gray
+>>>>          <jonathan.gray at okfn.org <mailto:jonathan.gray at okfn.org>> wrote:
+>>>>
+>>>>              Thanks Karen. Great it sounds like they are adopting a
+>>>>              policy which include CC0. Does anyone know (or can anyone
+>>>>              work out) whether CC0 will be a requirement for all metadata
+>>>>              in DPLA?
+>>>>
+>>>>
+>>>>          I'm not a DPLA insider, but my reading is that all contributing
+>>>>          institutions will be required to contribute anything
+>>>>          copyrightable under a CC0 license.
+>>>>
+>>>>              Two bits that I find quite bizarre:
+>>>>
+>>>>                 * "Gore pointed out that in her experience working with
+>>>>              prospective data-providers, most cultural heritage
+>>>>              institutions are comfortable with the idea that the vast
+>>>>              majority of metadata is not copyrightable" -> Presumably
+>>>>              talking mainly about US GLAM institutions. Is this true? And
+>>>>              does 'not copyrightable' equate to 'happy to release in bulk
+>>>>              under CC0'?
+>>>>                 * "Courant said that he thinks CC0 is still too
+>>>>              restrictive of a license, which is why he likes
+>>>>              using it as a ?backstop?, which the policy does." -> Not
+>>>>              sure what 'too restrictive' means in this context? Too open?
+>>>>              Too strong? To legally specific? Anyone know?
+>>>>
+>>>>
+>>>>          I think what they're going for here is that no license should be
+>>>>          necessary at all because the metadata can't be copyrighted.  I
+>>>>          suspect they want that to be their primary position, but are
+>>>>          including CC0 as a fallback/fail-safe.  It's a bit of a nuanced
+>>>>          position and I could be misreading it, but that's my
+>>>> interpretation.
+>>>>
+>>>>          Tom
+>>>>
+>>>>
+>>>>              J.
+>>>>
+>>>>              On 15 February 2013 23:20, Karen Coyle <lists at kcoyle.net
+>>>>              <mailto:lists at kcoyle.net>> wrote:
+>>>>
+>>>>                  Open Biblio Folks: much of the discussion in the notes
+>>>>                  is about licensing of bib data. Perhaps we can read and
+>>>>                  discuss?
+>>>>
+>>>>                  kc
+>>>>
+>>>>
+>>>>                  -------- Original Message --------
+>>>>                  Subject:        Re: [dpla-discussion] DPLA Board of
+>>>> Directors
+>>>>                  call: Thursday, February 14, 1:00 PM EST
+>>>>                  Date:   Fri, 15 Feb 2013 13:12:16 -0500
+>>>>                  From:   Kenny Whitebloom
+>>>>                  <kwhitebloom at cyber.law.harvard.edu>
+>>>>                  <mailto:kwhitebloom at cyber.law.harvard.edu>
+>>>>                  Reply-To:       dpla-discussion at eon.law.harvard.edu
+>>>>                  <mailto:dpla-discussion at eon.law.harvard.edu>
+>>>>                  To:     dpla-discussion at eon.law.harvard.edu
+>>>>                  <mailto:dpla-discussion at eon.law.harvard.edu>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>                  Dear all,
+>>>>
+>>>>                  Notes from yesterday's Board of Directors call are now
+>>>>                  available at:
+>>>>
+>>>>
+>>>> http://dp.la/about/board/february-14-2013-board-of-directors-call/
+>>>>
+>>>>                  There you will also find the materials discussed during
+>>>>                  the call. Let us know if you have any questions.
+>>>>
+>>>>                  Best,
+>>>>                  Kenny
+>>>>
+>>>>                  On 2/11/2013 2:19 PM, Kenny Whitebloom wrote:
+>>>>>
+>>>>>                  Dear all,
+>>>>>
+>>>>>                  The next DPLA Board of Directors call will take place
+>>>>>                  this Thursday, February 14, at 1 PM EST.  This call is
+>>>>>                  open to the public; more information is available on
+>>>>>                  the DPLA website
+>>>>>
+>>>>> <http://dp.la/about/february-14-2013-board-of-directors-call>.
+>>>>>
+>>>>>                  The conference line is:
+>>>>>
+>>>>>                  *Dial-in*: 800-501-8979 <tel:800-501-8979>
+>>>>>                  *Access Code*: 2739336
+>>>>>
+>>>>>
+>>>>>                  An agenda for the call is attached, along with
+>>>>>                  supporting materials (also available online
+>>>>>
+>>>>> <http://dp.la/about/february-14-2013-board-of-directors-call>).
+>>>>>
+>>>>>                   Please don't hesitate to be in touch with any
+>>>>> questions.
+>>>>>
+>>>>>                  Best,
+>>>>>                  Kenny
+>>>>>                  --
+>>>>>                    Kenny Whitebloom
+>>>>>                  Berkman Center for Internet & Society
+>>>>>                  23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>>>>                  617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom
+>>>>> (skype) |http://cyber.law.harvard.edu
+>>>>
+>>>>
+>>>>
+>>>>                  --
+>>>>                  Kenny Whitebloom
+>>>>                  Berkman Center for Internet & Society
+>>>>                  23 Everett Street, 2nd Floor, Cambridge, MA 02138
+>>>>                  617-384-9107  <tel:617-384-9107>  | kenneth.whitebloom
+>>>> (skype) |http://cyber.law.harvard.edu
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>                  _______________________________________________
+>>>>                  open-bibliography mailing list
+>>>>                  open-bibliography at lists.okfn.org
+>>>>                  <mailto:open-bibliography at lists.okfn.org>
+>>>>
+>>>>                  http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>                  Unsubscribe:
+>>>>                  http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>              --
+>>>>              Jonathan Gray <http://jonathangray.org/> | @jwyg
+>>>>              <http://twitter.com/jwyg>
+>>>>
+>>>>              Director of Policy and Ideas
+>>>>              The Open Knowledge Foundation <http://okfn.org/> | @okfn
+>>>>              <http://twitter.com/okfn>
+>>>>              Support our work: okfn.org/support <http://okfn.org/support/>
+>>>>
+>>>>
+>>>>              _______________________________________________
+>>>>              open-bibliography mailing list
+>>>>              open-bibliography at lists.okfn.org
+>>>>              <mailto:open-bibliography at lists.okfn.org>
+>>>>
+>>>>              http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>              Unsubscribe:
+>>>>              http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>>
+>>>>          _______________________________________________
+>>>>          open-bibliography mailing list
+>>>>          open-bibliography at lists.okfn.org
+>>>>          <mailto:open-bibliography at lists.okfn.org>
+>>>>
+>>>>          http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>          Unsubscribe:
+>>>> http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>      --
+>>>>      John Price Wilkin
+>>>>      ExecutiveDirector, HathiTrust
+>>>>
+>>>>      Associate University Librarian for Publishing and Technology
+>>>>      University Library
+>>>>      818 Hatcher South
+>>>>      University of Michigan
+>>>>      Ann Arbor, MI 48109-1205
+>>>>
+>>>>
+>>>>      _______________________________________________
+>>>>      open-bibliography mailing list
+>>>>      open-bibliography at lists.okfn.org
+>>>>      <mailto:open-bibliography at lists.okfn.org>
+>>>>
+>>>>      http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>>      Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> open-bibliography mailing list
+>>>> open-bibliography at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>>>
+>>>
+>>> --
+>>> Karen Coyle
+>>> kcoyle at kcoyle.net http://kcoyle.net
+>>> ph: 1-510-540-7596
+>>> m: 1-510-435-8234
+>>> skype: kcoylenet
+>>>
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray | @jwyg
+>> Director of Policy and Ideas
+>> The Open Knowledge Foundation | @okfn
+>> Support our work: okfn.org/support
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+From velichka.dimitrova at okfn.org  Mon Feb 18 23:47:28 2013
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Mon, 18 Feb 2013 23:47:28 +0000
+Subject: [open-bibliography] =?windows-1252?q?Looking_again_at_=93Big_Deal?=
+	=?windows-1252?q?=94_scholarly_journal_packages?=
+Message-ID: <CAFg0Au5ALCoVDQOm3wqSPDFK7S=e0qB8F5NcuAcVeMJ9H3wC2w@mail.gmail.com>
+
+Dear all,
+
+Today Joshua Gans, Professor of Strategic Management and member of the Open
+Economics Advisory Panel writes about the "Big Deal" packages in publishing:
+
+http://openeconomics.net/2013/02/18/looking-again-at-big-deal-scholarly-journal-packages/
+
+Based on the results of
+Odlyzko<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2211874>,
+there is evidence for increased availability of journals as the marginal
+cost of providing an additional journal to libraries is zero in the
+publishers' bundles.
+
+There are however "wrinkles to all of this" - libraries are being squeezed
+as eventhough the share spent on publisher deals has increased, their
+overall budgets have shrunk. There is also an argument that publishers have
+now transferred the functions of libraries (as well as the libraries'
+money) to themselves.
+
+
+
+Velichka Dimitrova
+Open Economics Project Coordinator
+Open Knowledge Foundation
+http://okfn.org | http://openeconomics.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130218/f13377c9/attachment-0001.htm>
+
+From f.j.mcneill at ed.ac.uk  Tue Feb 26 10:18:03 2013
+From: f.j.mcneill at ed.ac.uk (Fiona McNeill)
+Date: Tue, 26 Feb 2013 10:18:03 +0000
+Subject: [open-bibliography] 2nd UK Ontology Network Meeting: Registration
+	Open
+Message-ID: <CAFvquW-cmyo6E2ZMOgM_FVoR1+FCscjHfyyfmebVunfJ1b+igA@mail.gmail.com>
+
+Apologies for cross-posting
+
+Registration is now open for the 2nd UK Ontology Network Meeting, which
+will be held at the University of Edinburgh on April 11th 2013.
+Registration will be ?20 to cover catering.
+
+Registration and a provisional programme are now available on the event
+website:
+http://dream.inf.ed.ac.uk/events/ukont-13/2013_workshop_program.html.
+
+The theme of this meeting is *to understand how ontology development and
+application are being used to address problems* in the UK. Amongst other
+areas of interest, there will be a particular focus on creating and using *open
+data*. The program and audience is intentionally very diverse; the aim is
+to cover areas from many disciplines. We are particularly interested in
+bringing together those creating and developing the technology with those
+using the technology in industry, government and public organisations.
+
+There will be 18 short talks from leading academics, and practitioners from
+major organisations and government, as well as a demo session and a
+networking session.
+
+We hope to see many of you in Edinburgh in April.  Please forward this
+email to any individuals and mailing lists you think it might be of
+interest to.
+
+Many thanks,
+Fiona
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130226/dff8137b/attachment.htm>
+
+From announce at dublincore.net  Thu Feb 28 18:19:49 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Thu, 28 Feb 2013 10:19:49 -0800
+Subject: [open-bibliography] 2nd Announcement: DC-2013 call for participation
+Message-ID: <CAP884ExTczPezuQhaFUOFepjw7NB_-HwJFAZbjeAsN4dwm2ONg@mail.gmail.com>
+
+*** Please excuse the cross-posting ***
+
+"LINKING TO THE FUTURE"
+International Conference on Dublin Core and Metadata Applications
+2-6 September 2013, Lisbon, Portugal
+
+=============================================
+2nd ANNOUNCEMENT: DC-2013 CALL FOR PARTICIPATION
+=============================================
+
+DC-2013 will explore questions regarding the persistence, maintenance, and
+preservation of metadata and descriptive vocabularies. The need for stable
+representations and descriptions spans all sectors including cultural
+heritage and scientific data, eGovernment, finance and commerce. Thus, the
+maintenance and management of metadata is essential to address the long
+term availability of information of legal, cultural and economic value.  On
+the web, data?and especially descriptive vocabularies?can change or vanish
+from one moment to the next. Nonetheless, the web increasingly forms the
+ecosystem for our vocabularies and our data. DC-2013 will bring together in
+Lisbon the community of metadata scholars and practitioners to engage in
+the exchange of knowledge and best practices in developing a sustainable
+metadata ecosystem.
+
+DC-2013 will be collocated and run simultaneous with iPRES 2013 providing a
+rich environment for synergistic exploration of issues common to both
+communities.
+
+=============================================
+IMPORTANT DEADLINES & DATES:
+--SUBMISSION DEADLINE: 29 March 2013
+--AUTHOR NOTIFICATION: 7 June 2013
+--FINAL COPY: 5 July 2013
+---------------------------------------------
+IMPORTANT URLS:
+--ONLINE CFP: http://purl.org/dcevents/dc-2013/cfp
+--CONFERENCE WEBSITE: http://purl.org/dcevents/dc-2013
+--SUBMISSION URL:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/author/submit?requiresAuthor=1
+--ORGANIZING COMMITTEE:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/about/organizingTeam
+=============================================
+
+Beyond the conference theme, papers, reports, and poster submissions are
+welcome on a wide range of metadata topics, such as:
+
+-- Metadata principles, guidelines, and best practices
+-- Metadata quality (methods, tools, and practices)
+-- Conceptual models and frameworks (e.g., RDF, DCAM, OAIS)
+-- Application profiles
+-- Metadata generation (methods, tools, and practices)
+-- Metadata interoperability across domains, languages,
+   time, structures, and scales.
+-- Cross-domain metadata uses (e.g., recordkeeping, preservation,
+   curation, institutional repositories, publishing)
+-- Domain metadata (e.g., for corporations, cultural memory
+   institutions, education, government, and scientific fields)
+-- Bibliographic standards (e.g., RDA, FRBR, subject headings)
+   as Semantic Web vocabularies
+-- Accessibility metadata
+-- Metadata for scientific data, e-Science and grid applications
+-- Social tagging and user participation in building metadata
+-- Usage data (paradata/attention metadata)
+-- Knowledge Organization Systems (e.g., ontologies, taxonomies,
+   authority files, folksonomies, and thesauri) and Simple Knowledge
+   Organization Systems (SKOS)
+-- Ontology design and development
+-- Integration of metadata and ontologies
+-- Search engines and metadata
+-- Linked data and the Semantic Web (metadata and applications)
+-- Vocabulary registries and registry services
+
+---------------------------------------------
+SUBMISSIONS
+
+--All submissions must be in English.
+--All submissions will be peer-reviewed by the International Program
+Committee.
+--Unless previously arranged, accepted papers, project reports and posters
+must be presented in Lisbon by at least one of their authors.
+
+Submissions for Asynchronous Participation:  With prior arrangement, a few
+exceptional papers, project reports and extended poster abstracts will be
+accepted for asynchronous presentation by their authors. Submissions
+accepted for asynchronous presentation must follow both the general author
+guidelines for submission as well as additional instructions located at
+http://dcevents.dublincore.org/IntConf/index/pages/view/remote.
+
+---------------------------------------------
+PUBLICATION
+
+-- Accepted papers, project reports and poster abstracts will be published
+in the permanent online conference proceedings and in DCMI Publications (
+http://dcpapers.dublincore.org/).
+-- Special session and community workshop session abstracts will be
+published in the online conference proceedings.
+-- Papers, research reports and poster abstracts must conform to the
+appropriate formatting template available through the DCMI Peer Review
+System.
+-- Submitting authors in all categories must provide basic information
+regarding current professional positions and affiliations as a condition of
+acceptance and publication.
+
+---------------------------------------------
+SUBMISSION CATEGORIES
+
+FULL PAPERS (8-10 pages; Peer reviewed): Full papers either describe
+innovative work in detail or provide critical, well-referenced overviews of
+key developments or good practice in the areas outlined above. Full papers
+will be assessed using the following criteria:
+
+(1) Originality of the approach to the topic and potential for
+implementation
+(2) Quality of the contribution to the implementation community
+(3) Significance of the results presented
+(4) Clarity of presentation
+
+PROJECT REPORTS (4-5 pages; Peer reviewed): Project reports describe a
+specific model, application, or activity in a concise presentation. Project
+reports will be assessed using the following criteria:
+
+(1) Conciseness and completeness of technical description
+(2) Usability of the technical description by other potential implementers
+(3) Clarity of presentation
+
+POSTERS (1-2 pages; Peer reviewed): Posters are for the presentation of
+projects or research under development or late-breaking results. Poster
+submission should consist of a one-two page extended abstract.  Posters
+will be assessed using the following criteria:
+
+(1) Concise statement of research or project goals and milestones
+(2) Significance of the research or project
+(3) Framing of key barriers and future research
+(4) Statement of results and accomplishments
+(5) Clarity of presentation
+
+One or more sessions will be scheduled for display and discussion of
+posters at the conference venue. Instructions on the preparation of the
+display poster can be found at
+http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/posterAuthors
+.
+
+SPECIAL & PANEL SESSIONS: Special and panel sessions are organized by
+experts in a specific area of metadata. Each special session serves as a
+focused exchange of the latest research and/or best practice in the area. A
+proposal for a special session consists of a single document of
+approximately 800-1,200 words in length containing:
+
+--Session title
+--35-50 word abstract for use in promoting the session
+--Brief description of the scope and motivation for the session
+--Names and brief CVs of session facilitators, presenters, or panelists
+--Brief CVs of the organizers
+
+DCMI COMMUNITY & TASK GROUP WORKSHOP SESSIONS: DCMI Community Workshop &
+Task Group Sessions are intended to: (1) advance the specific work of DCMI
+entities as defined at http://dublincore.org/groups/#communities; and (2)
+to set the work agenda for the Community or Task Group for the coming year.
+Note: Communities wanting to present a special session or a panel in the
+area of the Community's interest should submit a proposal under Special &
+Panel Sessions above.
+
+---------------------------------------------
+PROGRAM COMMITTEE CO-CHAIRS
+Kai Eckert
+--Research Group Data and Web Science, University of Mannheim, Germany
+Muriel Foulonneau
+--Knowledge Intensive Systems and Services, Tudor Research Centre,
+Luxembourg
+
+ORGANIZING COMMITTEE:
+http://dcevents.dublincore.org/index.php/IntConf/dc-2013/about/organizingTeam
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130228/a5b2806e/attachment.htm>
+

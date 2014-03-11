@@ -1,0 +1,2319 @@
+From metazool at gmail.com  Fri Jun  3 12:37:42 2011
+From: metazool at gmail.com (Jo Walsh)
+Date: Fri, 3 Jun 2011 12:37:42 +0100
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <BANLkTikzC+jmJ6Wfu4JLSzWHATWKVEzTjg@mail.gmail.com>
+References: <BANLkTikzC+jmJ6Wfu4JLSzWHATWKVEzTjg@mail.gmail.com>
+Message-ID: <BANLkTi=jE5SmbjH9b8dFGL96zZ0kgzVnUQ@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: "Jo Walsh" <metazool at gmail.com>
+Date: 3 Jun 2011 11:53
+Subject: OCLC ODbL?
+To: <open-bibliography at lists.okfn.org>
+
+Hello - sorry if i've missed this in the digest, but i just saw on
+"Twitter" that OCLC is releasing 1M bibliographic records as Linked
+Data using the ODbL license.
+
+http://twitter.com/#!/psychemedia/status/76580909683445760
+
+What's the story?
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110603/90948a62/attachment.htm>
+
+From owen at ostephens.com  Fri Jun  3 12:52:45 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Fri, 3 Jun 2011 12:52:45 +0100
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <BANLkTi=jE5SmbjH9b8dFGL96zZ0kgzVnUQ@mail.gmail.com>
+References: <BANLkTikzC+jmJ6Wfu4JLSzWHATWKVEzTjg@mail.gmail.com>
+	<BANLkTi=jE5SmbjH9b8dFGL96zZ0kgzVnUQ@mail.gmail.com>
+Message-ID: <991A4AEF-09E1-47AE-A09F-636D9CCFC5EB@ostephens.com>
+
+This came from a tweet from David Weinberger who is attending the current LOD-LAM conference in SF - apparently Roy Tennant stated this as part of a v short (2 minute) talk - see http://www.hyperorg.com/blogger/2011/06/02/oclc-to-release-1-million-book-records/ from David.
+
+Owen
+
+Owen Stephens
+Owen Stephens Consulting
+Web: http://www.ostephens.com
+Email: owen at ostephens.com
+Telephone: 0121 288 6936
+
+On 3 Jun 2011, at 12:37, Jo Walsh wrote:
+
+> 
+>> ---------- Forwarded message ----------
+>> From: "Jo Walsh" <metazool at gmail.com>
+>> Date: 3 Jun 2011 11:53
+>> Subject: OCLC ODbL?
+>> To: <open-bibliography at lists.okfn.org>
+>> 
+>> Hello - sorry if i've missed this in the digest, but i just saw on
+>> "Twitter" that OCLC is releasing 1M bibliographic records as Linked
+>> Data using the ODbL license.
+>> 
+>> http://twitter.com/#!/psychemedia/status/76580909683445760
+>> 
+>> What's the story?
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110603/037e9c98/attachment.htm>
+
+From mjr at phonecoop.coop  Fri Jun  3 12:54:15 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Fri,  3 Jun 2011 12:54:15 +0100 (BST)
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <BANLkTi=jE5SmbjH9b8dFGL96zZ0kgzVnUQ@mail.gmail.com>
+Message-ID: <20110603115415.CA2EA9F0D2@nail.towers.org.uk>
+
+"Jo Walsh" <metazool at gmail.com> asked:
+> Hello - sorry if i've missed this in the digest, but i just saw on
+> "Twitter" that OCLC is releasing 1M bibliographic records as Linked
+> Data using the ODbL license.
+> 
+> http://twitter.com/#!/psychemedia/status/76580909683445760
+> 
+> What's the story?
+
+The thread starts
+http://lists.okfn.org/pipermail/open-bibliography/2011-May/000983.html
+and basically it's not as good as it seems.  ODbL but still restrictive
+usage policy, AIUI.
+
+Hope that helps
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+http://koha-community.org supporter, web and LMS developer, statistician.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for Koha work http://www.software.coop/products/koha
+
+
+From owen at ostephens.com  Fri Jun  3 13:02:08 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Fri, 3 Jun 2011 13:02:08 +0100
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <20110603115415.CA2EA9F0D2@nail.towers.org.uk>
+References: <20110603115415.CA2EA9F0D2@nail.towers.org.uk>
+Message-ID: <DF23EBFB-F4B0-4D02-B2A6-24E62626F0D0@ostephens.com>
+
+These may be part of the same story, but it isn't clear to me - according to Weinberger, Roy Tennant made a specific statement about OCLC releasing " the bibliographic info about the top million most popular books" in linked data format. This seems like a different initiative to the one previously discussed which was about OCLC enabling member libraries to release data.
+
+Owen
+
+Owen Stephens
+Owen Stephens Consulting
+Web: http://www.ostephens.com
+Email: owen at ostephens.com
+Telephone: 0121 288 6936
+
+On 3 Jun 2011, at 12:54, MJ Ray wrote:
+
+> "Jo Walsh" <metazool at gmail.com> asked:
+>> Hello - sorry if i've missed this in the digest, but i just saw on
+>> "Twitter" that OCLC is releasing 1M bibliographic records as Linked
+>> Data using the ODbL license.
+>> 
+>> http://twitter.com/#!/psychemedia/status/76580909683445760
+>> 
+>> What's the story?
+> 
+> The thread starts
+> http://lists.okfn.org/pipermail/open-bibliography/2011-May/000983.html
+> and basically it's not as good as it seems.  ODbL but still restrictive
+> usage policy, AIUI.
+> 
+> Hope that helps
+> -- 
+> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+> http://koha-community.org supporter, web and LMS developer, statistician.
+> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+> Available for hire for Koha work http://www.software.coop/products/koha
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+From self at evident.com  Fri Jun  3 13:02:18 2011
+From: self at evident.com (David Weinberger)
+Date: Fri, 3 Jun 2011 08:02:18 -0400
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <BANLkTi=jE5SmbjH9b8dFGL96zZ0kgzVnUQ@mail.gmail.com>
+References: <BANLkTikzC+jmJ6Wfu4JLSzWHATWKVEzTjg@mail.gmail.com>
+	<BANLkTi=jE5SmbjH9b8dFGL96zZ0kgzVnUQ@mail.gmail.com>
+Message-ID: <BANLkTinU4BDbX8a43GgcDsSBwOE78RWu6Q@mail.gmail.com>
+
+At the LOD-LAM conference, Roy Tennant announced that OCLC will be
+releasing the bib records for the most popular one million books under
+an odb license. He made this announcement as part of a talk about
+OCLC's interest in linked data, in a lightning round of two-minute
+presentations. That is literally all that he said about the release.
+
+I and a couple of other attendees spoke with him immediately
+afterwards about this:
+
+- He does not know when this will occur.
+
+- "Most popular" = held by the most libraries
+
+- I asked if it was going to be an attribution license, and he did not
+know. I asked if there were going to be further stipulations on top of
+the license, and he did not know. In fact, he was puzzled by the
+concept.
+
+- He was not sure if they'd be releasing the entire MARC records for
+the works, or just the most salient data.
+
+I don't believe he was being cagey. I think he was honestly telling us
+what he knew.
+
+David Weinberger
+
+On Fri, Jun 3, 2011 at 7:37 AM, Jo Walsh <metazool at gmail.com> wrote:
+> ---------- Forwarded message ----------
+> From: "Jo Walsh" <metazool at gmail.com>
+> Date: 3 Jun 2011 11:53
+> Subject: OCLC ODbL?
+> To: <open-bibliography at lists.okfn.org>
+>
+> Hello -?sorry if i've missed this in the digest, but i just saw on
+> "Twitter" that OCLC is releasing 1M bibliographic records as Linked
+> Data using the ODbL license.
+>
+> http://twitter.com/#!/psychemedia/status/76580909683445760
+>
+> What's the story?
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+
+
+From self at evident.com  Fri Jun  3 13:06:11 2011
+From: self at evident.com (David Weinberger)
+Date: Fri, 3 Jun 2011 08:06:11 -0400
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <DF23EBFB-F4B0-4D02-B2A6-24E62626F0D0@ostephens.com>
+References: <20110603115415.CA2EA9F0D2@nail.towers.org.uk>
+	<DF23EBFB-F4B0-4D02-B2A6-24E62626F0D0@ostephens.com>
+Message-ID: <BANLkTikaDYMguQvV43yCUzs=bJgBuMfmbQ@mail.gmail.com>
+
+Yes, it is different.
+
+David W.
+
+On Fri, Jun 3, 2011 at 8:02 AM, Owen Stephens <owen at ostephens.com> wrote:
+> These may be part of the same story, but it isn't clear to me - according to Weinberger, Roy Tennant made a specific statement about OCLC releasing " the bibliographic info about the top million most popular books" in linked data format. This seems like a different initiative to the one previously discussed which was about OCLC enabling member libraries to release data.
+>
+> Owen
+>
+> Owen Stephens
+> Owen Stephens Consulting
+> Web: http://www.ostephens.com
+> Email: owen at ostephens.com
+> Telephone: 0121 288 6936
+>
+> On 3 Jun 2011, at 12:54, MJ Ray wrote:
+>
+>> "Jo Walsh" <metazool at gmail.com> asked:
+>>> Hello - sorry if i've missed this in the digest, but i just saw on
+>>> "Twitter" that OCLC is releasing 1M bibliographic records as Linked
+>>> Data using the ODbL license.
+>>>
+>>> http://twitter.com/#!/psychemedia/status/76580909683445760
+>>>
+>>> What's the story?
+>>
+>> The thread starts
+>> http://lists.okfn.org/pipermail/open-bibliography/2011-May/000983.html
+>> and basically it's not as good as it seems. ?ODbL but still restrictive
+>> usage policy, AIUI.
+>>
+>> Hope that helps
+>> --
+>> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+>> http://koha-community.org supporter, web and LMS developer, statistician.
+>> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+>> Available for hire for Koha work http://www.software.coop/products/koha
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From jonathan.gray at okfn.org  Sat Jun  4 10:21:31 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 4 Jun 2011 11:21:31 +0200
+Subject: [open-bibliography] A 4 star classification-scheme for open
+	cultural meta-data
+Message-ID: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+
+Thought this might be interesting to people here:
+
+https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ww at styx.org  Sun Jun  5 11:43:23 2011
+From: ww at styx.org (William Waites)
+Date: Sun, 5 Jun 2011 12:43:23 +0200
+Subject: [open-bibliography] FW: ANN: SKOS implementation of the ACM
+	Communication Classification	System
+Message-ID: <20110605104323.GD25707@styx.org>
+
+----- Forwarded message from Christoph Lange <ch.lange at jacobs-university.de> -----
+
+Date: Thu, 02 Jun 2011 11:27:28 +0300
+From: Christoph Lange <ch.lange at jacobs-university.de>
+Subject: ANN: SKOS implementation of the ACM Communication Classification  System
+To: semantic-web at w3.org, public-lod at w3.org, public-swd-wg at w3.org
+CC: "planetary-dev at googlegroups.com" <planetary-dev at googlegroups.com>
+Message-ID: <4DE74970.1080802 at jacobs-university.de>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.17) Gecko/20110414 Thunderbird/3.1.10
+
+Dear all,
+
+in the context of our Planetary social semantic environment for 
+scientific, technical, and mathematical documents 
+(http://trac.mathweb.org/planetary), we needed a SKOS implementation of 
+the ACM Computing Classification System 
+(http://www.acm.org/about/class/ccs98-html).  This is now public at its 
+namespace URI
+
+http://oaff.info/ontology/acm-ccs#
+
+... and has been validated with the poolparty SKOS consistency checker 
+(http://demo.semantic-web.at:8080/SkosServices/check -- thanks for 
+providing that!).  For now it's just one static RDF/XML file, but we 
+will soon also serve it through a SPARQL endpoint.  Let me know what you 
+need, and we might be able to reprioritize these things.  I just thought 
+it makes sense to already announce it now, as there is so much redundant 
+work done on this due to not being aware of existing implementations.
+
+Note that we have not yet considered copyright issues -- but at least 
+preserved the original ACM copyright statement, which permits "personal 
+or classroom use".  That's probably not enough for reasonable Linked 
+Data applications.  I would be glad if someone familiar with the subject 
+could point out what to do.  What did previous publishers of RDF 
+versions of the ACM CCS do?
+
+Some technical notes:
+* We started with the RKB Explorer RDFS implementation of the ACM CCS 
+(which used rdfs:subClassOf, see 
+http://acm.rkbexplorer.com/ontologies/acm#)
+* Besides the pure concept hierarchy, we (manually) added further 
+information from the original HTML source:
+  * examples for certain concepts (skos:example)
+  * cross-references to related concepts (skos:related)
+  * notes on deprecated concepts (skos:historyNote)
+
+While not having verified it formally, we are 99.9% sure that our 
+implementation completely covers the ACM CCS.
+
+BTW, to see how _we_ are using this, I have, for now, to point you to 
+something similar: We serve the content of the PlanetMath.org 
+encyclopedia through our system and enable by-topic navigation powered 
+by a SKOS implementation of the MSC (Mathematical Subject 
+Classification): see 
+http://trac.mathweb.org/planetary/wiki/Demo_PlanetMath for a description 
+and http://alpha.planetmath.org/article/msc for the system.  The 
+association of PlanetMath articles to their MSC classes is made by 
+translating the LaTeX sources of the articles, which have a custom MSC 
+metadata macro, to XHTML+RDFa, using dct:subject.  Soon there will be a 
+similar navigation through arXiv.org articles served via our system 
+(http://trac.mathweb.org/planetary/wiki/Demo_arXiv), as well as our own 
+"dog-fooded" computer science lecture notes 
+(http://trac.mathweb.org/planetary/wiki/Demo_PlanetBox).  Note that 
+arXiv articles may have both MSC and ACM classifications, so aligning 
+those two SKOS concept schemes is also planned.
+
+Note that our MSC SKOS implementation is a preliminary and unofficial 
+one (and therefore not yet available under a stable URI).  It is 
+incomplete and just good enough to drive the Planetary navigation.  In 
+collaboration with the AMS, the maintainer of the MSC, we are working on 
+a complete and official SKOS reference implementation, obtained by 
+translating the original plain-TeX sources to RDF, which will soon be 
+available from http://www.msc2010.org.
+
+Cheers,
+
+Christoph
+
+-- 
+Christoph Lange, Coordinator CASE Research Center
+http://www.jacobs-university.de/case/, http://kwarc.info/clange
+
+Mathematical Wiki workshop at ITP 2011, August 27, Nijmegen, Netherlands
+Submission deadline May 30, http://www.cs.ru.nl/mwitp/
+
+Jacobs University Bremen gGmbH, Campus Ring 1, 28759 Bremen, Germany
+Commercial registry: Amtsgericht Bremen, HRB 18117
+CEO: Prof. Dr. Joachim Treusch
+Chair Board of Governors: Prof. Dr. Karin Lochte
+
+
+----- End forwarded message -----
+
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From krichel at openlib.org  Sun Jun  5 23:41:10 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 6 Jun 2011 00:41:10 +0200
+Subject: [open-bibliography] ftp access to 3lib.org
+Message-ID: <20110605224110.GG31304@openlib.org>
+
+
+  I am not sure who looks after the machine 3lib.org. I think
+  it's somebody at okfn. I am sorry to post this here. 
+
+  Connections to the ftp server fail. vsftp is up and local
+  collections (on the machine to itself) seem to work. It looks
+  like a firewall setting has been changed.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From mjr at phonecoop.coop  Mon Jun  6 10:20:35 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Mon,  6 Jun 2011 10:20:35 +0100 (BST)
+Subject: [open-bibliography] A 4 star classification-scheme for
+	open	cultural meta-data
+In-Reply-To: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+Message-ID: <20110606092035.50785F6605@nail.towers.org.uk>
+
+Jonathan Gray wrote:
+> Thought this might be interesting to people here:
+> 
+> https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+
+Why is "Sign in with your Google Account" interesting?
+
+Open the document: get it away from google!
+
+Regards,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for various work through http://www.software.coop/
+
+
+From jonathan.gray at okfn.org  Mon Jun  6 10:24:53 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 6 Jun 2011 11:24:53 +0200
+Subject: [open-bibliography] A 4 star classification-scheme for open
+ cultural meta-data
+In-Reply-To: <20110606092035.50785F6605@nail.towers.org.uk>
+References: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+	<20110606092035.50785F6605@nail.towers.org.uk>
+Message-ID: <BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+
+M.J.: Despite the fact we often use Google Docs, this time it isn't ours! ;-)
+
+If anyone knows anything about this - it would be great if they could
+fill us in with background information.
+
+J.
+
+On Mon, Jun 6, 2011 at 11:20 AM, MJ Ray <mjr at phonecoop.coop> wrote:
+> Jonathan Gray wrote:
+>> Thought this might be interesting to people here:
+>>
+>> https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+>
+> Why is "Sign in with your Google Account" interesting?
+>
+> Open the document: get it away from google!
+>
+> Regards,
+> --
+> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+> Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+> Available for hire for various work through http://www.software.coop/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From mjr at phonecoop.coop  Mon Jun  6 10:41:50 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Mon,  6 Jun 2011 10:41:50 +0100 (BST)
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <BANLkTikaDYMguQvV43yCUzs=bJgBuMfmbQ@mail.gmail.com>
+Message-ID: <20110606094150.0F242F6619@nail.towers.org.uk>
+
+David Weinberger wrote:
+> On Fri, Jun 3, 2011 at 8:02 AM, Owen Stephens <owen at ostephens.com> wrote:
+> > These may be part of the same story, but it isn't clear to me -
+> > according to Weinberger, Roy Tennant made a specific statement
+> > about OCLC releasing " the bibliographic info about the top
+> > million most popular books" in linked data format. This seems like
+> > a different initiative to the one previously discussed which was
+> > about OCLC enabling member libraries to release data.
+> Yes, it is different.
+
+OK, sorry for my confusion.  I wish OCLC would do one thing right
+before doing two similar things confusingly almost-right ;-)
+
+Regards,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+http://koha-community.org supporter, web and LMS developer, statistician.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for Koha work http://www.software.coop/products/koha
+
+
+From mjr at phonecoop.coop  Mon Jun  6 10:52:59 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Mon,  6 Jun 2011 10:52:59 +0100 (BST)
+Subject: [open-bibliography] A 4 star classification-scheme for open
+ cultural meta-data
+In-Reply-To: <BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+Message-ID: <20110606095259.ACC45F6605@nail.towers.org.uk>
+
+Jonathan Gray wrote:
+> M.J.: Despite the fact we often use Google Docs, this time it isn't ours! ;-)
+> 
+> If anyone knows anything about this - it would be great if they could
+> fill us in with background information.
+
+OK, I thought that either it was yours, or it was published and could
+be reproduced here as fair dealing for the purposes of news reporting,
+critique or commentary.
+
+Hard to say if anyone knows anything about something we can't see.
+
+A 4 star classification-scheme sounds like a bad idea, rewarding people
+for things which aren't quite open enough, like CC-ND licences still let
+people claim that they are part of the creative commons, even though a
+fenced look-but-don't-touch area isn't really part of a commons.
+
+Regards,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for various work through http://www.software.coop/
+
+
+From kcoyle at kcoyle.net  Mon Jun  6 14:59:00 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 06 Jun 2011 06:59:00 -0700
+Subject: [open-bibliography] A 4 star classification-scheme for open
+ cultural meta-data
+In-Reply-To: <BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+References: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+	<20110606092035.50785F6605@nail.towers.org.uk>
+	<BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+Message-ID: <20110606065900.86471eqiyyy2nzfo@kcoyle.net>
+
+The document was created during the LOD-LAM (http://lod-lam.net)  
+meeting in San Francisco last week. I could export it, but it's being  
+discussed and commented on using the Google Docs comments, and that is  
+probably the most interesting part. It is similar to the Open Data  
+done by JISC/RL-UK, but simpler. The four stars are: CC-0, CC-BY,  
+CC-BY-SA and an added version of CC-BY that can take a particular  
+attribution license.
+
+kc
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+
+> M.J.: Despite the fact we often use Google Docs, this time it isn't ours! ;-)
+>
+> If anyone knows anything about this - it would be great if they could
+> fill us in with background information.
+>
+> J.
+>
+> On Mon, Jun 6, 2011 at 11:20 AM, MJ Ray <mjr at phonecoop.coop> wrote:
+>> Jonathan Gray wrote:
+>>> Thought this might be interesting to people here:
+>>>
+>>> https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+>>
+>> Why is "Sign in with your Google Account" interesting?
+>>
+>> Open the document: get it away from google!
+>>
+>> Regards,
+>> --
+>> MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+>> Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+>> In My Opinion Only: see http://mjr.towers.org.uk/email.html
+>> Available for hire for various work through http://www.software.coop/
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ww at styx.org  Mon Jun  6 16:19:22 2011
+From: ww at styx.org (William Waites)
+Date: Mon, 6 Jun 2011 17:19:22 +0200
+Subject: [open-bibliography] A 4 star classification-scheme for
+	open	cultural meta-data
+In-Reply-To: <20110606095259.ACC45F6605@nail.towers.org.uk>
+References: <BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+	<20110606095259.ACC45F6605@nail.towers.org.uk>
+Message-ID: <20110606151922.GK25707@styx.org>
+
+* [2011-06-06 10:52:59 +0100] MJ Ray <mjr at phonecoop.coop> ?crit:
+
+] A 4 star classification-scheme sounds like a bad idea, rewarding people
+] for things which aren't quite open enough, like CC-ND licences still let
+] people claim that they are part of the creative commons, even though a
+] fenced look-but-don't-touch area isn't really part of a commons.
+
+This is my main criticism of CC - they are a copyright promotion
+organisation and don't see copyright law as fundamentally flawed.
+
+OKF would do well to remember this when talking about open licenses -
+in an ideal world we wouldn't need them, but since we don't live in an
+ideal world we need to use open licenses to protect ourselves.
+
+-w
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From kcoyle at kcoyle.net  Mon Jun  6 16:32:03 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 06 Jun 2011 08:32:03 -0700
+Subject: [open-bibliography] A 4 star classification-scheme for
+ open	cultural meta-data
+In-Reply-To: <20110606151922.GK25707@styx.org>
+References: <BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+	<20110606095259.ACC45F6605@nail.towers.org.uk>
+	<20110606151922.GK25707@styx.org>
+Message-ID: <20110606083203.174527cey5w4n65v@kcoyle.net>
+
+In law, licenses formalize an agreement. Since we can't get formal  
+agreements (generally) in our massive online communication, I see CC  
+and other online licenses mainly as a way to INFORM users of our  
+desires. When I see a CC license I immediately know that this is  
+someone who wants their stuff used; someone who isn't going to sue me  
+if I quote them heavily or use their materials in a classroom; that  
+they aren't going to pull a "disney". It is easier for me as a user of  
+materials to have this information than to NOT have it. If there is no  
+license, then I have to assume that all of the restrictions of the  
+copyright law apply, and that there is very little that I can safely  
+do with the material.
+
+I see licenses as a great improvement over no licenses, since the  
+latter automatically puts the materials into the copyright law  
+context, whether the creators intend that or not.
+
+Note that the "CC people" do indeed see copyright law as flawed, and  
+in fact Lessig has tried (and I think now given up) to reform  
+copyright law. CC was developed as a way to keep copyright law from  
+restricting use of the net.
+
+kc
+
+Quoting William Waites <ww at styx.org>:
+
+> * [2011-06-06 10:52:59 +0100] MJ Ray <mjr at phonecoop.coop> ?crit:
+>
+> ] A 4 star classification-scheme sounds like a bad idea, rewarding people
+> ] for things which aren't quite open enough, like CC-ND licences still let
+> ] people claim that they are part of the creative commons, even though a
+> ] fenced look-but-don't-touch area isn't really part of a commons.
+>
+> This is my main criticism of CC - they are a copyright promotion
+> organisation and don't see copyright law as fundamentally flawed.
+>
+> OKF would do well to remember this when talking about open licenses -
+> in an ideal world we wouldn't need them, but since we don't live in an
+> ideal world we need to use open licenses to protect ourselves.
+>
+> -w
+> --
+> William Waites                <mailto:ww at styx.org>
+> http://river.styx.org/ww/        <sip:ww at styx.org>
+> F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From ww at styx.org  Mon Jun  6 16:37:47 2011
+From: ww at styx.org (William Waites)
+Date: Mon, 6 Jun 2011 17:37:47 +0200
+Subject: [open-bibliography] A 4 star classification-scheme
+	for	open	cultural meta-data
+In-Reply-To: <20110606083203.174527cey5w4n65v@kcoyle.net>
+References: <BANLkTikKSuQGKzyoFajtHUufSn5vvpS+gA@mail.gmail.com>
+	<20110606095259.ACC45F6605@nail.towers.org.uk>
+	<20110606151922.GK25707@styx.org>
+	<20110606083203.174527cey5w4n65v@kcoyle.net>
+Message-ID: <20110606153747.GM25707@styx.org>
+
+* [2011-06-06 08:32:03 -0700] Karen Coyle <kcoyle at kcoyle.net> ?crit:
+
+] Note that the "CC people" do indeed see copyright law as flawed, and  
+] in fact Lessig has tried (and I think now given up) to reform  
+] copyright law. CC was developed as a way to keep copyright law from  
+] restricting use of the net.
+
+reform vs. abolish
+
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From graham at theseamans.net  Mon Jun  6 18:04:33 2011
+From: graham at theseamans.net (graham)
+Date: Mon, 06 Jun 2011 18:04:33 +0100
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <20110606094150.0F242F6619@nail.towers.org.uk>
+References: <20110606094150.0F242F6619@nail.towers.org.uk>
+Message-ID: <4DED08A1.5040300@theseamans.net>
+
+This two-pronged policy seems to be continuing:
+
+
+http://blog.okfn.org/2011/06/06/oclc-worldcat-rights-and-responsibilities-and-open-data-licensing/
+
+implied threats against libraries that release their own data under a
+non-restrictive license - on the assumption that most catalogues now
+include OCLC derived data too - combined with the announcement that
+they're employing Jordan Hatcher, who did a lot of the work in creating
+the ODbL for OpenStreetMap.
+
+Strange
+
+Graham
+
+
+On 06/06/11 10:41, MJ Ray wrote:
+> 
+> OK, sorry for my confusion.  I wish OCLC would do one thing right
+> before doing two similar things confusingly almost-right ;-)
+> 
+> Regards,
+
+
+
+From self at evident.com  Mon Jun  6 17:36:28 2011
+From: self at evident.com (David Weinberger)
+Date: Mon, 6 Jun 2011 12:36:28 -0400
+Subject: [open-bibliography] OCLC ODbL?
+In-Reply-To: <4DED08A1.5040300@theseamans.net>
+References: <20110606094150.0F242F6619@nail.towers.org.uk>
+	<4DED08A1.5040300@theseamans.net>
+Message-ID: <BANLkTi=9bCn9EhEtu=t4tHnyHQ3=8sMEcg@mail.gmail.com>
+
+Roy just walked back from his announcement during the two-minute "Dork
+Shorts" session at LOD-LAM. In a comment to my blog post about it, he
+writes:
+
+"I also mentioned a project to configure the bibliographic records for
+the one million most-widely held books in WorldCat. Given the brevity
+of the ?dork short? time, I want to be more specific about exactly
+where that experiment stands.
+
+"This is a project that is still being formed. The intent of the
+project is to investigate how to best release bibliographic data as
+linked data that will provide an opportunity for us to get feedback
+from other practitioners about how well we?ve done it and how useful
+it might be. A part of this project will include considering the
+policy and licensing issues. There?s not yet a firm timetable, but as
+that is determined it will be shared with the community. We?re
+encouraged by the enthusiastic response folks have shown in what we?re
+doing. It will help influence the shape of what we ultimately do."
+
+http://www.hyperorg.com/blogger/2011/06/02/oclc-to-release-1-million-book-records/#comments
+
+David W.
+
+On Mon, Jun 6, 2011 at 1:04 PM, graham <graham at theseamans.net> wrote:
+> This two-pronged policy seems to be continuing:
+>
+>
+> http://blog.okfn.org/2011/06/06/oclc-worldcat-rights-and-responsibilities-and-open-data-licensing/
+>
+> implied threats against libraries that release their own data under a
+> non-restrictive license - on the assumption that most catalogues now
+> include OCLC derived data too - combined with the announcement that
+> they're employing Jordan Hatcher, who did a lot of the work in creating
+> the ODbL for OpenStreetMap.
+>
+> Strange
+>
+> Graham
+>
+>
+> On 06/06/11 10:41, MJ Ray wrote:
+>>
+>> OK, sorry for my confusion. ?I wish OCLC would do one thing right
+>> before doing two similar things confusingly almost-right ;-)
+>>
+>> Regards,
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From jonathan.gray at okfn.org  Tue Jun  7 10:38:21 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 7 Jun 2011 11:38:21 +0200
+Subject: [open-bibliography] A 4 star classification-scheme for open
+	cultural meta-data
+In-Reply-To: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+References: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+Message-ID: <BANLkTims8rB1z4mvqQLmH8zSGZUC5JSSjw@mail.gmail.com>
+
+Just to follow up on this, as Karen says, this originated from the
+LOD-LAM conference in San Francisco. I don't have enough domain
+specific knowledge about how useful this would be for cultural
+heritage organisations (what needs it is addressing, etc) - but I'm
+pleased to see that it looks like all 4 options are compliant with
+OpenDefinition.org.
+
+For anyone who uses Google Docs, there is now a conversation in the
+comments thread which has emerged (and which might be of interest to
+folks here). For anyone who doesn't use Google Docs, there is now a
+copy of the document here:
+
+http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/
+
+And a response here:
+
+http://www.hyperorg.com/blogger/2011/06/06/peter-suber-on-the-4-star-openness-rating/
+
+I will try and ping a few people to see if we can also get a guest
+blog about this for the OKF Blog!
+
+All the best,
+
+Jonathan
+
+On Sat, Jun 4, 2011 at 11:21 AM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> Thought this might be interesting to people here:
+>
+> https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From adrian.pohl at okfn.org  Tue Jun  7 12:23:47 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 7 Jun 2011 13:23:47 +0200
+Subject: [open-bibliography] A 4 star classification-scheme for open
+ cultural meta-data
+In-Reply-To: <BANLkTims8rB1z4mvqQLmH8zSGZUC5JSSjw@mail.gmail.com>
+References: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+	<BANLkTims8rB1z4mvqQLmH8zSGZUC5JSSjw@mail.gmail.com>
+Message-ID: <BANLkTin15LLzWzvpfQs9g1bXRDH5WFvhjw@mail.gmail.com>
+
+Hello,
+
+as Jonathan says, the draft classification scheme is now published at
+the LOD-LAM blog and can be commented and discussed there:
+http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/
+
+I took part in creating the document at the LOD-LAM summit and we had
+some interesting discussions around it.
+I myself have problems with it as it doesn't explicitely say that we
+are talking about _collections_ of metadata. In fact, it isn't said at
+all what "licensing metadata" means, i.e. where to attach the license.
+This is problematic, because if someone only licenses individual
+records, the whole collection could nonetheless be subject to
+intellectual property rights...
+
+Especially, this isn't good in combination with another limitation: The open
+definition is only partly supported by the document. The requirement
+that a work should be made available as a whole isn't supported.
+
+I'll contribute more on this the next days if I get the time...
+
+All the best
+Adrian
+
+
+2011/6/7 Jonathan Gray <jonathan.gray at okfn.org>:
+> Just to follow up on this, as Karen says, this originated from the
+> LOD-LAM conference in San Francisco. I don't have enough domain
+> specific knowledge about how useful this would be for cultural
+> heritage organisations (what needs it is addressing, etc) - but I'm
+> pleased to see that it looks like all 4 options are compliant with
+> OpenDefinition.org.
+>
+> For anyone who uses Google Docs, there is now a conversation in the
+> comments thread which has emerged (and which might be of interest to
+> folks here). For anyone who doesn't use Google Docs, there is now a
+> copy of the document here:
+>
+> http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/
+>
+> And a response here:
+>
+> http://www.hyperorg.com/blogger/2011/06/06/peter-suber-on-the-4-star-openness-rating/
+>
+> I will try and ping a few people to see if we can also get a guest
+> blog about this for the OKF Blog!
+>
+> All the best,
+>
+> Jonathan
+>
+> On Sat, Jun 4, 2011 at 11:21 AM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>> Thought this might be interesting to people here:
+>>
+>> https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From adrian.pohl at okfn.org  Tue Jun  7 12:24:35 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 7 Jun 2011 13:24:35 +0200
+Subject: [open-bibliography] Virtual Meeting today!?
+Message-ID: <BANLkTimAXOad1remUa4WAq6k_cXKe6ZCJw@mail.gmail.com>
+
+Hello,
+
+the 12th virtual meeting of the OKFN working group on open
+bibliographic data is supposed to be today at 15:00 GMT. I won't be
+able to host the skype call today and to moderate the meeting but
+might join in later.
+
+It would be nice if someone else could host & moderate the call today. Anyone?
+
+Here are the local times for the meeting:
+
+http://timeanddate.com/worldclock/fixedtime.html?msg=12th+Virtual+Meeting+of+the+OKFN+Openbiblio+Group&iso=20110607T17&p1=311&ah=1
+
+And this is the etherpad I created:
+
+http://okfnpad.org/12th-open-bibliography-meeting
+
+I would be happy if the meeting could take place anyway without my engagement...
+
+All the best
+Adrian
+
+
+From mark at odaesa.com  Tue Jun  7 12:29:34 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 7 Jun 2011 12:29:34 +0100
+Subject: [open-bibliography] Virtual Meeting today!?
+In-Reply-To: <BANLkTimAXOad1remUa4WAq6k_cXKe6ZCJw@mail.gmail.com>
+References: <BANLkTimAXOad1remUa4WAq6k_cXKe6ZCJw@mail.gmail.com>
+Message-ID: <BANLkTi=enf2T9R_M9HnsasgYbWcqN-_60w@mail.gmail.com>
+
+Hi Adrian,
+
+I will cover the meeting this afternoon if you like. Do you have an
+idea of who is attending - who I should call up? Or shall I just see
+who is in the IRC at 1600 UK time?
+
+Also, I will cross-post the blog.okfn.org article about discovery.
+
+
+Mark
+
+
+
+On Tue, Jun 7, 2011 at 12:24 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> the 12th virtual meeting of the OKFN working group on open
+> bibliographic data is supposed to be today at 15:00 GMT. I won't be
+> able to host the skype call today and to moderate the meeting but
+> might join in later.
+>
+> It would be nice if someone else could host & moderate the call today. Anyone?
+>
+> Here are the local times for the meeting:
+>
+> http://timeanddate.com/worldclock/fixedtime.html?msg=12th+Virtual+Meeting+of+the+OKFN+Openbiblio+Group&iso=20110607T17&p1=311&ah=1
+>
+> And this is the etherpad I created:
+>
+> http://okfnpad.org/12th-open-bibliography-meeting
+>
+> I would be happy if the meeting could take place anyway without my engagement...
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From mjr at phonecoop.coop  Tue Jun  7 12:38:11 2011
+From: mjr at phonecoop.coop (MJ Ray)
+Date: Tue,  7 Jun 2011 12:38:11 +0100 (BST)
+Subject: [open-bibliography] A 4 star classification-scheme for open
+ cultural meta-data
+In-Reply-To: <20110606065900.86471eqiyyy2nzfo@kcoyle.net>
+Message-ID: <20110607113811.DA3B4F661B@nail.towers.org.uk>
+
+Karen Coyle wrote:
+> The document was created during the LOD-LAM (http://lod-lam.net)  
+> meeting in San Francisco last week. I could export it, but it's being  
+> discussed and commented on using the Google Docs comments, and that is  
+> probably the most interesting part. It is similar to the Open Data  
+> done by JISC/RL-UK, but simpler. The four stars are: CC-0, CC-BY,  
+> CC-BY-SA and an added version of CC-BY that can take a particular  
+> attribution license.
+
+Thanks for the summary.  Mildly concerned that "an added version of
+CC-BY" may mean licence proliferation; pretty disappointed that
+this is on Google Docs meaning that people who care about service
+provider openness are excluded from most of the discussion.
+
+Thanks again,
+-- 
+MJ Ray (slef), member of www.software.coop, a for-more-than-profit co-op.
+Webmaster, Debian Developer, Past Koha RM, statistician, former lecturer.
+In My Opinion Only: see http://mjr.towers.org.uk/email.html
+Available for hire for various work through http://www.software.coop/
+
+
+From kcoyle at kcoyle.net  Tue Jun  7 15:10:46 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 07 Jun 2011 07:10:46 -0700
+Subject: [open-bibliography] A 4 star classification-scheme for open
+ cultural meta-data
+In-Reply-To: <BANLkTin15LLzWzvpfQs9g1bXRDH5WFvhjw@mail.gmail.com>
+References: <BANLkTimm2sMyEQnCSNcA2Ybk=oGf=T6E=w@mail.gmail.com>
+	<BANLkTims8rB1z4mvqQLmH8zSGZUC5JSSjw@mail.gmail.com>
+	<BANLkTin15LLzWzvpfQs9g1bXRDH5WFvhjw@mail.gmail.com>
+Message-ID: <20110607071046.12142dk77hnw9y7a@kcoyle.net>
+
+Adrian, I agree with your un-ease about records and collections and  
+will add to that... because linked data is about individual  
+statements, not records. It is even more difficult to imagine adding a  
+license to a single statement that says:
+
+"As You Like It" "was written by" "William Shakespeare"
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello,
+>
+> as Jonathan says, the draft classification scheme is now published at
+> the LOD-LAM blog and can be commented and discussed there:
+> http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/
+>
+> I took part in creating the document at the LOD-LAM summit and we had
+> some interesting discussions around it.
+> I myself have problems with it as it doesn't explicitely say that we
+> are talking about _collections_ of metadata. In fact, it isn't said at
+> all what "licensing metadata" means, i.e. where to attach the license.
+> This is problematic, because if someone only licenses individual
+> records, the whole collection could nonetheless be subject to
+> intellectual property rights...
+>
+> Especially, this isn't good in combination with another limitation: The open
+> definition is only partly supported by the document. The requirement
+> that a work should be made available as a whole isn't supported.
+>
+> I'll contribute more on this the next days if I get the time...
+>
+> All the best
+> Adrian
+>
+>
+> 2011/6/7 Jonathan Gray <jonathan.gray at okfn.org>:
+>> Just to follow up on this, as Karen says, this originated from the
+>> LOD-LAM conference in San Francisco. I don't have enough domain
+>> specific knowledge about how useful this would be for cultural
+>> heritage organisations (what needs it is addressing, etc) - but I'm
+>> pleased to see that it looks like all 4 options are compliant with
+>> OpenDefinition.org.
+>>
+>> For anyone who uses Google Docs, there is now a conversation in the
+>> comments thread which has emerged (and which might be of interest to
+>> folks here). For anyone who doesn't use Google Docs, there is now a
+>> copy of the document here:
+>>
+>> http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/
+>>
+>> And a response here:
+>>
+>> http://www.hyperorg.com/blogger/2011/06/06/peter-suber-on-the-4-star-openness-rating/
+>>
+>> I will try and ping a few people to see if we can also get a guest
+>> blog about this for the OKF Blog!
+>>
+>> All the best,
+>>
+>> Jonathan
+>>
+>> On Sat, Jun 4, 2011 at 11:21 AM, Jonathan Gray  
+>> <jonathan.gray at okfn.org> wrote:
+>>> Thought this might be interesting to people here:
+>>>
+>>> https://docs.google.com/document/d/10u2bNMShqPQ6sIhcQK6zDl11gMNIzpfE8XPb7aexqac/edit?hl=en_US
+>>>
+>>> --
+>>> Jonathan Gray
+>>>
+>>> Community Coordinator
+>>> The Open Knowledge Foundation
+>>> http://blog.okfn.org
+>>>
+>>> http://twitter.com/jwyg
+>>> http://identi.ca/jwyg
+>>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From kcoyle at kcoyle.net  Tue Jun  7 15:57:58 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 07 Jun 2011 07:57:58 -0700
+Subject: [open-bibliography] Virtual Meeting today!?
+In-Reply-To: <BANLkTi=enf2T9R_M9HnsasgYbWcqN-_60w@mail.gmail.com>
+References: <BANLkTimAXOad1remUa4WAq6k_cXKe6ZCJw@mail.gmail.com>
+	<BANLkTi=enf2T9R_M9HnsasgYbWcqN-_60w@mail.gmail.com>
+Message-ID: <20110607075758.1959130etottbh4m@kcoyle.net>
+
+I had added to the pad some information on discussions taking place in  
+Italy about open bib data. I will continue to follow that if I can.
+
+kc
+
+Quoting Mark MacGillivray <mark at odaesa.com>:
+
+> Hi Adrian,
+>
+> I will cover the meeting this afternoon if you like. Do you have an
+> idea of who is attending - who I should call up? Or shall I just see
+> who is in the IRC at 1600 UK time?
+>
+> Also, I will cross-post the blog.okfn.org article about discovery.
+>
+>
+> Mark
+>
+>
+>
+> On Tue, Jun 7, 2011 at 12:24 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>> Hello,
+>>
+>> the 12th virtual meeting of the OKFN working group on open
+>> bibliographic data is supposed to be today at 15:00 GMT. I won't be
+>> able to host the skype call today and to moderate the meeting but
+>> might join in later.
+>>
+>> It would be nice if someone else could host & moderate the call  
+>> today. Anyone?
+>>
+>> Here are the local times for the meeting:
+>>
+>> http://timeanddate.com/worldclock/fixedtime.html?msg=12th+Virtual+Meeting+of+the+OKFN+Openbiblio+Group&iso=20110607T17&p1=311&ah=1
+>>
+>> And this is the etherpad I created:
+>>
+>> http://okfnpad.org/12th-open-bibliography-meeting
+>>
+>> I would be happy if the meeting could take place anyway without my  
+>> engagement...
+>>
+>> All the best
+>> Adrian
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From mark at odaesa.com  Tue Jun  7 16:02:46 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Tue, 7 Jun 2011 16:02:46 +0100
+Subject: [open-bibliography] Virtual Meeting today!?
+In-Reply-To: <20110607075758.1959130etottbh4m@kcoyle.net>
+References: <BANLkTimAXOad1remUa4WAq6k_cXKe6ZCJw@mail.gmail.com>
+	<BANLkTi=enf2T9R_M9HnsasgYbWcqN-_60w@mail.gmail.com>
+	<20110607075758.1959130etottbh4m@kcoyle.net>
+Message-ID: <BANLkTi=+WruKLCZmSb0fpTee--gPRCjGCw@mail.gmail.com>
+
+There have been skype issues today affecting users in Europe. I can
+login to skype now, but cannot see anyone else as logged in. I am
+therefore unsure if we will manage a meeting today. I am logged into
+the OKF irc channel just now though, please sign in there. see
+okfn.org/contact to login to the IRC.
+
+Mark
+
+
+
+On Tue, Jun 7, 2011 at 3:57 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> I had added to the pad some information on discussions taking place in Italy
+> about open bib data. I will continue to follow that if I can.
+>
+> kc
+>
+> Quoting Mark MacGillivray <mark at odaesa.com>:
+>
+>> Hi Adrian,
+>>
+>> I will cover the meeting this afternoon if you like. Do you have an
+>> idea of who is attending - who I should call up? Or shall I just see
+>> who is in the IRC at 1600 UK time?
+>>
+>> Also, I will cross-post the blog.okfn.org article about discovery.
+>>
+>>
+>> Mark
+>>
+>>
+>>
+>> On Tue, Jun 7, 2011 at 12:24 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>>
+>>> Hello,
+>>>
+>>> the 12th virtual meeting of the OKFN working group on open
+>>> bibliographic data is supposed to be today at 15:00 GMT. I won't be
+>>> able to host the skype call today and to moderate the meeting but
+>>> might join in later.
+>>>
+>>> It would be nice if someone else could host & moderate the call today.
+>>> Anyone?
+>>>
+>>> Here are the local times for the meeting:
+>>>
+>>>
+>>> http://timeanddate.com/worldclock/fixedtime.html?msg=12th+Virtual+Meeting+of+the+OKFN+Openbiblio+Group&iso=20110607T17&p1=311&ah=1
+>>>
+>>> And this is the etherpad I created:
+>>>
+>>> http://okfnpad.org/12th-open-bibliography-meeting
+>>>
+>>> I would be happy if the meeting could take place anyway without my
+>>> engagement...
+>>>
+>>> All the best
+>>> Adrian
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From pitman at stat.Berkeley.EDU  Tue Jun  7 16:26:55 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 07 Jun 2011 08:26:55 -0700
+Subject: [open-bibliography] Virtual Meeting today!?
+In-Reply-To: <20110607075758.1959130etottbh4m@kcoyle.net>
+References: <BANLkTimAXOad1remUa4WAq6k_cXKe6ZCJw@mail.gmail.com>
+	<BANLkTi=enf2T9R_M9HnsasgYbWcqN-_60w@mail.gmail.com>
+	<20110607075758.1959130etottbh4m@kcoyle.net>
+Message-ID: <20110607152655.14A6B8036@bibserver.Berkeley.EDU>
+
+Sorry, late to get started today.
+
+Will try to join now
+Jim
+
+
+From daniel.dietrich at okfn.org  Thu Jun  9 21:18:54 2011
+From: daniel.dietrich at okfn.org (Daniel Dietrich)
+Date: Thu, 9 Jun 2011 22:18:54 +0200
+Subject: [open-bibliography] OKCon Community Discount and Project
+	Promotional Items
+Message-ID: <02441E1C-B9B2-42FB-B018-C3E74F92ECA6@okfn.org>
+
+Dear all,
+
+As you will be aware OKCon 2011 is approaching fast. We are delighted to announce the release of the OKCon 2011 programme:
+
+        http://okcon.org/2011/programme
+
+We are also thrilled about the fantastic line up of speakers:
+
+        http://okcon.org/2011/speakers
+
+OKCon will be buzzing with open knowledge and open data enthusiasts and is an excellent opportunity to distribute promotional items to get people involved in your projects. If you have business cards, banners, flyers, posters or stickers to promote a projects we will gladly help to find space to display them at the venue. 
+
+If anyone would like to post items to Germany ahead of the conference, please send them to the OKF Germany office and we will make sure they get to the conference venue for you. 
+
+OKF Deutschland, Prenzlauer Allee 217, 10405 Berlin, Germany
+
+We're really excited about the lineup and to make sure members of the community, working groups and community ambassadors don't miss out, we have created the special *discount code*: OKFCOMMUNITY for a ?15 discount on your ticket. Simply enter the code when registering at http://okcon2011.eventbrite.com/
+
+We look forward to meeting you at our wonderful venue, Kalkscheune http://www.kalkscheune.de/en
+
+All the best
+Daniel
+
+
+
+
+--
+Daniel Dietrich
+
+The Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+www.okfn.org  -  www.opendefinition.org
+
+Mail: daniel.dietrich at okfn.org
+Mobil: +49 171 780 870 3
+Twitter: @ddie
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110609/67759817/attachment.htm>
+
+From ww at styx.org  Thu Jun 16 22:06:34 2011
+From: ww at styx.org (William Waites)
+Date: Thu, 16 Jun 2011 23:06:34 +0200
+Subject: [open-bibliography] rdf-json and json-ld serialisers and parsers
+Message-ID: <20110616210634.GP42832@styx.org>
+
+I've just added a preliminary version of the (updated) rdf-json and
+json-ld serialisers and parsers to rdfextras.
+
+The rdf-json bits were originally written by Rob Sanderson and updated
+for compatibility with rdflib 3 by Richard Jones.
+
+The json-ld bits were written by Richard Jones in the context of his
+work as part of the JISC Open Bibliography project.
+
+I made some minor adjustments, naming of files for compatibility with
+the new conventions (e.g. lowercase) and plugin registration in
+setup.py.
+
+These are lacking in unit tests at the moment - if there's time left
+in jiscobib for Richard to do this it would be great - but I thought
+better to get them out in a reusable form rather than languish buried
+in the openbiblio codebase.
+
+Cheers,
+-w
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From pohl at hbz-nrw.de  Fri Jun 17 13:19:27 2011
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Fri, 17 Jun 2011 14:19:27 +0200
+Subject: [open-bibliography] SWIB11 deadline extended to June 30th (Semantic
+ Web in Libraries)
+Message-ID: <4DFB626F020000140003FF81@agrippa.hbz-nrw.de>
+
+Due to several requests the submission deadline to the third conference "Semantic Web in Libraries" (SWIB), 28.-30.11.2011 in Hamburg has been extended to June, 30th 2011. 
+ 
+Here, once again, the call for proposals:
+ 
+After the success of the "Semantic Web in Libraries" (SWIB) events in
+2009 and 2010, the SWIB11 will take place in Hamburg from 28 to 30
+November 2011. The conference will again be organised by the North
+Rhine-Westphalian Library Service Centre (hbz), Cologne, and the
+German National Library of Economics - Leibniz Information Centre for
+Economics (ZBW), Kiel and Hamburg.
+ 
+A rising number of actors in librarianship and its related fields are
+experimenting with Semantic Web technologies and Linked Open Data
+(LOD). The LOD cloud as a whole grew by 300% in 2010, whereas the
+amount of data relevant for libraries grew by nearly 1000%. The W3C
+has created a "Linked Library Data" group to observe this development,
+whose first report is due to be published in August. The "Semantic Web
+Special Interest Group" established by IFLA shows that this topic has
+shown up on their radar as well. At the same time, the principles and
+workflows of traditional scientific communication and publication are
+under scrutiny with a view to a consistently web-based data and
+service infrastructure comprising the entire research and publication
+process. Concepts like "nano-publications", "Semantic Publishing",
+"Open Data", "Enhanced Publications" or "Research Objects" mark the
+re-orientation of academic work, away from monolithic, comparatively
+unflexible and barely interlinked reference points towards a
+distributed, comparatively granular data infrastructure which is
+continuously accessible to researchers and into which their
+contributions recognizably return.
+ 
+These are the questions and topics which we would like to discuss with
+you at the conference:
+ 
+* How do I find my way around the LOD cloud and how do I achieve
+  maximum visibility for my assets?
+* How do we produce useful links to and between newly published
+  datasets?
+* Where do we find best practice examples for LOD-based applications
+  which show the added value created by linking assets, in particular
+  domain-overlapping assets?
+* What are the trends in scholarly communication? What are the
+  consequences of the transformation of traditional research and
+  publication processes for libraries and what are the opportunities
+  Linked Open Data can offer here?
+* Library Authority Files and their potential as LOD for library
+  applications or research information systems
+* What could or should a future Linked Open Data infrastructure look
+  like? Are there trends to adapt library applications or research
+  environments to the Semantic Web and to support their users in RDF
+  publishing?
+* Open licences as a prerequisite for LOD-based infrastructures
+* What kind of support is to be expected from W3C, international and
+  national bodies for future development?
+ 
+These are our topics for SWIB11. Do you have an interesting project or
+research topic that should be presented at the conference? We would
+like to receive suggestions and proposals for contributions (with a
+brief abstract, no more than one page) until 20 June 2011. The
+conference will be held in German, but contributions in English are
+welcome. Please send them electronically to:
+ 
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
+ 
+or
+ 
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
+ 
+Website: http://swib.org/swib11
+Twitter: #swib11
+ 
+ 
+Adrian Pohl
+Direktionsassistenz (Manager's assistant)
+hbz - Hochschulbibliothekszentrum des Landes NRW
+Tel: (+49)(0)221 - 400 75 235
+http://www.hbz-nrw.de
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110617/d9966588/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Jun 21 13:25:06 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 21 Jun 2011 14:25:06 +0200
+Subject: [open-bibliography] How do OKF activities on Open Bibliographic
+ Data and the Public Domain fit together?
+Message-ID: <BANLkTike-i=HfhdEN+HjuEykJQ41zbN9Tg@mail.gmail.com>
+
+Hi all,
+
+I just caught up with Mark Macgillivray who heads up several of the
+OKF's bibliographic data projects. We spoke about how to increase
+synergies between the OKF's open bibliographic data related stuff and
+its public domain related stuff. There are some notes on this here:
+
+http://jwyg.okfn.org/2011/06/21/how-do-okf-activities-on-open-bibliographic-data-and-the-public-domain-fit-together/
+
+Thought this might be of interest. More on this soon!
+
+All the best,
+
+Jonathan
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From adrian.pohl at okfn.org  Wed Jun 22 11:39:17 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 22 Jun 2011 12:39:17 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data in
+	Alma
+Message-ID: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+
+Hello,
+
+Ex Libris has formed an "Expert Advisory Group for Open Data in the
+Alma Library Management Service", see http://bit.ly/jfPKDj
+
+Karen, can you provide some more information about this? It doesn't
+seem to be focused on legal openness. Also I find this document quite
+inconsistent. A phrase like the Alma Community zone being "a catalog
+of bibliographic records shared by all libraries that are using the
+Alma library management service" does sound more like an exclusive
+club than an open database to me. Alongside Karen's quote this is a
+bit strange.
+
+Best
+Adrian
+
+
+From pm286 at cam.ac.uk  Wed Jun 22 12:28:30 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 22 Jun 2011 12:28:30 +0100
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+	in Alma
+In-Reply-To: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+Message-ID: <BANLkTi=y4XtnKiftLa40h28gP4XZA+VOhg@mail.gmail.com>
+
+On Wed, Jun 22, 2011 at 11:39 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> Ex Libris has formed an "Expert Advisory Group for Open Data in the
+> Alma Library Management Service", see http://bit.ly/jfPKDj
+>
+> Karen, can you provide some more information about this? It doesn't
+> seem to be focused on legal openness. Also I find this document quite
+> inconsistent. A phrase like the Alma Community zone being "a catalog
+> of bibliographic records shared by all libraries that are using the
+> Alma library management service" does sound more like an exclusive
+> club than an open database to me. Alongside Karen's quote this is a
+> bit strange.
+>
+
+The word "Open" is often used in  ways that are inconsistent with the OKD. I
+remember a vendor presenting their "Open API" at a JISC meeting. I
+questioned them and it appeared that the "Open API" was:
+* confidential information
+* could not be disclosed by purchasers
+
+The best synonym I came up with was "confidential documentation for our
+software"
+
+"Open" may simply mean that there is a consortium involved.
+
+This is why the OKD is so important. Without its simple precision we
+flounder in meaningless dialogue.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110622/9c74308a/attachment.htm>
+
+From Anders.Soderback at sub.su.se  Wed Jun 22 12:37:50 2011
+From: Anders.Soderback at sub.su.se (=?iso-8859-1?Q?Anders_S=F6derb=E4ck?=)
+Date: Wed, 22 Jun 2011 13:37:50 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+ in Alma
+In-Reply-To: <BANLkTi=y4XtnKiftLa40h28gP4XZA+VOhg@mail.gmail.com>
+Message-ID: <CA27A041.49BD%anders.soderback@sub.su.se>
+
+I *guess* the reason ExLibris has formed this group is because the issue might be a bit vague and confusing to them as well. ExLibris highest priority is to be able to sell Alma, not to promote openness, which means that they will need to look at the issue from many different angles. Obviously they need to look at the possibilities for handling different licenses within the Alma Community zone. There will be lots of OCLC libraries in Alma, and not allowing WorldCat data in there would be a bad business strategy for ExLibris.
+
+I don't think the Alma Community zone will revolutionize the bibliographic ecosystem. What is interesting about it is that it is an obvious competitor to WorldCat, and as such it might raise a lot of interesting questions regarding different practices around licensing etc.
+
+ExLibris are not against open bibliographic data, but their main priority is to be able to sell their new system. Which is fine by me. It is we, libraries and others, that need to tell our vendors that open means open. Hopefully a vendor such as ExLibris (or anyone else) will use (true) openness to gain competitive advantage.
+
+Open bibliographic data will lower the total global cost of cataloguing, but this also, however, implies lower profit margins for vendors.
+
+/ Anders
+
+Fr?n: Peter Murray-Rust <pm286 at cam.ac.uk<mailto:pm286 at cam.ac.uk>>
+Svara till: List for Working Group on Open Bibliographic Data <open-bibliography at lists.okfn.org<mailto:open-bibliography at lists.okfn.org>>
+Datum: Wed, 22 Jun 2011 13:28:30 +0200
+Till: List for Working Group on Open Bibliographic Data <open-bibliography at lists.okfn.org<mailto:open-bibliography at lists.okfn.org>>
+?mne: Re: [open-bibliography] Ex Libris forms expert group on open data in Alma
+
+
+
+On Wed, Jun 22, 2011 at 11:39 AM, Adrian Pohl <adrian.pohl at okfn.org<mailto:adrian.pohl at okfn.org>> wrote:
+Hello,
+
+Ex Libris has formed an "Expert Advisory Group for Open Data in the
+Alma Library Management Service", see http://bit.ly/jfPKDj
+
+Karen, can you provide some more information about this? It doesn't
+seem to be focused on legal openness. Also I find this document quite
+inconsistent. A phrase like the Alma Community zone being "a catalog
+of bibliographic records shared by all libraries that are using the
+Alma library management service" does sound more like an exclusive
+club than an open database to me. Alongside Karen's quote this is a
+bit strange.
+
+The word "Open" is often used in  ways that are inconsistent with the OKD. I remember a vendor presenting their "Open API" at a JISC meeting. I questioned them and it appeared that the "Open API" was:
+* confidential information
+* could not be disclosed by purchasers
+
+The best synonym I came up with was "confidential documentation for our software"
+
+"Open" may simply mean that there is a consortium involved.
+
+This is why the OKD is so important. Without its simple precision we flounder in meaningless dialogue.
+
+P.
+
+
+
+--
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110622/47a69387/attachment.htm>
+
+From krichel at openlib.org  Wed Jun 22 12:51:37 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Wed, 22 Jun 2011 13:51:37 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+ in Alma
+In-Reply-To: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+Message-ID: <20110622115137.GB2205@openlib.org>
+
+  Adrian Pohl writes
+
+> Ex Libris has formed an "Expert Advisory Group for Open Data in the
+> Alma Library Management Service", see http://bit.ly/jfPKDj
+
+  RePEc are supposed to furnish data to this effort. I was not
+  asked to be on the committee.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From krichel at openlib.org  Wed Jun 22 13:01:56 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Wed, 22 Jun 2011 14:01:56 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+ in Alma
+In-Reply-To: <CA27A041.49BD%anders.soderback@sub.su.se>
+References: <BANLkTi=y4XtnKiftLa40h28gP4XZA+VOhg@mail.gmail.com>
+	<CA27A041.49BD%anders.soderback@sub.su.se>
+Message-ID: <20110622120156.GC2205@openlib.org>
+
+  Anders S?derb?ck writes
+
+> I *guess* the reason ExLibris has formed this group is because the
+> issue might be a bit vague and confusing to them as well. ExLibris
+> highest priority is to be able to sell Alma, not to promote
+> openness,
+
+  Yup, that's why the composition is more one of customers
+  rather than providers of data.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From pm286 at cam.ac.uk  Wed Jun 22 14:56:45 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 22 Jun 2011 14:56:45 +0100
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+	in Alma
+In-Reply-To: <20110622120156.GC2205@openlib.org>
+References: <BANLkTi=y4XtnKiftLa40h28gP4XZA+VOhg@mail.gmail.com>
+	<CA27A041.49BD%anders.soderback@sub.su.se>
+	<20110622120156.GC2205@openlib.org>
+Message-ID: <BANLkTimHTY-m0xEuXKww9q9w88ETh59Rnw@mail.gmail.com>
+
+At least some of the members of the exLibris group  read this list. I would
+urge them to make sure that the word Open was used consistently with the
+OKD. There are several conditions:
+
+* any data should be Open according to the Open Bibliographic Principles
+* any NECESSARY software should be Open. (i.e there should be a reasonable
+way that people can manipulate the data independently of the vendors system)
+or the data should be reasonably usable without software.
+* any specifications should be Open.
+* any services offered to the world should meet the Open Service Definition.
+
+I have no knowledge of the system or its purpose and it may be that it
+brings new approaches to real Openness. I will be particularly concerned
+with the rights of the data and the format of the data (specifcations). I
+would be concerned if the format was a new properietary one and even more
+concerned if there were restrictions on access to the specification and its
+use outside this project.
+
+We are currently writing up the Open Bibliography paper arising out of
+JiscOpenBIB, Bibliographica etc. and are proposing a common Open format
+BibJSON. This is very recent, but it would be a good time for the exLibris
+group to consider an Open approach to bibliographic formats. If, of course,
+that is what they have done it will be useful.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110622/51ccf859/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Jun 22 15:07:01 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 22 Jun 2011 16:07:01 +0200
+Subject: [open-bibliography] Open Knowledge London!
+Message-ID: <BANLkTin1oOFm_kz9St=BO7DujktQj9BhWA@mail.gmail.com>
+
+Hi all,
+
+We're very pleased to announce that we're going to be starting a
+series of regular meetups for people interested in open data, open
+content, and all things open in London. The Centre for Creative
+Collaboration has partnered with the Open Knowledge Foundation to let
+us use their fantastic space!
+
+More information about the kind of thing we'll be up to is at:
+
+http://jwyg.okfn.org/2011/06/10/proposal-open-knowledge-london/
+
+For anyone interested in participating, please join the
+ok-london-announce list (which I think we should rename to just
+ok-london!):
+
+http://lists.okfn.org/mailman/listinfo/ok-london-announce
+
+Please help us to spread the word! The first meeting will probably be
+in mid-July.
+
+All the best,
+
+Jonathan
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From kcoyle at kcoyle.net  Wed Jun 22 15:27:01 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 22 Jun 2011 07:27:01 -0700
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+ in Alma
+In-Reply-To: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+Message-ID: <20110622072701.136717a4tem86zzp@kcoyle.net>
+
+Actually, I know very little about it myself at this point, but I will  
+provide info when I get it. My goal is to push toward openness of the  
+data, and I believe that is also the goal of Ex Libris. As a company,  
+they cannot do anything about "legal" openness, they can only enter  
+into a contract with their users about the data they manage. Making  
+the bibliographic data in their system open is undoubtedly related to  
+a marketing advantage, but having a major vendor take up the question,  
+with openness as a goal, is a good thing.
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello,
+>
+> Ex Libris has formed an "Expert Advisory Group for Open Data in the
+> Alma Library Management Service", see http://bit.ly/jfPKDj
+>
+> Karen, can you provide some more information about this? It doesn't
+> seem to be focused on legal openness. Also I find this document quite
+> inconsistent. A phrase like the Alma Community zone being "a catalog
+> of bibliographic records shared by all libraries that are using the
+> Alma library management service" does sound more like an exclusive
+> club than an open database to me. Alongside Karen's quote this is a
+> bit strange.
+>
+> Best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From krichel at openlib.org  Thu Jun 23 08:56:04 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Thu, 23 Jun 2011 09:56:04 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+ in Alma
+In-Reply-To: <BANLkTimHTY-m0xEuXKww9q9w88ETh59Rnw@mail.gmail.com>
+References: <BANLkTi=y4XtnKiftLa40h28gP4XZA+VOhg@mail.gmail.com>
+	<CA27A041.49BD%anders.soderback@sub.su.se>
+	<20110622120156.GC2205@openlib.org>
+	<BANLkTimHTY-m0xEuXKww9q9w88ETh59Rnw@mail.gmail.com>
+Message-ID: <20110623075604.GA25378@openlib.org>
+
+
+  I just got the proposed agreement for RePEc to contribute 
+  data to Alma (I think). FWIW, I have made it available at
+
+http://governance.repec.org/legal/Ex_Libris_-_RePEc_Primo_Publishers_Agreement.doc
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From patrick.danowski at ist.ac.at  Thu Jun 23 09:14:40 2011
+From: patrick.danowski at ist.ac.at (Patrick Danowski)
+Date: Thu, 23 Jun 2011 10:14:40 +0200
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+	in Alma
+In-Reply-To: <20110622072701.136717a4tem86zzp@kcoyle.net>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+	<20110622072701.136717a4tem86zzp@kcoyle.net>
+Message-ID: <95B37B27-4BB6-43A0-ABE2-69F4A23513B0@ist.ac.at>
+
+Hi all,
+
+I think this is a good think because the open data movement can win. 
+
+First a short look on the situation. Exlibris is mainly a library system vendor and don't own library data (okay primo central is something different but its not mainly about metadata) What Exlibris can do is make it on the technology level very easy to provide linked data and downloadable data dumps. 
+
+If this technology based questions are part of the group discussion we can very happy because we have less to focus on the how (technology) question and can focus on the license issue. But the license decision has to be taken on the local level. 
+
+But certainly it can also happen was Adrian is pointing out that the talk only about openness in there own eco system. But there is must be made totally clear (if they came out with marketing for that) and this is not real open data. 
+
+It would be nice if they can realize the openness in there own system via using open licenses. 
+
+The outcome don't has to be perfect but the discussion is step forward. Looking forward to see where the discussion is going
+
+Patrick     
+
+Am 22.06.2011 um 16:27 schrieb Karen Coyle:
+
+> Actually, I know very little about it myself at this point, but I will  
+> provide info when I get it. My goal is to push toward openness of the  
+> data, and I believe that is also the goal of Ex Libris. As a company,  
+> they cannot do anything about "legal" openness, they can only enter  
+> into a contract with their users about the data they manage. Making  
+> the bibliographic data in their system open is undoubtedly related to  
+> a marketing advantage, but having a major vendor take up the question,  
+> with openness as a goal, is a good thing.
+> 
+> kc
+> 
+> Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+> 
+>> Hello,
+>> 
+>> Ex Libris has formed an "Expert Advisory Group for Open Data in the
+>> Alma Library Management Service", see http://bit.ly/jfPKDj
+>> 
+>> Karen, can you provide some more information about this? It doesn't
+>> seem to be focused on legal openness. Also I find this document quite
+>> inconsistent. A phrase like the Alma Community zone being "a catalog
+>> of bibliographic records shared by all libraries that are using the
+>> Alma library management service" does sound more like an exclusive
+>> club than an open database to me. Alongside Karen's quote this is a
+>> bit strange.
+>> 
+>> Best
+>> Adrian
+>> 
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> 
+> 
+> 
+> 
+> -- 
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+> 
+> 
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+From pm286 at cam.ac.uk  Thu Jun 23 15:00:55 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 23 Jun 2011 15:00:55 +0100
+Subject: [open-bibliography] Ex Libris forms expert group on open data
+	in Alma
+In-Reply-To: <20110622072701.136717a4tem86zzp@kcoyle.net>
+References: <BANLkTik-fcv8DozFecU7EPwAN+sPugSWJQ@mail.gmail.com>
+	<20110622072701.136717a4tem86zzp@kcoyle.net>
+Message-ID: <BANLkTinCsgLMpVhggMgbALorB0AgAC=MfA@mail.gmail.com>
+
+On Wed, Jun 22, 2011 at 3:27 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> Actually, I know very little about it myself at this point, but I will
+> provide info when I get it. My goal is to push toward openness of the data,
+> and I believe that is also the goal of Ex Libris. As a company, they cannot
+> do anything about "legal" openness, they can only enter into a contract with
+> their users about the data they manage. Making the bibliographic data in
+> their system open is undoubtedly related to a marketing advantage, but
+> having a major vendor take up the question, with openness as a goal, is a
+> good thing.
+>
+> kc
+>
+>
+Just to be boringly clear.
+
+They may or may not make data more easily accessible and more widely
+distributed and this may be a good thing. It's the use of the term "Open
+Data" that is the point. "Open" has often been used as a marketing slogan,
+like "healthy" or "green". If this term is used, and if this is the goal of
+the advisory group then nothing less than full Open Data (OKD-compliant)
+including the format is acceptable. Adopting this stance at the beginning of
+the project could be useful - aiming for something less is no value for Open
+Data.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110623/41b39f7a/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Jun 24 21:57:29 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 24 Jun 2011 22:57:29 +0200
+Subject: [open-bibliography] Notes from open metadata workshop, Hague,
+	15th June 2011
+Message-ID: <BANLkTin_tD1a6Dwktpy5X+VROrdFWKHL0w@mail.gmail.com>
+
+Though this might be of interest!
+
+http://blog.okfn.org/2011/06/24/notes-from-open-metadata-workshop-hague-15th-june-2011/
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ww at styx.org  Tue Jun 28 16:07:37 2011
+From: ww at styx.org (William Waites)
+Date: Tue, 28 Jun 2011 17:07:37 +0200
+Subject: [open-bibliography] W3C Library Linked Data Incubator Group draft
+	report - Call for	Public Comment
+Message-ID: <20110628150737.GW55504@styx.org>
+
+[apologies for cross-posting]
+
+----------------------------------------------------------------------
+       W3C Library Linked Data Incubator Group
+                 CALL FOR PUBLIC COMMENT
+
+The W3C Library Linked Data Incubator Group 
+(http://www.w3.org/2005/Incubator/lld/)
+has been chartered from May 2010 through August 2011 to prepare a series of 
+reports
+on the existing and potential use of Linked Data technology for publishing
+library data. The group is currently preparing:
+
+--  A report
+http://www.w3.org/2005/Incubator/lld/wiki/DraftReportWithTransclusion
+which consists of
+   "Benefits"
+   "Vocabularies and Datasets"
+   "Relevant Technologies"
+   "Implementation challenges"
+   "Recommendations"
+
+-- "Use Cases", a survey report describing existing projects
+http://www.w3.org/2005/Incubator/lld/wiki/UseCaseReport
+  
+-- "Vocabularies and Datasets", a survey report
+http://www.w3.org/2005/Incubator/lld/wiki/Vocabulary_and_Dataset
+
+We (LLD XG) invite comments from interested members of the public.
+
+Feedback can sent as comments to individual sections posted on our dedicated 
+blog
+http://blogs.ukoln.ac.uk/w3clld/
+or by email to a public mailing list
+(public-lld at w3.org, archived at 
+http://lists.w3.org/Archives/Public/public-lld/ )
+using descriptive subject lines such as '[COMMENTS] "Benefits" section'
+
+Comments will be especially welcome in the next four weeks (through 22
+July).  Reviewers should note that as with Wikipedia, the text may be revised
+and corrected by its editors in response to comments at any time, but that
+earlier versions of a document may be viewed by clicking on the History tab.
+
+It is anticipated that the three reports will be published in final form by 
+31
+August.
+
+
+From jenny.molloy at okfn.org  Wed Jun 29 15:09:22 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Wed, 29 Jun 2011 15:09:22 +0100
+Subject: [open-bibliography] SWAT4LS Hackathon
+Message-ID: <BANLkTinkWN12Ek_Uqi_OY6Cjh5a3erVv2g@mail.gmail.com>
+
+Dear All
+
+Apologies for cross posting but the Open Data in Science working group is
+organising the hackathon below, which will make use of Open Bibliographic
+Data so I thought it may be of interest to this list also!
+
+Please let me know if you're interested in helping/participating.
+
+Jenny
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jenny.molloy at okfn.org>
+Date: Wed, Jun 29, 2011 at 2:25 PM
+Subject: SWAT4LS Hackathon Update
+To: open-science at lists.okfn.org
+
+
+Dear All
+
+The working group is organising a hackathon as part of the SWAT4LS
+conference (http://www.swat4ls.org/) - see below for more details and a call
+for volunteers!
+
+When: Wednesday 7 December 2011, all day
+
+Where: ULU, London (TBC)
+
+What:
+A one day open data in science hackathon with partcipants from the Semantic
+Web for the Life Sciences community.
+The theme is to be generating open research reports using bibliographic data
+from PubMedCentral, focussing on malaria research. It is also designed to
+demonstrate what can be done with open data and discussions/ideas generated
+throughout the day will doubtless be wide ranging! Demos and discussions
+will also take place at the SWAT4LS meeting proper the next day.
+
+What we need:
+Volunteers with hackathon experience to assist on the day, and also in
+developing a framework for participants prior to the day itself, to ensure
+it is as productive as possible.
+
+If you're interested in assisting, let me know at jenny.molloy at okfn.org
+
+Thanks very much!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110629/ec426d2e/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jun 29 15:50:04 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 29 Jun 2011 15:50:04 +0100
+Subject: [open-bibliography] SWAT4LS Hackathon
+In-Reply-To: <BANLkTinkWN12Ek_Uqi_OY6Cjh5a3erVv2g@mail.gmail.com>
+References: <BANLkTinkWN12Ek_Uqi_OY6Cjh5a3erVv2g@mail.gmail.com>
+Message-ID: <BANLkTi=h5arfNfnqwQwr=PHXCG6+SQYhjQ@mail.gmail.com>
+
+On Wed, Jun 29, 2011 at 3:09 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Dear All
+>
+> Apologies for cross posting but the Open Data in Science working group is
+> organising the hackathon below, which will make use of Open Bibliographic
+> Data so I thought it may be of interest to this list also!
+>
+> Please let me know if you're interested in helping/participating.
+>
+>
+I've suggested those on the JISCOpenBib project, and Hope I will be able to
+come (as long as I am in the country). This project is very tractable, and
+with a critical mass should get off the ground.
+
+P.
+
+
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110629/1419ec4c/attachment.htm>
+

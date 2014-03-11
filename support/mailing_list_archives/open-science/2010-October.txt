@@ -1,0 +1,1176 @@
+From mfinn at usgs.gov  Fri Oct  1 20:32:43 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Fri, 1 Oct 2010 13:32:43 -0600
+Subject: [open-science] 2011 Cyberinfrastructure Specialty Group Student
+	Paper Merit Competition
+Message-ID: <OF5947D3FC.5858BAA2-ON872577AF.006A5B8A-872577AF.006B5DA6@usgs.gov>
+
+Apologies for cross-posts!
+
+
+STUDENT PAPER MERIT COMPETITION: AAG Cyberinfrastructure Specialty Group
+
+DEADLINE : TUESDAY, OCTOBER 19, 2010
+
+DESCRIPTION OF AWARD:
+
+The Cyberinfrastructure Specialty Group (CISG) is pleased to announce 
+their annual student paper award competition for the AAG Annual 
+Meeting. Students pursuing M.S. or Ph.D. degrees are eligible, and 
+paper topics may cover any aspect of cyberinfrastructure research, 
+including but not limited to: the semantic web (including ontologies), 
+grid computing, middleware, parallel and distributed GIS, high- 
+performance computing, distributed spatial analysis, collaborative 
+knowledge sharing and decision-making, sensor networks, virtual 
+organizations, and more. The student must be the sole or first author 
+of the paper and deliver an oral presentation in the CISG student 
+paper competition session. The student must also submit a 1500-word 
+extended abstract of the project that follows the attached guidelines. 
+The students selected for an award must be a member of the AAG and of 
+the CISG and must not have graduated at the time the presentation is 
+made.
+
+The student must first register individually for the AAG annual 
+meeting and submit a 250-word AAG paper abstract. Please follow the 
+instructions at http://www.aag.org/cs/annualmeeting/ 
+register_to_attend . Upon registration you will be given a participant 
+identification number (PIN).
+
+PROCEDURE:
+
+The PIN, the application form, and the extended abstract must be SENT 
+VIA EMAIL BY OCTOBER 19, 2010 to:
+
+Dr. Dawn Wright, Chair of CISG Award Committee
+Oregon State University
+dawn at dusk.geo.orst.edu
+
+
+
+-----------
+Dawn Wright | Professor | Department of Geosciences
+Oregon State University | Corvallis, OR 97331-5506
+http://dusk.geo.orst.edu | 541-737-1229 phone | 541-737-1200 fax | 
+Twitter @deepseadawn
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101001/ca5a78f8/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: CISG_student_award2011.doc
+Type: application/octet-stream
+Size: 45568 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101001/ca5a78f8/attachment-0001.obj>
+
+From cwbailey at digital-scholarship.com  Tue Oct 12 19:59:19 2010
+From: cwbailey at digital-scholarship.com (Charles W. Bailey, Jr.)
+Date: Tue, 12 Oct 2010 13:59:19 -0500
+Subject: [open-science] XHTML Version of Transforming Scholarly Publishing
+ through Open Access with Live Links
+Message-ID: <4CB4B007.7090004@digital-scholarship.com>
+
+Transforming Scholarly Publishing through Open Access: A
+Bibliography is now available as an XHTML website with live
+links to many included works. All versions of the
+bibliography are available under a Creative Commons
+Attribution-Noncommercial 3.0 United States License.
+
+OA XHTML: http://digital-scholarship.org/tsp/w/tsp.html
+
+OA PDF: http://digital-scholarship.org/tsp/transforming.pdf
+
+Low-Cost Paperback:
+http://digital-scholarship.org/tsp/transforming.htm
+
+This bibliography presents over 1,100 selected
+English-language scholarly works useful in understanding the
+open access movement's efforts to provide free access to and
+unfettered use of scholarly literature.  The bibliography
+primarily includes books and published journal articles.
+(See the "Preface" for further details about scope and
+selection criteria).
+
+Translate (oversatta, oversette, prelozit, traducir,
+traduire, tradurre, traduzir, or ubersetzen):
+
+http://digital-scholarship.org/announce/tsp2.htm
+
+-- 
+
+Best Regards,
+Charles
+
+Charles W. Bailey, Jr.
+Publisher, Digital Scholarship
+http://digital-scholarship.org/
+
+A Look Back at 21 Years as an Open Access Publisher
+http://digital-scholarship.org/cwb/21/21years.htm
+
+
+
+From jonathan.gray at okfn.org  Sat Oct 16 01:30:06 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 16 Oct 2010 01:30:06 +0100
+Subject: [open-science] Fwd: News release: Growing Knowledge benefits UK
+	researchers
+In-Reply-To: <8598444488746309.WA.n.yeelesjisc.ac.uk@jiscmail.ac.uk>
+References: <8598444488746309.WA.n.yeelesjisc.ac.uk@jiscmail.ac.uk>
+Message-ID: <AANLkTikX8tb5WcOrLUTGyD5z1jBhmAFD7_RBeoJeynDC@mail.gmail.com>
+
+Congrats to Cameron, Timo and others for their involvement in this
+exhibition at the BL!
+
+Was pleasantly surprised to see them and other familiar faces in the
+exhibition as I was passing through the British Library yesterday! ;-)
+
+http://www.growingknowledge.bl.uk/
+
+---------- Forwarded message ----------
+
+News release
+14 October 2010
+
+Growing Knowledge exhibition benefits UK researchers
+
+Researchers' interactions in a new digital environment launched today
+at the British Library are set to help JISC and similar organisations
+lead the future of research.
+
+<http://www.bl.uk/growingknowledge>
+
+The way that people interact with never-seen-before tools,
+thought-provoking content and futuristic design in the new 'Growing
+Knowledge: the evolution of research' exhibition will provide clues to
+how research is changing and what researchers want to experience from
+the library of the future.
+
+Created to encourage engagement and debate, researchers will be able
+to physically interact with tools such as Sony?s 360-degree
+Autostereoscopic Display, a Microsoft Surface Table and HP/Haworth
+interactive pods as well as view all the content and tools online.
+
+Working with JISC and the Ciber Research Group, part of UCL, library
+users and exhibition visitors will be invited to leave their feedback
+with discussion groups for postgraduate students to explore some of
+the issues in more depth, for example: How do physical spaces support
+digital research? Do any of the tools help with some of the issues
+they encounter?
+
+Sarah Porter, head of innovation at JISC, said: ?Part of JISC?s
+approach to technology for education is to consult with researchers
+and other library users so that we can channel our energy and
+investments into areas that are really going to make a difference.
+When we help with the evaluation of this exhibition we will be looking
+to understand further the place of digital tools in libraries for the
+benefit of teachers, students and researchers. ? It?s an opportunity
+to explore how innovative technologies can support people finding
+resources in virtual spaces as well as the physical library.?
+
+Richard Boulderstone, the British Library?s director of e-strategy and
+information systems, said: ?Over the last year we have been speaking
+to teams of researchers across the UK and around the world, getting a
+taste of how research is changing. ?We?ve met with researchers from
+archaeologists and performance historians to bioinformaticists, who
+are using the power of technology and the web to generate more
+collaborative and intuitive research models."
+
+Growing Knowledge will explore some of these disciplines as well as
+others, allowing visitors to interrogate, both physically and online
+these areas and listen to explanatory videos from experts, who will
+also reflect on how research is changing, and how it may in the
+future.
+
+Richard continued: ?We hope Growing Knowledge will inspire and
+intrigue in equal measure. For the British Library, it gives us an
+opportunity to define the role we will play in this brave new world.
+Growing Knowledge is also an exciting collaboration with a range of
+our partners. ?The Library works closely with many partners to help
+fill gaps in our knowledge and this exhibition provides an opportunity
+to work together to understand how researchers will use these tools in
+the future.?
+
+The exhibition was today formally opened by Andrew Miller MP, chair of
+the science and technology committee, exhibition researcher in
+residence Dr Aleks Krotoski and British Library chief executive, Dame
+Lynne Brindley. ?Growing Knowledge runs until 16 July 2011.
+
+In partnership with BBC, one part of the Growing Knowledge exhibition
+will explore whether social media tools and online networking support
+researchers in their work. ?Please contribute to the debate through a
+short survey at
+<http://www.bbc.co.uk/archive/growingknowledge/>
+
+Visit the exhibition at <http://www.bl.uk/growingknowledge>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Sun Oct 17 23:12:03 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sun, 17 Oct 2010 23:12:03 +0100
+Subject: [open-science] Anyone going to OAOD2010 in Cologne this December?
+Message-ID: <AANLkTi=4JsufsHpxp-q2Xt3WHvVJAPk=B0bSbOgYrmMZ@mail.gmail.com>
+
+Looks interesting!
+
+http://www.oaod2010.de/index.php?id=35
+
+Would very much like to hear from anyone who is going!
+
+Adrian: are you going? Do you know the organisers?
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Mon Oct 18 17:19:24 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 18 Oct 2010 17:19:24 +0100
+Subject: [open-science] Fwd: [SPARC-OpenData] Call for Workshops - IASSIST
+	2011
+In-Reply-To: <list-19236228@arl.org>
+References: <list-19236228@arl.org>
+Message-ID: <AANLkTikFuqeKVf+5hFmuqr-qKuF=jusoV3uDimrp1fBG@mail.gmail.com>
+
+This might be of interest!
+
+
+---------- Forwarded message ----------
+From: Robert R. Downs <rdowns at ciesin.columbia.edu>
+Date: Tue, Oct 12, 2010 at 2:23 PM
+Subject: [SPARC-OpenData] Call for Workshops - IASSIST 2011
+To: SPARC-OpenData <SPARC-OpenData at arl.org>
+
+
+Please find the Call for Workshops, below, for IASSIST 2011 and excuse
+any duplication of this message.
+
+Thanks,
+
+Bob Downs
+
+
+Call for Workshops
+IASSIST 2011: Data Science Professionals: a Global Community of Sharing
+
+The 37th International Association for Social Science Information
+Services and Technology (IASSIST) annual conference will be hosted by
+Simon Fraser University and University of British Columbia and will be
+held in Vancouver, Canada, May 31 ? June 3, 2011.
+
+The theme of this year's conference is Data Science Professionals: a
+Global Community of Sharing. Social science benefits from professional
+practices that enable sharing of data, information, and knowledge with
+a global community. This theme is intended to stimulate discussions
+about ways in which sharing data, information, and knowledge can
+contribute to research and to professional practices that enable
+scientific progress. Submissions are encouraged that offer
+improvements for creating, documenting, submitting, describing,
+disseminating, and preserving scientific research data.
+
+Workshops details:
+
+The conference committee seeks workshops that highlight this year?s
+theme ?Data Science Professionals: a Global Community of Sharing?.
+Below is a sample of possible workshop topics that may be considered:
+
+? Statistical Literacy
+? GIS
+? Statistical software and analysis
+? Data sharing, access and management in the future
+? Identifying and reducing barriers to data sharing
+? Issues of confidentiality in sharing
+? Sharing professional data science skills, knowledge, and techniques
+within and across disciplines
+? Citation of research data and persistent identifiers
+? Metadata facilitating data sharing
+? Emerging research infrastructures and data sharing
+? New data partnerships in knowledge communities
+? Sharing resources and data through social networks
+? Identifying user needs and customizing data services to meet the needs
+? The evolving data librarian profession
+? Data science practices that support global use and understanding of
+research data
+? Open (linked) data and digital repositories
+? Preservation for sharing, recovering data for contemporary use
+
+Successful workshop proposals will blend lecture and hands-on
+instruction. The conference planning committee will provide the
+necessary classroom space and computing supplies for all workshops.
+For previous examples of IASSIST workshops, please see:
+http://ciser.cornell.edu/IASSIST/workshops.shtm
+
+Workshops can be a half-day or full-day in length.
+
+Procedure:
+Please submit the proposed title and an abstract of no longer than 200
+words to edwardsm at uoguelph.ca
+With your submission please include a preliminary list of
+requirements, Computer Lab OR classroom, software and hardware
+requirements.
+
+Deadline for submission: November 29, 2010
+Notification of acceptance: February 3, 2011
+
+Please contact Michelle Edwards, IASSIST workshop Coordinator if you
+have any questions regarding workshop submissions at
+edwardsm at uoguelph.ca
+
+For more information about the conference, including travel and
+accommodation, see the conference web site at:
+http://www.rdl.sfu.ca/IASSIST/
+
+IASSIST is an international organization of professionals working in
+and with information technology and data services to support research
+and teaching in the social sciences. Typical workplaces include data
+archives/libraries, statistical agencies, research centers, libraries,
+academic departments, government departments, and non?profit
+organizations. See http://www.iassistdata.org for further information.
+
+IASSIST 2011
+31 May ? 3 June 2011
+Vancouver, Canada
+
+
+==========
+
+This message is sent to you because you are subscribed to
+?The SPARC-OpenData Mail List.
+To post, send your message to <SPARC-OpenData at arl.org>.
+To unsubscribe, email to <SPARC-OpenData-off at arl.org>.
+To switch to digest mode, email to <SPARC-OpenData-digest at arl.org>.
+Send administrative queries to <SPARC-OpenData-request at arl.org>.
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Mon Oct 18 20:05:03 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 18 Oct 2010 20:05:03 +0100
+Subject: [open-science] Anyone going to OAOD2010 in Cologne this
+	December?
+In-Reply-To: <4CBC35340200001400038953@agrippa.hbz-nrw.de>
+References: <4CBC35340200001400038953@agrippa.hbz-nrw.de>
+Message-ID: <AANLkTinmC9+RO6Jr9kQOr52uR0ksG_OUEYxvqzB0WZ6v@mail.gmail.com>
+
+Brilliant. It looks like Daniel, Friedrich, and Adrian will all be there!
+
+Look forward to hearing all about it! ;-)
+
+All the best,
+
+Jonathan
+
+>>>> Jonathan Gray <jonathan.gray at okfn.org> 18.10.10 0.38 Uhr >>>
+> Looks interesting!
+>
+> http://www.oaod2010.de/index.php?id=35
+>
+> Would very much like to hear from anyone who is going!
+>
+> Adrian: are you going? Do you know the organisers?
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From egon.willighagen at gmail.com  Wed Oct 20 11:30:49 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Wed, 20 Oct 2010 12:30:49 +0200
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+Message-ID: <AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+
+Hi Heather,
+
+On Fri, Aug 20, 2010 at 12:04 AM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+> We've drafted a letter to send to publishers on behalf of the OKF through
+> IsItOpen, requesting clarification on journal policies with respect to Open
+> Data. ?We've?received?feedback on the draft from several sources and the
+> letter has improved greatly as a result. ?Your turn!
+
+I just ran into this email while cleaning up my inbox... I was
+wondering about the status of this effort... was there much response?
+did you write up a summary?
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Research Associate
+University of Cambridge
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From mfinn at usgs.gov  Wed Oct 20 20:49:54 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Wed, 20 Oct 2010 13:49:54 -0600
+Subject: [open-science] Fw: 1st Announcement of ISPRS joint workshop on SDI,
+	Oct.20-21 2011, Guilin, China
+Message-ID: <OF9DD3F657.158336B5-ON872577C2.006CC1F5-872577C2.006CF06F@usgs.gov>
+
+Apologies for cross-posts!
+
+
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101020/4a7fd7d3/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 1st announcement.pdf
+Type: application/octet-stream
+Size: 7748425 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101020/4a7fd7d3/attachment-0001.obj>
+
+From mfinn at usgs.gov  Wed Oct 20 20:58:09 2010
+From: mfinn at usgs.gov (Michael P Finn)
+Date: Wed, 20 Oct 2010 13:58:09 -0600
+Subject: [open-science] AAG - Call For Illustrated Papers - Remote
+ Sensing/GIS/Cartography of Human Environment Interactions
+Message-ID: <OFD582F783.5B8167DB-ON872577C2.006D7789-872577C2.006DB2CD@usgs.gov>
+
+Apologies for cross-posts.
+
+
+
+Call For Illustrated Papers - Remote Sensing/GIS/Cartography of Human 
+Environment Interactions.
+Organizers: Kristina Yamamoto & Benjamin Tuttle
+
+Special Illustrated Paper Session for the 2011 AAG Annual Meeting,
+April 12-16, 2011, Seattle, WA.
+
+Sponsored by
+AAG Remote Sensing and Geographic Information Science and Systems
+Specialty Groups
+
+This special illustrated paper session serves as a forum for researchers 
+to
+communicate their current research using remote sensing/GIS/cartography to 
+study
+human-environment interactions. We particularly welcome submissions
+that cover one or more of the following topics:
+- Urban Area Analysis
+- Population Studies
+- Characterization of changing landscape structure and patterns
+- Estimations of CO2 Emissions
+- Analysis of Wildlife Habitat
+- Urban Sprawl/Change
+- Assessment of Human Impacts on Protected Areas
+- Any Novel Use of Remote Sensing/GIS/Cartography Pertaining to Human 
+Environment Interactions
+
+Abstract submission details are available in recent issues of the AAG
+newsletter and at the AAG 2011 website
+(http://www.aag.org/cs/news_detail?pressrelease.id=70). Please note
+that the AAG requires online submission of abstracts and registration
+materials (check AAG's webpage for details). Please go through the
+online submission system, and then send us an email containing: (1)
+Your name, presentation title, and abstract; and (2) The "Participant
+Number" assigned to you by the online registration system. The
+deadline for receiving all application materials from presenters is
+October 20, 2010.
+For more information, please contact Kristina Yamamoto
+(Kristina.Yamamoto at du.edu).
+
+Kristina Yamamoto
+Department of Geography
+University of Denver
+2050 E. Iliff Ave.
+Denver, CO 80208
+E-mail: Kristina.Yamamoto at du.edu
+
+Benjamin Tuttle
+Department of Geography
+University of Denver
+2050 E. Iliff Ave.
+Denver, CO 80208
+E-mail: btuttle at du.edu 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101020/ee9886aa/attachment.htm>
+
+From hpiwowar at gmail.com  Sat Oct 23 14:30:32 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Sat, 23 Oct 2010 09:30:32 -0400
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+Message-ID: <AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+
+Hi Egon,
+
+We did indeed get a response from PLoS and BMC.  Haven't heard from Nature.
+ Also, in response to a slightly different email about open API data,
+Mendeley clarified their open data policies.
+
+The summary of the PLoS and BMC response is on the new OKFN science blog:
+http://science.okfn.org/2010/09/13/bmc-and-plos-all-the-data-is-cc-by-enjoy/
+
+I have plans to do a quick writeup of the Mendeley response and also a "tips
+for IsItOpenData enquiries" post to summarize what I learned about avoiding
+spam filters etc.  I'll finish those Real Soon Now.
+
+Alas I don't have time at this point to send the letter out to other
+publishers, though others are certainly welcome to!  Let me know if I can be
+of help.  Anita de Waard had useful suggestions about making the definition
+of metadata looser before we send it out to commercial publishers.  The most
+recent version of the letter on etherpad incorporates this feedback:
+http://okfnpad.org/isitopenLetters
+
+Cheers,
+Heather
+
+
+On Wed, Oct 20, 2010 at 6:30 AM, Egon Willighagen <
+egon.willighagen at gmail.com> wrote:
+
+> Hi Heather,
+>
+> On Fri, Aug 20, 2010 at 12:04 AM, Heather Piwowar <hpiwowar at gmail.com>
+> wrote:
+> > We've drafted a letter to send to publishers on behalf of the OKF through
+> > IsItOpen, requesting clarification on journal policies with respect to
+> Open
+> > Data.  We've received feedback on the draft from several sources and the
+> > letter has improved greatly as a result.  Your turn!
+>
+> I just ran into this email while cleaning up my inbox... I was
+> wondering about the status of this effort... was there much response?
+> did you write up a summary?
+>
+> Egon
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Research Associate
+> University of Cambridge
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+
+
+
+-- 
+
+Heather Piwowar
+* *
+
+* *
+
+* *
+
+* *
+
+* *
+*
+
+DataONE postdoc with NESCent and Dryad
+
+**
+
+remote from Dept of Zoology, UBC, Vancouver Canada
+
+**
+
+hpiwowar at nescent.org
+
+** **
+
+http://researchremix.org
+** **@researchremix
+
+<http://twitter.com/researchremix>*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101023/19003759/attachment.htm>
+
+From egon.willighagen at gmail.com  Sun Oct 24 11:01:19 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sun, 24 Oct 2010 12:01:19 +0200
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+Message-ID: <AANLkTik5-LCNLYB7_UabZqgh9QjAfY+k3GJh4vvYksUZ@mail.gmail.com>
+
+Hi Heather,
+
+On Sat, Oct 23, 2010 at 3:30 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+> The summary of the PLoS and BMC response is on the new OKFN science blog:
+> http://science.okfn.org/2010/09/13/bmc-and-plos-all-the-data-is-cc-by-enjoy/
+
+Excellent! Sorry I missed that post :(
+
+> I have plans to do a quick writeup of the Mendeley response and also a "tips
+> for IsItOpenData enquiries" post to summarize what I learned about avoiding
+> spam filters etc. ?I'll finish those Real Soon Now.
+
+:)
+
+> Alas I don't have time at this point to send the letter out to other
+> publishers, though others are certainly welcome to! ?Let me know if I can be
+> of help. ?Anita de Waard had useful suggestions about making the definition
+> of metadata looser before we send it out to commercial publishers.
+
+PLoS and BMC were the only publishers that received a letter so far?
+
+I have a good feeling of what ACS, RSC, etc, will reply...
+
+> The most recent version of the letter on etherpad incorporates this feedback:
+> http://okfnpad.org/isitopenLetters
+
+OK, thanx.
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Research Associate
+University of Cambridge
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From hpiwowar at gmail.com  Sun Oct 24 12:12:32 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Sun, 24 Oct 2010 07:12:32 -0400
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTik5-LCNLYB7_UabZqgh9QjAfY+k3GJh4vvYksUZ@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+	<AANLkTik5-LCNLYB7_UabZqgh9QjAfY+k3GJh4vvYksUZ@mail.gmail.com>
+Message-ID: <AANLkTim+Q3EZUJ43yNQz755ZDcX29iwNwmEd8PGuWGuz@mail.gmail.com>
+
+Hi Egon,
+
+PLoS, BMC, and Nature received the letter.  We got rapid human confirmation
+that the letter was "receiving attention" at Nature but haven't heard since
+then.
+
+> I have a good feeling of what ACS, RSC, etc, will reply...
+
+Agreed.  I think it is ready to go... just needs to be sent (and, in my
+experience, followed up with a short email composed with few links and no
+spam language, sent from a personal email account, alerting the publisher
+that they have been sent such a letter, it may be in their spam folder, and
+highlighting that their response will immediately be made public).
+
+And for completeness in case there is a volunteer lurking on the list, I'll
+mention that then there is a round of reminders and thank yous at the end.
+
+Anyone, feel free to contact me if you want to send a few and have
+questions.
+
+Heather
+
+
+> > The most recent version of the letter on etherpad incorporates this
+> feedback:
+> > http://okfnpad.org/isitopenLetters
+>
+> OK, thanx.
+>
+> Egon
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Research Associate
+> University of Cambridge
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+
+
+
+-- 
+
+Heather Piwowar
+* *
+
+* *
+
+* *
+
+* *
+
+* *
+*
+
+DataONE postdoc with NESCent and Dryad
+
+**
+
+remote from Dept of Zoology, UBC, Vancouver Canada
+
+**
+
+hpiwowar at nescent.org
+
+** **
+
+http://researchremix.org
+** **@researchremix
+
+<http://twitter.com/researchremix>*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101024/a5e3b10d/attachment.htm>
+
+From pm286 at cam.ac.uk  Sun Oct 24 19:46:31 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 24 Oct 2010 19:46:31 +0100
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTik5-LCNLYB7_UabZqgh9QjAfY+k3GJh4vvYksUZ@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+	<AANLkTik5-LCNLYB7_UabZqgh9QjAfY+k3GJh4vvYksUZ@mail.gmail.com>
+Message-ID: <AANLkTim=4qUy8igx7dbVD6KucaMJWBaKC6vyEZDZL+KR@mail.gmail.com>
+
+Thanks very much both of you
+
+On Sun, Oct 24, 2010 at 11:01 AM, Egon Willighagen <
+egon.willighagen at gmail.com> wrote:
+
+> Hi Heather,
+>
+> I have a good feeling of what ACS, RSC, etc, will reply...
+>
+> The most likely thing is that we hear nothing. They are under no legal
+requirement to reply. We've asked Nature - who we see as relatively well
+inclined - and haven't hyeard bacl after at least a month.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101024/628740f0/attachment.htm>
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Wed Oct 27 12:01:10 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Wed, 27 Oct 2010 12:01:10 +0100
+Subject: [open-science] open-science Digest, Vol 24, Issue 5
+References: <mailman.5.1287486002.1059.open-science@lists.okfn.org>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA0312D28A@SEGBLOGR0008.springer-sbm.com>
+
+Hi Jonathan, 
+
+Re: Anyone going to OAOD2010 in Cologne this December?
+
+Yes I am going!
+
+Best regards,
+
+Iain
+
+
+Iain Hrynaszkiewicz
+Associate Journal Publisher
+
+BioMed Central
+236 Gray's Inn Road
+London, WC1X 8HB
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011 
+M: +44 (0)782 594 0538
+W: www.biomedcentral.com
+Skype: iainh_z
+Follow BioMed Central:
+
+
+
+-----Original Message-----
+From: open-science-bounces at lists.okfn.org
+[mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+open-science-request at lists.okfn.org
+Sent: 19 October 2010 12:00
+To: open-science at lists.okfn.org
+Subject: open-science Digest, Vol 24, Issue 5
+
+Send open-science mailing list submissions to
+	open-science at lists.okfn.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.okfn.org/mailman/listinfo/open-science
+or, via email, send a message with subject or body 'help' to
+	open-science-request at lists.okfn.org
+
+You can reach the person managing the list at
+	open-science-owner at lists.okfn.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of open-science digest..."
+
+
+Today's Topics:
+
+   1. Fwd: [SPARC-OpenData] Call for Workshops - IASSIST	2011
+      (Jonathan Gray)
+   2. Re: Anyone going to OAOD2010 in Cologne this	December?
+      (Jonathan Gray)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Mon, 18 Oct 2010 17:19:24 +0100
+From: Jonathan Gray <jonathan.gray at okfn.org>
+Subject: [open-science] Fwd: [SPARC-OpenData] Call for Workshops -
+	IASSIST	2011
+To: List for Working Group on Open Bibliographic Data
+	<open-bibliography at lists.okfn.org>
+Cc: open-science <open-science at lists.okfn.org>
+Message-ID:
+	<AANLkTikFuqeKVf+5hFmuqr-qKuF=jusoV3uDimrp1fBG at mail.gmail.com>
+Content-Type: text/plain; charset=UTF-8
+
+This might be of interest!
+
+
+---------- Forwarded message ----------
+From: Robert R. Downs <rdowns at ciesin.columbia.edu>
+Date: Tue, Oct 12, 2010 at 2:23 PM
+Subject: [SPARC-OpenData] Call for Workshops - IASSIST 2011
+To: SPARC-OpenData <SPARC-OpenData at arl.org>
+
+
+Please find the Call for Workshops, below, for IASSIST 2011 and excuse
+any duplication of this message.
+
+Thanks,
+
+Bob Downs
+
+
+Call for Workshops
+IASSIST 2011: Data Science Professionals: a Global Community of Sharing
+
+The 37th International Association for Social Science Information
+Services and Technology (IASSIST) annual conference will be hosted by
+Simon Fraser University and University of British Columbia and will be
+held in Vancouver, Canada, May 31 ? June 3, 2011.
+
+The theme of this year's conference is Data Science Professionals: a
+Global Community of Sharing. Social science benefits from professional
+practices that enable sharing of data, information, and knowledge with
+a global community. This theme is intended to stimulate discussions
+about ways in which sharing data, information, and knowledge can
+contribute to research and to professional practices that enable
+scientific progress. Submissions are encouraged that offer
+improvements for creating, documenting, submitting, describing,
+disseminating, and preserving scientific research data.
+
+Workshops details:
+
+The conference committee seeks workshops that highlight this year?s
+theme ?Data Science Professionals: a Global Community of Sharing?.
+Below is a sample of possible workshop topics that may be considered:
+
+? Statistical Literacy
+? GIS
+? Statistical software and analysis
+? Data sharing, access and management in the future
+? Identifying and reducing barriers to data sharing
+? Issues of confidentiality in sharing
+? Sharing professional data science skills, knowledge, and techniques
+within and across disciplines
+? Citation of research data and persistent identifiers
+? Metadata facilitating data sharing
+? Emerging research infrastructures and data sharing
+? New data partnerships in knowledge communities
+? Sharing resources and data through social networks
+? Identifying user needs and customizing data services to meet the needs
+? The evolving data librarian profession
+? Data science practices that support global use and understanding of
+research data
+? Open (linked) data and digital repositories
+? Preservation for sharing, recovering data for contemporary use
+
+Successful workshop proposals will blend lecture and hands-on
+instruction. The conference planning committee will provide the
+necessary classroom space and computing supplies for all workshops.
+For previous examples of IASSIST workshops, please see:
+http://ciser.cornell.edu/IASSIST/workshops.shtm
+
+Workshops can be a half-day or full-day in length.
+
+Procedure:
+Please submit the proposed title and an abstract of no longer than 200
+words to edwardsm at uoguelph.ca
+With your submission please include a preliminary list of
+requirements, Computer Lab OR classroom, software and hardware
+requirements.
+
+Deadline for submission: November 29, 2010
+Notification of acceptance: February 3, 2011
+
+Please contact Michelle Edwards, IASSIST workshop Coordinator if you
+have any questions regarding workshop submissions at
+edwardsm at uoguelph.ca
+
+For more information about the conference, including travel and
+accommodation, see the conference web site at:
+http://www.rdl.sfu.ca/IASSIST/
+
+IASSIST is an international organization of professionals working in
+and with information technology and data services to support research
+and teaching in the social sciences. Typical workplaces include data
+archives/libraries, statistical agencies, research centers, libraries,
+academic departments, government departments, and non?profit
+organizations. See http://www.iassistdata.org for further information.
+
+IASSIST 2011
+31 May ? 3 June 2011
+Vancouver, Canada
+
+
+==========
+
+This message is sent to you because you are subscribed to
+?The SPARC-OpenData Mail List.
+To post, send your message to <SPARC-OpenData at arl.org>.
+To unsubscribe, email to <SPARC-OpenData-off at arl.org>.
+To switch to digest mode, email to <SPARC-OpenData-digest at arl.org>.
+Send administrative queries to <SPARC-OpenData-request at arl.org>.
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+
+------------------------------
+
+Message: 2
+Date: Mon, 18 Oct 2010 20:05:03 +0100
+From: Jonathan Gray <jonathan.gray at okfn.org>
+Subject: Re: [open-science] Anyone going to OAOD2010 in Cologne this
+	December?
+To: Adrian Pohl <pohl at hbz-nrw.de>
+Cc: friedrich at pudo.org, open-science at lists.okfn.org,
+	daniel.dietrich at okfn.org
+Message-ID:
+	<AANLkTinmC9+RO6Jr9kQOr52uR0ksG_OUEYxvqzB0WZ6v at mail.gmail.com>
+Content-Type: text/plain; charset=ISO-8859-1
+
+Brilliant. It looks like Daniel, Friedrich, and Adrian will all be
+there!
+
+Look forward to hearing all about it! ;-)
+
+All the best,
+
+Jonathan
+
+>>>> Jonathan Gray <jonathan.gray at okfn.org> 18.10.10 0.38 Uhr >>>
+> Looks interesting!
+>
+> http://www.oaod2010.de/index.php?id=35
+>
+> Would very much like to hear from anyone who is going!
+>
+> Adrian: are you going? Do you know the organisers?
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+
+------------------------------
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-science
+
+
+End of open-science Digest, Vol 24, Issue 5
+*******************************************
+
+
+From pm286 at cam.ac.uk  Wed Oct 27 14:09:41 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 27 Oct 2010 14:09:41 +0100
+Subject: [open-science] Fwd: eSI CALL FOR MINI THEMES
+In-Reply-To: <5064274869686414864@unknownmsgid>
+References: <5064274869686414864@unknownmsgid>
+Message-ID: <AANLkTinLCoXt47_Qmy_wXA5giBXaRs0RjjuRBF3MZdf=@mail.gmail.com>
+
+This looks like it could be worth pursuing especially as we have a strong
+presence in Edinburgh. I anyway am intending to speak with Jo walsh today
+sometime.
+
+---------- Forwarded message ----------
+From: Elizabeth vander Meer <elizabeth.vandermeer at ed.ac.uk>
+Date: Wed, Oct 27, 2010 at 12:08 PM
+Subject: eSI CALL FOR MINI THEMES
+To: nesc-announce at nesc.ac.uk
+
+
+ *CALL FOR MINI THEMES*
+
+
+
+The e-Science Institute is currently issuing a call for Mini Themes, which
+would have a duration of up to six months (from January to July).  The
+deadline for submission is 26 November and decisions will be made by 10
+December.  We greatly encourage proposals in the *applications area*.
+ Please click on the following link for further details:
+
+
+
+http://www.esi.ac.uk/news/2010-10/37265
+
+
+
+Proposals should be sent to Anna Kenway (anna.kenway at ed.ac.uk).
+
+
+
+Do not hesitate to contact me at elizabeth.vandermeer at ed.ac.uk with any
+questions you might have prior to submission.  We look forward to hearing
+from you.
+
+
+
+
+
+
+
+Dr. Elizabeth Vander Meer
+
+eSI Project Officer
+
+e-Science Institute
+
+University of Edinburgh
+
+15 South College Street
+
+Edinburgh EH8 9AA
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101027/ccc78296/attachment.htm>
+

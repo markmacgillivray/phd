@@ -1,0 +1,3829 @@
+From rufus.pollock at okfn.org  Wed Feb  4 12:01:49 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 4 Feb 2009 12:01:49 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+Message-ID: <b68e90820902040401o4cadc9d7m18a52d197e597edd@mail.gmail.com>
+
+Dear Cameron, Peter and others,
+
+I've been planning to write a full piece about 'openness' and
+licensing in relation to data for a while. Prompted by recent
+discussions with John Wilbanks and then the post of Michael Nielsen on
+"The role of open licensing in open science" [1] I've put together a
+brief  'analysis' that I think might be useful.
+
+The full analysis can be found below or, for those who prefer reading
+websites rather than lists, the text is also posted up at:
+
+<http://blog.okfn.org/2009/02/02/open-data-openness-and-licensing/>
+
+This is obviously an important debate for 'open science' and I'd be
+really interested in the views of others. I know that some of the
+points made in this piece aren't shared by everyone -- for example, I
+know John Wilbanks is not a fan of the license approach (or of
+share-alike conditions) :)
+
+Lastly there are two appendices for this essay which I've left out in
+the interests of length. One is on 'Facts and Databases' the other is
+'Comments on the Science Commons Protocol'. I'd be happy to send them
+along if anyone wants to them.
+
+Regards,
+
+Rufus
+
+[1]:http://michaelnielsen.org/blog/?p=540
+
+# Openness and Licensing of (Open) Data
+
+## Why does this matter?
+
+Why bother about openness and licensing for data? After all they don't
+matter in themselves: what we really care about are things like the
+progress of human knowledge or the freedom to understand and share.
+
+However, open data is crucial to progress on these more fundamental
+items. It's crucial because open data is so much easier to break-up
+and recombine, to use and reuse. We therefore want people to have
+incentives to make their data open and for open data to be easily
+usable and reusable -- i.e. for open data to form a 'commons'.
+
+A good definition of openness acts as a standard that ensures
+different open datasets are 'interoperable' and therefore do form a
+commons. Licensing is important because it reduces uncertainty.
+Without a license you don't know where you, as a user, stand: when are
+you allowed to use this data? Are you allowed to give to others? To
+distribute your own changes, etc?
+
+Together, a definition of openness, plus a set of conformant licenses
+deliver clarity and simplicity. Not only is interoperability ensured
+but people can know at a glance, and without having to go through a
+whole lot of legalese, what they are free to do. (For more see [this
+article][why] and [this post][explicit]).
+
+**Thus, licensing and definitions are important even though they are
+only a small part of the overall picture. If we get them wrong they
+will keep on getting in the way of everything else. If we get them
+right we can stop worrying about them and focus our full energies on
+other things.**
+
+[explicit]:http://blog.okfn.org/2006/08/08/dead-knowledge-why-being-explicit-about-openness-matters/
+
+[why]:http://sciencecommons.org/weblog/archives/2008/08/18/voices-from-the-future-of-science-rufus-pollock-of-the-open-knowledge-foundation/
+
+
+## Background
+
+Over the last couple of years there has been substantial discussion
+about the licensing (or not) of (open) data and what 'open' should
+mean. In this debate there two distinct, but related, strands:
+
+  1. Some people have argued that licensing is inappropriate (or
+unnecessary) for data.
+  2. Disagreement about what 'open' should mean. Specifically: does
+openness allow for attribution and share-alike 'requirements' or
+should 'open' data mean 'public domain' data?
+
+These points are related because arguments for the inappropriateness
+of licensing data usually go along the lines: data equates to facts
+over which no monopoly IP rights can or should be granted; as such all
+data is automatically in the public domain and hence there is nothing
+to license (and worse 'licensing' amounts to an attempt to 'enclose'
+the public domain).
+
+However, even those who think that open data can/should only be public
+domain data still agree that it is reasonable and/or necessary to have
+some set of community 'rules' or 'norms' governing usage of data.
+Therefore, the question of what requirements should be allowed for
+'open' data is a common one, whatever one's stance on the PD question.
+
+Of course, even with agreement on requirements, there is still the
+question of whether these should be 'enforced' through a license or
+via community norms. To summarize, the three main questions are:
+
+**Qu 1. Is it important to license?**
+
+**Qu 2: What 'restrictive' requirements are compatible with openness?
+In particular does 'open' equate to PD only or are attribution and
+share-alike 'requirements' permitted?**
+
+**Qu 3: Community norms or licenses? Should 'community norms' or
+license terms be used in order to encode requirements such as
+attribution and share-alike?**
+
+Below I look at each of these in turn, laying out, as I see it, the
+current consensus and expressing my own view.
+
+
+## Question 1: Is it Important to License?
+
+The simple answer here is yes. Whether one likes it or not there are a
+whole bunch of jurisdictions where there are IP rights in data(bases).
+Note that this does **not** imply any monopoly rights in any facts
+that data represents.
+
+Thus, even if you just want your data to be in the 'public domain',
+you need to apply a license -- or something very closely resembling a
+license. (A suitable example is the Open Data Commons [Public Domain
+Dedication and License][pddl]).
+
+[pddl]:http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/
+
+## Question 2: What Should Openness Allow?
+
+Despite the sometimes heated discussion, there is, in fact, broad
+agreement: openness means freedom to use and reuse data in any way you
+wish. The only debate is over what, if any, conditions can be imposed
+when allowing use and reuse. In particular, following the example of
+the software and content domains, the following two items have been
+proposed as permissible exceptions to the basic rule of 'allow
+everything':
+
+  1. Requirement of attribution (in a non-burdensome manner)
+  2. Requirement to share-alike (a reuser or share-alike material
+must, when making publicly available their own material, make it
+openly available under a similar share-alike license)
+
+### Attribution
+
+Everyone agrees that requiring attribution is OK. Furthermore, it also
+now generally accepted that having this requirement in a license is
+not be a problem.
+
+(In the original [Protocol for Implementing Open Access
+Data][protocol] attribution was alleged to be problematic due to a
+potential for 'attribution stacking'. However, these concerns appear
+to have been allayed. To my mind, it was never clear why data needed
+to be different: code and content both have plenty of examples of
+projects with many contributors, much reuse *and* an attribution
+requirement).
+
+### Share-Alike
+
+Share-alike provisions are more controversial. It has been argued that
+share-alike conditions are problematic because of the potential for
+incompatibility between two share-alike licenses (or community norms).
+At the same time share-alike may provide an important incentive for
+individuals and communities to make their data openly available since
+it provides some assurance that this data will remain open. Thus, any
+evaluation comes down to the balance between:
+
+1. The costs, if any, of allowing share-alike in terms of e.g.
+complexity and compatibility.
+
+2. The benefits, if any, that share-alike provides by encouraging the
+creation of open data in the first place and in ensuring subsequent
+'sharing back' by those who build upon that data.
+
+In my view the benefits are substantial while the costs are not.
+Incompatibility can largely be avoided by only 'approving' share-alike
+licenses that are compatible. At the same time, share-alike enshrines
+a principle that is important to many communities in the code and
+content spheres and same seems true of data (consider e.g. Open Street
+Map).
+
+(Aside: it is important to emphasize that permitting share-alike does
+not mean it is must be used. In fact, a particular community could
+recommend against using share-alike as, for example, the Python
+community does for code hoping to make it into its standard library.)
+
+## Question 3: Licenses versus Community Norms
+
+Even if a basic license is used it can be argued that any
+'requirements' for attribution or share-alike should not be in a
+license but in 'community norms'. So which is best?
+
+In my view, when making available data, licenses are much better than
+community norms. Why?
+
+  1. A license is always needed even if you are taking a PD approach.
+So 'norms' don't obviate the need to license.
+  2. A license is able to encode 'norms' both formally and informally
+(for example, in a preamble -- cf. the GPL).
+  3. A license is likely to elicit at least as much, and almost
+certainly more, conformity with its provisions than community norms.
+This is especially true outside of the community. The future is likely
+to see a much more mixed data landscape whether in science or
+elsewhere with many 'non-community' (non-academic) business and among
+ordinary citizens. (Note also that for these groups the simplicity and
+formality of a license makes it superior to 'norms' in almost every
+respect -- transparency, certainty etc.
+    * If there are concerns that, in some jurisdictions, the absence
+of 'data' rights make e.g. share-alike provisions unenforceable
+nothing is lost by using a license: the license de facto reverts to
+the status of a community norm and any concerns regarding "false
+expectations" can easily be dealt with by a simple warning.
+
+**Flexibility:** some have argued that 'norms' are more 'flexible'
+than licenses. I'm not clear what this really means:
+
+  * Flexible = not enforceable. Perhaps true but I am unclear why this
+is an advantage (even to a user it is easy to comply with the open
+license)
+  * Flexible = leeway around the edges. For example I won't get in
+trouble if I don't attribute quite right. But this is true of licenses
+too: it is very unlikely anyone gets sued for a minor error in
+attribution and even with share-alike no court is likely to award
+damages for a mistake made in good faith -- especially if it can be
+easily corrected.
+  * Flexible = fuzzy. Fuzziness does not seem an attractive property
+when sharing data -- both sharer and sharee want clarity.
+  * Flexible = easily changed. Allowing major changes is a serious
+problem both for licensors and licensees (certainty and clarity would
+disappear). For minor changes licenses are just as good.
+
+Thus, in every respect I can think of, licenses are superior to
+community norms when making available open data.
+
+
+## Conclusion
+
+Summarizing the the conclusions from the above discussion we have:
+
+Qu 0: Does this matter?
+
+**Yes.** A good definition of openness and the use of some form of
+licensing is crucial to a healthy future for the open data community
+(and that will be pretty much everyone ...).
+
+Qu 1: Is it important to license?
+
+Ans: **A 'license' is always necessary** -- even if you advocate a
+PD-only approach. There is too much variation (and uncertainty) about
+what the IP situation is across the world to just go with the default.
+All providers of data should apply some kind of license or PD
+dedication.
+
+Qu 2: What 'restrictive' requirements are compatible with openness? In
+particular does 'open' equate to PD only or are attribution and
+share-alike 'requirements' permitted?
+
+Ans: **Both attribution and share-alike should be permitted.**
+Attribution is widely agreed to be acceptable. The second,
+'share-alike' is more controversial, but in my view should be allowed:
+there is no reason to break with the precedent set in code and content
+domains and its benefits seem substantial while costs are minimal if
+licenses are correctly managed.
+
+Qu 3: Community norms or licenses?
+
+Ans: **Use licenses when making available data.** Licenses provide all
+the benefits of community norms in terms of explicitly encoding the
+preferences of a community. At the same time they deliver greater
+clarity and transparency, and, in many jurisdictions, provides a legal
+enforceability which norms do not with regard to requirements of
+attribution or share-alike.
+
+## Colophon
+
+This essay comes out of ongoing discussions over the last few years
+with a large assortment of communities and individuals. The primary
+motivation for sitting down and pulling the threads together came out
+of reading [Michael Nielsen's post on The role of open licensing in
+open science][nielsen] (+ [thread][nielsen-thread]) and recent emails
+with [John Wilbanks of Science Commons][sc] on the [Open
+Definition][od] coord list.
+
+[nielsen]:http://michaelnielsen.org/blog/?p=540
+[nielsen-thread]:http://lists.okfn.org/pipermail/okfn-discuss/2009-January/001206.html
+[sc]:http://sciencecommons.org/
+
+Related work and earlier discussion on this matter include:
+
+  * The [Open Definition][od]
+  * The [Protocol for Implementing Open Access Data][protocol]
+  * The [Guide to Open Data Licensing][guide]
+  * [Open Data Discussion on SPARC Open Data List (2006)][2007]
+  * [Copyright Not Applicable to Geodata Post (2007)][geodata] (+
+[associated][geodata-l] [threads][geodata-l2])
+  * The [Open Data Commons][odc]
+  * [CCZero license][cczero]
+
+[2007-01]:https://mx2.arl.org/Lists/SPARC-OpenData/Message/100.html
+[2007-02]:https://mx2.arl.org/Lists/SPARC-OpenData/Message/101.html
+[2007]:http://blog.okfn.org/2007/01/14/open-data-discussion-on-sparc-list/
+[od]:http://www.opendefinition.org/
+[geodata]:http://blog.okfn.org/2007/04/01/copyright-not-applicable-to-geodata/
+[geodata-l]:http://lists.okfn.org/pipermail/okfn-discuss/2007-April/000389.html
+[geodata-l2]:http://lists.okfn.org/pipermail/okfn-discuss/2007-April/000392.html
+[guide]:http://www.okfn.org/wiki/OpenDataLicensing
+[protocol]:http://sciencecommons.org/projects/publishing/open-access-data-protocol/
+[odc]:http://www.opendatacommons.org/
+[cczero]:http://creativecommons.org/projects/cczero
+
+
+From mags.mcgeever at ed.ac.uk  Wed Feb  4 12:37:26 2009
+From: mags.mcgeever at ed.ac.uk (Mags McGeever)
+Date: Wed, 04 Feb 2009 12:37:26 +0000
+Subject: [open-science] open-science Digest, Vol 5, Issue 1
+In-Reply-To: <mailman.5.1233748802.5824.open-science@lists.okfn.org>
+References: <mailman.5.1233748802.5824.open-science@lists.okfn.org>
+Message-ID: <49898C06.1060404@ed.ac.uk>
+
+Hiya Rufus,
+
+Thanks a lot for posting this.  I don't have time to look at it this 
+week but I will make sure I do so shortly.  I for one would be 
+interested in seeing the 'Facts and Databases'  and  'Comments on the 
+Science Commons Protocol' appendices you mentioned.
+
+Warm regards,
+Mags
+
+-- 
+Mags McGeever, Legal Services Associate
+Digital Curation Centre/SCRIPT Centre
+University of Edinburgh
+Old College, South Bridge
+Edinburgh, EH8 9YL
+Tel: 00 44 (0)131 651 3836  Fax: 00 44 (0)131 650 6317
+
+My working days are Monday, Tuesday and Wednesday.  Should your email be 
+sent on a Thursday or Friday I will receive it on the following Monday.
+
+Interested in the legal aspects of digital curation?  Visit the DCC 
+Blawg at http://dccblawg.blogspot.com/
+
+ From time to time this email may contain legal information but this 
+should not be construed as legal advice (the term has a legally 
+significant meaning).
+
+open-science-request at lists.okfn.org wrote:
+> Send open-science mailing list submissions to
+> 	open-science at lists.okfn.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+> or, via email, send a message with subject or body 'help' to
+> 	open-science-request at lists.okfn.org
+> 
+> You can reach the person managing the list at
+> 	open-science-owner at lists.okfn.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of open-science digest..."
+> 
+> 
+> Today's Topics:
+> 
+>    1. Openness and Licensing of (Open) Data (Rufus Pollock)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Wed, 4 Feb 2009 12:01:49 +0000
+> From: Rufus Pollock <rufus.pollock at okfn.org>
+> Subject: [open-science] Openness and Licensing of (Open) Data
+> To: Neylon <cameron.neylon at stfc.ac.uk>, Peter Murray-Rust
+> 	<pm286 at cam.ac.uk>
+> Cc: open-science at lists.okfn.org
+> Message-ID:
+> 	<b68e90820902040401o4cadc9d7m18a52d197e597edd at mail.gmail.com>
+> Content-Type: text/plain; charset=UTF-8
+> 
+> Dear Cameron, Peter and others,
+> 
+> I've been planning to write a full piece about 'openness' and
+> licensing in relation to data for a while. Prompted by recent
+> discussions with John Wilbanks and then the post of Michael Nielsen on
+> "The role of open licensing in open science" [1] I've put together a
+> brief  'analysis' that I think might be useful.
+> 
+> The full analysis can be found below or, for those who prefer reading
+> websites rather than lists, the text is also posted up at:
+> 
+> <http://blog.okfn.org/2009/02/02/open-data-openness-and-licensing/>
+> 
+> This is obviously an important debate for 'open science' and I'd be
+> really interested in the views of others. I know that some of the
+> points made in this piece aren't shared by everyone -- for example, I
+> know John Wilbanks is not a fan of the license approach (or of
+> share-alike conditions) :)
+> 
+> Lastly there are two appendices for this essay which I've left out in
+> the interests of length. One is on 'Facts and Databases' the other is
+> 'Comments on the Science Commons Protocol'. I'd be happy to send them
+> along if anyone wants to them.
+> 
+> Regards,
+> 
+> Rufus
+> 
+> [1]:http://michaelnielsen.org/blog/?p=540
+> 
+> # Openness and Licensing of (Open) Data
+> 
+> ## Why does this matter?
+> 
+> Why bother about openness and licensing for data? After all they don't
+> matter in themselves: what we really care about are things like the
+> progress of human knowledge or the freedom to understand and share.
+> 
+> However, open data is crucial to progress on these more fundamental
+> items. It's crucial because open data is so much easier to break-up
+> and recombine, to use and reuse. We therefore want people to have
+> incentives to make their data open and for open data to be easily
+> usable and reusable -- i.e. for open data to form a 'commons'.
+> 
+> A good definition of openness acts as a standard that ensures
+> different open datasets are 'interoperable' and therefore do form a
+> commons. Licensing is important because it reduces uncertainty.
+> Without a license you don't know where you, as a user, stand: when are
+> you allowed to use this data? Are you allowed to give to others? To
+> distribute your own changes, etc?
+> 
+> Together, a definition of openness, plus a set of conformant licenses
+> deliver clarity and simplicity. Not only is interoperability ensured
+> but people can know at a glance, and without having to go through a
+> whole lot of legalese, what they are free to do. (For more see [this
+> article][why] and [this post][explicit]).
+> 
+> **Thus, licensing and definitions are important even though they are
+> only a small part of the overall picture. If we get them wrong they
+> will keep on getting in the way of everything else. If we get them
+> right we can stop worrying about them and focus our full energies on
+> other things.**
+> 
+> [explicit]:http://blog.okfn.org/2006/08/08/dead-knowledge-why-being-explicit-about-openness-matters/
+> 
+> [why]:http://sciencecommons.org/weblog/archives/2008/08/18/voices-from-the-future-of-science-rufus-pollock-of-the-open-knowledge-foundation/
+> 
+> 
+> ## Background
+> 
+> Over the last couple of years there has been substantial discussion
+> about the licensing (or not) of (open) data and what 'open' should
+> mean. In this debate there two distinct, but related, strands:
+> 
+>   1. Some people have argued that licensing is inappropriate (or
+> unnecessary) for data.
+>   2. Disagreement about what 'open' should mean. Specifically: does
+> openness allow for attribution and share-alike 'requirements' or
+> should 'open' data mean 'public domain' data?
+> 
+> These points are related because arguments for the inappropriateness
+> of licensing data usually go along the lines: data equates to facts
+> over which no monopoly IP rights can or should be granted; as such all
+> data is automatically in the public domain and hence there is nothing
+> to license (and worse 'licensing' amounts to an attempt to 'enclose'
+> the public domain).
+> 
+> However, even those who think that open data can/should only be public
+> domain data still agree that it is reasonable and/or necessary to have
+> some set of community 'rules' or 'norms' governing usage of data.
+> Therefore, the question of what requirements should be allowed for
+> 'open' data is a common one, whatever one's stance on the PD question.
+> 
+> Of course, even with agreement on requirements, there is still the
+> question of whether these should be 'enforced' through a license or
+> via community norms. To summarize, the three main questions are:
+> 
+> **Qu 1. Is it important to license?**
+> 
+> **Qu 2: What 'restrictive' requirements are compatible with openness?
+> In particular does 'open' equate to PD only or are attribution and
+> share-alike 'requirements' permitted?**
+> 
+> **Qu 3: Community norms or licenses? Should 'community norms' or
+> license terms be used in order to encode requirements such as
+> attribution and share-alike?**
+> 
+> Below I look at each of these in turn, laying out, as I see it, the
+> current consensus and expressing my own view.
+> 
+> 
+> ## Question 1: Is it Important to License?
+> 
+> The simple answer here is yes. Whether one likes it or not there are a
+> whole bunch of jurisdictions where there are IP rights in data(bases).
+> Note that this does **not** imply any monopoly rights in any facts
+> that data represents.
+> 
+> Thus, even if you just want your data to be in the 'public domain',
+> you need to apply a license -- or something very closely resembling a
+> license. (A suitable example is the Open Data Commons [Public Domain
+> Dedication and License][pddl]).
+> 
+> [pddl]:http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/
+> 
+> ## Question 2: What Should Openness Allow?
+> 
+> Despite the sometimes heated discussion, there is, in fact, broad
+> agreement: openness means freedom to use and reuse data in any way you
+> wish. The only debate is over what, if any, conditions can be imposed
+> when allowing use and reuse. In particular, following the example of
+> the software and content domains, the following two items have been
+> proposed as permissible exceptions to the basic rule of 'allow
+> everything':
+> 
+>   1. Requirement of attribution (in a non-burdensome manner)
+>   2. Requirement to share-alike (a reuser or share-alike material
+> must, when making publicly available their own material, make it
+> openly available under a similar share-alike license)
+> 
+> ### Attribution
+> 
+> Everyone agrees that requiring attribution is OK. Furthermore, it also
+> now generally accepted that having this requirement in a license is
+> not be a problem.
+> 
+> (In the original [Protocol for Implementing Open Access
+> Data][protocol] attribution was alleged to be problematic due to a
+> potential for 'attribution stacking'. However, these concerns appear
+> to have been allayed. To my mind, it was never clear why data needed
+> to be different: code and content both have plenty of examples of
+> projects with many contributors, much reuse *and* an attribution
+> requirement).
+> 
+> ### Share-Alike
+> 
+> Share-alike provisions are more controversial. It has been argued that
+> share-alike conditions are problematic because of the potential for
+> incompatibility between two share-alike licenses (or community norms).
+> At the same time share-alike may provide an important incentive for
+> individuals and communities to make their data openly available since
+> it provides some assurance that this data will remain open. Thus, any
+> evaluation comes down to the balance between:
+> 
+> 1. The costs, if any, of allowing share-alike in terms of e.g.
+> complexity and compatibility.
+> 
+> 2. The benefits, if any, that share-alike provides by encouraging the
+> creation of open data in the first place and in ensuring subsequent
+> 'sharing back' by those who build upon that data.
+> 
+> In my view the benefits are substantial while the costs are not.
+> Incompatibility can largely be avoided by only 'approving' share-alike
+> licenses that are compatible. At the same time, share-alike enshrines
+> a principle that is important to many communities in the code and
+> content spheres and same seems true of data (consider e.g. Open Street
+> Map).
+> 
+> (Aside: it is important to emphasize that permitting share-alike does
+> not mean it is must be used. In fact, a particular community could
+> recommend against using share-alike as, for example, the Python
+> community does for code hoping to make it into its standard library.)
+> 
+> ## Question 3: Licenses versus Community Norms
+> 
+> Even if a basic license is used it can be argued that any
+> 'requirements' for attribution or share-alike should not be in a
+> license but in 'community norms'. So which is best?
+> 
+> In my view, when making available data, licenses are much better than
+> community norms. Why?
+> 
+>   1. A license is always needed even if you are taking a PD approach.
+> So 'norms' don't obviate the need to license.
+>   2. A license is able to encode 'norms' both formally and informally
+> (for example, in a preamble -- cf. the GPL).
+>   3. A license is likely to elicit at least as much, and almost
+> certainly more, conformity with its provisions than community norms.
+> This is especially true outside of the community. The future is likely
+> to see a much more mixed data landscape whether in science or
+> elsewhere with many 'non-community' (non-academic) business and among
+> ordinary citizens. (Note also that for these groups the simplicity and
+> formality of a license makes it superior to 'norms' in almost every
+> respect -- transparency, certainty etc.
+>     * If there are concerns that, in some jurisdictions, the absence
+> of 'data' rights make e.g. share-alike provisions unenforceable
+> nothing is lost by using a license: the license de facto reverts to
+> the status of a community norm and any concerns regarding "false
+> expectations" can easily be dealt with by a simple warning.
+> 
+> **Flexibility:** some have argued that 'norms' are more 'flexible'
+> than licenses. I'm not clear what this really means:
+> 
+>   * Flexible = not enforceable. Perhaps true but I am unclear why this
+> is an advantage (even to a user it is easy to comply with the open
+> license)
+>   * Flexible = leeway around the edges. For example I won't get in
+> trouble if I don't attribute quite right. But this is true of licenses
+> too: it is very unlikely anyone gets sued for a minor error in
+> attribution and even with share-alike no court is likely to award
+> damages for a mistake made in good faith -- especially if it can be
+> easily corrected.
+>   * Flexible = fuzzy. Fuzziness does not seem an attractive property
+> when sharing data -- both sharer and sharee want clarity.
+>   * Flexible = easily changed. Allowing major changes is a serious
+> problem both for licensors and licensees (certainty and clarity would
+> disappear). For minor changes licenses are just as good.
+> 
+> Thus, in every respect I can think of, licenses are superior to
+> community norms when making available open data.
+> 
+> 
+> ## Conclusion
+> 
+> Summarizing the the conclusions from the above discussion we have:
+> 
+> Qu 0: Does this matter?
+> 
+> **Yes.** A good definition of openness and the use of some form of
+> licensing is crucial to a healthy future for the open data community
+> (and that will be pretty much everyone ...).
+> 
+> Qu 1: Is it important to license?
+> 
+> Ans: **A 'license' is always necessary** -- even if you advocate a
+> PD-only approach. There is too much variation (and uncertainty) about
+> what the IP situation is across the world to just go with the default.
+> All providers of data should apply some kind of license or PD
+> dedication.
+> 
+> Qu 2: What 'restrictive' requirements are compatible with openness? In
+> particular does 'open' equate to PD only or are attribution and
+> share-alike 'requirements' permitted?
+> 
+> Ans: **Both attribution and share-alike should be permitted.**
+> Attribution is widely agreed to be acceptable. The second,
+> 'share-alike' is more controversial, but in my view should be allowed:
+> there is no reason to break with the precedent set in code and content
+> domains and its benefits seem substantial while costs are minimal if
+> licenses are correctly managed.
+> 
+> Qu 3: Community norms or licenses?
+> 
+> Ans: **Use licenses when making available data.** Licenses provide all
+> the benefits of community norms in terms of explicitly encoding the
+> preferences of a community. At the same time they deliver greater
+> clarity and transparency, and, in many jurisdictions, provides a legal
+> enforceability which norms do not with regard to requirements of
+> attribution or share-alike.
+> 
+> ## Colophon
+> 
+> This essay comes out of ongoing discussions over the last few years
+> with a large assortment of communities and individuals. The primary
+> motivation for sitting down and pulling the threads together came out
+> of reading [Michael Nielsen's post on The role of open licensing in
+> open science][nielsen] (+ [thread][nielsen-thread]) and recent emails
+> with [John Wilbanks of Science Commons][sc] on the [Open
+> Definition][od] coord list.
+> 
+> [nielsen]:http://michaelnielsen.org/blog/?p=540
+> [nielsen-thread]:http://lists.okfn.org/pipermail/okfn-discuss/2009-January/001206.html
+> [sc]:http://sciencecommons.org/
+> 
+> Related work and earlier discussion on this matter include:
+> 
+>   * The [Open Definition][od]
+>   * The [Protocol for Implementing Open Access Data][protocol]
+>   * The [Guide to Open Data Licensing][guide]
+>   * [Open Data Discussion on SPARC Open Data List (2006)][2007]
+>   * [Copyright Not Applicable to Geodata Post (2007)][geodata] (+
+> [associated][geodata-l] [threads][geodata-l2])
+>   * The [Open Data Commons][odc]
+>   * [CCZero license][cczero]
+> 
+> [2007-01]:https://mx2.arl.org/Lists/SPARC-OpenData/Message/100.html
+> [2007-02]:https://mx2.arl.org/Lists/SPARC-OpenData/Message/101.html
+> [2007]:http://blog.okfn.org/2007/01/14/open-data-discussion-on-sparc-list/
+> [od]:http://www.opendefinition.org/
+> [geodata]:http://blog.okfn.org/2007/04/01/copyright-not-applicable-to-geodata/
+> [geodata-l]:http://lists.okfn.org/pipermail/okfn-discuss/2007-April/000389.html
+> [geodata-l2]:http://lists.okfn.org/pipermail/okfn-discuss/2007-April/000392.html
+> [guide]:http://www.okfn.org/wiki/OpenDataLicensing
+> [protocol]:http://sciencecommons.org/projects/publishing/open-access-data-protocol/
+> [odc]:http://www.opendatacommons.org/
+> [cczero]:http://creativecommons.org/projects/cczero
+> 
+> 
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+> 
+> 
+> End of open-science Digest, Vol 5, Issue 1
+> ******************************************
+> 
+
+=
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+From rufus.pollock at okfn.org  Thu Feb  5 13:12:25 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 5 Feb 2009 13:12:25 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5AFC59A.3B23%cameron.neylon@stfc.ac.uk>
+References: <b68e90820902040401o4cadc9d7m18a52d197e597edd@mail.gmail.com>
+	<C5AFC59A.3B23%cameron.neylon@stfc.ac.uk>
+Message-ID: <b68e90820902050512u44a672e7p46e63d76ed5a433c@mail.gmail.com>
+
+2009/2/4 Neylon <cameron.neylon at stfc.ac.uk>:
+> Hi Rufus
+>
+> Have written a partial reply on my blog
+>
+> http://blog.openwetware.org/scienceintheopen
+
+Thanks for the useful comments :)
+
+> Where I have tried to frame what I think goals should be for the discussion
+> (feel free to disagree of course).
+
+I think everyone agrees that whatever your go for (PD only or not) you
+need something explicit and that something explicit is going to look
+like a license.
+
+The real debate is about what can be 'required' of users of open
+material and whether those 'requirements' go in norms or licenses.
+These two items seem to get confused a lot.
+
+Most of the arguments I see from e.g. John at Science Commons against
+requiring attribution and share-alike seem to apply just as much to
+norms as to licenses. But do people really want to give these up? It
+seems to me that attribution is absolutely central to the scientific
+community -- and share-alike also seems pretty important to 'open
+science' (no-one wants people taking lots of data and then keeping it
+secret).
+
+In that case it seems that the argument must be that these type of
+provisions are somehow OK in norms but not in licenses. But this seems
+weird (the only explanation I can think of is that the 'norms' are
+really going to be 'enforced' but that does not seem a very attractive
+answer).
+
+Moving to the second point, whatever route you take (attribution or no
+attribution requirement etc) what makes norms better than licenses?
+Just like norms licenses are going to be enforced primarily by social
+means though they have the added backup of being licenses (useful when
+dealing those people especially outside of the 'community' who might
+not play fair ...). Furthermore, Licenses seem as flexible (in the
+good ways) as norms are (see the original essay for more on this).
+
+> Will try to write some things in response to the substance of your words in
+> the next few days. I think I can see the roots of where we differ now more
+> clearly - I just need to figure out how much of it just gut reaction and how
+> much it is reasoned response. And then get that into a coherent argument.
+
+Discussion here is both useful and important -- and any comments,
+critical or otherwise will be much appreciated.
+
+Rufus
+
+
+From rufus.pollock at okfn.org  Thu Feb  5 14:04:45 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 5 Feb 2009 14:04:45 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+Message-ID: <b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+
+As your comments are going to be public on your blog soon, hope you
+won't mind me cc'ing the open-science mailing list on this.
+
+2009/2/4 Michael Nielsen <mnielsen at perimeterinstitute.ca>:
+[snip]
+
+> I think it's an excellent article, and agree with a great deal in it.
+> However, there are three basic points at which I feel we have some
+> disagreement:
+>
+> (1) I think the article underrates the problems that may be caused by
+> licensing incompatibilities - witness all the problems this has caused in
+> the open source world, where the commons has fragmented;
+
+There have been occasions where license incompatibilities have been an
+issue but I am not sure I'd agree that the 'commons has fragmented' in
+open source. Do you have specific cases in mind?
+
+> (2) I think the article takes for granted that scientists are going to want
+> open licenses.  I don't see that this is necessarily true, certainly if
+> current norms are encoded in the license; and
+
+I quite agree with you so I think there's a misunderstanding! I'm not
+sure either that many scientists or other scholars will -- at least at
+the beginning. 5 years experience of talking with people on this has
+definitely taught me that :)
+
+The question I would ask to you here: if encoding current norms
+regarding data in licenses is a problem then encoding them in explicit
+community norms is also a problem (and if we're not explicit there are
+going to be serious problems ...).
+
+> (3) the article implicitly assumes that the license (not the norm) is how
+> enforcement will be handled, yet I think there is little evidence to suggest
+> that this is true in academic science, where norms are far more often the
+> remedy of choice.
+
+Let's be clear: most open licenses whether in software, content or
+anywhere else aren't 'enforced' (and won't be enforced) by recourse to
+the courts. Like norms licenses will be primarily enforced by social
+pressure. Saying use licenses isn't saying: let's settle all our
+disputes in courts! Much of the time a license is just a way to make
+explicit what the 'social contract'. But it has the added advantage of
+potentially being enforceable against those who might ignore the
+social norms (I give other reasons in the essay so won't rehash them
+again here).
+
+So again perhaps there is a misunderstanding: I see (open) licenses as
+a convenient and explicit encoding of what people can do with stuff
+(with the added advantage that, in extremis they are 'legally'
+enforceable).
+
+Lastly, I should emphasize that I'm assuming throughout here that
+we're talking about licensing for 'data' -- *not* about the governance
+of the community as a whole, which, though partially related, is a
+different and much larger matter.
+
+Regards,
+
+Rufus
+
+
+From wilbanks at creativecommons.org  Thu Feb  5 16:42:13 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 5 Feb 2009 17:42:13 +0100
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+Message-ID: <3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+
+my laptop was stolen yesterday so i am pecking this out on a
+smartphone. apologies in advance for typos etc.
+
+i think we have hit the key point on nrms v licenses. they will indeed
+encode the same things and create similar problems. the difference is
+that licenses further encode the right to obtain a prelinary
+injunction for violation, and norms do not.
+
+1. it is easy to imagine that in 14 we have very valuable data web,
+and that a db under the eu directive is in there and the owner wants
+value now. a lawsuit under ip has the power to bring down lots of
+other stuff. this is a very plausible future under a licensing regime
+but impossible under a normative regime.
+
+2 the involuntary infringer is liable for damages under licenses, even
+if she was not the person who removed attribution or sharealike
+clauses two steps back in the data web. if there is monetary value to
+be had, this is going to happen. endorsing open licenses = endorsing
+enforcement, even is the intent is not to go to court. and if we don't
+plan to go to court, why even allow the chance for this?
+
+3. fragmentation. data disciplines vary much more than software. their
+norms swing wildly, as do secondary regimes like privacy. creating the
+idea that one or two licenses suffice doesn't reflect this - it will
+force disciplines to choose between their norms and technolegal
+interoperability. and if the norms all get encoded in their own
+licenses we will indeed see fragmentation. this scenario also means
+that cross discipline mashup will be legally difficult.
+
+norms allow for formal encoding but informal punishment. this
+flexibility, when we don't know how this will all play out, just seems
+a more wise choice to me. it lets experimentation hapen without fear
+of lawsuit, and lets each community encode its ideals without breaking
+the power to integrate it al.
+
+in geneal, my instinct is that it is fine if these things *look* like
+licenses, as long as the enforcement is not in the courts. we create
+enormous potential for negative effects by using ip and courts, for
+little return. if i were evil i would be al over setting up a data
+troll business, use some easter eggs, and sue for revenue in about
+five years. makes patent trolling look like simple street robbery.
+
+
+
+On 2/5/09, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+> As your comments are going to be public on your blog soon, hope you
+> won't mind me cc'ing the open-science mailing list on this.
+>
+> 2009/2/4 Michael Nielsen <mnielsen at perimeterinstitute.ca>:
+> [snip]
+>
+>> I think it's an excellent article, and agree with a great deal in it.
+>> However, there are three basic points at which I feel we have some
+>> disagreement:
+>>
+>> (1) I think the article underrates the problems that may be caused by
+>> licensing incompatibilities - witness all the problems this has caused in
+>> the open source world, where the commons has fragmented;
+>
+> There have been occasions where license incompatibilities have been an
+> issue but I am not sure I'd agree that the 'commons has fragmented' in
+> open source. Do you have specific cases in mind?
+>
+>> (2) I think the article takes for granted that scientists are going to
+>> want
+>> open licenses.  I don't see that this is necessarily true, certainly if
+>> current norms are encoded in the license; and
+>
+> I quite agree with you so I think there's a misunderstanding! I'm not
+> sure either that many scientists or other scholars will -- at least at
+> the beginning. 5 years experience of talking with people on this has
+> definitely taught me that :)
+>
+> The question I would ask to you here: if encoding current norms
+> regarding data in licenses is a problem then encoding them in explicit
+> community norms is also a problem (and if we're not explicit there are
+> going to be serious problems ...).
+>
+>> (3) the article implicitly assumes that the license (not the norm) is how
+>> enforcement will be handled, yet I think there is little evidence to
+>> suggest
+>> that this is true in academic science, where norms are far more often the
+>> remedy of choice.
+>
+> Let's be clear: most open licenses whether in software, content or
+> anywhere else aren't 'enforced' (and won't be enforced) by recourse to
+> the courts. Like norms licenses will be primarily enforced by social
+> pressure. Saying use licenses isn't saying: let's settle all our
+> disputes in courts! Much of the time a license is just a way to make
+> explicit what the 'social contract'. But it has the added advantage of
+> potentially being enforceable against those who might ignore the
+> social norms (I give other reasons in the essay so won't rehash them
+> again here).
+>
+> So again perhaps there is a misunderstanding: I see (open) licenses as
+> a convenient and explicit encoding of what people can do with stuff
+> (with the added advantage that, in extremis they are 'legally'
+> enforceable).
+>
+> Lastly, I should emphasize that I'm assuming throughout here that
+> we're talking about licensing for 'data' -- *not* about the governance
+> of the community as a whole, which, though partially related, is a
+> different and much larger matter.
+>
+> Regards,
+>
+> Rufus
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+From cameron.neylon at stfc.ac.uk  Thu Feb  5 17:43:49 2009
+From: cameron.neylon at stfc.ac.uk (Neylon)
+Date: Thu, 05 Feb 2009 17:43:49 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+Message-ID: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+
+Hi All
+
+I think we've come to the nub of the argument in as much as what we are
+getting to is the gut response of each of us to licences. Rufus' perspective
+I think comes out most in the paragraph
+
+>> Let's be clear: most open licenses whether in software, content or
+>> anywhere else aren't 'enforced' (and won't be enforced) by recourse to
+>> the courts. Like norms licenses will be primarily enforced by social
+>> pressure. Saying use licenses isn't saying: let's settle all our
+>> disputes in courts!
+
+The problem is - that as soon as you call it a license then scientists will
+largely assume that is exactly what you are saying, and that will provoke a
+strong negative response. Call it a protocol, call it a standard, and people
+will feel comfortable. Hint that it is contractual and potentially
+enforceable and we will do two things. First run in the opposite direction
+and second ignore the terms /because/ it is a license.
+
+I visited a university department yesterday and three people separately
+freely stated that they had done something technically illegal or in breach
+of contract, followed up by the statement "so sue me". Flouting of the rules
+imposed by admin and legal people can be a badge of honour in many
+scientific communities.
+
+John's view, and to a certain extent mine are summed up by:
+
+> in geneal, my instinct is that it is fine if these things *look* like
+> licenses, as long as the enforcement is not in the courts. we create
+> enormous potential for negative effects by using ip and courts, for
+> little return. if i were evil i would be al over setting up a data
+> troll business, use some easter eggs, and sue for revenue in about
+> five years. makes patent trolling look like simple street robbery.
+
+The issue here is not whether someone would actually do this - but that
+scientists will immediately see the possibility and get disturbed by it.
+Remember these are the people who assume that it is more likely that if they
+make data available then someone will steal it, write up seventeen Nature
+papers, and become a millionaire without crediting them, rather than someone
+might make some modest use of it and credit them in the accepted way that we
+generally do. 
+
+It's an issue of control - if researchers feel they have ownership of this
+protocol/standard then there will be fewer barriers to adoption. If there is
+a perception that the protocol is "owned" by lawyers, which is what I
+believe will happen if it is called a license, then there will be very
+strong resistance. 
+
+In my view our best chance of promoting best practice and "enforcement" is
+through a protocol that funders choose to adopt for the research they
+support. This is a much more powerful way of driving researcher behaviour
+than through person to person contractual arrangements. I think this also
+gives us the best chance of pushing through the idea that data and
+collections of data should be explicitly placed in the public domain to
+maximise the ability for re-use.
+
+[Do we in fact agree on that incidentally? We haven't really touched on
+whether we agree what the idea world would look like. I know Rufus feels
+that share alike is acceptable but I don't know whether that means he thinks
+it is on balance a good thing.]
+
+[Is the mailing list published to web somewhere or should I repost this
+somewhere? I'm very keen to keep the discussion out in the open as it were]
+
+
+On 5/2/09 16:42, "John Wilbanks" <wilbanks at creativecommons.org> wrote:
+
+> my laptop was stolen yesterday so i am pecking this out on a
+> smartphone. apologies in advance for typos etc.
+> 
+> i think we have hit the key point on nrms v licenses. they will indeed
+> encode the same things and create similar problems. the difference is
+> that licenses further encode the right to obtain a prelinary
+> injunction for violation, and norms do not.
+> 
+> 1. it is easy to imagine that in 14 we have very valuable data web,
+> and that a db under the eu directive is in there and the owner wants
+> value now. a lawsuit under ip has the power to bring down lots of
+> other stuff. this is a very plausible future under a licensing regime
+> but impossible under a normative regime.
+> 
+> 2 the involuntary infringer is liable for damages under licenses, even
+> if she was not the person who removed attribution or sharealike
+> clauses two steps back in the data web. if there is monetary value to
+> be had, this is going to happen. endorsing open licenses = endorsing
+> enforcement, even is the intent is not to go to court. and if we don't
+> plan to go to court, why even allow the chance for this?
+> 
+> 3. fragmentation. data disciplines vary much more than software. their
+> norms swing wildly, as do secondary regimes like privacy. creating the
+> idea that one or two licenses suffice doesn't reflect this - it will
+> force disciplines to choose between their norms and technolegal
+> interoperability. and if the norms all get encoded in their own
+> licenses we will indeed see fragmentation. this scenario also means
+> that cross discipline mashup will be legally difficult.
+> 
+> norms allow for formal encoding but informal punishment. this
+> flexibility, when we don't know how this will all play out, just seems
+> a more wise choice to me. it lets experimentation hapen without fear
+> of lawsuit, and lets each community encode its ideals without breaking
+> the power to integrate it al.
+> 
+> in geneal, my instinct is that it is fine if these things *look* like
+> licenses, as long as the enforcement is not in the courts. we create
+> enormous potential for negative effects by using ip and courts, for
+> little return. if i were evil i would be al over setting up a data
+> troll business, use some easter eggs, and sue for revenue in about
+> five years. makes patent trolling look like simple street robbery.
+> 
+> 
+> 
+> On 2/5/09, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>> As your comments are going to be public on your blog soon, hope you
+>> won't mind me cc'ing the open-science mailing list on this.
+>> 
+>> 2009/2/4 Michael Nielsen <mnielsen at perimeterinstitute.ca>:
+>> [snip]
+>> 
+>>> I think it's an excellent article, and agree with a great deal in it.
+>>> However, there are three basic points at which I feel we have some
+>>> disagreement:
+>>> 
+>>> (1) I think the article underrates the problems that may be caused by
+>>> licensing incompatibilities - witness all the problems this has caused in
+>>> the open source world, where the commons has fragmented;
+>> 
+>> There have been occasions where license incompatibilities have been an
+>> issue but I am not sure I'd agree that the 'commons has fragmented' in
+>> open source. Do you have specific cases in mind?
+>> 
+>>> (2) I think the article takes for granted that scientists are going to
+>>> want
+>>> open licenses.  I don't see that this is necessarily true, certainly if
+>>> current norms are encoded in the license; and
+>> 
+>> I quite agree with you so I think there's a misunderstanding! I'm not
+>> sure either that many scientists or other scholars will -- at least at
+>> the beginning. 5 years experience of talking with people on this has
+>> definitely taught me that :)
+>> 
+>> The question I would ask to you here: if encoding current norms
+>> regarding data in licenses is a problem then encoding them in explicit
+>> community norms is also a problem (and if we're not explicit there are
+>> going to be serious problems ...).
+>> 
+>>> (3) the article implicitly assumes that the license (not the norm) is how
+>>> enforcement will be handled, yet I think there is little evidence to
+>>> suggest
+>>> that this is true in academic science, where norms are far more often the
+>>> remedy of choice.
+>> 
+>> Let's be clear: most open licenses whether in software, content or
+>> anywhere else aren't 'enforced' (and won't be enforced) by recourse to
+>> the courts. Like norms licenses will be primarily enforced by social
+>> pressure. Saying use licenses isn't saying: let's settle all our
+>> disputes in courts! Much of the time a license is just a way to make
+>> explicit what the 'social contract'. But it has the added advantage of
+>> potentially being enforceable against those who might ignore the
+>> social norms (I give other reasons in the essay so won't rehash them
+>> again here).
+>> 
+>> So again perhaps there is a misunderstanding: I see (open) licenses as
+>> a convenient and explicit encoding of what people can do with stuff
+>> (with the added advantage that, in extremis they are 'legally'
+>> enforceable).
+>> 
+>> Lastly, I should emphasize that I'm assuming throughout here that
+>> we're talking about licensing for 'data' -- *not* about the governance
+>> of the community as a whole, which, though partially related, is a
+>> different and much larger matter.
+>> 
+>> Regards,
+>> 
+>> Rufus
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+-- 
+Scanned by iCritical.
+
+
+From cwhooker at fastmail.fm  Thu Feb  5 18:49:31 2009
+From: cwhooker at fastmail.fm (Bill Hooker)
+Date: Thu, 05 Feb 2009 10:49:31 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+References: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+Message-ID: <1233859771.30541.1298753841@webmail.messagingengine.com>
+
+
+Am following with interest.  Agree very much with Cam:
+
+> It's an issue of control - if researchers feel they have ownership
+> of this protocol/standard then there will be fewer barriers to 
+> adoption. If there is a perception that the protocol is "owned" 
+> by lawyers, which is what I believe will happen if it is called 
+> a license, then there will be very strong resistance.
+
+So much as hint to a scientist that a lawyer might "take their work
+away" and you have a fight on your hands.  Doesn't matter if the
+perception is not accurate; it's very common (I'd say almost universal)
+and likely to be very difficult to change.
+
+Rufus says
+
+> ...most open licenses whether in software, content or anywhere 
+> else aren't 'enforced' (and won't be enforced) by recourse to
+> the courts. [...]  Saying use licenses isn't saying: let's 
+> settle all our disputes in courts!
+
+and my immediate reaction is bullshit, that's exactly what it's saying!  
+
+Then I stop to think about it, and realize that I can't think of more
+than a couple of court cases involving open licenses.  My point here is
+that, contrary to popular misconception, you won't get most scientists
+to think beyond their immediate reaction, and evidence won't change
+their minds.  Sad but true.
+
+Cam again:
+
+> In my view our best chance of promoting best practice and 
+> "enforcement" is through a protocol that funders choose to 
+> adopt for the research they support. This is a much more 
+> powerful way of driving researcher behaviour than through 
+> person to person contractual arrangements. 
+
+Funder *mandates* work -- the evidence from OA is strong.  Funder
+suggestions or preferences or strong recommendations do NOT work --
+again, evidence from OA.  If something is not a condition of taking the
+money, it won't get done.
+
+And Cam again:
+
+> Do we in fact agree [that data and collections of data should be 
+> explicitly placed in the public domain to maximise the ability for 
+> re-use] ?
+
+A central question.  We are all familiar with John Wilbanks' argument
+for public domain, and I find it entirely persuasive so that's the way I
+"vote".  
+
+I suspect most working scientists would agree but perhaps that would be
+a good question to approach empirically: question on FriendFeed to
+start?
+
+
+cheers,
+
+B.
+
+
+
+From heatherm at eln.bc.ca  Thu Feb  5 21:53:16 2009
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Thu, 5 Feb 2009 13:53:16 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+References: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+Message-ID: <67B41B82-56AF-40E4-82EE-BC7FCD2C03FD@eln.bc.ca>
+
+thanks to everyone who has contributed very useful and thoughtful  
+discussion on this important topic!
+
+The problem and the reason why licenses are needed, in my opnion, is  
+not scientists, but rather commercial for-profit businesses.  I would  
+argue that taking stuff that starts out free and selling it under  
+locked-down conditions IS the norm.  This is fine is the original  
+free version is there - but this will not always be the case.
+
+For example, consider the OCLC takeover of OAIster, and OCLC's  
+current view of IP and data.  If OCLC continues to keep up (including  
+growing and developing) the free version of OAIster, all well and  
+good, along with a toll-access version for OCLC customers, all well  
+and good.  If, however, the free version is abandoned, or simply not  
+kept up so that it becomes less and less useful, then people are in  
+the position of giving away data for free, for someone else to profit  
+on with no obligation to share themselves.
+
+An appropriate sharealike-style license for data would likely prevent  
+this situation, and if it did not, would give the free sharing  
+community a legal means of stopping it.
+
+The primary purpose of the licensing approach would not be to go to  
+court or even to clarify the rules, but rather to clarify the  
+expectation of sharing and so avoid the means to go to court.
+
+Any opinion expressed in this e-mail is that of the author alone, and  
+does not represent the opinion or policy of BC Electronic Library  
+Network or Simon Fraser University Library.
+
+Heather Morrison, MLIS
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+
+From mnielsen at perimeterinstitute.ca  Thu Feb  5 22:24:58 2009
+From: mnielsen at perimeterinstitute.ca (Michael Nielsen)
+Date: Thu, 5 Feb 2009 17:24:58 -0500 (EST)
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+Message-ID: <alpine.DEB.1.00.0902051658160.21865@mars.pi.local>
+
+
+On Thu, 5 Feb 2009, Rufus Pollock wrote:
+
+> As your comments are going to be public on your blog soon, hope you
+> won't mind me cc'ing the open-science mailing list on this.
+
+Good idea.
+
+>> (1) I think the article underrates the problems that may be caused by
+>> licensing incompatibilities - witness all the problems this has caused in
+>> the open source world, where the commons has fragmented;
+>
+> There have been occasions where license incompatibilities have been an
+> issue but I am not sure I'd agree that the 'commons has fragmented' in
+> open source. Do you have specific cases in mind?
+
+See, e.g., the licensing slide at:
+
+http://www.dwheeler.com/essays/floss-license-slide.html
+
+Software created under (for example) the Apache, Mozilla and GPL2 licenses 
+is all mutually incompatible, in the sense that code from one project 
+can't be combined with code from another.  Instead of a commons, we're 
+effectively seeing the construction of silos --- you may take freely from 
+one silo, but once you've picked it, that's the end.
+
+Another example which comes to mind is the saga of getting Wikipedia and 
+CC into sync, now happily concluded:
+
+http://lessig.org/blog/2008/11/enormously_important_news_from.html
+
+The obvious response someone might give is to say "Well, we should make 
+sure that kind of license proliferation doesn't happen in science."  But 
+that's easier said than done, especially if licensing becomes a big issue. 
+My instinct is to concentrate on norms, and keep the licensing side as 
+simple as possible.
+
+>> (2) I think the article takes for granted that scientists are going to want
+>> open licenses.  I don't see that this is necessarily true, certainly if
+>> current norms are encoded in the license; and
+>
+> I quite agree with you so I think there's a misunderstanding! I'm not
+> sure either that many scientists or other scholars will -- at least at
+> the beginning. 5 years experience of talking with people on this has
+> definitely taught me that :)
+>
+> The question I would ask to you here: if encoding current norms
+> regarding data in licenses is a problem then encoding them in explicit
+> community norms is also a problem (and if we're not explicit there are
+> going to be serious problems ...).
+
+I'm not sure what you mean by "explicit community norms".
+
+>> (3) the article implicitly assumes that the license (not the norm) is how
+>> enforcement will be handled, yet I think there is little evidence to suggest
+>> that this is true in academic science, where norms are far more often the
+>> remedy of choice.
+>
+> Let's be clear: most open licenses whether in software, content or
+> anywhere else aren't 'enforced' (and won't be enforced) by recourse to
+> the courts. Like norms licenses will be primarily enforced by social
+> pressure. Saying use licenses isn't saying: let's settle all our
+> disputes in courts! Much of the time a license is just a way to make
+> explicit what the 'social contract'. But it has the added advantage of
+> potentially being enforceable against those who might ignore the
+> social norms (I give other reasons in the essay so won't rehash them
+> again here).
+
+I'll just say that I agree with what John Wilbanks said here --- the 
+little you gain is not worth the cost in flexibility.
+
+Michael
+-- 
+Michael Nielsen
+
+Home: http://michaelnielsen.org/
+Blog: http://michaelnielsen.org/blog
+del.icio.us: http://del.icio.us/nielsen
+Email: mnielsen at perimeterinstitute.ca
+Phone: +1 (519) 498 1476
+
+
+From andy.powell at eduserv.org.uk  Fri Feb  6 11:45:54 2009
+From: andy.powell at eduserv.org.uk (Andy Powell)
+Date: Fri, 6 Feb 2009 11:45:54 -0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <1233859771.30541.1298753841@webmail.messagingengine.com>
+References: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+	<1233859771.30541.1298753841@webmail.messagingengine.com>
+Message-ID: <05CBF355F7317545AB0F8BF401F96052B578B0@edu-win-eml-l01.edu2000.com>
+
+> > It's an issue of control - if researchers feel they have 
+> ownership of 
+> > this protocol/standard then there will be fewer barriers to 
+> adoption. 
+> > If there is a perception that the protocol is "owned"
+> > by lawyers, which is what I believe will happen if it is called a 
+> > license, then there will be very strong resistance.
+> 
+> So much as hint to a scientist that a lawyer might "take 
+> their work away" and you have a fight on your hands.  Doesn't 
+> matter if the perception is not accurate; it's very common 
+> (I'd say almost universal) and likely to be very difficult to change.
+
+Interesting (to me at least!) that the concern that "a lawyer might
+'take their work away'" doesn't appear to have been a problem in the
+adoption of open licences for software?  Are scientists significantly
+more wary of lawyers than programmers?  I suppose the difference is that
+software space was already burdened with heavily protective licences and
+that the introduction of open licences was perceived as a step in the
+right direction, at least by those who like that kind of thing.
+
+Similarly, in the cultural heritage space, it seems to me that any
+slowness to move towards openness of digitised artifacts (for example)
+is not caused by a concern that CC is codified as a set of 'licences' or
+that lawyers might have been involved in their creation, rather with
+more fundamental concerns about the impact of being 'open' on business
+models and the like.
+
+Andy
+--
+Research Programme Director, Eduserv
+http://www.eduserv.org.uk/foundation/
+http://efoundations.typepad.com/
+andy.powell at eduserv.org.uk
++44 (0)1225 474319
+
+
+From yishaym at gmail.com  Fri Feb  6 12:00:23 2009
+From: yishaym at gmail.com (Yishay Mor)
+Date: Fri, 6 Feb 2009 12:00:23 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <05CBF355F7317545AB0F8BF401F96052B578B0@edu-win-eml-l01.edu2000.com>
+References: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+	<1233859771.30541.1298753841@webmail.messagingengine.com>
+	<05CBF355F7317545AB0F8BF401F96052B578B0@edu-win-eml-l01.edu2000.com>
+Message-ID: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+
+I confess, I haven't been able to follow this discussion in detail. Some of
+the comments appeared to have a lot of intellectual gravity behind them, but
+were simply too long for me to take in. Would anyone care to provide an
+executive summary?
+
+I may be off the mark, but I would argue that there's a general principle to
+consider here. I hold that any data collected by public money should be made
+freely available to the public, for any use that contributes to the public
+good. Strikes me as a no-brainer, but of course - we have a long way to go.
+If we accept this principle, the licensing follows.
+
+By the way, this may be relevant:
+http://www.web2rights.org.uk/
+
+___________________________
+ Yishay Mor, Researcher, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+  http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+  +44-20-78378888 x5737
+
+
+2009/2/6 Andy Powell <andy.powell at eduserv.org.uk>
+
+> > > It's an issue of control - if researchers feel they have
+> > ownership of
+> > > this protocol/standard then there will be fewer barriers to
+> > adoption.
+> > > If there is a perception that the protocol is "owned"
+> > > by lawyers, which is what I believe will happen if it is called a
+> > > license, then there will be very strong resistance.
+> >
+> > So much as hint to a scientist that a lawyer might "take
+> > their work away" and you have a fight on your hands.  Doesn't
+> > matter if the perception is not accurate; it's very common
+> > (I'd say almost universal) and likely to be very difficult to change.
+>
+> Interesting (to me at least!) that the concern that "a lawyer might
+> 'take their work away'" doesn't appear to have been a problem in the
+> adoption of open licences for software?  Are scientists significantly
+> more wary of lawyers than programmers?  I suppose the difference is that
+> software space was already burdened with heavily protective licences and
+> that the introduction of open licences was perceived as a step in the
+> right direction, at least by those who like that kind of thing.
+>
+> Similarly, in the cultural heritage space, it seems to me that any
+> slowness to move towards openness of digitised artifacts (for example)
+> is not caused by a concern that CC is codified as a set of 'licences' or
+> that lawyers might have been involved in their creation, rather with
+> more fundamental concerns about the impact of being 'open' on business
+> models and the like.
+>
+> Andy
+> --
+> Research Programme Director, Eduserv
+> http://www.eduserv.org.uk/foundation/
+> http://efoundations.typepad.com/
+> andy.powell at eduserv.org.uk
+> +44 (0)1225 474319
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090206/26a90231/attachment.htm 
+
+From cameron.neylon at stfc.ac.uk  Fri Feb  6 16:01:10 2009
+From: cameron.neylon at stfc.ac.uk (Neylon)
+Date: Fri, 06 Feb 2009 16:01:10 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+Message-ID: <C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+
+Yishay, I am afraid it isn?t short but I?ve tried to summarise:
+http://blog.openwetware.org/scienceintheopen/2009/02/06/licenses-and-protoco
+ls-for-open-science-the-debate-continues/
+
+This is an important discussion that has been going on in disparate places,
+but primarily at the moment is on the Open Science mailing list maintained
+by the OKF. To try and keep things together and because Yishay Mor asked, I
+thought I would try to summarize the current state of the debate.
+
+The key aim here is to find a form of practice that will enhance data
+availability, and protect it into the future.
+
+There is general agreement that there is a need for some sort of declaration
+associated with making data available. Clarity is important and the minimum
+here would be a clear statement of intention.
+
+Where there is disagreement is over what form this should take. Rufus
+Pollock started by giving the reasons why this should be a formal license.
+Rufus believes that a license provides certainty and clarity in a way that a
+protocol, statement of principles, or expression of community standards can
+not.  I, along with Bill Hooker and John Wilbanks [links are to posts on
+mailing list], expressed a concern that actually the use of legal language,
+and the notion of ?ownership? of this by lawyers rather than scientists
+would have profound negative results. Andy Powell points out that this did
+not seem to occur either in the Open Source movement or with much of the
+open content community. But I believe he also hits the nail on the head with
+the possible reason:
+
+"I suppose the difference is that software space was already burdened with
+heavily protective licences and that the introduction of open licences was
+perceived as a step in the right direction, at least by those who like that
+kind of thing."
+
+Scientific data has a history of being assumed to be in public domain (see
+the lack of any license at PDB or Genbank or most other databases) so there
+isn?t the same sense of pushing back from an existing strong IP or licensing
+regime. However I think there is broad agreement that this protocol or
+statement would look a lot like a license and would aim to have the legal
+effect of at least providing clarity over the rights of users to copy,
+re-purpose, and fork the objects in question.
+
+Michael Nielsen and John Wilbanks have expressed a concern about the
+potential for license proliferation and incompatibility. Michael cites the
+example of Apache, Mozilla, and GPL2 licenses. This feeds into the issue of
+the acceptability, or desirability of share-alike provisions which is an
+area of significant division. Heather Morrison raises the issue of dealing
+with commercial entities who may take data and use technical means to
+effectively take it out of the public domain, citing the takeover of OAIster
+by OCLC as a potential example.
+
+This is a real area of contention I think because some of us (including me)
+would see this in quite a positive light (data being used effectively in a
+commercial setting is better than it not being used at all) as long as the
+data is still both legally and technically in the public domain. Indeed this
+is at the core of the power of a public domain declaration. The issue of
+finding the resources that support the preservation of research objects in
+the (accessible) public domain is a separate one but in my view if we don?t
+embrace the idea that money can and should be made off data placed in the
+public domain then we are going to be in big trouble sooner or later because
+the money will simply run out.
+
+On the flip side of the argument is a strong tradition of arguing that viral
+licensing and share alike provisions protect the rights and personal
+investment of individuals and small players against larger commercial
+entities. Many of the people who support open data belong to this tradition,
+often for very good historical reasons. I personally don?t disagree with the
+argument on a logical level, but I think for scientific data we need to
+provide clear paths for commercial exploitation because using science to do
+useful things costs a lot of money. If you want people want to invest in
+using the outputs of publicly funded research you need to provide them with
+the certainty that they can legitimately use that data within their current
+business practice. I think it is also clear that those of us who take this
+line need to come up with a clear and convincing way of expressing this
+argument because it is at the centre of the objection to ?protection? via
+licenses and share alike provisions.
+
+Finally Yishay brings us back to the main point. Something to keep focussed
+on:
+
+"I may be off the mark, but I would argue that there?s a general principle
+to consider here. I hold that any data collected by public money should be
+made freely available to the public, for any use that contributes to the
+public good. Strikes me as a no-brainer, but of course - we have a long way
+to go. If we accept this principle, the licensing follows."
+
+Obviously I don?t agree with the last sentence - I would say that dedication
+to the public domain follows - but the principle I think is something we can
+agree that we are aiming for.
+
+
+On 6/2/09 12:00, "Yishay Mor" <yishaym at gmail.com> wrote:
+
+> I may be off the mark, but I would argue that there's a general principle to
+> consider here. I hold that any data collected by public money should be made
+> freely available to the public, for any use that contributes to the public
+> good. Strikes me as a no-brainer, but of course - we have a long way to go. If
+> we accept this principle, the licensing follows.
+
+
+-- 
+Scanned by iCritical.
+
+
+From yishaym at gmail.com  Fri Feb  6 16:45:27 2009
+From: yishaym at gmail.com (Yishay Mor)
+Date: Fri, 6 Feb 2009 16:45:27 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+Message-ID: <e5fbfda10902060845i2288f20eub63d239fc6e8d116@mail.gmail.com>
+
+thanks. excellent summary. just one clarification:
+If I put my data on the web, with a note attached saying: "you are free to
+use this data in any way you please." that, for me, is a license. A very
+open, simple, public domain license. If I use data from any source, I want
+to know the terms under which I am allowed to use it. That's why I want to
+see a license statement.
+I'm happy to see commercial exploitation of my work, as long as it doesn't
+prohibit future non-commercial use, or future commercial use for that
+matter.
+
+___________________________
+ Yishay Mor, Researcher, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+  http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+  +44-20-78378888 x5737
+
+
+2009/2/6 Neylon <cameron.neylon at stfc.ac.uk>
+
+> Yishay, I am afraid it isn?t short but I?ve tried to summarise:
+>
+> http://blog.openwetware.org/scienceintheopen/2009/02/06/licenses-and-protoco
+> ls-for-open-science-the-debate-continues/<http://blog.openwetware.org/scienceintheopen/2009/02/06/licenses-and-protoco%0Als-for-open-science-the-debate-continues/>
+>
+> This is an important discussion that has been going on in disparate places,
+> but primarily at the moment is on the Open Science mailing list maintained
+> by the OKF. To try and keep things together and because Yishay Mor asked, I
+> thought I would try to summarize the current state of the debate.
+>
+> The key aim here is to find a form of practice that will enhance data
+> availability, and protect it into the future.
+>
+> There is general agreement that there is a need for some sort of
+> declaration
+> associated with making data available. Clarity is important and the minimum
+> here would be a clear statement of intention.
+>
+> Where there is disagreement is over what form this should take. Rufus
+> Pollock started by giving the reasons why this should be a formal license.
+> Rufus believes that a license provides certainty and clarity in a way that
+> a
+> protocol, statement of principles, or expression of community standards can
+> not.  I, along with Bill Hooker and John Wilbanks [links are to posts on
+> mailing list], expressed a concern that actually the use of legal language,
+> and the notion of ?ownership? of this by lawyers rather than scientists
+> would have profound negative results. Andy Powell points out that this did
+> not seem to occur either in the Open Source movement or with much of the
+> open content community. But I believe he also hits the nail on the head
+> with
+> the possible reason:
+>
+> "I suppose the difference is that software space was already burdened with
+> heavily protective licences and that the introduction of open licences was
+> perceived as a step in the right direction, at least by those who like that
+> kind of thing."
+>
+> Scientific data has a history of being assumed to be in public domain (see
+> the lack of any license at PDB or Genbank or most other databases) so there
+> isn?t the same sense of pushing back from an existing strong IP or
+> licensing
+> regime. However I think there is broad agreement that this protocol or
+> statement would look a lot like a license and would aim to have the legal
+> effect of at least providing clarity over the rights of users to copy,
+> re-purpose, and fork the objects in question.
+>
+> Michael Nielsen and John Wilbanks have expressed a concern about the
+> potential for license proliferation and incompatibility. Michael cites the
+> example of Apache, Mozilla, and GPL2 licenses. This feeds into the issue of
+> the acceptability, or desirability of share-alike provisions which is an
+> area of significant division. Heather Morrison raises the issue of dealing
+> with commercial entities who may take data and use technical means to
+> effectively take it out of the public domain, citing the takeover of
+> OAIster
+> by OCLC as a potential example.
+>
+> This is a real area of contention I think because some of us (including me)
+> would see this in quite a positive light (data being used effectively in a
+> commercial setting is better than it not being used at all) as long as the
+> data is still both legally and technically in the public domain. Indeed
+> this
+> is at the core of the power of a public domain declaration. The issue of
+> finding the resources that support the preservation of research objects in
+> the (accessible) public domain is a separate one but in my view if we don?t
+> embrace the idea that money can and should be made off data placed in the
+> public domain then we are going to be in big trouble sooner or later
+> because
+> the money will simply run out.
+>
+> On the flip side of the argument is a strong tradition of arguing that
+> viral
+> licensing and share alike provisions protect the rights and personal
+> investment of individuals and small players against larger commercial
+> entities. Many of the people who support open data belong to this
+> tradition,
+> often for very good historical reasons. I personally don?t disagree with
+> the
+> argument on a logical level, but I think for scientific data we need to
+> provide clear paths for commercial exploitation because using science to do
+> useful things costs a lot of money. If you want people want to invest in
+> using the outputs of publicly funded research you need to provide them with
+> the certainty that they can legitimately use that data within their current
+> business practice. I think it is also clear that those of us who take this
+> line need to come up with a clear and convincing way of expressing this
+> argument because it is at the centre of the objection to ?protection? via
+> licenses and share alike provisions.
+>
+> Finally Yishay brings us back to the main point. Something to keep focussed
+> on:
+>
+> "I may be off the mark, but I would argue that there?s a general principle
+> to consider here. I hold that any data collected by public money should be
+> made freely available to the public, for any use that contributes to the
+> public good. Strikes me as a no-brainer, but of course - we have a long way
+> to go. If we accept this principle, the licensing follows."
+>
+> Obviously I don?t agree with the last sentence - I would say that
+> dedication
+> to the public domain follows - but the principle I think is something we
+> can
+> agree that we are aiming for.
+>
+>
+> On 6/2/09 12:00, "Yishay Mor" <yishaym at gmail.com> wrote:
+>
+> > I may be off the mark, but I would argue that there's a general principle
+> to
+> > consider here. I hold that any data collected by public money should be
+> made
+> > freely available to the public, for any use that contributes to the
+> public
+> > good. Strikes me as a no-brainer, but of course - we have a long way to
+> go. If
+> > we accept this principle, the licensing follows.
+>
+>
+> --
+> Scanned by iCritical.
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090206/51b4260c/attachment.htm 
+
+From heatherm at eln.bc.ca  Fri Feb  6 17:36:11 2009
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Fri, 6 Feb 2009 09:36:11 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <e5fbfda10902060845i2288f20eub63d239fc6e8d116@mail.gmail.com>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+	<e5fbfda10902060845i2288f20eub63d239fc6e8d116@mail.gmail.com>
+Message-ID: <7E56F06E-2F9B-4ED2-AC61-0A470983A3C7@eln.bc.ca>
+
+I agree that this is an excellent summary of the discussion, although  
+my point about commercial entities has at least as much to do with  
+business practices as it does with technical means of suppression.   
+That is, if a free service is made available through toll access and  
+then the free service is not maintained, the public domain becomes  
+effectively captured.  Unless the capturing entity has an obligation  
+to at least release the data they received from the public domain.   
+That is sharealike.
+
+The idea of scholars writing simple notes to go with data has a lot  
+of appeal for me.  This brings scholars themselves into the  
+discussion, and allow norms to evolve from the community.
+
+Public domain (including commercial use) makes sense to me for data;  
+but it may be that the concept of public domain needs to evolve.   
+What if I want to give my work to the public domain, including  
+responsible / fair commercial use, but excluding exploitative use  
+(such as locking up the public domain)?
+
+As an example of where I would be concerned about norms of giving  
+away work for the public domain, including commercial work:  This  
+would mean that scholars in developing countries would give away  
+their data, and companies could make use of the data to create  
+products to sell, whether information products based on adding value  
+to the research through data-mining, or products such as new drugs,  
+etc.  This would be exploitative, and could potentially increase the  
+economic divide.
+
+I am sure exactly what the best approach to a solution is here.   
+Norms for data that reflect a fair / responsible public domain - or  
+is it the laws that regulate businesses that should require some  
+elements of fairness / responsibility (or the triple bottom line)?
+
+Any opinion expressed in this e-mail is that of the author alone, and  
+does not represent the opinion or policy of BC Electronic Library  
+Network or Simon Fraser University Library.
+
+Heather Morrison, MLIS
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+On 6-Feb-09, at 8:45 AM, Yishay Mor wrote:
+
+> thanks. excellent summary. just one clarification:
+> If I put my data on the web, with a note attached saying: "you are  
+> free to use this data in any way you please." that, for me, is a  
+> license. A very open, simple, public domain license. If I use data  
+> from any source, I want to know the terms under which I am allowed  
+> to use it. That's why I want to see a license statement.
+> I'm happy to see commercial exploitation of my work, as long as it  
+> doesn't prohibit future non-commercial use, or future commercial  
+> use for that matter.
+>
+> ___________________________
+>  Yishay Mor, Researcher, London Knowledge Lab
+>   http://www.lkl.ac.uk/people/mor.html
+>   http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+>   +44-20-78378888 x5737
+>
+>
+> 2009/2/6 Neylon <cameron.neylon at stfc.ac.uk>
+> Yishay, I am afraid it isn?t short but I?ve tried to summarise:
+> http://blog.openwetware.org/scienceintheopen/2009/02/06/licenses- 
+> and-protoco
+> ls-for-open-science-the-debate-continues/
+>
+> This is an important discussion that has been going on in disparate  
+> places,
+> but primarily at the moment is on the Open Science mailing list  
+> maintained
+> by the OKF. To try and keep things together and because Yishay Mor  
+> asked, I
+> thought I would try to summarize the current state of the debate.
+>
+> The key aim here is to find a form of practice that will enhance data
+> availability, and protect it into the future.
+>
+> There is general agreement that there is a need for some sort of  
+> declaration
+> associated with making data available. Clarity is important and the  
+> minimum
+> here would be a clear statement of intention.
+>
+> Where there is disagreement is over what form this should take. Rufus
+> Pollock started by giving the reasons why this should be a formal  
+> license.
+> Rufus believes that a license provides certainty and clarity in a  
+> way that a
+> protocol, statement of principles, or expression of community  
+> standards can
+> not.  I, along with Bill Hooker and John Wilbanks [links are to  
+> posts on
+> mailing list], expressed a concern that actually the use of legal  
+> language,
+> and the notion of ?ownership? of this by lawyers rather than  
+> scientists
+> would have profound negative results. Andy Powell points out that  
+> this did
+> not seem to occur either in the Open Source movement or with much  
+> of the
+> open content community. But I believe he also hits the nail on the  
+> head with
+> the possible reason:
+>
+> "I suppose the difference is that software space was already  
+> burdened with
+> heavily protective licences and that the introduction of open  
+> licences was
+> perceived as a step in the right direction, at least by those who  
+> like that
+> kind of thing."
+>
+> Scientific data has a history of being assumed to be in public  
+> domain (see
+> the lack of any license at PDB or Genbank or most other databases)  
+> so there
+> isn?t the same sense of pushing back from an existing strong IP or  
+> licensing
+> regime. However I think there is broad agreement that this protocol or
+> statement would look a lot like a license and would aim to have the  
+> legal
+> effect of at least providing clarity over the rights of users to copy,
+> re-purpose, and fork the objects in question.
+>
+> Michael Nielsen and John Wilbanks have expressed a concern about the
+> potential for license proliferation and incompatibility. Michael  
+> cites the
+> example of Apache, Mozilla, and GPL2 licenses. This feeds into the  
+> issue of
+> the acceptability, or desirability of share-alike provisions which  
+> is an
+> area of significant division. Heather Morrison raises the issue of  
+> dealing
+> with commercial entities who may take data and use technical means to
+> effectively take it out of the public domain, citing the takeover  
+> of OAIster
+> by OCLC as a potential example.
+>
+> This is a real area of contention I think because some of us  
+> (including me)
+> would see this in quite a positive light (data being used  
+> effectively in a
+> commercial setting is better than it not being used at all) as long  
+> as the
+> data is still both legally and technically in the public domain.  
+> Indeed this
+> is at the core of the power of a public domain declaration. The  
+> issue of
+> finding the resources that support the preservation of research  
+> objects in
+> the (accessible) public domain is a separate one but in my view if  
+> we don?t
+> embrace the idea that money can and should be made off data placed  
+> in the
+> public domain then we are going to be in big trouble sooner or  
+> later because
+> the money will simply run out.
+>
+> On the flip side of the argument is a strong tradition of arguing  
+> that viral
+> licensing and share alike provisions protect the rights and personal
+> investment of individuals and small players against larger commercial
+> entities. Many of the people who support open data belong to this  
+> tradition,
+> often for very good historical reasons. I personally don?t disagree  
+> with the
+> argument on a logical level, but I think for scientific data we  
+> need to
+> provide clear paths for commercial exploitation because using  
+> science to do
+> useful things costs a lot of money. If you want people want to  
+> invest in
+> using the outputs of publicly funded research you need to provide  
+> them with
+> the certainty that they can legitimately use that data within their  
+> current
+> business practice. I think it is also clear that those of us who  
+> take this
+> line need to come up with a clear and convincing way of expressing  
+> this
+> argument because it is at the centre of the objection to  
+> ?protection? via
+> licenses and share alike provisions.
+>
+> Finally Yishay brings us back to the main point. Something to keep  
+> focussed
+> on:
+>
+> "I may be off the mark, but I would argue that there?s a general  
+> principle
+> to consider here. I hold that any data collected by public money  
+> should be
+> made freely available to the public, for any use that contributes  
+> to the
+> public good. Strikes me as a no-brainer, but of course - we have a  
+> long way
+> to go. If we accept this principle, the licensing follows."
+>
+> Obviously I don?t agree with the last sentence - I would say that  
+> dedication
+> to the public domain follows - but the principle I think is  
+> something we can
+> agree that we are aiming for.
+>
+>
+> On 6/2/09 12:00, "Yishay Mor" <yishaym at gmail.com> wrote:
+>
+> > I may be off the mark, but I would argue that there's a general  
+> principle to
+> > consider here. I hold that any data collected by public money  
+> should be made
+> > freely available to the public, for any use that contributes to  
+> the public
+> > good. Strikes me as a no-brainer, but of course - we have a long  
+> way to go. If
+> > we accept this principle, the licensing follows.
+>
+>
+> --
+> Scanned by iCritical.
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+
+
+From rufus.pollock at okfn.org  Mon Feb  9 14:22:29 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 9 Feb 2009 14:22:29 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+Message-ID: <b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+
+2009/2/5 John Wilbanks <wilbanks at creativecommons.org>:
+> my laptop was stolen yesterday so i am pecking this out on a
+> smartphone. apologies in advance for typos etc.
+
+Sorry to hear that :(
+
+> i think we have hit the key point on nrms v licenses. they will indeed
+> encode the same things and create similar problems. the difference is
+> that licenses further encode the right to obtain a prelinary
+> injunction for violation, and norms do not.
+
+Yes.
+
+> 1. it is easy to imagine that in 14 we have very valuable data web,
+> and that a db under the eu directive is in there and the owner wants
+> value now. a lawsuit under ip has the power to bring down lots of
+> other stuff. this is a very plausible future under a licensing regime
+> but impossible under a normative regime.
+
+Not sure I follow here (perhaps typos).
+
+> 2 the involuntary infringer is liable for damages under licenses, even
+> if she was not the person who removed attribution or sharealike
+> clauses two steps back in the data web. if there is monetary value to
+> be had, this is going to happen. endorsing open licenses = endorsing
+> enforcement, even is the intent is not to go to court. and if we don't
+> plan to go to court, why even allow the chance for this?
+
+Because not planning does not mean it never happening (or the threat
+of it happening not being important).
+
+I also really don't understand the logic here. Court only happens due
+to enforcement when people don't obey (and intentionally -- it is
+extremely unlikely you are going to get in trouble for inadvertantly
+failing to comply ...). I.e. it is important precisely when 'norms'
+aren't cutting it ...
+
+It seems to me that that the status of a the GPL as a license rather
+than a norm has been important in getting compliance from some people
+over time -- and more importantly in encouraging others to contribute
+to GPL'd projects in the first place.
+
+> 3. fragmentation. data disciplines vary much more than software. their
+> norms swing wildly, as do secondary regimes like privacy. creating the
+> idea that one or two licenses suffice doesn't reflect this - it will
+> force disciplines to choose between their norms and technolegal
+> interoperability. and if the norms all get encoded in their own
+> licenses we will indeed see fragmentation. this scenario also means
+> that cross discipline mashup will be legally difficult.
+
+I am not sure I really buy this. Code gets used across a lot of different areas.
+
+Plus we are not talking about the whole governance of a discipline but
+data sharing. Moreover we are also only talking about encoding 'open'
+data across disciplines (and the only things we are possibly allowing
+away from PD is attribution and Share-alike).
+
+> norms allow for formal encoding but informal punishment. this
+> flexibility, when we don't know how this will all play out, just seems
+> a more wise choice to me. it lets experimentation hapen without fear
+> of lawsuit, and lets each community encode its ideals without breaking
+> the power to integrate it al.
+
+But a) there is flexibility in licenses (look at attribution with CC
+licenses for content and b) what about the flip-side (non-compliance)
+
+> in geneal, my instinct is that it is fine if these things *look* like
+> licenses, as long as the enforcement is not in the courts. we create
+> enormous potential for negative effects by using ip and courts, for
+> little return. if i were evil i would be al over setting up a data
+> troll business, use some easter eggs, and sue for revenue in about
+> five years. makes patent trolling look like simple street robbery.
+
+So I think we agree that whatever happens data access is going to be
+covered by fairly formal documents that specify what you are supposed
+to do. (So we should be clear that unlike most 'norms' these are going
+to be fairly formalized).
+
+Leaving aside the fact that there are going to patent-related issues
+in this stuff anyway (pharma, business methods etc). Also I don't
+understand how 'us' (the open data) community not using licenses and
+IP prevents everyone else from doing so? If you are worried about
+'trolling' in data then it is going to happen whether we use licenses
+or norms or ....
+
+Regards,
+
+Rufus
+
+
+From rufus.pollock at okfn.org  Mon Feb  9 14:36:16 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 9 Feb 2009 14:36:16 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+References: <3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<C5B0D5D5.3B74%cameron.neylon@stfc.ac.uk>
+Message-ID: <b68e90820902090636m4ba2db52ub697354592178ea9@mail.gmail.com>
+
+2009/2/5 Neylon <cameron.neylon at stfc.ac.uk>:
+[snip]
+>>> Let's be clear: most open licenses whether in software, content or
+>>> anywhere else aren't 'enforced' (and won't be enforced) by recourse to
+>>> the courts. Like norms licenses will be primarily enforced by social
+>>> pressure. Saying use licenses isn't saying: let's settle all our
+>>> disputes in courts!
+>
+> The problem is - that as soon as you call it a license then scientists will
+> largely assume that is exactly what you are saying, and that will provoke a
+> strong negative response. Call it a protocol, call it a standard, and people
+> will feel comfortable. Hint that it is contractual and potentially
+> enforceable and we will do two things. First run in the opposite direction
+> and second ignore the terms /because/ it is a license.
+
+What's weird to me is that I know scientists who seem quite happy with
+putting CC licenses (open and non-open ones) on their blog or or
+applying open-source licenses to their code. I'm interested why
+people's attitudes on data are so different?
+
+[snip]
+
+> John's view, and to a certain extent mine are summed up by:
+>
+>> in geneal, my instinct is that it is fine if these things *look* like
+>> licenses, as long as the enforcement is not in the courts. we create
+>> enormous potential for negative effects by using ip and courts, for
+>> little return. if i were evil i would be al over setting up a data
+>> troll business, use some easter eggs, and sue for revenue in about
+>> five years. makes patent trolling look like simple street robbery.
+>
+> The issue here is not whether someone would actually do this - but that
+> scientists will immediately see the possibility and get disturbed by it.
+> Remember these are the people who assume that it is more likely that if they
+> make data available then someone will steal it, write up seventeen Nature
+> papers, and become a millionaire without crediting them, rather than someone
+> might make some modest use of it and credit them in the accepted way that we
+> generally do.
+
+So we all agree that attribution (and perhaps share-alike) are going
+to be wanted?
+
+The question then is whether to put these 'requirements' in norms or
+licenses ...
+
+> It's an issue of control - if researchers feel they have ownership of this
+> protocol/standard then there will be fewer barriers to adoption. If there is
+> a perception that the protocol is "owned" by lawyers, which is what I
+> believe will happen if it is called a license, then there will be very
+> strong resistance.
+
+OK that this is a naming or institutional issue. We could name the proposal:
+
+Open Data Standard and License
+
+Also I must emphasize: even if you want PD you're going to have to
+apply that is (or looks really like) a license since there are DB
+rights in a whole bunch of places ...
+
+> In my view our best chance of promoting best practice and "enforcement" is
+> through a protocol that funders choose to adopt for the research they
+> support. This is a much more powerful way of driving researcher behaviour
+> than through person to person contractual arrangements. I think this also
+> gives us the best chance of pushing through the idea that data and
+> collections of data should be explicitly placed in the public domain to
+> maximise the ability for re-use.
+
+I feel this is a related but distinct (and v. important) issue: how do
+we encourage 'open' data in sciences?
+
+I think your suggestion of driving this is via a protocol but this is
+distinct of what people actually do to make their data open. The
+license/norms are the way we define what is open. That is we need:
+
+1) definition of how people make their data open (~ publish it
+somewhere and apply appropriate license/norm/...)
+
+2) Encouragement (probably from funders) for scientists to use this mechanism.
+
+> [Do we in fact agree on that incidentally? We haven't really touched on
+> whether we agree what the idea world would look like. I know Rufus feels
+> that share alike is acceptable but I don't know whether that means he thinks
+> it is on balance a good thing.]
+
+I am ambiguous about share-alike. Personally, for my own stuff, I tend
+to the 'MIT/BSD' end of the spectrum (i.e. attribution only with no
+share-alike). However, I know people/communities where formal/informal
+share-alike is pretty important.
+
+> [Is the mailing list published to web somewhere or should I repost this
+> somewhere? I'm very keen to keep the discussion out in the open as it were]
+
+Yes:
+
+<http://lists.okfn.org/pipermail/open-science/>
+
+If people want rss feeds that can be arranged via our registering the
+list on gmane.
+
+Rufus
+
+
+From wilbanks at creativecommons.org  Mon Feb  9 15:12:08 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Mon, 9 Feb 2009 10:12:08 -0500
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+Message-ID: <3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+
+>
+>
+> > 1. it is easy to imagine that in 14 we have very valuable data web,
+> > and that a db under the eu directive is in there and the owner wants
+> > value now. a lawsuit under ip has the power to bring down lots of
+> > other stuff. this is a very plausible future under a licensing regime
+> > but impossible under a normative regime.
+>
+> Not sure I follow here (perhaps typos).
+
+
+What I mean is that in 14 years, a lawsuit can be filed under a license that
+can bring down significant federations of data into which that data was
+integrated. That lawsuit cannot be filed under a normative system - if a
+community wants to punish one of its own members it can do so using its own
+systems, but the legal status of the data web is secure.
+
+
+> > 2 the involuntary infringer is liable for damages under licenses, even
+> > if she was not the person who removed attribution or sharealike
+> > clauses two steps back in the data web. if there is monetary value to
+> > be had, this is going to happen. endorsing open licenses = endorsing
+> > enforcement, even is the intent is not to go to court. and if we don't
+> > plan to go to court, why even allow the chance for this?
+>
+> Because not planning does not mean it never happening (or the threat
+> of it happening not being important).
+
+
+You're assuming good actors use the open licenses. I'm assuming all kinds of
+actors use them. It's so hard to figure out where copyright stops and starts
+in a database that it's pretty easy to see scenarios where people assume the
+human genome is copyrighted, or map data is copyrighted, and sue for failed
+attribution. The strict liability nature of copyright is a real problem
+here. We're not talking anything like software, where you *have* to have
+copyright licenses. We're choosing to put them in places where they don't
+natively belong. And what we are doing is creating a world in which this
+kind of lawsuit is plausibly predictable. Why? Given that the data licenses
+are much less enforceable from a copyright perspective than the software
+licenses (again due to the underlying nature of the content) why is this
+worth the so easily seen risk?
+
+Stallmann and Mako taught me this. If you can enable an evil use with your
+tools, you are obliged to contemplate it. It's an important aspect at all
+times. PD + norms mean that someone can take a copy of a database private,
+and they don't have to share their stuff under the law. But they also mean
+that anyone else in the world can keep a copy of that database online and
+public. No one's use can enclose anyone else's use for any purpose and bad
+actors can't sue when they suddenly realize there's a valuable data web.
+
+Remember that every google query in a data web is a derivative data product,
+and attribution will be legally required with preliminary injunction power
+available to every searched database under a license scheme. That's the
+outcome of licensing choices.
+
+
+>
+> I also really don't understand the logic here. Court only happens due
+> to enforcement when people don't obey (and intentionally -- it is
+> extremely unlikely you are going to get in trouble for inadvertantly
+> failing to comply ...). I.e. it is important precisely when 'norms'
+> aren't cutting it ...
+>
+> It seems to me that that the status of a the GPL as a license rather
+> than a norm has been important in getting compliance from some people
+> over time -- and more importantly in encouraging others to contribute
+> to GPL'd projects in the first place
+
+
+Stallman had no choice but to use copyrights. We have a choice. He had to
+break down a culture of closure. We have a culture of openness. We have a
+chance to do things differently, to not built a world based on ideas of
+control and contract, to encode a world that in many ways already exists.
+
+
+> > 3. fragmentation. data disciplines vary much more than software. their
+> > norms swing wildly, as do secondary regimes like privacy. creating the
+> > idea that one or two licenses suffice doesn't reflect this - it will
+> > force disciplines to choose between their norms and technolegal
+> > interoperability. and if the norms all get encoded in their own
+> > licenses we will indeed see fragmentation. this scenario also means
+> > that cross discipline mashup will be legally difficult.
+>
+> I am not sure I really buy this. Code gets used across a lot of different
+> areas
+
+
+Physicists have different norms than biologists, who have different norms
+than anthropologists. Trust me, not everyone in science is going to use a
+map license. Choosing the encoding of norms in contract in the sciences
+essentially guarantees that we will have legal fragmentation, because the
+norms differ wildly across the disciplines.
+
+Code is different. It gets used all over the place, but the invisible
+college of programming connects the writers. The norms of programming are
+encoded in the licenses. But the clinical research scientist and the high
+energy physicist and the chemist and the biologist and the sensor-net
+geospatial scientist...well, they're different. And if their norms get
+encoded in law, and in different kinds of share alike, the kind of data
+integration we need for climate change is going to be a hell of a lot
+harder.
+
+
+>
+> Plus we are not talking about the whole governance of a discipline but
+> data sharing. Moreover we are also only talking about encoding 'open'
+> data across disciplines (and the only things we are possibly allowing
+> away from PD is attribution and Share-alike).
+>
+
+That's what *you* are endorsing. But by endorsing licenses, you can bet a
+lot of other licenses are going to be created with non commercial terms and
+more. It's kind of hard to criticize the incremental changes in licenses
+when you've endorsed the idea that we should encode norms in licenses,
+because then what you're doing is saying your norms are better than mine.
+Fragmentation.
+
+>
+> > norms allow for formal encoding but informal punishment. this
+> > flexibility, when we don't know how this will all play out, just seems
+> > a more wise choice to me. it lets experimentation hapen without fear
+> > of lawsuit, and lets each community encode its ideals without breaking
+> > the power to integrate it al.
+>
+> But a) there is flexibility in licenses (look at attribution with CC
+> licenses for content and b) what about the flip-side (non-compliance)
+>
+
+In reality this doesn't get used. Non compliance in data to me is a feature,
+not a bug. I want a million kinds of data mashup a lot more than I want
+control. That's what it's going to take to deal with climate change and
+human health.
+
+>
+> So I think we agree that whatever happens data access is going to be
+> covered by fairly formal documents that specify what you are supposed
+> to do. (So we should be clear that unlike most 'norms' these are going
+> to be fairly formalized).
+>
+
+Absolutely. SC is actually going to prepare a formal norms document that
+looks and feels like a CC license, will have metadata, etc., that will
+encode attribution (though we're changing the name to citation to avoid the
+legal implications of attribution in a copyright sense) and share-alike
+(though we'll also change the name for the same reason). It will simply be
+empty in the middle.
+
+>
+> Leaving aside the fact that there are going to patent-related issues
+> in this stuff anyway (pharma, business methods etc). Also I don't
+> understand how 'us' (the open data) community not using licenses and
+> IP prevents everyone else from doing so? If you are worried about
+> 'trolling' in data then it is going to happen whether we use licenses
+> or norms or ....
+>
+
+Trolling can't happen on PD data. We can't fix the patent problem in
+copyright or data licenses, sadly - disclosure and crowd review of prior art
+is the best way i've seen - but if we can create a zone of unambiguously
+free data, and use metadata to exclude unfree data, then trolling is
+*eliminated*. You can't use a PD assertion on data and then sue for failed
+attribution. That's the fundamental benefit as I see it...
+
+
+>
+> Regards,
+>
+> Rufus
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090209/3c5cd4b4/attachment-0001.htm 
+
+From rufus.pollock at okfn.org  Mon Feb  9 15:47:34 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 9 Feb 2009 15:47:34 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+Message-ID: <b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+
+2009/2/6 Neylon <cameron.neylon at stfc.ac.uk>:
+> Yishay, I am afraid it isn?t short but I?ve tried to summarise:
+> http://blog.openwetware.org/scienceintheopen/2009/02/06/licenses-and-protoco
+> ls-for-open-science-the-debate-continues/
+
+Really nice summary Cameron (and I probably should have responded
+direct here rather than to your earlier emails but my gmail threading
+seems to have a gone a little awry -- my apologies for overburdening
+the list).
+
+[snip]
+
+> Where there is disagreement is over what form this should take. Rufus
+> Pollock started by giving the reasons why this should be a formal license.
+> Rufus believes that a license provides certainty and clarity in a way that a
+> protocol, statement of principles, or expression of community standards can
+> not.  I, along with Bill Hooker and John Wilbanks [links are to posts on
+
+Let's be really clear: everyone will need to apply a license (or
+something very close) even if they are just making stuff PD (because
+they need to formally waive whatever rights they have).
+
+The remaining question is: will attribution and share-alike (if
+included at all) be in licenses or in norms?
+
+[snip]
+
+> Scientific data has a history of being assumed to be in public domain (see
+> the lack of any license at PDB or Genbank or most other databases) so there
+> isn?t the same sense of pushing back from an existing strong IP or licensing
+> regime. However I think there is broad agreement that this protocol or
+
+Is this really the case? Talking with e.g. Peter Murray-Rust about
+what goes on Chemistry it seems to me there is a fair amount of
+keeping data proprietary (and charging for it).
+
+I'd also ask: isn't it likely that the future is going to see data
+combined from a wider variety of areas? (Isn't that one of the reasons
+we're having this debate). If so then maybe scientists need to think
+not just about 'scientific' data but also about geodata or weather
+data etc and many these areas are already heavily commercial (and
+usually not open)
+
+It's true that Bioinformatics seems pretty advanced on the openness
+front we should note that this wasn't just by default but due to some
+pretty serious, and explicit, effort (I've seen Tim Hubbard present a
+few times here on the race between Celera and the Human Genome
+project).
+
+> statement would look a lot like a license and would aim to have the legal
+> effect of at least providing clarity over the rights of users to copy,
+> re-purpose, and fork the objects in question.
+
+So what happens when you get incompatibility of 'norms'. Does
+'flexibility' mean I can just ignore the norms as I see fit?
+
+[snip]
+
+> This is a real area of contention I think because some of us (including me)
+> would see this in quite a positive light (data being used effectively in a
+> commercial setting is better than it not being used at all) as long as the
+> data is still both legally and technically in the public domain. Indeed this
+
+Let's be clear: 'open' data must permit commercial use. Non-commercial
+restrictions whether for content, code or data make the associated
+material *not open*. See item 8 of:
+
+<http://www.opendefinition.org/1.0>
+
+I, for one, think it is really important to the long term viability of
+the open data community, whether in science or other domains, that
+business can get involved.
+
+> is at the core of the power of a public domain declaration. The issue of
+> finding the resources that support the preservation of research objects in
+> the (accessible) public domain is a separate one but in my view if we don?t
+> embrace the idea that money can and should be made off data placed in the
+> public domain then we are going to be in big trouble sooner or later because
+> the money will simply run out.
+
+I couldn't agree more though I am not sure how this relates to the PD
+or licensing issue. Business has got involved with share-alike (GPL'd)
+software (cf. Linux) and it seems to me that the most crucial thing
+for business will be clarity and certainty which may, in fact, be
+easier to supply with licenses rather than norms.
+
+> On the flip side of the argument is a strong tradition of arguing that viral
+> licensing and share alike provisions protect the rights and personal
+> investment of individuals and small players against larger commercial
+> entities. Many of the people who support open data belong to this tradition,
+> often for very good historical reasons. I personally don?t disagree with the
+> argument on a logical level, but I think for scientific data we need to
+> provide clear paths for commercial exploitation because using science to do
+> useful things costs a lot of money. If you want people want to invest in
+
+[snip]
+
+Let's be really clear then: share-alike and attribution are both
+compatible with commercial use (look at software!).
+
+Also what's the license/norms distinction here: surely if the norms
+include attribution or share-alike terms you expect them to be
+observed by businesses? If so this question seems more about whether
+attribution or share-alike are allowed *at all* not whether they are
+encoded in licenses or norms.
+
+Regards,
+
+Rufus
+
+
+From cwhooker at fastmail.fm  Mon Feb  9 16:25:39 2009
+From: cwhooker at fastmail.fm (Bill Hooker)
+Date: Mon, 09 Feb 2009 08:25:39 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+	<b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+Message-ID: <1234196739.31163.1299361671@webmail.messagingengine.com>
+
+Possibly dumb question follows:
+
+> Let's be really clear: everyone will need to apply a license (or
+> something very close) even if they are just making stuff PD (because
+> they need to formally waive whatever rights they have).
+
+But we are talking about data, not stuff in general; data are a very
+specific kind of stuff.
+
+I thought the native state of data was public domain.  Copyright does
+not inhere in facts, and patents have to be applied for to be got, so
+why would you have to license data to make it public domain?  Surely
+just making it available serves that purpose?  The point of a norm or
+statement (or even a license) placing it in the public domain is only to
+make it *unambiguously* available to everyone, forever.
+
+Moreover, waiving one's rights doesn't seem to me to be "very close" to
+a license at all.  Licenses exert control, waivers do away with it.
+
+Another question: are attribution and share-alike compatible with public
+domain?  The distinction seems pretty clear to me (BY and SA both take
+something OUT of the public domain, right?), but is becoming blurry in
+this discussion.
+
+best,
+
+Bill.
+
+
+
+From mn at michaelnielsen.org  Mon Feb  9 16:34:44 2009
+From: mn at michaelnielsen.org (Michael Nielsen)
+Date: Mon, 9 Feb 2009 11:34:44 -0500 (Eastern Standard Time)
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+	<b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+Message-ID: <alpine.WNT.2.00.0902091109450.5368@Default-PC>
+
+
+
+On Mon, 9 Feb 2009, Rufus Pollock wrote:
+
+>> statement would look a lot like a license and would aim to have the legal
+>> effect of at least providing clarity over the rights of users to copy,
+>> re-purpose, and fork the objects in question.
+>
+> So what happens when you get incompatibility of 'norms'. Does
+> 'flexibility' mean I can just ignore the norms as I see fit?
+
+If that's true, then it's not a norm.  You pay a price for norm violation 
+-- e.g., the price paid by people who violate norms by plagiarizing other 
+people's work.  Of course, that price can only be extracted on people who 
+are inside the community where the norm is in force; people outside that 
+community can flout the norm largely with impunity.
+
+An example of the kind of norm incompatability you're talking about occurs 
+in cross-disciplinary field, when the different fields have different 
+norms.  To pick an example I've seen up close, in the theoretical computer 
+science community authors on papers are usually ordered alphabetically by 
+surname.  In theoretical physics, author ordering is used to convey 
+information about contribution, and it can be very important (sometimes 
+the deciding factor, in extreme cases) for jobs etc.  This norm 
+incompatability can cause considerable difficulties when people from the 
+two communities collaborate.  Much though certainly not all of that 
+difficulty can be overcome by negotiation.
+
+Michael
+
+
+From dsalo at library.wisc.edu  Mon Feb  9 16:34:51 2009
+From: dsalo at library.wisc.edu (Dorothea Salo)
+Date: Mon, 9 Feb 2009 10:34:51 -0600
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <1234196739.31163.1299361671@webmail.messagingengine.com>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+	<b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+	<1234196739.31163.1299361671@webmail.messagingengine.com>
+Message-ID: <356cf3980902090834k643fa2cfv1252d469f3d8bf01@mail.gmail.com>
+
+On Mon, Feb 9, 2009 at 10:25 AM, Bill Hooker <cwhooker at fastmail.fm> wrote:
+
+> I thought the native state of data was public domain.  Copyright does
+> not inhere in facts, and patents have to be applied for to be got, so
+> why would you have to license data to make it public domain?
+
+In the United States, this is true. In Europe, "database rights"
+complicate the issue considerably. I strongly recommend taking a look
+at the last chapter of James Boyle's new book _The Public Domain_ for
+a straightforward explanation. <http://www.thepublicdomain.org/>
+
+> Another question: are attribution and share-alike compatible with public
+> domain?
+
+As part of a license, no. As part of a set of norms, yes.
+
+Dorothea
+
+-- 
+Dorothea Salo                dsalo at library.wisc.edu
+Digital Repository Librarian      AIM: mindsatuw
+University of Wisconsin
+Rm 218, Memorial Library
+(608) 262-5493
+
+
+From cameron.neylon at stfc.ac.uk  Mon Feb  9 20:33:57 2009
+From: cameron.neylon at stfc.ac.uk (Neylon)
+Date: Mon, 09 Feb 2009 20:33:57 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+Message-ID: <C5B643B5.3CA1%cameron.neylon@stfc.ac.uk>
+
+Dear All
+
+I was working on a half baked blog post which I think is superseded by a lot
+of what others have written this afternoon. But I thought the following
+might still be useful:
+
+[wanting to define terms]
+
+By ?public domain? I mean placed legally into the domain of works for which
+any, copying, re-use or re-purposing is allowed without any restrictions.
+While some objects are naturally in the public domain placing a ?work? in
+the public domain usually requires a dedication of some sort or a disavowal
+of any or all rights that the producer of the work may have. The Public
+Domain Dedication protocol is an example of such. So placing data in the
+public domain does not simply mean making it public, it means placing it in
+a legal state where anyone is free to do whatever they like with it.
+
+By ?license? I mean some form of contractual arrangement between the
+provider of data and the user of data, such as a copyright notice,
+declaration of database rights, or ?click wrap? agreement. As Yishay pointed
+out in comments to my last post, a Public Domain Dedication looks quite a
+lot like a license. However I don't think of it as such because a PDD
+removes the need to give or seek permissions at all, removing the need for
+any contractual arrangement between users and provider.
+
+By ?data? I mean collections of data. As Jonathon Rochkind pointed out and
+as we should all remember, a specific datum itself is in the public domain
+by its nature. A fact of nature is not subject to copyright or intellectual
+property law. Collections of data, and presentations of data, however can
+acquire potential database or ?sweat of the brow? rights in certain
+jurisdictions. It might be advisable for us to use the singular and plural
+to draw the distinction. The line between a datum and data that defines when
+these rights might be acquired is a difficult one, even for lawyers to
+define, and this confusion forms part of the argument for public domain
+dedication.
+
+> Let's be really clear: everyone will need to apply a license (or
+> something very close) even if they are just making stuff PD (because
+> they need to formally waive whatever rights they have).
+
+Agreed - either way there is a formal statement. I've not been thinking of
+this as a license per se for the reasons above.
+ 
+> The remaining question is: will attribution and share-alike (if
+> included at all) be in licenses or in norms?
+
+For me, share-alike only makes sense in the context of a license because it
+only has any value if you can enforce it. As Michael has said community
+enforcement of norms can only be through exclusion from the community. The
+point of share-alike is to force people who would otherwise not to use the
+same protocol/licence. Without a contractual arrangement there isn't any
+real means of forcing people who choose to act outside the community.
+
+But I also wonder whether we're actually worrying about something that isn't
+very important. I think we are all agreed that non-commercial clauses are
+not acceptable for legal, practical, and philosophical reasons. But this is
+where the real battle is going to lie, not share-alike, which I don't think
+most scientists would even have heard of. Looking at e.g. the licenses on
+databases in the Nucleic Acids Research database issue you will see a
+multitude of (probably unenforceable and certainly incompatible) licenses.
+But virtually all of them have non-commercial clauses.
+
+I wonder if our energies are better spent making that case and just
+shuffling share-alike under the carpet. If we generally don't think its all
+that helpful, and if I am right that most scientists won't care that much
+(which remains to be seen) is it worth getting that stressed about?
+  
+[snipped - will aim to deal with this separately]
+
+> I, for one, think it is really important to the long term viability of
+> the open data community, whether in science or other domains, that
+> business can get involved.
+
+Absolutely agree but there is a strong sense of "anti-commercial" sentiment
+within some parts of the open content movement and I think the current crop
+of licences being applied to scientific databases also show an
+anti-commercial attitude (or at least an "I want to make that money"
+attitude). I want to come back to Heather's example of a commercial interest
+exploiting the results of third world scientists at some point, but I think
+there is something interesting there in about the way we use "exploit" as a
+positive or negative term. This is a crucial argument to get right and
+watertight. Particularly as making useful stuff from scientific results is
+generally very expensive so profits have to be available to encourage it.
+
+> Also what's the license/norms distinction here: surely if the norms
+> include attribution or share-alike terms you expect them to be
+> observed by businesses? If so this question seems more about whether
+> attribution or share-alike are allowed *at all* not whether they are
+> encoded in licenses or norms.
+
+I agree that they are separate questions with the caveat that I think that
+if you dedicate to the public domain then a "share-alike norm" is
+meaningless. Citation norms will work because people placing work in the
+community view will want to be seen as members of the community. Which
+obviously I don't see as much of a loss ;-)
+
+Cheers
+
+Cameron
+
+-- 
+Scanned by iCritical.
+
+
+From mn at michaelnielsen.org  Mon Feb  9 20:42:56 2009
+From: mn at michaelnielsen.org (Michael Nielsen)
+Date: Mon, 9 Feb 2009 15:42:56 -0500 (Eastern Standard Time)
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B643B5.3CA1%cameron.neylon@stfc.ac.uk>
+References: <C5B643B5.3CA1%cameron.neylon@stfc.ac.uk>
+Message-ID: <alpine.WNT.2.00.0902091538250.5244@Default-PC>
+
+
+Thankyou for that, Cameron.  I have a tiny little nitpick:
+
+On Mon, 9 Feb 2009, Neylon wrote:
+
+> As Michael has said community enforcement of norms can only be through 
+> exclusion from the community.
+
+I didn't quite mean to imply that.  Enforcement can be through other means 
+as well.  Simple disapproval from others is a pretty strong disincentive. 
+That doesn't necessarily translate into exclusion from the community, just 
+lower status (and possibly lower pay, reduced possibility of receiving 
+grants, etc).
+
+Cheers,
+
+Michael
+
+
+From rufus.pollock at okfn.org  Tue Feb 10 17:18:56 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 10 Feb 2009 17:18:56 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+Message-ID: <b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+
+Dear John,
+
+Thanks for your clarifications/comments. I've responded inline below
+in the usual fashion. I wanted to pose a couple of specific questions
+to focus the discussion but since this post (and thread) is getting a
+little long I think I am going to send them separately.
+
+Rufus
+
+2009/2/9 John Wilbanks <wilbanks at creativecommons.org>:
+>>
+>> > 1. it is easy to imagine that in 14 we have very valuable data web,
+>> > and that a db under the eu directive is in there and the owner wants
+>> > value now. a lawsuit under ip has the power to bring down lots of
+>> > other stuff. this is a very plausible future under a licensing regime
+>> > but impossible under a normative regime.
+>>
+>> Not sure I follow here (perhaps typos).
+>
+> What I mean is that in 14 years, a lawsuit can be filed under a license that
+> can bring down significant federations of data into which that data was
+> integrated. That lawsuit cannot be filed under a normative system - if a
+> community wants to punish one of its own members it can do so using its own
+> systems, but the legal status of the data web is secure.
+
+Just to be clear: you mean the legal status is secure if everyone has
+correctly licensed/dedicated their stuff to the PD.
+
+Also I really am not convinced that allowing attribution is going to
+lead to 'significant federations of data' being 'brought down'.
+
+Imagine I come along and say: 'hey you are not attributing me'
+
+All I need to to do comply is to add that attribution and everything
+is fine. (I'd also note that even in the norms case,  where were no
+'formal' obligation, the data holder would probably want to comply
+with this kind of thing).
+
+>> > 2 the involuntary infringer is liable for damages under licenses, even
+>> > if she was not the person who removed attribution or sharealike
+>> > clauses two steps back in the data web. if there is monetary value to
+>> > be had, this is going to happen. endorsing open licenses = endorsing
+>> > enforcement, even is the intent is not to go to court. and if we don't
+>> > plan to go to court, why even allow the chance for this?
+>>
+>> Because not planning does not mean it never happening (or the threat
+>> of it happening not being important).
+>
+> You're assuming good actors use the open licenses. I'm assuming all kinds of
+> actors use them. It's so hard to figure out where copyright stops and starts
+
+I wasn't -- but I wasn't pointing out that enforcement can be
+important to good guys.
+
+> in a database that it's pretty easy to see scenarios where people assume the
+> human genome is copyrighted, or map data is copyrighted, and sue for failed
+> attribution. The strict liability nature of copyright is a real problem
+
+And all you need to do is attribute ... (as you would with e.g. norms)
+
+> here. We're not talking anything like software, where you *have* to have
+> copyright licenses. We're choosing to put them in places where they don't
+> natively belong. And what we are doing is creating a world in which this
+
+But this just isn't true. There are rights in data all over the place
+(and even in the US it is debatable -- Feist doesn't remove
+everything!).
+
+> kind of lawsuit is plausibly predictable. Why? Given that the data licenses
+> are much less enforceable from a copyright perspective than the software
+> licenses (again due to the underlying nature of the content) why is this
+> worth the so easily seen risk?
+
+I think I should reiterate an earlier distinction I suggested between:
+
+1. What we allow as 'open' data
+2. What we recommend
+
+Saying sharealike and attribution should be allowed for open stuff is
+not the same as saying it is recommended (I personally use MIT/BSD
+type stuff for what I do but I know people who really like GPL ...)
+
+Re your specific risk point: I see the risk as low (esp. for
+attribution) and benefits as significant.
+
+> Stallmann and Mako taught me this. If you can enable an evil use with your
+> tools, you are obliged to contemplate it. It's an important aspect at all
+> times. PD + norms mean that someone can take a copy of a database private,
+> and they don't have to share their stuff under the law. But they also mean
+> that anyone else in the world can keep a copy of that database online and
+> public. No one's use can enclose anyone else's use for any purpose and bad
+
+I think the concern is less about not sharing the db itself as
+modifications and improvements to it.
+
+> actors can't sue when they suddenly realize there's a valuable data web.
+> Remember that every google query in a data web is a derivative data product,
+> and attribution will be legally required with preliminary injunction power
+> available to every searched database under a license scheme. That's the
+> outcome of licensing choices.
+
+Again I come back to the recommendation versus permit option (or: you
+don't have to use attribution and share-alike if you don't want).
+
+Suppose we permit share-share-alike and attribution. Users of data
+will have options of using PD data, attribution data and share-alike
+data. If attribution or share-alike is a real risk for users they can
+and will choose PD data. (Likely leading to PD being the default and
+SA and Attribution withering away :) )
+
+>> I also really don't understand the logic here. Court only happens due
+>> to enforcement when people don't obey (and intentionally -- it is
+>> extremely unlikely you are going to get in trouble for inadvertantly
+>> failing to comply ...). I.e. it is important precisely when 'norms'
+>> aren't cutting it ...
+>>
+>> It seems to me that that the status of a the GPL as a license rather
+>> than a norm has been important in getting compliance from some people
+>> over time -- and more importantly in encouraging others to contribute
+>> to GPL'd projects in the first place
+>
+> Stallman had no choice but to use copyrights. We have a choice. He had to
+
+My understanding -- though I may be wrong -- was that he also wanted
+more: to ensure that what he did wasn't 'closed' (and keeping hist own
+'individual' patch set 'PD' would not have been enough: he needed that
+those who took his work and built upon it also gave back).
+
+> break down a culture of closure. We have a culture of openness. We have a
+> chance to do things differently, to not built a world based on ideas of
+> control and contract, to encode a world that in many ways already exists.
+
+Woah there :) I feel things are getting a bit inverted:
+
+We all agree that open (however done) will mean freedom to use, reuse
+and redistribute however you want subject to (at most) 2 reservations:
+
+1. Attribution
+2. Share-alike
+
+While I agree that allowing reservations involves more 'control' than
+pure PD I think we are very long way from the control and contract of
+the standard system.
+
+>> > 3. fragmentation. data disciplines vary much more than software. their
+>> > norms swing wildly, as do secondary regimes like privacy. creating the
+>> > idea that one or two licenses suffice doesn't reflect this - it will
+>> > force disciplines to choose between their norms and technolegal
+>> > interoperability. and if the norms all get encoded in their own
+>> > licenses we will indeed see fragmentation. this scenario also means
+>> > that cross discipline mashup will be legally difficult.
+>>
+>> I am not sure I really buy this. Code gets used across a lot of different
+>> areas
+>
+> Physicists have different norms than biologists, who have different norms
+> than anthropologists. Trust me, not everyone in science is going to use a
+> map license. Choosing the encoding of norms in contract in the sciences
+
+Did I say they would :)
+
+> essentially guarantees that we will have legal fragmentation, because the
+> norms differ wildly across the disciplines.
+
+But are we encoding the norms of the disciplines or what people can do
+with some data. While, of course, these two items may be related they
+are a long way from being the same.
+
+[snip]
+
+>> Plus we are not talking about the whole governance of a discipline but
+>> data sharing. Moreover we are also only talking about encoding 'open'
+>> data across disciplines (and the only things we are possibly allowing
+>> away from PD is attribution and Share-alike).
+>
+> That's what *you* are endorsing. But by endorsing licenses, you can bet a
+> lot of other licenses are going to be created with non commercial terms and
+> more. It's kind of hard to criticize the incremental changes in licenses
+> when you've endorsed the idea that we should encode norms in licenses,
+> because then what you're doing is saying your norms are better than mine.
+> Fragmentation.
+
+The creation of data licenses with NC or other terms has happened (and
+is going to go on) happening whatever we do. By specifying what we
+mean by open (whether in norms and licenses) and encoding that in some
+way is going very little different.
+
+I also don't agree that we can't keep a decent, and clear, line here.
+
+>> > norms allow for formal encoding but informal punishment. this
+>> > flexibility, when we don't know how this will all play out, just seems
+>> > a more wise choice to me. it lets experimentation hapen without fear
+>> > of lawsuit, and lets each community encode its ideals without breaking
+>> > the power to integrate it al.
+>>
+>> But a) there is flexibility in licenses (look at attribution with CC
+>> licenses for content and b) what about the flip-side (non-compliance)
+>
+> In reality this doesn't get used. Non compliance in data to me is a feature,
+> not a bug. I want a million kinds of data mashup a lot more than I want
+> control. That's what it's going to take to deal with climate change and
+> human health.
+
+Dealing with climate change is more about politics that .... but
+that's a separate matter ;)
+
+I agree that we want freedom more than we want control (was I arguing
+otherwise?) but this discussion is about something different:
+
+a) Should the open data (in science) community include those who wish
+to use share-alike or attribution
+b) Should it include those who use licenses rather than norms
+
+E.g. it's one thing for me to just use norms for my open stuff if I
+want to but I don't see why others can't use a license if they want.
+
+>> So I think we agree that whatever happens data access is going to be
+>> covered by fairly formal documents that specify what you are supposed
+>> to do. (So we should be clear that unlike most 'norms' these are going
+>> to be fairly formalized).
+>
+> Absolutely. SC is actually going to prepare a formal norms document that
+> looks and feels like a CC license, will have metadata, etc., that will
+> encode attribution (though we're changing the name to citation to avoid the
+> legal implications of attribution in a copyright sense) and share-alike
+> (though we'll also change the name for the same reason). It will simply be
+> empty in the middle.
+
+I know Jordan's already got something at:
+
+<http://www.opendatacommons.org/odc-community-norms/>
+
+Perhaps that's usable already -- if not any comments on modifications
+would be welcome ...
+
+
+From dsalo at library.wisc.edu  Tue Feb 10 17:34:56 2009
+From: dsalo at library.wisc.edu (Dorothea Salo)
+Date: Tue, 10 Feb 2009 11:34:56 -0600
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+	<b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+Message-ID: <356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>
+
+Possibly-ignorant questions about share-alike:
+
+I am a social science researcher. I do a human-subjects study,
+properly anonymize the dataset, and publish it under a share-alike
+license.
+
+My colleague at another institution then protests that she can't use
+the dataset because she will be combining her own human-subjects work
+with it, and her IRB insists that such datasets as hers not be
+published at all, even anonymized, owing to questions of privacy.
+
+Is this a plausible scenario? If so, is it what we want?
+
+Dorothea
+
+-- 
+Dorothea Salo                dsalo at library.wisc.edu
+Digital Repository Librarian      AIM: mindsatuw
+University of Wisconsin
+Rm 218, Memorial Library
+(608) 262-5493
+
+
+From rufus.pollock at okfn.org  Tue Feb 10 17:34:53 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 10 Feb 2009 17:34:53 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <1234196739.31163.1299361671@webmail.messagingengine.com>
+References: <e5fbfda10902060400o23736a34le4134918b8047d2@mail.gmail.com>
+	<C5B20F46.3BEF%cameron.neylon@stfc.ac.uk>
+	<b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+	<1234196739.31163.1299361671@webmail.messagingengine.com>
+Message-ID: <b68e90820902100934s17422667n1fcbc012723b6b1c@mail.gmail.com>
+
+2009/2/9 Bill Hooker <cwhooker at fastmail.fm>:
+[snip]
+
+> I thought the native state of data was public domain.  Copyright does
+> not inhere in facts, and patents have to be applied for to be got, so
+> why would you have to license data to make it public domain?  Surely
+> just making it available serves that purpose?  The point of a norm or
+> statement (or even a license) placing it in the public domain is only to
+> make it *unambiguously* available to everyone, forever.
+
+No, things aren't that simple ... See this guide to open data
+licensing we prepared a couple of years ago
+
+http://okfn.org/wiki/OpenDataLicensing
+
+especially the section on "What Legal (IP) Rights Are There in Data
+(and Databases)".
+
+> Moreover, waiving one's rights doesn't seem to me to be "very close" to
+> a license at all.  Licenses exert control, waivers do away with it.
+
+I quite understand your point but a license can also be a way of just
+allowing people to do stuff. As (I think) Yishay said earlier a
+statement such as:
+
+"You can take this stuff and do whatever you want with it"
+
+is a license.
+
+Rufus
+
+
+From rufus.pollock at okfn.org  Tue Feb 10 18:00:59 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 10 Feb 2009 18:00:59 +0000
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <C5B643B5.3CA1%cameron.neylon@stfc.ac.uk>
+References: <b68e90820902090747o62256aa3q78c5150e6cd05635@mail.gmail.com>
+	<C5B643B5.3CA1%cameron.neylon@stfc.ac.uk>
+Message-ID: <b68e90820902101000r630341dcj392c219448326a5@mail.gmail.com>
+
+2009/2/9 Neylon <cameron.neylon at stfc.ac.uk>:
+[snip]
+
+> [wanting to define terms]
+
+This is really useful!
+
+[snip]
+
+> By ?license? I mean some form of contractual arrangement between the
+> provider of data and the user of data, such as a copyright notice,
+> declaration of database rights, or ?click wrap? agreement. As Yishay pointed
+> out in comments to my last post, a Public Domain Dedication looks quite a
+> lot like a license. However I don't think of it as such because a PDD
+> removes the need to give or seek permissions at all, removing the need for
+> any contractual arrangement between users and provider.
+
+OK, this is maybe where confusion comes in. For open stuff by a
+license I just mean a document that says:
+
+"You're free to do all of this stuff without asking any kind of permission"
+
+subject to, at most, requirement to attribute or share-alike.
+Furthermore, I would insist that the license should impose zero burden
+on users (other than perhaps attribution or share-alike) so no
+'click-wrap' type stuff should be allowed. (See item 9 of
+http://www.opendefinition.org/1.0/).
+
+Declarations of e.g. copyright or db rights do not need to be in a license.
+
+> By ?data? I mean collections of data. As Jonathon Rochkind pointed out and
+> as we should all remember, a specific datum itself is in the public domain
+> by its nature. A fact of nature is not subject to copyright or intellectual
+> property law. Collections of data, and presentations of data, however can
+
+Quite right. I've now posted one of the appendices I mentioned originally at:
+
+<http://blog.okfn.org/2009/02/09/facts-and-databases/>
+
+> acquire potential database or ?sweat of the brow? rights in certain
+> jurisdictions. It might be advisable for us to use the singular and plural
+> to draw the distinction. The line between a datum and data that defines when
+> these rights might be acquired is a difficult one, even for lawyers to
+> define, and this confusion forms part of the argument for public domain
+> dedication.
+
+Though this problem exists elsewhere (though perhaps less severely).
+If I copy the structure but not the letter of someone's code am I
+infringing etc etc.
+
+>> The remaining question is: will attribution and share-alike (if
+>> included at all) be in licenses or in norms?
+>
+> For me, share-alike only makes sense in the context of a license because it
+> only has any value if you can enforce it. As Michael has said community
+> enforcement of norms can only be through exclusion from the community. The
+> point of share-alike is to force people who would otherwise not to use the
+> same protocol/licence. Without a contractual arrangement there isn't any
+> real means of forcing people who choose to act outside the community.
+
+Yes though we might imagine this community's views having some degree
+of force. For example, one might want to participate in this community
+in which case share-alike requirements on a given dataset might matter
+(even in norms).
+
+> But I also wonder whether we're actually worrying about something that isn't
+> very important. I think we are all agreed that non-commercial clauses are
+> not acceptable for legal, practical, and philosophical reasons. But this is
+> where the real battle is going to lie, not share-alike, which I don't think
+
+*100% agree with this and your points below* (snipped for brevity!).
+Non-commercial restrictions are a major issue and I think it is very
+important that makes things non-open (this is not saying
+non-commercial is per se bad by the way but it is saying when building
+the open data commons that non-commercial restrictions is not
+compatible with 'openness' of data).
+
+> I wonder if our energies are better spent making that case and just
+> shuffling share-alike under the carpet. If we generally don't think its all
+> that helpful, and if I am right that most scientists won't care that much
+> (which remains to be seen) is it worth getting that stressed about?
+
+I would agree but I would be unhappy to have it excluded especially
+since some major data communities are using it (e.g. Open Street Map).
+
+Rufus
+
+[snip]
+
+
+From heatherm at eln.bc.ca  Tue Feb 10 20:25:01 2009
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Tue, 10 Feb 2009 12:25:01 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+	<b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+	<356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>
+Message-ID: <B170A89B-1A70-476D-B982-EA3B0AE731E7@eln.bc.ca>
+
+On 10-Feb-09, at 9:34 AM, Dorothea Salo wrote:
+
+> Possibly-ignorant questions about share-alike:
+>
+> I am a social science researcher. I do a human-subjects study,
+> properly anonymize the dataset, and publish it under a share-alike
+> license.
+>
+> My colleague at another institution then protests that she can't use
+> the dataset because she will be combining her own human-subjects work
+> with it, and her IRB insists that such datasets as hers not be
+> published at all, even anonymized, owing to questions of privacy.
+>
+> Is this a plausible scenario? If so, is it what we want?
+
+It might be what we want.  This gives the researcher incentive to  
+investigate whether her data can indeed be anonymized and protect  
+privacy, and if so, to convince her IRB to change the policy.
+
+Another question for this scenario:  if the first researcher is  
+making data freely available and other researchers are using it and  
+not sharing theirs, is this is disincentive for researchers to openly  
+share their data?  In my opinion, it is.  At the very least, it is a  
+good reason to delay sharing your data until after you publish, or  
+someone makes you.  Otherwise, a second researcher - with access to  
+your data, with no effort, plus more than you have - could easily  
+publish before you.
+
+In the ideal world ~ which I think we should be aiming for ~ there  
+will be much more cooperation and less competition, even in science,  
+so this might not matter at all.  In today's environment, though,  
+this scenario could mean the researcher who freely shares (but not  
+sharealike) is at a disadvantage when it comes to competing for jobs,  
+research grants, and awards.
+
+Any opinion expressed in this e-mail is that of the author alone, and  
+does not represent the opinion or policy of BC Electronic Library  
+Network or Simon Fraser University Library.
+
+Heather Morrison, MLIS
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+>
+> Dorothea
+>
+> -- 
+> Dorothea Salo                dsalo at library.wisc.edu
+> Digital Repository Librarian      AIM: mindsatuw
+> University of Wisconsin
+> Rm 218, Memorial Library
+> (608) 262-5493
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+
+
+From cwhooker at fastmail.fm  Tue Feb 10 21:05:09 2009
+From: cwhooker at fastmail.fm (Bill Hooker)
+Date: Tue, 10 Feb 2009 13:05:09 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <B170A89B-1A70-476D-B982-EA3B0AE731E7@eln.bc.ca>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+	<b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+	<356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>
+	<B170A89B-1A70-476D-B982-EA3B0AE731E7@eln.bc.ca>
+Message-ID: <1234299909.8607.1299644131@webmail.messagingengine.com>
+
+
+> In today's environment, though,  
+> this scenario could mean the researcher who freely shares (but not  
+> sharealike) is at a disadvantage when it comes to competing for jobs,  
+> research grants, and awards.
+
+
+Everyone has their "scooping" horror story or ten, but the only
+real-life Open Science efforts I know of (Bradley, Neylon) are textbook
+examples of finding collaborators who would otherwise have never been
+reachable, and have had no problem whatsoever with bad actors.  
+
+That is, if we're taking competition into account, the evidence to date
+is that sharing makes a researcher *more*, not less, competitive.  More
+such evidence is probably the best way to encourage a culture of
+sharing/use of the public domain in research.
+
+
+best,
+
+B.
+
+
+From heatherm at eln.bc.ca  Tue Feb 10 21:21:18 2009
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Tue, 10 Feb 2009 13:21:18 -0800
+Subject: [open-science] Norms and flexible understandings question
+Message-ID: <40206B04-189F-4381-A5EF-3FBFA88C90AC@eln.bc.ca>
+
+The idea of norms rather than licenses does have some appeal.
+
+Question:  can a normative approach accomodate things like flexible  
+understandings of what is permitted, and allow for evolution of such  
+understandings?
+
+Flexible understandings = stuff like friendly licenses.  To go back  
+to Dorothea's example, if one researcher shares data freely while a  
+second researcher cannot share for privacy reasons, there are  
+probably a few understandings that the first researcher would think  
+of as friendly to sharealike.  For example, if the second researcher  
+shares her data privately with the first researcher, and publishes  
+her results OA immediately on acceptance for publication, the first  
+researcher may well be satisfied that this is Sharealike.
+
+Or, if a company take data from a third world researcher who uses  
+"noncommercial-sharealike" and uses it to develop a new drug, makes a  
+huge profit in the developed world, and uses some of this profit to  
+a) distribute the drug for free in the researcher's home country and  
+b) provides the researcher with some grant money to conduct further  
+research, then it seems possible that this researcher would consider  
+this completely friendly, even if the company has a patent and does  
+not release the results of their own research.
+
+One reason I think we need flexible understandings is that our world- 
+view in this type of matter need to evolve in a globalized online  
+world, for two reasons:  1.  there are many different ways of  
+understanding concepts like ownership in the world, never mind  
+intellectual property.  In some cultures, this is a silly concept;  
+there are those in the western world who share this view and 2.  it  
+will take some time to think through what this new online world can  
+be, and hence, what makes the most sense for sharing.  In the  
+interim, we need to experiment, with a variety of things with  
+Creative Commons, GNU licensing, and just plain free sharing being  
+the very best of the experiments we have, for the moment.
+
+Any opinion expressed in this e-mail is that of the author alone, and  
+does not represent the opinion or policy of BC Electronic Library  
+Network or Simon Fraser University Library.
+
+Heather Morrison, MLIS
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+
+From jeanclaude.bradley at gmail.com  Wed Feb 11 14:00:45 2009
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Wed, 11 Feb 2009 09:00:45 -0500
+Subject: [open-science] Openness and Licensing of (Open) Data
+In-Reply-To: <1234299909.8607.1299644131@webmail.messagingengine.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+	<b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+	<356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>
+	<B170A89B-1A70-476D-B982-EA3B0AE731E7@eln.bc.ca>
+	<1234299909.8607.1299644131@webmail.messagingengine.com>
+Message-ID: <9dd1f6d60902110600x5265873ayfbe03ac98e7931eb@mail.gmail.com>
+
+As Bill says, the evidence to date is that people behave well.
+
+On Tue, Feb 10, 2009 at 4:05 PM, Bill Hooker <cwhooker at fastmail.fm> wrote:
+
+>
+> > In today's environment, though,
+> > this scenario could mean the researcher who freely shares (but not
+> > sharealike) is at a disadvantage when it comes to competing for jobs,
+> > research grants, and awards.
+>
+>
+> Everyone has their "scooping" horror story or ten, but the only
+> real-life Open Science efforts I know of (Bradley, Neylon) are textbook
+> examples of finding collaborators who would otherwise have never been
+> reachable, and have had no problem whatsoever with bad actors.
+>
+> That is, if we're taking competition into account, the evidence to date
+> is that sharing makes a researcher *more*, not less, competitive.  More
+> such evidence is probably the best way to encourage a culture of
+> sharing/use of the public domain in research.
+>
+>
+> best,
+>
+> B.
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://usefulchem.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090211/ab9a8f2b/attachment.htm 
+
+From rufus.pollock at okfn.org  Wed Feb 11 16:48:11 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 11 Feb 2009 16:48:11 +0000
+Subject: [open-science] Norms and flexible understandings question
+In-Reply-To: <40206B04-189F-4381-A5EF-3FBFA88C90AC@eln.bc.ca>
+References: <40206B04-189F-4381-A5EF-3FBFA88C90AC@eln.bc.ca>
+Message-ID: <b68e90820902110848u3c5e1382p9d9205aec592a854@mail.gmail.com>
+
+2009/2/10 Heather Morrison <heatherm at eln.bc.ca>:
+> The idea of norms rather than licenses does have some appeal.
+
+Just to be clear: I take this to mean vis-a-vis stuff like share-alike
+(I think we are all agreed now that we need a 'license' whatever you
+do -- i.e. some formal statement regarding the material (even if that
+is PD dedication))
+
+> Question:  can a normative approach accomodate things like flexible
+> understandings of what is permitted, and allow for evolution of such
+> understandings?
+
+While I understand the attractiveness of such flexibility I am
+concerned it starts to blur into fuzziness. One of the major reasons
+for making stuff open is to remove the permissions barrier: I can use
+stuff without having to go and consult with its producer.
+
+Once norms become fuzzy either we start requiring significant efforts
+from users or we end up with the norms being ignored -- and neither
+outcome seems attractive.
+
+> Flexible understandings = stuff like friendly licenses.  To go back
+> to Dorothea's example, if one researcher shares data freely while a
+> second researcher cannot share for privacy reasons, there are
+> probably a few understandings that the first researcher would think
+> of as friendly to sharealike.  For example, if the second researcher
+> shares her data privately with the first researcher, and publishes
+> her results OA immediately on acceptance for publication, the first
+> researcher may well be satisfied that this is Sharealike.
+
+I think this example is an interesting one (and I believe John
+Wilbanks has raised it before in discussions -- though not in this
+thread).
+
+I take your point here about flexibility but I do think both ways: in
+the example you give the user of open data (i.e. the first researcher)
+is having to do quite a lot of thinking regarding what they are
+supposed to do to comply with the 'spirit' of the norms. In a world in
+which data sharing (we hope) is going to happen *a lot* I think this
+could get a bit burdensome.
+
+On a point more directly related to the original example we should
+also be clear about what share-alike means here.
+
+If the first researcher is just using the data 'internally' to do
+calculations and then publishing a paper using those calculations
+share-alike isn't going to come into it: they are not producing *and*
+distributing a derivative 'database' (of course attribution still
+'binds' ...). Thus, sharealike will only come into it if you are
+making a 'derived' database and publicly distributing *that*.
+
+Regards,
+
+Rufus
+
+
+From heatherm at eln.bc.ca  Wed Feb 11 21:09:28 2009
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Wed, 11 Feb 2009 13:09:28 -0800
+Subject: [open-science] Openness and Licensing of (Open) Data: norms as
+	codes of practice?
+In-Reply-To: <1234299909.8607.1299644131@webmail.messagingengine.com>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>
+	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>
+	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>
+	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>
+	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>
+	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>
+	<b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>
+	<356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>
+	<B170A89B-1A70-476D-B982-EA3B0AE731E7@eln.bc.ca>
+	<1234299909.8607.1299644131@webmail.messagingengine.com>
+Message-ID: <00691792-A47D-4E29-A1E0-A7430904F35C@eln.bc.ca>
+
+Would it make sense for norms for open data to be expressed as codes  
+of practice?  Perhaps different groups (disciplinary, regional etc.)  
+could each have their own codes of practice.  This would allow for  
+real-world experimentation, in a way that lets each group move  
+forward in the way they are most comfortable with, without the legal  
+messiness of licensing being attached to each datum / dataset.   
+Within academia, it seems to me that this leaves enforcement with the  
+academics themselves.  Simply using someone else's data without  
+attribution and without adding value is a lot like plagiarism, for  
+example.
+
+A code of practice could easily accomodate the kinds of things I see  
+as desirable about noncommercial and sharealike, without hard-coding  
+licensing terms in a way that prevents use of the data.  One way to  
+develop such codes of practice in a way that helps steer us towards a  
+more inclusive global world, could be to involve Without Borders-type  
+groups in the early stages of developing potential codes of  
+practice.  Even a simple statement in such a code along the lines of,  
+"in our discipline / lab / country, we share our data openly.  All  
+that we ask in return is that you respect this open sharing by  
+ensuring that any commercial products or services made possible by  
+this data are provided in a way that is fair and responsible for the  
+people of the planet, and sustainable for the environment".
+
+This approach gives leadership to the development of norms to  
+scholars themselves - in the long run, in my opinion, this has value  
+in and of itself.  This would not be a quick fix for every  
+discipline, although there is nothing here to stop those in areas  
+like environment science from forging ahead quickly.
+
+thoughts?
+
+Any opinion expressed in this e-mail is that of the author alone, and  
+does not represent the opinion or policy of BC Electronic Library  
+Network or Simon Fraser University Library.
+
+Heather Morrison, MLIS
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+
+
+From wilbanks at creativecommons.org  Wed Feb 11 21:19:49 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Wed, 11 Feb 2009 16:19:49 -0500
+Subject: [open-science] Openness and Licensing of (Open) Data: norms as
+ codes of practice?
+In-Reply-To: <00691792-A47D-4E29-A1E0-A7430904F35C@eln.bc.ca>
+References: <b68e90820902040401l7540727i557312dd894e2f15@mail.gmail.com>	<alpine.DEB.1.00.0902041511230.25423@mars.pi.local>	<b68e90820902050604g5c68c6che4e64a92beb1e446@mail.gmail.com>	<3ed26a2c0902050842v1ea91445k22ebf6315ad80914@mail.gmail.com>	<b68e90820902090622k30136f76w1598c51a5f177d21@mail.gmail.com>	<3ed26a2c0902090712p5e93b02fpa7683e2a12b92e7d@mail.gmail.com>	<b68e90820902100918x75852e75jec4b987620205df0@mail.gmail.com>	<356cf3980902100934g3336489rfee4307e37fa0fe9@mail.gmail.com>	<B170A89B-1A70-476D-B982-EA3B0AE731E7@eln.bc.ca>	<1234299909.8607.1299644131@webmail.messagingengine.com>
+	<00691792-A47D-4E29-A1E0-A7430904F35C@eln.bc.ca>
+Message-ID: <499340F5.1070407@creativecommons.org>
+
+I'm trying to hold back a bit, as I have made my arguments again and 
+again. I also want to make sure everyone knows that I'm having these 
+arguments in the spirit of finding common ground, and I have enormous 
+respect for Rufus and his positions here.
+
+But I wanted to say that this below is precisely what we mean by norms 
+at SC.
+
+jtw
+ps - are there any communities other than OSM looking for share alike? 
+I've not found any, but it'd be good to know. I know OSM actually is 
+paying for the creation of the license, and that OSM is getting a fork 
+to create a PD version already...
+
+Heather Morrison wrote:
+> Would it make sense for norms for open data to be expressed as codes  
+> of practice?  Perhaps different groups (disciplinary, regional etc.)  
+> could each have their own codes of practice.  This would allow for  
+> real-world experimentation, in a way that lets each group move  
+> forward in the way they are most comfortable with, without the legal  
+> messiness of licensing being attached to each datum / dataset.   
+> Within academia, it seems to me that this leaves enforcement with the  
+> academics themselves.  Simply using someone else's data without  
+> attribution and without adding value is a lot like plagiarism, for  
+> example.
+> 
+> A code of practice could easily accomodate the kinds of things I see  
+> as desirable about noncommercial and sharealike, without hard-coding  
+> licensing terms in a way that prevents use of the data.  One way to  
+> develop such codes of practice in a way that helps steer us towards a  
+> more inclusive global world, could be to involve Without Borders-type  
+> groups in the early stages of developing potential codes of  
+> practice.  Even a simple statement in such a code along the lines of,  
+> "in our discipline / lab / country, we share our data openly.  All  
+> that we ask in return is that you respect this open sharing by  
+> ensuring that any commercial products or services made possible by  
+> this data are provided in a way that is fair and responsible for the  
+> people of the planet, and sustainable for the environment".
+> 
+> This approach gives leadership to the development of norms to  
+> scholars themselves - in the long run, in my opinion, this has value  
+> in and of itself.  This would not be a quick fix for every  
+> discipline, although there is nothing here to stop those in areas  
+> like environment science from forging ahead quickly.
+> 
+> thoughts?
+> 
+> Any opinion expressed in this e-mail is that of the author alone, and  
+> does not represent the opinion or policy of BC Electronic Library  
+> Network or Simon Fraser University Library.
+> 
+> Heather Morrison, MLIS
+> The Imaginary Journal of Poetic Economics
+> http://poeticeconomics.blogspot.com
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+
+From jonathan.gray at okfn.org  Wed Feb 18 22:47:55 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 18 Feb 2009 22:47:55 +0000
+Subject: [open-science] Open Knowledge Conference (OKCon) 2009: London,
+	28th March 2009
+Message-ID: <54ca21750902181447t7b888067hb1af51d36473ab50@mail.gmail.com>
+
+    ~~ Open Knowledge Conference (OKCon) 2009 ~~
+
+* where: Centre for Advanced Spatial Analysis, UCL, London, UK
+* when: 28th March 2009, 1030-1830
+* home: <http://www.okfn.org/okcon/>
+* programme: <http://www.okfn.org/okcon/programme>
+* register: <http://www.okfn.org/okcon/register/>
+* call for proposals: <http://www.okfn.org/okcon/cfp/>
+* last year: <http://www.okfn.org/okcon/2008/>
+
+The Open Knowledge Conference (OKCon) is back for its fourth installment
+bringing together individuals and groups from across the open knowledge
+spectrum for a day of discussions workshops.
+
+This year the event will feature dedicated sessions on 'open knowledge
+and development' and 'open data and the semantic web'. In addition we
+are reserving a substantial part of the event for the 'Open Space'-
+sessions, workshops and discussions proposed either via the call for
+proposals or on the day.
+
+Interested in giving a paper? Have a project to talk about? Want to run
+a workshop or session? Please see the call for proposals:
+
+  <http://www.okfn.org/okcon/cfp/>
+
+Want to get involved in putting the event together or otherwise helping
+out? Contact us at info [at] okfn [dot] org or add your name to the
+OKCon wiki page:
+
+  <http://okfn.org/wiki/okcon/2009/>
+
+Last but not least: we encourage early registration as space is limited:
+
+  <http://www.okfn.org/okcon/register/>
+
+
+From yishaym at gmail.com  Fri Feb 20 02:22:57 2009
+From: yishaym at gmail.com (Yishay Mor)
+Date: Fri, 20 Feb 2009 02:22:57 +0000
+Subject: [open-science] ESRC: Innovation Research Initiative
+Message-ID: <e5fbfda10902191822ubcd36fao58001b2360b7ece0@mail.gmail.com>
+
+I have a hypothesis: open science (and open anything) drives innovation. It
+is probably the best bet in terms of getting us out of the current economic
+jam. Now, here's a chance to prove it. Anyone interested?
+
+
+"The Economic and Social Research Council (ESRC), in funding partnership
+with the Department for Innovation, Universities and Skills (DIUS), the
+National Endowment for Science, Technology and the Arts (NESTA) and the
+Technology Strategy Board (TSB), is commissioning independent,
+multidisciplinary research focused on the role, drivers and impact of
+innovation."
+
+http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/opportunities/current_funding_opportunities/iri09.aspx
+
+
+
+
+
+<http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/opportunities/current_funding_opportunities/iri09.aspx#skip>
+Innovation
+Research Initiative - Distributed Projects Important notice:
+
+Applicants should note that changes have been made to the proposal
+requirements on the Je-S system. These changes will be applied to all
+research proposals being prepared for submission through this system on or
+after 17th February 2009. These changes are aimed at capturing information
+on impact, innovation and interdisciplinarity. System Guidance has been
+updated where appropriate.
+
+If you have any questions regarding the recent changes please refer to the ESRC
+FAQs on Impact, Innovation and
+Interdisciplinarity<http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/Support/esrcexpectations/faq.aspx?ComponentId=30831&SourcePageId=30646>before
+contacting the relevant ESRC officer/department responsible for this
+scheme.
+Invitation to submit full proposals
+
+The Economic and Social Research Council (ESRC), in funding partnership with
+the Department for Innovation, Universities and Skills (DIUS), the National
+Endowment for Science, Technology and the Arts (NESTA) and the Technology
+Strategy Board (TSB), is commissioning independent, multidisciplinary
+research focused on the role, drivers and impact of innovation.
+
+As the first phase of the Initiative, The Cambridge-Imperial Innovation
+Research Centre (UK~IRC) is receiving funding to host a strategic research
+and capacity building programme together with a knowledge exchange hub. As
+the second phase of the Initiative, the partners are now commissioning
+distributed projects. The Call is divided into two types of projects.
+
+   1. Substantive research projects with a Full Economic Costing (FEC)
+   between ?250,000 and ?600,000.
+   2. Exploratory projects up to a maximum value of ?50,000 (FEC) per
+   project.
+
+A total of ?1.5 million is available for this call. Full applications for
+the substantive research projects and the exploratory projects are invited.
+Any UK organisation that is eligible for funding from any of the funding
+organisations (ESRC, DIUS, NESTA and TSB) is eligible to apply.
+Submitting an application
+
+The deadline for receipt of applications is 4.00pm on 26 March 2009.
+
+___________________________
+ Yishay Mor, Researcher, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+  http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+  +44-20-78378888 x5737
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090220/0494d6a8/attachment.htm 
+
+From wilbanks at creativecommons.org  Sat Feb 21 00:25:21 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Fri, 20 Feb 2009 19:25:21 -0500
+Subject: [open-science] on copyright in databases
+Message-ID: <499F49F1.5020705@creativecommons.org>
+
+this is not part of the argument over what to *do* with databases, but 
+the beginning of a set of posts about the legal background.
+
+mike is on the board of CC, for disclosure's sake. he's a law professor 
+at American University in DC, and he was involved in the early stages of 
+the original CC licenses back in 2001. this post covers US copyright and 
+databases.
+
+http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html
+
+i was recently challenged to provide a "slogan" for data and the best i 
+could do was "it's complicated" - unsatisfying, but at least moderately 
+accurate.
+
+jtw
+
+-- 
+
+----------------------------------------------------------------
+John Wilbanks
+
+VP for Science, Creative Commons
+http://creativecommons.org
+http://sciencecommons.org
+http://neurocommons.org
+
+"We make sharing easy, legal, and scalable."
+----------------------------------------------------------------
+
+
+From rufus.pollock at okfn.org  Mon Feb 23 17:58:49 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 23 Feb 2009 17:58:49 +0000
+Subject: [open-science] on copyright in databases
+In-Reply-To: <499F49F1.5020705@creativecommons.org>
+References: <499F49F1.5020705@creativecommons.org>
+Message-ID: <b68e90820902230958w59b86c4dpdd095207ef30c0c2@mail.gmail.com>
+
+Thanks for the link John. This is a great post. I'd agree that it's
+complex but so's copyright generally -- not just when applied to DBs.
+
+Of course that's why we all agree that making things clear and simple
+is so important -- though I know there are some (relatively small in
+my view) differences on how to do that :)
+
+Rufus
+
+2009/2/21 John Wilbanks <wilbanks at creativecommons.org>:
+> this is not part of the argument over what to *do* with databases, but
+> the beginning of a set of posts about the legal background.
+>
+> mike is on the board of CC, for disclosure's sake. he's a law professor
+> at American University in DC, and he was involved in the early stages of
+> the original CC licenses back in 2001. this post covers US copyright and
+> databases.
+>
+> http://carrollogos.blogspot.com/2009/02/copyright-in-databases.html
+>
+> i was recently challenged to provide a "slogan" for data and the best i
+> could do was "it's complicated" - unsatisfying, but at least moderately
+> accurate.
+>
+> jtw
+>
+> --
+>
+> ----------------------------------------------------------------
+> John Wilbanks
+>
+> VP for Science, Creative Commons
+> http://creativecommons.org
+> http://sciencecommons.org
+> http://neurocommons.org
+>
+> "We make sharing easy, legal, and scalable."
+> ----------------------------------------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+

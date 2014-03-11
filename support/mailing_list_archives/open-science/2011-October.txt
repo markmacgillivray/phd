@@ -1,0 +1,4202 @@
+From auer at informatik.uni-leipzig.de  Fri Oct  7 17:35:35 2011
+From: auer at informatik.uni-leipzig.de (=?UTF-8?B?U8O2cmVuIEF1ZXI=?=)
+Date: Fri, 07 Oct 2011 18:35:35 +0200
+Subject: [open-science] Fwd: Invitation to the public: European Group on
+ Ethics Roundtable on ICT (Information and Computer Technologies) on 15th
+ November 2011
+In-Reply-To: <B459F0F2962C314087BBC0E74127AF5902C830E6@S-DC-EXM34.net1.cec.eu.int>
+References: <B459F0F2962C314087BBC0E74127AF5902C830E6@S-DC-EXM34.net1.cec.eu.int>
+Message-ID: <4E8F2A57.1090209@informatik.uni-leipzig.de>
+
+Hi all,
+
+I recently received this invitation to the European Group on Ethics
+Roundtable on ICT, but won't be able to attend the event. I have no idea
+what will be discussed there, maybe data privacy/security, another and
+from my perspective even more interesting aspect would be openness,
+reusability of ICT research along the lines of the Panton [1] or
+Repeat&Reuse Principles [2].
+
+In case one of you guys want to go to the event (and bring these topics
+to the table) I attach the invitation to this email.
+
+Best,
+
+S?ren
+
+[1] http://pantonprinciples.org/
+[2] http://wiki.okfn.org/Wg/science/Repeat_and_Reuse
+-------------- next part --------------
+An embedded message was scrubbed...
+From: <Kim-Hoang.LE at ec.europa.eu>
+Subject: Invitation to the public: European Group on Ethics Roundtable on ICT (Information and Computer Technologies) on 15th November 2011 
+Date: Thu, 6 Oct 2011 11:52:00 +0200
+Size: 848085
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111007/05975f1f/attachment-0001.eml>
+
+From koltzenburg at w4w.net  Sat Oct  8 09:53:13 2011
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Sat, 8 Oct 2011 10:53:13 +0200
+Subject: [open-science] give your opinion without actual participation Re:
+	Fwd: Invitation to the public: European Group on Ethics
+	Roundtable on ICT (Information and Computer Technologies) on
+	15th November 2011
+In-Reply-To: <4E8F2A57.1090209@informatik.uni-leipzig.de>
+References: <B459F0F2962C314087BBC0E74127AF5902C830E6@S-DC-EXM34.net1.cec.eu.int>
+	<4E8F2A57.1090209@informatik.uni-leipzig.de>
+Message-ID: <20111008084959.M93645@w4w.net>
+
+Hi S?ren,
+
+thanks, 
+one interesting formal aspect seems to be that you can use the registration formuntil 4 November 
+forgiving your recommendation independently of whether you will actually participate in the local meeting on 15 Nov.
+
+"Which main ethics issues do you think the EGE should address in their Opinion on'Ethical aspects of ICT'?"
+
+agree: 
+> from my perspective even more interesting aspect would be openness, 
+> reusability of ICT research along the lines of the Panton [1] or 
+> Repeat&Reuse Principles [2].
+
+cheers
+Claudia
+
+On Fri, 07 Oct 2011 18:35:35 +0200, S?ren Auer wrote 
+> Hi all, 
+> 
+> I recently received this invitation to the European Group on Ethics 
+> Roundtable on ICT, but won't be able to attend the event. I have no idea 
+> what will be discussed there, maybe data privacy/security, another and 
+> from my perspective even more interesting aspect would be openness, 
+> reusability of ICT research along the lines of the Panton [1] or 
+> Repeat&Reuse Principles [2]. 
+> 
+> In case one of you guys want to go to the event (and bring these topics 
+> to the table) I attach the invitation to this email. 
+> 
+> Best, 
+> 
+> 
+> 
+> [1] http://pantonprinciples.org/ 
+> [2] http://wiki.okfn.org/Wg/science/Repeat_and_Reuse
+
+thanks & cheers, 
+Claudia 
+koltzenburg at w4w.net
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111008/8451984a/attachment.htm>
+
+From auer at informatik.uni-leipzig.de  Mon Oct 10 09:08:14 2011
+From: auer at informatik.uni-leipzig.de (=?ISO-8859-1?Q?S=F6ren_Auer?=)
+Date: Mon, 10 Oct 2011 10:08:14 +0200
+Subject: [open-science] [OKF-DE-board] [okfn-advisory] Fwd: Invitation
+ to the public: European Group on Ethics Roundtable on ICT (Information and
+ Computer Technologies) on 15th November 2011
+In-Reply-To: <4E920A54.9030302@okfn.org>
+References: <B459F0F2962C314087BBC0E74127AF5902C830E6@S-DC-EXM34.net1.cec.eu.int>	<4E8F2A57.1090209@informatik.uni-leipzig.de>
+	<09FF8341-4A22-4B0F-8656-B4F78A3883DB@pobox.com>
+	<4E920A54.9030302@okfn.org>
+Message-ID: <4E92A7EE.3070000@informatik.uni-leipzig.de>
+
+Am 09.10.2011 22:55, schrieb Dr. Marcus M. Dapp (OKFN):
+> I might be able to make it as I should be in Maastricht in the evening
+> of that very day to receive a Best Practice award for the MOGDy project.
+> http://www.epsa2011.eu/
+
+Great! Congratulations to that too!!!
+
+> I have to check the timings and we have to clarify about the additional
+> travelling costs, but aside from that...
+> 
+> BTW: I agree with S?ren that the topics around openness and reuse should
+> definitely be brought to the round table!
+
+If you (and/or someone else) finally decides to go we could also have a
+Skype call before the meeting to brainstorm and discuss a little how to
+position the OKFN ideas there best. Let me know once you fixed the date
+and I can initiate a doodle poll for the Skype call.
+
+S?ren
+
+
+From nb at climatecode.org  Thu Oct 13 10:59:16 2011
+From: nb at climatecode.org (Nick Barnes)
+Date: Thu, 13 Oct 2011 10:59:16 +0100
+Subject: [open-science] Science Code Manifesto live
+Message-ID: <CADSvO-G62VA9FyK0WR7hN00ENQqY16RP1v9HK-U+anON+xecLA@mail.gmail.com>
+
+The Science Code Manifesto site is live: http://sciencecodemanifesto.org/
+Please read the manifesto and endorse it if you agree.
+--
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From jonathan.gray at okfn.org  Fri Oct 14 13:50:44 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 14 Oct 2011 14:50:44 +0200
+Subject: [open-science] Fwd: Reinventing Discovery / The Future of Science
+In-Reply-To: <alpine.WNT.2.00.1110140847400.10164@MichaelNielsen>
+References: <alpine.WNT.2.00.1110140847400.10164@MichaelNielsen>
+Message-ID: <CANQ_vu2UCx2FFTFmXeRuY_vYARTMERW2_ReTtTGH6J6Dth9+Fw@mail.gmail.com>
+
+A quick ping to say that Michael Nielsen's book is now out! Details below...
+
+
+---------- Forwarded message ----------
+From: Michael Nielsen <mn at michaelnielsen.org>
+Date: Fri, Oct 14, 2011 at 2:49 PM
+Subject: Reinventing Discovery / The Future of Science
+To: mn at michaelnielsen.org
+
+
+
+You're receiving this email because you signed up to be notified when
+my new book "Reinventing Discovery: The New Era of Networked Science"
+(working title: "The Future of Science") is released.
+
+I am absolutely delighted to announce that the book is now available!
+
+It's currently shipping in hardcover through Amazon.com, Barnes and
+Noble, and many other booksellers. ?The eBook will be available by
+October 21. More information about the book, including links to order,
+is available here:
+
+http://michaelnielsen.org/blog/reinventing-discovery/
+
+I hope you enjoy it!
+
+Michael
+--
+http://michaelnielsen.org/blog
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From jenny.molloy at okfn.org  Sat Oct 15 16:54:26 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sat, 15 Oct 2011 16:54:26 +0100
+Subject: [open-science] Fwd: [open-bibliography] Romanian translation of
+ the Principles
+In-Reply-To: <CABPM+wp-HaBwWi4Lq6KADHeAeMkZB6NEne09PvBChEtXEBV=Og@mail.gmail.com>
+References: <37A58429-6C5A-4238-B57D-A6FC16C32D63@gmail.com>
+	<CAOtd05HEASywkHnTM3nv1t9vbdhgqnxsgRiqCB=eyvoj9U3ieg@mail.gmail.com>
+	<CAOtd05EbCTOqQhy1SW8iMfTP7HiBPiEAJYAa6xH08xL2=6ENAQ@mail.gmail.com>
+	<CADybtq2sSEiP_EO7KtpiF+q6E9_SeTCXR8embxKzpqbP4sQM7Q@mail.gmail.com>
+	<CAD2k14N9mT12nGpjmFbgPz2ZytKeftbcejmFFKghfzx7u+2iMw@mail.gmail.com>
+	<CADybtq1vmmbG-3QXxjeCUDxFoz2TJJhvv0bt=3b52x+QskqQYw@mail.gmail.com>
+	<CAD2k14ME1oL02On=iVNys6X6DyKYMKEZ4nDR7JRw4y4_bHBrKA@mail.gmail.com>
+	<CABPM+wp-HaBwWi4Lq6KADHeAeMkZB6NEne09PvBChEtXEBV=Og@mail.gmail.com>
+Message-ID: <CABPM+wp6xxNRbUfLfzw4DOdxbpjHe6vuPLaYp==gQwQUiCgzvw@mail.gmail.com>
+
+Hi All
+
+Sincere apologies for how long it has taken me to do this, but the Panton
+Principles are now available in Romanian here
+http://pantonprinciples.org/translations/#Romanian
+
+Many thanks to the translators for all their hard work!
+
+Jenny
+
+On Tue, Sep 13, 2011 at 9:58 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Thanks very much, this is really useful!
+> I'll update the website this week.
+>
+> Jenny
+>
+> On Tue, Sep 13, 2011 at 9:46 AM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> > Many thanks Nicolaie,
+> > I have forwarded this to the Open Science list so that someone (?who) can
+> > edit the wiki page and include the translation. I can open it in Word and
+> > show the diacritics. Presumably we save all these in UTF-8?
+> >
+> > P.
+> >
+> >
+> >
+> > ---------- Forwarded message ----------
+> > From: Constantinescu Nicolaie <kosson at gmail.com>
+> > Date: Mon, Sep 12, 2011 at 1:50 PM
+> > Subject: Re: [open-bibliography] Romanian translation of the Principles
+> > To: List for Working Group on Open Bibliographic Data
+> > <open-bibliography at lists.okfn.org>
+> >
+> >
+> > Dear Peter,
+> >
+> > Please, find attached the Romanian version for the Panton Principles.
+> > The translated version was published on Kosson Community as well:
+> >
+> http://www.kosson.ro/index.php?option=com_content&view=article&id=419%3Aprincipiile-panton-pentru-date-deschise-in-stiinta&catid=22%3Aknow-how&Itemid=32&lang=ro
+> >
+> > Kind regards,
+> >
+> > On 9 September 2011 18:27, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> >>
+> >>
+> >> On Thu, Sep 8, 2011 at 8:38 PM, Constantinescu Nicolaie <
+> kosson at gmail.com>
+> >> wrote:
+> >>>
+> >>> Adrian,
+> >>>
+> >>> All looks good! God speed on all your efforts!
+> >>>
+> >>> Unfortunately only with Romanian I can contribute. In the future,
+> >>> please, if something important happens, please consider our community
+> >>> in Romania as a partner in dissemination.
+> >>
+> >> Thanks very much. I think there will be a lot that the OKF generates
+> where
+> >> translations will be valuable. It's also a very good way of showing new
+> >> visitors that we care.
+> >>
+> >> Have http://pantonprinciples.org/ been translated? :-) I seem to
+> remember
+> >> so, but can't find it in a search
+> >>
+> >> P.
+> >>
+> >>>
+> >>> Kind regards,
+> >>>
+> >>> --
+> >>> Constantinescu Nicolaie
+> >>> Information Architect
+> >>> http://www.kosson.ro
+> >>>
+> >>> _______________________________________________
+> >>> open-bibliography mailing list
+> >>> open-bibliography at lists.okfn.org
+> >>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >>
+> >>
+> >>
+> >> --
+> >> Peter Murray-Rust
+> >> Reader in Molecular Informatics
+> >> Unilever Centre, Dep. Of Chemistry
+> >> University of Cambridge
+> >> CB2 1EW, UK
+> >> +44-1223-763069
+> >>
+> >> _______________________________________________
+> >> open-bibliography mailing list
+> >> open-bibliography at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >>
+> >>
+> >
+> >
+> >
+> > --
+> > Constantinescu Nicolaie
+> > Information Architect
+> > http://www.kosson.ro
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111015/49c52f3a/attachment.htm>
+
+From jenny.molloy at okfn.org  Sat Oct 15 17:10:01 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sat, 15 Oct 2011 17:10:01 +0100
+Subject: [open-science] Hackathon! Semantic Tools for Life Sciences
+	(OKF/JISC-DevSCI/SWAT4LS)
+Message-ID: <CABPM+wrSYb6UpDemRxeA-zW1cc_5r7QPoYQy288WHr=X87kipw@mail.gmail.com>
+
+Dear All
+
+The working group are involved in organising a hackathon as part of the
+Semantic Web for the Life Sciences (SWAT4LS) conference in London this
+December and we'd like to encourage those of you with some web/app/software
+development skills to participate!
+
+While the theme of the hackathon is broad, covering the generation of
+semantic web tools for the life sciences, a particular area of interest for
+several members of the working group is the development of open research
+reports using open bibliographic data from PubMedCentral and crowdsourced
+summaries of disease research. Suggestions for initial topics are malaria
+and cancer.
+
+This event is kindly sponsored by JISC through their DevSCI project
+
+When: Tuesday 6 December, evening and Wednesday 7 December 2011, all day
+Where: ULU, London (TBC)
+Website and registration: h
+ttp://www.ukoln.ac.uk/events/devcsi/life-sciences-hackdays/index.html<http://www.ukoln.ac.uk/events/devcsi/life-sciences-hackdays/index.html>
+
+Participants are recommended to discuss ideas via the open-science list
+(although we may move this to open-science-dev if things get too techy) so
+please do follow and contribute to the conversation even if you can't attend
+the event. There may be opportunities to participate remotely so please
+email me if you're interested in doing that.
+
+I hope several of you can make it!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111015/edd495ca/attachment.htm>
+
+From mn at michaelnielsen.org  Thu Oct 20 02:50:33 2011
+From: mn at michaelnielsen.org (Michael Nielsen)
+Date: Wed, 19 Oct 2011 21:50:33 -0400 (Eastern Daylight Time)
+Subject: [open-science] Fwd: Reinventing Discovery / The Future of
+ Science
+In-Reply-To: <CANQ_vu2UCx2FFTFmXeRuY_vYARTMERW2_ReTtTGH6J6Dth9+Fw@mail.gmail.com>
+References: <alpine.WNT.2.00.1110140847400.10164@MichaelNielsen>
+	<CANQ_vu2UCx2FFTFmXeRuY_vYARTMERW2_ReTtTGH6J6Dth9+Fw@mail.gmail.com>
+Message-ID: <alpine.WNT.2.00.1110192147140.7124@MichaelNielsen>
+
+
+Thanks, Jonathan, for forwarding this to the list.
+
+Of course, the success of the book is important to me for purely personal 
+reasons.
+
+But the main reason I wrote the book is that I believe it's vital that 
+open science become a mainstream issue in our society. Writing a book 
+aimed at a general audience seemed to be the best way I could help achieve 
+that goal.  I believed this strongly enough that I gave up my tenured job 
+to write the book.
+
+I know open science is a goal close to the heart of the people on this
+list, and so I'm hoping you can help get the word out about the book
+to colleagues, students, and the public.
+
+I've blogged more about the book (with links) here:
+
+http://michaelnielsen.org/blog/reinventing-discovery/
+
+Best wishes,
+
+Michael
+
+On Fri, 14 Oct 2011, Jonathan Gray wrote:
+
+> A quick ping to say that Michael Nielsen's book is now out! Details below...
+>
+>
+> ---------- Forwarded message ----------
+> From: Michael Nielsen <mn at michaelnielsen.org>
+> Date: Fri, Oct 14, 2011 at 2:49 PM
+> Subject: Reinventing Discovery / The Future of Science
+> To: mn at michaelnielsen.org
+>
+>
+>
+> You're receiving this email because you signed up to be notified when
+> my new book "Reinventing Discovery: The New Era of Networked Science"
+> (working title: "The Future of Science") is released.
+>
+> I am absolutely delighted to announce that the book is now available!
+>
+> It's currently shipping in hardcover through Amazon.com, Barnes and
+> Noble, and many other booksellers. ?The eBook will be available by
+> October 21. More information about the book, including links to order,
+> is available here:
+>
+> http://michaelnielsen.org/blog/reinventing-discovery/
+>
+> I hope you enjoy it!
+>
+> Michael
+> --
+> http://michaelnielsen.org/blog
+>
+>
+>
+> -- 
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> http://twitter.com/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+From koltzenburg at w4w.net  Thu Oct 20 10:31:23 2011
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Thu, 20 Oct 2011 11:31:23 +0200
+Subject: [open-science] Fwd: Reinventing Discovery / The Future of
+	Science
+In-Reply-To: <alpine.WNT.2.00.1110192147140.7124@MichaelNielsen>
+References: <alpine.WNT.2.00.1110140847400.10164@MichaelNielsen>
+	<CANQ_vu2UCx2FFTFmXeRuY_vYARTMERW2_ReTtTGH6J6Dth9+Fw@mail.gmail.com>
+	<alpine.WNT.2.00.1110192147140.7124@MichaelNielsen>
+Message-ID: <20111020092653.M52115@w4w.net>
+
+hi Michael,
+
+Great news, Michael, my congrats! 
+thank you very much for sticking your head out here,
+... so today I am just in time for my Chapter1-review before the complete work starts to be shipped
+
+hi all,
+just finished my essay on Chapter 1 of Michael's book this morning, 
+let me add re my closing question that I do of course appreciate what Michael says in his blog post 
+http://michaelnielsen.org/blog/reinventing-discovery/ re accessibility and planning for the commons
+
+let me share the following thoughts with you, 
+cheers, Claudia
+
+2011-10-20, by Claudia Koltzenburg
+
+on Michael Nielsen: Reinventing Discovery, Chapter 1
+
+?Anyone in the world?: Who is s/he? Where and how is s/he situated?
+
+In the first Chapter of his book Reinventing Discovery (starts shipping 21 Oct 2011), Michael Nielsen argues that the impact of ?the new online tools? is indeed ?broad-ranging? and that ?many scientists have missed or underestimated? this, ?being so focused on their own specialty? that in their lack of appreciation these scientists are ?likesurfers at the beach who are so intent on watching the waves crash and recede that they?re missing the rise of the tide.? So Nielsen, it seems to me, sets out in this book to describe, and maybe analyze, the location (beach), the surfing (sport), what drives the waves (rules?), and what in this setting is the tide?s function (broad-ranging change?).Possibly, Nielsen will also address the climate issues at this beach (the weather, the ground and the background scenery, and is there any waste lying around?), and maybe he will also pose questions like: Who are these people (intent on wind surfing or wave riding)? Are they a group? Why can they afford being at this beach in the first place? What is their equipment like, who was it produced by and at what income level, where do these ?tools? come from and how did they get to this beach?
+
+Nielsen?s first Chapter that has been made available ahead of ?publication?, provides interesting food for thought and I am looking forward to read what is to come. This introductory part contains quite afew descriptions of an online culture of scientific collaboration that seem convincing to me because these descriptions link to my own experience of how at least some of the barriers to fruitful debate can be done away with successfully. Nielsen predicts that by using online tools ?improvements to the way discoveries are made? can effectively be put into practice and that such improvements ?are more important than any single discovery.? (p. 3) However, speaking of discoveries, ?What a discovery that would be ? a system that did not shut out?. (V. Woolf, Entry for 2 October 1932, A Writer?s Diary)
+
+?Anyone in the world may freely download the genetic map?, Nielsen says in his description of how GenBank services are meant to work. With view to the ?anyone? issue in particular, I seek to find out how MichaelNielsen, in the course of the book, will introduce to the reader the philosophic and developmental rationale behind the general claim for needing something ?more?, ?better? and ?faster? ? for ?the advancement of science? (p. 9). Putting this claim to an immediate test ? as to where the surfers? equipment comes from ? mightn?t there have been a better and faster way to make Nielsen newest book officially accessible for anyone in the world, too?
+
+On Wed, 19 Oct 2011 21:50:33 -0400 (Eastern Daylight Time), Michael Nielsen wrote
+> Thanks, Jonathan, for forwarding this to the list. 
+> 
+> Of course, the success of the book is important to me for purely personal 
+> reasons. 
+> 
+> But the main reason I wrote the book is that I believe it's vital that 
+> open science become a mainstream issue in our society. Writing a book 
+> aimed at a general audience seemed to be the best way I could help achieve 
+> that goal. ?I believed this strongly enough that I gave up my tenured job 
+> to write the book. 
+> 
+> I know open science is a goal close to the heart of the people on this 
+> list, and so I'm hoping you can help get the word out about the book 
+> to colleagues, students, and the public. 
+> 
+> I've blogged more about the book (with links) here: 
+> 
+> http://michaelnielsen.org/blog/reinventing-discovery/ 
+> 
+> Best wishes, 
+> 
+> Michael 
+> 
+> On Fri, 14 Oct 2011, Jonathan Gray wrote: 
+> 
+> > A quick ping to say that Michael Nielsen's book is now out! Details below... 
+> > 
+> > 
+> > ---------- Forwarded message ---------- 
+> > From: Michael Nielsen <mn at michaelnielsen.org> 
+> > Date: Fri, Oct 14, 2011 at 2:49 PM 
+> > Subject: Reinventing Discovery / The Future of Science 
+> > To: mn at michaelnielsen.org 
+> > 
+> > 
+> > 
+> > You're receiving this email because you signed up to be notified when 
+> > my new book "Reinventing Discovery: The New Era of Networked Science" 
+> > (working title: "The Future of Science") is released. 
+> > 
+> > I am absolutely delighted to announce that the book is now available! 
+> > 
+> > It's currently shipping in hardcover through Amazon.com, Barnes and 
+> > Noble, and many other booksellers. ?The eBook will be available by 
+> > October 21. More information about the book, including links to order, 
+> > is available here: 
+> > 
+> > http://michaelnielsen.org/blog/reinventing-discovery/ 
+> > 
+> > I hope you enjoy it! 
+> > 
+> > Michael 
+> > -- 
+> > http://michaelnielsen.org/blog 
+> > 
+> > 
+> > 
+> > -- 
+> > Jonathan Gray 
+> > 
+> > Community Coordinator 
+> > The Open Knowledge Foundation 
+> > http://www.okfn.org 
+> > 
+> > http://twitter.com/jwyg 
+> > 
+> > _______________________________________________ 
+> > open-science mailing list 
+> > open-science at lists.okfn.org 
+> > http://lists.okfn.org/mailman/listinfo/open-science 
+> >
+
+thanks & cheers, 
+Claudia 
+koltzenburg at w4w.net
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111020/a334c393/attachment.htm>
+
+From jenny.molloy at okfn.org  Sat Oct 22 16:36:35 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sat, 22 Oct 2011 07:36:35 -0800
+Subject: [open-science] Open Science Summit
+Message-ID: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+
+Hi All
+
+Just a note to say that Peter Murray Rust and I are currently sitting in the
+Computer History Museum in Mountain View, CA at the Open Science Summit
+http://opensciencesummit.com/
+I'll be blogging at science.okfn.org and attempting to tweet interesting
+snippets through the conference (@jenny_molloy) so do follow, send any
+queries and if you're here yourself, definitely seek us out for a chat!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111022/5fb39641/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Sat Oct 22 16:41:20 2011
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Sat, 22 Oct 2011 17:41:20 +0200
+Subject: [open-science] Open Science Summit
+In-Reply-To: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+References: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+Message-ID: <CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+
+Hi all,
+
+I am sitting at home in front of the Webcast.
+
+Cheers,
+
+Daniel
+
+On Sat, Oct 22, 2011 at 5:36 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> Hi All
+> Just a note to say that Peter Murray Rust and I are currently sitting in the
+> Computer History Museum in Mountain View, CA at the Open Science
+> Summit?http://opensciencesummit.com/
+> I'll be blogging at science.okfn.org and attempting to tweet interesting
+> snippets through the conference (@jenny_molloy) so do follow, send any
+> queries and if you're here yourself, definitely seek us out for a chat!
+> Jenny
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+From jenny.molloy at okfn.org  Sat Oct 22 16:45:27 2011
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sat, 22 Oct 2011 07:45:27 -0800
+Subject: [open-science] Open Science Summit
+In-Reply-To: <CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+References: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+	<CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+Message-ID: <CABPM+wqDoihLcVUbPu7_SHZc=orv43t1bOAWtmT=LvjrRtamYA@mail.gmail.com>
+
+If anyone wants to do the same between 1-3pm, Peter and I are presenting the
+concept of Open Research Reports at some point during that session :)
+
+Jenny
+
+On Sat, Oct 22, 2011 at 7:41 AM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> Hi all,
+>
+> I am sitting at home in front of the Webcast.
+>
+> Cheers,
+>
+> Daniel
+>
+> On Sat, Oct 22, 2011 at 5:36 PM, Jenny Molloy <jenny.molloy at okfn.org>
+> wrote:
+> > Hi All
+> > Just a note to say that Peter Murray Rust and I are currently sitting in
+> the
+> > Computer History Museum in Mountain View, CA at the Open Science
+> > Summit http://opensciencesummit.com/
+> > I'll be blogging at science.okfn.org and attempting to tweet interesting
+> > snippets through the conference (@jenny_molloy) so do follow, send any
+> > queries and if you're here yourself, definitely seek us out for a chat!
+> > Jenny
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111022/a4205cc7/attachment.htm>
+
+From mn at michaelnielsen.org  Sat Oct 22 16:46:00 2011
+From: mn at michaelnielsen.org (Michael Nielsen)
+Date: Sat, 22 Oct 2011 11:46:00 -0400 (Eastern Daylight Time)
+Subject: [open-science] Open Science Summit
+In-Reply-To: <CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+References: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+	<CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+Message-ID: <alpine.WNT.2.00.1110221144020.12048@MichaelNielsen>
+
+
+On twitter, people seem to be converging on the hashtag #oss2011.  Great 
+coverage so far of Victoria Stodden's talk -- thanks to everyone who's 
+there and tweeting!
+
+Cheers,
+
+Michael
+
+On Sat, 22 Oct 2011, Daniel Mietchen wrote:
+
+> Hi all,
+>
+> I am sitting at home in front of the Webcast.
+>
+> Cheers,
+>
+> Daniel
+>
+> On Sat, Oct 22, 2011 at 5:36 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+>> Hi All
+>> Just a note to say that Peter Murray Rust and I are currently sitting in the
+>> Computer History Museum in Mountain View, CA at the Open Science
+>> Summit?http://opensciencesummit.com/
+>> I'll be blogging at science.okfn.org and attempting to tweet interesting
+>> snippets through the conference (@jenny_molloy) so do follow, send any
+>> queries and if you're here yourself, definitely seek us out for a chat!
+>> Jenny
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+From daniel.mietchen at googlemail.com  Sat Oct 22 17:04:26 2011
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Sat, 22 Oct 2011 18:04:26 +0200
+Subject: [open-science] Open Science Summit
+In-Reply-To: <CABPM+wqDoihLcVUbPu7_SHZc=orv43t1bOAWtmT=LvjrRtamYA@mail.gmail.com>
+References: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+	<CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+	<CABPM+wqDoihLcVUbPu7_SHZc=orv43t1bOAWtmT=LvjrRtamYA@mail.gmail.com>
+Message-ID: <CAN6n2b3hoNOEm4yLC0=CB2bsu7os6BhJvOXmOAhjU63pqvUK_Q@mail.gmail.com>
+
+I am in the same session, by the way. Would be good if we could keep
+this email channel on in case something goes wrong with Skype.
+
+Daniel
+
+On Sat, Oct 22, 2011 at 5:45 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> If anyone wants to do the same between 1-3pm, Peter and I are presenting the
+> concept of Open Research Reports at some point during that session :)
+> Jenny
+>
+> On Sat, Oct 22, 2011 at 7:41 AM, Daniel Mietchen
+> <daniel.mietchen at googlemail.com> wrote:
+>>
+>> Hi all,
+>>
+>> I am sitting at home in front of the Webcast.
+>>
+>> Cheers,
+>>
+>> Daniel
+>>
+>> On Sat, Oct 22, 2011 at 5:36 PM, Jenny Molloy <jenny.molloy at okfn.org>
+>> wrote:
+>> > Hi All
+>> > Just a note to say that Peter Murray Rust and I are currently sitting in
+>> > the
+>> > Computer History Museum in Mountain View, CA at the Open Science
+>> > Summit?http://opensciencesummit.com/
+>> > I'll be blogging at science.okfn.org and attempting to tweet interesting
+>> > snippets through the conference (@jenny_molloy) so do follow, send any
+>> > queries and if you're here yourself, definitely seek us out for a chat!
+>> > Jenny
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> >
+>> >
+>
+>
+
+
+From brian.glanz at gmail.com  Sat Oct 22 18:00:36 2011
+From: brian.glanz at gmail.com (Brian Glanz)
+Date: Sat, 22 Oct 2011 10:00:36 -0700
+Subject: [open-science] Open Science Summit
+In-Reply-To: <CAN6n2b3hoNOEm4yLC0=CB2bsu7os6BhJvOXmOAhjU63pqvUK_Q@mail.gmail.com>
+References: <CABPM+wrt3V4ukHi2NgkN11hREgNPyMtaWovkQFwP743o2wDAhQ@mail.gmail.com>
+	<CAN6n2b1J2DGLFoyFvcvjghhWJL3aZ44ECixRJ3tKRCR=jNtdeg@mail.gmail.com>
+	<CABPM+wqDoihLcVUbPu7_SHZc=orv43t1bOAWtmT=LvjrRtamYA@mail.gmail.com>
+	<CAN6n2b3hoNOEm4yLC0=CB2bsu7os6BhJvOXmOAhjU63pqvUK_Q@mail.gmail.com>
+Message-ID: <CACbRpSxuKQ70cwEqLGXZn_3shYx5z18ogWuhOZHG5dnW1o1x9Q@mail.gmail.com>
+
+FYI I'm also, both in the room and pinged here. BG
+
+On Sat, Oct 22, 2011 at 9:04 AM, Daniel Mietchen <
+daniel.mietchen at googlemail.com> wrote:
+
+> I am in the same session, by the way. Would be good if we could keep
+> this email channel on in case something goes wrong with Skype.
+>
+> Daniel
+>
+> On Sat, Oct 22, 2011 at 5:45 PM, Jenny Molloy <jenny.molloy at okfn.org>
+> wrote:
+> > If anyone wants to do the same between 1-3pm, Peter and I are presenting
+> the
+> > concept of Open Research Reports at some point during that session :)
+> > Jenny
+> >
+> > On Sat, Oct 22, 2011 at 7:41 AM, Daniel Mietchen
+> > <daniel.mietchen at googlemail.com> wrote:
+> >>
+> >> Hi all,
+> >>
+> >> I am sitting at home in front of the Webcast.
+> >>
+> >> Cheers,
+> >>
+> >> Daniel
+> >>
+> >> On Sat, Oct 22, 2011 at 5:36 PM, Jenny Molloy <jenny.molloy at okfn.org>
+> >> wrote:
+> >> > Hi All
+> >> > Just a note to say that Peter Murray Rust and I are currently sitting
+> in
+> >> > the
+> >> > Computer History Museum in Mountain View, CA at the Open Science
+> >> > Summit http://opensciencesummit.com/
+> >> > I'll be blogging at science.okfn.org and attempting to tweet
+> interesting
+> >> > snippets through the conference (@jenny_molloy) so do follow, send any
+> >> > queries and if you're here yourself, definitely seek us out for a
+> chat!
+> >> > Jenny
+> >> > _______________________________________________
+> >> > open-science mailing list
+> >> > open-science at lists.okfn.org
+> >> > http://lists.okfn.org/mailman/listinfo/open-science
+> >> >
+> >> >
+> >
+> >
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111022/0bc000d9/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Oct 26 17:49:36 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 26 Oct 2011 17:49:36 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+	Science Summit
+Message-ID: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+
+Jenny and I presented on Open Research Reports  (
+http://fora.tv/2011/10/22/This_Year_in_Open_Science_Highlights_From_2011 ).
+our talk (starts 20 minutes in) and the slides are in my blog
+http://blogs.ch.cam.ac.uk/pmr/2011/10/23/open-research-reports-what-jenny-and-i-said-and-why-i-am-angry/
+
+More later or read my blog.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111026/0af17a9f/attachment.htm>
+
+From ps at pawelszczesny.org  Thu Oct 27 07:01:02 2011
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Thu, 27 Oct 2011 08:01:02 +0200
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+Message-ID: <CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+
+Dear Peter,
+
+I'm even more outraged after seeing the slides, than I was after
+reading your blog posts.  Not only you show no data for assertion
+"closed access means people die" (anecdotal evidence is not an
+evidence - instead of formulating a hypothesis, you claim  "I don?t
+think anyone can deny the truth of that conclusion."), but you imply
+absolutely false connection between mortality rates in very poor
+countries and lack of access to primary research literature.
+
+This is very wrong. Majority of maternal mortality rate in Bangladesh
+(see your last slide) is attributed to child marriage, lack of female
+education and lack of skilled birth attendants. Access to scholarly
+literature is absolutely irrelevant in such case. You'd need to
+improve the standard of living and the quality of education first.
+
+Please stop flashing images of poor people in your open foo talks.
+You're harming the credibility of open science community.
+
+PS
+
+--
+Pawe? Szcz?sny
+http://www.pawelszczesny.org
+
+
+On Wed, Oct 26, 2011 at 6:49 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+> Jenny and I presented on Open Research Reports
+> (http://fora.tv/2011/10/22/This_Year_in_Open_Science_Highlights_From_2011 ).
+> our talk (starts 20 minutes in) and the slides are in my blog
+> http://blogs.ch.cam.ac.uk/pmr/2011/10/23/open-research-reports-what-jenny-and-i-said-and-why-i-am-angry/
+>
+> More later or read my blog.
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+From pm286 at cam.ac.uk  Thu Oct 27 07:09:04 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 27 Oct 2011 07:09:04 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+Message-ID: <CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+
+2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+
+> Dear Peter,
+>
+> I'm even more outraged after seeing the slides, than I was after
+> reading your blog posts.  Not only you show no data for assertion
+> "closed access means people die" (anecdotal evidence is not an
+> evidence - instead of formulating a hypothesis, you claim  "I don?t
+> think anyone can deny the truth of that conclusion."), but you imply
+> absolutely false connection between mortality rates in very poor
+> countries and lack of access to primary research literature.
+>
+
+I did not say it was the major cause of mortality, but it is a contributor,
+including in the rich west. After talking with people who run patient groups
+there is anecdotal evidence that many patients cannot get access to the
+literature they want and that diagnoses are in error because of that.
+
+I shall take steps to create bodies of anecdotal evidence to support my
+assertion.
+
+>
+> This is very wrong. Majority of maternal mortality rate in Bangladesh
+> (see your last slide) is attributed to child marriage, lack of female
+> education and lack of skilled birth attendants. Access to scholarly
+> literature is absolutely irrelevant in such case. You'd need to
+> improve the standard of living and the quality of education first.
+>
+
+this is an independent effect.
+
+
+> Please stop flashing images of poor people in your open foo talks.
+> You're harming the credibility of open science community.
+>
+>
+That's an opinion.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/7ce6c0df/attachment.htm>
+
+From ps at pawelszczesny.org  Thu Oct 27 07:50:06 2011
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Thu, 27 Oct 2011 08:50:06 +0200
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+Message-ID: <CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+
+2011/10/27 Peter Murray-Rust <pm286 at cam.ac.uk>:
+>
+>
+> 2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+>>
+>> Dear Peter,
+>>
+>> I'm even more outraged after seeing the slides, than I was after
+>> reading your blog posts. ?Not only you show no data for assertion
+>> "closed access means people die" (anecdotal evidence is not an
+>> evidence - instead of formulating a hypothesis, you claim ?"I don?t
+>> think anyone can deny the truth of that conclusion."), but you imply
+>> absolutely false connection between mortality rates in very poor
+>> countries and lack of access to primary research literature.
+>
+> I did not say it was the major cause of mortality, but it is a contributor,
+> including in the rich west. After talking with people who run patient groups
+> there is anecdotal evidence that many patients cannot get access to the
+> literature they want and that diagnoses are in error because of that.
+>
+> I shall take steps to create bodies of anecdotal evidence to support my
+> assertion.
+
+I can supply the same amount of anecdotal evidence showing how access
+to information is harfmul in case of patients, starting from effects
+of Wakefield's MMR paper and ending with plenty of stories from local
+doctors. Additionally, rate of correct diagnoses can be improved (by
+75% as some studies suggest) by adopting clinical decision support
+systems (users of such systems do not need access to primary
+literature). You haven't tested neither your nor null hypothesis.
+
+>>
+>> This is very wrong. Majority of maternal mortality rate in Bangladesh
+>> (see your last slide) is attributed to child marriage, lack of female
+>> education and lack of skilled birth attendants. Access to scholarly
+>> literature is absolutely irrelevant in such case. You'd need to
+>> improve the standard of living and the quality of education first.
+>
+> this is an independent effect.
+>
+
+Nope, these things are heavily connected. Ability to effectively use
+primary research literature increases with the standards of living
+(access to equipment) and level of education. OA makes a lot of sense
+for Western countries, a bit of sense for transitioning countries
+(such as Poland) and almost no sense for poor countries where the
+major issue is no access to clean water.
+
+>>
+>> Please stop flashing images of poor people in your open foo talks.
+>> You're harming the credibility of open science community.
+>>
+>
+> That's an opinion.
+>
+
+Indeed. You've harmed already mine, but it's an anecdotal evidence.
+
+PS
+
+--
+http://www.pawelszczesny.org
+
+
+From iryna.kuchma at eifl.net  Thu Oct 27 16:19:36 2011
+From: iryna.kuchma at eifl.net (Iryna Kuchma)
+Date: Thu, 27 Oct 2011 18:19:36 +0300
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+Message-ID: <CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+
+If we are talking about open access to scholarly publications please believe
+me that people in universities and research institutions in developing
+countries do have computers and internet. this is one of the examples of a
+Kenyan researcher speaking about open access: Prof. Mary Abukutsa-Onyango
+discusses the importance of open access for research from Kenya and other
+African countries <http://www.vimeo.com/10169351> (http://vimeo.com/10169351)
+and I can share more evidences like this.
+
+Best wishes,
+Iryna Kuchma
+EIFL Open Access programme manager
+www.eifl.net
+
+2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+
+> 2011/10/27 Peter Murray-Rust <pm286 at cam.ac.uk>:
+> >
+> >
+> > 2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+> >>
+> >> Dear Peter,
+> >>
+> >> I'm even more outraged after seeing the slides, than I was after
+> >> reading your blog posts.  Not only you show no data for assertion
+> >> "closed access means people die" (anecdotal evidence is not an
+> >> evidence - instead of formulating a hypothesis, you claim  "I don?t
+> >> think anyone can deny the truth of that conclusion."), but you imply
+> >> absolutely false connection between mortality rates in very poor
+> >> countries and lack of access to primary research literature.
+> >
+> > I did not say it was the major cause of mortality, but it is a
+> contributor,
+> > including in the rich west. After talking with people who run patient
+> groups
+> > there is anecdotal evidence that many patients cannot get access to the
+> > literature they want and that diagnoses are in error because of that.
+> >
+> > I shall take steps to create bodies of anecdotal evidence to support my
+> > assertion.
+>
+> I can supply the same amount of anecdotal evidence showing how access
+> to information is harfmul in case of patients, starting from effects
+> of Wakefield's MMR paper and ending with plenty of stories from local
+> doctors. Additionally, rate of correct diagnoses can be improved (by
+> 75% as some studies suggest) by adopting clinical decision support
+> systems (users of such systems do not need access to primary
+> literature). You haven't tested neither your nor null hypothesis.
+>
+> >>
+> >> This is very wrong. Majority of maternal mortality rate in Bangladesh
+> >> (see your last slide) is attributed to child marriage, lack of female
+> >> education and lack of skilled birth attendants. Access to scholarly
+> >> literature is absolutely irrelevant in such case. You'd need to
+> >> improve the standard of living and the quality of education first.
+> >
+> > this is an independent effect.
+> >
+>
+> Nope, these things are heavily connected. Ability to effectively use
+> primary research literature increases with the standards of living
+> (access to equipment) and level of education. OA makes a lot of sense
+> for Western countries, a bit of sense for transitioning countries
+> (such as Poland) and almost no sense for poor countries where the
+> major issue is no access to clean water.
+>
+> >>
+> >> Please stop flashing images of poor people in your open foo talks.
+> >> You're harming the credibility of open science community.
+> >>
+> >
+> > That's an opinion.
+> >
+>
+> Indeed. You've harmed already mine, but it's an anecdotal evidence.
+>
+> PS
+>
+> --
+> http://www.pawelszczesny.org
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/b0d0ef4f/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Oct 27 17:37:13 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 27 Oct 2011 17:37:13 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+	<CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+Message-ID: <CAD2k14MqeLGsEJKFLK7OPznB0trnoAvax2=fLKy_88FHRkgaCA@mail.gmail.com>
+
+2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+
+> If we are talking about open access to scholarly publications please
+> believe me that people in universities and research institutions in
+> developing countries do have computers and internet. this is one of the
+> examples of a Kenyan researcher speaking about open access: Prof. Mary
+> Abukutsa-Onyango discusses the importance of open access for research from
+> Kenya and other African countries <http://www.vimeo.com/10169351> (
+> http://vimeo.com/10169351) and I can share more evidences like this.
+>
+
+Many thanks for this. The video is exactly what Jenny and I need for a clip.
+It's no coincidence that it was created by Leslie Chan who is one of the
+group of us who dreamt up Open Research Reports.
+
+Yes, OA is absolutely critical.
+
+>
+> Best wishes,
+> Iryna Kuchma
+> EIFL Open Access programme manager
+> www.eifl.net
+>
+>
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/f1042ad4/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Oct 27 18:42:08 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 27 Oct 2011 18:42:08 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <EDF69011-5028-4FC4-8629-093DACD1A58E@sfu.ca>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+	<CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+	<CAD2k14MqeLGsEJKFLK7OPznB0trnoAvax2=fLKy_88FHRkgaCA@mail.gmail.com>
+	<EDF69011-5028-4FC4-8629-093DACD1A58E@sfu.ca>
+Message-ID: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+
+On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca> wrote:
+
+> To help people make the connection between open access and saving lives in
+> the developing, would it help:
+>
+> -       to briefly mention Open Education? perhaps the UNESCO initiative?
+> This related initiative addresses the question of facilitating basic
+> education quite directly.
+>
+> http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/
+>
+> -       to speak to south to south and south to north knowledge
+> dissemination? Leslie Chan is one of the experts here, perhaps he can
+> provide some specifics. In brief, as long as the focus is on the knowledge
+> production of the developed world, the needs of the developing world are
+> likely to be short-changed. Lots of research on obesity, little on
+> malnutrition or how to manage food security with little or no $ to work
+> with.
+>
+> This is great Heather,
+
+There is actually an immediate urgency (which has suddenly arisen) _ Jenny
+and I and other have to make a video within 24 hours. (Of course that's not
+the end of the story). We want to bolt together clips from OSS video with
+bits of Graham Steel presenting patientsLikeMe and Leslie's clip that Iryna
+posted. The video will be 5 mins long and present particularly what I and
+OKF can do NOW so there is a concentration on the December Hackathon. I'll
+explain the context later.
+
+P.
+
+my two bits,
+>
+> Heather Morrison
+> Doctoral Candidate, Simon Fraser University School of Communication
+> http://pages.cmns.sfu.ca/heather-morrison/
+> hgmorris at sfu.ca
+>
+> On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+>
+> >
+> >
+> > 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+> > If we are talking about open access to scholarly publications please
+> believe me that people in universities and research institutions in
+> developing countries do have computers and internet. this is one of the
+> examples of a Kenyan researcher speaking about open access: Prof. Mary
+> Abukutsa-Onyango discusses the importance of open access for research from
+> Kenya and other African countries (http://vimeo.com/10169351) and I can
+> share more evidences like this.
+> >
+> > Many thanks for this. The video is exactly what Jenny and I need for a
+> clip. It's no coincidence that it was created by Leslie Chan who is one of
+> the group of us who dreamt up Open Research Reports.
+> >
+> > Yes, OA is absolutely critical.
+> >
+> > Best wishes,
+> > Iryna Kuchma
+> > EIFL Open Access programme manager
+> > www.eifl.net
+> >
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/42eaedef/attachment.htm>
+
+From ps at pawelszczesny.org  Thu Oct 27 20:33:09 2011
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Thu, 27 Oct 2011 21:33:09 +0200
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+	<CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+	<CAD2k14MqeLGsEJKFLK7OPznB0trnoAvax2=fLKy_88FHRkgaCA@mail.gmail.com>
+	<EDF69011-5028-4FC4-8629-093DACD1A58E@sfu.ca>
+	<CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+Message-ID: <CADfaFZq1T64wJpSOhH5hF3cQNkLabKGmzznYqj=A6awQNrqa+Q@mail.gmail.com>
+
+Except that OA and OER are a bit different things. Here's quote from
+Peter's email from January this year (first and last sentence,
+please):
+
+"Pragmatically I think we separate scholarly articles ("papers") from
+other efforts such as Teaching/Learning materials, and theses.
+
+Many of us in OKF want to see Open Theses but the ground rules are
+different (the copyright is normally the student's) and the challenge
+is with the universities to address this rather than primary and
+secondary publishers. So just as important but a different type of
+activity."
+
+Let me explain again - I'm pointing out that it's very important to
+pay attention to the messages this community is spreading.
+
+OA (understood as open access to primary literature) is very
+important, especially in developing countries, but if there's no
+healthcare infrastructure to apply the cutting-edge knowledge, OA
+becomes almost irrelevant in the healthcare (while being crucial in
+research). Peter's claim is false (or at least unsupported by any data
+in case of developed countries).
+
+OER, which is somehow wider term because it might (but doesn't have
+to) include scholarly articles as well, is a different process and a
+means for knowledge dissemination. OER in principle saves lives,
+there's no question about it.
+
+Mixing OA and OER creates a problem. These are different processes,
+they have different stakeholders, there are different streams of money
+in them. And that's not my invention - this is what this community
+have thought in one of the discussions almost a year ago.
+
+When mixing OA and OER in the messages, this community risks being
+ridiculed, because it appears that we have no idea what we are
+fighting for. If the audience are scientists, we'll be ignored.
+
+Additionally, some of us, like me, rely on the leverage of this
+community because we don't have enough leverage on our own in our
+local communities to push things forward. A bit of responsibility for
+OKFN global image would a nice addition to keeping the messages
+correct and clear.
+
+I'm sorry, I cannot explain it any simpler than that.
+If you still disagree with me, just discard the message and let's
+forget the whole discussion.
+
+PS
+On Thu, Oct 27, 2011 at 7:42 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca> wrote:
+>>
+>> To help people make the connection between open access and saving lives in
+>> the developing, would it help:
+>>
+>> - ? ? ? to briefly mention Open Education? perhaps the UNESCO initiative?
+>> This related initiative addresses the question of facilitating basic
+>> education quite directly.
+>>
+>> http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/
+>>
+>> - ? ? ? to speak to south to south and south to north knowledge
+>> dissemination? Leslie Chan is one of the experts here, perhaps he can
+>> provide some specifics. In brief, as long as the focus is on the knowledge
+>> production of the developed world, the needs of the developing world are
+>> likely to be short-changed. Lots of research on obesity, little on
+>> malnutrition or how to manage food security with little or no $ to work
+>> with.
+>>
+> This is great Heather,
+>
+> There is actually an immediate urgency (which has suddenly arisen) _ Jenny
+> and I and other have to make a video within 24 hours. (Of course that's not
+> the end of the story). We want to bolt together clips from OSS video with
+> bits of Graham Steel presenting patientsLikeMe and Leslie's clip that Iryna
+> posted. The video will be 5 mins long and present particularly what I and
+> OKF can do NOW so there is a concentration on the December Hackathon. I'll
+> explain the context later.
+>
+> P.
+>
+>> my two bits,
+>>
+>> Heather Morrison
+>> Doctoral Candidate, Simon Fraser University School of Communication
+>> http://pages.cmns.sfu.ca/heather-morrison/
+>> hgmorris at sfu.ca
+>>
+>> On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+>>
+>> >
+>> >
+>> > 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+>> > If we are talking about open access to scholarly publications please
+>> > believe me that people in universities and research institutions in
+>> > developing countries do have computers and internet. this is one of the
+>> > examples of a Kenyan researcher speaking about open access: Prof. Mary
+>> > Abukutsa-Onyango discusses the importance of open access for research from
+>> > Kenya and other African countries (http://vimeo.com/10169351) and I can
+>> > share more evidences like this.
+>> >
+>> > Many thanks for this. The video is exactly what Jenny and I need for a
+>> > clip. It's no coincidence that it was created by Leslie Chan who is one of
+>> > the group of us who dreamt up Open Research Reports.
+>> >
+>> > Yes, OA is absolutely critical.
+>> >
+>> > Best wishes,
+>> > Iryna Kuchma
+>> > EIFL Open Access programme manager
+>> > www.eifl.net
+>> >
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>>
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+From pm286 at cam.ac.uk  Thu Oct 27 21:34:26 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 27 Oct 2011 21:34:26 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CADfaFZq1T64wJpSOhH5hF3cQNkLabKGmzznYqj=A6awQNrqa+Q@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+	<CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+	<CAD2k14MqeLGsEJKFLK7OPznB0trnoAvax2=fLKy_88FHRkgaCA@mail.gmail.com>
+	<EDF69011-5028-4FC4-8629-093DACD1A58E@sfu.ca>
+	<CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CADfaFZq1T64wJpSOhH5hF3cQNkLabKGmzznYqj=A6awQNrqa+Q@mail.gmail.com>
+Message-ID: <CAD2k14Pfk18+KdUjpEU-cdKsnqb7p4qhqrPaMJHfjT9Lf-ooYA@mail.gmail.com>
+
+2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+
+I am quite prepared to continue to work out our positions in public - it is
+useful for all of us.
+
+
+> Let me explain again - I'm pointing out that it's very important to
+> pay attention to the messages this community is spreading.
+>
+> OA (understood as open access to primary literature) is very
+> important, especially in developing countries, but if there's no
+> healthcare infrastructure to apply the cutting-edge knowledge, OA
+> becomes almost irrelevant in the healthcare (while being crucial in
+> research). Peter's claim is false (or at least unsupported by any data
+> in case of developed countries).
+>
+
+If you haven't sat through the whole video , please do: Prof. Mary
+Abukutsa-Onyango discusses the importance of open access for research from
+Kenya and other African countries <http://www.vimeo.com/10169351> (
+http://vimeo.com/10169351)
+
+In this, SHE, not I,  begs for Open Access in Kenya. Note more generally
+that "healthcare" covers a great deal more than expensive machinery and
+drugs and that information is a key component in every country in the world.
+If countries are asking for OA then we must support them totally.
+
+
+> Additionally, some of us, like me, rely on the leverage of this
+> community because we don't have enough leverage on our own in our
+> local communities to push things forward. A bit of responsibility for
+> OKFN global image would a nice addition to keeping the messages
+> correct and clear.
+>
+> I'm sorry, I cannot explain it any simpler than that.
+> If you still disagree with me, just discard the message and let's
+> forget the whole discussion.
+>
+>
+I differentiate between scientific statements and political ones. When I
+said and continue to assert
+"closed access means people die"
+that is a political statement.  I hope that we can quantify it in some cases
+- certainly the patient advocates such as Graham Steel and Gilles Frydman
+can give us serious anecdotal evidence of the frequency of this problem. You
+do not need a null hypothesis and a clinical or sociological investigation
+to assert the truth of this statement. I do not intend to publish it in a
+scientific paper. I am prepared to clarify it to
+"closed access means a significant number of people die"
+ - indeed I understood from your earlier mail that you also believe it to be
+true.
+
+Your second concern is whether the (political) action I have taken is
+responsible. That is a political judgment, and part of the value of this and
+other lists is that we can refine our ideas. The two main questions are:
+"what do we want to achieve"
+and
+"how do we want to achieve it".
+The OA movement suffers in that it has failed to formulate the first and is
+split on the second. I believe that the only useful form of Open Access is
+CC-BY (either by Gold publishing or other means) whereas Stevan Harnad
+believes that Green OA is a necessary and achievable first objective. We
+disagree profoundly and I suspect that we shall always disagree - again this
+is a political statement.
+
+The OKF has a wide range of members and adherents and has spent considerable
+time discussing what it is. (In OKCon Berlin 2011 we had a whole day on our
+"organizational DNA"). The OKF is very much about action, both in
+formulating goals (such as the Open Knowledge Definition and the Panton
+Principles) and building practical steps to achieve them (Open software to
+support the creation and spread of open Knowledge content). To that end I
+help to develop, say, Open Bibliography and the associated protocols and
+software.
+
+Open Research Reports is another such activity. We have prototyped tools for
+collecting Open knowledge in science, initially about disease, and creating
+events and communities to fill them. The presentation at Mountain View was
+primarily to present and promote ORR and the upcoming hackathon in
+December/London. We'd be delighted for you and anyone else to attend - and
+the idea is intended to be trivially clonable and expansible so that people
+can replicate it eslewhere and elsewhen.
+
+I see no reason why the idea should not be adopted anywhere. For example I
+am familiar with Open Source Drug Discovery in India, where I know there are
+participants carrying out computational chemistry (my own field) who do this
+on mobiles even though they have no road to their front door. This is why
+all my code is Open Source; I am flattered that they are interested in
+adopting it and other modules of the Open Source chemistry community.
+
+This group will almost certainly be starved of the closed access scientific
+literature.  I would also expect that they will rapidly produce stuff that
+we find of value and we should be very careful of making judgments.
+
+P
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/4709bbb1/attachment.htm>
+
+From iryna.kuchma at eifl.net  Thu Oct 27 21:44:54 2011
+From: iryna.kuchma at eifl.net (Iryna Kuchma)
+Date: Thu, 27 Oct 2011 23:44:54 +0300
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14Pfk18+KdUjpEU-cdKsnqb7p4qhqrPaMJHfjT9Lf-ooYA@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+	<CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+	<CAD2k14MqeLGsEJKFLK7OPznB0trnoAvax2=fLKy_88FHRkgaCA@mail.gmail.com>
+	<EDF69011-5028-4FC4-8629-093DACD1A58E@sfu.ca>
+	<CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CADfaFZq1T64wJpSOhH5hF3cQNkLabKGmzznYqj=A6awQNrqa+Q@mail.gmail.com>
+	<CAD2k14Pfk18+KdUjpEU-cdKsnqb7p4qhqrPaMJHfjT9Lf-ooYA@mail.gmail.com>
+Message-ID: <CAHZoB7ZmO7PB_f4YtW8RJpEaE60bP1BHFJ1jG4JCx_EEqBxtQw@mail.gmail.com>
+
+I have another quote from my colleague in Malawi - Kondwani Wella, College
+Librarian, Kamuzu College of Nursing, University of Malawi: "Malawi has a
+stock of research output in a variety of forms, including technical reports
+and journal articles that could have influenced policy decisions and
+stimulated further research. However, these documents are locked up in the
+offices, libraries and resource centres of the country?s higher education
+institutions. Consequently, important policy decisions have been made
+without considering the available evidence. For example, Malawi has been
+successful in combating the HIV/AIDS pandemic. Although reports of the
+success stories are available, these have not been widely disseminated
+within and outside the country. Lives may possibly be involved; for example,
+the research on prevention of mother to child transmission of HIV in
+Blantyre clinics could be equally valid in Lilongwe or Chiradzulu ? if it
+were accessible." I think his statement is relevant and is presented in the
+context of what is going on in his country.
+
+2011/10/27 Peter Murray-Rust <pm286 at cam.ac.uk>
+
+>
+>
+> 2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+>
+> I am quite prepared to continue to work out our positions in public - it is
+> useful for all of us.
+>
+>
+>> Let me explain again - I'm pointing out that it's very important to
+>> pay attention to the messages this community is spreading.
+>>
+>> OA (understood as open access to primary literature) is very
+>> important, especially in developing countries, but if there's no
+>> healthcare infrastructure to apply the cutting-edge knowledge, OA
+>> becomes almost irrelevant in the healthcare (while being crucial in
+>> research). Peter's claim is false (or at least unsupported by any data
+>> in case of developed countries).
+>>
+>
+> If you haven't sat through the whole video , please do: Prof. Mary
+> Abukutsa-Onyango discusses the importance of open access for research from
+> Kenya and other African countries <http://www.vimeo.com/10169351> (
+> http://vimeo.com/10169351)
+>
+> In this, SHE, not I,  begs for Open Access in Kenya. Note more generally
+> that "healthcare" covers a great deal more than expensive machinery and
+> drugs and that information is a key component in every country in the world.
+> If countries are asking for OA then we must support them totally.
+>
+>
+>> Additionally, some of us, like me, rely on the leverage of this
+>> community because we don't have enough leverage on our own in our
+>> local communities to push things forward. A bit of responsibility for
+>> OKFN global image would a nice addition to keeping the messages
+>> correct and clear.
+>>
+>> I'm sorry, I cannot explain it any simpler than that.
+>> If you still disagree with me, just discard the message and let's
+>> forget the whole discussion.
+>>
+>>
+> I differentiate between scientific statements and political ones. When I
+> said and continue to assert
+> "closed access means people die"
+> that is a political statement.  I hope that we can quantify it in some
+> cases - certainly the patient advocates such as Graham Steel and Gilles
+> Frydman can give us serious anecdotal evidence of the frequency of this
+> problem. You do not need a null hypothesis and a clinical or sociological
+> investigation to assert the truth of this statement. I do not intend to
+> publish it in a scientific paper. I am prepared to clarify it to
+> "closed access means a significant number of people die"
+>  - indeed I understood from your earlier mail that you also believe it to
+> be true.
+>
+> Your second concern is whether the (political) action I have taken is
+> responsible. That is a political judgment, and part of the value of this and
+> other lists is that we can refine our ideas. The two main questions are:
+> "what do we want to achieve"
+> and
+> "how do we want to achieve it".
+> The OA movement suffers in that it has failed to formulate the first and is
+> split on the second. I believe that the only useful form of Open Access is
+> CC-BY (either by Gold publishing or other means) whereas Stevan Harnad
+> believes that Green OA is a necessary and achievable first objective. We
+> disagree profoundly and I suspect that we shall always disagree - again this
+> is a political statement.
+>
+> The OKF has a wide range of members and adherents and has spent
+> considerable time discussing what it is. (In OKCon Berlin 2011 we had a
+> whole day on our "organizational DNA"). The OKF is very much about action,
+> both in formulating goals (such as the Open Knowledge Definition and the
+> Panton Principles) and building practical steps to achieve them (Open
+> software to support the creation and spread of open Knowledge content). To
+> that end I help to develop, say, Open Bibliography and the associated
+> protocols and software.
+>
+> Open Research Reports is another such activity. We have prototyped tools
+> for collecting Open knowledge in science, initially about disease, and
+> creating events and communities to fill them. The presentation at Mountain
+> View was primarily to present and promote ORR and the upcoming hackathon in
+> December/London. We'd be delighted for you and anyone else to attend - and
+> the idea is intended to be trivially clonable and expansible so that people
+> can replicate it eslewhere and elsewhen.
+>
+> I see no reason why the idea should not be adopted anywhere. For example I
+> am familiar with Open Source Drug Discovery in India, where I know there are
+> participants carrying out computational chemistry (my own field) who do this
+> on mobiles even though they have no road to their front door. This is why
+> all my code is Open Source; I am flattered that they are interested in
+> adopting it and other modules of the Open Source chemistry community.
+>
+> This group will almost certainly be starved of the closed access scientific
+> literature.  I would also expect that they will rapidly produce stuff that
+> we find of value and we should be very careful of making judgments.
+>
+> P
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/77a5aca3/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Thu Oct 27 22:02:49 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 27 Oct 2011 22:02:49 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAHZoB7ZmO7PB_f4YtW8RJpEaE60bP1BHFJ1jG4JCx_EEqBxtQw@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<CADfaFZp26LR0dqWJZ2imzJNn0C5CL6cJ+-apiet8TKAWv27ORA@mail.gmail.com>
+	<CAHZoB7Y_MRkreDsd2sE3rY4EPAcGSCxRUyaD4CcGamfTbX+hHA@mail.gmail.com>
+	<CAD2k14MqeLGsEJKFLK7OPznB0trnoAvax2=fLKy_88FHRkgaCA@mail.gmail.com>
+	<EDF69011-5028-4FC4-8629-093DACD1A58E@sfu.ca>
+	<CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CADfaFZq1T64wJpSOhH5hF3cQNkLabKGmzznYqj=A6awQNrqa+Q@mail.gmail.com>
+	<CAD2k14Pfk18+KdUjpEU-cdKsnqb7p4qhqrPaMJHfjT9Lf-ooYA@mail.gmail.com>
+	<CAHZoB7ZmO7PB_f4YtW8RJpEaE60bP1BHFJ1jG4JCx_EEqBxtQw@mail.gmail.com>
+Message-ID: <CAD2k14POqbjcuDOsLQpqAD-YAKWwYd_03cLWpGRm_zPRXC9+Hw@mail.gmail.com>
+
+Many thanks, Iryna
+I would always rather use someone else's words and may be able to work this
+into our video
+
+On Thu, Oct 27, 2011 at 9:44 PM, Iryna Kuchma <iryna.kuchma at eifl.net> wrote:
+
+Lives may possibly be involved; for example, the research on prevention of
+> mother to child transmission of HIV in Blantyre clinics could be equally
+> valid in Lilongwe or Chiradzulu ? if it were accessible."
+>
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/f562511e/attachment.htm>
+
+From opensciencekentucky at gmail.com  Thu Oct 27 23:20:49 2011
+From: opensciencekentucky at gmail.com (Adam Robison)
+Date: Thu, 27 Oct 2011 18:20:49 -0400
+Subject: [open-science] New participants, Open Science Kentucky
+Message-ID: <CAN8ChJztWUdeWCuO=G=Q+FNawVA347-ajC1CtS_yuJHjjkiVQQ@mail.gmail.com>
+
+Hi, everyone,
+
+
+My name is Andrew Ramsey. I'm writing on behalf of Open Science
+Kentucky<http://opensciencekentucky.blogspot.com/>(OSK), a relatively
+new organization dedicated to establishing greater
+participation in open science among researchers and the public. Thanks for
+having us here.
+
+
+OSK started as collective disillusionment among medical students at the
+University of Louisville School of Medicine who felt that the evidence-based
+practices we were learning merely shifted our curriculum from one flawed
+paradigm to another. Bad, opaque, interest-driven science continues to be
+the predominant information medium, despite the shift to practice-by-numbers
+medicine. Now, however, we physicians more complacently practice, weilding
+bad science unquestioningly because we can remind ourselves we are under the
+aegis of evidence. Unfortunately, in medicine, our careless application of
+evidence-based principles kills people.
+
+
+We have enjoyed reading web commentary from thought leaders in the open
+science movement, many of whom are participants on this message board. We
+defer to you for your remarkable insight! However, we noted that finding
+resources related to open science was remarkably difficult when searching
+directly for it. It is thus very unlikely the average scientist will realize
+an open science epiphany while looking for other things.
+
+
+To shift the paradigm to open science, open science will certainly need to
+become a ubiquitous term, emerging within frank discussions within secondary
+through doctorate level educational settings, overlying decisions about
+where to submit every new manuscript, becoming the deciding factor in
+selecting candidates for employment and projects for grant-funding. Open
+science must become as appealing as classical science. To do so, it must be
+visible. At OSK, we've dedicated ourselves to making the widespread
+discussion of open science plausible.
+
+
+We have a variety of projects we're working on, each of which will benefit
+greatly from your sage counsel and assistance. I will share more information
+on these projects later.
+
+
+For now, thanks again for having us. Looking forward to learning from
+everyone. Cheers!
+
+
+Andrew Ramsey
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/a59bdecd/attachment.htm>
+
+From cwhooker at fastmail.fm  Fri Oct 28 01:14:07 2011
+From: cwhooker at fastmail.fm (Bill Hooker)
+Date: Thu, 27 Oct 2011 17:14:07 -0700
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com><CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+Message-ID: <1319760847.16841.140660991410001@webmail.messagingengine.com>
+
+For the record, I agree with Pawel.  It's one thing to be provocative,
+quite another to make your fellow-travelers' lives more difficult. 
+Appeals to the heart via wrenching images of poverty are not suitable
+for conversations about scholarly publishing: they simply make it easier
+for opponents to muddy the waters.
+
+Peter, you have done more than most in the service of Open Foo, and from
+time to time the same enthusiasm that powers your achievements has
+carried you over the line and put you in a position where you've had to
+retract, adjust or apologize for various statements.  I've never
+considered that a bad thing and I've always admired your willingness to
+own up to error.  I think this is one of those times.  You've simply
+made statements that you can't support, and coming from someone of your
+stature that really does not help the cause.
+
+best,
+
+Bill.
+
+
+
+
+On Thursday, October 27, 2011 7:09 AM, "Peter Murray-Rust"
+<pm286 at cam.ac.uk> wrote:
+> 2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+> 
+> > Dear Peter,
+> >
+> > I'm even more outraged after seeing the slides, than I was after
+> > reading your blog posts.  Not only you show no data for assertion
+> > "closed access means people die" (anecdotal evidence is not an
+> > evidence - instead of formulating a hypothesis, you claim  "I don?t
+> > think anyone can deny the truth of that conclusion."), but you imply
+> > absolutely false connection between mortality rates in very poor
+> > countries and lack of access to primary research literature.
+> >
+> 
+> I did not say it was the major cause of mortality, but it is a
+> contributor,
+> including in the rich west. After talking with people who run patient
+> groups
+> there is anecdotal evidence that many patients cannot get access to the
+> literature they want and that diagnoses are in error because of that.
+> 
+> I shall take steps to create bodies of anecdotal evidence to support my
+> assertion.
+> 
+> >
+> > This is very wrong. Majority of maternal mortality rate in Bangladesh
+> > (see your last slide) is attributed to child marriage, lack of female
+> > education and lack of skilled birth attendants. Access to scholarly
+> > literature is absolutely irrelevant in such case. You'd need to
+> > improve the standard of living and the quality of education first.
+> >
+> 
+> this is an independent effect.
+> 
+> 
+> > Please stop flashing images of poor people in your open foo talks.
+> > You're harming the credibility of open science community.
+> >
+> >
+> That's an opinion.
+> 
+> P.
+> 
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+
+
+From pm286 at cam.ac.uk  Fri Oct 28 01:59:29 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 28 Oct 2011 01:59:29 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <1319760847.16841.140660991410001@webmail.messagingengine.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<1319760847.16841.140660991410001@webmail.messagingengine.com>
+Message-ID: <CAD2k14M1rxLX8RSLWURFMDLYPO+Sj1=5GoK0XmVjP_MSC649Vw@mail.gmail.com>
+
+2011/10/28 Bill Hooker <cwhooker at fastmail.fm>
+
+> For the record, I agree with Pawel.  It's one thing to be provocative,
+> quite another to make your fellow-travelers' lives more difficult.
+> Appeals to the heart via wrenching images of poverty are not suitable
+> for conversations about scholarly publishing: they simply make it easier
+> for opponents to muddy the waters.
+>
+
+If there is a general feeling that I have overstepped limits I will take
+that on board. For the record (and I own any error in this - I am not making
+excuses) the initial 5-6 slides were not mine and were presented at Science
+Online in London and not by me. But having used them I take responsibility.
+I suspect that the context and perhpas my own delivery may have changed the
+impression.
+
+
+> Peter, you have done more than most in the service of Open Foo, and from
+> time to time the same enthusiasm that powers your achievements has
+> carried you over the line and put you in a position where you've had to
+> retract, adjust or apologize for various statements.  I've never
+> considered that a bad thing and I've always admired your willingness to
+> own up to error.  I think this is one of those times.  You've simply
+> made statements that you can't support, and coming from someone of your
+> stature that really does not help the cause.
+>
+
+So - there are at least two different things - the use of the images and my
+statements and possibly the combination.
+
+As you say I listen to people and I am prepared to change my behaviour. This
+was an event of public record - I will look at it again with your two
+comments.
+
+
+
+> best,
+>
+> Bill.
+>
+>
+>
+>
+> On Thursday, October 27, 2011 7:09 AM, "Peter Murray-Rust"
+> <pm286 at cam.ac.uk> wrote:
+> > 2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+> >
+> > > Dear Peter,
+> > >
+> > > I'm even more outraged after seeing the slides, than I was after
+> > > reading your blog posts.  Not only you show no data for assertion
+> > > "closed access means people die" (anecdotal evidence is not an
+> > > evidence - instead of formulating a hypothesis, you claim  "I don?t
+> > > think anyone can deny the truth of that conclusion."), but you imply
+> > > absolutely false connection between mortality rates in very poor
+> > > countries and lack of access to primary research literature.
+> > >
+> >
+> > I did not say it was the major cause of mortality, but it is a
+> > contributor,
+> > including in the rich west. After talking with people who run patient
+> > groups
+> > there is anecdotal evidence that many patients cannot get access to the
+> > literature they want and that diagnoses are in error because of that.
+> >
+> > I shall take steps to create bodies of anecdotal evidence to support my
+> > assertion.
+> >
+> > >
+> > > This is very wrong. Majority of maternal mortality rate in Bangladesh
+> > > (see your last slide) is attributed to child marriage, lack of female
+> > > education and lack of skilled birth attendants. Access to scholarly
+> > > literature is absolutely irrelevant in such case. You'd need to
+> > > improve the standard of living and the quality of education first.
+> > >
+> >
+> > this is an independent effect.
+> >
+> >
+> > > Please stop flashing images of poor people in your open foo talks.
+> > > You're harming the credibility of open science community.
+> > >
+> > >
+> > That's an opinion.
+> >
+> > P.
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/3a78b2cb/attachment-0001.htm>
+
+From brian.glanz at gmail.com  Fri Oct 28 03:05:10 2011
+From: brian.glanz at gmail.com (Brian Glanz)
+Date: Thu, 27 Oct 2011 19:05:10 -0700
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14M1rxLX8RSLWURFMDLYPO+Sj1=5GoK0XmVjP_MSC649Vw@mail.gmail.com>
+References: <CAD2k14Pp2tBFXFdR0qLexoiL+k=+HGn7M_+YRRmGN61TTvE97Q@mail.gmail.com>
+	<CADfaFZrB0etiYT9x5OMBE312DOMtbuS2onf+YAFxvtT5GWKqag@mail.gmail.com>
+	<CAD2k14NZ=T6qKF-Cbwcjiwuv0LJ1+vNBmHOLhfYPHWDjd83O5Q@mail.gmail.com>
+	<1319760847.16841.140660991410001@webmail.messagingengine.com>
+	<CAD2k14M1rxLX8RSLWURFMDLYPO+Sj1=5GoK0XmVjP_MSC649Vw@mail.gmail.com>
+Message-ID: <CACbRpSyt5HsVDQ7BRtSsfQYy9dNTme=LfB0-bz4-Ue0ozSqMzQ@mail.gmail.com>
+
+While the case could be more rigorously presented for open access to
+biomedical research saving lives, anyone working in global health or public
+health in the developing world should know the case is strong.
+
+Granted that Elsevier, Springer, et al. admit their long term commercial
+motives for participating in WHO's HINARI programme and all of
+Research4Life, these and similar initiatives (such as INASP) have saved
+lives by providing free or lower cost access to thousands of journals in
+more than 100 developing nations. Even though they exclude painfully poor
+nations such as India from HINARI, Elsevier themselves are quick to trot it
+out as life saving. For example
+http://www.elsevier.com/wps/find/authored_newsitem.cws_home/companynews05_02017
+ includes
+
+*"Dr. Arun Neopane of Nepal offered readers the opportunity to experience
+not only how Research4Life has benefited his work as a paediatrician, but
+also how it has supported him in his role as Editor-in-Chief of the Journal
+of Nepal Paediatric Society and General Secretary of Nepal Association of
+Medical Editors (NAME). ?HINARI has changed the perspective of research in
+our country. It has saved so much of the precious time of our doctors, by
+making them more learned. And it has also saved many lives?, states Dr. Arun
+Neopane...."*
+
+Quotes like these are not hard to find. *"This project has probably had the
+most impact of any WHO project since the Oral Rehydration Therapy" said Dr.
+Philip Njemanze, chairman of the International Institutes of Advanced
+Research and Training at the Chidicon Medical Center in Imo State, Nigeria
+...*on page 89, World report on knowledge for better health, WHO, 2004.
+
+Extending access to the scholarly poor in India, Pakistan, Egypt, and other
+nations who lack HINARI or INASP, or to the scholarly poor in all nations,
+would undoubtedly save more lives. The publishers do not do so, they
+acknowledge, because there is money to be made. Peter is not out of line in
+pointing out poignantly what many already admit.
+
+Aside: I am waiting right now in a conference room in Seattle, where I will
+personally beg Bill Gates to lean on publishers, policies, and to generally
+join the chorus for open access. Anyone who knows me personally should
+cringe at the thought of me begging Gates, but access to research, data, and
+code are critical for progress in biomedical research (and all fields) and
+having learnt so much about global health, Gates may agree. PMR is spot on
+in my opinion, leveraging strong and compelling arguments for open access
+from amalgam fields such as global health, education, climate research. BG
+
+2011/10/27 Peter Murray-Rust <pm286 at cam.ac.uk>
+
+>
+>
+> 2011/10/28 Bill Hooker <cwhooker at fastmail.fm>
+>
+>> For the record, I agree with Pawel.  It's one thing to be provocative,
+>> quite another to make your fellow-travelers' lives more difficult.
+>> Appeals to the heart via wrenching images of poverty are not suitable
+>> for conversations about scholarly publishing: they simply make it easier
+>> for opponents to muddy the waters.
+>>
+>
+> If there is a general feeling that I have overstepped limits I will take
+> that on board. For the record (and I own any error in this - I am not making
+> excuses) the initial 5-6 slides were not mine and were presented at Science
+> Online in London and not by me. But having used them I take responsibility.
+> I suspect that the context and perhpas my own delivery may have changed the
+> impression.
+>
+>
+>> Peter, you have done more than most in the service of Open Foo, and from
+>> time to time the same enthusiasm that powers your achievements has
+>> carried you over the line and put you in a position where you've had to
+>> retract, adjust or apologize for various statements.  I've never
+>> considered that a bad thing and I've always admired your willingness to
+>> own up to error.  I think this is one of those times.  You've simply
+>> made statements that you can't support, and coming from someone of your
+>> stature that really does not help the cause.
+>>
+>
+> So - there are at least two different things - the use of the images and my
+> statements and possibly the combination.
+>
+> As you say I listen to people and I am prepared to change my behaviour.
+> This was an event of public record - I will look at it again with your two
+> comments.
+>
+>
+>
+>> best,
+>>
+>> Bill.
+>>
+>>
+>>
+>>
+>> On Thursday, October 27, 2011 7:09 AM, "Peter Murray-Rust"
+>> <pm286 at cam.ac.uk> wrote:
+>> > 2011/10/27 Pawe? Szcz?sny <ps at pawelszczesny.org>
+>> >
+>> > > Dear Peter,
+>> > >
+>> > > I'm even more outraged after seeing the slides, than I was after
+>> > > reading your blog posts.  Not only you show no data for assertion
+>> > > "closed access means people die" (anecdotal evidence is not an
+>> > > evidence - instead of formulating a hypothesis, you claim  "I don?t
+>> > > think anyone can deny the truth of that conclusion."), but you imply
+>> > > absolutely false connection between mortality rates in very poor
+>> > > countries and lack of access to primary research literature.
+>> > >
+>> >
+>> > I did not say it was the major cause of mortality, but it is a
+>> > contributor,
+>> > including in the rich west. After talking with people who run patient
+>> > groups
+>> > there is anecdotal evidence that many patients cannot get access to the
+>> > literature they want and that diagnoses are in error because of that.
+>> >
+>> > I shall take steps to create bodies of anecdotal evidence to support my
+>> > assertion.
+>> >
+>> > >
+>> > > This is very wrong. Majority of maternal mortality rate in Bangladesh
+>> > > (see your last slide) is attributed to child marriage, lack of female
+>> > > education and lack of skilled birth attendants. Access to scholarly
+>> > > literature is absolutely irrelevant in such case. You'd need to
+>> > > improve the standard of living and the quality of education first.
+>> > >
+>> >
+>> > this is an independent effect.
+>> >
+>> >
+>> > > Please stop flashing images of poor people in your open foo talks.
+>> > > You're harming the credibility of open science community.
+>> > >
+>> > >
+>> > That's an opinion.
+>> >
+>> > P.
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069
+>> >
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> >
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111027/bdeb363d/attachment.htm>
+
+From a.p.swan at talk21.com  Fri Oct 28 05:29:54 2011
+From: a.p.swan at talk21.com (Alma Swan)
+Date: Fri, 28 Oct 2011 05:29:54 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+Message-ID: <CACFEE52.16793%a.p.swan@talk21.com>
+
+A substantiated example of how lack of access can have a profound effect is
+related here: http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+
+Alma
+
+
+
+On 27/10/2011 18:42, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+
+> 
+> 
+> On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca> wrote:
+>> To help people make the connection between open access and saving lives in
+>> the developing, would it help:
+>> 
+>> - ? ? ? to briefly mention Open Education? perhaps the UNESCO initiative?
+>> This related initiative addresses the question of facilitating basic
+>> education quite directly.
+>> http://www.unesco.org/new/en/communication-and-information/access-to-knowledg
+>> e/open-educational-resources/
+>> 
+>> - ? ? ? to speak to south to south and south to north knowledge
+>> dissemination? Leslie Chan is one of the experts here, perhaps he can provide
+>> some specifics. In brief, as long as the focus is on the knowledge production
+>> of the developed world, the needs of the developing world are likely to be
+>> short-changed. Lots of research on obesity, little on malnutrition or how to
+>> manage food security with little or no $ to work with.
+>> 
+> This is great Heather,
+> 
+> There is actually an immediate urgency (which has suddenly arisen) _ Jenny and
+> I and other have to make a video within 24 hours. (Of course that's not the
+> end of the story). We want to bolt together clips from OSS video with bits of
+> Graham Steel presenting patientsLikeMe and Leslie's clip that Iryna posted.
+> The video will be 5 mins long and present particularly what I and OKF can do
+> NOW so there is a concentration on the December Hackathon. I'll explain the
+> context later.
+> ?
+> P.
+> 
+>> my two bits,
+>> 
+>> Heather Morrison
+>> Doctoral Candidate, Simon Fraser University School of Communication
+>> http://pages.cmns.sfu.ca/heather-morrison/
+>> hgmorris at sfu.ca
+>> 
+>> On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+>> 
+>>> >
+>>> >
+>>> > 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+>>> > If we are talking about open access to scholarly publications please
+>>> believe me that people in universities and research institutions in
+>>> developing countries do have computers and internet. this is one of the
+>>> examples of a Kenyan researcher speaking about open access: Prof. Mary
+>>> Abukutsa-Onyango discusses the importance of open access for research from
+>>> Kenya and other African countries (http://vimeo.com/10169351) and I can
+>>> share more evidences like this.
+>>> >
+>>> > Many thanks for this. The video is exactly what Jenny and I need for a
+>>> clip. It's no coincidence that it was created by Leslie Chan who is one of
+>>> the group of us who dreamt up Open Research Reports.
+>>> >
+>>> > Yes, OA is absolutely critical.
+>>> >
+>>> > Best wishes,
+>>> > Iryna Kuchma
+>>> > EIFL Open Access programme manager
+>>> > www.eifl.net <http://www.eifl.net>
+>>> >
+>>> >
+>>> >
+>>> >
+>>> > --
+>>> > Peter Murray-Rust
+>>> > Reader in Molecular Informatics
+>>> > Unilever Centre, Dep. Of Chemistry
+>>> > University of Cambridge
+>>> > CB2 1EW, UK
+>>> > +44-1223-763069 <tel:%2B44-1223-763069>
+>>> > _______________________________________________
+>>> > open-science mailing list
+>>> > open-science at lists.okfn.org
+>>> > http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> 
+>> 
+>> 
+> 
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/179b07cb/attachment-0001.htm>
+
+From maloneyc at ncbi.nlm.nih.gov  Fri Oct 28 16:59:02 2011
+From: maloneyc at ncbi.nlm.nih.gov (Maloney, Christopher (NIH/NLM/NCBI) [C])
+Date: Fri, 28 Oct 2011 11:59:02 -0400
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CACFEE52.16793%a.p.swan@talk21.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+Message-ID: <5377500297A5C54EAB355784469119B12C1AE7C2A0@NIHMLBX15.nih.gov>
+
+Hi all,
+
+I had a reaction similar (though perhaps not as strong) to Pawel's when I saw this statement.
+
+It seems to me that there are two somewhat (but not completely) independent issues:  1, is the statement correct and supported by evidence?, and 2, is it good PR?
+
+My reaction, when I saw it, was that it is not really proveable, because it involves a counterfactual of huge proportions.  We can't know what the world would be like if all the literature right now were freely and openly available.  There are thousands, or even millions, of confounding factors.  The entire world would be a different place.  People would still be dying, but how to attribute the causes?  It's not enough to trot out anecdotal evidence of specific cases where closed access caused harm.  As Pawel mentioned, opponents could just as easily trot out evidence of open access causing harm.  That's a very strong argument, I think, and one that I hear all the time - about the need to control quality and reduce fraud.  I'm not saying I agree that it's right, but just that it's a powerful argument.
+
+As for the PR point, I also agree with Pawel that it makes the open movement too easy to ridicule.  Take the climate change debate, for example.  Conservatives are so effective at destroying the message by ridiculing the messengers, that they have completely decimated any possibility for action.  Note that I'm emphatically not saying that it's the messengers' fault at all - but just that we should be very mindful of the effectiveness of these kinds of tactics.
+
+Cheers!
+
+
+Chris Maloney
+NIH/NLM/NCBI (Contractor)
+Building 45, 5AN.24D-22
+301-594-2842
+
+From: Alma Swan [mailto:a.p.swan at talk21.com]
+Sent: Friday, October 28, 2011 12:30 AM
+To: open-science
+Subject: Re: [open-science] JennyMolloy and PeterMR representing OKF at Open Science Summit
+
+A substantiated example of how lack of access can have a profound effect is related here: http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+
+Alma
+
+
+
+On 27/10/2011 18:42, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+
+
+On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca> wrote:
+To help people make the connection between open access and saving lives in the developing, would it help:
+
+-       to briefly mention Open Education? perhaps the UNESCO initiative? This related initiative addresses the question of facilitating basic education quite directly.
+http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/
+
+-       to speak to south to south and south to north knowledge dissemination? Leslie Chan is one of the experts here, perhaps he can provide some specifics. In brief, as long as the focus is on the knowledge production of the developed world, the needs of the developing world are likely to be short-changed. Lots of research on obesity, little on malnutrition or how to manage food security with little or no $ to work with.
+This is great Heather,
+
+There is actually an immediate urgency (which has suddenly arisen) _ Jenny and I and other have to make a video within 24 hours. (Of course that's not the end of the story). We want to bolt together clips from OSS video with bits of Graham Steel presenting patientsLikeMe and Leslie's clip that Iryna posted. The video will be 5 mins long and present particularly what I and OKF can do NOW so there is a concentration on the December Hackathon. I'll explain the context later.
+
+P.
+my two bits,
+
+Heather Morrison
+Doctoral Candidate, Simon Fraser University School of Communication
+http://pages.cmns.sfu.ca/heather-morrison/
+hgmorris at sfu.ca
+
+On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+
+>
+>
+> 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+> If we are talking about open access to scholarly publications please believe me that people in universities and research institutions in developing countries do have computers and internet. this is one of the examples of a Kenyan researcher speaking about open access: Prof. Mary Abukutsa-Onyango discusses the importance of open access for research from Kenya and other African countries (http://vimeo.com/10169351) and I can share more evidences like this.
+>
+> Many thanks for this. The video is exactly what Jenny and I need for a clip. It's no coincidence that it was created by Leslie Chan who is one of the group of us who dreamt up Open Research Reports.
+>
+> Yes, OA is absolutely critical.
+>
+> Best wishes,
+> Iryna Kuchma
+> EIFL Open Access programme manager
+> www.eifl.net<http://www.eifl.net> <http://www.eifl.net>
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069 <tel:%2B44-1223-763069>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/0bee01d7/attachment.htm>
+
+From kanzure at gmail.com  Fri Oct 28 17:59:48 2011
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Fri, 28 Oct 2011 11:59:48 -0500
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <5377500297A5C54EAB355784469119B12C1AE7C2A0@NIHMLBX15.nih.gov>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<5377500297A5C54EAB355784469119B12C1AE7C2A0@NIHMLBX15.nih.gov>
+Message-ID: <CABaSBawXJ23kccge0pZ1qPqUstHxDnp5V1vcKOEX+St-hvXg3g@mail.gmail.com>
+
+On Fri, Oct 28, 2011 at 10:59 AM, Maloney, Christopher (NIH/NLM/NCBI) [C] <
+maloneyc at ncbi.nlm.nih.gov> wrote:
+
+> As for the PR point, I also agree with Pawel that it makes the open
+> movement too easy to ridicule.
+
+
+.. or that the open movement is too radical. In which case, where should I
+go- what groups etc.- where open access is taken to these extremes?
+
+thanks,
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/d367b5ef/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Oct 28 18:15:23 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 28 Oct 2011 18:15:23 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CABaSBawXJ23kccge0pZ1qPqUstHxDnp5V1vcKOEX+St-hvXg3g@mail.gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<5377500297A5C54EAB355784469119B12C1AE7C2A0@NIHMLBX15.nih.gov>
+	<CABaSBawXJ23kccge0pZ1qPqUstHxDnp5V1vcKOEX+St-hvXg3g@mail.gmail.com>
+Message-ID: <CAD2k14Nmo0tBZ3vLHAi7vFpRf3GAZS5ZmRg-q4v1-q3F-Z36bw@mail.gmail.com>
+
+On Fri, Oct 28, 2011 at 5:59 PM, Bryan Bishop <kanzure at gmail.com> wrote:
+
+> On Fri, Oct 28, 2011 at 10:59 AM, Maloney, Christopher (NIH/NLM/NCBI) [C]
+> <maloneyc at ncbi.nlm.nih.gov> wrote:
+>
+>> As for the PR point, I also agree with Pawel that it makes the open
+>> movement too easy to ridicule.
+>
+>
+> .. or that the open movement is too radical. In which case, where should I
+> go- what groups etc.- where open access is taken to these extremes?
+>
+>
+I should make it very clear that I was only speaking for myself, not on
+behalf of the OKF or other Open movements.
+
+I am grateful for feedback and shall consider it carefully.
+
+
+thanks,
+> - Bryan
+> http://heybryan.org/
+> 1 512 203 0507
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/83093eac/attachment.htm>
+
+From tom.moritz at gmail.com  Fri Oct 28 18:54:26 2011
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Fri, 28 Oct 2011 20:54:26 +0300
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CABaSBawXJ23kccge0pZ1qPqUstHxDnp5V1vcKOEX+St-hvXg3g@mail.gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<5377500297A5C54EAB355784469119B12C1AE7C2A0@NIHMLBX15.nih.gov>
+	<CABaSBawXJ23kccge0pZ1qPqUstHxDnp5V1vcKOEX+St-hvXg3g@mail.gmail.com>
+Message-ID: <CAGaH0=1QLcsKw67+zQY5dxrvnmKm4L0=iKLOffxpy0F_JoSP6g@mail.gmail.com>
+
+I believe that we are better off talking about *an ethical spectrum of
+"public goods"* that are served by open access... Based in the ethos of
+science and the now commonly accepted notion that *access to knowledge is a
+fundamental human right* [SEE for ex. The Universal Declaration of Human
+Rights, Article 19: "Everyone has the right to freedom of opinion and
+expression; this right includes freedom to hold opinions without
+interference and to seek, receive and impart information and ideas through
+any media and regardless of frontiers." ]  Democracy is founded in
+transparent, open access to knowledge resources...
+
+IMO... This spectrum includes: human health and public health, agrarian and
+agricultural health, conservation and biodiversity, education and science, *
+non-destructive* technology...
+
+As noted by others, the risks of exaggerated assertions of risks/benefits
+are diminished credibility and violation of the fundamental principle that
+policy and decisions be clearly based in evidence...
+
+Tom
+
+
+*Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell) [GMT -8]
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz*
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+Heraclitus *
+"It is . . . easy to be certain. One has only to be sufficiently vague." --
+C.S. Peirce  *
+*"Kathambhutassa me rattindiva vitipatanti" (?The days and nights are
+relentlessly passing; how well am I spending my time??) -- *"Ten Subjects
+for Frequent Recollection by One Who Has Gone Forth"*
+*"Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus happy.")
+-- Camus*
+
+     Please consider the environment before printing this e-mail
+
+
+
+
+
+On Fri, Oct 28, 2011 at 7:59 PM, Bryan Bishop <kanzure at gmail.com> wrote:
+
+> On Fri, Oct 28, 2011 at 10:59 AM, Maloney, Christopher (NIH/NLM/NCBI) [C]
+> <maloneyc at ncbi.nlm.nih.gov> wrote:
+>
+>> As for the PR point, I also agree with Pawel that it makes the open
+>> movement too easy to ridicule.
+>
+>
+> .. or that the open movement is too radical. In which case, where should I
+> go- what groups etc.- where open access is taken to these extremes?
+>
+> thanks,
+> - Bryan
+> http://heybryan.org/
+> 1 512 203 0507
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/4547840c/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 278 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/4547840c/attachment-0001.gif>
+
+From kanzure at gmail.com  Fri Oct 28 19:13:43 2011
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Fri, 28 Oct 2011 13:13:43 -0500
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <F249CCCD-C42E-4C7C-B63B-33FCB72FA0E0@gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<5377500297A5C54EAB355784469119B12C1AE7C2A0@NIHMLBX15.nih.gov>
+	<CABaSBawXJ23kccge0pZ1qPqUstHxDnp5V1vcKOEX+St-hvXg3g@mail.gmail.com>
+	<F249CCCD-C42E-4C7C-B63B-33FCB72FA0E0@gmail.com>
+Message-ID: <CABaSBaxYFzZ96_VRDcAhf6cmD9PjP9ipBdnkaVhWQkri_81+jw@mail.gmail.com>
+
+On Fri, Oct 28, 2011 at 12:42 PM, Puneet Kishor <punk.kish at gmail.com> wrote:
+
+> On Oct 28, 2011, at 11:59 AM, Bryan Bishop wrote:
+> > On Fri, Oct 28, 2011 at 10:59 AM, Maloney, Christopher (NIH/NLM/NCBI) [C]
+> <
+> > maloneyc at ncbi.nlm.nih.gov> wrote:
+> >
+> >> As for the PR point, I also agree with Pawel that it makes the open
+> >> movement too easy to ridicule.
+> >
+> > .. or that the open movement is too radical. In which case, where should
+> I
+> > go- what groups etc.- where open access is taken to these extremes?
+>
+> am unable to parse the above question? Are you saying that the open
+> movement is too radical therefore you want to go to where open access is
+> taken to extremes? That doesn't make sense. On the other hand, if the open
+> movement is *not* radical enough for you, you are free to fork it and create
+> your own.
+>
+
+Hm, sorry for the confusion everyone. You're right, I should probably
+clarify my question. My question is specifically is that if OKFN membership
+or OKFN proper is /not/ "that radical", what groups are? I fully understand
+and value that Peter's original statements were opinions and that this has
+experienced an unnecessary explosion; I am probably only adding to the
+problem with my question.
+
+I suppose another issue is the expressed opinion ("open access is net
+better") vs. "has anyone studied whether or not inaccessible research would
+actually save lives" which isn't so much an issue of extremism but rather an
+issue of practicality, of whether you are presenting an opinion or fact.
+However, I think we are all in agreement that there are benefits of open
+access here; the issue of opinion vs. fact is not an issue of extremism but
+rather an issue of natural and healthy discourse; still, it seems that the
+general consensus opinion in this group might not be aligned with Peter's?
+There is nothing wrong with this mis-alignment except that it opens the door
+to a question like mine- "okay, then out of curiosity are there any groups
+where the opinions are exactly aligned with Peter's, or even more extreme?".
+
+So just some further clarification: (1) no, OKFN/open-science (this group)
+is not too radical for my personal tastes/interests, (2) OKFN is certainly
+something I wish to continue to support (even if it is not the most radical
+extremist set of beliefs I can possibly imagine), and (3) yes I would very
+much like to know the names of other groups that are more radical and/or
+extreme that I may pursue. I am not particularly interested in making forks,
+but I would very much enjoy knowing of alternatives.
+
+hope this helps, sorry for the noise on the list everyone
+
+@Peter, I saw you a few times at the Open Science Summit this year but I
+didn't have a chance to say hello. Maybe next year.
+
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/abd2483a/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Fri Oct 28 23:50:00 2011
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 28 Oct 2011 23:50:00 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CABPM+wrCtrvQQDH6hMoEHPwAT9LdxiwAVeHifCFguL+gS5qfLQ@mail.gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<CABPM+wrCtrvQQDH6hMoEHPwAT9LdxiwAVeHifCFguL+gS5qfLQ@mail.gmail.com>
+Message-ID: <CABPM+wpFyqrR0DFqe8YA5DasYSC4gyyKs=q0MvnfYb1gP1vPaQ@mail.gmail.com>
+
+Thanks very much Alma. I notice the author advocates the following:
+
+*"If every single biomedical research article were made freely available and
+published under a Creative Commons license, all articles could be collected
+together in a single open access information space. The literature could
+then be seamlessly integrated with important databases, such as gene or
+protein databases, and it could be more easily searched and mined. The
+result would be the discovery of new scientific medical knowledge. We now
+have machines that can scan research papers and find linkages among them
+that no human could have discovered...For this to happen, however, papers
+must be held in an open access repository and not remain hidden behind
+publishers? authentication
+systems.?88"<http://www.hhrjournal.org/index.php/hhr/article/viewArticle/20/88#refs9>
+*
+ORRs aim to provide that single space for the currently available literature
+on a particular disease and eventually semantic tools which could allow the
+kind of searches mentioned above. They won't get there for a while, but
+you've got to start somewhere.
+
+In addition to the other replies I thought I should also try to address
+Pawel's request for data and hard evidence on the idea that open access
+saves lives, but as you'll see below it's difficult and most organisations
+including those quoted by Brian and Alma use testimonials/anecdotal evidence
+as their main source of support in this.
+
+Peter's assertion is similar to that made by Healthcare Information For all
+(HIFA2015 http://www.hifa2015.org/ ) whose website leads with 'People are
+dying for lack of knowledge'. This campaign has a community of over 1800
+healthcare organisations (many national/worldwide medical bodies including
+the British Medical Association, Cochrane Collaboration, WHO African
+Regional Office Library - full list here
+http://www.hifa2015.org/support/#supporting-organisations) that are happy to
+endorse the message, although they also admit that there is a lack of data
+to substantiate and quantify that claim:
+"A challenge to advocacy is the limited availability of hard evidence such
+as case studies and other data demonstrating in quantitative terms the
+difference that the effective provision of healthcare information can make
+to health outcomes, quality of care, training or other relevant result"
+(pg.43
+http://www.hifa2015.org/wp-content/uploads/HIFA2015-Evaluation-Report-Final.pdf
+ )
+
+HIFA focus on information provision at all levels, not just access to the
+primary literature, but the testimonials on their website and personal
+correspondence between those involved in ORRs and the HIFA2015 Coordinator
+Dr Neil Pakenham Walsh indicate that a major element of the global
+healthcare knowledge system is increasing the availability and usability of
+primary research.
+
+A review on the information needs of healthcare workers in developing
+countries http://www.human-resources-health.com/content/7/1/30 references a
+study:
+To test the hypothesis that there was variation between and within
+developing countries in the proposed management of a patient with hospital
+acquired pneumonia, and that part of the variation can be explained by the
+sources of evidence used (
+http://www.jclinepi.com/article/S0895-4356(99)00231-0/abstract)
+Which I suspect is the kind of evidence you would like to see, but seems to
+be one of the only studies of its kind. The abstract concludes "Textbooks
+were the commonest form of information source, and access to a library,
+textbooks and journals were statistically significantly associated with
+appropriate choice of investigations, but not treatment. Access to local
+antibiotic sensitivities was associated with appropriate initial treatment
+choice. Improving access to information in the literature and to local data
+may increase the practice of evidence-based medicine in the developing
+world."
+Not the strongest support but it's the only peer reviewed publication I
+could find addressing a question of that sort.
+
+Although we are focusing on open primary research literature and expert
+annotation/summaries of the most highly cited papers via the web form
+generated by David Shotton and Tanya Gray, the next stage would involve
+annotation by the broader health community that would meet the needs of
+specific user groups, including lay summaries and possibly translations
+(which Pawel says would have impact  -
+http://www.pawelszczesny.org/2011/10/25/open-access-means-people-die/). ORRs
+aim to give a framework around which additional layers of functionality can
+be added while maximising the discoverability and usability of the content
+by ensuring that the base is machine readable and semantically searchable .
+How this knowledge becomes accessible to healthcare workers as open
+educational resources, particularly those without access to computers and
+the internet is a considerable challenge, but the primary targets in
+developing countries would be doctors, researchers and students in the first
+instance for whom the primary literature is a direct educational resource.
+
+This is very wrong. Majority of maternal mortality rate in Bangladesh
+> (see your last slide) is attributed to child marriage, lack of female
+> education and lack of skilled birth attendants. Access to scholarly
+> literature is absolutely irrelevant in such case. You'd need to
+> improve the standard of living and the quality of education first.
+>
+
+You are absolutely right that it is not an underlying cause of the majority
+of maternal mortality, but the quality of medical education is vital in
+ensuring that correct maternal care is provided where skilled birth
+attendants are available, which includes access to up to date techniques and
+information, at least to those training midwives and birth attendants.
+
+Again, there is no hard evidence to be had on this but comments from the
+HIFA network include
+?There is lack of a system to update nurses/midwives in private and public
+practice about the development in Maternal and Child Health were by when
+challenged are not in position to clarify and support safe motherhood. (No
+access to technology, refresher courses, literature, support supervision of
+their facilities etc)?
+David Muwonge, Uganda (October 2008 - Registered nurse, working with Naminya
+community outreach and nursing home)
+
+There is also a lack of access to literature for medical students, who thus
+may be entering practise with information from out of date text books:
+http://www.hifa2015.org/knowledge-base/healthcare-providers/information-needs-of-health-students-in-low-income-countries/
+
+ORRs aren't aiming to address any of these wider problems, but may offer a
+resource to reach people who can disseminate that knowledge to primary
+healthcare workers who may not have or desire access to primary papers (we
+are aware that translation from academic literature to practice is a huge
+barrier to the potential effectiveness of increased access but HINARI gives
+a good example with Hepatitis E "The key outreach is done by the Uganda
+Gastroenterology Society...It gathers information from HINARI and transmits
+it to the country through radios, healthcare workers and any person who
+handles blood as they are most exposed to the virus."
+http://www.research4life.org/casestudies_4_aids.html ). While the healthcare
+use case has many challenges that must be overcome, availablility of primary
+literature to researchers has more immediate benefits. Barbara Aronson
+addresses the issue well:
+
+"Will improved online access have an effect on health in low-income
+countries? It is probably impossible to show a direct connection either
+between the lack of access to information and poor health or between
+improved access to information and improved health. There are many other
+reasons why health in these countries is poor and will not improve quickly.
+These include poor health services infrastructure, poor nutrition, lack of
+clean water, and poor sanitation, as well as war, drought, and political
+corruption. Most global health and medical research remains focused on the
+problems of wealthy nations. But low-income countries also have medical
+schools and universities. They have researchers and research institutes that
+carry out essential work on local problems and government offices that try
+to set effective policies. Warren Stevens of the Medical Research Council
+Laboratories in the Gambia has noted that intellectual isolation represents
+an important hindrance to the development of world-class researchers in
+African countries. Access to timely, relevant, high-quality scientific
+information represents a substantial gain for the researchers, students,
+teachers, and policymakers in low-income countries. Can this be called
+anything but progress?"
+Improving Online Access to Medical Information for Low-Income
+Countries, Barbara
+Aronson, N Engl J Med 2004; 350:966-968
+
+Although it can't be concretely backed up with data, the idea that open
+access saves lives is not confined to HIFA, As Brian Glanz pointed out -
+quotes to that effect are not hard to find:
+HINARI has collected case studies of the impact that free access has on
+healthcare and devlopment and 'saving lives', 'improving quality of life'
+are mentioned multiple times:
+http://www.research4life.org/casestudies_2_diarrhea.html (Educating people
+in good hygiene practise)
+http://www.research4life.org/casestudies_4_aids.html (Prescribing correct
+antiretrovirals and monitoring)
+http://www.research4life.org/casestudies_1_watersheds.html (Developing
+filters and storage systems for drinking water)
+During our talk, Peter explained why he feels 'free' is not sufficient and
+open access is better, but easy access at all is the point
+
+SOROS Open Society Institute had in it's 2006 Annual Report the article:
+Open Access to Scientific Research?Sharing Information, Saving Lives
+They also have case studies of harmful medical decisions being made due to
+lack of access to the full text medical literature
+http://www.soros.org/initiatives/information/focus/access/articles_publications/articles/openaccess_20070419
+
+Virginia Barbour, Chief Editor of PLoS Medicine states of Springers decision
+to offer free access to E.coli research during the recent outbreak in
+Europe:
+"Springer knows how important open-access publication is - they own Biomed
+Central, a large group of open-access journals. By acknowledging that open
+access to the literature can save perhaps 10s or 100s of lives in this
+outbreak, they surely can't deny that opening access to the entire medical
+and scientific literature has the potential to save many millions of lives."
+(HIFA forum - 3 Jun Press release: Springer offers free access to research
+articles on E. coli bacteria
+http://dgroups.org/ViewDiscussion.aspx?c=e95b885f-14b0-4452-a819-06cf188ee6b0&i=38f192cf-bd2e-4afb-8710-620a538dfb1e
+)
+
+Therefore, I'm not sure the general message that open access to biomedical
+literature can save lives, and conversely a lack of it can cause preventable
+deaths through incorrect or outdated treatment is that radical within the
+global health community.
+
+From: Pawe? Szcz?sny <ps at pawelszczesny.org>
+Date: 2011/10/27
+>OA (understood as open access to primary literature) is very
+>important, especially in developing countries, but if there's no
+>healthcare infrastructure to apply the cutting-edge knowledge, OA
+>becomes almost irrelevant in the healthcare (while being crucial in
+>research).
+
+As above, there is an intersection in health research addressing local
+problems, which one would think could lead to better local policy and
+improved healthcare, although again there is no data to offer. I'm glad you
+brought up the lack of evidence and that others on the list have joined in
+the discussion of how relevant open access is to developing countries,
+hopefully this will be the focus of more research in the near future.
+
+From: Pawe? Szcz?sny <ps at pawelszczesny.org>
+Date: 2011/10/27
+
+>I can supply the same amount of anecdotal evidence showing how access
+>to information is harfmul in case of patients, starting from effects
+>of Wakefield's MMR paper and ending with plenty of stories from local
+>doctors.
+
+Leaving aside developing countries as a use case for ORRs, patient advocates
+who have been consulted on ORRs believe Peter's statement to be the case for
+some diseases in the developed world. There are no doubt also anecdotal
+examples of the opposite, and a separate debate would be the scientific
+literacy of the general population and their ability to interpret the
+literature, but misinformation and poor science reporting by the media is
+far more dangerous than access to the primary literature, which would at
+least give those with the inclination a chance to check the facts and the
+place of findings within the broader field of study. In the case of MMR, the
+paper was closed access and not a single study I've seen suggests that
+parents based decisions on anything in the scientific literature, they were
+listening to the media and, where they trusted them, healthcare
+professionals. This would have been the case regardless of the open or
+closed nature of the publication - the vast majority of the population will
+not access the primary literature even if openly available - but the fact
+remains that some people want to, can make good use of it and there are
+cases where they have, which as Peter mentions he will try to compile with
+the help of patient groups.
+
+I appreciate your point about the nature of anecdotal evidence, but in the
+cases supporting the idea that open access can save lives, there is a direct
+link between access to the primary literature and changes in clinical
+decisions/treatment being beneficial, or closed access being harmful e.g.
+changing practices innappropriately due to only having access to an abstract
+as in Alma's source http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+. <http://www.hhrjournal.org/index.php/hhr/article/view/20/88>I'd be
+interested to know if the evidence from doctors that you mention is patients
+making harmful decisions due to information from the media/quack
+websites/other sources of information (as was the case with MMR) or directly
+from the literature.
+
+Sorry this ended up being so long, it's been a useful exercise :)
+
+Jenny
+
+PS BioMedCentral ran their Open Access Africa Conference this week (
+http://www.biomedcentral.com/developingcountries/events/openaccessafrica/program)
+and while the talks aren't up yet, the following could be interesting:
+
+*Importance of open access to case reports:*
+
+Joseph Ana, Mentor of BMJ West Africa edition, Nigeria
+
+*Open access: Meeting the cardiovascular disease information needs of health
+professionals*
+
+Dr. Collins Kokuro, Associate Director, Ashanti-ProCor Project and
+Specialist Physician, Dept. of Internal Medicine, Komfo Anokye Teaching
+Hospital, Kumasi, Ghana
+
+*Access to research and information for health workers*
+
+Victoria Kimotho, AMREF, Kenya
+
+
+
+On Fri, Oct 28, 2011 at 5:29 AM, Alma Swan <a.p.swan at talk21.com> wrote:
+
+>  A substantiated example of how lack of access can have a profound effect
+> is related here:
+> http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+>
+> Alma
+>
+>
+>
+>
+> On 27/10/2011 18:42, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+>
+>
+>
+> On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca> wrote:
+>
+> To help people make the connection between open access and saving lives in
+> the developing, would it help:
+>
+> -       to briefly mention Open Education? perhaps the UNESCO initiative?
+> This related initiative addresses the question of facilitating basic
+> education quite directly.
+>
+> http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/
+>
+> -       to speak to south to south and south to north knowledge
+> dissemination? Leslie Chan is one of the experts here, perhaps he can
+> provide some specifics. In brief, as long as the focus is on the knowledge
+> production of the developed world, the needs of the developing world are
+> likely to be short-changed. Lots of research on obesity, little on
+> malnutrition or how to manage food security with little or no $ to work
+> with.
+>
+> This is great Heather,
+>
+> There is actually an immediate urgency (which has suddenly arisen) _ Jenny
+> and I and other have to make a video within 24 hours. (Of course that's not
+> the end of the story). We want to bolt together clips from OSS video with
+> bits of Graham Steel presenting patientsLikeMe and Leslie's clip that Iryna
+> posted. The video will be 5 mins long and present particularly what I and
+> OKF can do NOW so there is a concentration on the December Hackathon. I'll
+> explain the context later.
+>
+> P.
+>
+> my two bits,
+>
+> Heather Morrison
+> Doctoral Candidate, Simon Fraser University School of Communication
+> http://pages.cmns.sfu.ca/heather-morrison/
+> hgmorris at sfu.ca
+>
+> On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+>
+> >
+> >
+> > 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+> > If we are talking about open access to scholarly publications please
+> believe me that people in universities and research institutions in
+> developing countries do have computers and internet. this is one of the
+> examples of a Kenyan researcher speaking about open access: Prof. Mary
+> Abukutsa-Onyango discusses the importance of open access for research from
+> Kenya and other African countries (http://vimeo.com/10169351) and I can
+> share more evidences like this.
+> >
+> > Many thanks for this. The video is exactly what Jenny and I need for a
+> clip. It's no coincidence that it was created by Leslie Chan who is one of
+> the group of us who dreamt up Open Research Reports.
+> >
+> > Yes, OA is absolutely critical.
+> >
+> > Best wishes,
+> > Iryna Kuchma
+> > EIFL Open Access programme manager
+> > www.eifl.net <http://www.eifl.net>
+> >
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069 <tel:%2B44-1223-763069>
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111028/611cfba8/attachment-0001.htm>
+
+From jonathan.gray at okfn.org  Sat Oct 29 21:49:24 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 29 Oct 2011 22:49:24 +0200
+Subject: [open-science] The New Einsteins Will Be Scientists Who Share
+Message-ID: <CANQ_vu0zC1P4kdFdVobW3qqKtjmE2b2ZVOUjVyB1mBSooabCpQ@mail.gmail.com>
+
+Nice punchy piece from Michael Nielsen in the Wall Street Journal:
+
+http://online.wsj.com/article/SB10001424052970204644504576653573191370088.html?mod=googlenews_wsj
+
+J.
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From cameron.neylon at stfc.ac.uk  Sun Oct 30 14:06:03 2011
+From: cameron.neylon at stfc.ac.uk (cameron.neylon at stfc.ac.uk)
+Date: Sun, 30 Oct 2011 14:06:03 +0000
+Subject: [open-science] New participants, Open Science Kentucky
+In-Reply-To: <CAN8ChJztWUdeWCuO=G=Q+FNawVA347-ajC1CtS_yuJHjjkiVQQ@mail.gmail.com>
+References: <CAN8ChJztWUdeWCuO=G=Q+FNawVA347-ajC1CtS_yuJHjjkiVQQ@mail.gmail.com>
+Message-ID: <2AF28A8A-E27E-40D4-A70C-1E69A1A1635B@stfc.ac.uk>
+
+Hi Adam
+
+Thanks for the interest and glad you're here. Expect some robust debate but also the good insights that comes out of it. I wanted to speak specifically to your point about a lack of a good site to find things online.
+
+Building on some ideas of Heather Piwowar's I've been knocking around some ideas on what we might do about this. It seems that we need three things. A site that pulls together and/or indexes all the best content on open research from around the web as well as aims to organise it so that people can find what they're looking for. A means of getting that content indexed so that it appears when people aren't looking for it but perhaps should be (i.e. PubMed, WoK etc etc). And finally a way to motivate people to take the ideas that aren't quite yet formed, or aren't quite yet as well laid out as they could be, and turn them into well finished pieces.
+
+The answer to this for me is something that is a website that looks from one angle like a journal (contains peer reviewed content with DOIs, the whole deal) but that would also bring more general material in from the wider web, like a community aggregation website. There is a model for this in PLoS Hubs but that doesn't provide the whole answer (indexing etc).
+
+We've got some ideas on how to do this and possible angles on how to make it happen but I'm wondering whether people feel that this would be a good step. The bottom line is it would be quite a lot of work, both to get it off the ground, but also to sustain it so it would need strong support to be viable.
+
+Cheers
+
+Cameron
+
+
+On 27 Oct 2011, at 23:20, Adam Robison wrote:
+
+> Hi, everyone,
+> 
+> My name is Andrew Ramsey. I'm writing on behalf of Open Science Kentucky (OSK), a relatively new organization dedicated to establishing greater participation in open science among researchers and the public. Thanks for having us here.
+> 
+> OSK started as collective disillusionment among medical students at the University of Louisville School of Medicine who felt that the evidence-based practices we were learning merely shifted our curriculum from one flawed paradigm to another. Bad, opaque, interest-driven science continues to be the predominant information medium, despite the shift to practice-by-numbers medicine. Now, however, we physicians more complacently practice, weilding bad science unquestioningly because we can remind ourselves we are under the aegis of evidence. Unfortunately, in medicine, our careless application of evidence-based principles kills people.
+> 
+> We have enjoyed reading web commentary from thought leaders in the open science movement, many of whom are participants on this message board. We defer to you for your remarkable insight! However, we noted that finding resources related to open science was remarkably difficult when searching directly for it. It is thus very unlikely the average scientist will realize an open science epiphany while looking for other things. 
+> 
+> To shift the paradigm to open science, open science will certainly need to become a ubiquitous term, emerging within frank discussions within secondary through doctorate level educational settings, overlying decisions about where to submit every new manuscript, becoming the deciding factor in selecting candidates for employment and projects for grant-funding. Open science must become as appealing as classical science. To do so, it must be visible. At OSK, we've dedicated ourselves to making the widespread discussion of open science plausible.
+> 
+> We have a variety of projects we're working on, each of which will benefit greatly from your sage counsel and assistance. I will share more information on these projects later.
+> 
+> For now, thanks again for having us. Looking forward to learning from everyone. Cheers!
+> 
+> Andrew Ramsey
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-- 
+Scanned by iCritical.
+
+
+From ps at pawelszczesny.org  Sun Oct 30 21:38:53 2011
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Sun, 30 Oct 2011 22:38:53 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CABPM+wpFyqrR0DFqe8YA5DasYSC4gyyKs=q0MvnfYb1gP1vPaQ@mail.gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<CABPM+wrCtrvQQDH6hMoEHPwAT9LdxiwAVeHifCFguL+gS5qfLQ@mail.gmail.com>
+	<CABPM+wpFyqrR0DFqe8YA5DasYSC4gyyKs=q0MvnfYb1gP1vPaQ@mail.gmail.com>
+Message-ID: <CADfaFZodHNUE-k6JBHFsUMZPh1F8C8SxRySZjTBNADXnAcLg6w@mail.gmail.com>
+
+Ok, to comment/summarize/clarify things:
+
+1. Peter mentioned that the statement in question was of political
+nature. I think this is very important as it explains couple of
+things, especially some disagreements of whether this statement is
+"true enough" (more on that below). It also explains my strong
+reaction, as I had read it as "scientist-to-scientist" communication,
+instead of "activist-to-scientist". It is an important lesson (also
+for me) to evaluate assumptions about which mode of communication is
+in use at a particular time.
+
+2. It seems we have no enough data to support the scientific statement
+"OA saves lives", although we might have enough anecdotal evidence to
+back up an equivalent political statement. "Knowledge dissemination
+saves lives" is an easy one for a comparison.
+
+3. I can imagine that strong political statement of "OA saves lives"
+might be potentially useful in all but "scientist-to-scientist" modes
+(at least that's what I understand from some of your emails), however
+heavily relying on that might actually undermine actions of those
+interested in "more than free" scholarly literature. Two days ago,
+attending one of OA Week events, I heard Elsevier executive saying
+that they will move to "Universal Access" (equivalent of "free" but
+not "open") as soon as data shows it is financially sustainable (so
+far hey had ca. 2% level of participation in "author-pays" model). It
+is not hard to imagine situation in which large publishers actually
+fuel "OA saves lifes" meme, only to "solve" the problem by giving free
+access to the literature instead of text-mining-level access. In some
+ways it is already happening. For that reason, and considering this
+outside of "backed by data" issue, it might not be the best idea to
+endorse this statement at all. But that's just an opinion.
+
+4. Jenny asked about sources used by patients making harmful decisions
+in Poland. Well, in at least two cases I heard about patients delaying
+cancer therapy on the basis of information found in scientific
+literature (they came with reprints of articles to a doctor). I hear
+it happens more often, but didn't ask for more details. Also, as far
+as I know, some pratictioners of EDTA chelation therapy for
+cardiovascular disease in Poland are giving patients reprints of a
+paper presenting results of one of the earliest (and one of the only
+two favourable) randomized controlled trials. These are probably
+reasons some physicians here loudly state: "yes to knowledge
+dissemination, but no to OA" (controlled lay summaries instead of
+work-in-progress in full research papers), however I have no idea how
+representative these voices are. The overall scale of the effect of
+scientific literature is very hard to quantify here (beyond anecdotal
+evidence), because the literature is in English. In English namespace
+at least you can get a feeling of a scale: one of the most popular
+sites within memespace of "elites are pushing global depopulation by
+vaccines, gmo, cancer and diabetes" (and a popular site in general -
+within 4000 most visited websites in the world, 19k Facebook likes,
+several thousands Tweets pointing to the main site, etc.) cites a few
+hundreds PLoS articles (and very few articles from closed access
+journals), usually in alarmist tone and in support of the main meme.
+Interestingly, the site welcomed open access warmly, as it helps them
+to "challenge corrupt medical system", as they say.
+
+Given multiple levels of OA and the fact that OA doesn't have to be an
+integral element of knowledge dissemination strategies (a number of
+people are arguing about that), choice of PR tactics isn't an easy
+one. My personal preferences, however, are to keep the image of the
+community as scientific as it is right now, and if there's a need for
+more "activist" tone (in a sense of making strong political
+statements), the preferred solutions would be to either make it clear
+about the type of the message, or fork it outside of the community
+(either to some more "radical" group if one is found by Brian, or to
+"activist" branch of OKF if there's one).
+
+PS
+
+PS. The collection of links, quotes and source articles summarized by
+Jenny should be published in some form (at least a blog post - it's
+too valuable to keep it closed inside mailing list). It would improve
+"learnability" of the subject, as suggested by Egon Willighagen on
+related FF thread.
+
+
+
+On Sat, Oct 29, 2011 at 12:50 AM, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> Thanks very much Alma. I notice the author advocates the following:
+>
+> "If every single biomedical research article were made freely available and
+> published under a Creative Commons license, all articles could be collected
+> together in a single open access information space. The literature could
+> then be seamlessly integrated with important databases, such as gene or
+> protein databases, and it could be more easily searched and mined. The
+> result would be the discovery of new scientific medical knowledge. We now
+> have machines that can scan research papers and find linkages among them
+> that no human could have discovered...For this to happen, however, papers
+> must be held in an open access repository and not remain hidden behind
+> publishers? authentication systems.?88"
+>
+> ORRs aim to provide that single space for the currently available literature
+> on a particular disease and eventually semantic tools which could allow the
+> kind of searches mentioned above. They won't get there for a while, but
+> you've got to start somewhere.
+>
+> In addition to the other replies I thought I should also try to address
+> Pawel's request for data and hard evidence on the idea that open access
+> saves lives, but as you'll see below it's difficult and most organisations
+> including those quoted by Brian and Alma use testimonials/anecdotal evidence
+> as their main source of support in this.
+>
+> Peter's assertion is similar to that made by Healthcare Information For all
+> (HIFA2015?http://www.hifa2015.org/?)?whose website leads with 'People are
+> dying for lack of knowledge'. This campaign has a community of over 1800
+> healthcare organisations (many national/worldwide medical bodies including
+> the British Medical Association, Cochrane Collaboration, WHO African
+> Regional Office Library - full list
+> here?http://www.hifa2015.org/support/#supporting-organisations) that are
+> happy to endorse the message, although they also admit that there is a lack
+> of data to substantiate and quantify that claim:
+> "A challenge to advocacy is the limited availability of hard evidence such
+> as case studies and other data?demonstrating in quantitative terms the
+> difference that the effective provision of healthcare information can?make
+> to health outcomes, quality of care, training or other relevant result"
+> (pg.43
+> http://www.hifa2015.org/wp-content/uploads/HIFA2015-Evaluation-Report-Final.pdf?)
+> HIFA focus on information provision at all levels, not just access to the
+> primary literature, but the testimonials on their website and personal
+> correspondence between those involved in ORRs and the HIFA2015 Coordinator
+> Dr Neil Pakenham Walsh indicate that a major element of the global
+> healthcare knowledge system is increasing the availability and usability of
+> primary research.
+>
+> A review on the information needs of healthcare workers in developing
+> countries?http://www.human-resources-health.com/content/7/1/30?references a
+> study:
+> To test the hypothesis that there was variation between and within
+> developing countries in the proposed management of a patient with hospital
+> acquired pneumonia, and that part of the variation can be explained by the
+> sources of evidence used
+> (http://www.jclinepi.com/article/S0895-4356(99)00231-0/abstract)
+> Which I suspect is the kind of evidence you would like to see, but seems to
+> be one of the only studies of its kind. The abstract concludes "Textbooks
+> were the commonest form of information source, and access to a library,
+> textbooks and journals were statistically significantly associated with
+> appropriate choice of investigations, but not treatment. Access to local
+> antibiotic sensitivities was associated with appropriate initial treatment
+> choice. Improving access to information in the literature and to local data
+> may increase the practice of evidence-based medicine in the developing
+> world."
+> Not the strongest support but it's the only peer reviewed publication I
+> could find addressing a question of that sort.
+>
+> Although we are focusing on open primary research literature and expert
+> annotation/summaries of the most highly cited papers via the web form
+> generated by David Shotton and Tanya Gray, the next stage would involve
+> annotation by the broader health community that would meet the needs of
+> specific user groups, including lay summaries and possibly translations
+> (which Pawel says would have impact? -
+> http://www.pawelszczesny.org/2011/10/25/open-access-means-people-die/). ORRs
+> aim to give a framework around which additional layers of functionality can
+> be added while maximising the discoverability and usability of the content
+> by ensuring that the base is machine readable and semantically searchable .
+> How this knowledge becomes accessible to healthcare workers as open
+> educational resources, particularly those without access to computers and
+> the internet is a considerable challenge, but the primary targets in
+> developing countries would be doctors, researchers and students in the first
+> instance for whom the primary literature is a direct educational resource.
+>>
+>> This is very wrong. Majority of maternal mortality rate in Bangladesh
+>> (see your last slide) is attributed to child marriage, lack of female
+>> education and lack of skilled birth attendants. Access to scholarly
+>> literature is absolutely irrelevant in such case. You'd need to
+>> improve the standard of living and the quality of education first.
+>
+> You are absolutely right that it is not an underlying cause of the majority
+> of maternal mortality, but the quality of medical education is vital in
+> ensuring that correct maternal care is provided where skilled birth
+> attendants are available, which includes access to up to date techniques and
+> information, at least to those training midwives and birth attendants.
+> Again, there is no hard evidence to be had on this but comments from the
+> HIFA network include
+> ?There is lack of a system to update nurses/midwives in private and public
+> practice about the development in Maternal and Child Health were by when
+> challenged are not in position to clarify and support safe motherhood. (No
+> access to technology, refresher courses, literature, support supervision of
+> their facilities etc)?
+> David Muwonge, Uganda (October 2008 -?Registered nurse, working with Naminya
+> community outreach and nursing home)
+> There is also a lack of access to literature for medical students, who thus
+> may be entering practise with information from out of date text books:
+> http://www.hifa2015.org/knowledge-base/healthcare-providers/information-needs-of-health-students-in-low-income-countries/
+>
+> ORRs aren't aiming to address any of these wider problems, but may offer a
+> resource to reach people who can disseminate that knowledge to primary
+> healthcare workers who may not have or desire access to primary papers (we
+> are aware that translation from academic literature to practice is a huge
+> barrier to the potential effectiveness of increased access but HINARI gives
+> a good example with Hepatitis E "The key outreach is done by the Uganda
+> Gastroenterology Society...It gathers information from HINARI and transmits
+> it to the country through radios, healthcare workers and any person who
+> handles blood as they are most exposed to the virus."
+> http://www.research4life.org/casestudies_4_aids.html ). While the healthcare
+> use case has many challenges that must be overcome, availablility of primary
+> literature to researchers has more immediate benefits. Barbara Aronson
+> addresses the issue well:
+> "Will improved online access have an effect on health in low-income
+> countries? It is probably impossible to show a direct connection either
+> between the lack of access to information and poor health or between
+> improved access to information and improved health. There are many other
+> reasons why health in these countries is poor and will not improve quickly.
+> These include poor health services infrastructure, poor nutrition, lack of
+> clean water, and poor sanitation, as well as war, drought, and political
+> corruption. Most global health and medical research remains focused on the
+> problems of wealthy nations. But low-income countries also have medical
+> schools and universities. They have researchers and research institutes that
+> carry out essential work on local problems and government offices that try
+> to set effective policies. Warren Stevens of the Medical Research Council
+> Laboratories in the Gambia has noted that intellectual isolation represents
+> an important hindrance to the development of world-class researchers in
+> African countries. Access to timely, relevant, high-quality scientific
+> information represents a substantial gain for the researchers, students,
+> teachers, and policymakers in low-income countries. Can this be called
+> anything but progress?"
+> Improving Online Access to Medical Information for Low-Income
+> Countries,?Barbara Aronson,?N Engl J Med 2004; 350:966-968
+>
+> Although it can't be concretely backed up with data, the idea that open
+> access saves lives is not confined to HIFA, As Brian Glanz pointed out -
+> quotes to that effect are not hard to find:
+> HINARI has collected case studies of the impact that free access has on
+> healthcare and devlopment and 'saving lives', 'improving quality of life'
+> are mentioned multiple times:
+> http://www.research4life.org/casestudies_2_diarrhea.html (Educating people
+> in good hygiene practise)
+> http://www.research4life.org/casestudies_4_aids.html (Prescribing correct
+> antiretrovirals and monitoring)
+> http://www.research4life.org/casestudies_1_watersheds.html (Developing
+> filters and storage systems for drinking water)
+> During our talk, Peter explained why he feels 'free' is not sufficient and
+> open access is better, but easy access at all is the point
+>
+> SOROS Open Society Institute had in it's 2006 Annual Report the article:
+> Open Access to Scientific Research?Sharing Information, Saving Lives
+> They also have case studies of harmful medical decisions being made due to
+> lack of access to the full text medical literature
+> http://www.soros.org/initiatives/information/focus/access/articles_publications/articles/openaccess_20070419
+>
+> Virginia Barbour, Chief Editor of PLoS Medicine states of Springers decision
+> to offer free access to E.coli research during the recent outbreak in
+> Europe:
+> "Springer knows how important open-access publication is - they own Biomed
+> Central, a large group of open-access journals. By acknowledging that open
+> access to the literature can save perhaps 10s or 100s of lives in this
+> outbreak, they surely can't deny that opening access to the entire medical
+> and scientific literature has the potential to save many millions of lives."
+> (HIFA forum - 3 Jun Press release: Springer offers free access to research
+> articles on E. coli bacteria
+> http://dgroups.org/ViewDiscussion.aspx?c=e95b885f-14b0-4452-a819-06cf188ee6b0&i=38f192cf-bd2e-4afb-8710-620a538dfb1e)
+>
+> Therefore, I'm not sure the general message that open access to biomedical
+> literature can save lives, and conversely a lack of it can cause preventable
+> deaths through incorrect or outdated treatment is that radical within the
+> global health community.
+>
+> From:?Pawe? Szcz?sny?<ps at pawelszczesny.org>
+> Date: 2011/10/27
+>>OA (understood as open access to primary literature) is very
+>>important, especially in developing countries, but if there's no
+>>healthcare infrastructure to apply the cutting-edge knowledge, OA
+>>becomes almost irrelevant in the healthcare (while being crucial in
+>>research).
+> As above, there is an intersection in health research addressing local
+> problems, which one would think could lead to better local policy and
+> improved healthcare, although again there is no data to offer. I'm glad you
+> brought up the lack of evidence and that others on the list have joined in
+> the discussion of how relevant open access is to developing countries,
+> hopefully this will be the focus of more research in the near future.
+>
+> From: Pawe? Szcz?sny <ps at pawelszczesny.org>
+> Date: 2011/10/27
+>>I can supply the same amount of anecdotal evidence showing how access
+>>to information is harfmul in case of patients, starting from effects
+>>of Wakefield's MMR paper and ending with plenty of stories from local
+>>doctors.
+>
+> Leaving aside developing countries as a use case for ORRs, patient advocates
+> who have been consulted on ORRs believe Peter's statement to be the case for
+> some diseases in the developed world. There are no doubt also anecdotal
+> examples of the opposite, and a separate debate would be the scientific
+> literacy of the general population and their ability to interpret the
+> literature, but misinformation and poor science reporting by the media is
+> far more dangerous than access to the primary literature, which would at
+> least give those with the inclination a chance to check the facts and the
+> place of findings within the broader field of study. In the case of MMR, the
+> paper was closed access and not a single study I've seen suggests that
+> parents based decisions on anything in the scientific literature, they were
+> listening to the media and, where they trusted them, healthcare
+> professionals. This would have been the case regardless of the open or
+> closed nature of the publication - the vast majority of the population will
+> not access the primary literature even if openly available - but the fact
+> remains that some people want to, can make good use of it and there are
+> cases where they have, which as Peter mentions he will try to compile with
+> the help of patient groups.
+>
+> I appreciate your point about the nature of anecdotal evidence, but in the
+> cases supporting the idea that open access can save lives, there is a direct
+> link between access to the primary literature and changes in clinical
+> decisions/treatment being beneficial, or closed access being harmful e.g.
+> changing practices innappropriately due to only having access to an abstract
+> as in Alma's source
+> http://www.hhrjournal.org/index.php/hhr/article/view/20/88 . I'd be
+> interested to know if the evidence from doctors that you mention is patients
+> making harmful decisions due to information from the media/quack
+> websites/other sources of information (as was the case with MMR) or directly
+> from the literature.
+>
+> Sorry this ended up being so long, it's been a useful exercise :)
+>
+> Jenny
+>
+> PS BioMedCentral ran their Open Access Africa Conference this week
+> (http://www.biomedcentral.com/developingcountries/events/openaccessafrica/program)
+> and while the talks aren't up yet, the following could be interesting:
+>
+> Importance of open access to case reports:
+>
+> Joseph Ana, Mentor of BMJ West Africa edition, Nigeria
+>
+> Open access: Meeting the cardiovascular disease information needs of health
+> professionals
+>
+> Dr. Collins Kokuro, Associate Director, Ashanti-ProCor Project and
+> Specialist Physician, Dept. of Internal Medicine, Komfo Anokye Teaching
+> Hospital, Kumasi, Ghana
+>
+> Access to research and information for health workers
+>
+> Victoria Kimotho, AMREF, Kenya
+>
+>
+> On Fri, Oct 28, 2011 at 5:29 AM, Alma Swan <a.p.swan at talk21.com> wrote:
+>>
+>> A substantiated example of how lack of access can have a profound effect
+>> is related here: http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+>>
+>> Alma
+>>
+>>
+>>
+>> On 27/10/2011 18:42, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+>>
+>>
+>>
+>> On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca> wrote:
+>>
+>> To help people make the connection between open access and saving lives in
+>> the developing, would it help:
+>>
+>> - ? ? ? to briefly mention Open Education? perhaps the UNESCO initiative?
+>> This related initiative addresses the question of facilitating basic
+>> education quite directly.
+>>
+>> http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/
+>>
+>> - ? ? ? to speak to south to south and south to north knowledge
+>> dissemination? Leslie Chan is one of the experts here, perhaps he can
+>> provide some specifics. In brief, as long as the focus is on the knowledge
+>> production of the developed world, the needs of the developing world are
+>> likely to be short-changed. Lots of research on obesity, little on
+>> malnutrition or how to manage food security with little or no $ to work
+>> with.
+>>
+>> This is great Heather,
+>>
+>> There is actually an immediate urgency (which has suddenly arisen) _ Jenny
+>> and I and other have to make a video within 24 hours. (Of course that's not
+>> the end of the story). We want to bolt together clips from OSS video with
+>> bits of Graham Steel presenting patientsLikeMe and Leslie's clip that Iryna
+>> posted. The video will be 5 mins long and present particularly what I and
+>> OKF can do NOW so there is a concentration on the December Hackathon. I'll
+>> explain the context later.
+>>
+>> P.
+>>
+>> my two bits,
+>>
+>> Heather Morrison
+>> Doctoral Candidate, Simon Fraser University School of Communication
+>> http://pages.cmns.sfu.ca/heather-morrison/
+>> hgmorris at sfu.ca
+>>
+>> On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+>>
+>> >
+>> >
+>> > 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+>> > If we are talking about open access to scholarly publications please
+>> > believe me that people in universities and research institutions in
+>> > developing countries do have computers and internet. this is one of the
+>> > examples of a Kenyan researcher speaking about open access: Prof. Mary
+>> > Abukutsa-Onyango discusses the importance of open access for research from
+>> > Kenya and other African countries (http://vimeo.com/10169351) and I can
+>> > share more evidences like this.
+>> >
+>> > Many thanks for this. The video is exactly what Jenny and I need for a
+>> > clip. It's no coincidence that it was created by Leslie Chan who is one of
+>> > the group of us who dreamt up Open Research Reports.
+>> >
+>> > Yes, OA is absolutely critical.
+>> >
+>> > Best wishes,
+>> > Iryna Kuchma
+>> > EIFL Open Access programme manager
+>> > www.eifl.net <http://www.eifl.net>
+>> >
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069 <tel:%2B44-1223-763069>
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+From egon.willighagen at gmail.com  Mon Oct 31 07:39:19 2011
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Mon, 31 Oct 2011 08:39:19 +0100
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CADfaFZodHNUE-k6JBHFsUMZPh1F8C8SxRySZjTBNADXnAcLg6w@mail.gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<CABPM+wrCtrvQQDH6hMoEHPwAT9LdxiwAVeHifCFguL+gS5qfLQ@mail.gmail.com>
+	<CABPM+wpFyqrR0DFqe8YA5DasYSC4gyyKs=q0MvnfYb1gP1vPaQ@mail.gmail.com>
+	<CADfaFZodHNUE-k6JBHFsUMZPh1F8C8SxRySZjTBNADXnAcLg6w@mail.gmail.com>
+Message-ID: <CAMPqvY9pSno3cFhkbzJQcGbdjjMCRme_5ESCWj9TE7OADZQ1FQ@mail.gmail.com>
+
+2011/10/30 Pawe? Szcz?sny <ps at pawelszczesny.org>:
+> 2. It seems we have no enough data to support the scientific statement
+> "OA saves lives", although we might have enough anecdotal evidence to
+> back up an equivalent political statement. "Knowledge dissemination
+> saves lives" is an easy one for a comparison.
+
+Backing up claims with solid data is indeed very important. But I
+would just like to reiterate here that many scientific fields work
+with anecdotal evidence on a daily basis. This does not just include
+social sciences like cultural anthropology, but also biology, where
+about every second paper is anecdotal (bold claim by a chemist :).
+
+And to just add my anecdotal evidence. My mother died of cancer two
+years ago, purely based on misinterpretation of symptoms. Were those
+symptoms properly recognized, she would have still lived. Health care
+even in western countries is not taking advantage of all knowledge
+there is in the field... something is failing, and Open Access is an
+rather important role here.
+
+So, it's up to the field scientist to run the experiment and show PMRs
+claim is wrong... (or not).
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Institutet f?r milj?medicin
+Karolinska Institutet (http://ki.se/imm)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From nb at climatecode.org  Mon Oct 31 12:03:14 2011
+From: nb at climatecode.org (Nick Barnes)
+Date: Mon, 31 Oct 2011 12:03:14 +0000
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <CAMPqvY9pSno3cFhkbzJQcGbdjjMCRme_5ESCWj9TE7OADZQ1FQ@mail.gmail.com>
+References: <CAD2k14NF+sTfpO+KQRw9tGJtDebeHCMNxMS06p8=sw5tTx2EHQ@mail.gmail.com>
+	<CACFEE52.16793%a.p.swan@talk21.com>
+	<CABPM+wrCtrvQQDH6hMoEHPwAT9LdxiwAVeHifCFguL+gS5qfLQ@mail.gmail.com>
+	<CABPM+wpFyqrR0DFqe8YA5DasYSC4gyyKs=q0MvnfYb1gP1vPaQ@mail.gmail.com>
+	<CADfaFZodHNUE-k6JBHFsUMZPh1F8C8SxRySZjTBNADXnAcLg6w@mail.gmail.com>
+	<CAMPqvY9pSno3cFhkbzJQcGbdjjMCRme_5ESCWj9TE7OADZQ1FQ@mail.gmail.com>
+Message-ID: <CADSvO-GPP-Y_A0+HUpQR=1zPGJUoWm4N+=BoaRwrMjCeHs9dOA@mail.gmail.com>
+
+2011/10/31 Egon Willighagen <egon.willighagen at gmail.com>:
+> Health care
+> even in western countries is not taking advantage of all knowledge
+> there is in the field
+
+For broadly this reason I see Peter's assertion, although blunt, as
+the null hypothesis.  *Of course* we should expect a restriction on
+information flow to cost lives.  Can we show that it does not?
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+
+
+From tjv at bio.unc.edu  Mon Oct 31 14:12:03 2011
+From: tjv at bio.unc.edu (Vision, Todd J)
+Date: Mon, 31 Oct 2011 14:12:03 +0000
+Subject: [open-science] JennyMolloy and PeterMR representing OKF at Open
+ Science Summit
+In-Reply-To: <mailman.19.1320062406.13804.open-science@lists.okfn.org>
+References: <mailman.19.1320062406.13804.open-science@lists.okfn.org>
+Message-ID: <9DFACD0F-5705-4CE0-8050-CD679BBDF382@ad.unc.edu>
+
+I am enjoying this thoughtful discussion, which is a very healthy (and perhaps overdue) one to have in an organization that is at the nexus of science and policy advocacy.  I too was initially taken aback by the messaging of the OSS presentation, though upon reflection it's not clear to me that this group should aim for a politically neutral message.
+
+That said, a variety of evidence may be brought to bear on a policy issue: experimental, anecdota, theoretical, etc, and rational interpretation of that evidence need not be 'political' even though subjectivity may be more difficult to avoid when the evidence is fragmentary, as in this instance.  
+
+We have mostly been discussing problems that arise through access to results from one or a small number of studies at a time.  I wonder if it is not possible to make an evidence-based case that computer-aided knowledge extraction from the literature is less efficient than it could be due to access restrictions generally and text-mining restrictions specifically.  
+
+Then, to the extent that more efficient scientific discovery leads to improved human welfare, it is reasonable to go one step further and make the case that open access is one possible means of improving health-care, global stewardship, efficient allocation of R&D funds, and other public policy objectives.  
+
+It would only get political, in my book, when you start to assign relative *value* to that benefit compared to the benefits of toll-access and restrictions on text-mining. 
+
+But if we consider the case solely on the grounds of the efficiency of scientific discovery, then the data-informed approach to this policy would be to also consider to what extent changing the way publishers currently fund and restrict access to journals would have unintended negative effects on knowledge discovery (and dissemination) in the public interest.
+
+An apolitical weighing of evidence of this nature seems to be within reach, even if precisely quantifying the net overall improvement in healthcare outcomes, etc, from OA to the currently closed literature would be tremendously difficult. 
+
+Todd
+
+From tom.moritz at gmail.com  Mon Oct 31 23:46:10 2011
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Tue, 1 Nov 2011 01:46:10 +0200
+Subject: [open-science] Rhetoric and evidence ? [Article in the Economist:
+	"Not so smart now"]
+Message-ID: <CAGaH0=3VMb5f4gSdKgtyjncsXRaWQkuoSFxANi_OadPocHyn1A@mail.gmail.com>
+
+Economist review of "Human decision-making: Not so smart now" The father of
+behavioural economics considers the feeble human brain [Oct 29th 2011]
+Review of *Thinking, Fast and Slow.* By Daniel Kahneman. *Farrar, Straus &
+Giroux; 352 pages; $30. Allen Lane; ?25.*
+
+The review reads:   *"He also shows that it is more threatening to say that
+a disease kills
+'1,286 in every 10,000 people?, than to say it kills ?24.14% of the
+population',
+even though the second mention is twice as deadly. Vivid language often
+overrides basic arithmetic."
+
+*A propos our recent consideration of the distinction between the
+"political" ("rhetorical"?) and "scientific" statements.
+I wonder to what degree rhetoric impacts the presentation and acceptance of
+scientific results?
+
+Seems our most fundamental problem is firm grounding in evidence [data] --
+as defined by logical validity with respect
+to well-formed hypotheses?
+
+Tom
+
+
+
+
+
+
+
+
+*Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell) [GMT -8]
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz*
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+Heraclitus *
+"It is . . . easy to be certain. One has only to be sufficiently vague." --
+C.S. Peirce  *
+*"Kathambhutassa me rattindiva vitipatanti" (?The days and nights are
+relentlessly passing; how well am I spending my time??) -- *"Ten Subjects
+for Frequent Recollection by One Who Has Gone Forth"*
+*"Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus happy.")
+-- Camus*
+
+     Please consider the environment before printing this e-mail
+
+
+
+
+
+On Sat, Oct 29, 2011 at 1:50 AM, Jenny Molloy <jcmcoppice12 at gmail.com>wrote:
+
+> Thanks very much Alma. I notice the author advocates the following:
+>
+> *"If every single biomedical research article were made freely available
+> and published under a Creative Commons license, all articles could be
+> collected together in a single open access information space. The
+> literature could then be seamlessly integrated with important databases,
+> such as gene or protein databases, and it could be more easily searched and
+> mined. The result would be the discovery of new scientific medical
+> knowledge. We now have machines that can scan research papers and find
+> linkages among them that no human could have discovered...For this to
+> happen, however, papers must be held in an open access repository and not
+> remain hidden behind publishers? authentication systems.?88"<http://www.hhrjournal.org/index.php/hhr/article/viewArticle/20/88#refs9>
+> *
+> ORRs aim to provide that single space for the currently available
+> literature on a particular disease and eventually semantic tools which
+> could allow the kind of searches mentioned above. They won't get there for
+> a while, but you've got to start somewhere.
+>
+> In addition to the other replies I thought I should also try to address
+> Pawel's request for data and hard evidence on the idea that open access
+> saves lives, but as you'll see below it's difficult and most organisations
+> including those quoted by Brian and Alma use testimonials/anecdotal
+> evidence as their main source of support in this.
+>
+> Peter's assertion is similar to that made by Healthcare Information For
+> all (HIFA2015 http://www.hifa2015.org/ ) whose website leads with 'People
+> are dying for lack of knowledge'. This campaign has a community of over
+> 1800 healthcare organisations (many national/worldwide medical bodies
+> including the British Medical Association, Cochrane Collaboration, WHO
+> African Regional Office Library - full list here
+> http://www.hifa2015.org/support/#supporting-organisations) that are happy
+> to endorse the message, although they also admit that there is a lack of
+> data to substantiate and quantify that claim:
+> "A challenge to advocacy is the limited availability of hard evidence such
+> as case studies and other data demonstrating in quantitative terms the
+> difference that the effective provision of healthcare information can make
+> to health outcomes, quality of care, training or other relevant result"
+> (pg.43
+>
+> http://www.hifa2015.org/wp-content/uploads/HIFA2015-Evaluation-Report-Final.pdf
+>  )
+>
+> HIFA focus on information provision at all levels, not just access to the
+> primary literature, but the testimonials on their website and personal
+> correspondence between those involved in ORRs and the HIFA2015 Coordinator
+> Dr Neil Pakenham Walsh indicate that a major element of the global
+> healthcare knowledge system is increasing the availability and usability of
+> primary research.
+>
+> A review on the information needs of healthcare workers in developing
+> countries http://www.human-resources-health.com/content/7/1/30 references
+> a study:
+> To test the hypothesis that there was variation between and within
+> developing countries in the proposed management of a patient with hospital
+> acquired pneumonia, and that part of the variation can be explained by the
+> sources of evidence used (
+> http://www.jclinepi.com/article/S0895-4356(99)00231-0/abstract)
+> Which I suspect is the kind of evidence you would like to see, but seems
+> to be one of the only studies of its kind. The abstract concludes "Textbooks
+> were the commonest form of information source, and access to a library,
+> textbooks and journals were statistically significantly associated with
+> appropriate choice of investigations, but not treatment. Access to local
+> antibiotic sensitivities was associated with appropriate initial treatment
+> choice. Improving access to information in the literature and to local data
+> may increase the practice of evidence-based medicine in the developing
+> world."
+> Not the strongest support but it's the only peer reviewed publication I
+> could find addressing a question of that sort.
+>
+> Although we are focusing on open primary research literature and expert
+> annotation/summaries of the most highly cited papers via the web form
+> generated by David Shotton and Tanya Gray, the next stage would involve
+> annotation by the broader health community that would meet the needs of
+> specific user groups, including lay summaries and possibly translations
+> (which Pawel says would have impact  -
+> http://www.pawelszczesny.org/2011/10/25/open-access-means-people-die/).
+> ORRs aim to give a framework around which additional layers of
+> functionality can be added while maximising the discoverability and
+> usability of the content by ensuring that the base is machine readable and
+> semantically searchable . How this knowledge becomes accessible to
+> healthcare workers as open educational resources, particularly those
+> without access to computers and the internet is a considerable challenge,
+> but the primary targets in developing countries would be doctors,
+> researchers and students in the first instance for whom the primary
+> literature is a direct educational resource.
+>
+> This is very wrong. Majority of maternal mortality rate in Bangladesh
+>> (see your last slide) is attributed to child marriage, lack of female
+>> education and lack of skilled birth attendants. Access to scholarly
+>> literature is absolutely irrelevant in such case. You'd need to
+>> improve the standard of living and the quality of education first.
+>>
+>
+> You are absolutely right that it is not an underlying cause of the
+> majority of maternal mortality, but the quality of medical education is
+> vital in ensuring that correct maternal care is provided where skilled
+> birth attendants are available, which includes access to up to date
+> techniques and information, at least to those training midwives and birth
+> attendants.
+>
+> Again, there is no hard evidence to be had on this but comments from the
+> HIFA network include
+> ?There is lack of a system to update nurses/midwives in private and public
+> practice about the development in Maternal and Child Health were by when
+> challenged are not in position to clarify and support safe motherhood. (No
+> access to technology, refresher courses, literature, support supervision of
+> their facilities etc)?
+> David Muwonge, Uganda (October 2008 - Registered nurse, working with
+> Naminya community outreach and nursing home)
+>
+> There is also a lack of access to literature for medical students, who
+> thus may be entering practise with information from out of date text books:
+>
+> http://www.hifa2015.org/knowledge-base/healthcare-providers/information-needs-of-health-students-in-low-income-countries/
+>
+> ORRs aren't aiming to address any of these wider problems, but may offer a
+> resource to reach people who can disseminate that knowledge to primary
+> healthcare workers who may not have or desire access to primary papers (we
+> are aware that translation from academic literature to practice is a huge
+> barrier to the potential effectiveness of increased access but HINARI gives
+> a good example with Hepatitis E "The key outreach is done by the Uganda
+> Gastroenterology Society...It gathers information from HINARI and transmits
+> it to the country through radios, healthcare workers and any person who
+> handles blood as they are most exposed to the virus."
+> http://www.research4life.org/casestudies_4_aids.html ). While the
+> healthcare use case has many challenges that must be overcome,
+> availablility of primary literature to researchers has more immediate
+> benefits. Barbara Aronson addresses the issue well:
+>
+> "Will improved online access have an effect on health in low-income
+> countries? It is probably impossible to show a direct connection either
+> between the lack of access to information and poor health or between
+> improved access to information and improved health. There are many other
+> reasons why health in these countries is poor and will not improve quickly.
+> These include poor health services infrastructure, poor nutrition, lack of
+> clean water, and poor sanitation, as well as war, drought, and political
+> corruption. Most global health and medical research remains focused on the
+> problems of wealthy nations. But low-income countries also have medical
+> schools and universities. They have researchers and research institutes
+> that carry out essential work on local problems and government offices that
+> try to set effective policies. Warren Stevens of the Medical Research
+> Council Laboratories in the Gambia has noted that intellectual isolation
+> represents an important hindrance to the development of world-class
+> researchers in African countries. Access to timely, relevant, high-quality
+> scientific information represents a substantial gain for the researchers,
+> students, teachers, and policymakers in low-income countries. Can this be
+> called anything but progress?"
+> Improving Online Access to Medical Information for Low-Income Countries, Barbara
+> Aronson, N Engl J Med 2004; 350:966-968
+>
+> Although it can't be concretely backed up with data, the idea that open
+> access saves lives is not confined to HIFA, As Brian Glanz pointed out -
+> quotes to that effect are not hard to find:
+> HINARI has collected case studies of the impact that free access has on
+> healthcare and devlopment and 'saving lives', 'improving quality of life'
+> are mentioned multiple times:
+> http://www.research4life.org/casestudies_2_diarrhea.html (Educating
+> people in good hygiene practise)
+> http://www.research4life.org/casestudies_4_aids.html (Prescribing correct
+> antiretrovirals and monitoring)
+> http://www.research4life.org/casestudies_1_watersheds.html (Developing
+> filters and storage systems for drinking water)
+> During our talk, Peter explained why he feels 'free' is not sufficient and
+> open access is better, but easy access at all is the point
+>
+> SOROS Open Society Institute had in it's 2006 Annual Report the article:
+> Open Access to Scientific Research?Sharing Information, Saving Lives
+> They also have case studies of harmful medical decisions being made due to
+> lack of access to the full text medical literature
+>
+> http://www.soros.org/initiatives/information/focus/access/articles_publications/articles/openaccess_20070419
+>
+> Virginia Barbour, Chief Editor of PLoS Medicine states of Springers
+> decision to offer free access to E.coli research during the recent outbreak
+> in Europe:
+> "Springer knows how important open-access publication is - they own Biomed
+> Central, a large group of open-access journals. By acknowledging that open
+> access to the literature can save perhaps 10s or 100s of lives in this
+> outbreak, they surely can't deny that opening access to the entire medical
+> and scientific literature has the potential to save many millions of lives."
+> (HIFA forum - 3 Jun Press release: Springer offers free access to research
+> articles on E. coli bacteria
+>
+> http://dgroups.org/ViewDiscussion.aspx?c=e95b885f-14b0-4452-a819-06cf188ee6b0&i=38f192cf-bd2e-4afb-8710-620a538dfb1e
+> )
+>
+> Therefore, I'm not sure the general message that open access to biomedical
+> literature can save lives, and conversely a lack of it can cause
+> preventable deaths through incorrect or outdated treatment is that radical
+> within the global health community.
+>
+> From: Pawe? Szcz?sny <ps at pawelszczesny.org>
+> Date: 2011/10/27
+> >OA (understood as open access to primary literature) is very
+> >important, especially in developing countries, but if there's no
+> >healthcare infrastructure to apply the cutting-edge knowledge, OA
+> >becomes almost irrelevant in the healthcare (while being crucial in
+> >research).
+>
+> As above, there is an intersection in health research addressing local
+> problems, which one would think could lead to better local policy and
+> improved healthcare, although again there is no data to offer. I'm glad
+> you brought up the lack of evidence and that others on the list have joined
+> in the discussion of how relevant open access is to developing countries,
+> hopefully this will be the focus of more research in the near future.
+>
+> From: Pawe? Szcz?sny <ps at pawelszczesny.org>
+> Date: 2011/10/27
+>
+> >I can supply the same amount of anecdotal evidence showing how access
+> >to information is harfmul in case of patients, starting from effects
+> >of Wakefield's MMR paper and ending with plenty of stories from local
+> >doctors.
+>
+> Leaving aside developing countries as a use case for ORRs, patient
+> advocates who have been consulted on ORRs believe Peter's statement to be
+> the case for some diseases in the developed world. There are no doubt
+> also anecdotal examples of the opposite, and a separate debate would be the
+> scientific literacy of the general population and their ability to
+> interpret the literature, but misinformation and poor science reporting by
+> the media is far more dangerous than access to the primary literature,
+> which would at least give those with the inclination a chance to check the
+> facts and the place of findings within the broader field of study. In the
+> case of MMR, the paper was closed access and not a single study I've seen
+> suggests that parents based decisions on anything in the scientific
+> literature, they were listening to the media and, where they trusted them,
+> healthcare professionals. This would have been the case regardless of the
+> open or closed nature of the publication - the vast majority of the
+> population will not access the primary literature even if openly available
+> - but the fact remains that some people want to, can make good use of it
+> and there are cases where they have, which as Peter mentions he will try to
+> compile with the help of patient groups.
+>
+> I appreciate your point about the nature of anecdotal evidence, but in the
+> cases supporting the idea that open access can save lives, there is a
+> direct link between access to the primary literature and changes in
+> clinical decisions/treatment being beneficial, or closed access being
+> harmful e.g. changing practices innappropriately due to only having access
+> to an abstract as in Alma's source http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+> . <http://www.hhrjournal.org/index.php/hhr/article/view/20/88>I'd be
+> interested to know if the evidence from doctors that you mention is
+> patients making harmful decisions due to information from the media/quack
+> websites/other sources of information (as was the case with MMR) or
+> directly from the literature.
+>
+> Sorry this ended up being so long, it's been a useful exercise :)
+>
+> Jenny
+>
+> PS BioMedCentral ran their Open Access Africa Conference this week (
+> http://www.biomedcentral.com/developingcountries/events/openaccessafrica/program)
+> and while the talks aren't up yet, the following could be interesting:
+>
+> *Importance of open access to case reports:*
+>
+> Joseph Ana, Mentor of BMJ West Africa edition, Nigeria
+>
+> *Open access: Meeting the cardiovascular disease information needs of
+> health professionals*
+>
+> Dr. Collins Kokuro, Associate Director, Ashanti-ProCor Project and
+> Specialist Physician, Dept. of Internal Medicine, Komfo Anokye Teaching
+> Hospital, Kumasi, Ghana
+>
+> *Access to research and information for health workers*
+>
+> Victoria Kimotho, AMREF, Kenya
+>
+>
+>
+> On Fri, Oct 28, 2011 at 5:29 AM, Alma Swan <a.p.swan at talk21.com> wrote:
+>
+>>  A substantiated example of how lack of access can have a profound
+>> effect is related here:
+>> http://www.hhrjournal.org/index.php/hhr/article/view/20/88
+>>
+>> Alma
+>>
+>>
+>>
+>>
+>> On 27/10/2011 18:42, "Peter Murray-Rust" <pm286 at cam.ac.uk> wrote:
+>>
+>>
+>>
+>> On Thu, Oct 27, 2011 at 5:55 PM, Heather Morrison <hgmorris at sfu.ca>
+>> wrote:
+>>
+>> To help people make the connection between open access and saving lives
+>> in the developing, would it help:
+>>
+>> -       to briefly mention Open Education? perhaps the UNESCO initiative?
+>> This related initiative addresses the question of facilitating basic
+>> education quite directly.
+>>
+>> http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/
+>>
+>> -       to speak to south to south and south to north knowledge
+>> dissemination? Leslie Chan is one of the experts here, perhaps he can
+>> provide some specifics. In brief, as long as the focus is on the knowledge
+>> production of the developed world, the needs of the developing world are
+>> likely to be short-changed. Lots of research on obesity, little on
+>> malnutrition or how to manage food security with little or no $ to work
+>> with.
+>>
+>> This is great Heather,
+>>
+>> There is actually an immediate urgency (which has suddenly arisen) _
+>> Jenny and I and other have to make a video within 24 hours. (Of course
+>> that's not the end of the story). We want to bolt together clips from OSS
+>> video with bits of Graham Steel presenting patientsLikeMe and Leslie's clip
+>> that Iryna posted. The video will be 5 mins long and present particularly
+>> what I and OKF can do NOW so there is a concentration on the December
+>> Hackathon. I'll explain the context later.
+>>
+>> P.
+>>
+>> my two bits,
+>>
+>> Heather Morrison
+>> Doctoral Candidate, Simon Fraser University School of Communication
+>> http://pages.cmns.sfu.ca/heather-morrison/
+>> hgmorris at sfu.ca
+>>
+>> On 2011-10-27, at 9:37 AM, Peter Murray-Rust wrote:
+>>
+>> >
+>> >
+>> > 2011/10/27 Iryna Kuchma <iryna.kuchma at eifl.net>
+>> > If we are talking about open access to scholarly publications please
+>> believe me that people in universities and research institutions in
+>> developing countries do have computers and internet. this is one of the
+>> examples of a Kenyan researcher speaking about open access: Prof. Mary
+>> Abukutsa-Onyango discusses the importance of open access for research from
+>> Kenya and other African countries (http://vimeo.com/10169351) and I can
+>> share more evidences like this.
+>> >
+>> > Many thanks for this. The video is exactly what Jenny and I need for a
+>> clip. It's no coincidence that it was created by Leslie Chan who is one of
+>> the group of us who dreamt up Open Research Reports.
+>> >
+>> > Yes, OA is absolutely critical.
+>> >
+>> > Best wishes,
+>> > Iryna Kuchma
+>> > EIFL Open Access programme manager
+>> > www.eifl.net <http://www.eifl.net>
+>> >
+>> >
+>> >
+>> >
+>> > --
+>> > Peter Murray-Rust
+>> > Reader in Molecular Informatics
+>> > Unilever Centre, Dep. Of Chemistry
+>> > University of Cambridge
+>> > CB2 1EW, UK
+>> > +44-1223-763069 <tel:%2B44-1223-763069>
+>> > _______________________________________________
+>> > open-science mailing list
+>> > open-science at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111101/7110a725/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 278 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20111101/7110a725/attachment-0001.gif>
+

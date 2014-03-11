@@ -1,0 +1,373 @@
+From adrian.pohl at okfn.org  Fri Aug  2 10:34:56 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 2 Aug 2013 11:34:56 +0200
+Subject: [open-bibliography] This month's virtual meeting
+Message-ID: <CAOtd05GGuUMK42s5oXjWA1QZyvMLBZRF_2OEbfWbbMCr+3OObQ@mail.gmail.com>
+
+I will be on holidays next week so that there won't be a virtual
+meeting. I propose skipping the meeting completely this month and meet
+again on September 3rd.
+
+If anybody has something exciting to share this month we might as well
+meet on August 13th...
+
+- Adrian
+
+
+From adrian.pohl at okfn.org  Mon Aug 19 08:34:17 2013
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 19 Aug 2013 09:34:17 +0200
+Subject: [open-bibliography] Wikimedia project for creating open
+	bibliographic data
+Message-ID: <CAOtd05HCPh_CH7i2GF_z9TOFtryt7zEmjnB8rdtwoP4p0Bf-cw@mail.gmail.com>
+
+Hello,
+
+Wikimedia started an interesting project to promote the creation of
+open bibliographic data: the "Massively-Multiplayer Online
+Bibliography (MMOB)" [1].
+
+Here's the summary from the wikipage:
+
+"Massively-Multiplayer Online Bibliography (MMOB) is the name for a
+series of crowdsourcing projects to perform significant feats of
+online bibliography in a fun, collaborative, and principled way, that
+would be useful to everyone and acceptable to professionals. It will
+rely on volunteer labor, free software, and open Web standards."
+
+I guess, there are some people on this list who are interested in
+participating. So, just sign up on the wikipage.
+
+- Adrian
+
+P.S.: I will ask Asaf Bartov [2] - who apparently started this - if
+he'd like to give some more information about the projects on
+openbiblio.net.
+
+[1] https://meta.wikimedia.org/wiki/Massively-Multiplayer_Online_Bibliography
+[2] https://meta.wikimedia.org/wiki/User:Ijon
+
+
+From asaf.bartov at gmail.com  Tue Aug 20 22:49:08 2013
+From: asaf.bartov at gmail.com (Asaf Bartov)
+Date: Tue, 20 Aug 2013 14:49:08 -0700
+Subject: [open-bibliography] Wikimedia project for creating open
+ bibliographic data
+In-Reply-To: <CAOtd05HCPh_CH7i2GF_z9TOFtryt7zEmjnB8rdtwoP4p0Bf-cw@mail.gmail.com>
+References: <CAOtd05HCPh_CH7i2GF_z9TOFtryt7zEmjnB8rdtwoP4p0Bf-cw@mail.gmail.com>
+Message-ID: <CADyP4s6pig7VkVEU7GahVbC8D82T0n0sgz5FrmeUVcLc6gLfPQ@mail.gmail.com>
+
+Hi, everyone.
+
+First of all, an important clarification: While I work for the Wikimedia
+Foundation, this is _not_ a Foundation, or even a Wikimedia, initiative.  I
+just put up that page on the Wikimedia Meta-wiki as a natural brainstorming
+space, and because I am personally a longtime Wikimedia volunteer and think
+the Wikimedia community is a natural community to take part, but this is
+(so far!) only a personal initiative, in my capacity as library metadata
+geek, hacker, and digital librarian (all volunteer roles).
+
+I do hope lots of Wikimedians and others join, and the sign-ups on the wiki
+page[1] so far are inspiring!  Thank you! :)
+
+Since this was posted, I have elaborated the proposal a bit (still on the
+same wiki page) and added a concrete example, and have also answered some
+questions on the "Discussion" page behind it[2].  Please do take a(nother)
+look!
+
+I would be delighted to discuss collaboration with absolutely anyone
+working on open bibliography compatible with my basic terms (primarily
+volunteer labor, free software, open Web standards).  I'd like to
+centralize discussion though, so if at all possible, let's keep refining
+the idea on the Meta page[1] and discussion on its talk page[2].  If for
+some reason you find you can't contribute there, go ahead and contribute on
+this list.  I'd appreciate an explicit CC to ensure I see this, as I handle
+huge amounts of e-mail.
+
+Thanks,
+
+   Asaf
+
+[1]
+https://meta.wikimedia.org/wiki/Massively-Multiplayer_Online_Bibliography
+[2]
+https://meta.wikimedia.org/wiki/Talk:Massively-Multiplayer_Online_Bibliography
+
+
+On Mon, Aug 19, 2013 at 12:34 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> Wikimedia started an interesting project to promote the creation of
+> open bibliographic data: the "Massively-Multiplayer Online
+> Bibliography (MMOB)" [1].
+>
+> Here's the summary from the wikipage:
+>
+> "Massively-Multiplayer Online Bibliography (MMOB) is the name for a
+> series of crowdsourcing projects to perform significant feats of
+> online bibliography in a fun, collaborative, and principled way, that
+> would be useful to everyone and acceptable to professionals. It will
+> rely on volunteer labor, free software, and open Web standards."
+>
+> I guess, there are some people on this list who are interested in
+> participating. So, just sign up on the wikipage.
+>
+> - Adrian
+>
+> P.S.: I will ask Asaf Bartov [2] - who apparently started this - if
+> he'd like to give some more information about the projects on
+> openbiblio.net.
+>
+> [1]
+> https://meta.wikimedia.org/wiki/Massively-Multiplayer_Online_Bibliography
+> [2] https://meta.wikimedia.org/wiki/User:Ijon
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-bibliography
+>
+
+
+
+-- 
+Asaf Bartov <asaf.bartov at gmail.com>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130820/128b4b3a/attachment.htm>
+
+From announce at dublincore.net  Wed Aug 21 13:06:52 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Wed, 21 Aug 2013 05:06:52 -0700
+Subject: [open-bibliography] NISO/DCMI Webinar: Implementing Linked Data in
+ Developing Countries and Low-Resource Conditions
+Message-ID: <CAP884EwLauSJQ4QkFp+hGGbMPWy+QXJHLKCfopONGtm9TrA+bA@mail.gmail.com>
+
+***Please excuse the cross-posting***
+
+===============================================================
+NISO/DCMI Webinar: Implementing Linked Data in Developing Countries and
+Low-Resource Conditions
+PRESENTER: Johannes Keizer & Caterina Caracciolo
+
+DATE: September 25, 2013
+TIME: 1:00pm - 2:30pm Eastern (17:00-18:30 UTC) World Clock:
+http://bit.ly/18LAQwh
+INFORMATION & REGISTRATION:
+http://www.niso.org/news/events/2013/dcmi/developing/
+===============================================================
+
+ABOUT THE WEBINAR:
+
+Open data is a crucial prerequisite for inventing and disseminating the
+innovative practices needed for agricultural development. To be usable,
+data must not just be open in principle -- i.e., covered by licenses that
+allow re-use. Data must also be published in a technical form that allows
+it to be integrated into a wide range of applications.
+
+This webinar describes the technical solutions adopted by a widely diverse
+global network of agricultural research institutes for publishing research
+results. The talk focuses on AGRIS, a central and widely-used resource
+linking agricultural datasets for easy consumption, and AgriDrupal, an
+adaptation of the popular, open-source content management system Drupal
+optimized for producing and consuming linked datasets.
+
+Agricultural research institutes in developing countries share many of the
+constraints faced by libraries and other documentation centers, and not
+just in developing countries: institutions are expected to expose their
+information on the Web in a re-usable form with shoestring budgets and with
+technical staff working in local languages and continually lured by
+higher-paying work in the private sector. Technical solutions must be easy
+to adopt and freely available. The webinar will be of interest to any
+institution seeking ways to publish and curate data in the Linked Data
+cloud.
+
+ABOUT THE SPEAKERS:
+
+Johannes Keizer has worked for the Food and Agriculture Organization of the
+United Nations (FAO) since 1998, primarily as head of the FAO documentation
+group. The bibliographic database AGRIS and the multilingual concept scheme
+AGROVOC were completely remodeled under his leadership. In the Office of
+Knowledge Exchange, Research and Extensions, he heads a staff of 20 -- the
+AIMS (Agricultural Information Management Standards and Services) team --
+which provides standards, tools, and advice for FAO stakeholders. The AIMS
+Team provides the technical backbone for the global Coherence in
+Information forAgricultural Research for Development (CIARD) Initiative.
+Through EC framework projects such as NeON, D2Science, and agINFRA, the
+AIMS Team has channeled the results of innovative European research into
+the international work of FAO to combat hunger and poverty in the world.
+
+Caterina Caracciolo is senior information specialist at the FAO. After
+working at the National Council of Research (CNR) in Pisa, she joined FAO
+in 2006. Since then, she has worked on various aspects related to
+information management and sharing, with special focus on metadata. She is
+currently involved in the SemaGrow project and part of the AGROVOC
+management team at FAO. She holds a PhD in Computer Science from the
+University of Amsterdam.
+
+REGISTRATION:
+
+Registration is per site (access for one computer) and closes at 12:00 pm
+Eastern (16:00 UTC) on September 25, 2013. Discounts are available for NISO
+and DCMI members and students.
+
+NISO/DCMI are holding six joint webinars in 2013. Register for three and
+receive the 4th for free.
+
+For more information and to register, visit the event webpage:
+http://www.niso.org/news/events/2013/dcmi/developing/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130821/9448fe8c/attachment.htm>
+
+From announce at dublincore.net  Tue Aug 27 16:59:16 2013
+From: announce at dublincore.net (DCMI Announce)
+Date: Tue, 27 Aug 2013 08:59:16 -0700
+Subject: [open-bibliography] Cyber-infrastructure and Metadata Protocols:
+	CAMP-4-Data Workshop
+Message-ID: <CAP884EwDgHwPSoJGP9E1SsfqWnNiS9KMSTX7ddyHk3A7rLc=4w@mail.gmail.com>
+
+Cyber-infrastructure and Metadata Protocols: CAMP-4-Data Workshop
+
+(A Dublin Core-Science and Metadata (DC-SAM) Community/Research Data
+Alliance (RDA) Workshop).
+
+========================
+--WHEN/WHERE:  6 September 2013 @ DC-2013 in Lisbon, Portugal, 9:00-18:00
+--WORKSHOP URL:
+http://dcevents.dublincore.org/IntConf/index/pages/view/camp-4-data
+--AGENDA ONLINE:
+http://wiki.dublincore.org/index.php/DC_2013_SAM_Science_and_Metadata_CAMP_4_DATA_AGENDA
+--DC-2013 URL: http://purl.org/dcevents/dc2013
+========================
+
+**Registration required; you do not need to be presenting a paper or talk
+to participate.
+
+==(REGISTRATION - 8:00-9:00)==
+
+==INTRODUCTION==
+*9:00-9:30 - Welcome, workshop goals, logistics; participant
+introductions/Jane Greenberg/all
+
+*9:30-9:45 - The Metadata Zoo/Rebecca Koskela
+
+*9:45-10:00 - DCC Scheme Directory/Alex Ball
+
+==INFRASTRUCTURE MODELS AND FRAMEWORKS==
+*10:00-10:15 - A 3-Layer Model for Metadata/Keith Jeffery, Anne Asserson,
+Nikos Houssos and Brigitte Joerg
+
+*10:15-10:30 - Cross-Domain Metadata Interoperability: Lessons Learnt in
+INSPIRE
+Andrea Perego, Michael Lutz, Max Craglia and Silvia Dalla Costa
+
+==USAGE AND TRACKING==
+*10:30-10:45 - Usage data for metadata properties to support open data
+registries and semantic wikis/Muriel Foulonneau, S?bastien Martin, Jacques
+Ducloy, Thierry Daunois and Slim Turki
+
+*10:45-11:00 - Provenance Central: More Mileage from Provenance
+Metadata/Bertram Ludaescher and Paolo Missier
+
+==(BREAK - 11:00-11:30)==
+
+==PID (PERSISTENT IDENTIFIERS)==
+*11:30-11:45 - Persistent Identifiers for Terms in a Crowd-Sourced
+Vocabulary/John Kunze, Greg Janee, Christopher Patton
+
+*11:45-12:00 - Separation of Concerns: PID Information Types and Domain
+Metadata/Tobias Weigel and Timothy Dilauro
+
+==APPLICATIONS==
+*12:00-12:15 - Ontology-Enabled Metadata Schema Generator: The Design
+Approach/Jian Qin, Xiaozhong Liu and Miao Chen
+
+*12:15-12:30 - Metadictionary: Advocating for a Community-driven Metadata
+Vocabulary Application/ Jane Greenberg, Angela Murillo, John Kunze, Sarah
+Callahan, Robert Guralnick, Greg Janee, Nassib Nassar, Christopher Patton,
+and Karthik Ram
+
+*12:30-12:40 - CLEPSYDRA Data Aggregation and Enrichment Framework/Cezary
+Mazurek, Marcin Mielnicki, Aleksandra Nowak, Krzysztof Sielski, Maciej
+Stroinski, Marcin Werla and Jan Wglarz
+
+*12:40-12:50 - RUresearch - Open Source Metadata Application Profile and
+Research Object Handling for Research Data/Grace Agnew and Mary Beth Weber
+
+*12:50-13:00 - Open discussion, setting the afternoon agenda; Brief remarks
+about RDA-3rd Plenary/Sandra Collins
+
+==(LUNCH - 13:00-14:30)==
+
+==BREAKOUT GROUPS==
+
+*14:30-14:40 - Overview of discussion topics
+
+*14:40-15:10 - Breakout groups, Session 1: Infrastructure and design,
+policy, human and social aspects.
+
+*15:10-15:40 - Breakout groups, Session 2 (topic rotation from session 1).
+
+*15:40-16:00 - Report back from breakout groups.
+
+==(BREAK - 16:00-16:30)==
+
+==BREAKOUT GROUPS/WORKSHOP WRAP-UP==
+*16:30-16:45 - Delegates propose/vote on 'special' topics.
+
+*16:45-17:15 - Self-selected groups discuss a topic each.
+
+*17:15-17:50 - Report back from each group; discussion of possible action
+points.
+
+*17:50-18:00 - Closing remarks.
+
+==WORKSHOP ADJOURNED:  18:00==
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20130827/db4e7089/attachment.htm>
+
+From pohl at hbz-nrw.de  Fri Aug 30 10:25:11 2013
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Fri, 30 Aug 2013 11:25:11 +0200
+Subject: [open-bibliography] SWIB13 - Registration Open (Semantic Web in
+ Libraries, Hamburg, 25 - 27 Nov)
+Message-ID: <522081170200001400051F86@agrippa.hbz-nrw.de>
+
+I am happy to invite you to this year's SWIB (Semantic Web in Libraries) conference in Hamburg, 25 - 27 November 2013.
+
+Take a look at the programme for SWIB 13 here: http://swib.org/swib13/programme.php.
+
+You can register for the conference at http://swib.org/swib13/general_information.php.
+
+Further information and contact:
+
+Joachim Neubert
+German National Library of Economics
+Leibniz Information Centre for Economics (ZBW)
+Phone +49 40 428 34-462
+E-Mail: j.neubert(at) zbw.eu
+
+Adrian Pohl
+North Rhine-Westphalian Library Service Center (hbz)
+Phone +49 221 400 75-235
+E-Mail: swib(at)hbz-nrw.de
+
+Website:
+http://swib.org/swib13 
+
+Twitter:
+http://twitter.com/swibcon
+
+Twitter Hashtag:
+#swib13
+
+Looking forward to meeting you in Hamburg,
+Adrian
+
+
+
+

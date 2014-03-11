@@ -1,0 +1,1002 @@
+From stuart.macdonald at ed.ac.uk  Thu May 13 10:56:45 2010
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Thu, 13 May 2010 10:56:45 +0100
+Subject: [open-science] Open Knowledge Scotland - 13 May 3pm
+Message-ID: <4BEBCCDD.9020100@ed.ac.uk>
+
+Anyone interested in the Open Knowledge Event to be held at Inspace at 
+the University of Edinburgh can follow twitters and live streaming via:
+http://www.ustream.tv/channel/open-knowledge-scotland
+
+Stuart Macdonald
+EDINA
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Thu May 13 14:49:37 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Thu, 13 May 2010 14:49:37 +0100
+Subject: [open-science] BioMed Central Open Data Award
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FB3F4@SEGBLOGR0008.springer-sbm.com>
+
+Dear all,
+
+ 
+
+In recognition of the fact that science publishing now goes beyond the
+traditional journal article, BioMed Central have teamed up with
+Microsoft Research <http://research.microsoft.com/en-us/>  and Panton
+Principles <http://pantonprinciples.org/>  to introduce the Open Data
+Award <http://www.biomedcentral.com/researchawards/otherawards/>  as
+part of BioMed Central's 4th Annual Research Awards
+<http://www.biomedcentral.com/researchawards/> .
+
+ 
+
+The Open Data Award celebrates researchers who have published in any of
+our 207 journals <http://www.biomedcentral.com/browse/journals/>  during
+2009 and have demonstrated leadership in the sharing, standardization,
+publication, or re-use of biomedical research data. The article should,
+either as an additional/supplementary file or via a link to a
+publicly-available dataset, enable the sharing and re-use of scientific
+data associated with a published article
+
+On the judging panel we are honoured to be joined by Peter Murray-Rust,
+Cameron Neylon, Rufus Pollock and John Wilbanks of Panton Principles
+along with Lee Dirks from Microsoft Research.
+
+
+The shortlist will be announced soon, but we are still receiving
+nominations. Please let me know if you would like to nominate an article
+or have any questions about this initiative.
+
+ 
+
+Best regards,
+
+ 
+
+Iain
+
+ 
+
+Iain Hrynaszkiewicz
+
+Managing Editor
+
+BioMed Central
+
+Floor 6, 236 Gray's Inn Road
+London, WC1X 8HL
+
+T: +44 (0)20 3192 2175
+F: +44 (0)20 3192 2011
+
+W: www.biomedcentral.com/
+
+
+Join the BioMed Central Authors and Editors group on LinkedIn:
+http://www.linkedin.com/groups?gid=2807240
+
+This group has been created to encourage conversation and information
+sharing among research professionals.
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100513/ac9cc028/attachment.htm>
+
+From egon.willighagen at gmail.com  Thu May 13 14:55:28 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Thu, 13 May 2010 15:55:28 +0200
+Subject: [open-science] BioMed Central Open Data Award
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FB3F4@SEGBLOGR0008.springer-sbm.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FB3F4@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <AANLkTimqxUDan61Uq3pItxUYpzd7cwNkcpY_EuerNSG4@mail.gmail.com>
+
+Dear Iain,
+
+On Thu, May 13, 2010 at 3:49 PM, Iain Hrynaszkiewicz
+> The shortlist will be announced soon, but we are still receiving
+> nominations. Please let me know if you would like to nominate an article or
+> have any questions about this initiative.
+
+Can you tell me more on how that shortlist is created? For example,
+will readers of those 270 journals be able to nominate authors?
+
+Looking forward to hearing from you,
+
+with kind regards,
+
+Egon
+
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From Iain.Hrynaszkiewicz at biomedcentral.com  Thu May 13 15:02:04 2010
+From: Iain.Hrynaszkiewicz at biomedcentral.com (Iain Hrynaszkiewicz)
+Date: Thu, 13 May 2010 15:02:04 +0100
+Subject: [open-science] BioMed Central Open Data Award
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FB3F4@SEGBLOGR0008.springer-sbm.com>
+	<AANLkTimqxUDan61Uq3pItxUYpzd7cwNkcpY_EuerNSG4@mail.gmail.com>
+Message-ID: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FB406@SEGBLOGR0008.springer-sbm.com>
+
+Dear Egon,
+
+Thanks for your interest. We have been surveying our external academic
+editors (Associate Editors and Editors-in-Chief) for nominations from
+their journals. We are also open to nominations from readers if
+supporting comments are provided.
+
+Best regards,
+
+Iain
+
+-----Original Message-----
+From: Egon Willighagen [mailto:egon.willighagen at gmail.com] 
+Sent: 13 May 2010 14:55
+To: Iain Hrynaszkiewicz
+Cc: open-science at lists.okfn.org
+Subject: Re: [open-science] BioMed Central Open Data Award
+
+Dear Iain,
+
+On Thu, May 13, 2010 at 3:49 PM, Iain Hrynaszkiewicz
+> The shortlist will be announced soon, but we are still receiving
+> nominations. Please let me know if you would like to nominate an
+article or
+> have any questions about this initiative.
+
+Can you tell me more on how that shortlist is created? For example,
+will readers of those 270 journals be able to nominate authors?
+
+Looking forward to hearing from you,
+
+with kind regards,
+
+Egon
+
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From pm286 at cam.ac.uk  Tue May 18 09:53:18 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 18 May 2010 09:53:18 +0100
+Subject: [open-science] Open Data logo for award trophy
+In-Reply-To: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FBB12@SEGBLOGR0008.springer-sbm.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FBB12@SEGBLOGR0008.springer-sbm.com>
+Message-ID: <AANLkTikp5jbGkb14HlJjFp6gQmPDI3HETFH_8Yb2MGcN@mail.gmail.com>
+
+Hi Bryan,
+I've copied in the OKF list - I am sure you'll get a reply soon.
+
+
+On Tue, May 18, 2010 at 9:08 AM, Bryan Vickery
+<Bryan.Vickery at biomedcentral.com> wrote:
+> Hi Peter,
+>
+>
+>
+we need to get hold of a higher resolution version of the blue ?open
+data? button than:
+button
+
+http://m.okfn.org/images/ok_buttons/od_80x15_blue.png
+
+>
+>
+>
+> Many thanks, Bryan
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+
+From digitalscholarship at gmail.com  Tue May 18 13:32:18 2010
+From: digitalscholarship at gmail.com (Charles W. Bailey, Jr.)
+Date: Tue, 18 May 2010 07:32:18 -0500
+Subject: [open-science] Digital Curation and Preservation Bibliography,
+	Version 1
+Message-ID: <4BF288D2.4070206@gmail.com>
+
+Version one of the Digital Curation and Preservation
+Bibliography is now available from Digital Scholarship.
+
+http://digital-scholarship.org/dcpb/dcpb.htm
+
+This bibliography presents over 360 selected
+English-language articles, books, and technical reports that
+are useful in understanding digital curation and
+preservation.
+
+Most sources have been published between 2000 and the
+present; however, a limited number of key sources published
+prior to 2000 are also included.  Where possible, links are
+provided to sources that are freely available on the
+Internet, including e-prints for published articles in
+disciplinary archives and institutional repositories.  Note
+that e-prints and published articles may not be identical.
+See the scope note for further details:
+
+http://digital-scholarship.org/dcpb/scope.htm
+
+The following recent Digital Scholarship publications may
+also be of interest:
+
+* Digital Scholarship 2009
+
+http://digital-scholarship.org/sepb/annual/ds2009.htm
+
+* Google Book Search Bibliography, Version 6
+
+http://digital-scholarship.org/gbsb/gbsb.htm
+
+* Institutional Repository Bibliography, Version 2
+
+http://digital-scholarship.org/irb/irb.html
+
+* Electronic Theses and Dissertations Bibliography, Version
+4
+
+http://digital-scholarship.org/etdb/etdb.htm
+
+-- 
+
+Best Regards,
+Charles
+
+Charles W. Bailey, Jr.
+Publisher, Digital Scholarship
+http://digital-scholarship.org/
+http://digital-scholarship.com/cwb/dschronology.htm
+
+
+From kanzure at gmail.com  Tue May 18 15:36:35 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Tue, 18 May 2010 09:36:35 -0500
+Subject: [open-science] Fwd: [BiO BB] Open science via bioinformatics
+	competitions
+In-Reply-To: <1274149459.2480.1536.camel@linux2>
+References: <1274149459.2480.1536.camel@linux2>
+Message-ID: <AANLkTinHbF7SmXXhz0PK7OIfmGKgu7yxuO_rLZyKC9im@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Anthony Goldbloom <anthony.goldbloom at kaggle.com>
+Date: Mon, May 17, 2010 at 9:24 PM
+Subject: [BiO BB] Open science via bioinformatics competitions
+To: bbb at bioinformatics.org
+
+
+For three weeks Kaggle, a platform for data prediction competitions, has
+been running a bioinformatics competition
+(http://kaggle.com/hivprogression). The competition requires competitors
+to pick markers in HIV's genetic sequence that predict a change in viral
+load.
+
+The results have been better than we could have hoped for. Within a week
+and a half, the best submission had already outdone the best methods in
+the literature. (This is particularly surprising when you consider that
+the prize is just $500 and the opportunity to co-author a paper with the
+competition host.) There's a short post about the results so far on the
+Kaggle blog
+(http://kaggle.com/blog/2010/05/13/are-competitions-the-future-of-research/).
+
+This early result suggests that Kaggle has hit on a great way to do open
+science. A contributing factor in the success of the Predict HIV
+Progression competition is the degree of cooperation on the
+competition's forum. Moreover, by hosting this competition, William has
+opened up his dataset to other scientists, giving them access to a
+problem they wouldn't otherwise know about.
+
+Kaggle doesn't control the results - their fate is up to the competition
+host. William is planning on open sourcing the winning method to the
+Predict HIV Progression competition.
+
+We want to repeat this feat so we are looking for others to open up
+their problems. If you are interested, please get in touch
+(anthony.goldbloom at kaggle.com).
+
+
+_______________________________________________
+BBB mailing list
+BBB at bioinformatics.org
+http://www.bioinformatics.org/mailman/listinfo/bbb
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+
+From rufus.pollock at okfn.org  Tue May 18 20:22:05 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 18 May 2010 20:22:05 +0100
+Subject: [open-science] Open Data logo for award trophy
+In-Reply-To: <AANLkTikp5jbGkb14HlJjFp6gQmPDI3HETFH_8Yb2MGcN@mail.gmail.com>
+References: <0DBF2BD4A4CE9B45B8A90A65CD8338EA027FBB12@SEGBLOGR0008.springer-sbm.com>
+	<AANLkTikp5jbGkb14HlJjFp6gQmPDI3HETFH_8Yb2MGcN@mail.gmail.com>
+Message-ID: <AANLkTimCqVVUXZ0oD-k9iYm0kfRQhqbSPaCfAnMS4EQs@mail.gmail.com>
+
+Dear Bryan,
+
+You can find svg versions of the buttons here:
+
+<http://m.okfn.org/images/ok_buttons/ok_buttons.svg>
+
+There is also a README.txt:
+
+<http://m.okfn.org/images/ok_buttons/README.txt>
+
+(Also available direct from the mercurial repo [1] in which this is stored)
+
+Hope this helps!
+
+BTW: if anyone out there wants to contribute buttons (different
+colours, designs etc) we'd love to include them (with appropriate
+credit!) -- just send an svg ...
+
+Rufus
+
+[1]: http://knowledgeforge.net/okfn/m-okfn-org
+
+On 18 May 2010 09:53, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> Hi Bryan,
+> I've copied in the OKF list - I am sure you'll get a reply soon.
+>
+>
+> On Tue, May 18, 2010 at 9:08 AM, Bryan Vickery
+> <Bryan.Vickery at biomedcentral.com> wrote:
+>> Hi Peter,
+>>
+>>
+>>
+> we need to get hold of a higher resolution version of the blue ?open
+> data? button than:
+> button
+>
+> http://m.okfn.org/images/ok_buttons/od_80x15_blue.png
+>
+>>
+>>
+>>
+>> Many thanks, Bryan
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From egon.willighagen at gmail.com  Fri May 21 10:09:23 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Fri, 21 May 2010 11:09:23 +0200
+Subject: [open-science] feedback on CKAN: voting broken?
+Message-ID: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com>
+
+Hi all,
+
+first my congratulations on the new release!
+
+I was browsing around a bit, fixing some details of some data sets,
+and noted that I could not vote... I get a message:
+
+"You don't have permission to access /package/rate/bodr on this server."
+
+Can this please be verified?
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From rufus.pollock at okfn.org  Fri May 21 10:18:02 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 21 May 2010 10:18:02 +0100
+Subject: [open-science] feedback on CKAN: voting broken?
+In-Reply-To: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com>
+References: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com>
+Message-ID: <AANLkTikqhbCwJB0EmKQnLAZ0zqRPk6W2wHNDr8aiUvkl@mail.gmail.com>
+
+On 21 May 2010 10:09, Egon Willighagen <egon.willighagen at gmail.com> wrote:
+> Hi all,
+>
+> first my congratulations on the new release!
+>
+> I was browsing around a bit, fixing some details of some data sets,
+> and noted that I could not vote... I get a message:
+>
+> "You don't have permission to access /package/rate/bodr on this server."
+>
+> Can this please be verified?
+
+Egon, we have temporarily had to shut off the rate functionality due
+to a bot problem (basically package/rate is currently allowing GET
+requests and the bot was not respecting nofollow and making a *lot* of
+requests per sec).
+
+We're looking to fix this problem but in the mean time we've
+re-enabled rating so please rate away ...
+
+Rufus
+
+
+From egon.willighagen at gmail.com  Fri May 21 10:29:24 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Fri, 21 May 2010 11:29:24 +0200
+Subject: [open-science] feedback on CKAN: voting broken?
+In-Reply-To: <AANLkTikqhbCwJB0EmKQnLAZ0zqRPk6W2wHNDr8aiUvkl@mail.gmail.com>
+References: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com> 
+	<AANLkTikqhbCwJB0EmKQnLAZ0zqRPk6W2wHNDr8aiUvkl@mail.gmail.com>
+Message-ID: <AANLkTilLZfNaJAvLq4mzxkLXDVkeFv4AnSRAMnIpQYOW@mail.gmail.com>
+
+On Fri, May 21, 2010 at 11:18 AM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+> We're looking to fix this problem but in the mean time we've
+> re-enabled rating so please rate away ...
+
+Thanx!
+
+BTW, where can I leave feature requests?
+
+Some things I am thinking about:
+
+* user based activity RSS feed (for FriendFeed)
+* RSS feeds for updates on packages for a certain tag
+* filter feeds based on license
+
+Perhaps this is too much as RSS as API? But it would be great to route
+all new and updated Open Data packages on chemistry to the matching FF
+group...
+
+Egon
+
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From rufus.pollock at okfn.org  Fri May 21 10:40:08 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 21 May 2010 10:40:08 +0100
+Subject: [open-science] feedback on CKAN: voting broken?
+In-Reply-To: <AANLkTilLZfNaJAvLq4mzxkLXDVkeFv4AnSRAMnIpQYOW@mail.gmail.com>
+References: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com>
+	<AANLkTikqhbCwJB0EmKQnLAZ0zqRPk6W2wHNDr8aiUvkl@mail.gmail.com>
+	<AANLkTilLZfNaJAvLq4mzxkLXDVkeFv4AnSRAMnIpQYOW@mail.gmail.com>
+Message-ID: <AANLkTilv4FwCn61ggxt8npcVQZZraxKh0WZg8etCakp0@mail.gmail.com>
+
+On 21 May 2010 10:29, Egon Willighagen <egon.willighagen at gmail.com> wrote:
+> On Fri, May 21, 2010 at 11:18 AM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>> We're looking to fix this problem but in the mean time we've
+>> re-enabled rating so please rate away ...
+>
+> Thanx!
+>
+> BTW, where can I leave feature requests?
+
+http://knowledgeforge.net/ckan/trac/newticket
+
+Should be able to create these w/o being logged in ...
+
+> Some things I am thinking about:
+>
+> * user based activity RSS feed (for FriendFeed)
+> * RSS feeds for updates on packages for a certain tag
+> * filter feeds based on license
+>
+> Perhaps this is too much as RSS as API? But it would be great to route
+> all new and updated Open Data packages on chemistry to the matching FF
+> group...
+
+All sensible requests. Please feel free to create tickets. I think
+most of these are new though I think group/tag feeds already have a
+ticket here (comment if not what you want):
+
+http://knowledgeforge.net/ckan/trac/ticket/272
+
+Rufus
+
+
+From egon.willighagen at gmail.com  Fri May 21 10:44:31 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Fri, 21 May 2010 11:44:31 +0200
+Subject: [open-science] feedback on CKAN: voting broken?
+In-Reply-To: <AANLkTilv4FwCn61ggxt8npcVQZZraxKh0WZg8etCakp0@mail.gmail.com>
+References: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com> 
+	<AANLkTikqhbCwJB0EmKQnLAZ0zqRPk6W2wHNDr8aiUvkl@mail.gmail.com> 
+	<AANLkTilLZfNaJAvLq4mzxkLXDVkeFv4AnSRAMnIpQYOW@mail.gmail.com> 
+	<AANLkTilv4FwCn61ggxt8npcVQZZraxKh0WZg8etCakp0@mail.gmail.com>
+Message-ID: <AANLkTimz6e0Ns_osz0zr7PZZMT3DWQuPAGbfIRwPjUU0@mail.gmail.com>
+
+On Fri, May 21, 2010 at 11:40 AM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>> BTW, where can I leave feature requests?
+>
+> http://knowledgeforge.net/ckan/trac/newticket
+
+OK, thanx!
+
+One last thing then: is there a SPARQL end point? I noticed the REST
+api [0] and saw the RDF output, but would very much prefer to use RDF
+for querying API... SPARQL would be most convenient then... otherwise,
+a way to download the full RDF dump of all data, so that I could run
+the SPARQL client side...
+
+Egon
+
+0.http://knowledgeforge.net/ckan/doc/ckan/api.html
+
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From egon.willighagen at gmail.com  Fri May 21 15:10:09 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Fri, 21 May 2010 16:10:09 +0200
+Subject: [open-science] remove duplicate entries on CKAN?
+Message-ID: <AANLkTimvDzVOQ8coZvWbkVIrog2clAsBDAlVSlAXOfeX@mail.gmail.com>
+
+Hi all,
+
+one more question about CKAN... I just updated some info on the LODD
+data, and then saw that there is actually a second entry for the same
+data:
+
+http://ckan.net/package/linking-open-drug-data
+http://ckan.net/package/lodd_group
+
+How does one merge two entries and remove the duplicate?
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From rufus.pollock at okfn.org  Sat May 22 20:11:18 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Sat, 22 May 2010 20:11:18 +0100
+Subject: [open-science] feedback on CKAN: voting broken?
+In-Reply-To: <AANLkTimz6e0Ns_osz0zr7PZZMT3DWQuPAGbfIRwPjUU0@mail.gmail.com>
+References: <AANLkTilCcNnvhE2tggX7y_yyUvPVYB9s8lVUmqGXBwMY@mail.gmail.com>
+	<AANLkTikqhbCwJB0EmKQnLAZ0zqRPk6W2wHNDr8aiUvkl@mail.gmail.com>
+	<AANLkTilLZfNaJAvLq4mzxkLXDVkeFv4AnSRAMnIpQYOW@mail.gmail.com>
+	<AANLkTilv4FwCn61ggxt8npcVQZZraxKh0WZg8etCakp0@mail.gmail.com>
+	<AANLkTimz6e0Ns_osz0zr7PZZMT3DWQuPAGbfIRwPjUU0@mail.gmail.com>
+Message-ID: <AANLkTimRKCtSJ-UgNoysgX3bUG28z2I-3S2JfYt6vEhF@mail.gmail.com>
+
+On 21 May 2010 10:44, Egon Willighagen <egon.willighagen at gmail.com> wrote:
+> On Fri, May 21, 2010 at 11:40 AM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>>> BTW, where can I leave feature requests?
+>>
+>> http://knowledgeforge.net/ckan/trac/newticket
+>
+> OK, thanx!
+>
+> One last thing then: is there a SPARQL end point? I noticed the REST
+> api [0] and saw the RDF output, but would very much prefer to use RDF
+> for querying API... SPARQL would be most convenient then... otherwise,
+> a way to download the full RDF dump of all data, so that I could run
+> the SPARQL client side...
+
+Yes, there is: <http://semantic.ckan.net/>
+
+Some documentation: <http://wiki.okfn.org/ckan/doc/rdf/>
+
+Rufus
+
+
+From jonathan.gray at okfn.org  Sun May 23 22:15:12 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sun, 23 May 2010 23:15:12 +0200
+Subject: [open-science] CHEMBL curators
+Message-ID: <AANLkTilGEPVAn7I300-DYSBFYtxqoE8s92XKcnEJj4WO@mail.gmail.com>
+
+This call for part-time curators at the CHEMBL project might be of
+interest to some folks here:
+
+http://chembl.blogspot.com/2010/05/part-time-curators-biological-drugs.html
+
+I've also just created a package for this on CKAN:
+
+http://ckan.net/package/chembl
+
+Anyone want to help flesh out the notes section? We should also add
+this to chemistry group ...
+
+All the best,
+
+Jonathan
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From greg at grossmeier.net  Wed May 26 18:23:10 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Wed, 26 May 2010 13:23:10 -0400
+Subject: [open-science] Working Group Meeting - June 2nd
+Message-ID: <20100526172310.GA2289@grossmeier.net>
+
+Dear Open Science group,
+
+It is time to put a working group meeting time into our schedule.
+
+After discussion with Jonathan we are proposing the first Wednesday of 
+the month at 1700 UTC (6pm BST, 1pm EDT, 10am PDT, and 3am Thu Sydney).
+
+Time/date for the first meeting (June 2nd): http://ur1.ca/03mr9
+
+To gauge availability of interested working group members, please fill 
+out this Doodle Poll if you plan on attending:
+http://www.doodle.com/4srf3h8er2rpvzuk
+(note: you can change the timezone)
+
+All the best,
+
+Greg
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+
+From pm286 at cam.ac.uk  Sat May 29 18:06:55 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 29 May 2010 18:06:55 +0100
+Subject: [open-science] GSK Malaria data and IsItOpen
+Message-ID: <AANLkTinDYqMEeEr8Q0mjbe3UDHWR8VybJ-dw0NglEj9N@mail.gmail.com>
+
+I've been sent an advert for the GSK open malaria data and asked for its
+status on
+http://www.isitopendata.org/enquiry/view/5a05df4b-75a2-4192-8f7a-7d259cde371f/
+I think this is a good category of datasets to chase uising IIO and I'd
+appeal for volunteers to look for otehrs and chase existing enquiries
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100529/7669bc2f/attachment.htm>
+
+From wilbanks at creativecommons.org  Sat May 29 18:08:52 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Sat, 29 May 2010 10:08:52 -0700
+Subject: [open-science] GSK Malaria data and IsItOpen
+In-Reply-To: <AANLkTinDYqMEeEr8Q0mjbe3UDHWR8VybJ-dw0NglEj9N@mail.gmail.com>
+References: <AANLkTinDYqMEeEr8Q0mjbe3UDHWR8VybJ-dw0NglEj9N@mail.gmail.com>
+Message-ID: <FD15447B-73A5-4BEC-94C2-B6CF955B41CD@creativecommons.org>
+
+It's under CC0. See http://www.ebi.ac.uk/chemblntd/
+
+(it's also deposited in multiple locations, but the explicit license data is at EBI)
+
+jtw
+
+On May 29, 2010, at 10:06 AM, Peter Murray-Rust wrote:
+
+> I've been sent an advert for the GSK open malaria data and asked for its status on http://www.isitopendata.org/enquiry/view/5a05df4b-75a2-4192-8f7a-7d259cde371f/
+> I think this is a good category of datasets to chase uising IIO and I'd appeal for volunteers to look for otehrs and chase existing enquiries
+> 
+> P.
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100529/8b7b0cc3/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat May 29 18:36:00 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 29 May 2010 18:36:00 +0100
+Subject: [open-science] GSK Malaria data and IsItOpen
+In-Reply-To: <FD15447B-73A5-4BEC-94C2-B6CF955B41CD@creativecommons.org>
+References: <AANLkTinDYqMEeEr8Q0mjbe3UDHWR8VybJ-dw0NglEj9N@mail.gmail.com>
+	<FD15447B-73A5-4BEC-94C2-B6CF955B41CD@creativecommons.org>
+Message-ID: <AANLkTiluW32wnQ_k7RHiVXI52ZeibRJxyaPIqw3iIGpk@mail.gmail.com>
+
+Excellent! I thought it was somewhere, but this gives a chance for the
+distributors to reply positively and to their credit.
+
+
+On Sat, May 29, 2010 at 6:08 PM, John Wilbanks <wilbanks at creativecommons.org
+> wrote:
+
+> It's under CC0. See http://www.ebi.ac.uk/chemblntd/
+>
+> (it's also deposited in multiple locations, but the explicit license data
+> is at EBI)
+>
+> jtw
+>
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100529/de699416/attachment.htm>
+
+From jonathan.gray at okfn.org  Sun May 30 17:12:23 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sun, 30 May 2010 18:12:23 +0200
+Subject: [open-science] GSK Malaria data and IsItOpen
+In-Reply-To: <AANLkTiluW32wnQ_k7RHiVXI52ZeibRJxyaPIqw3iIGpk@mail.gmail.com>
+References: <AANLkTinDYqMEeEr8Q0mjbe3UDHWR8VybJ-dw0NglEj9N@mail.gmail.com>
+	<FD15447B-73A5-4BEC-94C2-B6CF955B41CD@creativecommons.org>
+	<AANLkTiluW32wnQ_k7RHiVXI52ZeibRJxyaPIqw3iIGpk@mail.gmail.com>
+Message-ID: <AANLkTilArgE7M2WQhZ5FmzjhtZMhFLJHFdgPC6f489ax@mail.gmail.com>
+
+Do people think we should we add details to the CHEMBL package, or
+create a new one?
+
+  http://ckan.net/package/chembl
+
+Is there anyone in contact with folks from either the malaria data
+project or CHEMBL who would be willing to invite them to this mailing
+list?
+
+All the best,
+
+Jonathan
+
+On Sat, May 29, 2010 at 7:36 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> Excellent! I thought it was somewhere, but this gives a chance for the
+> distributors to reply positively and to their credit.
+>
+>
+> On Sat, May 29, 2010 at 6:08 PM, John Wilbanks
+> <wilbanks at creativecommons.org> wrote:
+>>
+>> It's under CC0. See?http://www.ebi.ac.uk/chemblntd/
+>> (it's also deposited in multiple locations, but the explicit license data
+>> is at EBI)
+>>
+>> jtw
+>>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From wilbanks at creativecommons.org  Sun May 30 17:52:14 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Sun, 30 May 2010 09:52:14 -0700
+Subject: [open-science] GSK Malaria data and IsItOpen
+In-Reply-To: <AANLkTilArgE7M2WQhZ5FmzjhtZMhFLJHFdgPC6f489ax@mail.gmail.com>
+References: <AANLkTinDYqMEeEr8Q0mjbe3UDHWR8VybJ-dw0NglEj9N@mail.gmail.com>
+	<FD15447B-73A5-4BEC-94C2-B6CF955B41CD@creativecommons.org>
+	<AANLkTiluW32wnQ_k7RHiVXI52ZeibRJxyaPIqw3iIGpk@mail.gmail.com>
+	<AANLkTilArgE7M2WQhZ5FmzjhtZMhFLJHFdgPC6f489ax@mail.gmail.com>
+Message-ID: <574C7E39-9868-415E-AC72-D5DB62C9503A@creativecommons.org>
+
+I know them pretty well on the GSK side (we worked pretty closely with the spanish site on figuring out data licensing terms) but I would be surprised if they were to participate here. Don't know the CHEMBL folks.
+
+jtw
+
+On May 30, 2010, at 9:12 AM, Jonathan Gray wrote:
+
+> Do people think we should we add details to the CHEMBL package, or
+> create a new one?
+> 
+>  http://ckan.net/package/chembl
+> 
+> Is there anyone in contact with folks from either the malaria data
+> project or CHEMBL who would be willing to invite them to this mailing
+> list?
+> 
+> All the best,
+> 
+> Jonathan
+> 
+> On Sat, May 29, 2010 at 7:36 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> Excellent! I thought it was somewhere, but this gives a chance for the
+>> distributors to reply positively and to their credit.
+>> 
+>> 
+>> On Sat, May 29, 2010 at 6:08 PM, John Wilbanks
+>> <wilbanks at creativecommons.org> wrote:
+>>> 
+>>> It's under CC0. See http://www.ebi.ac.uk/chemblntd/
+>>> (it's also deposited in multiple locations, but the explicit license data
+>>> is at EBI)
+>>> 
+>>> jtw
+>>> 
+>> 
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> 
+> 
+> 
+> 
+> -- 
+> Jonathan Gray
+> 
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+> 
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+
+
+
+From greg at grossmeier.net  Mon May 31 19:21:05 2010
+From: greg at grossmeier.net (Greg Grossmeier)
+Date: Mon, 31 May 2010 14:21:05 -0400
+Subject: [open-science] Reminder: Working Group meeting on Wednesday
+Message-ID: <20100531182105.GA4187@grossmeier.net>
+
+Hello,
+
+This Wednesday at 17:00 UTC (6pm London, 1pm New York, 10am San 
+Francisco) is our working group conference call. Time and date in your 
+timezone: http://ur1.ca/03mr9  Please indicate your ability to attend 
+here: http://ur1.ca/04lrq
+
+= Participation: =
+  * Chat (IRC): the #okfn channel on the OFTC IRC network (via a web 
+    interface here: http://ur1.ca/4fh )
+  * Voice (Skype): please send me (Greg, skypeid:greg.grossmeier) your 
+    Skype ID before the call.
+    * We will use a backup conference call line if there are more than 8 
+      participants.
+  * Notes: http://pad.okfn.org/open-science
+
+= Possible agenda items: =
+  * CKAN for open data in science
+    * Chemistry data pilot -- what metadata
+    * Need for discovery tools? E.g. to fit with existing workflows
+  * Summaries in different domains. One or two - e.g. chemistry, 
+    biogenetics, or environmental, ...
+    * Who are the key people in different areas...
+  * Panton Principles - what next? building consensus: e.g. Wellcome, NSF
+  * Panton discussions - podcast / interview
+  * Guest blog posts - detail but also for non-specialists...
+  * Competitions
+    * e.g.: http://www.biomedcentral.com/researchawards/otherawards/
+  * Logo / buttons
+    * http://lists.okfn.org/pipermail/open-science/2010-February/000170.html
+  * Interns/grad students call for participation (what could they work 
+    on?)
+  * International open data in science event? Two day 
+    workshop/unconference? E.g. in 2011-2012?
+
+
+Best,
+
+Greg
+
+-- 
+|       Greg Grossmeier |
+| http://grossmeier.net |
+
+

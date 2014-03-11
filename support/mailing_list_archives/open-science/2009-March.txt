@@ -1,0 +1,3437 @@
+From jonathan.gray at okfn.org  Tue Mar  3 16:28:32 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 3 Mar 2009 16:28:32 +0000
+Subject: [open-science] Fwd: Compilation of material on open science and
+	open biology
+In-Reply-To: <c776300b0812312201y793ee99y326e93711564ae55@mail.gmail.com>
+References: <c776300b0812312201y793ee99y326e93711564ae55@mail.gmail.com>
+Message-ID: <54ca21750903030828s5df66e68s5bd26226984f32ce@mail.gmail.com>
+
+Michel Bauwens asked me to forward this on his behalf. All material
+below is also available at:
+
+  http://p2pfoundation.net/Category:Science
+
+Warm regards,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+---------- Forwarded message ----------
+Great rundown of material, with a lot of usage from the material collated on
+the p2pfoundation wiki.
+
+By Bryan Bishop:
+
+Bryan Bishop ? ?View
+profile<http://groups.google.com/groups/profile?enc_user=yXg5nREAAACnmNU9tKKhOFqHpeR7zr8WkdEasx1kiYTQavV7mdW13Q>
+?More options Dec 30 2008, 9:06 am ? ? From: *"Bryan Bishop"
+<kanz...<http://groups.google.com/groups/unlock?_done=/group/diybio/browse_thread/thread/93a354079b5bfdbb/e0a42d0823a87604%3Fpli%3D1&msg=e0a42d0823a87604>
+@gmail.com>*
+Date: *Mon, 29 Dec 2008 20:06:09 -0600*
+Local: *Tues, Dec 30 2008 9:06 am *
+Subject: *What's all this about "open", anyway? (long)*
+?Reply<http://groups.google.com/group/diybio/post?inreplyto=e0a42d0823a87604&reply_to=group&_done=%2Fgroup%2Fdiybio%2Fbrowse_thread%2Fthread%2F93a354079b5bfdbb%2Fe0a42d0823a87604%3Fpli%3D1%26&>|
+Reply
+to author<http://groups.google.com/group/diybio/post?inreplyto=e0a42d0823a87604&reply_to=author&_done=%2Fgroup%2Fdiybio%2Fbrowse_thread%2Fthread%2F93a354079b5bfdbb%2Fe0a42d0823a87604%3Fpli%3D1%26&>|
+Forward<http://groups.google.com/group/diybio/post?inreplyto=e0a42d0823a87604&forward=1&_done=%2Fgroup%2Fdiybio%2Fbrowse_thread%2Fthread%2F93a354079b5bfdbb%2Fe0a42d0823a87604%3Fpli%3D1%26&>|
+Print<http://groups.google.com/group/diybio/msg/e0a42d0823a87604?dmode=print>|
+Individual
+message <http://groups.google.com/group/diybio/msg/e0a42d0823a87604> | Show
+original<http://groups.google.com/group/diybio/msg/e0a42d0823a87604?dmode=source>|
+Report
+this message<http://groups.google.com/groups/abuse?group=diybio&type=message&url=http%3A%2F%2Fgroups.google.com%2Fgroup%2Fdiybio%2Fmsg%2Fe0a42d0823a87604&_done=%2Fgroup%2Fdiybio%2Fbrowse_thread%2Fthread%2F93a354079b5bfdbb%2Fe0a42d0823a87604%3Fpli%3D1%26&>|
+Find
+messages by this
+author<http://groups.google.com/groups/search?enc_author=yXg5nREAAACnmNU9tKKhOFqHpeR7zr8WkdEasx1kiYTQavV7mdW13Q&scoring=d>
+?Hi all,
+
+I don't think we've ever gone explicitly over the idea of the
+debian/ubuntu social contracts, and how those concepts might be useful
+in pursuing our shared interests as diybio grows. From what I saw at
+BioBarCamp 2008, where many of us found each other in person, there's
+a lot of positive effort and energy being channeled in these
+directions, so the very least I can do is document a little bit of it
+from all over the web. This is a draft at best, so go easy on me :-).
+
+This email is more like a safari tour through some relevant portions
+of the internet that are of interest to diybio and maybe developing
+'contracts', so if somebody else wants to write something more
+coherent, go ahead- this is more like bibliography material, but also
+interesting for those who don't know about these developments. With
+some annotation and running commentary :-). I hope others comment on
+some of these excerpts.
+
+((At the bottom and very end is the debian and ubuntu social contracts
+or codes of conduct for an example, but it's best taken in context
+with everything else in this email)). (((This is also re: IP law and
+some other recent topics on the list.)))
+
+http://p2pfoundation.net/Open_Source_Biotechnology
+http://rsss.anu.edu.au/~janeth/ <http://rsss.anu.edu.au/%7Ejaneth/>
+http://rsss.anu.edu.au/~janeth/OpenSourceBiotechnology27July2005.pdf<http://rsss.anu.edu.au/%7Ejaneth/OpenSourceBiotechnology27July2005.pdf>(thesis)
+"""
+"Open Source licensing is a style of intellectual property management
+that has evolved in the past half-decade out of the Free Software
+movement, initiated in the early 1980s in response to restrictive
+copyright licensing practices adopted by commercial software
+developers. The Open Source approach seeks to preserve ongoing
+community access to proprietary software tools without precluding or
+discouraging commercial involvement in their development.
+
+"Open Source Biotechnology" refers to the possibility of extending the
+principles of commerce-friendly, commons-based peer production
+exemplified by Open Source software development to the development of
+research tools in biomedical and agricultural biotechnology."
+(http://rsss.anu.edu.au/~janeth/ <http://rsss.anu.edu.au/%7Ejaneth/>)
+"""
+
+Janet Hope:
+"Since the 1980's, the life sciences have undergone a process of rapid
+commercialization. The legal mechanism for this process of
+commercialization has been the expansion of intellectual property (IP)
+protection to inventions that were previously regarded as
+unpatentable. The result has been a literally exponential increase in
+applications for biotechnology patents.
+
+These patents not only protect inventions that are valuable as end
+products; they also protect early stage inventions and research tools.
+Advances in biotechnology require the use of many of the latter, for
+which researchers must obtain licenses from patent owners. A good
+example is "golden rice", which utilized more than 70 different
+patented procedures and processes. To get permission to use all of
+these tools, scientists enter into multiple negotiations for each
+piece of IP. These mounting transaction costs can retard, and in some
+cases completely undermine, their scientific projects. Even if they
+are not prevented from pursuing research itself, institutions may find
+that the rights of other IP holders prevent them from commercializing
+the fruits of their labor.
+
+In biomedicine, there are considerable social costs associated with
+working within this expensive proprietary system. These stem from the
+fact that such costs are beyond the resources of the smallest
+participants, or would-be participants, in the industry. Market forces
+will naturally tend to direct efforts by big private sector players to
+where there is the most substantial return on investment. This means
+research goals are inevitably being narrowed to those that will be
+most profitable, though not necessarily most useful. Thus, it is often
+not commercially worthwhile for the biomedical industry to devote
+significant resources to addressing medical or social needs, such as
+drugs for very common diseases like tuberculosis or malaria.
+
+Similarly, in agriculture, breeding strategies will be oriented
+towards major crops in developed country markets, not towards finding
+genetic traits with characteristics that are useful to poor farmers.
+The last few years have also seen a series of mergers and acquisitions
+that have dramatically consolidated the industry, with a huge portion
+of fundamental research tools ending up in the hands of a tiny number
+of big multinationals. This level of industry concentration has
+inevitably led to the overpricing of technologies and the exclusion of
+innovative start-ups and public sector institutions. This, in turn,
+means that smaller firms can't get a foot in the door.
+
+This situation has been described as a "tragedy of the anticommons."
+In contrast to the tragedy of the commons, when a public resource is
+overused because there is no one owner to regulate it, a tragedy of
+the anticommons occurs when a resource is underused because it has
+been divided up by a number of owners who may not be willing to agree
+or cooperate with one another."
+
+Can Open Source Licensing Work With Biotechnology? (still with Janet Hope)
+"""
+"When I spoke to Bruce Perens, who helped define the basis for open
+source development in his aptly titled document, The Open Source
+Definition, he took the view that the open source biotechnology
+movement does not aim to create a particular legal framework. Instead,
+it is a form of social engineering. There is no question that one
+could produce a legally binding open source license in biotechnology
+if one wanted to?the real question is whether anyone will use it.
+
+The different proprietary regimes that prevail in the software and
+biotechnology contexts are important to consider in answering this
+question. Both software code and biotechnology innovations are
+protected under a mixture of licensing systems , but the primary one
+in software is copyright, whereas in biotechnology it is patents. The
+cost of patent protection can be substantial, whereas copyright
+protection arises automatically and without cost to the owner. Also,
+patent fees are usually at least partly recovered from licensees under
+the remuneration clauses in a proprietary license.
+
+Second, standardized licenses appear to be important for keeping
+transaction costs low in open source software, but this approach may
+be less applicable outside a digital context. Biotechnology
+innovations are far more diverse in terms of composition than
+software, which is essentially non-physical and instantly
+reproducible. Defining rights in living biological materials, given
+their capacity for self-replication and mutation, is difficult.
+Determining what constitutes an improvement to a licensed biological
+technology is also challenging. This aspect would be especially
+critical in open source applications. As stated earlier, open source
+licenses generally require that improvements to the technology be made
+available to the other users. Naturally, this is far more difficult
+when the medium is biological matter, as opposed to digital
+information.
+
+To explore how open source might translate into the biotechnology
+context, it is necessary to characterize it in terms of generalized
+principles, as distinct from software-specific features. Although it
+is becoming a popular subject of study for people in many disciplines,
+no unifying principle has yet emerged as the dominant approach. I have
+chosen to view open source development through the lens of a
+relatively new theory from the field of innovation management, known
+as User Innovation Theory
+"""
+
+For those of you who don't know Bruce:
+http://en.wikipedia.org/wiki/Bruce_Perens ?(do I have to remind anyone
+that Wikipedia, itself, is licensed under the GFDL?)
+"""
+Bruce Perens is a computer programmer and advocate in the open source
+community. He created the Open Source Definition and published the
+first formal announcement and manifesto of open source.[1] He
+co-founded the Open Source Initiative with Eric S. Raymond.[2] In
+2005, Perens represented Open Source at the United Nations World
+Summit on the Information Society, at the invitation of the United
+Nations Development Program.[3] He has appeared before national
+legislatures and is often quoted in the press, advocating for open
+source and the reform of national and international technology policy.
+"""
+
+This part is also relevant:
+http://rsss.anu.edu.au/~janeth/OSBiotech.html<http://rsss.anu.edu.au/%7Ejaneth/OSBiotech.html>
+"""
+In the end, the proof for the viability open source biotechnology is
+not tied to the ultimate success of open source software. Open source
+software is simply the basis for an analogy?the seed of an idea rather
+than a rigid formula for success."
+(http://www.gene-watch.org/genewatch/articles/18-1Hope.html)
+"""
+
+http://p2pfoundation.net/Open_Science_Licenses
+http://www.firstmonday.org/issues/issue12_6/burk/index.html
+"""
+Copyleft?style licensing has also been applied to physical materials,
+such as the biological materials made available via the Biological
+Innovation for Open Society project or "BIOS" (Boettiger and Burk,
+2004). The BIOS project is intended to make publicly available certain
+biological research tools and techniques, and to attract contributions
+of further research tools. While the project organizers are not
+adverse to users of these tools filing patents on discoveries made by
+use of the tools, the intention is to preserve public access to the
+tools themselves. The danger to such access comes from patenting of
+improvements or modifications that users might make to the basic
+tools, encumbering the basic tools with proprietary claims.
+Internet?based electronic resources offer information about the tools
+and their use, and facilitate contact for physical transfer of the
+tools, but physical access is conditioned on agreement not to patent
+any improvements or modifications to the tools, and to make any such
+modifications or improvements available on the same terms. No such
+restrictions are placed upon products or discoveries generated by use
+of the tools; such products or discoveries can be patented without
+limitation.
+
+However, it is critical to recognize that such application of the open
+source copyleft model to research data and other resources
+contemplates a different intellectual property system ? the patent
+system ? than the copyright system in which the licensing scheme was
+developed. This transfer of the open source "copyleft" model from the
+legal regime of copyright to that of patent presents several
+difficulties. As an initial matter, it is worth observing that the
+"open source" designation is something of a misnomer in the patent
+context. Patents require as a condition for the grant of exclusive
+rights a disclosure of the invention sufficient to allow one of skill
+to make and use the claimed invention. As a practical matter, this
+disclosure for software this may not always include source code; for
+biotechnology, the disclosure typically does include macromolecular
+sequence data. But in either case, the disclosure requirements of
+patenting should effectuate the goal of the "open source" movement to
+publish the technical data necessary to allow tinkering, improvement,
+and critique of the invention.
+
+Thus, at least in theory, the patent system already entails a level of
+disclosure sufficient to allow the sort of access for tinkering and
+improvement envisioned by the open source and free software movement.
+But as a practical matter, such tinkering and improvement of the
+disclosed invention may be effectively precluded by the exclusive
+rights conferred under the patent. As mentioned above, some
+jurisdictions provide little or no room in the patent system for
+experimental use or reverse engineering. And, even if the details of
+an invention are already made accessible in the patent, the use of the
+term "open source" in this context may rather signal a philosophical
+commitment to "openness" or "free" science paralleling that of the
+free software movement.
+
+Transfer of the copyleft licensing model to the patent environment
+also raises legal considerations not present in a copyright
+environment (Boettiger and Burk, 2004; Feldman, 2005). First, the
+nature of the exclusive rights ? granted by copyright and by patent ?
+are quite different. Copyright excludes unauthorized copying and
+related activities ? activities that are triggered by access to the
+protected work. Such access serves as the trigger or activating event
+for the copyleft license ? copying or adapting the open source code
+opens the copyist or adapter to a lawsuit unless the copying or
+adapting is done in accordance with the terms of the license. But
+patent rights exclude all uses of the claimed invention, even those
+conducted independently, without any access to the invention. In such
+cases, the infringing act would not serve to channel the infringer
+into compliance with the terms of the license, as there would be no
+knowledge, let alone manifestation of assent, to the license.
+
+Second, the restrictions on further patenting that are incorporated
+into some "open biology" licenses may run afoul of the general public
+policy of the patent system. In the United States particularly,
+federal statutory and constitutional law encourages patenting, and
+licenses deterring patents may be preempted. Additionally, and perhaps
+more seriously, patents raise competition law considerations that are
+not necessarily present under copyright law. Certain types of patent
+licensing arrangements are subject to extra antitrust scrutiny, such
+as patent "pools," in which participants cross license one another's
+patents, patent "grant?backs," which require licensing of technology
+developed with a patented tool back to the patent owner, and patent
+"reach?through," which requires payment of royalties to a patent owner
+for products developed with a patented tool. Patenting restrictions in
+open biology licenses resemble these types of arrangement ? for
+example, requiring products developed with "open source" biology tools
+to be licensed back to others on an "open source" basis ? and so may
+raise antitrust concerns.
+
+But the greatest obstacle to movement of "copyleft" licenses into
+electronic research collaborations may be the social disparity between
+the licenses' original open source milieu and that of scientific
+research settings (Burk, 2005a). There are marked differences in the
+organizational and institutional networks of each community. Despite
+the some apparent congruence between the normative expectations in
+each community, academic science as currently practiced, particularly
+in industrialized nations, has a different and far more complicated
+profile than that of the open source community. The scientific
+community is older and more institutionally invested, with a decided
+organizational structure not present in open source coding.
+
+Despite its profession of "openness," academic science has an
+effectively hierarchical organization at the level of individual
+laboratories, as well as at the level of professional association.
+
+Graduate and undergraduate training in the sciences also contributes a
+distinct social sub?structure to the scientific community.
+Additionally, academic science is heavily subsidized by governmental
+grants, with the result that funding agencies may have interests and
+involvement in the disposition of intellectual property, both at the
+level of formal agency objectives and in the biases or preferences of
+peer review committees. Other formal institutions, such as
+institutional ethics review boards, university technology transfer
+offices, and peer?review journal publishers may also play roles not
+contemplated by the open source licensing system.
+
+Such normative considerations may complicate the development of
+licenses that would ameliorate the legal conflicts issues in
+cyberinfrastructure. The success of the copyleft model in software
+development is due in no small part to strong buttressing of the
+license by the normative expectations of the community. In the broader
+scientific context, it is unclear whether the license will have the
+same status, the same social meaning, and the same success in a
+different community setting.
+"""
+
+How likely is it that pharmaceutical companies would go open source?
+http://p2pfoundation.net/Open_Source_Biotechnology#How_likely_is_it_t...<http://p2pfoundation.net/Open_Source_Biotechnology#How_likely_is_it_that_pharmaceutical_companies_would_go_open_source.3F>
+"""
+2. Established business practice: Pharmaceutical companies rely
+heavily on patent positions - whether or not they have a patent on a
+particular pharmaceutical product makes a big difference both to the
+results of their operations in terms of the economics of selling
+drugs, and to the company's valuation on the stock market; and this
+translates into a big emphasis on IP, to a degree even in areas that
+aren't really related to their proprietary position on their drug
+products. In other words, not sharing IP is deeply ingrained. To a
+large degree the biotech industry has inherited that culture of not
+sharing. The costs of changing established business practice are very
+real in terms of organisational structure and providing incentives for
+your employees to shift the way they look at things - and so there is
+plenty of inertia for large, established companies like the big pharma
+companies when it comes to adopting fundamentally new business models
+like open source.
+"""
+
+"""
+1. One established use of open source business strategies in the
+software context is to pre-empt the establishment of proprietary
+technological standards owned by your rivals. Even though
+pharmaceutical companies hate sharing, one thing they hate even more
+is being beholden to a single supplier for some critical value driver.
+This means they might be prepared to put money into an open source
+biotech company that planned to come up with a really critical tool --
+say a toxicology tool that would help predict R&D failures before a
+drug hit the expensive clinical phase of development. This is a
+significant example because currently, exclusive patent positions are
+important to biotech start-ups largely as a way to attract capital. So
+this kind of support would provide a credible alternative story for
+biotech start-ups to tell potential investors and thus could promote
+the development of open source strategies in the biotechnology sector.
+"""
+
+There's also a quote from Rob Carlson on that page--
+http://synthesis.typepad.com/synthesis/2007/03/thoughts_on_ope.html
+"""
+When I first heard Drew Endy utter the phrase "Open Source Biology",
+it was within the broader context of living in Berkeley, trying to
+understand the future of biology as technology, and working in an
+environment (the then embryonic Molecular Sciences Institute) that
+encouraged thinking anything was possible. It was also within the
+context of Microsoft's domination of the OS market, the general
+technology boom in the San Francisco Bay area, the skyrocketing cost
+of drug development coupled to a stagnation of investment return on
+those dollars, and the obvious gap in our capabilities in designing
+and building biological systems. OSB seemed the right strategy to get
+to where I thought we ought to be in the future, which is to create
+the ability to tinker effectively, perhaps someday even to engineer
+biology, and to employ biology as technology for solving some of the
+many problems humans face, and that humans have created.
+
+As in 2000, I remain today most interested in maintaining, and
+enhancing, the ability to innovate. In particular, I feel that safe
+and secure innovation is likely to be best achieved through
+distributed research and through distributed biological manufacturing.
+By "Open Biology" I mean access to the tools and skills necessary to
+participate in that innovation and distributed economy.
+
+"Open source biology" and "open source biotechnology" are catchy
+phrases, but they have little if any content for the moment. As
+various non-profits get up and running (e.g., CAMBIA and the BioBrick
+Foundation), some of the vagaries will be defined, and at least we
+will have some structure to talk about and test in the real world.
+When there is a real license a la the GPL, or the Lesser License, and
+when it is finally tested in court we will have some sense of how this
+will all work out.
+
+I am by no means saying work should stop on OSB, or on figuring out
+the licenses, just that I don't understand how it fits into helping
+innovation at the moment. A great deal of the innovation we need to
+see will not come from academia or existing corporations, but from
+people noodling around in their garages or in start-ups yet to be
+founded. These are the customers for Biobricks, these are the people
+who want the ability to build biological systems without needing an
+NIH grant."
+"""
+
+Of course, the Biobrick Foundation, iGEM, OpenWetWare, diybio and
+other related initiatives have been seeing great growth since Rob
+wrote that, so things are changing. :-) And for the agricultural side
+of things, check this out:
+
+"Researchers in Australia have devised a method of creating
+genetically modified crops that does not infringe on patents held by
+big biotechnology companies. The technique will be made available free
+to others to use and improve, as long as any improvements are also
+available free."
+(http://business-times.asia1.com.sg/sub/views/story/0,4574,144880,00.html)
+
+Open Source Biotechnology, from The Economist
+http://www.economist.com/displaystory.cfm?story_id=2724420
+"""
+open-source approaches have emerged in biotechnology already. The
+international effort to sequence the human genome, for instance,
+resembled an open-source initiative. It placed all the resulting data
+into the public domain rather than allow any participant to patent any
+of the results. Open source is also flourishing in bioinformatics, the
+field in which biology meets information technology. This involves
+performing biological research using supercomputers rather than
+test-tubes. Within the bioinformatics community, software code and
+databases are often swapped on "you share, I share" terms, for the
+greater good of all. Evidently the open-source approach works in
+biological-research tools and pre-competitive platform technologies.
+The question now is whether it will work further downstream, closer to
+the patient, where the development costs are greater and the potential
+benefits more direct. Open-source research could indeed, it seems,
+open up two areas in particular. The first is that of non-patentable
+compounds and drugs whose patents have expired. These receive very
+little attention from researchers, because there would be no way to
+protect (and so profit from) any discovery that was made about their
+effectiveness. To give an oft-quoted example, if aspirin cured cancer,
+no company would bother to do the trials to prove it, or go through
+the rigmarole of regulatory approval, since it could not patent the
+discovery. (In fact, it might be possible to apply for a process
+patent that covers a new method of treatment, but the broader point
+still stands.) Lots of potentially useful drugs could be sitting under
+researchers' noses.
+
+The second area where open source might be able to help would be in
+developing treatments for diseases that afflict small numbers of
+people, such as Parkinson's disease, or are found mainly in poor
+countries, such as malaria. In such cases, there simply is not a large
+enough market of paying customers to justify the enormous expense of
+developing a new drug. America's Orphan Drug Act, which provides
+financial incentives to develop drugs for small numbers of patients,
+is one approach. But there is still plenty of room for
+improvement?which is where the open-source approach might have a
+valuable role to play.
+"""
+
+Open Bioinformatics Foundation
+http://www.open-bio.org/
+"""
+The Open Bioinformatics Foundation is a non profit, volunteer run
+organization focused on supporting open source programming in
+bioinformatics. The foundation grew out of the volunteer projects
+BioPerl, BioJava and BioPython and was formally incorporated in order
+to handle our modest requirements of hardware ownership, domain name
+management and funding for conferences and workshops.The Foundation
+does not participate directly in the development or structure of the
+open source work, but as the members of the foundation are drawn from
+the member projects, there is clear commonality of direction and
+purpose. Occasionally the O|B|F directors may make announcements about
+our direction or purpose (a recent one was on the licensing of
+academic software) when the board feels there is a need to clarify
+matters, but in general we prefer to remain simply the administrative
+support organization for our member projects.
+
+Our main activities are:
+Underwriting and supporting the BOSC conferences
+Organizing and supporting developer-centric "hackathon" events
+Managing our servers, colocation facilities, bank account & other assets
+"""
+
+Next up on the list is about open source biology, a big topic that we
+last talked about at BioBarCamp 2008:
+
+http://p2pfoundation.net/Open_Source_Biology
+which contains a bit of a story of Drew and Rob's involvement from
+which I'm excerpting:
+
+"Since we ourselves depend on the information encoded in genetic
+material," Endy explains, "we should work together to share genetic
+information."
+
+http://www.eastbayexpress.com/2005-03-30/news/steal-this-genome/
+"""
+They also made a plea on behalf of public safety; there's no way any
+federal law can ensure that someone doesn't create an organism that,
+as Brent puts it, "liquefies Cincinnati." Rather than trying to keep
+secret, for example, the genome of a potential bioterror agent, the
+institute crew concluded that it's better to empower as many people as
+possible to develop countermeasures such as new drugs and vaccines.
+"Consider that the only effective counterterrorism measures on
+September 11, 2001 were made by the passengers of Flight 93," Brent
+says.
+
+Carlson, Endy, and Brent all agree that the best way to keep tabs on
+the potential dangers brewing in labs was to share information. "The
+only way the shit doesn't hit the fan is if everybody engineering
+biology does so in the open," Endy says. "We're co-opting the idea
+from open-source software that 'many eyes lead to few bugs.' In other
+words, I don't trust you not to make any mistakes the next time you
+program a piece of DNA. You shouldn't trust me."
+"""
+
+Rob still contrasting on parallels (or lack thereof) between
+biological freedom and software freedom:
+http://web.archive.org/web/20010412011122/http://www.intentionalbiolo...<http://web.archive.org/web/20010412011122/http://www.intentionalbiology.org/osb.html>
+
+"What does 'ownership' mean when property is infinitely reduplicable,
+highly malleable, and the surrounding culture has neither coercive
+power relationships nor material scarcity economics?" -Eric S Raymond,
+Homesteading the Noosphere.
+
+"""
+The biohacker community will emerge as DNA manipulation technology
+decreases in cost and when the overall technological infrastructure
+enables instruments to be assembled in the garage. The Molecular
+Sciences Institute has a parallel DNA synthesizer that can synthesize
+sufficient DNA to build a human pathogenic virus from scratch in about
+a week. Assembled, this machine cost ~$100,000 about 18 months ago. We
+estimate the parts could be purchased for ~$10,000 today. A working
+DNA synthesizer could be built with relative ease. Synthesizers of
+this sort produce ~50 mers, and it is likely that methods to assemble
+these short oligos into chromosomes will be perfected relaltively
+soon. Hobbyists often spent similar sums on cars, motocycles,
+computers, and aquariums. <snip>
+
+It is not that we expect (or desire) open-source biology to share the
+various shades of anti-commercial bent which exist in the software
+community, but rather that the future of a likely distributed
+biological research effort implies significant changes in the way we
+view commercial efforts. Rather than send samples through the mail,
+sequences will be transferred electronically between researchers and
+directly into DNA synthesizers. Biological manufacturing will be
+everywhere, making irrelevant standard notions of centralized
+production, and the real economy will be of design and infrastructure.
+(v.01, Rob Carlson Copyright 2000, 12/10/2000) <snip>
+
+One aspect of hacker culture that is highly relevant to Open-Source
+Biology is the general disapproval of "hoarding." The concentration
+and segregation of technology and standards by particular actors
+(companies, in this instance) is viewed as simply greedy and as
+retarding the development and acceptance of improved technology.
+
+The explicit goal of companies is, of course, to make money. However,
+when it comes to a technology that can directly influence the
+organisms that humans rely on for food and shelter there should be
+great concern in the concentration of power by any given organization.
+Moreover, the intervening period between when we can genetically alter
+organisms and the time when we know what we are doing and can fix
+mistakes (that time period is right now) should be made as short as
+possible. We should move with all haste to ensure that biological
+technology moves as rapidly as possible and is disseminated as widely
+as possible.
+
+In Homesteading the Noosphere, Eric Raymond makes the interesting
+point that the cracker culture maintains itself in a very different
+fashion than the hacker culture, and develops differently as a result.
+In the cracker culture, process and programming knowledge is closely
+guarded, and Raymond suggests that this impedes the growth of
+knowledge. In contrast, "in the hacker community, one's work is one's
+statement. The best craftsmanship wins. Thus, the hacker culture's
+knowledge base increases rapidly." In other words, the cracker culture
+condones a form of 'hoarding' and knowledge disperses slowly as a
+result. It is clear that the hacker community is a far better model
+for those interested in moving biology forward as quickly as possible.
+(v.01, Rob Carlson Copyright 2000, 12/10/2000)
+"""
+
+Open Source Drug Discovery program (officially mandated by the govt.
+of India, ~$34 million USD)
+http://osdd.org/
+http://p2pfoundation.net/Open_Source_Drug_Discovery
+
+There's enough news links from the osdd.org front page to get a feel
+for their Tuberculosis-oriented program. OSDD is very recent and very
+big news for the pharmaceutical sector, I've joined and been
+contributing and there's been talk with the manufacturing guys about
+how to implement some of the tech they've been thinking up.
+
+http://p2pfoundation.net/Open_Biology
+http://www.forbes.com/2007/02/12/novartis-genes-diabetes-research-biz...<http://www.forbes.com/2007/02/12/novartis-genes-diabetes-research-biz-cz_mh_0212novartis.html>
+"""
+There was a time when drug giants tried to keep leads like that to
+themselves in an attempt to gain an advantage over their competitors.
+They paid lots of money for the privilege, too. In 1993,
+GlaxoSmithKline tied up with Human Genome Sciences to develop drugs
+based on genome data. Five years later, Bayer spent $465 million to
+get access to the genetic library being assembled by Millennium
+Pharmaceuticals. Neither collaboration has led to a marketed drug. But
+another requirement of making the leap from genes to drugs is making
+the research public--a step that will make it difficult for
+researchers elsewhere to patent any of this raw genetic information.
+Novartis isn't the only drug firm embracing this "give it away for
+free" mentality. Pfizer has promised to make available for free a
+swath of genetic information emerging from a three-year collaboration
+with the National Institutes of Health."
+
+Also: Open Source methods are increasingly being used as a mechanism
+to organise drug discovery. Examples include the Medicines for Malaria
+Venture (MMV), the Global Alliance for TB Drug Development (TB
+Alliance) and the Institute of One World Health (IOWH).
+"""
+
+"""
+Robb Carlson argues that since the cost of biological production is
+going down, and the risks of unintentional spreading of pathogens is
+going to increase, then only further openness can work as security
+strategy, as has already been demonstrated in the fruitless attempts
+to curtain P2P Filesharing.
+"""
+
+On security:
+http://www.kurzweilai.net/meme/frame.html?main=/articles/art0614.html?
+?(Kurzweil wrote "The Singularity is Near")
+"""
+The real threat from distributed biological technologies lies neither
+in their development nor use, per se, but rather that biological
+systems may be the subject of accidental or intentional modification
+without the knowledge of those who might be harmed. Because this may
+include significant human, animal, or plant populations, it behooves
+us to maximize our knowledge about what sort of experimentation is
+taking place around the world. Unfortunately (though understandably),
+the first response to incidents such as the anthrax attacks in the
+fall of 2001 is to attempt to improve public safety through means that
+paradoxically often limit our capabilities to gather such information.
+
+Some view as an immediate threat the proliferation of technologies
+useful in manipulating biological systems: Passionate arguments are
+being made that research should be slowed and that some research
+should be avoided altogether. "Letting the genie out of the bottle" is
+a ubiquitous concern, one that has been loudly voiced in other fields
+over the years and is meant to set off alarm bells about biological
+research.
+
+A favorite rhetorical device in this discussion is the comparison of
+nuclear technologies with biological technologies. Success in limiting
+the development and spread of nuclear technologies is taken to mean
+similar feats are possible with biological technologies. But this sort
+of argument fails to consider the logistical, let alone ethical,
+differences between embargoing raw fissionable materials used in
+nuclear or radiological weapons and embargoing biological technology
+or even biology itself.
+
+Regulation of the development of nuclear weapons has been successful
+only because access to raw fissionable materials has, fortunately,
+been relatively easy to restrict. However, both the knowledge and
+tools necessary to construct rudimentary weapons have for decades been
+highly distributed. It is arguable that, with some effort,
+construction of a rudimentary nuclear device is within the
+capabilities of most physics and engineering college graduates who
+have access to a basic machine shop. Building nuclear devices is thus
+theoretically quite feasible but physically difficult, even for the
+knowledgeable, because the raw materials are simply not available. Yet
+the raw stuff of biology has always been readily at hand, and our
+schools and industries are now equipping students with the skills to
+manipulate biological systems through powerful and distributed
+technology. Because skills are already widespread and will only become
+more so, altering and reverse engineering biological systems will
+become both easier and more common. Regulation can do little to alter
+this trend.
+
+If strict regulation held promise of real protection, it would be well
+worth considering. But regulation is inherently leaky, and it is more
+often a form of management than blanket prohibition. Certainly no
+category of crime has ever been eliminated through legal prohibition.
+In this light, we must ask how many infringements of potential
+regulation of biological technologies we are willing to risk. Further,
+will the threat of sanctions such as imprisonment ever be enough to
+dissuade infringement? Given the potential damage wrought by misuses
+of the technology, we may never be satisfied that such sanctions would
+constitute a repayment of debt to society, the fundamental tenet of
+our criminal justice system. The damages may always exceed any
+punishment meted out to those deemed criminal. These considerations
+come down to how we choose to balance the risks and consequences of
+infringement against whatever safety may be found in regulation and
+attempts at enforcement. More important than this tenuous safety,
+however, is the potential danger of enforced ignorance. In the end, we
+must decide not whether we are willing to risk damages caused by
+biological technology, but whether limiting the general direction of
+biological research in the coming years will enable us to deal with
+the outcome of mischief or mistake. We must decide if we are willing
+to take the risk of being unprepared.
+
+There are currently calls to limit research in the United States on
+the basic biology of many pathogens to preempt their use as
+bioweapons,22 and the possession and transport of many pathogens was
+legislated into criminality by the Patriot Act.23 The main difficulty
+with this approach is not that it assumes the basic biology of
+pathogens is static?which because of either natural variation or human
+intervention it is not?but rather that it assumes we have already
+catalogued all possible natural pathogens, that we already know how to
+detect and defeat known and unknown pathogens, and that rogue elements
+will not be able to learn how to manipulate pathogens and toxins on
+their own. These assumptions are demonstrably false. Pathogens ranging
+from HIV to M. tuberculosis to P. falciparum (which causes malaria)
+have successfully evolved to escape formerly effective treatments. New
+human pathogens are constantly emerging, which as in the case of SARS
+might be identified quickly but require much longer to develop
+treatments against. In the last century governments and independent
+organizations alike have developed and used biological weapons.
+Restricting our own research will merely leave us less prepared for
+the inevitable emergence of new natural and artificial biological
+threats. Moreover, it is naive to think we can successfully limit
+access to existing pertinent information within our current economic
+and political framework.
+
+As is clear from recent efforts to limit peer-to-peer file sharing on
+the Internet, in today's environment strict prohibition of information
+flow can only be achieved by quarantine?unplugging wires and blocking
+wireless transmission. Thwarted by the difficulty of such endeavors,
+music conglomerates have resorted to flooding file servers with
+corrupted files (camouflage),24 and requesting the legal authority to
+engage in preemptive cracking of file trader's computers (sabotage).25
+
+Neither strategy is likely to be a long term solution of controlling
+information for the music industry, and similar efforts to regulate
+biological technologies are bound to be more difficult still.
+Attempting to maintain control of information and instrumentation will
+be a futile task in light of the increasingly sophisticated biological
+technologies blossoming around the world."
+"""
+
+Rob Carlson on what needs to be done for a secure open biology approach
+"""
+We should focus on three challenges:
+1) We should resist the impulse to restrict research and the flow of
+information. Ignorance will help no one in the event of an emergent
+threat and, given the pace and proliferation of biological
+technologies, the likelihood of threats will increase in coming years.
+Among the greatest threats we face is that potentially detrimental
+work will proceed while we sit on our hands. If we are not ourselves
+pushing the boundaries of what is known about how pathogens work or
+ways to manipulate them, we are by definition at a disadvantage. Put
+simply, it will be much easier to keep track of what is in the wind if
+we don't have our heads in the sand.
+
+2) The best way to keep apprised of the activities of both amateurs
+and professionals is to establish open networks of researchers,
+perhaps modeled on the Open Source Software (OSS) movement, and
+potentially sponsored by the government during their embryonic phases.
+The Open Source development community thrives on constant
+communication and plentiful free advice. This behavior is common
+practice for professional biology hackers, and it is already evident
+on the Web amongst amateur biology hackers.14 This represents an
+opportunity to keep apprised of current research in a distributed
+fashion. Anyone trying something new will require advice from peers
+and may advertise at least some portion of the results of their work.
+As is evident from the ready criticism leveled at miscreants in online
+forums frequented by software developers (Slashdot, Kuro5hin, etc.),
+people are not afraid to speak out when they feel the work of a
+particular person or group is substandard or threatens the public
+good. Thus our best potential defense against biological threats is to
+create and maintain open networks of researchers at every level,
+thereby magnifying the number of eyes and ears keeping track of what
+is going on in the world.
+
+3) Because human intelligence gathering is, alas, demonstrably
+inadequate for the task at hand, we should develop technology that
+enables pervasive environmental monitoring. The best way to detect
+biological threats is using biology itself, in the form of genetically
+modified organisms. Unlike the production and deployment of chemical
+weapons or fissile materials, which can often be monitored with remote
+sensing technologies such as aerial and satellite reconnaissance, the
+initial indication of biological threats may be only a few cells or
+molecules. This small quantity may already be a lethal dose and can be
+very hard to detect using physical means. Alternatively, "surveillance
+bugs" distributed in the environment could transduce small amounts of
+cells or molecules into signals measurable by remote sensing. The
+organisms might be modified to reproduce in the presence of certain
+signals, to change their schooling or flocking behavior, or to alter
+their physical appearance. Candidate "detector platforms" span the
+range of bacteria, insects, plants, and animals. Transgenic
+zebrafish34 and nematodes35 have already been produced for this
+purpose, and there is some progress in producing a generalized system
+for detecting arbitrary molecules using signal transduction pathways
+in bacteria.
+
+None of these recommended goals will be trivial to accomplish.
+Considerable sums have already been spent over the last five decades
+to understand biological systems at the molecular level, much of this
+in the name of defeating infectious disease. While this effort has
+produced considerable advances in diagnosing and treating disease, we
+should now redouble our efforts. We have entered an era when the
+ability to modify biological systems is becoming widespread in the
+absence of an attendant ability to remediate potential mistakes or
+mischief. Maintaining safety and security in this context will require
+concerted effort, and an immediate, focused governmental R&D
+investment would be a good start. Although "bug to drug in twenty four
+hours" sounds much flashier than "bug to drug in six to eight weeks,"
+the latter is the more realistic timeline to shoot for?even if it is a
+decade or more away?and this goal may serve as an organizational focus
+for an endeavor organized and sponsored by the government.
+"""
+
+Some related links:
+http://del.icio.us/mbauwens/Open-Biology
+http://www.bios.net/daisy/bios/15
+http://www.wired.com/news/medtech/0,1286,66545,00.html
+http://www.wired.com/news/medtech/0,1286,66289,00.html
+http://www.worldchanging.com/archives/002893.html
+http://opensource.mit.edu/papers/rai.pdf (Open and Collaborative
+Biomedical Research: Theory and Evidence, Rai Arti.)
+and then all of the wonderful open access journals :-) like
+http://biomedcentral.com/home/ and PLoS Biology etc.
+
+Then there's also the issue of genomics:
+
+http://p2pfoundation.net/Open_Genomics
+http://genomics.org/ and the $0 Genomics Project, plus lots of other tools
+http://polonator.org/
+"""
+To usher in the dawn of truly personalized medicine, and accurately
+tease apart the confluence of factors determining human pathology, it
+will be necessary (albeit not sufficient) that large numbers of
+reliable, high-throughput second-generation sequencers be installed
+and operated. We have identified the upfront and recurring cost of
+second-generation sequencing as key factors inhibiting their rate of
+adoption, and have assiduously sought to drive these as low as
+possible. At the same time, throughput, accuracy, and reliability have
+been the focus of relentless development efforts.
+
+A key differentiator in our approach to second-generation sequencing
+is our embrace of a flexible, open source development model. The
+system's operating software is fully documented and freely available
+for public download, as are the protocols and reagent sets. All
+aspects of the system are fully programmable, with parameters and
+sequences accessible and modifiable by its users to improve and extend
+the instrument. In addition, all subsystems are highly modular and
+easily upgraded and/or retrofitted; as a result, we fully anticipate
+that the instrument will evolve and improve over time. We expect a
+worldwide user community to develop and flourish, advancing both the
+design and the operational specifics of the platform, from which all
+users in turn will benefit.
+"""
+
+Implications on health reform:
+http://www.designcouncil.info/mt/RED/health/
+http://p2pfoundation.net/Open_Health
+
+http://p2pfoundation.net/Open_Notebook_Science
+http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-scien...<http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html>
+"""
+To clear up confusion, I will use the term Open Notebook Science,
+which has not yet suffered meme mutation. By this I mean that there is
+a URL to a laboratory notebook (like this) that is freely available
+and indexed on common search engines. It does not necessarily have to
+look like a paper notebook but it is essential that all of the
+information available to the researchers to make their conclusions is
+equally available to the rest of the world. Basically, no insider
+information.
+"""
+IIRC, openwetware.org includes some "open notebooks" on the wiki from
+iGEM participants and other research teams.
+
+Also, open access research has been hitting a high note recently.
+http://en.wikipedia.org/wiki/Open_access
+"""
+Open access (OA) or open access publishing is the publication of
+material in such a way that it is available to all potential users
+without financial or other barriers. An open access publisher is a
+publisher producing such material. Many types of material can be
+published in this manner: scholarly journals, known specifically as
+open access journals, magazines and newsletters, e-text or other
+e-books (whether scholarly, literary, or recreational), music, fine
+arts, or any product of intellectual activity. In this context,
+non-open access distribution is called "toll access" or "subscription
+access".
+"""
+
+Also in the news, NIH has been going open access:
+http://slashdot.org/article.pl?sid=07/12/27/0219228
+http://science.slashdot.org/article.pl?sid=07/11/07/2318208
+http://science.slashdot.org/article.pl?sid=04/08/06/1225211&tid=134&t...<http://science.slashdot.org/article.pl?sid=04/08/06/1225211&tid=134&tid=103>
+http://yro.slashdot.org/article.pl?sid=07/03/02/0158208
+
+PLoS is a life-saver, and so are the many, many other open access
+preprint archives available through the web. Everyone on this list is
+probably familiar with pubmedcentral, or pubget.com, and in general
+see these lists-
+http://heybryan.org/mediawiki/index.php/List_of_bioinformatics_databases
+http://web.archive.org/web/20020206160321/http://gwu.edu/~gprice/scie...<http://web.archive.org/web/20020206160321/http://gwu.edu/%7Egprice/science.htm>
+http://www.freepint.com/gary/direct.htm
+http://slashdot.org/comments.pl?sid=239163&cid=19595767
+.. there are many, many databases that I have been unable to recall
+and cite all at once, so if anyone ever needs to find a paper or look
+up some piece of information, there's more open access and free
+databases than I can recall, and the proprietary stuff is also
+available to almost anybody with a community college library
+subscription or otherwise a university enrollment/faculty status.
+
+http://p2pfoundation.net/Openness_in_Science
+http://blog.openwetware.org/scienceintheopen/2008/09/30/a-personal-vi...<http://blog.openwetware.org/scienceintheopen/2008/09/30/a-personal-view-of-open-science-part-i/>
+""" (summarizing)
+1. Science is traditionally an open endeavour
+2. The internet/web potentially increases the openness
+3. This potential is under-used
+4. An advocacy movement is needed
+"""
+
+So, now for some licensing stuff. For the run down on GNU, the free
+software movement, open source licenses, then there's an excellent
+video that has been produced called "Revolution OS" and it's available
+on Google Video:
+http://video.google.com/videosearch?q=revolution+os&emb=0#
+(w/ Richard Stallman (RMS), Eric S Raymond (ESR), Linus Torvalds,
+Bruce Perens, ...)
+
+http://p2pfoundation.net/Open_Licenses
+
+http://creativecommons.org/
+http://sciencecommons.org/
+http://en.wikipedia.org/wiki/Science_Commons
+
+"Creative Commons provides free tools that let authors, scientists,
+artists, and educators easily mark their creative work with the
+freedoms they want it to carry. You can use CC to change your
+copyright terms from "All Rights Reserved" to "Some Rights Reserved."
+We're a nonprofit organization. Everything we do ? including the
+software we create ? is free."
+
+"Science Commons designs strategies and tools for faster, more
+efficient web-enabled scientific research. We identify unnecessary
+barriers to research, craft policy guidelines and legal agreements to
+lower those barriers, and develop technology to make research, data
+and materials easier to find and use. Our goal is to speed the
+translation of data into discovery ? unlocking the value of research
+so more people can benefit from the work scientists are doing."
+
+Quick video on Science Commons:
+http://sciencecommons.org/about/science-commons-dylan-video/
+And again the "Revolution OS" video:
+http://video.google.com/videosearch?q=revolution+os&emb=0#
+And there are many more of interest on http://ted.com/ (and its little
+(free) brother: http://bilconference.com/ )
+
+And then there's the open manufacturing group that has been exploring
+some of these issues, like biotech, but also in terms of machine
+shops, kinematic self-replicating machines, advanced automation, etc.,
+in terms of open source hardware and shared design initiatives:
+http://openmanufacturing.net/
+http://groups.google.com/group/openmanufacturing
+http://p2pfoundation.net/Product_Hacking for a list of many open
+hardware projects. A quick glance shows that there are vehicles,
+microprocessors, DNA synthesizers, most of everything from the Maker
+community, instructables, etc.
+
+Open Design Foundation
+http://www.opendesign.org/
+"The mission of the Open Design Foundation is to promote an
+alternative method for designing and developing technology, based on
+the free exchange of comprehensive design information. The Open Design
+Foundation provides the collaborative space to foster open source
+physical design, and seeks to strike a balance between the
+independence of individual designers and the collective power of
+collaboration. The Open Design Foundation hopes that this method will
+enable and promote design projects, which are motivated by personal
+conviction and passion of designers for the greater benefit of a
+global society."
+
+Debian Social Contract
+http://www.debian.org/social_contract
+http://en.wikipedia.org/wiki/Debian_Social_Contract
+
+Ubuntu Code of Conduct
+http://www.ubuntu.com/community/conduct
+
+"""
+Ubuntu is an African concept of 'humanity towards others'. It is 'the
+belief in a universal bond of sharing that connects all humanity'. The
+same ideas are central to the way the Ubuntu community collaborates.
+Members of the Ubuntu community need to work together effectively, and
+this code of conduct lays down the "ground rules" for our cooperation.
+
+We chose the name Ubuntu for our distribution because we think it
+captures perfectly the spirit of the sharing and cooperation that is
+at the heart of the open source movement. In the Free Software world,
+we collaborate freely on a volunteer basis to build software for
+everyone's benefit. We improve on the work of others, which we have
+been given freely, and then share our improvements on the same basis.
+
+That collaboration depends on good relationships between developers.
+To this end, we've agreed on the following code of conduct to help
+define the ways that we think collaboration and cooperation should
+work.
+
+If you wish to sign the code of conduct, you can sign the canonical copy
+online.
+"""
+
+Open Source Definition
+http://www.opensource.org/docs/definition.php
+
+Summarized, the "open source definition" is generally:
+"""
+1. Free Redistribution
+2. Source Code [how it's done]
+3. Derived Works
+4. Integrity of The Author's Source Code
+5. No Discrimination Against Persons or Groups
+6. No Discrimination Against Fields of Endeavor
+7. Distribution of License
+8. License Must Not Be Specific to a Product
+9. License Must Not Restrict Other Software
+10. License Must Be Technology-Neutral
+"""
+
+Another good book to read on these subjects is Two Bits:
+http://twobits.net/about/
+"In Two Bits, Christopher M. Kelty investigates the history and
+cultural significance of Free Software, revealing the people and
+practices that have transformed not only software, but also music,
+film, science, and education."
+and: "Free Software is a set of practices devoted to the collaborative
+creation of software source code that is made openly and freely
+available through an unconventional use of copyright law. Kelty shows
+how these specific practices have reoriented the relations of power
+around the creation, dissemination, and authorization of all kinds of
+knowledge after the arrival of the Internet. Two Bits also makes an
+important contribution to discussions of public spheres and social
+imaginaries by demonstrating how Free Software is a "recursive public"
+public organized around the ability to build, modify, and maintain the
+very infrastructure that gives it life in the first place."
+
+Alright, that feels like enough for at least one book to elaborate on,
+so is probably a good stopping point. And to think that I haven't
+included any sources explaining the importance of debian ("$10 billion
+worth of work" - for free - over 20,000 free software packages,
+apt-get, repositories, etc.), or works like Andreas Lloyd's
+anthropological exploration into the ubuntu user community.
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+
+--
+The P2P Foundation researches, documents and promotes peer to peer
+alternatives.
+
+Wiki and Encyclopedia, at http://p2pfoundation.net; Blog, at
+http://blog.p2pfoundation.net; Newsletter, at
+http://integralvisioning.org/index.php?topic=p2p
+
+Basic essay at http://www.ctheory.net/articles.aspx?id=499; interview at
+http://poynder.blogspot.com/2006/09/p2p-very-core-of-world-to-come.html
+BEST VIDEO ON P2P:
+http://video.google.com.au/videoplay?docid=4549818267592301968&hl=en-AU
+
+KEEP UP TO DATE through our Delicious tags at http://del.icio.us/mbauwens
+
+The work of the P2P Foundation is supported by SHIFTN,
+http://www.shiftn.com/
+
+
+From rufus.pollock at okfn.org  Wed Mar 11 09:28:26 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 11 Mar 2009 09:28:26 +0000
+Subject: [open-science] Draft Open Database License Available for Comments
+Message-ID: <b68e90820903110228h7646c21en261bb0414b04bc20@mail.gmail.com>
+
+[Apologies for cross-posting]
+
+After more than a year of drafting and consultation with interested
+communities, especially Open Street Map, Open Data Commons has
+recently released for public comments a beta draft of its
+("Attribution, Share-Alike") Open Database License (ODbL):
+
+  <http://www.opendatacommons.org/licenses/odbl/>
+
+The current provisional deadline for comments is 23:59 GMT on 20 March 2009.
+
+Details on how to submit comments are given on the ODbL license page
+given above.
+
+Regards,
+
+Rufus
+
+
+From yishaym at gmail.com  Thu Mar 12 01:50:45 2009
+From: yishaym at gmail.com (Yishay Mor)
+Date: Thu, 12 Mar 2009 01:50:45 +0000
+Subject: [open-science] Grant Funding Call 03/09: Rapid Innovation Grants
+Message-ID: <e5fbfda10903111850y4ccb224en9e6e1be7527bc567@mail.gmail.com>
+
+http://jisc.ac.uk/fundingopportunities/funding_calls/2009/03/309ricall
+Grant Funding Call 03/09: Rapid Innovation Grants
+
+Submission Deadline: 22 April 2009 12:00
+
+Committees: JISC Integrated Information Environment
+committee<http://jisc.ac.uk/aboutus/committees/subcommittees/jiie.aspx>
+1
+
+JISC invites institutions to submit funding proposals for grants to fund
+technical rapid innovation projects addressing priority areas.
+
+Proposals are sought under the following priority areas:
+
+   - Mashups of open data
+   - Aggregating tags and feeds
+   - Semantic web/ linked data
+   - Data search
+   - Visualisation
+   - Personalisation
+   - Mobile Technologies
+   - Lightweight Shared Infrastructure Services
+   - User Interface Design
+
+Funding of between ?15,000 - ?40,000 for 6 month projects for up to 30
+projects is available
+
+The deadline for receipt of proposals in response to this call is *12 noon
+on Wednesday 22 April 2009*.
+
+Funding is available for projects starting in early-mid June 2009 for 6
+months. All projects must be complete by 30 November 2009.
+
+Further information can be found in the full Call below.
+
+___________________________
+ Yishay Mor, Researcher, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+  http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+  +44-20-78378888 x5737
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090312/8e65b716/attachment.htm 
+
+From yishaym at gmail.com  Thu Mar 12 10:14:15 2009
+From: yishaym at gmail.com (Yishay Mor)
+Date: Thu, 12 Mar 2009 10:14:15 +0000
+Subject: [open-science] last places: Design Patterns for civic empowerment,
+	March 17th, London Knowledge Lab
+Message-ID: <e5fbfda10903120314l4bc26dc7q5bc2878f4238fcd1@mail.gmail.com>
+
+Design Patterns for civic empowerment
+
+ A joint workshop of the Pattern Language
+Network<http://projects.lkl.ac.uk/planet>,
+the Public Sphere Project <http://www.publicsphereproject.org/>, and PRADSA
+network <http://www.technologyandsocialaction.org/>
+
+*Date*: 17th March, 2009 *Location*: London Knowledge
+Lab<http://lkl.ac.uk/contact>
+*Registration*: http://socialactionpatterns.eventbrite.com/ *details*:
+http://purl.org/planet/Groups.SocialAction/
+
+For the last seven years, the public sphere
+project<http://www.publicsphereproject.org/patterns/>has been
+developing the Liberating Voices pattern language, which aims to
+help people think about, design, develop, manage and use information and
+communication systems that more fully meet human needs now ? and in the
+future. Each pattern in this language, when complete, will represent an
+important insight that will help contribute to a communication revolution.
+A book that contains the first version of the Liberating Voices pattern
+language is now available from MIT
+Press<http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11601>.
+
+To celebrate the release of this book, we will be running a pattern workshop
+on the theme of civic empowerment and social action. This workshop will
+follow the methodology<http://patternlanguagenetwork.myxwiki.org/xwiki/bin/view/Outcomes/Methodology>developed
+by the Planet project, and refined through a long series of
+events.
+
+This workshop will bring together social and technology activists to explore
+the opportunities and challenges that participatory media bring to social
+action and civic empowerment. It will provide participants an invaluable
+opportunity to share their experiences and collaboratively reflect on them,
+highlighting common problems and possible solutions.
+
+___________________________
+ Yishay Mor, Researcher, London Knowledge Lab
+  http://www.lkl.ac.uk/people/mor.html
+  http://www.google.com/calendar/embed?src=yishaym%40gmail.com
+  +44-20-78378888 x5737
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090312/276c734c/attachment.htm 
+
+From jonathan.gray at okfn.org  Sat Mar 14 09:30:13 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 14 Mar 2009 10:30:13 +0100
+Subject: [open-science] Launch of new Working Group on Open Data in Science
+Message-ID: <54ca21750903140230p912b393mc8d3b98e122f28cf@mail.gmail.com>
+
+Hi all,
+
+We are pleased to announce the launch of a new Working Group on Open
+Data in Science. In the first instance, the group will aim to:
+
+  1. Act as a central point of reference and support for people who
+think they are interested in open data in science.
+  2. Identify practices of early adopters, collecting data and
+developing guides.
+  3. Act as a hub for the development of low cost, community driven
+projects around open data in science.
+
+We are currently working on:
+
+  * a prize for open data in science
+  * a service to request that a given dataset to be made open or to
+request clarification about whether or not it can be re-used
+  * case studies on the benefits of open data in different domains
+
+Further details can be found at:
+
+  http://okfn.org/wiki/wg/science
+  http://blog.okfn.org/2009/03/13/working-group-on-open-data-in-science/
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From gavin at gavinbaker.com  Mon Mar 16 06:00:26 2009
+From: gavin at gavinbaker.com (Gavin Baker)
+Date: Mon, 16 Mar 2009 02:00:26 -0400
+Subject: [open-science] Why not publish data?
+Message-ID: <49BDEAFA.6090207@gavinbaker.com>
+
+is the title of a post just published on my blog:
+http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+
+I'm eager for comments and critique. Feel free to comment on the blog
+post or respond on this list. I'll copy the post before to facilitate
+discussion:
+
+> I try to avoid writing things that may make me sound stupid, but this
+> post falls in that category.
+> 
+> Recently I was reading about efforts related to data sharing:
+> technological infrastructure, curation, educating researchers, and
+> the like. I was struck by the thought that most of the advocacy for
+> data sharing boils down to an exhortation to stick it in a digital
+> repository.
+> 
+> This seems a bit odd considering that much of what propels science is
+> the pressure to publish (written) results (in journals, conferences,
+> monographs, etc.). There is a hierarchy of venues in terms of
+> prestige, which is in turn linked to research funding, promotion,
+> public attention (media coverage, policy influence), etc.
+> 
+> Might the best way to get researchers to share data be to create a
+> similar system for datasets? It might provide a compelling incentive.
+> 
+> Moreover, publishing might provide a compelling incentive to the
+> related issue of data curation (making data understandable / usable
+> to others, e.g. through formatting, annotation, etc.). Currently,
+> much data doesn't see much use outside the lab where it was
+> generated, so researchers have little incentive to spend time
+> "prettying it up" for others (who may find the way it was recorded to
+> be inscrutable). Even if they are convinced to "share" their data by
+> posting it online, it may seem quite a low priority to spend time
+> making it useful to others. If there was pressure to publish the
+> dataset, though, then researchers would have that incentive to make
+> the data as intuitively useful to others as practicable, so reviewers
+> could quickly identify the novelty of the data.
+> 
+> This doesn't seem so outlandish to me. There are similar efforts to
+> provide publication fora for materials which were not traditionally
+> unpublished (we might say undersupplied), such as negative results
+> and experimental techniques.
+> 
+> If you think of it in terms of a CV, the difference is between these
+> lines:
+> 
+> * Created and shared large, valuable dataset which is highly regarded
+> by peers 
+> * Publication in J. Big Useful Datasets, impact factor X
+> 
+> It may be hard for a reviewer to quantify or validate the former; the
+> latter demonstrates that the researcher's contribution has already
+> been validated and provides built-in metrics to quantify the
+> contribution.
+> 
+> There are other ways to skin the same cat. One option would be to
+> build alternative systems for conferring recognition (e.g. awards,
+> metrics for contributions to shared datasets, etc.). The other
+> approach is to make data sharing a more enforceable part of other
+> scientific endeavors, e.g. mandatory as a condition of research
+> funding, mandatory as a condition of publication (of written results)
+> in a journal, etc. I think multiple approaches will yield the best
+> result. It seems to me that creating "journals" (or some other name)
+> for "publishing" datasets could be a useful way to spur
+> participation.
+> 
+> Has this been done already? What are the drawbacks to this approach?
+
+Best,
+-- 
+Gavin Baker
+http://www.gavinbaker.com/
+gavin at gavinbaker.com
+
+Science is not everything, but science is very beautiful.
+    J. Robert Oppenheimer
+
+
+From a.p.swan at talk21.com  Mon Mar 16 07:39:54 2009
+From: a.p.swan at talk21.com (a.p.swan at talk21.com)
+Date: Mon, 16 Mar 2009 07:39:54 +0000 (GMT)
+Subject: [open-science] Why not publish data?
+In-Reply-To: <49BDEAFA.6090207@gavinbaker.com>
+Message-ID: <929402.89003.qm@web86405.mail.ird.yahoo.com>
+
+Hi Gavin,
+
+There are lots of moves in the right direction already. All the UK Research Councils have policies on data publishing, so does Wellcome, the European Research Council and various others. 
+
+At a meeting convened by the ESRC last Thursday in London we heard that a system for developing and assigning DOI-like identifiers to datasets is under development. And of course some journals in some fields require supporting data to be published before they will publish articles. This usually means that the author must provide, for example, a Genbank accession number for the dataset, but sometimes journals require the dataset to publish themselves on their own websites. this is far from optimal because they can usually only handle PDF, which is not a readily re-usable format. But it's a start and a good principle to establish.
+
+The issue of career-related rewards for publishing data is still unresolved, though, and until we get to a point where researchers see an explicit link between sharing their data and career progression we will still be stuck in the situation where journal articles are the currency. This is artificial in some disciplines now, where practice and cultures are ready to consider datasets as the primary outputs but are hampered by the lack of reward mechanisms.
+
+Our study on researchers' attitudes and practices with respect to data publication reports in detail on these issues and makes recommendations, including related to the issue of reward. It can be found here: http://eprints.ecs.soton.ac.uk/16742/
+
+Alma Swan
+Key Perspectives Ltd
+Truro, UK
+
+--- On Mon, 16/3/09, Gavin Baker <gavin at gavinbaker.com> wrote:
+From: Gavin Baker <gavin at gavinbaker.com>
+Subject: [open-science] Why not publish data?
+To: "SPARC-OpenData" <SPARC-OpenData at arl.org>, open-science at lists.okfn.org
+Date: Monday, 16 March, 2009, 6:00 AM
+
+is the title of a post just published on my blog:
+http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+
+I'm eager for comments and critique. Feel free to comment on the blog
+post or respond on this list. I'll copy the post before to facilitate
+discussion:
+
+> I try to avoid writing things that may make me sound stupid, but this
+> post falls in that category.
+> 
+> Recently I was reading about efforts related to data sharing:
+> technological infrastructure, curation, educating researchers, and
+> the like. I was struck by the thought that most of the advocacy for
+> data sharing boils down to an exhortation to stick it in a digital
+> repository.
+> 
+> This seems a bit odd considering that much of what propels science is
+> the pressure to publish (written) results (in journals, conferences,
+> monographs, etc.). There is a hierarchy of venues in terms of
+> prestige, which is in turn linked to research funding, promotion,
+> public attention (media coverage, policy influence), etc.
+> 
+> Might the best way to get researchers to share data be to create a
+> similar system for datasets? It might provide a compelling incentive.
+> 
+> Moreover, publishing might provide a compelling incentive to the
+> related issue of data curation (making data understandable / usable
+> to others, e.g. through formatting, annotation, etc.). Currently,
+> much data doesn't see much use outside the lab where it was
+> generated, so researchers have little incentive to spend time
+> "prettying it up" for others (who may find the way it was
+recorded to
+> be inscrutable). Even if they are convinced to "share" their
+data by
+> posting it online, it may seem quite a low priority to spend time
+> making it useful to others. If there was pressure to publish the
+> dataset, though, then researchers would have that incentive to make
+> the data as intuitively useful to others as practicable, so reviewers
+> could quickly identify the novelty of the data.
+> 
+> This doesn't seem so outlandish to me. There are similar efforts to
+> provide publication fora for materials which were not traditionally
+> unpublished (we might say undersupplied), such as negative results
+> and experimental techniques.
+> 
+> If you think of it in terms of a CV, the difference is between these
+> lines:
+> 
+> * Created and shared large, valuable dataset which is highly regarded
+> by peers 
+> * Publication in J. Big Useful Datasets, impact factor X
+> 
+> It may be hard for a reviewer to quantify or validate the former; the
+> latter demonstrates that the researcher's contribution has already
+> been validated and provides built-in metrics to quantify the
+> contribution.
+> 
+> There are other ways to skin the same cat. One option would be to
+> build alternative systems for conferring recognition (e.g. awards,
+> metrics for contributions to shared datasets, etc.). The other
+> approach is to make data sharing a more enforceable part of other
+> scientific endeavors, e.g. mandatory as a condition of research
+> funding, mandatory as a condition of publication (of written results)
+> in a journal, etc. I think multiple approaches will yield the best
+> result. It seems to me that creating "journals" (or some other
+name)
+> for "publishing" datasets could be a useful way to spur
+> participation.
+> 
+> Has this been done already? What are the drawbacks to this approach?
+
+Best,
+-- 
+Gavin Baker
+http://www.gavinbaker.com/
+gavin at gavinbaker.com
+
+Science is not everything, but science is very beautiful.
+    J. Robert Oppenheimer
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/ac7d3d97/attachment.htm 
+
+From pm286 at cam.ac.uk  Mon Mar 16 07:54:16 2009
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 16 Mar 2009 07:54:16 +0000
+Subject: [open-science] Why not publish data?
+In-Reply-To: <49BDEAFA.6090207@gavinbaker.com>
+References: <49BDEAFA.6090207@gavinbaker.com>
+Message-ID: <67fd68330903160054x2417aad6n2530f734b6a06d69@mail.gmail.com>
+
+Thanks for positing to the list - I hope it generates discussion.
+
+On Mon, Mar 16, 2009 at 6:00 AM, Gavin Baker <gavin at gavinbaker.com> wrote:
+
+> is the title of a post just published on my blog:
+> http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+>
+> I'm eager for comments and critique. Feel free to comment on the blog
+> post or respond on this list. I'll copy the post before to facilitate
+> discussion:
+>
+> > I try to avoid writing things that may make me sound stupid, but this
+> > post falls in that category.
+> >
+> > Recently I was reading about efforts related to data sharing:
+> > technological infrastructure, curation, educating researchers, and
+> > the like. I was struck by the thought that most of the advocacy for
+> > data sharing boils down to an exhortation to stick it in a digital
+> > repository.
+
+
+This would be simplisitic. There are many digital repositories which serve
+this purpose but lots of thought and management go into them. They include
+much of bioscience (EBI, NCBI, PDB, etc.) which you could call digital
+repositories, but they are domain repositories managed by domain-oriented
+scientists. It is often mandatory to deposit at point of publication.
+
+What is simplistic is to think that simply putting data into institutional
+repositories will be of great use. But I don't hear a great deal of advocacy
+for that
+
+>
+> >
+> ...
+
+
+
+> >
+> > Might the best way to get researchers to share data be to create a
+> > similar system for datasets? It might provide a compelling incentive.
+> >
+> > If you think of it in terms of a CV, the difference is between these
+> > lines:
+
+...
+
+>
+> >
+> > * Created and shared large, valuable dataset which is highly regarded
+> > by peers
+> > * Publication in J. Big Useful Datasets, impact factor X
+
+
+Several people are advocating something like this. It depends on the culture
+of the domain. I have encountered many peers that do not regard tools to
+create and datasets as "proper science". But this is very domain dependent.
+
+>
+> >
+> > It may be hard for a reviewer to quantify or validate the former; the
+> > latter demonstrates that the researcher's contribution has already
+> > been validated and provides built-in metrics to quantify the
+> > contribution.
+
+
+There are no built-in metrics, anymore than there are built-in metrics for
+publications/papers.  Each data repository will be judged by the community.
+It may give rise to metrics or it may not
+
+
+> >
+> > There are other ways to skin the same cat. One option would be to
+> > build alternative systems for conferring recognition (e.g. awards,
+> > metrics for contributions to shared datasets, etc.). The other
+> > approach is to make data sharing a more enforceable part of other
+> > scientific endeavors, e.g. mandatory as a condition of research
+> > funding, mandatory as a condition of publication (of written results)
+> > in a journal, etc. I think multiple approaches will yield the best
+> > result. It seems to me that creating "journals" (or some other name)
+> > for "publishing" datasets could be a useful way to spur
+> > participation.
+
+
+Some funders and some domains already do this. Others - like chemistry and
+materials see data as a valuable competitive advantage or real-world IP.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/c1f0b550/attachment.htm 
+
+From Branwen.Hide at rin.ac.uk  Mon Mar 16 10:32:32 2009
+From: Branwen.Hide at rin.ac.uk (Hide, Branwen)
+Date: Mon, 16 Mar 2009 10:32:32 -0000
+Subject: [open-science] Why not publish data?
+In-Reply-To: <67fd68330903160054x2417aad6n2530f734b6a06d69@mail.gmail.com>
+References: <49BDEAFA.6090207@gavinbaker.com>
+	<67fd68330903160054x2417aad6n2530f734b6a06d69@mail.gmail.com>
+Message-ID: <CE0B7072F12A4445B9D57BCF657430840322D2A5@w2k3-lonex2.ad.bl.uk>
+
+The Royal Meteorological Society and the National Centre for Atmospheric
+Science are in the process of developing a data journal specifically for
+Meteorological Data. A report of the project is due the end of April.
+More information on the programme can be found at
+http://www.jisc.ac.uk/whatwedo/programmes/reppres/sue/ojims.aspx or on
+the project site http://proj.badc.rl.ac.uk/ojims
+
+ 
+
+Branwen Hide
+
+Research Information Network (www.rin.ac.uk <http://www.rin.ac.uk/> )
+
+ 
+
+ 
+
+________________________________
+
+From: open-science-bounces at lists.okfn.org
+[mailto:open-science-bounces at lists.okfn.org] On Behalf Of Peter
+Murray-Rust
+Sent: 16 March 2009 07:54
+To: Gavin Baker
+Cc: SPARC-OpenData; open-science at lists.okfn.org
+Subject: Re: [open-science] Why not publish data?
+
+ 
+
+Thanks for positing to the list - I hope it generates discussion.
+
+On Mon, Mar 16, 2009 at 6:00 AM, Gavin Baker <gavin at gavinbaker.com>
+wrote:
+
+is the title of a post just published on my blog:
+http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+
+I'm eager for comments and critique. Feel free to comment on the blog
+post or respond on this list. I'll copy the post before to facilitate
+discussion:
+
+> I try to avoid writing things that may make me sound stupid, but this
+> post falls in that category.
+>
+> Recently I was reading about efforts related to data sharing:
+> technological infrastructure, curation, educating researchers, and
+> the like. I was struck by the thought that most of the advocacy for
+> data sharing boils down to an exhortation to stick it in a digital
+> repository.
+
+ 
+
+This would be simplisitic. There are many digital repositories which
+serve this purpose but lots of thought and management go into them. They
+include much of bioscience (EBI, NCBI, PDB, etc.) which you could call
+digital repositories, but they are domain repositories managed by
+domain-oriented scientists. It is often mandatory to deposit at point of
+publication.
+
+What is simplistic is to think that simply putting data into
+institutional repositories will be of great use. But I don't hear a
+great deal of advocacy for that
+
+	
+	>
+	...
+
+ 
+
+	>
+	> Might the best way to get researchers to share data be to
+create a
+	> similar system for datasets? It might provide a compelling
+incentive.
+	>
+	> If you think of it in terms of a CV, the difference is between
+these
+	> lines:
+
+... 
+
+	
+	>
+	> * Created and shared large, valuable dataset which is highly
+regarded
+	> by peers
+	> * Publication in J. Big Useful Datasets, impact factor X
+
+
+Several people are advocating something like this. It depends on the
+culture of the domain. I have encountered many peers that do not regard
+tools to create and datasets as "proper science". But this is very
+domain dependent.
+
+	
+	>
+	> It may be hard for a reviewer to quantify or validate the
+former; the
+	> latter demonstrates that the researcher's contribution has
+already
+	> been validated and provides built-in metrics to quantify the
+	> contribution.
+
+ 
+
+There are no built-in metrics, anymore than there are built-in metrics
+for publications/papers.  Each data repository will be judged by the
+community. It may give rise to metrics or it may not
+
+	
+	>
+	> There are other ways to skin the same cat. One option would be
+to
+	> build alternative systems for conferring recognition (e.g.
+awards,
+	> metrics for contributions to shared datasets, etc.). The other
+	> approach is to make data sharing a more enforceable part of
+other
+	> scientific endeavors, e.g. mandatory as a condition of
+research
+	> funding, mandatory as a condition of publication (of written
+results)
+	> in a journal, etc. I think multiple approaches will yield the
+best
+	> result. It seems to me that creating "journals" (or some other
+name)
+	> for "publishing" datasets could be a useful way to spur
+	> participation.
+
+
+Some funders and some domains already do this. Others - like chemistry
+and materials see data as a valuable competitive advantage or real-world
+IP. 
+
+
+P. 
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+The contents of this email are sent in confidence for the use of the intended recipients only. If you are not one of the intended recipients, please do not take action on it or show it to anyone else, but return this email to the sender and delete your copy of it.
+ 
+Find the Research Information Network online at www.rin.ac.uk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/0e8a3960/attachment-0001.htm 
+
+From ian at mulvany.net  Mon Mar 16 11:13:25 2009
+From: ian at mulvany.net (Ian Mulvany)
+Date: Mon, 16 Mar 2009 11:13:25 +0000
+Subject: [open-science] open-science Digest, Vol 6, Issue 5
+In-Reply-To: <mailman.59106.1237199554.30410.open-science@lists.okfn.org>
+References: <mailman.59106.1237199554.30410.open-science@lists.okfn.org>
+Message-ID: <dc8eef530903160413y3c24f878l7cc459f4ec1273db@mail.gmail.com>
+
+Nice thread.
+
+Is there an index of data repositories?
+
+Who is gearing up to curate and maintain BIG data? Google pulled out, Amazon
+is starting to get it's feet wet in this area, anyone else?
+
+- Ian
+
+On Mon, Mar 16, 2009 at 10:32 AM, <open-science-request at lists.okfn.org>wrote:
+
+> Send open-science mailing list submissions to
+>        open-science at lists.okfn.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>        http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+> or, via email, send a message with subject or body 'help' to
+>        open-science-request at lists.okfn.org
+>
+> You can reach the person managing the list at
+>        open-science-owner at lists.okfn.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of open-science digest..."
+>
+>
+> Today's Topics:
+>
+>   1. Why not publish data? (Gavin Baker)
+>   2. Re: Why not publish data? (a.p.swan at talk21.com)
+>   3. Re: Why not publish data? (Peter Murray-Rust)
+>   4. Re: Why not publish data? (Hide, Branwen)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Mon, 16 Mar 2009 02:00:26 -0400
+> From: Gavin Baker <gavin at gavinbaker.com>
+> Subject: [open-science] Why not publish data?
+> To: SPARC-OpenData <SPARC-OpenData at arl.org>,
+>        open-science at lists.okfn.org
+> Message-ID: <49BDEAFA.6090207 at gavinbaker.com>
+> Content-Type: text/plain; charset=ISO-8859-1
+>
+> is the title of a post just published on my blog:
+> http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+>
+> I'm eager for comments and critique. Feel free to comment on the blog
+> post or respond on this list. I'll copy the post before to facilitate
+> discussion:
+>
+> > I try to avoid writing things that may make me sound stupid, but this
+> > post falls in that category.
+> >
+> > Recently I was reading about efforts related to data sharing:
+> > technological infrastructure, curation, educating researchers, and
+> > the like. I was struck by the thought that most of the advocacy for
+> > data sharing boils down to an exhortation to stick it in a digital
+> > repository.
+> >
+> > This seems a bit odd considering that much of what propels science is
+> > the pressure to publish (written) results (in journals, conferences,
+> > monographs, etc.). There is a hierarchy of venues in terms of
+> > prestige, which is in turn linked to research funding, promotion,
+> > public attention (media coverage, policy influence), etc.
+> >
+> > Might the best way to get researchers to share data be to create a
+> > similar system for datasets? It might provide a compelling incentive.
+> >
+> > Moreover, publishing might provide a compelling incentive to the
+> > related issue of data curation (making data understandable / usable
+> > to others, e.g. through formatting, annotation, etc.). Currently,
+> > much data doesn't see much use outside the lab where it was
+> > generated, so researchers have little incentive to spend time
+> > "prettying it up" for others (who may find the way it was recorded to
+> > be inscrutable). Even if they are convinced to "share" their data by
+> > posting it online, it may seem quite a low priority to spend time
+> > making it useful to others. If there was pressure to publish the
+> > dataset, though, then researchers would have that incentive to make
+> > the data as intuitively useful to others as practicable, so reviewers
+> > could quickly identify the novelty of the data.
+> >
+> > This doesn't seem so outlandish to me. There are similar efforts to
+> > provide publication fora for materials which were not traditionally
+> > unpublished (we might say undersupplied), such as negative results
+> > and experimental techniques.
+> >
+> > If you think of it in terms of a CV, the difference is between these
+> > lines:
+> >
+> > * Created and shared large, valuable dataset which is highly regarded
+> > by peers
+> > * Publication in J. Big Useful Datasets, impact factor X
+> >
+> > It may be hard for a reviewer to quantify or validate the former; the
+> > latter demonstrates that the researcher's contribution has already
+> > been validated and provides built-in metrics to quantify the
+> > contribution.
+> >
+> > There are other ways to skin the same cat. One option would be to
+> > build alternative systems for conferring recognition (e.g. awards,
+> > metrics for contributions to shared datasets, etc.). The other
+> > approach is to make data sharing a more enforceable part of other
+> > scientific endeavors, e.g. mandatory as a condition of research
+> > funding, mandatory as a condition of publication (of written results)
+> > in a journal, etc. I think multiple approaches will yield the best
+> > result. It seems to me that creating "journals" (or some other name)
+> > for "publishing" datasets could be a useful way to spur
+> > participation.
+> >
+> > Has this been done already? What are the drawbacks to this approach?
+>
+> Best,
+> --
+> Gavin Baker
+> http://www.gavinbaker.com/
+> gavin at gavinbaker.com
+>
+> Science is not everything, but science is very beautiful.
+>    J. Robert Oppenheimer
+>
+>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Mon, 16 Mar 2009 07:39:54 +0000 (GMT)
+> From: a.p.swan at talk21.com
+> Subject: Re: [open-science] Why not publish data?
+> To: SPARC-OpenData <SPARC-OpenData at arl.org>,
+>        open-science at lists.okfn.org,    Gavin Baker <gavin at gavinbaker.com>
+> Message-ID: <929402.89003.qm at web86405.mail.ird.yahoo.com>
+> Content-Type: text/plain; charset="utf-8"
+>
+> Hi Gavin,
+>
+> There are lots of moves in the right direction already. All the UK Research
+> Councils have policies on data publishing, so does Wellcome, the European
+> Research Council and various others.
+>
+> At a meeting convened by the ESRC last Thursday in London we heard that a
+> system for developing and assigning DOI-like identifiers to datasets is
+> under development. And of course some journals in some fields require
+> supporting data to be published before they will publish articles. This
+> usually means that the author must provide, for example, a Genbank accession
+> number for the dataset, but sometimes journals require the dataset to
+> publish themselves on their own websites. this is far from optimal because
+> they can usually only handle PDF, which is not a readily re-usable format.
+> But it's a start and a good principle to establish.
+>
+> The issue of career-related rewards for publishing data is still
+> unresolved, though, and until we get to a point where researchers see an
+> explicit link between sharing their data and career progression we will
+> still be stuck in the situation where journal articles are the currency.
+> This is artificial in some disciplines now, where practice and cultures are
+> ready to consider datasets as the primary outputs but are hampered by the
+> lack of reward mechanisms.
+>
+> Our study on researchers' attitudes and practices with respect to data
+> publication reports in detail on these issues and makes recommendations,
+> including related to the issue of reward. It can be found here:
+> http://eprints.ecs.soton.ac.uk/16742/
+>
+> Alma Swan
+> Key Perspectives Ltd
+> Truro, UK
+>
+> --- On Mon, 16/3/09, Gavin Baker <gavin at gavinbaker.com> wrote:
+> From: Gavin Baker <gavin at gavinbaker.com>
+> Subject: [open-science] Why not publish data?
+> To: "SPARC-OpenData" <SPARC-OpenData at arl.org>, open-science at lists.okfn.org
+> Date: Monday, 16 March, 2009, 6:00 AM
+>
+> is the title of a post just published on my blog:
+> http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+>
+> I'm eager for comments and critique. Feel free to comment on the blog
+> post or respond on this list. I'll copy the post before to facilitate
+> discussion:
+>
+> > I try to avoid writing things that may make me sound stupid, but this
+> > post falls in that category.
+> >
+> > Recently I was reading about efforts related to data sharing:
+> > technological infrastructure, curation, educating researchers, and
+> > the like. I was struck by the thought that most of the advocacy for
+> > data sharing boils down to an exhortation to stick it in a digital
+> > repository.
+> >
+> > This seems a bit odd considering that much of what propels science is
+> > the pressure to publish (written) results (in journals, conferences,
+> > monographs, etc.). There is a hierarchy of venues in terms of
+> > prestige, which is in turn linked to research funding, promotion,
+> > public attention (media coverage, policy influence), etc.
+> >
+> > Might the best way to get researchers to share data be to create a
+> > similar system for datasets? It might provide a compelling incentive.
+> >
+> > Moreover, publishing might provide a compelling incentive to the
+> > related issue of data curation (making data understandable / usable
+> > to others, e.g. through formatting, annotation, etc.). Currently,
+> > much data doesn't see much use outside the lab where it was
+> > generated, so researchers have little incentive to spend time
+> > "prettying it up" for others (who may find the way it was
+> recorded to
+> > be inscrutable). Even if they are convinced to "share" their
+> data by
+> > posting it online, it may seem quite a low priority to spend time
+> > making it useful to others. If there was pressure to publish the
+> > dataset, though, then researchers would have that incentive to make
+> > the data as intuitively useful to others as practicable, so reviewers
+> > could quickly identify the novelty of the data.
+> >
+> > This doesn't seem so outlandish to me. There are similar efforts to
+> > provide publication fora for materials which were not traditionally
+> > unpublished (we might say undersupplied), such as negative results
+> > and experimental techniques.
+> >
+> > If you think of it in terms of a CV, the difference is between these
+> > lines:
+> >
+> > * Created and shared large, valuable dataset which is highly regarded
+> > by peers
+> > * Publication in J. Big Useful Datasets, impact factor X
+> >
+> > It may be hard for a reviewer to quantify or validate the former; the
+> > latter demonstrates that the researcher's contribution has already
+> > been validated and provides built-in metrics to quantify the
+> > contribution.
+> >
+> > There are other ways to skin the same cat. One option would be to
+> > build alternative systems for conferring recognition (e.g. awards,
+> > metrics for contributions to shared datasets, etc.). The other
+> > approach is to make data sharing a more enforceable part of other
+> > scientific endeavors, e.g. mandatory as a condition of research
+> > funding, mandatory as a condition of publication (of written results)
+> > in a journal, etc. I think multiple approaches will yield the best
+> > result. It seems to me that creating "journals" (or some other
+> name)
+> > for "publishing" datasets could be a useful way to spur
+> > participation.
+> >
+> > Has this been done already? What are the drawbacks to this approach?
+>
+> Best,
+> --
+> Gavin Baker
+> http://www.gavinbaker.com/
+> gavin at gavinbaker.com
+>
+> Science is not everything, but science is very beautiful.
+>    J. Robert Oppenheimer
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL:
+> http://lists.okfn.org/pipermail/open-science/attachments/20090316/ac7d3d97/attachment-0001.htm
+>
+> ------------------------------
+>
+> Message: 3
+> Date: Mon, 16 Mar 2009 07:54:16 +0000
+> From: Peter Murray-Rust <pm286 at cam.ac.uk>
+> Subject: Re: [open-science] Why not publish data?
+> To: Gavin Baker <gavin at gavinbaker.com>
+> Cc: SPARC-OpenData <SPARC-OpenData at arl.org>,
+>        open-science at lists.okfn.org
+> Message-ID:
+>        <67fd68330903160054x2417aad6n2530f734b6a06d69 at mail.gmail.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> Thanks for positing to the list - I hope it generates discussion.
+>
+> On Mon, Mar 16, 2009 at 6:00 AM, Gavin Baker <gavin at gavinbaker.com> wrote:
+>
+> > is the title of a post just published on my blog:
+> > http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+> >
+> > I'm eager for comments and critique. Feel free to comment on the blog
+> > post or respond on this list. I'll copy the post before to facilitate
+> > discussion:
+> >
+> > > I try to avoid writing things that may make me sound stupid, but this
+> > > post falls in that category.
+> > >
+> > > Recently I was reading about efforts related to data sharing:
+> > > technological infrastructure, curation, educating researchers, and
+> > > the like. I was struck by the thought that most of the advocacy for
+> > > data sharing boils down to an exhortation to stick it in a digital
+> > > repository.
+>
+>
+> This would be simplisitic. There are many digital repositories which serve
+> this purpose but lots of thought and management go into them. They include
+> much of bioscience (EBI, NCBI, PDB, etc.) which you could call digital
+> repositories, but they are domain repositories managed by domain-oriented
+> scientists. It is often mandatory to deposit at point of publication.
+>
+> What is simplistic is to think that simply putting data into institutional
+> repositories will be of great use. But I don't hear a great deal of
+> advocacy
+> for that
+>
+> >
+> > >
+> > ...
+>
+>
+>
+> > >
+> > > Might the best way to get researchers to share data be to create a
+> > > similar system for datasets? It might provide a compelling incentive.
+> > >
+> > > If you think of it in terms of a CV, the difference is between these
+> > > lines:
+>
+> ...
+>
+> >
+> > >
+> > > * Created and shared large, valuable dataset which is highly regarded
+> > > by peers
+> > > * Publication in J. Big Useful Datasets, impact factor X
+>
+>
+> Several people are advocating something like this. It depends on the
+> culture
+> of the domain. I have encountered many peers that do not regard tools to
+> create and datasets as "proper science". But this is very domain dependent.
+>
+> >
+> > >
+> > > It may be hard for a reviewer to quantify or validate the former; the
+> > > latter demonstrates that the researcher's contribution has already
+> > > been validated and provides built-in metrics to quantify the
+> > > contribution.
+>
+>
+> There are no built-in metrics, anymore than there are built-in metrics for
+> publications/papers.  Each data repository will be judged by the community.
+> It may give rise to metrics or it may not
+>
+>
+> > >
+> > > There are other ways to skin the same cat. One option would be to
+> > > build alternative systems for conferring recognition (e.g. awards,
+> > > metrics for contributions to shared datasets, etc.). The other
+> > > approach is to make data sharing a more enforceable part of other
+> > > scientific endeavors, e.g. mandatory as a condition of research
+> > > funding, mandatory as a condition of publication (of written results)
+> > > in a journal, etc. I think multiple approaches will yield the best
+> > > result. It seems to me that creating "journals" (or some other name)
+> > > for "publishing" datasets could be a useful way to spur
+> > > participation.
+>
+>
+> Some funders and some domains already do this. Others - like chemistry and
+> materials see data as a valuable competitive advantage or real-world IP.
+>
+> P.
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL:
+> http://lists.okfn.org/pipermail/open-science/attachments/20090316/c1f0b550/attachment-0001.htm
+>
+> ------------------------------
+>
+> Message: 4
+> Date: Mon, 16 Mar 2009 10:32:32 -0000
+> From: "Hide, Branwen" <Branwen.Hide at rin.ac.uk>
+> Subject: Re: [open-science] Why not publish data?
+> To: "Peter Murray-Rust" <pm286 at cam.ac.uk>, "Gavin Baker"
+>        <gavin at gavinbaker.com>
+> Cc: SPARC-OpenData <SPARC-OpenData at arl.org>,
+>        open-science at lists.okfn.org
+> Message-ID:
+>        <CE0B7072F12A4445B9D57BCF657430840322D2A5 at w2k3-lonex2.ad.bl.uk>
+> Content-Type: text/plain; charset="us-ascii"
+>
+> The Royal Meteorological Society and the National Centre for Atmospheric
+> Science are in the process of developing a data journal specifically for
+> Meteorological Data. A report of the project is due the end of April.
+> More information on the programme can be found at
+> http://www.jisc.ac.uk/whatwedo/programmes/reppres/sue/ojims.aspx or on
+> the project site http://proj.badc.rl.ac.uk/ojims
+>
+>
+>
+> Branwen Hide
+>
+> Research Information Network (www.rin.ac.uk <http://www.rin.ac.uk/> )
+>
+>
+>
+>
+>
+> ________________________________
+>
+> From: open-science-bounces at lists.okfn.org
+> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of Peter
+> Murray-Rust
+> Sent: 16 March 2009 07:54
+> To: Gavin Baker
+> Cc: SPARC-OpenData; open-science at lists.okfn.org
+> Subject: Re: [open-science] Why not publish data?
+>
+>
+>
+> Thanks for positing to the list - I hope it generates discussion.
+>
+> On Mon, Mar 16, 2009 at 6:00 AM, Gavin Baker <gavin at gavinbaker.com>
+> wrote:
+>
+> is the title of a post just published on my blog:
+> http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+>
+> I'm eager for comments and critique. Feel free to comment on the blog
+> post or respond on this list. I'll copy the post before to facilitate
+> discussion:
+>
+> > I try to avoid writing things that may make me sound stupid, but this
+> > post falls in that category.
+> >
+> > Recently I was reading about efforts related to data sharing:
+> > technological infrastructure, curation, educating researchers, and
+> > the like. I was struck by the thought that most of the advocacy for
+> > data sharing boils down to an exhortation to stick it in a digital
+> > repository.
+>
+>
+>
+> This would be simplisitic. There are many digital repositories which
+> serve this purpose but lots of thought and management go into them. They
+> include much of bioscience (EBI, NCBI, PDB, etc.) which you could call
+> digital repositories, but they are domain repositories managed by
+> domain-oriented scientists. It is often mandatory to deposit at point of
+> publication.
+>
+> What is simplistic is to think that simply putting data into
+> institutional repositories will be of great use. But I don't hear a
+> great deal of advocacy for that
+>
+>
+>        >
+>        ...
+>
+>
+>
+>        >
+>        > Might the best way to get researchers to share data be to
+> create a
+>        > similar system for datasets? It might provide a compelling
+> incentive.
+>        >
+>        > If you think of it in terms of a CV, the difference is between
+> these
+>        > lines:
+>
+> ...
+>
+>
+>        >
+>        > * Created and shared large, valuable dataset which is highly
+> regarded
+>        > by peers
+>        > * Publication in J. Big Useful Datasets, impact factor X
+>
+>
+> Several people are advocating something like this. It depends on the
+> culture of the domain. I have encountered many peers that do not regard
+> tools to create and datasets as "proper science". But this is very
+> domain dependent.
+>
+>
+>        >
+>        > It may be hard for a reviewer to quantify or validate the
+> former; the
+>        > latter demonstrates that the researcher's contribution has
+> already
+>        > been validated and provides built-in metrics to quantify the
+>        > contribution.
+>
+>
+>
+> There are no built-in metrics, anymore than there are built-in metrics
+> for publications/papers.  Each data repository will be judged by the
+> community. It may give rise to metrics or it may not
+>
+>
+>        >
+>        > There are other ways to skin the same cat. One option would be
+> to
+>        > build alternative systems for conferring recognition (e.g.
+> awards,
+>        > metrics for contributions to shared datasets, etc.). The other
+>        > approach is to make data sharing a more enforceable part of
+> other
+>        > scientific endeavors, e.g. mandatory as a condition of
+> research
+>        > funding, mandatory as a condition of publication (of written
+> results)
+>        > in a journal, etc. I think multiple approaches will yield the
+> best
+>        > result. It seems to me that creating "journals" (or some other
+> name)
+>        > for "publishing" datasets could be a useful way to spur
+>        > participation.
+>
+>
+> Some funders and some domains already do this. Others - like chemistry
+> and materials see data as a valuable competitive advantage or real-world
+> IP.
+>
+>
+> P.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+> The contents of this email are sent in confidence for the use of the
+> intended recipients only. If you are not one of the intended recipients,
+> please do not take action on it or show it to anyone else, but return this
+> email to the sender and delete your copy of it.
+>
+> Find the Research Information Network online at www.rin.ac.uk
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL:
+> http://lists.okfn.org/pipermail/open-science/attachments/20090316/0e8a3960/attachment.htm
+>
+> ------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+>
+> End of open-science Digest, Vol 6, Issue 5
+> ******************************************
+>
+
+
+
+-- 
+
+----
+ian at mulvany.net | +447506679466
+(new number, no voicemail, txt or email please)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/b03f65c8/attachment-0001.htm 
+
+From jonathan.gray at okfn.org  Mon Mar 16 11:43:00 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 16 Mar 2009 12:43:00 +0100
+Subject: [open-science] open-science Digest, Vol 6, Issue 5
+In-Reply-To: <dc8eef530903160413y3c24f878l7cc459f4ec1273db@mail.gmail.com>
+References: <mailman.59106.1237199554.30410.open-science@lists.okfn.org>
+	<dc8eef530903160413y3c24f878l7cc459f4ec1273db@mail.gmail.com>
+Message-ID: <54ca21750903160443i403dbce4hf745b3b43040c1fe@mail.gmail.com>
+
+2009/3/16 Ian Mulvany <ian at mulvany.net>:
+> Is there an index of data repositories?
+
+There's a collection of open data tagged 'science' on CKAN.
+
+  http://ckan.net/tag/read/science
+
+CKAN is a community driven registry - and we encourage anyone to add
+to it, if they know of any other open datasets!
+
+> Who is gearing up to curate and maintain BIG data? Google pulled out, Amazon
+> is starting to get it's feet wet in this area, anyone else?
+
+Amazon's Deepak Singh has been looking into open datasets for Amazon
+Web Services. I've corresponded with him about adding material listed
+on CKAN - and they are always interested in hearing of new data they
+could add.
+
+My own feeling is that something community driven has the *potential*
+to be more rich and comprehensive than something curated - mainly
+because this could draw on the expertise of people working in lots of
+different areas, who have up to date knowledge of what is available.
+Ideally this would be a 'living' directory, integrated into the
+working practice of many who work with data, who clean it up and
+re-use it, and so on. Also people could take on curatorial/editorial
+roles in relation to certain collections. What do people think?
+
+We discussed this (specifically in relation to CKAN), and other things
+at the 'Workshop on Finding and Re-using Open Scientific Resources',
+last autumn:
+
+  http://okfn.org/wiki/OpenScience/Workshop
+
+Also I think this is now within the remit of the new working group on
+open data in science:
+
+  http://okfn.org/wiki/wg/science
+
+Warm regards,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From cameron.neylon at stfc.ac.uk  Mon Mar 16 16:06:13 2009
+From: cameron.neylon at stfc.ac.uk (Neylon, DC (Cameron))
+Date: Mon, 16 Mar 2009 16:06:13 -0000
+Subject: [open-science] Why not publish data?
+In-Reply-To: <49BDEAFA.6090207@gavinbaker.com>
+Message-ID: <C5E42975.46BB%cameron.neylon@stfc.ac.uk>
+
+Also left this as a comment at the blog:
+
+I think it depends a lot on what you mean by a "journal". I would be against
+the idea of creating a formal journal (with peer review, page numbers,
+indexes) for data because I think it would retrograde step. The web was
+built to house datasets and we are now building an infrastructure that will
+let this be done properly. I think it much more effective to build purpose
+built systems designed to hold, aggregate, and process data in sensible, and
+web native, ways.
+
+If however you mean that there is value in making datasets citeable objects
+and providing incentives for people to "publish" datasets in a useful way
+then I am all for it. The crystallography community have been most effective
+at creating "data journals" (the Acta Cryst set) and it is because of these
+journals that crystallographers are amongst the most cited and highly
+published scientists.
+
+The flip side of this is the tendency of people to try and push "dataset
+shaped pegs into paper sized holes". Many of the papers that describe both
+biological structures and genome sequences seem to be a dataset in a
+desperate search for some sort of interesting statement that can be hung off
+it. Many interesting and important structures and sequences would have been
+better published as "here it is, make of it what you will" rather than
+trying to craft a somewhat nebulous paper around it.
+
+The same could be said of the publication of software tools (and indeed
+databases). People are desperate to publish a paper so they can add it to
+their CV and so that people have something to cite. Not because a paper is a
+good way of describing or documenting the work, but because it is the only
+way people can currently get credit.
+
+So my argument would be that we need to expand the way we use and apply
+citations, and make much more serious efforts to make databases, web pages,
+tools, etc all solid citeable objects. Otherwise we are going to end up with
+a lot more journals (don't we have enough already?) and all the additional
+overheads that go with it. If the purpose of creating a journal is only to
+make the dataset citeable then I think there are better ways of going about
+it. 
+
+
+
+On 16/3/09 06:00, "Gavin Baker" <gavin at gavinbaker.com> wrote:
+
+> is the title of a post just published on my blog:
+> http://www.gavinbaker.com/2009/03/16/why-not-publish-data/
+> 
+> I'm eager for comments and critique. Feel free to comment on the blog
+> post or respond on this list. I'll copy the post before to facilitate
+> discussion:
+> 
+>> I try to avoid writing things that may make me sound stupid, but this
+>> post falls in that category.
+>> 
+>> Recently I was reading about efforts related to data sharing:
+>> technological infrastructure, curation, educating researchers, and
+>> the like. I was struck by the thought that most of the advocacy for
+>> data sharing boils down to an exhortation to stick it in a digital
+>> repository.
+>> 
+>> This seems a bit odd considering that much of what propels science is
+>> the pressure to publish (written) results (in journals, conferences,
+>> monographs, etc.). There is a hierarchy of venues in terms of
+>> prestige, which is in turn linked to research funding, promotion,
+>> public attention (media coverage, policy influence), etc.
+>> 
+>> Might the best way to get researchers to share data be to create a
+>> similar system for datasets? It might provide a compelling incentive.
+>> 
+>> Moreover, publishing might provide a compelling incentive to the
+>> related issue of data curation (making data understandable / usable
+>> to others, e.g. through formatting, annotation, etc.). Currently,
+>> much data doesn't see much use outside the lab where it was
+>> generated, so researchers have little incentive to spend time
+>> "prettying it up" for others (who may find the way it was recorded to
+>> be inscrutable). Even if they are convinced to "share" their data by
+>> posting it online, it may seem quite a low priority to spend time
+>> making it useful to others. If there was pressure to publish the
+>> dataset, though, then researchers would have that incentive to make
+>> the data as intuitively useful to others as practicable, so reviewers
+>> could quickly identify the novelty of the data.
+>> 
+>> This doesn't seem so outlandish to me. There are similar efforts to
+>> provide publication fora for materials which were not traditionally
+>> unpublished (we might say undersupplied), such as negative results
+>> and experimental techniques.
+>> 
+>> If you think of it in terms of a CV, the difference is between these
+>> lines:
+>> 
+>> * Created and shared large, valuable dataset which is highly regarded
+>> by peers 
+>> * Publication in J. Big Useful Datasets, impact factor X
+>> 
+>> It may be hard for a reviewer to quantify or validate the former; the
+>> latter demonstrates that the researcher's contribution has already
+>> been validated and provides built-in metrics to quantify the
+>> contribution.
+>> 
+>> There are other ways to skin the same cat. One option would be to
+>> build alternative systems for conferring recognition (e.g. awards,
+>> metrics for contributions to shared datasets, etc.). The other
+>> approach is to make data sharing a more enforceable part of other
+>> scientific endeavors, e.g. mandatory as a condition of research
+>> funding, mandatory as a condition of publication (of written results)
+>> in a journal, etc. I think multiple approaches will yield the best
+>> result. It seems to me that creating "journals" (or some other name)
+>> for "publishing" datasets could be a useful way to spur
+>> participation.
+>> 
+>> Has this been done already? What are the drawbacks to this approach?
+> 
+> Best,
+
+-- 
+Scanned by iCritical.
+
+
+From jeanclaude.bradley at gmail.com  Mon Mar 16 23:24:56 2009
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Mon, 16 Mar 2009 19:24:56 -0400
+Subject: [open-science] Launch of new Working Group on Open Data in
+	Science
+In-Reply-To: <54ca21750903140230p912b393mc8d3b98e122f28cf@mail.gmail.com>
+References: <54ca21750903140230p912b393mc8d3b98e122f28cf@mail.gmail.com>
+Message-ID: <9dd1f6d60903161624m72de9d9tb91dc95c1fc20e21@mail.gmail.com>
+
+Jonathan,
+If you are collecting prizes to support Open Data please list the Open
+Notebook Science Solubility Challenge Submeta awards:
+http://onschallenge.wikispaces.com/submetaawards08
+
+Jean-Claude
+
+On Sat, Mar 14, 2009 at 5:30 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Hi all,
+>
+> We are pleased to announce the launch of a new Working Group on Open
+> Data in Science. In the first instance, the group will aim to:
+>
+>  1. Act as a central point of reference and support for people who
+> think they are interested in open data in science.
+>  2. Identify practices of early adopters, collecting data and
+> developing guides.
+>  3. Act as a hub for the development of low cost, community driven
+> projects around open data in science.
+>
+> We are currently working on:
+>
+>  * a prize for open data in science
+>  * a service to request that a given dataset to be made open or to
+> request clarification about whether or not it can be re-used
+>  * case studies on the benefits of open data in different domains
+>
+> Further details can be found at:
+>
+>  http://okfn.org/wiki/wg/science
+>  http://blog.okfn.org/2009/03/13/working-group-on-open-data-in-science/
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://usefulchem.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/6c6c4689/attachment.htm 
+
+From Tim.Schweizer at luther.edu  Mon Mar 16 23:35:50 2009
+From: Tim.Schweizer at luther.edu (Tim Schweizer)
+Date: Mon, 16 Mar 2009 18:35:50 -0500
+Subject: [open-science] Open Science digest Vol 6, Issue 6 - data sets
+Message-ID: <93f340550903161635q469b97f7pae660c5cba6c12c2@mail.gmail.com>
+
+I think we need to move towards Open Science. I think it is time to have
+Public Domain be the default for data sets submitted to journals, online
+sites, etc.
+
+Public domain returns science to its origins.
+
+We need to embrace "rules" that fit the 21st century.
+
+Tim Schweizer, Ph.D.
+Office: (001) 563.387.1131
+Mobile: (001) 563.581.9716
+E-mail: Tim.Schweizer at luther.edu
+Skype: tim123innovate
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/3bc736f1/attachment.htm 
+
+From peters at earlham.edu  Tue Mar 17 03:15:09 2009
+From: peters at earlham.edu (Peter Suber)
+Date: Mon, 16 Mar 2009 23:15:09 -0400
+Subject: [open-science] open-science Digest, Vol 6, Issue 5
+In-Reply-To: <dc8eef530903160413y3c24f878l7cc459f4ec1273db@mail.gmail.co
+ m>
+References: <mailman.59106.1237199554.30410.open-science@lists.okfn.org>
+	<dc8eef530903160413y3c24f878l7cc459f4ec1273db@mail.gmail.com>
+Message-ID: <200903170315.n2H3FLrm001728@sipala.earlham.edu>
+
+At 07:13 AM 3/16/2009, Ivan Mulvany wrote:
+
+>Is there an index of data repositories?
+
+
+The OAD wiki has a list,
+<http://oad.simmons.edu/oadwiki/Data_repositories>http://oad.simmons.edu/oadwiki/Data_repositories 
+
+
+      Peter
+
+Peter Suber
+http://www.earlham.edu/~peters/
+peter.suber at earlham.edu
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090316/42623bdb/attachment.htm 
+
+From sabine at 3dmetrics.co.uk  Tue Mar 17 07:37:43 2009
+From: sabine at 3dmetrics.co.uk (Sabine Kurjo McNeill)
+Date: Tue, 17 Mar 2009 07:37:43 -0000
+Subject: [open-science] Open science from public funding
+Message-ID: <000001c9a6d3$4ba73790$e2f5a6b0$@co.uk>
+
+In support of Tim's and Jean-Claude's remarks, shouldn't it be obvious to
+any scientist that publicly funded work has to be in the public domain? 
+ 
+Public funding vs private profit is after all the big distinction between
+the state and industry. On what grounds should any data not be open? 
+ 
+Sabine [formerly software analyst at CERN]
+ 
+ <http://www.3dmetrics.co.uk/> 3D Metrics [website with > 54,000 hits]
+ 
+ <http://www.3dmetrics.me.uk/> Blog with > 3,000 hits
+ 
+21a Goldhurst Terrace
+London NW6 3HB
+ 
+T: +44 207 328 3701
+M: 07968 039 141
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090317/9fb2bdac/attachment-0001.htm 
+
+From cwhooker at fastmail.fm  Tue Mar 17 08:16:49 2009
+From: cwhooker at fastmail.fm (Bill Hooker)
+Date: Tue, 17 Mar 2009 01:16:49 -0700
+Subject: [open-science] Open science from public funding
+In-Reply-To: <000001c9a6d3$4ba73790$e2f5a6b0$@co.uk>
+References: <000001c9a6d3$4ba73790$e2f5a6b0$@co.uk>
+Message-ID: <1237277809.19548.1305804501@webmail.messagingengine.com>
+
+
+> On what grounds should any data not be open? 
+
+In the US, the Bayh-Dole act is the main culprit:
+
+http://en.wikipedia.org/wiki/Bayh-Dole_Act
+
+It allows universities and other research bodies to own IP derived from
+federally funded work.  Beancounters responded to this in predictable
+fashion, and all US scientists who "came of age" (e.g. went through grad
+school) since 1980 have been steeped all their careers in the resulting
+culture of secrecy.  
+
+Add to Bayh-Dole the skyrocketing level of competition for research
+positions in academia over the last three decades (competition based
+almost exclusively on publication, publication in turn being dependent
+on data) and you reach the current situation where researchers would
+rather share a toothbrush than share data (Carol Goble?).
+
+There is, I think, a similar provision in Australian law -- certainly
+all universities and research institutions have tech transfer offices,
+and certainly the same bass-ackwards me-first scientific culture has
+arisen there.  I don't know about other countries.
+
+cheers,
+
+B.
+
+
+From jeanclaude.bradley at gmail.com  Tue Mar 17 08:44:28 2009
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Tue, 17 Mar 2009 04:44:28 -0400
+Subject: [open-science] Open science from public funding
+In-Reply-To: <1237277809.19548.1305804501@webmail.messagingengine.com>
+References: <000001c9a6d3$4ba73790$e2f5a6b0$@co.uk>
+	<1237277809.19548.1305804501@webmail.messagingengine.com>
+Message-ID: <9dd1f6d60903170144x1d174e4ei4c94319c2736c0f6@mail.gmail.com>
+
+The Bayh-Dole act does have an effect on sharing on a few levels.  In
+principle one could make all data public immediately after filing a
+provisional US patent, which involves simply putting a copy of work to be
+published in an envelope and paying a fee.  It buys the researcher a year to
+file a full international patent.  We used to do this routinely before
+sending out any manuscript for publication.  You could probably just copy
+your lab notebook and raw data files and do the same if you wanted to share
+your notebook as quickly as possible and still maintain patent protection.
+However there is a strong dissentive to do so because any public document
+that seems to contradict the findings in the patent could be used down the
+road to challenge a patent.  So there would be a downside to publishing
+failed experiments.  When you report 80% yield someone might looks at all
+the experiments where the yields were much lower.
+
+Also people don't all agree about what should be made public.  I don't think
+it should be mandatory to share all data (essentially Open Notebook Science)
+but I think that funding agencies should view it as a positive if that is
+included in grant applications.
+
+Jean-Claude
+
+On Tue, Mar 17, 2009 at 4:16 AM, Bill Hooker <cwhooker at fastmail.fm> wrote:
+
+>
+> > On what grounds should any data not be open?
+>
+> In the US, the Bayh-Dole act is the main culprit:
+>
+> http://en.wikipedia.org/wiki/Bayh-Dole_Act
+>
+> It allows universities and other research bodies to own IP derived from
+> federally funded work.  Beancounters responded to this in predictable
+> fashion, and all US scientists who "came of age" (e.g. went through grad
+> school) since 1980 have been steeped all their careers in the resulting
+> culture of secrecy.
+>
+> Add to Bayh-Dole the skyrocketing level of competition for research
+> positions in academia over the last three decades (competition based
+> almost exclusively on publication, publication in turn being dependent
+> on data) and you reach the current situation where researchers would
+> rather share a toothbrush than share data (Carol Goble?).
+>
+> There is, I think, a similar provision in Australian law -- certainly
+> all universities and research institutions have tech transfer offices,
+> and certainly the same bass-ackwards me-first scientific culture has
+> arisen there.  I don't know about other countries.
+>
+> cheers,
+>
+> B.
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://usefulchem.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090317/b15ec14b/attachment.htm 
+
+From pm286 at cam.ac.uk  Tue Mar 17 10:59:54 2009
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 17 Mar 2009 10:59:54 +0000
+Subject: [open-science] Open science from public funding
+In-Reply-To: <000001c9a6d3$4ba73790$e2f5a6b0$@co.uk>
+References: <000001c9a6d3$4ba73790$e2f5a6b0$@co.uk>
+Message-ID: <67fd68330903170359t2b10c7cckedf1e62f60276652@mail.gmail.com>
+
+Sabine,
+Sometimes I look longingly at HEP as a domain where Openness is endemic.
+
+There are very good reasons why data is not open in chemistry.
+
+There is a large chemical information market where information is collected
+and sold back t the community. Organizations like Chemical Abstracts have a
+turnover of somewhere like 500-1000 million USD. The chief officers of the
+American Chemical Society have to be rewarded at competitive industrial
+rates - some of them get nearly 2M USD yr-1.
+
+If data were open their business model would need to be refactored. So the
+ACS (and Wiley) copyright supplemental data and forbid the downloading of
+their data for research. If I publish data I have to hand over the ownership
+to these publishers.
+
+In this argument "good" = "compelling in a business sense" - not "morally
+justifiable".
+
+P.
+
+
+2009/3/17 Sabine Kurjo McNeill <sabine at 3dmetrics.co.uk>
+
+>  In support of Tim?s and Jean-Claude?s remarks, shouldn?t it be obvious to
+> any scientist that publicly funded work has to be in the public domain?
+>
+>
+>
+> Public funding vs private profit is after all the big distinction between
+> the state and industry. On what grounds should any data not be open?
+>
+>
+>
+> Sabine [formerly software analyst at CERN]
+>
+
+_______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090317/a29933ee/attachment.htm 
+
+From cameron.neylon at stfc.ac.uk  Wed Mar 18 09:07:29 2009
+From: cameron.neylon at stfc.ac.uk (Neylon)
+Date: Wed, 18 Mar 2009 09:07:29 +0000
+Subject: [open-science] STFC Strategy consulation
+Message-ID: <C5E66A51.4778%cameron.neylon@stfc.ac.uk>
+
+The strategy document for the UK Science and Technology Facilities Council
+is up for consultation until Friday. STFC is the UK's central research
+infrastructure funder. We build, operate, and subscribe to facilities
+including Diamond, ISIS, Hartree Computational Centre, ESRF, ILL, CERN, and
+a wide range of international astronomy facilities. We are therefore the
+UK's primary research data generator and also have a strong coordinating
+presence within the UK E-science programmes.
+
+It might therefore be argued that STFC should take a leadership position
+within the UK research councils on data availability, curation, and
+management. The strategy document, which covers approach, priorities, and
+future directions currently contains no mention of either Open Access or
+Open Data. If you feel that these might be appropriate issues to be
+addressed in the strategy document then please do comment at:
+
+http://www.stfc.ac.uk/STFCConsultation/cnHome.aspx
+
+Cheers
+
+Cameron
+
+-- 
+Scanned by iCritical.
+
+
+From cameron.neylon at stfc.ac.uk  Wed Mar 18 21:46:55 2009
+From: cameron.neylon at stfc.ac.uk (Neylon)
+Date: Wed, 18 Mar 2009 21:46:55 +0000
+Subject: [open-science] Standards for raw data reporting in Clinical Trials
+Message-ID: <C5E71C4F.47DC%cameron.neylon@stfc.ac.uk>
+
+Via Bill Hooker, this announcement from BMC on developing standards for
+presenting raw data in publications is very promising.
+
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/towards_agreement_on_
+best_practice
+
+Cheers
+
+Cameron 
+
+-- 
+Scanned by iCritical.
+
+
+From Tim.Schweizer at luther.edu  Thu Mar 19 07:26:15 2009
+From: Tim.Schweizer at luther.edu (Tim Schweizer)
+Date: Thu, 19 Mar 2009 02:26:15 -0500
+Subject: [open-science] Why not publish data? (Neylon, DC (Cameron))
+Message-ID: <93f340550903190026v1d8c9c0dkb5c7d32d35263f3d@mail.gmail.com>
+
+I think Cameron is hinting at a major problem (this is my interpretation, so
+if I'm wrong, blame me, not Cameron).
+
+The incentives are biased towards anything that builds CVs. So, we have way
+too many journals that are underwritten by libraries. Even the editors of
+journals have admitted that very few people read the journals - they exist
+solely as a means build CVs. In my opinion, if 95% of the world's journals
+disappeared, there would be no loss in learning or knowledge.
+
+Most people cannot risk studying what they find *really* profound and
+interesting. The risk of pursuing those hypothesis are high in terms of not
+getting the work published (not getting credit for the pursuit of their best
+ideas on the CV). This is the great tragedy.
+
+Tim Schweizer, Ph.D.
+Office: (001) 563.387.1131
+Mobile: (001) 563.581.9716
+E-mail: Tim.Schweizer at luther.edu
+Skype: tim123innovate
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090319/91ed06bc/attachment.htm 
+
+From Rhian.Cunliffe at biomedcentral.com  Thu Mar 19 10:21:11 2009
+From: Rhian.Cunliffe at biomedcentral.com (Rhian.Cunliffe at biomedcentral.com)
+Date: Thu, 19 Mar 2009 10:21:11 -0000
+Subject: [open-science] Standards for raw data reporting in Clinical
+	Trials
+Message-ID: <C156D27852C32340835BA1005A026FA503353377@ms4bmc.lsc.net>
+
+
+For those of you that haven't heard of BMC Research Notes
+(http://www.biomedcentral.com/bmcresnotes/), it is one of the newer
+journals in the BMC-series.
+
+BMC Research Notes is an open access journal publishing scientifically
+sound research across all fields of biology and medicine, enabling
+authors to publish updates to previous research, software tools and
+databases, data sets, small-scale clinical studies, and reports of
+confirmatory or 'negative' results.
+
+A key objective with BMC Research Notes is to ensure that associated
+data sets are published in standard, reusable formats whenever possible.
+Data sets published in the journal will be made publicly accessible in a
+way that makes them searchable and easily harvested for reuse. We are
+keen, therefore, to support researchers who have a special interest in
+data format standardization and we are aiming to develop more
+comprehensive data standardisation information for our authors and
+readers to enable us to present data in a standardised and mineable way.
+If you have any interest in this area of work or any information that
+you feel would be of use, please get in touch.  
+
+Best wishes,
+
+Rhian Cunliffe 
+Senior Journal Development Editor, Medicine
+BMC-series journals
+
+BioMed Central
+Middlesex House
+34-42 Cleveland Street
+London W1T 4LB
+
+email: researchnotes at biomedcentral.com
+Web: www.biomedcentral.com
+
+BioMed Central is moving, please note our new address effective Friday
+20th March  
+
+BioMed Central
+Floor 6, 236 Gray's Inn Road
+London, WC1X 8HL
+
+
+
+-----Original Message-----
+From: open-science-bounces at lists.okfn.org
+[mailto:open-science-bounces at lists.okfn.org] On Behalf Of Neylon
+Sent: 18 March 2009 21:47
+To: open-science at lists.okfn.org
+Subject: [open-science] Standards for raw data reporting in Clinical
+Trials
+
+Via Bill Hooker, this announcement from BMC on developing standards for
+presenting raw data in publications is very promising.
+
+http://blogs.openaccesscentral.com/blogs/bmcblog/entry/towards_agreement
+_on_
+best_practice
+
+Cheers
+
+Cameron 
+
+--
+Scanned by iCritical.
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+
+From heatherm at eln.bc.ca  Thu Mar 19 20:34:23 2009
+From: heatherm at eln.bc.ca (Heather Morrison)
+Date: Thu, 19 Mar 2009 13:34:23 -0700
+Subject: [open-science] Why not publish data? (Neylon, DC (Cameron))
+In-Reply-To: <93f340550903190026v1d8c9c0dkb5c7d32d35263f3d@mail.gmail.com>
+References: <93f340550903190026v1d8c9c0dkb5c7d32d35263f3d@mail.gmail.com>
+Message-ID: <3A522BB9-2AD4-4C30-B7A4-3C39134A89F2@eln.bc.ca>
+
+On 19-Mar-09, at 12:26 AM, Tim Schweizer wrote:
+
+> I think Cameron is hinting at a major problem (this is my  
+> interpretation, so if I'm wrong, blame me, not Cameron).
+>
+> The incentives are biased towards anything that builds CVs. So, we  
+> have way too many journals that are underwritten by libraries. Even  
+> the editors of journals have admitted that very few people read the  
+> journals - they exist solely as a means build CVs. In my opinion,  
+> if 95% of the world's journals disappeared, there would be no loss  
+> in learning or knowledge.
+
+Marcus Banks talks about the idea of having blogs replace journals in  
+the field of library and information science, as quoted in Walt  
+Crawford's "Cites and Insights", at:
+http://citesandinsights.info/v9i5c.htm
+
+As someone who has blogged, written for, reviewed, and edited,  
+journals, I think Marcus has a point.
+
+Also, as has been pointed out before on this list, there should be  
+ways for researchers to be appropriately credited for creating and  
+sharing datasets.  Participation in wikis and such-like should count,  
+too.
+
+>
+>
+> Most people cannot risk studying what they find *really* profound  
+> and interesting. The risk of pursuing those hypothesis are high in  
+> terms of not getting the work published (not getting credit for the  
+> pursuit of their best ideas on the CV). This is the great tragedy.
+
+There is more that is worthy of examination in scholarship than just  
+access issues, affordability, and metrics for perfromance  
+evaluation.  We would all be better off if our scholars had both  
+scope and incentive to pursue the questions that really matter, in my  
+opinion; and sometimes, it is only the scholars themselves who  
+understand what really matters.  My hope is that current discussions  
+about scholarly communication will open the door for these more  
+profound discussions.  My understanding is that the idea of tenure  
+came from faculty themselves; the main purpose of tenure is to ensure  
+academic freedom.  The tenure and promotion committee may seem  
+external to each individual scholar, but it is not.  If scholars wish  
+things to change, the door is theirs (ours) to open.
+
+Any opinion expressed in this e-mail is that of the author alone, and  
+does not represent the opinion or policy of BC Electronic Library  
+Network or Simon Fraser University Library.
+
+Heather Morrison, MLIS
+The Imaginary Journal of Poetic Economics
+http://poeticeconomics.blogspot.com
+>
+
+
+Heather G. Morrison
+Project Coordinator
+BC Electronic Library Network
+~~~~~~~~~~~~~~~~~~~~
+Phone:  778-782-7001
+Fax: 778.782.3023
+Email:  heatherm at eln.bc.ca
+Web: http://www.eln.bc.ca
+
+
+
+
+
+From wilbanks at creativecommons.org  Thu Mar 26 18:00:28 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 26 Mar 2009 14:00:28 -0400
+Subject: [open-science] analysis of gene wikis?
+Message-ID: <49CBC2BC.5060109@creativecommons.org>
+
+I'm trying to track down the google spreadsheet i saw a while back 
+analysing how many uses (users, edits, etc) that various gene wikis have 
+   reported. I'm having no luck on the googles.
+
+Can anyone help? SC t-shirt to the first answer, for your wearing 
+pleasure (if you agree with us) or for ironic use (if you don't)...
+
+jtw
+
+-- 
+
+----------------------------------------------------------------
+John Wilbanks
+
+VP for Science, Creative Commons
+http://creativecommons.org
+http://sciencecommons.org
+http://neurocommons.org
+
+"We make sharing easy, legal, and scalable."
+----------------------------------------------------------------
+
+
+From mn at michaelnielsen.org  Thu Mar 26 18:16:22 2009
+From: mn at michaelnielsen.org (Michael Nielsen)
+Date: Thu, 26 Mar 2009 14:16:22 -0400 (Eastern Daylight Time)
+Subject: [open-science] analysis of gene wikis?
+In-Reply-To: <49CBC2BC.5060109@creativecommons.org>
+References: <49CBC2BC.5060109@creativecommons.org>
+Message-ID: <alpine.WNT.2.00.0903261415570.4576@Default-PC>
+
+
+John - I think you want:
+
+http://friendfeed.com/e/4ad4515b-fd30-4f9f-bf5c-6a1381692fdc/Comparison-of-biological-wikis/
+
+Michael
+
+On Thu, 26 Mar 2009, John Wilbanks wrote:
+
+> I'm trying to track down the google spreadsheet i saw a while back
+> analysing how many uses (users, edits, etc) that various gene wikis have
+>   reported. I'm having no luck on the googles.
+>
+> Can anyone help? SC t-shirt to the first answer, for your wearing
+> pleasure (if you agree with us) or for ironic use (if you don't)...
+>
+> jtw
+>
+> -- 
+>
+> ----------------------------------------------------------------
+> John Wilbanks
+>
+> VP for Science, Creative Commons
+> http://creativecommons.org
+> http://sciencecommons.org
+> http://neurocommons.org
+>
+> "We make sharing easy, legal, and scalable."
+> ----------------------------------------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+From wilbanks at creativecommons.org  Thu Mar 26 18:18:25 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 26 Mar 2009 14:18:25 -0400
+Subject: [open-science] analysis of gene wikis?
+In-Reply-To: <alpine.WNT.2.00.0903261415570.4576@Default-PC>
+References: <49CBC2BC.5060109@creativecommons.org>
+	<alpine.WNT.2.00.0903261415570.4576@Default-PC>
+Message-ID: <49CBC6F1.50801@creativecommons.org>
+
+ahhhhh, yes. michael gets the shirt.
+
+jtw
+
+Michael Nielsen wrote:
+> 
+> John - I think you want:
+> 
+> http://friendfeed.com/e/4ad4515b-fd30-4f9f-bf5c-6a1381692fdc/Comparison-of-biological-wikis/ 
+> 
+> 
+> Michael
+> 
+> On Thu, 26 Mar 2009, John Wilbanks wrote:
+> 
+>> I'm trying to track down the google spreadsheet i saw a while back
+>> analysing how many uses (users, edits, etc) that various gene wikis have
+>>   reported. I'm having no luck on the googles.
+>>
+>> Can anyone help? SC t-shirt to the first answer, for your wearing
+>> pleasure (if you agree with us) or for ironic use (if you don't)...
+>>
+>> jtw
+>>
+>> -- 
+>>
+>> ----------------------------------------------------------------
+>> John Wilbanks
+>>
+>> VP for Science, Creative Commons
+>> http://creativecommons.org
+>> http://sciencecommons.org
+>> http://neurocommons.org
+>>
+>> "We make sharing easy, legal, and scalable."
+>> ----------------------------------------------------------------
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>
+
+-- 
+
+----------------------------------------------------------------
+John Wilbanks
+
+VP for Science, Creative Commons
+http://creativecommons.org
+http://sciencecommons.org
+http://neurocommons.org
+
+"We make sharing easy, legal, and scalable."
+----------------------------------------------------------------
+
+
+From rufus.pollock at okfn.org  Thu Mar 26 19:10:57 2009
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 26 Mar 2009 19:10:57 +0000
+Subject: [open-science] analysis of gene wikis?
+In-Reply-To: <49CBC6F1.50801@creativecommons.org>
+References: <49CBC2BC.5060109@creativecommons.org>
+	<alpine.WNT.2.00.0903261415570.4576@Default-PC>
+	<49CBC6F1.50801@creativecommons.org>
+Message-ID: <b68e90820903261210m13f9065m68b1c6b59c7d66b3@mail.gmail.com>
+
+Better than a search engine :)
+
+One question I had (not having looked through the whole list in
+detail): are those projects producing "data" or human-readable
+summaries (encyclopaedia articles) -- or a mixture of both. (Also, not
+knowing the area well: is there a difference? I.e. are there agreed
+ways of putting out "structured" information about gene and protein
+function or is it just "free text"?)
+
+In any case it's a fantastic listing and it would be worth adding to
+http://www.ckan.net/. If anyone knows of any other listings of *open*
+science datasets it would be great to hear about them. BTW: already
+listed science "packages" can be found here:
+<http://www.ckan.net/tag/read/science>
+
+Rufus
+
+2009/3/26 John Wilbanks <wilbanks at creativecommons.org>:
+> ahhhhh, yes. michael gets the shirt.
+>
+> jtw
+>
+> Michael Nielsen wrote:
+>>
+>> John - I think you want:
+>>
+>> http://friendfeed.com/e/4ad4515b-fd30-4f9f-bf5c-6a1381692fdc/Comparison-of-biological-wikis/
+>>
+>>
+>> Michael
+>>
+>> On Thu, 26 Mar 2009, John Wilbanks wrote:
+>>
+>>> I'm trying to track down the google spreadsheet i saw a while back
+>>> analysing how many uses (users, edits, etc) that various gene wikis have
+>>> ? reported. I'm having no luck on the googles.
+>>>
+>>> Can anyone help? SC t-shirt to the first answer, for your wearing
+>>> pleasure (if you agree with us) or for ironic use (if you don't)...
+>>>
+>>> jtw
+>>>
+>>> --
+>>>
+>>> ----------------------------------------------------------------
+>>> John Wilbanks
+>>>
+>>> VP for Science, Creative Commons
+>>> http://creativecommons.org
+>>> http://sciencecommons.org
+>>> http://neurocommons.org
+>>>
+>>> "We make sharing easy, legal, and scalable."
+>>> ----------------------------------------------------------------
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>>
+>
+> --
+>
+> ----------------------------------------------------------------
+> John Wilbanks
+>
+> VP for Science, Creative Commons
+> http://creativecommons.org
+> http://sciencecommons.org
+> http://neurocommons.org
+>
+> "We make sharing easy, legal, and scalable."
+> ----------------------------------------------------------------
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+
+
+From wilbanks at creativecommons.org  Thu Mar 26 20:08:44 2009
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 26 Mar 2009 16:08:44 -0400
+Subject: [open-science] analysis of gene wikis?
+In-Reply-To: <b68e90820903261210m13f9065m68b1c6b59c7d66b3@mail.gmail.com>
+References: <49CBC2BC.5060109@creativecommons.org>	
+	<alpine.WNT.2.00.0903261415570.4576@Default-PC>	
+	<49CBC6F1.50801@creativecommons.org>
+	<b68e90820903261210m13f9065m68b1c6b59c7d66b3@mail.gmail.com>
+Message-ID: <49CBE0CC.70805@creativecommons.org>
+
+The irony of Google not searching open Google spreadsheets is not lost 
+here.
+
+As to the human readable v. machine readable bit, I'd say the answer is 
+in between. It's hard for both to read and re-use...
+
+jtw
+
+Rufus Pollock wrote:
+> Better than a search engine :)
+> 
+> One question I had (not having looked through the whole list in
+> detail): are those projects producing "data" or human-readable
+> summaries (encyclopaedia articles) -- or a mixture of both. (Also, not
+> knowing the area well: is there a difference? I.e. are there agreed
+> ways of putting out "structured" information about gene and protein
+> function or is it just "free text"?)
+> 
+> In any case it's a fantastic listing and it would be worth adding to
+> http://www.ckan.net/. If anyone knows of any other listings of *open*
+> science datasets it would be great to hear about them. BTW: already
+> listed science "packages" can be found here:
+> <http://www.ckan.net/tag/read/science>
+> 
+> Rufus
+> 
+> 2009/3/26 John Wilbanks <wilbanks at creativecommons.org>:
+>> ahhhhh, yes. michael gets the shirt.
+>>
+>> jtw
+>>
+>> Michael Nielsen wrote:
+>>> John - I think you want:
+>>>
+>>> http://friendfeed.com/e/4ad4515b-fd30-4f9f-bf5c-6a1381692fdc/Comparison-of-biological-wikis/
+>>>
+>>>
+>>> Michael
+>>>
+>>> On Thu, 26 Mar 2009, John Wilbanks wrote:
+>>>
+>>>> I'm trying to track down the google spreadsheet i saw a while back
+>>>> analysing how many uses (users, edits, etc) that various gene wikis have
+>>>>   reported. I'm having no luck on the googles.
+>>>>
+>>>> Can anyone help? SC t-shirt to the first answer, for your wearing
+>>>> pleasure (if you agree with us) or for ironic use (if you don't)...
+>>>>
+>>>> jtw
+>>>>
+>>>> --
+>>>>
+>>>> ----------------------------------------------------------------
+>>>> John Wilbanks
+>>>>
+>>>> VP for Science, Creative Commons
+>>>> http://creativecommons.org
+>>>> http://sciencecommons.org
+>>>> http://neurocommons.org
+>>>>
+>>>> "We make sharing easy, legal, and scalable."
+>>>> ----------------------------------------------------------------
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>> open-science at lists.okfn.org
+>>>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>>>
+>> --
+>>
+>> ----------------------------------------------------------------
+>> John Wilbanks
+>>
+>> VP for Science, Creative Commons
+>> http://creativecommons.org
+>> http://sciencecommons.org
+>> http://neurocommons.org
+>>
+>> "We make sharing easy, legal, and scalable."
+>> ----------------------------------------------------------------
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>
+
+-- 
+
+----------------------------------------------------------------
+John Wilbanks
+
+VP for Science, Creative Commons
+http://creativecommons.org
+http://sciencecommons.org
+http://neurocommons.org
+
+"We make sharing easy, legal, and scalable."
+----------------------------------------------------------------
+
+
+From delfanti at sissa.it  Sun Mar 29 22:30:25 2009
+From: delfanti at sissa.it (Alessandro Delfanti)
+Date: Sun, 29 Mar 2009 23:30:25 +0200
+Subject: [open-science] call for submissions: user-led science
+In-Reply-To: <49CBC6F1.50801@creativecommons.org>
+References: <49CBC2BC.5060109@creativecommons.org>
+	<alpine.WNT.2.00.0903261415570.4576@Default-PC>
+	<49CBC6F1.50801@creativecommons.org>
+Message-ID: <20090329233025.2sk3q1vluok4okow@webmail.sissa.it>
+
+Call for articles:
+User-led Science - A special issue of JCOM, Journal of Science Communication
+
+Deadline: May 15, 2009
+http://jcom.sissa.it/call
+
+Science is increasingly being produced, discussed and deliberated with  
+cooperative tools by web users and without the istitutionalized  
+presence of scientists. "Popular science" or "Citizen science" are two  
+of the traditional ways of defining science grassroots produced  
+outside the walls of laboratories. But the internet has changed the  
+way of collecting and organising the knowledge produced by people -  
+peers - who do not belong to the established scientific community. In  
+this issue we want to discuss:
+
+- How web tools are changing and widening this way of participating in  
+the production of scientific knowledge. Do this increase in  
+participation consist in a real shift towards democratizing science or  
+on the contrary is merely a rhetoric which do not affect the  
+asymmetrical relationships between citizens and institutions?
+
+- The ways in which both academic and private scientific institutions  
+are appropriating this knowledge and its value. Do we need a new model  
+to understand these ways of production and appropriation? Are they  
+part of a deeper change in productive paradigms?
+
+We would like to collect both theoretical contributions and research  
+articles which address for example case studies in social media and  
+science, peer production, the role of private firms in exploiting web  
+arenas to collect scientific/medical data from their costumers, online  
+social movements challenging communication incumbents, web tools for  
+development.
+
+Interested authors should submit an extended abstract of no more than  
+500 words (in English) to the issue editor by May 15, 2009. We will  
+select three to five papers for inclusion in this special issue.  
+Abstracts should be sent to the JCOM's editorial office  
+(jcom-eo at jcom.sissa.it) by email.
+
+----------------------------------------------------------------
+   SISSA Webmail https://webmail.sissa.it/
+   Powered by Horde http://www.horde.org/
+
+
+
+

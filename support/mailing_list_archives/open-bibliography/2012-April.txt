@@ -1,0 +1,1334 @@
+From adrian.pohl at okfn.org  Mon Apr  2 13:33:49 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 2 Apr 2012 14:33:49 +0200
+Subject: [open-bibliography] Virtual meeting tomorrow
+Message-ID: <CAOtd05Ep3rAt6Q=9kCbZDGhXjFCGvEoHEZN9kwUn9mVEBge67Q@mail.gmail.com>
+
+Hello,
+
+the next virtual meeting is on tomorrow at 16:00 GMT. Everybody is
+invited to join. Please add topics to the etherpad at
+<http://okfnpad.org/20th-open-bibliography-meeting>.
+
+All the best
+Adrian
+
+
+From krichel at openlib.org  Mon Apr  2 23:28:15 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 3 Apr 2012 00:28:15 +0200
+Subject: [open-bibliography] [Open-access] Open alternative to crossref
+ / linking to citations re-use on an open access repository?
+In-Reply-To: <CABPM+wrXqo1WdJk-1-y_pTkhn6u+WuDshKwq6AmFMFAK8fKquw@mail.gmail.com>
+References: <CACRfEncZ+g2inpo1ij_LyBoMQ-38fhrgKzBk5J5Y7DJKUok9cg@mail.gmail.com>
+	<CABPM+wrXqo1WdJk-1-y_pTkhn6u+WuDshKwq6AmFMFAK8fKquw@mail.gmail.com>
+Message-ID: <20120402222815.GA19716@openlib.org>
+
+  Jenny Molloy writes
+
+
+> There are certain projects looking to address this and make citation
+> networks of OA material e.g.
+
+  For economics papers, there is CitEc at http://citec.repec.org
+
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From mark at cottagelabs.com  Mon Apr  2 23:42:46 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Mon, 2 Apr 2012 23:42:46 +0100
+Subject: [open-bibliography] [Open-access] Open alternative to crossref
+ / linking to citations re-use on an open access repository?
+In-Reply-To: <20120402222815.GA19716@openlib.org>
+References: <CACRfEncZ+g2inpo1ij_LyBoMQ-38fhrgKzBk5J5Y7DJKUok9cg@mail.gmail.com>
+	<CABPM+wrXqo1WdJk-1-y_pTkhn6u+WuDshKwq6AmFMFAK8fKquw@mail.gmail.com>
+	<20120402222815.GA19716@openlib.org>
+Message-ID: <CAFxzj8Tp1mFeGAT=A6=95P2L0x4eYtkzrMMmaEvqtw0eP8O2vw@mail.gmail.com>
+
+I may be wrong, but in the described situation, wouldn't any URL meet the
+requirements?
+
+Mark
+
+
+
+On Mon, Apr 2, 2012 at 11:28 PM, Thomas Krichel <krichel at openlib.org> wrote:
+
+>  Jenny Molloy writes
+>
+>
+> > There are certain projects looking to address this and make citation
+> > networks of OA material e.g.
+>
+>   For economics papers, there is CitEc at http://citec.repec.org
+>
+>
+>  Cheers,
+>
+>  Thomas Krichel                    http://openlib.org/home/krichel
+>                                      http://authorprofile.org/pkr1
+>                                               skype: thomaskrichel
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120402/e827be9a/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Apr  3 09:59:47 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 3 Apr 2012 09:59:47 +0100
+Subject: [open-bibliography] [Open-access] Open alternative to crossref
+ / linking to citations re-use on an open access repository?
+In-Reply-To: <DB7C402B-8D24-483B-8745-6F1E4CA4C015@cameronneylon.net>
+References: <CACRfEncZ+g2inpo1ij_LyBoMQ-38fhrgKzBk5J5Y7DJKUok9cg@mail.gmail.com>
+	<CABPM+wrXqo1WdJk-1-y_pTkhn6u+WuDshKwq6AmFMFAK8fKquw@mail.gmail.com>
+	<20120402222815.GA19716@openlib.org>
+	<CAFxzj8Tp1mFeGAT=A6=95P2L0x4eYtkzrMMmaEvqtw0eP8O2vw@mail.gmail.com>
+	<DB7C402B-8D24-483B-8745-6F1E4CA4C015@cameronneylon.net>
+Message-ID: <CAD2k14O8QShRYckzevvaXLYLXEX1CRozLtx57yjN6Cs0qwhCYA@mail.gmail.com>
+
+Crossref is not only a particular technology but also a business model that
+involves the publishers providing citation information. I don't know the
+details but I suspect publishers use it because they get greater exposure.
+An Open implementation might have this attraction for publishers but it
+would be seen as a threat by publishers who aggregate and sell raw citation
+material and also downstream services.
+
+There are therefore at least two separate questions:
+
+   - how do we get Open citation data
+   - how do we build the technology to make it useful
+
+I think the first is the hardest - I am not sure whether thisw was involved
+in the original question (which used Crossref as an example)
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120403/b01acd9c/attachment.htm>
+
+From david.shotton at zoo.ox.ac.uk  Tue Apr  3 12:28:12 2012
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Tue, 03 Apr 2012 12:28:12 +0100
+Subject: [open-bibliography] Virtual meeting tomorrow
+In-Reply-To: <CAOtd05Ep3rAt6Q=9kCbZDGhXjFCGvEoHEZN9kwUn9mVEBge67Q@mail.gmail.com>
+References: <CAOtd05Ep3rAt6Q=9kCbZDGhXjFCGvEoHEZN9kwUn9mVEBge67Q@mail.gmail.com>
+Message-ID: <4F7ADECC.6040907@zoo.ox.ac.uk>
+
+Dear Adrian,
+
+Do you mean 4 pm GMT or *4 pm British Summer Time* ( = 3 pm BST)?  4 pm 
+BST is indicated when you open the link in:
+
+    *"Date: *April, 3rd 2012, 16:00 GMT see
+    <http://is.gd/20thopenbibliomeeting>"
+
+Kind regards,
+
+David
+
+
+On 02/04/2012 13:33, Adrian Pohl wrote:
+> Hello,
+>
+> the next virtual meeting is on tomorrow at 16:00 GMT. Everybody is
+> invited to join. Please add topics to the etherpad at
+> <http://okfnpad.org/20th-open-bibliography-meeting>.
+>
+> All the best
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+-- 
+
+Dr David Shotton
+Image Bioinformatics Research Group, Department of Zoology, University 
+of Oxford
+South Parks Road, Oxford OX1 3PS, UK.   Phone: +44 (0)1865-271193   
+Skype: davidshotton
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120403/25df2e4b/attachment.htm>
+
+From announce at dublincore.net  Tue Apr  3 14:38:28 2012
+From: announce at dublincore.net (DCMI Announce)
+Date: Tue, 3 Apr 2012 06:38:28 -0700
+Subject: [open-bibliography] NISO/DCMI Webinar with Dan Brickley: Schema.org
+	and Linked Data
+Message-ID: <CAP884EyRBv=xay3niUpV+BiFuKUzqpy+e8whN=OL7uxzbO-0sg@mail.gmail.com>
+
+***Please excuse the cross-posting***
+
+===============================================================
+NISO/DCMI Webinar: Schema.org and Linked Data: Complementary Approaches to
+Publishing Data
+PRESENTER: Dan Brickley
+
+DATE: April 25, 2012
+TIME: 1:00pm - 2:30pm Eastern (17:00-18:30 UTC)
+INFORMATION & REGISTRATION:
+http://www.niso.org/news/events/2012/dcmi/linked_data/
+===============================================================
+
+ABOUT THE WEBINAR
+
+Schema.org--a collaboration of the Google, Yahoo!, and Bing search
+engines--provides a way to include structured data in Web pages. Since its
+introduction in June 2011, the Schema.org vocabulary has grown to cover
+descriptive terms for content such as movies, music, organizations, TV
+shows, products, locations, news items, and job listings. The goal of
+Schema.org is "to improve the display of search results, making it easier
+for people to find the right web pages." The Schema.org initiative has
+emerged as a focal point for publishers of structured data in Web pages,
+especially but not exclusively in the commercial sector.
+
+This webinar will explore how the publication methods of Schema.org relate
+to the methods used to publish Linked Data. Must data providers commit to
+one or the other, or can the two approaches exist side-by-side, even
+reinforcing each other?
+
+TOPICS AND SPEAKERS
+
+Dan Brickley is best known for his work on Web standards in the W3C
+community, where he helped create the Semantic Web project and many of its
+defining technologies. Dan is currently working on outreach activities
+related to the Schema.org initiative. Previous work included six years on
+the W3C technical staff, establishing ILRT's Semantic Web group at the
+University of Bristol, and more recently at Joost, an Internet TV start-up,
+and at the Vrije University Amsterdam. He has been involved with resource
+discovery metadata since 1994 when he published the first HTML Philosophy
+guide on the Web, and has been exploring distributed, collaborative
+approaches to "finding stuff" ever since.
+
+Thomas Baker, Chief Information Officer of the Dublin Core Metadata
+Initiative, has recently co-chaired the W3C Semantic Web Deployment Working
+Group and the W3C Incubator Group on Library Linked Data.
+
+REGISTRATION
+Registration is per site (access for one computer) and closes at 12:00 pm
+Eastern (16:00 UTC) on April 25, 2012. Discounts are available for NISO and
+DCMI members and students.
+
+Can't make it on the webinar date/time? Register now and gain access to the
+recorded archive for one year. NISO/DCMI are holding four joint webinars in
+2012. Register for three and receive the 4th for free.
+
+For more information and to register, visit the event webpage:
+http://www.niso.org/news/events/2012/dcmi/linked_data/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120403/11479357/attachment.htm>
+
+From adrian.pohl at okfn.org  Wed Apr  4 19:57:07 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 4 Apr 2012 20:57:07 +0200
+Subject: [open-bibliography] Nature releases linked data platform with
+	metadata for 450k articles
+Message-ID: <CAOtd05F-COX+j-wT8a3CFJosb1fYHorFGojJqV3ZTQKH3tv0Sw@mail.gmail.com>
+
+Press release: <http://www.nature.com/press_releases/linkeddata.html?WT.mc_id=TWT_npgnews>.
+
+Quote:
+
+"Nature Publishing Group (NPG) today is pleased to join the linked
+data community by opening up access to its publication data via a
+linked data platform. NPG's Linked Data Platform is available at
+http://data.nature.com.
+
+The platform includes more than 20 million Resource Description
+Framework (RDF) statements, including primary metadata for more than
+450,000 articles published by NPG since 1869. In this first release,
+the datasets include basic citation information (title, author,
+publication date, etc) as well as NPG specific ontologies. These
+datasets are being released under an open metadata license, Creative
+Commons Zero (CC0), which permits maximal use/re-use of this data."
+
+As far as I can see there are no dumps available yet...
+
+All the best
+Adrian
+
+
+From announce at dublincore.net  Tue Apr 10 21:35:36 2012
+From: announce at dublincore.net (DCMI Announce)
+Date: Tue, 10 Apr 2012 13:35:36 -0700
+Subject: [open-bibliography] Five years on: major conference on libraries
+ and the Semantic Web, 27 April 2012 - Final announcement
+Message-ID: <CAP884Ex-0TQngxonvNTN7MpwktTrnO+aXFLXAmkX9GK=iUQDPw@mail.gmail.com>
+
+There are still places available for the Seminar ?Five years on?, marking
+the five years of progress in library linked data since the ?London
+Meeting? of 2007. The Seminar takes place on Friday 27 April 2012, 09.00/30
+to 17.00. The venue for the Seminar is the British Library, St. Pancras,
+London.
+
+The final list of speakers for the Seminar includes:
+
+* Mikael Nilsson, Google
+* Edmund Chamberlain, Cambridge University Library
+* Alan Danskin, British Library
+* Barbara Tillett, Joint Steering Committee for the Development of RDA (JSC)
+* Robina Claphan, Europeana
+* Mirna Willer, IFLA ISBD Review Group
+* Pat Riva, IFLA FRBR Review Group
+* Thomas Baker, DCMI
+* Gordon Dunsire, IFLA Namespaces Technical Group and DCMI
+* Diane Hillmann, DCMI and Metadata Management Associates
+* Owen Stephens, JISC
+
+The London Meeting of 31 April/1 May 2007 stimulated significant
+development of Semantic Web representations of the major international
+bibliographic metadata models, including IFLA?s Functional Requirements
+family and the International Standard Bibliographic Description (ISBD), and
+MARC as well as RDA itself. Attention is now beginning to focus on the
+management and sustainability of this activity, and the development of
+high-level semantic and data structures to support library applications.
+
+Registration for the Seminar has been set at USD 190 (including VAT), which
+includes lunch and refreshments for two breaks. Further information and
+online registration is available at:
+
+http://dcevents.dublincore.org/index.php/BibData/fyo
+
+Please note that registration for the DCMI meetings on Thursday 26 April
+has now closed, as all places have been taken.
+
+Cheers, and apologies for cross-posting.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120410/8b0fff10/attachment.htm>
+
+From naomi.lillie at okfn.org  Wed Apr 11 09:29:38 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Wed, 11 Apr 2012 09:29:38 +0100
+Subject: [open-bibliography] Fwd: [okfn-discuss] Practical reproducible
+ science; implications for data storage
+In-Reply-To: <CALLVrvUQWW1pLn4J8+_zA8Pc14U8M7D0TJ6_NepasCt8nerxLQ@mail.gmail.com>
+References: <CAH6Pt5oCOGBbbDLKTsmZX5LrtnKxKmWA_6c8GmPAr+ac4ERjuQ@mail.gmail.com>
+	<CALLVrvUQWW1pLn4J8+_zA8Pc14U8M7D0TJ6_NepasCt8nerxLQ@mail.gmail.com>
+Message-ID: <CACGRf4JT5UpzvdKPhq6OxU+FSQOXPK7XWf-C_eR2XYDfFWp8ZA@mail.gmail.com>
+
+May be of interest:
+
+---------- Forwarded message ----------
+
+On Wed, Apr 11, 2012 at 12:15 AM, Matthew Brett <matthew.brett at gmail.com>wrote:
+
+> Hi,
+>
+> I just wanted to point out this paper in case y'all have not seen it:
+>
+> http://ged.msu.edu/papers/2012-diginorm/
+>
+> In particular see here for instructions on running the code yourself,
+> on Amazon's web services:
+>
+> http://ged.msu.edu/angus/diginorm-2012/pipeline-notes.html
+>
+> The short story is that the Amazon virtual machine images and public
+> data storage allow you to run the exact analysis used for the figures
+> in the paper.
+>
+> Starcluster [1] and the IPython notebook and parallel machinery [2]
+> makes it much easier to use Amazon clusters for this purpose.
+>
+> According to the author, setting this up was relatively easy:
+>
+> http://ivory.idyll.org/blog/apr-12/replication-i.html
+>
+> My question was - what implication does this have for sites dedicated
+> to data storage?  Is practical data storage going to have to live in
+> the same network as the cloud CPUs on which we run the analysis?  And
+> will the data storage have to include virtual machine images?
+>
+> Thanks for any thoughts,
+>
+> Matthew
+>
+> [1] STAR: Cluster - http://web.mit.edu/star/cluster/
+> [2] IPython - http://ipython.org/
+>
+> _______________________________________________
+> okfn-discuss mailing list
+> okfn-discuss at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+>
+
+
+From: Nicholas Roberts <nicholas at themediasociety.org>
+Date: 11 April 2012 08:38
+Subject: Re: [okfn-discuss] Practical reproducible science; implications
+for data storage
+To: Open Knowledge Foundation discussion list <okfn-discuss at lists.okfn.org>
+Cc: open-science <open-science at lists.okfn.org>
+
+
+I wonder if its possible to get these AMI's running on a private or hybrid
+local cloud service ?
+
+this makes me think it is.. ..
+http://linux.blogs.com.np/2010/04/05/how-to-move-a-virtual-machine-from-ec2-to-virtualbox-or-kvm/
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+
+
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator (Open Bibliography)
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120411/8b530c4a/attachment.htm>
+
+From mark.macgillivray at okfn.org  Wed Apr 11 12:06:14 2012
+From: mark.macgillivray at okfn.org (Mark MacGillivray)
+Date: Wed, 11 Apr 2012 12:06:14 +0100
+Subject: [open-bibliography] UK gov consultation on open standards
+Message-ID: <CAFxzj8RSFHkRgx0yjfeViiBv59-TkbCNp1pV=y7gKqm6dTeHMQ@mail.gmail.com>
+
+UK government consultation on open standards, deadline in about three weeks.
+
+http://consultation.cabinetoffice.gov.uk/openstandards/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120411/f5188230/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Apr 11 15:52:51 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 11 Apr 2012 15:52:51 +0100
+Subject: [open-bibliography] [Open-access] UK gov consultation on open
+	standards
+In-Reply-To: <CAFxzj8RSFHkRgx0yjfeViiBv59-TkbCNp1pV=y7gKqm6dTeHMQ@mail.gmail.com>
+References: <CAFxzj8RSFHkRgx0yjfeViiBv59-TkbCNp1pV=y7gKqm6dTeHMQ@mail.gmail.com>
+Message-ID: <CAD2k14MTC43=15Mm_ttGyx++oa_PCPKUibPmBkonXsdPF+VeLQ@mail.gmail.com>
+
+On Wed, Apr 11, 2012 at 12:06 PM, Mark MacGillivray <
+mark.macgillivray at okfn.org> wrote:
+
+> UK government consultation on open standards, deadline in about three
+> weeks.
+>
+> http://consultation.cabinetoffice.gov.uk/openstandards/
+
+
+I think biblio is a really valuable area. I'd love to do science but it's
+too large in 3 weeks
+
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120411/41440b9e/attachment.htm>
+
+From tfmorris at gmail.com  Thu Apr 12 14:44:01 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Thu, 12 Apr 2012 09:44:01 -0400
+Subject: [open-bibliography] Norwegian Personal Name Authority File
+Message-ID: <CAE9vqEGFtOEoipAqB8BzXJiAT++C25ap9qU8frqgotNjtO0s=A@mail.gmail.com>
+
+Has anyone here attempted to work with the linked data version of the
+Norwegian personal name authorities file?
+
+http://www.bibsys.no/files/out/linked_data/autreg/index.html
+http://openbiblio.net/2011/04/06/radata-na-norwegian-personal-name-authorities-as-linked-open-data/
+
+I noticed that it had some owl:sameAs links to VIAF in it, so I
+figured it would be pretty easy to link up with other data, but then I
+discovered that they've got multiple VIAF links for a single name
+authority record as well as a single VIAF record being linked to
+multiple name authority records.  I can just ignore anything which is
+multiply linked, but it makes me suspicious of the quality of the rest
+of the links.  I'm wondering if perhaps they just did a simple name
+match without any criteria.  This would make it inadvisable to use
+even the 1:1 matches.
+
+Here's an example which is linked 17 times one way and 8 the other:
+
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x06016930>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x07019560>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x09068253>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x10038002>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x98024353>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90637787>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90883724>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90883799>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90886687>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90883648>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90883793>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90914430>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x90935347>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x97001128>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x00004331>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x00032556>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs>
+<http://viaf.org/viaf/103384140> .
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/20834817>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/42034050>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/73957208>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/33173455>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs>
+<http://viaf.org/viaf/100194281> .
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs>
+<http://d-nb.info/gnd/140075895> .
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/71457471>
+.
+<http://data.bibsys.no/data/notrbib/authorityentry/x03106769>
+<http://www.w3.org/2002/07/owl#sameAs>
+<http://dbpedia.org/resource/John_Harris_%28USN%29> .
+
+Has anyone else tried to use these owl:sameAs links?  Any advice to offer?
+
+For anyone who's interested, here are some basic stats on the data set:
+
+1.2 GB (it's an uncompressed(!) download, but compresses to 85 MB)
+
+1,441,148 entries
+  primary name in normal order duplicated in foaf:name, rdfs:label,
+  primary name in inverted order in
+http://def.bibsys.no/xmlns/radatana/1.0#catalogueName
+
+  311,447 VIAF links  (owl:sameAs)
+  209,888 DNB links
+   30,422 DBpedia links
+
+   95,488 aliases (skos:altLabel)
+   57,218 birth year (whois:since http://www.kanzaki.com/ns/whois#since)
+    9,758 death year (whois:until)
+
+Tom
+
+
+From todd.d.robbins at gmail.com  Thu Apr 19 22:14:33 2012
+From: todd.d.robbins at gmail.com (todd.d.robbins at gmail.com)
+Date: Thu, 19 Apr 2012 14:14:33 -0700
+Subject: [open-bibliography] Author Identity and Open Bibliography
+Message-ID: <CAM9_6uPnwVbMF2BX2tr73mO90ieUJmNjy=ioQKn3j0c02ge+vA@mail.gmail.com>
+
+A wonderful piece by our very own Jim Pitman, in case anyone else missed it:
+
+http://bulletin.imstat.org/2012/03/author-identity-and-open-bibliography/
+
+Tod
+
+-- 
+Tod Robbins
+iSchool GSA Crew
+MLIS Candidate 2012
+University of Washington
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120419/aab17976/attachment.htm>
+
+From naomi.lillie at okfn.org  Fri Apr 20 09:38:36 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Fri, 20 Apr 2012 09:38:36 +0100
+Subject: [open-bibliography] Hackathon update
+Message-ID: <CACGRf4LGA-z3ojMsWoOHR67BnD+hhe4WohW7SW+75ZN5wEfoMQ@mail.gmail.com>
+
+All,
+
+Further to the e-mail about our proposed Hackathon, 12th-14th June 2012,
+please see below for some more information.
+
+*If you are interested in coming, please respond as we would appreciate a
+'show of hands'* - this isn't 'I will be attending', just 'I am interested'
+or even 'I know someone who would be up for this' - it helps us know what
+to book in terms of size of venue, number of biscuits, plug sockets
+required, etc etc!
+
+Note - all these details are to be confirmed and input is welcome - only
+the dates are set:
+
+-------
+Schedule:
+* Tues: Meet-up at a pub, say 17.00 - 20.00 (this is not a mandatory part
+of the Hackathon but is an opportunity to talk about Open Data with
+like-minded individuals);
+* Weds: Hack Day 1, start 10.00, be fed and watered, and stay overnight for
+those who want to;
+* Thurs: Hack Day 2, start 10.00, be fed and watered and head off around
+16.30-17.00.
+
+Venue: likely to be Queen Mary University
+University of London
+Mile End Road
+London
+E1 4NS
+
+Groups involved:
+* Open Biblio <http://openbiblio.net/> - emphasising the utilisation of
+tools we've developed;
+* Open Knowledge Foundation's Working Group on Open Data in Cultural
+Heritage and GLAM <http://openglam.org/>;
+* DevCSI <http://devcsi.ukoln.ac.uk/> - encouraging diverse thinking around
+software development and technical innovation.
+-------
+
+Nearer the time I'll get back in touch to ask about overnight
+accommodation, dietary requirements, access requirements and so on, but in
+the meantime please respond if you want to be counted in.
+
+Thanks,
+Naomi
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator (Open Bibliography)
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120420/fb71e83b/attachment.htm>
+
+From adrian.pohl at okfn.org  Tue Apr 24 16:08:51 2012
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 24 Apr 2012 17:08:51 +0200
+Subject: [open-bibliography] Next virtual meeting on May, 8th, 15:00 GMT
+Message-ID: <CAOtd05FqW=gpLwkNvd2v=KU8JXWycPaHhE518q=99+wMDVn+kQ@mail.gmail.com>
+
+Hello,
+
+due to the first tuesday in May being holiday in many countries, the
+next virtual meeting will take place on May, 8th on 15:00 GMT.
+
+See the etherpad at
+<http://okfnpad.org/21st-open-bibliography-meeting> for more
+information and please add agenda topics there.
+
+All the best
+Adrian
+
+
+From self at evident.com  Tue Apr 24 16:22:04 2012
+From: self at evident.com (David Weinberger)
+Date: Tue, 24 Apr 2012 11:22:04 -0400
+Subject: [open-bibliography] Harvard puts 12M bib records into public domain
+	(CC0)
+Message-ID: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+
+Announcement:
+http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+
+Harvard Open Metadata policy:
+http://openmetadata.lib.harvard.edu/
+
+My post about it:
+http://www.hyperorg.com/blogger/2012/04/24/2b2keverythingismiscbig-data-for-books-harvard-puts-metadata-for-12m-library-items-into-the-public-domain
+
+
+David Weinberger
+
+
+From naomi.lillie at okfn.org  Tue Apr 24 16:32:07 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Tue, 24 Apr 2012 16:32:07 +0100
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+Message-ID: <CACGRf4+Um+ZVaMC7hufO1UsEU4PtX=3tZLLZAc1R5wCGY8RqdQ@mail.gmail.com>
+
+That's great David - I'll include your article in my round-up of Biblio
+news, if that's ok with you...
+
+I liked your disclaimer, by the way ;-)
+
+
+On 24 April 2012 16:22, David Weinberger <self at evident.com> wrote:
+
+> Announcement:
+> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+>
+> Harvard Open Metadata policy:
+> http://openmetadata.lib.harvard.edu/
+>
+> My post about it:
+>
+> http://www.hyperorg.com/blogger/2012/04/24/2b2keverythingismiscbig-data-for-books-harvard-puts-metadata-for-12m-library-items-into-the-public-domain
+>
+>
+> David Weinberger
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator (Open Bibliography)
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120424/76d44fe4/attachment.htm>
+
+From lars at aronsson.se  Tue Apr 24 20:47:50 2012
+From: lars at aronsson.se (Lars Aronsson)
+Date: Tue, 24 Apr 2012 21:47:50 +0200
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+Message-ID: <4F970366.5090200@aronsson.se>
+
+On 04/24/2012 05:22 PM, David Weinberger wrote:
+> Announcement:
+> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+
+That's great and makes me wonder:
+
+1) Are there any good examples of how people are reusing catalog records?
+
+2) All these various platforms for digitization, institutional repositories,
+digital asset management or content management, which of them can output or
+input catalog records? I'm thinking of Fedora, OJS, DSpace and the like.
+
+
+-- 
+   Lars Aronsson (lars at aronsson.se)
+   Project Runeberg - free Nordic literature - http://runeberg.org/
+
+
+
+
+From krichel at openlib.org  Tue Apr 24 21:54:51 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 24 Apr 2012 22:54:51 +0200
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <4F970366.5090200@aronsson.se>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<4F970366.5090200@aronsson.se>
+Message-ID: <20120424205451.GC32038@openlib.org>
+
+  Lars Aronsson writes
+
+> 1) Are there any good examples of how people are reusing catalog records?
+
+  Erhh, shared cataloging a la OCLC? I suspect the release of such data
+  will have OCLC competitors (or potential competitors) rub their hands.
+  
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From krichel at openlib.org  Tue Apr 24 21:59:45 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Tue, 24 Apr 2012 22:59:45 +0200
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+Message-ID: <20120424205945.GD32038@openlib.org>
+
+
+  David Weinberger writes
+> Announcement:
+> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+
+  David, where is the data available for bulk download?
+
+https://blogs.law.harvard.edu/dplatechdev/2012/04/24/going-live-with-harvards-catalog/
+
+  say "go here". Where?
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From rufus.pollock at okfn.org  Tue Apr 24 22:23:24 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 24 Apr 2012 22:23:24 +0100
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+Message-ID: <CAEvtuKo1hPoEXs+=OVmzDw=kv=TCpUtZ1EcF_k8ehS61XgkOEg@mail.gmail.com>
+
+On 24 April 2012 16:22, David Weinberger <self at evident.com> wrote:
+> Announcement:
+> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+>
+> Harvard Open Metadata policy:
+> http://openmetadata.lib.harvard.edu/
+>
+> My post about it:
+> http://www.hyperorg.com/blogger/2012/04/24/2b2keverythingismiscbig-data-for-books-harvard-puts-metadata-for-12m-library-items-into-the-public-domain
+
+Great news! I've added a dataset on the DataHub for it:
+
+<http://datahub.io/dataset/harvard-library-catalog>
+
+(Still missing the API if you would like to add it!)
+
+I've also added to the Bibliographic group:
+
+<http://datahub.io/group/bibliographic>
+
+Rufus
+
+
+From rufus.pollock at okfn.org  Tue Apr 24 22:24:12 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 24 Apr 2012 22:24:12 +0100
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <20120424205945.GD32038@openlib.org>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<20120424205945.GD32038@openlib.org>
+Message-ID: <CAEvtuKp6v+st5K0jUDcfKHg2XqOfRTf-uR5LymKT8-kV3tO7BQ@mail.gmail.com>
+
+On 24 April 2012 21:59, Thomas Krichel <krichel at openlib.org> wrote:
+>
+> ?David Weinberger writes
+>> Announcement:
+>> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+>
+> ?David, where is the data available for bulk download?
+>
+> https://blogs.law.harvard.edu/dplatechdev/2012/04/24/going-live-with-harvards-catalog/
+
+I've added the info to the DataHub dataset:
+
+<http://datahub.io/dataset/harvard-library-catalog/resource/1895f702-59e0-4cf8-8bcb-c3b8cb8f05fd>
+
+But the direct answer to your question is:
+
+<http://openmetadata.lib.harvard.edu/bibdata>
+
+Which is linked from the top of:
+<http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373>
+
+Rufus
+
+
+From self at evident.com  Wed Apr 25 00:00:52 2012
+From: self at evident.com (David Weinberger)
+Date: Tue, 24 Apr 2012 19:00:52 -0400
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAEvtuKp6v+st5K0jUDcfKHg2XqOfRTf-uR5LymKT8-kV3tO7BQ@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<20120424205945.GD32038@openlib.org>
+	<CAEvtuKp6v+st5K0jUDcfKHg2XqOfRTf-uR5LymKT8-kV3tO7BQ@mail.gmail.com>
+Message-ID: <CAKx1ww1s+SAD5Q9rZg+PCE24CT24cOZ+jL4_ceJa8Ki3pgzXng@mail.gmail.com>
+
+Ack. Sorry. I've been on planes all day except for the part where I
+rushed into a meeting.
+
+http://openmetadata.lib.harvard.edu/bibdata
+
+I'll update the link on the site as well, of course. Thanks for the pointer.
+
+David W.
+
+On Tue, Apr 24, 2012 at 5:24 PM, Rufus Pollock <rufus.pollock at okfn.org> wrote:
+> On 24 April 2012 21:59, Thomas Krichel <krichel at openlib.org> wrote:
+>>
+>> ?David Weinberger writes
+>>> Announcement:
+>>> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+>>
+>> ?David, where is the data available for bulk download?
+>>
+>> https://blogs.law.harvard.edu/dplatechdev/2012/04/24/going-live-with-harvards-catalog/
+>
+> I've added the info to the DataHub dataset:
+>
+> <http://datahub.io/dataset/harvard-library-catalog/resource/1895f702-59e0-4cf8-8bcb-c3b8cb8f05fd>
+>
+> But the direct answer to your question is:
+>
+> <http://openmetadata.lib.harvard.edu/bibdata>
+>
+> Which is linked from the top of:
+> <http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373>
+>
+> Rufus
+
+
+From pohl at hbz-nrw.de  Wed Apr 25 09:10:00 2012
+From: pohl at hbz-nrw.de (Adrian Pohl)
+Date: Wed, 25 Apr 2012 10:10:00 +0200
+Subject: [open-bibliography] SWIB12 CfP - Semantic Web in Libraries (Cologne,
+ 26 - 28/11/2012)
+Message-ID: <4F97CD7802000014000474E9@agrippa.hbz-nrw.de>
+
+Call for Participation: SWIB12 "Semantic Web in Bibliotheken"
+(Semantic Web in Libraries) Conference, 26.11. - 28.11.2012, Cologne
+
+To an ever increasing extent Linked Open Data (LOD) is developing
+into a mainstream topic, with more and more organisations announcing
+LOD projects and services. Furthermore and during the last two years
+Linked Open Data has received a lot more attention from the library
+world. Examples ranging from the Library of Congress' initiative "A
+Bibliographic Framework for the Digital Age", the Conference of
+European National Librarians and their vote to support the open
+licensing of their data to groups like LODLAM, IFLA'S Semantic Web
+Special Interest Group, to  library system vendors and providers
+discussing and experimenting with Linked Data technology clearly
+reflect that -  LOD has gained a lot of momentum in library land.
+
+The question is how to ensure that LOD won't be a temporary hype but
+that it will take hold in future infrastructures. SWIB12  will focus
+on  the adaption of Semantic Web approaches in applications for
+libraries and science. In the last years lots of effort has been put
+into generating LOD datasets from legacy systems and into promoting
+the LOD approach towards a global and open information space.
+Upcoming challenges will be the strategic and technical alignment of
+catalogues and legacy systems in libraries, and authoring
+environments for scholarly communication with a data and service
+infrastructure based on Semantic Web principles.
+
+This year's SWIB conference (Semantic Web in Bibliotheken) will be
+held in Cologne from 26-28 November 2012. As in the years before,
+SWIB12 will be organized by the North Rhine-Westphalian Library
+Service Center (hbz) and the ZBW - German National Library of
+Economics /  Leibniz Information Centre for Economics. The
+conference language is English.
+
+We appreciate proposals (research reports, projects, work in
+progress, ...) on the following or related topics:
+
+* Integration of Linked Data into productive library environments
+
+* Technologies for providing, accessing and integrating Linked Data
+in a non-disruptive and lightweighted way, e.g. by means of APIs or
+WebServices
+
+
+* Enhancing authoring environments like Content Management Systems,
+blogs or wikis with Semantic Web facilities, e.g. by accessing
+Linked Open Datasets or by including semantic markup
+
+* Enhancing legacy data through integration of data from the LOD
+cloud or through FRBRizing, deduplication, crowdsourcing etc.
+
+* Applications using authority data maintained by libraries and
+possibly enriched by the community
+
+* Development of commercial or non-commercial library systems
+aligning their data models and policies with the web of data
+
+* Licensing strategies and business models for supporting the reuse
+of Linked Open Data
+
+Do you have an interesting service, research topic or project that
+you would like to present at the conference? We are looking forward
+to receiving your suggestions and proposals for contributions (with
+an abstract of 1000-1500 characters) by 20 May 2012. Please submit
+your abstract using our website at http://swib.org/swib12.
+
+
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
+
+
+or
+
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
+
+Website: http://swib.org/swib12
+Twitter: #swib12
+
+
+
+
+From tfmorris at gmail.com  Wed Apr 25 17:58:57 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Wed, 25 Apr 2012 12:58:57 -0400
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+Message-ID: <CAE9vqEF9HFVxqK4tSmc4_6qiGA+sP=vNy4XfPB=Ve16z-WcgMQ@mail.gmail.com>
+
+On Tue, Apr 24, 2012 at 11:22 AM, David Weinberger <self at evident.com> wrote:
+> Announcement:
+> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+
+Very cool.  What is the best forum to discuss and ask questions?  For
+example, the documentation says that the dump will be refreshed weekly
+-- is there any plan to offer an updates feed (e.g. Atom) a la LC
+Identities feed?  Any plan to offer data dumps of the data available
+through the API (it seems to contain something different than pure
+MARC21)?
+
+Tom
+
+
+From self at evident.com  Wed Apr 25 18:33:06 2012
+From: self at evident.com (David Weinberger)
+Date: Wed, 25 Apr 2012 13:33:06 -0400
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAE9vqEF9HFVxqK4tSmc4_6qiGA+sP=vNy4XfPB=Ve16z-WcgMQ@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<CAE9vqEF9HFVxqK4tSmc4_6qiGA+sP=vNy4XfPB=Ve16z-WcgMQ@mail.gmail.com>
+Message-ID: <CAKx1ww3iP1LYHccMaW-5APtTwOx1amfzrEpFuYaX9xq4GYYR6w@mail.gmail.com>
+
+Tom,
+
+Good questions. Be prepared for mediocre answers.
+
+1. There isn't a forum established for this. There should at least be
+a discussion page. I'll suggest that. Thanks. In the meantime, I'll
+forward these questions to the small list of people who have been
+working on this initiative for the past year.
+
+2. An updates feed is a great idea. It may already be contemplated.
+
+3. I can answer the API dump question with a little more authority
+since the API access is being offered via the DPLA prototype platform
+that our group is working on. So, yes, you're right. API queries to
+fields within the dpla namespace sometimes return enhanced data,
+especially wrt uniform title, but eventually there will be more (e.g.
+clean up date formats, etc.). We should be offering that data for
+download, and we'll get around to it. But there's a lot on our plate
+now. In the meantime, if you need that enhanced data, we'll be happy
+to make it available to you ahead of time. If there's strong demand
+for these tables, that'll bump it up the todo list.
+
+David W.
+
+On Wed, Apr 25, 2012 at 12:58 PM, Tom Morris <tfmorris at gmail.com> wrote:
+> On Tue, Apr 24, 2012 at 11:22 AM, David Weinberger <self at evident.com> wrote:
+>> Announcement:
+>> http://isites.harvard.edu/icb/icb.do?keyword=k77982&pageid=icb.page498373
+>
+> Very cool. ?What is the best forum to discuss and ask questions? ?For
+> example, the documentation says that the dump will be refreshed weekly
+> -- is there any plan to offer an updates feed (e.g. Atom) a la LC
+> Identities feed? ?Any plan to offer data dumps of the data available
+> through the API (it seems to contain something different than pure
+> MARC21)?
+>
+> Tom
+
+
+From wtd at pobox.com  Wed Apr 25 20:55:41 2012
+From: wtd at pobox.com (William Denton)
+Date: Wed, 25 Apr 2012 15:55:41 -0400 (EDT)
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww1s+SAD5Q9rZg+PCE24CT24cOZ+jL4_ceJa8Ki3pgzXng@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<20120424205945.GD32038@openlib.org>
+	<CAEvtuKp6v+st5K0jUDcfKHg2XqOfRTf-uR5LymKT8-kV3tO7BQ@mail.gmail.com>
+	<CAKx1ww1s+SAD5Q9rZg+PCE24CT24cOZ+jL4_ceJa8Ki3pgzXng@mail.gmail.com>
+Message-ID: <alpine.DEB.2.00.1204251553290.18259@shell.miskatonic.org>
+
+This is great stuff---my thanks to everyone involved in getting this out 
+there!
+
+My question follows on Tom's about a forum for discussion, or a place to 
+ask questions.  I want to do something with the call numbers but the 
+records don't seem to use the 050 or 090 consistently.  Is there someone 
+who could explain the source of truth for call numbers?  David, perhaps 
+you could pass it on?
+
+Bill
+-- 
+William Denton
+Toronto, Canada
+http://www.miskatonic.org/
+
+
+
+From krichel at openlib.org  Fri Apr 27 07:20:48 2012
+From: krichel at openlib.org (Thomas Krichel)
+Date: Fri, 27 Apr 2012 08:20:48 +0200
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <CAKx1ww3iP1LYHccMaW-5APtTwOx1amfzrEpFuYaX9xq4GYYR6w@mail.gmail.com>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<CAE9vqEF9HFVxqK4tSmc4_6qiGA+sP=vNy4XfPB=Ve16z-WcgMQ@mail.gmail.com>
+	<CAKx1ww3iP1LYHccMaW-5APtTwOx1amfzrEpFuYaX9xq4GYYR6w@mail.gmail.com>
+Message-ID: <20120427062048.GB20655@openlib.org>
+
+  David Weinberger writes
+
+> 1. There isn't a forum established for this. 
+
+  I could run a mailman list on lists.openlib.org, if there is 
+  interested. I will need a list name and the email address 
+  of a list owner. I could do the list owner myself.
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                      http://authorprofile.org/pkr1
+                                               skype: thomaskrichel
+
+
+From david.shotton at zoo.ox.ac.uk  Fri Apr 27 10:52:01 2012
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Fri, 27 Apr 2012 10:52:01 +0100
+Subject: [open-bibliography] Enabling Attribution of Author Credit and
+	Scholarly Contributions
+In-Reply-To: <4F9A5910.5040507@zoo.ox.ac.uk>
+References: <4F9A5910.5040507@zoo.ox.ac.uk>
+Message-ID: <4F9A6C41.3080502@zoo.ox.ac.uk>
+
+Dear Colleagues,
+
+In preparation for the International Workshop on Contributorship and 
+Scholarly Attribution 
+<http://projects.iq.harvard.edu/attribution_workshop/> at Harvard next 
+month, I have prepared the following to enable the contributions of 
+authors and others to research investigations and resulting journal 
+articles to be recorded in an easy and systematic manner, so as better 
+to attribute credit for their contributions:
+
+    SCoRO, the Scholarly Contributions and Roles Ontology, available at
+    http://purl.org/spar/scoro/
+    SCoRF, a Scholarly Contributions Report Form, available
+    athttp://purl.org/spar/scoro/SCoRF.xls
+    A presentation for the Workshop, explaining them both,
+    available
+    athttp://purl.org/spar/scoro/Shotton_SCoRO_and_SCoRF_Contributions-Workshop_Harvard_16May2012.pdf
+
+I hope you find these relevant and of interest.  I would be most 
+grateful for any feedback, particularly if it can be given before May 10th.
+
+Please feel free to distribute this message widely.
+
+Best wishes,
+
+David
+-- 
+
+Dr David Shotton
+Image Bioinformatics Research Group, Department of Zoology, University 
+of Oxford
+South Parks Road, Oxford OX1 3PS, UK.   Phone: +44 (0)1865-271193   
+Skype: davidshotton
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120427/bd386c1c/attachment.htm>
+
+From self at evident.com  Fri Apr 27 14:18:21 2012
+From: self at evident.com (David Weinberger)
+Date: Fri, 27 Apr 2012 09:18:21 -0400
+Subject: [open-bibliography] Harvard puts 12M bib records into public
+ domain (CC0)
+In-Reply-To: <20120427062048.GB20655@openlib.org>
+References: <CAKx1ww2cQqQnrFKTSXW5_C2CTE8ERoNS-hWro=jUBDxCHkGO6w@mail.gmail.com>
+	<CAE9vqEF9HFVxqK4tSmc4_6qiGA+sP=vNy4XfPB=Ve16z-WcgMQ@mail.gmail.com>
+	<CAKx1ww3iP1LYHccMaW-5APtTwOx1amfzrEpFuYaX9xq4GYYR6w@mail.gmail.com>
+	<20120427062048.GB20655@openlib.org>
+Message-ID: <CAKx1ww24qi20KqMKe6WWVwO-sh7NqOFoXnO4WtT6px6kWi_osw@mail.gmail.com>
+
+I think a bulletin board might be more useful, so that the messages
+remain publicly available and searchable. I could set one up at
+QuickTopic.com.
+
+If you'd prefer a mailing list, then you are more than welcome to join
+the existing mailing list for people interested in the development of
+the DPLA platform our group has been working on:
+
+dpla-dev at eon.law.harvard.edu
+
+
+- David W.
+
+On Fri, Apr 27, 2012 at 2:20 AM, Thomas Krichel <krichel at openlib.org> wrote:
+> ?David Weinberger writes
+>
+>> 1. There isn't a forum established for this.
+>
+> ?I could run a mailman list on lists.openlib.org, if there is
+> ?interested. I will need a list name and the email address
+> ?of a list owner. I could do the list owner myself.
+>
+> ?Cheers,
+>
+> ?Thomas Krichel ? ? ? ? ? ? ? ? ? ?http://openlib.org/home/krichel
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?http://authorprofile.org/pkr1
+> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? skype: thomaskrichel
+
+
+From david.shotton at zoo.ox.ac.uk  Fri Apr 27 14:54:30 2012
+From: david.shotton at zoo.ox.ac.uk (David Shotton)
+Date: Fri, 27 Apr 2012 14:54:30 +0100
+Subject: [open-bibliography] Enabling Attribution of Author Credit and
+	Scholarly Contributions
+In-Reply-To: <4F9A6C41.3080502@zoo.ox.ac.uk>
+References: <4F9A5910.5040507@zoo.ox.ac.uk> <4F9A6C41.3080502@zoo.ox.ac.uk>
+Message-ID: <4F9AA516.5020305@zoo.ox.ac.uk>
+
+Apologies, two of the embedded URIs below the (correct) text in my 
+original message got somehow inadvertently shortened to 
+http://purl.org/spar/.  The correct links are:
+
+    SCoRO, the Scholarly Contributions and Roles Ontology, available at
+    http://purl.org/spar/scoro/
+    SCoRF, a Scholarly Contributions Report Form, available
+    athttp://purl.org/spar/scoro/SCoRF.xls
+    A presentation for the Workshop, explaining them both,
+    available
+    athttp://purl.org/spar/scoro/Shotton_SCoRO_and_SCoRF_Contributions-Workshop_Harvard_16May2012.pdf
+
+David
+
+= = =
+On 27/04/2012 10:52, David Shotton wrote:
+> Dear Colleagues,
+>
+> In preparation for the International Workshop on Contributorship and 
+> Scholarly Attribution 
+> <http://projects.iq.harvard.edu/attribution_workshop/> at Harvard next 
+> month, I have prepared the following to enable the contributions of 
+> authors and others to research investigations and resulting journal 
+> articles to be recorded in an easy and systematic manner, so as better 
+> to attribute credit for their contributions:
+>
+>     SCoRO, the Scholarly Contributions and Roles Ontology, available
+>     at http://purl.org/spar/scoro/
+>     SCoRF, a Scholarly Contributions Report Form, available
+>     athttp://purl.org/spar/scoro/SCoRF.xls
+>     A presentation for the Workshop, explaining them both,
+>     available
+>     athttp://purl.org/spar/scoro/Shotton_SCoRO_and_SCoRF_Contributions-Workshop_Harvard_16May2012.pdf
+>
+> I hope you find these relevant and of interest.  I would be most 
+> grateful for any feedback, particularly if it can be given before May 
+> 10th.
+>
+> Please feel free to distribute this message widely.
+>
+> Best wishes,
+>
+> David
+> -- 
+>
+> Dr David Shotton
+> Image Bioinformatics Research Group, Department of Zoology, University 
+> of Oxford
+> South Parks Road, Oxford OX1 3PS, UK.   Phone: +44 (0)1865-271193   
+> Skype: davidshotton
+
+-- 
+
+Dr David Shotton
+Image Bioinformatics Research Group, Department of Zoology, University 
+of Oxford
+South Parks Road, Oxford OX1 3PS, UK.   Phone: +44 (0)1865-271193   
+Skype: davidshotton
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120427/f467e97d/attachment-0001.htm>
+

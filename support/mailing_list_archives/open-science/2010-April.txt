@@ -1,0 +1,2054 @@
+From wilbanks at creativecommons.org  Thu Apr  1 16:11:39 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Thu, 01 Apr 2010 08:11:39 -0700
+Subject: [open-science] open-science Digest, Vol 17, Issue 16
+In-Reply-To: <4BB3C804.5010701@zoo.ox.ac.uk>
+References: <mailman.4159.1269504820.21079.open-science@lists.okfn.org>
+	<4BB3C804.5010701@zoo.ox.ac.uk>
+Message-ID: <4BB4B7AB.7040208@creativecommons.org>
+
+Here's a direct link to the document to download it. We need to link it 
+more clearly!
+
+http://bit.ly/dcjJc6
+
+jtw
+
+On 3/31/10 3:09 PM, David Shotton wrote:
+> 1. Re: open-science Digest, Vol 17, Issue 7: On March 24, John Wilbanks
+> wrote:
+>> Here's our short working paper on this topic. We're posting it to our
+>> website later today after a few details get crossed off.
+>>
+> Could not find this paper on your web site, John. Please share a link.
+>
+> David
+> --
+>
+> Dr David Shotton david.shotton at zoo.ox.ac.uk
+> <mailto:mailto:david.shotton at zoo.ox.ac.uk>
+> Reader in Image Bioinformatics
+>
+> Image Bioinformatics Research Group http://ibrg.zoo.ox.ac.uk
+> Department of Zoology, University of Oxford tel: +44-(0)1865-271193
+> South Parks Road, Oxford OX1 3PS, UK fax: +44-(0)1865-310447
+>
+
+
+From jonathan.gray at okfn.org  Wed Apr  7 18:41:25 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 7 Apr 2010 19:41:25 +0200
+Subject: [open-science] Displaying number of people that have endorsed
+	the Panton Principles?
+In-Reply-To: <685daa0d1003090445j40dbea70p223fafa127a843e9@mail.gmail.com>
+References: <54ca21751002230708s36d859c5u7e4e3b6d338caa78@mail.gmail.com>
+	<6aeb064b1003070532h4d005c62j3a6b6a664b7cca73@mail.gmail.com>
+	<685daa0d1003090445j40dbea70p223fafa127a843e9@mail.gmail.com>
+Message-ID: <z2x54ca21751004071041l40893668ye757491b1ef361f@mail.gmail.com>
+
+Great work Mike! Love the various charts and statistics on endorsements.
+
+I've given you admin access to the Panton Principles site. It would be
+great if you would like to have a go at embedding some stats on the
+endorsements page?
+
+All the best,
+
+Jonathan
+
+On Tue, Mar 9, 2010 at 1:45 PM, Mike Chelen <mike at opensci.info> wrote:
+> As a temporary hack, we can import the endorsement page HTML into a
+> Google spreadsheet:
+> https://spreadsheets.google.com/ccc?key=0AuD5dr31WtX4dG1yR3FUSzhtOHB3elpSOU1lY2N2WkE&hl=en
+>
+> There, the number of signatures is totaled, and should update every 15
+> minutes. The results can be published as HTML, and embedded in an
+> Iframe for inclusion in other sites:
+> http://spreadsheets.google.com/pub?key=tmrGqTK8m8pwzZR9MeccvZA&single=true&gid=9&range=totalsignatures&output=html
+>
+> According to this, the Principles have reached 100 endorsements!
+>
+> Best,
+>
+> Mike Chelen
+> http://twitter.com/mikechelen http://friendfeed.com/mikechelen
+> http://facebook.com/mikechelen
+>
+>
+> On Sun, Mar 7, 2010 at 8:32 AM, Egon Willighagen
+> <egon.willighagen at gmail.com> wrote:
+>> On Tue, Feb 23, 2010 at 4:08 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>>> Just wondered if - after looking at the code - you have any sense of
+>>> how difficult it would be to automatically display the number of
+>>> people that have endorsed the Panton Principles somewhere on the site?
+>>
+>> I would require some hacking I think. I'm afraid I won't have time for
+>> that until at least the end of March. Instead of things getting
+>> quieter, it just keeps building up... where is that tenure when you
+>> need it... ?? ;)
+>>
+>> Grtz,
+>>
+>> Egon
+>>
+>> --
+>> Post-doc @ Uppsala University
+>> Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+>> Homepage: http://egonw.github.com/
+>> Blog: http://chem-bla-ics.blogspot.com/
+>> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From rufus.pollock at okfn.org  Tue Apr 13 10:23:36 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Tue, 13 Apr 2010 10:23:36 +0100
+Subject: [open-science] Panton Principles FAQs have been posted
+Message-ID: <q2tb68e90821004130223nfbbe4d1aqca6ac2c67795c180@mail.gmail.com>
+
+The FAQs [1] everyone worked on have now been uploaded to the website
+(and a ToC has been added in!):
+
+<http://pantonprinciples.org/faq/>
+
+[1]: http://piratepad.net/LgLRcGLw35
+
+If anyone spots any errors please shout out!
+
+I also note that we don't seem to yet have a q&a that deals with
+privacy head-on. I think there was some discussion here about making
+clear the distinction between the decision to make the data available
+and whether that data was made open. If someone has an idea for
+wording here this please suggest it and/or add it to the
+piratepad.net.
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From jeanclaude.bradley at gmail.com  Wed Apr 14 19:00:08 2010
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Wed, 14 Apr 2010 14:00:08 -0400
+Subject: [open-science] Chemistry Data Packages
+Message-ID: <u2g9dd1f6d61004141100o33868a33s7fd07670e2808473@mail.gmail.com>
+
+I spoke with Jonathan this week about the chemistry data packages on CKAN
+*http://tinyurl.com/y5vwzrt
+*Are there any plans for being able to do structure (or even substructure)
+searches across all the packages?
+
+Jean-Claude
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100414/345c47ba/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Apr 14 19:25:27 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 14 Apr 2010 19:25:27 +0100
+Subject: [open-science] Open Knowledge Conference (OKCon) in London on 24th
+	April 2010
+Message-ID: <q2p54ca21751004141125t5cb4ad41t6e5dc633b6f3e804@mail.gmail.com>
+
+Hi,
+
+A quick reminder that this year's Open Knowledge Conference (OKCon) is
+taking place in London on 24th April 2010 - in 10 days time! There are
+still tickets left - and you can register at the following link:
+
+  http://www.okfn.org/okcon/register/
+
+Speakers and sessions include:
+
+  * 'State of the Nation' Keynotes:
+     - Matthias Schindler, Wikimedia (Germany) on 'Bibliographic Data
+and the Public Domain'
+     - Glyn Moody, on the 'Post-Analogue World'
+     - Peter Murray-Rust, on 'Recent Developments in Open Science'
+     - Chris Taggart, on 'Open Local Government Data'
+     - S?ren Auer, on 'Linked Open Data'
+     - Jordan Hatcher, on 'Open Licensing for Data'
+  * Ideas and Culture with talks on analyzing 'Dickens Letters' and
+'Making the Physical from the Digital'
+  * Open Bibliographic Information with talks on 'The Itinerant Poetry
+Library' and the 'Journal Commons'
+  * Community Driven Research with talks on 'Climate data' and 'Open
+Archaeology'
+  * Civic Information with talks on 'Using Open Government Data to
+Profile Politicians' and the 'Straight Choice'
+  * Open Government Data and PSI in the EU which looks at the current
+state of play in France, Norway, Germany, the UK and elsewhere
+  * Tools with talks on 'Large-scale data handling and revisioning'
+with the Genome, Ontowiki, CKAN and more
+  * Open Data and the Semantic Web with talks about South Korean
+DBPedia and Thesaurus Management Tool ?Pool Party?
+  * Open Data in International Development including talks from
+PublishWhatYouFund and on OpenStreetMap in Haiti
+
+Further details are available at:
+
+  http://blog.okfn.org/2010/04/14/okcon-2010-nearly-here-24th-april-2010-in-london/
+  http://www.okfn.org/okcon/programme
+
+More information:
+
+  * Main conference page: http://www.okfn.org/okcon/
+  * FAQ: http://www.okfn.org/okcon/faq
+
+If you have any questions please email Sara Wingate-Gray at sara.gray at okfn.org.
+
+We look forward to seeing people there!
+
+All the best,
+
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jessy.cowansharp at gmail.com  Thu Apr 15 03:20:03 2010
+From: jessy.cowansharp at gmail.com (Jessy Cowan-Sharp)
+Date: Wed, 14 Apr 2010 22:20:03 -0400
+Subject: [open-science] Open Knowledge Conference (OKCon) in London on
+	24th April 2010
+In-Reply-To: <q2p54ca21751004141125t5cb4ad41t6e5dc633b6f3e804@mail.gmail.com>
+References: <q2p54ca21751004141125t5cb4ad41t6e5dc633b6f3e804@mail.gmail.com>
+Message-ID: <u2ob3b8a0531004141920kda6bc99dreccd229cc4100d58@mail.gmail.com>
+
+Any plans for webcasting or otherwise making sessions available online
+afterwards for those unable to attend?
+
+Jessy
+
+On Wed, Apr 14, 2010 at 2:25 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Hi,
+>
+> A quick reminder that this year's Open Knowledge Conference (OKCon) is
+> taking place in London on 24th April 2010 - in 10 days time! There are
+> still tickets left - and you can register at the following link:
+>
+>  http://www.okfn.org/okcon/register/
+>
+> Speakers and sessions include:
+>
+>  * 'State of the Nation' Keynotes:
+>     - Matthias Schindler, Wikimedia (Germany) on 'Bibliographic Data
+> and the Public Domain'
+>     - Glyn Moody, on the 'Post-Analogue World'
+>     - Peter Murray-Rust, on 'Recent Developments in Open Science'
+>     - Chris Taggart, on 'Open Local Government Data'
+>     - S?ren Auer, on 'Linked Open Data'
+>     - Jordan Hatcher, on 'Open Licensing for Data'
+>  * Ideas and Culture with talks on analyzing 'Dickens Letters' and
+> 'Making the Physical from the Digital'
+>  * Open Bibliographic Information with talks on 'The Itinerant Poetry
+> Library' and the 'Journal Commons'
+>  * Community Driven Research with talks on 'Climate data' and 'Open
+> Archaeology'
+>  * Civic Information with talks on 'Using Open Government Data to
+> Profile Politicians' and the 'Straight Choice'
+>  * Open Government Data and PSI in the EU which looks at the current
+> state of play in France, Norway, Germany, the UK and elsewhere
+>  * Tools with talks on 'Large-scale data handling and revisioning'
+> with the Genome, Ontowiki, CKAN and more
+>  * Open Data and the Semantic Web with talks about South Korean
+> DBPedia and Thesaurus Management Tool ?Pool Party?
+>  * Open Data in International Development including talks from
+> PublishWhatYouFund and on OpenStreetMap in Haiti
+>
+> Further details are available at:
+>
+>
+> http://blog.okfn.org/2010/04/14/okcon-2010-nearly-here-24th-april-2010-in-london/
+>  http://www.okfn.org/okcon/programme
+>
+> More information:
+>
+>  * Main conference page: http://www.okfn.org/okcon/
+>  * FAQ: http://www.okfn.org/okcon/faq
+>
+> If you have any questions please email Sara Wingate-Gray at
+> sara.gray at okfn.org.
+>
+> We look forward to seeing people there!
+>
+> All the best,
+>
+>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Jessy Cowan-Sharp
+http://jessykate.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100414/91544cb7/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Apr 15 07:21:29 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 15 Apr 2010 07:21:29 +0100
+Subject: [open-science] Open Knowledge Conference (OKCon) in London on
+	24th April 2010
+In-Reply-To: <u2ob3b8a0531004141920kda6bc99dreccd229cc4100d58@mail.gmail.com>
+References: <q2p54ca21751004141125t5cb4ad41t6e5dc633b6f3e804@mail.gmail.com>
+	<u2ob3b8a0531004141920kda6bc99dreccd229cc4100d58@mail.gmail.com>
+Message-ID: <p2l67fd68331004142321t56993e56hbacc619a5fda1350@mail.gmail.com>
+
+On Thu, Apr 15, 2010 at 3:20 AM, Jessy Cowan-Sharp <
+jessy.cowansharp at gmail.com> wrote:
+
+> Any plans for webcasting or otherwise making sessions available online
+> afterwards for those unable to attend?
+>
+> I strongly echo this request.
+
+I have already had a request for my "slides". As I don't "do Powerpoint" (on
+principle) and in any case don't know what I shall say (it depends on what
+who is present and what others have said) I really value any permanent
+records.
+
+P.
+
+>
+> --
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100415/518038e4/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Apr 15 07:53:38 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 15 Apr 2010 07:53:38 +0100
+Subject: [open-science] Chemistry Data Packages
+In-Reply-To: <u2g9dd1f6d61004141100o33868a33s7fd07670e2808473@mail.gmail.com>
+References: <u2g9dd1f6d61004141100o33868a33s7fd07670e2808473@mail.gmail.com>
+Message-ID: <s2m67fd68331004142353q3fe7dd57i70d68a8c59c7cd6b@mail.gmail.com>
+
+This is an exciting and important question. It's of great relevance to
+schools and society in general (interest and concerns about chemicals).
+
+I have copied in the Blue Obelisk [the Open Data/Source/Standards movement
+in chemistry] as I think this is a mixture of technical issues (see below)
+and culture. Note that the Blue Obelisk has created enough Open packages and
+experience to solve the technical aspects of the problem - it's a question
+of what we want to do and the (possibly non-trivial) aspects of distributing
+software and services.
+
+On Wed, Apr 14, 2010 at 7:00 PM, Jean-Claude Bradley <
+jeanclaude.bradley at gmail.com> wrote:
+
+> I spoke with Jonathan this week about the chemistry data packages on CKAN
+> *http://tinyurl.com/y5vwzrt
+> *Are there any plans for being able to do structure (or even substructure)
+> searches across all the packages?
+>
+>
+I'm very sympathetic to this. There are a variety of possible approaches and
+levels of precision. Chemical search is (overly) dominated by the aims of
+the pharmaceuticl industry which has developed schemes for searching large
+collections (millions or larger) with sophisticated algorithms. This
+requires running chemical graph isomorpism software which must either run on
+the server (i.e. each data set must be indexed for each new entry and the
+software muct be run for each search) or on the client (few people do this
+and it requires downloading the data for each search.) This is probably out
+of scope and probably irrelevant to most users of CKAN. [There could be a
+possibility of providing a metasearcher for Open chemistry but it would
+require funding or cost recovery.]
+
+At the other end are consitutional chemical formula and names. For example
+"sodium sulfate" could be Na2SO4 or Na2O4S and searching for the string will
+often fail. We have done quite a lot in representing formulae in Chemical
+Markup Language and in RDF and we intend that SPARQL endpoints will be
+coming onstream through several projects. Similarly textmining tools (such
+as our Open OSCAR and OPSIN) can provide strings which can be matched in
+SPARQL endpoints.
+
+For chemical identity there is the IUPAC InChI which canonicalises the
+formula if you know it exactly (sometimes you do, sometimes you don't). The
+InChI for aspirin should be a unique string wherever it is found and this
+allows all examples anywhere on the web to be found. I'd certainly suggest
+that we inchify all molecules in CKAN collections (it only need to be done
+once). However it becomes more difficult for multicomponent systems (e.g.
+copper sulfate, where there may be 0 or 5 water molecules and the InChI for
+these is different).
+
+I think Wikipedia should be an excellent touchstone. See, for example,
+http://en.wikipedia.org/wiki/Copper_sulfate. A chemical seach system running
+over Wikipedia would be an excellent example of how to do this. It would be
+fairly easy to index the thousands (not millions) of chemical entries in WP
+and provide a chemical search endpoint (e.g. using the Openbabel software).
+Again this needs hosting somewhere. Craig James from eMolecules has taken
+steps in this direction and may be able to comment.
+
+So in short I think it's a great idea for CKAN. There wil need to be a
+variety of services (no one type hacks all) .
+* index all molecules with InChI (for chemical identity). Static and easily
+managed through SPARQL
+* add CMLFormulae to all molecules. These are normalised and allow for
+element counts and matching (e.g. all substances with 1 Cu, 1 S, 4 O and >0
+water will find blue copper sulfate. SPARQL should be able to manage this
+* host a substructure search for CKAN. This requires maintenance and server
+resources. However it's ideal for the cloud if we have snapshots (and many
+of our datasets will be "static"). Index them every so often (weeks, months,
+whatever we can afford) and update the cloud. Needs a host and maybe a
+sponsor.
+* host a name2structure service using OPSIN/OSCAR nameResolver. This can
+work out structures from names (2-acetoxy-benzoic acid is the formal name
+for aspirin) and there are many LOD sources of synonyms (ChEBI, Pubchem,
+etc.)
+
+I suspect that combining forces with Wikipedia should be a god way of
+maximising the facilities and impact.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100415/5055fef4/attachment-0001.htm>
+
+From rufus.pollock at okfn.org  Thu Apr 15 10:02:40 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 15 Apr 2010 10:02:40 +0100
+Subject: [open-science] Chemistry Data Packages
+In-Reply-To: <u2g9dd1f6d61004141100o33868a33s7fd07670e2808473@mail.gmail.com>
+References: <u2g9dd1f6d61004141100o33868a33s7fd07670e2808473@mail.gmail.com>
+Message-ID: <x2kb68e90821004150202ra8287239l2a4a218cbd3a7f25@mail.gmail.com>
+
+On 14 April 2010 19:00, Jean-Claude Bradley
+<jeanclaude.bradley at gmail.com> wrote:
+> I spoke with Jonathan this week about the chemistry data packages on CKAN
+> http://tinyurl.com/y5vwzrt
+> Are there any plans for being able to do structure (or even substructure)
+> searches across all the packages?
+
+Current search setup is documented here: <http://wiki.okfn.org/ckan/doc/search>
+
+By structure or substructure search do you mean the ability to search
+for specific chemical structures? Or do you mean something liked
+faceted search or the ability to search on multiple attributes at
+once?
+
+If the latter we can do that already -- see the documentation. The
+former would obviously require a way to search into the underlying
+data package.
+
+Regards,
+
+Rufus
+
+
+From jeanclaude.bradley at gmail.com  Thu Apr 15 16:27:26 2010
+From: jeanclaude.bradley at gmail.com (Jean-Claude Bradley)
+Date: Thu, 15 Apr 2010 11:27:26 -0400
+Subject: [open-science] Fwd:  Chemistry Data Packages
+In-Reply-To: <i2p9dd1f6d61004150826h331389e2p4f29d84aa6ed33a8@mail.gmail.com>
+References: <u2g9dd1f6d61004141100o33868a33s7fd07670e2808473@mail.gmail.com>
+	<s2m67fd68331004142353q3fe7dd57i70d68a8c59c7cd6b@mail.gmail.com>
+	<i2p9dd1f6d61004150826h331389e2p4f29d84aa6ed33a8@mail.gmail.com>
+Message-ID: <k2k9dd1f6d61004150827u291861b7w9381b79e92376dfa@mail.gmail.com>
+
+On Thu, Apr 15, 2010 at 2:53 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+> * index all molecules with InChI (for chemical identity). Static and easily
+> managed through SPARQL
+> *
+>
+ Peter - yes this is what I had in mind
+Our solubility data is available as an XML feed - we use the tags
+solventSMILES and soluteSMILES but that could be converted automatically to
+InChIs.
+http://showme.physics.drexel.edu/onsc/Services/OData.svc/Solubilities/
+
+We would like to help out to provide feeds that could be automatically
+integrated with the rest of the data.
+
+>
+> I suspect that combining forces with Wikipedia should be a god way of
+> maximising the facilities and impact.
+>
+Good idea
+
+Jean-Claude
+
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+
+
+
+
+-- 
+Jean-Claude Bradley, Ph. D.
+E-Learning Coordinator for the College of Arts and Sciences
+Associate Professor of Chemistry
+Drexel University
+
+http://usefulchem.blogspot.com
+http://drexel-coas-elearning.blogspot.com
+http://drexel-coas-talks-mp3-podcast.blogspot.com/
+http://friendfeed.com/jcbradley
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100415/42e35e07/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Apr 16 20:00:02 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 16 Apr 2010 21:00:02 +0200
+Subject: [open-science] US Federal Research Public Access Act
+Message-ID: <g2q54ca21751004161200v6fd0e849n2a2935c728eebb2b@mail.gmail.com>
+
+**Apologies for cross-posting**
+
+ALLIANCE FOR TAXPAYER ACCESS
+www.taxpayeraccess.org
+
+For immediate release
+April 15, 2010
+
+For more information, contact
+Jennifer McLennan
+(202) 296-2296 ext. 121
+jennifer [at] arl [dot] org
+
+Congress takes another stride toward public access to research
+Federal Research Public Access Act introduced in the House of
+Representatives
+
+Washington, DC - Fueling the growing momentum toward openness,
+transparency, and accessibility to publicly funded information, the
+Federal Research Public Access Act of 2010 (FRPAA) has been introduced
+today in the U.S. House of Representatives by Rep. Mike Doyle (D-PA)
+and a bi-partisan host of co-sponsors. The proposed bill would build
+on the success of the first U.S. mandate for public access to the
+published results of publicly funded research at the National
+Institutes of Health (NIH), and require federal agencies with annual
+extramural research budgets of $100 million or more to provide the
+public with online access to research manuscripts stemming from funded
+research no later than six months after publication in a peer-reviewed
+journal.
+
+"Free and open access to scientific literature and data are the
+underpinnings of discovery in the digital age," said Stephen Friend MD
+PhD, President and Co-Founder of Sage Bionetworks. "Full collaboration
+among researchers is essential, and we have the power now to
+communicate, collaborate, and innovate in ways that were previously
+unimaginable. I applaud the sponsors of the Federal Research Public
+Access Act for their commitment to ensuring the kind of access
+scientists need to make progress on improved disease treatments and
+diagnostics in the digital world."
+
+Like the Senate bill introduced in 2009 by Senators Lieberman (I-CT)
+and Cornyn (R-TX), H.R. 5037 would unlock unclassified research funded
+by agencies including: Department of Agriculture, Department of
+Commerce, Department of Defense, Department of Education, Department
+of Energy, Department of Health and Human Services, Department of
+Homeland Security, Department of Transportation, Environmental
+Protection Agency, National Aeronautics and Space Administration, and
+the National Science Foundation.
+
+H.R. 5037 follows closely on the heels of a recent expression of
+interest in public access policies from the White House Office of
+Science and Technology Policy, which issued a request for public
+comment on mechanisms that would leverage federal investments in
+scientific research and increase access to information that promises
+to stimulate scientific and technological innovation and
+competitiveness.
+
+"This bill recognizes the urgent need - and opportunity - to use
+digital technology to increase the pace of innovation," added Elliot
+Schwartz, Vice President for Economic Studies at the Committee for
+Economic Development. "The bill is a crucial, welcome move toward
+advancing research through openness and avoiding making the taxpayer
+pay twice for taxpayer-funded research. it is good public policy."
+The introduction of H.R. 5037 was also welcomed by leaders in the
+higher education community, who recognize this legislation helps to
+ensure the United States is positioned to continue to fuel education
+and innovation.
+
+"Conducting critical research that enriches and improves lives has
+always been a key mission of universities in this country, including
+Ohio State," said E. Gordon Gee, president of The Ohio State
+University. "Disseminating the knowledge gained from that research is
+an equally important part of our institutions' public purpose. The
+Federal Research Public Access Act will further spread new knowledge,
+and it has my full support."
+
+"Advancing research is at the core of the mission of higher education,
+and broadening access to the scholarly record is a critical step in
+helping research to advance to its fullest potential," added Karen
+Hanson, Provost and Executive Vice President, Indiana University. "The
+current system for exchanging the results of research is deeply
+flawed, and major changes - like this bill - are required. I welcome
+the introduction of the Federal Research Public Access Act."
+
+The Alliance for Taxpayer Access thanks and congratulates
+Representative Doyle and all of the bill's co-sponsors for championing
+this pivotal legislation, and calls on organizations and individuals
+to write in support of the bill through the Web site at
+http://www.taxpayeraccess.org
+.
+
+For more information about the Federal Research Public Access Act and
+the broad coalition that supports its passage, visit
+http://www.taxpayeraccess.org
+.
+
+###
+
+The Alliance for Taxpayer Access is a coalition of patient, academic,
+research, and publishing organizations that supports open public
+access to the results of federally funded research. The Alliance was
+formed in 2004 to urge that peer-reviewed articles stemming from
+taxpayer-funded research become fully accessible and available online
+at no extra cost to the American public. Details on the ATA may be
+found at http://www.taxpayeraccess.org.
+
+-------------------------------------
+Jennifer McLennan
+Director of Programs & Operations
+SPARC
+jennifer at arl.org
+(202) 296-2296 x121
+Fax: (202) 872-0884
+*******************************
+SPARC 2010 Digital Repositories Meeting
+November 8 & 9 - Baltimore, MD
+http://www.arl.org/sparc/media/09-0223.shtml
+*******************************
+Open Access Week 2010
+October 18 - 24. Everywhere.
+http://www.openaccessweek.org
+*******************************
+http://www.arl.org/sparc
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Fri Apr 16 20:03:28 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 16 Apr 2010 21:03:28 +0200
+Subject: [open-science] BioTorrents
+Message-ID: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+
+Piece about BioTorrents on Nature blog:
+
+  http://blogs.nature.com/news/thegreatbeyond/2010/04/improving_the_portability_of_d_1.html
+
+Would be interesting to liaise with them re: registry of open data
+(i.e. CKAN and suchlike...).
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From egon.willighagen at gmail.com  Fri Apr 16 20:49:59 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Fri, 16 Apr 2010 21:49:59 +0200
+Subject: [open-science] BioTorrents
+In-Reply-To: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+Message-ID: <j2i6aeb064b1004161249mddc23a4fr1b7e4f071199e997@mail.gmail.com>
+
+On Fri, Apr 16, 2010 at 9:03 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> Piece about BioTorrents on Nature blog:
+>
+> ?http://blogs.nature.com/news/thegreatbeyond/2010/04/improving_the_portability_of_d_1.html
+>
+> Would be interesting to liaise with them re: registry of open data
+> (i.e. CKAN and suchlike...).
+
+Yeah, I like to idea too... the implementation will need to undergo
+some evolution, but I would love to see all university libraries act
+as seeds (data providers) in the bittorrent networks... should be the
+cheapest library investment in years... one decent computer per
+library would do.
+
+Egon
+
+-- 
+Post-doc @ Uppsala University
+Proteochemometrics / Bioclipse Group of Prof. Jarl Wikberg
+Homepage: http://egonw.github.com/
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From rufus.pollock at okfn.org  Fri Apr 16 21:41:38 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 16 Apr 2010 21:41:38 +0100
+Subject: [open-science] BioTorrents
+In-Reply-To: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+Message-ID: <k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+
+On 16 April 2010 20:03, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> Piece about BioTorrents on Nature blog:
+>
+> ?http://blogs.nature.com/news/thegreatbeyond/2010/04/improving_the_portability_of_d_1.html
+
+There used to be something like this for geodata (geotorrents.org) but
+it has now disappeared. We've thought about torrent stuff quite a lot
+before for data distribution [1] [2]. The problem with bittorrent (at
+least in the small-time experiments we did) is it provides no
+mechanism to do the storage-allocation you need for a real data
+"grid", specifically:
+
+a) How do you deal with large files (GBs) which individual peers may
+not want to be responsible for holding and sharing in their entirety.
+The obvious answer is sharding but bittorrent has no way for sharding
+parts of a given file (so you need some mechanism above bittorrent to
+do this)
+
+b) (the biggie) how do you file/load allocation and rebalancing to
+ensure you don't lose data as peers enter and leave the network. Even
+with lots of participants how do you decide what files to allocate to
+whom and how do you coordinate changes over time so you don't end up
+with everyone hosting the same 1 file!
+
+What you really need here is proper wide-area distributed storage
+solution. We tried to build something along these lines last year
+running a tahoe grid: <http://grid.okfn.org/> (more info in [3],
+requirements in [2])
+
+I would still say this is a (long) way from success due to the various
+social and technical issues involved:
+
+* you need your grid software to be (very) easy to install
+* you may have significant storage and b/w impositions on users
+* (most significant) you really need *big* scale to provide
+reliability and availability -- unlike with say distributed processing
+projects where activity can happen any old time and people can
+allocate their processing whenever they want. With a storage grid you
+really need either a) massive scale b) strong commitment to
+participation from peers, to avoid problem that groups of users going
+offline or leaving the grid doesn't compromise availability.
+
+[1]: http://wiki.okfn.org/p/Data_Distribution
+[2]: http://wiki.okfn.org/p/Distributed_Storage
+[2]: http://wiki.okfn.org/p/Distributed_Storage/Plan
+
+> Would be interesting to liaise with them re: registry of open data
+> (i.e. CKAN and suchlike...).
+
+It would be no problem to create ckan packages linking to the relevant
+torrents. Anyone with contacts with the biotorrents people so we could
+have a chat?
+
+Rufus
+
+
+From steelgraham at hotmail.com  Sat Apr 17 12:52:43 2010
+From: steelgraham at hotmail.com (Graham Steel)
+Date: Sat, 17 Apr 2010 11:52:43 +0000
+Subject: [open-science] BioTorrents
+Message-ID: <BAY139-W29BD85EF969B40691CF98BB40D0@phx.gbl>
+
+
+Anyone with contacts with the biotorrents people so we could have a chat?
+
+I do.
+
+Rufus, you should contact Jonathan Eisen jonathan.eisen at gmail.com ;-)
+
+Graham
+
+
+  
+H: +44 (0)141 422 1483 (after 18.00 GMT)
+C: +44 (0)7900441046
+E: steelgraham7 at gmail.com
+Fav: http://www.plos.org - research made public
+Fb: http://www.facebook.com/home.php#/profile.php?id=709026752
+Blog: http://mcblawg.blogspot.com/ 
+Twitter: http://twitter.com/McDawg
+FriendFeed: http://friendfeed.com/mcdawg 
+
+ 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100417/ccc039d9/attachment.htm>
+
+From jonathan.gray at okfn.org  Sat Apr 17 16:43:08 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 17 Apr 2010 17:43:08 +0200
+Subject: [open-science] Open Knowledge Conference (OKCon) in London on
+	24th April 2010
+In-Reply-To: <p2l67fd68331004142321t56993e56hbacc619a5fda1350@mail.gmail.com>
+References: <q2p54ca21751004141125t5cb4ad41t6e5dc633b6f3e804@mail.gmail.com>
+	<u2ob3b8a0531004141920kda6bc99dreccd229cc4100d58@mail.gmail.com>
+	<p2l67fd68331004142321t56993e56hbacc619a5fda1350@mail.gmail.com>
+Message-ID: <t2z54ca21751004170843sd4fcfda3mde54556cc9a70b9b@mail.gmail.com>
+
+Yes we'll definitely put material online - including slides and video.
+Will blog/microblog when this is up!
+
+All the best,
+
+Jonathan
+
+On Thu, Apr 15, 2010 at 8:21 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Thu, Apr 15, 2010 at 3:20 AM, Jessy Cowan-Sharp
+> <jessy.cowansharp at gmail.com> wrote:
+>>
+>> Any plans for webcasting or otherwise making sessions available online
+>> afterwards for those unable to attend?
+>>
+> I strongly echo this request.
+>
+> I have already had a request for my "slides". As I don't "do Powerpoint" (on
+> principle) and in any case don't know what I shall say (it depends on what
+> who is present and what others have said) I really value any permanent
+> records.
+>
+> P.
+>>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From tom.moritz at gmail.com  Sat Apr 17 18:19:12 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Sat, 17 Apr 2010 10:19:12 -0700
+Subject: [open-science] BioTorrents
+In-Reply-To: <k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com> 
+	<k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+Message-ID: <h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+
+Sorry to be just jumping in without tracking regularly -- but there are some
+Stateside projects seeking to solve the problem that Rufus describes -- if
+I'm not mistaken this is precisely what iRods (formerly at San Diego
+Supercomputer Center now migrated to Univ of North Carolina) has set out to
+address? [SEE: https://www.*irods*.org/ ]  and the NSF supported Tera-Grid
+has been grappling with this as well: SEE: https://www.teragrid.org/ ]
+and similarly the Open Science Grid [SEE:
+http://www.opensciencegrid.org/About/News_Archive/Open_Science_Grid_Receives_30_Million_Dollar_Award]
+
+I have been in some discvussions in past weeks and months with UNFCC, US
+EPA, and others about how best to manage at least foundational data sets
+("canonical"?) while providing precisely the level of transparency and
+accountability that was obviously necessary in the recent IPCC dust-up...  I
+believe that we may be best off picking certain such data and thoroughly
+modeling best practice...???
+
+Tom
+
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034
+USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+--Heraclitus
+
+Please consider the environment before printing this email.
+
+
+On Fri, Apr 16, 2010 at 1:41 PM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+
+> On 16 April 2010 20:03, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> > Piece about BioTorrents on Nature blog:
+> >
+> >
+> http://blogs.nature.com/news/thegreatbeyond/2010/04/improving_the_portability_of_d_1.html
+>
+> There used to be something like this for geodata (geotorrents.org) but
+> it has now disappeared. We've thought about torrent stuff quite a lot
+> before for data distribution [1] [2]. The problem with bittorrent (at
+> least in the small-time experiments we did) is it provides no
+> mechanism to do the storage-allocation you need for a real data
+> "grid", specifically:
+>
+> a) How do you deal with large files (GBs) which individual peers may
+> not want to be responsible for holding and sharing in their entirety.
+> The obvious answer is sharding but bittorrent has no way for sharding
+> parts of a given file (so you need some mechanism above bittorrent to
+> do this)
+>
+> b) (the biggie) how do you file/load allocation and rebalancing to
+> ensure you don't lose data as peers enter and leave the network. Even
+> with lots of participants how do you decide what files to allocate to
+> whom and how do you coordinate changes over time so you don't end up
+> with everyone hosting the same 1 file!
+>
+> What you really need here is proper wide-area distributed storage
+> solution. We tried to build something along these lines last year
+> running a tahoe grid: <http://grid.okfn.org/> (more info in [3],
+> requirements in [2])
+>
+> I would still say this is a (long) way from success due to the various
+> social and technical issues involved:
+>
+> * you need your grid software to be (very) easy to install
+> * you may have significant storage and b/w impositions on users
+> * (most significant) you really need *big* scale to provide
+> reliability and availability -- unlike with say distributed processing
+> projects where activity can happen any old time and people can
+> allocate their processing whenever they want. With a storage grid you
+> really need either a) massive scale b) strong commitment to
+> participation from peers, to avoid problem that groups of users going
+> offline or leaving the grid doesn't compromise availability.
+>
+> [1]: http://wiki.okfn.org/p/Data_Distribution
+> [2]: http://wiki.okfn.org/p/Distributed_Storage
+> [2]: http://wiki.okfn.org/p/Distributed_Storage/Plan
+>
+> > Would be interesting to liaise with them re: registry of open data
+> > (i.e. CKAN and suchlike...).
+>
+> It would be no problem to create ckan packages linking to the relevant
+> torrents. Anyone with contacts with the biotorrents people so we could
+> have a chat?
+>
+> Rufus
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100417/a7d26cf3/attachment.htm>
+
+From wilbanks at creativecommons.org  Sat Apr 17 23:28:59 2010
+From: wilbanks at creativecommons.org (John Wilbanks)
+Date: Sat, 17 Apr 2010 15:28:59 -0700
+Subject: [open-science] BioTorrents
+In-Reply-To: <h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+	<k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+	<h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+Message-ID: <m2z3ed26a2c1004171528ia85dfef5jc7b2a27bb80cf05@mail.gmail.com>
+
+Also, be sure to include the Tranche Project in anything on this topic. I
+think they're a long ways towards the goal.
+
+https://proteomecommons.org/tranche/
+
+<https://proteomecommons.org/tranche/>jtw
+
+On Sat, Apr 17, 2010 at 10:19 AM, Tom Moritz <tom.moritz at gmail.com> wrote:
+
+> Sorry to be just jumping in without tracking regularly -- but there are
+> some Stateside projects seeking to solve the problem that Rufus describes --
+> if I'm not mistaken this is precisely what iRods (formerly at San Diego
+> Supercomputer Center now migrated to Univ of North Carolina) has set out to
+> address? [SEE: https://www.*irods*.org/ ]  and the NSF supported Tera-Grid
+> has been grappling with this as well: SEE: https://www.teragrid.org/ ]
+> and similarly the Open Science Grid [SEE:
+> http://www.opensciencegrid.org/About/News_Archive/Open_Science_Grid_Receives_30_Million_Dollar_Award]
+>
+> I have been in some discvussions in past weeks and months with UNFCC, US
+> EPA, and others about how best to manage at least foundational data sets
+> ("canonical"?) while providing precisely the level of transparency and
+> accountability that was obviously necessary in the recent IPCC dust-up...  I
+> believe that we may be best off picking certain such data and thoroughly
+> modeling best practice...???
+>
+> Tom
+>
+> Tom Moritz
+> 1968 1/2 South Shenandoah Street,
+> Los Angeles, California 90034
+> USA
+> +1 310 963 0199 (cell)
+> tommoritz (Skype)
+> http://www.linkedin.com/in/tmoritz
+>
+> ?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+> --Heraclitus
+>
+> Please consider the environment before printing this email.
+>
+>
+>
+> On Fri, Apr 16, 2010 at 1:41 PM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+>
+>> On 16 April 2010 20:03, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>> > Piece about BioTorrents on Nature blog:
+>> >
+>> >
+>> http://blogs.nature.com/news/thegreatbeyond/2010/04/improving_the_portability_of_d_1.html
+>>
+>> There used to be something like this for geodata (geotorrents.org) but
+>> it has now disappeared. We've thought about torrent stuff quite a lot
+>> before for data distribution [1] [2]. The problem with bittorrent (at
+>> least in the small-time experiments we did) is it provides no
+>> mechanism to do the storage-allocation you need for a real data
+>> "grid", specifically:
+>>
+>> a) How do you deal with large files (GBs) which individual peers may
+>> not want to be responsible for holding and sharing in their entirety.
+>> The obvious answer is sharding but bittorrent has no way for sharding
+>> parts of a given file (so you need some mechanism above bittorrent to
+>> do this)
+>>
+>> b) (the biggie) how do you file/load allocation and rebalancing to
+>> ensure you don't lose data as peers enter and leave the network. Even
+>> with lots of participants how do you decide what files to allocate to
+>> whom and how do you coordinate changes over time so you don't end up
+>> with everyone hosting the same 1 file!
+>>
+>> What you really need here is proper wide-area distributed storage
+>> solution. We tried to build something along these lines last year
+>> running a tahoe grid: <http://grid.okfn.org/> (more info in [3],
+>> requirements in [2])
+>>
+>> I would still say this is a (long) way from success due to the various
+>> social and technical issues involved:
+>>
+>> * you need your grid software to be (very) easy to install
+>> * you may have significant storage and b/w impositions on users
+>> * (most significant) you really need *big* scale to provide
+>> reliability and availability -- unlike with say distributed processing
+>> projects where activity can happen any old time and people can
+>> allocate their processing whenever they want. With a storage grid you
+>> really need either a) massive scale b) strong commitment to
+>> participation from peers, to avoid problem that groups of users going
+>> offline or leaving the grid doesn't compromise availability.
+>>
+>> [1]: http://wiki.okfn.org/p/Data_Distribution
+>> [2]: http://wiki.okfn.org/p/Distributed_Storage
+>> [2]: http://wiki.okfn.org/p/Distributed_Storage/Plan
+>>
+>> > Would be interesting to liaise with them re: registry of open data
+>> > (i.e. CKAN and suchlike...).
+>>
+>> It would be no problem to create ckan packages linking to the relevant
+>> torrents. Anyone with contacts with the biotorrents people so we could
+>> have a chat?
+>>
+>> Rufus
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100417/3f2e47c1/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Sun Apr 18 11:07:55 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sun, 18 Apr 2010 11:07:55 +0100
+Subject: [open-science] Open Knowledge Conference (OKCon) in London on
+	24th April 2010
+In-Reply-To: <t2z54ca21751004170843sd4fcfda3mde54556cc9a70b9b@mail.gmail.com>
+References: <q2p54ca21751004141125t5cb4ad41t6e5dc633b6f3e804@mail.gmail.com>
+	<u2ob3b8a0531004141920kda6bc99dreccd229cc4100d58@mail.gmail.com>
+	<p2l67fd68331004142321t56993e56hbacc619a5fda1350@mail.gmail.com>
+	<t2z54ca21751004170843sd4fcfda3mde54556cc9a70b9b@mail.gmail.com>
+Message-ID: <n2r67fd68331004180307s85dcf723se91b79b35766dcf5@mail.gmail.com>
+
+On Sat, Apr 17, 2010 at 4:43 PM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Yes we'll definitely put material online - including slides and video.
+> Will blog/microblog when this is up!
+>
+
+many thanks
+
+
+>
+> All the best,
+>
+> Jonathan
+>
+> On Thu, Apr 15, 2010 at 8:21 AM, Peter Murray-Rust <pm286 at cam.ac.uk>
+> wrote:
+> >
+> >
+> > On Thu, Apr 15, 2010 at 3:20 AM, Jessy Cowan-Sharp
+> > <jessy.cowansharp at gmail.com> wrote:
+> >>
+> >> Any plans for webcasting or otherwise making sessions available online
+> >> afterwards for those unable to attend?
+> >>
+> > I strongly echo this request.
+> >
+> > I have already had a request for my "slides". As I don't "do Powerpoint"
+> (on
+> > principle) and in any case don't know what I shall say (it depends on
+> what
+> > who is present and what others have said) I really value any permanent
+> > records.
+> >
+> > P.
+> >>
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+> >
+>
+>
+>
+> --
+>  Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100418/36d74eed/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Apr 22 10:39:53 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 22 Apr 2010 10:39:53 +0100
+Subject: [open-science] BioTorrents
+In-Reply-To: <m2z3ed26a2c1004171528ia85dfef5jc7b2a27bb80cf05@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+	<k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+	<h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+	<m2z3ed26a2c1004171528ia85dfef5jc7b2a27bb80cf05@mail.gmail.com>
+Message-ID: <p2t54ca21751004220239y53afeb33w8737151db08fa2f7@mail.gmail.com>
+
+This looks great, John! I hadn't seen this before. Do you know anyone
+from the project that we could invite to the WG on open data in
+science?
+
+All the best,
+
+Jonathan
+
+On Sat, Apr 17, 2010 at 11:28 PM, John Wilbanks
+<wilbanks at creativecommons.org> wrote:
+> Also, be sure to include the Tranche Project in anything on this topic. I
+> think they're a long ways towards the goal.
+> https://proteomecommons.org/tranche/
+> jtw
+>
+> On Sat, Apr 17, 2010 at 10:19 AM, Tom Moritz <tom.moritz at gmail.com> wrote:
+>>
+>> Sorry to be just jumping in without tracking regularly -- but there are
+>> some Stateside projects seeking to solve the problem that Rufus describes --
+>> if I'm not mistaken this is precisely what iRods (formerly at San Diego
+>> Supercomputer Center now migrated to Univ of North Carolina) has set out to
+>> address? [SEE: https://www.irods.org/ ]? and the NSF supported Tera-Grid has
+>> been grappling with this as well: SEE: https://www.teragrid.org/ ]
+>> and similarly the Open Science Grid [SEE:
+>> http://www.opensciencegrid.org/About/News_Archive/Open_Science_Grid_Receives_30_Million_Dollar_Award
+>> ]
+>>
+>> I have been in some discvussions in past weeks and months with UNFCC, US
+>> EPA, and others about how best to manage at least foundational data sets
+>> ("canonical"?) while providing precisely the level of transparency and
+>> accountability that was obviously necessary in the recent IPCC dust-up...? I
+>> believe that we may be best off picking certain such data and thoroughly
+>> modeling best practice...???
+>>
+>> Tom
+>>
+>> Tom Moritz
+>> 1968 1/2 South Shenandoah Street,
+>> Los Angeles, California 90034
+>> USA
+>> +1 310 963 0199 (cell)
+>> tommoritz (Skype)
+>> http://www.linkedin.com/in/tmoritz
+>>
+>> ?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+>> --Heraclitus
+>>
+>> Please consider the environment before printing this email.
+>>
+>>
+>> On Fri, Apr 16, 2010 at 1:41 PM, Rufus Pollock <rufus.pollock at okfn.org>
+>> wrote:
+>>>
+>>> On 16 April 2010 20:03, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+>>> > Piece about BioTorrents on Nature blog:
+>>> >
+>>> >
+>>> > ?http://blogs.nature.com/news/thegreatbeyond/2010/04/improving_the_portability_of_d_1.html
+>>>
+>>> There used to be something like this for geodata (geotorrents.org) but
+>>> it has now disappeared. We've thought about torrent stuff quite a lot
+>>> before for data distribution [1] [2]. The problem with bittorrent (at
+>>> least in the small-time experiments we did) is it provides no
+>>> mechanism to do the storage-allocation you need for a real data
+>>> "grid", specifically:
+>>>
+>>> a) How do you deal with large files (GBs) which individual peers may
+>>> not want to be responsible for holding and sharing in their entirety.
+>>> The obvious answer is sharding but bittorrent has no way for sharding
+>>> parts of a given file (so you need some mechanism above bittorrent to
+>>> do this)
+>>>
+>>> b) (the biggie) how do you file/load allocation and rebalancing to
+>>> ensure you don't lose data as peers enter and leave the network. Even
+>>> with lots of participants how do you decide what files to allocate to
+>>> whom and how do you coordinate changes over time so you don't end up
+>>> with everyone hosting the same 1 file!
+>>>
+>>> What you really need here is proper wide-area distributed storage
+>>> solution. We tried to build something along these lines last year
+>>> running a tahoe grid: <http://grid.okfn.org/> (more info in [3],
+>>> requirements in [2])
+>>>
+>>> I would still say this is a (long) way from success due to the various
+>>> social and technical issues involved:
+>>>
+>>> * you need your grid software to be (very) easy to install
+>>> * you may have significant storage and b/w impositions on users
+>>> * (most significant) you really need *big* scale to provide
+>>> reliability and availability -- unlike with say distributed processing
+>>> projects where activity can happen any old time and people can
+>>> allocate their processing whenever they want. With a storage grid you
+>>> really need either a) massive scale b) strong commitment to
+>>> participation from peers, to avoid problem that groups of users going
+>>> offline or leaving the grid doesn't compromise availability.
+>>>
+>>> [1]: http://wiki.okfn.org/p/Data_Distribution
+>>> [2]: http://wiki.okfn.org/p/Distributed_Storage
+>>> [2]: http://wiki.okfn.org/p/Distributed_Storage/Plan
+>>>
+>>> > Would be interesting to liaise with them re: registry of open data
+>>> > (i.e. CKAN and suchlike...).
+>>>
+>>> It would be no problem to create ckan packages linking to the relevant
+>>> torrents. Anyone with contacts with the biotorrents people so we could
+>>> have a chat?
+>>>
+>>> Rufus
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From rufus.pollock at okfn.org  Thu Apr 22 12:07:26 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 22 Apr 2010 12:07:26 +0100
+Subject: [open-science] BioTorrents
+In-Reply-To: <h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+	<k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+	<h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+Message-ID: <t2jb68e90821004220407vace369c6raa83644be2c1c3ab@mail.gmail.com>
+
+On 17 April 2010 18:19, Tom Moritz <tom.moritz at gmail.com> wrote:
+> Sorry to be just jumping in without tracking regularly -- but there are some
+> Stateside projects seeking to solve the problem that Rufus describes -- if
+> I'm not mistaken this is precisely what iRods (formerly at San Diego
+> Supercomputer Center now migrated to Univ of North Carolina) has set out to
+> address? [SEE: https://www.irods.org/ ]? and the NSF supported Tera-Grid has
+
+Thanks a lot for these links Tom. I'd seen iRods before (I've also
+just added it to [1]). When I last tried it out 1y+ ago the install
+was non-trivial and I couldn't imagine getting a "volunteer" grid
+going on this basis (it was unlikely the average dedicated server
+owner was going to get through that setup!).
+
+[1]: <http://wiki.okfn.org/p/Distributed_Storage/Research>
+
+Perhaps it is worth explicitly listing the requirements we put
+together (listed on [1]):
+
+  1. Robustness via replication across nodes
+  2. Easy addition of nodes -- in particular we wish people to be able
+to easily "donate" nodes
+  3. Require good share/shard-rebalancing as nodes enter and leave network
+  4. The system should be able to handle small and very large files
+(so files should be automatically sharded)
+  5. Concurrency/Consistency is not a big issue
+  6. Availability is a big issue
+  7. Versioning would be nice (though what exactly would this mean?)
+  8. Data stored would be open so encryption/privacy is not a priority
+
+> been grappling with this as well: SEE: https://www.teragrid.org/ ]
+> and similarly the Open Science Grid [SEE:
+> http://www.opensciencegrid.org/About/News_Archive/Open_Science_Grid_Receives_30_Million_Dollar_Award
+> ]
+
+These both seem to be services rather than "software" -- I may have
+missed something but I couldn't see that the software behind e.g. open
+science grid open source and available for download?
+
+> I have been in some discvussions in past weeks and months with UNFCC, US
+> EPA, and others about how best to manage at least foundational data sets
+> ("canonical"?) while providing precisely the level of transparency and
+> accountability that was obviously necessary in the recent IPCC dust-up...? I
+> believe that we may be best off picking certain such data and thoroughly
+> modeling best practice...???
+
+Indeed. I certainly think it would be interesting to find out more
+what is on offer and *in particular* people's actual experience using
+that software or service -- perhaps updates to
+<http://wiki.okfn.org/p/Distributed_Storage/Research>.
+
+Rufus
+-- 
+Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From rufus.pollock at okfn.org  Thu Apr 22 12:11:31 2010
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 22 Apr 2010 12:11:31 +0100
+Subject: [open-science] BioTorrents
+In-Reply-To: <m2z3ed26a2c1004171528ia85dfef5jc7b2a27bb80cf05@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com>
+	<k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com>
+	<h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com>
+	<m2z3ed26a2c1004171528ia85dfef5jc7b2a27bb80cf05@mail.gmail.com>
+Message-ID: <q2xb68e90821004220411udedf137h24f75d0c6c2c0e25@mail.gmail.com>
+
+On 17 April 2010 23:28, John Wilbanks <wilbanks at creativecommons.org> wrote:
+> Also, be sure to include the Tranche Project in anything on this topic. I
+> think they're a long ways towards the goal.
+> https://proteomecommons.org/tranche/
+
+Thanks John, we'd already got that on the listing :)
+
+<http://wiki.okfn.org/p/Distributed_Storage/Research#Tranche>
+
+They seemed to have adopted a hybrid centralized/p2p model
+<http://code.google.com/p/tranche/wiki/WhitePaper#Introduction>:
+
+<quote>
+Second, the repository is a hybrid model that uses concepts from both
+the peer-to-peer networks and centralized servers, so it can best be
+described as a "distributed server model". Because we are frequently
+dealing with very large data sets that must be available at all times,
+a pure peer-to-peer model would not be feasible since nodes
+continuously enter and leave the network. Furthermore, a centralized
+model presents other issues such as scalability, and places the entire
+burden of hosting hardware on one group or organization. Our model
+accommodates a reasonable amount of individual server downtime, as
+well as permitting the replacement of old servers and the addition of
+new servers to meet growing space requirements.
+</quote>
+
+I'd be interested to hear of any experience people have had with Tranche ...
+
+Rufus
+
+
+From tom.moritz at gmail.com  Thu Apr 22 19:20:34 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Thu, 22 Apr 2010 11:20:34 -0700
+Subject: [open-science] BioTorrents
+In-Reply-To: <t2jb68e90821004220407vace369c6raa83644be2c1c3ab@mail.gmail.com>
+References: <n2w54ca21751004161203i27785451wafc5cb692f9eee4f@mail.gmail.com> 
+	<k2lb68e90821004161341x89e85a6bs1f07b5a2519d579d@mail.gmail.com> 
+	<h2oe74b7bec1004171019jc271c143qf21d20a47cd3d729@mail.gmail.com> 
+	<t2jb68e90821004220407vace369c6raa83644be2c1c3ab@mail.gmail.com>
+Message-ID: <p2xe74b7bec1004221120mbd8abcf5r571e06ffbf10177f@mail.gmail.com>
+
+Hi Rufus --
+I have not tested iRods firsthand, when I was at Getty we were involved in
+some trials
+with them -- but given its origins at SDSCC, I'm sure you're right that it
+is  probably
+"non-trivial"  in terms of rapid and easy deployment (!) -- but perhaps
+their trial
+approaches may  be instructive in informing future developments...?
+
+In the same spirit, I mentioned Tera-grid and Open Science as projects/
+services
+with substantial NSF support but -- again -- connections to those projects
+-- and
+how they are addressing the problems you've posed may prove fruitful
+in analysis and development?
+
+ I think the notion of a developing a full  "specification/ requirements
+document is very useful step
+ -- perhaps we should all consider your list and see if we can review it for
+comprehensiveness
+ and adequacy to our common purposes?
+
+(I think as John suggests bio-med and genomics -- not areas of primary focus
+for me personally --
+have made important progress toward standards for transparency,
+interoperability and meta-analysis.
+After the recent  "Climate-gate"/IPCC  events,  I am hopeful that we can
+better prototype
+best practices in applied sciences and consider *the complete data
+cycle*from data creation not to
+deposit/curation (often the end point in descirptions of the "data cycle"but
+to "data as evidence"
+for policy formation and decision-support. It is specifically the
+requirement of delivering data
+with full transparency-accountability (lineage/provenance)
+in ways that are quickly understandable by policy makers and decision makers
+and
+more easily subject to review and testing that I believe challenges us...?)
+
+Tom
+
+Tom Moritz
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+--Heraclitus
+Please consider the environment before printing this email.
+Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell)
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.)
+--Heraclitus
+
+Please consider the environment before printing this email.
+
+
+On Thu, Apr 22, 2010 at 4:07 AM, Rufus Pollock <rufus.pollock at okfn.org>wrote:
+
+> On 17 April 2010 18:19, Tom Moritz <tom.moritz at gmail.com> wrote:
+> > Sorry to be just jumping in without tracking regularly -- but there are
+> some
+> > Stateside projects seeking to solve the problem that Rufus describes --
+> if
+> > I'm not mistaken this is precisely what iRods (formerly at San Diego
+> > Supercomputer Center now migrated to Univ of North Carolina) has set out
+> to
+> > address? [SEE: https://www.irods.org/ ]  and the NSF supported Tera-Grid
+> has
+>
+> Thanks a lot for these links Tom. I'd seen iRods before (I've also
+> just added it to [1]). When I last tried it out 1y+ ago the install
+> was non-trivial and I couldn't imagine getting a "volunteer" grid
+> going on this basis (it was unlikely the average dedicated server
+> owner was going to get through that setup!).
+>
+> [1]: <http://wiki.okfn.org/p/Distributed_Storage/Research>
+>
+> Perhaps it is worth explicitly listing the requirements we put
+> together (listed on [1]):
+>
+>  1. Robustness via replication across nodes
+>  2. Easy addition of nodes -- in particular we wish people to be able
+> to easily "donate" nodes
+>  3. Require good share/shard-rebalancing as nodes enter and leave network
+>  4. The system should be able to handle small and very large files
+> (so files should be automatically sharded)
+>  5. Concurrency/Consistency is not a big issue
+>  6. Availability is a big issue
+>  7. Versioning would be nice (though what exactly would this mean?)
+>  8. Data stored would be open so encryption/privacy is not a priority
+>
+> > been grappling with this as well: SEE: https://www.teragrid.org/ ]
+> > and similarly the Open Science Grid [SEE:
+> >
+> http://www.opensciencegrid.org/About/News_Archive/Open_Science_Grid_Receives_30_Million_Dollar_Award
+> > ]
+>
+> These both seem to be services rather than "software" -- I may have
+> missed something but I couldn't see that the software behind e.g. open
+> science grid open source and available for download?
+>
+> > I have been in some discvussions in past weeks and months with UNFCC, US
+> > EPA, and others about how best to manage at least foundational data sets
+> > ("canonical"?) while providing precisely the level of transparency and
+> > accountability that was obviously necessary in the recent IPCC
+> dust-up...  I
+> > believe that we may be best off picking certain such data and thoroughly
+> > modeling best practice...???
+>
+> Indeed. I certainly think it would be interesting to find out more
+> what is on offer and *in particular* people's actual experience using
+> that software or service -- perhaps updates to
+> <http://wiki.okfn.org/p/Distributed_Storage/Research>.
+>
+> Rufus
+> --
+> Open Knowledge Foundation
+> Promoting Open Knowledge in a Digital Age
+> http://www.okfn.org/ - http://blog.okfn.org/
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20100422/c723f6b1/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Apr 23 08:22:35 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 23 Apr 2010 08:22:35 +0100
+Subject: [open-science] Open Knowledge Conference (OKCon) in London on
+	24th April 2010
+In-Reply-To: <0F1BFF38-2E9D-42D5-B19B-FB03F92E3926@wikimedia.org.uk>
+References: <37EF09A5-4983-47DB-BB99-DA2B4D845DAB@mikepeel.net>
+	<0F1BFF38-2E9D-42D5-B19B-FB03F92E3926@wikimedia.org.uk>
+Message-ID: <m2h67fd68331004230022hc9928368ya5f4d7b777c2477f@mail.gmail.com>
+
+I'm giving a talk on Open Knowledge and Science at OKCon tomorrow and
+would like to highlight some of the very recent developments. However
+I don't want to clash with others. I am particularly interested in
+presenting:
+* The Open bibliography proposal ( which we submitted this week)
+jointly from OKF and Dept of Chemistry.
+* The Panton Principles (OKF)
+* IsItOpen (OKF)
+
+and an more general review of what we need to do to REALLY make
+science Open. We saw last week from Stefano Costa (nice work, thanks)
+
+http://lists.okfn.org/pipermail/okfn-discuss/2010-April/007238.html
+
+that most of bioscience is NOT Open.
+
+I sort of knew this already but not in detail. The main problems are:
+
+* ignorance
+* antiquity (the "rules" were often formulated 20 years ago)
+* technical inertia (it's not totally trivial to relicence data)
+* hidden agendas (we want to control this data)
+
+So this my agenda:
+* Science is not actually Open
+* Most scientists do not understand the issues
+* Many are well disposed to adopt Openness once it's been explained
+(but some are deliberately not!)
+* Open Access publishers are not generally aware of the issues; they
+need guidance
+* Some funders are aware; but all need guidance
+* Closed access publishers will require a lot of engagement. A few are
+sympathetic but have inertia; many are hostile and some are worse.
+* Individuals can do a LOT!
+
+If that overlaps badly with others please let me know.
+
+FWIW I do NOT use Powerpoint
+(http://ilovecharts.tumblr.com/post/450388944/brownpau-everytime-you-make-a-powerpoint)
+but tailor my presentation to the people at the meeting. See:
+
+
+Really looking forward to it.
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+
+From jonathan.gray at okfn.org  Fri Apr 23 10:39:07 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 23 Apr 2010 10:39:07 +0100
+Subject: [open-science] Fwd: Research integrity: the role of good data
+	management and open data sharing, 15 June 2010
+In-Reply-To: <EE2B68CBA9D68B40ADDFE9C0DB7244314BC737BC48@jisc-ex1.jisc.ac.uk>
+References: <EE2B68CBA9D68B40ADDFE9C0DB7244314BC737BC48@jisc-ex1.jisc.ac.uk>
+Message-ID: <k2x54ca21751004230239rdf8434ebo29f8db08b7baf2cc@mail.gmail.com>
+
+This looks interesting...
+
+
+---------- Forwarded message ----------
+From: Simon HODSON <s.hodson at jisc.ac.uk>
+Date: Fri, Apr 9, 2010 at 5:40 PM
+Subject: Research integrity: the role of good data management and open
+data sharing, 15 June 2010
+To: RESEARCH-DATAMAN at jiscmail.ac.uk
+
+
+A Date for your diary: 15 June 2010
+
+Research integrity: the role of good data management and open data sharing
+
+British Library Conference Centre, London
+
+Organised by JISC and the British Library with the Natural
+Environment, Economic and Social and Biotechnology and Biological
+Sciences Research Councils
+
+How researchers manage their data has been thrown under the public
+spotlight by recent events at the University of East Anglia over
+climate data. This major one day conference for researchers and
+institutional managers will look at ways in which public confidence in
+science can be restored through good management of the research data
+lifecycle. High profile plenary speakers will set the scene and
+inspire with examples of data sharing, drawn from the environmental,
+social and bio- sciences, that have lead to new research and
+collaborations that would otherwise have been impossible. The event
+will also address the question: how open can science be?
+
+Delegates will choose two out of four strands examining:
+? ? ? ? researchers? and institutions? obligations under current
+legislation to make their data publicly available;
+? ? ? ? how the integrity of the published record can be maintained
+through linking research data directly to journal articles;
+? ? ? ? the practicalities of managing research data to make it
+available to a broad range of audiences;
+? ? ? ? the advantages and future implications of making research data ?open?.
+
+. . . and will come away informed about:
+? ? ? ? their obligations to manage and share their research data;
+? ? ? ? the advice and guidance available from JISC, the RCs and the BL;
+? ? ? ? some of the positive outcomes resulting from research data sharing
+? ? ? ? the issues around making research data openly available
+
+Further information will be posted at www.jisc.ac.uk/researchintegrity
+
+Registration opens 5 May
+
+*****
+JISC Managing Research Data Programme (#jiscmrd) Calls:
+http://www.jisc.ac.uk/fundingopportunities/funding_calls/2009/12/1409researchdata.aspx
+and http://www.jisc.ac.uk/fundingopportunities/funding_calls/2010/03/410dataskills.aspx
+*****
+Dr Simon HODSON
+Programme Manager ? Managing Research Data
+JISC Executive
+Brettenham House (South Entrance)
+5 Lancaster Place
+London ?WC2E 7EN
+
+E: s.hodson at jisc.ac.uk
+M1: +44 (0) 7545 524 009
+T: +44 (0) 203 006 6071
+
+Programme Website: http://www.jisc.ac.uk/whatwedo/programmes/mrd.aspx
+JISCMRD Netvibes: http://www.netvibes.com/jiscmrd#General
+Blog: http://researchdata.jiscinvolve.org/
+Twitter: simonhodson99
+Programme Tag: #jiscmrd
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ana at ananelson.com  Fri Apr 23 10:43:01 2010
+From: ana at ananelson.com (Ana Nelson)
+Date: Fri, 23 Apr 2010 02:43:01 -0700
+Subject: [open-science] Fwd: Research integrity: the role of good data
+ management and open data sharing, 15 June 2010
+In-Reply-To: <k2x54ca21751004230239rdf8434ebo29f8db08b7baf2cc@mail.gmail.com>
+References: <EE2B68CBA9D68B40ADDFE9C0DB7244314BC737BC48@jisc-ex1.jisc.ac.uk>
+	<k2x54ca21751004230239rdf8434ebo29f8db08b7baf2cc@mail.gmail.com>
+Message-ID: <b9860ce7748f35f887b96620b38cd64a@localhost>
+
+
+Yes, it does look interesting, but seems to be postponed?
+
+http://www.jisc.ac.uk/researchintegrity
+
+
+
+On Fri, 23 Apr 2010 10:39:07 +0100, Jonathan Gray <jonathan.gray at okfn.org>
+wrote:
+> This looks interesting...
+> 
+> 
+> ---------- Forwarded message ----------
+> From: Simon HODSON <s.hodson at jisc.ac.uk>
+> Date: Fri, Apr 9, 2010 at 5:40 PM
+> Subject: Research integrity: the role of good data management and open
+> data sharing, 15 June 2010
+> To: RESEARCH-DATAMAN at jiscmail.ac.uk
+> 
+> 
+> A Date for your diary: 15 June 2010
+> 
+> Research integrity: the role of good data management and open data
+sharing
+> 
+> British Library Conference Centre, London
+> 
+> Organised by JISC and the British Library with the Natural
+> Environment, Economic and Social and Biotechnology and Biological
+> Sciences Research Councils
+> 
+> How researchers manage their data has been thrown under the public
+> spotlight by recent events at the University of East Anglia over
+> climate data. This major one day conference for researchers and
+> institutional managers will look at ways in which public confidence in
+> science can be restored through good management of the research data
+> lifecycle. High profile plenary speakers will set the scene and
+> inspire with examples of data sharing, drawn from the environmental,
+> social and bio- sciences, that have lead to new research and
+> collaborations that would otherwise have been impossible. The event
+> will also address the question: how open can science be?
+> 
+> Delegates will choose two out of four strands examining:
+> ? ? ? ? researchers? and institutions? obligations under current
+> legislation to make their data publicly available;
+> ? ? ? ? how the integrity of the published record can be maintained
+> through linking research data directly to journal articles;
+> ? ? ? ? the practicalities of managing research data to make it
+> available to a broad range of audiences;
+> ? ? ? ? the advantages and future implications of making research
+data
+> ?open?.
+> 
+> . . . and will come away informed about:
+> ? ? ? ? their obligations to manage and share their research data;
+> ? ? ? ? the advice and guidance available from JISC, the RCs and the
+> BL;
+> ? ? ? ? some of the positive outcomes resulting from research data
+> sharing
+> ? ? ? ? the issues around making research data openly available
+> 
+> Further information will be posted at www.jisc.ac.uk/researchintegrity
+> 
+> Registration opens 5 May
+> 
+> *****
+> JISC Managing Research Data Programme (#jiscmrd) Calls:
+>
+http://www.jisc.ac.uk/fundingopportunities/funding_calls/2009/12/1409researchdata.aspx
+> and
+>
+http://www.jisc.ac.uk/fundingopportunities/funding_calls/2010/03/410dataskills.aspx
+> *****
+> Dr Simon HODSON
+> Programme Manager ? Managing Research Data
+> JISC Executive
+> Brettenham House (South Entrance)
+> 5 Lancaster Place
+> London ?WC2E 7EN
+> 
+> E: s.hodson at jisc.ac.uk
+> M1: +44 (0) 7545 524 009
+> T: +44 (0) 203 006 6071
+> 
+> Programme Website: http://www.jisc.ac.uk/whatwedo/programmes/mrd.aspx
+> JISCMRD Netvibes: http://www.netvibes.com/jiscmrd#General
+> Blog: http://researchdata.jiscinvolve.org/
+> Twitter: simonhodson99
+> Programme Tag: #jiscmrd
+
+
+From jonathan.gray at okfn.org  Fri Apr 23 11:15:51 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 23 Apr 2010 11:15:51 +0100
+Subject: [open-science] Fwd: 22nd CODATA International Conference - CALL FOR
+	PAPERS & ORGANIZED SESSIONS
+Message-ID: <r2j54ca21751004230315l64dd9aebpc07fd894b4af82e6@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+
+Date:?Thu, 22 Apr 2010 16:22:57 -0400
+Subject:?22nd CODATA International Conference - CALL FOR PAPERS &
+ORGANIZED SESSIONS
+
+Dear Colleagues,
+
+Below is an announcement from CODATA requesting submission of
+abstracts for sessions or papers for the next CODATA Conference in
+Cape Town this October. Please also pass this announcement on to
+others who you think may be interested.
+
+Questions about the program should be directed to Kathleen Cass,
+CODATA Executive Director, at codata at dial.oleane.com.
+
+Paul Uhlir
+
+Paul F. Uhlir, J.D.
+
+Director, NRC Board on Research Data and Information, and IAP Program
+on Digital Knowledge Resources and Infrastructure in Developing
+Countries
+National Academy of Sciences, Keck-511
+500 Fifth Street NW
+Washington, DC 20001
+USA
+
+Tel. + 1 202 334 1531
+Fax + 1 202 334 2231
+Email: puhlir at nas.edu
+Web: http://www.nas.edu/brdi
+Web: http://www.interacademies.net/CMS/Programmes/4704.aspx
+
+
+
+________________________________
+
+From: cecile carbonell [mailto:cecile.carbonell at yahoo.fr]
+Sent: Wednesday, April 21, 2010 10:41 AM
+Subject: 22nd CODATA International Conference - CALL FOR PAPERS &
+ORGANIZED SESSIONS
+
+
+
+22nd CODATA International Conference,
+
+24-27 October 2010, Cape Town, South Africa
+
+http://www.codata.org
+
+
+
+REMINDER
+
+
+
+Deadline for the Call for Papers for the 22nd International CODATA
+Conference 2010
+
+April 30th 2010
+
+
+
+(http://www.codata2010.com/call-for-papers.php)
+
+
+
+Deadline for the Call for organizing a special session at the 22nd
+International CODATA Conference 2010
+
+April 30th 2010
+
+
+
+(http://www.codata2010.com/call-for-session-organizers.php)
+
+
+
+Cecile Carbonell
+CODATA Secretariat - Paris
+5 rue Auguste Vacquerie
+75016 Paris - France
+Tel: +33 1 45 25 04 96
+Fax: +33 42 88 14 66
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From sara.gray at okfn.org  Wed Apr 28 19:05:47 2010
+From: sara.gray at okfn.org (Sara Wingate Gray)
+Date: Wed, 28 Apr 2010 19:05:47 +0100
+Subject: [open-science] Looking for Coordinator for Working
+Message-ID: <0D2AF55F-AF42-4472-B354-E10FF9A53487@okfn.org>
+
+Dear all,
+
+Here at the Open Knowledge Foundation we're currently looking at how we can increase the momentum of our various Working Groups - with more regular meetings and more interesting projects and activities to promote open data and open content. We're also keen to continue to decentralise our activities away from our core team to include more of the community of people interested in open knowledge in different domains.
+
+As part of this process we are looking for a volunteer to take on the role of Coordinator for the Open Data in Science Working Group - to chair regular virtual meetings, to help gather and come up with new ideas about what the group should do next, and generally to help keep things ticking over!
+
+Please drop us a line if you think you might be interested in this role!
+
+Sara
+
+Sara Wingate Gray
+--------------------------
+sara.gray at okfn.org
+
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+

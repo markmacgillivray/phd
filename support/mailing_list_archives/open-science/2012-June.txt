@@ -1,0 +1,3783 @@
+From anthony at beckhome.info  Wed Jun  6 13:50:50 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 08:50:50 -0400
+Subject: [open-science] text-mining licence exemplar
+Message-ID: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+
+Hi All,
+
+I'm just submitting an invited paper to the Journal of World Archaeology
+as part a an 'open archaeology' theme. World archaeology is published by
+Taylor and Francis. As the theme is about 'open' there's been some
+discussion about the nature of the access licence. One thing I would like
+is for the journal to allow text mining on this issue in perpetuity.
+
+The editor has asked me for an exemplar license(s). I've googled but not
+come across anything. Does anyone have a link to an exemplar licence they
+can point me towards.
+
+Many thanks
+
+Ant
+
+
+
+
+From ross.mounce at gmail.com  Wed Jun  6 13:59:04 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 6 Jun 2012 13:59:04 +0100
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+Message-ID: <CAJr+OEwNzmbPFAaHNkyrBbK1s+GFamuwLQ4HLDcDDanZ3pOEvQ@mail.gmail.com>
+
+The Creative Commons Attribution Licence implicitly allows text-mining
+(even if not expressly referred to in the legal text)
+
+http://creativecommons.org/licenses/by/3.0/
+
+"You are free:
+
+to Share ? to copy, distribute and transmit the work
+to Remix ? to adapt the work
+to make commercial use of the work"
+
+This is what I assume most of us here on the Open Science mailing list
+would recommend for academic journal publications.
+
+Best,
+
+Ross
+
+On Wed, Jun 6, 2012 at 1:50 PM,  <anthony at beckhome.info> wrote:
+> Hi All,
+>
+> I'm just submitting an invited paper to the Journal of World Archaeology
+> as part a an 'open archaeology' theme. World archaeology is published by
+> Taylor and Francis. As the theme is about 'open' there's been some
+> discussion about the nature of the access licence. One thing I would like
+> is for the journal to allow text mining on this issue in perpetuity.
+>
+> The editor has asked me for an exemplar license(s). I've googled but not
+> come across anything. Does anyone have a link to an exemplar licence they
+> can point me towards.
+>
+> Many thanks
+>
+> Ant
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+-- 
+--
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath,?4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+
+From anthony at beckhome.info  Wed Jun  6 14:07:11 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 09:07:11 -0400
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+Message-ID: <86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+
+Thanks Mike and Ross,
+
+Unfortunately Taylor and Francis are not going to go for any form of CC
+licence.
+
+The texts in this issues will be made available for 6 months and then
+revert to T&Fs normal terms and conditions. What I want to do is to allow
+text mining of the papers for at least that 6 month period and potentially
+in perpetuity. Hence, I want/need some clause that specifically allows
+text mining.
+
+Best
+
+Ant
+
+> Anthony,
+>
+> The Creative Commons Attribution licence (CC BY for short) is the
+> standard one to use for open-access research:
+>         http://creativecommons.org/licenses/by/3.0/
+> It fulfils all the requirements of the Budapest Open Access Initiative
+> which originally defined the term "open access":
+>         http://www.soros.org/openaccess/read
+>
+> Hope this helps,
+>         -- Mike.
+>
+>
+> On 6 June 2012 13:50,  <anthony at beckhome.info> wrote:
+>> Hi All,
+>>
+>> I'm just submitting an invited paper to the Journal of World Archaeology
+>> as part a an 'open archaeology' theme. World archaeology is published by
+>> Taylor and Francis. As the theme is about 'open' there's been some
+>> discussion about the nature of the access licence. One thing I would
+>> like
+>> is for the journal to allow text mining on this issue in perpetuity.
+>>
+>> The editor has asked me for an exemplar license(s). I've googled but not
+>> come across anything. Does anyone have a link to an exemplar licence
+>> they
+>> can point me towards.
+>>
+>> Many thanks
+>>
+>> Ant
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+
+
+
+
+From anthony at beckhome.info  Wed Jun  6 14:15:33 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 09:15:33 -0400
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+Message-ID: <5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+
+The irony of this situation is not lost on any of us. Amazingly T&F can
+not be shamed into doing the 'right thing'. However, in this instance the
+need for the message for the community is as important as the
+principles......
+
+Thanks
+
+A
+
+> On 6 June 2012 14:07,  <anthony at beckhome.info> wrote:
+>> Thanks Mike and Ross,
+>>
+>> Unfortunately Taylor and Francis are not going to go for any form of CC
+>> licence.
+>>
+>> The texts in this issues will be made available for 6 months and then
+>> revert to T&Fs normal terms and conditions. What I want to do is to
+>> allow
+>> text mining of the papers for at least that 6 month period and
+>> potentially
+>> in perpetuity. Hence, I want/need some clause that specifically allows
+>> text mining.
+>
+> That is not any part of an "open archaeology" theme.
+>
+> If you want an "open for text-mining for six months, then paywalled"
+> licence, you'll have to write one yourself, for the very good reason
+> that no-one else has done anything that silly.
+>
+> Sorry if that reply is unhelpful, but it's the truth. Criticism aimed
+> not at you, of course, but at T&F.
+>
+> -- Mike.
+>
+
+
+
+
+From anthony at beckhome.info  Wed Jun  6 14:40:17 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 09:40:17 -0400
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+Message-ID: <61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+
+Not my call, but I can ask the theme editor.
+
+Thanks
+
+A
+
+> Can you shame them at least into doing the opposite? NON-open for six
+> months, then release under CC BY after that embargo elapses?
+>
+> -- Mike.
+>
+>
+> On 6 June 2012 14:15,  <anthony at beckhome.info> wrote:
+>> The irony of this situation is not lost on any of us. Amazingly T&F can
+>> not be shamed into doing the 'right thing'. However, in this instance
+>> the
+>> need for the message for the community is as important as the
+>> principles......
+>>
+>> Thanks
+>>
+>> A
+>>
+>>> On 6 June 2012 14:07, ?<anthony at beckhome.info> wrote:
+>>>> Thanks Mike and Ross,
+>>>>
+>>>> Unfortunately Taylor and Francis are not going to go for any form of
+>>>> CC
+>>>> licence.
+>>>>
+>>>> The texts in this issues will be made available for 6 months and then
+>>>> revert to T&Fs normal terms and conditions. What I want to do is to
+>>>> allow
+>>>> text mining of the papers for at least that 6 month period and
+>>>> potentially
+>>>> in perpetuity. Hence, I want/need some clause that specifically allows
+>>>> text mining.
+>>>
+>>> That is not any part of an "open archaeology" theme.
+>>>
+>>> If you want an "open for text-mining for six months, then paywalled"
+>>> licence, you'll have to write one yourself, for the very good reason
+>>> that no-one else has done anything that silly.
+>>>
+>>> Sorry if that reply is unhelpful, but it's the truth. Criticism aimed
+>>> not at you, of course, but at T&F.
+>>>
+>>> -- Mike.
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+
+
+
+
+From ross.mounce at gmail.com  Wed Jun  6 14:50:58 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 6 Jun 2012 14:50:58 +0100
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+Message-ID: <CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+
+>> Can you shame them at least into doing the opposite? NON-open for six
+>> months, then release under CC BY after that embargo elapses?
+>>
+>> -- Mike.
+
+For text-mining purposes this would make more sense - it's a good
+proposal. Some journals currently operate like this e.g. The
+Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+
+which is free (gratis) to access after 1 year.
+
+Initial free (gratis) access, reverting to subscription access after a
+given time, to me sounds like a purely promotional activity with no
+real helpful research purpose, especially WRT text-mining.
+
+
+Ross
+
+
+From hpiwowar at gmail.com  Wed Jun  6 15:10:45 2012
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Wed, 6 Jun 2012 14:10:45 +0000
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+	<CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+Message-ID: <CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+
+Rockefellar University Press also has a propriety period and then opens up
+the content.
+
+RUP goes further than free/gratis: it makes the content available under a
+CC-BY-SA-NC license.
+Details<http://www.rupress.org/site/subscriptions/terms.xhtml>
+.
+
+Agreed that this approach is more valuable for text-mining than a 6 month
+window of availability. I'd recommend this model... with CC-BY instead of
+CC-BY-SA-NC :)
+
+Sincerely,
+Heather
+
+--
+Heather Piwowar
+
+DataONE postdoc with NESCent and Dryad
+  studying research data sharing and reuse
+  remotely from Dept of Zoology, UBC, Vancouver Canada
+http://researchremix.org
+@researchremix <http://twitter.com/#!/researchremix>
+
+
+
+
+On Wed, Jun 6, 2012 at 1:50 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> >> Can you shame them at least into doing the opposite? NON-open for six
+> >> months, then release under CC BY after that embargo elapses?
+> >>
+> >> -- Mike.
+>
+> For text-mining purposes this would make more sense - it's a good
+> proposal. Some journals currently operate like this e.g. The
+> Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+>
+> which is free (gratis) to access after 1 year.
+>
+> Initial free (gratis) access, reverting to subscription access after a
+> given time, to me sounds like a purely promotional activity with no
+> real helpful research purpose, especially WRT text-mining.
+>
+>
+> Ross
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120606/713d7d9c/attachment.htm>
+
+From hpiwowar at gmail.com  Wed Jun  6 15:22:46 2012
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Wed, 6 Jun 2012 14:22:46 +0000
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+	<CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+	<CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+Message-ID: <CAOeaCi+Z3UA3ciU9diamX25vrn6gfngqj8cGegpd=6TqGC7-wg@mail.gmail.com>
+
+Anthony, apologies, I lost track of the fact that you said T&F specifically
+won't go for a CC license.
+
+Then I'd suggest, off the cuff: anyone may analyze the content in any way
+for any purpose, and redistribute excerpts and facts that result from such
+analysis.
+
+The principles here may also be of help?
+http://blog.okfn.org/2012/06/01/the-right-to-read-is-the-right-to-mine/
+
+Sincerely,
+Heather
+
+
+
+On Wed, Jun 6, 2012 at 2:10 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Rockefellar University Press also has a propriety period and then opens up
+> the content.
+>
+> RUP goes further than free/gratis: it makes the content available under a
+> CC-BY-SA-NC license.  Details<http://www.rupress.org/site/subscriptions/terms.xhtml>
+> .
+>
+> Agreed that this approach is more valuable for text-mining than a 6 month
+> window of availability. I'd recommend this model... with CC-BY instead of
+> CC-BY-SA-NC :)
+>
+> Sincerely,
+> Heather
+>
+> --
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   studying research data sharing and reuse
+>   remotely from Dept of Zoology, UBC, Vancouver Canada
+> http://researchremix.org
+> @researchremix <http://twitter.com/#!/researchremix>
+>
+>
+>
+>
+> On Wed, Jun 6, 2012 at 1:50 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+>
+>> >> Can you shame them at least into doing the opposite? NON-open for six
+>> >> months, then release under CC BY after that embargo elapses?
+>> >>
+>> >> -- Mike.
+>>
+>> For text-mining purposes this would make more sense - it's a good
+>> proposal. Some journals currently operate like this e.g. The
+>> Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+>>
+>> which is free (gratis) to access after 1 year.
+>>
+>> Initial free (gratis) access, reverting to subscription access after a
+>> given time, to me sounds like a purely promotional activity with no
+>> real helpful research purpose, especially WRT text-mining.
+>>
+>>
+>> Ross
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120606/d104e7e4/attachment.htm>
+
+From anthony at beckhome.info  Wed Jun  6 15:23:11 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 10:23:11 -0400
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+	<CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+	<CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+Message-ID: <bdd5fb79670253297a31081ad3ab0bc6.squirrel@emailmg.webhost4life.com>
+
+The editor will take this up with T&F. My aim is for mining in perpetuity
+and not the 6 month deal. But, I'm interested in seeing how they respond.
+
+In respect of NC - I would never go anywhere near an NC licence. Segments
+everything and not open. Much happier with a CC-BY :-)
+
+A
+
+> Rockefellar University Press also has a propriety period and then opens up
+> the content.
+>
+> RUP goes further than free/gratis: it makes the content available under a
+> CC-BY-SA-NC license.
+> Details<http://www.rupress.org/site/subscriptions/terms.xhtml>
+> .
+>
+> Agreed that this approach is more valuable for text-mining than a 6 month
+> window of availability. I'd recommend this model... with CC-BY instead of
+> CC-BY-SA-NC :)
+>
+> Sincerely,
+> Heather
+>
+> --
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   studying research data sharing and reuse
+>   remotely from Dept of Zoology, UBC, Vancouver Canada
+> http://researchremix.org
+> @researchremix <http://twitter.com/#!/researchremix>
+>
+>
+>
+>
+> On Wed, Jun 6, 2012 at 1:50 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+>
+>> >> Can you shame them at least into doing the opposite? NON-open for six
+>> >> months, then release under CC BY after that embargo elapses?
+>> >>
+>> >> -- Mike.
+>>
+>> For text-mining purposes this would make more sense - it's a good
+>> proposal. Some journals currently operate like this e.g. The
+>> Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+>>
+>> which is free (gratis) to access after 1 year.
+>>
+>> Initial free (gratis) access, reverting to subscription access after a
+>> given time, to me sounds like a purely promotional activity with no
+>> real helpful research purpose, especially WRT text-mining.
+>>
+>>
+>> Ross
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+
+
+
+
+From andrew.miller at elsevier.com  Wed Jun  6 15:29:24 2012
+From: andrew.miller at elsevier.com (Miller, Andrew (ELS-OXF))
+Date: Wed, 6 Jun 2012 15:29:24 +0100
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <bdd5fb79670253297a31081ad3ab0bc6.squirrel@emailmg.webhost4life.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com><CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com><86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com><CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com><5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com><CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com><61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com><CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com><CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+	<bdd5fb79670253297a31081ad3ab0bc6.squirrel@emailmg.webhost4life.com>
+Message-ID: <9648144568C0734D83A83F78ADFFF59B06D40501@ELSOXFEXCP36VA.science.regn.net>
+
+Hi
+
+On text-mining theme more generally: could someone please point me to
+reliable examples of scientific progress made via text-mining of
+open-access STM corpus?
+
+Andrew
+
+-----Original Message-----
+From: open-science-bounces at lists.okfn.org
+[mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+anthony at beckhome.info
+Sent: Wednesday, June 06, 2012 3:23 PM
+To: hpiwowar at gmail.com
+Cc: Mike Taylor; open-science at lists.okfn.org
+Subject: Re: [open-science] text-mining licence exemplar
+
+The editor will take this up with T&F. My aim is for mining in
+perpetuity
+and not the 6 month deal. But, I'm interested in seeing how they
+respond.
+
+In respect of NC - I would never go anywhere near an NC licence.
+Segments
+everything and not open. Much happier with a CC-BY :-)
+
+A
+
+> Rockefellar University Press also has a propriety period and then
+opens up
+> the content.
+>
+> RUP goes further than free/gratis: it makes the content available
+under a
+> CC-BY-SA-NC license.
+> Details<http://www.rupress.org/site/subscriptions/terms.xhtml>
+> .
+>
+> Agreed that this approach is more valuable for text-mining than a 6
+month
+> window of availability. I'd recommend this model... with CC-BY instead
+of
+> CC-BY-SA-NC :)
+>
+> Sincerely,
+> Heather
+>
+> --
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   studying research data sharing and reuse
+>   remotely from Dept of Zoology, UBC, Vancouver Canada
+> http://researchremix.org
+> @researchremix <http://twitter.com/#!/researchremix>
+>
+>
+>
+>
+> On Wed, Jun 6, 2012 at 1:50 PM, Ross Mounce <ross.mounce at gmail.com>
+wrote:
+>
+>> >> Can you shame them at least into doing the opposite? NON-open for
+six
+>> >> months, then release under CC BY after that embargo elapses?
+>> >>
+>> >> -- Mike.
+>>
+>> For text-mining purposes this would make more sense - it's a good
+>> proposal. Some journals currently operate like this e.g. The
+>> Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+>>
+>> which is free (gratis) to access after 1 year.
+>>
+>> Initial free (gratis) access, reverting to subscription access after
+a
+>> given time, to me sounds like a purely promotional activity with no
+>> real helpful research purpose, especially WRT text-mining.
+>>
+>>
+>> Ross
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>
+
+
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-science
+Elsevier Limited. Registered Office: The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, Registration No. 1982084 (England and Wales).
+
+
+
+From anthony at beckhome.info  Wed Jun  6 15:33:54 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 10:33:54 -0400
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CACnMvBYauwEHbj7t_FbN6nCL_-c4VBa5SpOwagxad8oRh6+j-Q@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+	<CACnMvBYauwEHbj7t_FbN6nCL_-c4VBa5SpOwagxad8oRh6+j-Q@mail.gmail.com>
+Message-ID: <72eeb41a1150d55f22a0b71270823038.squirrel@emailmg.webhost4life.com>
+
+I appreciate this. However, two issues are at play:
+1. a collection has potentially greater resonance with the community
+2. 'open' is 'new' for the archaeological domain. So there is the
+opportunity to get a message through to a mainstream audience (albeit a
+pay-walled mainstream audience) and a lack of opportunity for alternative
+publication mechanisms. Preaching to the choir does not change anything!
+
+Most authors from the UK will follow the green Open Access model as
+mandated by the UK Research Councils, so the text etc. will be available.
+
+For these reasons I will go with this journal (subject to peer-review
+etc.) as IMHO the benefits outweigh the costs. However, this has been an
+interesting decision to make. Which is why I am interested in the response
+from T&F.
+
+
+From anthony at beckhome.info  Wed Jun  6 15:35:07 2012
+From: anthony at beckhome.info (anthony at beckhome.info)
+Date: Wed, 6 Jun 2012 10:35:07 -0400
+Subject: [open-science] text-mining licence exemplar
+In-Reply-To: <CAOeaCi+Z3UA3ciU9diamX25vrn6gfngqj8cGegpd=6TqGC7-wg@mail.gmail.com>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+	<CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+	<CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+	<CAOeaCi+Z3UA3ciU9diamX25vrn6gfngqj8cGegpd=6TqGC7-wg@mail.gmail.com>
+Message-ID: <b93f832d60fa139e95a12ed92494c444.squirrel@emailmg.webhost4life.com>
+
+Many thanks. Much appreciated
+
+A
+> Anthony, apologies, I lost track of the fact that you said T&F
+> specifically
+> won't go for a CC license.
+>
+> Then I'd suggest, off the cuff: anyone may analyze the content in any way
+> for any purpose, and redistribute excerpts and facts that result from such
+> analysis.
+>
+> The principles here may also be of help?
+> http://blog.okfn.org/2012/06/01/the-right-to-read-is-the-right-to-mine/
+>
+> Sincerely,
+> Heather
+>
+>
+>
+> On Wed, Jun 6, 2012 at 2:10 PM, Heather Piwowar <hpiwowar at gmail.com>
+> wrote:
+>
+>> Rockefellar University Press also has a propriety period and then opens
+>> up
+>> the content.
+>>
+>> RUP goes further than free/gratis: it makes the content available under
+>> a
+>> CC-BY-SA-NC license.
+>> Details<http://www.rupress.org/site/subscriptions/terms.xhtml>
+>> .
+>>
+>> Agreed that this approach is more valuable for text-mining than a 6
+>> month
+>> window of availability. I'd recommend this model... with CC-BY instead
+>> of
+>> CC-BY-SA-NC :)
+>>
+>> Sincerely,
+>> Heather
+>>
+>> --
+>> Heather Piwowar
+>>
+>> DataONE postdoc with NESCent and Dryad
+>>   studying research data sharing and reuse
+>>   remotely from Dept of Zoology, UBC, Vancouver Canada
+>> http://researchremix.org
+>> @researchremix <http://twitter.com/#!/researchremix>
+>>
+>>
+>>
+>>
+>> On Wed, Jun 6, 2012 at 1:50 PM, Ross Mounce <ross.mounce at gmail.com>
+>> wrote:
+>>
+>>> >> Can you shame them at least into doing the opposite? NON-open for
+>>> six
+>>> >> months, then release under CC BY after that embargo elapses?
+>>> >>
+>>> >> -- Mike.
+>>>
+>>> For text-mining purposes this would make more sense - it's a good
+>>> proposal. Some journals currently operate like this e.g. The
+>>> Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+>>>
+>>> which is free (gratis) to access after 1 year.
+>>>
+>>> Initial free (gratis) access, reverting to subscription access after a
+>>> given time, to me sounds like a purely promotional activity with no
+>>> real helpful research purpose, especially WRT text-mining.
+>>>
+>>>
+>>> Ross
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>>
+>>
+>
+
+
+
+From r.muetzelfeldt at ed.ac.uk  Wed Jun  6 17:29:02 2012
+From: r.muetzelfeldt at ed.ac.uk (Robert Muetzelfeldt)
+Date: Wed, 06 Jun 2012 17:29:02 +0100
+Subject: [open-science] Examples of scientific progress from text mining.
+ Was: Re: text-mining licence exemplar
+In-Reply-To: <9648144568C0734D83A83F78ADFFF59B06D40501@ELSOXFEXCP36VA.science.regn.net>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com><CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com><86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com><CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com><5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com><CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com><61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com><CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com><CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+	<bdd5fb79670253297a31081ad3ab0bc6.squirrel@emailmg.webhost4life.com>
+	<9648144568C0734D83A83F78ADFFF59B06D40501@ELSOXFEXCP36VA.science.regn.net>
+Message-ID: <4FCF854E.2010404@ed.ac.uk>
+
+Can we please try to keep threads reasonably focussed? This is a 
+perfectly reasonable thing to be asking, but it should have its own thread.
+
+Cheers,
+Robert
+
+
+
+On 06/06/12 15:29, Miller, Andrew (ELS-OXF) wrote:
+> Hi
+>
+> On text-mining theme more generally: could someone please point me to
+> reliable examples of scientific progress made via text-mining of
+> open-access STM corpus?
+>
+> Andrew
+>
+> -----Original Message-----
+> From: open-science-bounces at lists.okfn.org
+> [mailto:open-science-bounces at lists.okfn.org] On Behalf Of
+> anthony at beckhome.info
+> Sent: Wednesday, June 06, 2012 3:23 PM
+> To: hpiwowar at gmail.com
+> Cc: Mike Taylor; open-science at lists.okfn.org
+> Subject: Re: [open-science] text-mining licence exemplar
+>
+> The editor will take this up with T&F. My aim is for mining in
+> perpetuity
+> and not the 6 month deal. But, I'm interested in seeing how they
+> respond.
+>
+> In respect of NC - I would never go anywhere near an NC licence.
+> Segments
+> everything and not open. Much happier with a CC-BY :-)
+>
+> A
+>
+>> Rockefellar University Press also has a propriety period and then
+> opens up
+>> the content.
+>>
+>> RUP goes further than free/gratis: it makes the content available
+> under a
+>> CC-BY-SA-NC license.
+>> Details<http://www.rupress.org/site/subscriptions/terms.xhtml>
+>> .
+>>
+>> Agreed that this approach is more valuable for text-mining than a 6
+> month
+>> window of availability. I'd recommend this model... with CC-BY instead
+> of
+>> CC-BY-SA-NC :)
+>>
+>> Sincerely,
+>> Heather
+>>
+>> --
+>> Heather Piwowar
+>>
+>> DataONE postdoc with NESCent and Dryad
+>>    studying research data sharing and reuse
+>>    remotely from Dept of Zoology, UBC, Vancouver Canada
+>> http://researchremix.org
+>> @researchremix<http://twitter.com/#!/researchremix>
+>>
+>>
+>>
+>>
+>> On Wed, Jun 6, 2012 at 1:50 PM, Ross Mounce<ross.mounce at gmail.com>
+> wrote:
+>>>>> Can you shame them at least into doing the opposite? NON-open for
+> six
+>>>>> months, then release under CC BY after that embargo elapses?
+>>>>>
+>>>>> -- Mike.
+>>> For text-mining purposes this would make more sense - it's a good
+>>> proposal. Some journals currently operate like this e.g. The
+>>> Biological Bulletin http://www.biolbull.org/site/misc/about.xhtml
+>>>
+>>> which is free (gratis) to access after 1 year.
+>>>
+>>> Initial free (gratis) access, reverting to subscription access after
+> a
+>>> given time, to me sounds like a purely promotional activity with no
+>>> real helpful research purpose, especially WRT text-mining.
+>>>
+>>>
+>>> Ross
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Elsevier Limited. Registered Office: The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, Registration No. 1982084 (England and Wales).
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+-- 
+-----
+
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+From pm286 at cam.ac.uk  Wed Jun  6 18:18:18 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 6 Jun 2012 18:18:18 +0100
+Subject: [open-science] Examples of scientific progress from text
+ mining. Was: Re: text-mining licence exemplar
+In-Reply-To: <4FCF854E.2010404@ed.ac.uk>
+References: <85be29391a4ddf71325b687a1c285723.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZ_KZ2dFDpHwcqqq3kYwZnC3mkV6F4nC8kjyVBjOmMkQA@mail.gmail.com>
+	<86d1ca23cd8619ec2614b42b99d12e8f.squirrel@emailmg.webhost4life.com>
+	<CACnMvBb4TKvR1M_LGpdVmSBuKLo0U2DcAdDCtAVipKwu-h_fyQ@mail.gmail.com>
+	<5721612e669b79fb1d5738306d2adcfb.squirrel@emailmg.webhost4life.com>
+	<CACnMvBZeN_YqqcJV9KE3WBdtjXgihna4ASk5=H1TBRZRQT3FLw@mail.gmail.com>
+	<61ca6f8b054d210043e29eaee5555621.squirrel@emailmg.webhost4life.com>
+	<CAJr+OEyYnkbJDiuqiHU0s7R5CMEFzLMkhEabOc39x2dQfPH+Yw@mail.gmail.com>
+	<CAOeaCiJwu9_gowir3u6oawYd7jLjpuLfJLZ9ftYE8uPv2frOEg@mail.gmail.com>
+	<bdd5fb79670253297a31081ad3ab0bc6.squirrel@emailmg.webhost4life.com>
+	<9648144568C0734D83A83F78ADFFF59B06D40501@ELSOXFEXCP36VA.science.regn.net>
+	<4FCF854E.2010404@ed.ac.uk>
+Message-ID: <CAD2k14Oe5j2JUu0PL5LTed24gDJ_S8Lxg+hX0f9khyWkA219MA@mail.gmail.com>
+
+On Wed, Jun 6, 2012 at 5:29 PM, Robert Muetzelfeldt <r.muetzelfeldt at ed.ac.uk
+> wrote:
+
+> On 06/06/12 15:29, Miller, Andrew (ELS-OXF) wrote:
+>
+>> Hi
+>>
+>> On text-mining theme more generally: could someone please point me to
+>> reliable examples of scientific progress made via text-mining of
+>> open-access STM corpus?
+>>
+>> Andrew
+>>
+>>
+I would distinguish at least:
+* the legal ability to mine a collection of documents
+* the legal ability to redistribute those documents (a) in original form
+(b) annotated
+
+modern high-quality textmining requires the open availability of a corpus
+so that the techniques can be validated by the community. In general this
+requires one or more of:
+* access to CC-BY or CC0 material
+* permission from a "rights-owner" or their representative to (a) min and
+(b) redistribute the results.
+
+There are very few cases where these apply:
+* public domain material such as patents. We have extracted 500,000
+reactions out of patents to very high quallity
+* CC-BY publishers. IN practice this means BMC or PLoS. We have also mined
+the abstracts and full-text of Atmospheric Chemistry and Physics since it
+is Open Access CC-BY
+
+I gave an invited lecture at LBM2011 last year and it was generally agreed
+that the lack of materail allowed by the pubslihers was a major barrier to
+modern text-mining. There are cases where the researchers have carried out
+textmining without redictributed the annotated material because they are
+not allowed to.
+
+So my guess is fragmented studies in bioscience and a few other disciplines.
+
+So there are relatively few useful examples because of the legal and
+contractual restrictions. That does not mean there is no demand. Elsevier
+has  granted only 20 permissions in five years. That is nowhere near enough
+to be useful. I have no idea whether any of these allow open repubuication
+of the results. If they don't I wouldn't call it useful science..
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120606/67aa409e/attachment.htm>
+
+From andrew.miller at elsevier.com  Thu Jun  7 11:30:56 2012
+From: andrew.miller at elsevier.com (Miller, Andrew (ELS-OXF))
+Date: Thu, 7 Jun 2012 11:30:56 +0100
+Subject: [open-science] Examples of scientific progress from text
+	mining. Was: Re: text-mining licence exemplar
+In-Reply-To: <CAD2k14Oe5j2JUu0PL5LTed24gDJ_S8Lxg+hX0f9khyWkA219MA@mail.gmail.com>
+Message-ID: <9648144568C0734D83A83F78ADFFF59B03FFA5B3@ELSOXFEXCP36VA.science.regn.net>
+
+Thanks for the reply Peter. 
+
+I was wondering specifically in relation to PLoS/BMC as text-mining proof of concept as surely that corpus is now sizeable enough to demonstrate usefulness and additional discovery. 
+
+I hear much about people being able to carry around the PLoS corpus on a usb stick in their pocket, less to do with usefulness in relation to discovery.
+
+Thanks again and best wishes
+
+Andrew
+ 
+
+From: Peter Murray-Rust [mailto:pm286 at cam.ac.uk] 
+Sent: Wednesday, June 06, 2012 06:18 PM
+To: open-science at lists.okfn.org <open-science at lists.okfn.org> 
+Subject: Re: [open-science] Examples of scientific progress from text mining. Was: Re: text-mining licence exemplar 
+ 
+
+
+
+On Wed, Jun 6, 2012 at 5:29 PM, Robert Muetzelfeldt <r.muetzelfeldt at ed.ac.uk> wrote:
+
+
+	On 06/06/12 15:29, Miller, Andrew (ELS-OXF) wrote:
+	
+
+		Hi
+		
+		On text-mining theme more generally: could someone please point me to
+		reliable examples of scientific progress made via text-mining of
+		open-access STM corpus?
+		
+		Andrew
+		
+		
+
+
+I would distinguish at least:
+* the legal ability to mine a collection of documents
+* the legal ability to redistribute those documents (a) in original form (b) annotated
+
+modern high-quality textmining requires the open availability of a corpus so that the techniques can be validated by the community. In general this requires one or more of:
+* access to CC-BY or CC0 material
+* permission from a "rights-owner" or their representative to (a) min and (b) redistribute the results.
+
+There are very few cases where these apply:
+* public domain material such as patents. We have extracted 500,000 reactions out of patents to very high quallity
+* CC-BY publishers. IN practice this means BMC or PLoS. We have also mined the abstracts and full-text of Atmospheric Chemistry and Physics since it is Open Access CC-BY
+
+I gave an invited lecture at LBM2011 last year and it was generally agreed that the lack of materail allowed by the pubslihers was a major barrier to modern text-mining. There are cases where the researchers have carried out textmining without redictributed the annotated material because they are not allowed to.
+
+So my guess is fragmented studies in bioscience and a few other disciplines.
+
+So there are relatively few useful examples because of the legal and contractual restrictions. That does not mean there is no demand. Elsevier has  granted only 20 permissions in five years. That is nowhere near enough to be useful. I have no idea whether any of these allow open repubuication of the results. If they don't I wouldn't call it useful science.. 
+
+ 
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+
+Elsevier Limited. Registered Office: The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, Registration No. 1982084 (England and Wales).
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120607/547c0913/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jun  7 12:31:00 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 7 Jun 2012 12:31:00 +0100
+Subject: [open-science] Examples of scientific progress from text
+ mining. Was: Re: text-mining licence exemplar
+In-Reply-To: <9648144568C0734D83A83F78ADFFF59B03FFA5B3@ELSOXFEXCP36VA.science.regn.net>
+References: <CAD2k14Oe5j2JUu0PL5LTed24gDJ_S8Lxg+hX0f9khyWkA219MA@mail.gmail.com>
+	<9648144568C0734D83A83F78ADFFF59B03FFA5B3@ELSOXFEXCP36VA.science.regn.net>
+Message-ID: <CAD2k14OgRU+z9SN1_dw=z13LbR35TMbB6rdDZX=oYCX9prKNTA@mail.gmail.com>
+
+On Thu, Jun 7, 2012 at 11:30 AM, Miller, Andrew (ELS-OXF) <
+andrew.miller at elsevier.com> wrote:
+
+> Thanks for the reply Peter.
+>
+> I was wondering specifically in relation to PLoS/BMC as text-mining proof
+> of concept as surely that corpus is now sizeable enough to demonstrate
+> usefulness and additional discovery.
+>
+> I hear much about people being able to carry around the PLoS corpus on a
+> usb stick in their pocket, less to do with usefulness in relation to
+> discovery.
+>
+
+Firstly the science has to be published in PLoS or BMC. There is virtually
+no chemistry in either. So it's limited to those fields (though I have
+started discussions on elementary particles with people who have some OA
+material).
+
+Secondly the scientific result has to be completely contained within that
+corpus, else it cannot be published. Thus if Ross and I study phylogenetics
+we have to believe that we can get enough out of BMC and PLoS alone.
+Suppose we came up with a result and the referees said "There's a study in
+Molecular Phylogenetics which doesn't agree with your findings".
+Paper rejected. Or we have to measure every paper in MolPhy with a ruler
+because we are forbidden - today - to mine it.
+
+So the studies are limited to:
+(A) technology. Ross and I are developing general methods
+(B) proof of concept - where there is enough to show that there is enough
+data to draw some conclusion. But that's very weak
+(C) metadata and resources. I can probably get a list of hominids from BMC
+without violating Elsevier's rules, because they are high interest and
+there aren't huge numbers. That list might be of interest.
+
+So what else did you expect? that if publishers forbid mining of 90% of the
+literature that it's impossible to do good mining-based science.
+
+Just don't use this as evidence that no-one wants content-mining as the
+#commTollPub industry repeatedly does.
+
+P.
+
+
+
+
+
+
+>
+> Thanks again and best wishes
+>
+> Andrew
+>
+>  *From*: Peter Murray-Rust [mailto:pm286 at cam.ac.uk]
+> *Sent*: Wednesday, June 06, 2012 06:18 PM
+> *To*: open-science at lists.okfn.org <open-science at lists.okfn.org>
+> *Subject*: Re: [open-science] Examples of scientific progress from text
+> mining. Was: Re: text-mining licence exemplar
+>
+>
+>
+> On Wed, Jun 6, 2012 at 5:29 PM, Robert Muetzelfeldt <
+> r.muetzelfeldt at ed.ac.uk> wrote:
+>
+>> On 06/06/12 15:29, Miller, Andrew (ELS-OXF) wrote:
+>>
+>>> Hi
+>>>
+>>> On text-mining theme more generally: could someone please point me to
+>>> reliable examples of scientific progress made via text-mining of
+>>> open-access STM corpus?
+>>>
+>>> Andrew
+>>>
+>>>
+> I would distinguish at least:
+> * the legal ability to mine a collection of documents
+> * the legal ability to redistribute those documents (a) in original form
+> (b) annotated
+>
+> modern high-quality textmining requires the open availability of a corpus
+> so that the techniques can be validated by the community. In general this
+> requires one or more of:
+> * access to CC-BY or CC0 material
+> * permission from a "rights-owner" or their representative to (a) min and
+> (b) redistribute the results.
+>
+> There are very few cases where these apply:
+> * public domain material such as patents. We have extracted 500,000
+> reactions out of patents to very high quallity
+> * CC-BY publishers. IN practice this means BMC or PLoS. We have also mined
+> the abstracts and full-text of Atmospheric Chemistry and Physics since it
+> is Open Access CC-BY
+>
+> I gave an invited lecture at LBM2011 last year and it was generally agreed
+> that the lack of materail allowed by the pubslihers was a major barrier to
+> modern text-mining. There are cases where the researchers have carried out
+> textmining without redictributed the annotated material because they are
+> not allowed to.
+>
+> So my guess is fragmented studies in bioscience and a few other
+> disciplines.
+>
+> So there are relatively few useful examples because of the legal and
+> contractual restrictions. That does not mean there is no demand. Elsevier
+> has  granted only 20 permissions in five years. That is nowhere near enough
+> to be useful. I have no idea whether any of these allow open repubuication
+> of the results. If they don't I wouldn't call it useful science..
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> Elsevier Limited. Registered Office: The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, Registration No. 1982084 (England and Wales).
+>
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120607/28941a6e/attachment.htm>
+
+From maximilianh at gmail.com  Thu Jun  7 12:56:49 2012
+From: maximilianh at gmail.com (Maximilian Haeussler)
+Date: Thu, 7 Jun 2012 04:56:49 -0700
+Subject: [open-science] Examples of scientific progress from text
+ mining. Was: Re: text-mining licence exemplar
+In-Reply-To: <CAD2k14OgRU+z9SN1_dw=z13LbR35TMbB6rdDZX=oYCX9prKNTA@mail.gmail.com>
+References: <CAD2k14Oe5j2JUu0PL5LTed24gDJ_S8Lxg+hX0f9khyWkA219MA@mail.gmail.com>
+	<9648144568C0734D83A83F78ADFFF59B03FFA5B3@ELSOXFEXCP36VA.science.regn.net>
+	<CAD2k14OgRU+z9SN1_dw=z13LbR35TMbB6rdDZX=oYCX9prKNTA@mail.gmail.com>
+Message-ID: <CAPR-z7mvw26M6VZZv3pvoyhnGnuxgY+ihmE=d086BXz7-3TEAw@mail.gmail.com>
+
+BMC and PloS cover 1.2% of the post-2000 PubMed content. BMC is mostly
+very small journals. I wouldn't call this a "sizable" corpus. For my
+application it was a nice as a little demo, but not more. (See
+http://www.ncbi.nlm.nih.gov/pubmed/21325301). Who cares if you write a
+software that runs on 1.2% of all recently published papers?
+
+Nevertheless, there are quite a few other papers that start to explore
+running on this limited fulltext corpus. You could use the only one
+comprehensive fulltext literature search engine to find them:
+http://scholar.google.com/scholar?q=pubmedcentral+text+mining&btnG=&hl=en&as_sdt=0%2C5&as_ylo=2011
+
+People have mined cell lines, species names, locations, genes and
+mutations in fulltext.
+
+These are only the first steps. It takes a while to get text mining
+algorithms to run on 100x longer text strings and import these from
+weird formats (like PMCs or also Elsevier's Consyn XML).
+
+With internet searching/mining, it's tricky to find a "proof of
+concept" before the data is available. Your question is a little bit
+like asking for a good "proof of concept" for Google before the WWW
+was searchable. I at least would have never imagined stuff like Google
+Scholar, Google Maps and Google Images back in 1994.
+
+I don't think that academics can come up with any usable text mining
+website for the average user. We'll have to wait for startups to jump
+on this, I guess. Or the established text-mining companies.
+
+I imagine that Roche, Pfizer etc have had concrete success with text
+mining from closed-acccess content. Does anyone has a good link to a
+big pharma textmining success story? (They do the PDF harvesting
+against the terms of services of the publishers, though, so they might
+not want to talk to openly about it too much)
+
+cheers
+Max
+--
+Maximilian Haeussler, max at soe.ucsc.edu
+mob +1 831 295 0653 office: +1 831 459 5232
+
+
+
+On Thu, Jun 7, 2012 at 4:31 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+> On Thu, Jun 7, 2012 at 11:30 AM, Miller, Andrew (ELS-OXF)
+> <andrew.miller at elsevier.com> wrote:
+>>
+>> Thanks for the reply Peter.
+>>
+>> I was wondering specifically in relation to PLoS/BMC as text-mining proof
+>> of concept as surely that corpus is now sizeable enough to demonstrate
+>> usefulness and additional discovery.
+>>
+>> I hear much about people being able to carry around the PLoS corpus on a
+>> usb stick in their pocket, less to do with usefulness in relation to
+>> discovery.
+>
+>
+> Firstly the science has to be published in PLoS or BMC. There is virtually
+> no chemistry in either. So it's limited to those fields (though I have
+> started discussions on elementary particles with people who have some OA
+> material).
+>
+> Secondly the scientific result has to be completely contained within that
+> corpus, else it cannot be published. Thus if Ross and I study phylogenetics
+> we have to believe that we can get enough out of BMC and PLoS alone. Suppose
+> we came up with a result and the referees said "There's a study in Molecular
+> Phylogenetics which doesn't agree with your findings".
+> Paper rejected. Or we have to measure every paper in MolPhy with a ruler
+> because we are forbidden - today - to mine it.
+>
+> So the studies are limited to:
+> (A) technology. Ross and I are developing general methods
+> (B) proof of concept - where there is enough to show that there is enough
+> data to draw some conclusion. But that's very weak
+> (C) metadata and resources. I can probably get a list of hominids from BMC
+> without violating Elsevier's rules, because they are high interest and there
+> aren't huge numbers. That list might be of interest.
+>
+> So what else did you expect? that if publishers forbid mining of 90% of the
+> literature that it's impossible to do good mining-based science.
+>
+> Just don't use this as evidence that no-one wants content-mining as the
+> #commTollPub industry repeatedly does.
+>
+> P.
+>
+>
+>
+>
+>
+>>
+>>
+>> Thanks again and best wishes
+>>
+>> Andrew
+>>
+>> From: Peter Murray-Rust [mailto:pm286 at cam.ac.uk]
+>> Sent: Wednesday, June 06, 2012 06:18 PM
+>> To: open-science at lists.okfn.org <open-science at lists.okfn.org>
+>> Subject: Re: [open-science] Examples of scientific progress from text
+>> mining. Was: Re: text-mining licence exemplar
+>>
+>>
+>>
+>> On Wed, Jun 6, 2012 at 5:29 PM, Robert Muetzelfeldt
+>> <r.muetzelfeldt at ed.ac.uk> wrote:
+>>>
+>>> On 06/06/12 15:29, Miller, Andrew (ELS-OXF) wrote:
+>>>>
+>>>> Hi
+>>>>
+>>>> On text-mining theme more generally: could someone please point me to
+>>>> reliable examples of scientific progress made via text-mining of
+>>>> open-access STM corpus?
+>>>>
+>>>> Andrew
+>>>>
+>>
+>> I would distinguish at least:
+>> * the legal ability to mine a collection of documents
+>> * the legal ability to redistribute those documents (a) in original form
+>> (b) annotated
+>>
+>> modern high-quality textmining requires the open availability of a corpus
+>> so that the techniques can be validated by the community. In general this
+>> requires one or more of:
+>> * access to CC-BY or CC0 material
+>> * permission from a "rights-owner" or their representative to (a) min and
+>> (b) redistribute the results.
+>>
+>> There are very few cases where these apply:
+>> * public domain material such as patents. We have extracted 500,000
+>> reactions out of patents to very high quallity
+>> * CC-BY publishers. IN practice this means BMC or PLoS. We have also mined
+>> the abstracts and full-text of Atmospheric Chemistry and Physics since it is
+>> Open Access CC-BY
+>>
+>> I gave an invited lecture at LBM2011 last year and it was generally agreed
+>> that the lack of materail allowed by the pubslihers was a major barrier to
+>> modern text-mining. There are cases where the researchers have carried out
+>> textmining without redictributed the annotated material because they are not
+>> allowed to.
+>>
+>> So my guess is fragmented studies in bioscience and a few other
+>> disciplines.
+>>
+>> So there are relatively few useful examples because of the legal and
+>> contractual restrictions. That does not mean there is no demand. Elsevier
+>> has? granted only 20 permissions in five years. That is nowhere near enough
+>> to be useful. I have no idea whether any of these allow open repubuication
+>> of the results. If they don't I wouldn't call it useful science..
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> Elsevier Limited. Registered Office: The Boulevard, Langford Lane,
+>> Kidlington, Oxford, OX5 1GB, United Kingdom, Registration No. 1982084
+>> (England and Wales).
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From pm286 at cam.ac.uk  Thu Jun  7 13:32:32 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 7 Jun 2012 13:32:32 +0100
+Subject: [open-science] Examples of scientific progress from text
+ mining. Was: Re: text-mining licence exemplar
+In-Reply-To: <CAPR-z7mvw26M6VZZv3pvoyhnGnuxgY+ihmE=d086BXz7-3TEAw@mail.gmail.com>
+References: <CAD2k14Oe5j2JUu0PL5LTed24gDJ_S8Lxg+hX0f9khyWkA219MA@mail.gmail.com>
+	<9648144568C0734D83A83F78ADFFF59B03FFA5B3@ELSOXFEXCP36VA.science.regn.net>
+	<CAD2k14OgRU+z9SN1_dw=z13LbR35TMbB6rdDZX=oYCX9prKNTA@mail.gmail.com>
+	<CAPR-z7mvw26M6VZZv3pvoyhnGnuxgY+ihmE=d086BXz7-3TEAw@mail.gmail.com>
+Message-ID: <CAD2k14Ou9_3WmBaqkAUxJ6CFcHaWtCDnuGROy=st7LfW9JhDJw@mail.gmail.com>
+
+On Thu, Jun 7, 2012 at 12:56 PM, Maximilian Haeussler <maximilianh at gmail.com
+> wrote:
+
+> BMC and PloS cover 1.2% of the post-2000 PubMed content. BMC is mostly
+> very small journals. I wouldn't call this a "sizable" corpus. For my
+> application it was a nice as a little demo, but not more. (See
+> http://www.ncbi.nlm.nih.gov/pubmed/21325301). Who cares if you write a
+> software that runs on 1.2% of all recently published papers?
+>
+
+Exactly right. I think it's slightly different with Ross's application.
+
+>
+> Nevertheless, there are quite a few other papers that start to explore
+> running on this limited fulltext corpus. You could use the only one
+> comprehensive fulltext literature search engine to find them:
+>
+> http://scholar.google.com/scholar?q=pubmedcentral+text+mining&btnG=&hl=en&as_sdt=0%2C5&as_ylo=2011
+>
+> People have mined cell lines, species names, locations, genes and
+> mutations in fulltext.
+>
+> Entity extraction is almost certainly the most common first step. "What
+species does this paper mention?" Our own OSCAR4 will tell you what
+chemical are mentioned.
+
+Co-occurrence may be next. What species co-occur with what geomarkers in
+the text. But that does not mean that you can easily draw conclusions.
+Negation is a serious problem. "Penguins do not occur in Greenland".
+
+These are only the first steps. It takes a while to get text mining
+> algorithms to run on 100x longer text strings and import these from
+> weird formats (like PMCs or also Elsevier's Consyn XML).
+>
+
+That's the other thing. Every source has its own approach. If everyone used
+NLM-DTD that could help. It's no use Elsevier offering me their particular
+version of text - they are only one of 100 publishers.
+
+
+>
+> With internet searching/mining, it's tricky to find a "proof of
+> concept" before the data is available. Your question is a little bit
+> like asking for a good "proof of concept" for Google before the WWW
+> was searchable. I at least would have never imagined stuff like Google
+> Scholar, Google Maps and Google Images back in 1994.
+>
+> Exactly. I have been trying for 20 years to get people interested in
+semantic chemistry. I have developed all the tools. But with the universal
+refusal of publishers to allow content mining there isn't much point, is
+there.
+
+
+> I don't think that academics can come up with any usable text mining
+> website for the average user. We'll have to wait for startups to jump
+> on this, I guess. Or the established text-mining companies.
+>
+
+Yes - but they will have their own agendas - and their own subdiscipines.
+That means we have to consume what they give us. Elsevier tells us we can
+use their APIs - whatever those are - but they aren't developed in respnse
+to need or innovation.
+
+
+> I imagine that Roche, Pfizer etc have had concrete success with text
+> mining from closed-acccess content. Does anyone has a good link to a
+> big pharma textmining success story? (They do the PDF harvesting
+> against the terms of services of the publishers, though, so they might
+> not want to talk to openly about it too much)
+>
+> I suspect that publishers like Elsevier forbid them to release details of
+the contracts.
+
+Note that according to your colleague AW Elsevier have only allowed 20
+instituions to text-mine over the last 5 years. That's about 1% of the
+research active universities. How likely are we to get success stories from
+that?
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120607/051d71ef/attachment.htm>
+
+From sam.leon at okfn.org  Fri Jun  8 13:32:48 2012
+From: sam.leon at okfn.org (Sam Leon)
+Date: Fri, 8 Jun 2012 13:32:48 +0100
+Subject: [open-science] Big news: Alpha Launch of PyBossa,
+	the open-source micro-tasking platform
+Message-ID: <CAOn=SAZ6=d_S7F2M7QW_Kt255wjW-chruNMhbeafB=a5SnAHVw@mail.gmail.com>
+
+Dear OKFNers,
+
+Please check out:
+
+*
+http://blog.okfn.org/2012/06/08/introducing-pybossa-the-open-source-micro-tasking-platform/
+*<http://blog.okfn.org/2012/06/08/introducing-pybossa-the-open-source-micro-tasking-platform/>
+*
+*
+*http://pybossa.com/*
+
+We've just launched the alpha version of PyBossa, a crowd-sourcing and
+micro-taking platform developed in collaboration with the Citizen
+Cyberscience Center <http://www.citizencyberscience.net/>.
+
+In a nut-shell, PyBossa is a *free*, *open-source* *crowd-sourcing*
+and *micro-tasking
+platform*. It enables people to create and run projects that utilise online
+assistance in performing tasks that require human cognition such as image
+classification, transcription, geocoding and more. PyBossa is there to help
+*researchers*, *civic hackers* and *developers* to create projects where
+anyone around the world with some time, interest and an internet connection
+can contribute.
+
+The demo projects we currently have focus on real world applications of the
+platform for use in medical diagnosis and geocoding the location of green
+spaces in cities.
+
+Looking forward to hearing what everyone thinks of it, so go and try out
+the demo projects!
+
+Sam
+
+-- 
+Sam Leon
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Twitter: @noeL_maS
+Skype: samedleon
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120608/448e9435/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Fri Jun  8 14:10:11 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 8 Jun 2012 14:10:11 +0100
+Subject: [open-science] [okfn-discuss] Big news: Alpha Launch of PyBossa,
+ the open-source micro-tasking platform
+In-Reply-To: <4FD1F28D.4030206@flossmanuals.net>
+References: <CAOn=SAZ6=d_S7F2M7QW_Kt255wjW-chruNMhbeafB=a5SnAHVw@mail.gmail.com>
+	<4FD1F28D.4030206@flossmanuals.net>
+Message-ID: <CABPM+wq3cx=-TqLR1OoOpdh_0KgBbHgzcb=H4j7vstFuWrpBiQ@mail.gmail.com>
+
+Hi Adam
+
+It's here https://github.com/citizen-cyberscience-centre/pybossa
+(you can link through from http://docs.pybossa.com/en/latest/index.html)
+
+Jenny
+
+
+On Fri, Jun 8, 2012 at 1:39 PM, adam <adam at flossmanuals.net> wrote:
+
+> looks interesting...where is the source code? interested in looking at it
+>
+>
+> adam
+>
+>
+> On 06/08/2012 02:32 PM, Sam Leon wrote:
+>
+>> Dear OKFNers,
+>>
+>> Please check out:
+>>
+>> *
+>> http://blog.okfn.org/2012/06/**08/introducing-pybossa-the-**
+>> open-source-micro-tasking-**platform/<http://blog.okfn.org/2012/06/08/introducing-pybossa-the-open-source-micro-tasking-platform/>
+>> *<http://blog.okfn.org/2012/**06/08/introducing-pybossa-the-**
+>> open-source-micro-tasking-**platform/<http://blog.okfn.org/2012/06/08/introducing-pybossa-the-open-source-micro-tasking-platform/>
+>> >
+>> *
+>> *
+>> *http://pybossa.com/*
+>>
+>>
+>> We've just launched the alpha version of PyBossa, a crowd-sourcing and
+>> micro-taking platform developed in collaboration with the Citizen
+>> Cyberscience Center<http://www.**citizencyberscience.net/<http://www.citizencyberscience.net/>
+>> >.
+>>
+>> In a nut-shell, PyBossa is a *free*, *open-source* *crowd-sourcing*
+>> and *micro-tasking
+>> platform*. It enables people to create and run projects that utilise
+>> online
+>>
+>> assistance in performing tasks that require human cognition such as image
+>> classification, transcription, geocoding and more. PyBossa is there to
+>> help
+>> *researchers*, *civic hackers* and *developers* to create projects where
+>>
+>> anyone around the world with some time, interest and an internet
+>> connection
+>> can contribute.
+>>
+>> The demo projects we currently have focus on real world applications of
+>> the
+>> platform for use in medical diagnosis and geocoding the location of green
+>> spaces in cities.
+>>
+>> Looking forward to hearing what everyone thinks of it, so go and try out
+>> the demo projects!
+>>
+>> Sam
+>>
+>>
+>>
+>>
+>> ______________________________**_________________
+>> okfn-discuss mailing list
+>> okfn-discuss at lists.okfn.org
+>> http://lists.okfn.org/mailman/**listinfo/okfn-discuss<http://lists.okfn.org/mailman/listinfo/okfn-discuss>
+>>
+>
+> --
+>
+> --
+> Adam Hyde
+> Founder, FLOSS Manuals
+> Project Manager, Booki
+> Book Sprint Facilitator
+> mobile :+ 49 177 4935122
+> identi.ca : @eset
+> booki.flossmanuals.net : @adam
+>
+> http://www.flossmanuals.net
+> http://www.booki.cc
+> http://www.booksprints.net
+>
+>
+> ______________________________**_________________
+> okfn-discuss mailing list
+> okfn-discuss at lists.okfn.org
+> http://lists.okfn.org/mailman/**listinfo/okfn-discuss<http://lists.okfn.org/mailman/listinfo/okfn-discuss>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120608/da726888/attachment.htm>
+
+From rufus.pollock at okfn.org  Fri Jun  8 16:42:59 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Fri, 8 Jun 2012 16:42:59 +0100
+Subject: [open-science] [okfn-discuss] Big news: Alpha Launch of PyBossa,
+ the open-source micro-tasking platform
+In-Reply-To: <CABPM+wq3cx=-TqLR1OoOpdh_0KgBbHgzcb=H4j7vstFuWrpBiQ@mail.gmail.com>
+References: <CAOn=SAZ6=d_S7F2M7QW_Kt255wjW-chruNMhbeafB=a5SnAHVw@mail.gmail.com>
+	<4FD1F28D.4030206@flossmanuals.net>
+	<CABPM+wq3cx=-TqLR1OoOpdh_0KgBbHgzcb=H4j7vstFuWrpBiQ@mail.gmail.com>
+Message-ID: <CAEvtuKpQAH6w_qbo-U79MOaTiM_t5N08PY69oOoxtmnEMBrSBA@mail.gmail.com>
+
+On 8 June 2012 14:10, Jenny Molloy <jcmcoppice12 at gmail.com> wrote:
+> Hi Adam
+>
+> It's here?https://github.com/citizen-cyberscience-centre/pybossa
+> (you can link through from?http://docs.pybossa.com/en/latest/index.html)
+
+That's the old (no longer updated) repo, it's now at:
+
+https://github.com/PyBossa/pybossa
+
+I've also fixed the links in the docs!
+
+Rufus
+
+
+From jenny.molloy at okfn.org  Mon Jun 11 00:13:54 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 11 Jun 2012 00:13:54 +0100
+Subject: [open-science] Open Science Hackday: 7 Jul, London
+Message-ID: <CABPM+wpVpFTrYv1dRr3O5td09Y6Wn1hBqNgMdz60bB2qAVwF4Q@mail.gmail.com>
+
+Hi All
+
+The next Open Science hackday will be taking place in a few weeks and it
+would be great to see some of you in person or online!
+
+When: Saturday 7 July 2012, 1000-1700 UTC+1
+Where: Centre for Creative Collaboration (
+http://www.creativecollaboration.org.uk/ ), London
+OR
+OKFN IRC channel (#okfn on irc.oftc.net and full details of how to connect
+(including via a web browser) can be found at: http://okfn.org/contact/)
+
+Sign up: http://okfnpad.org/sciencewg-hackday-jul7
+
+Our last outing to the Barbican saw a small but dedicated group working on
+projects as diverse as services for open access policies, extracting
+phylogenetic tree information from PDFs, storing crowdsourced data in CKAN
+and more. This time we're going to be bigger and better with a dedicated
+space which will hopefully be filled by YOU.
+
+If you'd like to come along, please add yourself to the Etherpad
+http://okfnpad.org/sciencewg-hackday-jul7 and if you have a specific idea
+you'd like to work on, add that too and you'll have a couple of minutes at
+the start of the hackday to tell everyone about it so we can link you up
+with people who'd like to help.
+
+You don't need to have an idea for anything to work on or even any coding
+skills to join, there are plenty of opportunities to get stuck in with
+other people's projects and many non-technical tasks, especially if you
+like writing or design.
+
+If you have any questions don't hesitate to ask and I look forward to
+seeing many of you on 7 July!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120611/ab10ce0a/attachment.htm>
+
+From jenny.molloy at okfn.org  Mon Jun 11 04:16:01 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 11 Jun 2012 04:16:01 +0100
+Subject: [open-science] Reminder: Open Science Working Group Meeting - 12
+	Jun 2012, 17:30 UTC
+Message-ID: <CABPM+wpjPVp14dKvkZGSF7fVq-UM9r-q_Drariq4gFoKWc-Jvg@mail.gmail.com>
+
+Hi All
+
+Hope to speak to many of you on Tuesday!
+
+This will be an opportunity to meet the Panton Fellows (
+http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+find out what they're up to, as well as voicing your opinions on projects
+we should be getting involved in or initiating. Got an idea for an open
+science project that you need help with? Bring it to the group and we'll do
+our best to assist and put you in touch with relevant people around the OKF
+network.
+
+When: Tuesday 12 June at *16:30* UTC/GMT (17:30 UK time as there is a OKFN
+London meetup that night)
+Location: Etherpad http://okfnpad.org/sciencewg-12Jun2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-12Jun2012
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+
+Jenny
+
+On Tue, May 22, 2012 at 10:07 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> Next working group meeting will be an opportunity to meet the Panton
+> Fellows (
+> http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+> find out what they're up to, as well as voicing your opinions on projects
+> we should be getting involved in or initiating. Got an idea for an open
+> science project that you need help with? Bring it to the group and we'll do
+> our best to assist and put you in touch with relevant people around the OKF
+> network.
+>
+> When: Tuesday 2 June at 17:30 UTC/GMT
+> Location: Etherpad http://okfnpad.org/sciencewg-2Jun2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-2Jun2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even
+> if you can't make it yourself, just make sure you add enough details).
+>
+> Hope to speak to some of you there!
+>
+> Jenny
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120611/ab73d717/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Mon Jun 11 09:59:20 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Mon, 11 Jun 2012 10:59:20 +0200
+Subject: [open-science] Reminder: Open Science Working Group Meeting -
+ 12 Jun 2012, 17:30 UTC
+In-Reply-To: <CABPM+wpjPVp14dKvkZGSF7fVq-UM9r-q_Drariq4gFoKWc-Jvg@mail.gmail.com>
+References: <CABPM+wpjPVp14dKvkZGSF7fVq-UM9r-q_Drariq4gFoKWc-Jvg@mail.gmail.com>
+Message-ID: <CAN6n2b3ZbWZmOiDoi82TK+SQ_g8KRcodGsDm-jtU-ErQB+ji+A@mail.gmail.com>
+
+Hi Jenny, can you please clarify the time?
+
+The subject line states 17:30 UTC (i.e. 18:30 BST and 19:30 CEST), and
+below, you are stating
+*16:30* UTC/GMT (17:30 UK time), which would be 18:30 in Central Europe.
+
+Daniel
+
+On Mon, Jun 11, 2012 at 5:16 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> Hi All
+>
+> Hope to speak to many of you on Tuesday!
+>
+> This will be an opportunity to meet the Panton Fellows
+> (http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/)?and
+> find out what they're up to, as well as voicing your opinions on projects we
+> should be getting involved in or initiating. Got an idea for an open science
+> project that you need help with? Bring it to the group and we'll do our best
+> to assist and put you in touch with relevant people around the OKF network.
+>
+> When: Tuesday 12 June at *16:30* UTC/GMT (17:30 UK time as there is a OKFN
+> London meetup that night)
+> Location: Etherpad?http://okfnpad.org/sciencewg-12Jun2012?and?Skype?(add
+> your?Skype?ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and?Skype?ID to the list of attendees on
+> ??http://okfnpad.org/sciencewg-12Jun2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even if
+> you can't make it yourself, just make sure you add enough details).
+>
+>
+> Jenny
+>
+> On Tue, May 22, 2012 at 10:07 AM, Jenny Molloy <jenny.molloy at okfn.org>
+> wrote:
+>>
+>> Hi All
+>>
+>> Next working group meeting will be an opportunity to meet the Panton
+>> Fellows
+>> (http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/)?and
+>> find out what they're up to, as well as voicing your opinions on projects we
+>> should be getting involved in or initiating. Got an idea for an open science
+>> project that you need help with? Bring it to the group and we'll do our best
+>> to assist and put you in touch with relevant people around the OKF network.
+>>
+>> When: Tuesday 2 June at 17:30 UTC/GMT
+>> Location: Etherpad?http://okfnpad.org/sciencewg-2Jun2012?and?Skype?(add
+>> your?Skype?ID to the Etherpad and I'll bring you into the conference call)
+>>
+>> Please add your name and?Skype?ID to the list of attendees on
+>> http://okfnpad.org/sciencewg-2Jun2012
+>> Add anything you'd like to be discussed or new ideas to the agenda (even
+>> if you can't make it yourself, just make sure you add enough details).
+>>
+>> Hope to speak to some of you there!
+>>
+>> Jenny
+>>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From koltzenburg at w4w.net  Mon Jun 11 11:10:46 2012
+From: koltzenburg at w4w.net (koltzenburg at w4w.net)
+Date: Mon, 11 Jun 2012 11:10:46 +0100
+Subject: [open-science] help needed for open science project (blog comment
+	contest) Re: Reminder: Open Science Working Group Meeting -
+	12 Jun 2012, 17:30 UTC
+In-Reply-To: <20120611063119.M98270@w4w.net>
+Message-ID: <20120611101006.M12371@w4w.net>
+
+
+hi all,
+
+this morning entered the following project for tomorrow's discussion to the pad
+
+Maximow Award: results of blog comment + doi contest 10-31 May 2012 
+http://maximowaward.wordpress.com/2012/05/10/blog-comment-contest-10-31-may-12-scientific-
+terminology/ 15 comments.?
+?? Q1: what to do next? any ideas on how to use these results for the advancement of open science??
+?? Background details: In phase II of the Maximow Award 2011/2012 my team ran a blog comment contest 
+that offered an individual doi for each comment (our rationale behind this: make the participants feel free to 
+share their expert knowledge, their ideas and their arguments, use the blog software's automatic time 
+stamp and technical citability). The doi became active as soon as the pdf of the comments (created manually, 
+example: http://ctt-journal.com/index.php?id=783) were registered in the open repository of the OA Journal 
+that hosts the contest, http://www.ctt-journal.com - if readers now search the doi, they are directed to the 
+html page on the journal's website that shows the CC-BY-3.0 license as well as the recommended citation: 
+"Please cite this contribution as follows", plus the link to the pdf download (many, alas, still ask for that).
+? Q2: are you aware of any other project that has done any experiments in this direction? we would be 
+interested in teaming up etc.
+
+thanks & cheers
+Claudia
+Maximow Award 2011/2012 team member, a contest funded by the German Ministry of Science and 
+Education within the frame of the German-Russian year of science, contest hosted by the medical OA journal 
+"Cellular Therapy and Transplantation" http://www.ctt-journal.com - and after the quality check last year we 
+recently overcame the technical hurdles, too, and will soon have CTT full text articles made available in 
+PubMed via PMC - so there is some more food for mining et al.
+
+On Mon, 11 Jun 2012 04:16:01 +0100, Jenny Molloy wrote
+> Hi All
+> 
+> Hope to speak to many of you on Tuesday!
+> 
+> This will be an opportunity to meet the Panton Fellows (
+> http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+> find out what they're up to, as well as voicing your opinions on projects
+> we should be getting involved in or initiating. Got an idea for an open
+> science project that you need help with? Bring it to the group and we'll do
+> our best to assist and put you in touch with relevant people around the OKF
+> network.
+> 
+> When: Tuesday 12 June at *16:30* UTC/GMT (17:30 UK time as there is a OKFN
+> London meetup that night)
+> Location: Etherpad http://okfnpad.org/sciencewg-12Jun2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+> 
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-12Jun2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even if
+> you can't make it yourself, just make sure you add enough details).
+> 
+> Jenny
+
+
+
+
+From jenny.molloy at okfn.org  Mon Jun 11 12:58:26 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 11 Jun 2012 12:58:26 +0100
+Subject: [open-science] Reminder: Open Science Working Group Meeting - 12
+	Jun 2012, *16:30* UTC
+Message-ID: <CABPM+wruZ4N7BymHJ=AZU-iROsv=iLG3YermxsUw-ipqkyUaJg@mail.gmail.com>
+
+Correcting mismatch between subject line and body of text - good spot
+Daniel!
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jenny.molloy at okfn.org>
+Date: Mon, Jun 11, 2012 at 4:16 AM
+Subject: Reminder: Open Science Working Group Meeting - 12 Jun 2012, 17:30
+UTC
+To: open-science at lists.okfn.org
+
+
+Hi All
+
+Hope to speak to many of you on Tuesday!
+
+This will be an opportunity to meet the Panton Fellows (
+http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+find out what they're up to, as well as voicing your opinions on projects
+we should be getting involved in or initiating. Got an idea for an open
+science project that you need help with? Bring it to the group and we'll do
+our best to assist and put you in touch with relevant people around the OKF
+network.
+
+When: Tuesday 12 June at *16:30* UTC/GMT (17:30 UK time as there is a OKFN
+London meetup that night)
+Location: Etherpad http://okfnpad.org/sciencewg-12Jun2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-12Jun2012
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+
+Jenny
+
+On Tue, May 22, 2012 at 10:07 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> Next working group meeting will be an opportunity to meet the Panton
+> Fellows (
+> http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+> find out what they're up to, as well as voicing your opinions on projects
+> we should be getting involved in or initiating. Got an idea for an open
+> science project that you need help with? Bring it to the group and we'll do
+> our best to assist and put you in touch with relevant people around the OKF
+> network.
+>
+> When: Tuesday 2 June at 17:30 UTC/GMT
+> Location: Etherpad http://okfnpad.org/sciencewg-2Jun2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-2Jun2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even
+> if you can't make it yourself, just make sure you add enough details).
+>
+> Hope to speak to some of you there!
+>
+> Jenny
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120611/89aa87ee/attachment.htm>
+
+From egon.willighagen at gmail.com  Mon Jun 11 13:08:41 2012
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Mon, 11 Jun 2012 14:08:41 +0200
+Subject: [open-science] Reminder: Open Science Working Group Meeting -
+ 12 Jun 2012, *16:30* UTC
+In-Reply-To: <CABPM+wruZ4N7BymHJ=AZU-iROsv=iLG3YermxsUw-ipqkyUaJg@mail.gmail.com>
+References: <CABPM+wruZ4N7BymHJ=AZU-iROsv=iLG3YermxsUw-ipqkyUaJg@mail.gmail.com>
+Message-ID: <CAMPqvY-+HXR4Syqu6DKJM1JKxehAsZWb7phD1Pt0Hd68fxqj4A@mail.gmail.com>
+
+Hi Jenny,
+
+On Mon, Jun 11, 2012 at 1:58 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+> Correcting mismatch between subject line and body of text - good spot
+> Daniel!
+
+I am not going to make it this time :(
+
+Egon
+
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Researcher
+Department of Bioinformatics - BiGCaT
+Maastricht University (http://www.bigcat.unimaas.nl/)
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From ps at pawelszczesny.org  Mon Jun 11 13:21:37 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Mon, 11 Jun 2012 14:21:37 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+Message-ID: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+
+Dear all,
+
+In genomics there are at least three slightly different approaches to
+_rapid_ data sharing agreements: Ft. Lauderdale agreement, Batavia
+Open Genomic Data License or simply release into public domain.
+Agreements/policies/contracts other than PDD are made to either
+protect data creators (most often) or prevent certain uses (rarely)
+_before_ the data is already published/described in a manuscript/etc.
+Once the paper is out, final version of the data is PD or OpenData.
+
+Now, the question is whether there is any general
+policy/agreement/contract on _rapid_ data sharing from citizen science
+projects similar to the ones in genomics? Can we extend/modify Batavia
+OGD License (which I like, as it encourages openness)? I feel that in
+upcoming wave of citizen science projects rapid data sharing will
+become a priority.
+
+Best wishes
+PS
+
+
+From ps at pawelszczesny.org  Tue Jun 12 07:56:02 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Tue, 12 Jun 2012 08:56:02 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <D44C0174-0369-43A9-B715-CFEB23C2CF7F@cabell.us>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<D44C0174-0369-43A9-B715-CFEB23C2CF7F@cabell.us>
+Message-ID: <CADfaFZpFwmMECEQoe9_M_7NJjOAqSf7otNMDFKEDh5sQyvt3Hw@mail.gmail.com>
+
+It's a good point, except that such option isn't available everywhere
+(the last time I checked, CC0 isn't compatible with Polish law, so we
+don't have it ported here). But on the other hand CC0 defaults to
+CC-BY in here, so probably one can use it in a culturally readable
+sense...
+
+Thanks
+PS
+
+
+
+On Mon, Jun 11, 2012 at 2:51 PM, Diane Cabell <diane at cabell.us> wrote:
+> Please also consider CC Zero at http://creativecommons.org/about/cc0. ?It is machine readable and avoids attribution stacking.
+>
+> Diane Cabell
+> Oxford eResearch Centre
+> Creative Commons
+> iCommons Ltd
+>
+> On Jun 11, 2012, at 1:21 PM, Pawe? Szcz?sny wrote:
+>
+>> Dear all,
+>>
+>> In genomics there are at least three slightly different approaches to
+>> _rapid_ data sharing agreements: Ft. Lauderdale agreement, Batavia
+>> Open Genomic Data License or simply release into public domain.
+>> Agreements/policies/contracts other than PDD are made to either
+>> protect data creators (most often) or prevent certain uses (rarely)
+>> _before_ the data is already published/described in a manuscript/etc.
+>> Once the paper is out, final version of the data is PD or OpenData.
+>>
+>> Now, the question is whether there is any general
+>> policy/agreement/contract on _rapid_ data sharing from citizen science
+>> projects similar to the ones in genomics? Can we extend/modify Batavia
+>> OGD License (which I like, as it encourages openness)? I feel that in
+>> upcoming wave of citizen science projects rapid data sharing will
+>> become a priority.
+>>
+>> Best wishes
+>> PS
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From raphael.ritz at incf.org  Tue Jun 12 08:01:05 2012
+From: raphael.ritz at incf.org (Raphael Ritz)
+Date: Tue, 12 Jun 2012 09:01:05 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <CADfaFZpFwmMECEQoe9_M_7NJjOAqSf7otNMDFKEDh5sQyvt3Hw@mail.gmail.com>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<D44C0174-0369-43A9-B715-CFEB23C2CF7F@cabell.us>
+	<CADfaFZpFwmMECEQoe9_M_7NJjOAqSf7otNMDFKEDh5sQyvt3Hw@mail.gmail.com>
+Message-ID: <4FD6E931.90507@incf.org>
+
+On 6/12/12 8:56 AM, Pawe? Szcz?sny wrote:
+> It's a good point, except that such option isn't available everywhere
+> (the last time I checked, CC0 isn't compatible with Polish law, so we
+> don't have it ported here). But on the other hand CC0 defaults to
+> CC-BY in here, so probably one can use it in a culturally readable
+> sense...
+
+FWIW: according to http://figshare.com/faqs#q9
+'figshare' defaults to (or requires even) CC0 for data sets
+and CC-BY for everything else.
+
+Raphael
+
+>
+> Thanks
+> PS
+>
+>
+>
+> On Mon, Jun 11, 2012 at 2:51 PM, Diane Cabell<diane at cabell.us>  wrote:
+>> Please also consider CC Zero at http://creativecommons.org/about/cc0.  It is machine readable and avoids attribution stacking.
+>>
+>> Diane Cabell
+>> Oxford eResearch Centre
+>> Creative Commons
+>> iCommons Ltd
+>>
+>> On Jun 11, 2012, at 1:21 PM, Pawe? Szcz?sny wrote:
+>>
+>>> Dear all,
+>>>
+>>> In genomics there are at least three slightly different approaches to
+>>> _rapid_ data sharing agreements: Ft. Lauderdale agreement, Batavia
+>>> Open Genomic Data License or simply release into public domain.
+>>> Agreements/policies/contracts other than PDD are made to either
+>>> protect data creators (most often) or prevent certain uses (rarely)
+>>> _before_ the data is already published/described in a manuscript/etc.
+>>> Once the paper is out, final version of the data is PD or OpenData.
+>>>
+>>> Now, the question is whether there is any general
+>>> policy/agreement/contract on _rapid_ data sharing from citizen science
+>>> projects similar to the ones in genomics? Can we extend/modify Batavia
+>>> OGD License (which I like, as it encourages openness)? I feel that in
+>>> upcoming wave of citizen science projects rapid data sharing will
+>>> become a priority.
+>>>
+>>> Best wishes
+>>> PS
+>>>
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+From ps at pawelszczesny.org  Tue Jun 12 08:25:13 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Tue, 12 Jun 2012 09:25:13 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <CD874A8C-0664-47DF-88C8-563D7FA2387E@gmail.com>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<CD874A8C-0664-47DF-88C8-563D7FA2387E@gmail.com>
+Message-ID: <CADfaFZpa2=zZ930pYH5qtf4dk22JEKxGHK_xnztw8k7-2U3i-w@mail.gmail.com>
+
+On Mon, Jun 11, 2012 at 4:09 PM, Puneet Kishor <punk.kish at gmail.com> wrote:
+>
+> Great question and topic close to my heart. My own comment and a question --
+>
+> 1. A citizen science data store is a "collection," that is, it has data contributed by many different folks, who, in the worst case, may have as many opinions about how their data should be shared as there are contributors;
+
+We say in Poland: where are two Poles, there are three opinions. So,
+your example isn't actually the worst case scenario... But more
+seriously: that's indeed an issue, and I feel there will be another
+battle again non-commercial clause in case of citizen science
+projects. Maybe there's a need for a set of initial principles about
+such projects (YOURCITY Open Citizen Science Declaration anyone?), as
+Panton Principles aren't that attractive for everyone.
+
+>
+> 2. Define "rapid"? In a data store where the contributors are not scientists, that is, they don't have any reward stemming from withholding data, the motivations and the definition of rapid would be different than in a data store made up of contributions from scientists who might want a withholding period. (I work on a project that is a collection made of contributions from scientists, so I have first hand experience with one such case).
+>
+
+Well, as far as I know FoldIt or most of @home projects don't share
+data at all. On the other hand, there are projects where each
+contribution is available in real time (Open Dinosaur Project for
+example). And there are projects where people come with all sorts of
+ideas how and when the data should be shared. Scientists leading
+citizen science projects often don't have issues with releasing the
+data once the paper is out. Contributors outside of academia often
+don't care, as long as the progress is seen and goals achieved (see
+FoldIt). But it can take few years till data release if projects are
+of a size of typical grant (I'm talking about life sciences here). So
+in essence, I'm looking for a tool that would encourage data release
+before the publication in fields that don't have already such a
+community agreement as genomics.
+
+Thanks
+PS
+
+
+From ps at pawelszczesny.org  Tue Jun 12 08:46:35 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Tue, 12 Jun 2012 09:46:35 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <5A114651-BDD2-434E-BB86-B291A42C5D27@cabell.us>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<D44C0174-0369-43A9-B715-CFEB23C2CF7F@cabell.us>
+	<CADfaFZpFwmMECEQoe9_M_7NJjOAqSf7otNMDFKEDh5sQyvt3Hw@mail.gmail.com>
+	<5A114651-BDD2-434E-BB86-B291A42C5D27@cabell.us>
+Message-ID: <CADfaFZqi6D5F28M_rnKwVC_OepULjDCCWnRSnCVQvh4iuZBmrw@mail.gmail.com>
+
+On Tue, Jun 12, 2012 at 9:16 AM, Diane Cabell <diane at cabell.us> wrote:
+> Zero may also be enforceable outside of Poland.
+>
+
+That's true. But that is not a good _reason_ to choose Zero _here_,
+don't you think? Anyway, I don't have anything against Zero, except
+that I don't think it differs in practice that much from CC-BY. Both
+are good enough for data sharing.
+
+Best wishes
+PS
+
+> Moral rights and data sharing are simply inconsistent, imho.
+> dc
+>
+>
+> On Jun 12, 2012, at 7:56 AM, Pawe? Szcz?sny wrote:
+>
+>> It's a good point, except that such option isn't available everywhere
+>> (the last time I checked, CC0 isn't compatible with Polish law, so we
+>> don't have it ported here). But on the other hand CC0 defaults to
+>> CC-BY in here, so probably one can use it in a culturally readable
+>> sense...
+>>
+>> Thanks
+>> PS
+>>
+>>
+>>
+>> On Mon, Jun 11, 2012 at 2:51 PM, Diane Cabell <diane at cabell.us> wrote:
+>>> Please also consider CC Zero at http://creativecommons.org/about/cc0. ?It is machine readable and avoids attribution stacking.
+>>>
+>>> Diane Cabell
+>>> Oxford eResearch Centre
+>>> Creative Commons
+>>> iCommons Ltd
+>>>
+>>> On Jun 11, 2012, at 1:21 PM, Pawe? Szcz?sny wrote:
+>>>
+>>>> Dear all,
+>>>>
+>>>> In genomics there are at least three slightly different approaches to
+>>>> _rapid_ data sharing agreements: Ft. Lauderdale agreement, Batavia
+>>>> Open Genomic Data License or simply release into public domain.
+>>>> Agreements/policies/contracts other than PDD are made to either
+>>>> protect data creators (most often) or prevent certain uses (rarely)
+>>>> _before_ the data is already published/described in a manuscript/etc.
+>>>> Once the paper is out, final version of the data is PD or OpenData.
+>>>>
+>>>> Now, the question is whether there is any general
+>>>> policy/agreement/contract on _rapid_ data sharing from citizen science
+>>>> projects similar to the ones in genomics? Can we extend/modify Batavia
+>>>> OGD License (which I like, as it encourages openness)? I feel that in
+>>>> upcoming wave of citizen science projects rapid data sharing will
+>>>> become a priority.
+>>>>
+>>>> Best wishes
+>>>> PS
+>>>>
+>>>> _______________________________________________
+>>>> open-science mailing list
+>>>> open-science at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-science
+>>>
+>
+
+
+From raphael.ritz at incf.org  Tue Jun 12 08:57:49 2012
+From: raphael.ritz at incf.org (Raphael Ritz)
+Date: Tue, 12 Jun 2012 09:57:49 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <CADfaFZqi6D5F28M_rnKwVC_OepULjDCCWnRSnCVQvh4iuZBmrw@mail.gmail.com>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<D44C0174-0369-43A9-B715-CFEB23C2CF7F@cabell.us>
+	<CADfaFZpFwmMECEQoe9_M_7NJjOAqSf7otNMDFKEDh5sQyvt3Hw@mail.gmail.com>
+	<5A114651-BDD2-434E-BB86-B291A42C5D27@cabell.us>
+	<CADfaFZqi6D5F28M_rnKwVC_OepULjDCCWnRSnCVQvh4iuZBmrw@mail.gmail.com>
+Message-ID: <4FD6F67D.3000706@incf.org>
+
+On 6/12/12 9:46 AM, Pawe? Szcz?sny wrote:
+> On Tue, Jun 12, 2012 at 9:16 AM, Diane Cabell<diane at cabell.us>  wrote:
+>> Zero may also be enforceable outside of Poland.
+>>
+> That's true. But that is not a good _reason_ to choose Zero _here_,
+> don't you think? Anyway, I don't have anything against Zero, except
+> that I don't think it differs in practice that much from CC-BY. Both
+> are good enough for data sharing.
+
+For many use cases yes but for data mining, aggregation,
+meta analyses and the like it can become tricky to keep
+track who to acknowledge for what.
+
+Don't get me wrong. In many cases there are good reasons
+for CC-BY and making data available in the first place is always
+better than not doing it at all irrespective of the particular license.
+It's just worth pointing out that there are differences and
+what those differences are.
+
+Cheers,
+
+     Raphael
+
+>
+> Best wishes
+> PS
+>
+>> Moral rights and data sharing are simply inconsistent, imho.
+>> dc
+>>
+>>
+>> On Jun 12, 2012, at 7:56 AM, Pawe? Szcz?sny wrote:
+>>
+>>> It's a good point, except that such option isn't available everywhere
+>>> (the last time I checked, CC0 isn't compatible with Polish law, so we
+>>> don't have it ported here). But on the other hand CC0 defaults to
+>>> CC-BY in here, so probably one can use it in a culturally readable
+>>> sense...
+>>>
+>>> Thanks
+>>> PS
+>>>
+>>>
+>>>
+>>> On Mon, Jun 11, 2012 at 2:51 PM, Diane Cabell<diane at cabell.us>  wrote:
+>>>> Please also consider CC Zero at http://creativecommons.org/about/cc0.  It is machine readable and avoids attribution stacking.
+>>>>
+>>>> Diane Cabell
+>>>> Oxford eResearch Centre
+>>>> Creative Commons
+>>>> iCommons Ltd
+>>>>
+>>>> On Jun 11, 2012, at 1:21 PM, Pawe? Szcz?sny wrote:
+>>>>
+>>>>> Dear all,
+>>>>>
+>>>>> In genomics there are at least three slightly different approaches to
+>>>>> _rapid_ data sharing agreements: Ft. Lauderdale agreement, Batavia
+>>>>> Open Genomic Data License or simply release into public domain.
+>>>>> Agreements/policies/contracts other than PDD are made to either
+>>>>> protect data creators (most often) or prevent certain uses (rarely)
+>>>>> _before_ the data is already published/described in a manuscript/etc.
+>>>>> Once the paper is out, final version of the data is PD or OpenData.
+>>>>>
+>>>>> Now, the question is whether there is any general
+>>>>> policy/agreement/contract on _rapid_ data sharing from citizen science
+>>>>> projects similar to the ones in genomics? Can we extend/modify Batavia
+>>>>> OGD License (which I like, as it encourages openness)? I feel that in
+>>>>> upcoming wave of citizen science projects rapid data sharing will
+>>>>> become a priority.
+>>>>>
+>>>>> Best wishes
+>>>>> PS
+>>>>>
+>>>>> _______________________________________________
+>>>>> open-science mailing list
+>>>>> open-science at lists.okfn.org
+>>>>> http://lists.okfn.org/mailman/listinfo/open-science
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+From ps at pawelszczesny.org  Tue Jun 12 09:07:03 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Tue, 12 Jun 2012 10:07:03 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <4FD6F67D.3000706@incf.org>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<D44C0174-0369-43A9-B715-CFEB23C2CF7F@cabell.us>
+	<CADfaFZpFwmMECEQoe9_M_7NJjOAqSf7otNMDFKEDh5sQyvt3Hw@mail.gmail.com>
+	<5A114651-BDD2-434E-BB86-B291A42C5D27@cabell.us>
+	<CADfaFZqi6D5F28M_rnKwVC_OepULjDCCWnRSnCVQvh4iuZBmrw@mail.gmail.com>
+	<4FD6F67D.3000706@incf.org>
+Message-ID: <CADfaFZqbFY7BeBj7PuCqnYLugO3gqODvBC9AD1Jg6YqnNiZT=Q@mail.gmail.com>
+
+On Tue, Jun 12, 2012 at 9:57 AM, Raphael Ritz <raphael.ritz at incf.org> wrote:
+>
+> For many use cases yes but for data mining, aggregation,
+> meta analyses and the like it can become tricky to keep
+> track who to acknowledge for what.
+>
+> Don't get me wrong. In many cases there are good reasons
+> for CC-BY and making data available in the first place is always
+> better than not doing it at all irrespective of the particular license.
+> It's just worth pointing out that there are differences and
+> what those differences are.
+>
+
+100% agreed. And my motivation behind original question is that I'm
+trying to convince people to share data in a first place.
+
+Best wishes
+PS
+
+
+From punkish at eidesis.org  Tue Jun 12 13:23:33 2012
+From: punkish at eidesis.org (Puneet Kishor)
+Date: Tue, 12 Jun 2012 07:23:33 -0500
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <CADfaFZpa2=zZ930pYH5qtf4dk22JEKxGHK_xnztw8k7-2U3i-w@mail.gmail.com>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<CD874A8C-0664-47DF-88C8-563D7FA2387E@gmail.com>
+	<CADfaFZpa2=zZ930pYH5qtf4dk22JEKxGHK_xnztw8k7-2U3i-w@mail.gmail.com>
+Message-ID: <5528FDE7-37DF-4C28-8C6D-142316E11A8A@eidesis.org>
+
+On Jun 12, 2012, at 2:25 AM, Pawe? Szcz?sny <ps at pawelszczesny.org> wrote:
+
+> So
+> in essence, I'm looking for a tool that would encourage data release
+> before the publication in fields that don't have already such a
+> community agreement as genomics.
+
+
+I am not sure if there is any such magic tool. Also, as in genomics, you might do better to try and create a mindset, a buy-in, an agreement, that is, redefine the "norm" if there is one, or to create a new norm if there isn't any in your field. It is, as you rightly indicated, a cultural problem. 
+
+The tool(s) already exist -- you could convince the contributors to put their contributions in the PD, go CC0, use CC BY, heck, even store and transmit each contributor's preferred license with every query (yes, crazy messy to do, but that is what we are doing in one project I am involved with as that is the only way we can hope to bring together contributors spread around the globe). Oh, and we also have a "release by" date stamped on every contribution. Once again, all contributors agree to a max release by date, although they can choose to have a release by date that can be sooner than the default value.
+
+It is a cultural problem, and a new or changed culture is required, not necessarily a tool.
+
+
+--
+Puneet Kishor
+
+From ps at pawelszczesny.org  Tue Jun 12 13:48:53 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Tue, 12 Jun 2012 14:48:53 +0200
+Subject: [open-science] Data sharing policy for citizen science projects?
+In-Reply-To: <5528FDE7-37DF-4C28-8C6D-142316E11A8A@eidesis.org>
+References: <CADfaFZriGr3Zcn48WbkEr-WsUH1vtjuqzy61GD+0HPh=TnxWyw@mail.gmail.com>
+	<CD874A8C-0664-47DF-88C8-563D7FA2387E@gmail.com>
+	<CADfaFZpa2=zZ930pYH5qtf4dk22JEKxGHK_xnztw8k7-2U3i-w@mail.gmail.com>
+	<5528FDE7-37DF-4C28-8C6D-142316E11A8A@eidesis.org>
+Message-ID: <CADfaFZqV3xz5WfPkk-9V9W9kW=jM7yDexA2JjnFWH6uhyVXRgQ@mail.gmail.com>
+
+On Tue, Jun 12, 2012 at 2:23 PM, Puneet Kishor <punkish at eidesis.org> wrote:
+> On Jun 12, 2012, at 2:25 AM, Pawe? Szcz?sny <ps at pawelszczesny.org> wrote:
+>
+>> So
+>> in essence, I'm looking for a tool that would encourage data release
+>> before the publication in fields that don't have already such a
+>> community agreement as genomics.
+>
+>
+> I am not sure if there is any such magic tool. Also, as in genomics, you might do better to try and create a mindset, a buy-in, an agreement, that is, redefine the "norm" if there is one, or to create a new norm if there isn't any in your field. It is, as you rightly indicated, a cultural problem.
+>
+> The tool(s) already exist -- you could convince the contributors to put their contributions in the PD, go CC0, use CC BY, heck, even store and transmit each contributor's preferred license with every query (yes, crazy messy to do, but that is what we are doing in one project I am involved with as that is the only way we can hope to bring together contributors spread around the globe). Oh, and we also have a "release by" date stamped on every contribution. Once again, all contributors agree to a max release by date, although they can choose to have a release by date that can be sooner than the default value.
+>
+> It is a cultural problem, and a new or changed culture is required, not necessarily a tool.
+>
+
+I used the wrong word "tool" (I rather was thinking about "leverage"
+or maybe even "example"), but nevertheless I think you are right -
+mindset first, declaration later.
+
+I'll come back to that question in a few months.
+
+Thanks a lot
+PS
+
+
+From jenny.molloy at okfn.org  Tue Jun 12 16:58:18 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 12 Jun 2012 16:58:18 +0100
+Subject: [open-science] Reminder: 30 mins to Open Science WG Meeting - 12
+	Jun 2012, *16:30* UTC
+Message-ID: <CABPM+wo995r00bNgVY-_8sxe7JXOkb_5DoqRrQQODErRzNEGcA@mail.gmail.com>
+
+Hi All
+
+This will be an opportunity to meet the Panton Fellows (
+http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+find out what they're up to, as well as voicing your opinions on projects
+we should be getting involved in or initiating. Got an idea for an open
+science project that you need help with? Bring it to the group and we'll do
+our best to assist and put you in touch with relevant people around the OKF
+network.
+
+When: Tuesday 12 June at *16:30* UTC/GMT (17:30 UK time as there is a OKFN
+London meetup that night)
+Location: Etherpad http://okfnpad.org/sciencewg-12Jun2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-12Jun2012
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+
+Jenny
+
+On Tue, May 22, 2012 at 10:07 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> Next working group meeting will be an opportunity to meet the Panton
+> Fellows (
+> http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+> find out what they're up to, as well as voicing your opinions on projects
+> we should be getting involved in or initiating. Got an idea for an open
+> science project that you need help with? Bring it to the group and we'll do
+> our best to assist and put you in touch with relevant people around the OKF
+> network.
+>
+> When: Tuesday 2 June at 17:30 UTC/GMT
+> Location: Etherpad http://okfnpad.org/sciencewg-2Jun2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-2Jun2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even
+> if you can't make it yourself, just make sure you add enough details).
+>
+> Hope to speak to some of you there!
+>
+> Jenny
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120612/478d7682/attachment.htm>
+
+From matthew.todd at sydney.edu.au  Thu Jun 14 13:00:07 2012
+From: matthew.todd at sydney.edu.au (Matthew Todd)
+Date: Thu, 14 Jun 2012 22:00:07 +1000
+Subject: [open-science] Share Alike? Or not?
+Message-ID: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+
+Hello everyone,
+
+Another licence question. Our open science projects on The Synaptic Leap
+are covered by a creative commons licence - currently a slightly
+out-of-date CC-BY-2.5.
+
+The open source drug discovery for malaria project (taking place on the
+same site, but also elsewhere) is generically covered by CC-BY-3.0
+
+http://openwetware.org/wiki/OSDDMalaria:GSK_Arylpyrrole_Series:Story_so_far
+
+We need to deal with the various inconsistencies, and since we're writing
+up the first paper on the malaria work we need to firm up the overall
+licence. This brought up the following fact: I don't know whether we should
+be Share Alike or not.
+
+My feeling is that anyone should be able to use whatever we do, provided
+there is attribution. To be honest our desire for attribution is mainly
+about insisting on good practice - don't use something without quoting the
+source. Partly it's about wanting to try to recruit more people to a
+unified project.
+
+However, there's a question about whether we ought to be insisting on Share
+Alike. I need clarification on the following from knowledgeable people:
+
+The Share Alike licence we'd use (
+http://creativecommons.org/licenses/by-sa/3.0/) includes the following
+phrase: "If you alter, transform, or build upon this work, you may
+distribute the resulting work only under the same or similar license to
+this one"
+
+The key word is "distribute", meaning that under the terms of that licence
+it would be possible for a company to take the results from our malaria
+work, internalise those results and use them to make money via a patent,
+correct? Since that process does not involve "distributing" anything?
+
+Is that correct? I am keen not to bar commercial spin-offs from our work. I
+am keen to avoid licences that might make companies wary. Naturally those
+spin-offs should not restrict what we are doing in any way.
+
+By NOT using share-alike, are we exposing ourselves to some difficult
+situation we've not predicted?
+
+Cheers,
+
+Mat
+
+
+-- 
+MATTHEW TODD | Senior Lecturer and Honours Coordinator
+School of Chemistry | Faculty of Science
+
+THE UNIVERSITY OF SYDNEY
+Rm 519, F11 | The University of Sydney | NSW | 2006
+T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+E matthew.todd at sydney.edu.au  | W
+http://sydney.edu.au/science/chemistry/research/todd.html
+
+CRICOS 00026A
+This email plus any attachments to it are confidential. Any unauthorised
+use is strictly prohibited. If you receive this email in error, please
+delete it and any attachments.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120614/c7c6a33a/attachment.htm>
+
+From klausgraf at googlemail.com  Thu Jun 14 13:03:40 2012
+From: klausgraf at googlemail.com (Klaus Graf)
+Date: Thu, 14 Jun 2012 14:03:40 +0200
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+Message-ID: <CADB6pjOwshXfaQHwDdZjPF_qEt=vrQD1as6B1=uaZfxGLrXWbw@mail.gmail.com>
+
+CC only concerns the Copyright, not patents.
+
+Klaus Graf
+
+2012/6/14 Matthew Todd <matthew.todd at sydney.edu.au>:
+> Hello everyone,
+>
+> Another licence question. Our open science projects on The Synaptic Leap are
+> covered by a creative commons licence - currently a slightly out-of-date
+> CC-BY-2.5.
+>
+> The open source drug discovery for malaria project (taking place on the same
+> site, but also elsewhere) is generically covered by CC-BY-3.0
+>
+> http://openwetware.org/wiki/OSDDMalaria:GSK_Arylpyrrole_Series:Story_so_far
+>
+> We need to deal with the various inconsistencies, and since we're writing up
+> the first paper on the malaria work we need to firm up the overall licence.
+> This brought up the following fact: I don't know whether we should be Share
+> Alike or not.
+>
+> My feeling is that anyone should be able to use whatever we do, provided
+> there is attribution. To be honest our desire for attribution is mainly
+> about insisting on good practice - don't use something without quoting the
+> source. Partly it's about wanting to try to recruit more people to a unified
+> project.
+>
+> However, there's a question about whether we ought to be insisting on Share
+> Alike. I need clarification on the following from knowledgeable people:
+>
+> The Share Alike licence we'd use
+> (http://creativecommons.org/licenses/by-sa/3.0/) includes the following
+> phrase: "If you alter, transform, or build upon this work, you may
+> distribute the resulting work only under the same or similar license to this
+> one"
+>
+> The key word is "distribute", meaning that under the terms of that licence
+> it would be possible for a company to take the results from our malaria
+> work, internalise those results and use them to make money via a patent,
+> correct? Since that process does not involve "distributing" anything?
+>
+> Is that correct? I am keen not to bar commercial spin-offs from our work. I
+> am keen to avoid licences that might make companies wary. Naturally those
+> spin-offs should not restrict what we are doing in any way.
+>
+> By NOT using share-alike, are we exposing ourselves to some difficult
+> situation we've not predicted?
+>
+> Cheers,
+>
+> Mat
+>
+>
+> --
+> MATTHEW TODD | Senior Lecturer and Honours Coordinator
+> School of Chemistry | Faculty of Science
+>
+> THE UNIVERSITY OF SYDNEY
+> Rm 519, F11 | The University of Sydney | NSW | 2006
+> T +61 2 9351 2180? | F +61 2 9351 3329? | M +61 415 274104
+> E matthew.todd at sydney.edu.au? | W
+> http://sydney.edu.au/science/chemistry/research/todd.html
+>
+> CRICOS 00026A
+> This email plus any attachments to it are confidential. Any unauthorised use
+> is strictly prohibited. If you receive this email in error, please delete it
+> and any attachments.
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From tom.olijhoek at gmail.com  Thu Jun 14 13:22:15 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Thu, 14 Jun 2012 14:22:15 +0200
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <CADB6pjOwshXfaQHwDdZjPF_qEt=vrQD1as6B1=uaZfxGLrXWbw@mail.gmail.com>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+	<CADB6pjOwshXfaQHwDdZjPF_qEt=vrQD1as6B1=uaZfxGLrXWbw@mail.gmail.com>
+Message-ID: <CAGyWN8aomwCwKB6kySv6t3OGhzL4hhYgx7gSTnogYxnanqcfZA@mail.gmail.com>
+
+Hi Matt,
+
+When you have a cc-BY-SA  the material may not be used in a patent since a
+patent involves copyrighting and this is then different from what the
+license requires.
+On the other hand we (@ccess) have a strong preference for the CC-BY
+atribution only license, this is the only "real" open access in our view.
+
+Tom Olijhoek
+coordinator @ccess
+
+On Thu, Jun 14, 2012 at 2:03 PM, Klaus Graf <klausgraf at googlemail.com>wrote:
+
+> CC only concerns the Copyright, not patents.
+>
+> Klaus Graf
+>
+> 2012/6/14 Matthew Todd <matthew.todd at sydney.edu.au>:
+> > Hello everyone,
+> >
+> > Another licence question. Our open science projects on The Synaptic Leap
+> are
+> > covered by a creative commons licence - currently a slightly out-of-date
+> > CC-BY-2.5.
+> >
+> > The open source drug discovery for malaria project (taking place on the
+> same
+> > site, but also elsewhere) is generically covered by CC-BY-3.0
+> >
+> >
+> http://openwetware.org/wiki/OSDDMalaria:GSK_Arylpyrrole_Series:Story_so_far
+> >
+> > We need to deal with the various inconsistencies, and since we're
+> writing up
+> > the first paper on the malaria work we need to firm up the overall
+> licence.
+> > This brought up the following fact: I don't know whether we should be
+> Share
+> > Alike or not.
+> >
+> > My feeling is that anyone should be able to use whatever we do, provided
+> > there is attribution. To be honest our desire for attribution is mainly
+> > about insisting on good practice - don't use something without quoting
+> the
+> > source. Partly it's about wanting to try to recruit more people to a
+> unified
+> > project.
+> >
+> > However, there's a question about whether we ought to be insisting on
+> Share
+> > Alike. I need clarification on the following from knowledgeable people:
+> >
+> > The Share Alike licence we'd use
+> > (http://creativecommons.org/licenses/by-sa/3.0/) includes the following
+> > phrase: "If you alter, transform, or build upon this work, you may
+> > distribute the resulting work only under the same or similar license to
+> this
+> > one"
+> >
+> > The key word is "distribute", meaning that under the terms of that
+> licence
+> > it would be possible for a company to take the results from our malaria
+> > work, internalise those results and use them to make money via a patent,
+> > correct? Since that process does not involve "distributing" anything?
+> >
+> > Is that correct? I am keen not to bar commercial spin-offs from our
+> work. I
+> > am keen to avoid licences that might make companies wary. Naturally those
+> > spin-offs should not restrict what we are doing in any way.
+> >
+> > By NOT using share-alike, are we exposing ourselves to some difficult
+> > situation we've not predicted?
+> >
+> > Cheers,
+> >
+> > Mat
+> >
+> >
+> > --
+> > MATTHEW TODD | Senior Lecturer and Honours Coordinator
+> > School of Chemistry | Faculty of Science
+> >
+> > THE UNIVERSITY OF SYDNEY
+> > Rm 519, F11 | The University of Sydney | NSW | 2006
+> > T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+> > E matthew.todd at sydney.edu.au  | W
+> > http://sydney.edu.au/science/chemistry/research/todd.html
+> >
+> > CRICOS 00026A
+> > This email plus any attachments to it are confidential. Any unauthorised
+> use
+> > is strictly prohibited. If you receive this email in error, please
+> delete it
+> > and any attachments.
+> >
+> >
+> > _______________________________________________
+> > open-science mailing list
+> > open-science at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-science
+> >
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120614/c424ac14/attachment.htm>
+
+From dc at icommons.org  Thu Jun 14 14:31:42 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Thu, 14 Jun 2012 14:31:42 +0100
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+Message-ID: <CA351750-AC76-4220-AA37-BAB2FF85B239@icommons.org>
+
+Neither CC BY nor CC SA prohibit commercial use.  Only NC does that.  But NC also prevents commercial research entities from using the work at all since internal use might still qualify as commercial use.  
+
+Copyright protects copying/distributing/amending copies of a work.  Patent protects making/using/selling an invention or discovery.  Different rights.
+
+Most countries will not grant a patent if the application was filed after the invention or discovery has already been published, so your publication/distribution itself will extinguish any patent rights to the extent your paper discloses them.  Someone could add on to it and seek patent protection for the derived invention, but the addition has to qualify as being 'non-obvious'.
+
+Attribution stacking is a serious problem for those who are trying to mine large collections of data.  It can be difficult to track small bits that are pulled out from different sources.  The list of authors to attribute might be longer than the article itself.  Consider using CC Zero or ODbL for your data.  
+
+Diane Cabell
+Creative Commons
+iCommons
+OeRC
+
+
+
+On Jun 14, 2012, at 1:00 PM, Matthew Todd wrote:
+
+> Hello everyone,
+> 
+> Another licence question. Our open science projects on The Synaptic Leap are covered by a creative commons licence - currently a slightly out-of-date CC-BY-2.5.
+> 
+> The open source drug discovery for malaria project (taking place on the same site, but also elsewhere) is generically covered by CC-BY-3.0
+> 
+> http://openwetware.org/wiki/OSDDMalaria:GSK_Arylpyrrole_Series:Story_so_far
+> 
+> We need to deal with the various inconsistencies, and since we're writing up the first paper on the malaria work we need to firm up the overall licence. This brought up the following fact: I don't know whether we should be Share Alike or not.
+> 
+> My feeling is that anyone should be able to use whatever we do, provided there is attribution. To be honest our desire for attribution is mainly about insisting on good practice - don't use something without quoting the source. Partly it's about wanting to try to recruit more people to a unified project.
+> 
+> However, there's a question about whether we ought to be insisting on Share Alike. I need clarification on the following from knowledgeable people:
+> 
+> The Share Alike licence we'd use (http://creativecommons.org/licenses/by-sa/3.0/) includes the following phrase: "If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one"
+> 
+> The key word is "distribute", meaning that under the terms of that licence it would be possible for a company to take the results from our malaria work, internalise those results and use them to make money via a patent, correct? Since that process does not involve "distributing" anything?
+> 
+> Is that correct? I am keen not to bar commercial spin-offs from our work. I am keen to avoid licences that might make companies wary. Naturally those spin-offs should not restrict what we are doing in any way.
+> 
+> By NOT using share-alike, are we exposing ourselves to some difficult situation we've not predicted?
+> 
+> Cheers,
+> 
+> Mat
+> 
+> 
+> -- 
+> MATTHEW TODD | Senior Lecturer and Honours Coordinator
+> School of Chemistry | Faculty of Science
+> 
+> THE UNIVERSITY OF SYDNEY
+> Rm 519, F11 | The University of Sydney | NSW | 2006
+> T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+> E matthew.todd at sydney.edu.au  | W http://sydney.edu.au/science/chemistry/research/todd.html
+> 
+> CRICOS 00026A
+> This email plus any attachments to it are confidential. Any unauthorised use is strictly prohibited. If you receive this email in error, please delete it and any attachments.
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120614/ad7565fa/attachment.htm>
+
+From rufus.pollock at okfn.org  Thu Jun 14 14:44:03 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Thu, 14 Jun 2012 14:44:03 +0100
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <CA351750-AC76-4220-AA37-BAB2FF85B239@icommons.org>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+	<CA351750-AC76-4220-AA37-BAB2FF85B239@icommons.org>
+Message-ID: <CAEvtuKqU418922mzFQXjd=HkJ_q8nK9xfVz6nzmTKE3vFQUZ8A@mail.gmail.com>
+
+On 14 June 2012 14:31, Diane Cabell <dc at icommons.org> wrote:
+[...]
+> Attribution stacking is a serious problem for those who are trying to mine
+> large collections of data. ?It can be difficult to track small bits that are
+> pulled out from different sources. ?The list of authors to attribute might
+> be longer than the article itself. ?Consider using CC Zero or ODbL for your
+> data.
+
+Has anyone actually ever found attribution stacking to be a problem? I
+hear it said quite frequently that this *could* be a problem but it
+seems to be me there are fairly easy ways to deal with "attribution
+stacking" so don't think this is really an issue (for more detail on
+why see these comments from a few years ago:
+<http://blog.okfn.org/2009/02/09/comments-on-the-science-commons-protocol-for-implementing-open-access-data/>).
+
+Also, as a minor aside, I assume you meant the PDDL (Public Domain
+Dedication and License) rather than the ODbL in this context (ODbL =
+Attribution / Share-Alike for data).
+
+Rufus
+
+
+From dc at icommons.org  Thu Jun 14 15:51:33 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Thu, 14 Jun 2012 15:51:33 +0100
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <CAEvtuKqU418922mzFQXjd=HkJ_q8nK9xfVz6nzmTKE3vFQUZ8A@mail.gmail.com>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+	<CA351750-AC76-4220-AA37-BAB2FF85B239@icommons.org>
+	<CAEvtuKqU418922mzFQXjd=HkJ_q8nK9xfVz6nzmTKE3vFQUZ8A@mail.gmail.com>
+Message-ID: <E22BC578-A564-4D7E-8230-F5411A6BCA6D@icommons.org>
+
+Blush.  Yes, PDDL.
+
+Not a miner myself, so hard for me to know whether it is a frequent or serious problem.  A good question that deserves more than mere assertion.
+
+There are possible solutions but we don't have any consensus on whether they would be acceptable to authors.  As you suggest, one could throw all the citations into an attribution database -- whether or not data from any particular source was actually used -- and link to it from the resulting article/re-use.  But if the article is distributed/archived in hard copy version, authors may feel that this pushes them too far away from readers to get the recognition they would get if their name actually appeared in footnotes of the hard copy.   What if the link rots?  What if the final re-use only uses about 4% of all those cite-in-case-of-doubt sources?  Would that not be confusing to those who attempt to reproduce results? I don't know.  Not technically gifted enough.  
+
+And the precise presentation of the citation could be more burdensome if, for example, the author requires any special format (as is possible with CC BY) or if all of the required citation elements are not easily obtainable.
+dc
+
+On Jun 14, 2012, at 2:44 PM, Rufus Pollock wrote:
+
+> On 14 June 2012 14:31, Diane Cabell <dc at icommons.org> wrote:
+> [...]
+>> Attribution stacking is a serious problem for those who are trying to mine
+>> large collections of data.  It can be difficult to track small bits that are
+>> pulled out from different sources.  The list of authors to attribute might
+>> be longer than the article itself.  Consider using CC Zero or ODbL for your
+>> data.
+> 
+> Has anyone actually ever found attribution stacking to be a problem? I
+> hear it said quite frequently that this *could* be a problem but it
+> seems to be me there are fairly easy ways to deal with "attribution
+> stacking" so don't think this is really an issue (for more detail on
+> why see these comments from a few years ago:
+> <http://blog.okfn.org/2009/02/09/comments-on-the-science-commons-protocol-for-implementing-open-access-data/>).
+> 
+> Also, as a minor aside, I assume you meant the PDDL (Public Domain
+> Dedication and License) rather than the ODbL in this context (ODbL =
+> Attribution / Share-Alike for data).
+> 
+> Rufus
+
+
+
+From cboettig at gmail.com  Thu Jun 14 18:25:39 2012
+From: cboettig at gmail.com (Carl Boettiger)
+Date: Thu, 14 Jun 2012 10:25:39 -0700
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <E22BC578-A564-4D7E-8230-F5411A6BCA6D@icommons.org>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+	<CA351750-AC76-4220-AA37-BAB2FF85B239@icommons.org>
+	<CAEvtuKqU418922mzFQXjd=HkJ_q8nK9xfVz6nzmTKE3vFQUZ8A@mail.gmail.com>
+	<E22BC578-A564-4D7E-8230-F5411A6BCA6D@icommons.org>
+Message-ID: <CAN_1p9x_C_xKNaK2aiZiOSt9Fo8fRemxsxP1tT3MvMtsYx1E+g@mail.gmail.com>
+
+I believe I've encountered problems with attribution stacking. Citations
+that appear only in the supplement of journals are frequently not counted
+in the major commercial citation metrics indices, and many journals limit
+the number of citations.
+
+For instance, I programmatically pull data from fishbase.org, which claims
+that its content is cc-by-nc, and asks that I attribute authors of the
+original paper in which the data was reported.  Since the queries need to
+look at all the data to report the subset of numbers that match my query,
+shouldn't I probably cite all 47,300 references and not just the hundreds
+of sources that provide the final data?
+
+Perhaps more importantly, I find the connection between an attribution
+license and an academic citation confusing.  Isn't citation is a cultural
+norm, not a legal requirement of copyright?  An attribution license
+requires that I acknowledge the author in some unspecified way (i.e. it
+isn't clear that I need to acknowledge them in a way that boosts their
+citation count in ISI), if I share or remix and share their work.  When I
+cite an academic paper, I am not sharing or remixing work.  I feel
+uncomfortable with the use of an attribution license to "enforce" citation
+practices.  If attribution doesn't equate to academic citation, then
+perhaps the problem of "stacking" is more negligible.
+
+On the other hand, if in using data from the repository I should attribute
+both the repository and the original source, than the attribution stacking
+problem introduced by copyright is a greater burden than the attribution
+problem introduced by citation practices.  Is this any different than
+citing a review or meta-analysis that determines "92 out of 120 studies
+showed x" without citing the original articles?  When the goal of citation
+was only reproducible research, there is no need to stack those citations
+since it is easy to follow the chain.  But if the copyright license on the
+data enforces citing all elements in the chain, then it is the terms of
+copyright, not citation norms, which pose the greater burden of stacking.
+
+Confused myself,
+
+-Carl
+
+
+
+On Thu, Jun 14, 2012 at 7:51 AM, Diane Cabell <dc at icommons.org> wrote:
+
+> Blush.  Yes, PDDL.
+>
+> Not a miner myself, so hard for me to know whether it is a frequent or
+> serious problem.  A good question that deserves more than mere assertion.
+>
+> There are possible solutions but we don't have any consensus on whether
+> they would be acceptable to authors.  As you suggest, one could throw all
+> the citations into an attribution database -- whether or not data from any
+> particular source was actually used -- and link to it from the resulting
+> article/re-use.  But if the article is distributed/archived in hard copy
+> version, authors may feel that this pushes them too far away from readers
+> to get the recognition they would get if their name actually appeared in
+> footnotes of the hard copy.   What if the link rots?  What if the final
+> re-use only uses about 4% of all those cite-in-case-of-doubt sources?
+>  Would that not be confusing to those who attempt to reproduce results? I
+> don't know.  Not technically gifted enough.
+>
+> And the precise presentation of the citation could be more burdensome if,
+> for example, the author requires any special format (as is possible with CC
+> BY) or if all of the required citation elements are not easily obtainable.
+> dc
+>
+> On Jun 14, 2012, at 2:44 PM, Rufus Pollock wrote:
+>
+> > On 14 June 2012 14:31, Diane Cabell <dc at icommons.org> wrote:
+> > [...]
+> >> Attribution stacking is a serious problem for those who are trying to
+> mine
+> >> large collections of data.  It can be difficult to track small bits
+> that are
+> >> pulled out from different sources.  The list of authors to attribute
+> might
+> >> be longer than the article itself.  Consider using CC Zero or ODbL for
+> your
+> >> data.
+> >
+> > Has anyone actually ever found attribution stacking to be a problem? I
+> > hear it said quite frequently that this *could* be a problem but it
+> > seems to be me there are fairly easy ways to deal with "attribution
+> > stacking" so don't think this is really an issue (for more detail on
+> > why see these comments from a few years ago:
+> > <
+> http://blog.okfn.org/2009/02/09/comments-on-the-science-commons-protocol-for-implementing-open-access-data/
+> >).
+> >
+> > Also, as a minor aside, I assume you meant the PDDL (Public Domain
+> > Dedication and License) rather than the ODbL in this context (ODbL =
+> > Attribution / Share-Alike for data).
+> >
+> > Rufus
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+
+-- 
+Carl Boettiger
+UC Davis
+http://www.carlboettiger.info/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120614/a046e74b/attachment.htm>
+
+From dc at icommons.org  Fri Jun 15 08:35:35 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Fri, 15 Jun 2012 08:35:35 +0100
+Subject: [open-science] Share Alike? Or not?
+In-Reply-To: <CAN_1p9x_C_xKNaK2aiZiOSt9Fo8fRemxsxP1tT3MvMtsYx1E+g@mail.gmail.com>
+References: <CADOXZMysyotSjEgNfcKLgDcTi3F_g+U90SkOXa1p_uBxEEffhw@mail.gmail.com>
+	<CA351750-AC76-4220-AA37-BAB2FF85B239@icommons.org>
+	<CAEvtuKqU418922mzFQXjd=HkJ_q8nK9xfVz6nzmTKE3vFQUZ8A@mail.gmail.com>
+	<E22BC578-A564-4D7E-8230-F5411A6BCA6D@icommons.org>
+	<CAN_1p9x_C_xKNaK2aiZiOSt9Fo8fRemxsxP1tT3MvMtsYx1E+g@mail.gmail.com>
+Message-ID: <E8F6E42A-3C31-4CE3-A9C5-26900250D66E@icommons.org>
+
+Attribution is legally mandated for re-use of copyrighted work in most  European jurisdictions under moral rights legislation.  If you are copying a substantial portion of another's work, you must identify that author.   I'm not well enough versed in Euro law to know whether attribution is required when insubstantial portions are used or if it is required when only database rights apply.  Would welcome instruction on those points.
+
+Independently of the statutory law, repositories may require attribution/citation as a contractual condition of access and may specify the format for doing so.
+
+Academic citation is different from attribution in many ways including that the authors credited in journal articles are often not 'authors' as the term is legally defined by copyright law.  A legal author is one who actually contributes to the actual writing of the article.  Also, the legal author may be the employer where the work was produced as part of job performance.  Citation may be the norm whether or not the subsequent user copies any of the original article, e.g., when the analysis produced in the original work contributes to the current user's thinking but quoting any of the specific language appearing in the original article.
+
+dc
+
+On Jun 14, 2012, at 6:25 PM, Carl Boettiger wrote:
+
+> I believe I've encountered problems with attribution stacking. Citations that appear only in the supplement of journals are frequently not counted in the major commercial citation metrics indices, and many journals limit the number of citations.
+> 
+> For instance, I programmatically pull data from fishbase.org, which claims that its content is cc-by-nc, and asks that I attribute authors of the original paper in which the data was reported.  Since the queries need to look at all the data to report the subset of numbers that match my query, shouldn't I probably cite all 47,300 references and not just the hundreds of sources that provide the final data?  
+> 
+> Perhaps more importantly, I find the connection between an attribution license and an academic citation confusing.  Isn't citation is a cultural norm, not a legal requirement of copyright?  An attribution license requires that I acknowledge the author in some unspecified way (i.e. it isn't clear that I need to acknowledge them in a way that boosts their citation count in ISI), if I share or remix and share their work.  When I cite an academic paper, I am not sharing or remixing work.  I feel uncomfortable with the use of an attribution license to "enforce" citation practices.  If attribution doesn't equate to academic citation, then perhaps the problem of "stacking" is more negligible.
+> 
+> On the other hand, if in using data from the repository I should attribute both the repository and the original source, than the attribution stacking problem introduced by copyright is a greater burden than the attribution problem introduced by citation practices.  Is this any different than citing a review or meta-analysis that determines "92 out of 120 studies showed x" without citing the original articles?  When the goal of citation was only reproducible research, there is no need to stack those citations since it is easy to follow the chain.  But if the copyright license on the data enforces citing all elements in the chain, then it is the terms of copyright, not citation norms, which pose the greater burden of stacking.  
+> 
+> Confused myself,
+> 
+> -Carl
+> 
+> 
+> 
+> On Thu, Jun 14, 2012 at 7:51 AM, Diane Cabell <dc at icommons.org> wrote:
+> Blush.  Yes, PDDL.
+> 
+> Not a miner myself, so hard for me to know whether it is a frequent or serious problem.  A good question that deserves more than mere assertion.
+> 
+> There are possible solutions but we don't have any consensus on whether they would be acceptable to authors.  As you suggest, one could throw all the citations into an attribution database -- whether or not data from any particular source was actually used -- and link to it from the resulting article/re-use.  But if the article is distributed/archived in hard copy version, authors may feel that this pushes them too far away from readers to get the recognition they would get if their name actually appeared in footnotes of the hard copy.   What if the link rots?  What if the final re-use only uses about 4% of all those cite-in-case-of-doubt sources?  Would that not be confusing to those who attempt to reproduce results? I don't know.  Not technically gifted enough.
+> 
+> And the precise presentation of the citation could be more burdensome if, for example, the author requires any special format (as is possible with CC BY) or if all of the required citation elements are not easily obtainable.
+> dc
+> 
+> On Jun 14, 2012, at 2:44 PM, Rufus Pollock wrote:
+> 
+> > On 14 June 2012 14:31, Diane Cabell <dc at icommons.org> wrote:
+> > [...]
+> >> Attribution stacking is a serious problem for those who are trying to mine
+> >> large collections of data.  It can be difficult to track small bits that are
+> >> pulled out from different sources.  The list of authors to attribute might
+> >> be longer than the article itself.  Consider using CC Zero or ODbL for your
+> >> data.
+> >
+> > Has anyone actually ever found attribution stacking to be a problem? I
+> > hear it said quite frequently that this *could* be a problem but it
+> > seems to be me there are fairly easy ways to deal with "attribution
+> > stacking" so don't think this is really an issue (for more detail on
+> > why see these comments from a few years ago:
+> > <http://blog.okfn.org/2009/02/09/comments-on-the-science-commons-protocol-for-implementing-open-access-data/>).
+> >
+> > Also, as a minor aside, I assume you meant the PDDL (Public Domain
+> > Dedication and License) rather than the ODbL in this context (ODbL =
+> > Attribution / Share-Alike for data).
+> >
+> > Rufus
+> 
+> 
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+> 
+> 
+> -- 
+> Carl Boettiger
+> UC Davis
+> http://www.carlboettiger.info/
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120615/8c7dcbd2/attachment.htm>
+
+From dc at icommons.org  Tue Jun 19 09:40:26 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Tue, 19 Jun 2012 09:40:26 +0100
+Subject: [open-science] Finch report released: open access in the UK
+References: <CAFGh56k5XEubZ60TuDj7atvwEMvYh_jxXHup+baeryBbUib-4g@mail.gmail.com>
+Message-ID: <DEDB3DE6-2E60-4091-911C-FCDBDDD483AE@icommons.org>
+
+
+http://www.researchinfonet.org/publish/finch/ 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120619/caaad12a/attachment.htm>
+
+From mark.wainwright at okfn.org  Tue Jun 19 14:44:34 2012
+From: mark.wainwright at okfn.org (Mark Wainwright)
+Date: Tue, 19 Jun 2012 14:44:34 +0100
+Subject: [open-science] Publishing scientific data with CKAN
+Message-ID: <CAHoq+O3ZapbZBtZBZyoopE5L2MTD4BpPrLZHToQwfsBqG0T9sA@mail.gmail.com>
+
+There is a new post on the Open Knowledge Foundation blog about using
+publishing scientific data and research using CKAN:
+
+http://blog.okfn.org/2012/06/19/ckan-science/
+
+Collect your research together, bundle published papers with their raw
+data and source code, give yourself and other researchers an API onto
+your data, embed data visualisations on your web page, and more. Read
+the full article for details!
+
+Mark Wainwright
+
+-- 
+Mark Wainwright, CKAN?Community Co-ordinator
+Open Knowledge Foundation?http://okfn.org/
+CKAN on Twitter: @CKANproject
+
+
+From daniel.dietrich at okfn.org  Wed Jun 20 10:55:57 2012
+From: daniel.dietrich at okfn.org (Daniel Dietrich)
+Date: Wed, 20 Jun 2012 11:55:57 +0200
+Subject: [open-science] Science 2.0 study
+Message-ID: <DD2FA4E8-81B2-413C-A883-E153D787EC8A@okfn.org>
+
+Hi all,
+
+I just spotted this and thought it might be interesting...
+http://science20study.wordpress.com/
+
+Daniel
+
+
+
+From nb at climatecode.org  Wed Jun 20 12:23:26 2012
+From: nb at climatecode.org (Nick Barnes)
+Date: Wed, 20 Jun 2012 12:23:26 +0100
+Subject: [open-science] Royal Society report launch tomorrow (2012-06-21)
+Message-ID: <CADSvO-GjeLLajsN1KEp_uuRcBAjKq+YmH4+_K7dUbdZOCMHk3Q@mail.gmail.com>
+
+Is anyone else going to the launch of the Royal Society report on "Science
+as a Public Enterprise" tomorrow?
+-- 
+Nick Barnes, Climate Code Foundation, http://climatecode.org/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120620/05d00fe5/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Wed Jun 20 14:54:45 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 20 Jun 2012 14:54:45 +0100
+Subject: [open-science] Royal Society report launch tomorrow (2012-06-21)
+In-Reply-To: <CADSvO-GjeLLajsN1KEp_uuRcBAjKq+YmH4+_K7dUbdZOCMHk3Q@mail.gmail.com>
+References: <CADSvO-GjeLLajsN1KEp_uuRcBAjKq+YmH4+_K7dUbdZOCMHk3Q@mail.gmail.com>
+Message-ID: <CABPM+wp0mPWdKQfWT6UxzDYet8MEszwxJ1AD5_8bw-9EGyyXBg@mail.gmail.com>
+
+I'll be there! Looking forward to seeing any others who are attending and
+I'll try and get a blog post up on science.okfn.org after the event.
+
+Jenny
+
+On Wed, Jun 20, 2012 at 12:23 PM, Nick Barnes <nb at climatecode.org> wrote:
+
+> Is anyone else going to the launch of the Royal Society report on "Science
+> as a Public Enterprise" tomorrow?
+> --
+> Nick Barnes, Climate Code Foundation, http://climatecode.org/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120620/17544151/attachment.htm>
+
+From jenny.molloy at okfn.org  Thu Jun 21 09:04:23 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 21 Jun 2012 09:04:23 +0100
+Subject: [open-science] Fwd: Oxford Open Science discusses 'Publishing
+ Models of the Future', Wed 27 Jun, 7pm
+In-Reply-To: <CABPM+wrMg1Hy7X88oiak65qb67=z4W1omfAUKGNjvWi=vfgK8w@mail.gmail.com>
+References: <CABPM+wrMg1Hy7X88oiak65qb67=z4W1omfAUKGNjvWi=vfgK8w@mail.gmail.com>
+Message-ID: <CABPM+wpkO-Sxvj9m22Z7g+gKwECNuWD92zgdqo3BJT-cFJaJzw@mail.gmail.com>
+
+Hi All
+
+This may be of interest to anyone within easy travelling distance of
+Oxford. There is also a programme for the rest of our 2012 meetings towards
+the bottom of the page (this is subject to change!)
+
+If anyone would like to set up a local Open Science group in their area,
+please get in touch as we'd love to support you with web infrastructure,
+publicity and contacts wherever we can.
+
+Best wishes
+
+Jenny
+
+---------- Forwarded message ----------
+From: Jenny Molloy <jenny.molloy at okfn.org>
+Date: Thu, Jun 21, 2012 at 9:01 AM
+Subject: Oxford Open Science discusses 'Publishing Models of the Future',
+Wed 27 Jun, 7pm
+To: open-science-ox at lists.okfn.org
+
+
+Hi All Just a reminder about next week's discussion, I hope many of you can
+make it along with your ideas for how scholarly publishing should look
+going forward! Things are changing in the UK with the recent publication of
+the FInch Report and RCUK draft Open Access policy, but besides access
+we'll be discussing peer review models, publishing platforms, what counts
+as a publication and many more topics of direct relevance to researchers
+putting out papers.
+
+I look forward to seeing you there and encourage you to spread the word to
+any colleagues or friends who might be interested!
+
+Best wishes
+
+Jenny
+
+Publishing Models of the Future
+
+Date: Wednesday 27 June
+
+Time: 7pm-8:30pm (followed by the pub)
+
+Venue: OeRC, Keble Road (http://www.oerc.ox.ac.uk/about/how-to-find-us)
+
+A round table discussion on exciting developments in scientific publishing
+with representatives from major publishers and most importantly YOU stating
+where you want to see publication heading and how we might get there.
+
+OOS is a group for anyone interested in open science projects with a focus
+on creating useful tools, apps and guidelines alongside building an Oxford
+based community with monthly meetups and periodic lectures, debates and
+workshops. For more information email jenny.molloy at zoo.ox.ac.uk or check
+out the group wiki http://wiki.okfn.org/Working_Groups/Science/Oxford
+
+Upcoming Meetings in 2012
+
+All meetings unless otherwise stated will be held on a Wednesday evenings,
+7-8:30pm at OeRC on Keble Road (
+http://www.oerc.ox.ac.uk/about/how-to-find-us)
+
+27 June - 'Publishing models of the future' A round table discussion on
+exciting developments in scientific publishing with representatives from
+major publishers and most importantly YOU stating where you want to see
+publication heading and how we might get there.
+
+25 July - 'What can you do with open bibliographic data?'
+
+22 August - 'Training a new generation of open scientists'
+
+26 September - 'The ethics and practicalities of open clinical trial data'
+
+24 October - 'The Bodleian on Open Science'
+
+28 November - 'Citizen Science: The role of openness'
+
+19 December
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120621/13f34bc0/attachment.htm>
+
+From laura.newman at okfn.org  Thu Jun 21 09:14:19 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Thu, 21 Jun 2012 09:14:19 +0100
+Subject: [open-science] Fwd: [OKFest-Coord] Travel Bursaries - deadline Wed
+	27 June (midnight BST)!!
+In-Reply-To: <4FE21C09.6090002@finnish-institute.org.uk>
+References: <4FE21C09.6090002@finnish-institute.org.uk>
+Message-ID: <CAMQ+bMZbCTApcCN7qaVkztw6W=Rn8QMY03cm7akHwKmgxYvUTA@mail.gmail.com>
+
+Hi all,
+
+For those of you hoping to apply for a travel bursary for OKFest - ***The
+deadline is Wednesday 27th June***
+
+For more details, see: http://okfestival.org/
+
+We are currently planning an exciting science programme as part of the
+'Open Research and Education' stream. The main science events are likely to
+take place on the Wednesday, with possibly a few sessions taking place on
+the Thursday. We are also planning a separate hackday on the Tuesday -
+watch this space for full details!
+
+Cheers,
+Laura
+
+
+
+---------- Forwarded message ----------
+From: Juha Huuskonen <juha.huuskonen at finnish-institute.org.uk>
+Date: Wed, Jun 20, 2012 at 7:52 PM
+Subject: [OKFest-Coord] Travel Bursaries - deadline Wed 27 June (midnight
+BST)!!
+To: "okfestival-coord at lists.okfn.org" <okfestival-coord at lists.okfn.org>
+
+
+Hello everyone,
+
+In case you did not notice this information on the okfestival.org site:
+it's now possible to apply for a travel bursary for OKfest, the deadline is
+already in one weeks time!
+
+The deadline is *Wed 27 June (midnight BST)*.
+
+We might have another round for applications later on, *if* we are able to
+guarantee more funding.
+
+More information here:
+http://okfestival.org/travel-**bursaries/<http://okfestival.org/travel-bursaries/>
+
+Best regards,
+
+Juha.
+
+OKfestival coordinator / Helsinki
+
+______________________________**_________________
+OKFestival-Coord mailing list
+OKFestival-Coord at lists.okfn.**org <OKFestival-Coord at lists.okfn.org>
+http://lists.okfn.org/mailman/**listinfo/okfestival-coord<http://lists.okfn.org/mailman/listinfo/okfestival-coord>
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120621/d48122e3/attachment.htm>
+
+From Tom_Roche at pobox.com  Fri Jun 22 18:56:28 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Fri, 22 Jun 2012 13:56:28 -0400
+Subject: [open-science] DOIs, datahub, figshare
+Message-ID: <87k3yzfcxf.fsf@pobox.com>
+
+
+Just wanted to ensure I correctly understand how DOIs are handled by
+figshare and the DataHub. IIUC,
+
+1 figshare generates DOIs for uploaded datasets, per
+
+http://figshare.com/blog/All%20research%20outputs%20should%20be%20citable/32
+
+2 datahub allows appending external DOIs to a dataset's metadata, per
+
+http://blog.okfn.org/2012/06/19/ckan-science/
+
+  but does not create DOIs for the user.
+
+Is that correct?
+
+
+From jenny.molloy at okfn.org  Sun Jun 24 21:40:39 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 24 Jun 2012 21:40:39 +0100
+Subject: [open-science] Reminder: Open Science Hackday: 7 Jul, London
+Message-ID: <CABPM+wr0L8_euQETvK8MVyEM8kJ-e_EL-egum7L2d5gyTUd9Og@mail.gmail.com>
+
+Hi All
+
+Just a reminder that the next Open Science hackday will be taking place in
+a couple of weeks and it would be great to see some of you in person or
+online! Please sign up as soon as you can for numbers and so we can see
+what interesting projects people are interested in working on.
+
+When: Saturday 7 July 2012, 1000-1700 UTC+1
+Where: Centre for Creative Collaboration (
+http://www.creativecollaboration.org.uk/ ), London
+OR
+OKFN IRC channel (#okfn on irc.oftc.net and full details of how to connect
+(including via a web browser) can be found at: http://okfn.org/contact/)
+
+Sign up: http://okfnpad.org/sciencewg-hackday-jul7
+
+Our last outing to the Barbican saw a small but dedicated group working on
+projects as diverse as services for open access policies, extracting
+phylogenetic tree information from PDFs, storing crowdsourced data in CKAN
+and more. This time we're going to be bigger and better with a dedicated
+space which will hopefully be filled by YOU.
+
+If you'd like to come along, please add yourself to the Etherpad
+http://okfnpad.org/sciencewg-hackday-jul7 and if you have a specific idea
+you'd like to work on, add that too and you'll have a couple of minutes at
+the start of the hackday to tell everyone about it so we can link you up
+with people who'd like to help.
+
+You don't need to have an idea for anything to work on or even any coding
+skills to join, there are plenty of opportunities to get stuck in with
+other people's projects and many non-technical tasks, especially if you
+like writing or design.
+
+If you have any questions don't hesitate to ask and I look forward to
+seeing many of you on 7 July!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120624/7780a201/attachment.htm>
+
+From rufus.pollock at okfn.org  Mon Jun 25 08:22:05 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Mon, 25 Jun 2012 08:22:05 +0100
+Subject: [open-science] DOIs, datahub, figshare
+In-Reply-To: <87k3yzfcxf.fsf@pobox.com>
+References: <87k3yzfcxf.fsf@pobox.com>
+Message-ID: <CAEvtuKo0w60Zt4fgzUFN0PQSRYqV_VsssCLjDeU6Dz1VCyoRzg@mail.gmail.com>
+
+On 22 June 2012 18:56, Tom Roche <Tom_Roche at pobox.com> wrote:
+>
+> Just wanted to ensure I correctly understand how DOIs are handled by
+> figshare and the DataHub. IIUC,
+>
+> 1 figshare generates DOIs for uploaded datasets, per
+>
+> http://figshare.com/blog/All%20research%20outputs%20should%20be%20citable/32
+>
+> 2 datahub allows appending external DOIs to a dataset's metadata, per
+>
+> http://blog.okfn.org/2012/06/19/ckan-science/
+>
+> ?but does not create DOIs for the user.
+
+That's correct at the present. The DataHub is in negotiation with a
+DataCite DOI provider for several months to be able to supply DOIs but
+the process has been a little slow as the DataHub does not fit it
+seems with the normal experience of "repositories".
+
+Regards,
+
+Rufus
+
+
+From laura.newman at okfn.org  Mon Jun 25 16:32:49 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Mon, 25 Jun 2012 16:32:49 +0100
+Subject: [open-science] Call for Papers - Open Data Academic Research at
+	OKFest
+Message-ID: <CAMQ+bMaDGOm9OO0_s4RhMjFMeVXKY2fA0x4wTURWyrfOo7fpEQ@mail.gmail.com>
+
+[Apologies for cross-posting]. Sent on behalf of Ramine Tinati. Please do
+circulate!
+
+***Call for Papers: Open Data Academic Research at OKFest***
+
+The Open Data research session will focus on the impact of Open Data
+research within the academic environment. The session will bring together
+the latest research concerning Open Data and Open Government Data, forming
+an interdisciplinary mix of short presentations followed by a discussion
+panel.
+
+The panel will be 2 hours long, and invites submissions from a broad range
+of disciplines. See below for potential topic ideas.
+
+The aim of the workshop is to publish the accepted papers and outcomes in a
+relevant journal/proceedings - more information to follow.
+*
+## Submissions*
+Submissions should consist of a 2 page extended abstract of a position
+paper of current research. Accepted authors will require to produce a 4-6
+page paper and 15 minute presentation to be given at the workshop.
+
+Please send submissions to: academictrack.okfest at gmail.com
+Submission Deadline: *20th July*
+Accepted Papers to be selected by *3rd August
+
+## Possible Topics*
+? *Mapping the movement: *What histories can illuminate current open data
+practice? How should we understand the idea of an open data movement? What
+can research tell us about the future directions a movement might take?
+? *Open data impacts*: What impact is open data having in different fields?
+What methods can be used to trace the impacts of open data?
+? *Open data internationally*: What impact is open data having in different
+countries? How is open data supporting transparency as well as
+participatory engagement?
+?* Open data and democracy*: How is open data being used to support
+democratic engagement, or impacting upon the democratic sphere?
+? *Open data as a tool for research*: Exploring how open data can be used
+in research, and tools for open data-driven research.
+
+If you have any questions, please contact: academictrack.okfest at gmail.com
+
+Kind regards,
+Laura
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120625/c6894dbd/attachment.htm>
+
+From ross.mounce at gmail.com  Fri Jun 29 20:16:47 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 29 Jun 2012 12:16:47 -0700
+Subject: [open-science] A soundcast of my talk about the Open Knowledge
+	Foundation
+Message-ID: <CAJr+OEzLdkWBPYzhXDUPCDmD=7rDvd88uZb=4sgLyDk=apU6cg@mail.gmail.com>
+
+Dear all,
+
+I gave a talk at a palaeontology conference in Cambridge recently; May 24th 2012
+introducing the Open Knowledge Foundation to young academics.
+
+I was thinking this recording might be of interest and/or use for
+further outreach.
+
+The audio recording of this is now available to listen to on the
+internet via SoundCloud.
+
+Huge credit to the organisers (http://www.palaeocast.com/) who
+recorded it with such clarity.
+
+
+The audio here is:
+http://progpal2012.tumblr.com/post/26077977142/ross-mounce-the-open-knowledge-foundation-the
+and corresponding Prezi slides here:
+http://prezi.com/w0d29prhs-nd/the-open-knowledge-foundation/
+(almost entirely recycling/repurposing slides from Rufus Pollock &
+Simone Aliprandi, with attribution and links given)
+
+
+Comments / feedback very welcome - this was my first time introducing
+the OKF to a new audience.
+
+
+Best,
+
+Ross (in California atm)
+
+
+--
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath,?4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+
+From pm286 at cam.ac.uk  Fri Jun 29 21:27:09 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 29 Jun 2012 21:27:09 +0100
+Subject: [open-science] A soundcast of my talk about the Open Knowledge
+	Foundation
+In-Reply-To: <CAJr+OEzLdkWBPYzhXDUPCDmD=7rDvd88uZb=4sgLyDk=apU6cg@mail.gmail.com>
+References: <CAJr+OEzLdkWBPYzhXDUPCDmD=7rDvd88uZb=4sgLyDk=apU6cg@mail.gmail.com>
+Message-ID: <CAD2k14Pah38_oq1RucETGebc3v_79HOiKcT27ZHqFoT8GH1j_g@mail.gmail.com>
+
+great - well done
+
+On Fri, Jun 29, 2012 at 8:16 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> Dear all,
+>
+> I gave a talk at a palaeontology conference in Cambridge recently; May
+> 24th 2012
+> introducing the Open Knowledge Foundation to young academics.
+>
+> I was thinking this recording might be of interest and/or use for
+> further outreach.
+>
+> The audio recording of this is now available to listen to on the
+> internet via SoundCloud.
+>
+> Huge credit to the organisers (http://www.palaeocast.com/) who
+> recorded it with such clarity.
+>
+>
+> The audio here is:
+>
+> http://progpal2012.tumblr.com/post/26077977142/ross-mounce-the-open-knowledge-foundation-the
+> and corresponding Prezi slides here:
+> http://prezi.com/w0d29prhs-nd/the-open-knowledge-foundation/
+> (almost entirely recycling/repurposing slides from Rufus Pollock &
+> Simone Aliprandi, with attribution and links given)
+>
+>
+> Comments / feedback very welcome - this was my first time introducing
+> the OKF to a new audience.
+>
+>
+> Best,
+>
+> Ross (in California atm)
+>
+>
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120629/32f0cdda/attachment.htm>
+

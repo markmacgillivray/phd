@@ -1,0 +1,245 @@
+From adrian.pohl at okfn.org  Mon Jan  6 09:58:56 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 6 Jan 2014 10:58:56 +0100
+Subject: [open-bibliography] Adapting the Panton/openbiblio principles
+	regarding new version of CC licenses
+Message-ID: <CAOtd05GD+koQJovj7xO+X=ccNT7av8wRCASUeVdAU8OzWiLJJg@mail.gmail.com>
+
+Hello,
+
+as you probably know Creative Commons released version 4.0 of its
+license suite in November 2013. One significant change was that the
+licenses were made suitable for licensing data in the EU. Like Timothy
+Vollmer put it on the OKFN blog:
+
+
+- The version 4.0 of CC licenses makes all CC licenses suitable for
+licensing data, including the EU
+- Currently it reads in the openbiblio principles (as well as in the
+Panton Principles): "Creative Commons licenses (apart from CC0), GFDL,
+GPL, BSD, etc. are NOT  appropriate for data and their use is STRONGLY
+discouraged."
+- The linked list with OKD-compliant licenses for content and data
+already reflects the changes that came with the 4.0 version of CC
+licenses, see http://opendefinition.org/licenses/#Data . Thus, the
+easiest and probably most sensible option would to just delete this
+sentence. (This would also make it easier to adapt the translations
+
+From adrian.pohl at okfn.org  Mon Jan  6 10:05:16 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 6 Jan 2014 11:05:16 +0100
+Subject: [open-bibliography] Adapting the Panton/openbiblio principles
+ regarding new version of CC licenses
+In-Reply-To: <CAOtd05GD+koQJovj7xO+X=ccNT7av8wRCASUeVdAU8OzWiLJJg@mail.gmail.com>
+References: <CAOtd05GD+koQJovj7xO+X=ccNT7av8wRCASUeVdAU8OzWiLJJg@mail.gmail.com>
+Message-ID: <CAOtd05Hx4CAjVzvcTMHQRN+a0rkzpEGL4=av18XYoc_SaN828A@mail.gmail.com>
+
+Hello,
+
+my excuses for accidently sending a draft mail to the list. Here now a
+less "drafty" version.
+
+As you probably know Creative Commons released version 4.0 of its
+license suite in November 2013. One significant change was that the
+licenses were made suitable for licensing data in the EU. Like Timothy
+Vollmer put it on the OKFN blog:
+
+"Probably the most significant improvement is the expansion in license
+scope to include sui generis database rights?those copyright-like
+rights that exist in Europe and a few other countries which are
+granted to those who exert some effort into compiling a database. The
+4.0 licenses (of course, those aligned with the Open Definition) are
+now better suited for use by governments and publishers of public
+sector information and open data." [1]
+
+Following this change, a change to the Principles of Open
+Bibliographic Data as well as to the Panton Principles on which the
+openbiblio principles build is necessary. Currently it reads in the
+openbiblio principles (as well as in the
+Panton Principles): "Creative Commons licenses (apart from CC0), GFDL,
+GPL, BSD, etc. are NOT  appropriate for data and their use is STRONGLY
+discouraged."
+
+As the linked list with OKD-compliant licenses for content and data
+[2] already reflects the changes that came with the 4.0 version of CC
+licenses the easiest and probably most sensible option would to just
+delete the above
+sentence. (This would also make it easier to adapt the translations.)
+
+All the best
+Adrian
+
+[1] http://blog.okfn.org/2013/11/28/creative-commons-version-4-0-released/
+
+[2] http://opendefinition.org/licenses/#Data
+
+
+On 6 January 2014 10:58, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> as you probably know Creative Commons released version 4.0 of its
+> license suite in November 2013. One significant change was that the
+> licenses were made suitable for licensing data in the EU. Like Timothy
+> Vollmer put it on the OKFN blog:
+>
+>
+> - The version 4.0 of CC licenses makes all CC licenses suitable for
+> licensing data, including the EU
+> - Currently it reads in the openbiblio principles (as well as in the
+> Panton Principles): "Creative Commons licenses (apart from CC0), GFDL,
+> GPL, BSD, etc. are NOT  appropriate for data and their use is STRONGLY
+> discouraged."
+> - The linked list with OKD-compliant licenses for content and data
+> already reflects the changes that came with the 4.0 version of CC
+> licenses, see http://opendefinition.org/licenses/#Data . Thus, the
+> easiest and probably most sensible option would to just delete this
+> sentence. (This would also make it easier to adapt the translations
+
+From adrian.pohl at okfn.org  Mon Jan  6 13:29:49 2014
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 6 Jan 2014 14:29:49 +0100
+Subject: [open-bibliography] Virtual meeting tomorrow (2014-01-07, 16:00 GMT)
+Message-ID: <CAOtd05FK9M5nc0FuRdQvM6ZQxVOYa+Wy-k221oTmFA3FbJFsmA@mail.gmail.com>
+
+Hello,
+
+tomorrow will be the next virtual meeting of the Open Bibliographic
+Data group. See the provisional agenda at
+http://pad.okfn.org/p/36th-open-bibliography-meeting .
+
+As usual, feel free to add agenda points you'd like to discuss tomorrow.
+
+All the best
+Adrian
+
+From announce at dublincore.net  Tue Jan  7 13:18:18 2014
+From: announce at dublincore.net (DCMI Announce)
+Date: Tue, 7 Jan 2014 05:18:18 -0800
+Subject: [open-bibliography] CfP DC-2014, Austin, Texas
+Message-ID: <CAP884Ex639THYkM2tonBwWLheKkbRWNyzOLDEJKpNJDx5FU8Tg@mail.gmail.com>
+
+[image: Inline image 1]
+
+*Metadata Intersections: Bridging the Archipelago of Cultural Memory*
+
+DC-2014 International Conference and Annual Meeting of DCMI
+8-11 October 2014
+AT&T Executive Education and Conference Center
+   The University of Texas at Austin
+
+*Call for Participation: http://purl.org/dcevents/dc-2014/cfp
+<http://purl.org/dcevents/dc-2014/cfp>*
+
+*Researchers, practicing professionals and students* with broad interests
+in principled metadata design and best practices have gathered annually
+since 1995 under the DCMI banner to exchange ideas, to discover important
+common ground, and to work on shared problems. As one of the first broadly
+inclusive efforts at crowdsourcing expertise on the Web, the DCMI community
+has been a key player in the evolving information environment of the Web of
+documents and data.
+
+*DC-2014 CONFERENCE THEME:*
+Metadata is fundamental in enabling ubiquitous access to cultural and
+scientific resources through galleries, libraries, archives and museums
+(GLAM). While fundamental, GLAM traditions in documentation and
+organization lead to significant differences in both their languages of
+description and domain practices. And yet, the push is on for "radically
+open cultural heritage data" that bridges these differences as well as
+those across the humanities and the sciences. DC-2014 will explore the role
+of metadata in spanning the archipelago of siloed cultural memory in an
+emerging context of linked access to data repositories as well as
+repositories of cultural artifacts.
+
+*BEYOND THE THEME:*
+Submissions of papers, reports, and posters are welcome in all areas of
+innovative metadata design and best practices.
+
+*IMPORTANT DATES:*
+*Peer-Reviewed Papers, Project Reports & Posters:*
+? Submission Deadline: 3 April 2014
+? Author Notification: 12 July 2014
+? Final Copy: 16 August 2014
+
+*Special & Panel Sessions, Workshops:*
+? Submission Deadline: 3 April 2014
+? Author Notification: 1 June 2014
+
+*Best Practice Posters & Demonstrations*
+? Submission Deadline: 2 June 2014
+? Author Notification: 30 June 2014
+
+(All deadlines: Midnight, Pacific Standard Time)
+
+*Program Committee Chairs:*
+
+? William Moen, *School of Library and Information Sciences, University of
+North Texas, United States*
+? Amy Rushing, *University of Texas at San Antonio, United States*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140107/2206ceaa/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: dc2014-logo-email.png
+Type: image/png
+Size: 10821 bytes
+Desc: not available
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140107/2206ceaa/attachment.png>
+
+From announce at dublincore.net  Sun Jan 19 02:46:28 2014
+From: announce at dublincore.net (DCMI Announce)
+Date: Sat, 18 Jan 2014 18:46:28 -0800
+Subject: [open-bibliography] Call for speakers (deadline March 20): Taxonomy
+ Boot Camp 2014, Washington DC, November 4-5
+Message-ID: <CAP884ExsjFSDGqtYScTshDc5xP9ZHpypY+6VfUbVnG2aa=+p_g@mail.gmail.com>
+
+*** Apologies for cross-posting ***
+
+?????????????????????????
+*10th annual Taxonomy Boot Camp*
+November 4-5 as part of KMWorld
+Washington, DC
+*Website:* http://www.taxonomybootcamp.com/2014/
+*Call for Speakers:*
+http://www.taxonomybootcamp.com/2014/CallForSpeakers.asp
+*Deadline:* March 20, 2014
+?????????????????????????
+
+The 10th annual Taxonomy Boot Camp will be held again in Washington DC from
+November 4-5 as part of KMWorld.  The call for speakers is now open,
+deadline for proposals is March 20.  Proposals for individual sessions,
+panels and workshops are all welcome, covering any aspect of
+taxonomy/ontology/vocabulary design, management, integration and use.  See
+full details at http://www.taxonomybootcamp.com/2014/, or submit your
+proposal online at http://www.taxonomybootcamp.com/2014/CallForSpeakers.aspx
+.
+
+Taxonomy Boot Camp brings together practitioners and experts in taxonomy,
+vendors who have created tools to help manage your taxonomies, and novices
+who are starting out in the world of information management.  Two parallel
+tracks on the first day provide those new to the field with the nuts and
+bolts they need to get up to speed, and expert practitioners with insights
+into how other professionals have made their organizations more successful
+through better use of taxonomies.  On the second day of the Boot Camp,
+everyone shares in case studies, practical sessions on taxonomy tools and
+their use, and cutting edge developments in the field.  Don't miss this
+unique opportunity to learn about tools and techniques you can use to bring
+your information clouds together, and meet the people who can help you be
+successful in your efforts.
+
+
+Michael Crandall, Conference Chair
+Senior Lecturer and Director, iAffiliates Program
+  and Chair, Dublin Core Metadata Initiative (DCMI)
+The Information School
+Box 352840
+University of Washington
+Seattle, WA 98105-2840
+(206) 897-1798
+mikecran at uw.edu
+http://ischool.uw.edu/people/faculty/mikecran
+http://ischool.uw.edu/iaffiliates
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.okfn.org/pipermail/open-bibliography/attachments/20140118/60195bbb/attachment.html>
+

@@ -1,0 +1,647 @@
+From jonathan.gray at okfn.org  Mon Sep 21 19:46:08 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 21 Sep 2009 20:46:08 +0200
+Subject: [open-science] Fwd: [sc-announce] "CC0 endorsed in Nature opinion
+	piece" - Science Commons blog
+In-Reply-To: <1cf7ce7f0909091409p67ce4f19wb5aad27b4f3112e9@mail.gmail.com>
+References: <1cf7ce7f0909091409p67ce4f19wb5aad27b4f3112e9@mail.gmail.com>
+Message-ID: <54ca21750909211146x3c53d022g96d24a1c102abfb2@mail.gmail.com>
+
+This is fantastic news:
+
+  http://sciencecommons.org/?p=1161
+
+Also the Nature special on data sharing might be of interest on this list:
+
+  http://www.nature.com/news/specials/datasharing/index.html
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+
+---------- Forwarded message ----------
+From: Kaitlin Thaney <kaitlin at creativecommons.org>
+Date: Wed, Sep 9, 2009 at 11:09 PM
+Subject: [sc-announce] "CC0 endorsed in Nature opinion piece" -
+Science Commons blog
+To: sc-announce at lists.ibiblio.org
+
+
+CC0 endorsed in Nature opinion piece
+
+September 9th, 2009 by Kaitlin Thaney
+
+A new opinion piece in Nature on post-publication sharing of tools
+explicitly recommends open sharing and the use of CC0 to put data in
+the public domain. The special issue of Nature focuses on data sharing
+and is now online and accessible free of charge.
+
+The piece ?Post-publication sharing of data and tools? comes out of
+this year?s CASIMIR conference in Rome, and discusses the sharing of
+biological materials, specifically but not limited to mice and
+embryonic stem cells.
+
+As you may recall, we initially wrote about this meeting back in June,
+following the publication of a similar opinion piece calling for
+better and more efficient sharing practices for physical materials.
+That article also stemmed from this meeting in Rome.
+
+This opinion piece takes those ideas one step further in the
+discussion to a formal recommendation for open sharing under the least
+restrictive terms possible.
+
+?[T]he Rome meeting strongly encouraged sharing behaviours that
+promote a ?research commons?. The heart of a research commons is one
+in which academic research is not impeded by restrictions on use and
+access to data and materials, in line with the principles of the
+Creative Commons.?
+
+The piece is chock-full of stellar recommendations that Science
+Commons supports, from better and more explicit resource sharing
+policies at journals and funding bodies, to the use of standard MTAs,
+to making data open and putting it in the public domain using CC0, our
+public domain waiver.
+
+?Although it is usual practice for major public databases to make data
+freely available to access and use, any restrictions on use should be
+strongly resisted and we endorse explicit encouragement of open
+sharing, for example under the newly available CC0 public domain
+waiver of Creative Commons.?
+
+We highly encourage a deeper read of the article for more tips on how
+to share resources more efficiently, as well as giving this article a
+read for more on pre-publication data sharing.
+
+--------------------------------------
+Kaitlin Thaney
+Program Manager
+Science Commons, a project of Creative Commons
+http://sciencecommons.org
+http://creativecommons.org
+kaitlin at creativecommons.org
+--------------------------------------
+
+
+_______________________________________________
+sc-announce mailing list
+sc-announce at lists.ibiblio.org
+http://lists.ibiblio.org/mailman/listinfo/sc-announce
+
+
+From gavin at gavinbaker.com  Tue Sep 22 19:17:11 2009
+From: gavin at gavinbaker.com (Gavin Baker)
+Date: Tue, 22 Sep 2009 14:17:11 -0400
+Subject: [open-science] Finding data on funded research
+Message-ID: <4AB914A7.3030604@gavinbaker.com>
+
+This is outside my expertise, so I thought I'd ask here:
+
+How easy is it to find information on funded research projects (e.g. by
+research agencies and foundations)?
+
+It seems to me that taxpayers (or foundations' donors) have a right to
+easily find out what research they're funding, from award through
+research outputs. This also seems like useful information for other
+researchers, especially prior to publication -- e.g. to minimize
+duplication, facilitate potential collaboration, etc.
+
+How good -- or how bad -- is current transparency in this area? What
+could be improved? What (if any) are the obstacles to openness?
+
+I'm reminded of the issue because of recent announcements by two U.S.
+research funders of new tools to search their grants:
+
+http://www.earlham.edu/~peters/fos/2009/09/new-transparency-tool-on-nih-funded.html
+http://www.earlham.edu/~peters/fos/2009/09/new-database-of-neh-funded-projects.html
+
+But I have little context about how novel these tools are or their
+strengths/weaknesses. What do you think?
+
+-- 
+Gavin Baker
+http://www.gavinbaker.com/
+gavin at gavinbaker.com
+
+You gotta give 'em hope.
+    Harvey Milk
+
+
+From fnorman at nimr.mrc.ac.uk  Wed Sep 23 10:25:05 2009
+From: fnorman at nimr.mrc.ac.uk (Frank Norman)
+Date: Wed, 23 Sep 2009 10:25:05 +0100
+Subject: [open-science] Finding data on funded research
+In-Reply-To: <4AB914A7.3030604@gavinbaker.com>
+References: <4AB914A7.3030604@gavinbaker.com>
+Message-ID: <200909230926.n8N9Qs0a014486@ns3.local.nimr>
+
+Gavin -
+
+There are various resources, but it is not a totally open area. 
+
+One subscription product is the Community of Science funded research database. Their help page has a bit of info, but you need a username/password to access the database itself.
+http://fundedresearch.cos.com/helpdocs/userguide.shtml
+
+In the UK there is the NIHR Clinical Research Network Portfolio:
+http://www.ukcrn.org.uk/index/clinical/portfolio_new.html
+
+MRC has its portfolio online:
+http://www.mrc.ac.uk/ResearchPortfolio/index.htm
+
+as do other UK Research Councils, e.g.:
+http://gow.epsrc.ac.uk/
+http://www.bbsrc.ac.uk/science/grants/index.html
+http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/AdvancedSearchPage1.aspx
+
+There are also various clinical trial registries, e.g.
+http://clinicaltrials.gov/
+
+Frank Norman
+NIMR
+At 19:17 22/09/2009, Gavin Baker wrote:
+>This is outside my expertise, so I thought I'd ask here:
+>
+>How easy is it to find information on funded research projects (e.g. by
+>research agencies and foundations)?
+>
+>It seems to me that taxpayers (or foundations' donors) have a right to
+>easily find out what research they're funding, from award through
+>research outputs. This also seems like useful information for other
+>researchers, especially prior to publication -- e.g. to minimize
+>duplication, facilitate potential collaboration, etc.
+>
+>How good -- or how bad -- is current transparency in this area? What
+>could be improved? What (if any) are the obstacles to openness?
+>
+>I'm reminded of the issue because of recent announcements by two U.S.
+>research funders of new tools to search their grants:
+>
+>http://www.earlham.edu/~peters/fos/2009/09/new-transparency-tool-on-nih-funded.html
+>http://www.earlham.edu/~peters/fos/2009/09/new-database-of-neh-funded-projects.html
+>
+>But I have little context about how novel these tools are or their
+>strengths/weaknesses. What do you think?
+>
+>-- 
+>Gavin Baker
+>http://www.gavinbaker.com/
+>gavin at gavinbaker.com
+>
+>You gotta give 'em hope.
+>    Harvey Milk
+>
+>_______________________________________________
+>open-science mailing list
+>open-science at lists.okfn.org
+>http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+Frank Norman
+Librarian, MRC National Institute for Medical Research
+The Ridgeway, Mill Hill, London NW7 1AA,  UK
+tel 020 8816 2227   fax 020 8816 2230   email fnorman at nimr.mrc.ac.uk  
+
+
+
+From stuart.macdonald at ed.ac.uk  Wed Sep 23 10:42:20 2009
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Wed, 23 Sep 2009 10:42:20 +0100
+Subject: [open-science] Finding data on funded research
+In-Reply-To: <200909230926.n8N9Qs0a014486@ns3.local.nimr>
+References: <4AB914A7.3030604@gavinbaker.com>
+	<200909230926.n8N9Qs0a014486@ns3.local.nimr>
+Message-ID: <4AB9ED7C.6020303@ed.ac.uk>
+
+Gavin - also have a look at ResearchResearch.com - 
+http://www.researchresearch.com/#tab$about$ (registration req'd)
+
+regards
+Stuart Macdonald
+EDINA
+
+Frank Norman wrote:
+> Gavin -
+>
+> There are various resources, but it is not a totally open area. 
+>
+> One subscription product is the Community of Science funded research database. Their help page has a bit of info, but you need a username/password to access the database itself.
+> http://fundedresearch.cos.com/helpdocs/userguide.shtml
+>
+> In the UK there is the NIHR Clinical Research Network Portfolio:
+> http://www.ukcrn.org.uk/index/clinical/portfolio_new.html
+>
+> MRC has its portfolio online:
+> http://www.mrc.ac.uk/ResearchPortfolio/index.htm
+>
+> as do other UK Research Councils, e.g.:
+> http://gow.epsrc.ac.uk/
+> http://www.bbsrc.ac.uk/science/grants/index.html
+> http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/AdvancedSearchPage1.aspx
+>
+> There are also various clinical trial registries, e.g.
+> http://clinicaltrials.gov/
+>
+> Frank Norman
+> NIMR
+> At 19:17 22/09/2009, Gavin Baker wrote:
+>   
+>> This is outside my expertise, so I thought I'd ask here:
+>>
+>> How easy is it to find information on funded research projects (e.g. by
+>> research agencies and foundations)?
+>>
+>> It seems to me that taxpayers (or foundations' donors) have a right to
+>> easily find out what research they're funding, from award through
+>> research outputs. This also seems like useful information for other
+>> researchers, especially prior to publication -- e.g. to minimize
+>> duplication, facilitate potential collaboration, etc.
+>>
+>> How good -- or how bad -- is current transparency in this area? What
+>> could be improved? What (if any) are the obstacles to openness?
+>>
+>> I'm reminded of the issue because of recent announcements by two U.S.
+>> research funders of new tools to search their grants:
+>>
+>> http://www.earlham.edu/~peters/fos/2009/09/new-transparency-tool-on-nih-funded.html
+>> http://www.earlham.edu/~peters/fos/2009/09/new-database-of-neh-funded-projects.html
+>>
+>> But I have little context about how novel these tools are or their
+>> strengths/weaknesses. What do you think?
+>>
+>> -- 
+>> Gavin Baker
+>> http://www.gavinbaker.com/
+>> gavin at gavinbaker.com
+>>
+>> You gotta give 'em hope.
+>>    Harvey Milk
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>>     
+>
+> Frank Norman
+> Librarian, MRC National Institute for Medical Research
+> The Ridgeway, Mill Hill, London NW7 1AA,  UK
+> tel 020 8816 2227   fax 020 8816 2230   email fnorman at nimr.mrc.ac.uk  
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+>
+>   
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+From cameron.neylon at stfc.ac.uk  Wed Sep 23 07:48:21 2009
+From: cameron.neylon at stfc.ac.uk (Cameron Neylon)
+Date: Wed, 23 Sep 2009 07:48:21 +0100
+Subject: [open-science] FW:  Finding data on funded research
+In-Reply-To: <4AB914A7.3030604@gavinbaker.com>
+Message-ID: <C6DF8345.7A46%cameron.neylon@stfc.ac.uk>
+
+In the UK (and I think in the US as well) most funders will publish an
+abstract of funded research proposals. Often this is the abstract referred
+to as a "public understanding" or similar rather than the detailed
+scientific abstract. The exact milestones or intended outcomes are never
+published. 
+
+This actually came up in a recent US case where there were two examples of
+someone trying to get information on funded grant applications via an FOI
+request. In one case the intent was (allegedly) slightly dodgy but in the
+other it was to provide information on a range of funded proposals for a
+research project.
+
+Absolutely agree with the attitude you're expressing here but this would be
+fought tooth and nail by the vast majority of academic researchers.
+
+When it comes to outcomes the situation is slightly better in the UK because
+we are supposed to submit papers to UKPMC and to link those to funded
+grants. How much this happens in practice is anyone's guess - finger in the
+wind I would guess around 5% compliance - which is what was seen in the US
+when the NIH requested submission to PMC. When Wellcome/Nature offer to do
+the leg work that rises to about 40% but I'm not sure how much metadata
+about grants that gets tied to.
+
+So overall - very little information on this is actually made public. My
+opinion is that we are sleep walking into a public relations disaster with
+this.
+
+Cheers
+
+Cameron
+
+------ Forwarded Message
+From: Gavin Baker <gavin at gavinbaker.com>
+Date: Tue, 22 Sep 2009 14:17:11 -0400
+To: open-science <open-science at lists.okfn.org>
+Subject: [open-science] Finding data on funded research
+
+This is outside my expertise, so I thought I'd ask here:
+
+How easy is it to find information on funded research projects (e.g. by
+research agencies and foundations)?
+
+It seems to me that taxpayers (or foundations' donors) have a right to
+easily find out what research they're funding, from award through
+research outputs. This also seems like useful information for other
+researchers, especially prior to publication -- e.g. to minimize
+duplication, facilitate potential collaboration, etc.
+
+How good -- or how bad -- is current transparency in this area? What
+could be improved? What (if any) are the obstacles to openness?
+
+I'm reminded of the issue because of recent announcements by two U.S.
+research funders of new tools to search their grants:
+
+http://www.earlham.edu/~peters/fos/2009/09/new-transparency-tool-on-nih-fund
+ed.html
+http://www.earlham.edu/~peters/fos/2009/09/new-database-of-neh-funded-projec
+ts.html
+
+But I have little context about how novel these tools are or their
+strengths/weaknesses. What do you think?
+
+-- 
+Gavin Baker
+http://www.gavinbaker.com/
+gavin at gavinbaker.com
+
+You gotta give 'em hope.
+    Harvey Milk
+
+_______________________________________________
+open-science mailing list
+open-science at lists.okfn.org
+http://lists.okfn.org/cgi-bin/mailman/listinfo/open-science
+
+------ End of Forwarded Message
+
+-- 
+Scanned by iCritical.
+
+
+From jonathan.gray at okfn.org  Wed Sep 30 11:39:22 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 30 Sep 2009 12:39:22 +0200
+Subject: [open-science] Fwd: Data curation event at Oxford
+In-Reply-To: <20090930081800.1495858001@webmail217.herald.ox.ac.uk>
+References: <20090930081800.1495858001@webmail217.herald.ox.ac.uk>
+Message-ID: <54ca21750909300339y266ae8edra14d88289d94aeb6@mail.gmail.com>
+
+This might be of interest for those near Oxford!
+
+Jonathan
+
+
+---------- Forwarded message ----------
+From: Luis Martinez-Uribe <luis.martinez-uribe at oerc.ox.ac.uk>
+Date: Wed, Sep 30, 2009 at 10:17 AM
+Subject: Data curation event at Oxford
+To: RESEARCH-DATAMAN at jiscmail.ac.uk
+
+
+Dear colleagues,
+
+The following half-day data curation event at Oxford may be of interest to some
+of you:
+
+DATA CURATION WORKSHOP: FROM LAB TO REUSE
+
+Date: 14 October, starting at 1030 and finishing with lunch at 1300.
+
+Location: Rewley House, 1 Wellington Square, Oxford OX1 2JA
+
+Further information: <http://eidcsr.oucs.ox.ac.uk/workshop.xml>
+
+Description
+
+This workshop is organized as part of the dissemination activities of
+the JISC-funded EIDCSR Project<http://eidcsr.oucs.ox.ac.uk>. The aim of
+the workshop is to hear about proven practice in selected data
+management areas identified as challenging for researchers through the
+EIDCSR audit and requirements analysis exercise,
+<http://eidcsr.blogspot.com/2009/09/data-audit-and-requirements-analysis.html>.
+
+
+Whilst the EIDCSR Project is addressing the requirements of researchers
+working within medical and life sciences, the event is likely to be of
+interest to those working in, or supporting, other disciplinary areas.
+
+The expected audience includes researchers who generate data in labs and
+computing simulations and staff from service units with an interest in
+research data management and curation issues.
+
+Outcomes
+
+Participants in the workshop will have the opportunity to learn about,
+and contribute to discussion of, the different approaches to the
+ensuring the flow of data between laboratory and in silico
+experimentation. In particular, the workshop will discuss:
+
+? ?* methods for the capture, storage and reuse of metadata in the
+laboratory;
+? ?* lifecycles integrating wet lab and in silico experimental data;
+? ?* for delivery and visualisation of large-scale data.
+
+Programme
+
+Speakers include:
+
+* Alan Garny, Oxford Department of Physiology Anatomy and Genetics -
+Alan will discuss his research group data management workflow and
+challenges.
+
+* Brian Brooks, Unilever Cambridge Centre for Molecular Informatics -
+Brian will talk about their Chemical Laboratory Repository In/Organic
+Notebooks (CLARION) Project.
+
+* Angus White, Digital Curation Centre - Angus will share the
+experiences from the DCC SCARP Project on data management best practice.
+
+* Aaron Griffiths, Research Information Network - Aaron will present the
+findings from the RIN disciplinary case studies in life sciences
+
+* Chris Goodyer, School of Computing - University of Leeds will describe the
+work to develop a 3D visualization of MRI data and the potential to use this
+experience to access the raw data by navigating the 3D model.
+
+Booking
+
+To book a place please email ?eidcsr at oucs.ox.ac.uk
+<mailto:eidcsr at oucs.ox.ac.uk?subject=data%20curation%20event%20booking>
+
+Best wishes,
+
+Luis Martinez-Uribe
+EIDCSR Project Manager and Analyst
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From tom.moritz at gmail.com  Thu Sep 24 18:50:56 2009
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Thu, 24 Sep 2009 17:50:56 -0000
+Subject: [open-science] Fwd: Invitation to NAS Symposium on Scientific Data
+	for Evidence Based Policy and Decision Making
+In-Reply-To: <e74b7bec0909221011p43d588edn50a8f202a0194b42@mail.gmail.com>
+References: <03276D743D8CFA44B3A14928D51222A207E9F60F@ENA200.nrc.na.int> 
+	<e74b7bec0909221011p43d588edn50a8f202a0194b42@mail.gmail.com>
+Message-ID: <e74b7bec0909241050g64868cb8i48235c84e4989c62@mail.gmail.com>
+
+*Sent:* 09/09/2009 4:56 PM**
+
+*Subject:* Invitation to NAS Symposium on Scientific Data for Evidence Based
+Policy and Decision Making
+
+Dear Colleagues,
+
+Below is an invitation to a high-level symposium organized by the National
+Academies' Board on Research Data and Information on a topic of priority
+concern to the Obama Administration and to the scientific community more
+generally. The meeting is open to the public and you are welcome to attend.
+You also are encouraged to forward this invitation to others who you think
+may be interested. Any questions may be directed to the Board's
+Communications Officer, Cheryl Levey, at clevey at nas.edu or at 301-473-1482.
+
+We hope to see you at the event!
+
+Regards,
+
+Paul Uhlir
+
+*Paul F. **Uhlir, J.D.*
+
+Director, NRC Board on Research Data and Information
+
+The National Academies, Keck-511
+
+500 Fifth Street NW
+
+Washington, DC 20001
+
+USA
+
+Tel. + 1 202 334 1531
+
+Fax + 1 202 334 2231
+
+Email: puhlir at nas.edu
+
+Web: http://www.national-academies.org/brdi
+
+
+
+
+
+  INVITATION
+
+
+*SCIENTIFIC DATA FOR EVIDENCE BASED
+POLICY AND DECISION MAKING**
+**A PUBLIC SYMPOSIUM
+Sponsored by the
+Board on Research Data and Information (http://www.nas.edu/brdi) *
+
+*Thursday, September 24, 2009, 3:30-6:00 p.m.*
+
+*National** Academy** of Sciences Auditorium***
+
+* *
+
+*Symposium Description:*
+
+One of the stated priorities of the Obama Administration is to promote
+transparency and openness in governance, including in the dissemination and
+use of scientific data and information, and the use of factual scientific
+information in the formation of government policy and official decisions. As
+the President emphasized in his speech at the National Academy of Sciences
+annual meeting on April 27, it is important to ?ensure that federal policies
+are based on the best and most unbiased scientific information.?
+
+The National Academies Board on Research Data and Information (
+http://www.nas.edu/brdi) will hold a public symposium on ?Scientific Data
+for Evidence Based Policy and Decision Making? on the afternoon of Thursday,
+September 24, 2009 to provide a more detailed understanding of the policies
+and programs of the current Administration that support this policy
+priority. This symposium will feature presentations by high-level
+Administration officials on:
+
+   - the use of scientific data in federal regulations and policymaking,
+   - new mechanisms for public access to federal data, and
+   - examples of high-value applications of scientific data for drug
+   approval and for environmental policy and decision making.
+
+
+
+These presentations will be followed by a panel discussion of the invited
+speakers and several Board members, and will provide an opportunity for
+interaction with the audience.
+
+*Speakers:*
+*John Holdren,* Director, Office of Science and Technology Policy, Executive
+Office of the President (invited)
+*Vivek Kundra, *Chief Information Officer, Office of Management and Budget,
+Executive Office of the President
+*Janet Woodcock, *Director of the Center for Drug Evaluation and Research,
+Food and Drug Administration
+*Peter Preuss, *Director of the National Center for Environmental
+Assessment, Environmental Protection Agency
+
+*Panel Discussion (of Invited Speakers and Board Members):
+**Michael Lesk*, Board Chair and Professor, School of Communication,
+Information and Library Studies, Rutgers University
+*Bonnie Carroll*, President, Information International Associates
+*Michael Nelson*, Visiting Professor, Internet Studies, Georgetown
+University
+*Donald Steinwachs*, Professor and Director, Health Services Research and
+Development Center,
+Johns Hopkins University Bloomberg School of Health
+
+*National** Academy** of Sciences Auditorium, 2100 C Street NW, Washington,
+DC*
+
+*Thursday, September 24, 2009, 3:30 PM - 6:00 PM*
+
+
+The symposium is free and open to the public.
+Reception immediately follows in the Academy?s Great Hall.
+
+
+*RSVP to Cheryl Levey at clevey at nas.edu.*
+
+*For additional information, visit
+http://sites.nationalacademies.org/PGA/brdi/PGA_052920 *
+
+*or contact Paul Uhlir, the Board Director, at puhlir at nas.edu or
+202-334-1531.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://lists.okfn.org/pipermail/open-science/attachments/20090924/64b098f2/attachment-0001.htm 
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 17152 bytes
+Desc: not available
+Url : http://lists.okfn.org/pipermail/open-science/attachments/20090924/64b098f2/attachment-0001.jpeg 
+

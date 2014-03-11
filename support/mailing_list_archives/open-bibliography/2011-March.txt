@@ -1,0 +1,4180 @@
+From adrian.pohl at okfn.org  Tue Mar  1 13:33:23 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Tue, 1 Mar 2011 14:33:23 +0100
+Subject: [open-bibliography] Virtual meeting today
+Message-ID: <AANLkTinu4xCMuxdHtfz_xscd64Sorw0cQor9-1G7Y9aY@mail.gmail.com>
+
+Hello,
+
+today at 16:00 GMT will be the working group's next virtual meeting.
+Everybody is invited to attend and contribute.
+
+I set up an etherpad with agenda points:
+http://okfnpad.org/9th-open-bibliography-meeting
+
+"See" you
+Adrian
+
+
+From pm286 at cam.ac.uk  Tue Mar  1 16:10:34 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 1 Mar 2011 16:10:34 +0000
+Subject: [open-bibliography] Virtual meeting today
+In-Reply-To: <AANLkTinu4xCMuxdHtfz_xscd64Sorw0cQor9-1G7Y9aY@mail.gmail.com>
+References: <AANLkTinu4xCMuxdHtfz_xscd64Sorw0cQor9-1G7Y9aY@mail.gmail.com>
+Message-ID: <AANLkTimpEb7rw22G_mjBnKnZyBb-VpW8w7uSdNDLdnCW@mail.gmail.com>
+
+On Tue, Mar 1, 2011 at 1:33 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> today at 16:00 GMT will be the working group's next virtual meeting.
+> Everybody is invited to attend and contribute.
+>
+
+Sorry I can't be with you... I will try to watch the Etherpad
+
+
+>
+> I set up an etherpad with agenda points:
+> http://okfnpad.org/9th-open-bibliography-meeting
+>
+> "See" you
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110301/aa68b063/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Mar  1 18:37:07 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 1 Mar 2011 19:37:07 +0100
+Subject: [open-bibliography] TIB 'open data' is under a NC license?
+Message-ID: <AANLkTikhbRhqoketwh55QajhNd4HOC50pDU9b9yWaa-7@mail.gmail.com>
+
+Hi all,
+
+Peter Murray-Rust just pointed out to me that the data released by TIB
+in Germany is under a non-commercial license - meaning it technically
+isn't really open data [1]. ;-)
+
+http://www.tib-hannover.de/en/the-tib/opendata/
+http://www.tib-hannover.de/fileadmin/dokumentlieferung/openaccess/TIB-OA-2011-01-17-engl.pdf
+
+Does anyone know who was responsible for licensing the data? Is it
+worth getting in touch with them about this?
+
+All the best,
+
+Jonathan
+
+[1] cf. http://www.opendefinition.org/ and http://openbiblio.net/principles/
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From mathias.schindler at gmail.com  Tue Mar  1 19:49:36 2011
+From: mathias.schindler at gmail.com (Mathias Schindler)
+Date: Tue, 1 Mar 2011 20:49:36 +0100
+Subject: [open-bibliography] TIB 'open data' is under a NC license?
+In-Reply-To: <AANLkTikhbRhqoketwh55QajhNd4HOC50pDU9b9yWaa-7@mail.gmail.com>
+References: <AANLkTikhbRhqoketwh55QajhNd4HOC50pDU9b9yWaa-7@mail.gmail.com>
+Message-ID: <AANLkTin45dZ_o5Q+Nf3z_uPCUVO=d-FQ6od-8WFxt9S_@mail.gmail.com>
+
+On Tue, Mar 1, 2011 at 19:37, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+
+> Does anyone know who was responsible for licensing the data? Is it
+> worth getting in touch with them about this?
+
+I contacted them a week ago and asked for a copy of the data under CC0
+or CC-by-sa. The Deputy Director replied and asked for the use case,
+which I explained (wikipedia, yadda yadda, free). She said that she
+wants to reply the week after the CeBIT exhibition in Hannover.
+
+Mathias
+
+
+From pitman at stat.Berkeley.EDU  Wed Mar  2 07:09:59 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Tue, 01 Mar 2011 23:09:59 -0800
+Subject: [open-bibliography] Cambridge Open METAadata
+In-Reply-To: <AANLkTimpEb7rw22G_mjBnKnZyBb-VpW8w7uSdNDLdnCW@mail.gmail.com>
+References: <AANLkTinu4xCMuxdHtfz_xscd64Sorw0cQor9-1G7Y9aY@mail.gmail.com>
+	<AANLkTimpEb7rw22G_mjBnKnZyBb-VpW8w7uSdNDLdnCW@mail.gmail.com>
+Message-ID: <20110302070959.4425180C8@bibserver.Berkeley.EDU>
+
+Adrian, this looks like something to flag on the Open Biblio site:
+
+http://cul-comet.blogspot.com/
+
+See also newsfeed reproduced below.
+
+>A  project board, comprising of representatives of Cambridge University Library and the
+>University of Cambridge Centre for Applied Research in Educational Technologies will take  responsibility for overseeing the project:
+>Patricia Killiard, Head of Electronic Services and Systems, Cambridge University Library
+>Hugh Taylor, Head of Collection Development and Description, Cambridge University Library
+>John Norman, Director, Centre for Applied Research in Educational Technologies, University of Cambridge 
+
+Peter, do you know these people?
+Would be nice to see further engagement with OKFN.
+
+--Jim
+
+----------------
+
+
+From pm286 at cam.ac.uk  Wed Mar  2 09:18:36 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 2 Mar 2011 09:18:36 +0000
+Subject: [open-bibliography] Cambridge Open METAadata
+In-Reply-To: <20110302070959.4425180C8@bibserver.Berkeley.EDU>
+References: <AANLkTinu4xCMuxdHtfz_xscd64Sorw0cQor9-1G7Y9aY@mail.gmail.com>
+	<AANLkTimpEb7rw22G_mjBnKnZyBb-VpW8w7uSdNDLdnCW@mail.gmail.com>
+	<20110302070959.4425180C8@bibserver.Berkeley.EDU>
+Message-ID: <AANLkTi=iqScLWPwxy0BQAKUzGrTCHNHOkYn9QVFCD4yj@mail.gmail.com>
+
+This looks very promising - they specifically cite the Open Bibliographic
+Principles so we - and particularly Adrian - can feel very pleased.
+
+On Wed, Mar 2, 2011 at 7:09 AM, Jim Pitman <pitman at stat.berkeley.edu> wrote:
+
+> Adrian, this looks like something to flag on the Open Biblio site:
+>
+> http://cul-comet.blogspot.com/
+>
+> See also newsfeed reproduced below.
+>
+> >A  project board, comprising of representatives of Cambridge University
+> Library and the
+> >University of Cambridge Centre for Applied Research in Educational
+> Technologies will take  responsibility for overseeing the project:
+> >Patricia Killiard, Head of Electronic Services and Systems, Cambridge
+> University Library
+> >Hugh Taylor, Head of Collection Development and Description, Cambridge
+> University Library
+> >John Norman, Director, Centre for Applied Research in Educational
+> Technologies, University of Cambridge
+>
+> Peter, do you know these people?
+> Would be nice to see further engagement with OKFN.
+>
+
+We are already engaged in the JISCOpenbib project.
+
+I hope this will spread virally to other libraries.
+
+P.
+
+
+>
+> --Jim
+>
+> ----------------
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110302/5fbe3d11/attachment.htm>
+
+From mf.kubke at gmail.com  Wed Mar  2 10:28:01 2011
+From: mf.kubke at gmail.com (Fabiana Kubke)
+Date: Wed, 2 Mar 2011 23:28:01 +1300
+Subject: [open-bibliography] Fwd: Open Bibliographies and copyright of
+	abstracts
+In-Reply-To: <AANLkTimk=ksxGcyq3Zd6pdB=VkMSFzQ+jtG7Y6OciJxD@mail.gmail.com>
+References: <AANLkTimk=ksxGcyq3Zd6pdB=VkMSFzQ+jtG7Y6OciJxD@mail.gmail.com>
+Message-ID: <AANLkTik0YpKyDBpnBx2tfofDZ-=TWSvs9iuXn4+Lo7mP@mail.gmail.com>
+
+Hi,
+
+As per an earlier conversation regarding copyright issues with abstracts, I
+spoke to a New Zealand lawyer about the copyright act of NZ and how it
+allows copying and distributing abstracts. The goal was to see whether there
+would be a benefit in housing the Open Bib data to take advantage of that
+copyright exemption.
+
+He agrees that this is the case, and that my interpretation of the article
+in the copyright law was correct.
+
+However, there are limitations:
+
+When for example copying an abstract online in New Zealand one needs to
+comply not only with NZ copyright law but also with the copyright law of the
+country in which the abstract was originally published (that is the
+journal's country). If country A allows to copy/distribute abstracts, then
+publishing it on a new zealand server is ok. If country B does not permit
+the distribution/copy of the abstract then it cannot be  posted online in
+NZ.
+
+However there would be one advantage of putting the open bibliography on NZ
+jurisdiction rather than UK jurisdiction. For the case of a journal
+published in country B (that does not allow for copy/distribution) the
+abstract could not be posted in neither UK or a NZ site. However, for a
+journal published in country A (that allows copy/distribution under their
+copyright law), the journal would still be able to request the UK crown to
+apply for the restriction clause in the UK copyright act preventing the
+abstracts from being posted in the UK. Since NZ copyright law does not have
+a provision similar to that of the UK, then the only way that a journal from
+country A would be able to prevent the abstract from being published in NZ
+would be by changing their country's copyright law.
+
+Posted in New Zealand means on a server in NZ and a .nz domain. If this is
+something that would be considered I could bring it up to the Creative
+Commons Aotearoa New Zealand and ask whether they would be able to host the
+data. I was also told that there would have to be an 'administrator of the
+site' and other legalities that would have to be considered but not worth
+trying to get my head around that unless this option is seriously
+considered.
+
+I hope this makes some sense. If not, would be happy to try to clarify.
+
+Creative Commons New Zealand Aotearoa will meet on Friday (your thursday),
+but of course, it can always be brought up at a later time.
+
+Cheers
+Fabiana
+-- 
+M Fabiana Kubke
+
+Department of Anatomy | University of Auckland | New Zealand
+(+64) 9 373-7599 Ext 86002 | (+64)9 923 6002 (direct) | Mobile: (+64) 210
+437 121
+
+Skype: superfabs | http://twitter.com/Kubke | http://identi.ca/kubke |
+http://buildingblogsofscience.wordpress.com |
+http://sciblogs.co.nz/building-blogs-of-science |
+http://popscinz.wordpress.com | http://talkingteaching.wordpress.com
+
+
+
+-- 
+M Fabiana Kubke
+
+Department of Anatomy | University of Auckland | New Zealand
+(+64) 9 373-7599 Ext 86002 | (+64)9 923 6002 (direct) | Mobile: (+64) 210
+437 121
+
+Skype: superfabs | http://twitter.com/Kubke | http://identi.ca/kubke |
+http://buildingblogsofscience.wordpress.com |
+http://sciblogs.co.nz/building-blogs-of-science |
+http://popscinz.wordpress.com | http://talkingteaching.wordpress.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110302/2ab3dadb/attachment-0001.htm>
+
+From emc59 at cam.ac.uk  Wed Mar  2 12:24:00 2011
+From: emc59 at cam.ac.uk (Edmund Chamberlain)
+Date: Wed, 02 Mar 2011 12:24:00 +0000
+Subject: [open-bibliography] Cambridge Open METAadata
+In-Reply-To: <mailman.7609.1299061687.30689.open-bibliography@lists.okfn.org>
+References: <mailman.7609.1299061687.30689.open-bibliography@lists.okfn.org>
+Message-ID: <4D6E36E0.6000005@cam.ac.uk>
+
+I'm project manager on the COMET project and work at the UL in 
+Cambridge. I've had some initial contact with Rufus but this looks like 
+a good time to stop lurking here and say hello!
+
+Content and licensing for the project output is still being finalised, 
+but where possible, we intend to follow suit on JISCOpenbib and use 
+PDDL. A key part of the project will be exploring the options available 
+for a library when this is not yet feasible and use this to raise 
+awareness of the issues related to data ownership.
+
+We are also looking at the ordf/open-biblio suite, so my colleagues will 
+be posting on the dev-list as well.
+
+Best
+
+Ed Chamberlain
+
+On 02/03/2011 10:28, open-bibliography-request at lists.okfn.org wrote:
+> [open-bibliography] Cambridge Open METAadata
+
+-- 
+Edmund Chamberlain
+Systems Development Librarian	
+Electronic Services and Systems
+Cambridge University Library
+West Road,
+Cambridge
+CB3 9DR
+
+tel: (+44) 01223 747437
+fax: (+44) 01223 333160
+
+email: emc59 at cam.ac.uk
+
+Try LibrarySearch at http://search.lib.cam.ac.uk - a new way to discover 
+Cambridge Library Collections
+
+
+From dan.sheppard at caret.cam.ac.uk  Wed Mar  2 12:05:52 2011
+From: dan.sheppard at caret.cam.ac.uk (Dan Sheppard)
+Date: Wed, 02 Mar 2011 12:05:52 +0000
+Subject: [open-bibliography] COMET
+Message-ID: <4D6E32A0.1060407@caret.cam.ac.uk>
+
+Dear all,
+
+I'm involved with the CUL COMET project in a dev capacity.
+
+We've spoken to Rufus and are examining OKFN openbiblio at the moment 
+for MARC import (just setting up a box right now) as well as addressing 
+issues like IPR-cleanness etc of our data, structuring URL space, and 
+tinkering with the structure of any string values to make them maximally 
+compatible.
+
+We already have one migration into RDF (via SIMILE's MARC->MODES->RDF 
+pipeline, which was only a 10 line perl script and a couple of XSLTs 
+which they supplied), but think we can do better, hence the focus on 
+openbiblio, particularly in terms of being compatible in vocabularies 
+with the rest of the open library world.
+
+The project lead is Ed Chamberlain, who's very approachable, so if 
+anyone's interested do drop him a line.
+
+We hope to shamelessly adopt as much existing practice as possible.
+
+I'm not on this list myself (your mail came to me via a circuitous 
+route), but I do hang out on openbilbio-dev.
+
+Dan.
+
+
+From pm286 at cam.ac.uk  Wed Mar  2 12:44:23 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 2 Mar 2011 12:44:23 +0000
+Subject: [open-bibliography] Cambridge Open METAadata
+In-Reply-To: <4D6E36E0.6000005@cam.ac.uk>
+References: <mailman.7609.1299061687.30689.open-bibliography@lists.okfn.org>
+	<4D6E36E0.6000005@cam.ac.uk>
+Message-ID: <AANLkTim-yY7XGMYCkeW=N9E69bbwTmgQR4R=+phR+tFU@mail.gmail.com>
+
+On Wed, Mar 2, 2011 at 12:24 PM, Edmund Chamberlain <emc59 at cam.ac.uk> wrote:
+
+> I'm project manager on the COMET project and work at the UL in Cambridge.
+> I've had some initial contact with Rufus but this looks like a good time to
+> stop lurking here and say hello!
+>
+> Greetings Ed,
+It was really great to see this announcement. I hope that where Cambridge
+leads the world will follow. I know that after the release of the principles
+there was a slight feeling of anticlimax - a natural lag time. This is a
+really rapid practical response.
+
+
+> Content and licensing for the project output is still being finalised, but
+> where possible, we intend to follow suit on JISCOpenbib and use PDDL. A key
+> part of the project will be exploring the options available for a library
+> when this is not yet feasible and use this to raise awareness of the issues
+> related to data ownership.
+>
+>
+We realise this is complex. This is not a binary logic - yesYouCan,
+noYouCant, but also includes murk and mumble. Differential management of
+content (Open, notSure, Closed) is hard. I probably can't help in detail but
+you have my moral support.
+
+We are also looking at the ordf/open-biblio suite, so my colleagues will be
+> posting on the dev-list as well.
+>
+> P
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110302/da06c06d/attachment.htm>
+
+From adrian.pohl at okfn.org  Wed Mar  2 13:40:31 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 2 Mar 2011 14:40:31 +0100
+Subject: [open-bibliography] Minutes for the 9th meeting / Contributions to
+	openbiblio.net
+Message-ID: <AANLkTinZu94Q=ZKfMXftZyRt5CAFAU1TsG4BpnNp9VbU@mail.gmail.com>
+
+Hello,
+
+I posted the minutes of yesterday's meeting to openbiblio.net, see
+http://openbiblio.net/2011/03/02/minutes-9th-virtual-meeting-of-the-okfn-openbiblio-group/
+
+I also want to make clear that anybody being active - practically or
+theoretically - in the open bibliographic data realm is invited to
+post on openbiblio.net.
+
+So, if you want to share your thoughts on open bibliographic data, run
+a project that involves opening up bibliographic data or do a
+presentation about open bibliographic data post about it at
+openbiblio.net.
+
+Also, we are happy to add more open bibliographic data projects to
+http://openbiblio.net/p/. I just added lobid.org and COMET. I think we
+should definitely add the open bibliographic data guide
+(http://obd.jisc.ac.uk/) somewhere too. In the project list? Or
+somewhere else?
+
+Cheers
+Adrian
+
+
+From jonathan.gray at okfn.org  Wed Mar  2 13:53:55 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 2 Mar 2011 14:53:55 +0100
+Subject: [open-bibliography] Minutes for the 9th meeting / Contributions
+ to openbiblio.net
+In-Reply-To: <AANLkTinZu94Q=ZKfMXftZyRt5CAFAU1TsG4BpnNp9VbU@mail.gmail.com>
+References: <AANLkTinZu94Q=ZKfMXftZyRt5CAFAU1TsG4BpnNp9VbU@mail.gmail.com>
+Message-ID: <AANLkTi=q2ftmUzL5EOp5LWQEuz+EPs9djwmhSBi8BoB0@mail.gmail.com>
+
+Excellent - thanks Adrian!
+
+I was also wondering recently whether openbiblio.net should aim to
+offer people an introduction to open bibliographic data as well as
+giving info on what this working group and others are up to in this
+area. Would it be worth having some info on this on the main landing
+page and moving the blog to openbiblio.net/blog?
+
+Also I wonder whether in the medium term we want something like a very
+short film explaining what open bibliographic data is and why it
+matters, aimed at librarians, possible users of the data, and the
+general public. What do you think?
+
+All the best,
+
+Jonathan
+
+On Wed, Mar 2, 2011 at 2:40 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> I posted the minutes of yesterday's meeting to openbiblio.net, see
+> http://openbiblio.net/2011/03/02/minutes-9th-virtual-meeting-of-the-okfn-openbiblio-group/
+>
+> I also want to make clear that anybody being active - practically or
+> theoretically - in the open bibliographic data realm is invited to
+> post on openbiblio.net.
+>
+> So, if you want to share your thoughts on open bibliographic data, run
+> a project that involves opening up bibliographic data or do a
+> presentation about open bibliographic data post about it at
+> openbiblio.net.
+>
+> Also, we are happy to add more open bibliographic data projects to
+> http://openbiblio.net/p/. I just added lobid.org and COMET. I think we
+> should definitely add the open bibliographic data guide
+> (http://obd.jisc.ac.uk/) somewhere too. In the project list? Or
+> somewhere else?
+>
+> Cheers
+> Adrian
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From ww at styx.org  Wed Mar  2 15:09:37 2011
+From: ww at styx.org (William Waites)
+Date: Wed, 2 Mar 2011 16:09:37 +0100
+Subject: [open-bibliography] FW: Reflections from Dan re: reception and
+	message of RDF
+Message-ID: <20110302150937.GJ51897@styx.org>
+
+----- Forwarded message from Thomas Baker <tbaker at tbaker.de> -----
+
+Date: Mon, 28 Feb 2011 22:19:52 -0500
+From: Thomas Baker <tbaker at tbaker.de>
+Subject: Reflections from Dan re: reception and message of RDF
+To: public-xg-lld <public-xg-lld at w3.org>
+Message-ID: <20110301031951.GA5180 at octavius>
+User-Agent: Mutt/1.4.2.2i
+
+Dear all,
+
+In our report, we should consider Dan's eloquent
+reflections on the reception of RDF (below).
+
+For example: "If you're used to XML or SQL schema structures,
+the schema designer is typically (not necessarily) in a much
+more authoritative role. With RDFS we stripped a lot of power
+away from schema designers: they can't tell you what to do
+any more! There's no "a shipping order *must* have an address"
+mechanism in RDFS/OWL"...
+
+Tom
+
+
+On Mon, Feb 28, 2011 at 03:13:16PM -0500, Thomas Baker wrote:
+> From:         Thomas Baker <tbaker at TBAKER.DE>
+> Subject: DanBri about the RDF "message"
+> To:           DC-ARCHITECTURE at JISCMAIL.AC.UK
+> 
+> Dear all,
+> 
+> I'd like to share some insightful comments from Dan Brickley
+> about what has made the Semantic Web message more difficult
+> to convey than some of us had expected.
+> 
+> As the comments were made on a closed list, I have with Dan's
+> permission removed the context from the excerpts below.
+> 
+> Tom
+> 
+> 
+> Dan was asked why it has taken since 1998 to get the world to
+> understand what can be achieved with URIs and 3-tuple data
+> representations.  Dan's reply:
+> 
+>     Part of our problem, I fear is that we have collectively tended to
+>     approach the situation with an essentially evangelical style.
+> 
+>     Time and again, this has got smart people interested and intrigued,
+>     and so they go try out some RDF tools.
+> 
+>     Very often this is a frustrating experience. And there are good
+>     technical reasons why working with RDF (* or any other '3-tuple based
+>     Structured Data Representation' *) will often be frustrating. The
+>     3-tuple approach thrives in chaotic situations where data flows
+>     around, with bits missing, bits added, extensions and gaps everywhere.
+>     This kind of data is intrinsically rather annoying to deal with. There
+>     are workaround and strategies (details on request :) but that
+>     frustration is inevitably core to the experience, because it is a set
+>     of problems the RDF data model was designed to engage with.
+> 
+>     So http://www.w3.org/DesignIssues/LinkedData.html marked a turning
+>     point when TimBL took FOAF's RDF linking model, improved it by
+>     demanding URIs everywhere  (rather than our earlier bNodes and
+>     seeAlsos), and inspired mass publication of RDF data. Until we had
+>     data, few were RDF-curious. Now we have data, we can disappoint more
+>     curious new people per month than ever before. Or on a good day, make
+>     them happy.
+> 
+>     The Semantic Web project has delivered several four specific things to
+>     the world so far: data, tools, community and standards.
+> 
+>     Because it grew from a standards organization, the tendency has been
+>     to focus on the standards, and what they do to improve the world - the
+>     3-tuple model as seen in RDF, and the specs that build on top of it
+>     (SPARQL, RDFS/OWL etc.).
+> 
+>     Now standards are great, but they're pretty distant from solving
+>     day-to-day problems. And there are good reasons to believe that
+>     3-tuple data structures will typically be annoying to use, as well as
+>     useful. They only really shine when multiple parties are using them in
+>     complementary ways, so that data can be usefully mixed and merged and
+>     extended and overlaid and so forth.
+> 
+>     So getting those big public, link-friendly datasets out there was a
+>     foundation for RDFy 3-tuple data becoming more useful than it was
+>     annoying. But it's still annoying for developers, trust me! Having
+>     solid standards with test cases (the RDFCore 2004 revision of RDF) was
+>     a good step forward, but still standards alone are not enough. The
+>     missing ingredients are tooling and community. Both of which we have,
+>     both of which we can always benefit from more/better. So communities
+>     like the RDF/SW interest group at W3C, like Lotico, like the LOD group
+>     which bridged W3C's scene with the outside world, these help new
+>     adopters make the most of the 3-tuple model. I've seen quite a few
+>     efforts burned by mis-applying RDF in contexts where it just wasn't
+>     important or useful to use it. That's natural with a newish
+>     technology. And I've seen smart developers frustrated by the lack of
+>     documentation, polish and guidance around our tooling. But the growing
+>     suite of RDF-oriented tools can't be ignored, and that's a key part of
+>     the technology's appeal.
+> 
+>     We have data, now, and that's enough to attract people. But as seen in
+>     discussions around eg. data.gov.uk, many mainstream developers see
+>     RDF, SPARQL and 3-tuples and associated tools as a hurdle or barrier
+>     that stands between them and data. In a way, they're right. We have
+>     all these standards and tools as a means to an end (sharing
+>     information, the Web's founding slogan
+>     http://www.w3.org/Illustrations/LetsShare.ai.gif "Let's share what we
+>     know"). RDF is not an end in itself.
+> 
+>     So imho the message should not be "we've found the best technical
+>     model for sharing data on a global scale - URI-linked 3-tuples!", but
+>     rather, that we have a global community committed to sharing data,
+>     tools, standards and their own experience and time in pursuit of
+>     solving problems through information linking. This doesn't mean that
+>     all tools need be opensource, nor all data public, but that there are
+>     common architectural principles giving coherence to all this data, all
+>     those tools...
+> 
+>     All the time we frame this as "RDF is 'easier/better' than
+>     [wonder-technology X]" we will lose. It's not. And nor is any vaguer
+>     notion of "3-tuples with URI" [...].  What we have here in
+>     the Semantic Web effort that is unique is a special combination of
+>     data, tooling, standards and community that simply can't be found
+>     anywhere else...
+> 
+> And to a follow-up question on the exactly what problems people
+> and developers have with 3-tuples, or what they would rather have
+> in their place...:
+> 
+>     I think it's not so much the 'what they get back' (API/format/model),
+>     but the whole framework of how we structure our data.
+> 
+>     If you're used to XML or SQL schema structures, the schema designer is
+>     typically (not necessarily) in a much more authoritative role. With
+>     RDFS we stripped a lot of power away from schema designers: they can't
+>     tell you what to do any more! There's no "a shipping order *must* have
+>     an address" mechanism in RDFS/OWL. For e.g., as editor of the FOAF
+>     vocab's RDFS I can never say anything in an imperative style in the
+>     schema, all I can do is define the meaning of the classes and
+>     properties in the FOAF namespace. Same for the Dublin Core team, for
+>     SIOC, etc. This permissiveness encourages re-use in lots of different
+>     ways.
+> 
+>     This is simultaneously critical for scaling to the Web, but also, as I
+>     say, annoying to be on the receiving end of. For developers trained in
+>     the idea that schemas tell you what is or is not an acceptable
+>     instance, RDF is strangely passive. The only formal way of screwing up
+>     in RDF is contradicting yourself. Someone could publish a FOAF-based
+>     RDF/XML document that was simply a collection of triples using
+>     'foaf:homepage'. Even with bNodes on either side of the property. Or
+>     someone else might publish a bunch of <foaf:Image about="uri"
+>     dc:title="...."/> triples. The FOAF vocabulary faciliates this, and
+>     that is useful, but it also means that knowing the vocabulary is not
+>     itself enough for interop. You only get interop when a bunch of folk
+>     do things in roughly the same way; using the same triple patterns.
+>     There's a whole layer to do with characterising more specific triple
+>     patterns, 'idioms', that is essentially missing from our collective
+>     practice. There have been experiments in various directions towards
+>     characterising such patterns (eg. using SPARQL, see Schemarama...) but
+>     as a community we seem to act as if schemas are all that's needed.
+> 
+>     As Ed Dumbill put it (http://times.usefulinc.com/#13:13 via
+>     http://danbri.org/words/page/27?sioc_type=user&sioc_id=22 )
+> 
+>     "Processing RDF is therefore a matter of poking around in this graph.
+>     Once a program has read in some RDF, it has a ball of spaghetti on its
+>     hands. You may like to think of RDF in the same way as a hashtable
+>     data structure -- you can stick whatever you want in there, in whatever
+>     order you want."
+> 
+>     This loose nature is the key at once to our success and to our
+>     problems. The analogy is with developers who are used to nice (if a
+>     little brittle/rigid) OO models are not always happy replacing
+>     everything with a chaotic hashtable. At least not unless we have a
+>     good set of unit tests. And what we're missing, by analogy, is just
+>     that. Nobody knows when they've been passed a 'good' RDF graph, versus
+>     one so uninformative, or expressed in such alien terminology, that it
+>     can't be used for the task at hand. So some of the essential ideas
+>     from non-RDF development just don't really make sense when using
+>     unconstrained triples. That leads to headaches, frustrations etc.
+
+-- 
+Thomas Baker <tbaker at tbaker.de>
+
+
+
+----- End forwarded message -----
+
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From kcoyle at kcoyle.net  Wed Mar  2 19:29:11 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 02 Mar 2011 11:29:11 -0800
+Subject: [open-bibliography] Minutes for the 9th meeting / Contributions
+ to openbiblio.net
+In-Reply-To: <AANLkTi=q2ftmUzL5EOp5LWQEuz+EPs9djwmhSBi8BoB0@mail.gmail.com>
+References: <AANLkTinZu94Q=ZKfMXftZyRt5CAFAU1TsG4BpnNp9VbU@mail.gmail.com>
+	<AANLkTi=q2ftmUzL5EOp5LWQEuz+EPs9djwmhSBi8BoB0@mail.gmail.com>
+Message-ID: <20110302112911.16482l62g4v33kp3@kcoyle.net>
+
+It would be great to have some educational materials. A HUGE amount of  
+education needs to be done, iin particular to explain the benefits of  
+OpenBib. The W3C LLD group will be addressing some of that as an  
+issue, but not coming up with solutions.
+
+The short video done by Freebase on linking
+   http://wiki.freebase.com/wiki/What_is_Freebase%3F
+is excellent. But I admit I don't have the talent...
+
+kc
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+
+> Excellent - thanks Adrian!
+>
+> I was also wondering recently whether openbiblio.net should aim to
+> offer people an introduction to open bibliographic data as well as
+> giving info on what this working group and others are up to in this
+> area. Would it be worth having some info on this on the main landing
+> page and moving the blog to openbiblio.net/blog?
+>
+> Also I wonder whether in the medium term we want something like a very
+> short film explaining what open bibliographic data is and why it
+> matters, aimed at librarians, possible users of the data, and the
+> general public. What do you think?
+>
+> All the best,
+>
+> Jonathan
+>
+> On Wed, Mar 2, 2011 at 2:40 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>> Hello,
+>>
+>> I posted the minutes of yesterday's meeting to openbiblio.net, see
+>> http://openbiblio.net/2011/03/02/minutes-9th-virtual-meeting-of-the-okfn-openbiblio-group/
+>>
+>> I also want to make clear that anybody being active - practically or
+>> theoretically - in the open bibliographic data realm is invited to
+>> post on openbiblio.net.
+>>
+>> So, if you want to share your thoughts on open bibliographic data, run
+>> a project that involves opening up bibliographic data or do a
+>> presentation about open bibliographic data post about it at
+>> openbiblio.net.
+>>
+>> Also, we are happy to add more open bibliographic data projects to
+>> http://openbiblio.net/p/. I just added lobid.org and COMET. I think we
+>> should definitely add the open bibliographic data guide
+>> (http://obd.jisc.ac.uk/) somewhere too. In the project list? Or
+>> somewhere else?
+>>
+>> Cheers
+>> Adrian
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From mark at odaesa.com  Wed Mar  2 22:51:29 2011
+From: mark at odaesa.com (Mark MacGillivray)
+Date: Wed, 2 Mar 2011 22:51:29 +0000
+Subject: [open-bibliography] how to generate interest in open bibliography?
+Message-ID: <AANLkTi=JSGh4pNKgByy++oGqPYw7MmVJBYuRx-RDUQ8U@mail.gmail.com>
+
+Gareth Johnson (I think at Loughborough University) makes these
+youtube videos about open access research:
+
+http://www.youtube.com/watch?v=MBdM_0pfyQ8
+
+Mark
+
+
+From kcoyle at kcoyle.net  Thu Mar  3 14:28:07 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Thu, 03 Mar 2011 06:28:07 -0800
+Subject: [open-bibliography] Add date and version to principles
+Message-ID: <20110303062807.248845klc50kivsn@kcoyle.net>
+
+Librarians are so sensible :-). One wrote and suggested that our  
+principles document should have a date and possibly a version number.  
+He's right. In fact, ALL documents should have dates/versions, but for  
+sure we should add a date to the principles.
+
+Any objections?
+
+kc
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From bosteen at gmail.com  Thu Mar  3 15:56:08 2011
+From: bosteen at gmail.com (Ben O'Steen)
+Date: Thu, 03 Mar 2011 15:56:08 +0000
+Subject: [open-bibliography] [openbiblio-dev] how to generate interest
+	in open bibliography?
+In-Reply-To: <AANLkTi=JSGh4pNKgByy++oGqPYw7MmVJBYuRx-RDUQ8U@mail.gmail.com>
+References: <AANLkTi=JSGh4pNKgByy++oGqPYw7MmVJBYuRx-RDUQ8U@mail.gmail.com>
+Message-ID: <1299167768.2517.11.camel@monster>
+
+Can't open them atm, but these are the stuffed puppet ones I think :)
+
+He's @llordllama on twitter, if you are interested.
+
+Ben
+
+On Wed, 2011-03-02 at 22:51 +0000, Mark MacGillivray wrote:
+> Gareth Johnson (I think at Loughborough University) makes these
+> youtube videos about open access research:
+> 
+> http://www.youtube.com/watch?v=MBdM_0pfyQ8
+> 
+> Mark
+> 
+> _______________________________________________
+> openbiblio-dev mailing list
+> openbiblio-dev at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/openbiblio-dev
+
+
+
+
+From owen at ostephens.com  Fri Mar  4 10:31:51 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Fri, 4 Mar 2011 10:31:51 +0000
+Subject: [open-bibliography] =?windows-1252?q?Invitation_to_the_Opening_Da?=
+	=?windows-1252?q?ta_=96_Opening_Doors_Workshop=2C_Manchester=2C_18?=
+	=?windows-1252?q?th_April?=
+Message-ID: <AANLkTi=Xtz0PmeEqZ7DM1B_P42fV-jDy-SxWhS1LmSLO@mail.gmail.com>
+
+This event is going to inform how galleries, libraries, archives and museums
+across the UK (esp. the HE sector) engage with opening up their data, how
+that data is delivered, and what can be achieved with the data - I hope that
+some of you can make it
+
+
+Owen
+
+*
+*
+
+*How can we gain bigger audiences for our scholarly and cultural resources
+and enhance services for researchers, teachers and learners? *
+
+In 2010, the JISC and RLUK Resource Discovery Taskforce (RDTF), involving
+national stakeholders from libraries, archives and museums, set out a vision
+for making the most of UK scholarly and cultural resources.  JISC and their
+RDTF partners have now committed to a programme of activity to help fulfil
+the vision ? building critical mass through opening up data, exploring and
+demonstrating what open data makes possible, and actively sharing learning
+points with the wider community.
+
+*The ?Opening Data ? Opening Doors? event marks the starting point of this
+journey.  *
+
+Chaired by Professor David Baker, Deputy Chair of the JISC Board, on behalf
+of the JISC and RLUK Resource Discovery Task Force
+
+?         Hear from services that are opening up their data including what?s
+happening in the new RDTF projects that have just been commissioned
+
+?         Help to shape the messages, advice and support offered during the
+2011 programme and beyond
+
+?         Help to develop practical and engaging approaches to exploiting
+our data
+
+
+
+Venue: Malmaison Manchester, Piccadilly, Manchester, M1 1LZ
+
+Date: Monday 18th April 2011, 10.00am to 4.00pm
+
+
+
+*Who should attend?* Managers, practitioners, developers and advocates from
+libraries, archives, museums, associated publishers and interested
+organisations who want early involvement in clarifying, expanding and
+challenging the realities of exposing, sharing and exploiting the resource
+description data held by our institutions.
+
+
+
+*Register at:* <http://rdtf-opening-doors.eventbrite.com/>
+http://rdtf-opening-doors.eventbrite.com/
+
+
+
+There is already a lot happening.  To find out more download a copy of the
+first RDTF newsletter at:
+<http://rdtf.mimas.ac.uk/newsletter/rdtfnewsletter01-march2011.pdf>
+http://rdtf.mimas.ac.uk/newsletter/rdtfnewsletter01-march2011.pdf
+
+
+
+For more information on the JISC and RLUK Resource Discovery Taskforce,
+visit: <http://rdtf.mimas.ac.uk/>http://rdtf.mimas.ac.uk
+
+-- 
+Owen Stephens
+Owen Stephens Consulting
+Web: http://www.ostephens.com
+Email: owen at ostephens.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110304/4e003926/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Mar  4 10:58:42 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 4 Mar 2011 11:58:42 +0100
+Subject: [open-bibliography] Add date and version to principles
+In-Reply-To: <20110303062807.248845klc50kivsn@kcoyle.net>
+References: <20110303062807.248845klc50kivsn@kcoyle.net>
+Message-ID: <AANLkTimiZVoDDxO=Jww1NFX5+wvJ74+f8V7GmAmmdopx@mail.gmail.com>
+
++1 :-)
+
+On Thu, Mar 3, 2011 at 3:28 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> Librarians are so sensible :-). One wrote and suggested that our principles
+> document should have a date and possibly a version number. He's right. In
+> fact, ALL documents should have dates/versions, but for sure we should add a
+> date to the principles.
+>
+> Any objections?
+>
+> kc
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From adrian.pohl at okfn.org  Fri Mar  4 12:15:44 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Fri, 4 Mar 2011 13:15:44 +0100
+Subject: [open-bibliography] Add date and version to principles
+In-Reply-To: <AANLkTimiZVoDDxO=Jww1NFX5+wvJ74+f8V7GmAmmdopx@mail.gmail.com>
+References: <20110303062807.248845klc50kivsn@kcoyle.net>
+	<AANLkTimiZVoDDxO=Jww1NFX5+wvJ74+f8V7GmAmmdopx@mail.gmail.com>
+Message-ID: <AANLkTimZFAO4r7FFpd3VauwdE48v5+6_rCROa0smNFeG@mail.gmail.com>
+
+I added the publication date (January 17th, 2011 when the principles
+where officially launched) to the web page:
+http://openbiblio.net/principles/
+
+Adrian
+
+2011/3/4 Jonathan Gray <jonathan.gray at okfn.org>:
+> +1 :-)
+>
+> On Thu, Mar 3, 2011 at 3:28 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+>> Librarians are so sensible :-). One wrote and suggested that our principles
+>> document should have a date and possibly a version number. He's right. In
+>> fact, ALL documents should have dates/versions, but for sure we should add a
+>> date to the principles.
+>>
+>> Any objections?
+>>
+>> kc
+>>
+>> --
+>> Karen Coyle
+>> kcoyle at kcoyle.net http://kcoyle.net
+>> ph: 1-510-540-7596
+>> m: 1-510-435-8234
+>> skype: kcoylenet
+>>
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From mathias.schindler at gmail.com  Fri Mar  4 13:08:14 2011
+From: mathias.schindler at gmail.com (Mathias Schindler)
+Date: Fri, 4 Mar 2011 14:08:14 +0100
+Subject: [open-bibliography] University library Darmstadt releases
+	bibliographic data under CC0
+Message-ID: <AANLkTi=Bwh2C5TKLebuL9v90vrmFv+EvfgPMWbWT6nZv@mail.gmail.com>
+
+http://www.ub.uni-dortmund.de/ubblog/offene-bibliographische-daten
+
+Offene bibliographische Daten an der UB Dortmund
+Freitag, 04.03.2011 um 07:45 Uhr - 132 Aufrufe
+Die Universit?tsbibliothek Dortmund stellt ab dem 1. M?rz 2011 ihre
+bibliographischen Daten uneingeschr?nkt f?r die ?ffentlichkeit zur
+Verf?gung.
+Dies bedeutet, dass allen interessierten Personen und Institutionen
+f?r die Daten aus unserem Katalog ein Nutzungsrecht einger?umt wird.
+Unsere Katalogdaten werden damit ?gemeinfrei? [1] und k?nnen zeitlich
+und inhaltlich uneingeschr?nkt genutzt werden. Der Nutzer muss
+keinerlei Rechenschaft ?ber den Zweck der Nutzung ablegen und kann die
+Daten beliebig modifizieren. Die Daten stehen unter der Creative
+Commons Lizenz CC0 zum Download zur Verf?gung. Unser Katalog umfasst
+derzeit ca. 1,2 Millionen bibliographische Datens?tze. Die
+Datenfreigabe erfolgt in Kooperation mit dem
+Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz). Die
+bibliographischen Daten aus dem Katalog k?nnen beispielsweise dazu
+verwendet werden, Webanwendungen zu erstellen, die auf diesen Daten
+basieren.
+
+Mit der Freigabe erfolgt ein erster Schritt in Richtung Linked Open
+Data. Daten aus unterschiedlichen Quellen, zum Beispiel auch
+Katalogdaten, sollen dabei in ein Datennetz integriert werden. Dieses
+Datennetz wird auch als Semantic Web bezeichnet. Die Katalogdaten der
+UB Dortmund m?ssen erst in sogenannte web-konforme ?Linked Open Data?
+umgewandelt werden. Dies geschieht in Zusammenarbeit mit dem hbz.
+
+Der Download ist ?ber das hbz m?glich: Aktuelle Open-Data-Exporte.
+Hier finden Sie auch weitere gemeinfreie Daten zum Download.
+
+F?r Fragen und Anregungen stehen wir gerne zu Verf?gung:
+opendata at ub.tu-dortmund.de.
+
+[1] Gemeinfreiheit
+
+
+From pm286 at cam.ac.uk  Fri Mar  4 13:48:20 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 4 Mar 2011 13:48:20 +0000
+Subject: [open-bibliography] Fwd: JISC Guide - Open Bibliographic Data -
+ launch as part of 18 April Resource Discovery Task Force event
+In-Reply-To: <294AC3C4-58AF-486F-840E-1B33B5A2117B@sero.co.uk>
+References: <E4A3A3B8-138B-4506-A9BD-DCB520DA4A99@sero.co.uk>
+	<858E9A7F-D5A0-4BC6-AF20-911D0D39B7A0@sero.co.uk>
+	<DDFC7266-53D4-4849-9870-CBF71E0B0AFE@sero.co.uk>
+	<294AC3C4-58AF-486F-840E-1B33B5A2117B@sero.co.uk>
+Message-ID: <AANLkTi=tsfhtrXjKhXf6uiQgEHxtUWMsva_WjAgtMyWb@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: David Kay <david.kay at sero.co.uk>
+
+Apologies for cross-posting - A number of you will be aware of this through
+other lists
+---------------------------------------------------------------------------------------------------------------------------
+As members of the group who made contributions to the development of the
+Open Bib Data Guide in 2010, we're hoping you'll be interested in attending
+the event described below
+
+Best
+David
+On behalf of OBD Guide co-authors Paul Miller & Owen Stephens
+-----------------------------------------------------------------------------------------------
+*
+*
+*Opening Data ? Opening Doors Workshop, Manchester, 18th April*
+* *
+*How can we gain bigger audiences for our scholarly and cultural resources
+and enhance services for researchers, teachers and learners?*
+
+In 2010, the JISC and RLUK Resource Discovery Taskforce (RDTF), involving
+national stakeholders from libraries, archives and museums, set out a vision
+for making the most of UK scholarly and cultural resources.  JISC and their
+RDTF partners have now committed to a programme of activity to help fulfil
+the vision ? building critical mass through opening up data, exploring and
+demonstrating what open data makes possible, and actively sharing learning
+points with the wider community.
+*The ?Opening Data ? Opening Doors? event marks the starting point of this
+journey. *
+Chaired by Professor David Baker, Deputy Chair of the JISC Board, on behalf
+of the JISC and RLUK Resource Discovery Task Force
+
+?         Hear from services that are opening up their data including what?s
+happening in the new RDTF projects that have just been commissioned
+
+?         Help to shape the messages, advice and support offered during the
+2011 programme and beyond
+
+?         Help to develop practical and engaging approaches to exploiting
+our data
+
+Venue: Malmaison Manchester, Piccadilly, Manchester, M1 1LZ
+Date: Monday 18th April 2011, 10.00am to 4.00pm
+
+*Who should attend?* Managers, practitioners, developers and advocates from
+libraries, archives, museums, associated publishers and interested
+organisations who want early involvement in clarifying, expanding and
+challenging the realities of exposing, sharing and exploiting the resource
+description data held by our institutions.
+
+*Register at:* http://rdtf-opening-doors.eventbrite.com/
+
+There is already a lot happening.  To find out more download a copy of the
+first RDTF newsletter at:
+http://rdtf.mimas.ac.uk/newsletter/rdtfnewsletter01-march2011.pdf
+
+For more information on the JISC and RLUK Resource Discovery Taskforce,
+visit: http://rdtf.mimas.ac.uk
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110304/75e8a24e/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Mar  4 13:54:49 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 4 Mar 2011 13:54:49 +0000
+Subject: [open-bibliography] Add date and version to principles
+In-Reply-To: <AANLkTimZFAO4r7FFpd3VauwdE48v5+6_rCROa0smNFeG@mail.gmail.com>
+References: <20110303062807.248845klc50kivsn@kcoyle.net>
+	<AANLkTimiZVoDDxO=Jww1NFX5+wvJ74+f8V7GmAmmdopx@mail.gmail.com>
+	<AANLkTimZFAO4r7FFpd3VauwdE48v5+6_rCROa0smNFeG@mail.gmail.com>
+Message-ID: <AANLkTi=Ctab+aSufUx_j+0=mQSqHpgyyDrZ0A-fi=eeZ@mail.gmail.com>
+
+Are the principles on bitbucket or similar? Because if so we get automatic
+(serial) versioning and dating.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110304/f03e7b52/attachment.htm>
+
+From pitman at stat.Berkeley.EDU  Fri Mar  4 18:01:22 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Fri, 04 Mar 2011 10:01:22 -0800
+Subject: [open-bibliography] University library Darmstadt releases
+ bibliographic data under CC0
+In-Reply-To: <AANLkTi=Bwh2C5TKLebuL9v90vrmFv+EvfgPMWbWT6nZv@mail.gmail.com>
+References: <AANLkTi=Bwh2C5TKLebuL9v90vrmFv+EvfgPMWbWT6nZv@mail.gmail.com>
+Message-ID: <20110304180122.DBCD27FF8@bibserver.Berkeley.EDU>
+
+Mathias Schindler <mathias.schindler at gmail.com> wrote:
+
+> http://www.ub.uni-dortmund.de/ubblog/offene-bibliographische-daten
+
+Great to see!  Mathias or Adrian (or other volunteer), please could you could make a brief English translation of the
+appened BLOG post and send to Adrian to post as a news item in the open biblio site?
+
+Do we have a structured list of announcements like this, with dates, organizations, number of records, some description of content?
+We should have a systematic way of maintaining and displaying such a list. I'll be glad to assist with this. It is very desirable
+for each such data release for OKFN to have a  technical contact with the organization, who may be responsive to details of licensing, 
+updates and the like. I think this working group should aim to have someone who is responsible for keeping up each such  contact, and also
+someone responsible for monitoring the list of all pairs of contacts. The email list of all these pairs would be a simple and
+powerful means of maintaining a sense of community among providers of open biblio data. Such a network, if only initially a star shaped one with 
+an OKFN admin volunteer at the center, would be a significant start towards the "Bibliographic Knowledge Network" imagined  as the product of
+the NSF sponsored BKN grant effort (url below). Funding for that grant is winding down, and I would like to see the code and data assets it generated
+finding good homes. So I am proposing that the BKN name be coopted by OKFN and administered by some subset of this working group as
+a name for a network of OKFN compliant openbiblio data providers, overseen by OKFN.
+
+I will be discussing this plan further with Rufus and Jonathan next week. If you have any reactions/suggestions, please
+post to the list or to one of us privately.
+
+many thanks
+
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From adrian.pohl at okfn.org  Mon Mar  7 13:25:48 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 7 Mar 2011 14:25:48 +0100
+Subject: [open-bibliography] University library Darmstadt releases
+ bibliographic data under CC0
+In-Reply-To: <20110304180122.DBCD27FF8@bibserver.Berkeley.EDU>
+References: <AANLkTi=Bwh2C5TKLebuL9v90vrmFv+EvfgPMWbWT6nZv@mail.gmail.com>
+	<20110304180122.DBCD27FF8@bibserver.Berkeley.EDU>
+Message-ID: <AANLkTi=BPdWG+OJVg2NJvQ8H-xeaUniagLx-LiFV9vGb@mail.gmail.com>
+
+Hello Jim,
+
+2011/3/4 Jim Pitman <pitman at stat.berkeley.edu>:
+> Mathias Schindler <mathias.schindler at gmail.com> wrote:
+>
+>> http://www.ub.uni-dortmund.de/ubblog/offene-bibliographische-daten
+>
+> Great to see! ?Mathias or Adrian (or other volunteer), please could you could make a brief English translation of the
+> appened BLOG post and send to Adrian to post as a news item in the open biblio site?
+
+I'll do this later.
+
+> Do we have a structured list of announcements like this, with dates, organizations, number of records, some description of content?
+
+The open data by Dortmund (not Darmstadt) university library is
+another data release by a library from the hbz library network where I
+work. We don't collect the announcements but provide descriptions of
+the released data here:
+https://wiki1.hbz-nrw.de/display/SEM/Recently+published+Open+Data+exports
+
+> We should have a systematic way of maintaining and displaying such a list. I'll be glad to assist with this.
+
+We've already got the bibliographic data group in CKAN which already
+provides information about maintainers and could be used to gather
+more information: http://ckan.net/group/bibliographic We decided in
+the last meeting to somehow integrate it into openbiblio.net...
+
+Cheers
+Adrian
+
+> It is very desirable
+> for each such data release for OKFN to have a ?technical contact with the organization, who may be responsive to details of licensing,
+> updates and the like. I think this working group should aim to have someone who is responsible for keeping up each such ?contact, and also
+> someone responsible for monitoring the list of all pairs of contacts. The email list of all these pairs would be a simple and
+> powerful means of maintaining a sense of community among providers of open biblio data. Such a network, if only initially a star shaped one with
+> an OKFN admin volunteer at the center, would be a significant start towards the "Bibliographic Knowledge Network" imagined ?as the product of
+> the NSF sponsored BKN grant effort (url below). Funding for that grant is winding down, and I would like to see the code and data assets it generated
+> finding good homes. So I am proposing that the BKN name be coopted by OKFN and administered by some subset of this working group as
+> a name for a network of OKFN compliant openbiblio data providers, overseen by OKFN.
+>
+> I will be discussing this plan further with Rufus and Jonathan next week. If you have any reactions/suggestions, please
+> post to the list or to one of us privately.
+>
+> many thanks
+>
+> --Jim
+>
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+>
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970 ?fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From pm286 at cam.ac.uk  Mon Mar  7 14:17:12 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 7 Mar 2011 14:17:12 +0000
+Subject: [open-bibliography] Principles for Open Bibliographic Data
+In-Reply-To: <5256bce3-3b79-41de-811d-279ec0619d7f@l14g2000pre.googlegroups.com>
+References: <5256bce3-3b79-41de-811d-279ec0619d7f@l14g2000pre.googlegroups.com>
+Message-ID: <AANLkTi=vqro0i=t9p-i74Mrcn=Es8YTjfWBgGSMbcTqa@mail.gmail.com>
+
+[copied to OKF's Open Bibliographic list, where the work was inspired and
+took place] :-) What am I to say?
+
+Taking the Panton Principles for Data (http://pantonprinciples.org/) as a
+lead, Adrian Pohl got a few of us together and over the months the
+Principles for Open Bibliographic Data emerged. It's not been trivial to
+define Open Bibliography but I think we are all agreed that the core is
+Open.
+
+Moreover I have been in contact with the STM publishers (see
+http://blogs.ch.cam.ac.uk/pmr/2011/02/04/bibliographic-data-is-open/ ) and
+they have agreed that they agree with this. That gives us a useful legal
+reference if we wish to start annotating documents with Bibliography (which
+is part of what we intend to do at our upcoing BtPDF-inspired hackfest).
+
+The immediate difficulty is that there are few - if any - Open collections
+of bibliographic data (Scopus, WorldOfScience, Mendeley... are not Open). A
+collection of Open bibliographic items is not by default Open (in fact by
+default it is the copyright of the compiler). We may not like this (I don't)
+but it seems to be the law. Note that by default NO citation iformation is
+Open unless it comes from an Open Access or Open Data resource. That's a
+major barrier to modern scholarship, but that's the way it seems to be... It
+means we cannot follow citation trails without the explicit permission of
+the "owners" (a word deliberately in quotes).
+
+So in the hackfest we are going to use alternative Open collections of
+biliographic data. No, I'm not going to announce how. Maybe you should come
+to the hackfest.
+
+But we are appealing to anyone who has collections of bibliographic data to
+make them Open. Even a smallish collection can be valuable - it could be the
+definitive resource for a given area of scholarship. Typical examples could
+be reading lists or reference lists from key resources.
+
+Note of course that an Open bibliographic collection can (and unfortunately
+usually does) point to closed resources. But maybe that's better than
+nothing?
+
+On Mon, Mar 7, 2011 at 1:51 PM, Anita de Waard <a.dewaard at elsevier.com>wrote:
+
+> FYI - this seems very relevant for our discussion,
+> best,
+>
+> Anita
+>
+> blio.net/principles/endorse/ <http://openbiblio.net/principles/endorse/>
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110307/37b0dd72/attachment.htm>
+
+From i.holroyd at britac.ac.uk  Mon Mar  7 14:43:04 2011
+From: i.holroyd at britac.ac.uk (Isabel Holroyd)
+Date: Mon, 7 Mar 2011 14:43:04 +0000
+Subject: [open-bibliography] Principles for Open Bibliographic Data
+In-Reply-To: <AANLkTi=vqro0i=t9p-i74Mrcn=Es8YTjfWBgGSMbcTqa@mail.gmail.com>
+References: <5256bce3-3b79-41de-811d-279ec0619d7f@l14g2000pre.googlegroups.com>
+	<AANLkTi=vqro0i=t9p-i74Mrcn=Es8YTjfWBgGSMbcTqa@mail.gmail.com>
+Message-ID: <CB73EF01104E804DADA257E0355FBD53142F9A6159@shakespearenew.britac.ac.uk>
+
+biab online is open, though we still need to draft and upload our license statement to that effect (we are very pressed for time at present, but I can try and get this through asap if you think it would help?)
+
+http://www.biab.ac.uk
+
+
+Isabel
+
+
+
+
+Isabel M Holroyd, BA (Hons), MIFA
+Chief Bibliographer & Editor - biab online
+The British Academy
+10 Carlton House Terrace
+London  SW1Y 5AH
+
+iholroyd at biab.ac.uk
+
+telephone: +44 (0)207 969 5223
+fax (shared): +44 (0)207 969 5300
+
+biab online is a service of The Council for British Archaeology
+
+http://www.biab.ac.uk<http://www.biab.ac.uk/>
+http://www.britarch.ac.uk<http://www.britarch.ac.uk/>
+
+Diolch yn fawr
+
+Raise money for Council for British Archaeology as you search the web
+
+With Everyclick you can fundraise for Council for British Archaeology every day.
+
+HELP Council for British Archaeology TODAY - make http://www.everyclick.com/council-for-british-archaeology your homepage.
+Thank you.
+
+
+
+
+
+________________________________
+From: open-bibliography-bounces at lists.okfn.org [mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Peter Murray-Rust
+Sent: 07 March 2011 14:17
+To: beyond-the-pdf at googlegroups.com
+Cc: List for Working Group on Open Bibliographic Data; Anita de Waard
+Subject: Re: [open-bibliography] Principles for Open Bibliographic Data
+
+[copied to OKF's Open Bibliographic list, where the work was inspired and took place] :-) What am I to say?
+
+Taking the Panton Principles for Data (http://pantonprinciples.org/) as a lead, Adrian Pohl got a few of us together and over the months the Principles for Open Bibliographic Data emerged. It's not been trivial to define Open Bibliography but I think we are all agreed that the core is Open.
+
+Moreover I have been in contact with the STM publishers (see http://blogs.ch.cam.ac.uk/pmr/2011/02/04/bibliographic-data-is-open/ ) and they have agreed that they agree with this. That gives us a useful legal reference if we wish to start annotating documents with Bibliography (which is part of what we intend to do at our upcoing BtPDF-inspired hackfest).
+
+The immediate difficulty is that there are few - if any - Open collections of bibliographic data (Scopus, WorldOfScience, Mendeley... are not Open). A collection of Open bibliographic items is not by default Open (in fact by default it is the copyright of the compiler). We may not like this (I don't) but it seems to be the law. Note that by default NO citation iformation is Open unless it comes from an Open Access or Open Data resource. That's a major barrier to modern scholarship, but that's the way it seems to be... It means we cannot follow citation trails without the explicit permission of the "owners" (a word deliberately in quotes).
+
+So in the hackfest we are going to use alternative Open collections of biliographic data. No, I'm not going to announce how. Maybe you should come to the hackfest.
+
+But we are appealing to anyone who has collections of bibliographic data to make them Open. Even a smallish collection can be valuable - it could be the definitive resource for a given area of scholarship. Typical examples could be reading lists or reference lists from key resources.
+
+Note of course that an Open bibliographic collection can (and unfortunately usually does) point to closed resources. But maybe that's better than nothing?
+
+On Mon, Mar 7, 2011 at 1:51 PM, Anita de Waard <a.dewaard at elsevier.com<mailto:a.dewaard at elsevier.com>> wrote:
+FYI - this seems very relevant for our discussion,
+best,
+
+Anita
+
+blio.net/principles/endorse/<http://openbiblio.net/principles/endorse/>
+
+
+
+--
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+
+(Scanned by www.emailsystems.com)
+(Scanned by www.emailsystems.com)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110307/d43afec5/attachment.htm>
+
+From adrian.pohl at okfn.org  Mon Mar  7 20:43:20 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 7 Mar 2011 21:43:20 +0100
+Subject: [open-bibliography] Using IsItOpenData to get information about
+	licensing policies
+Message-ID: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+
+Hello,
+
+I just published a post on openbiblio.net about using IsItOpenData to
+enquire data providers about their licensing policies:
+http://openbiblio.net/2011/03/07/is-it-open-bibliographic-data/
+
+We are currently using IsItOpenData to find out more about the
+licensing status of 3lib data and should soon make the remaining
+enquiries. Jim, you write on the etherpad[1] that you can help with
+arxiv.org and Current Index of Statistics. I could help writing the
+enquiries but perhaps there is someone on this list who is more
+engaged with these services (e.g. as a user) and thus a better fit for
+sending the enquiries. (HAL and SPIRES are also left to enquire.)
+
+All the best,
+Adrian
+
+
+[1] http://okfnpad.org/3lib-data-and-openness
+
+
+From pitman at stat.Berkeley.EDU  Mon Mar  7 23:09:15 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 07 Mar 2011 15:09:15 -0800
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+Message-ID: <20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+
+Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Jim, you write on the etherpad[1] that you can help with arxiv.org 
+
+Right. I have initiated an exchange with David Ruddy of Cornell, he replied:
+
+>Regarding the use of arXiv OAI metadata, here is our current statement:
+http://arxiv.org/help/oa/metadataPolicy
+
+"Metadata for arXiv articles may be reused in non-commercial and commercial systems. Links to download full-text should point back to arXiv.org."  
+
+Does that qualify by OKFN standards?
+
+David continued
+"What we are now exploring is whether the license the author agrees to would allow us to attach a CC0 license to the metadata. It's not clear, but if we can, we would like to do that on our end. There are some reasonably strong feelings that arXiv ought to be the entity that puts the CC0 license on the data, not others. Obviously, if we do it, then you can do what you wish with the metadata. We will be talking with our intellectual property officer about this soon. I will be in touch as soon as I get some clarification."
+
+>and Current Index of Statistics. 
+
+I have initiated dicussion with IMS first about a list of about 1000 IMS-related people profiles
+which is another dataset on 3lib and people.bibkn.org. I am aiming to get IMS to agree this 
+is CC0 and to work with me to maintain and develop it. I do think we should try to address 
+dataset maintenence as well as asking for CC0 dumps. When the issue of people profiles is resolved,
+I'll continue with discussion of CIS data.
+
+cheers
+
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From primavera.defilippi at okfn.org  Mon Mar  7 23:31:52 2011
+From: primavera.defilippi at okfn.org (Primavera De Filippi)
+Date: Tue, 8 Mar 2011 00:31:52 +0100
+Subject: [open-bibliography] Collecting Metadata for PublicDomainWorks.net
+Message-ID: <AANLkTik0ajcQ6GL=ux+Fc5fk55Oo1_yXjyTv0s78f78X@mail.gmail.com>
+
+Hi all,
+I write to you on behalf of the Public Domain Working Group. We are
+currently working on enhancing and expanding the collection of works
+available at www.publicdomainworks.net - a registry of artistic works that
+are in the public domain. In order to do that, we need to gain access to a
+maximum of information concerning works of different kinds (in particular,
+the author, the date of birth and death, the date of publication, etc).
+While we already have a proper database for bibliographic works, we
+areinterested in getting metadata for as many different kinds of works
+as
+possible.
+We are currently trying to figure out where we can find metadata about works
+other than books or other written publications, which is currently provided
+by the Bibliographica team. In particular, I would like to know what kind of
+metadata do library catalogues often contain? how good is the quality? and
+who would you suggest we contact in order to obtain the metadata we are
+looking for.
+Looking forward to your answer,
+Primavera
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110308/f16bb4db/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Mar  8 07:49:04 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 8 Mar 2011 07:49:04 +0000
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+Message-ID: <AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+
+My take would be:
+
+On Mon, Mar 7, 2011 at 11:09 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+> Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>
+> > Jim, you write on the etherpad[1] that you can help with arxiv.org
+>
+> Right. I have initiated an exchange with David Ruddy of Cornell, he
+> replied:
+>
+> >Regarding the use of arXiv OAI metadata, here is our current statement:
+> http://arxiv.org/help/oa/metadataPolicy
+>
+> From the site:
+[Metadata may be downloaded through OAI-PMH...]
+
+Assuming there are no hidden restrictions I take this to mean that any
+amount (including all) can be downloaded (subject only to considerate
+robots).  OK
+
+> "Metadata for arXiv articles may be reused in non-commercial and commercial
+> systems.
+
+
+Assuming that re-use is without explicit permission and for whatever legal
+purpose. OK
+
+Links to download full-text should point back to arXiv.org."
+>
+> "should" may be unclear - I use MUST/MAY/SHOULD  in the IETF sense
+
+It is possible to create re-usable objects without linkiing back (e.g. a
+list of author names). However if the metadata is to be used in a full
+bibliography sense it SHOULD identify the full-text object with an agreed
+Arxiv identifier. It addition it MAY provide a navigable link to the
+full-text in which case the link SHOULD point to the actual item in the
+Arxiv. (Nothing else makes sense unless there are copies of the full-text
+elsewhere).
+
+I don't know what the Arxiv policy is on copying full-text but assuming it
+is allowed it seems highly desirable that the metadata should point to the
+Arxiv.
+
+Does that qualify by OKFN standards?
+>
+> For me it satisfies the Open Definition. I believe that it does not qualify
+for CKAN because you cannot "get all the data at once" but this is an
+additional CKAN restriction, not an OKD one.
+
+
+> David continued
+> "What we are now exploring is whether the license the author agrees to
+> would allow us to attach a CC0 license to the metadata. It's not clear, but
+> if we can, we would like to do that on our end. There are some reasonably
+> strong feelings that arXiv ought to be the entity that puts the CC0 license
+> on the data, not others. Obviously, if we do it, then you can do what you
+> wish with the metadata. We will be talking with our intellectual property
+> officer about this soon. I will be in touch as soon as I get some
+> clarification."
+>
+
+Arxiv is mainly for science. The STM publishers have agreed that
+bibliographic metadata per se is uncopyrightable. Since the author is
+handing over a single bibliographic entry s/he does not have copyright over
+this. So I see no reason why Arxiv should not add CC0 (or PDDL) and every
+reason why they should. (This excludes abstracts and full-text)
+
+>
+> >and Current Index of Statistics.
+>
+> I have initiated dicussion with IMS first about a list of about 1000
+> IMS-related people profiles
+> which is another dataset on 3lib and people.bibkn.org. I am aiming to get
+> IMS to agree this
+> is CC0 and to work with me to maintain and develop it. I do think we should
+> try to address
+> dataset maintenence as well as asking for CC0 dumps. When the issue of
+> people profiles is resolved,
+> I'll continue with discussion of CIS data.
+>
+> cheers
+>
+> --Jim
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+>
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970  fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110308/a85ddcea/attachment.htm>
+
+From ianibbo at gmail.com  Tue Mar  8 09:20:55 2011
+From: ianibbo at gmail.com (ianibbo at gmail.com)
+Date: Tue, 8 Mar 2011 09:20:55 +0000
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+Message-ID: <AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+
+> For me it satisfies the Open Definition. I believe that it does not qualify
+> for CKAN because you cannot "get all the data at once" but this is an
+> additional CKAN restriction, not an OKD one.
+
+I've certainly added OAI (And other streaming protocol) based datasets
+to CKAN, wasn't aware of any restriction. I just used the base URL of
+the OAI server. Is this an official line? If so it needs to be
+challenged and changed (IMNSHO).
+
+cheers,
+Ian.
+
+
+From jonathan.gray at okfn.org  Tue Mar  8 13:50:37 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 8 Mar 2011 14:50:37 +0100
+Subject: [open-bibliography] Minutes for the 9th meeting / Contributions
+ to openbiblio.net
+In-Reply-To: <20110302112911.16482l62g4v33kp3@kcoyle.net>
+References: <AANLkTinZu94Q=ZKfMXftZyRt5CAFAU1TsG4BpnNp9VbU@mail.gmail.com>
+	<AANLkTi=q2ftmUzL5EOp5LWQEuz+EPs9djwmhSBi8BoB0@mail.gmail.com>
+	<20110302112911.16482l62g4v33kp3@kcoyle.net>
+Message-ID: <AANLkTimBHYJa3TCr7cU_Cj+nRAWN=ODsq3igT20M7dU_@mail.gmail.com>
+
+If we can co-draft a brief script together at some point, then I can
+see if I can find someone to help put together a short film!
+
+Suggest we put this on the backburner for now.
+
+On Wed, Mar 2, 2011 at 8:29 PM, Karen Coyle <kcoyle at kcoyle.net> wrote:
+> It would be great to have some educational materials. A HUGE amount of
+> education needs to be done, iin particular to explain the benefits of
+> OpenBib. The W3C LLD group will be addressing some of that as an issue, but
+> not coming up with solutions.
+>
+> The short video done by Freebase on linking
+> ?http://wiki.freebase.com/wiki/What_is_Freebase%3F
+> is excellent. But I admit I don't have the talent...
+>
+> kc
+>
+> Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+>
+>> Excellent - thanks Adrian!
+>>
+>> I was also wondering recently whether openbiblio.net should aim to
+>> offer people an introduction to open bibliographic data as well as
+>> giving info on what this working group and others are up to in this
+>> area. Would it be worth having some info on this on the main landing
+>> page and moving the blog to openbiblio.net/blog?
+>>
+>> Also I wonder whether in the medium term we want something like a very
+>> short film explaining what open bibliographic data is and why it
+>> matters, aimed at librarians, possible users of the data, and the
+>> general public. What do you think?
+>>
+>> All the best,
+>>
+>> Jonathan
+>>
+>> On Wed, Mar 2, 2011 at 2:40 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+>>>
+>>> Hello,
+>>>
+>>> I posted the minutes of yesterday's meeting to openbiblio.net, see
+>>>
+>>> http://openbiblio.net/2011/03/02/minutes-9th-virtual-meeting-of-the-okfn-openbiblio-group/
+>>>
+>>> I also want to make clear that anybody being active - practically or
+>>> theoretically - in the open bibliographic data realm is invited to
+>>> post on openbiblio.net.
+>>>
+>>> So, if you want to share your thoughts on open bibliographic data, run
+>>> a project that involves opening up bibliographic data or do a
+>>> presentation about open bibliographic data post about it at
+>>> openbiblio.net.
+>>>
+>>> Also, we are happy to add more open bibliographic data projects to
+>>> http://openbiblio.net/p/. I just added lobid.org and COMET. I think we
+>>> should definitely add the open bibliographic data guide
+>>> (http://obd.jisc.ac.uk/) somewhere too. In the project list? Or
+>>> somewhere else?
+>>>
+>>> Cheers
+>>> Adrian
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Karen Coyle
+> kcoyle at kcoyle.net http://kcoyle.net
+> ph: 1-510-540-7596
+> m: 1-510-435-8234
+> skype: kcoylenet
+>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From kcoyle at kcoyle.net  Tue Mar  8 19:12:41 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 08 Mar 2011 11:12:41 -0800
+Subject: [open-bibliography] Collecting Metadata for
+ PublicDomainWorks.net
+In-Reply-To: <AANLkTik0ajcQ6GL=ux+Fc5fk55Oo1_yXjyTv0s78f78X@mail.gmail.com>
+References: <AANLkTik0ajcQ6GL=ux+Fc5fk55Oo1_yXjyTv0s78f78X@mail.gmail.com>
+Message-ID: <20110308111241.65476setybxd3lbd@kcoyle.net>
+
+At the highest level, standard library catalog data types are (from  
+the documentation):
+
+a - Language material
+c - Notated music
+d - Manuscript notated music
+e - Cartographic material
+f - Manuscript cartographic material
+g - Projected medium
+i - Nonmusical sound recording
+j - Musical sound recording
+k - Two-dimensional nonprojectable graphic
+m - Computer file
+o - Kit
+p - Mixed materials
+r - Three-dimensional artifact or naturally occurring object
+t - Manuscript language material
+
+Libraries focus on "fixed and published" items, so there are few  
+paintings, sculptures, etc. Most library materials are ones that are  
+reproduced, like books, musical recordings, sheet music, films. (And  
+obviously few non-print-on-paper items are in the public domain.)  
+Archives are more likely to have photographs than libraries are. Their  
+metadata, however, often does not record information about individual  
+items (e.g. individual photographs), but about a collection as a  
+whole. I don't know much about the state of museum metadata.
+
+kc
+
+Quoting Primavera De Filippi <primavera.defilippi at okfn.org>:
+
+> Hi all,
+> I write to you on behalf of the Public Domain Working Group. We are
+> currently working on enhancing and expanding the collection of works
+> available at www.publicdomainworks.net - a registry of artistic works that
+> are in the public domain. In order to do that, we need to gain access to a
+> maximum of information concerning works of different kinds (in particular,
+> the author, the date of birth and death, the date of publication, etc).
+> While we already have a proper database for bibliographic works, we
+> areinterested in getting metadata for as many different kinds of works
+> as
+> possible.
+> We are currently trying to figure out where we can find metadata about works
+> other than books or other written publications, which is currently provided
+> by the Bibliographica team. In particular, I would like to know what kind of
+> metadata do library catalogues often contain? how good is the quality? and
+> who would you suggest we contact in order to obtain the metadata we are
+> looking for.
+> Looking forward to your answer,
+> Primavera
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From adrian.pohl at okfn.org  Wed Mar  9 10:01:21 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Wed, 9 Mar 2011 11:01:21 +0100
+Subject: [open-bibliography] Dortmund data release at EPSI platform
+Message-ID: <AANLkTin1u9wWpWaVokZ9Vuf7vWRy-aCrHTrUKPON1+PW@mail.gmail.com>
+
+Great,
+
+open bibliographic data from libraries seems to get attention in the
+broader realm of Public Sector Information/Open Government Data. The
+European Public Sector Information (PSI) Platform has published a post
+on the data release by Dortmund University Library, see [1].
+Obviously, they've read openbiblio.net.
+
+Quote:
+
+"In the German states North Rhine Westphalia (NRW) and Lower Saxony an
+important part of the PSI re-use debate is pushed by those involved
+with university libraries. So it is interesting to note there is
+another university, the University of Dortmund, that is now opening up
+its bibliographic data for re-use, and allows download of the entire
+dataset, bringing it under a Creative Commons zero license."
+
+I think that's a great development. Hopefully libraries can be
+catalysts for Open Government Data in Germany. Obviously, in UK it's
+the other way round as there already is an evolving Open Data
+infrastructure (which Germany lacks) where libraries are now following
+ther public institutions by releasing their data.
+
+Cheers
+Adrian
+
+[1] http://www.epsiplatform.eu/news/news/university_dortmund_opens_up_bibliographic_data
+
+
+From pm286 at cam.ac.uk  Mon Mar 14 08:54:55 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 14 Mar 2011 08:54:55 +0000
+Subject: [open-bibliography] Scholarly HTML
+Message-ID: <AANLkTingAK489+6rU1uEMqjVV+BJ7wnHWM29JshfKJ+u@mail.gmail.com>
+
+Our hackfest at the weekend (
+http://blogs.ch.cam.ac.uk/pmr/2011/03/14/scholarly-html-%E2%80%93-major-progress/)
+was a deliberate and logical continuation of the "Writing" stream at
+#beyondthepdf in January. Martin Fenner and Peter Sefton visited Cambridge
+(PT is still here for the rest of the week). We were joined by a critical
+mass of others - both IRL and virtually and made great progress. I am now
+confident that we can offer the world "Scholarly HTML" (PT's phrase) as a
+vibrant and significant aspect of scholarly communication. There are more
+details in the blog post, but in essence:
+
+   - ScHTML is web-democratic. Anyone anywhere can be involved. We develop
+   our own rules and "conventions" as we proceed
+   - The use of ScHTML has no fundamental limits - it is not restricted to
+   "publishing" and could, for example, interpoerate very nicely with Wikipedia
+
+
+I shall announce ScHTML tomorrow at the JISC conference in Liverpool as part
+of their "Open Scholarship" session. I have 1 minute for that.
+
+Anyone can be involved in ScHTML right now. If BtPDF has future meetings and
+activities (and I hope it does) then ScHTML should be part of them.
+
+Will it work?
+
+That depends on YOU. Read the post.
+
+[Currently we are using BtPDF as the mailing list - and possibly the Wiki.
+We are using OKF Etherpads for collecting and refining our thoughts. We use
+Bitbucket for the code/specs. Other ideas welcome]
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110314/167c1c41/attachment.htm>
+
+From rufus.pollock at okfn.org  Wed Mar 16 13:07:34 2011
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 16 Mar 2011 13:07:34 +0000
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+Message-ID: <AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+
+On 8 March 2011 09:20, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+>> For me it satisfies the Open Definition. I believe that it does not qualify
+>> for CKAN because you cannot "get all the data at once" but this is an
+>> additional CKAN restriction, not an OKD one.
+
+This is incorrect. The http://opendefinition.org/okd/ states:
+
+<quote>
+The work shall be available as a whole and at no more than a
+reasonable reproduction cost, preferably downloading via the Internet
+without charge. The work must also be available in a convenient and
+modifiable form.
+</quote>
+
+Hence the 'bulk' ("as a whole") requirement is in the Open Definition.
+
+> I've certainly added OAI (And other streaming protocol) based datasets
+> to CKAN, wasn't aware of any restriction. I just used the base URL of
+> the OAI server. Is this an official line? If so it needs to be
+> challenged and changed (IMNSHO).
+
+There's no restriction regarding what you register on CKAN - in
+particular there is no requirement to only register Open Definition
+compliant datasets. That said, obviously we do highlight (in a variety
+of ways) those datasets that are open and I don't think we want
+datasets that will always remain closed, and especially those datasets
+that are clearly 'paid-access-only'.
+
+Rufus
+
+> cheers,
+> Ian.
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From pitman at stat.Berkeley.EDU  Wed Mar 16 16:24:24 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Wed, 16 Mar 2011 09:24:24 -0700
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+Message-ID: <20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+
+In the same vein, I have started a correspondence with Mendeley, which has not got far yet,
+about access to their data through their API http://dev.mendeley.com/
+According to  http://dev.mendeley.com/docs/license
+"All data from the Mendeley API is made available under a Creative Commons Attribution 3.0 Unported License for commercial and non-commercial derivations."
+Worth listing on CKAN  I think. But we dont yet have bulk access.
+Anyone else been in touch with Mendeley on this issue?
+
+One possibility would be for a number of agents to extract subsets of Mendeley data they cared about and to pool these 
+subsets in an OKFN supported data store.
+This is a general possibility, whenever a data provider provides an open API but is unwilling to support their own bulk store.
+We can consider one store for multiple data sources,  much as Thomas Krichel provides at http://3lib.org/
+Can we estimate the cost of OKFN maintaining such a store on various scales with various levels of service?
+
+--Jim
+------------------------------------
+
+Rufus Pollock <rufus.pollock at okfn.org> wrote:
+
+> On 8 March 2011 09:20, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+> >> For me it satisfies the Open Definition. I believe that it does not qualify
+> >> for CKAN because you cannot "get all the data at once" but this is an
+> >> additional CKAN restriction, not an OKD one.
+>
+> This is incorrect. The http://opendefinition.org/okd/ states:
+>
+> <quote>
+> The work shall be available as a whole and at no more than a
+> reasonable reproduction cost, preferably downloading via the Internet
+> without charge. The work must also be available in a convenient and
+> modifiable form.
+> </quote>
+>
+> Hence the 'bulk' ("as a whole") requirement is in the Open Definition.
+>
+> > I've certainly added OAI (And other streaming protocol) based datasets
+> > to CKAN, wasn't aware of any restriction. I just used the base URL of
+> > the OAI server. Is this an official line? If so it needs to be
+> > challenged and changed (IMNSHO).
+>
+> There's no restriction regarding what you register on CKAN - in
+> particular there is no requirement to only register Open Definition
+> compliant datasets. That said, obviously we do highlight (in a variety
+> of ways) those datasets that are open and I don't think we want
+> datasets that will always remain closed, and especially those datasets
+> that are clearly 'paid-access-only'.
+>
+> Rufus
+>
+> > cheers,
+> > Ian.
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+>
+>
+>
+> -- 
+> Co-Founder, Open Knowledge Foundation
+> Promoting Open Knowledge in a Digital Age
+> http://www.okfn.org/ - http://blog.okfn.org/
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+From pm286 at cam.ac.uk  Wed Mar 16 16:32:26 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 16 Mar 2011 16:32:26 +0000
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+	<20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+Message-ID: <AANLkTi=6kMtpsJkQ1-7ZZ=rumJEMeZwXs5a_QV=D5EN-@mail.gmail.com>
+
+WE ARE AHEAD OF YOU   so we need to avoid confusing them.
+
+On Wed, Mar 16, 2011 at 4:24 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+> In the same vein, I have started a correspondence with Mendeley, which has
+> not got far yet,
+> about access to their data through their API http://dev.mendeley.com/
+> According to  http://dev.mendeley.com/docs/license
+> "All data from the Mendeley API is made available under a Creative Commons
+> Attribution 3.0 Unported License for commercial and non-commercial
+> derivations."
+> Worth listing on CKAN  I think. But we dont yet have bulk access.
+> Anyone else been in touch with Mendeley on this issue?
+>
+> See my blog and also see IsItOpenData request. They are preparing a formal
+answer.
+
+
+> One possibility would be for a number of agents to extract subsets of
+> Mendeley data they cared about and to pool these
+> subsets in an OKFN supported data store.
+> This is a general possibility, whenever a data provider provides an open
+> API but is unwilling to support their own bulk store.
+> We can consider one store for multiple data sources,  much as Thomas
+> Krichel provides at http://3lib.org/
+> Can we estimate the cost of OKFN maintaining such a store on various scales
+> with various levels of service?
+>
+>
+I think we can regard the Mendeley core data as completely OKD-compliant.
+However they distribute abstracts and they CANNOT be assumed to be open. So
+strip out the abstracts and all Mendely is OKD-Open. It's great news.
+
+We need to have a crawler for their API. We have been crawling the
+commercial publishers and should have potentially 10 million records.
+
+P.
+
+
+
+> --Jim
+> ------------------------------------
+>
+> Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>
+> > On 8 March 2011 09:20, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+> > >> For me it satisfies the Open Definition. I believe that it does not
+> qualify
+> > >> for CKAN because you cannot "get all the data at once" but this is an
+> > >> additional CKAN restriction, not an OKD one.
+> >
+> > This is incorrect. The http://opendefinition.org/okd/ states:
+> >
+> > <quote>
+> > The work shall be available as a whole and at no more than a
+> > reasonable reproduction cost, preferably downloading via the Internet
+> > without charge. The work must also be available in a convenient and
+> > modifiable form.
+> > </quote>
+> >
+> > Hence the 'bulk' ("as a whole") requirement is in the Open Definition.
+> >
+> > > I've certainly added OAI (And other streaming protocol) based datasets
+> > > to CKAN, wasn't aware of any restriction. I just used the base URL of
+> > > the OAI server. Is this an official line? If so it needs to be
+> > > challenged and changed (IMNSHO).
+> >
+> > There's no restriction regarding what you register on CKAN - in
+> > particular there is no requirement to only register Open Definition
+> > compliant datasets. That said, obviously we do highlight (in a variety
+> > of ways) those datasets that are open and I don't think we want
+> > datasets that will always remain closed, and especially those datasets
+> > that are clearly 'paid-access-only'.
+> >
+> > Rufus
+> >
+> > > cheers,
+> > > Ian.
+> > >
+> > > _______________________________________________
+> > > open-bibliography mailing list
+> > > open-bibliography at lists.okfn.org
+> > > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> > >
+> >
+> >
+> >
+> > --
+> > Co-Founder, Open Knowledge Foundation
+> > Promoting Open Knowledge in a Digital Age
+> > http://www.okfn.org/ - http://blog.okfn.org/
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110316/6ac43a55/attachment.htm>
+
+From kcoyle at kcoyle.net  Wed Mar 16 16:46:40 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 16 Mar 2011 09:46:40 -0700
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+	<20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+Message-ID: <20110316094640.740738l47dv0x9bk@kcoyle.net>
+
+My main caution about pooling bulk exports is the issue of updates.  
+First, there is the need to have up-to-date bulk files on some kind of  
+regular basis. This is sometimes burdensome for the data providers.  
+Second, for consumers of the data it is often desirable to get  
+incremental updates. If you have added the data to some system or  
+function of your own you do not want to receive the entire file in  
+order to add new or updated data.
+
+I realize that many of the bulk files being produced today can be  
+considered experimental in nature, but if we are to move into  
+production mode for any of the data this update issue must be addressed.
+
+kc
+
+Quoting Jim Pitman <pitman at stat.Berkeley.EDU>:
+
+> In the same vein, I have started a correspondence with Mendeley,  
+> which has not got far yet,
+> about access to their data through their API http://dev.mendeley.com/
+> According to  http://dev.mendeley.com/docs/license
+> "All data from the Mendeley API is made available under a Creative  
+> Commons Attribution 3.0 Unported License for commercial and  
+> non-commercial derivations."
+> Worth listing on CKAN  I think. But we dont yet have bulk access.
+> Anyone else been in touch with Mendeley on this issue?
+>
+> One possibility would be for a number of agents to extract subsets  
+> of Mendeley data they cared about and to pool these
+> subsets in an OKFN supported data store.
+> This is a general possibility, whenever a data provider provides an  
+> open API but is unwilling to support their own bulk store.
+> We can consider one store for multiple data sources,  much as Thomas  
+> Krichel provides at http://3lib.org/
+> Can we estimate the cost of OKFN maintaining such a store on various  
+> scales with various levels of service?
+>
+> --Jim
+> ------------------------------------
+>
+> Rufus Pollock <rufus.pollock at okfn.org> wrote:
+>
+>> On 8 March 2011 09:20, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+>> >> For me it satisfies the Open Definition. I believe that it does  
+>> not qualify
+>> >> for CKAN because you cannot "get all the data at once" but this is an
+>> >> additional CKAN restriction, not an OKD one.
+>>
+>> This is incorrect. The http://opendefinition.org/okd/ states:
+>>
+>> <quote>
+>> The work shall be available as a whole and at no more than a
+>> reasonable reproduction cost, preferably downloading via the Internet
+>> without charge. The work must also be available in a convenient and
+>> modifiable form.
+>> </quote>
+>>
+>> Hence the 'bulk' ("as a whole") requirement is in the Open Definition.
+>>
+>> > I've certainly added OAI (And other streaming protocol) based datasets
+>> > to CKAN, wasn't aware of any restriction. I just used the base URL of
+>> > the OAI server. Is this an official line? If so it needs to be
+>> > challenged and changed (IMNSHO).
+>>
+>> There's no restriction regarding what you register on CKAN - in
+>> particular there is no requirement to only register Open Definition
+>> compliant datasets. That said, obviously we do highlight (in a variety
+>> of ways) those datasets that are open and I don't think we want
+>> datasets that will always remain closed, and especially those datasets
+>> that are clearly 'paid-access-only'.
+>>
+>> Rufus
+>>
+>> > cheers,
+>> > Ian.
+>> >
+>> > _______________________________________________
+>> > open-bibliography mailing list
+>> > open-bibliography at lists.okfn.org
+>> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+>> >
+>>
+>>
+>>
+>> --
+>> Co-Founder, Open Knowledge Foundation
+>> Promoting Open Knowledge in a Digital Age
+>> http://www.okfn.org/ - http://blog.okfn.org/
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pitman at stat.Berkeley.EDU  Wed Mar 16 17:18:49 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Wed, 16 Mar 2011 10:18:49 -0700
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <AANLkTi=6kMtpsJkQ1-7ZZ=rumJEMeZwXs5a_QV=D5EN-@mail.gmail.com>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+	<20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+	<AANLkTi=6kMtpsJkQ1-7ZZ=rumJEMeZwXs5a_QV=D5EN-@mail.gmail.com>
+Message-ID: <20110316171849.CF5C18005@bibserver.Berkeley.EDU>
+
+Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> WE ARE AHEAD OF YOU   so we need to avoid confusing them.
+
+OK. Please advise who is your Mendeley contact I can inform my Mendeley 
+contacts of the parallel discussions. Glad to let you proceed on this one.
+
+I proposed before a bulletin board or similar where the task of
+approaching various data suppliers can be divided and conquered without
+unnecessary duplication.  How can that most easily be facilitated?
+
+For the record, I am currently talking also to Cornell and Duke UP about access 
+to arXiv and Project Euclid metadata. arXiv is operationally at least CC BY and they may go to CC0 for the metadata without abstracts. Euclid is still under 
+discussion.  I am also taling to IMS about their data, eventually to include CIS, and I am gradually taking up the licensing issues for various people data sets at http://people.bibkn.org
+
+--Jim
+
+>
+> On Wed, Mar 16, 2011 at 4:24 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+>
+> > In the same vein, I have started a correspondence with Mendeley, which has
+> > not got far yet,
+> > about access to their data through their API http://dev.mendeley.com/
+> > According to  http://dev.mendeley.com/docs/license
+> > "All data from the Mendeley API is made available under a Creative Commons
+> > Attribution 3.0 Unported License for commercial and non-commercial
+> > derivations."
+> > Worth listing on CKAN  I think. But we dont yet have bulk access.
+> > Anyone else been in touch with Mendeley on this issue?
+> >
+> > See my blog and also see IsItOpenData request. They are preparing a formal
+> answer.
+>
+>
+> > One possibility would be for a number of agents to extract subsets of
+> > Mendeley data they cared about and to pool these
+> > subsets in an OKFN supported data store.
+> > This is a general possibility, whenever a data provider provides an open
+> > API but is unwilling to support their own bulk store.
+> > We can consider one store for multiple data sources,  much as Thomas
+> > Krichel provides at http://3lib.org/
+> > Can we estimate the cost of OKFN maintaining such a store on various scales
+> > with various levels of service?
+> >
+> >
+> I think we can regard the Mendeley core data as completely OKD-compliant.
+> However they distribute abstracts and they CANNOT be assumed to be open. So
+> strip out the abstracts and all Mendely is OKD-Open. It's great news.
+>
+> We need to have a crawler for their API. We have been crawling the
+> commercial publishers and should have potentially 10 million records.
+>
+> P.
+>
+>
+>
+> > --Jim
+> > ------------------------------------
+> >
+> > Rufus Pollock <rufus.pollock at okfn.org> wrote:
+> >
+> > > On 8 March 2011 09:20, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+> > > >> For me it satisfies the Open Definition. I believe that it does not
+> > qualify
+> > > >> for CKAN because you cannot "get all the data at once" but this is an
+> > > >> additional CKAN restriction, not an OKD one.
+> > >
+> > > This is incorrect. The http://opendefinition.org/okd/ states:
+> > >
+> > > <quote>
+> > > The work shall be available as a whole and at no more than a
+> > > reasonable reproduction cost, preferably downloading via the Internet
+> > > without charge. The work must also be available in a convenient and
+> > > modifiable form.
+> > > </quote>
+> > >
+> > > Hence the 'bulk' ("as a whole") requirement is in the Open Definition.
+> > >
+> > > > I've certainly added OAI (And other streaming protocol) based datasets
+> > > > to CKAN, wasn't aware of any restriction. I just used the base URL of
+> > > > the OAI server. Is this an official line? If so it needs to be
+> > > > challenged and changed (IMNSHO).
+> > >
+> > > There's no restriction regarding what you register on CKAN - in
+> > > particular there is no requirement to only register Open Definition
+> > > compliant datasets. That said, obviously we do highlight (in a variety
+> > > of ways) those datasets that are open and I don't think we want
+> > > datasets that will always remain closed, and especially those datasets
+> > > that are clearly 'paid-access-only'.
+> > >
+> > > Rufus
+> > >
+> > > > cheers,
+> > > > Ian.
+> > > >
+> > > > _______________________________________________
+> > > > open-bibliography mailing list
+> > > > open-bibliography at lists.okfn.org
+> > > > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> > > >
+> > >
+> > >
+> > >
+> > > --
+> > > Co-Founder, Open Knowledge Foundation
+> > > Promoting Open Knowledge in a Digital Age
+> > > http://www.okfn.org/ - http://blog.okfn.org/
+> > >
+> > > _______________________________________________
+> > > open-bibliography mailing list
+> > > open-bibliography at lists.okfn.org
+> > > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+> > _______________________________________________
+> > open-bibliography mailing list
+> > open-bibliography at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> >
+>
+>
+>
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+
+From pm286 at cam.ac.uk  Wed Mar 16 17:24:51 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 16 Mar 2011 17:24:51 +0000
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <20110316171849.CF5C18005@bibserver.Berkeley.EDU>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+	<20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+	<AANLkTi=6kMtpsJkQ1-7ZZ=rumJEMeZwXs5a_QV=D5EN-@mail.gmail.com>
+	<20110316171849.CF5C18005@bibserver.Berkeley.EDU>
+Message-ID: <AANLkTi=EB8bhjyLz57Xz+4=NnepOQvN2EPueRiXs6A9U@mail.gmail.com>
+
+On Wed, Mar 16, 2011 at 5:18 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+> Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+> > WE ARE AHEAD OF YOU   so we need to avoid confusing them.
+>
+> OK. Please advise who is your Mendeley contact I can inform my Mendeley
+> contacts of the parallel discussions. Glad to let you proceed on this one.
+>
+> I proposed before a bulletin board or similar where the task of
+> approaching various data suppliers can be divided and conquered without
+> unnecessary duplication.  How can that most easily be facilitated?
+>
+
+That is what IsItOpen is about. We still have to tackle the question of
+summarising replies and presenting a readable account.
+
+
+>
+> For the record, I am currently talking also to Cornell and Duke UP about
+> access
+> to arXiv and Project Euclid metadata. arXiv is operationally at least CC BY
+> and they may go to CC0 for the metadata without abstracts. Euclid is still
+> under
+> discussion.  I am also taling to IMS about their data, eventually to
+> include CIS, and I am gradually taking up the licensing issues for various
+> people data sets at http://people.bibkn.org
+>
+> This is great. Maybe there is enough synergy to create some wiki resource.
+
+
+> --Jim
+>
+> >
+> > On Wed, Mar 16, 2011 at 4:24 PM, Jim Pitman <pitman at stat.berkeley.edu
+> >wrote:
+> >
+> > > In the same vein, I have started a correspondence with Mendeley, which
+> has
+> > > not got far yet,
+> > > about access to their data through their API http://dev.mendeley.com/
+> > > According to  http://dev.mendeley.com/docs/license
+> > > "All data from the Mendeley API is made available under a Creative
+> Commons
+> > > Attribution 3.0 Unported License for commercial and non-commercial
+> > > derivations."
+> > > Worth listing on CKAN  I think. But we dont yet have bulk access.
+> > > Anyone else been in touch with Mendeley on this issue?
+> > >
+> > > See my blog and also see IsItOpenData request. They are preparing a
+> formal
+> > answer.
+> >
+> >
+> > > One possibility would be for a number of agents to extract subsets of
+> > > Mendeley data they cared about and to pool these
+> > > subsets in an OKFN supported data store.
+> > > This is a general possibility, whenever a data provider provides an
+> open
+> > > API but is unwilling to support their own bulk store.
+> > > We can consider one store for multiple data sources,  much as Thomas
+> > > Krichel provides at http://3lib.org/
+> > > Can we estimate the cost of OKFN maintaining such a store on various
+> scales
+> > > with various levels of service?
+> > >
+> > >
+> > I think we can regard the Mendeley core data as completely OKD-compliant.
+> > However they distribute abstracts and they CANNOT be assumed to be open.
+> So
+> > strip out the abstracts and all Mendely is OKD-Open. It's great news.
+> >
+> > We need to have a crawler for their API. We have been crawling the
+> > commercial publishers and should have potentially 10 million records.
+> >
+> > P.
+> >
+> >
+> >
+> > > --Jim
+> > > ------------------------------------
+> > >
+> > > Rufus Pollock <rufus.pollock at okfn.org> wrote:
+> > >
+> > > > On 8 March 2011 09:20, ianibbo at gmail.com <ianibbo at gmail.com> wrote:
+> > > > >> For me it satisfies the Open Definition. I believe that it does
+> not
+> > > qualify
+> > > > >> for CKAN because you cannot "get all the data at once" but this is
+> an
+> > > > >> additional CKAN restriction, not an OKD one.
+> > > >
+> > > > This is incorrect. The http://opendefinition.org/okd/ states:
+> > > >
+> > > > <quote>
+> > > > The work shall be available as a whole and at no more than a
+> > > > reasonable reproduction cost, preferably downloading via the Internet
+> > > > without charge. The work must also be available in a convenient and
+> > > > modifiable form.
+> > > > </quote>
+> > > >
+> > > > Hence the 'bulk' ("as a whole") requirement is in the Open
+> Definition.
+> > > >
+> > > > > I've certainly added OAI (And other streaming protocol) based
+> datasets
+> > > > > to CKAN, wasn't aware of any restriction. I just used the base URL
+> of
+> > > > > the OAI server. Is this an official line? If so it needs to be
+> > > > > challenged and changed (IMNSHO).
+> > > >
+> > > > There's no restriction regarding what you register on CKAN - in
+> > > > particular there is no requirement to only register Open Definition
+> > > > compliant datasets. That said, obviously we do highlight (in a
+> variety
+> > > > of ways) those datasets that are open and I don't think we want
+> > > > datasets that will always remain closed, and especially those
+> datasets
+> > > > that are clearly 'paid-access-only'.
+> > > >
+> > > > Rufus
+> > > >
+> > > > > cheers,
+> > > > > Ian.
+> > > > >
+> > > > > _______________________________________________
+> > > > > open-bibliography mailing list
+> > > > > open-bibliography at lists.okfn.org
+> > > > > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> > > > >
+> > > >
+> > > >
+> > > >
+> > > > --
+> > > > Co-Founder, Open Knowledge Foundation
+> > > > Promoting Open Knowledge in a Digital Age
+> > > > http://www.okfn.org/ - http://blog.okfn.org/
+> > > >
+> > > > _______________________________________________
+> > > > open-bibliography mailing list
+> > > > open-bibliography at lists.okfn.org
+> > > > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> > >
+> > > _______________________________________________
+> > > open-bibliography mailing list
+> > > open-bibliography at lists.okfn.org
+> > > http://lists.okfn.org/mailman/listinfo/open-bibliography
+> > >
+> >
+> >
+> >
+> > --
+> > Peter Murray-Rust
+> > Reader in Molecular Informatics
+> > Unilever Centre, Dep. Of Chemistry
+> > University of Cambridge
+> > CB2 1EW, UK
+> > +44-1223-763069
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110316/41bd409f/attachment.htm>
+
+From adrian.pohl at okfn.org  Thu Mar 17 11:16:15 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 17 Mar 2011 12:16:15 +0100
+Subject: [open-bibliography] Article on free library data in LIBER QUARTERLY
+Message-ID: <AANLkTik_mFjyE=TFoQ+OdNa_D3qpSH2cQvn=Xy4SqH-V@mail.gmail.com>
+
+Hello,
+
+Raymond B?rard has published an interesting article titled "Free
+Library Data?" in LIBER QUARTERLY[1]. Unfortunately the working
+group's activities aren't mentioned at all.
+
+I already contacted Raymond B?rard and drew his attention to the
+group. Hopefully he'll join the discussion...
+
+All the best
+Adrian
+
+[1] http://liber.library.uu.nl/publish/issues/2010-3_4/index.html?000512
+
+
+From pm286 at cam.ac.uk  Thu Mar 17 12:57:11 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 17 Mar 2011 12:57:11 +0000
+Subject: [open-bibliography] Article on free library data in LIBER
+	QUARTERLY
+In-Reply-To: <AANLkTik_mFjyE=TFoQ+OdNa_D3qpSH2cQvn=Xy4SqH-V@mail.gmail.com>
+References: <AANLkTik_mFjyE=TFoQ+OdNa_D3qpSH2cQvn=Xy4SqH-V@mail.gmail.com>
+Message-ID: <AANLkTintspWj+Ejs5tDoqOzipmjJBhdGPH0DApeR_z0-@mail.gmail.com>
+
+On Thu, Mar 17, 2011 at 11:16 AM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+
+> Hello,
+>
+> Raymond B?rard has published an interesting article titled "Free
+> Library Data?" in LIBER QUARTERLY[1].
+
+
+Useful. We are categorised (implicitly) as open data militants :-)
+
+> Unfortunately the working
+> group's activities aren't mentioned at all.
+>
+> Very unfortunate
+
+> I already contacted Raymond B?rard and drew his attention to the
+> group. Hopefully he'll join the discussion...
+>
+
+
+Thanks
+
+And I assume you pointed him at the Principles...
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110317/840ca42a/attachment.htm>
+
+From adrian.pohl at okfn.org  Thu Mar 17 18:53:05 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Thu, 17 Mar 2011 19:53:05 +0100
+Subject: [open-bibliography] Article on free library data in LIBER
+	QUARTERLY
+In-Reply-To: <AANLkTintspWj+Ejs5tDoqOzipmjJBhdGPH0DApeR_z0-@mail.gmail.com>
+References: <AANLkTik_mFjyE=TFoQ+OdNa_D3qpSH2cQvn=Xy4SqH-V@mail.gmail.com>
+	<AANLkTintspWj+Ejs5tDoqOzipmjJBhdGPH0DApeR_z0-@mail.gmail.com>
+Message-ID: <AANLkTimZH-BChrPxoFeaVEwrfUpEG67trajGt_DycfJy@mail.gmail.com>
+
+2011/3/17 Peter Murray-Rust <pm286 at cam.ac.uk>:
+
+> And I assume you pointed him at the Principles...
+
+Of course I did. ;-)
+
+Adrian
+
+
+From pitman at stat.Berkeley.EDU  Thu Mar 17 20:13:47 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Thu, 17 Mar 2011 13:13:47 -0700
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <AANLkTi=EB8bhjyLz57Xz+4=NnepOQvN2EPueRiXs6A9U@mail.gmail.com>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+	<20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+	<AANLkTi=6kMtpsJkQ1-7ZZ=rumJEMeZwXs5a_QV=D5EN-@mail.gmail.com>
+	<20110316171849.CF5C18005@bibserver.Berkeley.EDU>
+	<AANLkTi=EB8bhjyLz57Xz+4=NnepOQvN2EPueRiXs6A9U@mail.gmail.com>
+Message-ID: <20110317201347.452AD80C8@bibserver.Berkeley.EDU>
+
+Following up on a point from Peter's previous:
+
+>> We have been crawling the commercial publishers and should have potentially 10 million records.
+
+First a few questions for Peter, then some for the group:
+
+For Peter:
+
+Where/when will the results of this crawling be made available?
+With what attributes/schema (especially, any subject classification?, citation data?) and what license?
+What explicit permissions do you have from which publishers?
+What if any basis for updating?
+How will your crawl compare with http://www.journaltocs.hw.ac.uk/ ?
+
+For the group:
+
+Who else in the group besides Peter, myself(Jim) and Thomas is involved in medium to large scale 
+efforts to aggregate article metadata?
+How to avoid unnecessary duplication of such efforts?
+How to ensure consistency and viability of a large open store of article metadata from multiple sources?
+What organization can be trusted to openly maintain such a large database? Are we thinking OKFN. If not OKFN then what?
+By what business model could the database be maintained?
+How should authority to write to the database be managed? 
+
+Excuse so many questions, but it seems timely to initiate some general discussion of these
+issues. 
+
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From pm286 at cam.ac.uk  Thu Mar 17 22:13:21 2011
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 17 Mar 2011 22:13:21 +0000
+Subject: [open-bibliography] Using IsItOpenData to get information about
+ licensing policies
+In-Reply-To: <20110317201347.452AD80C8@bibserver.Berkeley.EDU>
+References: <AANLkTimXi=shpeWoqssz0YAMVc8R2qXCWyeQyFPaLqYg@mail.gmail.com>
+	<20110307230915.8513E7FF8@bibserver.Berkeley.EDU>
+	<AANLkTi=XuWR_UQ4qcdzgHWuaKz9TRfdcR1aqJpMmJJ62@mail.gmail.com>
+	<AANLkTikkER=+d87yEUF-qAkjAbcTh-+5VBZ5UpVc-ug9@mail.gmail.com>
+	<AANLkTi=kG0Ri4pW=jX8KEAp0joQuNi9BBjjnAvG2xVk-@mail.gmail.com>
+	<20110316162424.ACADF8005@bibserver.Berkeley.EDU>
+	<AANLkTi=6kMtpsJkQ1-7ZZ=rumJEMeZwXs5a_QV=D5EN-@mail.gmail.com>
+	<20110316171849.CF5C18005@bibserver.Berkeley.EDU>
+	<AANLkTi=EB8bhjyLz57Xz+4=NnepOQvN2EPueRiXs6A9U@mail.gmail.com>
+	<20110317201347.452AD80C8@bibserver.Berkeley.EDU>
+Message-ID: <AANLkTi=FYSCzbr9-ftUen+Ez6ARx2W0kpPPegLPdBW3b@mail.gmail.com>
+
+On Thu, Mar 17, 2011 at 8:13 PM, Jim Pitman <pitman at stat.berkeley.edu>wrote:
+
+> Following up on a point from Peter's previous:
+>
+> >> We have been crawling the commercial publishers and should have
+> potentially 10 million records.
+>
+> First a few questions for Peter, then some for the group:
+>
+
+
+
+>
+> For Peter:
+>
+> Where/when will the results of this crawling be made available?
+>
+
+When we have time to concentrate on how that is done
+
+With what attributes/schema (especially, any subject classification?
+
+
+that may be copyright so we don't save it
+
+
+> , citation data?)
+
+
+that requires fulltext which we don;t have access to
+
+and what license?
+>
+
+ CC0 - the STM publishers agree that bib metadata are not copyright
+
+What explicit permissions do you have from which publishers?
+>
+
+we don't need them
+
+What if any basis for updating?
+>
+
+no idea but the software can be rerun any time
+
+How will your crawl compare with http://www.journaltocs.hw.ac.uk/ ?
+>
+
+it will get the article metadata, not the tocs
+
+For the group:
+>
+> Who else in the group besides Peter, myself(Jim) and Thomas is involved in
+> medium to large scale
+> efforts to aggregate article metadata?
+>
+
+
+> How to avoid unnecessary duplication of such efforts?
+>
+
+Coordinate it here
+
+
+> How to ensure consistency and viability of a large open store of article
+> metadata from multiple sources?
+>
+
+lets' see what we get. We can't really tell till we analyze it
+
+
+> What organization can be trusted to openly maintain such a large database?
+> Are we thinking OKFN. If not OKFN then what?
+>
+
+Article metadata is pretty static. The changes (such as withdrawn articles)
+are generally not consistently managed by the publishers anyway.
+
+By what business model could the database be maintained?
+>
+
+I don't think we can answer this now. When academia shows some interest in
+actually doing anything it will be easy. The best we can do is build a
+bottom-up demonstrator
+
+
+> How should authority to write to the database be managed?
+>
+> We'll face that when we have some interest from outside the current group.
+It's completely dependent on what the business model is.
+
+Excuse so many questions, but it seems timely to initiate some general
+> discussion of these
+> issues.
+>
+
+What is happening is that various prototypes are being created by early
+adopters. It's clear that some types of metadata are easy to collect at very
+low cost. When we have got those we'll get some idea of quality - e.g. are
+records from different sources compatible.  Then - I hope - we'll get some
+interest fromn potential funders.
+
+If academia relaises that it can take control of its own we may have some
+traction. The quality of commercial bib data is not necessarily good by
+definition - and I have some examples of awful stuff. But it's much easier
+to spend millions of pounds of academic money than to ...
+
+We shall get something useful but ...
+
+P.
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110317/3563c57d/attachment.htm>
+
+From tim at librarything.com  Fri Mar 18 14:49:26 2011
+From: tim at librarything.com (Tim Spalding)
+Date: Fri, 18 Mar 2011 10:49:26 -0400
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+Message-ID: <AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+
+Eric Lease Morgan said I could send this, which went to another list we're on:
+
+---------- Forwarded message ----------
+From: Eric Lease Morgan <eric.lease.morgan at gmail.com>
+Date: Fri, Mar 18, 2011 at 10:36 AM
+Subject: LibraryCloud university of florida
+
+The following from the University of Florida may be of interest to the group:
+
+?Beginning March 2011, the University of Florida Smathers
+?Libraries implemented a policy to include a Creative Commons
+?license in all of its original cataloging records. The records
+?are considered public domain with unrestricted downstream use for
+?any purpose.
+
+?The following MARC 588 field (Source of Description Note) is
+?added to new records contributed to WorldCat. It has not been
+?added retrospectively to University of Florida original records
+?in WorldCat.
+
+? ?588::|a This bibliographic record is available under a
+? ?Creative Commons CC0 license. The University of Florida
+? ?Libraries, as creator of this bibliographic record, has
+? ?waived all rights to it worldwide under copyright law,
+? ?including all related and neighboring rights, to the extent
+? ?allowed by law.
+
+?The University of Florida OPAC (a Solr/Lucene search engine) is
+?configured to display a Creative Commons CC0 license statement
+?based on the presence of a University of Florida OCLC symbol in
+?the MARC 040 field |a. The specified 040 |a is mapped to the
+?originalcataloger_text field in the Solr/Lucene record if it
+?exists in incoming records. ?This allows the statement to be
+?displayed in the OPAC for original records retrospectively, i.e.,
+?records without the 588 field, and appear in RSS feeds.
+
+
+See http://bit.ly/hAsh7Y
+
+--
+Eric Lease Morgan
+University of Notre Dame
+
+
+
+
+
+-- 
+Check out my library at http://www.librarything.com/profile/timspalding
+
+
+From jonathan.gray at okfn.org  Mon Mar 21 12:01:07 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 21 Mar 2011 13:01:07 +0100
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+Message-ID: <AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+
+Thanks very much for this Tim! Great news.
+
+Adrian, Mark: shall we put an item about this on openbiblio.net? We
+could tag things like this 'data releases' or something. This would
+also be *very* useful to have as an archive.
+
+J.
+
+On Fri, Mar 18, 2011 at 3:49 PM, Tim Spalding <tim at librarything.com> wrote:
+> Eric Lease Morgan said I could send this, which went to another list we're on:
+>
+> ---------- Forwarded message ----------
+> From: Eric Lease Morgan <eric.lease.morgan at gmail.com>
+> Date: Fri, Mar 18, 2011 at 10:36 AM
+> Subject: LibraryCloud university of florida
+>
+> The following from the University of Florida may be of interest to the group:
+>
+> ?Beginning March 2011, the University of Florida Smathers
+> ?Libraries implemented a policy to include a Creative Commons
+> ?license in all of its original cataloging records. The records
+> ?are considered public domain with unrestricted downstream use for
+> ?any purpose.
+>
+> ?The following MARC 588 field (Source of Description Note) is
+> ?added to new records contributed to WorldCat. It has not been
+> ?added retrospectively to University of Florida original records
+> ?in WorldCat.
+>
+> ? ?588::|a This bibliographic record is available under a
+> ? ?Creative Commons CC0 license. The University of Florida
+> ? ?Libraries, as creator of this bibliographic record, has
+> ? ?waived all rights to it worldwide under copyright law,
+> ? ?including all related and neighboring rights, to the extent
+> ? ?allowed by law.
+>
+> ?The University of Florida OPAC (a Solr/Lucene search engine) is
+> ?configured to display a Creative Commons CC0 license statement
+> ?based on the presence of a University of Florida OCLC symbol in
+> ?the MARC 040 field |a. The specified 040 |a is mapped to the
+> ?originalcataloger_text field in the Solr/Lucene record if it
+> ?exists in incoming records. ?This allows the statement to be
+> ?displayed in the OPAC for original records retrospectively, i.e.,
+> ?records without the 588 field, and appear in RSS feeds.
+>
+>
+> See http://bit.ly/hAsh7Y
+>
+> --
+> Eric Lease Morgan
+> University of Notre Dame
+>
+>
+>
+>
+>
+> --
+> Check out my library at http://www.librarything.com/profile/timspalding
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From adrian.pohl at okfn.org  Mon Mar 21 13:45:32 2011
+From: adrian.pohl at okfn.org (Adrian Pohl)
+Date: Mon, 21 Mar 2011 14:45:32 +0100
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+Message-ID: <AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+
+Hello,
+
+I don't know whether this really is a "data release". What is licensed
+are individual records and no full data dumps. As far as I know
+Florida University library didn't provide an export of records with a
+waiver (yet).
+
+As in the past it always were catalog dumps that were licensed, this
+is the first case that an open license is attached to individual
+records. I think that a Public Domain Mark[1] would be more
+appropriate for this use case as everything speaks for individual
+bibliographic records being public domain, at least if they don't
+contain abstracts. By attaching a waiver to data originally created by
+Florida university library staff they implicitely state that you CAN
+claim copyright on individual records.
+
+I would like to know what is the goal of this initiative. Does anybody
+on this list know more about its background? Openly licensing
+individual records doesn't prevend OCLC or any other agent from
+aggregating records into another catalog and copyrighting this
+collection. The legal status of the whole simply doesn't derive from
+the status of its parts. Thus, legally, you can claim intellectual
+copyright on a collection of openly licensed material. OCLC themselves
+has made clear they aren't claiming intellectual property rights on
+single records.[2]
+
+I think, it's the licensing of collections of data, of whole catalogs
+that really matters. Convention shows that single records were and are
+always treated as if they were public domain so we don't have to fight
+for this anymore. The Principles on Open Bibliographic Data[3] take
+this into account as they explicitely refer to collections. It would
+be great if the University of Florida library would publish a dump of
+all public domain records under CC0.
+
+Adrian
+
+[1] See http://creativecommons.org/weblog/entry/23830
+
+[2] See 2 C. of the "WorldCat Rights and Responsibilities for the OCLC
+Cooperative": "OCLC claims copyright rights in WorldCat as a
+compilation, it does not claim copyright ownership of individual
+records." http://www.oclc.org/worldcat/recorduse/policy/default.htm
+
+[3] http://openbiblio.net/principles/
+
+2011/3/21 Jonathan Gray <jonathan.gray at okfn.org>:
+> Thanks very much for this Tim! Great news.
+>
+> Adrian, Mark: shall we put an item about this on openbiblio.net? We
+> could tag things like this 'data releases' or something. This would
+> also be *very* useful to have as an archive.
+>
+> J.
+>
+> On Fri, Mar 18, 2011 at 3:49 PM, Tim Spalding <tim at librarything.com> wrote:
+>> Eric Lease Morgan said I could send this, which went to another list we're on:
+>>
+>> ---------- Forwarded message ----------
+>> From: Eric Lease Morgan <eric.lease.morgan at gmail.com>
+>> Date: Fri, Mar 18, 2011 at 10:36 AM
+>> Subject: LibraryCloud university of florida
+>>
+>> The following from the University of Florida may be of interest to the group:
+>>
+>> ?Beginning March 2011, the University of Florida Smathers
+>> ?Libraries implemented a policy to include a Creative Commons
+>> ?license in all of its original cataloging records. The records
+>> ?are considered public domain with unrestricted downstream use for
+>> ?any purpose.
+>>
+>> ?The following MARC 588 field (Source of Description Note) is
+>> ?added to new records contributed to WorldCat. It has not been
+>> ?added retrospectively to University of Florida original records
+>> ?in WorldCat.
+>>
+>> ? ?588::|a This bibliographic record is available under a
+>> ? ?Creative Commons CC0 license. The University of Florida
+>> ? ?Libraries, as creator of this bibliographic record, has
+>> ? ?waived all rights to it worldwide under copyright law,
+>> ? ?including all related and neighboring rights, to the extent
+>> ? ?allowed by law.
+>>
+>> ?The University of Florida OPAC (a Solr/Lucene search engine) is
+>> ?configured to display a Creative Commons CC0 license statement
+>> ?based on the presence of a University of Florida OCLC symbol in
+>> ?the MARC 040 field |a. The specified 040 |a is mapped to the
+>> ?originalcataloger_text field in the Solr/Lucene record if it
+>> ?exists in incoming records. ?This allows the statement to be
+>> ?displayed in the OPAC for original records retrospectively, i.e.,
+>> ?records without the 588 field, and appear in RSS feeds.
+>>
+>>
+>> See http://bit.ly/hAsh7Y
+>>
+>> --
+>> Eric Lease Morgan
+>> University of Notre Dame
+>>
+>>
+>>
+>>
+>>
+>> --
+>> Check out my library at http://www.librarything.com/profile/timspalding
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+From jonathan.gray at okfn.org  Mon Mar 21 13:54:26 2011
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 21 Mar 2011 14:54:26 +0100
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+	<AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+Message-ID: <AANLkTi=jF3S2wpHY0dZ3HfzTaK-7BiyUPEyTf3jVYnR6@mail.gmail.com>
+
+Thanks Adrian. Are you in touch with them? Or is anyone else on the
+list in touch with them about licensing?
+
+Tim: have you been talking to them directly?
+
+All the best,
+
+Jonathan
+
+On Mon, Mar 21, 2011 at 2:45 PM, Adrian Pohl <adrian.pohl at okfn.org> wrote:
+> Hello,
+>
+> I don't know whether this really is a "data release". What is licensed
+> are individual records and no full data dumps. As far as I know
+> Florida University library didn't provide an export of records with a
+> waiver (yet).
+>
+> As in the past it always were catalog dumps that were licensed, this
+> is the first case that an open license is attached to individual
+> records. I think that a Public Domain Mark[1] would be more
+> appropriate for this use case as everything speaks for individual
+> bibliographic records being public domain, at least if they don't
+> contain abstracts. By attaching a waiver to data originally created by
+> Florida university library staff they implicitely state that you CAN
+> claim copyright on individual records.
+>
+> I would like to know what is the goal of this initiative. Does anybody
+> on this list know more about its background? Openly licensing
+> individual records doesn't prevend OCLC or any other agent from
+> aggregating records into another catalog and copyrighting this
+> collection. The legal status of the whole simply doesn't derive from
+> the status of its parts. Thus, legally, you can claim intellectual
+> copyright on a collection of openly licensed material. OCLC themselves
+> has made clear they aren't claiming intellectual property rights on
+> single records.[2]
+>
+> I think, it's the licensing of collections of data, of whole catalogs
+> that really matters. Convention shows that single records were and are
+> always treated as if they were public domain so we don't have to fight
+> for this anymore. The Principles on Open Bibliographic Data[3] take
+> this into account as they explicitely refer to collections. It would
+> be great if the University of Florida library would publish a dump of
+> all public domain records under CC0.
+>
+> Adrian
+>
+> [1] See http://creativecommons.org/weblog/entry/23830
+>
+> [2] See 2 C. of the "WorldCat Rights and Responsibilities for the OCLC
+> Cooperative": "OCLC claims copyright rights in WorldCat as a
+> compilation, it does not claim copyright ownership of individual
+> records." http://www.oclc.org/worldcat/recorduse/policy/default.htm
+>
+> [3] http://openbiblio.net/principles/
+>
+> 2011/3/21 Jonathan Gray <jonathan.gray at okfn.org>:
+>> Thanks very much for this Tim! Great news.
+>>
+>> Adrian, Mark: shall we put an item about this on openbiblio.net? We
+>> could tag things like this 'data releases' or something. This would
+>> also be *very* useful to have as an archive.
+>>
+>> J.
+>>
+>> On Fri, Mar 18, 2011 at 3:49 PM, Tim Spalding <tim at librarything.com> wrote:
+>>> Eric Lease Morgan said I could send this, which went to another list we're on:
+>>>
+>>> ---------- Forwarded message ----------
+>>> From: Eric Lease Morgan <eric.lease.morgan at gmail.com>
+>>> Date: Fri, Mar 18, 2011 at 10:36 AM
+>>> Subject: LibraryCloud university of florida
+>>>
+>>> The following from the University of Florida may be of interest to the group:
+>>>
+>>> ?Beginning March 2011, the University of Florida Smathers
+>>> ?Libraries implemented a policy to include a Creative Commons
+>>> ?license in all of its original cataloging records. The records
+>>> ?are considered public domain with unrestricted downstream use for
+>>> ?any purpose.
+>>>
+>>> ?The following MARC 588 field (Source of Description Note) is
+>>> ?added to new records contributed to WorldCat. It has not been
+>>> ?added retrospectively to University of Florida original records
+>>> ?in WorldCat.
+>>>
+>>> ? ?588::|a This bibliographic record is available under a
+>>> ? ?Creative Commons CC0 license. The University of Florida
+>>> ? ?Libraries, as creator of this bibliographic record, has
+>>> ? ?waived all rights to it worldwide under copyright law,
+>>> ? ?including all related and neighboring rights, to the extent
+>>> ? ?allowed by law.
+>>>
+>>> ?The University of Florida OPAC (a Solr/Lucene search engine) is
+>>> ?configured to display a Creative Commons CC0 license statement
+>>> ?based on the presence of a University of Florida OCLC symbol in
+>>> ?the MARC 040 field |a. The specified 040 |a is mapped to the
+>>> ?originalcataloger_text field in the Solr/Lucene record if it
+>>> ?exists in incoming records. ?This allows the statement to be
+>>> ?displayed in the OPAC for original records retrospectively, i.e.,
+>>> ?records without the 588 field, and appear in RSS feeds.
+>>>
+>>>
+>>> See http://bit.ly/hAsh7Y
+>>>
+>>> --
+>>> Eric Lease Morgan
+>>> University of Notre Dame
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> --
+>>> Check out my library at http://www.librarything.com/profile/timspalding
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From kcoyle at kcoyle.net  Mon Mar 21 14:12:19 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 21 Mar 2011 07:12:19 -0700
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+	<AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+Message-ID: <20110321071219.2116703qq3rreyf7@kcoyle.net>
+
+This comes out of the OCLC record re-use policy, and Florida is  
+essentially exercising the same initiative as U Michigan did. The OCLC  
+policy says that OCLC makes no claim over records that the library  
+itself created, and therefore the library, if it can identify those  
+records, can do whatever it wants with them without any of the  
+limitations in the policy. So this action has to do with the OCLC  
+policy, which does not allow re-use of other records from their  
+database.
+
+The fact that they have added a license to each record should probably  
+not be read as any assumption about copyright and bibliographic data.  
+They are trying to make their records that are not limited by the OCLC  
+policy available. This is a Good Thing. To do so, they needed to 1)  
+identify those records and 2) let others downstream identify those  
+records. They've done so with a note field carrying the CC license.
+
+They didn't provide an export because they didn't think it would be  
+useful. Some of us have suggested it to them. The export would most  
+likely be in MARC format. Should we continue to press them on this?
+
+kc
+
+Quoting Adrian Pohl <adrian.pohl at okfn.org>:
+
+> Hello,
+>
+> I don't know whether this really is a "data release". What is licensed
+> are individual records and no full data dumps. As far as I know
+> Florida University library didn't provide an export of records with a
+> waiver (yet).
+>
+> As in the past it always were catalog dumps that were licensed, this
+> is the first case that an open license is attached to individual
+> records. I think that a Public Domain Mark[1] would be more
+> appropriate for this use case as everything speaks for individual
+> bibliographic records being public domain, at least if they don't
+> contain abstracts. By attaching a waiver to data originally created by
+> Florida university library staff they implicitely state that you CAN
+> claim copyright on individual records.
+>
+> I would like to know what is the goal of this initiative. Does anybody
+> on this list know more about its background? Openly licensing
+> individual records doesn't prevend OCLC or any other agent from
+> aggregating records into another catalog and copyrighting this
+> collection. The legal status of the whole simply doesn't derive from
+> the status of its parts. Thus, legally, you can claim intellectual
+> copyright on a collection of openly licensed material. OCLC themselves
+> has made clear they aren't claiming intellectual property rights on
+> single records.[2]
+>
+> I think, it's the licensing of collections of data, of whole catalogs
+> that really matters. Convention shows that single records were and are
+> always treated as if they were public domain so we don't have to fight
+> for this anymore. The Principles on Open Bibliographic Data[3] take
+> this into account as they explicitely refer to collections. It would
+> be great if the University of Florida library would publish a dump of
+> all public domain records under CC0.
+>
+> Adrian
+>
+> [1] See http://creativecommons.org/weblog/entry/23830
+>
+> [2] See 2 C. of the "WorldCat Rights and Responsibilities for the OCLC
+> Cooperative": "OCLC claims copyright rights in WorldCat as a
+> compilation, it does not claim copyright ownership of individual
+> records." http://www.oclc.org/worldcat/recorduse/policy/default.htm
+>
+> [3] http://openbiblio.net/principles/
+>
+> 2011/3/21 Jonathan Gray <jonathan.gray at okfn.org>:
+>> Thanks very much for this Tim! Great news.
+>>
+>> Adrian, Mark: shall we put an item about this on openbiblio.net? We
+>> could tag things like this 'data releases' or something. This would
+>> also be *very* useful to have as an archive.
+>>
+>> J.
+>>
+>> On Fri, Mar 18, 2011 at 3:49 PM, Tim Spalding <tim at librarything.com> wrote:
+>>> Eric Lease Morgan said I could send this, which went to another  
+>>> list we're on:
+>>>
+>>> ---------- Forwarded message ----------
+>>> From: Eric Lease Morgan <eric.lease.morgan at gmail.com>
+>>> Date: Fri, Mar 18, 2011 at 10:36 AM
+>>> Subject: LibraryCloud university of florida
+>>>
+>>> The following from the University of Florida may be of interest to  
+>>> the group:
+>>>
+>>> ?Beginning March 2011, the University of Florida Smathers
+>>> ?Libraries implemented a policy to include a Creative Commons
+>>> ?license in all of its original cataloging records. The records
+>>> ?are considered public domain with unrestricted downstream use for
+>>> ?any purpose.
+>>>
+>>> ?The following MARC 588 field (Source of Description Note) is
+>>> ?added to new records contributed to WorldCat. It has not been
+>>> ?added retrospectively to University of Florida original records
+>>> ?in WorldCat.
+>>>
+>>> ? ?588::|a This bibliographic record is available under a
+>>> ? ?Creative Commons CC0 license. The University of Florida
+>>> ? ?Libraries, as creator of this bibliographic record, has
+>>> ? ?waived all rights to it worldwide under copyright law,
+>>> ? ?including all related and neighboring rights, to the extent
+>>> ? ?allowed by law.
+>>>
+>>> ?The University of Florida OPAC (a Solr/Lucene search engine) is
+>>> ?configured to display a Creative Commons CC0 license statement
+>>> ?based on the presence of a University of Florida OCLC symbol in
+>>> ?the MARC 040 field |a. The specified 040 |a is mapped to the
+>>> ?originalcataloger_text field in the Solr/Lucene record if it
+>>> ?exists in incoming records. ?This allows the statement to be
+>>> ?displayed in the OPAC for original records retrospectively, i.e.,
+>>> ?records without the 588 field, and appear in RSS feeds.
+>>>
+>>>
+>>> See http://bit.ly/hAsh7Y
+>>>
+>>> --
+>>> Eric Lease Morgan
+>>> University of Notre Dame
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> --
+>>> Check out my library at http://www.librarything.com/profile/timspalding
+>>>
+>>> _______________________________________________
+>>> open-bibliography mailing list
+>>> open-bibliography at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org
+>>
+>> http://twitter.com/jwyg
+>> http://identi.ca/jwyg
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>>
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From pitman at stat.Berkeley.EDU  Mon Mar 21 16:19:34 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 21 Mar 2011 09:19:34 -0700
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <20110321071219.2116703qq3rreyf7@kcoyle.net>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+	<AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+	<20110321071219.2116703qq3rreyf7@kcoyle.net>
+Message-ID: <20110321161934.CAE508003@bibserver.Berkeley.EDU>
+
+Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> They didn't provide an export because they didn't think it would be  
+> useful. Some of us have suggested it to them. The export would most  
+> likely be in MARC format. Should we continue to press them on this?
+
+I definitely think we should encourage all agents releasing data to provide
+a dump. This allows others to opportunistically upgrade the data format and
+cross link it to other sources.  The value of individual releases may be limited,
+but collectively the value should grow.
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From kcoyle at kcoyle.net  Mon Mar 21 16:50:33 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Mon, 21 Mar 2011 09:50:33 -0700
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <20110321161934.CAE508003@bibserver.Berkeley.EDU>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+	<AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+	<20110321071219.2116703qq3rreyf7@kcoyle.net>
+	<20110321161934.CAE508003@bibserver.Berkeley.EDU>
+Message-ID: <20110321095033.141524tuqn4nccm1@kcoyle.net>
+
+When you suggest a dump to libraries their first thought is: how will  
+we keep it up to date? I think this is a legitimate concern. Any data  
+set produced more than one month ago is probably quite out of date  
+already. In most library systems, creating a large dump is quite  
+awkward since the systems are in constant use and a dump consumes  
+considerable resources.
+
+I think we should ask for dumps, but we either have to be concerned  
+about keeping them up to date or we should expressly treat these as  
+"experimental" and thus relieve the providing agency of the burden of  
+reproducing dumps on a regular basis. (And I'm not convinced that a  
+succession of full dumps truly serves the needs of folks building  
+databases.)
+
+kc
+
+Quoting Jim Pitman <pitman at stat.Berkeley.EDU>:
+
+> Karen Coyle <kcoyle at kcoyle.net> wrote:
+>
+>> They didn't provide an export because they didn't think it would be
+>> useful. Some of us have suggested it to them. The export would most
+>> likely be in MARC format. Should we continue to press them on this?
+>
+> I definitely think we should encourage all agents releasing data to provide
+> a dump. This allows others to opportunistically upgrade the data format and
+> cross link it to other sources.  The value of individual releases  
+> may be limited,
+> but collectively the value should grow.
+> --Jim
+>
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+>
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970  fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From krichel at openlib.org  Mon Mar 21 19:11:22 2011
+From: krichel at openlib.org (Thomas Krichel)
+Date: Mon, 21 Mar 2011 20:11:22 +0100
+Subject: [open-bibliography] http://3lib.org updated
+Message-ID: <20110321191122.GA22732@openlib.org>
+
+
+  Hi,
+
+  I have done some updating on the 3lib web site at http://3lib.org,
+  to bring it closer in line to what we use in AuthorClaim. 
+  I included SOLIS, Euclid, Agris. Comments and suggestions
+  are most welcome! 
+
+  In other news, James Robert Griffin III will talk about 3lib,
+  AuthorClaim, and more importantly, how they are used together in the
+  budding AuthorProfile service, at the upcoming ORCID partipants
+  meeting
+
+http://www.orcid.org/civicrm/event/info?reset=1&id=1
+
+  on 18 May 2011, hosted by Harvard University in Boston. 
+
+  Cheers,
+
+  Thomas Krichel                    http://openlib.org/home/krichel
+                                http://authorclaim.org/profile/pkr1
+                                               skype: thomaskrichel
+
+
+From pitman at stat.Berkeley.EDU  Tue Mar 22 04:58:21 2011
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Mon, 21 Mar 2011 21:58:21 -0700
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <20110321095033.141524tuqn4nccm1@kcoyle.net>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+	<AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+	<20110321071219.2116703qq3rreyf7@kcoyle.net>
+	<20110321161934.CAE508003@bibserver.Berkeley.EDU>
+	<20110321095033.141524tuqn4nccm1@kcoyle.net>
+Message-ID: <20110322045821.CA06C8003@bibserver.Berkeley.EDU>
+
+Karen Coyle <kcoyle at kcoyle.net> wrote:
+
+> I think we should ask for dumps, but we either have to be concerned  
+> about keeping them up to date or we should expressly treat these as  
+> "experimental" and thus relieve the providing agency of the burden of  
+> reproducing dumps on a regular basis. (And I'm not convinced that a  
+> succession of full dumps truly serves the needs of folks building  
+> databases.)
+
+Understood.  Would it be too much to ask libraries to plug their catalogs into OAI-PMH?
+--Jim
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From emc59 at cam.ac.uk  Tue Mar 22 12:31:42 2011
+From: emc59 at cam.ac.uk (Edmund Chamberlain)
+Date: Tue, 22 Mar 2011 12:31:42 +0000
+Subject: [open-bibliography] Fwd: LibraryCloud university of,	florida
+In-Reply-To: <mailman.9.1300795204.1977.open-bibliography@lists.okfn.org>
+References: <mailman.9.1300795204.1977.open-bibliography@lists.okfn.org>
+Message-ID: <4D8896AE.6040101@cam.ac.uk>
+
+
+On 22/03/2011 12:00, open-bibliography-request at lists.okfn.org wrote:
+ >> I think we should ask for dumps, but we either have to be concerned
+ >> about keeping them up to date or we should expressly treat these as
+ >> "experimental" and thus relieve the providing agency of the burden of
+ >> reproducing dumps on a regular basis. (And I'm not convinced that a
+ >> succession of full dumps truly serves the needs of folks building
+ >> databases.)
+
+ >Understood.  Would it be too much to ask libraries to plug their 
+ >catalogs into OAI-PMH?
+ >--Jim
+
+Sadly probably yes, given the closed nature of commercial library 
+management systems and relative lack of development in this area.
+
+I've grafted OAI-PMH functionality onto a library catalogue / LMS in a 
+former job and attempted to get a commercial vendors solution up and 
+running in my present one. Whilst both worked to a point, neither was 
+exactly straightforward. The former required a lot of hacking.
+
+An additional complication would be licensing restrictions around record 
+ownership. Any OAI-PMH repository 'on the side' would arguably have to 
+handle exclusively open data, which means passing it selected metadata 
+from the LMS. Many libraries are still unsure of the IPR history of much 
+of their data. With COMET, we are hoping to provide some clarity here at 
+least.
+
+To throw this back, it seems clear to me that complete dumps are of most 
+interest to consumers of open data, above and beyond feeds/API's (which 
+are marginally more achievable for libraries). How useful is it for 
+those in the business of consuming open data to have regular updates and 
+or some form of version control over data dumps and at what frequency? 
+Would you satisfied with a 'one-off', which is much more achievable?
+
+-- 
+Edmund Chamberlain
+Systems Development Librarian
+COMET Project Manager(Cambridge Open METadata)
+Electronic Services and Systems
+Cambridge University Library
+West Road,
+Cambridge
+CB3 9DR
+
+tel: (+44) 01223 747437
+fax: (+44) 01223 333160
+
+email: emc59 at cam.ac.uk
+
+Try LibrarySearch at http://search.lib.cam.ac.uk - a new way to discover 
+Cambridge Library Collections
+
+
+From kcoyle at kcoyle.net  Tue Mar 22 14:36:59 2011
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Tue, 22 Mar 2011 07:36:59 -0700
+Subject: [open-bibliography] Fwd: LibraryCloud university of florida
+In-Reply-To: <20110322045821.CA06C8003@bibserver.Berkeley.EDU>
+References: <9EA93224-DE64-48F9-9072-D91009EAED1A@gmail.com>
+	<AANLkTik=PUQOhzTFwSrn6+-iCfE5A6cPU+sqKHd1hF8_@mail.gmail.com>
+	<AANLkTinRp3sm7zNW24SE-xsN6QUgdToZ_g1Q+i-xdBzA@mail.gmail.com>
+	<AANLkTim046_gHeAAM=_M4BTcOeV3J8Emm_4A1sqrOqoT@mail.gmail.com>
+	<20110321071219.2116703qq3rreyf7@kcoyle.net>
+	<20110321161934.CAE508003@bibserver.Berkeley.EDU>
+	<20110321095033.141524tuqn4nccm1@kcoyle.net>
+	<20110322045821.CA06C8003@bibserver.Berkeley.EDU>
+Message-ID: <20110322073659.19733hjnzijmwr9n@kcoyle.net>
+
+In general, yes, unfortunately it is too much to ask. UF is a  
+particularly sophisticated library system, so they may have the  
+capability, but OAI is generally not available from commercial library  
+systems, which is what most libraries use. The only way I know to make  
+the library system data available is to export it and load it into an  
+OAI-PMH-compatible repository. UF may be able to do this, but again  
+there is the export/update question since OAI-PMH does not go directly  
+against their working database.
+
+see: http://code.google.com/p/xcoaitoolkit/
+
+kc
+
+Quoting Jim Pitman <pitman at stat.Berkeley.EDU>:
+
+> Karen Coyle <kcoyle at kcoyle.net> wrote:
+>
+>> I think we should ask for dumps, but we either have to be concerned
+>> about keeping them up to date or we should expressly treat these as
+>> "experimental" and thus relieve the providing agency of the burden of
+>> reproducing dumps on a regular basis. (And I'm not convinced that a
+>> succession of full dumps truly serves the needs of folks building
+>> databases.)
+>
+> Understood.  Would it be too much to ask libraries to plug their  
+> catalogs into OAI-PMH?
+> --Jim
+> ----------------------------------------------
+> Jim Pitman
+> Director, Bibliographic Knowledge Network Project
+> http://www.bibkn.org/
+>
+> Professor of Statistics and Mathematics
+> University of California
+> 367 Evans Hall # 3860
+> Berkeley, CA 94720-3860
+>
+> ph: 510-642-9970  fax: 510-642-7892
+> e-mail: pitman at stat.berkeley.edu
+> URL: http://www.stat.berkeley.edu/users/pitman
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+
+From owen at ostephens.com  Wed Mar 23 12:29:50 2011
+From: owen at ostephens.com (Owen Stephens)
+Date: Wed, 23 Mar 2011 12:29:50 +0000
+Subject: [open-bibliography] 'Opening Data-Opening Doors' Conference moves
+	to a bigger venue - more places available
+Message-ID: <D8483099-551B-4982-BAA1-2EEDF9418C6F@ostephens.com>
+
+Due to demand, this conference has now moved to a larger venue and more tickets have now been released ... so if you missed out the first time, why not sign up now :)
+
+How can we gain bigger audiences for our scholarly and cultural resources and enhance services for researchers, teachers and learners? 
+
+The 'Opening Data - Opening Doors' event on Monday 18th April marks the starting point of a new programme of activity led by the JISC and RLUK Resource Discovery Taskforce to help answer this question.  The RDTF programme, involving national stakeholders across the spectrum of Libraries, Archives and Museums, is focused on building critical mass through opening up data, exploring and demonstrating what open data makes possible, and actively sharing learning points with the wider community.
+
+Chaired by Professor David Baker, Deputy Chair of the JISC Board, on behalf of the JISC and RLUK Resource Discovery Task Force, the 'Opening Data - Opening Doors' event will:
+
+*         Hear from services that are opening up their data including what's happening in the new RDTF projects that have just been commissioned
+
+*         Help to shape the messages, advice and support offered during the 2011 programme and beyond
+
+*         Help to develop practical and engaging approaches to exploiting our data
+
+Confirmed speakers are from King's College London, National Maritime Museum, RLUK, The National Archives, UKOLN and University of Cambridge.
+
+Due to demand for extra tickets, we have moved the conference location, still in central Manchester close to Piccadilly station.
+
+New Venue: Mint Hotel Manchester, 1 Auburn Street, 1 Piccadilly Place, Manchester, M1 3DG 
+
+Date: Monday 18th April 2011, 10.00am to 4.00pm
+
+Who should attend? Managers, practitioners, developers and advocates from libraries, archives, museums, associated publishers and interested organisations who want early involvement in clarifying, expanding and challenging the realities of exposing, sharing and exploiting the resource description data held by our institutions.
+ 
+Register at: http://rdtf-opening-doors.eventbrite.com/
+ 
+There is already a lot happening.  To find out more download a copy of the first RDTF newsletter at:http://rdtf.mimas.ac.uk/newsletter/rdtfnewsletter01-march2011.pdf
+ 
+For more information on the JISC and RLUK Resource Discovery Taskforce, visit: http://rdtf.mimas.ac.uk
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110323/41b1d0fe/attachment.htm>
+
+From ww at styx.org  Fri Mar 25 16:09:00 2011
+From: ww at styx.org (William Waites)
+Date: Fri, 25 Mar 2011 17:09:00 +0100
+Subject: [open-bibliography] concrete things and works
+Message-ID: <20110325160900.GA55581@styx.org>
+
+Just to elaborate a bit on something that came up in
+the call today. Keeping in mind some thoughts
+expressed on the LLD list last week [1] which are 
+salient.
+
+Tatiana wants a way to link together different books
+into some thing like a "Work", expressing the difference
+between myriad editions of "War and Peace" and the
+platonic ideal of the work "War and Peace".
+
+I think it is too early to do this. We still don't
+have all the plumbing that we need in order to manage
+individual items, we have yet to import more varied
+datasets, basic things like user account management,
+creating and editing entries really do need to be
+done first.
+
+Talking about things on a more abstract level is 
+hard. Put vaguely, we all might agree that there is
+such a thing as a Work, but looking closer it isn't
+at all clear that we are agreeing on the same thing.
+Librarians have a well developed set of cataloging
+rules that tell them when something is a new work
+and when it is not. These rules may or may not map
+cleanly to the way an art historian or musicologist
+thinks of such things. When do we have a derived 
+work? The intellectual property lawyers probably have
+yet different ideas. If we have translations are these
+new, derived works? Librarians might say no, lawyers
+would likely say yes.
+
+So this is where things get interesting. How do we
+erect a conceptual superstructure on top of these 
+concrete things that we have? Can we allow for 
+alternative conceptual superstructures? Particularly
+how does this affect searching and browsing (and 
+here is the relevance of FRBR understood as functional
+requirements not as a set of classes and rules)?
+
+Our interest in the public domain necessarily means
+that we cannot take a strictly library science point
+of view since we seek to provide answers to what are
+fundamentally legal questions. But we don't want to
+make something that would be unrecognisable to a 
+librarian.
+
+So we should think about these things, but definitely
+not rush forward with implementation especially as
+there are many much simpler things, proverbial low-
+hanging fruit, that need doing.
+
+Cheers,
+-w
+
+[1] http://lists.w3.org/Archives/Public/public-lld/2011Mar/0129.html
+-- 
+William Waites                <mailto:ww at styx.org>
+http://river.styx.org/ww/        <sip:ww at styx.org>
+F4B3 39BF E775 CF42 0BAB  3DF0 BE40 A6DF B06F FD45
+
+
+From theodora.middleton at okfn.org  Tue Mar 29 15:53:32 2011
+From: theodora.middleton at okfn.org (Theodora Middleton)
+Date: Tue, 29 Mar 2011 16:53:32 +0200
+Subject: [open-bibliography] Any contributions for the OKF newsletter?
+Message-ID: <AANLkTi=x-3S0sm6GgnC38u4A8ac4C7MSEgcj_muv93qa@mail.gmail.com>
+
+Dear all,
+
+What's been going on with you then? We're currently compiling the first
+quarter newsletter for the Open Knowledge Foundation, so if you've got
+anything you'd like to contribute to our community news section please send
+a snappy couple of sentences to me at theodora.middleton[at]okfn.org by
+April 4th.
+
+I look forward to hearing your tales :-)
+
+Thanks!
+
+Theodora Middleton
+
+The Open Knowledge Foundation
+http://blog.okfn.org/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20110329/89c69423/attachment.htm>
+

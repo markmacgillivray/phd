@@ -1,0 +1,1279 @@
+From naomi.lillie at okfn.org  Mon Sep  3 09:52:20 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Mon, 3 Sep 2012 09:52:20 +0100
+Subject: [open-bibliography] Fwd: [Open-access] Digital Research 2012 - one
+	week to go!
+In-Reply-To: <CAMQ+bMbY1gzUCzqc_XzHq6afgbdCtRk6dbo-9w-=kVbsPub_hw@mail.gmail.com>
+References: <CAMQ+bMbY1gzUCzqc_XzHq6afgbdCtRk6dbo-9w-=kVbsPub_hw@mail.gmail.com>
+Message-ID: <CACGRf4+YHD=PH5Unk04Od+TtRRBjr8_EyWBAjHdwixsjUTwZvw@mail.gmail.com>
+
+Hi all, this may be of interest... Naomi
+
+
+---------- Forwarded message ----------
+From: Laura Newman <laura.newman at okfn.org>
+Date: 31 August 2012 16:28
+Subject: [Open-access] Digital Research 2012 - one week to go!
+To: open-access at lists.okfn.org, open-science <open-science at lists.okfn.org>
+Cc: David De Roure <david.deroure at oerc.ox.ac.uk>
+
+
+
+
+
+   *Digital Research 2012*
+
+ 10-12 September 2012
+ St Catherine?s College, Oxford, UK
+
+  http://digital-research.oerc.ox.ac.uk
+
+ Digital Research practice, tools and infrastructures have been embraced by
+researchers across all disciplines. The landscape is changing rapidly, with
+the Web as our research environment and also a lens onto our society and
+world. Researchers across sciences and humanities are facing the
+opportunities and challenges of new forms of data and big data analytics,
+and harnessing the technological advances of new devices and
+"e-Infrastructure" including High Performance Computing and the Cloud.
+
+   *Digital Research 2012* features an exciting three-day programme with a
+great set of speakers, bringing the community together to showcase today?s
+digital research practice and innovation and set an influential agenda for
+tomorrow. We welcome researchers, research technologists and developers at
+all stages of their careers. Here are some highlights of the programme -
+please see the website for the full programme and registration information:
+
+ *New Science of New Data Symposium* and *Innovation Showcase* (Monday
+10th).  Keynotes from social network analysis expert *Noshir
+Contractor*(Northwestern University) on Web Science, government open
+data director
+*Nigel Shadbolt* on Open Data, and a closing address by philosopher,
+computer scientist and political writer *Kieron O'Hara* - with twitter
+analytics, geolocated social media and informational citizenship in
+between.  Also the launch of the *Software Sustainability Institute's
+Fellows Programme *and the community innovation showcase and workshops.
+
+ *Future of Digital Research* (Tuesday 11th).  Keynotes from *Stevan
+Harnad*on "Digital Research: How and Why the RCUK Open Access Policy
+Needs to Be
+Revised", *Jim Hendler* (Rensselaer Polytechnic Institute) on "Broad Data"
+(not just big!), and *Lizbeth Goodman* (UCD) on "SMART spaces by and for
+SMART people". Sessions are themed on Open Science (with a data publishing
+panel), Smart Spaces as a Utility and future glimpses from the community,
+all culminating in a Roundtable discussion on the Future of Digital
+Research.
+
+ *e?Infrastructure Forum* and *Innovation Showcase* (Wednesday 12th). We
+open with a dual-track community innovation showcase, then launch the UK
+e-Infrastructure Academic Community Forum where *Peter Coveney* (UK
+e-Infrastructure Leadership Council and UCL) will present the "state of the
+nation" followed by a Provider?s Panel, Software, Training and User?s Panel
+- an important and timely opportunity for the community to review where we
+are with the recent UK government investment and determine what's needed in
+the future.
+
+ It's free to attend just the *New Science of New Data* symposium or *Software
+Sustainability Institute Fellows Programme* launch on Monday 10th, or
+the *e-Infrastructure
+Forum* on Wednesday 12th (thanks to our sponsors). Full 3-day registration
+enables you to attend everything and there's a lot more happening
+throughout the event, including an exciting "DevChallenge" hackathon run by
+DevCSI, software surgery by SSI and multiple community workshops - plus the
+Digital Research 2012 dinner in College and a reception in the
+spectacular *Museum
+of Natural History*. Please go to
+http://digital-research.oerc.ox.ac.uk/registration to register.
+
+   We're very grateful to everyone who has come together to make this event
+possible, including e-Research South, Open Knowledge Foundation, Web
+Science, the Digital Social Research programme, our Digital Economy
+colleagues and the All Hands Foundation.
+
+ We look forward to seeing you in Oxford 10-12th September to discuss the
+state of the art and the shape of the future in Digital Research.
+
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+
+
+_______________________________________________
+open-access mailing list
+open-access at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-access
+
+
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120903/ba541652/attachment.htm>
+
+From naomi.lillie at okfn.org  Mon Sep  3 16:28:47 2012
+From: naomi.lillie at okfn.org (Naomi Lillie)
+Date: Mon, 3 Sep 2012 16:28:47 +0100
+Subject: [open-bibliography] Next virtual meeting: 2012-09-04, 15:00 GMT
+Message-ID: <CACGRf4LXcUa9_a3Yjt=FgWytngaNb6kQ7hoxU-0YD-=2_x-_8Q@mail.gmail.com>
+
+Dear all,
+
+In Adrian's absence I'll again be hosting the Open Bibliography Working
+Group call, tomorrow Tuesday 4th September at 16.00 BST (GMT+1).
+
+Please log into the etherpad <
+http://okfnpad.org/25th-open-bibliography-meeting> a couple of minutes
+before and I'll call you on Skype (please add your Skype details to the
+pad); please do also add your topics for discussion.
+
+The agenda is currently empty, so anything goes! If you would like to join
+the call just to see what's going on you would be most welcome.
+
+Adrian is due to be back hosting the call in October.
+
+Regards,
+Naomi
+
+
+-- 
+Naomi Lillie
+Foundation Administrator and Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: n.lillie
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120903/a2757db5/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Sep 12 12:47:07 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 12 Sep 2012 13:47:07 +0200
+Subject: [open-bibliography] Europeana opens up data on 20 million cultural
+	items
+Message-ID: <CANQ_vu2oKEPgThbJivc6BLQVooY7yA9yTJrFi2MwnS3GzBUDfQ@mail.gmail.com>
+
+FYI I just posted a brief piece on the Guardian Datablog about the
+significance of today's big release of CC0 data from Europeana:
+
+https://twitter.com/jwyg/status/245847476899295233
+http://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-heritage-library-europe
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From tfmorris at gmail.com  Wed Sep 12 16:12:43 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Wed, 12 Sep 2012 11:12:43 -0400
+Subject: [open-bibliography] Europeana opens up data on 20 million
+ cultural items
+In-Reply-To: <CANQ_vu2oKEPgThbJivc6BLQVooY7yA9yTJrFi2MwnS3GzBUDfQ@mail.gmail.com>
+References: <CANQ_vu2oKEPgThbJivc6BLQVooY7yA9yTJrFi2MwnS3GzBUDfQ@mail.gmail.com>
+Message-ID: <CAE9vqEHvuxNTrdYWZvSv8fHx3zjhPTRduVukisRNQrgwspb8Og@mail.gmail.com>
+
+On Wed, Sep 12, 2012 at 7:47 AM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> FYI I just posted a brief piece on the Guardian Datablog about the
+> significance of today's big release of CC0 data from Europeana:
+>
+> https://twitter.com/jwyg/status/245847476899295233
+> http://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-heritage-library-europe
+
+That's great news, but is it really CC0 if it's behind an API with
+Terms of Service use restrictions?  Is there a bulk download available
+somewhere?
+How does this data relate to the individual downloads made available
+last year at http://pro.europeana.eu/web/guest/datasets ?  It doesn't
+look like those have been updated since then, but are they now covered
+by the CC0 license as well?
+
+For those who want to short circuit the multiple levels of
+clickthrough required, here are some links:
+
+API registration form: http://pro.europeana.eu/web/guest/registration
+Terms of Use: http://www.europeana.eu/portal/rights/api-terms-of-use.html
+
+Tom
+
+
+From okfn.joris.pekel at googlemail.com  Wed Sep 12 16:21:45 2012
+From: okfn.joris.pekel at googlemail.com (Joris Pekel)
+Date: Wed, 12 Sep 2012 17:21:45 +0200
+Subject: [open-bibliography] Europeana opens up data on 20 million
+ cultural items
+In-Reply-To: <CAE9vqEHvuxNTrdYWZvSv8fHx3zjhPTRduVukisRNQrgwspb8Og@mail.gmail.com>
+References: <CANQ_vu2oKEPgThbJivc6BLQVooY7yA9yTJrFi2MwnS3GzBUDfQ@mail.gmail.com>
+	<CAE9vqEHvuxNTrdYWZvSv8fHx3zjhPTRduVukisRNQrgwspb8Og@mail.gmail.com>
+Message-ID: <CAGALA3RZoWFrtXosaeex58xJVtvZn95VHVmkdM8y6aTJcMn-KA@mail.gmail.com>
+
+Hi Tom,
+
+I understand your concerns and we have been debating these as well with
+Europeana. It will probably not answer all your questions, but here is some
+additional info:
+
+- All of Europeana's metadata will be available as bulk download under the
+CC0-waiver. This will be officially released in October on the datasets
+page.  At the OKFest some of these will already be available to hack on.
+- The API has a key on it yes. The API is being renewed however. When the
+new API is released (which is also available next week at OKFest) there
+will be far less restrictions and anybody can make use of a the API, in
+that sense I do not see a problem in having a key.
+
+It is now up to the dev community to experiment with the possibilities of
+this CC0 release.  I personally think this is a great achievement for open
+cultural data and will push more institutions towards opening up their data!
+
+Best,
+
+Joris
+
+2012/9/12 Tom Morris <tfmorris at gmail.com>
+
+> On Wed, Sep 12, 2012 at 7:47 AM, Jonathan Gray <jonathan.gray at okfn.org>
+> wrote:
+> > FYI I just posted a brief piece on the Guardian Datablog about the
+> > significance of today's big release of CC0 data from Europeana:
+> >
+> > https://twitter.com/jwyg/status/245847476899295233
+> >
+> http://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-heritage-library-europe
+>
+> That's great news, but is it really CC0 if it's behind an API with
+> Terms of Service use restrictions?  Is there a bulk download available
+> somewhere?
+> How does this data relate to the individual downloads made available
+> last year at http://pro.europeana.eu/web/guest/datasets ?  It doesn't
+> look like those have been updated since then, but are they now covered
+> by the CC0 license as well?
+>
+> For those who want to short circuit the multiple levels of
+> clickthrough required, here are some links:
+>
+> API registration form: http://pro.europeana.eu/web/guest/registration
+> Terms of Use: http://www.europeana.eu/portal/rights/api-terms-of-use.html
+>
+> Tom
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Joris Pekel
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org
+http://twitter.com/jpekel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120912/ffed7f70/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Sep 12 18:36:14 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 12 Sep 2012 19:36:14 +0200
+Subject: [open-bibliography] [open-heritage] Europeana opens up data on
+ 20 million cultural items
+In-Reply-To: <CAGALA3RZoWFrtXosaeex58xJVtvZn95VHVmkdM8y6aTJcMn-KA@mail.gmail.com>
+References: <CANQ_vu2oKEPgThbJivc6BLQVooY7yA9yTJrFi2MwnS3GzBUDfQ@mail.gmail.com>
+	<CAE9vqEHvuxNTrdYWZvSv8fHx3zjhPTRduVukisRNQrgwspb8Og@mail.gmail.com>
+	<CAGALA3RZoWFrtXosaeex58xJVtvZn95VHVmkdM8y6aTJcMn-KA@mail.gmail.com>
+Message-ID: <CANQ_vu2kL5p-LczWAx-yBnu1+i8Owf+qPC-yVEW8ZtxCecJNOg@mail.gmail.com>
+
+Good point Tom. I think the question is less whether or not the data
+is released under CC0 (which it clearly is) and more whether it is
+compliant with OpenDefinition.org - particularly point 4., "Absence of
+Technological Restriction". Let's see what happens next week.
+
+J.
+
+On Wed, Sep 12, 2012 at 5:21 PM, Joris Pekel
+<okfn.joris.pekel at googlemail.com> wrote:
+> Hi Tom,
+>
+> I understand your concerns and we have been debating these as well with
+> Europeana. It will probably not answer all your questions, but here is some
+> additional info:
+>
+> - All of Europeana's metadata will be available as bulk download under the
+> CC0-waiver. This will be officially released in October on the datasets
+> page.  At the OKFest some of these will already be available to hack on.
+> - The API has a key on it yes. The API is being renewed however. When the
+> new API is released (which is also available next week at OKFest) there will
+> be far less restrictions and anybody can make use of a the API, in that
+> sense I do not see a problem in having a key.
+>
+> It is now up to the dev community to experiment with the possibilities of
+> this CC0 release.  I personally think this is a great achievement for open
+> cultural data and will push more institutions towards opening up their data!
+>
+> Best,
+>
+> Joris
+>
+>
+> 2012/9/12 Tom Morris <tfmorris at gmail.com>
+>>
+>> On Wed, Sep 12, 2012 at 7:47 AM, Jonathan Gray <jonathan.gray at okfn.org>
+>> wrote:
+>> > FYI I just posted a brief piece on the Guardian Datablog about the
+>> > significance of today's big release of CC0 data from Europeana:
+>> >
+>> > https://twitter.com/jwyg/status/245847476899295233
+>> >
+>> > http://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-heritage-library-europe
+>>
+>> That's great news, but is it really CC0 if it's behind an API with
+>> Terms of Service use restrictions?  Is there a bulk download available
+>> somewhere?
+>> How does this data relate to the individual downloads made available
+>> last year at http://pro.europeana.eu/web/guest/datasets ?  It doesn't
+>> look like those have been updated since then, but are they now covered
+>> by the CC0 license as well?
+>>
+>> For those who want to short circuit the multiple levels of
+>> clickthrough required, here are some links:
+>>
+>> API registration form: http://pro.europeana.eu/web/guest/registration
+>> Terms of Use: http://www.europeana.eu/portal/rights/api-terms-of-use.html
+>>
+>> Tom
+>>
+>> _______________________________________________
+>> open-bibliography mailing list
+>> open-bibliography at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+>
+>
+> --
+> Joris Pekel
+> Community Coordinator
+> Open Knowledge Foundation
+> http://okfn.org
+> http://twitter.com/jpekel
+>
+>
+> _______________________________________________
+> open-glam mailing list
+> open-glam at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-glam
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From Valentine.Charles at KB.nl  Thu Sep 13 07:35:27 2012
+From: Valentine.Charles at KB.nl (Valentine Charles)
+Date: Thu, 13 Sep 2012 08:35:27 +0200
+Subject: [open-bibliography] Europeana opens up data on 20 million
+	cultural items
+In-Reply-To: <CAGALA3RZoWFrtXosaeex58xJVtvZn95VHVmkdM8y6aTJcMn-KA@mail.gmail.com>
+Message-ID: <DB8FA84D05D2DB42B4A98BDB3E5558D601325A29@goofy>
+
+Dear Tom, 
+
+ 
+
+To complement Joris's email, I would like to let you know that we are
+still working at Europeana on the generation of new dumps for the page 
+http://pro.europeana.eu/web/guest/datasets
+<http://pro.europeana.eu/web/guest/datasets> . 
+
+We will also update our documentation to reflect the changes. In the
+meantime you can still experiment with the subset of CC0 data available
+at http://pro.europeana.eu/web/guest/datasets
+<http://pro.europeana.eu/web/guest/datasets> . 
+
+ 
+
+Best wishes, 
+
+ 
+
+Valentine 
+
+ 
+
+---
+Valentine Charles
+
+Interoperability Specialist at 
+
+Europeana www.europeana.eu
+
+The European Library www.theeuropeanlibrary.org
+
+Phone: +31 (0)70 31 40 911 179
+
+Email: valentine.charles at kb.nl
+
+Skype: charles.valentine
+ 
+
+This email and any files transmitted with it are confidential and
+intended solely for the use of the individual or entity to whom they are
+addressed. If you have received this email in error please notify the
+system manager. If you are not the named addressee you should not
+disseminate, distribute or copy this email. Please notify the sender
+immediately by email if you have received this email by mistake and
+delete this email from your system.
+
+ 
+
+ 
+
+P  Please consider your environmental responsibility before printing
+this e-mail.
+
+________________________________
+
+From: open-bibliography-bounces at lists.okfn.org
+[mailto:open-bibliography-bounces at lists.okfn.org] On Behalf Of Joris
+Pekel
+Sent: woensdag 12 september 2012 17:22
+To: List for Working Group on Open Bibliographic Data
+Cc: open-glam at lists.okfn.org
+Subject: Re: [open-bibliography] Europeana opens up data on 20 million
+cultural items
+
+ 
+
+Hi Tom,
+
+ 
+
+I understand your concerns and we have been debating these as well with
+Europeana. It will probably not answer all your questions, but here is
+some additional info:
+
+ 
+
+- All of Europeana's metadata will be available as bulk download under
+the CC0-waiver. This will be officially released in October on the
+datasets page.  At the OKFest some of these will already be available to
+hack on.
+
+- The API has a key on it yes. The API is being renewed however. When
+the new API is released (which is also available next week at OKFest)
+there will be far less restrictions and anybody can make use of a the
+API, in that sense I do not see a problem in having a key. 
+
+ 
+
+It is now up to the dev community to experiment with the possibilities
+of this CC0 release.  I personally think this is a great achievement for
+open cultural data and will push more institutions towards opening up
+their data!
+
+ 
+
+Best,
+
+ 
+
+Joris
+
+2012/9/12 Tom Morris <tfmorris at gmail.com>
+
+On Wed, Sep 12, 2012 at 7:47 AM, Jonathan Gray <jonathan.gray at okfn.org>
+wrote:
+> FYI I just posted a brief piece on the Guardian Datablog about the
+> significance of today's big release of CC0 data from Europeana:
+>
+> https://twitter.com/jwyg/status/245847476899295233
+> 
+http://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-h
+eritage-library-europe
+
+That's great news, but is it really CC0 if it's behind an API with
+Terms of Service use restrictions?  Is there a bulk download available
+somewhere?
+How does this data relate to the individual downloads made available
+last year at http://pro.europeana.eu/web/guest/datasets ?  It doesn't
+look like those have been updated since then, but are they now covered
+by the CC0 license as well?
+
+For those who want to short circuit the multiple levels of
+clickthrough required, here are some links:
+
+API registration form: http://pro.europeana.eu/web/guest/registration
+Terms of Use: 
+http://www.europeana.eu/portal/rights/api-terms-of-use.html
+
+Tom
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+
+
+
+ 
+
+-- 
+
+Joris Pekel
+
+Community Coordinator
+
+Open Knowledge Foundation
+
+http://okfn.org <http://okfn.org/> 
+
+http://twitter.com/jpekel
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120913/f69e36ed/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/jpeg
+Size: 3222 bytes
+Desc: image001.jpg
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120913/f69e36ed/attachment-0001.jpeg>
+
+From tfmorris at gmail.com  Thu Sep 13 14:25:28 2012
+From: tfmorris at gmail.com (Tom Morris)
+Date: Thu, 13 Sep 2012 09:25:28 -0400
+Subject: [open-bibliography] Europeana opens up data on 20 million
+ cultural items
+In-Reply-To: <DB8FA84D05D2DB42B4A98BDB3E5558D601325A29@goofy>
+References: <CAGALA3RZoWFrtXosaeex58xJVtvZn95VHVmkdM8y6aTJcMn-KA@mail.gmail.com>
+	<DB8FA84D05D2DB42B4A98BDB3E5558D601325A29@goofy>
+Message-ID: <CAE9vqEFamk3MU6dSDO9CzRYdFAA5wdM=hKOtzS6z1rJrpeNh6A@mail.gmail.com>
+
+Thanks very much for the updates Jori, Jonathan, & Valentine.  It sounds
+like the future situation will be great, so I just need to wait a little
+while longer.
+
+Unfortunately, intercontinental travel just for a hackathon isn't really an
+option for me, so I won't be able to get all the early access benes being
+offered to attendees, but hopefully it won't be too much later that they're
+generally available.
+
+Tom
+
+On Thu, Sep 13, 2012 at 2:35 AM, Valentine Charles
+<Valentine.Charles at kb.nl>wrote:
+
+>  Dear Tom, ****
+>
+> ** **
+>
+> To complement Joris?s email, I would like to let you know that we are
+> still working at Europeana on the generation of new dumps for the page
+> http://pro.europeana.eu/web/guest/datasets. ****
+>
+> We will also update our documentation to reflect the changes. In the
+> meantime you can still experiment with the subset of CC0 data available at
+> http://pro.europeana.eu/web/guest/datasets. ****
+>
+> ** **
+>
+> Best wishes, ****
+>
+> ** **
+>
+> Valentine ****
+>
+> ** **
+>
+> ---
+> Valentine Charles****
+>
+> Interoperability Specialist at ****
+>
+> Europeana www.europeana.eu****
+>
+> The European Library www.theeuropeanlibrary.org****
+>
+> Phone: +31 (0)70 31 40 911 179****
+>
+> Email: valentine.charles at kb.nl****
+>
+> Skype: charles.valentine
+> [image: Europeana - Think Culture]
+>
+> This email and any files transmitted with it are confidential and intended
+> solely for the use of the individual or entity to whom they are addressed.
+> If you have received this email in error please notify the system manager.
+> If you are not the named addressee you should not disseminate, distribute
+> or copy this email. Please notify the sender immediately by email if you
+> have received this email by mistake and delete this email from your system.
+> ****
+>
+>  ****
+>
+>  ****
+>
+> *P*  *Please consider your environmental responsibility before printing
+> this e-mail.*****
+>   ------------------------------
+>
+> *From:* open-bibliography-bounces at lists.okfn.org [mailto:
+> open-bibliography-bounces at lists.okfn.org] *On Behalf Of *Joris Pekel
+> *Sent:* woensdag 12 september 2012 17:22
+> *To:* List for Working Group on Open Bibliographic Data
+> *Cc:* open-glam at lists.okfn.org
+> *Subject:* Re: [open-bibliography] Europeana opens up data on 20 million
+> cultural items****
+>
+> ** **
+>
+> Hi Tom,****
+>
+> ** **
+>
+> I understand your concerns and we have been debating these as well with
+> Europeana. It will probably not answer all your questions, but here is some
+> additional info:****
+>
+> ** **
+>
+> - All of Europeana's metadata will be available as bulk download under the
+> CC0-waiver. This will be officially released in October on the datasets
+> page.  At the OKFest some of these will already be available to hack on.**
+> **
+>
+> - The API has a key on it yes. The API is being renewed however. When the
+> new API is released (which is also available next week at OKFest) there
+> will be far less restrictions and anybody can make use of a the API, in
+> that sense I do not see a problem in having a key. ****
+>
+> ** **
+>
+> It is now up to the dev community to experiment with the possibilities of
+> this CC0 release.  I personally think this is a great achievement for open
+> cultural data and will push more institutions towards opening up their data!
+> ****
+>
+> ** **
+>
+> Best,****
+>
+> ** **
+>
+> Joris****
+>
+> 2012/9/12 Tom Morris <tfmorris at gmail.com>****
+>
+> On Wed, Sep 12, 2012 at 7:47 AM, Jonathan Gray <jonathan.gray at okfn.org>
+> wrote:
+> > FYI I just posted a brief piece on the Guardian Datablog about the
+> > significance of today's big release of CC0 data from Europeana:
+> >
+> > https://twitter.com/jwyg/status/245847476899295233
+> >
+> http://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-heritage-library-europe
+> ****
+>
+> That's great news, but is it really CC0 if it's behind an API with
+> Terms of Service use restrictions?  Is there a bulk download available
+> somewhere?
+> How does this data relate to the individual downloads made available
+> last year at http://pro.europeana.eu/web/guest/datasets ?  It doesn't
+> look like those have been updated since then, but are they now covered
+> by the CC0 license as well?
+>
+> For those who want to short circuit the multiple levels of
+> clickthrough required, here are some links:
+>
+> API registration form: http://pro.europeana.eu/web/guest/registration
+> Terms of Use: http://www.europeana.eu/portal/rights/api-terms-of-use.html
+>
+> Tom
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography****
+>
+>
+>
+> ****
+>
+> ** **
+>
+> -- ****
+>
+> Joris Pekel****
+>
+> Community Coordinator****
+>
+> Open Knowledge Foundation****
+>
+> http://okfn.org****
+>
+> http://twitter.com/jpekel****
+>
+> ** **
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120913/292bdb1f/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Sep 18 13:20:50 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 18 Sep 2012 14:20:50 +0200
+Subject: [open-bibliography] Fwd: Places still left for Future Citations
+ Hack Days, 27-28 Sep Birmingham, UK
+In-Reply-To: <505866D0.4030408@ukoln.ac.uk>
+References: <505866D0.4030408@ukoln.ac.uk>
+Message-ID: <CANQ_vu1mBO4qAk5GetgcuNCuamGLT8bL6g=hGL4drfns5SyidQ@mail.gmail.com>
+
+FYI
+
+
+---------- Forwarded message ----------
+From: Mahendra Mahey <m.mahey at ukoln.ac.uk>
+Date: Tue, Sep 18, 2012 at 2:19 PM
+Subject: Places still left for Future Citations Hack Days, 27-28 Sep
+Birmingham, UK
+To: CETIS-METADATA at jiscmail.ac.uk
+
+
+There are still spaces left for Future Citations Hack Days, on
+September 27 and 28, 2012 in Birmingham, UK.
+
+This is a FREE event (includes accommodation and food) for software
+developers and experts who are interested in the area of Citation
+Data.
+
+More information about the event (including and a booking form) can be
+found here:
+
+http://goo.gl/z9sVo
+
+This event has been organised by the Developer Community Supporting
+Innovation Project (DevCSI-http://devcsi.ukoln.ac.uk) and the JISC
+Citation Data directions project. It will bring together software
+developers, project managers, and experts in the area of Citation Data
+Analysis, areas of interest include:
+
+- Business Intelligence
+- Research management
+- Novel use cases
+
+We will help people come together to form small teams/groups (these
+can be formed before the event), to discuss issues, work on paper/real
+prototypes, datasets, APIs. All participants will be able to share
+their own examples, expertise and opinions via the lightning sessions,
+discussions and informal networking opportunities.
+
+The event will culminate in a series of presentations from the teams,
+in terms of the work they have carried out.
+
+Please visit the Future Citation Data ideas page:
+
+http://goo.gl/QlZkZ
+
+for the ideas people are interested in
+
+If you can't make it, please feel free to pass on the details you know
+who might benefit from it.
+
+----------------------------------------------
+Mr Mahendra Mahey
+
+Project Manager DevCSI
+Research Officer
+Innovation Support Centre
+UKOLN
+University of Bath,
+Bath,
+BA2 7AY
+
+Mobile: ++44 (0) 07581069575
+Fax: ++44 (0) 1225 386256
+
+email: m.mahey at ukoln.ac.uk
+skypeID: mr_mahendra_mahey
+http://devcsi.ukoln.ac.uk/
+http://cerify.ukoln.ac.uk/
+http://www.ukoln.ac.uk
+-----------------------------------------------
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From pm286 at cam.ac.uk  Tue Sep 25 18:53:40 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 25 Sep 2012 18:53:40 +0100
+Subject: [open-bibliography] [Open-access] [open-science-dev] Fwd:
+ [open-science] fw: Python NLTK/data mining/machine learning project of
+ public research data, anyone interested?
+In-Reply-To: <CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+	<87has1n7sc.fsf@pobox.com>
+	<CABPM+woF6+ytXYCtYp07P2feFgwutSpkTgK-59+ckoEeYHhYmw@mail.gmail.com>
+	<CAGS_vfpKyoRTpAtWXamgJhAPtRt-RD=3ZYdroC4jy8b17cTc9w@mail.gmail.com>
+	<CABPM+wr+Rs1V2e6aBtC=-Wo74aVpmtG-RvPH49CKYe5ooQ27+g@mail.gmail.com>
+	<CAD2k14MZsPquK2c=+0SDqubhjBA+wQPOTr2q1j+z-FB56hAQ0A@mail.gmail.com>
+	<CAOFbRmJN6CqzOWFPpN7dy6kpb-ooVjmUB-2xFT36nOHPOyNg_g@mail.gmail.com>
+	<CAD2k14NTnfmDD7BdnFe_qtfkvFOq=4nydEQKXPo_qBZfvnSEnw@mail.gmail.com>
+	<551F3248-65D9-4280-8F2E-F9C5490E3FFE@inria.fr>
+	<CAD2k14PO2=JxdF38OJsFh4e+-noxHF2Amiy=ukfLnD=Cd9EXwQ@mail.gmail.com>
+	<508C6D9D-D3FE-4647-AF4F-42EC500A6F8D@inria.fr>
+	<CAD2k14NDNY38W-3kUxcsAphJx95XqaWGrUN3SQ3h8iF6hB5oQA@mail.gmail.com>
+	<EB8B7825-2F28-413A-B570-4AD61853E64D@inria.fr>
+	<CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+Message-ID: <CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+
+At OKFest we had a very successful hackathon looking at what we could
+extract from bibliographic data. Michael Bauer (copied) trawled the
+BioMedCentral site and has extracted a large amount of bibdata. We plan to
+put this in Bibserver.
+
+One idea that we want to do is create ids for each institution mentioned in
+the author list, based on the text, e.g.
+
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
+
+This would allow us to create facets for institutions, create a list and
+browse using Bibserver. (Although we cannot formally uniquify, this is a
+much easier problem than authors.
+
+Laurent - I came across GROBID and am keen to re-use, rather than reinvent.
+
+Perhaps we should form an informal group in this technology and coordinate
+some of our efforts?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120925/ac134812/attachment.htm>
+
+From mark at cottagelabs.com  Tue Sep 25 19:16:00 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Tue, 25 Sep 2012 19:16:00 +0100
+Subject: [open-bibliography] [Open-access] [open-science-dev] Fwd:
+ [open-science] fw: Python NLTK/data mining/machine learning project of
+ public research data, anyone interested?
+In-Reply-To: <CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+	<87has1n7sc.fsf@pobox.com>
+	<CABPM+woF6+ytXYCtYp07P2feFgwutSpkTgK-59+ckoEeYHhYmw@mail.gmail.com>
+	<CAGS_vfpKyoRTpAtWXamgJhAPtRt-RD=3ZYdroC4jy8b17cTc9w@mail.gmail.com>
+	<CABPM+wr+Rs1V2e6aBtC=-Wo74aVpmtG-RvPH49CKYe5ooQ27+g@mail.gmail.com>
+	<CAD2k14MZsPquK2c=+0SDqubhjBA+wQPOTr2q1j+z-FB56hAQ0A@mail.gmail.com>
+	<CAOFbRmJN6CqzOWFPpN7dy6kpb-ooVjmUB-2xFT36nOHPOyNg_g@mail.gmail.com>
+	<CAD2k14NTnfmDD7BdnFe_qtfkvFOq=4nydEQKXPo_qBZfvnSEnw@mail.gmail.com>
+	<551F3248-65D9-4280-8F2E-F9C5490E3FFE@inria.fr>
+	<CAD2k14PO2=JxdF38OJsFh4e+-noxHF2Amiy=ukfLnD=Cd9EXwQ@mail.gmail.com>
+	<508C6D9D-D3FE-4647-AF4F-42EC500A6F8D@inria.fr>
+	<CAD2k14NDNY38W-3kUxcsAphJx95XqaWGrUN3SQ3h8iF6hB5oQA@mail.gmail.com>
+	<EB8B7825-2F28-413A-B570-4AD61853E64D@inria.fr>
+	<CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+	<CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+Message-ID: <CAFxzj8RKtde3UsM37uE1uFtdagfByfzCu8j9f6-NGDij0_sSdg@mail.gmail.com>
+
+On Tue, Sep 25, 2012 at 6:53 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> At OKFest we had a very successful hackathon looking at what we could
+> extract from bibliographic data. Michael Bauer (copied) trawled the
+> BioMedCentral site and has extracted a large amount of bibdata. We plan to
+> put this in Bibserver.
+>
+
+He has already done so, which brought up some issues I am resolving as part
+of a re-design anyway. Should be done next week.
+
+
+
+> One idea that we want to do is create ids for each institution mentioned
+> in the author list, based on the text, e.g.
+>
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+>
+> This would allow us to create facets for institutions, create a list and
+> browse using Bibserver. (Although we cannot formally uniquify, this is a
+> much easier problem than authors.
+>
+
+Actually we can facet without identifiers. It can be done directly on the
+name string. Identifiers just provide us a way to connect different names
+for the same thing, but the problem is still the same - we need to identify
+that two things are the same in the first place.
+
+Mark
+
+
+
+
+
+> Laurent - I came across GROBID and am keen to re-use, rather than
+> reinvent.
+>
+> Perhaps we should form an informal group in this technology and coordinate
+> some of our efforts?
+>
+> P.
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120925/18ae6aed/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Sep 25 19:35:18 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 25 Sep 2012 19:35:18 +0100
+Subject: [open-bibliography] [Open-access] [open-science-dev] Fwd:
+ [open-science] fw: Python NLTK/data mining/machine learning project of
+ public research data, anyone interested?
+In-Reply-To: <CAFxzj8RKtde3UsM37uE1uFtdagfByfzCu8j9f6-NGDij0_sSdg@mail.gmail.com>
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+	<87has1n7sc.fsf@pobox.com>
+	<CABPM+woF6+ytXYCtYp07P2feFgwutSpkTgK-59+ckoEeYHhYmw@mail.gmail.com>
+	<CAGS_vfpKyoRTpAtWXamgJhAPtRt-RD=3ZYdroC4jy8b17cTc9w@mail.gmail.com>
+	<CABPM+wr+Rs1V2e6aBtC=-Wo74aVpmtG-RvPH49CKYe5ooQ27+g@mail.gmail.com>
+	<CAD2k14MZsPquK2c=+0SDqubhjBA+wQPOTr2q1j+z-FB56hAQ0A@mail.gmail.com>
+	<CAOFbRmJN6CqzOWFPpN7dy6kpb-ooVjmUB-2xFT36nOHPOyNg_g@mail.gmail.com>
+	<CAD2k14NTnfmDD7BdnFe_qtfkvFOq=4nydEQKXPo_qBZfvnSEnw@mail.gmail.com>
+	<551F3248-65D9-4280-8F2E-F9C5490E3FFE@inria.fr>
+	<CAD2k14PO2=JxdF38OJsFh4e+-noxHF2Amiy=ukfLnD=Cd9EXwQ@mail.gmail.com>
+	<508C6D9D-D3FE-4647-AF4F-42EC500A6F8D@inria.fr>
+	<CAD2k14NDNY38W-3kUxcsAphJx95XqaWGrUN3SQ3h8iF6hB5oQA@mail.gmail.com>
+	<EB8B7825-2F28-413A-B570-4AD61853E64D@inria.fr>
+	<CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+	<CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+	<CAFxzj8RKtde3UsM37uE1uFtdagfByfzCu8j9f6-NGDij0_sSdg@mail.gmail.com>
+Message-ID: <CAD2k14NwLht_77UNFCrRr0GJZ9=Pd4fFw-Z_Y-V=4D4Bxh0nwQ@mail.gmail.com>
+
+On Tue, Sep 25, 2012 at 7:16 PM, Mark MacGillivray <mark at cottagelabs.com>wrote:
+
+> On Tue, Sep 25, 2012 at 6:53 PM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>> At OKFest we had a very successful hackathon looking at what we could
+>> extract from bibliographic data. Michael Bauer (copied) trawled the
+>> BioMedCentral site and has extracted a large amount of bibdata. We plan to
+>> put this in Bibserver.
+>>
+>
+> He has already done so, which brought up some issues I am resolving as
+> part of a re-design anyway. Should be done next week.
+>
+> Great,
+I mentioned what we were doing when at UKPMC yesterday and there was
+considerable interest.
+
+P.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120925/260ed4a9/attachment.htm>
+
+From nathan.alexander.rice at gmail.com  Tue Sep 25 20:20:50 2012
+From: nathan.alexander.rice at gmail.com (Nathan Rice)
+Date: Tue, 25 Sep 2012 15:20:50 -0400
+Subject: [open-bibliography] [Open-access] [open-science-dev] Fwd:
+ [open-science] fw: Python NLTK/data mining/machine learning project of
+ public research data, anyone interested?
+In-Reply-To: <CAFxzj8RKtde3UsM37uE1uFtdagfByfzCu8j9f6-NGDij0_sSdg@mail.gmail.com>
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+	<87has1n7sc.fsf@pobox.com>
+	<CABPM+woF6+ytXYCtYp07P2feFgwutSpkTgK-59+ckoEeYHhYmw@mail.gmail.com>
+	<CAGS_vfpKyoRTpAtWXamgJhAPtRt-RD=3ZYdroC4jy8b17cTc9w@mail.gmail.com>
+	<CABPM+wr+Rs1V2e6aBtC=-Wo74aVpmtG-RvPH49CKYe5ooQ27+g@mail.gmail.com>
+	<CAD2k14MZsPquK2c=+0SDqubhjBA+wQPOTr2q1j+z-FB56hAQ0A@mail.gmail.com>
+	<CAOFbRmJN6CqzOWFPpN7dy6kpb-ooVjmUB-2xFT36nOHPOyNg_g@mail.gmail.com>
+	<CAD2k14NTnfmDD7BdnFe_qtfkvFOq=4nydEQKXPo_qBZfvnSEnw@mail.gmail.com>
+	<551F3248-65D9-4280-8F2E-F9C5490E3FFE@inria.fr>
+	<CAD2k14PO2=JxdF38OJsFh4e+-noxHF2Amiy=ukfLnD=Cd9EXwQ@mail.gmail.com>
+	<508C6D9D-D3FE-4647-AF4F-42EC500A6F8D@inria.fr>
+	<CAD2k14NDNY38W-3kUxcsAphJx95XqaWGrUN3SQ3h8iF6hB5oQA@mail.gmail.com>
+	<EB8B7825-2F28-413A-B570-4AD61853E64D@inria.fr>
+	<CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+	<CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+	<CAFxzj8RKtde3UsM37uE1uFtdagfByfzCu8j9f6-NGDij0_sSdg@mail.gmail.com>
+Message-ID: <CAOFbRmK=q2CODAgJXgwbh0yAebcVSd1qhrA3iTAaSMS_v_h+RQ@mail.gmail.com>
+
+> He has already done so, which brought up some issues I am resolving as part
+> of a re-design anyway. Should be done next week.
+
+Just to pop in,
+
+The best practice I ever picked up (besides unit testing) from working
+with software engineers was to create really concrete user stories,
+and focus on stripping the story down to its core elements.  This has
+saved me from major architectural backtracking a few times, as I have
+a natural tendency towards over-engineering.
+
+
+Nathan
+
+
+From pm286 at cam.ac.uk  Tue Sep 25 21:01:06 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 25 Sep 2012 21:01:06 +0100
+Subject: [open-bibliography] [Open-access] [open-science-dev] Fwd:
+ [open-science] fw: Python NLTK/data mining/machine learning project of
+ public research data, anyone interested?
+In-Reply-To: <CAOFbRmK=q2CODAgJXgwbh0yAebcVSd1qhrA3iTAaSMS_v_h+RQ@mail.gmail.com>
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+	<87has1n7sc.fsf@pobox.com>
+	<CABPM+woF6+ytXYCtYp07P2feFgwutSpkTgK-59+ckoEeYHhYmw@mail.gmail.com>
+	<CAGS_vfpKyoRTpAtWXamgJhAPtRt-RD=3ZYdroC4jy8b17cTc9w@mail.gmail.com>
+	<CABPM+wr+Rs1V2e6aBtC=-Wo74aVpmtG-RvPH49CKYe5ooQ27+g@mail.gmail.com>
+	<CAD2k14MZsPquK2c=+0SDqubhjBA+wQPOTr2q1j+z-FB56hAQ0A@mail.gmail.com>
+	<CAOFbRmJN6CqzOWFPpN7dy6kpb-ooVjmUB-2xFT36nOHPOyNg_g@mail.gmail.com>
+	<CAD2k14NTnfmDD7BdnFe_qtfkvFOq=4nydEQKXPo_qBZfvnSEnw@mail.gmail.com>
+	<551F3248-65D9-4280-8F2E-F9C5490E3FFE@inria.fr>
+	<CAD2k14PO2=JxdF38OJsFh4e+-noxHF2Amiy=ukfLnD=Cd9EXwQ@mail.gmail.com>
+	<508C6D9D-D3FE-4647-AF4F-42EC500A6F8D@inria.fr>
+	<CAD2k14NDNY38W-3kUxcsAphJx95XqaWGrUN3SQ3h8iF6hB5oQA@mail.gmail.com>
+	<EB8B7825-2F28-413A-B570-4AD61853E64D@inria.fr>
+	<CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+	<CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+	<CAFxzj8RKtde3UsM37uE1uFtdagfByfzCu8j9f6-NGDij0_sSdg@mail.gmail.com>
+	<CAOFbRmK=q2CODAgJXgwbh0yAebcVSd1qhrA3iTAaSMS_v_h+RQ@mail.gmail.com>
+Message-ID: <CAD2k14NJ6P-hOdEq1ftC0O72O2JWqNC9Wr2hw9Xnosp98FseXg@mail.gmail.com>
+
+On Tue, Sep 25, 2012 at 8:20 PM, Nathan Rice <
+nathan.alexander.rice at gmail.com> wrote:
+
+> > He has already done so, which brought up some issues I am resolving as
+> part
+> > of a re-design anyway. Should be done next week.
+>
+> Just to pop in,
+>
+> The best practice I ever picked up (besides unit testing) from working
+> with software engineers was to create really concrete user stories,
+>
+
+We have a concrete user story here, although it has been created by the
+hackathon attendees on the basis that they understand users!
+
+But in this area we are generally building to meet anticipated demand
+rather than reacting to existing demand.
+
+
+> and focus on stripping the story down to its core elements.  This has
+> saved me from major architectural backtracking a few times, as I have
+> a natural tendency towards over-engineering.
+>
+>
+> Nathan
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120925/01ec3e70/attachment-0001.htm>
+
+From Laurent.Romary at inria.fr  Wed Sep 26 04:54:01 2012
+From: Laurent.Romary at inria.fr (Laurent Romary)
+Date: Wed, 26 Sep 2012 05:54:01 +0200
+Subject: [open-bibliography] [Open-access] [open-science-dev] Fwd:
+	[open-science] fw: Python NLTK/data mining/machine learning
+	project of public research data, anyone interested?
+In-Reply-To: <CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+References: <mailman.17.1345197601.15227.trizpug@python.org>
+	<87has1n7sc.fsf@pobox.com>
+	<CABPM+woF6+ytXYCtYp07P2feFgwutSpkTgK-59+ckoEeYHhYmw@mail.gmail.com>
+	<CAGS_vfpKyoRTpAtWXamgJhAPtRt-RD=3ZYdroC4jy8b17cTc9w@mail.gmail.com>
+	<CABPM+wr+Rs1V2e6aBtC=-Wo74aVpmtG-RvPH49CKYe5ooQ27+g@mail.gmail.com>
+	<CAD2k14MZsPquK2c=+0SDqubhjBA+wQPOTr2q1j+z-FB56hAQ0A@mail.gmail.com>
+	<CAOFbRmJN6CqzOWFPpN7dy6kpb-ooVjmUB-2xFT36nOHPOyNg_g@mail.gmail.com>
+	<CAD2k14NTnfmDD7BdnFe_qtfkvFOq=4nydEQKXPo_qBZfvnSEnw@mail.gmail.com>
+	<551F3248-65D9-4280-8F2E-F9C5490E3FFE@inria.fr>
+	<CAD2k14PO2=JxdF38OJsFh4e+-noxHF2Amiy=ukfLnD=Cd9EXwQ@mail.gmail.com>
+	<508C6D9D-D3FE-4647-AF4F-42EC500A6F8D@inria.fr>
+	<CAD2k14NDNY38W-3kUxcsAphJx95XqaWGrUN3SQ3h8iF6hB5oQA@mail.gmail.com>
+	<EB8B7825-2F28-413A-B570-4AD61853E64D@inria.fr>
+	<CAD2k14OEGbg=COQiU+Dt2Bz6qn5aDVsgkbB7-B-r8SLb5tFqpQ@mail.gmail.com>
+	<CAD2k14MLi-Fu5bqP2TWLPi7E2JvZQ1R4+d5w-R=MwYkLCw2oXQ@mail.gmail.com>
+Message-ID: <EE750DD7-BAC5-4690-8002-6DC394418BAE@inria.fr>
+
+I think it would be a very good idea to do so. 
+Cheers,
+Laurent (disappearing 2 days in a review panel on research infrastructures.... I'll keep an eye on data openness)
+
+BTW, we generate TEI encoded data from PDFs, with deep name and affiliation (TEI based) structures which could be taken , e.g. 
+
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">K</forename>
+								<forename type="middle">E</forename>
+								<surname>Zimen</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Institut f?r Kernchemie</orgName>
+								<orgName type="institution">Chalmers Technische Hochschule</orgName>
+								<address>
+									<settlement>G?teborg</settlement>
+									<country key="SE">Schweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">L</forename>
+								<surname>Dahl</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Institut f?r Kernchemie</orgName>
+								<orgName type="institution">Chalmers Technische Hochschule</orgName>
+								<address>
+									<settlement>G?teborg</settlement>
+									<country key="SE">Schweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Die Diffusion von Spaltungs-Xenon aus Uranmetall</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Zeitschrift f?r Naturforschung A</title>
+						<title level="j" type="abbrev">Z. Naturforsch. A</title>
+						<imprint>
+							<biblScope type="vol">12</biblScope>
+							<biblScope type="fpage">167</biblScope>
+							<biblScope type="lpage">169</biblScope>
+							<date type="published" when="1957">1957</date>
+						</imprint>
+					</monogr>
+					<note type="submission">eingegangen am 1. Februar 1957</note>
+				</biblStruct>
+
+
+
+Le 25 sept. 2012 ? 19:53, Peter Murray-Rust a ?crit :
+
+> At OKFest we had a very successful hackathon looking at what we could extract from bibliographic data. Michael Bauer (copied) trawled the BioMedCentral site and has extracted a large amount of bibdata. We plan to put this in Bibserver.
+> 
+> One idea that we want to do is create ids for each institution mentioned in the author list, based on the text, e.g. 
+> 
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> 
+> This would allow us to create facets for institutions, create a list and browse using Bibserver. (Although we cannot formally uniquify, this is a much easier problem than authors.
+> 
+> Laurent - I came across GROBID and am keen to re-use, rather than reinvent. 
+> 
+> Perhaps we should form an informal group in this technology and coordinate some of our efforts? 
+> 
+> P.
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+Laurent Romary
+INRIA & HUB-IDSL
+laurent.romary at inria.fr
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20120926/ebe6895d/attachment.htm>
+

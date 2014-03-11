@@ -1,0 +1,322 @@
+From stuart.macdonald at ed.ac.uk  Mon Nov  2 15:50:09 2009
+From: stuart.macdonald at ed.ac.uk (Stuart Macdonald)
+Date: Mon, 02 Nov 2009 15:50:09 +0000
+Subject: [open-science] eCAT: Online Electronic Lab Notebook For Scientific
+	Research
+Message-ID: <4AEEFFB1.8010604@ed.ac.uk>
+
+MBOIT this list (see below)
+
+rgds
+Stuart Macdonald
+
+
+eCAT: Online Electronic Lab Notebook For Scientific Research 
+
+Nigel H Goddard , Rory Macneil and Jonathan Ritchie / Automated
+Experimentation 2009 /  1:4  / doi:10.1186/1759-4499-1-4 /  Published:
+29 October 2009 
+ 
+Background
+
+eCAT is an electronic lab notebook (ELN) developed by Axiope Limited. It
+is the first online ELN, the first ELN to be developed in close
+collaboration with lab scientists, and the first ELN to be targeted at
+researchers in non-commercial institutions. [snip]
+
+Results
+
+[snip] More than 100 individuals and groups worldwide then participated
+in the beta testing between September 2008 and June 2009. The generally
+positive response is reflected in the following quote about how one lab
+is making use of eCAT: "Everyone uses it as an electronic notebook, so
+they can compile the diverse collections of data that we generate as
+biologists, such as images and spreadsheets. We use to it to take
+minutes of meetings. We also use it to manage our common stocks of
+antibodies, plasmids and so on. Finally, perhaps the most important
+feature for us is the ability to link records, reagents and
+experiments."
+
+Conclusions
+
+By developing eCAT in close collaboration with lab scientists, Axiope
+has come up with a practical and easy to use product that meets the need
+of scientists to manage, store and share data online. eCAT is already
+being perceived as a product that labs can continue to use as their data
+management and sharing grows in scale and complexity. 
+
+The complete article is [now] available as a provisional PDF / The fully
+formatted PDF and HTML versions are in production [10-29-09]
+
+Links To The Full (Provisional) Abstract And The Full (Provisional)
+Article Available From:  http://tinyurl.com/yjo9bco  
+
+ 
+
+
+-- 
+Stuart Macdonald
+EDINA National Data Centre & Edinburgh University Data Library
+
+0131 650 3304 (Tu & Th) 
+0131 651 1744 (M, W, F)
+
+The University of Edinburgh is a charitable body, registered in 
+Scotland, with registration number SC005336.
+
+
+
+From jonathan.gray at okfn.org  Tue Nov  3 13:24:43 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 3 Nov 2009 13:24:43 +0000
+Subject: [open-science] Fwd: Life scientists' information use - one size
+	does not fit all
+In-Reply-To: <CE0B7072F12A4445B9D57BCF6574308403F94B44@w2k3-lonex2.ad.bl.uk>
+References: <CE0B7072F12A4445B9D57BCF6574308403F94B44@w2k3-lonex2.ad.bl.uk>
+Message-ID: <54ca21750911030524o5bb49d32p282088744a0e72e1@mail.gmail.com>
+
+This is interesting!
+
+Jonathan
+
+---------- Forwarded message ----------
+From: Gentleman, Sarah <Sarah.Gentleman at rin.ac.uk>
+Date: Tue, Nov 3, 2009 at 12:32 PM
+Subject: Life scientists' information use - one size does not fit all
+To: RESEARCH-DATAMAN at jiscmail.ac.uk
+
+
+Life scientists? information use ? one size does not fit all
+
+
+
+Report of research patterns in life sciences reveals that researcher
+practices diverge from policies promoted by funders and information
+service providers
+
+
+
+
+
+A report by the British Library and the Research Information Network
+(RIN) launched today provides unique insight into how information is
+used by researchers across life sciences. Undertaken by the University
+of Edinburgh?s Institute for the Study of Science, Technology and
+Innovation, and the UK Digital Curation Centre and the University of
+Edinburgh?s Information Services, the report concludes that
+?one-size-fits-all? information and data sharing policies are not
+achieving scientifically productive and cost-efficient information use
+in life sciences.
+
+
+
+The report, Patterns of Information Use and Exchange: Case Studies of
+Researchers in Life Sciences was developed using an innovative
+approach to capture the day-to-day patterns of information use in
+seven research teams from a wide range of disciplines, from botany to
+clinical neuroscience. The study undertaken over 11 months and
+involving 56 participants found that there is a significant gap
+between how researchers behave and the policies and strategies of
+funders and service providers. This suggests that the attempts to
+implement such strategies have had only a limited impact. ?Key
+findings from the report include:
+
+
+
+????????? Researchers use informal and trusted sources of advice from
+colleagues, rather than institutional service teams, to help identify
+information sources and resources
+
+????????? The use of social networking tools for scientific research
+purposes is far more limited than expected
+
+????????? Data and information sharing activities are mainly driven by
+needs and benefits perceived as most important by life scientists
+rather than ?top-down? policies and strategies
+
+????????? There are marked differences in the patterns of information
+use and exchange between research groups active in different areas of
+the life sciences, reinforcing the need to avoid standardised policy
+approaches
+
+
+
+The study used ground-breaking research methods to map information use
+in research teams from across the life sciences. This included
+specially designed ?information lab books? to chart and monitor
+individual researcher?s day-to-day information practices.
+
+
+
+The report sets out a number of recommendations to funders,
+universities and information service providers on how policy and
+services can be more aligned with research practice and help UK life
+scientists sustain their position at the forefront of world-class
+research.
+
+
+
+Commenting on the report, Professor Sir Kenneth Calman, Chair of the
+National Cancer Research Institute & Chancellor, University of Glasgow
+said: ?This report is a crucial piece of work and allows us to
+understand in more detail the role that information and data play in
+contemporary research across the life sciences.? Further, it
+demonstrates the gaps that exist between policy and practice and it is
+with this in mind that funders, universities and information
+professionals should take note of this report and draw on its
+recommendations to inform their plans in supporting UK life science
+research in the future.?
+
+
+
+Dr Eric Fevre, a Wellcome Trust Research Career Development Fellow who
+participated in the study, commented: "It is fascinating to see mapped
+out how we, as life-scientists, use information resources within our
+academic networks, but the report also highlights potentially valuable
+tools and technologies that we under-use or ignore completely. It
+encourages scientists to think formally about their use of information
+in research and thereby increase their efficiency in so doing."
+
+
+
+Patterns of Information Use and Exchange: Case Studies in Life
+Sciences will be launched at a reception at the British Library on
+17th November at 6.30pm.
+
+The report can be downloaded from www.rin.ac.uk/case-studies
+
+
+
+
+
+
+
+?Sarah Gentleman
+
+Communications Officer
+
+Research Information Network
+
+96 Euston Road
+
+London NW1 2DB
+
+
+
+telephone: 020 7412 7241
+
+
+
+Follow me on Twitter http://twitter.com/research_inform
+
+RIN Facebook group
+http://en-gb.facebook.com/pages/City-of-London-United-Kingdom/Research-Information-Network/29441497954
+
+
+
+email: sarah.gentleman at rin.ac.uk
+
+website: www.rin.ac.uk
+
+
+
+
+
+
+
+The contents of this email are sent in confidence for the use of the
+intended recipients only. If you are not one of the intended
+recipients, please do not take action on it or show it to anyone else,
+but return this email to the sender and delete your copy of it.
+
+Find the Research Information Network online at www.rin.ac.uk
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+
+From jonathan.gray at okfn.org  Mon Nov 16 13:35:40 2009
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 16 Nov 2009 13:35:40 +0000
+Subject: [open-science] Fwd: Press Release: Open Science - the future for
+	research?
+In-Reply-To: <LISTSERV%200911101705000500.8458@JISCMAIL.AC.UK>
+References: <LISTSERV%200911101705000500.8458@JISCMAIL.AC.UK>
+Message-ID: <54ca21750911160535r6ca1edddsb384aa181a9514c9@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+From: Rebecca O'Brien <r.obrien at jisc.ac.uk>
+Date: Tue, Nov 10, 2009 at 5:05 PM
+Subject: Press Release: Open Science - the future for research?
+To: JISC-ANNOUNCE at jiscmail.ac.uk
+
+
+Press Release
+
+Open Science ? the future for research?
+
+As part of JISC?s ?Research 3.0 ? driving the knowledge economy? activity
+which launches at the end of November, a new Open Science report released
+today trails key research trends that could have far-reaching implications for
+science, universities and UK society.
+
+The report written by UKOLN at the University of Bath and the Digital Curation
+Centre, identifies open-ness, predictive science based on massive data
+volumes and citizen involvement as being important features of tomorrow?s
+research practice.
+
+It is hoped that this document will stimulate and contribute to community
+discussion in the UK, which is ranked second in the world for its output of
+quality research, but also fuel the open science debate on the global stage.
+
+As part of JISC?s data management programme JISC is discussing with UK
+research funders and libraries on how best to build on recent initiatives, such
+as the HEFCE-funded UK Research Data Service feasibility study, so as to
+address the considerable challenges outlined in the Open Science report.
+
+Neil Jacobs, programme manager at JISC, says, ?There are important changes
+in the way science exploits the potential of digital technologies. We are not
+saying that the these trends go together - they may conflict - but what we
+are looking to find out is to what extent they are happening now and what
+researchers, librarians and others think their impact will be in the future.
+
+?Where there is widespread access to the web, digital cameras and
+computers, then citizens can become active participants in science, for
+example collecting data on natural phenomena on a massive scale. ?While this
+has happened so far in isolated projects, the potential is now for a more
+general shift in public participation in science,? added Neil.
+
+The Open Science report looks at how technologies can support the open
+movement to share data, workflows, methods and research outputs. It also
+illustrates the vital role librarians could have in supporting these new trends
+and the recognised need to build relationships between researchers and
+librarians to support the research of the future.
+
+Read the Open Science report at:
+http://www.jisc.ac.uk/publications/documents/opensciencerpt.aspx
+
+Take part in the Open Science discussions and share your views at
+the ?Research 3.0 ? driving the knowledge economy? blog
+http://res3.jiscinvolve.org .
+
+The views, comments and opinions posted on the blog will shape JISC?s
+activities over the next 12 months so events cover areas the research and
+education community feel strongly about.
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+

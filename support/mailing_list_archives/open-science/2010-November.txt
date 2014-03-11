@@ -1,0 +1,1377 @@
+From pm286 at cam.ac.uk  Wed Nov  3 17:36:46 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 3 Nov 2010 17:36:46 +0000
+Subject: [open-science] Fwd: RCUK/DST: India-UK Collaborative Research
+ Initiative in 'Bridging the Urban and rural Divide'
+In-Reply-To: <342519B9-6084-4B7E-99C1-21FF3F07D836@cam.ac.uk>
+References: <CFDD97880DA2B545A82C8C82494B9F9E0220FAD0F901@angeltwo.internal.admin.cam.ac.uk>
+	<342519B9-6084-4B7E-99C1-21FF3F07D836@cam.ac.uk>
+Message-ID: <AANLkTimh8XoOPAGdDTphbGxH8AM5-eMK3CbQjR4Ki2Sv@mail.gmail.com>
+
+Since this focuses in part on the digital economy and collaboration it may
+be of interest especially to any Indian OKF members
+
+---------- Forwarded message ----------
+Susan
+
+
+*INDIA-UK COLLABORATIVE RESEARCH INITIATIVE IN ?BRIDGING THE URBAN AND RURAL
+DIVIDE?*
+
+*DEADLINE for **registration** of intention to submit: **1 December 2010*
+
+*DEADLINE: **5 January 2011*
+
+The Research Councils UK (RCUK) and the Indian Department of Science and
+Technology (DST) expect to support large collaborative consortia projects
+from this call which address the research challenges set out below.
+
+*FUNDING*: The costs of the UK Institutions will be met from RCUK funds,
+those for the Indian partner institutions will be met by the DST. Projects
+should be three years in duration.
+
+*SCOPE*: This call will focus on ?Bridging the Urban and rural Divide?. The
+Research projects are required to address at least one theme (Energy,
+Healthcare, Enterprise) and be underpinned by robust, digitally secure
+systems. Proposals must show awareness of the principles of the call and
+must be highly cross-disciplinary and collaborative in nature.
+
+A key aim of this scheme is to foster cross-disciplinary collaboration on
+common research challenges for the UK and India, with a focus on technical
+challenges in Energy and Digital Economy.
+
+*ELIGIBILITY*: Usual eligibility requirements of DST and EPSRC apply. In
+addition:
+
+   - Only activities that involve academic collaboration between the UK and
+   India can be considered.
+   - The Proposals should be for consortia and should include both UK and
+   Indian partners.
+   - Proposals involving industrial collaborators are welcomed but costs for
+   these partners will not be covered by DST/ EPSRC through this call.
+   - Proposals involving Non-government Organisations (NGOs) are welcomed.
+   Costs for such partners in India will be covered by DST, but NGO partners in
+   the UK must fund their participation from other sources.
+   - UK and Indian lead investigators and co-investigators should be
+   academic researchers from institutions eligible to apply for EPSRC/DST
+   funding respectively, or researchers from Science and Technology NGOs in
+   India.
+
+
+*APPLICATION PROCEDURE*: EPSRC will handle proposals on behalf of RCUK.
+
+Lead partners must register their intention to submit by contacting Hannah
+Foreman (*Hannah.foreman at epsrc.ac.uk* <Hannah.foreman at epsrc.ac.uk>, 01793
+444428) by 16:00 (GMT) by *1 December 2010*.  At this stage, a very brief
+outline is required; details of the proposal are permitted to change before
+the closing date for applications.
+
+The UK based lead partner will should prepare and submit the proposal using
+the Research Councils? Joint electronic Submission (Je-S) System (*
+https://je-s.rcuk.ac.uk/* <https://je-s.rcuk.ac.uk/>) by *16:00 (GMT) on **5
+January 2011*.  The India-based lead partner will submit the identical
+proposal (five hard copies of the Je-S form) using the same common proposal
+format to DST for processing as per requirements of DST India (*
+http://www.scienceandsociety-dst.org* <http://www.scienceandsociety-dst.org>
+).
+
+EPSRC must receive applications
+
+*CONTACT*:
+
+   - UK - Dr Hannah Foreman, Portfolio Manager, Digital Economy and Energy
+   Programmes EPSRC, tel (0)1793 444428, email
+*Hannah.foreman at epsrc.ac.uk*<Hannah.foreman at epsrc.ac.uk>
+   - India - Head Science for Equity, Empowerment and Development Division,
+   Department of Science and Technology, Technology Bhawan, New Delhi 110016
+
+
+*******************************
+*FURTHER INFORMATION*:
+
+   - Scheme web page at *
+   http://www.epsrc.ac.uk/funding/calls/open/indiaburd/Pages/default.aspx*<http://www.epsrc.ac.uk/funding/calls/open/indiaburd/Pages/default.aspx>
+   - Details of the scheme at *
+   http://www.epsrc.ac.uk/SiteCollectionDocuments/Calls/2010/BridgingTheUrbanAndRuralDivide.pdf
+   *<http://www.epsrc.ac.uk/SiteCollectionDocuments/Calls/2010/BridgingTheUrbanAndRuralDivide.pdf>
+
+
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101103/469c3d38/attachment.htm>
+
+From jonathan.gray at okfn.org  Thu Nov  4 10:43:54 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 4 Nov 2010 11:43:54 +0100
+Subject: [open-science] Fwd: Survey on finding research data
+In-Reply-To: <1954872165195414.WA.rachael.kotarskibl.uk@jiscmail.ac.uk>
+References: <1954872165195414.WA.rachael.kotarskibl.uk@jiscmail.ac.uk>
+Message-ID: <AANLkTi=UAuRTggGQRA-RZYca51g_VWWYwVNTJ2pcRt=Q@mail.gmail.com>
+
+Interesting!
+
+---------- Forwarded message ----------
+**Apologies for Cross-Posting!**
+
+You may have seen my message earlier in the year about the British
+Library's pilot for finding research data alongside Library resources
+at http://searchbeta.bl.uk. We have been improving and adding further
+resources to the service, making an additional set covering
+biodiversity available.
+
+We would like to find out how the community would use such a service
+to search for data for use in research, so have created a survey to
+gather more detailed feedback:
+http://www.surveymonkey.com/s/DataResources. This also covers the
+metadata that people want to use for discovery. If you have, are, or
+plan to reuse data in your work, please do visit our survey - all
+responses will be invaluable in improving and expanding the pilot.
+
+If you have any questions, don't hesitate to contact me!
+
+Best wishes,
+
+Rachael Kotarski
+Content Specialist - Datasets, Science, Technology and Medicine
+The British Library, 96 Euston Road, London NW1 2DB
+Tel: 020 7412 7167 | Email: rachael.kotarski at bl.uk
+Web ?| ?Twitter ?| ?Facebook
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From enric at iloveenric.com  Fri Nov  5 19:44:17 2010
+From: enric at iloveenric.com (Enric G. Torrents)
+Date: Fri, 05 Nov 2010 19:44:17 +0000
+Subject: [open-science] Networking & Scientific Cooperation Spain/UK
+Message-ID: <6f8bd454b977cc1c055a02fa85dab2d8@mad-keele.com>
+
+
+
+Dear colleagues, 
+
+I am involved in a project, run by the Scientific and
+Cultural Affairs Office of the Spanish Embassy in UK, aimed to tighten the
+bonds of cooperation between the scientific communities of both countries.
+We are specially interested in the open science movement, engaging
+scientists in cooperative projects from the bottom up, promoting the
+creation of hackspaces and biolabs and this sort of grassroots initiatives.
+
+
+If interested please feel free to add me to your social
+networks:
+
+linkedin: enric at aiworld.co.uk
+facebook: enric.g.torrents
+skype:
+enric.garcia.torrents
+
+Best wishes,
+Enric G. Torrents 
+
+-------------------------------------------------------------------------------------------------------
+Save
+paper, don't print this email. */  Recycle, up-cycle, create!
+Please
+support us on our swimming challenge [1] through the English Channel.
+
+
+
+Links:
+------
+[1] http://www.diabeteschallenge.org.uk/challenge/enric
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101105/cbb93623/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Nov  5 20:02:21 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 5 Nov 2010 20:02:21 +0000
+Subject: [open-science] Networking & Scientific Cooperation Spain/UK
+In-Reply-To: <6f8bd454b977cc1c055a02fa85dab2d8@mad-keele.com>
+References: <6f8bd454b977cc1c055a02fa85dab2d8@mad-keele.com>
+Message-ID: <AANLkTinFHQnnFUYoX3ATeHyx+DDkSiYQGC6ncb11pCLp@mail.gmail.com>
+
+I'm replying to Enric who mailed the open-science group of the OKF. I have
+copied in the Quixote mailing list
+
+Enric,
+Thisis to introduce you to the Quixote project which is an Open Source Open
+Science/data project in computational chemistry which arose out of a meeting
+in Zaragosa two moths ago and which has resulted in a dynamic project
+involving a multinational community but very defintely with Spanish origin
+and flavour. It takes its theme from our aim to change the world by
+attempting the impossible.
+
+I suggest you contact Pablo (Madrid, copied) and see what common ground you
+have and what we can do together. I think it's a great story which should
+help to inspire others.
+
+We tick all your boxes -
+open science movement,  YES
+engaging scientists in cooperative projects from the bottom up, YES
+ promoting the creation of hackspaces YES
+and biolabs ; SOME overlap
+and this sort of grassroots initiatives. YES
+
+We are also startting to develop tools for Open Courseware and experiments
+(these are computational) which preserve their outputs for future students
+to build upon.
+
+Best
+
+P.
+
+
+On Fri, Nov 5, 2010 at 7:44 PM, Enric G. Torrents <enric at iloveenric.com>wrote:
+
+>
+>
+> Dear colleagues,
+>
+> I am involved in a project, run by the Scientific and Cultural Affairs
+> Office of the Spanish Embassy in UK, aimed to tighten the bonds of
+> cooperation between the scientific communities of both countries. We are
+> specially interested in the open science movement, engaging scientists in
+> cooperative projects from the bottom up, promoting the creation of
+> hackspaces and biolabs and this sort of grassroots initiatives.
+>
+> If interested please feel free to add me to your social networks:
+>
+> linkedin: enric at aiworld.co.uk
+> facebook: enric.g.torrents
+> skype: enric.garcia.torrents
+>
+> Best wishes,
+> Enric G. Torrents
+>
+> -------------------------------------------------------------------------------------------------------
+> Save paper, don't print this email. \*/  Recycle, up-cycle, create!
+> Please support us on our swimming challenge <http://www.diabeteschallenge.org.uk/challenge/enric> through the English Channel.
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101105/4573469c/attachment.htm>
+
+From kanzure at gmail.com  Mon Nov 15 13:21:08 2010
+From: kanzure at gmail.com (Bryan Bishop)
+Date: Mon, 15 Nov 2010 07:21:08 -0600
+Subject: [open-science] =?windows-1252?q?Fwd=3A_=5BOSDD-Discuss=5D_Case_St?=
+	=?windows-1252?q?udy_of_Open_Source_Drug_Discovery_=96_Will_you_he?=
+	=?windows-1252?q?lp=3F?=
+In-Reply-To: <37d5fb81-1f58-4c61-ba31-f3657cf229f4@k5g2000vbn.googlegroups.com>
+References: <37d5fb81-1f58-4c61-ba31-f3657cf229f4@k5g2000vbn.googlegroups.com>
+Message-ID: <AANLkTinXP6TT0TFM82HqyuE=2jiUcB8zZx4DE7CtQwjx@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Christine ?rdal <christine.ardal at gmail.com>
+Date: Mon, Nov 15, 2010 at 6:40 AM
+Subject: [OSDD-Discuss] Case Study of Open Source Drug Discovery ? Will you
+help?
+To: Open Source Drug Discovery <osdd-public at googlegroups.com>
+
+
+Hello!
+
+We (at the Norwegian Knowledge Center for Health Services,
+www.kunnskapssenteret.no/Home) are interested in learning more about
+the CSIR Team India OSDD Consortium. We are attempting to create a
+business model that will be freely available to anyone interested in
+initiating an open source drug discovery project. (You can read more
+about our project at www.kunnskapssenteret.no/osdd.) As a first step
+in building the business model, we are undertaking a case study to
+learn from you.
+
+We would appreciate your help! We are starting this discussion in
+hopes that you will be willing to take no more than 15 minutes to
+answer a set of questions (see below). Over the next two months I will
+post three more discussions to learn about your motivations,
+collaboration methods, perceptions of intellectual property management
+and pathways to commercialization. We would love to hear from all
+members of the Consortium ? leaders, newcomers, active participants,
+non-active participants.
+
+If you have any questions or would prefer to participate via email
+instead of the discussion forum, please feel free to contact me
+directly at cha at nokc.no.
+
+If you are willing to help, please reply to the questions listed
+below. Thanks very much for any assistance you can give.
+
+Kind regards,
+
+Christine Aardal
+Project Manager
+The Norwegian Knowledge Center for Health Services
+P.O. Box 7004, St. Olavs plass
+N-0130 Oslo
+Norway
+Telephone: +47 23 25 50 00
+Email: cha at nokc.no
+
+***********************
+
+Questions regarding motivations and some background information
+
+1. What is your main profession (or if you are a student, what
+profession do you aspire to be) (for example, biologist)?
+
+2. What is your current professional status (for example, student,
+employed, self-employed, unemployed or retiree)?
+
+3. How did you find out about CSIR?s Open Source Drug Discovery
+Consortium?
+
+4. Why do you participate in the Consortium?
+
+5. How much time in an average week do you spend reading or working on
+tasks for the Consortium?
+
+6. Are you paid to spend time reading or working on tasks for the
+Consortium? What benefits, if any, does your employer hope to gain
+from your involvement in this project?
+
+7. What tools and/or resources must an individual have access to in
+order to contribute to the Consortium?
+
+8. When a task requires laboratory work, how do you manage to gain
+access to the laboratory? Is payment required and if so, who pays?
+
+9. When a task requires the use of physical resources (e.g. chemicals,
+etc.), how do you manage to secure the resources and who pays for them?
+
+--
+You received this message because you are subscribed to the Google Groups
+"Open Source Drug Discovery" group.
+To post to this group, send email to osdd-public at googlegroups.com.
+To unsubscribe from this group, send email to
+osdd-public+unsubscribe at googlegroups.com<osdd-public%2Bunsubscribe at googlegroups.com>
+.
+For more options, visit this group at
+http://groups.google.com/group/osdd-public?hl=en.
+
+
+
+
+-- 
+- Bryan
+http://heybryan.org/
+1 512 203 0507
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101115/d172c565/attachment.htm>
+
+From hpiwowar at gmail.com  Fri Nov 19 19:24:32 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Fri, 19 Nov 2010 11:24:32 -0800
+Subject: [open-science] Toward tool support for tracking data citations
+Message-ID: <AANLkTimyVfQQnC1uibxhb6KoMqtswyNfjxeYXSJV0KzB@mail.gmail.com>
+
+Hi open science list,
+
+Since citations to datasets and other nontraditional research products is a
+subject near and dear to our hearts, I wanted to spread the word about a
+just-launched open document: A Community
+Hub<https://docs2.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en#>
+ for* improving tool support for tracking citations to nontraditional
+products*.
+
+As you may know, it is not currently
+possible<http://researchremix.wordpress.com/2010/11/09/tracking-dataset-citations-using-common-citation-tracking-tools-doesnt-work/>
+to
+track citations to datasets through Scopus and ISI Web of Science, even if
+the datasets have DOIs or other recognized identifiers.   The purpose of
+this hub is to provide:
+
+   - a central meeting ground for the many individuals and organizations
+   interested in this issue
+   - a living document that captures current unmet needs
+   - an area to inventory and develop initiatives to encourage vendors to
+   address these issues as soon as possible
+
+Please check it
+out<https://docs.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en>,
+add what you know, and send the link around to others you know who care
+about this issue so that we can achieve data citation tracking through
+Scopus and Web of Science ASAP.
+
+Sincerely,
+Heather
+
+-- 
+Heather Piwowar
+
+DataONE postdoc with NESCent and Dryad
+  remote from Dept of Zoology, UBC, Vancouver Canada
+hpiwowar at nescent.org
+http://researchremix.org
+@researchremix
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101119/2e09234a/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Nov 19 21:08:56 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 19 Nov 2010 21:08:56 +0000
+Subject: [open-science] Toward tool support for tracking data citations
+In-Reply-To: <AANLkTimyVfQQnC1uibxhb6KoMqtswyNfjxeYXSJV0KzB@mail.gmail.com>
+References: <AANLkTimyVfQQnC1uibxhb6KoMqtswyNfjxeYXSJV0KzB@mail.gmail.com>
+Message-ID: <AANLkTimVH4JB_3R7gMvtbHBnjvLR4ijQVKQsXG4Q2WW8@mail.gmail.com>
+
+First, many thanks for the work you have put in. It's going to take a lot of
+community effort and I hope peolple can join in.
+
+On Fri, Nov 19, 2010 at 7:24 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Hi open science list,
+>
+> Since citations to datasets and other nontraditional research products is a
+> subject near and dear to our hearts, I wanted to spread the word about a
+> just-launched open document: A Community Hub<https://docs2.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en#>
+>  for* improving tool support for tracking citations to nontraditional
+> products*.
+>
+> One immediate problem is that these resources must be identified. In UKPMC
+and other projects people have been looking at DataCite. If you go beyond
+data how do you measure it? For example our software has had >>200,000
+downloads (measured by Microsoft). I probably trust this figure in general
+but I have no idea about it in detail. Would software come under this?
+accesses to web services?
+
+
+> As you may know, it is not currently possible<http://researchremix.wordpress.com/2010/11/09/tracking-dataset-citations-using-common-citation-tracking-tools-doesnt-work/> to
+> track citations to datasets through Scopus and ISI Web of Science, even if
+> the datasets have DOIs or other recognized identifiers.   The purpose of
+> this hub is to provide:
+>
+>    - a central meeting ground for the many individuals and organizations
+>    interested in this issue
+>    - a living document that captures current unmet needs
+>    - an area to inventory and develop initiatives to encourage vendors to
+>    address these issues as soon as possible
+>
+> I would prefer to see citations of all sorts made open rather than working
+to help vendors produce closed products.  But I'm afraid I have OKF-disease
+at present. I want everything open. David Shotton ("David Shotton"
+<david.shotton AT zoo DOTox DOT ac DOTuk,  is working on Open citations -
+suggest you contact him
+
+>
+>
+> Please check it out<https://docs.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en>,
+> add what you know, and send the link around to others you know who care
+> about this issue so that we can achieve data citation tracking through
+> Scopus and Web of Science ASAP.
+>
+
+My concern is that the collection of metrics by commercial companies is
+opaque and hence potentially flawed. Moreover you cannot use these data for
+schmolarly research - or if you do you are not allowed to publissh the
+results. So I would be concerned about helping to perpetuate this. I can
+give more info by skype.
+
+P.
+
+
+>
+> Sincerely,
+> Heather
+>
+> --
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   remote from Dept of Zoology, UBC, Vancouver Canada
+> hpiwowar at nescent.org
+> http://researchremix.org
+> @researchremix
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101119/05b1e235/attachment.htm>
+
+From hpiwowar at gmail.com  Fri Nov 19 21:34:44 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Fri, 19 Nov 2010 13:34:44 -0800
+Subject: [open-science] Toward tool support for tracking data citations
+In-Reply-To: <AANLkTimVH4JB_3R7gMvtbHBnjvLR4ijQVKQsXG4Q2WW8@mail.gmail.com>
+References: <AANLkTimyVfQQnC1uibxhb6KoMqtswyNfjxeYXSJV0KzB@mail.gmail.com>
+	<AANLkTimVH4JB_3R7gMvtbHBnjvLR4ijQVKQsXG4Q2WW8@mail.gmail.com>
+Message-ID: <AANLkTikDovmvsBVDTbsxpjK3J2k+hkeL0fNRvkYm7Ry2@mail.gmail.com>
+
+Hi Peter,
+
+Good points.  I agree, the scope of the current effort is very small:
+ simply to enable tracking citations of a certain form using a number of
+existing tools.
+
+Calculating and disseminating useful metrics for the wide range of research
+products is a much more difficult (and important) issue.
+
+YES agreed on value of open citation systems rather than the current closed
+systems.  MUCH more valuable, in a paradigm-shifting way.
+
+At this same time, there is immense value in tracking new research products
+NOW, the "standard" way, in parallel with building open systems for the
+future, even given the limited ways the closed-system data can be obtained
+and extracted and understood and disseminated.  I think the benefits that
+standard citation measurements will bring to recognition of nontraditional
+research products outweighs the disadvantages.  I can understand that
+opinions on such an approach may vary, though.
+
+Heather
+
+
+On Fri, Nov 19, 2010 at 1:08 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> First, many thanks for the work you have put in. It's going to take a lot
+> of community effort and I hope peolple can join in.
+>
+> On Fri, Nov 19, 2010 at 7:24 PM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+>
+>> Hi open science list,
+>>
+>> Since citations to datasets and other nontraditional research products is
+>> a subject near and dear to our hearts, I wanted to spread the word about a
+>> just-launched open document: A Community Hub<https://docs2.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en#>
+>>  for* improving tool support for tracking citations to nontraditional
+>> products*.
+>>
+>> One immediate problem is that these resources must be identified. In UKPMC
+> and other projects people have been looking at DataCite. If you go beyond
+> data how do you measure it? For example our software has had >>200,000
+> downloads (measured by Microsoft). I probably trust this figure in general
+> but I have no idea about it in detail. Would software come under this?
+> accesses to web services?
+>
+>
+>> As you may know, it is not currently possible<http://researchremix.wordpress.com/2010/11/09/tracking-dataset-citations-using-common-citation-tracking-tools-doesnt-work/> to
+>> track citations to datasets through Scopus and ISI Web of Science, even if
+>> the datasets have DOIs or other recognized identifiers.   The purpose of
+>> this hub is to provide:
+>>
+>>    - a central meeting ground for the many individuals and organizations
+>>    interested in this issue
+>>    - a living document that captures current unmet needs
+>>    - an area to inventory and develop initiatives to encourage vendors to
+>>    address these issues as soon as possible
+>>
+>> I would prefer to see citations of all sorts made open rather than working
+> to help vendors produce closed products.  But I'm afraid I have OKF-disease
+> at present. I want everything open. David Shotton ("David Shotton"
+> <david.shotton AT zoo DOTox DOT ac DOTuk,  is working on Open citations -
+> suggest you contact him
+>
+>>
+>>
+>> Please check it out<https://docs.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en>,
+>> add what you know, and send the link around to others you know who care
+>> about this issue so that we can achieve data citation tracking through
+>> Scopus and Web of Science ASAP.
+>>
+>
+> My concern is that the collection of metrics by commercial companies is
+> opaque and hence potentially flawed. Moreover you cannot use these data for
+> schmolarly research - or if you do you are not allowed to publissh the
+> results. So I would be concerned about helping to perpetuate this. I can
+> give more info by skype.
+>
+> P.
+>
+>
+>>
+>> Sincerely,
+>> Heather
+>>
+>> --
+>> Heather Piwowar
+>>
+>> DataONE postdoc with NESCent and Dryad
+>>   remote from Dept of Zoology, UBC, Vancouver Canada
+>> hpiwowar at nescent.org
+>> http://researchremix.org
+>> @researchremix
+>>
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+Heather Piwowar
+
+DataONE postdoc with NESCent and Dryad
+  remote from Dept of Zoology, UBC, Vancouver Canada
+hpiwowar at nescent.org
+http://researchremix.org
+@researchremix
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101119/61c6834a/attachment-0001.htm>
+
+From jcmcoppice12 at gmail.com  Fri Nov 19 23:46:34 2010
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Fri, 19 Nov 2010 23:46:34 +0000
+Subject: [open-science] Working Group Meeting - Wed 1 Dec 17:30 GMT
+Message-ID: <AANLkTin3RMg=Cj7woGa8FTMCq34K9r+aYchpG1RpKozL@mail.gmail.com>
+
+Dear All
+
+Just a quick note to mention that our next working group meeting is coming
+up soon. Apologies for the absence of a meeting this month, I was trying to
+organise one but it turns out my emails haven't been reaching the list, so
+I'm starting again! This will be the last meeting before 2011 so it would be
+great if as many people as possible could participate, everyone is welcome
+whether you've attended in the past or not.
+
+When:      Wednesday 1st December at 17.30 GMT
+Location:  #okfn IRC channel on oftc.net (quick link http://ur1.ca/4fh) and
+Skype (add your Skype ID to http://okfnpad.org/sciencewg-meetings)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-meetings
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+I'll be helping Greg with working group coordination going forward, and
+getting involved with some other tasks at the OKF, so I look forward to
+being in touch with many of you soon!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101119/9ef2fbb0/attachment.htm>
+
+From jonathan.gray at okfn.org  Wed Nov 24 16:43:05 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 24 Nov 2010 17:43:05 +0100
+Subject: [open-science] Fwd: Community progress on tools for tracking
+	citations to datasets
+In-Reply-To: <EE2B68CBA9D68B40ADDFE9C0DB7244314F98DC7674@jisc-ex1.jisc.ac.uk>
+References: <AANLkTinOg0ZhO8Pb-gmkM+jEUPhRi3FWq-WP12eWH=jE@mail.gmail.com>
+	<EE2B68CBA9D68B40ADDFE9C0DB7244314F98DC7674@jisc-ex1.jisc.ac.uk>
+Message-ID: <AANLkTi=kVCndFMHT3Ueu5s-jvhLhK1LtN8K0zYoGapuy@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+From: Simon HODSON
+Date: Sun, Nov 21, 2010 at 4:45 PM
+Subject: FW: Community progress on tools for tracking citations to datasets
+
+Of interest to this list: an initiative from Heather Piwowar
+(@researchremix ; http://researchremix.wordpress.com) to galvanise
+community work on tools for tracking citations to datasets.
+
+See the message below and contribute to the Community Hub!
+
+Best wishes,
+
+Simon.
+
+________________________________________
+From: Heather Piwowar [hpiwowar at gmail.com]
+Sent: 19 November 2010 22:47
+To: Simon HODSON
+Subject: Community progress on tools for tracking citations to datasets
+
+Hi Simon,
+
+In case you haven't seen this already, I want to make sure you and
+JISC are aware of the just-launched open document: A Community
+Hub<https://docs2.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en#>
+for improving tool support for tracking citations to nontraditional
+products.
+
+As you know, it is not currently
+possible<http://researchremix.wordpress.com/2010/11/09/tracking-dataset-citations-using-common-citation-tracking-tools-doesnt-work/>
+to track citations to datasets through Scopus and ISI Web of Science,
+even if the datasets have DOIs or other recognized identifiers. ? The
+purpose of this hub is to provide:
+
+?* ? a central meeting ground for the many individuals and
+organizations interested in this issue
+?* ? a living document that captures current unmet needs
+?* ? an area to inventory and develop initiatives to encourage vendors
+to address these issues as soon as possible
+
+The document would certainly benefit from JISC input, since you and
+your projects are looking at this issue from many angles.
+
+Please check it
+out<https://docs.google.com/document/d/1mHYlu3IU3q6RaJfkxyNZQcykYMB-iak4N2Gd3fNgd2Q/edit?hl=en>,
+add what you know, suggest some ideas, and send the link around to
+others who care about this issue so that we can achieve data citation
+tracking through Scopus and Web of Science ASAP. ?Thanks!
+
+Sincerely,
+Heather
+
+--
+Heather Piwowar
+
+DataONE postdoc with NESCent and Dryad
+?remote from Dept of Zoology, UBC, Vancouver Canada
+hpiwowar at nescent.org<mailto:hpiwowar at nescent.org>
+http://researchremix.org<http://researchremix.org/>
+@researchremix
+
+*****
+Programme Website: http://www.jisc.ac.uk/whatwedo/programmes/mrd.aspx
+JISCMRD Netvibes: http://www.netvibes.com/jiscmrd#General
+Community Discussion List: RESEARCH-DATAMAN at jiscmail.ac.uk
+Blog: http://researchdata.jiscinvolve.org/
+Twitter, Skype: simonhodson99
+Programme Tag: #jiscmrd
+*****
+Dr Simon HODSON
+Programme Manager ? Managing Research Data
+JISC Executive
+Brettenham House (South Entrance)
+5 Lancaster Place
+London ?WC2E 7EN
+
+E: s.hodson at jisc.ac.uk
+M1: +44 (0) 7545 524 009
+T: +44 (0) 203 006 6071
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From hpiwowar at gmail.com  Fri Nov 26 22:34:21 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Fri, 26 Nov 2010 14:34:21 -0800
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+Message-ID: <AANLkTi=ygkLY0F3pmN4nRj=FxFiFovCC5R1ow0h7w_uc@mail.gmail.com>
+
+Hi Open Science,
+
+Wanted to let you know that Nature has responded to our IsItOpenData?
+enquiry.  Their response is at the IsItOpenData site, and I've also blogged
+it <http://science.okfn.org/2010/11/26/natures-response-to-isitopendata/> on
+the open science blog (psst anyone else want to blog there too?  It is
+fun!).
+
+Note that Nature's response requires some careful reading.  Nonetheless,
+kudos to them for responding.
+
+That wraps up my IsItOpenData enquiries for a while.  Thanks to everyone who
+helped make it happen.  To make future enquiries easier, I pulled together a
+quick blog post with
+tips<http://science.okfn.org/2010/11/26/isitopendata-tips/>and lessons
+learned.  Please add more info in the comments!
+
+Sincerely,
+Heather
+
+-- 
+Heather Piwowar
+
+DataONE postdoc with NESCent and Dryad
+  remote from Dept of Zoology, UBC, Vancouver Canada
+hpiwowar at nescent.org
+http://researchremix.org
+@researchremix
+
+
+On Sat, Oct 23, 2010 at 6:30 AM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Hi Egon,
+>
+> We did indeed get a response from PLoS and BMC.  Haven't heard from Nature.
+>  Also, in response to a slightly different email about open API data,
+> Mendeley clarified their open data policies.
+>
+> The summary of the PLoS and BMC response is on the new OKFN science blog:
+>
+> http://science.okfn.org/2010/09/13/bmc-and-plos-all-the-data-is-cc-by-enjoy/
+>
+> I have plans to do a quick writeup of the Mendeley response and also a
+> "tips for IsItOpenData enquiries" post to summarize what I learned about
+> avoiding spam filters etc.  I'll finish those Real Soon Now.
+>
+> Alas I don't have time at this point to send the letter out to other
+> publishers, though others are certainly welcome to!  Let me know if I can be
+> of help.  Anita de Waard had useful suggestions about making the definition
+> of metadata looser before we send it out to commercial publishers.  The most
+> recent version of the letter on etherpad incorporates this feedback:
+> http://okfnpad.org/isitopenLetters
+>
+> Cheers,
+> Heather
+>
+>
+> On Wed, Oct 20, 2010 at 6:30 AM, Egon Willighagen <
+> egon.willighagen at gmail.com> wrote:
+>
+>> Hi Heather,
+>>
+>> On Fri, Aug 20, 2010 at 12:04 AM, Heather Piwowar <hpiwowar at gmail.com>
+>> wrote:
+>> > We've drafted a letter to send to publishers on behalf of the OKF
+>> through
+>> > IsItOpen, requesting clarification on journal policies with respect to
+>> Open
+>> > Data.  We've received feedback on the draft from several sources and the
+>> > letter has improved greatly as a result.  Your turn!
+>>
+>> I just ran into this email while cleaning up my inbox... I was
+>> wondering about the status of this effort... was there much response?
+>> did you write up a summary?
+>>
+>> Egon
+>>
+>> --
+>> Dr E.L. Willighagen
+>> Postdoctoral Research Associate
+>> University of Cambridge
+>> Homepage: http://egonw.github.com/
+>> LinkedIn: http://se.linkedin.com/in/egonw
+>> Blog: http://chem-bla-ics.blogspot.com/
+>> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101126/1ed29770/attachment.htm>
+
+From tom.moritz at gmail.com  Fri Nov 26 23:44:06 2010
+From: tom.moritz at gmail.com (Tom Moritz)
+Date: Fri, 26 Nov 2010 15:44:06 -0800
+Subject: [open-science] Fran Berman (RPI) "We Need a Research Data Census"
+	Comm. ACM Dec 2010
+Message-ID: <AANLkTi=Lnv7vK1x9k53G_wdPMm8-YyGkY7OXasnPq1QQ@mail.gmail.com>
+
+FYI --
+
+"We Need a Research Data Census" by Francine Berman (RPI)Communications of
+the ACM
+Vol. 53 No. 12, Pages 39-41
+10.1145/1859204.1859220
+
+'The increasing volume of research data highlights the need for reliable,
+cost-effective data storage and preservation at the national scale."
+http://cacm.acm.org/magazines/2010/12/102121-we-need-a-research-data-census/fulltext
+
+
+*Tom Moritz
+1968 1/2 South Shenandoah Street,
+Los Angeles, California 90034-1208  USA
++1 310 963 0199 (cell) [GMT -8]
+tommoritz (Skype)
+http://www.linkedin.com/in/tmoritz*
+
+?????? ??? ??? ????? ?????? (Everything flows, nothing stands still.) --*
+Heraclitus *
+* "Il faut imaginer Sisyphe heureux."  ("One must imagine Sisyphus happy.")
+-- Camus
+*
+
+     Please consider the environment before printing this e-mail
+
+
+
+
+On Fri, Nov 26, 2010 at 2:34 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+
+> Hi Open Science,
+>
+> Wanted to let you know that Nature has responded to our IsItOpenData?
+> enquiry.  Their response is at the IsItOpenData site, and I've also blogged
+> it <http://science.okfn.org/2010/11/26/natures-response-to-isitopendata/>on the open science blog (psst anyone else want to blog there too?  It is
+> fun!).
+>
+> Note that Nature's response requires some careful reading.  Nonetheless,
+> kudos to them for responding.
+>
+> That wraps up my IsItOpenData enquiries for a while.  Thanks to everyone
+> who helped make it happen.  To make future enquiries easier, I pulled
+> together a quick blog post with tips<http://science.okfn.org/2010/11/26/isitopendata-tips/>and lessons learned.  Please add more info in the comments!
+>
+> Sincerely,
+> Heather
+>
+> --
+>
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   remote from Dept of Zoology, UBC, Vancouver Canada
+> hpiwowar at nescent.org
+> http://researchremix.org
+> @researchremix
+>
+>
+> On Sat, Oct 23, 2010 at 6:30 AM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+>
+>> Hi Egon,
+>>
+>> We did indeed get a response from PLoS and BMC.  Haven't heard from
+>> Nature.  Also, in response to a slightly different email about open API
+>> data, Mendeley clarified their open data policies.
+>>
+>> The summary of the PLoS and BMC response is on the new OKFN science blog:
+>>
+>> http://science.okfn.org/2010/09/13/bmc-and-plos-all-the-data-is-cc-by-enjoy/
+>>
+>> I have plans to do a quick writeup of the Mendeley response and also a
+>> "tips for IsItOpenData enquiries" post to summarize what I learned about
+>> avoiding spam filters etc.  I'll finish those Real Soon Now.
+>>
+>> Alas I don't have time at this point to send the letter out to other
+>> publishers, though others are certainly welcome to!  Let me know if I can be
+>> of help.  Anita de Waard had useful suggestions about making the definition
+>> of metadata looser before we send it out to commercial publishers.  The most
+>> recent version of the letter on etherpad incorporates this feedback:
+>> http://okfnpad.org/isitopenLetters
+>>
+>> Cheers,
+>> Heather
+>>
+>>
+>> On Wed, Oct 20, 2010 at 6:30 AM, Egon Willighagen <
+>> egon.willighagen at gmail.com> wrote:
+>>
+>>> Hi Heather,
+>>>
+>>> On Fri, Aug 20, 2010 at 12:04 AM, Heather Piwowar <hpiwowar at gmail.com>
+>>> wrote:
+>>> > We've drafted a letter to send to publishers on behalf of the OKF
+>>> through
+>>> > IsItOpen, requesting clarification on journal policies with respect to
+>>> Open
+>>> > Data.  We've received feedback on the draft from several sources and
+>>> the
+>>> > letter has improved greatly as a result.  Your turn!
+>>>
+>>> I just ran into this email while cleaning up my inbox... I was
+>>> wondering about the status of this effort... was there much response?
+>>> did you write up a summary?
+>>>
+>>> Egon
+>>>
+>>> --
+>>> Dr E.L. Willighagen
+>>> Postdoctoral Research Associate
+>>> University of Cambridge
+>>> Homepage: http://egonw.github.com/
+>>> LinkedIn: http://se.linkedin.com/in/egonw
+>>> Blog: http://chem-bla-ics.blogspot.com/
+>>> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>>>
+>>
+>>
+>>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101126/d5dc595b/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: image/gif
+Size: 278 bytes
+Desc: not available
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101126/d5dc595b/attachment-0001.gif>
+
+From pm286 at cam.ac.uk  Sat Nov 27 09:26:55 2010
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 27 Nov 2010 09:26:55 +0000
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTi=ygkLY0F3pmN4nRj=FxFiFovCC5R1ow0h7w_uc@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+	<AANLkTi=ygkLY0F3pmN4nRj=FxFiFovCC5R1ow0h7w_uc@mail.gmail.com>
+Message-ID: <AANLkTikMGuamR0Pyeunf7Emgg5sbY3ZBddvpySiQcxMV@mail.gmail.com>
+
+On Fri, Nov 26, 2010 at 10:34 PM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+
+> Hi Open Science,
+>
+> Wanted to let you know that Nature has responded to our IsItOpenData?
+> enquiry.  Their response is at the IsItOpenData site, and I've also blogged
+> it <http://science.okfn.org/2010/11/26/natures-response-to-isitopendata/>on the open science blog (psst anyone else want to blog there too?  It is
+> fun!).
+>
+> Note that Nature's response requires some careful reading.  Nonetheless,
+> kudos to them for responding.
+>
+> That wraps up my IsItOpenData enquiries for a while.  Thanks to everyone
+> who helped make it happen.  To make future enquiries easier, I pulled
+> together a quick blog post with tips<http://science.okfn.org/2010/11/26/isitopendata-tips/>and lessons learned.  Please add more info in the comments!
+>
+
+Thank you very much Heather. We appreciate the work you have done and how
+much effort it was!
+
+It's really important that others take this up. It's now fairly
+straightforward mechanically - just needs consistent continuing effort.
+
+>
+> Sincerely,
+> Heather
+>
+> --
+>
+> Heather Piwowar
+>
+> DataONE postdoc with NESCent and Dryad
+>   remote from Dept of Zoology, UBC, Vancouver Canada
+> hpiwowar at nescent.org
+> http://researchremix.org
+> @researchremix
+>
+>
+> On Sat, Oct 23, 2010 at 6:30 AM, Heather Piwowar <hpiwowar at gmail.com>wrote:
+>
+>> Hi Egon,
+>>
+>> We did indeed get a response from PLoS and BMC.  Haven't heard from
+>> Nature.  Also, in response to a slightly different email about open API
+>> data, Mendeley clarified their open data policies.
+>>
+>> The summary of the PLoS and BMC response is on the new OKFN science blog:
+>>
+>> http://science.okfn.org/2010/09/13/bmc-and-plos-all-the-data-is-cc-by-enjoy/
+>>
+>> I have plans to do a quick writeup of the Mendeley response and also a
+>> "tips for IsItOpenData enquiries" post to summarize what I learned about
+>> avoiding spam filters etc.  I'll finish those Real Soon Now.
+>>
+>> Alas I don't have time at this point to send the letter out to other
+>> publishers, though others are certainly welcome to!  Let me know if I can be
+>> of help.  Anita de Waard had useful suggestions about making the definition
+>> of metadata looser before we send it out to commercial publishers.  The most
+>> recent version of the letter on etherpad incorporates this feedback:
+>> http://okfnpad.org/isitopenLetters
+>>
+>> Cheers,
+>> Heather
+>>
+>>
+>> On Wed, Oct 20, 2010 at 6:30 AM, Egon Willighagen <
+>> egon.willighagen at gmail.com> wrote:
+>>
+>>> Hi Heather,
+>>>
+>>> On Fri, Aug 20, 2010 at 12:04 AM, Heather Piwowar <hpiwowar at gmail.com>
+>>> wrote:
+>>> > We've drafted a letter to send to publishers on behalf of the OKF
+>>> through
+>>> > IsItOpen, requesting clarification on journal policies with respect to
+>>> Open
+>>> > Data.  We've received feedback on the draft from several sources and
+>>> the
+>>> > letter has improved greatly as a result.  Your turn!
+>>>
+>>> I just ran into this email while cleaning up my inbox... I was
+>>> wondering about the status of this effort... was there much response?
+>>> did you write up a summary?
+>>>
+>>> Egon
+>>>
+>>> --
+>>> Dr E.L. Willighagen
+>>> Postdoctoral Research Associate
+>>> University of Cambridge
+>>> Homepage: http://egonw.github.com/
+>>> LinkedIn: http://se.linkedin.com/in/egonw
+>>> Blog: http://chem-bla-ics.blogspot.com/
+>>> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>>>
+>>
+>>
+>>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101127/e80e0e7d/attachment.htm>
+
+From egon.willighagen at gmail.com  Sat Nov 27 11:52:24 2010
+From: egon.willighagen at gmail.com (Egon Willighagen)
+Date: Sat, 27 Nov 2010 12:52:24 +0100
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTi=ygkLY0F3pmN4nRj=FxFiFovCC5R1ow0h7w_uc@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+	<AANLkTi=ygkLY0F3pmN4nRj=FxFiFovCC5R1ow0h7w_uc@mail.gmail.com>
+Message-ID: <AANLkTi=tgjwy+uxi0-A7YTrc2KjiBfXzgPFsAmCrzFWt@mail.gmail.com>
+
+On Fri, Nov 26, 2010 at 11:34 PM, Heather Piwowar <hpiwowar at gmail.com> wrote:
+> Note that Nature's response requires some careful reading. ?Nonetheless,
+> kudos to them for responding.
+
+Indeed. I left a comment in your blog post (being moderated).
+
+"About that YES on 4 ("May the extracted data be used as Open Data
+[1,2] without discrimination against users, groups, or fields of
+endeavor?") and 5 ("May users expose the extracted data as Open Data
+[1,2], in a manner consistent with the Panton Principles
+(http://pantonprinciples.org/)? Specifically, may they expose the
+extracted data on the internet under a Public Domain, PDDL
+(http://www.opendatacommons.org/licenses/pddl/) or CC0 waiver
+(http://wiki.creativecommons.org/CC0)?").
+
+I am wondering if that answer should not really be a NO. That is, they
+clearly write that if you extract significant data, you still require
+permisson. That does not sound like Open Data to me.
+
+Do you agree with Nature that their answer is really YES, instead of
+NO or YES/NO? If so, what arguments would you give for that? If not,
+why do you think their answer does not open the doors for
+discrimination against users, groups, or fields of endeavor?"
+
+Egon
+
+-- 
+Dr E.L. Willighagen
+Postdoctoral Research Associate
+University of Cambridge
+Homepage: http://egonw.github.com/
+LinkedIn: http://se.linkedin.com/in/egonw
+Blog: http://chem-bla-ics.blogspot.com/
+PubList: http://www.citeulike.org/user/egonw/tag/papers
+
+
+From hpiwowar at gmail.com  Sat Nov 27 14:21:59 2010
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Sat, 27 Nov 2010 06:21:59 -0800
+Subject: [open-science] IsItOpen letter for feedback
+In-Reply-To: <AANLkTi=tgjwy+uxi0-A7YTrc2KjiBfXzgPFsAmCrzFWt@mail.gmail.com>
+References: <AANLkTik-JU-f11zM1JJj8g60XL576ebEkA11y7Q2-aMW@mail.gmail.com>
+	<AANLkTimjAWrk5YJ85zzgmGsUYOWyz9wwEDJ+s-ZM9ARf@mail.gmail.com>
+	<AANLkTikzpfe4Jq4p3+3dUq3F27uMSoDF0=KA-qxHAfZR@mail.gmail.com>
+	<AANLkTi=ygkLY0F3pmN4nRj=FxFiFovCC5R1ow0h7w_uc@mail.gmail.com>
+	<AANLkTi=tgjwy+uxi0-A7YTrc2KjiBfXzgPFsAmCrzFWt@mail.gmail.com>
+Message-ID: <AANLkTimUtJ4_CNriK=sMCU6F_H-hB+Y-NLeJ9rm_FSJb@mail.gmail.com>
+
+Good point.
+
+Two possibilities, I think. By "we believe there is a potential obligation"
+they either meant "we release the data under under an occasional obligation
+to" or as "we think the best practice community norm is."
+
+What do you think?
+
+For list reference, here are their answers under discussion:
+
+*
+
+4) YES ? If substantial data is taken from a paper we believe there is a
+potential obligation on the extractor to request permission from the author
+(of the paper) about the re-use of their data, and a requirement to credit
+the original author.
+
+5) YES ? If substantial data is taken from a paper we believe there is a
+potential obligation on the extractor to request permission from the author
+(of the paper) about the re-use of their data, and a requirement to credit
+the original author.
+*
+
+Heather
+(comment now approved)
+
+On Sat, Nov 27, 2010 at 3:52 AM, Egon Willighagen <
+egon.willighagen at gmail.com> wrote:
+
+> On Fri, Nov 26, 2010 at 11:34 PM, Heather Piwowar <hpiwowar at gmail.com>
+> wrote:
+> > Note that Nature's response requires some careful reading.  Nonetheless,
+> > kudos to them for responding.
+>
+> Indeed. I left a comment in your blog post (being moderated).
+>
+> "About that YES on 4 ("May the extracted data be used as Open Data
+> [1,2] without discrimination against users, groups, or fields of
+> endeavor?") and 5 ("May users expose the extracted data as Open Data
+> [1,2], in a manner consistent with the Panton Principles
+> (http://pantonprinciples.org/)? Specifically, may they expose the
+> extracted data on the internet under a Public Domain, PDDL
+> (http://www.opendatacommons.org/licenses/pddl/) or CC0 waiver
+> (http://wiki.creativecommons.org/CC0)?").
+>
+> I am wondering if that answer should not really be a NO. That is, they
+> clearly write that if you extract significant data, you still require
+> permisson. That does not sound like Open Data to me.
+>
+> Do you agree with Nature that their answer is really YES, instead of
+> NO or YES/NO? If so, what arguments would you give for that? If not,
+> why do you think their answer does not open the doors for
+> discrimination against users, groups, or fields of endeavor?"
+>
+> Egon
+>
+> --
+> Dr E.L. Willighagen
+> Postdoctoral Research Associate
+> University of Cambridge
+> Homepage: http://egonw.github.com/
+> LinkedIn: http://se.linkedin.com/in/egonw
+> Blog: http://chem-bla-ics.blogspot.com/
+> PubList: http://www.citeulike.org/user/egonw/tag/papers
+>
+
+
+
+-- 
+Heather Piwowar
+
+DataONE postdoc with NESCent and Dryad
+  remote from Dept of Zoology, UBC, Vancouver Canada
+hpiwowar at nescent.org
+http://researchremix.org
+@researchremix
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101127/8fd2414e/attachment.htm>
+
+From sasmekoll at gmail.com  Wed Nov 24 20:09:14 2010
+From: sasmekoll at gmail.com (Vovan)
+Date: Wed, 24 Nov 2010 23:09:14 +0300
+Subject: [open-science] =?utf-8?b?0J/QuNC60LDQvw==?=
+Message-ID: <4cf79e3f.d18acc0a.3d66.1e2c@mx.google.com>
+
+?????????? ????????  ???????? ???? ???????????? ?????????????????????????? ???????????? ?? ?? ??????????????, ?????????????? ???????????????? ???????????????? ?? ???????? ???????????????? ???? ???????????? ?? ?????????????????????? ?????????? ???????? ???????????? ???? ???????????? ?????? ?????????????????????????? ?? ????????????????? , ?? ???????????? ?????????????????? ??????????????, ?????????? ???????????? ?????????????? ?????????????? ?????? ?????????? ???????????????????? ??????????????????!!!
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101124/fe0ae32f/attachment.htm>
+
+From sasmekoll at gmail.com  Wed Nov 24 20:07:19 2010
+From: sasmekoll at gmail.com (Vovan)
+Date: Wed, 24 Nov 2010 23:07:19 +0300
+Subject: [open-science] =?utf-8?b?0J/QuNC60LDQvw==?=
+Message-ID: <4cf79ddd.8b02cc0a.059c.1f1d@mx.google.com>
+
+?????????? ????????  ???????? ???? ???????????? ?????????????????????????? ???????????? ?? ?? ??????????????, ?????????????? ???????????????? ???????????????? ?? ???????? ???????????????? ???? ???????????? ?? ?????????????????????? ?????????? ???????? ???????????? ???? ???????????? ?????? ?????????????????????????? ?? ????????????????? , ?? ???????????? ?????????????????? ??????????????, ?????????? ???????????? ?????????????? ?????????????? ?????? ?????????? ???????????????????? ??????????????????!!!
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101124/c63fd526/attachment.htm>
+
+From sasmekoll at gmail.com  Wed Nov 24 20:10:10 2010
+From: sasmekoll at gmail.com (Vovan)
+Date: Wed, 24 Nov 2010 23:10:10 +0300
+Subject: [open-science] =?utf-8?b?0J/QuNC60LDQvw==?=
+Message-ID: <4cf79e6f.0c08cc0a.4143.0a4d@mx.google.com>
+
+?????????? ????????  ???????? ???? ???????????? ?????????????????????????? ???????????? ?? ?? ??????????????, ?????????????? ???????????????? ???????????????? ?? ???????? ???????????????? ???? ???????????? ?? ?????????????????????? ?????????? ???????? ???????????? ???? ???????????? ?????? ?????????????????????????? ?? ????????????????? , ?? ???????????? ?????????????????? ??????????????, ?????????? ???????????? ?????????????? ?????????????? ?????? ?????????? ???????????????????? ??????????????????!!!
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101124/bfd0b4d1/attachment.htm>
+
+From sasmekoll at gmail.com  Thu Nov 25 01:21:02 2010
+From: sasmekoll at gmail.com (Vovan)
+Date: Thu, 25 Nov 2010 04:21:02 +0300
+Subject: [open-science] =?utf-8?b?0JbQtdC90YHQutCw0Y8g0LvQvtCz0LjQutCw?=
+Message-ID: <4cf7e86d.8b02cc0a.059c.363a@mx.google.com>
+
+???????????? ???????????????? ????????????? ?????????? ???????????????? ???? ??????????, ?????????? ?????? ???????????????? ???????????????? ???? ???? ???????????????????? ???????????????????????? ????????????? ???? ???????????????????????? ?????????????????? ???????????????? ?????????????????? ???? ?? ???????????????? ???????????????? ?????????????????? ???????? ?????????????????????????????????? ?? ???????????????????? ???????????????? ?????? ????????????.
+http://samec.org.ua/?p=202
+???? ????????????? ????????????????????, ?????? ????????????????????. ?????????? ?????? ?????????????? ?????????????? ??????????????.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20101125/e9734d3e/attachment.htm>
+

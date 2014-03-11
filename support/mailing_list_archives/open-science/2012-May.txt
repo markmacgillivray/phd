@@ -1,0 +1,811 @@
+From konrad at foerstner.org  Fri May 18 08:58:50 2012
+From: konrad at foerstner.org (Konrad =?iso-8859-1?Q?F=F6rstner?=)
+Date: Fri, 18 May 2012 09:58:50 +0200
+Subject: [open-science] Scientific Data Editor
+Message-ID: <20120518075850.GA18221@yersinia>
+
+Hi everyone,
+
+I was asked to make potential candidates aware of an open position at
+EMBO and hope nobody mind that I am posting this here. In my opinion
+it is great that EMBO is starting such a project for its journals.
+
+"EMBO is looking for a Scientific Data Editor to develop and implement
+the digitalization of the scientific data and metadata associated with
+figures published in The EMBO Journal, EMBO reports, Molecular Systems
+Biology and EMBO Molecular Medicine. This task will involve the
+annotation and curation of figures and datasets submitted by authors
+using structured, machine-readable information.
+
+The Scientific Data Editor will be part of the EMBO SourceData
+project, which will make published data freely available to the
+scientific community in a searchable and re-usable form. [...]"
+
+http://mobility.embo.org/index.php?option=com_jobline&Itemid=178&task=view&id=3509
+
+Best wishes
+
+Konrad F?rstner
+
+
+
+
+From yaroslav at trosy.com  Sun May 20 23:43:21 2012
+From: yaroslav at trosy.com (Yaroslav Nikolaev)
+Date: Mon, 21 May 2012 00:43:21 +0200
+Subject: [open-science] Open Science working group in Switzerland
+Message-ID: <CANDaVwC_23SsJ7M72vEbrCwChUUByNTLyCdo_ETYYMMX79iQvQ@mail.gmail.com>
+
+Greetings Open Scientists,
+
+We are trying to start Open Science working group in Switzerland.
+This is driven by enthusiasts from the local Open Data
+movement<http://make.opendata.ch/>(
+opendata.ch) and couple of academic researchers working in life science &
+IT domains.
+First meeting is currently planned for the 2nd of June during the Random
+Hacks of Kindness<http://rhokch.blogspot.com/2012/05/save-date-on-23-june-2012-rhok.html>event
+in Bern.
+If you're in Switzerland &/or are interested in joining the working group -
+please get in touch! =)
+
+Regards,
+Yaroslav
+
+--
+Yaroslav Nikolaev
+Postdoc in Structural+Systems Biology
+ETH Zurich
+
+email: yn at mol.biol.ethz.ch / yaroslav at trosy.com
+mobile: +41 76 5669787
+twitter.com/yarikson
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120521/e10bba11/attachment.htm>
+
+From william.gunn at gmail.com  Mon May 21 06:48:19 2012
+From: william.gunn at gmail.com (William Gunn)
+Date: Sun, 20 May 2012 22:48:19 -0700
+Subject: [open-science] #OAMonday starts (for the Europeans) NOW! Requesting
+ help from my open access / open science friends to make this happen.
+Message-ID: <CAAY7FqHEJQb7hL8=NA05oATfHp-PsAyDRFHXJ2YqLam9tetS7g@mail.gmail.com>
+
+Please see the message from Cameron Neylon, Director of Advocacy at
+PLoS, below. Note that anyone around the world can participate by
+signing (not just another e-petition, but has guaranteed legislative
+effect), and by sharing with others by blogging, tweeting, emailing,
+putting a link up on your site or wiki, or otherwise getting the word
+out to as many stakeholders as possible.  You don't need to be a
+resident of the US. The link to use is: http://wh.gov/6TH
+
+Thanks so much for your help. We need you to do what you can to make
+open access to research a reality.
+
+From: "cameronneylon.net" <cn at cameronneylon.net>
+Date: 19 May 2012 19:59:01 CEST
+Subject: Whitehouse Open Access petition kicking off Monday
+
+Dear All
+
+I wouldn't normally send out a bulk email but there is a big
+opportunity coming up to make real progress on expanding Open Access
+to US Federally Funded Research and in turn to use that momentum to
+move the agenda forward in the rest of the world.
+
+There is a real possibility of action in the US but to achieve this we
+need to demonstrate wide public support through a petition on the
+Whitehouse website. The petition will go live sometime on Sunday but
+we are aiming for a big publicity push to draw attention to it on
+Monday. ?The Whitehouse makes a formal response to these "We the
+People" petitions if they reach 25k signatures within 30 days. Ideally
+we'd like to go way through that number and as fast as possible to
+demonstrate the diversity and depth of support.
+
+Anything you are willing and able to do in terms of blogging,
+tweeting, emailing or otherwise activating the networks of people you
+are coupled into, particularly in the US, will make a difference. Our
+aim is to hit the social media channels mid-late morning in Europe on
+Monday and then to build momentum as the sun rises across the US. Feel
+free to forward the information on to people interested and advise
+people that the aim is to keep the powder dry until Monday morning.
+
+There is more detail below but any questions feel free to ping me. I
+will send the URL for the petition as soon as I have it but the
+overall site address is:
+
+https://wwws.whitehouse.gov/petitions
+
+Cheers
+
+Cameron
+
+
+
+1. Petition Text (800 character limit)
+
+WE PETITION THE OBAMA ADMINISTRATION TO:
+
+Require free, timely access over the Internet to journal articles
+arising from taxpayer-funded research.
+
+We believe in the power of the Internet to foster innovation,
+research, and education. ?Requiring the published results of
+taxpayer-funded research to be posted on the Internet in human and
+machine readable form would provide access to patients and caregivers,
+students and their teachers, researchers, entrepreneurs, and other
+taxpayers who paid for the research. Expanding access would speed the
+research process and increase the return on our investment in
+scientific research.
+
+The highly successful Public Access Policy of the National Institutes
+of Health proves that this can be done without disrupting the research
+process, and we urge President Obama to act now to implement open
+access policies for all federal agencies that fund scientific
+research.
+
+2. The Ask to Others
+
+To sign the petition:
+
+- ?????????????Have to be 13 years or older
+- ?????????????Have to create an account on whitehouse.gov,
+https://wwws.whitehouse.gov/petitions
+- ?????????????This first requires giving a name and an email address
+and then clicking the validation link sent to that address
+- ?????????????Click to sign the petition
+
+3. Further Context
+
+After years of work on promoting policy change to make
+federally-funded research available on the Internet, and after winning
+the battle to implement a public access policy at NIH, it has become
+clear that being on the right side of the issue is necessary but not
+sufficient. We've had the meetings, done the hearings, replied to the
+requests for information.
+
+But we're opposed in our work by a small set of publishers who profit
+enormously from the existing system, even though there is no evidence
+that the NIH policy has had any measurable impact on their business
+models. They can - and do - outspend those of us who have chosen to
+make a huge part of our daily work the expansion of access to
+knowledge. This puts the idea of access at a disadvantage. We know
+there is a serious debate about the extension of public access to
+taxpayer funded research going on right now in the White House, but we
+also know that we need more than our current ?approaches to get that
+extension made into federal policy.
+
+The best approach that we have yet to try is to make a broad public
+appeal for support, straight to the people. The Obama Administration
+has created a web platform to petition the White House directly called
+We The People. Any petition receiving more than 25,000 digital
+signatures is placed on the desk of the President's Chief of Staff and
+must be integrated into policy and political discussions. But there's
+a catch - a petition only has 30 days to gather the required number of
+signatures to qualify.
+
+We can get 25,000 signatures. And if we not only get 25,000, but an
+order of magnitude more, we can change the debate happening right now.
+
+Next week we will publish our petition and the 30 day cycle begins.
+What we're asking you to do is to leverage your personal and
+professional networks to get the word out.
+
+You can do this in any way that makes you feel comfortable. A blog
+post, an email to constituencies, a tweet, a facebook share, you name
+it - ?something that tells thousands of people "I support this
+petition, I'm signing this petition, and I thought you should know
+about it too." Because this isn't just slacktivism with a "like" or a
+retweet - people need to go to the White House website, enter their
+name and email address, and hit the button.
+
+Qualified signers must be 13 years old or more, and have a valid email
+address. That's all.
+
+The goal is not just to get 25,000, but to get far more to show the
+White House that this issue matters to people, not just a few
+publishers.
+
+We are launching the campaign on Monday May 21. The petition will go
+live late Sunday night May 20, so that the waves can start in the EU
+and sweep west with the sunrise. We're asking you to turn on your
+networks on Monday morning.
+
+Thanks for considering this. If we can all come together to get the
+word out at once, and stay behind it for 30 days, we have a real
+chance to get access to taxpayer funded research across the entire
+government, and send a signal that the people have a voice in this
+debate, not just publishers and activists.
+
+
+
+William Gunn
++1 646 755 9862
+http://synthesis.williamgunn.org/about/
+
+
+From jenny.molloy at okfn.org  Mon May 21 10:23:18 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Mon, 21 May 2012 10:23:18 +0100
+Subject: [open-science] access2research - help spread the word!
+Message-ID: <CABPM+woSvYc=yKD56O3-RThpggdKwOAca6bsVrroVu3NP2iSgA@mail.gmail.com>
+
+Dear open-science
+
+Following on from William Gunn's message earlier, please see a message from
+John Wilbanks and the access2research team below - they are aiming to
+generate a big splash this Monday and you may have got an inkling of what
+was coming through #OAMonday tweets, but it's arrived and they need your
+help!
+
+This message contains more info on social media links and handles than the
+earlier one so do use them if you can and get the word out there.
+
+Best wishes
+
+Jenny
+
+--------------------------------------------------------------
+
+On *Monday, May 21*, we lodge a petition on the White House?s ?We the
+People? page asking the Obama administration to require that all federally
+funded research be posted on the Web ? extending the principle of the NIH
+policy to all federal agencies.
+
+1. What We?re Asking
+
+? Publicity/ Call for Participation.  Please help line up publicity for the
+petition before Monday.  Specifically, can you help get it on the front
+pages of Reddit, Tumblr, Wikipedia, Boing Boing, and send out an
+all-hands-on-deck request through your own blogs/twitter feeds, etc?
+
+? 25,000 signatures in 30 days gets an official Administration response.
+ We want to hit that number fast to escalate this issue inside the White
+House.  We believe the policy has support but is stuck.  This could well be
+the event that gets it through.
+
+? Please sign the petition on Monday.
+
+2. Social Media links/handles
+
+The official campaign website is at http://access2research.org and there
+are already Facebook pages
+(http://facebook.com/**access2research<http://facebook.com/access2research>)
+and Twitter handles (@access2research) in place.
+
+3. Petition Text (800 character limit)
+
+WE PETITION THE OBAMA ADMINISTRATION TO: [This doesn't count toward the
+character count]
+
+Require free access over the Internet to journal articles arising from
+taxpayer-funded research.
+
+We believe in the power of the Internet to foster innovation, research, and
+education. Requiring the published results of taxpayer-funded research to
+be posted on the Internet would give access to entrepreneurs, researchers,
+patients, caregivers, and students, who currently are blocked by high
+costs. We know this works without disturbing the process of scientific
+publishing because the National Institutes of Health is already doing it
+through its highly successful Public Access Policy. All other federal
+agencies that fund research should have similar policies.
+
+President Obama, please act now to make federally-funded research freely
+available to taxpayers on the Internet.
+
+4. The Ask to Others
+
+To sign the petition:
+
+-   Have to be 13 years or older
+-   Have to create an account on whitehouse.gov, which requires giving a
+name and an email address and then clicking the validation link sent to
+that address
+-   Click to sign
+
+5. Further Context
+
+After years of work on promoting policy change to make federally-funded
+research available on the Internet, and after winning the battle to
+implement a public access policy at NIH, it has become clear that being on
+the right side of the issue is necessary but not sufficient. We've had the
+meetings, done the hearings, replied to the requests for information.
+
+But we're opposed in our work by a small set of publishers who profit
+enormously from the existing system, even though there is no evidence that
+the NIH policy has had any measurable impact on their business models. They
+can - and do - outspend those of us who have chosen to make a huge part of
+our daily work the expansion of access to knowledge. This puts the idea of
+access at a disadvantage. We know there is a serious debate about the
+extension of public access to taxpayer funded research going on right now
+in the White House, but we also know that we need more than our current
+ approaches to get that extension made into federal policy.
+
+The best approach that we have yet to try is to make a broad public appeal
+for support, straight to the people. The Obama Administration has created a
+web platform to petition the White House directly called We The People. Any
+petition receiving more than 25,000 digital signatures is placed on the
+desk of the President's Chief of Staff and must be integrated into policy
+and political discussions. But there's a catch - a petition only has 30
+days to gather the required number of signatures to qualify.
+
+We can get 25,000 signatures. And if we not only get 25,000, but an order
+of magnitude more, we can change the debate happening right now.
+
+Next week we will publish our petition and the 30 day cycle begins. What
+we're asking you to do is to leverage your personal and professional
+networks to get the word out.
+
+You can do this in any way that makes you feel comfortable. A blog post, an
+email to constituencies, a tweet, a facebook share, you name it - something
+that tells thousands of people "I support this petition, I'm signing this
+petition, and I thought you should know about it too." Because this isn't
+just slacktivism with a "like" or a retweet - people need to go to the
+White House website, enter their name and email address, and hit the button.
+
+Qualified signers must be 13 years old or more, and have a valid email
+address. That's all.
+
+The goal is not just to get 25,000, but to get far more to show the White
+House that this issue matters to people, not just a few publishers.
+
+We are launching the campaign on Monday May 21. The petition will go live
+late Sunday night May 20, so that the waves can start in the EU and sweep
+west with the sunrise. We're asking you to turn on your networks on Monday
+morning.
+
+Thanks for considering this. If we can all come together to get the word
+out at once, and stay behind it for 30 days, we have a real chance to get
+access to taxpayer funded research across the entire government, and send a
+signal that the people have a voice in this debate, not just publishers and
+activists.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120521/baa93e75/attachment.htm>
+
+From samuel.moore15 at gmail.com  Mon May 21 12:19:20 2012
+From: samuel.moore15 at gmail.com (Samuel Moore)
+Date: Mon, 21 May 2012 12:19:20 +0100
+Subject: [open-science] Call for Papers: PLoS Text Mining Collection
+Message-ID: <CAE+OHiQK2n9DRL69WD_1rfz8qPB=-8xSZSvq03HMZ9JiWKtEZw@mail.gmail.com>
+
+Hi all,
+
+Today we've posted a call for papers for the forthcoming PLoS Text Mining
+Collection, organised by Casey Bergman, Lawrence Hunter and Andrey
+Rzhetsky. Please read the following blog post for more information,
+including instructions on how to submit to the collection:
+http://blogs.plos.org/plos/2012/05/call-for-papers-plos-text-mining-collection/
+
+All the best,
+
+Sam
+
+Samuel Moore
+
+Editorial Manager
+
+*PLoS ONE*
+
+smoore at plos.org
+**
+
+*
+*
+
+**Twitter: @samuelmoore15
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120521/74712cbc/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Tue May 22 09:26:52 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Tue, 22 May 2012 09:26:52 +0100
+Subject: [open-science] Open Science working group in Switzerland
+In-Reply-To: <CANDaVwC_23SsJ7M72vEbrCwChUUByNTLyCdo_ETYYMMX79iQvQ@mail.gmail.com>
+References: <CANDaVwC_23SsJ7M72vEbrCwChUUByNTLyCdo_ETYYMMX79iQvQ@mail.gmail.com>
+Message-ID: <CABPM+woYHaUQvS+oVoquNAFgkCWeMMC0Wf1O6piwgSA=HPjwig@mail.gmail.com>
+
+Hi Yaroslav
+
+This sounds fantastic, do let us know how it goes!
+
+For anyone considering starting a local group, OKFN can help out by setting
+up mailing lists and a blog on the network as well as listing groups on
+science.okfn.org, so do get in touch if you'd like any of those things.
+We'd very much like to encourage and support local groups however we can.
+
+Egon Willighagen has founded two groups local groups now and I'm running
+one in Oxford so if you want to bounce ideas around we'd love to hear them.
+
+Best of luck for 2 June :)
+
+Jenny
+
+On Sun, May 20, 2012 at 11:43 PM, Yaroslav Nikolaev <yaroslav at trosy.com>wrote:
+
+> Greetings Open Scientists,
+>
+> We are trying to start Open Science working group in Switzerland.
+> This is driven by enthusiasts from the local Open Data movement<http://make.opendata.ch/>(
+> opendata.ch) and couple of academic researchers working in life science &
+> IT domains.
+> First meeting is currently planned for the 2nd of June during the Random
+> Hacks of Kindness<http://rhokch.blogspot.com/2012/05/save-date-on-23-june-2012-rhok.html>event in Bern.
+> If you're in Switzerland &/or are interested in joining the working group
+> - please get in touch! =)
+>
+> Regards,
+> Yaroslav
+>
+> --
+> Yaroslav Nikolaev
+> Postdoc in Structural+Systems Biology
+> ETH Zurich
+>
+> email: yn at mol.biol.ethz.ch / yaroslav at trosy.com
+> mobile: +41 76 5669787
+> twitter.com/yarikson
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120522/fd20a3a9/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue May 22 10:07:32 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 22 May 2012 10:07:32 +0100
+Subject: [open-science] Open Science Working Group Meeting - 2 Jun 2012,
+	17:30 UTC
+Message-ID: <CABPM+wrA1h3-_yZ+yXTf3L5P2ryjAG0qbY7tum8Fn7ZWAewZaw@mail.gmail.com>
+
+Hi All
+
+Next working group meeting will be an opportunity to meet the Panton
+Fellows (http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/)
+and
+find out what they're up to, as well as voicing your opinions on projects
+we should be getting involved in or initiating. Got an idea for an open
+science project that you need help with? Bring it to the group and we'll do
+our best to assist and put you in touch with relevant people around the OKF
+network.
+
+When: Tuesday 2 June at 17:30 UTC/GMT
+Location: Etherpad http://okfnpad.org/sciencewg-2Jun2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Please add your name and Skype ID to the list of attendees on
+http://okfnpad.org/sciencewg-2Jun2012
+Add anything you'd like to be discussed or new ideas to the agenda (even if
+you can't make it yourself, just make sure you add enough details).
+
+Hope to speak to some of you there!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120522/4491f419/attachment.htm>
+
+From laura.newman at okfn.org  Tue May 22 12:33:14 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Tue, 22 May 2012 13:33:14 +0200
+Subject: [open-science] OKFest update
+Message-ID: <CAMQ+bMZY2RxUtUsXv7gOptmS8iJKw8pxVifBvszZdDg1SiG7OA@mail.gmail.com>
+
+Hi all,
+
+Please see below for an update from Kat Braybrooke on the progress of
+OKFest.
+
+Thanks to all who helped us to put together our OKFest submission. We have
+been partnered with the Open Education folk, and will be participating in
+OKFest as part of the 'Open Research and Education' stream. This should be
+great, and there are many exciting opportunities for collaboration.
+
+The 'Guest Programming Planners' (those of us who signed up on the etherpad
+to help organise the stream!) will be meeting next Tuesday to discuss how
+best to move things forward. We will keep you all in the loop as plans
+develop :)
+
+If you have any questions or suggestions in the meantime, drop me a line
+and we'll make sure your voice gets heard! Equally if anyone would like to
+join the Planning Committee, do let me know.
+
+All the best,
+Laura
+
+
+---------- Forwarded message ----------
+From: Kat Braybrooke <kat.braybrooke at okfn.org>
+Date: Fri, May 11, 2012 at 5:54 PM
+Subject: Request to Lead OKFestival Topic Stream on Open Education and
+Access
+To: Timothy Vollmer <tvol at creativecommons.org>, Jane Park <
+janepark at creativecommons.org>, Leena.Vainio at hamk.fi,
+tarmo.toikkanen at aalto.fi, Laura Newman <laura.newman at okfn.org>, Jenny
+Molloy <jenny.molloy at okfn.org>, Peter Murray-Rust <pm286 at cam.ac.uk>, Ramine
+Tinati <rt506 at ecs.soton.ac.uk>, faisal at pakreport.org, tim.davies at soton.ac.uk
+Cc: info at okfestival.org
+
+
+Hello all,
+
+Kat Braybrooke here from the OKFestival 2012 Core Organising Team with a
+message of congratulations - we were highly impressed by your topic
+submissions in the 1st Call for Proposals and would like you to be a part
+of the festival's organising team!
+
+As many of you have already seen, we have now confirmed the 13 key Topic
+Streams of 2012, one of which is *Open Education and Access*. As the Lead
+for this topic, I therefore ask if you are willing to come together to be
+its Guest Programming Planners <details: http://bit.ly/guest_planner_**
+instructions <http://bit.ly/guest_planner_instructions>>.
+
+Our reasoning behind the combining of these concepts is based on the high
+quality of submissions we've received related to open access, science,
+academia and research - and the fact that we believe much of your
+already-impressive work will be made even more enriched by collaborating
+around these ideas and finding both commonalities and uniqueness through
+this process. Your backgrounds include the Open Knowledge Foundation,
+Cambridge University, University of Southampton, Aalto University and other
+Finnish educational institutes, Creative Commons - and you have proposed
+programme elements related to Open Design, Open Access, Open Data Research,
+and Open Education (see Etherpad below for details). I believe there's much
+that can happen with such a venerable group.
+
+I've booted up an Etherpad with all of your proposals so everyone can see
+everyone else's work, and start discussing best ways to collaborate:
+http://okfestival.okfnpad.org/OpenResearchAndEducation I'd also recommend
+that we get a Facebook group started as the Open Democracy and Citizen
+Movement Topic Stream has just done <see here:
+https://www.facebook.com/groups/opendemocracy.okfest/>, so we can start
+introducing ourselves to each other and bring new participants in.
+
+The next steps are:
+
+01) We'll need a confirmation ASAP that you're willing to work together as
+Guest Programme Planners for this stream. If so, please send us the names
+of 1-3 leaders who serve as public representatives and help with the
+coordination of this group.
+
+02) Please also read through our Guest Programme Planner handbook and let
+me know if you have any questions: http://bit.ly/guest_planner_**
+instructions <http://bit.ly/guest_planner_instructions>
+
+03) Lastly, we will be publishing the last Call for Proposals on Monday, so
+it would be great to see activity from your organisers on the Public
+OKFestival Wiki by the end of next week, to be of use to those who plan to
+submit sessions. We're especially looking for a description of who you'd
+like to join your team (hackers, teachers, people from universities, etc):
+http://okfestival.okfnpad.org/helsinki
+
+Please reply to the whole group so we can start this discussion. I look
+forward to it!
+
+Kat
+
+| Kat Braybrooke | Community Coordinator
+| Local Chapters and OKFestival
+| Open Knowledge Foundation | London
+| OKFN.org <http://okfn.org/> | Twitter
+@kat_braybrooke<http://twitter.com/kat_braybrooke>
+
+
+
+
+
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120522/d9d4a3a2/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue May 22 13:03:11 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 22 May 2012 13:03:11 +0100
+Subject: [open-science] Amendment: Open Science Working Group Meeting - *12*
+	Jun 2012, 17:30 UTC
+Message-ID: <CABPM+wr9c3izxdEvgaUpWj8gyYFXYy+A_R1CaO36=R8EuGF8zQ@mail.gmail.com>
+
+The observant among you may have noticed that there is no 2nd of June -
+apologies for the typo, the correct date is *TUESDAY 12TH JUNE*
+
+When: Tuesday 12 June at *16:30* UTC/GMT (17:30 UK time as there is a OKFN
+London meetup that night)
+Location: Etherpad http://okfnpad.org/sciencewg-12Jun2012 and Skype (add
+your Skype ID to the Etherpad and I'll bring you into the conference call)
+
+Apologies for the mix up!
+
+Jenny
+
+On Tue, May 22, 2012 at 10:07 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> Next working group meeting will be an opportunity to meet the Panton
+> Fellows (
+> http://science.okfn.org/2012/04/03/introducing-our-panton-fellows/) and
+> find out what they're up to, as well as voicing your opinions on projects
+> we should be getting involved in or initiating. Got an idea for an open
+> science project that you need help with? Bring it to the group and we'll do
+> our best to assist and put you in touch with relevant people around the OKF
+> network.
+>
+> When: Tuesday 2 June at 17:30 UTC/GMT
+> Location: Etherpad http://okfnpad.org/sciencewg-2Jun2012 and Skype (add
+> your Skype ID to the Etherpad and I'll bring you into the conference call)
+>
+> Please add your name and Skype ID to the list of attendees on
+> http://okfnpad.org/sciencewg-2Jun2012
+> Add anything you'd like to be discussed or new ideas to the agenda (even
+> if you can't make it yourself, just make sure you add enough details).
+>
+> Hope to speak to some of you there!
+>
+> Jenny
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120522/dc710929/attachment.htm>
+
+From jenny.molloy at okfn.org  Tue May 29 22:03:55 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 29 May 2012 22:03:55 +0100
+Subject: [open-science] access2research - just over 5000 signatures to go
+Message-ID: <CABPM+wrdeA_1HsXAbnx_VG_w1OO_6EmOPhXC+BQdEhXQdPQnCw@mail.gmail.com>
+
+Dear All
+
+Many of you will have already heard of the http://access2research.org petition
+to encourage the White House to consider further opening up of access to
+scientific publications.
+
+https://wwws.whitehouse.gov/petitions/!/petition/require-free-access-over-internet-scientific-journal-articles-arising-taxpayer-funded-research/wDX82FLQ
+
+This is endorsed by the OKFN
+http://blog.okfn.org/2012/05/21/petition-the-white-house-to-open-up-publicly-funded-research/
+and
+it would be fantastic to see as many of our supporters as possible signing
+and encouraging others to do the same - they are edging towards the 20,000
+mark and require just over 5,000 more signatures by June 19 to guarantee a
+response from the administration.
+
+You do not need to be American, just over the age of 13 with an easily
+created whitehouse.gov account.
+
+Many more details below for those willing to spread the word around their
+social networks and thanks very much to those who already have!
+
+Jenny
+
+--------------------------------------------------------------
+
+On *Monday, May 21*, we lodge a petition on the White House?s ?We the
+People? page asking the Obama administration to require that all federally
+funded research be posted on the Web ? extending the principle of the NIH
+policy to all federal agencies.
+
+1. What We?re Asking
+
+? Publicity/ Call for Participation.  Please help line up publicity for the
+petition before Monday.  Specifically, can you help get it on the front
+pages of Reddit, Tumblr, Wikipedia, Boing Boing, and send out an
+all-hands-on-deck request through your own blogs/twitter feeds, etc?
+
+? 25,000 signatures in 30 days gets an official Administration response.
+ We want to hit that number fast to escalate this issue inside the White
+House.  We believe the policy has support but is stuck.  This could well be
+the event that gets it through.
+
+? Please sign the petition on Monday.
+
+2. Social Media links/handles
+
+The official campaign website is at http://access2research.org and there
+are already Facebook pages
+(http://facebook.com/**access2research<http://facebook.com/access2research>)
+and Twitter handles (@access2research) in place.
+
+3. Petition Text (800 character limit)
+
+WE PETITION THE OBAMA ADMINISTRATION TO: [This doesn't count toward the
+character count]
+
+Require free access over the Internet to journal articles arising from
+taxpayer-funded research.
+
+We believe in the power of the Internet to foster innovation, research, and
+education. Requiring the published results of taxpayer-funded research to
+be posted on the Internet would give access to entrepreneurs, researchers,
+patients, caregivers, and students, who currently are blocked by high
+costs. We know this works without disturbing the process of scientific
+publishing because the National Institutes of Health is already doing it
+through its highly successful Public Access Policy. All other federal
+agencies that fund research should have similar policies.
+
+President Obama, please act now to make federally-funded research freely
+available to taxpayers on the Internet.
+
+4. The Ask to Others
+
+To sign the petition:
+
+-   Have to be 13 years or older
+-   Have to create an account on whitehouse.gov, which requires giving a
+name and an email address and then clicking the validation link sent to
+that address
+-   Click to sign
+
+5. Further Context
+
+After years of work on promoting policy change to make federally-funded
+research available on the Internet, and after winning the battle to
+implement a public access policy at NIH, it has become clear that being on
+the right side of the issue is necessary but not sufficient. We've had the
+meetings, done the hearings, replied to the requests for information.
+
+But we're opposed in our work by a small set of publishers who profit
+enormously from the existing system, even though there is no evidence that
+the NIH policy has had any measurable impact on their business models. They
+can - and do - outspend those of us who have chosen to make a huge part of
+our daily work the expansion of access to knowledge. This puts the idea of
+access at a disadvantage. We know there is a serious debate about the
+extension of public access to taxpayer funded research going on right now
+in the White House, but we also know that we need more than our current
+ approaches to get that extension made into federal policy.
+
+The best approach that we have yet to try is to make a broad public appeal
+for support, straight to the people. The Obama Administration has created a
+web platform to petition the White House directly called We The People. Any
+petition receiving more than 25,000 digital signatures is placed on the
+desk of the President's Chief of Staff and must be integrated into policy
+and political discussions. But there's a catch - a petition only has 30
+days to gather the required number of signatures to qualify.
+
+We can get 25,000 signatures. And if we not only get 25,000, but an order
+of magnitude more, we can change the debate happening right now.
+
+Next week we will publish our petition and the 30 day cycle begins. What
+we're asking you to do is to leverage your personal and professional
+networks to get the word out.
+
+You can do this in any way that makes you feel comfortable. A blog post, an
+email to constituencies, a tweet, a facebook share, you name it - something
+that tells thousands of people "I support this petition, I'm signing this
+petition, and I thought you should know about it too." Because this isn't
+just slacktivism with a "like" or a retweet - people need to go to the
+White House website, enter their name and email address, and hit the button.
+
+Qualified signers must be 13 years old or more, and have a valid email
+address. That's all.
+
+The goal is not just to get 25,000, but to get far more to show the White
+House that this issue matters to people, not just a few publishers.
+
+We are launching the campaign on Monday May 21. The petition will go live
+late Sunday night May 20, so that the waves can start in the EU and sweep
+west with the sunrise. We're asking you to turn on your networks on Monday
+morning.
+
+Thanks for considering this. If we can all come together to get the word
+out at once, and stay behind it for 30 days, we have a real chance to get
+access to taxpayer funded research across the entire government, and send a
+signal that the people have a voice in this debate, not just publishers and
+activists.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120529/59ad4d4f/attachment.htm>
+

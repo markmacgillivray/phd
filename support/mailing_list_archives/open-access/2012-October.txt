@@ -1,0 +1,4249 @@
+From ricky at richardpoynder.co.uk  Tue Oct  2 11:16:25 2012
+From: ricky at richardpoynder.co.uk (Richard Poynder)
+Date: Tue, 2 Oct 2012 11:16:25 +0100
+Subject: [Open-access] Open Access in the UK: Reinventing the Big Deal
+Message-ID: <005a01cda086$fb3579a0$f1a06ce0$@richardpoynder.co.uk>
+
+Love it or loathe it, the recently announced Open Access policy from
+Research Councils UK has certainly divided the OA movement. Despite
+considerable criticism, however, RCUK has refused to amend its policy.
+
+ 
+
+So what will be its long-term impact? 
+
+ 
+
+Critics fear that RCUK has opened the door to the reinvention of the Big
+Deal. Pioneered by Academic Press in 1996, the Big Deal involves publishers
+selling large bundles of electronic journals on multi-year contracts.
+Initially embraced with enthusiasm, the Big Deal is widely loathed today. 
+
+ 
+
+However, currently drowned out by the hubbub of criticism, there are voices
+that support the RCUK policy. Jan Velterop, for instance, believes it will
+be good for Open Access.
+
+ 
+
+Velterop also believes that the time is ripe for the creation of a New Big
+Deal (NBD). The NBD would consist of "a national licensing agreement" that
+provided researchers with free-at-the-point-of-use access to all the papers
+sitting behind subscription paywalls, *plus* a "national procurement
+service" that provided free-at-the-point-of-use OA publishing services for
+researchers, allowing them to publish in OA journals without having to foot
+the bill themselves.  
+
+ 
+
+Velterop's views are not to be dismissed lightly. Former employee of
+Elsevier, Springer and Nature, Velterop was one of the small group of people
+who attended the 2001 Budapest meeting that saw the birth of the Open Access
+movement, and he was instrumental in the early success of OA publisher
+BioMed Central. 
+
+ 
+
+Moreover, during his time at Academic Press, Velterop was a co-architect of
+the original Big Deal.
+
+ 
+
+More on this, and a Q&A with Velterop, can be read here:
+
+ 
+
+http://poynder.blogspot.co.uk/2012/10/open-access-in-uk-reinventing-big-deal
+.html
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121002/9474f5a1/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Oct  2 12:43:05 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 2 Oct 2012 12:43:05 +0100
+Subject: [Open-access] Open Access in the UK: Reinventing the Big Deal
+In-Reply-To: <005a01cda086$fb3579a0$f1a06ce0$@richardpoynder.co.uk>
+References: <005a01cda086$fb3579a0$f1a06ce0$@richardpoynder.co.uk>
+Message-ID: <CAD2k14OkBN3R9dmAoAG1XV5T9+kt2vAtpfxRwVR8g+6YWoaXkA@mail.gmail.com>
+
+Thanks Richard (and by reference) Jan.
+
+I am intending to blog on this issue. Maybe this is the start
+
+On Tue, Oct 2, 2012 at 11:16 AM, Richard Poynder <ricky at richardpoynder.co.uk
+> wrote:
+
+> Love it or loathe it, the recently announced Open Access policy from
+> Research Councils UK has certainly divided the OA movement. Despite
+> considerable criticism, however, RCUK has refused to amend its policy.****
+>
+> ** **
+>
+> So what will be its long-term impact? ****
+>
+> ** **
+>
+> Critics fear that RCUK has opened the door to the reinvention of the Big
+> Deal. Pioneered by Academic Press in 1996, the Big Deal involves publishers
+> selling large bundles of electronic journals on multi-year contracts.
+> Initially embraced with enthusiasm, the Big Deal is widely loathed today.
+>
+
+It is loathed because it was run as a cartel by publishers. I have been
+arguing that there should be a few central purchasing points , e.g.
+nationally, and that they should regulate pricess (?and quality?). I think
+Brazil does this and I'd be grateful for more info
+
+> ****
+>
+> ** **
+>
+> However, currently drowned out by the hubbub of criticism, there are
+> voices that support the RCUK policy. Jan Velterop, for instance, believes
+> it will be good for Open Access.****
+>
+> ** **
+>
+> Velterop also believes that the time is ripe for the creation of a New Big
+> Deal (NBD). The NBD would consist of ?a national licensing agreement? that
+> provided researchers with free-at-the-point-of-use access to all the papers
+> sitting behind subscription paywalls, *plus* a ?national procurement
+> service? that provided free-at-the-point-of-use OA publishing services for
+> researchers, allowing them to publish in OA journals without having to foot
+> the bill themselves.
+>
+
+I agree.
+
+> ****
+>
+> ** **
+>
+> Velterop?s views are not to be dismissed lightly. Former employee of
+> Elsevier, Springer and Nature, Velterop was one of the small group of
+> people who attended the 2001 Budapest meeting that saw the birth of the
+> Open Access movement, and he was instrumental in the early success of OA
+> publisher BioMed Central. ****
+>
+> ** **
+>
+> Moreover, during his time at Academic Press, Velterop was a co-architect
+> of the original Big Deal.****
+>
+> ** **
+>
+> More on this, and a Q&A with Velterop, can be read here:****
+>
+> **
+>
+
+<rant corrections="invited">
+I am in favour of OKF-Open Access, of course. The really serious problems
+with "Open Access" are:
+* there is 15 billion dollars at stake so we can expect commercial
+attitudes including dirty tricks
+* the universities don't care about Open Access. They have done almost
+nothing over 10 years. A few woolly pseduo-mandates. No cash, no
+technology, no boycotts.
+* the University repositories are awful. Run by the wrong people for the
+wrong reasons and with the wrong technology (OKF could do this much much
+better with Open biblio, CKAN/Datahub)
+* The "open" in OA has been degraded by the Harnadites to almost
+Humpty-Dumpty meaninglessness.
+* the "Open Access" movement has disintegrated into a formless oligarchy.
+Normal people are excluded (they are trashed, in public, onthe GOAL list
+and only JanV and I have the bottle to stand up to this). They EOS
+(Enabling Open Scholarship) is about as Open as a masonic lodge
+
+The RCUK has inherited 10 years of inaction and incompetence from the
+Universities who are clearly not to be trusted with this. The key thing
+they have done is to assert that they are taking control. Whether they have
+the details right is irrelevant.
+</rant>
+
+And I believe that OKF has something to offer and so have copied in some
+funders. I think that Openbiblio is already close to having appropriate
+metadata. And the related tools will help to create repositories that are
+fit for purpose.
+
+And (unlike GOAL whose Animal Farm sheep drown discussion with the bleat
+"Gold is good but Green is be-e-e-etter") this list is open to all ideas
+and encourages rational discussion and constructive solutions.  I am
+neither pro- or -anti- Gold or Green - they are both approaches which offer
+partial but nowhere near complete solutions.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121002/2cbf16fc/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Oct  3 07:47:18 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 3 Oct 2012 07:47:18 +0100
+Subject: [Open-access] Ross Mounce (Panton Fellow) on BBC about Open Access
+Message-ID: <CAD2k14MrD=KULsZmOCcVZbts0YU4fq3jqd8WtE1oQ+KoppLxyw@mail.gmail.com>
+
+In case you missed it there was a discussion on radio3 last night about
+#openaccess which included Willets, Finch, and @rmounce. I thought the
+discussion was good, impressed with how well Willetts (and the interviewer)
+understood the issues and the way they presented their emphasis on Gold OA.
+
+Anyone know if there is a recording?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121003/cf99461e/attachment.htm>
+
+From mike at indexdata.com  Wed Oct  3 07:49:34 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 3 Oct 2012 07:49:34 +0100
+Subject: [Open-access] Ross Mounce (Panton Fellow) on BBC about Open
+	Access
+In-Reply-To: <CAD2k14MrD=KULsZmOCcVZbts0YU4fq3jqd8WtE1oQ+KoppLxyw@mail.gmail.com>
+References: <CAD2k14MrD=KULsZmOCcVZbts0YU4fq3jqd8WtE1oQ+KoppLxyw@mail.gmail.com>
+Message-ID: <CACnMvBbY1rji8Upw-GasixMyViYEab==G_momb8M-Ejj6uMdqA@mail.gmail.com>
+
+On 3 October 2012 07:47, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> In case you missed it there was a discussion on radio3 last night about
+> #openaccess which included Willets, Finch, and @rmounce. I thought the
+> discussion was good, impressed with how well Willetts (and the interviewer)
+> understood the issues and the way they presented their emphasis on Gold OA.
+>
+> Anyone know if there is a recording?
+
+Here it is:
+http://www.bbc.co.uk/iplayer/episode/b01n1rth/Night_Waves_Anne_Applebaum/
+
+(I've not had time to listen yet.)
+
+-- Mike.
+
+
+From ross.mounce at gmail.com  Wed Oct  3 08:09:32 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Wed, 3 Oct 2012 08:09:32 +0100
+Subject: [Open-access] Ross Mounce (Panton Fellow) on BBC about Open
+	Access
+In-Reply-To: <CACnMvBbY1rji8Upw-GasixMyViYEab==G_momb8M-Ejj6uMdqA@mail.gmail.com>
+References: <CAD2k14MrD=KULsZmOCcVZbts0YU4fq3jqd8WtE1oQ+KoppLxyw@mail.gmail.com>
+	<CACnMvBbY1rji8Upw-GasixMyViYEab==G_momb8M-Ejj6uMdqA@mail.gmail.com>
+Message-ID: <CAJr+OEyxTyWm6MKCXTGUZ6Ev_G66fDJEDADfdZhMg-HymkWRCg@mail.gmail.com>
+
+I'm afraid I didn't appear much in the programme.
+
+Dame Finch & David Willetts talked a lot of sense so I didn't want to
+interrupt them too much.
+
+I feel it got sidetracked into the relatively minor issues of humanities
+research publishing (which I believe is only a small component of the UK's
+total academic research output).
+
+I'd be interested in hearing more about humanities research and open access
+if anyone on these lists is involved in these areas. I got the impression
+from talking with some of those concerned afterwards that humanities
+academics are very drawn to *paper* copies of journals, and this thus
+increases the cost of publishing for them.
+
+Paper journals are irrelevant to me and my research - they are 20th century
+reminders of how research used to be distributed. All I need is research
+distributed via the internet to be read on computers, tablets, phones, and
+other devices and hence I feel the cost of publishing research need only be
+very small. I suspect the difference of opinion encountered was based
+around this.
+
+Best,
+
+Ross
+
+
+PS Since I didn't get to mention it on air: it's Open Access Week soon!
+22-28 October: http://www.openaccessweek.org/    Help celebrate & raise
+awareness of OA!
+
+On Wed, Oct 3, 2012 at 7:49 AM, Mike Taylor <mike at indexdata.com> wrote:
+
+> On 3 October 2012 07:47, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> > In case you missed it there was a discussion on radio3 last night about
+> > #openaccess which included Willets, Finch, and @rmounce. I thought the
+> > discussion was good, impressed with how well Willetts (and the
+> interviewer)
+> > understood the issues and the way they presented their emphasis on Gold
+> OA.
+> >
+> > Anyone know if there is a recording?
+>
+> Here it is:
+> http://www.bbc.co.uk/iplayer/episode/b01n1rth/Night_Waves_Anne_Applebaum/
+>
+> (I've not had time to listen yet.)
+>
+> -- Mike.
+>
+
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121003/56e8e76b/attachment.htm>
+
+From mark at cottagelabs.com  Wed Oct  3 11:05:06 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Wed, 3 Oct 2012 11:05:06 +0100
+Subject: [Open-access] Fwd: FW: [coar-member] CfP 17th International
+ Conference on Electronic Publishing
+In-Reply-To: <3E331D27B3AC754B9028802BFC8D9F8A1C28012AE3@EXSEEDMD.is.ed.ac.uk>
+References: <OF5DD2CDA2.D9E47509-ONC1257A8C.00347C8C-C1257A8C.0034F6A1@bth.se>
+	<3E331D27B3AC754B9028802BFC8D9F8A1C28012AE3@EXSEEDMD.is.ed.ac.uk>
+Message-ID: <CAFxzj8RFrZggtcY_xKuhm2D3t1o2Hjd=A_TK7YO6RerFBO_3_Q@mail.gmail.com>
+
+**
+
+*Call for Papers*
+*17th International Conference on Electronic Publishing*
+June 13-14, 2013, Karlskrona, Sweden****
+
+Mining the Digital Information Networks
+
+The main theme of the *17th International Conference on Electronic
+Publishing (ELPUB)* will be extracting and processing data from the vast
+wealth of digital publishing and the ways to use and reuse this information
+in innovative social contexts in a sustainable way. We will bring together
+researchers and practitioners to discuss data mining, digital publishing
+and social networks along with their implications for scholarly
+communication, information services, e-learning, e-businesses, the cultural
+heritage sector, digital libraries and other areas where electronic
+publishing is imperative.****
+
+See website for all details: http://www.elpub.net ****
+
+** **
+
+*Important Dates*
+?        January  10, 2013: Submission Deadline (time: 11:59 pm, PST) ****
+
+?        March 1, 2013: Author Decision Notification ****
+
+?        March 15, 2013: Submission of Camera-Ready Manuscripts ****
+
+*Conference dates and location:* June 13-14, 2013, Blekinge Institute of
+Technology, Karlskrona (World Heritage Site since 1998), Sweden
+*Conference Host*: Blekinge Institute of Technology, Karlskrona, Sweden
+*General Chair: *Associate* *Professor Niklas Lavesson, Blekinge Institute
+of Technology, Sweden
+*Programme Chair*: Assistant Professor, ATEI, Greece
+
+
+
+Peter Linde
+Blekinge Tekniska H?gskola
+Biblioteket
+371 79 Karlskrona
+Tel 0455-385103, Fax 0455-385107
+Mobile: +46 708 778138
+E-mail: peter.linde at bth.se
+
+Blekinge Institute of Technology
+The Library
+S-371 79 Karlskrona
+Sweden
+Tel +46 455 385103
+Fax +46 455 385107
+E-mail: peter.linde at bth.se****
+
+------------------------------
+
+To unsubscribe from the IDEALIB list, click the following link:
+https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=IDEALIB&A=1
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+########################################################################
+
+To unsubscribe from the IDEALIB list, click the following link:
+https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=IDEALIB&A=1
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121003/933c9528/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Thu Oct  4 12:05:31 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 4 Oct 2012 12:05:31 +0100
+Subject: [Open-access] Hearing more about humanities research and open
+	access
+In-Reply-To: <506d658c.a813b40a.547f.30d8SMTPIN_ADDED@mx.google.com>
+References: <CAD2k14MrD=KULsZmOCcVZbts0YU4fq3jqd8WtE1oQ+KoppLxyw@mail.gmail.com>
+	<CACnMvBbY1rji8Upw-GasixMyViYEab==G_momb8M-Ejj6uMdqA@mail.gmail.com>
+	<CAJr+OEyxTyWm6MKCXTGUZ6Ev_G66fDJEDADfdZhMg-HymkWRCg@mail.gmail.com>
+	<CAD2k14MaZ2iZP-w=TrkNu0zqL-MEEHbVxJAmUQt9+cCzSG_hDQ@mail.gmail.com>
+	<CANeG0fLK1iMOreB=mnEVtUv2XFzOiPqnfTo5Oz4qxUbYJuhLGg@mail.gmail.com>
+	<506d658c.a813b40a.547f.30d8SMTPIN_ADDED@mx.google.com>
+Message-ID: <CAD2k14OHHtyHDDzMGA47v12CL9HJp0=FsAaK=crDO8DYw+TWgw@mail.gmail.com>
+
+On Thu, Oct 4, 2012 at 11:31 AM, Dan Scott <
+dan.scott at socialsciencesdirectory.com> wrote:
+
+> Dear Peter****
+>
+> ** **
+>
+> In answer to your question, I worked in subscription publishing and became
+> so infuriated with its iniquities that I set out to provide an alternative,
+> as outlined below.****
+>
+> **
+>
+Thanks,
+I am very pleased to find new initiatives that don't rely on subscription
+paywalls.
+
+
+> **
+>
+> On September 24th, the first issue of Social Sciences Directory<http://socialsciencesdirectory.com/index.php/socscidir/index>was published and it will be followed shortly by Humanities
+> Directory<http://humanitiesdirectory.com/index.php/humanitiesdirectory/index>.
+> These are new multi-disciplinary publications, which aim to revolutionise
+> scholarly publishing by providing quality, affordable content without the
+> barrier of subscription paywalls. Our approach is modern and progressive,
+> whilst adhering to recognised publishing standards. I am writing to ask if
+> you will help us to disseminate information by passing on details to your
+> members, and by doing so benefiting the faculty, researchers, students and
+> librarians of your membership?s institutions by increasing the reach and
+> speed of their research output. We would also be delighted to talk to your
+> association or society directly about possible publishing partnerships.
+>
+
+Although I think this para is aimed at universities I have copied this to
+the OKF open-access list. This is a few months old and hopefully some
+readers will find points they wish to explore. As with most OKF things we
+are effectively a  community/meritocracy so that things happen, often
+quickly, but not always predictably.
+
+> ****
+>
+> ** **
+>
+> We aim to****
+>
+> **?         **capture the best of international research across the
+> disciplines of social sciences and arts & humanities****
+>
+> **?         **conduct peer-review and publish papers in online formats****
+>
+> **?         **facilitate discussion and information sharing through
+> discussion platforms****
+>
+> **?         **augment research content with valuable additional reading
+> materials such as dissertations, reviews, presentations and reports****
+>
+> ** **
+>
+> Our first issue contains papers on ****
+>
+> **?         ***Successful transition to retirement in Australia<http://socialsciencesdirectory.com/index.php/socscidir/article/view/19>
+> *
+>
+> **?         ***Knowledge, attitude and belief of pregnant women towards
+> safe motherhood in a rural Indian setting<http://socialsciencesdirectory.com/index.php/socscidir/article/view/23>
+> *
+>
+> **?         ***Gender equality in the workplace: the perceptive reality<http://socialsciencesdirectory.com/index.php/socscidir/article/view/24>
+> *****
+>
+> **
+>
+
+These would certainly be of interest to many OKF people and attendees of
+#okfest.
+
+>  **
+>
+> Our philosophy is that research in one field can also have applications in
+> areas of research beyond that intended and the inter-disciplinary nature of
+> a large collection of work ? spanning the boundaries of subject and state -
+> will help to cross-fertilise ideas. Open access publishing provides
+> significant benefits for authors and readers alike in speeding up the time
+> to publication and dissemination, author copyright retention and providing
+> value-for-money for taxpayers. We aim to publish a regular schedule of
+> research going forwards.****
+>
+>
+>
+I personally agree. Journals used to be more multidisciplinary that they
+are today.
+
+
+> We recognise the difficulty in moving from traditional journal publishing
+> to new forms. You want to be able to trust that the publication maintains
+> quality standards and maximises dissemination of your department?s work. We
+> also firmly believe that Social Sciences Directory addresses many of the
+> flaws within the scholarly publishing industry and can provide better
+> levels of service. Submissions have been received from the UK, Australia,
+> France, Brazil, Ethiopia, India and Kenya, whilst editors and reviewers
+> from all over the world have offered their services, demonstrating an
+> appetite and widespread support for the initiative. We hope that you will
+> support our cause, will encourage your members to consider us when choosing
+> where to publish and, if possible, mention *Social Sciences Directory*and Humanities Directory on your website.
+> ****
+>
+>
+One of the key things we need is optimism in new business models.Openness
+is a valuable commodity but insufficiently valued!
+
+>   ****
+>
+> Yours sincerely****
+>
+> Dan Scott MA, BA (Hons)****
+>
+> Director****
+>
+> *Social Sciences Directory Limited*
+>
+> T: +44 (0)1423 326 257****
+>
+> M: +44 (0)770 381 2042****
+>
+> ** **
+>
+> *www.socialsciencesdirectory.com* <http://www.socialsciencesdirectory.com>
+> * ***
+>
+> *www.humanitiesdirectory.com* <http://www.humanitiesdirectory.com>**
+>
+> *READ IT. WRITE IT. CITE IT.*
+>
+> * *
+>
+> Social Sciences Directory is an affiliate member of the Open Access
+> Scholarly Publishers Association (OASPA) <http://oaspa.org/>.****
+>
+> Dan Scott will be a speaker at the Munin open access conference<http://www.ub.uit.no/baser/ocs/index.php/Munin/MC7/schedConf/program>at the University of Troms?,
+> Norway (21-23 November 2012).****
+>
+> Call for papers<http://socialsciencesdirectory.com/index.php/socscidir/article/view/33>
+> .****
+>
+> Press release<http://socialsciencesblog.co.uk/index.php/2012/09/23/press-release-poacher-turns-gamekeeper-issue-gold-open-access-publisher-social-sciences-directory-launched/>
+> .****
+>
+> * *
+>
+> *Confidentiality Notice: This e-mail transmission may contain
+> confidential or legally privileged information that is intended only for
+> the individual or entity named in the e-mail address. If you are not the
+> intended recipient, you are hereby notified that any disclosure, copying,
+> distribution, or reliance upon the contents of this e-mail is strictly
+> prohibited. *****
+>
+> * If you have received this e-mail transmission in error, please reply to
+> the sender, so that we can arrange for proper delivery, and then please
+> delete the message from your inbox. Thank you.*****
+>
+> ** **
+>
+> ** **
+>
+> ** **
+>
+> ** **
+>
+> *From:* okfn-discuss-bounces at lists.okfn.org [mailto:
+> okfn-discuss-bounces at lists.okfn.org] *On Behalf Of *Emanuil Tolev
+> *Sent:* 04 October 2012 11:11
+> *To:* Open Knowledge Foundation discussion list
+> *Cc:* Ross Mounce; Mike Taylor
+> *Subject:* Re: [okfn-discuss] [Open-access] Ross Mounce (Panton Fellow)
+> on BBC about Open Access****
+>
+> ** **
+>
+> ** **
+>
+> On 3 October 2012 08:27, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:****
+>
+> I'd be interested in hearing more about humanities research and open
+> access if anyone on these lists is involved in these areas. I got the
+> impression from talking with some of those concerned afterwards that
+> humanities academics are very drawn to *paper* copies of journals, and this
+> thus increases the cost of publishing for them.****
+>
+>
+> Yes - if you want to contunue with the ways of the past it costs more
+> money. ****
+>
+> ** **
+>
+> Paper journals are irrelevant to me and my research - they are 20th
+> century reminders of how research used to be distributed. All I need is
+> research distributed via the internet to be read on computers, tablets,
+> phones, and other devices and hence I feel the cost of publishing research
+> need only be very small. I suspect the difference of opinion encountered
+> was based around this.****
+>
+> ** **
+>
+>  ****
+>
+> And the disconnection of cost from value. This is something that perhaps
+> we should try to identify and formalize. Thus eveyrone can *read* physics
+> in the archive. It then "has to be" published in paper. Why? (a) to provide
+> a formal record - but a national library could do that for a fraction of
+> the costs and (b) to give a formal label/score of approval. That's the main
+> problem.****
+>
+> ** **
+>
+> I wonder if there aren't any further .. emotional (or sentimental, if you
+> will) reasons for this attitude we ascribe to Humanities researchers. What
+> if they just like reading from a paper and feel that their research has a
+> special connection to that medium?****
+>
+>  ****
+>
+> PS Since I didn't get to mention it on air: it's Open Access Week soon!
+> 22-28 October: http://www.openaccessweek.org/    Help celebrate & raise
+> awareness of OA! ****
+>
+> Yes - but what actually is it? what are we meant to do? Last time I tried
+> to contribute and got essentially zero feedback. Is it just a PR exercise
+> for the mainstream OA community.
+>
+> I do not get a feeling of Openness in the same way as I do for other Open
+> events.  ****
+>
+> ** **
+>
+> Looks like Document Freedom Day or similar things. As in, it's not an
+> *event*, it's whatever the community makes it. (And "the community" =
+> whoever knows about this week and has the knowledge and inclination to
+> create an event in their environment.) ****
+>
+> ** **
+>
+> Greetings,****
+>
+> Emanuil****
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121004/e79abb6f/attachment-0001.htm>
+
+From jenny.molloy at okfn.org  Thu Oct  4 17:28:32 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 4 Oct 2012 17:28:32 +0100
+Subject: [Open-access] Tim O'Reilly Edge Conversation
+Message-ID: <CABPM+wqd+DxE-GiYnbqfi-oUO2xtE0otukK4Mb1Tut5dVBGTbw@mail.gmail.com>
+
+This conversation with Tim O'Reilly touches on various Open Science/Access
+points and may be of interest to people:
+
+http://edge.org/conversation/-39the-clothesline-paradox-39-
+
+Abstract:
+*If we're going to get science policy right, it's really important for us
+to study the economic benefit of open access and not accept the arguments
+of incumbents. Existing media companies claim that they need ever stronger
+and longer copyright protection and new, draconian laws to protect them,
+and meanwhile, new free ecosystems, like the Web, have actually led to
+enormous wealth creation and enormous new opportunities for social value.
+And yes, they did in fact lead in some cases to the destruction of
+incumbents, but that's the kind of creative destruction that we should
+celebrate in the economy. We have to accept that, particularly in the area
+of science, there's an incredible opportunity for open access to enable new
+business models.*
+*
+*
+Feel free to ping back the list with your thoughts on the content!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121004/836e8a93/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Oct  4 17:43:08 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 4 Oct 2012 17:43:08 +0100
+Subject: [Open-access] Tim O'Reilly Edge Conversation
+In-Reply-To: <CABPM+wqd+DxE-GiYnbqfi-oUO2xtE0otukK4Mb1Tut5dVBGTbw@mail.gmail.com>
+References: <CABPM+wqd+DxE-GiYnbqfi-oUO2xtE0otukK4Mb1Tut5dVBGTbw@mail.gmail.com>
+Message-ID: <CAD2k14Oh0civ7S6FGDKEGgeC+PyLGjdL7XBZ39FvTpJCBjVo=A@mail.gmail.com>
+
+On Thu, Oct 4, 2012 at 5:28 PM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> This conversation with Tim O'Reilly touches on various Open Science/Access
+> points and may be of interest to people:
+>
+> http://edge.org/conversation/-39the-clothesline-paradox-39-
+>
+> Abstract:
+> *If we're going to get science policy right, it's really important for us
+> to study the economic benefit of open access and not accept the arguments
+> of incumbents. Existing media companies claim that they need ever stronger
+> and longer copyright protection and new, draconian laws to protect them,
+> and meanwhile, new free ecosystems, like the Web, have actually led to
+> enormous wealth creation and enormous new opportunities for social value.
+> And yes, they did in fact lead in some cases to the destruction of
+> incumbents, but that's the kind of creative destruction that we should
+> celebrate in the economy. We have to accept that, particularly in the area
+> of science, there's an incredible opportunity for open access to enable new
+> business models.*
+> *
+> *
+> Feel free to ping back the list with your thoughts on the content!
+>
+
+Great Jenny,
+
+Yes - for me this is one of the major missions of the OKF - how can we
+monetize "free"?  Tim is right and understands the dynamics of the web in a
+way that few other publishers do. We need inventive ideas - some of which
+will fail - and we need a wide range of partners.
+
+P.
+
+
+
+>
+> Jenny
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121004/e3d11f81/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Oct  5 09:19:06 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 5 Oct 2012 10:19:06 +0200
+Subject: [Open-access] Skype meeting @ccess today friday oct 5 at 1.30 pm
+	BST (UST+1)
+Message-ID: <CAGyWN8ZZGJzGCqjh5s0gsuQO7_HD2dwYAGihWu2uCDDnnJhNow@mail.gmail.com>
+
+Hi all,
+
+
+the next Skype meeting @ccess is on Today friday oct 5 at 1.30 pm BST
+(UST+1)
+
+meeting pad is at
+
+http://open-access.okfnpad.org/30
+
+hope many of you can make it this afternoon
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121005/5960f130/attachment.htm>
+
+From lucy.chambers at okfn.org  Fri Oct  5 14:17:31 2012
+From: lucy.chambers at okfn.org (Lucy Chambers)
+Date: Fri, 5 Oct 2012 15:17:31 +0200
+Subject: [Open-access] Fwd: [okfn-discuss] Open Access in the Humanities and
+ Social Sciences: the official response
+In-Reply-To: <CAA0fMvEkcjzVWTMfR4by5KddMEBWr9k+XTuHokqv+cL3oh+BQA@mail.gmail.com>
+References: <CAA0fMvEkcjzVWTMfR4by5KddMEBWr9k+XTuHokqv+cL3oh+BQA@mail.gmail.com>
+Message-ID: <CAKQKas81uM6y3sxxFjvJk+Ftj7kmGXU7jABh-a9cimUutP7RhA@mail.gmail.com>
+
+Thought this could be of interest to the Open-Access group...
+
+
+---------- Forwarded message ----------
+From: Hannah Burd <hannahxburd at gmail.com>
+Date: Fri, Oct 5, 2012 at 2:14 PM
+Subject: [okfn-discuss] Open Access in the Humanities and Social
+Sciences: the official response
+To: okfn-discuss at lists.okfn.org
+
+
+Really exciting to hear about the Open Access debate looking at the
+nuances between OA for natural vs. social sciences. If people are
+interested in hearing the official response (not one that I
+necessarily agree with) to the moves toward OA in the humanities and
+social sciences (HSS) in the UK, follow this link to the British
+Academy website:
+
+http://www.britac.ac.uk/news/news.cfm/newsid/786
+
+(the British Academy is the national academy for British HSS, it has a
+fellowship of illustrious academics in these disciplines and has a
+reputation for being pretty conservative):
+
+
+
+From tom.olijhoek at gmail.com  Fri Oct  5 18:04:51 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 5 Oct 2012 19:04:51 +0200
+Subject: [Open-access] results meeting oct 5 2012 @ccess initiative
+Message-ID: <CAGyWN8aHUkOQQfJd9w19Y2t5Cguu+5ZWZF8SLSX2uGyLW_AGFw@mail.gmail.com>
+
+Dear All,
+
+We had a lively discussion today on Skype with many participants.
+I am writing this message hoping to reach more people who are willing to
+help in developing a new strategy towards open science.
+
+In the meeting we came to the conclusion that it would be very worthwhile
+to contact other existing open access groups on the points of what they
+think is needed to make an open science society become a reality.As it is
+the open access movement is fragmented and different people / groups have
+very different ideas on what open access is and how we could get change in
+the direction of open science.
+
+ Our ideas as a group are clear (see the website) and one way forward would
+be to combine forces with these other groups.
+As a first step we can find out what other groups there are out there , who
+are , or could be supportive of the @ccess group's ideas on open access and
+open science.We could then set up a collaboration with these groups , and a
+good start for this would be organising a meeting .
+Such a meeting would cost money but there are several funding possibilities
+that we can explore.
+
+The proposal is that @ccess takes the lead in this, and that we start by
+searching for potential partner groups.
+All suggestions, comments etc regarding this idea and names of existing
+communities / groups to contact are very welcome
+
+Tom Olijhoek
+coordinator @ccess at OKFN
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121005/832bf5aa/attachment.htm>
+
+From sanglorian at gmail.com  Sat Oct  6 08:01:42 2012
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Sat, 6 Oct 2012 17:01:42 +1000
+Subject: [Open-access] FOSsil Bank Update (6 October 2012)
+Message-ID: <CAMuj-eLxxAej6JDsSYH+yj_qSdUwC5QFTHJM7OTKSQjE8tuhig@mail.gmail.com>
+
+Hi folks,
+
+Another fortnight, another update. As always, if you find free, libre and
+open source stuff please email me or add it to the wiki yourself.
+
+This time, I've tried sorting the libre works by category. Let me know if
+you prefer that or if you'd rather go back to an undifferentiated list.
+
+ FOSsil Bank Update #FundFreeCulture
+
+   -
+
+   Knockin Duh Conch Style II, <http://www.indiegogo.com/kdcsfilming> a
+   movie on Bahamian martial arts (IndieGoGo: $50/$60,000; 4 days left)
+
+
+   -
+
+   Terms of Service; Didn?t
+Read,<http://www.indiegogo.com/terms-of-service-didnt-read>a website
+that labels and rates the terms of service of different sites
+   (IndieGoGo: ?8,766/?10,000; 5 days left)
+   -
+
+   One Shot<http://www.kickstarter.com/projects/sandandsteam/one-shot-a-roleplaying-game-of-murder-and-vengeanc>is
+a new tabletop RPG from open gaming stalwart Tracy Barnett.
+   (Kickstarter: $1,378/$3,000; 29 days left)
+
+On Wikipedia
+
+   -
+
+   I?m drafting a Wikipedia
+entry<http://en.wikipedia.org/wiki/User:Sanglorian/sandbox>on public
+copyright licences and would appreciate any feedback you have.
+   You can email me, leave a message on my Talk page or even be bold and edit
+   the draft yourself.
+
+Resources
+
+   -
+
+   @diffuser.net <http://fossilbank.wikidot.com/source:diffuser-net> is a
+   French link aggregator for works under various public copyright licences.
+   -
+
+   unglue.it <http://fossilbank.wikidot.com/source:unglue-it> is a website
+   that allows you to ask for money to re-license works.
+   -
+
+   Soundcloud <http://fossilbank.wikidot.com/source:soundcloud> provides
+   songs for playing and downloading. You can search for CC licensed works.
+
+Libre works Information
+
+   -
+
+   The Wealth of the
+Commons<http://fossilbank.wikidot.com/work:the-wealth-of-the-commons>is
+a book of essays. (CC BY-SA, except for previously published works)
+   -
+
+   Start Programming with
+Python<http://fossilbank.wikidot.com/work:start-programming-with-python>is
+a guide to the programming language. (CC BY-SA)
+
+Video
+
+   -
+
+   Tears of Steel, <http://fossilbank.wikidot.com/work:tears-of-steel> the
+   result of the Mango Project, is a tongue-in-cheek sci-fi film. (CC BY)
+
+Electronic games
+
+   -
+
+   Yo Frankie! <http://fossilbank.wikidot.com/work:yo-frankie> is a game
+   where you control aggressive rodents. (CC BY and GNU GPL)
+
+Music
+
+   -
+
+   The romantically named
+?Wikipedia:Sound/list?<http://fossilbank.wikidot.com/work:wikipedia-sound-list>page
+lists some of the music available on Wikipedia. (mainly CC BY-SA or
+PD)
+   -
+
+   Lorenzo?s Music
+<http://fossilbank.wikidot.com/source:lorenzos-music>has created some
+catchy songs. (CC BY-SA)
+   -
+
+   MuseScore <http://fossilbank.wikidot.com/source:musescore> hosts the
+   scores of the Open Goldberg Variations. (CC0)
+
+Software
+
+   -
+
+   Blender <http://fossilbank.wikidot.com/work:blender> is a 3D content
+   creation suite. (GNU GPL)
+   -
+
+   Free Software
+Recommendations<http://fossilbank.wikidot.com/source:free-software-recommendations>has
+a list of user-friendly FLOSS for Windows and iOS. (Various libre)
+
+Tabletop games
+
+   -
+
+   Sand & Steam <http://fossilbank.wikidot.com/source:sand-steam> is an RPG
+   company. (CC BY)
+
+Fonts
+
+   -
+
+   Source Code Pro <http://fossilbank.wikidot.com/work:source-code-pro> is
+   another Adobe typeface; this one is monospaced and tailored for
+   programming. (SIL OFL)
+   -
+
+   Open Dyslexic <http://fossilbank.wikidot.com/work:open-dyslexic> is a
+   font that?s easier for people with dyslexia to read. (CC BY)
+
+Licences
+
+   -
+
+   The Open Works
+License<http://fossilbank.wikidot.com/licence:open-works-license>is a
+permissive open licence.
+
+Proprietary shareable works
+
+   -
+
+   How Open is It? <http://fossilbank.wikidot.com/work:how-open-is-it> is a
+   guide to defining how open a work is. (CC BY-NC-ND)
+   -
+
+   Disasteradio <http://fossilbank.wikidot.com/source:disasteradio> is a
+   ?FUN MUSIC / FAST MUSIC? band from New Zealand. (CC BY-NC-ND)
+   -
+
+   Heifervescent <http://fossilbank.wikidot.com/source:heifervescent> is a
+   fun one man band. (CC BY-NC-SA)
+   -
+
+   Girl Talk <http://fossilbank.wikidot.com/source:girl-talk> samples pop
+   songs to create new works. (CC BY-NC)
+   -
+
+   Magnatune <http://fossilbank.wikidot.com/source:magnatune> is a music
+   streaming and download site. (CC BY-NC-SA)
+   -
+
+   La Educaci?n
+Prohibida<http://fossilbank.wikidot.com/work:la-educacion-prohibida>is
+a documentary about alternartive education. (CC BY-NC-SA)
+
+
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121006/25c24409/attachment-0001.htm>
+
+From cn at cameronneylon.net  Wed Oct 10 17:13:58 2012
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Wed, 10 Oct 2012 12:13:58 -0400
+Subject: [Open-access] [open-science]  how open is it
+In-Reply-To: <2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+Message-ID: <AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+
+Heather
+
+I can't help but feel you are attacking a straw person here. No one has ever argued that CC BY *defines* Open Access. Many of us argue that is a necessary *part* of open access as defined by the original BOAI and Peter Suber has explicitly said that was the originally intended meaning. The distinction between gratis and libre came later (see Postscript2 in http://www.earlham.edu/~peters/fos/newsletter/06-02-12.htm).
+
+Under the BOAI Open Access is the free, immediate, and unencumbered ability to access, read, use, re-use, and re-mix a work. The license is merely a tool to help ensure that we meet these conditions. It is not sufficient and I don't think anyone has suggested it was but it is precisely as part of the mechanism for ensuring that commercial publishers do reach the standard that we want when they provide open access that it is most useful. DRM is a red herring. No policy would accept anything with DRM on it as acceptable OA. It's actually an argument for repositories as part of OA policy that it creates a testable functional definition - if you can put it in the repo under a specified licence then you're compliant with the policy.
+
+What you are proposing as open access is some form of free access for certain defined purposes but it doesn't quality as "open" in any of the senses the word has been used by either the Open Source Definition, the Open Knowledge Definition, or the definition of Free (as defined by FSF and the Free Culture movement). That's fine, and you're free to argue for these things but there is a reason why these definitions converge (and a reason why they differ on specific details).
+
+On 5 Oct 2012, at 01:22, Heather Morrison wrote:
+
+> 4.	There are GOOD reasons for scholars not to want to allow derivatives. Scholars need to specify NoDerivs.
+
+I can't even begin to understand this. A primary part of my definition of research is that people can and will build on it. This might be through mining, aggregation, indexing, critique, translation, summary, all of which are derivative works. If you can't re-use work it isn't research in my view. It may be art, and perhaps more humanities scholarlship generates artistic rather than research outputs. But the public funding of art is a very different argument to the public funding of resaerch.
+
+I'm not going to tackle the non-commercial issue point by point except to say that funders have an obligation to globally optimise outcome on investment and that is why they are shifting to requiring CC-BY. A major driver of the RCUK policy is the aim of supporting innovation including commercialisation and that's why thhe policy is structured the way it is. Infrastructure funding is an issue but the one thing we've learnt from study after study of the effect of restrictions on re-use is that requiring (or even encouraging measures to support) cost recovery is one of the best way of reducing the overall impact of your research investment. Many of the criticisms of various UK and EU initiatives have completely failed to engage with the aims of those governments which I think is unfortunate. I can see people disagree with whether the aims are correct but failing to engage with major stakeholders on their own terms is just bad politics.
+
+If people want to do cost recovery on privately or personally funded research then that's their business. I think it's misguided in most cases because it generally leads to less local income as well as less global impact but that's something to look at on a case by case basis. But funders and particularly government funders are well within their rights to place requirements on the money they disburse. Researchers are free to not ask for money if they don't like the conditions. As with the NIH mandate there is always a choice - no-one is forced to do anything here but there are always conditions to accepting money, whether it be research funds or a salary.
+ 
+> 9.   The CC-BY universe is MUCH smaller than the open access universe. Attempts to force CC-BY on all are, in my opinion, highly likely to cause a major divide in the open access movement.
+
+Actually not true. I've been doing some analysis using DOAJ and Crossref as a data source and CC BY dominates the published OA journal literature. The numbers aren't perfect but as a percentage of all OA in journals that have a registered licence type with DOAJ that have DOI registrations CC BY is about 80% of the total. CC-BY numbers are growing around 20% year on year whereas CC-NC/CC-NC-SA are not. Obviously there are a lot of journals with no licence but they actually don't publish that many articles. 
+
+As far as divides go, I actually think it's inevitable. As the movement succeeds  and changes policy it is inevitable that all the cracks in what was always a lot of different groups pointing in roughly the same direction will start to emerge. It's the nature of revolutions. In one sense its a good thing. It means we've won. That we disagree on implementation should come as a surprise to no-one, the agendas and aims are far too different for agreement to hold right across the movement.
+
+As an aside I think its ironic that the objections that  often frame the discussion as how actually paying the costs of publication or requiring CC BY are inimical to the needs of the humanities, yet humanists (and social scientists) are always concerned that funders and government don't appreciate the impact they have. Actually I think the arguments are even stronger in the humanities that maximising impact through enabling re-use will help make the case for continued appropriate funding.
+
+Cheers
+
+Cameron
+
+
+> best,
+> 
+> Heather Morrison
+> Open Access Advocate / Opponent of Forced CC-BY
+> 
+> On 2012-09-25, at 11:59 AM, Jonathan Gray wrote:
+> 
+>> On Tue, Sep 25, 2012 at 8:54 PM, cameronneylon.net <cn at cameronneylon.net> wrote:
+>>> On 25 Sep 2012, at 19:03, Jonathan Gray wrote:
+>>>> * "Generous reuse & remixing rights (CC-BY license)" - The allusion
+>>>> to CC-BY is helpful, but it would also be good if this box explicitly
+>>>> mentioned OpenDefinition.org as a standard for fully open licenses -
+>>>> e.g. for cases where there may be bespoke or custom licenses.
+>>> 
+>>> Without wishing to re-open old wounds, the OpenDefinition isn't really appropriate in this context as it isn't strong enough as a definition for interoperability of bespoke licences. We're adopting the BOAI original definition alongside the recommendations of BOAI10 here that CC-BY is best practice (for journal *articles*...not really referring strongly to data here) ie share-alike is not "open enough" in this domain.
+>> 
+>> Point very much taken Cameron. In which case - what about
+>> "OpenDefinition compliant 'attribution style' licensing" which
+>> shouldn't cause interoperability issues?
+>> 
+>> Or perhaps it isn't worth broadening from CC-BY (as it might have been
+>> a few years ago) as people are much more likely to use CC-BY than to
+>> roll their own, which of course should be encouraged.
+>> 
+>> J.
+>> 
+>>> But feel free to comment!
+>>> 
+>>> Cheers
+>>> 
+>>> Cameron
+>>> 
+>>>> J.
+>>>> 
+>>>> On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>>>>> 
+>>>>> 
+>>>>> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com>
+>>>>> wrote:
+>>>>>> 
+>>>>>> A very important announcement I think
+>>>>>> 
+>>>>>> judge for yourself
+>>>>>> 
+>>>>>> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+>>>>> 
+>>>>> 
+>>>>> YES. It's about time something like this happened - SPARC has been quiet and
+>>>>> I look to them for some guidance. I haven't read the booklet, but comment on
+>>>>> the abstract
+>>>>> 
+>>>>> 
+>>>>> ? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+>>>>> ? Clarify the definition of OA
+>>>>> ? Standardize terminology
+>>>>> ? Illustrate a continuum of ?more open? versus ?less open?
+>>>>> ? Enable people to compare and contrast publications and policies
+>>>>> ? Broaden the understanding of OA to a wider audience
+>>>>> 
+>>>>> These are all critical. Until recently there was nowhere they could be
+>>>>> discussed without the discussion being destroyed.
+>>>>> 
+>>>>> But now we have OKF open-access !!
+>>>>> 
+>>>>> Let's offer this organ to the world and let's finally try to get a decent
+>>>>> discussion going.
+>>>>> 
+>>>>> P.
+>>>>> 
+>>>>>> 
+>>>>>> TOM
+>>>>>> 
+>>>>>> _______________________________________________
+>>>>>> open-access mailing list
+>>>>>> open-access at lists.okfn.org
+>>>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>>>> 
+>>>>> 
+>>>>> 
+>>>>> 
+>>>>> --
+>>>>> Peter Murray-Rust
+>>>>> Reader in Molecular Informatics
+>>>>> Unilever Centre, Dep. Of Chemistry
+>>>>> University of Cambridge
+>>>>> CB2 1EW, UK
+>>>>> +44-1223-763069
+>>>>> 
+>>>>> _______________________________________________
+>>>>> open-access mailing list
+>>>>> open-access at lists.okfn.org
+>>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> --
+>>>> Jonathan Gray
+>>>> 
+>>>> Head of Community
+>>>> The Open Knowledge Foundation
+>>>> http://www.okfn.org
+>>>> 
+>>>> http://twitter.com/jwyg
+>>>> 
+>>>> _______________________________________________
+>>>> open-access mailing list
+>>>> open-access at lists.okfn.org
+>>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>> 
+>> 
+>> 
+>> 
+>> -- 
+>> Jonathan Gray
+>> 
+>> Head of Community
+>> The Open Knowledge Foundation
+>> http://www.okfn.org
+>> 
+>> http://twitter.com/jwyg
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121010/eb374df2/attachment-0001.htm>
+
+From mike at indexdata.com  Wed Oct 10 21:04:16 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 10 Oct 2012 21:04:16 +0100
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+	<AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+Message-ID: <CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+
+THANK you, Cameron. I've seen a bunch of anti-CC BY articles recently
+(many of them by Harnad) but just lacked the energy to slap them down.
+I appreciate your taking the time to do it so effectively ... not to
+mention much more tactfully than I would have.
+
+-- Mike.
+
+
+
+On 10 October 2012 17:13, cameronneylon.net <cn at cameronneylon.net> wrote:
+> Heather
+>
+> I can't help but feel you are attacking a straw person here. No one has ever
+> argued that CC BY *defines* Open Access. Many of us argue that is a
+> necessary *part* of open access as defined by the original BOAI and Peter
+> Suber has explicitly said that was the originally intended meaning. The
+> distinction between gratis and libre came later (see Postscript2 in
+> http://www.earlham.edu/~peters/fos/newsletter/06-02-12.htm).
+>
+> Under the BOAI Open Access is the free, immediate, and unencumbered ability
+> to access, read, use, re-use, and re-mix a work. The license is merely a
+> tool to help ensure that we meet these conditions. It is not sufficient and
+> I don't think anyone has suggested it was but it is precisely as part of the
+> mechanism for ensuring that commercial publishers do reach the standard that
+> we want when they provide open access that it is most useful. DRM is a red
+> herring. No policy would accept anything with DRM on it as acceptable OA.
+> It's actually an argument for repositories as part of OA policy that it
+> creates a testable functional definition - if you can put it in the repo
+> under a specified licence then you're compliant with the policy.
+>
+> What you are proposing as open access is some form of free access for
+> certain defined purposes but it doesn't quality as "open" in any of the
+> senses the word has been used by either the Open Source Definition, the Open
+> Knowledge Definition, or the definition of Free (as defined by FSF and the
+> Free Culture movement). That's fine, and you're free to argue for these
+> things but there is a reason why these definitions converge (and a reason
+> why they differ on specific details).
+>
+> On 5 Oct 2012, at 01:22, Heather Morrison wrote:
+>
+> 4. There are GOOD reasons for scholars not to want to allow derivatives.
+> Scholars need to specify NoDerivs.
+>
+>
+> I can't even begin to understand this. A primary part of my definition of
+> research is that people can and will build on it. This might be through
+> mining, aggregation, indexing, critique, translation, summary, all of which
+> are derivative works. If you can't re-use work it isn't research in my view.
+> It may be art, and perhaps more humanities scholarlship generates artistic
+> rather than research outputs. But the public funding of art is a very
+> different argument to the public funding of resaerch.
+>
+> I'm not going to tackle the non-commercial issue point by point except to
+> say that funders have an obligation to globally optimise outcome on
+> investment and that is why they are shifting to requiring CC-BY. A major
+> driver of the RCUK policy is the aim of supporting innovation including
+> commercialisation and that's why thhe policy is structured the way it is.
+> Infrastructure funding is an issue but the one thing we've learnt from study
+> after study of the effect of restrictions on re-use is that requiring (or
+> even encouraging measures to support) cost recovery is one of the best way
+> of reducing the overall impact of your research investment. Many of the
+> criticisms of various UK and EU initiatives have completely failed to engage
+> with the aims of those governments which I think is unfortunate. I can see
+> people disagree with whether the aims are correct but failing to engage with
+> major stakeholders on their own terms is just bad politics.
+>
+> If people want to do cost recovery on privately or personally funded
+> research then that's their business. I think it's misguided in most cases
+> because it generally leads to less local income as well as less global
+> impact but that's something to look at on a case by case basis. But funders
+> and particularly government funders are well within their rights to place
+> requirements on the money they disburse. Researchers are free to not ask for
+> money if they don't like the conditions. As with the NIH mandate there is
+> always a choice - no-one is forced to do anything here but there are always
+> conditions to accepting money, whether it be research funds or a salary.
+>
+>
+> 9.   The CC-BY universe is MUCH smaller than the open access universe.
+> Attempts to force CC-BY on all are, in my opinion, highly likely to cause a
+> major divide in the open access movement.
+>
+>
+> Actually not true. I've been doing some analysis using DOAJ and Crossref as
+> a data source and CC BY dominates the published OA journal literature. The
+> numbers aren't perfect but as a percentage of all OA in journals that have a
+> registered licence type with DOAJ that have DOI registrations CC BY is about
+> 80% of the total. CC-BY numbers are growing around 20% year on year whereas
+> CC-NC/CC-NC-SA are not. Obviously there are a lot of journals with no
+> licence but they actually don't publish that many articles.
+>
+> As far as divides go, I actually think it's inevitable. As the movement
+> succeeds  and changes policy it is inevitable that all the cracks in what
+> was always a lot of different groups pointing in roughly the same direction
+> will start to emerge. It's the nature of revolutions. In one sense its a
+> good thing. It means we've won. That we disagree on implementation should
+> come as a surprise to no-one, the agendas and aims are far too different for
+> agreement to hold right across the movement.
+>
+> As an aside I think its ironic that the objections that  often frame the
+> discussion as how actually paying the costs of publication or requiring CC
+> BY are inimical to the needs of the humanities, yet humanists (and social
+> scientists) are always concerned that funders and government don't
+> appreciate the impact they have. Actually I think the arguments are even
+> stronger in the humanities that maximising impact through enabling re-use
+> will help make the case for continued appropriate funding.
+>
+> Cheers
+>
+> Cameron
+>
+>
+> best,
+>
+> Heather Morrison
+> Open Access Advocate / Opponent of Forced CC-BY
+>
+>
+> On 2012-09-25, at 11:59 AM, Jonathan Gray wrote:
+>
+> On Tue, Sep 25, 2012 at 8:54 PM, cameronneylon.net <cn at cameronneylon.net>
+> wrote:
+>
+> On 25 Sep 2012, at 19:03, Jonathan Gray wrote:
+>
+> * "Generous reuse & remixing rights (CC-BY license)" - The allusion
+>
+> to CC-BY is helpful, but it would also be good if this box explicitly
+>
+> mentioned OpenDefinition.org as a standard for fully open licenses -
+>
+> e.g. for cases where there may be bespoke or custom licenses.
+>
+>
+> Without wishing to re-open old wounds, the OpenDefinition isn't really
+> appropriate in this context as it isn't strong enough as a definition for
+> interoperability of bespoke licences. We're adopting the BOAI original
+> definition alongside the recommendations of BOAI10 here that CC-BY is best
+> practice (for journal *articles*...not really referring strongly to data
+> here) ie share-alike is not "open enough" in this domain.
+>
+>
+> Point very much taken Cameron. In which case - what about
+>
+> "OpenDefinition compliant 'attribution style' licensing" which
+>
+> shouldn't cause interoperability issues?
+>
+>
+> Or perhaps it isn't worth broadening from CC-BY (as it might have been
+>
+> a few years ago) as people are much more likely to use CC-BY than to
+>
+> roll their own, which of course should be encouraged.
+>
+>
+> J.
+>
+>
+> But feel free to comment!
+>
+>
+> Cheers
+>
+>
+> Cameron
+>
+>
+> J.
+>
+>
+> On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>
+>
+> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com>
+>
+> wrote:
+>
+>
+> A very important announcement I think
+>
+>
+> judge for yourself
+>
+>
+> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+>
+>
+>
+> YES. It's about time something like this happened - SPARC has been quiet and
+>
+> I look to them for some guidance. I haven't read the booklet, but comment on
+>
+> the abstract
+>
+>
+>
+> ? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+>
+> ? Clarify the definition of OA
+>
+> ? Standardize terminology
+>
+> ? Illustrate a continuum of ?more open? versus ?less open?
+>
+> ? Enable people to compare and contrast publications and policies
+>
+> ? Broaden the understanding of OA to a wider audience
+>
+>
+> These are all critical. Until recently there was nowhere they could be
+>
+> discussed without the discussion being destroyed.
+>
+>
+> But now we have OKF open-access !!
+>
+>
+> Let's offer this organ to the world and let's finally try to get a decent
+>
+> discussion going.
+>
+>
+> P.
+>
+>
+>
+> TOM
+>
+>
+> _______________________________________________
+>
+> open-access mailing list
+>
+> open-access at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+>
+>
+>
+> --
+>
+> Peter Murray-Rust
+>
+> Reader in Molecular Informatics
+>
+> Unilever Centre, Dep. Of Chemistry
+>
+> University of Cambridge
+>
+> CB2 1EW, UK
+>
+> +44-1223-763069
+>
+>
+> _______________________________________________
+>
+> open-access mailing list
+>
+> open-access at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+>
+>
+>
+> --
+>
+> Jonathan Gray
+>
+>
+> Head of Community
+>
+> The Open Knowledge Foundation
+>
+> http://www.okfn.org
+>
+>
+> http://twitter.com/jwyg
+>
+>
+> _______________________________________________
+>
+> open-access mailing list
+>
+> open-access at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+>
+>
+>
+> --
+>
+> Jonathan Gray
+>
+>
+> Head of Community
+>
+> The Open Knowledge Foundation
+>
+> http://www.okfn.org
+>
+>
+> http://twitter.com/jwyg
+>
+>
+> _______________________________________________
+>
+> open-science mailing list
+>
+> open-science at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+From mike at indexdata.com  Wed Oct 10 21:26:24 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 10 Oct 2012 21:26:24 +0100
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <532934382.20121010222506@gmail.com>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+	<AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+	<CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+	<532934382.20121010222506@gmail.com>
+Message-ID: <CACnMvBbL9KtfVxGFZKDT5o1O-mN9gvRTAMuX56UrCTASjh6sjA@mail.gmail.com>
+
+Yes, I had that experience, too. My guess is that most people go
+through an NC phase before having a moment on enlightenment. I must
+blog about this properly some time.
+
+-- Mike.
+
+
+On 10 October 2012 21:25, Bj?rn Brembs <b.brembs at gmail.com> wrote:
+> Mike Taylor wrote:
+>
+>> THANK you, Cameron.
+>
+> Second that. I read some of the critiques of CC-BY and
+> didn't find them persuasive - in fact I didn't understand
+> the arguments, really. Your arguments did make a lot of
+> sense to me.
+>
+> The NC issue is an emotional one for those who simply don't
+> want to see 'their' work commercialized without the
+> profit-making organization paying anything for it. I can
+> relate to that and I think I can remember ticking off 'NC'
+> at least once somewhere. I find that very understandable -
+> until one realizes that everybody already paid their share
+> for this work via their taxes and don't really need to be
+> paying again. Took me a while...
+>
+> Bjoern
+>
+>
+>
+> --
+> Bj?rn Brembs
+> ---------------------------------------------
+> http://brembs.net
+> Neurogenetics
+> Universit?t Regensburg
+> Germany
+>
+>
+
+
+From pm286 at cam.ac.uk  Wed Oct 10 21:50:34 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 10 Oct 2012 21:50:34 +0100
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <CACnMvBbL9KtfVxGFZKDT5o1O-mN9gvRTAMuX56UrCTASjh6sjA@mail.gmail.com>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+	<AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+	<CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+	<532934382.20121010222506@gmail.com>
+	<CACnMvBbL9KtfVxGFZKDT5o1O-mN9gvRTAMuX56UrCTASjh6sjA@mail.gmail.com>
+Message-ID: <CAD2k14N6NtY_s_RyYniGgGD+kSN6P1wqBzqCeadc652wwAMYuQ@mail.gmail.com>
+
+On Wed, Oct 10, 2012 at 9:26 PM, Mike Taylor <mike at indexdata.com> wrote:
+
+> Yes, I had that experience, too. My guess is that most people go
+> through an NC phase before having a moment on enlightenment. I must
+> blog about this properly some time.
+>
+> Also thanks Cameron. I think we should capture the gist of your material
+in a distributable form.
+
+I also was a sinner and then saw the light. My blog was CC-NC when it
+started. I made the "natural" assumption that because I was an academic I
+should use NC. We need to stop people falling into that trap before they
+start.
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121010/a4b33ad5/attachment.htm>
+
+From velterop at gmail.com  Wed Oct 10 21:57:00 2012
+From: velterop at gmail.com (Jan Velterop)
+Date: Wed, 10 Oct 2012 21:57:00 +0100
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+	<AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+	<CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+Message-ID: <CBF9E4C5-F21C-4D59-B68F-F06C108F9942@gmail.com>
+
+I second that! I wrote to Cameron off-line, but am happy to repeat it here: 
+
+"You are summing up and explaining the issues with an almost incredible, and enviable, clarity"
+
+And Mike is right, very tactful, too.
+
+Jan
+
+
+On 10 Oct 2012, at 21:04, Mike Taylor wrote:
+
+> THANK you, Cameron. I've seen a bunch of anti-CC BY articles recently
+> (many of them by Harnad) but just lacked the energy to slap them down.
+> I appreciate your taking the time to do it so effectively ... not to
+> mention much more tactfully than I would have.
+> 
+> -- Mike.
+> 
+> 
+> 
+> On 10 October 2012 17:13, cameronneylon.net <cn at cameronneylon.net> wrote:
+>> Heather
+>> 
+>> I can't help but feel you are attacking a straw person here. No one has ever
+>> argued that CC BY *defines* Open Access. Many of us argue that is a
+>> necessary *part* of open access as defined by the original BOAI and Peter
+>> Suber has explicitly said that was the originally intended meaning. The
+>> distinction between gratis and libre came later (see Postscript2 in
+>> http://www.earlham.edu/~peters/fos/newsletter/06-02-12.htm).
+>> 
+>> Under the BOAI Open Access is the free, immediate, and unencumbered ability
+>> to access, read, use, re-use, and re-mix a work. The license is merely a
+>> tool to help ensure that we meet these conditions. It is not sufficient and
+>> I don't think anyone has suggested it was but it is precisely as part of the
+>> mechanism for ensuring that commercial publishers do reach the standard that
+>> we want when they provide open access that it is most useful. DRM is a red
+>> herring. No policy would accept anything with DRM on it as acceptable OA.
+>> It's actually an argument for repositories as part of OA policy that it
+>> creates a testable functional definition - if you can put it in the repo
+>> under a specified licence then you're compliant with the policy.
+>> 
+>> What you are proposing as open access is some form of free access for
+>> certain defined purposes but it doesn't quality as "open" in any of the
+>> senses the word has been used by either the Open Source Definition, the Open
+>> Knowledge Definition, or the definition of Free (as defined by FSF and the
+>> Free Culture movement). That's fine, and you're free to argue for these
+>> things but there is a reason why these definitions converge (and a reason
+>> why they differ on specific details).
+>> 
+>> On 5 Oct 2012, at 01:22, Heather Morrison wrote:
+>> 
+>> 4. There are GOOD reasons for scholars not to want to allow derivatives.
+>> Scholars need to specify NoDerivs.
+>> 
+>> 
+>> I can't even begin to understand this. A primary part of my definition of
+>> research is that people can and will build on it. This might be through
+>> mining, aggregation, indexing, critique, translation, summary, all of which
+>> are derivative works. If you can't re-use work it isn't research in my view.
+>> It may be art, and perhaps more humanities scholarlship generates artistic
+>> rather than research outputs. But the public funding of art is a very
+>> different argument to the public funding of resaerch.
+>> 
+>> I'm not going to tackle the non-commercial issue point by point except to
+>> say that funders have an obligation to globally optimise outcome on
+>> investment and that is why they are shifting to requiring CC-BY. A major
+>> driver of the RCUK policy is the aim of supporting innovation including
+>> commercialisation and that's why thhe policy is structured the way it is.
+>> Infrastructure funding is an issue but the one thing we've learnt from study
+>> after study of the effect of restrictions on re-use is that requiring (or
+>> even encouraging measures to support) cost recovery is one of the best way
+>> of reducing the overall impact of your research investment. Many of the
+>> criticisms of various UK and EU initiatives have completely failed to engage
+>> with the aims of those governments which I think is unfortunate. I can see
+>> people disagree with whether the aims are correct but failing to engage with
+>> major stakeholders on their own terms is just bad politics.
+>> 
+>> If people want to do cost recovery on privately or personally funded
+>> research then that's their business. I think it's misguided in most cases
+>> because it generally leads to less local income as well as less global
+>> impact but that's something to look at on a case by case basis. But funders
+>> and particularly government funders are well within their rights to place
+>> requirements on the money they disburse. Researchers are free to not ask for
+>> money if they don't like the conditions. As with the NIH mandate there is
+>> always a choice - no-one is forced to do anything here but there are always
+>> conditions to accepting money, whether it be research funds or a salary.
+>> 
+>> 
+>> 9.   The CC-BY universe is MUCH smaller than the open access universe.
+>> Attempts to force CC-BY on all are, in my opinion, highly likely to cause a
+>> major divide in the open access movement.
+>> 
+>> 
+>> Actually not true. I've been doing some analysis using DOAJ and Crossref as
+>> a data source and CC BY dominates the published OA journal literature. The
+>> numbers aren't perfect but as a percentage of all OA in journals that have a
+>> registered licence type with DOAJ that have DOI registrations CC BY is about
+>> 80% of the total. CC-BY numbers are growing around 20% year on year whereas
+>> CC-NC/CC-NC-SA are not. Obviously there are a lot of journals with no
+>> licence but they actually don't publish that many articles.
+>> 
+>> As far as divides go, I actually think it's inevitable. As the movement
+>> succeeds  and changes policy it is inevitable that all the cracks in what
+>> was always a lot of different groups pointing in roughly the same direction
+>> will start to emerge. It's the nature of revolutions. In one sense its a
+>> good thing. It means we've won. That we disagree on implementation should
+>> come as a surprise to no-one, the agendas and aims are far too different for
+>> agreement to hold right across the movement.
+>> 
+>> As an aside I think its ironic that the objections that  often frame the
+>> discussion as how actually paying the costs of publication or requiring CC
+>> BY are inimical to the needs of the humanities, yet humanists (and social
+>> scientists) are always concerned that funders and government don't
+>> appreciate the impact they have. Actually I think the arguments are even
+>> stronger in the humanities that maximising impact through enabling re-use
+>> will help make the case for continued appropriate funding.
+>> 
+>> Cheers
+>> 
+>> Cameron
+>> 
+>> 
+>> best,
+>> 
+>> Heather Morrison
+>> Open Access Advocate / Opponent of Forced CC-BY
+>> 
+>> 
+>> On 2012-09-25, at 11:59 AM, Jonathan Gray wrote:
+>> 
+>> On Tue, Sep 25, 2012 at 8:54 PM, cameronneylon.net <cn at cameronneylon.net>
+>> wrote:
+>> 
+>> On 25 Sep 2012, at 19:03, Jonathan Gray wrote:
+>> 
+>> * "Generous reuse & remixing rights (CC-BY license)" - The allusion
+>> 
+>> to CC-BY is helpful, but it would also be good if this box explicitly
+>> 
+>> mentioned OpenDefinition.org as a standard for fully open licenses -
+>> 
+>> e.g. for cases where there may be bespoke or custom licenses.
+>> 
+>> 
+>> Without wishing to re-open old wounds, the OpenDefinition isn't really
+>> appropriate in this context as it isn't strong enough as a definition for
+>> interoperability of bespoke licences. We're adopting the BOAI original
+>> definition alongside the recommendations of BOAI10 here that CC-BY is best
+>> practice (for journal *articles*...not really referring strongly to data
+>> here) ie share-alike is not "open enough" in this domain.
+>> 
+>> 
+>> Point very much taken Cameron. In which case - what about
+>> 
+>> "OpenDefinition compliant 'attribution style' licensing" which
+>> 
+>> shouldn't cause interoperability issues?
+>> 
+>> 
+>> Or perhaps it isn't worth broadening from CC-BY (as it might have been
+>> 
+>> a few years ago) as people are much more likely to use CC-BY than to
+>> 
+>> roll their own, which of course should be encouraged.
+>> 
+>> 
+>> J.
+>> 
+>> 
+>> But feel free to comment!
+>> 
+>> 
+>> Cheers
+>> 
+>> 
+>> Cameron
+>> 
+>> 
+>> J.
+>> 
+>> 
+>> On Tue, Sep 25, 2012 at 6:54 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>> 
+>> 
+>> 
+>> On Tue, Sep 25, 2012 at 4:53 PM, Tom Olijhoek <tom.olijhoek at gmail.com>
+>> 
+>> wrote:
+>> 
+>> 
+>> A very important announcement I think
+>> 
+>> 
+>> judge for yourself
+>> 
+>> 
+>> http://www.arl.org/sparc/media/HowOpenIsIt.shtml
+>> 
+>> 
+>> 
+>> YES. It's about time something like this happened - SPARC has been quiet and
+>> 
+>> I look to them for some guidance. I haven't read the booklet, but comment on
+>> 
+>> the abstract
+>> 
+>> 
+>> 
+>> ? Move the conversation from ?Is It Open Access?? to ?How Open Is It??
+>> 
+>> ? Clarify the definition of OA
+>> 
+>> ? Standardize terminology
+>> 
+>> ? Illustrate a continuum of ?more open? versus ?less open?
+>> 
+>> ? Enable people to compare and contrast publications and policies
+>> 
+>> ? Broaden the understanding of OA to a wider audience
+>> 
+>> 
+>> These are all critical. Until recently there was nowhere they could be
+>> 
+>> discussed without the discussion being destroyed.
+>> 
+>> 
+>> But now we have OKF open-access !!
+>> 
+>> 
+>> Let's offer this organ to the world and let's finally try to get a decent
+>> 
+>> discussion going.
+>> 
+>> 
+>> P.
+>> 
+>> 
+>> 
+>> TOM
+>> 
+>> 
+>> _______________________________________________
+>> 
+>> open-access mailing list
+>> 
+>> open-access at lists.okfn.org
+>> 
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> 
+>> 
+>> 
+>> 
+>> 
+>> --
+>> 
+>> Peter Murray-Rust
+>> 
+>> Reader in Molecular Informatics
+>> 
+>> Unilever Centre, Dep. Of Chemistry
+>> 
+>> University of Cambridge
+>> 
+>> CB2 1EW, UK
+>> 
+>> +44-1223-763069
+>> 
+>> 
+>> _______________________________________________
+>> 
+>> open-access mailing list
+>> 
+>> open-access at lists.okfn.org
+>> 
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> 
+>> 
+>> 
+>> 
+>> 
+>> --
+>> 
+>> Jonathan Gray
+>> 
+>> 
+>> Head of Community
+>> 
+>> The Open Knowledge Foundation
+>> 
+>> http://www.okfn.org
+>> 
+>> 
+>> http://twitter.com/jwyg
+>> 
+>> 
+>> _______________________________________________
+>> 
+>> open-access mailing list
+>> 
+>> open-access at lists.okfn.org
+>> 
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> 
+>> 
+>> 
+>> 
+>> 
+>> --
+>> 
+>> Jonathan Gray
+>> 
+>> 
+>> Head of Community
+>> 
+>> The Open Knowledge Foundation
+>> 
+>> http://www.okfn.org
+>> 
+>> 
+>> http://twitter.com/jwyg
+>> 
+>> 
+>> _______________________________________________
+>> 
+>> open-science mailing list
+>> 
+>> open-science at lists.okfn.org
+>> 
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> 
+>> 
+>> 
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> 
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+
+
+
+From mike at indexdata.com  Wed Oct 10 22:32:47 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 10 Oct 2012 22:32:47 +0100
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <D32AC4BD-4E78-4513-BD5C-B6569F4094F4@sfu.ca>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+	<AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+	<CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+	<532934382.20121010222506@gmail.com>
+	<CACnMvBbL9KtfVxGFZKDT5o1O-mN9gvRTAMuX56UrCTASjh6sjA@mail.gmail.com>
+	<D32AC4BD-4E78-4513-BD5C-B6569F4094F4@sfu.ca>
+Message-ID: <CACnMvBaUr7vOS75GOLAsXT7Gp5NC_8rh47K06cxgv5u7K8qG1g@mail.gmail.com>
+
+As a side-note, you would probably get more fruitful discussion if
+your (otherwise excellent) blog allowed comments. As it is, you can
+hardly be surprised if your pronouncements seem to vanish into the
+ether.
+
+-- Mike.
+
+
+On 10 October 2012 21:37, Heather Morrison <hgmorris at sfu.ca> wrote:
+> My position - one that has been carefully thought through, based on many years of open access advocacy and knowledge of scholarly publishing through my work as a librarian - is that CC-BY is a problematic license for open access. Of the CC licenses, the strongest for OA is CC-BY-NC-SA since it protects OA downstream, however I am not convinced that it is appropriate to recommend any CC license as a default for OA.
+>
+> This is a very brief statement of my arguments, worked out in more detail in my draft thesis (see the chapters on open access and the conclusions), which can be downloaded from here:
+> http://pages.cmns.sfu.ca/heather-morrison/2012/10/04/dissertation-defence-draft/
+>
+> This is not the main focus of my dissertation, and not all of my arguments can be found here (e.g. in the conclusions my point is that the equation of OA with CC-BY is an illustration of the dangers of what I call irrational rationalization).
+>
+> Substantive comments, particularly from people who take the time to read my work, would be most helpful. "The NC issue is an emotional one" is not a substantive comment.
+>
+> This discussion is happening on lists that I don't participate in - if someone could forward this message to lists that I'll miss, that would be most appreciated.
+>
+> best,
+>
+> Heather Morrison
+>
+> On 2012-10-10, at 1:26 PM, Mike Taylor wrote:
+>
+>> Yes, I had that experience, too. My guess is that most people go
+>> through an NC phase before having a moment on enlightenment. I must
+>> blog about this properly some time.
+>>
+>> -- Mike.
+>>
+>>
+>> On 10 October 2012 21:25, Bj?rn Brembs <b.brembs at gmail.com> wrote:
+>>> Mike Taylor wrote:
+>>>
+>>>> THANK you, Cameron.
+>>>
+>>> Second that. I read some of the critiques of CC-BY and
+>>> didn't find them persuasive - in fact I didn't understand
+>>> the arguments, really. Your arguments did make a lot of
+>>> sense to me.
+>>>
+>>> The NC issue is an emotional one for those who simply don't
+>>> want to see 'their' work commercialized without the
+>>> profit-making organization paying anything for it. I can
+>>> relate to that and I think I can remember ticking off 'NC'
+>>> at least once somewhere. I find that very understandable -
+>>> until one realizes that everybody already paid their share
+>>> for this work via their taxes and don't really need to be
+>>> paying again. Took me a while...
+>>>
+>>> Bjoern
+>>>
+>>>
+>>>
+>>> --
+>>> Bj?rn Brembs
+>>> ---------------------------------------------
+>>> http://brembs.net
+>>> Neurogenetics
+>>> Universit?t Regensburg
+>>> Germany
+>>>
+>>>
+>
+>
+
+
+From mike at indexdata.com  Wed Oct 10 23:30:22 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Wed, 10 Oct 2012 23:30:22 +0100
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <B3632127-BD7A-4E5E-8C42-6BCD27CF5953@sfu.ca>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAD2k14O+4o6bYH9uy9dj9M7_pf43wB-nS9x_zw=Z0NFUkY7OeQ@mail.gmail.com>
+	<CANQ_vu2fokxO5FcJtOWPTw5SGGcaYZNu-Q6en1uCPd2+OPxMbA@mail.gmail.com>
+	<9F750160-4381-4B5D-9246-35A582A5894A@cameronneylon.net>
+	<CANQ_vu1JE+_0dg8xN2a7Wj1eQN_gFJXM8kep=8fgMzMTQeDDjw@mail.gmail.com>
+	<2B0AA417-A30E-4CC0-AA0C-2EBDCD98D559@sfu.ca>
+	<AF05088B-B8D0-4B75-B673-DD28324DC48D@cameronneylon.net>
+	<CACnMvBZZarRvG1j=4pc==cGfse-mMmEC_ndmUQsLv8hTgox+-g@mail.gmail.com>
+	<532934382.20121010222506@gmail.com>
+	<CACnMvBbL9KtfVxGFZKDT5o1O-mN9gvRTAMuX56UrCTASjh6sjA@mail.gmail.com>
+	<D32AC4BD-4E78-4513-BD5C-B6569F4094F4@sfu.ca>
+	<CACnMvBaUr7vOS75GOLAsXT7Gp5NC_8rh47K06cxgv5u7K8qG1g@mail.gmail.com>
+	<B3632127-BD7A-4E5E-8C42-6BCD27CF5953@sfu.ca>
+Message-ID: <CACnMvBaOVgjWv6qEi5eL-4u7GNzA25ZtToGWUcEQAJme9asUtw@mail.gmail.com>
+
+Of course, it's your blog and your prerogative how you want to run it.
+I'll just say that my experience of blog discussions has been very
+different -- for example, see this discussion happening right now on
+one of my blogs, on the relative merits of publishing research as
+preprints or in journals:
+        http://svpow.com/2012/10/10/counting-beans/
+
+One benefit of this form of discussion is that it leaves a permanent
+public record, which I can (and often do) refer back to years later.
+
+-- Mike.
+
+
+On 10 October 2012 23:24, Heather Morrison <hgmorris at sfu.ca> wrote:
+> hi Mike,
+>
+> Thank you for your suggestion. My perspective is that discussion via blog commenting is not fruitful - it's like having a conversation with a group, except you can't see who is in the room unless they comment, and even then, you have no way of knowing if they have left before you reply. I've done this myself, posted a comment on a blog then completely forgot what the blog was and never went back.
+>
+> Apologies to the list, I think that this is a bit off-topic although fits within the broader scope of how to manage open discussions.
+>
+> best,
+>
+> Heather
+>
+> On 2012-10-10, at 2:32 PM, Mike Taylor wrote:
+>
+>> As a side-note, you would probably get more fruitful discussion if
+>> your (otherwise excellent) blog allowed comments. As it is, you can
+>> hardly be surprised if your pronouncements seem to vanish into the
+>> ether.
+>>
+>> -- Mike.
+>>
+>>
+>> On 10 October 2012 21:37, Heather Morrison <hgmorris at sfu.ca> wrote:
+>>> My position - one that has been carefully thought through, based on many years of open access advocacy and knowledge of scholarly publishing through my work as a librarian - is that CC-BY is a problematic license for open access. Of the CC licenses, the strongest for OA is CC-BY-NC-SA since it protects OA downstream, however I am not convinced that it is appropriate to recommend any CC license as a default for OA.
+>>>
+>>> This is a very brief statement of my arguments, worked out in more detail in my draft thesis (see the chapters on open access and the conclusions), which can be downloaded from here:
+>>> http://pages.cmns.sfu.ca/heather-morrison/2012/10/04/dissertation-defence-draft/
+>>>
+>>> This is not the main focus of my dissertation, and not all of my arguments can be found here (e.g. in the conclusions my point is that the equation of OA with CC-BY is an illustration of the dangers of what I call irrational rationalization).
+>>>
+>>> Substantive comments, particularly from people who take the time to read my work, would be most helpful. "The NC issue is an emotional one" is not a substantive comment.
+>>>
+>>> This discussion is happening on lists that I don't participate in - if someone could forward this message to lists that I'll miss, that would be most appreciated.
+>>>
+>>> best,
+>>>
+>>> Heather Morrison
+>>>
+>>> On 2012-10-10, at 1:26 PM, Mike Taylor wrote:
+>>>
+>>>> Yes, I had that experience, too. My guess is that most people go
+>>>> through an NC phase before having a moment on enlightenment. I must
+>>>> blog about this properly some time.
+>>>>
+>>>> -- Mike.
+>>>>
+>>>>
+>>>> On 10 October 2012 21:25, Bj?rn Brembs <b.brembs at gmail.com> wrote:
+>>>>> Mike Taylor wrote:
+>>>>>
+>>>>>> THANK you, Cameron.
+>>>>>
+>>>>> Second that. I read some of the critiques of CC-BY and
+>>>>> didn't find them persuasive - in fact I didn't understand
+>>>>> the arguments, really. Your arguments did make a lot of
+>>>>> sense to me.
+>>>>>
+>>>>> The NC issue is an emotional one for those who simply don't
+>>>>> want to see 'their' work commercialized without the
+>>>>> profit-making organization paying anything for it. I can
+>>>>> relate to that and I think I can remember ticking off 'NC'
+>>>>> at least once somewhere. I find that very understandable -
+>>>>> until one realizes that everybody already paid their share
+>>>>> for this work via their taxes and don't really need to be
+>>>>> paying again. Took me a while...
+>>>>>
+>>>>> Bjoern
+>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Bj?rn Brembs
+>>>>> ---------------------------------------------
+>>>>> http://brembs.net
+>>>>> Neurogenetics
+>>>>> Universit?t Regensburg
+>>>>> Germany
+>>>>>
+>>>>>
+>>>
+>>>
+>
+>
+
+
+From hpiwowar at gmail.com  Thu Oct 11 20:19:33 2012
+From: hpiwowar at gmail.com (Heather Piwowar)
+Date: Thu, 11 Oct 2012 12:19:33 -0700
+Subject: [Open-access] [open-science] how open is it
+In-Reply-To: <CAAY7FqGCuD_QYQRCsxjcEFWKhzE2JGrd+DQXpLxxhqFam_8qfA@mail.gmail.com>
+References: <CAGyWN8YQ8xq0XBMRm7ajAsyJG1RYi7K_eE0SnpAbzMGo3NYCzw@mail.gmail.com>
+	<CAAY7FqFVRHz4cMtUofq3LUmGuArdK3aUcc+YEQ+E5znrYRF0GQ@mail.gmail.com>
+	<5070B7BC-791C-42DC-971A-688A5C970465@sfu.ca>
+	<CAAY7FqGCuD_QYQRCsxjcEFWKhzE2JGrd+DQXpLxxhqFam_8qfA@mail.gmail.com>
+Message-ID: <CAOeaCiJGUaem2at3CF36y45XJu+FuCmdnc+OiGUhf6ssWzD1LA@mail.gmail.com>
+
+Spot on.  The altmetrics hackathon is about getting together ANYONE AND
+EVERYONE interested in helping to build things that will inform future
+metrics.  It is early for standards, but it is high time for experimenting!
+
+
+There are scholars-turned-builders emerging from all over the place to help
+explore the future of scholarly communication.  Jason Priem and I are two,
+Todd Vision at Dryad is another, Martin Fenner now at PLOS is another, Mark
+Hahnel of figshare is another, Elizabeth Iorns of Science Exchange, William
+Gunn at Mendeley, I won't bore you with a laundry list but there are oodles
+more in academia and out....
+If we are publisher friends now, it is because we've found ourselves
+working side by side to build real things :)
+
+Please join us, everyone!  The hackathon is going to be great: San
+Francisco on Sat Nov 3rd.  Everyone is welcome, whether you code or
+not.  Register
+here <http://altmetricshackathon2012.eventbrite.com/>, view ideas and share
+your own here<https://docs.google.com/document/d/1hJixj2z6oSpFIosQQlGXFbrOBLR8te3VZgzdvcMedTA/edit#bookmark=id.atzvn4t9is2s>,
+can't wait to meet you!
+
+Heather
+
+--
+Heather Piwowar
+cofounder of ImpactStory <http://impactstory.it/>: tell the full story of
+your research impact.
+postdoc at Duke University and NESCent
+  working from UBC in Vancouver, Canada
+@researchremix <http://twitter.com/#!/researchremix>
+
+
+
+
+On Thu, Oct 11, 2012 at 11:56 AM, William Gunn <william.gunn at gmail.com>wrote:
+
+> Your point is well taken, Heather, but this is really about getting
+> together *anyone* who has an interest in thinking through new ways of
+> doing things. This is a long, long ways from anything approaching a
+> standard, and much more input from various communities will be
+> solicited, because the whole point, as I wrote earlier this month (
+>
+> http://www.guardian.co.uk/higher-education-network/blog/2012/sep/06/mendeley-altmetrics-open-access-publishing
+> ) is for us to get away from the "one metric to rule them all"
+> situation we have had.
+>
+> So this process will be led by those who put in the time and effort to
+> develop an implementation, which means that it will have input from
+> scholars both in and out of academia. I am one such scholar who cares
+> enough to devote time to work on this, Jason, Heather and Jennifer are
+> also scholars who are devoting their time to this, and that's why
+> we're spreading the word.  Any assistance you can provide in
+> recruiting interested stakeholders is more than welcome.
+>
+>
+> William Gunn
+> +1 646 755 9862
+> http://synthesis.williamgunn.org/about/
+>
+> Support free access to scientific journal articles arising from
+> taxpayer-funded research: http://wh.gov/6TH
+>
+>
+> On Thu, Oct 11, 2012 at 11:35 AM, Heather Morrison <hgmorris at sfu.ca>
+> wrote:
+> > This is interesting indeed, thanks for sharing William.
+> >
+> > Comment:
+> >
+> > Developing standards for assessing research and ranking for scholars is
+> a process that should be led by scholars, not by publishers and a few of
+> their friends. In other words, this is not a legitimate process for
+> developing standards for measuring academics, so both the process and
+> likely the results should be fought tooth and nail by scholars.
+> >
+> > The publisher tail should not be wagging the researcher dog. On this
+> point, it doesn't really matter whether the publisher tail is open access
+> or toll access.
+> >
+> > best,
+> >
+> > Heather Morrison
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121011/4eadd2cc/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Oct 12 10:39:02 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 12 Oct 2012 11:39:02 +0200
+Subject: [Open-access] Reminder: @ccess Skype meeting #31, TODAY,
+ Friday October 12 1.30 pm UTC+1 (english summer time)
+Message-ID: <CAGyWN8ax_tbGk_tNxiqRXno8VAQB4tTBDOUgyxZNWdVTuSaJew@mail.gmail.com>
+
+Dear all,
+
+The weekly @ccess Skype meeting is on at 1.30 pm UST+1
+
+meeting pad at http://open-access.okfnpad.org/32
+
+cheers   TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121012/6d07197b/attachment.htm>
+
+From laurent.romary at inria.fr  Mon Oct 15 10:07:47 2012
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Mon, 15 Oct 2012 11:07:47 +0200
+Subject: [Open-access] World budget for scholarly publishing (journals)
+Message-ID: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+
+Dear all,
+I remember PMR mentioning some figures concerning the annual budget academic institution dedicate to scholarly publishing (mainly journal subscriptions). Can someone remind me of a figure and possibly a source.
+
+Just to give some context, I am working on a project of a free publishing platform based on HAL (epi-journal) for the computer science domain (for the time being and because of the background of my institution, Inria). If some of you want to join by bringing in potential journals, all the better.
+
+Cheers,
+Laurent
+
+From mike at indexdata.com  Mon Oct 15 10:32:17 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Mon, 15 Oct 2012 10:32:17 +0100
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+Message-ID: <CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+
+On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr> wrote:
+> Dear all,
+> I remember PMR mentioning some figures concerning the annual budget academic institution dedicate to scholarly publishing (mainly journal subscriptions). Can someone remind me of a figure and possibly a source.
+
+See "The STM Report: an overview of scientific and scholarly journal
+publishing" at
+http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+
+page says that "The annual revenues generated from English-language
+STM journal publishing are estimated at about $8 billion in 2008, up
+by 6-7% compared to 2007, within a broader STM publishing market worth
+some $16 billion."
+
+For some disturbing maths based on this figure, see
+http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+
+-- Mike.
+
+
+From pm286 at cam.ac.uk  Mon Oct 15 10:47:09 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 15 Oct 2012 10:47:09 +0100
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+	<CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+Message-ID: <CAD2k14O2ADuCQKv1OK7aSJa=DE4bheynjOD8DRCKLy5V4kNWNA@mail.gmail.com>
+
+On Mon, Oct 15, 2012 at 10:32 AM, Mike Taylor <mike at indexdata.com> wrote:
+
+> On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr> wrote:
+> > Dear all,
+> > I remember PMR mentioning some figures concerning the annual budget
+> academic institution dedicate to scholarly publishing (mainly journal
+> subscriptions). Can someone remind me of a figure and possibly a source.
+>
+> See "The STM Report: an overview of scientific and scholarly journal
+> publishing" at
+> http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+>
+> page says that "The annual revenues generated from English-language
+> STM journal publishing are estimated at about $8 billion in 2008, up
+> by 6-7% compared to 2007, within a broader STM publishing market worth
+> some $16 billion."
+>
+> Thanks Mike.
+This is an area where precise figures are difficult to find. Publishers may
+give their overall revenues to the taxman but they aren't normally broken
+down. So it's hard to say how much of ACS revenue is journals, how much
+Chemical Abstracts.
+
+There are lots of grey areas. What is a journal? what is a monograph in a
+series? (Some monographs can sell for several thousand USD). And reprints -
+this is very profitable in medicine and I seem to remember that one paper
+has been reputed to bring in a million dollars in reprints.
+
+I generally say 15 Billion USD and haven't been challenged. FWIW the
+world's public funding for STM seems to be about 300 B USD (very crude
+figure). This means that publishing is about 5% of research costs. Wellcome
+area prepared to pay about1-2% of research grants for publication. This
+gives a useful indication of the overpricing by the current providers.
+
+P.
+
+
+
+> For some disturbing maths based on this figure, see
+>
+> http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+>
+> -- Mike.
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121015/bc1ca04e/attachment.htm>
+
+From laurent.romary at inria.fr  Mon Oct 15 10:55:31 2012
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Mon, 15 Oct 2012 11:55:31 +0200
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+	<CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+Message-ID: <5DBB9D8E-E4B9-4C31-91ED-3A24A5B724FD@inria.fr>
+
+Just to make sure (:-}) in your language, billion is 10power6, is that right?
+
+Le 15 oct. 2012 ? 11:32, Mike Taylor <mike at indexdata.com> a ?crit :
+
+> On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr> wrote:
+>> Dear all,
+>> I remember PMR mentioning some figures concerning the annual budget academic institution dedicate to scholarly publishing (mainly journal subscriptions). Can someone remind me of a figure and possibly a source.
+> 
+> See "The STM Report: an overview of scientific and scholarly journal
+> publishing" at
+> http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+> 
+> page says that "The annual revenues generated from English-language
+> STM journal publishing are estimated at about $8 billion in 2008, up
+> by 6-7% compared to 2007, within a broader STM publishing market worth
+> some $16 billion."
+> 
+> For some disturbing maths based on this figure, see
+> http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+> 
+> -- Mike.
+
+
+
+From pm286 at cam.ac.uk  Mon Oct 15 10:58:43 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 15 Oct 2012 10:58:43 +0100
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <5DBB9D8E-E4B9-4C31-91ED-3A24A5B724FD@inria.fr>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+	<CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+	<5DBB9D8E-E4B9-4C31-91ED-3A24A5B724FD@inria.fr>
+Message-ID: <CAD2k14MwGfRuceOFmd84Xo0rTuFZ_hd0AnwR46wgnWy25PYGGQ@mail.gmail.com>
+
+On Mon, Oct 15, 2012 at 10:55 AM, Laurent Romary <laurent.romary at inria.fr>wrote:
+
+> Just to make sure (:-}) in your language, billion is 10power6, is that
+> right?
+>
+
+No,
+That is 1 million.
+
+1 billion in modern English is 10power9
+
+[many years ago in England 1 billion was 10power12; that is now 1 trillion;
+we used to say "an Americal billion" for 10power9]
+
+
+
+> Le 15 oct. 2012 ? 11:32, Mike Taylor <mike at indexdata.com> a ?crit :
+>
+> > On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr>
+> wrote:
+> >> Dear all,
+> >> I remember PMR mentioning some figures concerning the annual budget
+> academic institution dedicate to scholarly publishing (mainly journal
+> subscriptions). Can someone remind me of a figure and possibly a source.
+> >
+> > See "The STM Report: an overview of scientific and scholarly journal
+> > publishing" at
+> > http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+> >
+> > page says that "The annual revenues generated from English-language
+> > STM journal publishing are estimated at about $8 billion in 2008, up
+> > by 6-7% compared to 2007, within a broader STM publishing market worth
+> > some $16 billion."
+> >
+> > For some disturbing maths based on this figure, see
+> >
+> http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+> >
+> > -- Mike.
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121015/4c155e00/attachment.htm>
+
+From laurent.romary at inria.fr  Mon Oct 15 11:04:34 2012
+From: laurent.romary at inria.fr (Laurent Romary)
+Date: Mon, 15 Oct 2012 12:04:34 +0200
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <CAD2k14MwGfRuceOFmd84Xo0rTuFZ_hd0AnwR46wgnWy25PYGGQ@mail.gmail.com>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+	<CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+	<5DBB9D8E-E4B9-4C31-91ED-3A24A5B724FD@inria.fr>
+	<CAD2k14MwGfRuceOFmd84Xo0rTuFZ_hd0AnwR46wgnWy25PYGGQ@mail.gmail.com>
+Message-ID: <474E21E3-04E6-4B4F-93D7-FC4D628BA02B@inria.fr>
+
+OK. "Un milliard" in my language?
+
+Le 15 oct. 2012 ? 11:58, Peter Murray-Rust <pm286 at cam.ac.uk> a ?crit :
+
+> 
+> 
+> On Mon, Oct 15, 2012 at 10:55 AM, Laurent Romary <laurent.romary at inria.fr> wrote:
+> Just to make sure (:-}) in your language, billion is 10power6, is that right? 
+> 
+> No,
+> That is 1 million.
+> 
+> 1 billion in modern English is 10power9 
+> 
+> [many years ago in England 1 billion was 10power12; that is now 1 trillion; we used to say "an Americal billion" for 10power9]
+> 
+> 
+> 
+> Le 15 oct. 2012 ? 11:32, Mike Taylor <mike at indexdata.com> a ?crit :
+> 
+> > On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr> wrote:
+> >> Dear all,
+> >> I remember PMR mentioning some figures concerning the annual budget academic institution dedicate to scholarly publishing (mainly journal subscriptions). Can someone remind me of a figure and possibly a source.
+> >
+> > See "The STM Report: an overview of scientific and scholarly journal
+> > publishing" at
+> > http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+> >
+> > page says that "The annual revenues generated from English-language
+> > STM journal publishing are estimated at about $8 billion in 2008, up
+> > by 6-7% compared to 2007, within a broader STM publishing market worth
+> > some $16 billion."
+> >
+> > For some disturbing maths based on this figure, see
+> > http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+> >
+> > -- Mike.
+> 
+> 
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> 
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121015/a31e3735/attachment-0001.htm>
+
+From pm286 at cam.ac.uk  Mon Oct 15 11:14:18 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Mon, 15 Oct 2012 11:14:18 +0100
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <474E21E3-04E6-4B4F-93D7-FC4D628BA02B@inria.fr>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+	<CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+	<5DBB9D8E-E4B9-4C31-91ED-3A24A5B724FD@inria.fr>
+	<CAD2k14MwGfRuceOFmd84Xo0rTuFZ_hd0AnwR46wgnWy25PYGGQ@mail.gmail.com>
+	<474E21E3-04E6-4B4F-93D7-FC4D628BA02B@inria.fr>
+Message-ID: <CAD2k14MfzETKF0ymy3b1ZrC_1F7SPpRxBZT=_KivMTP0ptndig@mail.gmail.com>
+
+On Mon, Oct 15, 2012 at 11:04 AM, Laurent Romary <laurent.romary at inria.fr>wrote:
+
+> OK. "Un milliard" in my language?
+>
+
+Yes - I used this when I was a child - Free Online Dictionary:
+mil?liard  (mlyrd, -y?rd, ml-?rd)
+*n.* *Chiefly British*
+The cardinal number equal to 109.
+------------------------------
+[French, from Old French milliart, from milion, *million*; see * million*.]
+
+ But the issue is still that we are paying much too much as there is no
+regulation and no market control
+
+>
+> Le 15 oct. 2012 ? 11:58, Peter Murray-Rust <pm286 at cam.ac.uk> a ?crit :
+>
+>
+>
+> On Mon, Oct 15, 2012 at 10:55 AM, Laurent Romary <laurent.romary at inria.fr>wrote:
+>
+>> Just to make sure (:-}) in your language, billion is 10power6, is that
+>> right?
+>>
+>
+> No,
+> That is 1 million.
+>
+> 1 billion in modern English is 10power9
+>
+> [many years ago in England 1 billion was 10power12; that is now 1
+> trillion; we used to say "an Americal billion" for 10power9]
+>
+>
+>
+>> Le 15 oct. 2012 ? 11:32, Mike Taylor <mike at indexdata.com> a ?crit :
+>>
+>> > On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr>
+>> wrote:
+>> >> Dear all,
+>> >> I remember PMR mentioning some figures concerning the annual budget
+>> academic institution dedicate to scholarly publishing (mainly journal
+>> subscriptions). Can someone remind me of a figure and possibly a source.
+>> >
+>> > See "The STM Report: an overview of scientific and scholarly journal
+>> > publishing" at
+>> > http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+>> >
+>> > page says that "The annual revenues generated from English-language
+>> > STM journal publishing are estimated at about $8 billion in 2008, up
+>> > by 6-7% compared to 2007, within a broader STM publishing market worth
+>> > some $16 billion."
+>> >
+>> > For some disturbing maths based on this figure, see
+>> >
+>> http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+>> >
+>> > -- Mike.
+>>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121015/eafe43df/attachment.htm>
+
+From mike at indexdata.com  Mon Oct 15 11:15:26 2012
+From: mike at indexdata.com (Mike Taylor)
+Date: Mon, 15 Oct 2012 11:15:26 +0100
+Subject: [Open-access] World budget for scholarly publishing (journals)
+In-Reply-To: <CAD2k14MfzETKF0ymy3b1ZrC_1F7SPpRxBZT=_KivMTP0ptndig@mail.gmail.com>
+References: <008039E3-50B9-4BA4-A45E-CC1E195CADFB@inria.fr>
+	<CACnMvBYoiE+LDmQN9_SH+NrUFvm2jih_xS=UX=p+WFNuHN30gw@mail.gmail.com>
+	<5DBB9D8E-E4B9-4C31-91ED-3A24A5B724FD@inria.fr>
+	<CAD2k14MwGfRuceOFmd84Xo0rTuFZ_hd0AnwR46wgnWy25PYGGQ@mail.gmail.com>
+	<474E21E3-04E6-4B4F-93D7-FC4D628BA02B@inria.fr>
+	<CAD2k14MfzETKF0ymy3b1ZrC_1F7SPpRxBZT=_KivMTP0ptndig@mail.gmail.com>
+Message-ID: <CACnMvBa+Y1OgGgtOzXmziV=h+Y3XwEUaWKKC-yg-pRDQg+zxZA@mail.gmail.com>
+
+On 15 October 2012 11:14, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Mon, Oct 15, 2012 at 11:04 AM, Laurent Romary <laurent.romary at inria.fr>wrote:
+>
+>> OK. "Un milliard" in my language?
+>>
+>
+> Yes - I used this when I was a child - Free Online Dictionary:
+> mil?liard  (mlyrd, -y?rd, ml-?rd)
+> *n.* *Chiefly British*
+> The cardinal number equal to 109.
+> ------------------------------
+> [French, from Old French milliart, from milion, *million*; see * million*
+> .]
+>
+>  But the issue is still that we are paying much too much as there is no
+> regulation and no market control
+>
+
+And no competition!
+
+-- Mike.
+
+
+
+
+>
+>> Le 15 oct. 2012 ? 11:58, Peter Murray-Rust <pm286 at cam.ac.uk> a ?crit :
+>>
+>>
+>>
+>> On Mon, Oct 15, 2012 at 10:55 AM, Laurent Romary <laurent.romary at inria.fr
+>> > wrote:
+>>
+>>> Just to make sure (:-}) in your language, billion is 10power6, is that
+>>> right?
+>>>
+>>
+>> No,
+>> That is 1 million.
+>>
+>> 1 billion in modern English is 10power9
+>>
+>> [many years ago in England 1 billion was 10power12; that is now 1
+>> trillion; we used to say "an Americal billion" for 10power9]
+>>
+>>
+>>
+>>> Le 15 oct. 2012 ? 11:32, Mike Taylor <mike at indexdata.com> a ?crit :
+>>>
+>>> > On 15 October 2012 10:07, Laurent Romary <laurent.romary at inria.fr>
+>>> wrote:
+>>> >> Dear all,
+>>> >> I remember PMR mentioning some figures concerning the annual budget
+>>> academic institution dedicate to scholarly publishing (mainly journal
+>>> subscriptions). Can someone remind me of a figure and possibly a source.
+>>> >
+>>> > See "The STM Report: an overview of scientific and scholarly journal
+>>> > publishing" at
+>>> > http://www.stm-assoc.org/2009_10_13_MWC_STM_Report.pdf
+>>> >
+>>> > page says that "The annual revenues generated from English-language
+>>> > STM journal publishing are estimated at about $8 billion in 2008, up
+>>> > by 6-7% compared to 2007, within a broader STM publishing market worth
+>>> > some $16 billion."
+>>> >
+>>> > For some disturbing maths based on this figure, see
+>>> >
+>>> http://svpow.com/2012/07/18/what-does-it-cost-to-publish-a-paywalled-paper-with-anyone/
+>>> >
+>>> > -- Mike.
+>>>
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121015/8cac060e/attachment.htm>
+
+From tom.olijhoek at gmail.com  Thu Oct 18 09:29:21 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Thu, 18 Oct 2012 10:29:21 +0200
+Subject: [Open-access] Skype Meeting tomorrow friday 19 oct 1.30 pm UST +1
+Message-ID: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+
+Hi All,
+
+the next @ccess Skype meeting will be tomorrow oct 19  at 1.30 pm UST +1.
+
+Meeting pad for this meeting can be found here:
+
+http://open-access.okfnpad.org/32
+
+greetings
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/54657b7d/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Oct 18 10:13:02 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 18 Oct 2012 10:13:02 +0100
+Subject: [Open-access] Skype Meeting tomorrow friday 19 oct 1.30 pm UST
+	+1
+In-Reply-To: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+References: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+Message-ID: <CAD2k14Mvtazz0zQfyrpHtBheOHBHfBq5FYNSjg=U7ZWchwkhFg@mail.gmail.com>
+
+On Thu, Oct 18, 2012 at 9:29 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> Hi All,
+>
+> the next @ccess Skype meeting will be tomorrow oct 19  at 1.30 pm UST +1.
+>
+
+I generally won't be able to make these meetings due to time zone.
+
+Good luck
+
+>
+> Meeting pad for this meeting can be found here:
+>
+> http://open-access.okfnpad.org/32
+>
+> greetings
+>
+> TOM
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/29ca4d7f/attachment.htm>
+
+From tom.olijhoek at gmail.com  Thu Oct 18 10:33:50 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Thu, 18 Oct 2012 11:33:50 +0200
+Subject: [Open-access] Skype Meeting tomorrow friday 19 oct 1.30 pm UST
+	+1
+In-Reply-To: <CAD2k14Mvtazz0zQfyrpHtBheOHBHfBq5FYNSjg=U7ZWchwkhFg@mail.gmail.com>
+References: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+	<CAD2k14Mvtazz0zQfyrpHtBheOHBHfBq5FYNSjg=U7ZWchwkhFg@mail.gmail.com>
+Message-ID: <CAGyWN8ZF40iWevhDigUQg+wbzj48qGT5pt-NRoCRRvDiyX_7kw@mail.gmail.com>
+
+Hi Peter,
+
+We could shift the meetings back to the Friday morning at 10.30 UTC+1.like
+it was before.
+I would like you to be able to take part in these meetings.
+We can discuss this in today's call
+
+best wishes
+
+TOM
+
+
+On Thu, Oct 18, 2012 at 11:13 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Thu, Oct 18, 2012 at 9:29 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+>
+>> Hi All,
+>>
+>> the next @ccess Skype meeting will be tomorrow oct 19  at 1.30 pm UST +1.
+>>
+>
+> I generally won't be able to make these meetings due to time zone.
+>
+> Good luck
+>
+>>
+>> Meeting pad for this meeting can be found here:
+>>
+>> http://open-access.okfnpad.org/32
+>>
+>> greetings
+>>
+>> TOM
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/15884313/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Oct 18 11:08:02 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 18 Oct 2012 11:08:02 +0100
+Subject: [Open-access] Skype Meeting tomorrow friday 19 oct 1.30 pm UST
+	+1
+In-Reply-To: <CAGyWN8ZF40iWevhDigUQg+wbzj48qGT5pt-NRoCRRvDiyX_7kw@mail.gmail.com>
+References: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+	<CAD2k14Mvtazz0zQfyrpHtBheOHBHfBq5FYNSjg=U7ZWchwkhFg@mail.gmail.com>
+	<CAGyWN8ZF40iWevhDigUQg+wbzj48qGT5pt-NRoCRRvDiyX_7kw@mail.gmail.com>
+Message-ID: <CAD2k14Mahw8+UDnZFuwiQwRT9niV25xbPpe6Chv338pjL2SrwQ@mail.gmail.com>
+
+On Thu, Oct 18, 2012 at 10:33 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+
+> Hi Peter,
+>
+> We could shift the meetings back to the Friday morning at 10.30 UTC+1.like
+> it was before.
+> I would like you to be able to take part in these meetings.
+> We can discuss this in today's call
+>
+
+OK. I can certainly make evenings
+
+
+>
+> best wishes
+>
+> TOM
+>
+>
+> On Thu, Oct 18, 2012 at 11:13 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>>
+>>
+>> On Thu, Oct 18, 2012 at 9:29 AM, Tom Olijhoek <tom.olijhoek at gmail.com>wrote:
+>>
+>>> Hi All,
+>>>
+>>> the next @ccess Skype meeting will be tomorrow oct 19  at 1.30 pm UST +1.
+>>>
+>>
+>> I generally won't be able to make these meetings due to time zone.
+>>
+>> Good luck
+>>
+>>>
+>>> Meeting pad for this meeting can be found here:
+>>>
+>>> http://open-access.okfnpad.org/32
+>>>
+>>> greetings
+>>>
+>>> TOM
+>>>
+>>> _______________________________________________
+>>> open-access mailing list
+>>> open-access at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-access
+>>>
+>>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/a9fdb547/attachment.htm>
+
+From cn at cameronneylon.net  Thu Oct 18 15:48:13 2012
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Thu, 18 Oct 2012 10:48:13 -0400
+Subject: [Open-access] Skype Meeting tomorrow friday 19 oct 1.30 pm UST
+	+1
+In-Reply-To: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+References: <CAGyWN8bN6gDJ995LaF+chCS+3VXJqRKXuoLRqhUj6k1RHEY+4A@mail.gmail.com>
+Message-ID: <7E351C37-F028-4BFF-93CD-3B52982808E8@cameronneylon.net>
+
+Tomorrow is a problem for me due to a travel SNAFU.
+
+Sorry
+
+Cameron
+
+On 18 Oct 2012, at 04:29, Tom Olijhoek wrote:
+
+> Hi All,
+> 
+> the next @ccess Skype meeting will be tomorrow oct 19  at 1.30 pm UST +1.
+> 
+> Meeting pad for this meeting can be found here:
+> 
+> http://open-access.okfnpad.org/32
+> 
+> greetings
+> 
+> TOM
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/3c063854/attachment.htm>
+
+From cn at cameronneylon.net  Thu Oct 18 20:33:56 2012
+From: cn at cameronneylon.net (cameronneylon.net)
+Date: Thu, 18 Oct 2012 15:33:56 -0400
+Subject: [Open-access] OAI8: The CERN workshop on innovations in scholarly
+	publishing
+Message-ID: <2CF3EA26-40EB-4473-B9B9-98CB21050E5F@cameronneylon.net>
+
+Hi All
+
+An early notice of the Geneva OAI meeting for 2013. Mark your diaries for 19-21 June.
+
+https://indico.cern.ch/internalPage.py?pageId=6&confId=211600
+
+Cheers
+
+Cameron
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/e38b9e4b/attachment.htm>
+
+From eric.f.vandevelde at gmail.com  Thu Oct 18 21:55:52 2012
+From: eric.f.vandevelde at gmail.com (Eric F. Van de Velde)
+Date: Thu, 18 Oct 2012 13:55:52 -0700
+Subject: [Open-access] A Physics Experiment
+Message-ID: <CALQVpOEEzUb-MrjW_+0-fBoK=Sp==aRZ-wntGiGQoC819CGJEQ@mail.gmail.com>
+
+My latest blog post is about arXiv, SCOAP3, and non-disruption of the
+market. I hope you enjoy it.
+
+http://scitechsociety.blogspot.com/2012/10/a-physics-experiment_16.html
+
+--Eric.
+
+http://scitechsociety.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121018/ac604360/attachment.htm>
+
+From theodora.middleton at okfn.org  Fri Oct 19 16:07:12 2012
+From: theodora.middleton at okfn.org (Theodora Middleton)
+Date: Fri, 19 Oct 2012 16:07:12 +0100
+Subject: [Open-access] The Future of Open Access?
+Message-ID: <CALySTARVD+QEzUU2GewLiJxium+QXVv6Hi+7mjfmuB5B=gko9A@mail.gmail.com>
+
+Hey there,
+
+With next week being Open Access week, we'd like to run a piece on
+blog.okfn.org about the future of open access. It would be a collection of
+quotes and comments from different people. Would anyone on here be up for
+contributing something? Just a couple of sentences or a short paragraph
+would be ace. Email me on or off-list, and let me know if you think there's
+anyone in particular I should contact for comments!
+
+All the best,
+
+Theodora Middleton
+
+-- 
+Blog Editor
+The Open Knowledge Foundation
+http://blog.okfn.org/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121019/31230ee5/attachment.htm>
+
+From ross.mounce at gmail.com  Fri Oct 19 16:10:08 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Fri, 19 Oct 2012 16:10:08 +0100
+Subject: [Open-access] The Future of Open Access?
+In-Reply-To: <CALySTARVD+QEzUU2GewLiJxium+QXVv6Hi+7mjfmuB5B=gko9A@mail.gmail.com>
+References: <CALySTARVD+QEzUU2GewLiJxium+QXVv6Hi+7mjfmuB5B=gko9A@mail.gmail.com>
+Message-ID: <CAJr+OEzu5foGAR1HtXgy0GgXs=OOg_=GrHJrMR9x5B3m5Cb1AQ@mail.gmail.com>
+
+I could do you a paragraph for that.
+
+When do you need contributions to be submitted by (deadline)?
+
+Best
+
+Ross
+On Oct 19, 2012 4:07 PM, "Theodora Middleton" <theodora.middleton at okfn.org>
+wrote:
+
+> Hey there,
+>
+> With next week being Open Access week, we'd like to run a piece on
+> blog.okfn.org about the future of open access. It would be a collection
+> of quotes and comments from different people. Would anyone on here be up
+> for contributing something? Just a couple of sentences or a short paragraph
+> would be ace. Email me on or off-list, and let me know if you think there's
+> anyone in particular I should contact for comments!
+>
+> All the best,
+>
+> Theodora Middleton
+>
+> --
+> Blog Editor
+> The Open Knowledge Foundation
+> http://blog.okfn.org/
+>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121019/69744424/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Oct 19 20:43:04 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 19 Oct 2012 21:43:04 +0200
+Subject: [Open-access] The Future of Open Access?
+In-Reply-To: <CAJr+OEzu5foGAR1HtXgy0GgXs=OOg_=GrHJrMR9x5B3m5Cb1AQ@mail.gmail.com>
+References: <CALySTARVD+QEzUU2GewLiJxium+QXVv6Hi+7mjfmuB5B=gko9A@mail.gmail.com>
+	<CAJr+OEzu5foGAR1HtXgy0GgXs=OOg_=GrHJrMR9x5B3m5Cb1AQ@mail.gmail.com>
+Message-ID: <CAGyWN8YsRiwPE1DNRnvNFPY1s3b_-Yzfp6x95WKXDck8eZd7yw@mail.gmail.com>
+
+Hi Theodora,
+
+I can also do a paragraph on scientific communities and open access
+
+cheers
+
+TOM
+
+On Fri, Oct 19, 2012 at 5:10 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> I could do you a paragraph for that.
+>
+> When do you need contributions to be submitted by (deadline)?
+>
+> Best
+>
+> Ross
+> On Oct 19, 2012 4:07 PM, "Theodora Middleton" <theodora.middleton at okfn.org>
+> wrote:
+>
+>> Hey there,
+>>
+>> With next week being Open Access week, we'd like to run a piece on
+>> blog.okfn.org about the future of open access. It would be a collection
+>> of quotes and comments from different people. Would anyone on here be up
+>> for contributing something? Just a couple of sentences or a short paragraph
+>> would be ace. Email me on or off-list, and let me know if you think there's
+>> anyone in particular I should contact for comments!
+>>
+>> All the best,
+>>
+>> Theodora Middleton
+>>
+>> --
+>> Blog Editor
+>> The Open Knowledge Foundation
+>> http://blog.okfn.org/
+>>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>>
+>>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121019/391af98c/attachment.htm>
+
+From sanglorian at gmail.com  Mon Oct 22 05:14:31 2012
+From: sanglorian at gmail.com (Chris Sakkas)
+Date: Mon, 22 Oct 2012 15:14:31 +1100
+Subject: [Open-access] FOSsil Bank Update (22 October 2012)
+Message-ID: <CAMuj-e+-VGryJFFY=Z3RA5BXQUS5n=qt_nBp3V2J4AL6CVhxig@mail.gmail.com>
+
+Hi folks,
+
+Please enjoy another FOSsil Bank update. This one is a bit unusual because
+I've dug up a lot of #FundFreeCulture stuff and relatively few new wiki
+entries.
+Helping out the Bank
+
+If you wanted to help out the FOSsil Bank, you could add the remaining
+books from Open Book Publishers <http://www.openbookpublishers.com/> to the
+FOSsil Bank. I?ve only done the libre books (*Is Behavioral Economics Dead?*,
+*Frontier Encounters*, *Oral Literature in Africa* and *The Digital Public
+Domain*) but it would be useful to have the others as well.
+
+
+If you?d like to help out with that, there?s a
+tutorial<http://fossilbank.wikidot.com/tutorial>and you can see the
+current list of Open
+Book Publishers
+<http://fossilbank.wikidot.com/source:open-book-publishers>entries on
+the wiki.
+#FundFreeCulture: New and Ongoing
+
+   - Take On Magic
+Items<http://www.bradsucks.net/albums/guess-whos-a-mess/>($2.50; CC
+BY)
+   - Brad Sucks, ?Guess Who?s a
+Mess?<http://www.bradsucks.net/albums/guess-whos-a-mess/>(name your
+price; CC BY-SA)
+   - Japanese RPG Monster RPG
+2<http://www.indiegogo.com/monster-rpg-2-open-jrpg-game-engine>is
+being ransomed on IndieGoGo, although as far as I can tell only the
+   engine will be libre licensed and not the assets ($705/$1,500; 16 days
+   left; Give It Your Own License, License)
+   - Bejewelled-style TumbleGonk <http://www.indiegogo.com/tumblegonk> is
+   being ransomed on IndieGoGo, and the assets will also be licensed.
+   ($20/$850; 8 days left; CC BY, GNU GPL)
+   - The colour and black-and-white art of the African-themed Spears of the
+   Dawn RPG<http://www.kickstarter.com/projects/1637945166/spears-of-the-dawn-rpg>will
+be released into the public domain for others to use. ($6,687/$3,000;
+   17 days left; public domain)
+   - MediaGoblin <http://mediagoblin.org/pages/campaign.html> is a media
+   publishing system for video, images and audio. ($18,382/$60,000; 19 days
+   left; GNU AGPL)
+   - One Shot<http://www.kickstarter.com/projects/sandandsteam/one-shot-a-roleplaying-game-of-murder-and-vengeanc>is
+a new tabletop RPG on Kickstarter from open gaming stalwart Tracy
+   Barnett. ($1,378/$3,000; 14 days left; CC BY-SA)
+
+#FundFreeCulture: Update
+
+   - Knocking Duh Conch Style II
+<http://www.indiegogo.com/kdcsfilming>received the $50 that it was
+funded.
+   - Terms of Service ? Didn?t
+Read<http://www.indiegogo.com/terms-of-service-didnt-read>received the
+?20,736
+   it was funded, double its threshold.
+
+Fund Proprietary Shareable Works
+
+There are two days left for the Humble eBook
+Bundle<https://www.humblebundle.com/>,
+and though there are sadly no libre works on offer there is xkcd: volume 0
+(CC BY-NC), Pirate Cinema (CC BY-NC-ND), Magic for Beginners (CC BY-NC-SA),
+Stranger Things Happen (CC BY-NC-SA), Save Yourself, Mammal! (CC BY-NC) and
+The Most Dangerous Game (CC BY-NC). You can adjust where your contribution
+goes, so I sent mine only to authors of CC works.
+Libre Works
+
+   - Open Book Publishers has a collection of books under shareable works
+   licences. I?ve only added the libre ones to the wiki so far (they also
+   publish Oral Literature in Africa and The Digital Public Domain, which were
+   already on the wiki):
+      - Is Behavioral Economics
+Dead?<http://fossilbank.wikidot.com/work:is-behavioral-economics-dead>,
+      about different notions of humans in the economy. By David Levine, a
+      contributor to the blog Against Monopoly. (CC BY-SA)
+      - Frontier
+Encounters<http://fossilbank.wikidot.com/work:frontier-encounters>,
+      about the borders between Mongolia, China and Russia. (CC BY)
+
+
+   - featurin.gs <http://fossilbank.wikidot.com/source:featurin-gs> is a
+   site for creating remixes and mashups. (CC BY or CC BY-NC)
+   - Jack Logan?s
+Gallery<http://fossilbank.wikidot.com/source:jack-logan-s-gallery>is a
+collection of fantasy-themed public domain art.
+   - Take On Magic
+Items<http://fossilbank.wikidot.com/work:open-minded-ceos>is a book of
+Dungeon World magic items. (CC BY-SA)
+   - Hampshire College has compiled a list of freesoftware
+recommendations<http://fossilbank.wikidot.com/source:hampshire-college-free-software-recommendations>for
+tertiary students.
+   - OpenSource.com has two new CC BY-SA ebooks:
+      - An Open World <http://fossilbank.wikidot.com/work:an-open-world>,
+      with stories from the open source community.
+      - Open Minded CEOs<http://fossilbank.wikidot.com/work:open-minded-ceos>,
+      stories about CEOs who work with open source.
+
+Proprietary Shareable Works
+
+   - Decktet <http://fossilbank.wikidot.com/work:decktet>is an alternative
+   deck of cards with some interesting features. (CC BY-NC-SA)
+
+
+Thanks for reading,
+
+*Chris Sakkas
+**Admin of the FOSsil Bank wiki <http://fossilbank.wikidot.com/> and the Living
+Libre blog <http://www.livinglibre.com> and Twitter
+feed<https://twitter.com/#%21/living_libre>
+.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121022/482a7025/attachment.htm>
+
+From theodora.middleton at okfn.org  Wed Oct 24 14:48:08 2012
+From: theodora.middleton at okfn.org (Theodora Middleton)
+Date: Wed, 24 Oct 2012 14:48:08 +0100
+Subject: [Open-access] The future of OA
+Message-ID: <CALySTAS2enBDmpqi47h4GMsQg1co-Dga-S46OQbeBiT-MN0URw@mail.gmail.com>
+
+Here's that post with some of your comments on the future of OA.
+
+http://blog.okfn.org/2012/10/24/the-future-of-open-access/
+
+Feel free to add comments below the line :-)
+
+Thanks for your contributions!
+
+Theodora
+
+-- 
+Blog Editor
+The Open Knowledge Foundation
+http://blog.okfn.org/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121024/377f99db/attachment.htm>
+
+From Tom_Roche at pobox.com  Wed Oct 24 16:43:10 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Wed, 24 Oct 2012 11:43:10 -0400
+Subject: [Open-access] "Scholarly Publishing and Open Access at [UNC-Chapel
+ Hill]: The Good, the Bad, and the Ugly"
+References: <LYRIS-12776263-32338028-2012.10.24-10.30.09--tom_roche#pobox.com@listserv.unc.edu>
+Message-ID: <878vav7u5t.fsf@pobox.com>
+
+
+good to see this is finally reaching a campus that, despite its
+liberal reputation, is in fact a bastion of proprietary content,
+infrastructure, and software (though it would have been nice to get
+the announcement out more than 4 hours before the event!):
+
+> Scholarly Publishing and Open Access at Carolina:
+> The Good, the Bad, and the Ugly
+
+> * Why all the excitement earlier this year over the Research Works
+>   Act and the Cost of Knowledge petition?
+
+> * What are the practical obstacles to access of the scholarly
+>   literature, and how does it affect the work of UNC researchers?
+
+> * How can libraries, scientific societies and publishers balance
+>   their mission to disseminate knowledge with the challenges of
+>   sustainability?
+
+> * How does all this affect where UNC's researcher-authors choose to
+>   publish their work, or serve as reviewers and editors.
+
+> Join a panel of UNC faculty to discuss these issues and more, as
+> part of UNC's recognition of Open Access Week.
+
+> Wednesday, October 24, 2012
+> 3:00-4:30 p.m.
+> Genome Science Building, Room 200
+
+> Panelists
+
+> * Gregory Copenhaver, Associate Professor of Biology and
+>   co-Editor-in-chief, PLOS Genetics
+
+> * Deborah Gerhardt, Assistant Professor of Law and expert on
+>   intellectual property
+
+> * Jeffrey Pomerantz, Associate Professor at SILS and digital library
+>   expert
+
+> * Jonathan Lees, Professor of Geological Sciences and
+>   Editor-in-Chief, Seismological Research Letters
+
+> * Todd Vision, Associate Professor of Biology and
+>   founder, Dryad Digital Repository
+
+> The session will be moderated by Anne Gilliland, UNC Scholarly
+> Communications Officer
+
+> Location and parking: http://bit.ly/T77jyH
+
+
+From jenny.molloy at okfn.org  Fri Oct 26 10:53:42 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Fri, 26 Oct 2012 10:53:42 +0100
+Subject: [Open-access] PhD Comics Animation
+Message-ID: <CABPM+wrbRqy6n5GyB4D7HJoDhr=kaP0TaaFJuD7PgXRgvwqxbw@mail.gmail.com>
+
+For those involved in explaining/promoting open access (particularly to
+grad students/early career researchers), PhD comics have produced an 8min
+animation:
+
+http://www.phdcomics.com/comics.php?f=1533
+
+It's the first time I've seen anything open access related posted in our
+department grad Facebook group by someone other than me! Jorge Chan has a
+massive following among grads particularly in the sciences so hopefully it
+will get plenty of views.
+
+It's CC-BY (of course) so share away.
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121026/1b894bb4/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Oct 26 20:38:13 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 26 Oct 2012 20:38:13 +0100
+Subject: [Open-access] Fwd: R2RC Partners with PhD Comics for Open Access
+	Week Video!
+In-Reply-To: <CANvntP9B1KNmPNLdsA8UnnJaXcC2GyvE2uHq8pfT0nVZE8mXqQ@mail.gmail.com>
+References: <CANvntP9B1KNmPNLdsA8UnnJaXcC2GyvE2uHq8pfT0nVZE8mXqQ@mail.gmail.com>
+Message-ID: <CANQ_vu2AiyOOTMc0Av2XYFc2L5FoWzoXKtHXSY6y1iPtJNfGHw@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Andrea Higginbotham <andrea at arl.org>
+Date: Fri, Oct 26, 2012 at 8:32 PM
+Subject: [sparc open data] R2RC Partners with PhD Comics for Open Access
+Week Video!
+To: SPARC Open Data <sparc-opendata at arl.org>
+
+
+Hello All,
+
+It's already been such a lively, interactive, and productive Open Access
+Week 2012. And now the Right to Research Coalition just launched an amazing
+video in collaboration with PhD Comics to really wrap up the week nicely.
+The video entitled ?Open Access Explained!? is the perfect resource to give
+colleagues a quick glimpse into the many reasons why Open Access to
+research is important for students, researchers, and so many other
+stakeholders.
+
+Please take a look, pass around, use in your remaining OA Week events, and
+post: http://www.youtube.com/watch?v=L5rVH1KGBCY&feature=player_embedded
+
+Happy OA Week to you and yours. We hope to have an informational wrap up of
+the many events that took place (and continue to take place) this week!
+Speaking of which don't forget to keep the posts of your events up to date
+on our Open Access Week Website.
+
+Best,
+
+Andrea
+
+-- 
+Andrea Brusca Higginbotham
+Communications Manager, SPARC
+21 Dupont Circle, Suite 800
+Washington, DC 20036
+(202) 296-2296 ext 121
+andrea at arl.org <heather at arl.org>
+www.arl.org/sparc
+
+*Open Access Week 2012*
+October 22-28
+http://www.openaccessweek.org/
+
+NEW! SPARC Daily: http://paper.li/SPARC_NA/1334596809
+
+ --
+You received this message because you are subscribed to the Google
+Groups "SPARC Open Data" group.
+To post to this group, send email to sparc-opendata at arl.org
+To unsubscribe from this group, send email to
+sparc-opendata+unsubscribe at arl.org
+For more options, visit this group at
+http://groups.google.com/a/arl.org/group/sparc-opendata
+
+You may need to log in to view the archive. If this is required, you will
+need a Google account associated with the email address under which you are
+subscribed to this group. For more information on creating a Google account
+see http://www.google.com/support/accounts/bin/answer.py?answer=27441. For
+information on associating an existing Google account with your subscribed
+email address see
+http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=86635.
+For information on logging into an ARL sponsored group see
+https://sites.google.com/a/arl.org/techguides_arl/login.
+<https://sites.google.com/a/arl.org/techguides_arl/login.>
+
+
+
+-- 
+Jonathan Gray
+
+Head of Community
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121026/01d56a52/attachment.htm>
+
+From ricky at richardpoynder.co.uk  Tue Oct 30 10:56:06 2012
+From: ricky at richardpoynder.co.uk (Richard Poynder)
+Date: Tue, 30 Oct 2012 10:56:06 -0000
+Subject: [Open-access] The OA Interviews: Ian Gibson,
+	former Chairman of the UK House of Commons Science & Technology
+	Committee
+Message-ID: <003101cdb68d$2a5993d0$7f0cbb70$@richardpoynder.co.uk>
+
+Like all successful movements, Open Access (OA) has experienced a number of
+milestone events. Amongst the more significant of these were the creation of
+the physics preprint repository arXiv in 1991, the 1994 Subversive Proposal,
+the 2002 Budapest Open Access Initiative (BOAI), and the introduction in
+2005 of the first  Open Access Policy of the US National Institutes of
+Health (NIH).
+
+ 
+
+However, one of the more interesting but less celebrated events in the
+history of OA is surely the 2004 Inquiry into scientific publication
+conducted by the UK House of Commons Science & Technology Committee. The
+inquiry seems particularly noteworthy in the wake of this year's
+controversial Finch Report, and the new OA policy that Research Councils UK
+(RCUK) announced in response ...
+
+ 
+
+... Given the very different conclusions that the Finch Committee had
+reached earlier this year, I became keen to find out more about the origins
+and the process of the 2004 Inquiry. So I contacted Dr Ian Gibson, the then
+Chairman of the Science & Technology Select Committee, and Labour MP for
+Norwich North. To my delight, he agreed to do an interview with me ...
+
+ 
+
+More here: 
+
+ 
+
+http://poynder.blogspot.co.uk/2012/10/the-oa-interviews-ian-gibson-former.ht
+ml
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/733bada8/attachment.htm>
+
+From mark at cottagelabs.com  Tue Oct 30 11:28:46 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Tue, 30 Oct 2012 11:28:46 +0000
+Subject: [Open-access] open access successes
+Message-ID: <CAFxzj8QaMAUYSMvOPBVVxFiNv5RPbo5dvObd14SC9NFJ7h8Keg@mail.gmail.com>
+
+Given the previous email to the list mentioning some historic successes for
+open access, it reminded me that I should have shared a post on this list:
+
+http://cottagelabs.com/news/open-access-week-celebration
+
+
+We listed up some successes over the last year or so, the events and dates
+may be useful to people here, if you are wanting to demonstrate recent OA /
+open scholarship successes.
+
+
+Mark
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/a8f468d9/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Oct 30 19:34:54 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 30 Oct 2012 19:34:54 +0000
+Subject: [Open-access] The OA Interviews: Ian Gibson,
+ former Chairman of the UK House of Commons Science & Technology
+ Committee
+In-Reply-To: <003101cdb68d$2a5993d0$7f0cbb70$@richardpoynder.co.uk>
+References: <003101cdb68d$2a5993d0$7f0cbb70$@richardpoynder.co.uk>
+Message-ID: <CAD2k14PKQjLGynaxOJ-uV86V59r5oDRcsRow5bJT3aiQFBmZHQ@mail.gmail.com>
+
+On Tue, Oct 30, 2012 at 10:56 AM, Richard Poynder <
+ricky at richardpoynder.co.uk> wrote:
+
+> Like all successful movements, Open Access (OA) has experienced a number
+> of milestone events. Amongst the more significant of these were the
+> creation of the physics preprint repository arXiv in 1991, the 1994
+> Subversive Proposal, the 2002 Budapest Open Access Initiative (BOAI), and
+> the introduction in 2005 of the first  Open Access Policy of the US
+> National Institutes of Health (NIH).****
+>
+> ** **
+>
+> However, one of the more interesting but less celebrated events in the
+> history of OA is surely the 2004 Inquiry into scientific publication
+> conducted by the UK House of Commons Science & Technology Committee. The
+> inquiry seems particularly noteworthy in the wake of this year?s
+> controversial Finch Report, and the new OA policy that Research Councils UK
+> (RCUK) announced in response ...****
+>
+> ** **
+>
+> ... Given the very different conclusions that the Finch Committee had
+> reached earlier this year, I became keen to find out more about the origins
+> and the process of the 2004 Inquiry. So I contacted Dr Ian Gibson, the then
+> Chairman of the Science & Technology Select Committee, and Labour MP for
+> Norwich North. To my delight, he agreed to do an interview with me ...****
+>
+> ** **
+>
+> More here: ****
+>
+> ** **
+>
+>
+> http://poynder.blogspot.co.uk/2012/10/the-oa-interviews-ian-gibson-former.html
+> ****
+>
+> ** **
+>
+> **
+>
+
+I can recommend in-depth reading of Ian's chairing of the Select Committee.
+He pulled no punches and it is one of the most forceful public dialogues in
+Open Access
+
+
+> **
+>
+> ** **
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/pm286%40cam.ac.uk
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/740347b9/attachment.htm>
+
+From Tom_Roche at pobox.com  Tue Oct 30 20:56:54 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Tue, 30 Oct 2012 16:56:54 -0400
+Subject: [Open-access] [OT] bibliography sharing?
+Message-ID: <87wqy7fzl5.fsf@pobox.com>
+
+
+Dunno if this is OT for this group, but ... has anyone done a brief
+howto or guide to bibliography/citation sharing? Mendeley is probably
+the obvious option, but there are other (and IIUC freer) mechanisms,
+e.g., Zotero groups
+
+http://www.zotero.org/groups/browse
+
+but I'm guessing (knowing little in this space) there are more.
+
+apologies if there's a better channel for this question,
+otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+
+
+From ross.mounce at gmail.com  Tue Oct 30 21:25:19 2012
+From: ross.mounce at gmail.com (Ross Mounce)
+Date: Tue, 30 Oct 2012 21:25:19 +0000
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <87wqy7fzl5.fsf@pobox.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+Message-ID: <CAJr+OExbSes1Qhmajt_FMxSxVf9rzyLgMDynkYBTcBD0ttZwRQ@mail.gmail.com>
+
+How about Citeulike?
+
+That's very quite open I think.
+
+Very good for discovering what other people have bookmarked/saved.
+
+For example my modest collection of papers on Open Access (just a subset of
+what's out there in the literature no doubt!):
+http://www.citeulike.org/user/rossmounce/tag/open_access
+
+likewise Open Data: http://www.citeulike.org/user/rossmounce/tag/open_data
+
+and Open Science: http://www.citeulike.org/user/rossmounce/tag/openscience
+
+Citeulike's not that popular admittedly, but personally, I like it.
+
+Ross :)
+
+On 30 October 2012 20:56, Tom Roche <Tom_Roche at pobox.com> wrote:
+
+>
+> Dunno if this is OT for this group, but ... has anyone done a brief
+> howto or guide to bibliography/citation sharing? Mendeley is probably
+> the obvious option, but there are other (and IIUC freer) mechanisms,
+> e.g., Zotero groups
+>
+> http://www.zotero.org/groups/browse
+>
+> but I'm guessing (knowing little in this space) there are more.
+>
+> apologies if there's a better channel for this question,
+> otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/ross.mounce%40gmail.com
+>
+
+
+
+-- 
+-- 
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Ross Mounce
+PhD Student & Open Knowledge Foundation Panton Fellow
+Fossils, Phylogeny and Macroevolution Research Group
+University of Bath, 4 South Building, Lab 1.07
+http://about.me/rossmounce
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/114ec58c/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Oct 30 21:28:32 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 30 Oct 2012 21:28:32 +0000
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <87wqy7fzl5.fsf@pobox.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+Message-ID: <CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+
+On Tue, Oct 30, 2012 at 8:56 PM, Tom Roche <Tom_Roche at pobox.com> wrote:
+
+>
+> Dunno if this is OT for this group, but ... has anyone done a brief
+> howto or guide to bibliography/citation sharing? Mendeley is probably
+> the obvious option, but there are other (and IIUC freer) mechanisms,
+> e.g., Zotero groups
+>
+> http://www.zotero.org/groups/browse
+>
+> but I'm guessing (knowing little in this space) there are more.
+>
+
+It's perfectly reasonable. I share concerms about closed operations such as
+Mendeley.
+I have copied in the Open-bibliography list.
+
+P.
+
+
+> apologies if there's a better channel for this question,
+> otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/pm286%40cam.ac.uk
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/6c757ecc/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Oct 30 21:37:59 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 30 Oct 2012 21:37:59 +0000
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <87wqy7fzl5.fsf@pobox.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+Message-ID: <CAD2k14MgKg0eVGMEXL1jXkoOhqDngduTnv01Eb5SOJH-Gy==ug@mail.gmail.com>
+
+[Copying (correct) mail address for open-bibliography]
+
+On Tue, Oct 30, 2012 at 8:56 PM, Tom Roche <Tom_Roche at pobox.com> wrote:
+
+>
+> Dunno if this is OT for this group, but ... has anyone done a brief
+> howto or guide to bibliography/citation sharing? Mendeley is probably
+> the obvious option, but there are other (and IIUC freer) mechanisms,
+> e.g., Zotero groups
+>
+> http://www.zotero.org/groups/browse
+>
+> but I'm guessing (knowing little in this space) there are more.
+>
+> apologies if there's a better channel for this question,
+> otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/pm286%40cam.ac.uk
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/8984eac2/attachment.htm>
+
+From mark at cottagelabs.com  Tue Oct 30 22:14:44 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Tue, 30 Oct 2012 22:14:44 +0000
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+	<CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+Message-ID: <CAFxzj8SRbHUja9D1BZfjQj+KYEaeMVw068Os7wLz7OtLAOj5BQ@mail.gmail.com>
+
+We started a wiki page about reference management tools, then found
+wikipedia had one already:
+
+http://en.wikipedia.org/wiki/Comparison_of_reference_management_software
+
+Mark
+
+
+
+On Tue, Oct 30, 2012 at 9:28 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+> On Tue, Oct 30, 2012 at 8:56 PM, Tom Roche <Tom_Roche at pobox.com> wrote:
+>
+>>
+>> Dunno if this is OT for this group, but ... has anyone done a brief
+>> howto or guide to bibliography/citation sharing? Mendeley is probably
+>> the obvious option, but there are other (and IIUC freer) mechanisms,
+>> e.g., Zotero groups
+>>
+>> http://www.zotero.org/groups/browse
+>>
+>> but I'm guessing (knowing little in this space) there are more.
+>>
+>
+> It's perfectly reasonable. I share concerms about closed operations such
+> as Mendeley.
+> I have copied in the Open-bibliography list.
+>
+> P.
+>
+>
+>> apologies if there's a better channel for this question,
+>> otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe:
+>> http://lists.okfn.org/mailman/options/open-access/pm286%40cam.ac.uk
+>>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/mark%40cottagelabs.com
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121030/7879a436/attachment-0001.htm>
+
+From marin.dacos at openedition.org  Wed Oct 31 06:08:51 2012
+From: marin.dacos at openedition.org (Marin Dacos)
+Date: Wed, 31 Oct 2012 07:08:51 +0100
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <CAJr+OExbSes1Qhmajt_FMxSxVf9rzyLgMDynkYBTcBD0ttZwRQ@mail.gmail.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+	<CAJr+OExbSes1Qhmajt_FMxSxVf9rzyLgMDynkYBTcBD0ttZwRQ@mail.gmail.com>
+Message-ID: <CA+WwTNzeS7RNnVe+y3zGvQa4V1g6CDBu64+XEDaW6Y5anY1qOw@mail.gmail.com>
+
+Zotero is far more open than Mendeley. Mendeley would not be my option.
+Here is my public library : https://www.zotero.org/marind/items/
+Best regards,
+Marin
+
+On Tue, Oct 30, 2012 at 10:25 PM, Ross Mounce <ross.mounce at gmail.com> wrote:
+
+> How about Citeulike?
+>
+> That's very quite open I think.
+>
+> Very good for discovering what other people have bookmarked/saved.
+>
+> For example my modest collection of papers on Open Access (just a subset
+> of what's out there in the literature no doubt!):
+> http://www.citeulike.org/user/rossmounce/tag/open_access
+>
+> likewise Open Data: http://www.citeulike.org/user/rossmounce/tag/open_data
+>
+> and Open Science: http://www.citeulike.org/user/rossmounce/tag/openscience
+>
+> Citeulike's not that popular admittedly, but personally, I like it.
+>
+> Ross :)
+>
+> On 30 October 2012 20:56, Tom Roche <Tom_Roche at pobox.com> wrote:
+>
+>>
+>> Dunno if this is OT for this group, but ... has anyone done a brief
+>> howto or guide to bibliography/citation sharing? Mendeley is probably
+>> the obvious option, but there are other (and IIUC freer) mechanisms,
+>> e.g., Zotero groups
+>>
+>> http://www.zotero.org/groups/browse
+>>
+>> but I'm guessing (knowing little in this space) there are more.
+>>
+>> apologies if there's a better channel for this question,
+>> otherwise TIA, Tom Roche <Tom_Roche at pobox.com>
+>>
+>> _______________________________________________
+>> open-access mailing list
+>> open-access at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-access
+>> Unsubscribe:
+>> http://lists.okfn.org/mailman/options/open-access/ross.mounce%40gmail.com
+>>
+>
+>
+>
+> --
+> --
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+> Ross Mounce
+> PhD Student & Open Knowledge Foundation Panton Fellow
+> Fossils, Phylogeny and Macroevolution Research Group
+> University of Bath, 4 South Building, Lab 1.07
+> http://about.me/rossmounce
+> -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/marin.dacos%40openedition.org
+>
+>
+
+
+-- 
+Marin Dacos - http://www.openedition.org
+Director - Centre for Open Electronic Publishing
+
+** OpenEdition is now a Facility of
+Excellence<http://www.openedition.org/10221?lang=en>
+* *(Equipex) **
+** New email : marin.dacos at openedition.org **
+
+CNRS - EHESS - Aix-Marseille Universit? (AMU) - Universit? d'Avignon
+3, place Victor Hugo, Case n?86, 13331 Marseille Cedex 3 - France
+T?l : 04 13 55 03 40 T?l. direct : 04 13 55 03 39 Fax : 04 13 55 03 41
+Skype : marin.dacos - Gmail video chat : marin.dacos at gmail.com
+Twitter : http://twitter.com/#!/marindacos
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121031/4051de07/attachment.htm>
+
+From Tom_Roche at pobox.com  Wed Oct 31 11:38:58 2012
+From: Tom_Roche at pobox.com (Tom Roche)
+Date: Wed, 31 Oct 2012 07:38:58 -0400
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <CAFxzj8SRbHUja9D1BZfjQj+KYEaeMVw068Os7wLz7OtLAOj5BQ@mail.gmail.com>
+References: <CAFxzj8SRbHUja9D1BZfjQj+KYEaeMVw068Os7wLz7OtLAOj5BQ@mail.gmail.com>
+	<87wqy7fzl5.fsf@pobox.com>
+	<CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+Message-ID: <87liemg9bh.fsf@pobox.com>
+
+
+Tom Roche Tue Oct 30 20:56:54 GMT 2012
+>> has anyone done a brief howto or guide to bibliography/citation
+>> sharing?
+
+Mark MacGillivray Tue, 30 Oct 2012 22:14:44 +0000
+> We started a wiki page about reference management tools
+
+but reference management != reference sharing, no?
+
+
+From mark at cottagelabs.com  Wed Oct 31 12:07:55 2012
+From: mark at cottagelabs.com (Mark MacGillivray)
+Date: Wed, 31 Oct 2012 12:07:55 +0000
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <87liemg9bh.fsf@pobox.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+	<CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+	<CAFxzj8SRbHUja9D1BZfjQj+KYEaeMVw068Os7wLz7OtLAOj5BQ@mail.gmail.com>
+	<87liemg9bh.fsf@pobox.com>
+Message-ID: <CAFxzj8QBEE7B9gVQ+2gHjwFHO9LW+_3C7z_vv2jj93g1tcLEcw@mail.gmail.com>
+
+On Wed, Oct 31, 2012 at 11:38 AM, Tom Roche <Tom_Roche at pobox.com> wrote:
+
+>
+> Tom Roche Tue Oct 30 20:56:54 GMT 2012
+> >> has anyone done a brief howto or guide to bibliography/citation
+> >> sharing?
+>
+> Mark MacGillivray Tue, 30 Oct 2012 22:14:44 +0000
+> > We started a wiki page about reference management tools
+>
+> but reference management != reference sharing, no?
+>
+
+True, but I thought the link may be useful to inform the discussion anyway.
+
+Of course, for reference sharing, there will soon be the new bibsoup - it
+is not working properly at the moment as I move it to new hosting. But will
+be back soon...
+
+Mark
+
+
+
+
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+> Unsubscribe:
+> http://lists.okfn.org/mailman/options/open-access/mark%40cottagelabs.com
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-access/attachments/20121031/4912a4ca/attachment.htm>
+
+From karol.langner at gmail.com  Wed Oct 31 15:42:45 2012
+From: karol.langner at gmail.com (Karol M. Langner)
+Date: Wed, 31 Oct 2012 16:42:45 +0100
+Subject: [Open-access] [OT] bibliography sharing?
+In-Reply-To: <CAFxzj8QBEE7B9gVQ+2gHjwFHO9LW+_3C7z_vv2jj93g1tcLEcw@mail.gmail.com>
+References: <87wqy7fzl5.fsf@pobox.com>
+	<CAD2k14OhCouN7JjX5-uQKqVbnevE=coOLzfS2q3ue_KS2gnNWg@mail.gmail.com>
+	<CAFxzj8SRbHUja9D1BZfjQj+KYEaeMVw068Os7wLz7OtLAOj5BQ@mail.gmail.com>
+	<87liemg9bh.fsf@pobox.com>
+	<CAFxzj8QBEE7B9gVQ+2gHjwFHO9LW+_3C7z_vv2jj93g1tcLEcw@mail.gmail.com>
+Message-ID: <20121031154245.GC19890@fwnc7111.wks.gorlaeus.net>
+
+On Oct 31 2012, Mark MacGillivray wrote:
+> On Wed, Oct 31, 2012 at 11:38 AM, Tom Roche <Tom_Roche at pobox.com> wrote:
+> 
+> >
+> > Tom Roche Tue Oct 30 20:56:54 GMT 2012
+> > >> has anyone done a brief howto or guide to bibliography/citation
+> > >> sharing?
+> >
+> > Mark MacGillivray Tue, 30 Oct 2012 22:14:44 +0000
+> > > We started a wiki page about reference management tools
+> >
+> > but reference management != reference sharing, no?
+> >
+> 
+> True, but I thought the link may be useful to inform the discussion anyway.
+> 
+> Of course, for reference sharing, there will soon be the new bibsoup - it
+> is not working properly at the moment as I move it to new hosting. But will
+> be back soon...
+
+Since references are text, you can also simply use a revision management
+system like svn/git. I actually put up all the literature references
+I've read/used on github:
+https://github.com/langner/library
+
+Cheers,
+Karol
+
+-- 
+written by Karol M. Langner
+Wed Oct 31 16:41:27 CET 2012
+
+

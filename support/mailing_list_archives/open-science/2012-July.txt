@@ -1,0 +1,2339 @@
+From jenny.molloy at okfn.org  Tue Jul  3 17:13:33 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 3 Jul 2012 17:13:33 +0100
+Subject: [open-science] Reminder: Open Science Hackday: 7 Jul, London
+Message-ID: <CABPM+wpCdZ2bVPmk4Qxj4FK7eAKadt=LtDvUBL85Tgu2x11KbQ@mail.gmail.com>
+
+Hi All
+
+Just a reminder about the hackday taking place on Saturday, please feel
+free to join us online for all or part of the day from wherever you are or
+drop into the C4CC if you're around London.
+
+If you think you're likely to come along, sign up
+http://okfnpad.org/sciencewg-hackday-jul7 so we know who to expect and pass
+the word on to anyone you think might be interested.
+
+Looking forward to meeting some of you!
+
+Jenny
+
+On Mon, Jun 11, 2012 at 12:13 AM, Jenny Molloy <jenny.molloy at okfn.org>wrote:
+
+> Hi All
+>
+> The next Open Science hackday will be taking place in a few weeks and it
+> would be great to see some of you in person or online!
+>
+> When: Saturday 7 July 2012, 1000-1700 UTC+1
+> Where: Centre for Creative Collaboration (
+> http://www.creativecollaboration.org.uk/ ), London
+> OR
+> OKFN IRC channel (#okfn on irc.oftc.net and full details of how to
+> connect (including via a web browser) can be found at: http://okfn
+> .org/contact/)
+>
+> Sign up: http://okfnpad.org/sciencewg-hackday-jul7
+>
+> Our last outing to the Barbican saw a small but dedicated group working on
+> projects as diverse as services for open access policies, extracting
+> phylogenetic tree information from PDFs, storing crowdsourced data in CKAN
+> and more. This time we're going to be bigger and better with a dedicated
+> space which will hopefully be filled by YOU.
+>
+> If you'd like to come along, please add yourself to the Etherpad
+> http://okfnpad.org/sciencewg-hackday-jul7 and if you have a specific idea
+> you'd like to work on, add that too and you'll have a couple of minutes at
+> the start of the hackday to tell everyone about it so we can link you up
+> with people who'd like to help.
+>
+> You don't need to have an idea for anything to work on or even any coding
+> skills to join, there are plenty of opportunities to get stuck in with
+> other people's projects and many non-technical tasks, especially if you
+> like writing or design.
+>
+> If you have any questions don't hesitate to ask and I look forward to
+> seeing many of you on 7 July!
+>
+> Jenny
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120703/dd5fb571/attachment.htm>
+
+From daniel.mietchen at googlemail.com  Wed Jul  4 00:34:26 2012
+From: daniel.mietchen at googlemail.com (Daniel Mietchen)
+Date: Wed, 4 Jul 2012 01:34:26 +0200
+Subject: [open-science] OKFest in GLAM Newsletter
+Message-ID: <CAN6n2b3-DW7vw-gN0XSOiAeJyF55XhZC-ATKGTyt2Jxup2ge0A@mail.gmail.com>
+
+Dear all,
+
+I have added a note on the OKFest to the upcoming "This Month in GLAM"
+newsletter for July (submission deadline was July 1, but it's a bit
+delayed):
+http://outreach.wikimedia.org/wiki/GLAM/Newsletter/June_2012/Contents/Finland_report
+.
+
+Cheers,
+d.
+
+
+From david.osimo at gmail.com  Fri Jul  6 17:00:08 2012
+From: david.osimo at gmail.com (david osimo)
+Date: Fri, 6 Jul 2012 18:00:08 +0200
+Subject: [open-science] Can you help improving the evidence base on open
+	science?
+Message-ID: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+
+Hello everyone, 
+
+We're doing a study for the European Commission on Science 2.0 (not exactly Open Science but let's put it aside).
+
+We've been using this list as a source of inspiration and evidence. We've been sharing our working notes on our blog: http://science20study.wordpress.com/
+
+Now, we really need your help. We need to gather the BEST POSSIBLE EVIDENCE showing the Open Science is not a fad, that it's a long term change in the scientific process, and that European science institutions should take this into account.
+
+As you know policy-makers want DATA: statistics, numbers, histograms... (even if not robust). Can you help us gathering more and better data?
+
+We published the final presentation in commentable format: we ask you to share the evidence you have by adding comments to the slides. We have until JULY 24TH to gather it.
+
+Link: https://docs.google.com/presentation/d/1NF1pSfVYIZywmkDvTqwyoH8KlqO3F6zD0pnQI6TdpOk/edit#slide=id.p22
+
+Thanks!
+
+david
+
+david.osimo at gmail.com
+skype, twitter: osimod
+http://egov20.wordpress.com 
+mobile: +32-498088323
+-> based in Hub Brussels - most inspirational place to work  (www.the-hub.be)
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120706/cdf998e8/attachment.htm>
+
+From pm286 at cam.ac.uk  Fri Jul  6 17:18:08 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 6 Jul 2012 17:18:08 +0100
+Subject: [open-science] Can you help improving the evidence base on open
+	science?
+In-Reply-To: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+References: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+Message-ID: <CAD2k14MpF3A79Fs5HZNQ4RcUe0C-kS10NsB=t215X9zdcBAX0g@mail.gmail.com>
+
+On Fri, Jul 6, 2012 at 5:00 PM, david osimo <david.osimo at gmail.com> wrote:
+
+> Hello everyone,
+>
+>
+> We've been using this list as a source of inspiration and evidence.
+>
+
+What a wonderful thing to know!
+
+
+>
+> Now, we really need your help. We need to gather the BEST POSSIBLE
+> EVIDENCE showing the Open Science is not a fad, that it's a long term
+> change in the scientific process, and that European science institutions
+> should take this into account.
+>
+> As you know policy-makers want DATA: statistics, numbers, histograms...
+> (even if not robust). Can you help us gathering more and better data?
+>
+> We published the final presentation in commentable format: we ask you to
+> share the evidence you have by adding comments to the slides. We have until
+> JULY 24TH to gather it.
+>
+> We have the open science hackathon tomorrow in London - we can put this on
+the Etherpad and perhaps have some lightning ideas of places to contribute.
+
+Presumably the examples don't have to be European? Although it would be
+good to show that Europe was among the leaders in this area.
+
+
+>
+>
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120706/752d28d1/attachment.htm>
+
+From david.osimo at gmail.com  Fri Jul  6 17:29:10 2012
+From: david.osimo at gmail.com (david osimo)
+Date: Fri, 6 Jul 2012 18:29:10 +0200
+Subject: [open-science] Can you help improving the evidence base on open
+	science?
+In-Reply-To: <CAD2k14MpF3A79Fs5HZNQ4RcUe0C-kS10NsB=t215X9zdcBAX0g@mail.gmail.com>
+References: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+	<CAD2k14MpF3A79Fs5HZNQ4RcUe0C-kS10NsB=t215X9zdcBAX0g@mail.gmail.com>
+Message-ID: <CFDEBF06-FEEE-4220-91A2-BE95AA4BB846@gmail.com>
+
+Hi Peter thanks. Examples don't have to be European. 
+What we aim to show is that Open Science leads to better science; and that it's happening already.
+We have gathered lots of individual cases: we need now to reinforce the evidence basis through data and evidence at a larger scale.
+Beside that: any comment from the people in the list is certainly useful and welcome.
+And yes, it would be great if you can link to the Hackathon!
+best
+david
+
+david.osimo at gmail.com
+skype, twitter: osimod
+http://egov20.wordpress.com 
+mobile: +32-498088323
+-> based in Hub Brussels - most inspirational place to work  (www.the-hub.be)
+
+On 06 Jul 2012, at 18:18, Peter Murray-Rust wrote:
+
+> 
+> 
+> On Fri, Jul 6, 2012 at 5:00 PM, david osimo <david.osimo at gmail.com> wrote:
+> Hello everyone, 
+> 
+> 
+> We've been using this list as a source of inspiration and evidence.
+> 
+> What a wonderful thing to know!
+>  
+> 
+> Now, we really need your help. We need to gather the BEST POSSIBLE EVIDENCE showing the Open Science is not a fad, that it's a long term change in the scientific process, and that European science institutions should take this into account.
+> 
+> As you know policy-makers want DATA: statistics, numbers, histograms... (even if not robust). Can you help us gathering more and better data?
+> 
+> We published the final presentation in commentable format: we ask you to share the evidence you have by adding comments to the slides. We have until JULY 24TH to gather it.
+> 
+> We have the open science hackathon tomorrow in London - we can put this on the Etherpad and perhaps have some lightning ideas of places to contribute.
+> 
+> Presumably the examples don't have to be European? Although it would be good to show that Europe was among the leaders in this area.
+>  
+> 
+> 
+> 
+> -- 
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120706/d943fbd8/attachment.htm>
+
+From ps at pawelszczesny.org  Fri Jul  6 17:31:33 2012
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Fri, 6 Jul 2012 18:31:33 +0200
+Subject: [open-science] Can you help improving the evidence base on open
+	science?
+In-Reply-To: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+References: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+Message-ID: <CADfaFZqAvxRd7ykZBrihPiNXMwFJBSmydwPrODOjhERy+S=4Aw@mail.gmail.com>
+
+Dear David,
+
+Open Science is an umbrella term for various "open" activities,
+including, but not limited to, open access, open source, open data,
+etc. Despite the fact, that certain phrases are new, ideas behind open
+science have a rather long history, especially in some fields (first
+"Open Source Science" _conference_ was in late 90s).
+
+There's an enormous amount of evidence, as long as you don't try to
+think about every field having the same cultural background. For
+example, the whole LHC is a result of "open science" put in practice
+(Arxiv, open source grid software, immediate data availability). BTW,
+you miss high-energy physics (and lots of activities by CERN) in your
+presentation.
+
+The general comment I have is that you seem to focus on the very
+recent examples of "2.0", creating an impression that it is a brand
+new phenomenon. It isn't - it's just unevenly distributed. I think
+this changes the perspective in presentation (from IF, to HOW).
+
+I will make specific comments in GDocs.
+
+Best wishes
+PS
+
+
+
+On Fri, Jul 6, 2012 at 6:00 PM, david osimo <david.osimo at gmail.com> wrote:
+> Hello everyone,
+>
+> We're doing a study for the European Commission on Science 2.0 (not exactly
+> Open Science but let's put it aside).
+>
+> We've been using this list as a source of inspiration and evidence. We've
+> been sharing our working notes on our blog:
+> http://science20study.wordpress.com/
+>
+> Now, we really need your help. We need to gather the BEST POSSIBLE EVIDENCE
+> showing the Open Science is not a fad, that it's a long term change in the
+> scientific process, and that European science institutions should take this
+> into account.
+>
+> As you know policy-makers want DATA: statistics, numbers, histograms...
+> (even if not robust). Can you help us gathering more and better data?
+>
+> We published the final presentation in commentable format: we ask you to
+> share the evidence you have by adding comments to the slides. We have until
+> JULY 24TH to gather it.
+>
+> Link:
+> https://docs.google.com/presentation/d/1NF1pSfVYIZywmkDvTqwyoH8KlqO3F6zD0pnQI6TdpOk/edit#slide=id.p22
+>
+> Thanks!
+>
+> david
+>
+> david.osimo at gmail.com
+> skype, twitter: osimod
+> http://egov20.wordpress.com
+> mobile: +32-498088323
+> -> based in Hub Brussels - most inspirational place to work
+> (www.the-hub.be)
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+
+
+From pm286 at cam.ac.uk  Fri Jul  6 18:48:53 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Fri, 6 Jul 2012 18:48:53 +0100
+Subject: [open-science] Can you help improving the evidence base on open
+	science?
+In-Reply-To: <CADfaFZqAvxRd7ykZBrihPiNXMwFJBSmydwPrODOjhERy+S=4Aw@mail.gmail.com>
+References: <FB7EF655-F9A0-49D8-8F9C-FC16CB2A7667@gmail.com>
+	<CADfaFZqAvxRd7ykZBrihPiNXMwFJBSmydwPrODOjhERy+S=4Aw@mail.gmail.com>
+Message-ID: <CAD2k14OzZBTSGJykmC2+y_DXGfcxDPD9tmiAF8DyLdaPbBwqWA@mail.gmail.com>
+
+This may be of interest - just came in - haven't looked at it but anything
+from JJ and Open Science Summit is worth looking at...
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120706/ac41b4e8/attachment.htm>
+
+From laura.newman at okfn.org  Sat Jul  7 15:38:56 2012
+From: laura.newman at okfn.org (Laura Newman)
+Date: Sat, 7 Jul 2012 15:38:56 +0100
+Subject: [open-science] OKFest
+Message-ID: <CAMQ+bMZiMP7BqjpSeC1UXWjEPDmoKOxLyaw8VrpWUkkJr3Uh3w@mail.gmail.com>
+
+Hi all,
+
+I have recently updated the Research and Education topic stream page for
+OKFest: http://okfestival.org/topic-stream-open-research-and-education/
+
+As speakers confirm and we begin to finalise the sessions, the programme is
+looking more and more exciting - we hope to gather even more details in the
+coming weeks. Things are also moving forward fast logistically, so I
+strongly recommend you to start exploring flights and accommodation at this
+stage. Logistically, most Science events will be taking place on Wednesday
+19th September, with some sessions spilling over onto Thursday 20th. There
+will also be a satellite Hackday to kick-start events on Tuesday 18th
+September.
+
+The more people we can get together to talk about Open Science and Open
+Access, the more valuable OKFest will be - so do try to join us if you can!
+
+Looking forward to seeing you there!
+
+All the best,
+Laura
+
+-- 
+Laura Newman
+Community Coordinator
+Open Knowledge Foundation
+http://okfn.org/
+Skype: lauranewmanonskype
+Twitter: @Newmanlk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120707/884ae2df/attachment.htm>
+
+From jenny.molloy at okfn.org  Thu Jul 12 09:01:27 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 12 Jul 2012 09:01:27 +0100
+Subject: [open-science] Gamify your PhD: open science games
+Message-ID: <CABPM+wqqkvhCR6xVvB-4QBUAp3n8tmma0ru4BjfwLGg5=QOYCg@mail.gmail.com>
+
+Hi All
+
+The Wellcome Trust is running a competition to 'Gamify your PhD' (open to
+anyone currently doing a PhD in biomedical science/medical humanities or
+who has completed one in the last 3 years)
+
+From
+http://www.wellcome.ac.uk/News/Media-office/Press-releases/2012/WTVM055859.htm
+
+The Trust is inviting researchers to share ideas for games based on their
+PhD work in biomedical science or the medical humanities, and small teams
+of games developers to turn these ideas into addictive, challenging and
+educational games. Those selected will partner at a two-day hack in which
+the games will be created. The best of these will receive funding to
+develop into a releasable game.
+
+Deadline is 12 August for applications from PhD students with their ideas
+or teams of 3-4 developers to generate the games so consider
+Info for researchers:
+http://www.wellcome.ac.uk/Funding/Public-engagement/Funded-projects/Major-initiatives/Broadcast-media-strategy/Gamify-Your-PhD/WTDV033975.htm
+Info for developers:
+http://www.wellcome.ac.uk/Funding/Public-engagement/Funded-projects/Major-initiatives/Broadcast-media-strategy/Gamify-Your-PhD/WTDV033976.htm
+
+Results will be CC licensed and winners will be funded for full development
+and release.
+
+This sounds like a really fun initiative and if you think you could make a
+game to gather data for your project via distributed thinking, we would
+encourage you to consider using the pyBOSSA platform for your app
+http://pybossa.com/ :-)
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120712/b237da3a/attachment.htm>
+
+From tom.olijhoek at gmail.com  Fri Jul 13 12:40:58 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Fri, 13 Jul 2012 13:40:58 +0200
+Subject: [open-science] [Open-access] Fwd: NewsRelease Open for business
+ open access journals reaching the same scientific impact as subscription
+ journals
+In-Reply-To: <CACGRf4KGV1DO5kwQTB++exgvKeSx9QZvJ2S7XE23Zp_F7V+kzA@mail.gmail.com>
+References: <MW068-PRDAPPLDC88bc70c310754c61840f92239f0e2ab5@mw068-prdappldc>
+	<CACGRf4KGV1DO5kwQTB++exgvKeSx9QZvJ2S7XE23Zp_F7V+kzA@mail.gmail.com>
+Message-ID: <CAGyWN8YW68OCxWDzOSROXoE2ihOp=BawEu3==jS-dH2anRfQRw@mail.gmail.com>
+
+Great article, why publish in TA Journals any more? Thanks for the share!
+
+TOM
+
+
+On Fri, Jul 13, 2012 at 1:10 PM, Naomi Lillie <naomi.lillie at okfn.org> wrote:
+
+> Hi all,
+>
+> Please excuse cross-posting - see below for an annoucement of a paper on
+> the scientific impact of open access publishing. We now have scientific
+> rigour!
+>
+> Naomi
+>
+>
+> ---------- Forwarded message ----------
+> From: Hilary Glover <hilary.glover at biomedcentral.com>
+> Date: 13 July 2012 11:54
+> Subject: NewsRelease Open for business open access journals reaching the
+> same scientific impact as subscription journals
+> To: "info at okfn.org" <info at okfn.org>
+>
+>
+> Send Date:13-Jul-2012 11:53
+>
+>
+> Dear Colleague,
+>
+> BioMed Central's open access journal BMC Medicine is pleased to be able to
+> add scientific rigour to the debate about open access research, by
+> publishing an article which compares the scientific impact of open access
+> with traditional subscription publishing and has found that both of these
+> publishing business models produce high quality peer reviewed articles.
+>
+> This release is embargoed until 00:01 GMT 17th July 2012
+>
+> If you have any questions regarding this release please contact me.
+>
+> Dr Hilary Glover
+> Scientific Press Officer, BioMed Central
+> Tel: +44 (0) 20 3192 2370
+> Mob: +44 (0) 778 698 1967
+> Email: hilary.glover at biomedcentral.com
+>
+> Open for business: open access journals reaching the same scientific
+> impact as subscription journals
+>
+> BioMed Central's open access journal BMC Medicine is pleased to be able to
+> add scientific rigour to the debate about open access research, by
+> publishing an article which compares the scientific impact of open access
+> with traditional subscription publishing and has found that both of these
+> publishing business models produce high quality peer reviewed articles.
+>
+> The debate about who should pay for scientific publishing is of continuing
+> importance to the scientific community but also to the general public who
+> not only often pay for the research though charitable contributions, their
+> taxes, and by buying products, but are also affected by the results
+> contained within these articles.
+>
+> Many publically funded agencies, such as the Wellcome Trust and NIH
+> require that scientific research sponsored by them is made freely available
+> to the public. However the issues aren't as simple as just putting the
+> results of your research on line. Scientific research goes through the
+> quality control filter of peer review and journals act as gatekeepers
+> performing quality-assuring peer review, and who provide web-based
+> repositories. Scientists currently rely on publishing in peer reviewed high
+> quality journals to show that their research itself is of good quality, is
+> of importance to their field of research, and consequently improves their
+> chances of obtaining funding to continue their work.
+>
+> One way of measuring quality is by impact factors calculated from citation
+> data (how many times other scientists have mentioned the research).
+> Bo-Christer Bjork from Hanken School of Economics, Helsinki, and David
+> Solomon from Michigan State University compared the impact factors of 610
+> open access journals and over 7000 subscription journals.
+>
+> The citation rate for subscription journals was overall 30% higher than
+> for open access ones but this difference was largely due to a high share of
+> older OA journals, particularly from regions like Latin America in the
+> citation indexes. When like was compared with like, for instance, journals
+> founded after 2000 from difference regions or disciplines, the differences
+> disappeared.
+>
+> Bo-Christer Bjork, explained, "The open access debate has included
+> accusations from some traditional publishers and their lobbyists that Open
+> Access publishing implies low scientific quality and endangers the quality
+> assurance function of the peer review system that the academic community
+> and publishers have built up over decades."
+>
+> Explaining the results Prof Bjork said, "If you take into account the
+> journal discipline, location of publisher and age of publication the
+> differences in impact between open access and subscription journals largely
+> disappear. In medicine and health, open access journals founded in the last
+> 10 years are receiving on average as many citations as subscription
+> journals launched during the same time."
+>
+> David Solomon continued, "It is easy to see why scientists might be
+> sceptical of electronic, open access journals - after all they have their
+> reputation to maintain. Open access journals that fund publishing with
+> article processing charges (APCs), sometimes called gold open access, are
+> on average cited more than other OA journals. Since the launch of
+> professionally run high quality biomedical journals in 2000 gold OA has
+> increased by 30% per year and many of these are on a par with their
+> subscription counterparts."
+>
+> - ENDS -
+>
+>
+> Media contact
+> Dr Hilary Glover
+> Scientific Press Officer, BioMed Central
+>
+> Tel: +44 (0) 20 3192 2370
+> Mob: +44 (0) 778 698 1967
+> Email: hilary.glover at biomedcentral.com
+>
+>
+> Notes to editors
+>
+> 1. Open access versus subscription journals: a comparison of scientific
+> impact
+> Bo-Christer Bjork and David Solomon
+> BMC Medicine (in press)
+>
+> Please name the journal in any story you write. If you are writing for the
+> web, please link to the article. All articles are available free of charge,
+> according to BioMed Central's open access policy.
+>
+> Article citation and URL available on request on the day of publication.
+>
+> 2. BMC Medicine is the flagship medical journal of the BMC series,
+> publishing original research, commentaries and reviews that are either of
+> significant interest to all areas of medicine and clinical practice, or
+> provide key translational or clinical advances in a specific field.
+>
+> 3. BioMed Central (http://www.biomedcentral.com/) is an STM (Science,
+> Technology and Medicine) publisher which has pioneered the open access
+> publishing model. All peer-reviewed research articles published by BioMed
+> Central are made immediately and freely accessible online, and are licensed
+> to allow redistribution and reuse. BioMed Central is part of Springer
+> Science+Business Media, a leading global publisher in the STM sector.
+>
+> Please click on the link(s) provided.
+>
+>
+> NewsRelease_Open_for_business_open_access_journals_reaching_the_same_scientific_impact_as_subscription_journals.doc<http://www.ukdistribute.com/links/1342176501559-NewsRelease_Open_for_business_open_access_journals_reaching_the_same_scientific_impact_as_subscription_journals.doc>
+>
+> Open access versus subscription journals_a comparison of scientific
+> impact.pdf<http://www.ukdistribute.com/links/1342176501903-Open%20access%20versus%20subscription%20journals_a%20comparison%20of%20scientific%20impact.pdf>
+>
+>
+>
+> For further information, please reply to Hilary Glover **<Hilary+Glover+%3Chilary.glover at biomedcentral.com%3E>
+>
+> If you no longer want to receive announcements from us, please do not
+> reply to this e-mail. Instead simply click here.<http://marketwire.com/mw/fmu.jsp?id=368329304>
+>
+>
+>
+> --
+> Naomi Lillie
+> Foundation Administrator and Community Coordinator (Open Bibliography)
+> Open Knowledge Foundation
+> http://okfn.org/
+> Skype: n.lillie
+>
+> _______________________________________________
+> open-access mailing list
+> open-access at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-access
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120713/c8c75bf5/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Fri Jul 13 14:15:54 2012
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Fri, 13 Jul 2012 14:15:54 +0100
+Subject: [open-science] Online meetup: Scientific data in CKAN
+In-Reply-To: <CAHoq+O2c893nyFoG1=YtC4YgT1gLMQactzwomYFj3Nrx3ZwXKw@mail.gmail.com>
+References: <CAHoq+O2c893nyFoG1=YtC4YgT1gLMQactzwomYFj3Nrx3ZwXKw@mail.gmail.com>
+Message-ID: <CAChagOBuDTyPN3S=aYiW3O4vB1GevMm09kN2AP_i6xS4pJQCZw@mail.gmail.com>
+
+Dear Open Science community,
+
+please join the meetup to discuss ckan and scientific data. See details in
+the forwarded e-mail.
+
+Best,
+
+
+---------- Forwarded message ----------
+From: Mark Wainwright <mark.wainwright at okfn.org>
+Date: Fri, Jul 13, 2012 at 11:15 AM
+Subject: [ckan-discuss] Online meetup: Scientific data in CKAN
+To: CKAN Development Discussions <ckan-dev at lists.okfn.org>, CKAN discuss <
+ckan-discuss at lists.okfn.org>
+
+
+(Cross-posted from <http://ckan.org/2012/07/13/science-meetup/>)
+
+The next CKAN community Skype meetup will discuss using CKAN for
+scientific data. What are the advantages, opportunities and/or
+obstacles? As usual, anyone is very welcome to join the call to share
+their views, ask questions or listen in.
+
+The call will be at 5pm UK time on Thursday 2 August. To join it,
+please add your name to the etherpad:
+
+http://ckan.okfnpad.org/meetup-2012-08-02
+
+Please also feel very free to add any questions or discussion points
+to the agenda.
+
+--
+Mark Wainwright, CKAN Community Co-ordinator
+Open Knowledge Foundation http://okfn.org/
+CKAN on Twitter: @CKANproject
+
+_______________________________________________
+ckan-discuss mailing list
+ckan-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/ckan-discuss
+
+
+
+-- 
+Velichka Dimitrova
+Project and Community Coordinator for Labs
+Coordinator for Economics and Energy Projects
+Open Knowledge Foundation
+http://okfnlabs.org/ | http://openeconomics.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120713/7ef7a6ad/attachment.htm>
+
+From tom.olijhoek at gmail.com  Sat Jul 14 06:58:40 2012
+From: tom.olijhoek at gmail.com (Tom Olijhoek)
+Date: Sat, 14 Jul 2012 07:58:40 +0200
+Subject: [open-science] science quality
+Message-ID: <CAGyWN8ZxKJmLN9efRM1P9wpiTe4tLGoSfFZ+0vxeztu1+zQ=xw@mail.gmail.com>
+
+Hi Peter and other list members,
+
+I just happened to find very interesting info on quality of medical
+journals, new forms for peer review, patient-doctor interactions to improve
+science and treatments, journal of participatory medicine to aid the
+former, Ovations initiative for combating chronic diseases in developed and
+developing world.
+All this because I read an article on scientific quality mentioning Richard
+Smith and started looking:
+http://en.wikipedia.org/wiki/Richard_Smith_(editor)
+
+I am amazed that I haven't come across this before,since he is one of the
+early proponents of open access publishing. But some of you may know him
+and his work?
+Definitely worth following up in my opinion
+
+TOM
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120714/c7067f7e/attachment.htm>
+
+From pm286 at cam.ac.uk  Sat Jul 14 10:46:50 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Sat, 14 Jul 2012 10:46:50 +0100
+Subject: [open-science] [Open-access] science quality
+In-Reply-To: <CACnMvBYt8g4JbhdjKxDys0-_54Ts52FfDHWAQw56pGYU5RD6mg@mail.gmail.com>
+References: <CAGyWN8ZxKJmLN9efRM1P9wpiTe4tLGoSfFZ+0vxeztu1+zQ=xw@mail.gmail.com>
+	<CACnMvBYt8g4JbhdjKxDys0-_54Ts52FfDHWAQw56pGYU5RD6mg@mail.gmail.com>
+Message-ID: <CAD2k14PbqPSvR+fvN4DsQX0DYS96Hy8NB5AsRYmVDA1hROQvcA@mail.gmail.com>
+
+On Sat, Jul 14, 2012 at 10:35 AM, Mike Taylor <mike at indexdata.com> wrote:
+
+> I'd not heard of Richard Smith either until a week ago when he wrote
+> this blog at the BMJ:
+>
+> http://blogs.bmj.com/bmj/2012/06/28/richard-smith-a-bad-bad-week-for-access/
+> and then this one:
+>
+> http://blogs.bmj.com/bmj/2012/07/03/richard-smith-medical-journals-a-gaggle-of-golden-geese/
+>
+> Some excellent, hard-hitting stuff.
+>
+>
+I had heard of him but don't come across him regularly so it had faded. I
+think he has been brave and is some years ahead of his time and it's clear
+that he needs promoting. Maybe  a Panton Discussion .
+
+P.
+
+
+> -- Mike.
+>
+>
+>
+> On 14 July 2012 06:58, Tom Olijhoek <tom.olijhoek at gmail.com> wrote:
+> > Hi Peter and other list members,
+> >
+> > I just happened to find very interesting info on quality of medical
+> > journals, new forms for peer review, patient-doctor interactions to
+> improve
+> > science and treatments, journal of participatory medicine to aid the
+> former,
+> > Ovations initiative for combating chronic diseases in developed and
+> > developing world.
+> > All this because I read an article on scientific quality mentioning
+> Richard
+> > Smith and started looking:
+> > http://en.wikipedia.org/wiki/Richard_Smith_(editor)
+> >
+> > I am amazed that I haven't come across this before,since he is one of the
+> > early proponents of open access publishing. But some of you may know him
+> and
+> > his work?
+> > Definitely worth following up in my opinion
+> >
+> > TOM
+> >
+> > _______________________________________________
+> > open-access mailing list
+> > open-access at lists.okfn.org
+> > http://lists.okfn.org/mailman/listinfo/open-access
+> >
+>
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120714/1ce9c30d/attachment.htm>
+
+From jonathan.gray at okfn.org  Sat Jul 14 11:42:18 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Sat, 14 Jul 2012 12:42:18 +0200
+Subject: [open-science] GigaScience: new open access + open data journal
+Message-ID: <CANQ_vu3fqrTekDn5eFRff-T0+ETC7uiC0vmhjUmdKcu7XagXRw@mail.gmail.com>
+
+Just in case anyone missed this, BioMed Central and BGI Shenzhen
+recently launched a new open access, open data journal in the life
+sciences and biomedical sciences. It requires all data is published
+using the CC0 legal tool. See:
+
+http://www.gigasciencejournal.com/
+http://www.bio-itworld.com/news/07/12/12/Big-Data-GigaScience-makes-debut.html
+http://www.eurekalert.org/pub_releases/2012-07/bc-n071012.php
+
+Great news!
+
+Worth featuring this on science.okfn.org?
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From jcmcoppice12 at gmail.com  Sat Jul 14 15:58:35 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Sat, 14 Jul 2012 15:58:35 +0100
+Subject: [open-science] GigaScience: new open access + open data journal
+In-Reply-To: <CANQ_vu3fqrTekDn5eFRff-T0+ETC7uiC0vmhjUmdKcu7XagXRw@mail.gmail.com>
+References: <CANQ_vu3fqrTekDn5eFRff-T0+ETC7uiC0vmhjUmdKcu7XagXRw@mail.gmail.com>
+Message-ID: <CABPM+wq0rqyk=y7Wd2Qv5YEB8Z4FBaoVsaWWoOYLCSp7UErYGw@mail.gmail.com>
+
+Hi All
+
+I anyone interested in writing a blog post on GigaScience, maybe with a
+round up of current open data journals and other projects in the pipeline?
+Get in touch if this would be of interest!
+
+Jenny
+
+On Sat, Jul 14, 2012 at 11:42 AM, Jonathan Gray <jonathan.gray at okfn.org>wrote:
+
+> Just in case anyone missed this, BioMed Central and BGI Shenzhen
+> recently launched a new open access, open data journal in the life
+> sciences and biomedical sciences. It requires all data is published
+> using the CC0 legal tool. See:
+>
+> http://www.gigasciencejournal.com/
+>
+> http://www.bio-itworld.com/news/07/12/12/Big-Data-GigaScience-makes-debut.html
+> http://www.eurekalert.org/pub_releases/2012-07/bc-n071012.php
+>
+> Great news!
+>
+> Worth featuring this on science.okfn.org?
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> http://twitter.com/jwyg
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120714/8d99630c/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Mon Jul 16 20:00:39 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Mon, 16 Jul 2012 20:00:39 +0100
+Subject: [open-science] Open Science Ideas on OKFN Ideas Incubator
+Message-ID: <CABPM+wqCW2hupyqCho0yOaTMvWrEdbdeA=cuXWtjPP4+Xyhypg@mail.gmail.com>
+
+Hi All
+
+Just a note to draw your attention to Ideas Incubator
+http://ideas.okfn.org/ a site where you can propose projects you'd
+like to get started within OKF. The following are recent open science
+related proposals so please comment on them, vote them up or down and
+add your own ideas:
+
+A web community of academics with the aim of killing the current
+journal publishing model
+http://ideas.okfn.org/ideas/422/a-web-community-of-academics-with-the-aim-of-killing-the-current-journal-publishing-model
+
+OKFN Open Scientific Data Journal
+http://ideas.okfn.org/ideas/155/okfn-open-scientific-data-journal
+
+Discussion is of course also welcome on the list - is there a need for
+a cross-disciplinary open data journal and could OKFN fill that gap?
+Is the absence of highly successful systems for community discussion
+of papers among academics due to lack of tools or lack of enthusiasm?
+Plenty of food for thought!
+
+Jenny
+
+
+From jenny.molloy at okfn.org  Tue Jul 17 08:00:17 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Tue, 17 Jul 2012 08:00:17 +0100
+Subject: [open-science] OKFest and Open Science Hackday
+Message-ID: <CABPM+wqkpBNFVCk7zQvncM0m5beZ2uLhrQHa_Mg63zRgA+BDNg@mail.gmail.com>
+
+Dear All
+
+A quick reminder that you have until the end of the month to purchase your
+early bird tickets for OKFest in Helsinki this September
+http://okfestival.org/early-bird-okfest-tickets/
+
+We have a great programme lined up for the Open Research and Education
+stream, including a full days Open Science workshop and hackday on Tuesday
+18 September which we hope many of you will be able to participate in from
+afar even if you can't make it to Finland.
+
+More on the hackday http://science.okfn.org/okfest/open-science-hackday/ -
+further details coming soon!
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120717/d51c0ad8/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Jul 17 11:56:29 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 17 Jul 2012 12:56:29 +0200
+Subject: [open-science] Fwd: European Commission adopts Communication and
+ Recommendation on access to and preservation of scientific information
+In-Reply-To: <60A4276BCF8B0842A0C77EBE570CB4EB1DECA244@S-DC-ESTD03-B.net1.cec.eu.int>
+References: <60A4276BCF8B0842A0C77EBE570CB4EB1DECA244@S-DC-ESTD03-B.net1.cec.eu.int>
+Message-ID: <CANQ_vu17TpsXKiyGhaepU353BVKe5J+0MVWjtJB86kbin9KQyA@mail.gmail.com>
+
+---------- Forwarded message ----------
+From:  <RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu>
+Date: Tue, Jul 17, 2012 at 12:10 PM
+Subject: European Commission adopts Communication and Recommendation
+on access to and preservation of scientific information
+To: RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu
+
+
+Dear friends of open access,
+
+We are happy to announce that the European Commission has today
+outlined measures to improve access to scientific knowledge produced
+in Europe. Better access to EU-funded scientific papers and data will
+make it easier for researchers and businesses to build on the results
+of publicly-funded research. This will boost Europe's innovation
+capacity and give citizens quicker access to scientific discoveries.
+
+The Communication sets out open access policy objectives for the
+research funded by the Commission through Horizon 2020. An
+accompanying Recommendation provides a policy framework for improving
+access to a preservation of scientific information in EU Member
+States.
+
+For more information take a look at
+
+http://ec.europa.eu/research/science-society/open_access
+
+(click on "background" to access the documents)
+
+Feel free to contact us at RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu if
+you have any questions.
+
+Best regards,
+
+The Open Access team
+
+
+
+
+
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From jonathan.gray at okfn.org  Tue Jul 17 19:11:22 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 17 Jul 2012 20:11:22 +0200
+Subject: [open-science] European Commission adopts Communication and
+ Recommendation on access to and preservation of scientific information
+In-Reply-To: <CANQ_vu17TpsXKiyGhaepU353BVKe5J+0MVWjtJB86kbin9KQyA@mail.gmail.com>
+References: <60A4276BCF8B0842A0C77EBE570CB4EB1DECA244@S-DC-ESTD03-B.net1.cec.eu.int>
+	<CANQ_vu17TpsXKiyGhaepU353BVKe5J+0MVWjtJB86kbin9KQyA@mail.gmail.com>
+Message-ID: <CANQ_vu1NLyFr6S-FZfHuaGig-45h7Y7UzEr3GA+fbQP6iXHdRQ@mail.gmail.com>
+
+Just to add to this: there is lots of great stuff in here, in the
+various PDFs attached to the 'background' page.
+
+J.
+
+On Tue, Jul 17, 2012 at 12:56 PM, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> ---------- Forwarded message ----------
+> From:  <RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu>
+> Date: Tue, Jul 17, 2012 at 12:10 PM
+> Subject: European Commission adopts Communication and Recommendation
+> on access to and preservation of scientific information
+> To: RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu
+>
+>
+> Dear friends of open access,
+>
+> We are happy to announce that the European Commission has today
+> outlined measures to improve access to scientific knowledge produced
+> in Europe. Better access to EU-funded scientific papers and data will
+> make it easier for researchers and businesses to build on the results
+> of publicly-funded research. This will boost Europe's innovation
+> capacity and give citizens quicker access to scientific discoveries.
+>
+> The Communication sets out open access policy objectives for the
+> research funded by the Commission through Horizon 2020. An
+> accompanying Recommendation provides a policy framework for improving
+> access to a preservation of scientific information in EU Member
+> States.
+>
+> For more information take a look at
+>
+> http://ec.europa.eu/research/science-society/open_access
+>
+> (click on "background" to access the documents)
+>
+> Feel free to contact us at RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu if
+> you have any questions.
+>
+> Best regards,
+>
+> The Open Access team
+>
+>
+>
+>
+>
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> http://twitter.com/jwyg
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+
+
+From mwitt at purdue.edu  Wed Jul 18 13:45:58 2012
+From: mwitt at purdue.edu (Witt, Michael C.)
+Date: Wed, 18 Jul 2012 08:45:58 -0400
+Subject: [open-science] Databib: Call for Editors
+Message-ID: <F8BED7E51CA83043AB374FCA465A0C1C486B3CC5DF@VPEXCH02.purdue.lcl>
+
+Databib, http://databib.org, is a tool for helping people to identify and locate online repositories of research data. Over 200 data repositories have been cataloged in Databib, with more being added every week. Users and bibliographers create and curate records that describe data repositories that users can browse and search.
+
+* What repositories are appropriate for a researcher to submit his or her data to?
+* How do users find appropriate data repositories and discover datasets to meet their needs?
+* How can librarians help patrons locate and integrate data into their research or learning?
+
+Databib begins to address these needs for data users, data producers, publishers, librarians, funding agencies, and others engaged in data-driven research.
+
+In addition to the website, Databib is made available using a variety of machine interfaces (RSS, RDF/XML, OpenSearch, RDFa/Linked Data) for easy integration with other tools and environments without restriction (CC0). Databib's international advisory board represents global support for collaborating to develop such a global registry of research data repositories.
+
+The development of Databib was initially supported by a Sparks! Innovation National Leadership Grant from the Institute of Museum and Library Services.
+
+CALL FOR EDITORS
+
+Nominations for an Editorial Board are being solicited to ensure the coverage and accuracy of Databib. Editors ideally will have expertise in a specific research domain or knowledge of research data repositories in a particular geographic region as well as experience with descriptive metadata. The primary role of an Editor is to review, edit, and approve submissions to Databib and contribute to the enhancement of the metadata and functionality of Databib for a voluntary, three-year term. The Editorial Board will meet (virtually) a minimum of twice a year and will correspond as needed by email.
+
+Please send nominations or questions to databib at gmail.com, or visit http://databib.org/about.php for more information. Thank you.
+
+-
+Michael Witt, Purdue University
+Assistant Professor of Library Science
+Interdisciplinary Research Librarian
+http://www.lib.purdue.edu/research/witt/
+
+
+From pm286 at cam.ac.uk  Wed Jul 18 14:00:14 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 18 Jul 2012 14:00:14 +0100
+Subject: [open-science] Databib: Call for Editors
+In-Reply-To: <F8BED7E51CA83043AB374FCA465A0C1C486B3CC5DF@VPEXCH02.purdue.lcl>
+References: <F8BED7E51CA83043AB374FCA465A0C1C486B3CC5DF@VPEXCH02.purdue.lcl>
+Message-ID: <CAD2k14O+L8gcF8ZypFE3j25RLh8JFM085bVDTarEKRbK5YaiXg@mail.gmail.com>
+
+This looks very exciting
+
+I have crossposted to open-bibliography because Bibserver should be able to
+ingest the metadata and manage it as a Bibsoup.
+
+P.
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120718/ab1c4c8f/attachment.htm>
+
+From rufus.pollock at okfn.org  Wed Jul 18 14:02:22 2012
+From: rufus.pollock at okfn.org (Rufus Pollock)
+Date: Wed, 18 Jul 2012 14:02:22 +0100
+Subject: [open-science] Databib: Call for Editors
+In-Reply-To: <F8BED7E51CA83043AB374FCA465A0C1C486B3CC5DF@VPEXCH02.purdue.lcl>
+References: <F8BED7E51CA83043AB374FCA465A0C1C486B3CC5DF@VPEXCH02.purdue.lcl>
+Message-ID: <CAEvtuKqvfhnFDsy_y2WaHvXjFeZ_3BUvUkh9_+bjGg7GESXN9A@mail.gmail.com>
+
+Hi Michael,
+
+This sounds great and sounds like an analogy for science of what we've
+been doing with Data Catalogs site for open data sites generally (and
+especially open gov data sites):
+
+<http://datacatalogs.org/>
+
+Rufus
+
+On 18 July 2012 13:45, Witt, Michael C. <mwitt at purdue.edu> wrote:
+> Databib, http://databib.org, is a tool for helping people to identify and locate online repositories of research data. Over 200 data repositories have been cataloged in Databib, with more being added every week. Users and bibliographers create and curate records that describe data repositories that users can browse and search.
+>
+> * What repositories are appropriate for a researcher to submit his or her data to?
+> * How do users find appropriate data repositories and discover datasets to meet their needs?
+> * How can librarians help patrons locate and integrate data into their research or learning?
+>
+> Databib begins to address these needs for data users, data producers, publishers, librarians, funding agencies, and others engaged in data-driven research.
+>
+> In addition to the website, Databib is made available using a variety of machine interfaces (RSS, RDF/XML, OpenSearch, RDFa/Linked Data) for easy integration with other tools and environments without restriction (CC0). Databib's international advisory board represents global support for collaborating to develop such a global registry of research data repositories.
+>
+> The development of Databib was initially supported by a Sparks! Innovation National Leadership Grant from the Institute of Museum and Library Services.
+>
+> CALL FOR EDITORS
+>
+> Nominations for an Editorial Board are being solicited to ensure the coverage and accuracy of Databib. Editors ideally will have expertise in a specific research domain or knowledge of research data repositories in a particular geographic region as well as experience with descriptive metadata. The primary role of an Editor is to review, edit, and approve submissions to Databib and contribute to the enhancement of the metadata and functionality of Databib for a voluntary, three-year term. The Editorial Board will meet (virtually) a minimum of twice a year and will correspond as needed by email.
+>
+> Please send nominations or questions to databib at gmail.com, or visit http://databib.org/about.php for more information. Thank you.
+>
+> -
+> Michael Witt, Purdue University
+> Assistant Professor of Library Science
+> Interdisciplinary Research Librarian
+> http://www.lib.purdue.edu/research/witt/
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+
+
+-- 
+Co-Founder, Open Knowledge Foundation
+Promoting Open Knowledge in a Digital Age
+http://www.okfn.org/ - http://blog.okfn.org/
+
+
+From pm286 at cam.ac.uk  Wed Jul 18 15:02:44 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 18 Jul 2012 15:02:44 +0100
+Subject: [open-science] Fwd: BBSRC Funding Opportunities
+In-Reply-To: <BBABB578-8D63-4093-BB3C-0726676A3E37@cam.ac.uk>
+References: <BBABB578-8D63-4093-BB3C-0726676A3E37@cam.ac.uk>
+Message-ID: <CAD2k14Nw4dOjctdue5Hu3629ZQVJgPCACKDY9NjFF7yxGiXosA@mail.gmail.com>
+
+In case this could be something we get involved in. Needs a UK academic as
+partner (I don't count)
+
+
+Please find below BBSRC funding opportunities.
+
+
+
+   - *BBSRC: Tools and Resources Development Fund: Call 1*
+
+The Tools and Resources Development Fund aims to pump prime the next
+generation of tools, technologies and resources that will be required by
+bioscience researchers. The call will consider proposals for:****
+
+   - Early concept, exploratory investigations of new tools, technologies
+   and resources.****
+   - Rapid access to, and novel deployment of, the very latest cutting edge
+   technology (such proposals would normally include collaboration with the
+   technology provider).****
+   - Radical, novel modifications to existing tools, technologies and
+   resources to facilitate new biological understanding and an expansion in
+   use.****
+
+** **
+
+Applications should be for early concept development, particularly where
+little pilot data exists. It is intended that funded research will involve
+interdisciplinary and multidisciplinary approaches and applications should
+demonstrate appropriate collaborative connections, and biological
+demonstration/knowledge derivation.****
+
+Applicants interested in submitting projects related to the development of
+bioinformatics, computational biology or algorithms, including data
+sharing, should submit applications to the second call to be issued later
+in 2012.****
+
+*Funding*: The call will have an indicative budget of ?1.5M and successful
+grants will not normally exceed ?120,000. Projects will last between 6 and
+18 months.****
+
+*Eligibility*: Normal BBSRC eligibility rules apply.****
+
+*Deadline*: 4 September 2012 (16:00)****
+
+For more information see:
+http://www.bbsrc.ac.uk/funding/opportunities/2012/2012-tools-resources-development-call1.aspx
+
+
+
+
+   - *BBSRC: Sustainable Bioenergy and Biofuels*
+
+** **
+The BBSRC and the Department of Biotechnology (DBT) in India invite
+collaborative (UK-India) research proposals that underpin the generation
+and implementation of sustainable, advanced, bioenergy (including
+biofuels). The call is focused around three priority areas:****
+** **
+
+   - Identification, characterisation and improvement of novel biomass
+   (including algal biomass) processing enzymes.****
+   - Application of systems and synthetic biology approaches for the
+   development of microbial strains for the production of advanced biofuels
+   and capable of using all of the sugars derived from lignocellulosic or
+   algal biomass.****
+   - The improvement of algal strains suitable for biofuel applications
+   including genomics approaches.****
+
+** **
+Projects can address biological routes including bacteria, yeast, fungi,
+micro- and macro-algae and terrestrial plant derived biomass. Applicants
+considering projects outside the priority areas above should contact the
+BBSRC at an early stage. All projects must employ second generation or
+beyond technologies and should demonstrate that sustainability factors have
+been taken into consideration.****
+** **
+The call will not fund theoretical projects that are not coupled with
+experimental work, projects based on networking and knowledge transfer
+only, the exploitation of thermochemical and/or other non-biological routes
+to produce bioenergy; projects using first generation biofuel technologies;
+or projects using feedstocks specific to the UK or India (unless used to
+demonstrate a principle that can readily be translated to other feedstocks).
+****
+** **
+*Eligibility*: Proposals must include applicants based in India and the UK
+working together in cross-national teams on cross-disciplinary projects.
+All UK applicants must adhere to BBSRC eligibility rules, while Indian
+applicants must adhere to DBT rules. Non-eligible institutions may be
+included in a project, but they will not receive funding.****
+** **
+*Funding*: BBSRC will fund the UK components and DBT the Indian components
+of successful projects. Both bodies have earmarked up to ?5M for the call.
+Projects should be up to a maximum duration of 3 years. There is no upper
+cost limit per project, but it should be noted that multiple projects will
+be funded. BBSRC funding will be awarded on the basic of full economic
+costs and cannot be used to fund PhD students.****
+** **
+*Deadlines*:      Intention to submit form ? 30 August 2012 (16:00)****
+Full proposals ? 9 October 2012 (16:00)****
+** **
+For more details see:
+http://www.bbsrc.ac.uk/funding/opportunities/2012/sustainable-bioenergy-biofuels.aspx
+?****
+** **
+**
+**
+**
+**
+**
+**
+
+   - *Nitrogen: Improving on nature ? A joint BBSRC and NSF Ideas Lab*
+
+** **
+The BBSRC and the National Science Foundation (US) invite expressions of
+interest to participate in an Ideas Lab Workshop to be held at Crewe Hall,
+near Crewe (UK) from 3-7 December 2012.****
+** **
+The Lab will seek to develop innovative and transformative ways to reduce
+inputs of nitrogen fertilizers to non-leguminous crops whilst maintaining
+or increasing yield, through a multidisciplinary approach. This could be
+achieved by:****
+** **
+
+   - Giving crops the ability to fix their own nitrogen****
+   - Significantly increasing the nitrogen available to roots by
+   manipulating the rhizosphere; or****
+   - Significantly improving the crop?s nitrogen use efficiency.****
+
+** **
+Other approaches are also welcome, but the proposals generated by the Lab
+are expected to have the potential to lead to a step-change in current
+knowledge. A multi-disciplinary approach will be adopted and it is intended
+that the Lab will lead to strong transatlantic alliances.****
+** **
+*Funding*: The Ideas Lab will develop outline proposals that will
+subsequently be developed into full proposals and submitted for
+consideration by the funding agencies. Up to $12M is available to fund
+these proposals. Researchers who do not wish to participate in the Lab, but
+would like to apply for BBSRC funding in this area can submit an
+application at any time through responsive mode.****
+** **
+*Deadlines*: Applications must be received by 7 September 2012 (16:00)****
+** **
+For more details see:
+http://www.bbsrc.ac.uk/funding/opportunities/2012/ideaslab-nitrogen-improving-on-nature.aspx
+?****
+** **
+
+
+Kind regards,
+
+Adriana Costa
+Research Grants Clerk
+University of Cambridge
+Department of Chemistry
+Lensfield Road
+Cambridge, CB2 1EW
+ac830 at cam.ac.uk
+01223761438
+Please note I work Tuesdays, Wednesdays and Thursdays.
+
+
+
+
+
+
+Please reply to the sender NOT the list
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120718/03f850f2/attachment.htm>
+
+From mark.wainwright at okfn.org  Wed Jul 18 15:09:13 2012
+From: mark.wainwright at okfn.org (Mark Wainwright)
+Date: Wed, 18 Jul 2012 15:09:13 +0100
+Subject: [open-science] UK science to be open access
+Message-ID: <CAHoq+O0WErmCoHBannvKxCTza=Mc9MXLJN6jsH=4QQ=Qi4yoDg@mail.gmail.com>
+
+The UK government plans to make all publicly-funded science open
+access, accepting the recommendations of the Finch report:
+
+http://www.bis.gov.uk/news/topstories/2012/Jul/government-to-open-up-publicly-funded-research
+
+On a related note, Research Councils UK (RCUK) have published a new
+Open Access policy:
+
+http://www.rcuk.ac.uk/media/news/2012news/Pages/120716.aspx
+
+
+-- 
+Mark Wainwright, CKAN Community Co-ordinator
+Open Knowledge Foundation http://okfn.org/
+CKAN on Twitter: @CKANproject
+
+
+From pierre.chrzanowski at gmail.com  Wed Jul 18 15:52:08 2012
+From: pierre.chrzanowski at gmail.com (Pierre Chrzanowski)
+Date: Wed, 18 Jul 2012 15:52:08 +0100
+Subject: [open-science] UK science to be open access
+In-Reply-To: <CAHoq+O0WErmCoHBannvKxCTza=Mc9MXLJN6jsH=4QQ=Qi4yoDg@mail.gmail.com>
+References: <CAHoq+O0WErmCoHBannvKxCTza=Mc9MXLJN6jsH=4QQ=Qi4yoDg@mail.gmail.com>
+Message-ID: <CAB-gMsvdABM2X2CTu3Nqwz-8Q8Axa8aauyOgVcgq7PNPrHXhrg@mail.gmail.com>
+
+Thank you Mark, that's quite a move from the UK. Let's hope other countries
+in the EU will follow.
+
+On the debate Gold OA versus Green OA, I also recommand the editorial from
+the Guardian
+http://www.guardian.co.uk/science/blog/2012/jul/17/open-access-scientific-research?INTCMP=SRCH
+
+
+And for a wider perspective on OA, data-Intensive research and public
+engagement, the report from the Royal Society is worth reading
+http://royalsociety.org/policy/projects/science-public-enterprise/report/
+
+Pierre
+@piezanowski
+ICT Policy Analyst
+French Embassy in London
+
+On Wed, Jul 18, 2012 at 3:09 PM, Mark Wainwright
+<mark.wainwright at okfn.org>wrote:
+
+> The UK government plans to make all publicly-funded science open
+> access, accepting the recommendations of the Finch report:
+>
+>
+> http://www.bis.gov.uk/news/topstories/2012/Jul/government-to-open-up-publicly-funded-research
+>
+> On a related note, Research Councils UK (RCUK) have published a new
+> Open Access policy:
+>
+> http://www.rcuk.ac.uk/media/news/2012news/Pages/120716.aspx
+>
+>
+> --
+> Mark Wainwright, CKAN Community Co-ordinator
+> Open Knowledge Foundation http://okfn.org/
+> CKAN on Twitter: @CKANproject
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120718/3e2ed9e0/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Wed Jul 18 16:07:40 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 18 Jul 2012 16:07:40 +0100
+Subject: [open-science] Call for Papers: Open Data Academic Research,
+	OKFestival 2012
+In-Reply-To: <CAKd-yfh+fJk4MhV3vKSa7De5wLHaDPSbNy=7xpXNtWd_iyRVeQ@mail.gmail.com>
+References: <CAKd-yfh+fJk4MhV3vKSa7De5wLHaDPSbNy=7xpXNtWd_iyRVeQ@mail.gmail.com>
+Message-ID: <CABPM+wrjt3tqUAupK3xFA7_6O+O6hxGUpsXas1gcN4g3HymTxA@mail.gmail.com>
+
+I don't think this was sent to open-science, apologies if you receive it
+twice...
+
+---------- Forwarded message ----------
+From: Kat Braybrooke <kat.braybrooke at okfn.org>
+Date: Wed, Jul 18, 2012 at 1:11 PM
+Subject: Call for Papers: Open Data Academic Research, OKFestival 2012
+To: educationandresearch at okfestival.org, academictrack.okfest at gmail.com
+Cc: okfestival-coord at lists.okfn.org, okfn-discuss at lists.okfn.org,
+okfn-coord at lists.okfn.org, open-access at lists.okfn.org,
+okfn-local-coord at lists.okfn.org
+
+
+Hello,
+
+A quick note that the Open Data Academic research session at this year's
+OKFestival <http://okfestival.org> has released its second call for papers
+with a deadline of 3 August, 2012. This is a great opportunity for those of
+you who are engaging with open data in academic environments to speak to
+new colleagues working on similar initiatives from around the world.
+
+The festival itself runs from the 17th to 22nd of September in Helsinki,
+Finland, with core conference days on Tues the 18th of Sept to Thurs the
+20th of Sept (Details at <http://okfestival.org/schedule>).
+
+Best of luck and look forward to seeing many of you in Helsinki!
+
+Kat
+
+*Apologies for cross-posts; have sent to applicable discussion lists in
+bulk.*
+
+-------------------------------------------------------------------------
+| Kat Braybrooke | London, UK
+| The Open Knowledge Foundation <http://okfn.org/>
+| Coordinator of OKFestival 2012 <http://okfestival.org/> & Regional
+Groups<http://okfn.org/chapters>
+| Twitter @kat_braybrooke <http://twitter.com/kat_braybrooke> | Skype
+@ardent_coeur
+
+
+  ***2nd Call for Papers: Open Data Academic Research at OKFest***
+
+The Open Data research session will focus on the impact of Open Data
+research within the academic environment. The session will bring together
+the latest research concerning Open Data and Open Government Data, forming
+an interdisciplinary mix of short presentations followed by a discussion
+panel.
+
+The panel will be 2 hours long, and invites submissions from a broad range
+of disciplines. See below for potential topic ideas.
+
+The aim of the workshop is to publish the accepted papers and outcomes in a
+relevant journal/proceedings - more information to follow.
+*
+## Submissions*
+Submissions should consist of a 2 page extended abstract of a position
+paper of current research. Accepted authors will require to produce a 4-6
+page paper and 15 minute presentation to be given at the workshop.
+
+Please send submissions to: academictrack.okfest at gmail.com
+Submission Deadline: *20th July*
+Accepted Papers to be selected by *3rd August
+
+## Possible Topics*
+? *Mapping the movement: *What histories can illuminate current open data
+practice? How should we understand the idea of an open data movement? What
+can research tell us about the future directions a movement might take?
+? *Open data impacts*: What impact is open data having in different fields?
+What methods can be used to trace the impacts of open data?
+? *Open data internationally*: What impact is open data having in different
+countries? How is open data supporting transparency as well as
+participatory engagement?
+?* **Open data and democracy*: How is open data being used to support
+democratic engagement, or impacting upon the democratic sphere?
+? *Open data as a tool for research*: Exploring how open data can be used
+in research, and tools for open data-driven research.
+
+If you have any questions, please contact: academictrack.okfest at gmail.com***
+*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120718/3e095386/attachment.htm>
+
+From dc at icommons.org  Thu Jul 19 15:37:07 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Thu, 19 Jul 2012 10:37:07 -0400
+Subject: [open-science] query regarding language in permission to mine
+Message-ID: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+
+This is the draft of a clause that would waive attribution when mining.  
+
+Do any of you have any thoughts on whether this language is reasonable for the purpose?  Is attribution stacking a problem that truly needs to be addressed?
+
+I am a bit concerned that it leaves a possible loophole allowing the miner to intentionally omit any identifiable characteristics simply to avoid attribution.  Is that an inescapable problem?
+
+Any advice would be appreciated.
+
+Diane Cabell
+iCommons Ltd
+Creative Commons
+OeRC
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120719/ecea359d/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jul 19 19:15:53 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 19 Jul 2012 19:15:53 +0100
+Subject: [open-science] query regarding language in permission to mine
+In-Reply-To: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+References: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+Message-ID: <CAD2k14NUQX0rcUBv8cPOPPQ2B_sPmHdhJ+arZFy_SCyDtrRFig@mail.gmail.com>
+
+On Thu, Jul 19, 2012 at 3:37 PM, Diane Cabell <dc at icommons.org> wrote:
+
+> This is the draft of a clause that would waive attribution when mining.
+>
+> ^^^ where is "This"??
+
+P.
+
+
+> Do any of you have any thoughts on whether this language is reasonable for
+> the purpose?  Is attribution stacking a problem that truly needs to be
+> addressed?
+>
+> I am a bit concerned that it leaves a possible loophole allowing the miner
+> to intentionally omit any identifiable characteristics simply to avoid
+> attribution.  Is that an inescapable problem?
+>
+> Any advice would be appreciated.
+>
+> Diane Cabell
+> iCommons Ltd
+> Creative Commons
+> OeRC
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120719/5acc0817/attachment.htm>
+
+From dc at icommons.org  Thu Jul 19 19:44:53 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Thu, 19 Jul 2012 14:44:53 -0400
+Subject: [open-science] query regarding language in permission to mine -
+	with clause
+In-Reply-To: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+References: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+Message-ID: <08DDBFFB-645D-46CD-9137-697411E7556E@icommons.org>
+
+Apologies!  The relevant clause is:
+
+"The [requirement of attribution] shall not apply to the products of text, data and other information mining processes where the Work or portions thereof that appear in the mined product are not identifiable by their original source."
+
+
+
+On Jul 19, 2012, at 10:37 AM, Diane Cabell wrote:
+
+> This is the draft of a clause that would waive attribution when mining.  
+> 
+> Do any of you have any thoughts on whether this language is reasonable for the purpose?  Is attribution stacking a problem that truly needs to be addressed?
+> 
+> I am a bit concerned that it leaves a possible loophole allowing the miner to intentionally omit any identifiable characteristics simply to avoid attribution.  Is that an inescapable problem?
+> 
+> Any advice would be appreciated.
+> 
+> Diane Cabell
+> iCommons Ltd
+> Creative Commons
+> OeRC
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120719/e3399d62/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Jul 19 20:39:03 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 19 Jul 2012 20:39:03 +0100
+Subject: [open-science] query regarding language in permission to mine -
+ with clause
+In-Reply-To: <08DDBFFB-645D-46CD-9137-697411E7556E@icommons.org>
+References: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+	<08DDBFFB-645D-46CD-9137-697411E7556E@icommons.org>
+Message-ID: <CAD2k14OWHLKgoGSKTJyXjnvuRSuJ6xg4-_cXjM+6kRUg5k091g@mail.gmail.com>
+
+On Thu, Jul 19, 2012 at 7:44 PM, Diane Cabell <dc at icommons.org> wrote:
+
+> Apologies!  The relevant clause is:
+>
+> "The [requirement of attribution] shall not apply to the products of text,
+> data and other information mining processes where the Work or portions
+> thereof that appear in the mined product are not identifiable by their
+> original source."
+>
+>
+>
+> On Jul 19, 2012, at 10:37 AM, Diane Cabell wrote:
+>
+> This is the draft of a clause that would waive attribution when mining.
+>
+> When reporting the results of mining... to a public audience
+
+
+
+> Do any of you have any thoughts on whether this language is reasonable for
+> the purpose?  Is attribution stacking a problem that truly needs to be
+> addressed?
+>
+> I don't see A/s as a problem. I think the world will evolve a solution. I
+think one should cite the immediately preceding source.
+
+> I am a bit concerned that it leaves a possible loophole allowing the miner
+> to intentionally omit any identifiable characteristics simply to avoid
+> attribution.  Is that an inescapable problem?
+>
+> I think the problem is trying to use licences rather than community
+norms.  Licences are a blunt instrument and aren't designed to stack. I
+would suggest that we urge one layer of attribution but don't mandate it.
+
+But I haven't thought this through.
+
+P.
+
+Any advice would be appreciated.
+>
+> Diane Cabell
+> iCommons Ltd
+> Creative Commons
+> OeRC
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120719/485dbc98/attachment.htm>
+
+From jonathan.gray at okfn.org  Fri Jul 20 15:52:30 2012
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 20 Jul 2012 16:52:30 +0200
+Subject: [open-science] European Commission adopts Communication and
+ Recommendation on access to and preservation of scientific information
+In-Reply-To: <CANQ_vu1NLyFr6S-FZfHuaGig-45h7Y7UzEr3GA+fbQP6iXHdRQ@mail.gmail.com>
+References: <60A4276BCF8B0842A0C77EBE570CB4EB1DECA244@S-DC-ESTD03-B.net1.cec.eu.int>
+	<CANQ_vu17TpsXKiyGhaepU353BVKe5J+0MVWjtJB86kbin9KQyA@mail.gmail.com>
+	<CANQ_vu1NLyFr6S-FZfHuaGig-45h7Y7UzEr3GA+fbQP6iXHdRQ@mail.gmail.com>
+Message-ID: <CANQ_vu1HVuOTMk+r3MZkaadaJsQih8THjpT-=ABGtzeA-EXcPA@mail.gmail.com>
+
+FYI I've just written a short piece on this for the Guardian Datablog -
+including a nod to the science working group:
+
+http://www.guardian.co.uk/news/datablog/2012/jul/20/data-science-public-open-knowledge?mobile-redirect=false
+
+We'll repost it on main OKFN blog shortly!
+
+All the best,
+
+Jonathan
+
+On Tuesday, July 17, 2012, Jonathan Gray <jonathan.gray at okfn.org> wrote:
+> Just to add to this: there is lots of great stuff in here, in the
+> various PDFs attached to the 'background' page.
+>
+> J.
+>
+> On Tue, Jul 17, 2012 at 12:56 PM, Jonathan Gray <jonathan.gray at okfn.org>
+wrote:
+>> ---------- Forwarded message ----------
+>> From:  <RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu>
+>> Date: Tue, Jul 17, 2012 at 12:10 PM
+>> Subject: European Commission adopts Communication and Recommendation
+>> on access to and preservation of scientific information
+>> To: RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu
+>>
+>>
+>> Dear friends of open access,
+>>
+>> We are happy to announce that the European Commission has today
+>> outlined measures to improve access to scientific knowledge produced
+>> in Europe. Better access to EU-funded scientific papers and data will
+>> make it easier for researchers and businesses to build on the results
+>> of publicly-funded research. This will boost Europe's innovation
+>> capacity and give citizens quicker access to scientific discoveries.
+>>
+>> The Communication sets out open access policy objectives for the
+>> research funded by the Commission through Horizon 2020. An
+>> accompanying Recommendation provides a policy framework for improving
+>> access to a preservation of scientific information in EU Member
+>> States.
+>>
+>> For more information take a look at
+>>
+>> http://ec.europa.eu/research/science-society/open_access
+>>
+>> (click on "background" to access the documents)
+>>
+>> Feel free to contact us at RTD-SCIENTIFIC-PUBLICATION at ec.europa.eu if
+>> you have any questions.
+>>
+>> Best regards,
+>>
+>> The Open Access team
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> --
+>> Jonathan Gray
+>>
+>> Community Coordinator
+>> The Open Knowledge Foundation
+>> http://www.okfn.org
+>>
+>> http://twitter.com/jwyg
+>
+>
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://www.okfn.org
+>
+> http://twitter.com/jwyg
+>
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://www.okfn.org
+
+http://twitter.com/jwyg
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120720/94a32b3b/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Tue Jul 24 07:46:02 2012
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Tue, 24 Jul 2012 07:46:02 +0100
+Subject: [open-science] Brazilian Citizen Cyber Science Hackfest around
+ Sustainable Development: Call for Ideas
+Message-ID: <CAChagOCYR22sRxE0wnsmSVF=w7DBYK1oKH5J4O0fE8g_vH1yqw@mail.gmail.com>
+
+Dear list,
+
+I would like to invite you to contribute with ideas to a forthcoming
+Citizen Cyber Science Hackfest around Sustainable Development:
+
+http://okfnpad.org/cyberscience-hackfestccd, taking place in Sao Paulo at
+the end of the week:
+
+http://br.okfn.org/2012/07/09/brasilhome-hackfest-de-ciberciencia-cidada/
+
+Please suggest good projects that fit this topic and that make use of open
+data, open source or open content.
+
+We would like to collect "data about existing citizen science projects that
+target in one way or other sustainable development, especially topics like
+deforestation (like the ForestWatchers project - forestwatchers.net),
+deglaciation, species depopulation and other georeferenced challenges where
+citizen data collection can make a difference". (quoting Francois's e-mail)
+
+"There are hundreds of such projects, and what I hope our event can help
+launch is some sort of coordination between them, at least as far as
+assisting newcomers to discover projects they can usefully contribute to."
+This is part of a bigger project called GeoSocial, which would be
+introduced at the Sao Paulo event.
+
+If you are interested to participate - in person or remotely, please let us
+know!
+
+
+--
+Velichka Dimitrova
+Project and Community Coordinator for Labs
+Coordinator for Economics and Energy Projects
+Open Knowledge Foundation
+http://okfnlabs.org/ | http://openeconomics.net
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120724/bf2d3f9f/attachment.htm>
+
+From jcmcoppice12 at gmail.com  Wed Jul 25 11:14:33 2012
+From: jcmcoppice12 at gmail.com (Jenny Molloy)
+Date: Wed, 25 Jul 2012 11:14:33 +0100
+Subject: [open-science] Fwd: [okfn-discuss] EduWiki Conference 5-6 September
+	2012
+In-Reply-To: <CAK6ArtwPnmFW7bkKmPiVVBJfkBF+Gwra+W7+rO_HytUjiCgpXA@mail.gmail.com>
+References: <CAK6ArtwPnmFW7bkKmPiVVBJfkBF+Gwra+W7+rO_HytUjiCgpXA@mail.gmail.com>
+Message-ID: <CABPM+wqX8-ykFgqhmK3MUCrusrpY_7YNNo9rOGM0mWE9DQA5YA@mail.gmail.com>
+
+For anyone not on the okfn-discuss list...
+
+---------- Forwarded message ----------
+From: Daria Cybulska <daria.cybulska at wikimedia.org.uk>
+Date: Wed, Jul 25, 2012 at 11:03 AM
+Subject: [okfn-discuss] EduWiki Conference 5-6 September 2012
+To: okfn-discuss at lists.okfn.org
+
+
+Dear All,
+
+On 5-6 September Wikimedia UK is running an Education Conference in
+Leicester, and would like to invite all of you to attend.
+
+A day-and-a-half conference looking at Wikipedia and related charitable
+projects, in terms of educational practice, including good faith
+collaboration, open review, open content, and global participation. It's a
+chance to talk about innovative work in your institution or online
+community, and shape the future of Wikimedia UK's work in this area!
+
+The conference will be of interest to educators, scholarly societies
+members, contributors to Wikipedia and other open education projects, and
+students.
+
+For details and to register please visit *
+http://uk.wikimedia.org/wiki/EduWiki_Conference_2012*
+
+Please feel free to spread the news about the event.
+
+Many thanks,
+Daria
+
+-- 
+Daria Cybulska - Events Organiser, Wikimedia UK
++44 (0) 207 065 0994
++44 7803 505 170
+-- 
+Wikimedia UK is an independent non-profit charity with no legal control
+over Wikipedia nor responsibility for its contents.
+
+Wikimedia UK is the operating name of Wiki UK Limited, a Company Limited by
+Guarantee registered in England and Wales, Registered No. 6741827.
+Registered Charity No.1144513. Registered Office 4th Floor, Development
+House, 56-64 Leonard Street, London EC2A 4LT. United Kingdom. Wikimedia UK
+is the UK chapter of a global Wikimedia movement. The Wikimedia projects
+are run by the Wikimedia Foundation (who operate Wikipedia, amongst other
+projects).
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120725/32cfd85a/attachment.htm>
+
+From andrew.miller at elsevier.com  Wed Jul 25 11:18:11 2012
+From: andrew.miller at elsevier.com (Miller, Andrew (ELS-OXF))
+Date: Wed, 25 Jul 2012 11:18:11 +0100
+Subject: [open-science] Interview with Fred Dylla, Executive Director and CEO,
+	the American Institute of Physics
+Message-ID: <9648144568C0734D83A83F78ADFFF59B07BF60C1@ELSOXFEXCP36VA.science.regn.net>
+
+I hope the following interview is of interest to the group.
+
+ 
+
+http://scholarlykitchen.sspnet.org/2012/07/25/interview-fred-dylla-execu
+tive-director-and-ceo-the-american-institute-of-physics/?utm_source=feed
+burner&utm_medium=twitter&utm_campaign=Feed%3A+ScholarlyKitchen+%28The+S
+cholarly+Kitchen%29
+
+ 
+
+Andrew Miller | Executive Publisher, Health & Medical Sciences, STM
+Journals  | ELSEVIER | The Boulevard, Langford Lane | Kidlington |
+Oxford OX5 1GB | UK | Landline: +44 (0) 1865 843823| Fax: +44 (0) 1865
+843997 | Mobile: +44 (0)7810 813997 | Twitter: EndoMetabPub
+<https://twitter.com/#!/EndoMetabPub> 
+
+ 
+
+
+Elsevier Limited. Registered Office: The Boulevard, Langford Lane, Kidlington, Oxford, OX5 1GB, United Kingdom, Registration No. 1982084 (England and Wales).
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120725/27503dbc/attachment.htm>
+
+From eperlste at princeton.edu  Wed Jul 25 16:55:33 2012
+From: eperlste at princeton.edu (Ethan O. Perlstein)
+Date: Wed, 25 Jul 2012 11:55:33 -0400
+Subject: [open-science] The Journal Wordpress
+Message-ID: <501016F5.5000207@princeton.edu>
+
+Hello,
+
+I'm new entrant to the Open Science list. My name is Ethan Perlstein, 
+I'm an evolutionary pharmacologist at Princeton, and my lab gives psych 
+drugs to yeast.
+
+Recently, I commissioned a modular, self publishing platform built on WP 
+from a professional web design team, and my site went live a month ago: 
+http://perlsteinlab.com
+
+In the spirit of Open Science, I'd like to make my platform freely 
+available and open source. After consultations, the consensus is to 
+convert my site into a Wordpress theme via a community-based effort. I'm 
+looking for anyone interested in helping me, which as I understand 
+ultimately boils down to uploading the base code onto GitHub. However, 
+not being a programmer myself, I don't know how to navigate this process 
+and ensure that conversion to a WP theme is efficient and actually 
+results in a usable platform.
+
+Please let me know if this project is of interest, and if you or anyone 
+you know would be interesting in using such a platform.
+
+Thanks,
+Ethan
+
+
+From pm286 at cam.ac.uk  Wed Jul 25 17:15:04 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 25 Jul 2012 17:15:04 +0100
+Subject: [open-science] The Journal Wordpress
+In-Reply-To: <501016F5.5000207@princeton.edu>
+References: <501016F5.5000207@princeton.edu>
+Message-ID: <CAD2k14PDOXDG2Ew15br6dtn1hLOPU43sT7a_Pj9OMPjJ3Jto-Q@mail.gmail.com>
+
+On Wed, Jul 25, 2012 at 4:55 PM, Ethan O. Perlstein
+<eperlste at princeton.edu>wrote:
+
+> Hello,
+>
+> I'm new entrant to the Open Science list. My name is Ethan Perlstein, I'm
+> an evolutionary pharmacologist at Princeton, and my lab gives psych drugs
+> to yeast.
+>
+> Recently, I commissioned a modular, self publishing platform built on WP
+> from a professional web design team, and my site went live a month ago:
+> http://perlsteinlab.com
+>
+>
+Welcme Ethan!
+
+
+> In the spirit of Open Science, I'd like to make my platform freely
+> available and open source. After consultations, the consensus is to convert
+> my site into a Wordpress theme via a community-based effort. I'm looking
+> for anyone interested in helping me, which as I understand ultimately boils
+> down to uploading the base code onto GitHub. However, not being a
+> programmer myself, I don't know how to navigate this process and ensure
+> that conversion to a WP theme is efficient and actually results in a usable
+> platform.
+>
+>
+Is it specifically based on GitHub? Or would any repository do?
+
+
+> Please let me know if this project is of interest, and if you or anyone
+> you know would be interesting in using such a platform.
+>
+>
+All such ideas are interesting -  the OKF is a meritocracy so take-up
+depends on the ideas and the implementation being compelling.
+
+My personal experience with WP is that it's the de facto open standard - so
+I use it - but it seems awful for semantic content such as XML. But maybe
+it's got better...
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120725/8eaceb91/attachment.htm>
+
+From dc at icommons.org  Wed Jul 25 17:54:21 2012
+From: dc at icommons.org (Diane Cabell)
+Date: Wed, 25 Jul 2012 12:54:21 -0400
+Subject: [open-science] query regarding language in permission to mine -
+	with clause
+In-Reply-To: <6159A7A7-D7EA-40EE-8CFE-302BCDFF5635@cameronneylon.net>
+References: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+	<08DDBFFB-645D-46CD-9137-697411E7556E@icommons.org>
+	<6159A7A7-D7EA-40EE-8CFE-302BCDFF5635@cameronneylon.net>
+Message-ID: <DD92C9A0-FA01-4F2A-A03B-47072F2586D2@icommons.org>
+
+Thanks Peter and Cameron.  Can you bear to educate me even further?
+
+Sec 4.2 of the JISC report on Value and benefits of text mining gave an example of 2930 full-text articles in which the word "malaria" appears.  Am I wrong to think that a miner would have to cite all 2930?  Or if the mining finds a pattern that only appears in 900 of them, then must cite the entire 900?  What is the 'proximate' source in such cases: an Elselvier database of journal articles?
+dc
+
+
+On Jul 19, 2012, at 4:18 PM, cameronneylon.net wrote:
+
+> Yes, this bothers me for the reason you state. It doesn't feel like a good fit for what I feel is "the right thing to do".
+> 
+> It seems to me that the expected community norm would be to cite the proximate source (i.e. it is reasonable to cite the immediate source of data in some form - but there isn't an expectation to cite "deeper" sources). Where this is a large set that is more challenging but it would still be good practice anyway to maintain a list of sources, even if not with the primary distribution. This is just good provenance information for the derivative work.
+> 
+> Could something work along the lines of:
+> 
+> "Where a licenced work is used as input for the purposes of text, data or for other information mining processes, attribution may be complex or challenging. The licensee shall make all reasonable efforts to clearly attribute the immediate (proximate? - is there a term for this?) source or sources of data. It is reasonable for the purposes of this licence for such attribution to made available as a separate document or work from the distributed product of said mining. Where systems exist to track attribution and citation licensee shall make all reasonable efforts to provide notification to such systems when their means of satisfying the attribution requirement differs from that for single derivative works."
+> 
+> IANAL!
+> 
+> 
+> On 19 Jul 2012, at 19:44, Diane Cabell wrote:
+> 
+>> Apologies!  The relevant clause is:
+>> 
+>> "The [requirement of attribution] shall not apply to the products of text, data and other information mining processes where the Work or portions thereof that appear in the mined product are not identifiable by their original source."
+>> 
+>> 
+>> 
+>> On Jul 19, 2012, at 10:37 AM, Diane Cabell wrote:
+>> 
+>>> This is the draft of a clause that would waive attribution when mining.  
+>>> 
+>>> Do any of you have any thoughts on whether this language is reasonable for the purpose?  Is attribution stacking a problem that truly needs to be addressed?
+>>> 
+>>> I am a bit concerned that it leaves a possible loophole allowing the miner to intentionally omit any identifiable characteristics simply to avoid attribution.  Is that an inescapable problem?
+>>> 
+>>> Any advice would be appreciated.
+>>> 
+>>> Diane Cabell
+>>> iCommons Ltd
+>>> Creative Commons
+>>> OeRC
+>>> _______________________________________________
+>>> open-science mailing list
+>>> open-science at lists.okfn.org
+>>> http://lists.okfn.org/mailman/listinfo/open-science
+>> 
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120725/1714a3cb/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Jul 25 18:23:21 2012
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 25 Jul 2012 18:23:21 +0100
+Subject: [open-science] query regarding language in permission to mine -
+ with clause
+In-Reply-To: <DD92C9A0-FA01-4F2A-A03B-47072F2586D2@icommons.org>
+References: <8E4475CF-D6E9-4CD3-8CF1-D9AC30873258@icommons.org>
+	<08DDBFFB-645D-46CD-9137-697411E7556E@icommons.org>
+	<6159A7A7-D7EA-40EE-8CFE-302BCDFF5635@cameronneylon.net>
+	<DD92C9A0-FA01-4F2A-A03B-47072F2586D2@icommons.org>
+Message-ID: <CAD2k14O2y5m2nApOYt8sNjfkxFnc94t4xqfBmStPtwYOnKY+9g@mail.gmail.com>
+
+On Wed, Jul 25, 2012 at 5:54 PM, Diane Cabell <dc at icommons.org> wrote:
+
+> Thanks Peter and Cameron.  Can you bear to educate me even further?
+>
+> Sec 4.2 of the JISC report on Value and benefits of text mining<http://www.jisc.ac.uk/publications/reports/2012/value-and-benefits-of-text-mining.aspx> gave
+> an example of 2930 full-text articles in which the word "malaria" appears.
+>  Am I wrong to think that a miner would have to cite all 2930?  Or if the
+> mining finds a pattern that only appears in 900 of them, then must cite the
+> entire 900?  What is the 'proximate' source in such cases: an Elselvier
+> database of journal articles?
+> dc
+>
+>
+A similar problem occurs in data analysis. Let's say someone analyses the
+size of molecules from the Protein Data Bank and uses 25,000 . For the
+purposes of SCIENCE they should report the identifiers for the proteins
+that fall into a particular category (e.g. we found 23 proteins with holes
+in them ABC1, DEF2, ECH1). But if you started with 24,758 entries no-one
+would cite all 24,578. And they are doing this primarily for fidelity of
+the science.
+
+With papers more "value" is currently given to citations (many of us want
+to change the balance). But imagine you are listing the spellings of (say)
+haemoglobine in the literature - a valuable thing to do for text-mining.
+Yiou wouldn't say ("in 24,123 papers it was spelt hemoglobin and then cite
+all of them. But you might say "in 10 papers it was spelt haemoglobine" and
+then cite them as that might be the interesting bit. That's a poor example
+_could do better.
+
+So if there are more than X papers then I would only cite the details if it
+was required for scientific reproducibility. I don't know what X is - it
+will depend. In any case most such citation of bulk resources will almost
+always be through identifiers
+
+>
+> On Jul 19, 2012, at 4:18 PM, cameronneylon.net wrote:
+>
+> Yes, this bothers me for the reason you state. It doesn't feel like a good
+> fit for what I feel is "the right thing to do".
+>
+> It seems to me that the expected community norm would be to cite the
+> proximate source (i.e. it is reasonable to cite the immediate source of
+> data in some form - but there isn't an expectation to cite "deeper"
+> sources). Where this is a large set that is more challenging but it would
+> still be good practice anyway to maintain a list of sources, even if not
+> with the primary distribution. This is just good provenance information for
+> the derivative work.
+>
+> Could something work along the lines of:
+>
+> "Where a licenced work is used as input for the purposes of text, data or
+> for other information mining processes, attribution may be complex or
+> challenging. The licensee shall make all reasonable efforts to clearly
+> attribute the immediate (proximate? - is there a term for this?) source or
+> sources of data. It is reasonable for the purposes of this licence for such
+> attribution to made available as a separate document or work from the
+> distributed product of said mining. Where systems exist to track
+> attribution and citation licensee shall make all reasonable efforts to
+> provide notification to such systems when their means of satisfying the
+> attribution requirement differs from that for single derivative works."
+>
+> IANAL!
+>
+>
+>
+> On 19 Jul 2012, at 19:44, Diane Cabell wrote:
+>
+> Apologies!  The relevant clause is:
+>
+>
+> "The [requirement of attribution] shall not apply to the products of text,
+> data and other information mining processes where the Work or portions
+> thereof that appear in the mined product are not identifiable by their
+> original source."
+>
+>
+>
+>
+> On Jul 19, 2012, at 10:37 AM, Diane Cabell wrote:
+>
+>
+> This is the draft of a clause that would waive attribution when mining.
+>
+>
+> Do any of you have any thoughts on whether this language is reasonable for
+> the purpose?  Is attribution stacking a problem that truly needs to be
+> addressed?
+>
+>
+> I am a bit concerned that it leaves a possible loophole allowing the miner
+> to intentionally omit any identifiable characteristics simply to avoid
+> attribution.  Is that an inescapable problem?
+>
+>
+> Any advice would be appreciated.
+>
+>
+> Diane Cabell
+>
+> iCommons Ltd
+>
+> Creative Commons
+>
+> OeRC
+>
+> _______________________________________________
+>
+> open-science mailing list
+>
+> open-science at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+> _______________________________________________
+>
+> open-science mailing list
+>
+> open-science at lists.okfn.org
+>
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+>
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120725/49840e69/attachment.htm>
+
+From jenny.molloy at okfn.org  Sun Jul 29 18:37:54 2012
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Sun, 29 Jul 2012 18:37:54 +0100
+Subject: [open-science] Open Science experiences wanted for OKFest
+Message-ID: <CABPM+woNZw+oQk1Cj-f+efDirxm=bOGLrroOzd7dkw0jeXynGA@mail.gmail.com>
+
+Dear All
+
+Planning for the Open Research and Education stream at OKFest is nearing
+finalisation but we'd love to get your input into some of the discussions
+and sessions, even if you can't make it to Helsinki.
+
+If you'd be willing to discuss your experiences (good or bad) with:
+
+- Sharing your experimental raw data openly
+- Innovative open access models
+- Open science tools
+- Communicating science openly (either with other scientists or the public)
+- Challenges of dealing with crowd sourced data
+- Obtaining data from museums for scientific research
+
+Get in touch! There are a variety of ways to contribute content to the
+talks and hands on sessions so we'd love to hear from you.
+
+Best wishes
+
+Jenny
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20120729/6cd30db4/attachment.htm>
+
+From mark.wainwright at okfn.org  Tue Jul 31 18:01:53 2012
+From: mark.wainwright at okfn.org (Mark Wainwright)
+Date: Tue, 31 Jul 2012 18:01:53 +0100
+Subject: [open-science] Reminder: CKAN + Science online meetup this week
+Message-ID: <CAHoq+O3ynYR4j5hXMGtgLL1Rfc90wWAUYE6RgNgq6cwOm7Y5RQ@mail.gmail.com>
+
+Dear all,
+
+Just a reminder of the online meetup this Thursday (5pm UK time) on
+using CKAN and the DataHub for working with scientific data. All
+welcome - if you'd like to join this discussion, please add your name
+and Skype ID on the etherpad:
+
+http://ckan.okfnpad.org/meetup-2012-08-02
+
+Feel free to add specific questions or topic areas to discuss, too.
+
+Mark
+
+-- 
+Mark Wainwright, CKAN Community Co-ordinator
+Open Knowledge Foundation http://okfn.org/
+CKAN on Twitter: @CKANproject
+
+

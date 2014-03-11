@@ -1,0 +1,1039 @@
+From jonathan.gray at okfn.org  Wed Feb 24 17:05:53 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Wed, 24 Feb 2010 18:05:53 +0100
+Subject: [open-bibliography] Getting started with the Working Group on Open
+	Bibliographic Data
+Message-ID: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+
+Welcome to the new list for the Working Group on Open Bibliographic
+Data! A list of current members and the group's purpose is at:
+
+  http://wiki.okfn.org/wg/bibliography
+
+In terms of next steps, the first instance I propose:
+
+  1. We make sure that we have broad representation from existing
+projects and initiatives interested in open bibliographic data. It
+would be great if everyone could cast their eyes over the list to see
+if there are any obvious omissions!
+  2. We find a regular slot to have monthly virtual meetings. I
+suggest we do this on a weekday in the late afternoon/early evening
+GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+  3. Once we have done 1. and 2., we aim to launch the working group
+in the next few weeks?
+
+How does this sound?
+
+All the best,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From kcoyle at kcoyle.net  Wed Feb 24 17:25:05 2010
+From: kcoyle at kcoyle.net (Karen Coyle)
+Date: Wed, 24 Feb 2010 09:25:05 -0800
+Subject: [open-bibliography] Getting started with the Working Group on
+	Open Bibliographic	Data
+In-Reply-To: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+Message-ID: <20100224092505.tbgntco408okk8os@kcoyle.net>
+
+As a PST'r (and thus in possibly the earliest time zone) I could do  
+earlier, say two hours earlier. I know Jim P is in my zone, as it were  
+-- how does earlier work for you? that could make it easier on the  
+European members. Others on this coast?
+
+kc
+-- 
+Karen Coyle
+kcoyle at kcoyle.net http://kcoyle.net
+ph: 1-510-540-7596
+m: 1-510-435-8234
+skype: kcoylenet
+
+
+Quoting Jonathan Gray <jonathan.gray at okfn.org>:
+
+> Welcome to the new list for the Working Group on Open Bibliographic
+> Data! A list of current members and the group's purpose is at:
+>
+>   http://wiki.okfn.org/wg/bibliography
+>
+> In terms of next steps, the first instance I propose:
+>
+>   1. We make sure that we have broad representation from existing
+> projects and initiatives interested in open bibliographic data. It
+> would be great if everyone could cast their eyes over the list to see
+> if there are any obvious omissions!
+>   2. We find a regular slot to have monthly virtual meetings. I
+> suggest we do this on a weekday in the late afternoon/early evening
+> GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+>   3. Once we have done 1. and 2., we aim to launch the working group
+> in the next few weeks?
+>
+> How does this sound?
+>
+> All the best,
+>
+> --
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+
+
+
+
+
+From cjg at ecs.soton.ac.uk  Thu Feb 25 11:30:31 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Thu, 25 Feb 2010 11:30:31 +0000
+Subject: [open-bibliography] Getting started with the Working Group on
+ Open Bibliographic Data
+In-Reply-To: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+	<4B865F57.4020708@ecs.soton.ac.uk>
+Message-ID: <EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+
+Sounds good. Can I ask if anyone on the list (other than Ed Summers) is 
+at Dev8D in London. It is possible that some other people on this list 
+are currently in the same building as me!
+
+Jonathan Gray wrote:
+> Welcome to the new list for the Working Group on Open Bibliographic
+> Data! A list of current members and the group's purpose is at:
+>
+>   http://wiki.okfn.org/wg/bibliography
+>
+> In terms of next steps, the first instance I propose:
+>
+>   1. We make sure that we have broad representation from existing
+> projects and initiatives interested in open bibliographic data. It
+> would be great if everyone could cast their eyes over the list to see
+> if there are any obvious omissions!
+>   2. We find a regular slot to have monthly virtual meetings. I
+> suggest we do this on a weekday in the late afternoon/early evening
+> GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+>   3. Once we have done 1. and 2., we aim to launch the working group
+> in the next few weeks?
+>
+> How does this sound?
+>
+> All the best,
+>
+>   
+
+-- 
+Christopher Gutteridge -- http://www.ecs.soton.ac.uk/people/cjg
+
+Lead Developer, EPrints Project, http://eprints.org/
+
+Web Projects Manager, University of Southampton, 
+School of Electronics and Computer Science
+
+
+
+From pitman at stat.Berkeley.EDU  Thu Feb 25 17:17:19 2010
+From: pitman at stat.Berkeley.EDU (Jim Pitman)
+Date: Thu, 25 Feb 2010 09:17:19 -0800
+Subject: [open-bibliography] Getting started with the Working Group on
+ Open Bibliographic Data
+In-Reply-To: <EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+	<4B865F57.4020708@ecs.soton.ac.uk>
+	<EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+Message-ID: <20100225171719.A48287FE0@bibserver.Berkeley.EDU>
+
+> Jonathan Gray wrote:
+> > Welcome to the new list for the Working Group on Open Bibliographic
+> > Data! A list of current members and the group's purpose is at:
+> >
+> >   http://wiki.okfn.org/wg/bibliography
+> >
+> > In terms of next steps, the first instance I propose:
+> >
+> >   1. We make sure that we have broad representation from existing
+> > projects and initiatives interested in open bibliographic data. It
+> > would be great if everyone could cast their eyes over the list to see
+> > if there are any obvious omissions!
+> >   2. We find a regular slot to have monthly virtual meetings. I
+> > suggest we do this on a weekday in the late afternoon/early evening
+> > GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+> >   3. Once we have done 1. and 2., we aim to launch the working group
+> > in the next few weeks?
+> > How does this sound?
+
+Good for me.  What kind of virtual meeting did you have in mind?
+How many participants can you handle with various media?
+
+From bogus@does.not.exist.com  Fri Feb 12 23:10:20 2010
+From: bogus@does.not.exist.com ()
+Date: Fri, 12 Feb 2010 23:10:20 -0000
+Subject: No subject
+Message-ID: <mailman.3.1267118243.21076.open-bibliography@lists.okfn.org>
+
+How are you planning to control the size and membership of this group?
+
+Do you plan to restrict membership to those with a real commitment
+to increasing the quality and quantity of open biblio data?
+
+If so, how are you going to make this determination?
+
+What exactly qualifies as "open biblio data"? (Public domain? CC0, CC BY? with or without NC or SA clauses, ...?
+
+However you respond to the above, here is a list of potential participants 
+I would encourage you to invite, all of them associated with the BKN Project:
+
+Thomas Krichel, 
+creator of RePEc http://repec.org/
+and AuthorClaim Service http://authorclaim.org/
+krichel at openlib.org
+
+Fred Giasson creator/maintainer of BIBO http://bibliontology.com/
+and developer of BKN people http://people.bibkn.org/
+fred at fgiasson.com
+
+Fil Menczer creator/maintainer of Scholarometer http://scholarometer.indiana.edu/
+filmenczer at gmail.com
+
+Micah Altman 
+Micah_Altman at harvard.edu
+Contact for Dataverse , Harvard Scholar's Sites, Harvard/MIT data archive
+
+Lee Giles
+giles at ist.psu.edu
+Developer of CiteSeer
+
+I could also suggest various industrial contacts (Google, Msoft, Freebase, Couchio, BePress, ... ) but I am not sure how the group feels about having industrial contacts on the list. My own view is that engaging industrial support is essential for success of open biblio data efforts. How this could or should be done 
+is very much open to discussion.  Serious consideration of the licensing issues seems essential to resolve this.
+
+There are also many more people loosely associated with the BKN project, but 
+affiliated with publishers or sholarly socs which have mixed, apprehensive or 
+hostile feelings about open biblio data for various reasons. Which
+brings back the issue of criteria for membership of the group, and to what 
+extent and how you want to control its size.
+
+with best wishes to all
+
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+
+
+From jonathan.gray at okfn.org  Thu Feb 25 17:52:34 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Thu, 25 Feb 2010 18:52:34 +0100
+Subject: [open-bibliography] Getting started with the Working Group on
+	Open Bibliographic Data
+In-Reply-To: <20100225171719.A48287FE0@bibserver.Berkeley.EDU>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+	<4B865F57.4020708@ecs.soton.ac.uk>
+	<EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+	<20100225171719.A48287FE0@bibserver.Berkeley.EDU>
+Message-ID: <54ca21751002250952v3be896fmc03dccef5e15a41c@mail.gmail.com>
+
+Thanks for your email, Jim!
+
+On Thu, Feb 25, 2010 at 6:17 PM, Jim Pitman <pitman at stat.berkeley.edu> wrote:
+> Good for me. ?What kind of virtual meeting did you have in mind?
+
+Having tried different options in the past, I would suggest IRC as
+main point of contact. From this can use, e.g. Skype, Etherpad and
+suchlike to the extent to which these are useful/appropriate.
+
+> How many participants can you handle with various media?
+
+If we use IRC my guess is that size won't be such an issue. If
+necessary we can always break out into different focus groups.
+
+> From my experience, conference call gets out of hand with more than
+> about 5 participants. ?Some basic questions are:
+>
+> How are you planning to control the size and membership of this group?
+
+The way I see it we should be open to new members and in the first
+instance should keep administrative overhead (in terms of process,
+membership, etc.) to a minimum.
+
+> Do you plan to restrict membership to those with a real commitment
+> to increasing the quality and quantity of open biblio data?
+
+I think either commitment to actively promoting open bibliographic
+metadata, or working on projects publishing or using such data.
+
+> If so, how are you going to make this determination?
+
+My feeling is to say that there is an expectation to contribute to the
+Working Group and to participate in meetings, etc., but no formal
+requirements?
+
+> What exactly qualifies as "open biblio data"? (Public domain? CC0, CC BY? with or without NC or SA clauses, ...?
+
+At a minimum, compliance with the Open Knowledge Definition:
+
+  http://www.opendefinition.org/
+  http://www.opendefinition.org/okd
+  http://www.opendefinition.org/licenses/
+
+> However you respond to the above, here is a list of potential participants
+> I would encourage you to invite, all of them associated with the BKN Project:
+
+[snip]
+
+Excellent - many thanks for the suggestions! I wonder, if you know
+them already - would you be willing to invite them on behalf of the
+working group?
+
+> I could also suggest various industrial contacts (Google, Msoft, Freebase, Couchio, BePress, ... ) but I am not sure how the group feels about having industrial contacts on the list. My own view is that engaging industrial support is essential for success of open biblio data efforts. How this could or should be done
+
+I'm happy with inviting anyone with an commitment to open
+bibliographic data. Personally those who *publish*, work with and
+share back such data are a priority. Not so interested in those who
+use data, but aren't interested in either promoting open data or
+sharing back.
+
+> is very much open to discussion. ?Serious consideration of the licensing issues seems essential to resolve this.
+>
+> There are also many more people loosely associated with the BKN project, but
+> affiliated with publishers or sholarly socs which have mixed, apprehensive or
+> hostile feelings about open biblio data for various reasons. Which
+> brings back the issue of criteria for membership of the group, and to what
+> extent and how you want to control its size.
+
+Would be interested to hear what you and other WG members think about above!
+
+All the best,
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From felix.ostrowski at googlemail.com  Thu Feb 25 18:06:57 2010
+From: felix.ostrowski at googlemail.com (Felix Ostrowski)
+Date: Thu, 25 Feb 2010 19:06:57 +0100
+Subject: [open-bibliography] Getting started with the Working Group on
+	Open Bibliographic Data
+In-Reply-To: <20100225171719.A48287FE0@bibserver.Berkeley.EDU>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+	<4B865F57.4020708@ecs.soton.ac.uk>
+	<EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+	<20100225171719.A48287FE0@bibserver.Berkeley.EDU>
+Message-ID: <93f2238e1002251006l2a985f45h7cd02fe9994ed89d@mail.gmail.com>
+
+2010/2/25 Jim Pitman <pitman at stat.berkeley.edu>:
+>> Jonathan Gray wrote:
+>> > ? 1. We make sure that we have broad representation from existing
+>> > projects and initiatives interested in open bibliographic data. It
+>> > would be great if everyone could cast their eyes over the list to see
+>> > if there are any obvious omissions!
+>> > ? 2. We find a regular slot to have monthly virtual meetings. I
+>> > suggest we do this on a weekday in the late afternoon/early evening
+>> > GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+>> > ? 3. Once we have done 1. and 2., we aim to launch the working group
+>> > in the next few weeks?
+>> > How does this sound?
+>
+> Good for me. What kind of virtual meeting did you have in mind?
+> How many participants can you handle with various media?
+> From my experience, conference call gets out of hand with more than
+> about 5 participants.
+
+Sound good to me, too. +1 for the concern regarding conference calls.
+
+> What exactly qualifies as "open biblio data"? (Public domain? CC0, CC BY? with or without NC or SA clauses, ...?
+
+As far as I know, the "Public domain" is no legal term here in Germany
+(but we have a close match called "Gemeinfreiheit"). Maybe the Open
+Knowledge Definition (http://www.opendefinition.org/okd/) should be
+the guideline to classify bibliographic data (resp. it's license) as
+open? NC would be out of the game then...
+
+Cheers,
+
+Felix
+
+
+From jonathan.gray at okfn.org  Fri Feb 26 00:06:48 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 26 Feb 2010 01:06:48 +0100
+Subject: [open-bibliography] Fwd: [okfn-discuss] University of Ghent Library
+	Catalogues: Open or Not?
+In-Reply-To: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>
+Message-ID: <54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>
+
+Thought this might be relevant here too!
+
+Jonathan
+
+
+---------- Forwarded message ----------
+From: Rufus Pollock
+Date: Fri, Feb 26, 2010 at 12:26 AM
+Subject: [okfn-discuss] University of Ghent Library Catalogues: Open or Not?
+To: okfn-discuss <okfn-discuss at lists.okfn.org>
+
+
+The other day someone registered two very interesting packages on CKAN:
+
+<http://ckan.net/package/ugent_biblio> - tab delimited file of all
+Ghent University publications
+<http://ckan.net/package/ugent_catalog> - dump of complete Ghent
+University library catalog
+
+The second of these is particularly interesting as open bibliographic
+metadata is hard to come by!
+
+On the CKAN pages the packages have been listed as public domain.
+However, following the provided project url:
+<http://lib.ugent.be/info/en/exports.shtml> one finds a nice "Open
+Knowledge" button but also, unfortunately, the statement that: "This
+work is licensed under a Creative Commons
+Attribution-Noncommercial-Share Alike 2.0 Belgium License."
+
+Non-commercial licenses are obviously not http://opendefinition.org/
+compliant (and a CC license isn't a good idea for data either!). This
+seems like a good opportunity to do an http://isitopendata.org/
+request but before starting on this I wanted to ask:
+
+?* Does anyone out there had any ideas what was going on here?
+?* Is there anyone with good Belgium (or Library) connections who
+could make the request (they usually work better from someone in the
+"scene")
+
+Regards,
+
+Rufus
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+
+
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From jonathan.gray at okfn.org  Fri Feb 26 10:41:36 2010
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Fri, 26 Feb 2010 11:41:36 +0100
+Subject: [open-bibliography] New group for bibliographic data on CKAN
+Message-ID: <54ca21751002260241x437616e0vbd7cc3c475326029@mail.gmail.com>
+
+I've just started a new CKAN group for open bibliographic data:
+
+  http://ckan.net/group/bibliographic
+
+Anyone else on the new Working Group interested in helping to maintain
+this? If you want to be an admin, please register an Open ID on CKAN
+and let me know details off thread.
+
+Any suggestions for items to add would be most welcome!
+
+-- 
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+From Ross.Singer at talis.com  Fri Feb 26 18:56:34 2010
+From: Ross.Singer at talis.com (Ross Singer)
+Date: Fri, 26 Feb 2010 13:56:34 -0500
+Subject: [open-bibliography] New group for bibliographic data on CKAN
+In-Reply-To: <54ca21751002260241x437616e0vbd7cc3c475326029@mail.gmail.com>
+References: <54ca21751002260241x437616e0vbd7cc3c475326029@mail.gmail.com>
+Message-ID: <CDD7CAC6-6371-41A6-A537-ECAEF3F289DA@talis.com>
+
+Hmm.  This isn't working with my Yahoo Open ID, am I missing a step to  
+sign in?
+
+Thanks,
+-Ross.
+
+On Feb 26, 2010, at 5:41 AM, Jonathan Gray wrote:
+
+> I've just started a new CKAN group for open bibliographic data:
+>
+>  http://ckan.net/group/bibliographic
+>
+> Anyone else on the new Working Group interested in helping to maintain
+> this? If you want to be an admin, please register an Open ID on CKAN
+> and let me know details off thread.
+>
+> Any suggestions for items to add would be most welcome!
+>
+> -- 
+> Jonathan Gray
+>
+> Community Coordinator
+> The Open Knowledge Foundation
+> http://blog.okfn.org
+>
+> http://twitter.com/jwyg
+> http://identi.ca/jwyg
+>
+> _______________________________________________
+> open-bibliography mailing list
+> open-bibliography at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-bibliography
+ 
+Please consider the environment before printing this email.
+
+Find out more about Talis at www.talis.com 
+
+shared innovationTM
+
+Any views or personal opinions expressed within this email may not be those of Talis Information Ltd or its employees. The content of this email message and any files that may be attached are confidential, and for the usage of the intended recipient only. If you are not the intended recipient, then please return this message to the sender and delete it. Any use of this e-mail by an unauthorised recipient is prohibited.
+
+Talis Information Ltd is a member of the Talis Group of companies and is registered in England No 3638278 with its registered office at Knights Court, Solihull Parkway, Birmingham Business Park, B37 7YB.
+
+
+From L.Koster at uva.nl  Fri Feb 26 22:58:03 2010
+From: L.Koster at uva.nl (Koster, Lukas)
+Date: Fri, 26 Feb 2010 23:58:03 +0100
+Subject: [open-bibliography] Fwd: [okfn-discuss] University of Ghent
+	LibraryCatalogues: Open or Not?
+References: <b68e90821002251526o21712f75s8cc415460fc3aca7@mail.gmail.com>
+	<54ca21751002251606x48f57605sbaffee43895e6916@mail.gmail.com>
+Message-ID: <3497E70397DB184AB3C1BF4666611142011396C9@struik.uva.nl>
+
+I know who did this: Patrick Hochstenbach of Ghent University Library (in CC). He is definitely interested in this initiative.
+ 
+Lukas Koster
+Head of Library Systems Department
+Library of the University of Amsterdam
+ 
+ 
+
+________________________________
+
+Van: open-bibliography-bounces at lists.okfn.org namens Jonathan Gray
+Verzonden: vr 26-2-2010 1:06
+Aan: List for Working Group on Open Bibliographic Data
+Onderwerp: [open-bibliography] Fwd: [okfn-discuss] University of Ghent LibraryCatalogues: Open or Not?
+
+
+
+Thought this might be relevant here too!
+
+Jonathan
+
+
+---------- Forwarded message ----------
+From: Rufus Pollock
+Date: Fri, Feb 26, 2010 at 12:26 AM
+Subject: [okfn-discuss] University of Ghent Library Catalogues: Open or Not?
+To: okfn-discuss <okfn-discuss at lists.okfn.org>
+
+
+The other day someone registered two very interesting packages on CKAN:
+
+<http://ckan.net/package/ugent_biblio> - tab delimited file of all
+Ghent University publications
+<http://ckan.net/package/ugent_catalog> - dump of complete Ghent
+University library catalog
+
+The second of these is particularly interesting as open bibliographic
+metadata is hard to come by!
+
+On the CKAN pages the packages have been listed as public domain.
+However, following the provided project url:
+<http://lib.ugent.be/info/en/exports.shtml> one finds a nice "Open
+Knowledge" button but also, unfortunately, the statement that: "This
+work is licensed under a Creative Commons
+Attribution-Noncommercial-Share Alike 2.0 Belgium License."
+
+Non-commercial licenses are obviously not http://opendefinition.org/
+compliant (and a CC license isn't a good idea for data either!). This
+seems like a good opportunity to do an http://isitopendata.org/
+request but before starting on this I wanted to ask:
+
+ * Does anyone out there had any ideas what was going on here?
+ * Is there anyone with good Belgium (or Library) connections who
+could make the request (they usually work better from someone in the
+"scene")
+
+Regards,
+
+Rufus
+
+_______________________________________________
+okfn-discuss mailing list
+okfn-discuss at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/okfn-discuss
+
+
+
+--
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org <http://blog.okfn.org/> 
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+_______________________________________________
+open-bibliography mailing list
+open-bibliography at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-bibliography
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100226/734e0bdb/attachment.htm>
+
+From L.Koster at uva.nl  Sat Feb 27 13:36:38 2010
+From: L.Koster at uva.nl (Koster, Lukas)
+Date: Sat, 27 Feb 2010 14:36:38 +0100
+Subject: [open-bibliography] Getting started with the Working Group on
+	Open Bibliographic Data
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+Message-ID: <3497E70397DB184AB3C1BF4666611142011396D1@struik.uva.nl>
+
+Hello all,
+ 
+I am honoured to see my name in the company of so many well known people at http://wiki.okfn.org/wg/bibliography.
+However, when I responded to a call on twitter some time ago, I actually only said that I was interested in promoting open bibliographic data. But I wanted to have more information about the ideas and objectives first. I still don't know what the OKF and this working group on open bibliographic data actually stand for. 
+ 
+I haven't agreed to actively participate in any kind of steering committee or similar. At the moment I do not have the time for monthly calls at all; I already have lots of calls for other volunteer groups. The Library of the University of Amsterdam, my employer, is currently offering open access to their bibliographic data only through the usual interfaces (web, z39.50, sru, etc.). They are also strong advocates of open access to scientific publications. I managed to get linked data/semantic web/rdf in the short term action plans.
+ 
+So I'm interested in promoting open bibliographic data, but I still have not enough information about OKF, and I definitely don't have time for a very active, organising role in this group.
+ 
+Lukas Koster
+Head of Library Systems Department
+Library of the University of Amsterdam
+
+________________________________
+
+Van: okfn.jonathan.gray at googlemail.com namens Jonathan Gray
+Verzonden: wo 24-2-2010 18:05
+Aan: open-bibliography at lists.okfn.org
+Onderwerp: Getting started with the Working Group on Open Bibliographic Data
+
+
+
+Welcome to the new list for the Working Group on Open Bibliographic
+Data! A list of current members and the group's purpose is at:
+
+  http://wiki.okfn.org/wg/bibliography
+
+In terms of next steps, the first instance I propose:
+
+  1. We make sure that we have broad representation from existing
+projects and initiatives interested in open bibliographic data. It
+would be great if everyone could cast their eyes over the list to see
+if there are any obvious omissions!
+  2. We find a regular slot to have monthly virtual meetings. I
+suggest we do this on a weekday in the late afternoon/early evening
+GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+  3. Once we have done 1. and 2., we aim to launch the working group
+in the next few weeks?
+
+How does this sound?
+
+All the best,
+
+--
+Jonathan Gray
+
+Community Coordinator
+The Open Knowledge Foundation
+http://blog.okfn.org <http://blog.okfn.org/> 
+
+http://twitter.com/jwyg
+http://identi.ca/jwyg
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-bibliography/attachments/20100227/8cd17993/attachment.htm>
+
+From cjg at ecs.soton.ac.uk  Sun Feb 28 10:28:51 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Sun, 28 Feb 2010 10:28:51 +0000
+Subject: [open-bibliography] EPrints ECS
+References: <4B8A4563.7080106@ecs.soton.ac.uk>
+Message-ID: <EMEW3|6745d6f2f077084077853adb13841409m1RAUB03cjg|ecs.soton.ac.uk|4B8A4563.7080106@ecs.soton.ac.uk>
+
+I've recently created an RDF interface for our EPrints software. Our 
+school is running the latest version, and the RDF is visible here:
+http://eprints.ecs.soton.ac.uk/id/repository
+
+Some examples of using the data are here:
+http://lemur.ecs.soton.ac.uk/~cjg/Graphite/eprints.php
+
+Many other universities will (hopefully) upgrade to the new version and 
+gain an RDF output.
+
+-- 
+Christopher Gutteridge -- http://www.ecs.soton.ac.uk/people/cjg
+
+Lead Developer, EPrints Project, http://eprints.org/
+
+Web Projects Manager, University of Southampton, 
+School of Electronics and Computer Science
+
+
+
+From cjg at ecs.soton.ac.uk  Sun Feb 28 13:13:05 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Sun, 28 Feb 2010 13:13:05 +0000
+Subject: [open-bibliography] Getting started with the Working Group on
+ Open Bibliographic Data
+In-Reply-To: <EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>	<4B865F57.4020708@ecs.soton.ac.uk>
+	<EMEW3|a5dcca9b8a6aaa20b3f18c5cd2cc7db5m1OBUZ03cjg|ecs.soton.ac.uk|4B865F57.4020708@ecs.soton.ac.uk>
+	<4B8A6BE0.5080200@ecs.soton.ac.uk>
+Message-ID: <EMEW3|d6d554ecd3cc66510d22bd0e9947fa38m1RDD803cjg|ecs.soton.ac.uk|4B8A6BE0.5080200@ecs.soton.ac.uk>
+
+On reflection, I would prefer IRC to skype too.
+
+Christopher Gutteridge wrote:
+> Sounds good. Can I ask if anyone on the list (other than Ed Summers) 
+> is at Dev8D in London. It is possible that some other people on this 
+> list are currently in the same building as me!
+>
+> Jonathan Gray wrote:
+>> Welcome to the new list for the Working Group on Open Bibliographic
+>> Data! A list of current members and the group's purpose is at:
+>>
+>>   http://wiki.okfn.org/wg/bibliography
+>>
+>> In terms of next steps, the first instance I propose:
+>>
+>>   1. We make sure that we have broad representation from existing
+>> projects and initiatives interested in open bibliographic data. It
+>> would be great if everyone could cast their eyes over the list to see
+>> if there are any obvious omissions!
+>>   2. We find a regular slot to have monthly virtual meetings. I
+>> suggest we do this on a weekday in the late afternoon/early evening
+>> GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+>>   3. Once we have done 1. and 2., we aim to launch the working group
+>> in the next few weeks?
+>>
+>> How does this sound?
+>>
+>> All the best,
+>>
+>>   
+>
+
+-- 
+Christopher Gutteridge -- http://www.ecs.soton.ac.uk/people/cjg
+
+Lead Developer, EPrints Project, http://eprints.org/
+
+Web Projects Manager, University of Southampton, 
+School of Electronics and Computer Science
+
+
+
+From cjg at ecs.soton.ac.uk  Sun Feb 28 13:44:05 2010
+From: cjg at ecs.soton.ac.uk (Christopher Gutteridge)
+Date: Sun, 28 Feb 2010 13:44:05 +0000
+Subject: [open-bibliography] Getting started with the Working Group on
+ Open	Bibliographic Data
+In-Reply-To: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+References: <54ca21751002240905u7221126rc5b51ffcd3ca8534@mail.gmail.com>
+	<4B8A7324.8090702@ecs.soton.ac.uk>
+Message-ID: <EMEW3|6c286edd3bbe13a273a22cc6cb332ccdm1RDiC03cjg|ecs.soton.ac.uk|4B8A7324.8090702@ecs.soton.ac.uk>
+
+You may find interest in this from the OAI-PMH community, too.
+
+Jonathan Gray wrote:
+> Welcome to the new list for the Working Group on Open Bibliographic
+> Data! A list of current members and the group's purpose is at:
+>
+>   http://wiki.okfn.org/wg/bibliography
+>
+> In terms of next steps, the first instance I propose:
+>
+>   1. We make sure that we have broad representation from existing
+> projects and initiatives interested in open bibliographic data. It
+> would be great if everyone could cast their eyes over the list to see
+> if there are any obvious omissions!
+>   2. We find a regular slot to have monthly virtual meetings. I
+> suggest we do this on a weekday in the late afternoon/early evening
+> GMT, e.g. 1700 GMT / 1800 CET / 0900 PST.
+>   3. Once we have done 1. and 2., we aim to launch the working group
+> in the next few weeks?
+>
+> How does this sound?
+>
+> All the best,
+>
+>   
+
+-- 
+Christopher Gutteridge -- http://www.ecs.soton.ac.uk/people/cjg
+
+Lead Developer, EPrints Project, http://eprints.org/
+
+Web Projects Manager, University of Southampton, 
+School of Electronics and Computer Science
+
+
+
+From jakob.voss at nichtich.de  Sat Feb 27 11:49:13 2010
+From: jakob.voss at nichtich.de (Jakob Voss)
+Date: Sat, 27 Feb 2010 12:49:13 +0100
+Subject: [open-bibliography] New group for bibliographic data on CKAN
+In-Reply-To: <54ca21751002260241x437616e0vbd7cc3c475326029@mail.gmail.com>
+References: <54ca21751002260241x437616e0vbd7cc3c475326029@mail.gmail.com>
+Message-ID: <4B8906B9.8070404@nichtich.de>
+
+Hi Jonathan,
+
+> I've just started a new CKAN group for open bibliographic data:
+> 
+> http://ckan.net/group/bibliographic
+> 
+> Anyone else on the new Working Group interested in helping to maintain
+> this? If you want to be an admin, please register an Open ID on CKAN
+> and let me know details off thread.
+
+Yep, my OpenID is http://jakoblog.de/. I'd like to improve the
+description of formats (have not found out how to add tags in CKAN) and
+could add some dumps from German libraries.
+
+Cheers,
+Jakob
+
+
+
+
+
+From bogus@does.not.exist.com  Fri Feb 12 23:10:20 2010
+From: bogus@does.not.exist.com ()
+Date: Fri, 12 Feb 2010 23:10:20 -0000
+Subject: No subject
+Message-ID: <mailman.8.1274115369.21076.open-bibliography@lists.okfn.org>
+
+"Customer may use the Service for bibliographic research purposes in the internal operation of its organization only or, if Customer is an individual, for his/her personal use only."
+
+This clause appears to forbid republication of any bibliographic metadata assembled through the
+MyReferences system.
+If MyReferences users have some other terms of RefWorks service which would allow them to republish
+bibliographic metadata acquired through RefWorks licensing, I would be delighted to learn that
+and to cooperate with MyReferences users to enlarge and improve the pool of open biblio metadata.
+
+
+--Jim
+
+----------------------------------------------
+Jim Pitman
+Director, Bibliographic Knowledge Network Project
+http://www.bibkn.org/
+
+Professor of Statistics and Mathematics
+University of California
+367 Evans Hall # 3860
+Berkeley, CA 94720-3860
+
+ph: 510-642-9970  fax: 510-642-7892
+e-mail: pitman at stat.berkeley.edu
+URL: http://www.stat.berkeley.edu/users/pitman
+
+
+From bogus@does.not.exist.com  Fri Feb 12 23:10:20 2010
+From: bogus@does.not.exist.com ()
+Date: Fri, 12 Feb 2010 23:10:20 -0000
+Subject: No subject
+Message-ID: <mailman.23.1277983444.21076.open-bibliography@lists.okfn.org>
+
+clear. I would advocate removing those aspects that contradict this clear
+statement - but it may be this has too many consequences at this stage, I
+don't know.
+
+
+> > Some of these issues have been discussed widely in the library community,
+> > and although the conclusions there are perhaps far from perfect, it seems
+> > that there is some significant overlap but with different terminology. In
+> > particular I'm thinking of FRBR
+> > (
+> http://en.wikipedia.org/wiki/Functional_Requirements_for_Bibliographic_Records
+> )
+>
+> The target users of the Freebase schema are everyday people, not
+> librarians, which may account for some of the differences.  The
+> emphasis is also on pragmatic usefulness with available data and
+> available user interfaces as opposed to necessarily modeling
+> everything perfectly.
+>
+
+I'm in favour of this approach - whether for librarians or others.
+
+
+>
+> > What you are defining here as a 'book' seems to have much in common with
+> > what FRBR terms a 'work'. For me it would make a lot of sense if there
+> could
+> > be some work to pull this together in some way.
+>
+> Yes, they are basically equivalent.  I'm not sure how you'd like to
+> see this pulled together.  I don't think adding a mention of FRBR is
+> going to help the Freebase user who is trying to decide "What type(s)
+> should I use with this data I want to enter/query?"  What actions did
+> you have in mind here?
+>
+>
+Fair question - I'm probably not sure what I mean either. I guess I was just
+seeing several pieces of work that seem to be heading in the same direction
+and asking the question of whether there are synergies that can be
+expoited.
+
+Owen
+
+--0015174c15d422353f048a51b505
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Thanks Tom,<div><br></div><div><div class=3D"gmail_quote"><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex;">Hi Owen. =A0The purpose of the exercise that Anne is driving=
+ is to fine<br>
+
+tune the Freebase type descriptions to match the actual usage, not<br>
+make substantive changes. =A0What you&#39;re seeing is reflective of the<br=
+>
+scheme that&#39;s in use today.<br>
+<div class=3D"im"></div></blockquote><div>Thanks for clarifying - that&#39;=
+s useful to know.=A0</div><div>=A0</div><blockquote class=3D"gmail_quote" s=
+tyle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;"><di=
+v class=3D"im">
+
+On Wed, Jun 30, 2010 at 4:12 AM, Owen Stephens &lt;<a href=3D"mailto:owen at o=
+stephens.com">owen at ostephens.com</a>&gt; wrote:<br>
+<br>
+&gt; I have to admit that I think the definition of &#39;book&#39; given he=
+re is slightly<br>
+&gt; confusing as it takes a commonly used term and defines it as something=
+<br>
+&gt; different.<br>
+<br>
+</div>To some degree this is inevitable, because common usage is to use the=
+<br>
+term &quot;book&quot; to mean at least a couple of different things. =A0Peo=
+ple use<br>
+it to mean both the author&#39;s work as well the particular editor or<br>
+copy in our library. =A0Another possible choice would be to avoid the<br>
+use of the term altogether since it&#39;s potentially confusing, but I<br>
+think it provides a useful anchor to help orient people. =A0They want<br>
+information on &quot;books&quot; not &quot;works&quot; or &quot;manifestati=
+ons.&quot;<br>
+<div class=3D"im"><br>
+</div></blockquote><div><br></div><div>Agreed that book is not an unambiguo=
+us term even in daily usage, and also agreed that most people find it helpf=
+ul to think about &#39;books&#39; and dropping the term would be more confu=
+sing.</div>
+<div><br></div><div>Probably my main concern is (as noted in my previous ma=
+il) that the first part of the definition &#39;<span class=3D"Apple-style-s=
+pan" style=3D"font-family: sans-serif; font-size: 13px; color: rgb(34, 34, =
+34); line-height: 19px; ">A book is a written work or a collection of writt=
+en works in book form.&#39;, is contradicted by other parts of the definiti=
+on.</span></div>
+<div><span class=3D"Apple-style-span" style=3D"font-family: sans-serif; fon=
+t-size: 13px; color: rgb(34, 34, 34); line-height: 19px; "><br></span></div=
+><div><span class=3D"Apple-style-span" style=3D"font-family: sans-serif; fo=
+nt-size: 13px; color: rgb(34, 34, 34); line-height: 19px; ">From my perspec=
+tive this first part of the definition is a good focus, and clear. I would =
+advocate removing those aspects that contradict this clear statement - but =
+it may be this has too many consequences at this stage, I don&#39;t know.</=
+span></div>
+<div>=A0</div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;=
+border-left:1px #ccc solid;padding-left:1ex;"><div class=3D"im">&gt; Some o=
+f these issues have been discussed widely in the library community,<br>
+&gt; and although the conclusions there are perhaps far from perfect, it se=
+ems<br>
+&gt; that there is some significant overlap but with different terminology.=
+ In<br>
+&gt; particular I&#39;m thinking of FRBR<br>
+&gt; (<a href=3D"http://en.wikipedia.org/wiki/Functional_Requirements_for_B=
+ibliographic_Records" target=3D"_blank">http://en.wikipedia.org/wiki/Functi=
+onal_Requirements_for_Bibliographic_Records</a>)<br>
+<br>
+</div>The target users of the Freebase schema are everyday people, not<br>
+librarians, which may account for some of the differences. =A0The<br>
+emphasis is also on pragmatic usefulness with available data and<br>
+available user interfaces as opposed to necessarily modeling<br>
+everything perfectly.<br></blockquote><div><br></div><div>I&#39;m in favour=
+ of this approach - whether for librarians or others.</div><div>=A0</div><b=
+lockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px =
+#ccc solid;padding-left:1ex;">
+
+<div class=3D"im"><br>
+&gt; What you are defining here as a &#39;book&#39; seems to have much in c=
+ommon with<br>
+&gt; what FRBR terms a &#39;work&#39;. For me it would make a lot of sense =
+if there could<br>
+&gt; be some work to pull this together in some way.<br>
+<br>
+</div>Yes, they are basically equivalent. =A0I&#39;m not sure how you&#39;d=
+ like to<br>
+see this pulled together. =A0I don&#39;t think adding a mention of FRBR is<=
+br>
+going to help the Freebase user who is trying to decide &quot;What type(s)<=
+br>
+should I use with this data I want to enter/query?&quot; =A0What actions di=
+d<br>
+you have in mind here?<br>
+<br></blockquote><div><br></div><div>Fair question - I&#39;m probably not s=
+ure what I mean either. I guess I was just seeing several pieces of work th=
+at seem to be heading in the same direction and asking the question of whet=
+her there are synergies that can be expoited.=A0</div>
+<div><br></div><div>Owen</div></div>
+</div>
+
+--0015174c15d422353f048a51b505--
+
+

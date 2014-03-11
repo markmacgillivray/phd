@@ -1,0 +1,2887 @@
+From brian.glanz at opensciencefederation.org  Thu Aug  1 01:29:07 2013
+From: brian.glanz at opensciencefederation.org (Brian Glanz)
+Date: Wed, 31 Jul 2013 17:29:07 -0700
+Subject: [open-science] [science-at]  project name openscienceASAP
+In-Reply-To: <51F979EF.7000403@gmx.at>
+References: <51F84805.8040707@gmx.at>
+	<CAHZoB7bZpgE-v6zt5HSBZ-E0h=ojYss4c-08A2yf0LfSeOZwuA@mail.gmail.com>
+	<51F979EF.7000403@gmx.at>
+Message-ID: <CAKO=0K1cYDOu387mFQekcr4yhuXyELzyZg8nTFFPY54ao6fXJA@mail.gmail.com>
+
+Stefan, I asked at PLOS today and there are no current plans to run ASAP
+again. That may happen, but it would not likely be next year, rather in a
+few years.
+
+I like the concept, 'as a practice' and the double meaning. BG
+
+On Wed, Jul 31, 2013 at 1:56 PM, Stefan Kasberger
+<stefan.kasberger at gmx.at>wrote:
+
+> hi,
+>
+> thank you for your feedback. i noticed it, but i was always thinking of
+> it as an temporary project. does anyone know, if this is annually or
+> just for one time?
+>
+> cheers, stefan
+>
+> Am 2013-07-31 10:02, schrieb Iryna Kuchma:
+> > Dear Stefan,
+> >
+> > I don't know how important this is for you, but ASAP is also the name of
+> > the Accelerating Science Award Program (ASAP), which recognizes the use
+> of
+> > scientific research, published through Open Access, that has led to
+> > innovations in any field that benefit society (sponsored by 27
+> > organizations, including major sponsors Public Library of Science (PLOS),
+> > Wellcome Trust and Google): http://asap.plos.org/. I am worried that it
+> > might create some confusions between your project and this award.
+> >
+> > Best wishes,
+> > Iryna
+> >
+> > Iryna Kuchma
+> > EIFL Open Access Programme Manager
+> > iryna.kuchma at eifl.net
+> > skype: iryna.kuchma
+> > twitter: @irynakuchma
+> >
+> > *EIFL*: Knowledge Without Boundaries <http://www.eifl.net/home>
+> > Follow *EIFL* on Facebook <http://www.facebook.com/eIFL.net>, Twitter
+> > <http://twitter.com/eIFLnet>and RSS <http://www.eifl.net/rss-all>
+> >  View *EIFL *photos and videos on Flickr
+> > <http://www.flickr.com/photos/eifl/>and
+> > YouTube<http://www.youtube.com/user/eiflnet/featured>
+> > Sign up for the *EIFL *newsletter <http://www.eifl.net/newsletter>
+> > Support <http://www.eifl.net/donate> *EIFL*
+> >
+> >
+> >
+> > On 31 July 2013 02:11, Stefan Kasberger <stefan.kasberger at gmx.at> wrote:
+> >
+> >> hello,
+> >>
+> >> the open science projekt (http://openscience.alpine-geckos.at) is
+> >> thinking now for quite a while about a proper name. after long
+> >> discussion, we now have found a favorite and wanted to ask the community
+> >> about your opinion.
+> >>
+> >> it is openscienceASAP and it means Open Science as a Practice, but also
+> >> has the double meaning with as soon of possible of course, which should
+> >> lead to some attention. the goal of the project is, to give a platform
+> >> to do everything around open science, especially write about it and be
+> >> the hub in between all the other services for an open scientific
+> >> workflow. This means also projects around open science, like software
+> >> dev or sharing knowledge and experiences from courses.
+> >>
+> >> so, would be very happy about some feedback, also about the idea behind
+> >> it and if you know any interesting sources for this. Basically, it's the
+> >> development of a wordpress theme for a multiuser installation with use
+> >> of many different APIs and plugins.
+> >>
+> >> cheers, stefan
+> >>
+> >> _______________________________________________
+> >> open-science mailing list
+> >> open-science at lists.okfn.org
+> >> http://lists.okfn.org/mailman/listinfo/open-science
+> >> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+> >>
+> >
+>
+> _______________________________________________
+> science-at mailing list
+> science-at at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/science-at
+>
+
+
+
+-- 
+Brian Glanz
+Director, Open Science Federation
+
+office +1 206.289.0575
+mobile +1 917.621.5429
+twitter @brianglanz <https://twitter.com/brianglanz>
+skype brian.glanz
+google brian.glanz
+
+*We are @openscience on Twitter <http://twitter.com/openscience>, an
+account shared by our organizers.*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130731/81305439/attachment.htm>
+
+From gutam2000 at gmail.com  Thu Aug  1 06:22:59 2013
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Thu, 1 Aug 2013 10:52:59 +0530
+Subject: [open-science] Discussion on Knowledge,
+ Skills and Attitudes required by Librarians for Open Access
+Message-ID: <CA+4KT3pX25qXeWkLSmFY8-qWX8jhPgzWTi3kH6AuohYquYaz4Q@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Barnali Chakrabarti <barna.chakrabarti at gmail.com>
+Date: 29 July 2013 18:59
+Subject: [GOAL] Discussion on Knowledge, Skills and Attitudes required by
+Librarians for Open Access
+
+
+{Apologies for Cross Posting}
+
+
+
+I am currently assisting the Commonwealth Educational Media Centre for Asia
+(CEMCA) in developing Curriculum and Self-Directed Learning (SDL) Tool for
+Open Access for researchers and library and information professionals as a
+project of UNESCO. The UNESCO adopted Open Access strategy in 2011, and
+with effect from 1 July 2013 it has become fully Open Access. Capacity
+building to promote Open Access is one of the important strands of the
+UNESCO strategy.  The UNESCO Open Access Forum 2011 also recommended
+training of young researchers and library professionals on Open Access.
+
+
+As a first step, we would like to seek help of experts though a discussion
+on this platform to identify Knowledge, Skills and Attitudes needed for
+Open Access by Library and Information Professionals and Researchers. So,
+we will have two strands of discussion: One for Librarians and the other
+for Researchers. This week we start with training needs for Librarians?
+
+
+Librarians play a significant role in providing access to peer reviewed
+information published in journals and help manage local repositories.
+Sometime back we did a Delphi study with select experts, which revealed the
+following as key areas for the librarians to study:
+
+* *
+*Module 1: Foundations*
+
+1. Introduction to Open Access: Definition, types (green, gold, delayed),
+OA journals (gold and hybrid), OA books, OA repositories, benefits,
+barriers (publisher resistance), philosophy of access to knowledge,
+disciplinary trends; Open Access Policy development, including funder
+policies
+
+2. Copyrights and licensing mechanisms for Open Access, such as the
+creative commons licenses, copyleft and publishers? embargo in
+self-archiving
+
+* *
+
+*Module 2: Practical Options and Systems*
+
+3. Repositories and issues involved in creating and maintaining
+repositories, author self-archiving
+
+4. Open Access Journal publishing systems and processes
+
+* *
+
+*Module 3: Initiatives, Implications and Issues*
+
+5. Searching of Open Access information (Vehicles for Open Access: OAIster
+and other Open Access Search Engines, PubMed), Metadata related issues,
+SHERPA RoMEO, DOAJ, DOAB, GOAP, OA Map, etc.
+
+6. Impact of Open Access on dissemination of knowledge, citation
+advantages, estimating impact; Changing practices in scholarly
+communication, including open peer review, emerging approaches to
+recognition of scholarly works
+
+7. Implications of online-only format for long-term preservation of OA
+content (Google Books, Internet Archive, Hathi Trust, other non-U.S. large
+initiatives)
+
+
+
+While this is useful, we need to identify the Knowledge, Skills and
+Attitudes to develop the curriculum and content learning materials. You may
+also like to comment on the suitability of the above topics. If you want to
+share more on the topic privately, kindly do so in the emails:
+smishra.col at gmail.com and barna.chakrabarti at gmail.com
+
+
+-- 
+
+With Regards,
+Barnali Roy Choudhury
+Project Associate (Open Access)
+Commonwealth Educational Media Centre for Asia
+13/14 Sarv Priya Bihar
+New Delhi 110016
+www.cemca.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130801/32535b89/attachment.htm>
+
+From gutam2000 at gmail.com  Tue Aug  6 06:23:28 2013
+From: gutam2000 at gmail.com (Sridhar Gutam)
+Date: Tue, 6 Aug 2013 10:53:28 +0530
+Subject: [open-science] Discussion on "Promoting Open Access Amongst Young
+	Researchers" at WSIS.
+Message-ID: <CA+4KT3oexu+76zwCObvE86dgwZf_fXd_wDGr+-9SyE9xH1tAuw@mail.gmail.com>
+
+Dear All,
+
+There is a discussion started by ms. Barnali on "Promoting Open Access
+amongst young researchers" at WSIS (
+http://www.wsis-community.org/pg/forum/topic/834997/promoting-open-access-amongst-young-researchers/
+)
+
+Here is the text of the post written by Ms. Barnali (
+barna.chakrabarti at gmail.com)
+
+{Apologies for cross posting}
+
+I am currently assisting the Commonwealth Educational Media Centre for Asia
+(CEMCA) in developing Curriculum and Self-Directed Learning (SDL) Tool for
+Open Access for researchers and library and information professionals as a
+project of UNESCO. The UNESCO adopted Open Access strategy in 2011, and
+with effect from 1st July 2013 it has become fully Open Access. Capacity
+building to promote Open Access is one of the important strands of the
+UNESCO strategy. The UNESCO Open Access Forum 2011 also recommended
+training of young researchers and library professionals on Open Access.
+
+In the last week, I requested for help on articulating the training needs
+of library professionals, and this week I would like to request the
+stakeholders to think about what new researchers should know about Open
+Access. We believe that the OA awareness of the researchers that can make
+the Open Access movement more successful. In subject disciplines, where the
+researchers are more aware and have common goals, the amount of information
+available in OA is much higher than other disciplines. So, it is always
+better to follow the principle of "catch them young", and include a short
+training curriculum on OA for every researcher working for their doctoral
+degree. This can be a pre-doctoral work as well. If such a programme is to
+be organized, what are the knowledge, skills and attitude that should be
+covered in the training?
+
+In a survey conducted amongst researchers in a prestigious national
+university revealed that most of the respondents indicated limited
+participation in open access mode of communications either as users or as
+contributors. The study also revealed that their participation can be
+increased through appropriate training, and awareness creation. So, what
+you think as the areas that should be covered in OA training for
+researchers?
+
+Your response will help us to articulate more precisely the topics related
+to knowledge, skills and attitudes for Open Access. If you want to share
+more on the topic privately, kindly do so in the E-mails:
+smishra.col at gmail.com and barna.chakrabarti at gmail.com
+
+
+
+Regards,
+
+Barnali Roy Choudhury
+
+Project Associate (Open Access)
+
+Commonwealth Educational Media Centre for Asia (CEMCA)
+
+13/14 Sarv Priya Bihar
+
+New Delhi- 110016
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130806/9e61977e/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Aug  6 12:06:15 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 6 Aug 2013 12:06:15 +0100
+Subject: [open-science] Annotating Open Images with licence and authorship
+	to prevent copyfraud
+Message-ID: <CAD2k14Oea9pKH2=Xkby5Nn4+b99j_s+7NnM+SiKtPys=_GWM6A@mail.gmail.com>
+
+This is a suggestion for a very simple but effective tool/service to
+address copyfraud (http://en.wikipedia.org/wiki/Copyfraud) in images
+(especially, but not specifically, in STEM). I and others (e.g. Wikimedia)
+have suffered from having  CC-BY images "copyrighted" by a third party (
+http://blogs.ch.cam.ac.uk/pmr/2012/06/13/springergate-springer-replies/ and
+earlier). If the images were indelibly stamped with licences and authorship
+copyfraud would be very much harder. I suspect this would also be welcomed
+by authors themsleves as it promotes their authorship.
+
+At hack4ac http://hack4ac.com/ I suggested a simple project/service to add
+Open licence and author information into images. This was later entered as
+a developer challenge at repository Fringe (
+http://rfringe13.blogs.edina.ac.uk/2013/08/04/developer-challenge-the-results/).
+Independently Chris Gutteridge took the idea and created an ePrints
+plugin (and did it better than my code!) - our teams both won prizes. I
+also talked with Open publishers including Mark Hahnel (Figshare) and Brian
+Hole and they were interested in seeing the idea developed further,
+possibly including implementing it.
+
+Neither ChrisG or our team (Cesare Bellini and me) are going to take this
+further ourselves but the response was sufficiently positive to see if
+OKFNers are interested in seeing it happen.
+
+The actual code is very simple (it took me about 10 lines of Java, Chris
+used ImageMagick I think). It writes a licence (e.g. "CC-BY") and
+optionally an authorname into the pixels of the image (either overwriting a
+small area or transparency/blending). Options would include writing at a
+chosen corner / side or adding a small border (which wouldn't affect the
+image but would be easier to remove by cropping).
+
+A tool could be used at many places:
+* in the software that was used to create the image (e.g. ImageJ - a FLOSS
+image manipulation tool for science)
+* when the image was uploaded to a repository. Especially when done before
+sending images to a publisher
+* added by publishers who promote the value of Open licences
+* retrospective addition to Open images (e.g. on CC-BY publishers sites or
+Wikimedia). This would require the host to cooperate
+
+I don't know whether this is in scope for
+http://www.meetup.com/OpenKnowledgeFoundation/London-GB/998522/ tonight's
+Open Data maker session - I shall be there.
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130806/e1058872/attachment.htm>
+
+From tjv at bio.unc.edu  Tue Aug  6 12:27:23 2013
+From: tjv at bio.unc.edu (Vision, Todd J)
+Date: Tue, 6 Aug 2013 11:27:23 +0000
+Subject: [open-science] ODIN first year conference and codesprint
+Message-ID: <3468D379-27DE-4B20-83FE-514154EA1B6D@bio.unc.edu>
+
+Dear Open Science colleagues,
+
+ODIN (ORCID and DataCite Interoperability Network) is a two-year EU-funded project that aims to increase the interoperability of trusted researcher and data identifiers and demonstrate the wonders that can be built upon such open services [1].  
+
+We would like to invite interested members of the OKFN community to ODIN's first year conference and codesprint, to be held 15-17 October at CERN in Geneva.  In particular, the first two-days are solely given over to a codesprint (Oct 15-16) during which participants will collaborate on projects to demonstrate and take advantage of interoperable researcher and data identifiers, along with developers from ORCID & DataCite.
+
+The third day (Oct 17) is a general conference open to all.  ODIN partners will share the results from the first half of the 2-year project and receive feedback from the community. 
+
+The full program, codesprint ideas, and registration details, are at [2].  Participants are asked to cover their own travel and accommodation expenses.   Whether or not you can attend, you are invited to contribute to the codesprint ideas.  
+
+First-time visitors to CERN might find a particular part of the program very interesting ? a guided tour of the Large Hadron Collider [3].   And you can see where the WWW was born [4]
+
+We hope to see you in Geneva in October!  In the meantime, please let us know if you have any questions.
+
+Yours,
+The organizers (Amir Aryani, Martin Fenner, John Kaye, Neli Zhivkova Ivanova, Gudmundur Thorisson, Laura Rueda Garcia, Laure Haak, Sunje Dallmeier-Tiessen, Todd Vision)
+odin.project at cern.ch
+
+Links:
+[1] The ODIN mission: http://odin-project.eu/mission and project partners: ORCID, DataCite, the British Library, CERN, ANDS, arXiv, and Dryad. 
+[2] Meeting details: http://odin-project.eu/events/1st-year-big-bang-and-codesprint/
+[3] About the Large Hadron Collider: http://home.web.cern.ch/about/accelerators/large-hadron-collider
+[4] Birth of the Web: http://home.web.cern.ch/about/birth-web
+
+
+
+
+
+From stephen.song at gmail.com  Tue Aug  6 14:13:59 2013
+From: stephen.song at gmail.com (Song, Stephen)
+Date: Tue, 6 Aug 2013 10:13:59 -0300
+Subject: [open-science] Annotating Open Images with licence and
+ authorship to prevent copyfraud
+In-Reply-To: <CAD2k14Oea9pKH2=Xkby5Nn4+b99j_s+7NnM+SiKtPys=_GWM6A@mail.gmail.com>
+References: <CAD2k14Oea9pKH2=Xkby5Nn4+b99j_s+7NnM+SiKtPys=_GWM6A@mail.gmail.com>
+Message-ID: <CAD_CWO0zkz7yxBV_x7Z3vrRQVVMOhDhg2gQCcyeGhb=+vBVmWw@mail.gmail.com>
+
+Hi Peter,
+
+On 6 August 2013 08:06, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> This is a suggestion for a very simple but effective tool/service to
+> address copyfraud (http://en.wikipedia.org/wiki/Copyfraud) in images
+> (especially, but not specifically, in STEM). I and others (e.g. Wikimedia)
+> have suffered from having  CC-BY images "copyrighted" by a third party (
+> http://blogs.ch.cam.ac.uk/pmr/2012/06/13/springergate-springer-replies/and earlier). If the images were indelibly stamped with licences and
+> authorship copyfraud would be very much harder. I suspect this would also
+> be welcomed by authors themsleves as it promotes their authorship.
+>
+> At hack4ac http://hack4ac.com/ I suggested a simple project/service to
+> add Open licence and author information into images. This was later entered
+> as a developer challenge at repository Fringe (
+> http://rfringe13.blogs.edina.ac.uk/2013/08/04/developer-challenge-the-results/). Independently Chris Gutteridge took the idea and created an ePrints
+> plugin (and did it better than my code!) - our teams both won prizes. I
+> also talked with Open publishers including Mark Hahnel (Figshare) and Brian
+> Hole and they were interested in seeing the idea developed further,
+> possibly including implementing it.
+>
+> Neither ChrisG or our team (Cesare Bellini and me) are going to take this
+> further ourselves but the response was sufficiently positive to see if
+> OKFNers are interested in seeing it happen.
+>
+> The actual code is very simple (it took me about 10 lines of Java, Chris
+> used ImageMagick I think). It writes a licence (e.g. "CC-BY") and
+> optionally an authorname into the pixels of the image (either overwriting a
+> small area or transparency/blending). Options would include writing at a
+> chosen corner / side or adding a small border (which wouldn't affect the
+> image but would be easier to remove by cropping).
+>
+> A tool could be used at many places:
+> * in the software that was used to create the image (e.g. ImageJ - a FLOSS
+> image manipulation tool for science)
+> * when the image was uploaded to a repository. Especially when done before
+> sending images to a publisher
+> * added by publishers who promote the value of Open licences
+> * retrospective addition to Open images (e.g. on CC-BY publishers sites or
+> Wikimedia). This would require the host to cooperate
+>
+> I don't know whether this is in scope for
+> http://www.meetup.com/OpenKnowledgeFoundation/London-GB/998522/ tonight's
+> Open Data maker session - I shall be there.
+>
+
+Worth having a look at Jonas ?berg's efforts in this direction at
+http://commonsmachinery.se/
+
+Cheers... Steve
+
+
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+> --
+Steve Song
++1 902 529 0046
+http://manypossibilities.net
+http://villagetelco.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130806/19daae12/attachment.htm>
+
+From pm286 at cam.ac.uk  Tue Aug  6 14:57:26 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 6 Aug 2013 14:57:26 +0100
+Subject: [open-science] Annotating Open Images with licence and
+ authorship to prevent copyfraud
+In-Reply-To: <CAD_CWO0zkz7yxBV_x7Z3vrRQVVMOhDhg2gQCcyeGhb=+vBVmWw@mail.gmail.com>
+References: <CAD2k14Oea9pKH2=Xkby5Nn4+b99j_s+7NnM+SiKtPys=_GWM6A@mail.gmail.com>
+	<CAD_CWO0zkz7yxBV_x7Z3vrRQVVMOhDhg2gQCcyeGhb=+vBVmWw@mail.gmail.com>
+Message-ID: <CAD2k14MxRMOP96q_5ipXLyKq4Nw63XR+fe2kO=XHqfm6-MqV7Q@mail.gmail.com>
+
+Thanks,
+It's useful to know that others are thinking this way. If I understand your
+example it is to put metadata into the image where machines might detect
+it. My suggestion is complementary - to make a permanent visual indication
+of the licence - visual watermarking. There is nothing particular novel
+(certainly not technical) but I think it needs advocacy.
+
+The problem with metadata inside the file is that only machines can see it
+and it is also fragile - easily removed either deliberately or by
+copy/paste and otehr format conversions.
+
+
+
+
+On Tue, Aug 6, 2013 at 2:13 PM, Song, Stephen <stephen.song at gmail.com>wrote:
+
+> Hi Peter,
+>
+> On 6 August 2013 08:06, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+>
+>> This is a suggestion for a very simple but effective tool/service to
+>> address copyfraud (http://en.wikipedia.org/wiki/Copyfraud) in images
+>> (especially, but not specifically, in STEM). I and others (e.g. Wikimedia)
+>> have suffered from having  CC-BY images "copyrighted" by a third party (
+>> http://blogs.ch.cam.ac.uk/pmr/2012/06/13/springergate-springer-replies/and earlier). If the images were indelibly stamped with licences and
+>> authorship copyfraud would be very much harder. I suspect this would also
+>> be welcomed by authors themsleves as it promotes their authorship.
+>>
+>> At hack4ac http://hack4ac.com/ I suggested a simple project/service to
+>> add Open licence and author information into images. This was later entered
+>> as a developer challenge at repository Fringe (
+>> http://rfringe13.blogs.edina.ac.uk/2013/08/04/developer-challenge-the-results/). Independently Chris Gutteridge took the idea and created an ePrints
+>> plugin (and did it better than my code!) - our teams both won prizes. I
+>> also talked with Open publishers including Mark Hahnel (Figshare) and Brian
+>> Hole and they were interested in seeing the idea developed further,
+>> possibly including implementing it.
+>>
+>> Neither ChrisG or our team (Cesare Bellini and me) are going to take this
+>> further ourselves but the response was sufficiently positive to see if
+>> OKFNers are interested in seeing it happen.
+>>
+>> The actual code is very simple (it took me about 10 lines of Java, Chris
+>> used ImageMagick I think). It writes a licence (e.g. "CC-BY") and
+>> optionally an authorname into the pixels of the image (either overwriting a
+>> small area or transparency/blending). Options would include writing at a
+>> chosen corner / side or adding a small border (which wouldn't affect the
+>> image but would be easier to remove by cropping).
+>>
+>> A tool could be used at many places:
+>> * in the software that was used to create the image (e.g. ImageJ - a
+>> FLOSS image manipulation tool for science)
+>> * when the image was uploaded to a repository. Especially when done
+>> before sending images to a publisher
+>> * added by publishers who promote the value of Open licences
+>> * retrospective addition to Open images (e.g. on CC-BY publishers sites
+>> or Wikimedia). This would require the host to cooperate
+>>
+>> I don't know whether this is in scope for
+>> http://www.meetup.com/OpenKnowledgeFoundation/London-GB/998522/tonight's Open Data maker session - I shall be there.
+>>
+>
+> Worth having a look at Jonas ?berg's efforts in this direction at
+> http://commonsmachinery.se/
+>
+> Cheers... Steve
+>
+>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>> --
+> Steve Song
+> +1 902 529 0046
+> http://manypossibilities.net
+> http://villagetelco.org
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130806/fca4878c/attachment.htm>
+
+From ps at pawelszczesny.org  Tue Aug  6 15:33:12 2013
+From: ps at pawelszczesny.org (=?UTF-8?B?UGF3ZcWCIFN6Y3rEmXNueQ==?=)
+Date: Tue, 6 Aug 2013 16:33:12 +0200
+Subject: [open-science] Annotating Open Images with licence and
+ authorship to prevent copyfraud
+In-Reply-To: <CAD2k14MxRMOP96q_5ipXLyKq4Nw63XR+fe2kO=XHqfm6-MqV7Q@mail.gmail.com>
+References: <CAD2k14Oea9pKH2=Xkby5Nn4+b99j_s+7NnM+SiKtPys=_GWM6A@mail.gmail.com>
+	<CAD_CWO0zkz7yxBV_x7Z3vrRQVVMOhDhg2gQCcyeGhb=+vBVmWw@mail.gmail.com>
+	<CAD2k14MxRMOP96q_5ipXLyKq4Nw63XR+fe2kO=XHqfm6-MqV7Q@mail.gmail.com>
+Message-ID: <CADfaFZrhW43qdN-kAwu_5n06TyU7JkttG6Ezor3oVWY-xSryLw@mail.gmail.com>
+
+On Tue, Aug 6, 2013 at 3:57 PM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+> it is also fragile - easily removed either deliberately or by copy/paste and
+> otehr format conversions
+
+Just 2 cents.
+
+Watermarks in the photos are also easily removed (search for
+"watermark removal" - there are plenty of tools with impressive
+capabilities). All easy ways to protect/stamp/mark digital content are
+fragile. That's why I tend to agree with Michael Nielsen who argued
+for DRM long time ago
+http://michaelnielsen.org/blog/intellectual-property-automated-contracts-and-the-free-flow-of-information/
+
+Without going into deep discussion on the tradeoffs of different
+options, I have a small suggestion, assuming the watermarking idea is
+going to take off. Embedded metadata allows to identify
+incompatibilities (for example: identification that certain two images
+are incompatible with each other when used together in a derivative
+work) in an automated fashion. Your watermarked images could be used
+in the same way, _provided_ the watermark is placed in a such way that
+OCR tools could get the license information back.
+
+Best wishes
+PS
+
+
+From pm286 at cam.ac.uk  Tue Aug  6 16:13:34 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Tue, 6 Aug 2013 16:13:34 +0100
+Subject: [open-science] Annotating Open Images with licence and
+ authorship to prevent copyfraud
+In-Reply-To: <CADfaFZrhW43qdN-kAwu_5n06TyU7JkttG6Ezor3oVWY-xSryLw@mail.gmail.com>
+References: <CAD2k14Oea9pKH2=Xkby5Nn4+b99j_s+7NnM+SiKtPys=_GWM6A@mail.gmail.com>
+	<CAD_CWO0zkz7yxBV_x7Z3vrRQVVMOhDhg2gQCcyeGhb=+vBVmWw@mail.gmail.com>
+	<CAD2k14MxRMOP96q_5ipXLyKq4Nw63XR+fe2kO=XHqfm6-MqV7Q@mail.gmail.com>
+	<CADfaFZrhW43qdN-kAwu_5n06TyU7JkttG6Ezor3oVWY-xSryLw@mail.gmail.com>
+Message-ID: <CAD2k14M9_n5uN5uG9H+TK19zwc43Mvpt4ciZi6Aiz=eFN_m-1g@mail.gmail.com>
+
+Thanks
+
+
+
+
+> Watermarks in the photos are also easily removed (search for
+> "watermark removal" - there are plenty of tools with impressive
+> capabilities). All easy ways to protect/stamp/mark digital content are
+> fragile. That's why I tend to agree with Michael Nielsen who argued
+> for DRM long time ago
+>
+> http://michaelnielsen.org/blog/intellectual-property-automated-contracts-and-the-free-flow-of-information/
+>
+
+Thanks for the link. As you may expect I don't agree with present DRM. (It
+might be possible to design something different, and in a sense what I am
+suggesting is a very weak form of that)
+
+I  can appreciate that removing a watermark may be possible but it takes a
+deliberate act. If I send an image to a publisher, marked as CC-BY PMR then
+that cannot be removed automatically. And if it is removed manually then
+it's a breach of trust and unacceptable in the community. The point is not
+that it's sophisticated but that it makes it immediately visually clear
+that the image is under someones licence. And since the mark may destroy
+information then it may become clear that it has been removed.
+
+The idea of it being visual is that it survives to print and other media,
+which DRM will not.
+
+
+
+>
+> Without going into deep discussion on the tradeoffs of different
+> options, I have a small suggestion, assuming the watermarking idea is
+> going to take off. Embedded metadata allows to identify
+> incompatibilities (for example: identification that certain two images
+> are incompatible with each other when used together in a derivative
+> work) in an automated fashion. Your watermarked images could be used
+> in the same way, _provided_ the watermark is placed in a such way that
+> OCR tools could get the license information back.
+>
+
+I am welcome to any suggestions! This was a 2 hour hack. Indeed I would
+hope that my initial idea would be transformed by the community.
+
+Rephrase it at a higher level:
+
+How can we simply, and unilaterally, add visual and/or metadata information
+to images to assert that they are Open and therefore re-usable indefinitely?
+
+P.
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130806/94490649/attachment.htm>
+
+From stefan.kasberger at gmx.at  Tue Aug  6 16:55:56 2013
+From: stefan.kasberger at gmx.at (Stefan Kasberger)
+Date: Tue, 06 Aug 2013 17:55:56 +0200
+Subject: [open-science] Open Science Calendar
+Message-ID: <52011C8C.9070307@gmx.at>
+
+Hello,
+
+so, finally some progress on the open science calendar happened last
+weekend. Michael Haubenwallner and me were coding a little bit to
+provide an embedable form and google calendar for open science, based on
+google spreadsheet, forms and calendar.
+http://openscience.alpine-geckos.at/google-cal/
+
+this is now a test version to find necessary features. right now it's
+not possible to filter the export of the calendar by working group or
+spatial area. Also the deletion of an event is not possible right now
+via form and the formating of the event is very simple. the deletion
+will be added later on, the filtering seems to be a little bit tricky,
+we will see.
+
+the question for us right now is, which way should we go?
+one calendar for the open science working group or one for the whole
+OKFN? i think the working group approach is better, cause on long term,
+there should be an own webservice for all okfn related events (with
+ticketing, booking and so on...).
+the google app code is available, and also the form can be duplicated
+pretty fast by hand, so its really easy to create a new form,
+spreadshett and calendar.
+
+and are there any features you miss?
+
+so please send us back your wishes and feedback. we also created a
+okfnpad for this: http://okfnpad.org/openscience-calendar
+
+cheers, stefan
+
+
+From teleyinex at gmail.com  Tue Aug  6 18:45:48 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Tue, 6 Aug 2013 19:45:48 +0200
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+Message-ID: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+
+Dear all,
+
+This last weekend the Citizen Cyberscience Centre organized the second CERN
+summer student webfest<http://www.citizencyberscience.net/wiki/index.php?title=Main_Page>.
+I've participated in it, and I worked in a project championed by Michael
+Doser, the spokesperson of the AEgIS experiment at CERN that studies
+antimatter.
+
+I worked with a very talented group of students and we made a CrowdCrafting
+application that invites you to map tracks of antimatter from their
+experiment.
+
+The application is here: http://crowdcrafting.org/app/antimatter
+
+The blog post is here:
+http://okfnlabs.org/blog/2013/08/06/mapping-antimatter-with-crowdcrafting.html
+
+Enjoy!
+
+Daniel
+
+PS: I'm CC okfn-labs as I mention briefly the technologies that we use
+HTML5 Canvas + WebGL ;-)
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130806/8727e395/attachment.htm>
+
+From teleyinex at gmail.com  Wed Aug  7 08:11:44 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Wed, 7 Aug 2013 09:11:44 +0200
+Subject: [open-science] [okfn-labs] Mapping antimatter with
+	CrowdCrafting.org
+In-Reply-To: <CAO7-Ysd2TyRmZYxwXP2gPDSnWeq0_4GtLyZ8YLLqgVSyd_O8iw@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAO7-Ysd2TyRmZYxwXP2gPDSnWeq0_4GtLyZ8YLLqgVSyd_O8iw@mail.gmail.com>
+Message-ID: <CAGS_vfpvSkR9-4YHVS4KEZni8EXu8LGd-tsALn5QfR29hMogAQ@mail.gmail.com>
+
+Hi David,
+
+I agree with you! I love the "short movies", to me is like looking into the
+deep space and see stars and galaxies colliding :-D The only difference is
+that this happens at the microscopic level!!
+
+Thanks for helping!!!
+
+Cheers,
+
+Daniel
+
+
+On Wed, Aug 7, 2013 at 12:30 AM, David F. Flanders <dff.okfn at gmail.com>wrote:
+
+> Fantastic, everyone should be tweeting this and contributing, what a
+> wonderful idea... Afterall, who doesn't want to participate in a science
+> experiment at CERN!
+> On Aug 7, 2013 4:20 AM, "Daniel Lombra?a Gonz?lez" <teleyinex at gmail.com>
+> wrote:
+>
+>> Dear all,
+>>
+>> This last weekend the Citizen Cyberscience Centre organized the second
+>> CERN summer student webfest<http://www.citizencyberscience.net/wiki/index.php?title=Main_Page>.
+>> I've participated in it, and I worked in a project championed by Michael
+>> Doser, the spokesperson of the AEgIS experiment at CERN that studies
+>> antimatter.
+>>
+>> I worked with a very talented group of students and we made a
+>> CrowdCrafting application that invites you to map tracks of antimatter from
+>> their experiment.
+>>
+>> The application is here: http://crowdcrafting.org/app/antimatter
+>>
+>> The blog post is here:
+>> http://okfnlabs.org/blog/2013/08/06/mapping-antimatter-with-crowdcrafting.html
+>>
+>> Enjoy!
+>>
+>> Daniel
+>>
+>> PS: I'm CC okfn-labs as I mention briefly the technologies that we use
+>> HTML5 Canvas + WebGL ;-)
+>>
+>> --
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> http://daniellombrana.es
+>> http://citizencyberscience.net
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> Por favor, NO utilice formatos de archivo propietarios para el
+>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+>> o cualquier otro que no obligue a utilizar un programa de un
+>> fabricante concreto para tratar la informaci?n contenida en ?l.
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>
+>> _______________________________________________
+>> okfn-labs mailing list
+>> okfn-labs at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/okfn-labs
+>> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-labs
+>>
+>>
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/4b375af1/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug  7 10:06:56 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 7 Aug 2013 10:06:56 +0100
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+Message-ID: <CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+
+This is a brilliant application of Crowdcrafting. It seems to me to tick
+all the boxes.
+* Everyone can understand the point - does normal gravity attract antimatter
+* The task is simple to understand - mark the tracks of particles (since
+they are straight it's easy to construct the app - start and endpoints
+* Humans are better than machines at doing this
+* There is a nice 3D output of the contributed tracks so you can
+immediately see what you have contributed. Patterns of similar lines are
+evident (I assume that is due to multiple contributors?)
+
+Is there a discussion group for it? There are some questions I would like
+to ask about the experiment and I expect others might as well. For example
+are our points used as data or as an initial step to define the regions to
+analyze in more detail?
+
+I shall try to find time to blog it - it deserves wide publicity
+
+
+
+2013/8/6 Daniel Lombra?a Gonz?lez <teleyinex at gmail.com>
+
+> Dear all,
+>
+> This last weekend the Citizen Cyberscience Centre organized the second
+> CERN summer student webfest<http://www.citizencyberscience.net/wiki/index.php?title=Main_Page>.
+> I've participated in it, and I worked in a project championed by Michael
+> Doser, the spokesperson of the AEgIS experiment at CERN that studies
+> antimatter.
+>
+> I worked with a very talented group of students and we made a
+> CrowdCrafting application that invites you to map tracks of antimatter from
+> their experiment.
+>
+> The application is here: http://crowdcrafting.org/app/antimatter
+>
+> The blog post is here:
+> http://okfnlabs.org/blog/2013/08/06/mapping-antimatter-with-crowdcrafting.html
+>
+> Enjoy!
+>
+> Daniel
+>
+> PS: I'm CC okfn-labs as I mention briefly the technologies that we use
+> HTML5 Canvas + WebGL ;-)
+>
+> --
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> http://daniellombrana.es
+> http://citizencyberscience.net
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> Por favor, NO utilice formatos de archivo propietarios para el
+> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+> o cualquier otro que no obligue a utilizar un programa de un
+> fabricante concreto para tratar la informaci?n contenida en ?l.
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/7ff674b3/attachment.htm>
+
+From teleyinex at gmail.com  Wed Aug  7 10:11:04 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Wed, 7 Aug 2013 11:11:04 +0200
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+Message-ID: <CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+
+Hi Peter,
+
+On Wed, Aug 7, 2013 at 11:06 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> This is a brilliant application of Crowdcrafting. It seems to me to tick
+> all the boxes.
+>
+
+Thanks a lot for your kind words!!!
+
+
+> * Everyone can understand the point - does normal gravity attract
+> antimatter
+> * The task is simple to understand - mark the tracks of particles (since
+> they are straight it's easy to construct the app - start and endpoints
+> * Humans are better than machines at doing this
+> * There is a nice 3D output of the contributed tracks so you can
+> immediately see what you have contributed. Patterns of similar lines are
+> evident (I assume that is due to multiple contributors?)
+>
+
+Yes, and it is really beautiful because you can see the tracks reported by
+all the volunteers that cluster themselves around it :-)
+
+
+>
+> Is there a discussion group for it? There are some questions I would like
+> to ask about the experiment and I expect others might as well. For example
+> are our points used as data or as an initial step to define the regions to
+> analyze in more detail?
+>
+
+Not yet, but we will soon :-) We are working on it, hehe. Regarding your
+question, if I'm not mistaken these tracks will be used to analyze again
+those areas and see what is going on.
+
+I can put you in contact with Michael Doser about this specific issue, he
+will be happy to answer your questions.
+
+
+>
+> I shall try to find time to blog it - it deserves wide publicity
+>
+
+Thanks a lot Peter! Let me know when you blog about it, so I can retweet it
+:D
+
+Cheers,
+
+Daniel
+
+>
+>
+>
+> 2013/8/6 Daniel Lombra?a Gonz?lez <teleyinex at gmail.com>
+>
+>> Dear all,
+>>
+>> This last weekend the Citizen Cyberscience Centre organized the second
+>> CERN summer student webfest<http://www.citizencyberscience.net/wiki/index.php?title=Main_Page>.
+>> I've participated in it, and I worked in a project championed by Michael
+>> Doser, the spokesperson of the AEgIS experiment at CERN that studies
+>> antimatter.
+>>
+>> I worked with a very talented group of students and we made a
+>> CrowdCrafting application that invites you to map tracks of antimatter from
+>> their experiment.
+>>
+>> The application is here: http://crowdcrafting.org/app/antimatter
+>>
+>> The blog post is here:
+>> http://okfnlabs.org/blog/2013/08/06/mapping-antimatter-with-crowdcrafting.html
+>>
+>> Enjoy!
+>>
+>> Daniel
+>>
+>> PS: I'm CC okfn-labs as I mention briefly the technologies that we use
+>> HTML5 Canvas + WebGL ;-)
+>>
+>> --
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> http://daniellombrana.es
+>> http://citizencyberscience.net
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> Por favor, NO utilice formatos de archivo propietarios para el
+>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+>> o cualquier otro que no obligue a utilizar un programa de un
+>> fabricante concreto para tratar la informaci?n contenida en ?l.
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/7206483e/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug  7 10:35:30 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 7 Aug 2013 10:35:30 +0100
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+Message-ID: <CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+
+On Wed, Aug 7, 2013 at 10:11 AM, Daniel Lombra?a Gonz?lez <
+teleyinex at gmail.com> wrote:
+
+> Hi Peter,
+>
+>
+>
+>>
+>> Is there a discussion group for it? There are some questions I would like
+>> to ask about the experiment and I expect others might as well. For example
+>> are our points used as data or as an initial step to define the regions to
+>> analyze in more detail?
+>>
+>
+> Not yet, but we will soon :-) We are working on it, hehe. Regarding your
+> question, if I'm not mistaken these tracks will be used to analyze again
+> those areas and see what is going on.
+>
+> I can put you in contact with Michael Doser about this specific issue, he
+> will be happy to answer your questions.
+>
+
+I think this is a good example of the value of a mail list and then Michael
+could answer to the whole world.
+
+
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/d9dec61f/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Wed Aug  7 12:34:08 2013
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Wed, 7 Aug 2013 12:34:08 +0100
+Subject: [open-science] Introducing the Open Economics Principles
+Message-ID: <CAFg0Au4FEb+8uLJ1h_yMQjw_jsMpDpCaqeW9zRF_pbZYbe4OQQ@mail.gmail.com>
+
+Dear all,
+
+The Open Economics Working Group would like to
+introduce<http://openeconomics.net/2013/08/07/introducing-the-open-economics-principles/>the
+Open
+Economics Principles <http://openeconomics.net/principles/>, a Statement on
+Openness of Economic Data and Code. A year and a half ago the Open
+Economics project
+began<http://blog.okfn.org/2012/02/23/alfred-p-sloan-foundation-funds-open-economics-working-group-at-the-open-knowledge-foundation/>with
+a mission of becoming central point of reference and support for those
+interested in open economic data. In the process of identifying examples
+and ongoing barriers for opening up data and code for the economics
+profession, we saw the need to present a statement on the guiding
+principles of transparency and accountability in economics that would
+enable replication and scholarly debate as well as access to knowledge as a
+public good.
+
+We wrote the Statement on the Open Economics Principles during our
+First<http://openeconomics.net/events/workshop-dec-2012/>and
+Second <http://openeconomics.net/events/workshop-june-2013/> Open Economics
+International Workshops, receiving feedback from our Advisory
+Panel<http://openeconomics.net/about/advisory-panel/>and community
+with the aim to emphasise the importance of having open
+access to data and code by default and address some of the issues around
+the roles of researchers, journal editors, funders and information
+professionals.
+
+Please, endorse the Principles! We appreciate your participation and
+support.
+http://openeconomics.net/principles/
+
+
+*
+
+Velichka Dimitrova
+
+Open Economics Project Coordinator |
+@vndimitrova<http://twitter.com/vndimitrova>
+
+The Open Knowledge Foundation
+
+Empowering through Open Knowledge
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+*
+
+*Open Economics | http://openeconomics.net/ |
+@okfnecon<http://twitter.com/okfnecon>|best practice for open economic
+data
+*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/b4dcdf01/attachment.htm>
+
+From pm286 at cam.ac.uk  Wed Aug  7 13:03:23 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Wed, 7 Aug 2013 13:03:23 +0100
+Subject: [open-science] [okfn-discuss] Introducing the Open Economics
+	Principles
+In-Reply-To: <CAFg0Au4FEb+8uLJ1h_yMQjw_jsMpDpCaqeW9zRF_pbZYbe4OQQ@mail.gmail.com>
+References: <CAFg0Au4FEb+8uLJ1h_yMQjw_jsMpDpCaqeW9zRF_pbZYbe4OQQ@mail.gmail.com>
+Message-ID: <CAD2k14Pt3KRPjyz0MH1b=C+-7RZne3N_4Z97iz_Uf+uQ5aZYwQ@mail.gmail.com>
+
+how do we endorse them? Is there a signup?
+
+
+On Wed, Aug 7, 2013 at 12:34 PM, Velichka Dimitrova <
+velichka.dimitrova at okfn.org> wrote:
+
+> Dear all,
+>
+> The Open Economics Working Group would like to introduce<http://openeconomics.net/2013/08/07/introducing-the-open-economics-principles/>the Open
+> Economics Principles <http://openeconomics.net/principles/>, a Statement
+> on Openness of Economic Data and Code. A year and a half ago the Open
+> Economics project began<http://blog.okfn.org/2012/02/23/alfred-p-sloan-foundation-funds-open-economics-working-group-at-the-open-knowledge-foundation/>with a mission of becoming central point of reference and support for those
+> interested in open economic data. In the process of identifying examples
+> and ongoing barriers for opening up data and code for the economics
+> profession, we saw the need to present a statement on the guiding
+> principles of transparency and accountability in economics that would
+> enable replication and scholarly debate as well as access to knowledge as a
+> public good.
+>
+> We wrote the Statement on the Open Economics Principles during our First<http://openeconomics.net/events/workshop-dec-2012/>and
+> Second <http://openeconomics.net/events/workshop-june-2013/> Open
+> Economics International Workshops, receiving feedback from our Advisory
+> Panel <http://openeconomics.net/about/advisory-panel/> and community with
+> the aim to emphasise the importance of having open access to data and code
+> by default and address some of the issues around the roles of researchers,
+> journal editors, funders and information professionals.
+>
+> Please, endorse the Principles! We appreciate your participation and
+> support.
+> http://openeconomics.net/principles/
+>
+>
+> *
+>
+> Velichka Dimitrova
+>
+> Open Economics Project Coordinator | @vndimitrova<http://twitter.com/vndimitrova>
+>
+> The Open Knowledge Foundation
+>
+> Empowering through Open Knowledge
+> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+> *
+>
+> *Open Economics | http://openeconomics.net/ | @okfnecon<http://twitter.com/okfnecon>|best practice for open economic data
+> *
+>
+>
+>
+> _______________________________________________
+> okfn-discuss mailing list
+> okfn-discuss at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-discuss
+>
+>
+
+
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/4d7b4563/attachment.htm>
+
+From velichka.dimitrova at okfn.org  Wed Aug  7 13:35:11 2013
+From: velichka.dimitrova at okfn.org (Velichka Dimitrova)
+Date: Wed, 7 Aug 2013 13:35:11 +0100
+Subject: [open-science] [open-development] [okfn-discuss] Introducing
+	the Open Economics Principles
+In-Reply-To: <CAD2k14Pt3KRPjyz0MH1b=C+-7RZne3N_4Z97iz_Uf+uQ5aZYwQ@mail.gmail.com>
+References: <CAFg0Au4FEb+8uLJ1h_yMQjw_jsMpDpCaqeW9zRF_pbZYbe4OQQ@mail.gmail.com>
+	<CAD2k14Pt3KRPjyz0MH1b=C+-7RZne3N_4Z97iz_Uf+uQ5aZYwQ@mail.gmail.com>
+Message-ID: <CAFg0Au5sDAf8ZFK1guZq5YuphLVtZ7q=3dU0SVM3OAOreG+umA@mail.gmail.com>
+
+Certainly! More endorsements are very welcome.
+
+There is an endorse widget on the right hand side.
+
+*
+
+Velichka Dimitrova
+
+Open Economics Project Coordinator |
+@vndimitrova<http://twitter.com/vndimitrova>
+
+The Open Knowledge Foundation
+
+Empowering through Open Knowledge
+http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+*
+
+*Open Economics | http://openeconomics.net/ |
+@okfnecon<http://twitter.com/okfnecon>|best practice for open economic
+data
+*
+
+
+
+
+On 7 August 2013 13:03, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+> how do we endorse them? Is there a signup?
+>
+>
+> On Wed, Aug 7, 2013 at 12:34 PM, Velichka Dimitrova <
+> velichka.dimitrova at okfn.org> wrote:
+>
+>> Dear all,
+>>
+>> The Open Economics Working Group would like to introduce<http://openeconomics.net/2013/08/07/introducing-the-open-economics-principles/>the Open
+>> Economics Principles <http://openeconomics.net/principles/>, a Statement
+>> on Openness of Economic Data and Code. A year and a half ago the Open
+>> Economics project began<http://blog.okfn.org/2012/02/23/alfred-p-sloan-foundation-funds-open-economics-working-group-at-the-open-knowledge-foundation/>with a mission of becoming central point of reference and support for those
+>> interested in open economic data. In the process of identifying examples
+>> and ongoing barriers for opening up data and code for the economics
+>> profession, we saw the need to present a statement on the guiding
+>> principles of transparency and accountability in economics that would
+>> enable replication and scholarly debate as well as access to knowledge as a
+>> public good.
+>>
+>> We wrote the Statement on the Open Economics Principles during our First<http://openeconomics.net/events/workshop-dec-2012/>and
+>> Second <http://openeconomics.net/events/workshop-june-2013/> Open
+>> Economics International Workshops, receiving feedback from our Advisory
+>> Panel <http://openeconomics.net/about/advisory-panel/> and community
+>> with the aim to emphasise the importance of having open access to data and
+>> code by default and address some of the issues around the roles of
+>> researchers, journal editors, funders and information professionals.
+>>
+>> Please, endorse the Principles! We appreciate your participation and
+>> support.
+>> http://openeconomics.net/principles/
+>>
+>>
+>> *
+>>
+>> Velichka Dimitrova
+>>
+>> Open Economics Project Coordinator | @vndimitrova<http://twitter.com/vndimitrova>
+>>
+>> The Open Knowledge Foundation
+>>
+>> Empowering through Open Knowledge
+>> http://okfn.org/  |  @okfn <http://twitter.com/OKFN>  |  OKF on Facebook<https://www.facebook.com/OKFNetwork> |
+>> Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+>> *
+>>
+>> *Open Economics | http://openeconomics.net/ | @okfnecon<http://twitter.com/okfnecon>|best practice for open economic data
+>> *
+>>
+>>
+>>
+>> _______________________________________________
+>> okfn-discuss mailing list
+>> okfn-discuss at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/okfn-discuss
+>> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-discuss
+>>
+>>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+> _______________________________________________
+> open-development mailing list
+> open-development at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-development
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-development
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/9d1ce9c4/attachment.htm>
+
+From teleyinex at gmail.com  Wed Aug  7 14:17:52 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Wed, 7 Aug 2013 15:17:52 +0200
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+	<CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+Message-ID: <CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+
+Hi everyone,
+
+I've created a Google Group for this project, as CERN cannot host it rather
+quickly. Michael Doser will be joining us soon, so feel free to ask any
+question.
+
+https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting
+
+All the best,
+
+Daniel
+
+
+On Wed, Aug 7, 2013 at 11:35 AM, Peter Murray-Rust <pm286 at cam.ac.uk> wrote:
+
+>
+>
+>
+> On Wed, Aug 7, 2013 at 10:11 AM, Daniel Lombra?a Gonz?lez <
+> teleyinex at gmail.com> wrote:
+>
+>> Hi Peter,
+>>
+>>
+>>
+>>
+>>>
+>>> Is there a discussion group for it? There are some questions I would
+>>> like to ask about the experiment and I expect others might as well. For
+>>> example are our points used as data or as an initial step to define the
+>>> regions to analyze in more detail?
+>>>
+>>
+>> Not yet, but we will soon :-) We are working on it, hehe. Regarding your
+>> question, if I'm not mistaken these tracks will be used to analyze again
+>> those areas and see what is going on.
+>>
+>> I can put you in contact with Michael Doser about this specific issue, he
+>> will be happy to answer your questions.
+>>
+>
+> I think this is a good example of the value of a mail list and then
+> Michael could answer to the whole world.
+>
+>
+>
+>
+> --
+> Peter Murray-Rust
+> Reader in Molecular Informatics
+> Unilever Centre, Dep. Of Chemistry
+> University of Cambridge
+> CB2 1EW, UK
+> +44-1223-763069
+>
+
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130807/424447fa/attachment.htm>
+
+From jenny.molloy at okfn.org  Thu Aug  8 09:33:42 2013
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 8 Aug 2013 09:33:42 +0100
+Subject: [open-science] Fw: [TACD TTIP] Big Pharma wish list for TTIP/TAFTA
+ : block clinical trial transparency,
+ higher IPR barriers for generics and lower med authorization requirments
+Message-ID: <CABPM+woLbhuwkC1Ymiww8NsXbDKxmOgCqtiZznc6MDnbp-+nMA@mail.gmail.com>
+
+Forwarding as this only went to open-science-dev...
+
+---------- Forwarded message ----------
+From: Javier Ruiz <javier at openrightsgroup.org>
+Date: Tue, Aug 6, 2013 at 4:32 PM
+Subject: [open-science-dev] Fw: [TACD TTIP] Big Pharma wish list for
+TTIP/TAFTA : block clinical trial transparency, higher IPR barriers for
+generics and lower med authorization requirments
+To: open-science-dev at lists.okfn.org
+
+
+?  *disclosure of nonpublic data submitted in clinical and preclinical
+dossiers and patient-level data sets risks damaging both public health and
+patient welfare*
+
+
+-- 
+Javier Ruiz
+javier at openrightsgroup.org
++44(0)7877 911 412
+@javierruiz
+www.OpenRightsGroup.org
+Winners of Liberty's Human Rights Campaigner of the Year Award 2012
+
+
+*Subject:* [TACD TTIP] Big Pharma wish list for TTIP/TAFTA : block clinical
+trial transparency, higher IPR barriers for generics and lower med
+authorization requirments
+
+*The US-EU Free Trade Agreement: Tipping Over the Regulatory Barriers
+[1]<https://mail.google.com/mail/u/0/?shva=1#140504f8baca73f4__ftn1>
+*
+
+*U.S. House of Representatives Committee on Energy and Commerce*
+
+*Subcommittee on Commerce, Manufacturing, and Trade*
+
+*July 24, 2013  official record *
+
+*
+*
+
+*John Castellani, President and CEO, Pharmaceutical Research and
+Manufacturers of America*
+
+1.     *In 2011, 80% of medicines in development were researched and tested
+in US and in EU.*
+
+2.     *The costs to develop new medicines continue to increase and global
+ecosystem grow more hostile to innovation.*
+
+*3.*     *PhRMA supports TTIP to eliminate unnecessary nontariff barriers
+between these regions and establishes a model for future trade agreements.*
+
+*4.*     *US ?EU negotiations should address both regulatory compatibility
+and IPR, market access provisions and customs and public procurement
+measures.*
+
+*5.*     *Our industry are concerned about the current European environment
+because:*
+
+*1.*     *Shortsighted cost-containment measures, especially as responses
+to financial crisis*
+
+?  *Measures were implemented without predictable, transparent and
+consultative processes.*
+
+?  *These measures raises serious concern about EU member states?
+commitment to reward innovation.*
+
+*2.*     *EMA current and proposed data disclosure policy*
+
+?  *disclosure of nonpublic data submitted in clinical and preclinical
+dossiers and patient-level data sets risks damaging both public health and
+patient welfare*
+
+?  *PhRMA urge US government to ensure responsible data sharing with EU.*
+
+*3.*     *Market Access Commitments*
+
+?  *PhRMA recommend to include a US-Korea FTA like commitments in US-EU
+trade agreement*
+
+?  *The commitments should recognize the value of biopharmaceuticals and
+the value they play in reducing more costly medical interventions and the
+increased quality of life*
+
+*6.*     *Both EU and US should recognize IP as the lifeblood of innovation
+and strong IPR rules within legal regimes. Any agreements must not dilute
+IPR.*
+
+*7.*     *PhRMA, FDA and EMA has proposed a number of regulatory
+compatibility initiatives to reduce regulatory burden. (e.g. reduce
+redundant testing, seeking mutual recognition of manufacturing  and
+clinical principles)*
+
+
+
+_______________________________________________
+open-science-dev mailing list
+open-science-dev at lists.okfn.org
+http://lists.okfn.org/mailman/listinfo/open-science-dev
+Unsubscribe: http://lists.okfn.org/mailman/options/open-science-dev
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130808/08224083/attachment.htm>
+
+From matthew.todd at sydney.edu.au  Thu Aug  8 12:47:20 2013
+From: matthew.todd at sydney.edu.au (Matthew Todd)
+Date: Thu, 8 Aug 2013 21:47:20 +1000
+Subject: [open-science] Fw: [TACD TTIP] Big Pharma wish list
+Message-ID: <CADOXZMwxj9w+nD8=GKEcjxa0jVmt2EMm3DsvAtv2Q9aj=eMAsQ@mail.gmail.com>
+
+Javier,
+Is there a link/source for that list from Castellani? Google's just giving
+me self-referentials. I'm in need of discovering a meaning for the
+statement "global
+ecosystem grow more hostile to innovation"
+Mat
+
+
+
+
+-- 
+MATTHEW TODD | Senior Lecturer and Honours Coordinator
+School of Chemistry | Faculty of Science
+
+THE UNIVERSITY OF SYDNEY
+Rm 519, F11 | The University of Sydney | NSW | 2006
+T +61 2 9351 2180  | F +61 2 9351 3329  | M +61 415 274104
+E matthew.todd at sydney.edu.au  | W
+http://sydney.edu.au/science/chemistry/research/todd.html
+
+CRICOS 00026A
+This email plus any attachments to it are confidential. Any unauthorised
+use is strictly prohibited. If you receive this email in error, please
+delete it and any attachments.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130808/6d0e53ca/attachment.htm>
+
+From teleyinex at gmail.com  Fri Aug  9 08:08:50 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Fri, 9 Aug 2013 09:08:50 +0200
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+	<CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+	<CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+Message-ID: <CAGS_vfpuZPMjye5Dm9bM62PMPVvJ=MXpdRRJO7EuZDFJa9Vs9w@mail.gmail.com>
+
+Dear all,
+
+I'm really happy to announce that CERN has officially tweeted about the
+application here:
+
+https://twitter.com/CERN/status/365442111413305344
+
+And that they have posted a blog post about the application here:
+
+http://home.web.cern.ch/about/updates/2013/08/join-dots-measure-antimatter
+
+James Doherty, the writer of the blog post has also published in the
+Quantum Diaries:
+
+http://www.quantumdiaries.org/2013/08/08/join-the-dots-to-measure-antimatter/
+
+Enjoy!!!
+
+Daniel
+
+
+2013/8/7 Daniel Lombra?a Gonz?lez <teleyinex at gmail.com>
+
+> Hi everyone,
+>
+> I've created a Google Group for this project, as CERN cannot host it
+> rather quickly. Michael Doser will be joining us soon, so feel free to ask
+> any question.
+>
+> https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting
+>
+> All the best,
+>
+> Daniel
+>
+>
+> On Wed, Aug 7, 2013 at 11:35 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>
+>>
+>>
+>>
+>> On Wed, Aug 7, 2013 at 10:11 AM, Daniel Lombra?a Gonz?lez <
+>> teleyinex at gmail.com> wrote:
+>>
+>>> Hi Peter,
+>>>
+>>>
+>>>
+>>>
+>>>>
+>>>> Is there a discussion group for it? There are some questions I would
+>>>> like to ask about the experiment and I expect others might as well. For
+>>>> example are our points used as data or as an initial step to define the
+>>>> regions to analyze in more detail?
+>>>>
+>>>
+>>> Not yet, but we will soon :-) We are working on it, hehe. Regarding your
+>>> question, if I'm not mistaken these tracks will be used to analyze again
+>>> those areas and see what is going on.
+>>>
+>>> I can put you in contact with Michael Doser about this specific issue,
+>>> he will be happy to answer your questions.
+>>>
+>>
+>> I think this is a good example of the value of a mail list and then
+>> Michael could answer to the whole world.
+>>
+>>
+>>
+>>
+>> --
+>> Peter Murray-Rust
+>> Reader in Molecular Informatics
+>> Unilever Centre, Dep. Of Chemistry
+>> University of Cambridge
+>> CB2 1EW, UK
+>> +44-1223-763069
+>>
+>
+>
+>
+> --
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> http://daniellombrana.es
+> http://citizencyberscience.net
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> Por favor, NO utilice formatos de archivo propietarios para el
+> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+> o cualquier otro que no obligue a utilizar un programa de un
+> fabricante concreto para tratar la informaci?n contenida en ?l.
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>
+
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130809/1fd718d5/attachment.htm>
+
+From tfmorris at gmail.com  Fri Aug  9 14:47:43 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Fri, 9 Aug 2013 09:47:43 -0400
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAGS_vfpuZPMjye5Dm9bM62PMPVvJ=MXpdRRJO7EuZDFJa9Vs9w@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+	<CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+	<CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+	<CAGS_vfpuZPMjye5Dm9bM62PMPVvJ=MXpdRRJO7EuZDFJa9Vs9w@mail.gmail.com>
+Message-ID: <CAE9vqEF6kWVpq5JCa7YFPmxQ4k6M1SgUBP+fZ+5NhZcPyCj=OQ@mail.gmail.com>
+
+> *Epilepsy warning: The particle tracks contain rapidly flashing screens.
+If you are epileptic, perhaps best to skip this bit.*
+
+Even for non-epileptic users this is very annoying.  Why not just fix the
+animation so it doesn't clear the screen between every frame?
+
+Tom
+
+
+
+
+On Fri, Aug 9, 2013 at 3:08 AM, Daniel Lombra?a Gonz?lez <
+teleyinex at gmail.com> wrote:
+
+> Dear all,
+>
+> I'm really happy to announce that CERN has officially tweeted about the
+> application here:
+>
+> https://twitter.com/CERN/status/365442111413305344
+>
+> And that they have posted a blog post about the application here:
+>
+> http://home.web.cern.ch/about/updates/2013/08/join-dots-measure-antimatter
+>
+> James Doherty, the writer of the blog post has also published in the
+> Quantum Diaries:
+>
+>
+> http://www.quantumdiaries.org/2013/08/08/join-the-dots-to-measure-antimatter/
+>
+> Enjoy!!!
+>
+> Daniel
+>
+>
+> 2013/8/7 Daniel Lombra?a Gonz?lez <teleyinex at gmail.com>
+>
+>> Hi everyone,
+>>
+>> I've created a Google Group for this project, as CERN cannot host it
+>> rather quickly. Michael Doser will be joining us soon, so feel free to ask
+>> any question.
+>>
+>> https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting
+>>
+>> All the best,
+>>
+>> Daniel
+>>
+>>
+>> On Wed, Aug 7, 2013 at 11:35 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>>
+>>>
+>>>
+>>>
+>>> On Wed, Aug 7, 2013 at 10:11 AM, Daniel Lombra?a Gonz?lez <
+>>> teleyinex at gmail.com> wrote:
+>>>
+>>>> Hi Peter,
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>>
+>>>>> Is there a discussion group for it? There are some questions I would
+>>>>> like to ask about the experiment and I expect others might as well. For
+>>>>> example are our points used as data or as an initial step to define the
+>>>>> regions to analyze in more detail?
+>>>>>
+>>>>
+>>>> Not yet, but we will soon :-) We are working on it, hehe. Regarding
+>>>> your question, if I'm not mistaken these tracks will be used to analyze
+>>>> again those areas and see what is going on.
+>>>>
+>>>> I can put you in contact with Michael Doser about this specific issue,
+>>>> he will be happy to answer your questions.
+>>>>
+>>>
+>>> I think this is a good example of the value of a mail list and then
+>>> Michael could answer to the whole world.
+>>>
+>>>
+>>>
+>>>
+>>> --
+>>> Peter Murray-Rust
+>>> Reader in Molecular Informatics
+>>> Unilever Centre, Dep. Of Chemistry
+>>> University of Cambridge
+>>> CB2 1EW, UK
+>>> +44-1223-763069
+>>>
+>>
+>>
+>>
+>> --
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> http://daniellombrana.es
+>> http://citizencyberscience.net
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> Por favor, NO utilice formatos de archivo propietarios para el
+>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+>> o cualquier otro que no obligue a utilizar un programa de un
+>> fabricante concreto para tratar la informaci?n contenida en ?l.
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>
+>
+>
+>
+> --
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> http://daniellombrana.es
+> http://citizencyberscience.net
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+> Por favor, NO utilice formatos de archivo propietarios para el
+> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+> o cualquier otro que no obligue a utilizar un programa de un
+> fabricante concreto para tratar la informaci?n contenida en ?l.
+>
+> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>
+> _______________________________________________
+> open-science mailing list
+> open-science at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/open-science
+> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130809/8ad853a6/attachment.htm>
+
+From teleyinex at gmail.com  Mon Aug 12 07:38:42 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Mon, 12 Aug 2013 08:38:42 +0200
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAE9vqEF6kWVpq5JCa7YFPmxQ4k6M1SgUBP+fZ+5NhZcPyCj=OQ@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+	<CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+	<CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+	<CAGS_vfpuZPMjye5Dm9bM62PMPVvJ=MXpdRRJO7EuZDFJa9Vs9w@mail.gmail.com>
+	<CAE9vqEF6kWVpq5JCa7YFPmxQ4k6M1SgUBP+fZ+5NhZcPyCj=OQ@mail.gmail.com>
+Message-ID: <CAGS_vfoctd=NDLwEw-9Rc=sM-+ENJFu3hQx1v_cH1Yabc6f9Tw@mail.gmail.com>
+
+Hi Tom,
+
+We are using Kinetic.JS and in principle it should handle that correctly,
+as we are using the Animation
+constructor<http://kineticjs.com/docs/Kinetic.Animation.html>,
+that does that precisely (or at least, it should be like that as the images
+are loaded in an HTML5 canvas). Interestingly, this works really well on
+Firefox (no flickering at all) but not in Chrome (sometimes it works, and
+we don't know why).
+
+We will probably remove the movie UI in any case, as we might want to give
+more control to the users for analyzing the tracks (see discussion at
+Google Groups<https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting>
+).
+
+Cheers,
+
+Daniel
+
+
+On Fri, Aug 9, 2013 at 3:47 PM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> > *Epilepsy warning: The particle tracks contain rapidly flashing
+> screens. If you are epileptic, perhaps best to skip this bit.*
+>
+> Even for non-epileptic users this is very annoying.  Why not just fix the
+> animation so it doesn't clear the screen between every frame?
+>
+> Tom
+>
+>
+>
+>
+> On Fri, Aug 9, 2013 at 3:08 AM, Daniel Lombra?a Gonz?lez <
+> teleyinex at gmail.com> wrote:
+>
+>> Dear all,
+>>
+>> I'm really happy to announce that CERN has officially tweeted about the
+>> application here:
+>>
+>> https://twitter.com/CERN/status/365442111413305344
+>>
+>> And that they have posted a blog post about the application here:
+>>
+>> http://home.web.cern.ch/about/updates/2013/08/join-dots-measure-antimatter
+>>
+>> James Doherty, the writer of the blog post has also published in the
+>> Quantum Diaries:
+>>
+>>
+>> http://www.quantumdiaries.org/2013/08/08/join-the-dots-to-measure-antimatter/
+>>
+>> Enjoy!!!
+>>
+>> Daniel
+>>
+>>
+>> 2013/8/7 Daniel Lombra?a Gonz?lez <teleyinex at gmail.com>
+>>
+>>> Hi everyone,
+>>>
+>>> I've created a Google Group for this project, as CERN cannot host it
+>>> rather quickly. Michael Doser will be joining us soon, so feel free to ask
+>>> any question.
+>>>
+>>> https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting
+>>>
+>>> All the best,
+>>>
+>>> Daniel
+>>>
+>>>
+>>> On Wed, Aug 7, 2013 at 11:35 AM, Peter Murray-Rust <pm286 at cam.ac.uk>wrote:
+>>>
+>>>>
+>>>>
+>>>>
+>>>> On Wed, Aug 7, 2013 at 10:11 AM, Daniel Lombra?a Gonz?lez <
+>>>> teleyinex at gmail.com> wrote:
+>>>>
+>>>>> Hi Peter,
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>>
+>>>>>> Is there a discussion group for it? There are some questions I would
+>>>>>> like to ask about the experiment and I expect others might as well. For
+>>>>>> example are our points used as data or as an initial step to define the
+>>>>>> regions to analyze in more detail?
+>>>>>>
+>>>>>
+>>>>> Not yet, but we will soon :-) We are working on it, hehe. Regarding
+>>>>> your question, if I'm not mistaken these tracks will be used to analyze
+>>>>> again those areas and see what is going on.
+>>>>>
+>>>>> I can put you in contact with Michael Doser about this specific issue,
+>>>>> he will be happy to answer your questions.
+>>>>>
+>>>>
+>>>> I think this is a good example of the value of a mail list and then
+>>>> Michael could answer to the whole world.
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Peter Murray-Rust
+>>>> Reader in Molecular Informatics
+>>>> Unilever Centre, Dep. Of Chemistry
+>>>> University of Cambridge
+>>>> CB2 1EW, UK
+>>>> +44-1223-763069
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>>
+>>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>> http://daniellombrana.es
+>>> http://citizencyberscience.net
+>>>
+>>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>> Por favor, NO utilice formatos de archivo propietarios para el
+>>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+>>> o cualquier otro que no obligue a utilizar un programa de un
+>>> fabricante concreto para tratar la informaci?n contenida en ?l.
+>>>
+>>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>>
+>>
+>>
+>>
+>> --
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> http://daniellombrana.es
+>> http://citizencyberscience.net
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>> Por favor, NO utilice formatos de archivo propietarios para el
+>> intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+>> o cualquier otro que no obligue a utilizar un programa de un
+>> fabricante concreto para tratar la informaci?n contenida en ?l.
+>>
+>> ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+>>
+>> _______________________________________________
+>> open-science mailing list
+>> open-science at lists.okfn.org
+>> http://lists.okfn.org/mailman/listinfo/open-science
+>> Unsubscribe: http://lists.okfn.org/mailman/options/open-science
+>>
+>>
+>
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130812/6c35515b/attachment.htm>
+
+From teleyinex at gmail.com  Mon Aug 12 13:47:29 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Mon, 12 Aug 2013 14:47:29 +0200
+Subject: [open-science] CrowdCrafting.org helping the SolarMal project: a
+ new innovative mosquito trapping technologies for malaria control
+Message-ID: <CAGS_vfoFODwjaeun5Pj9FAv2TGhLakM8Urc-RXy2K28jmz1EJQ@mail.gmail.com>
+
+Hi there,
+
+Today a new application developed by the Public Health Computing group from
+Swiss Tropical and Public Health Institute in Basel has released a new
+CrowdCrafting application!
+
+The application needs your help to geo-locate the houses of the Rusinga
+Island, an island in Lake Victoria, Western Kenya. These locations will be
+used to  to inform the project logistics and analysis of the SolarMal
+project <http://www.malariajournal.com/content/11/S1/O45>.
+
+The tasks are really simple and you can help a lot!
+
+Here is the official Tweet about it:
+https://twitter.com/PyBossa/status/366900989611085825
+
+And the paper about the project:
+http://www.malariajournal.com/content/11/S1/O45
+
+Cheers,
+
+Daniel
+
+PS: This application is really interesting because it uses the Bing aerial
+data from Microsoft ;-) In principle they do not have the same
+"restrictions" as Google with the number of requests!
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130812/770eb02d/attachment.htm>
+
+From tfmorris at gmail.com  Mon Aug 12 15:28:00 2013
+From: tfmorris at gmail.com (Tom Morris)
+Date: Mon, 12 Aug 2013 10:28:00 -0400
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAGS_vfoctd=NDLwEw-9Rc=sM-+ENJFu3hQx1v_cH1Yabc6f9Tw@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+	<CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+	<CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+	<CAGS_vfpuZPMjye5Dm9bM62PMPVvJ=MXpdRRJO7EuZDFJa9Vs9w@mail.gmail.com>
+	<CAE9vqEF6kWVpq5JCa7YFPmxQ4k6M1SgUBP+fZ+5NhZcPyCj=OQ@mail.gmail.com>
+	<CAGS_vfoctd=NDLwEw-9Rc=sM-+ENJFu3hQx1v_cH1Yabc6f9Tw@mail.gmail.com>
+Message-ID: <CAE9vqEEUZ2xAALvLjaYWP3t_OgsJcibnpp4F4F-hLg-BSTrPcw@mail.gmail.com>
+
+On Mon, Aug 12, 2013 at 2:38 AM, Daniel Lombra?a Gonz?lez <
+teleyinex at gmail.com> wrote:
+
+> Hi Tom,
+>
+> We are using Kinetic.JS and in principle it should handle that correctly,
+> as we are using the Animation constructor<http://kineticjs.com/docs/Kinetic.Animation.html>,
+> that does that precisely (or at least, it should be like that as the images
+> are loaded in an HTML5 canvas). Interestingly, this works really well on
+> Firefox (no flickering at all) but not in Chrome (sometimes it works, and
+> we don't know why).
+>
+
+Did you try preloading the images into multiple image objects instead of
+changing the src url of a single image object? Scaling the images server
+side instead of in the browser? Asking the KineticJS folks for advice?
+
+Even something as simple as displaying the animation on a black background
+instead of a bright white background would greatly reduce the
+headache/epilepsy inducing strobing (ie use black for the canvas background
+color instead of transparent).
+
+
+> We will probably remove the movie UI in any case, as we might want to give
+> more control to the users for analyzing the tracks (see discussion at
+> Google Groups<https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting>
+> ).
+>
+
+I agree that scrubbing controls are desirable from a UI point of view, but
+you're probably still going to want some type of movie mode, particularly
+when users are drawing/adjusting the endpoints of the tracks.  If you
+render the lines/endpoints in a fashion that doesn't obscure the image
+(open circles for endpoints, dotted/dashed lines), it'll make it easier for
+users to see how accurately their line matches the track.
+
+ Tom
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130812/f7ca018c/attachment.htm>
+
+From teleyinex at gmail.com  Tue Aug 13 07:57:33 2013
+From: teleyinex at gmail.com (=?UTF-8?Q?Daniel_Lombra=C3=B1a_Gonz=C3=A1lez?=)
+Date: Tue, 13 Aug 2013 08:57:33 +0200
+Subject: [open-science] Mapping antimatter with CrowdCrafting.org
+In-Reply-To: <CAE9vqEEUZ2xAALvLjaYWP3t_OgsJcibnpp4F4F-hLg-BSTrPcw@mail.gmail.com>
+References: <CAGS_vfqBGM+mvdtndGf-pvtF5r0+kq2i5EuZGR1B9qq9Kq7Grw@mail.gmail.com>
+	<CAD2k14PiTG5qnkCEpvdq0=D_QiObEvWkx4Z9TtH8_sc1C8q9hw@mail.gmail.com>
+	<CAGS_vfqSWY3kf7F=Znxk+OFEAQStW7hy-Rn==Wi8dXGQe7WtYw@mail.gmail.com>
+	<CAD2k14MC5RhPTu8XdpLtp-UJjqdDe-WWuTsQYpRfMgn2D9odzQ@mail.gmail.com>
+	<CAGS_vfqmCaLpQjpFgPXV43Y5=XWzFJKan68VaLrpJKz6rZya3Q@mail.gmail.com>
+	<CAGS_vfpuZPMjye5Dm9bM62PMPVvJ=MXpdRRJO7EuZDFJa9Vs9w@mail.gmail.com>
+	<CAE9vqEF6kWVpq5JCa7YFPmxQ4k6M1SgUBP+fZ+5NhZcPyCj=OQ@mail.gmail.com>
+	<CAGS_vfoctd=NDLwEw-9Rc=sM-+ENJFu3hQx1v_cH1Yabc6f9Tw@mail.gmail.com>
+	<CAE9vqEEUZ2xAALvLjaYWP3t_OgsJcibnpp4F4F-hLg-BSTrPcw@mail.gmail.com>
+Message-ID: <CAGS_vfoAAg+kGbuqmANUOxT4AocY0ifyeTbeeS0T1rS+L2++sA@mail.gmail.com>
+
+Hi Tom,
+
+On Mon, Aug 12, 2013 at 4:28 PM, Tom Morris <tfmorris at gmail.com> wrote:
+
+> On Mon, Aug 12, 2013 at 2:38 AM, Daniel Lombra?a Gonz?lez <
+> teleyinex at gmail.com> wrote:
+>
+>> Hi Tom,
+>>
+>> We are using Kinetic.JS and in principle it should handle that correctly,
+>> as we are using the Animation constructor<http://kineticjs.com/docs/Kinetic.Animation.html>,
+>> that does that precisely (or at least, it should be like that as the images
+>> are loaded in an HTML5 canvas). Interestingly, this works really well on
+>> Firefox (no flickering at all) but not in Chrome (sometimes it works, and
+>> we don't know why).
+>>
+>
+> Did you try preloading the images into multiple image objects instead of
+> changing the src url of a single image object? Scaling the images server
+> side instead of in the browser? Asking the KineticJS folks for advice?
+>
+
+We look into different options, but as we were in a hackton and we only had
+48 hours we choose the easiest solution for the very first prototype :-) We
+will be asking the KineticJS folks for advise, as this seems to be a
+problem with our code and there should be a solution for this issue.
+
+
+>
+> Even something as simple as displaying the animation on a black background
+> instead of a bright white background would greatly reduce the
+> headache/epilepsy inducing strobing (ie use black for the canvas background
+> color instead of transparent).
+>
+
+That's a really good advise! Thanks!
+
+
+>
+>
+>> We will probably remove the movie UI in any case, as we might want to
+>> give more control to the users for analyzing the tracks (see discussion
+>> at Google Groups<https://groups.google.com/forum/#!forum/cern-antimatter-crowdcrafting>
+>> ).
+>>
+>
+> I agree that scrubbing controls are desirable from a UI point of view, but
+> you're probably still going to want some type of movie mode, particularly
+> when users are drawing/adjusting the endpoints of the tracks.  If you
+> render the lines/endpoints in a fashion that doesn't obscure the image
+> (open circles for endpoints, dotted/dashed lines), it'll make it easier for
+> users to see how accurately their line matches the track.
+>
+
+Thanks again. It makes a lot of sense what you have said! We will add open
+circles and dashed or dotted lines as you said ;-)
+
+Cheers,
+
+Daniel
+
+>
+>  Tom
+>
+>
+
+
+-- 
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+http://daniellombrana.es
+http://citizencyberscience.net
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Por favor, NO utilice formatos de archivo propietarios para el
+intercambio de documentos, como DOC y XLS, sino PDF, HTML, RTF, TXT, CSV
+o cualquier otro que no obligue a utilizar un programa de un
+fabricante concreto para tratar la informaci?n contenida en ?l.
+??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130813/015fb0d2/attachment.htm>
+
+From jochen.schirrwagen at uni-bielefeld.de  Thu Aug 22 21:46:39 2013
+From: jochen.schirrwagen at uni-bielefeld.de (Jochen Schirrwagen)
+Date: Thu, 22 Aug 2013 22:46:39 +0200
+Subject: [open-science] Workshop LCPD 2013: Call for Participation (in
+ conjunction with TPDL 2013) on Sep-26-2013
+Message-ID: <27590_1377204400_ZZi0v4n1SPFS3.00_E96A283F-1F2B-43E6-9518-FEA04842A756@uni-bielefeld.de>
+
+[*** Apologies for cross-posting ***]
+
+                 CALL FOR PARTICIPATION
+
+                    First Workshop on
+   Linking and Contextualizing Publications and Datasets
+                       (LCPD 2013)
+
+       http://lcpd2013.research-infrastructures.eu/
+
+                    September 26, 2013
+
+    In conjunction with the International Conference on
+         Theory and Practice of Digital Libraries
+                       (TPDL 2013)
+
+                      Valetta, Malta
+                  September 22-26, 2013
+
+
+PROGRAM
+
+9:00 Opening remarks
+9:20 Sarah Callaghan: Datasets: from creation to publication
+(invited talk)
+9:50 S?ren Auer: How can Linked Data facilitate scientific
+publishing and knowledge exchange? (invited talk)
+11:00 Michal ?opuszynski et al.: Tagging Scientific
+Publications using Wikipedia and Natural Language Processing
+Tools. Comparison on the ArXiv Dataset
+11:20 Jon D. Blower et al.: Understanding Climate Data through
+Commentary Metadata: the CHARMe project
+11:40 Mark Depauw et al.: Trismegistos. An interdisciplinary
+Platform for Ancient World Texts and Related Information
+12:00 Andrea Mannocci et al.: Preliminary Analysis of Data
+Sources Interlinking - Data Searchery: a case study
+14:00 Nuno Lopes et al.: Linked Logainm: Enhancing Library
+Metadata using Linked Data of Irish Place Names
+14:20 Marcin Skulimowski: From Linked Data to Concept Networks
+14:40 Andr?s Micsik et al.: LODmilla: shared visualization of
+Linked Open Data
+15:00 Eleftherios Stamatogiannakis et al.: Content visualization
+of scientific corpora using an extensible relational database
+implementation
+16:00 Scott Brander et al.: CERIF for Datasets (C4D)
+16:20 Brian Matthews et al.: Investigations as research objects
+within facilities science
+16:40 Brainstorming session
+17:40 Closing remarks
+
+
+REGISTRATION
+
+Registration is open for the workshop only as well as for the
+whole conference plus the workshop. Please register via TPDL
+registration:
+http://www.easyconferences.org/tpdl2013/register
+
+Registration for the workshop only requires the following steps:
+step 1) "Conference Registration" please make no choice, just
+hit "next step"
+step 2) "Satellite Events" select "workshop delegate" or
+"workshop student"
+step 3) "Conference Extras" select quantity 1 for the lcpd-2013
+workshop
+
+Accommodation and Travel Information:
+http://tpdl2013.upatras.gr/accommodation.php
+
+
+VENUE
+
+Grand Hotel Excelsior (Great Siege Road, Floriana, FRN1810,
+Malta)
+
+
+GOALS
+
+The goal of this workshop is to provide researchers and
+practitioners in the fields of Digital Library, e-Science, and
+e-Research with a forum where they can constructively explore
+foundational, organizational and systemic challenges in contexts
+having publishing, interlinking, preservation, discovery,
+access, and reuse of publications and datasets as focal points.
+It expects to contribute to the actual picture of the state of
+the art approaches and solutions that researchers and
+practitioners active in these fields have investigated and
+realized.
+
+
+ORGANIZERS
+
+* Paolo Manghi, Institute of Information Science and
+Technologies ?A. Faedo? (ISTI), National Research Council,
+Italy
+* Lukasz Bolikowski, Centre for Open Science, Interdisciplinary
+Centre for Mathematical and Computational Modelling, University
+of Warsaw, Poland
+* Nikos Houssos, National Hellenic Research Foundation/National
+Documentation Centre, Greece
+* Jochen Schirrwagen, Bielefeld University Library, Germany
+
+
+PROGRAM COMMITTEE
+
+* Philipp Cimiano, Centre of Excellence Cognitive Interaction
+Technology, University of Bielefeld, Germany
+* Anna Clements, University of St. Andrews, UK
+* Richard Cyganiak, DERI Galway, Ireland
+* Asunci?n G?mez-P?rez, Universidad Polit?cnica de Madrid
+(UPM), Spain
+* Jane Greenberg, School of Information and Library Science,
+University of North Carolina at Chapel Hill, USA
+* Dragan Ivanovi?, University of Novi Sad, Faculty of Technical
+Sciences, Serbia
+* Keith Jeffery, Consultant - euroCRIS
+* Brigitte Joerg, University of Bath, UK
+* Sarantos Kapidakis, Ionian University, Greece
+* Petr Knoth, Knowledge Media Institute, The Open University, UK
+* Stefan Kramer, Open Data Foundation
+* Brigitte Mathiak, Leibniz Institute for the Social Sciences,
+Germany
+* Brian Matthews, STFC, UK
+* Cezary Mazurek, Network Service Department, Poznan
+Supercomputing and Networking Center, Poland
+* Johanna McEntyre, European Bioinformatics Institute,
+Cambridge, UK
+* Eloy Rodrigues, University of Minho Documentation Services,
+Portugal
+* Miguel-Angel Sicilia, University of Alcal?, Spain
+
+
+SPONSORS
+
+* The OpenAIREplus project: 2nd Generation of Open Access
+Infrastructure for Research in Europe
+* The euroCRIS consortium: Current Research Information Systems
+
+
+From jonathan.gray at okfn.org  Mon Aug 26 11:49:25 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Mon, 26 Aug 2013 12:49:25 +0200
+Subject: [open-science] Fwd: What about technological barriers to Open
+	Research Data?
+In-Reply-To: <OFD2DC2E2B.E374D2E4-ONC1257BD0.00455EAF-C1257BD0.0045AA11@bth.se>
+References: <OFD2DC2E2B.E374D2E4-ONC1257BD0.00455EAF-C1257BD0.0045AA11@bth.se>
+Message-ID: <CAELjFBsCFOJF6zEZJatZjDyNy+XsvKQwcN=00GUshjvCVeogTw@mail.gmail.com>
+
+FYI
+
+---------- Forwarded message ----------
+From: Peter Linde <peter.linde at bth.se>
+Date: 23 August 2013 14:40
+Subject: What about technological barriers to Open Research Data?
+To:
+
+
+Dear Sir/Madame!
+The ongoing project ?Policy RECommendations for Open Access to Research
+Data in Europe? (RECODE - http://recodeproject.eu/) will leverage existing
+networks, communities and projects to address challenges within the open
+access and data dissemination and preservation sector and produce policy
+recommendations for open access to research data based on existing good
+practice.
+One of these challenges are the technological barriers to Open Access and
+Preservation of Research Data, and the possible solutions adopted to
+mitigate them.
+We have identified you as a person engaged or interested in the movement
+for open access to research data and would therefore kindly ask you to
+assist us with the objective of identifying the technological
+infrastructural requirements for Open Access to Research Data in Europe by
+filling out this questionnaire:
+http://goo.gl/3KRu2k
+
+Thank you very much for your time!
+Peter Linde, On behalf of the RECODE project group
+
+Peter Linde
+Blekinge Tekniska H?gskola
+Biblioteket
+371 79 Karlskrona
+Tel 0455-385103, Fax 0455-385107
+Mobile: +46 708 778138
+E-mail: peter.linde at bth.se
+
+Blekinge Institute of Technology
+The Library
+S-371 79 Karlskrona
+Sweden
+Tel +46 455 385103
+Fax +46 455 385107
+E-mail: peter.linde at bth.se
+
+
+
+-- 
+
+Jonathan Gray
+
+Director of Policy and Ideas  | *@jwyg <https://twitter.com/jwyg>*
+
+The Open Knowledge Foundation <http://okfn.org/>
+*
+
+Empowering through Open Knowledge
+
+okfn.org  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130826/0672965f/attachment.htm>
+
+From nick at whiteink.com  Mon Aug 26 19:38:17 2013
+From: nick at whiteink.com (Nick Stenning)
+Date: Mon, 26 Aug 2013 19:38:17 +0100
+Subject: [open-science] FW: Introduction: USC
+References: <686DDC627A593F4A8075FF1AB0B96A05139B4B@APGBHSPEXM0103>
+Message-ID: <etPan.521ba099.6b8b4567.83d@Vega>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130826/e51a88a5/attachment.htm>
+
+From jonathan.gray at okfn.org  Tue Aug 27 17:06:25 2013
+From: jonathan.gray at okfn.org (Jonathan Gray)
+Date: Tue, 27 Aug 2013 18:06:25 +0200
+Subject: [open-science] Fwd: Cyber-infrastructure and Metadata Protocols:
+	CAMP-4-Data Workshop
+In-Reply-To: <CAP884Ey0wTbRND-ioU70Rus03tA2YsKZO1EASMqe7CAwrXHM5A@mail.gmail.com>
+References: <CAP884Ey0wTbRND-ioU70Rus03tA2YsKZO1EASMqe7CAwrXHM5A@mail.gmail.com>
+Message-ID: <CAELjFBv-FKPdSkwKxuDqvE8h7R-LARv-t2hoR4OQ9T1goAScdA@mail.gmail.com>
+
+Thought this might be of interest to some of you...
+
+---------- Forwarded message ----------
+From: DCMI Announce <announce at dublincore.net>
+Date: 27 August 2013 17:57
+Subject: Cyber-infrastructure and Metadata Protocols: CAMP-4-Data Workshop
+To: JISC-REPOSITORIES at jiscmail.ac.uk
+
+
+Cyber-infrastructure and Metadata Protocols: CAMP-4-Data Workshop
+
+(A Dublin Core-Science and Metadata (DC-SAM) Community/Research Data
+Alliance (RDA) Workshop).
+
+========================
+--WHEN/WHERE:  6 September 2013 @ DC-2013 in Lisbon, Portugal, 9:00-18:00
+--WORKSHOP URL:
+http://dcevents.dublincore.org/IntConf/index/pages/view/camp-4-data
+--AGENDA ONLINE:
+http://wiki.dublincore.org/index.php/DC_2013_SAM_Science_and_Metadata_CAMP_4_DATA_AGENDA
+--DC-2013 URL: http://purl.org/dcevents/dc2013
+========================
+
+**Registration required; you do not need to be presenting a paper or talk
+to participate.
+
+==(REGISTRATION - 8:00-9:00)==
+
+==INTRODUCTION==
+*9:00-9:30 - Welcome, workshop goals, logistics; participant
+introductions/Jane Greenberg/all
+
+*9:30-9:45 - The Metadata Zoo/Rebecca Koskela
+
+*9:45-10:00 - DCC Scheme Directory/Alex Ball
+
+==INFRASTRUCTURE MODELS AND FRAMEWORKS==
+*10:00-10:15 - A 3-Layer Model for Metadata/Keith Jeffery, Anne Asserson,
+Nikos Houssos and Brigitte Joerg
+
+*10:15-10:30 - Cross-Domain Metadata Interoperability: Lessons Learnt in
+INSPIRE
+Andrea Perego, Michael Lutz, Max Craglia and Silvia Dalla Costa
+
+==USAGE AND TRACKING==
+*10:30-10:45 - Usage data for metadata properties to support open data
+registries and semantic wikis/Muriel Foulonneau, S?bastien Martin, Jacques
+Ducloy, Thierry Daunois and Slim Turki
+
+*10:45-11:00 - Provenance Central: More Mileage from Provenance
+Metadata/Bertram Ludaescher and Paolo Missier
+
+==(BREAK - 11:00-11:30)==
+
+==PID (PERSISTENT IDENTIFIERS)==
+*11:30-11:45 - Persistent Identifiers for Terms in a Crowd-Sourced
+Vocabulary/John Kunze, Greg Janee, Christopher Patton
+
+*11:45-12:00 - Separation of Concerns: PID Information Types and Domain
+Metadata/Tobias Weigel and Timothy Dilauro
+
+==APPLICATIONS==
+*12:00-12:15 - Ontology-Enabled Metadata Schema Generator: The Design
+Approach/Jian Qin, Xiaozhong Liu and Miao Chen
+
+*12:15-12:30 - Metadictionary: Advocating for a Community-driven Metadata
+Vocabulary Application/ Jane Greenberg, Angela Murillo, John Kunze, Sarah
+Callahan, Robert Guralnick, Greg Janee, Nassib Nassar, Christopher Patton,
+and Karthik Ram
+
+*12:30-12:40 - CLEPSYDRA Data Aggregation and Enrichment Framework/Cezary
+Mazurek, Marcin Mielnicki, Aleksandra Nowak, Krzysztof Sielski, Maciej
+Stroinski, Marcin Werla and Jan Wglarz
+
+*12:40-12:50 - RUresearch - Open Source Metadata Application Profile and
+Research Object Handling for Research Data/Grace Agnew and Mary Beth Weber
+
+*12:50-13:00 - Open discussion, setting the afternoon agenda; Brief remarks
+about RDA-3rd Plenary/Sandra Collins
+
+==(LUNCH - 13:00-14:30)==
+
+==BREAKOUT GROUPS==
+
+*14:30-14:40 - Overview of discussion topics
+
+*14:40-15:10 - Breakout groups, Session 1: Infrastructure and design,
+policy, human and social aspects.
+
+*15:10-15:40 - Breakout groups, Session 2 (topic rotation from session 1).
+
+*15:40-16:00 - Report back from breakout groups.
+
+==(BREAK - 16:00-16:30)==
+
+==BREAKOUT GROUPS/WORKSHOP WRAP-UP==
+*16:30-16:45 - Delegates propose/vote on 'special' topics.
+
+*16:45-17:15 - Self-selected groups discuss a topic each.
+
+*17:15-17:50 - Report back from each group; discussion of possible action
+points.
+
+*17:50-18:00 - Closing remarks.
+
+==WORKSHOP ADJOURNED:  18:00==
+
+
+
+-- 
+
+Jonathan Gray
+
+Director of Policy and Ideas  | *@jwyg <https://twitter.com/jwyg>*
+
+The Open Knowledge Foundation <http://okfn.org/>
+*
+
+Empowering through Open Knowledge
+
+okfn.org  |  @okfn <http://twitter.com/OKFN>  |  OKF on
+Facebook<https://www.facebook.com/OKFNetwork> |
+Blog <http://blog.okfn.org/>  |  Newsletter<http://okfn.org/about/newsletter>
+*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130827/540e0f1b/attachment.htm>
+
+From jenny.molloy at okfn.org  Thu Aug 29 09:55:17 2013
+From: jenny.molloy at okfn.org (Jenny Molloy)
+Date: Thu, 29 Aug 2013 09:55:17 +0100
+Subject: [open-science] [okfn-labs] Open Access Button Hackday 7-8th
+	September! Sign up!
+In-Reply-To: <CAPKcAuhYX=rjdpxj_-KhHiwZD8WCZs2dak3Q0j+GE8UzXkF9cA@mail.gmail.com>
+References: <CAPKcAuhYX=rjdpxj_-KhHiwZD8WCZs2dak3Q0j+GE8UzXkF9cA@mail.gmail.com>
+Message-ID: <CABPM+woK2FnQfxNpSFRoV_s18mTDbH=HvXyEwcT2-rUP0pD5Hg@mail.gmail.com>
+
+Hi Joe and David
+
+Great idea! I'm copying in the open science and open access mailing lists
+as well, Mike Taylor who is a member of these lists started a site called
+Who Needs Access? http://whoneedsaccess.org/ containing interviews and
+features on people who have been hindered by a lack of access to research
+(as well as those who have been helped by open access). Perhaps there might
+be scope for combining our efforts and helping out on your initiative!
+
+Jenny
+
+
+On Wed, Aug 28, 2013 at 10:47 PM, Open Access Button <oabutton at gmail.com>wrote:
+
+> Hi OKFN folk!
+>
+> Got a little message about our project here! Please do come along!
+>
+> Millions of people a day are denied access to the research they both need
+> and paid for because of paywalls <https://en.wikipedia.org/wiki/Paywall>.
+> It doesn?t have to be like this, but we need your help. We?re two students
+> from the UK making a tool to help change the system ? it?s called the Open
+> Access Button. The button is a browser-based tool which tracks every time
+> someone is denied access to a paper. We then display this, along with the
+> person?s location, profession and story on a real time, worldwide,
+> interactive map of the problem. It gets better though. While creating
+> pressure to open up scholarly and scientific research, we help people work
+> within the current broken system by helping them get access to the paper
+> they need. We started building a prototype at the BMJ Hack Weekend, and
+> came third place. But we?re not finished yet and our launch is coming up
+> fast! To help build it we?re hosting a hackathon on the 7-8th of September
+> in London. If you?re a developer, have an eye for design or both we?d love
+> to see you. Not in the UK? Doesn?t matter! you can join in from anywhere in
+> the world ? just sign up.<http://oabutton.wordpress.com/2013/08/27/oa-button-hackathon-7-8th-september/>
+>
+> If you want any more information about the project- email us
+> oabutton at gmail.com or read more here<http://blogs.plos.org/thestudentblog/2013/08/20/if-someone-hits-a-paywall-in-the-forest-does-it-make-a-sound-the-open-access-button/>
+> .
+>
+> Joe + David
+>
+> --
+> Open Access Project Lead : Twitter <https://twitter.com/OA_Button>: Blog<http://oabutton.wordpress.com/> :
+> Github <https://github.com/oabutton> : Google Group<https://groups.google.com/forum/?hl=en-GB#!forum/open-access-button-general>: Medsin-UK
+> is a registered charity tackling global and local health inequalities.
+> Registered charity number: 1111824
+>
+> _______________________________________________
+> okfn-labs mailing list
+> okfn-labs at lists.okfn.org
+> http://lists.okfn.org/mailman/listinfo/okfn-labs
+> Unsubscribe: http://lists.okfn.org/mailman/options/okfn-labs
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130829/34586ff6/attachment.htm>
+
+From pm286 at cam.ac.uk  Thu Aug 29 10:54:48 2013
+From: pm286 at cam.ac.uk (Peter Murray-Rust)
+Date: Thu, 29 Aug 2013 10:54:48 +0100
+Subject: [open-science] [Open-access] [okfn-labs] Open Access Button
+ Hackday 7-8th September! Sign up!
+In-Reply-To: <CABPM+woK2FnQfxNpSFRoV_s18mTDbH=HvXyEwcT2-rUP0pD5Hg@mail.gmail.com>
+References: <CAPKcAuhYX=rjdpxj_-KhHiwZD8WCZs2dak3Q0j+GE8UzXkF9cA@mail.gmail.com>
+	<CABPM+woK2FnQfxNpSFRoV_s18mTDbH=HvXyEwcT2-rUP0pD5Hg@mail.gmail.com>
+Message-ID: <CAD2k14PrX9dTVa=yWAX3L3EC103cbAZ-G27J6Odv52YPKhfeNA@mail.gmail.com>
+
+Greetings,
+Great idea - where is it?
+(I can probably come on Sunday only)
+
+P.
+
+
+
+On Thu, Aug 29, 2013 at 9:55 AM, Jenny Molloy <jenny.molloy at okfn.org> wrote:
+
+> Hi Joe and David
+>
+> Great idea! I'm copying in the open science and open access mailing lists
+> as well, Mike Taylor who is a member of these lists started a site called
+> Who Needs Access? http://whoneedsaccess.org/ containing interviews and
+> features on people who have been hindered by a lack of access to research
+> (as well as those who have been helped by open access). Perhaps there might
+> be scope for combining our efforts and helping out on your initiative!
+>
+> Jenny
+>
+>
+>
+-- 
+Peter Murray-Rust
+Reader in Molecular Informatics
+Unilever Centre, Dep. Of Chemistry
+University of Cambridge
+CB2 1EW, UK
++44-1223-763069
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130829/f6074bdc/attachment.htm>
+
+From rayna.st at gmail.com  Fri Aug 30 14:05:02 2013
+From: rayna.st at gmail.com (Rayna)
+Date: Fri, 30 Aug 2013 15:05:02 +0200
+Subject: [open-science] Save the date: OKCon satellite event Geneva,
+	19 Sept 2013
+Message-ID: <CANACerHpP-1mvjgKUtO+P6DSG1tKfsVz-3mE_BaM6BhnXxiWZw@mail.gmail.com>
+
+Dear all,
+
+I hope you've enjoyed a beautiful summer and vacation :)
+
+As you may remember, the idea of organizing an OKCon satellite event for
+Open & Citizen Science enthusiasts stemmed a few months ago. We had a few
+community calls since then, and the OKCon program curators helped us make
+such an event reality!
+
+*Save the date!* The Open & Citizen Science satellite event will take place
+on 19 Sept, in Geneva. You can get further details from the event's
+description: http://okcon.org/open-science-and-research/session-b/
+
+*Event content*: this day is what we make out of it :) You are more than
+welcome to submit your ideas through the dedicated form (
+http://openscience.alpine-geckos.at/projects/okcon-openscience-hackathon-submission/).
+We'll update you weekly with the new submissions. Also, a community
+call
+is scheduled for next Thursday, September 5, 4pm CEST, if you are willing
+to discuss, narrow down ideas, etc.
+
+*Accommodation in Geneva*: there are still several subsidies left! Check
+http://okcon.org/accommodation-subsidies/ for more info and contact details
+for booking. This is a great possibility to stay in Geneva without ruining
+yourself -- and to attend the satellite event ;)
+
+Looking forward to meeting you in Geneva!
+Rayna & Stefan
+
+-- 
+"Change l'ordre du monde plut?t que tes d?sirs."
+
+http://de.linkedin.com/in/raynas
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130830/0222e157/attachment.htm>
+
+From liz at publiclab.org  Fri Aug 30 15:25:06 2013
+From: liz at publiclab.org (Liz Barry)
+Date: Fri, 30 Aug 2013 10:25:06 -0400
+Subject: [open-science] Fwd: [plots-organizers] Upcoming London workshops
+In-Reply-To: <CAOcZSUL8esYArmBydzuv6G3i=GFVw0ohr75XTSaefDvRb0DLeg@mail.gmail.com>
+References: <CAOcZSUL8esYArmBydzuv6G3i=GFVw0ohr75XTSaefDvRb0DLeg@mail.gmail.com>
+Message-ID: <CAMnV1zr3cGO2jNOxTtuuArAG31s_tHbagTOLyR3z5JUSbjVj_A@mail.gmail.com>
+
+Liz Barry
+director of urban environment
+@publiclab <http://twitter.com/publiclab>
+publiclab.org
++1-336-269-1539
+
+
+---------- Forwarded message ----------
+From: Shannon Dosemagen <shannon.dosemagen at gmail.com>
+Date: Fri, Aug 30, 2013 at 8:34 AM
+Subject: [plots-organizers] Upcoming London workshops
+To: "plots-organizers at googlegroups.com" <plots-organizers at googlegroups.com>
+
+
+Hi everyone,
+
+Mathew and I are going to be doing a couple of workshops next week in
+London. If you know anyone interested in participating, please have them
+contact me.
+
+Best, Shannon
+
+Sept. 6th 18:30-22:30: *Kite/Balloon Mapping First workshop: making
+kites*<http://www.meetup.com/Citizens-without-Borders/events/135709822/>
+@
+the *Mildmay Community
+Centre*<https://maps.google.co.uk/maps/ms?msid=200733081373135491249.0004e516e6ab58c5d8752&msa=0>,
+N16 8NA, East London
+
+Sept. 7th 11:00-16:00: *Kite/Balloon Mapping Second workshop: fly, map, &
+interpret*<http://www.meetup.com/Citizens-without-Borders/events/135710872/> @
+the *Mildmay Community
+Centre*<https://maps.google.co.uk/maps/ms?msid=200733081373135491249.0004e516e6ab58c5d8752&msa=0>,
+N16 8NA, East London
+
+Sun 8th Sept 14:00-17:30: *DIY Spectrometry - introduction to spectrometry
+workshop* <http://www.meetup.com/Citizens-without-Borders/events/136550582/>
+* *@ UCL, Gower St. main entrance.****
+
+
+Mon 9th Sept 18:30-22:30: *Testing the PLOTS DIY Spectrometer workshop:
+'advanced' applications*<http://www.meetup.com/Citizens-without-Borders/events/136551862/>
+* *@ UCL, Gower St. main entrance
+
+
+
+ --
+-- Post to this group at plots-organizers at googlegroups.com. To unsubscribe,
+email plots-organizers+unsubscribe at googlegroups.com. Options at
+https://groups.google.com/d/forum/plots-organizers
+---
+You received this message because you are subscribed to the Google Groups
+"plots-organizers" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to plots-organizers+unsubscribe at googlegroups.com.
+For more options, visit https://groups.google.com/groups/opt_out.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.okfn.org/pipermail/open-science/attachments/20130830/08ddd257/attachment.htm>
+
