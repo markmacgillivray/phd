@@ -32,6 +32,10 @@ class Survey(DomainObject):
     __type__ = 'survey'
 
 
+class Lists(DomainObject):
+    __type__ = 'lists'
+
+
 class Mission(DomainObject):
     __type__ = 'mission'
 
