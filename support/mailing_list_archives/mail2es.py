@@ -48,6 +48,85 @@ directories = [
 
 # prep a term extractor for use in the loops
 extractor = extract.TermExtractor()
+extractor.filter = extract.DefaultFilter(singleStrengthMinOccur=3)
+
+# this list includes names, but they are only being ignored in order to dig 
+# down to more relevant tags. given that the lists including their archives 
+# and memberships are public, this is not a disclosure of data about people
+ignorelist = [
+    'open-bibliography mailing list',
+    'open-bibliography at lists.okfn.org',
+    'http://lists.okfn.org/mailman/listinfo/open-bibliography',
+    'open-access mailing list',
+    'open-access at lists.okfn.org',
+    'http://lists.okfn.org/mailman/listinfo/open-access',
+    'open-science mailing list',
+    'open-science at lists.okfn.org',
+    'http://lists.okfn.org/mailman/listinfo/open-science',
+    'cambridge',
+    'uk',
+    'lists.okfn.org',
+    'unsubscribe',
+    'http',
+    'www',
+    '-------------- next part --------------\nAn HTML attachment was scrubbed...',
+    'many thanks',
+    '/',
+    '0',
+    '1',
+    '2',
+    '3',
+    '4',
+    '5',
+    '6',
+    '7',
+    '8',
+    '9',
+    '|',
+    '>',
+    '-',
+    '_',
+    'cambridge cb ew',
+    'cb ew',
+    'html attachment',
+    'e.g',
+    'se.linkedin.cominegonw blog',
+    'chemblaics.blogspot.com publist',
+    'knowledge foundation okfn.org',
+    ':.',
+    '<:',
+    '[]',
+    ':,',
+    '()',
+    '),',
+    'okfn.org skype',
+    'lauranewmanon twitter',
+    'i haven',
+    'i wonder',
+    'i hope',
+    'skype',
+    'bjoern bj ?rn brembs',
+    'kcoyle.net',
+    'peter murrayrust reader',
+    'peter murrayrust',
+    'murrayrust',
+    'jonathan gray',
+    'tom olijhoek',
+    'mike taylor',
+    'karen coyle',
+    'mark macgillivray',
+    'thomas krichel',
+    'ross mounce',
+    'william waites',
+    'cameron neylon',
+    'heather morrison',
+    'jenny molloy',
+    'adrian pohl',
+    'jim pitman',
+    'laura newman',
+    'daniel mietchen',
+    'tom morris'
+]
 
 totalfiles = 0
 totalemails = 0
@@ -92,6 +171,9 @@ for directory in directories:
                 msg['subject'] = subjreplrefs
             
             msg['id'], msg['content'] = e.split('\n', 1)
+            msg['content'] = msg['content'].lower()
+            for item in ignorelist:
+                msg['content'] = msg['content'].replace(item,'')
             
             fromemail = msg['from'].split('(')[0].replace('From: ','').replace(" at ","@").replace(' ','')
             if fromemail not in fromemails.keys():
@@ -130,7 +212,7 @@ for directory in directories:
             result = {}
             for t, o, l in terms:
                 tl = t.lower()
-                if tl not in msg['tags']: msg['tags'].append(tl)
+                if tl not in msg['tags'] and tl not in ignorelist and len(tl) > 1: msg['tags'].append(tl)
 
             messages.append(msg)
             totalemails += 1
