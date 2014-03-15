@@ -252,7 +252,6 @@
                 var d = data.hits.hits[i]['_source'];
                 refs[d['id']] = d;
             }
-            alert(JSON.stringify(refs));
             $(options.identifier + ':contains("#")', obj).not(options.ignore).each(function(index) {
                 var counter = index + 1;
                 var ident = $(this).html().replace('#','');
