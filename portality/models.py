@@ -49,8 +49,6 @@ class Annotation(DomainObject):
         res = cls.query(size=1000000000)
         if res is not None:
             annotations = [i['_source']  for i in res.get('hits',{}).get('hits',[])]
-        else:
-            annotations = []
         return annotations
         
 

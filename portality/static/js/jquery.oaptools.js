@@ -170,77 +170,114 @@
     $.fn.oap_refs = function(options) {
         // specify the defaults
         var defaults = {
-            identifier: '.ref',
-            appendto: this
+            identifier: 'a',
+            ignore: 'oap_ignore',
+            storage_url: '/query/reference/',
+            refscrolloffset: 40,
+            appendto: this // wherever the references div should be appended
         };
         // and add in any overrides from the call
         var options = $.extend(defaults, options);
+
+        var storeref = function(obj) { // TODO: this is not implemented yet
+            var link = obj.attr('href');
+            var data = {
+                'id': reference,
+                'link':[{'url':link}]
+            };
+            obj.attr('data-title') ? data.title = obj.attr('data-title') : false;
+            obj.attr('data-author') ? data.author = obj.attr('data-author').split(',') : false;
+            obj.attr('data-journal-name') ? data.journal = {"name":obj.attr('data-journal-name')} : false;
+            if ( link.indexOf('doi') >= 0 ) {
+                data.identifier = [{'type':'doi','id':link.replace('http://dx.doi.org/','')}];
+            };
+            // post the ref to the storage
+            $.ajax({
+                'type':'POST',
+                'url':'/query/reference/' + reference,
+                "data":JSON.stringify(data),
+                "contentType":"application/json; charset=utf-8",
+                "processData":false
+            })
+            return data;
+        }
+
+        // a click event so the ref pointer goes to the reference in the list
+        var gotoref = function(event) {
+	        event.preventDefault();
+            var number = $(this).html();
+	        window.scrollTo( 0, ($('.oap_reftocite:contains(' + number + ')').offset().top - options.refscrolloffset) )
+	    }
+
+        // then a click to jump back to the reference in the page
+        var backtocite = function(event) {
+            event.preventDefault();
+            window.scrollTo( 0, ($('a:contains([' + $(this).attr('href') + '])', obj).offset().top - options.refscrolloffset) )
+        }
+
+        // the function that writes the reference to the page
+        var writetopage = function(data,counter,obj) {
+        	// TODO: check to see if this counter already exists
+        	// if so should only point to the ref that is already there
+            // otherwise proceed to add a new counter
+        	obj.html('[' + counter + ']');
+
+            // create the reference string
+            if ( data.missing ) {
+                var reference = "NO FURTHER INFO IN STORAGE: ";
+                if ( obj.attr('href') ) {
+                    reference += '<a target="_blank" href="' + obj.attr("href") + '">' + obj.attr("href") + '</a>';
+                }
+            } else {
+                var reference = counter + " ref here";
+                /*if ( link.length > 0 ) {
+                    reference += ' : <a href="' + link + '">' + link + '</a>';
+                }*/
+            }
+
+        	// then append reference to the docdiv
+        	var refdiv = '<div class="oap_references">' + 
+        	    '<a class="oap_reftocite" href="' + counter + '" style="width:50px;text-align:right;display:block;float:left;margin-right:5px;">[' + counter + ']</a>' + 
+        	    '<span class="oap_theref">' + reference + '</span></div>';
+            $(options.appendto).append(refdiv);
+
+            // and attach click events
+            $('.oap_reftocite').last().bind('click',backtocite);
+        	obj.bind('click',gotoref);
+        }
+
+        writerefs = function(data) {
+            var refs = {};
+            for ( var i = 0; i < data.hits.hits.length; i++ ) {
+                var d = data.hits.hits[i]['_source'];
+                refs[d['id']] = d;
+            }
+            alert(JSON.stringify(refs));
+            $(options.identifier + ':contains("#")', obj).not(options.ignore).each(function(index) {
+                var counter = index + 1;
+                var ident = $(this).html().replace('#','');
+                if ( ident in refs ) {
+                    var rec = refs[ident];
+                } else {
+                    // TODO: send to reference storage - see storeref above
+                    //var rec = storeref($(this))
+                    var rec = {"missing":true};
+                }
+                writetopage(rec,counter,$(this));
+            });
+        }
+
         // do the function
         return this.each(function() {
             // get this object
             obj = $(this);
 
-            // for every a tag in the oap_doc that does not have oap_ignore class
-            $('a.' + options.identifier, obj).each(function(index) {
-        	    var counter = index + 1;    	            // move up from zero based loop index
-	            var reference = $(this).html();        // get the html out of the link
-            	var link = $(this).attr('href');       // get the link out of the a
-
-            	// check to see if oap_ref_counter already exists
-            	// if so should only point to the ref that is already there
-
-            	$(this).html('[' + counter + ']');             // add IEEE-style square brackets to the ref number
-
-                var data = {
-                    'id': reference,
-                    'link':[{'url':link}]
-                };
-                $(this).attr('data-title') ? data.title = $(this).attr('data-title') : false;
-                $(this).attr('data-author') ? data.author = $(this).attr('data-author').split(',') : false;
-                $(this).attr('data-journal-name') ? data.journal = {"name":$(this).attr('data-journal-name')} : false;
-
-                var parent = $(this).parents('.dynamic').attr('data-source');
-                !parent ? parent = $(this).parents('.contentsection').attr('data-source') : false;
-                parent ? data['_parents'] = [parent] : false;
-
-                if ( link.indexOf('doi') >= 0 ) {
-                    data.identifier = [{'type':'doi','id':link.replace('http://dx.doi.org/','')}];
-                };
-                // post the ref to the index
-                if ( false /*options.index*/ ) {
-                    $.ajax({
-                        'type':'POST',
-                        'url':'/query/reference/' + reference,
-                        "data":JSON.stringify(data),
-                        "contentType":"application/json; charset=utf-8",
-                        "processData":false
-                    })
-                }
-
-            	// then append reference to the docdiv
-            	var refdiv = '<div class="oap_references">' + 
-            	    '<span class="oap_tocite">[' + counter + ']<a class="oap_reftocite" href="' + counter + '"> ^^ </a></span>' + 
-            	    '<span class="oap_theref">' + reference + '</span></div>';
-                $(options.appendto).append(refdiv);
-                if ( link.length > 0 ) {
-                    $('.oap_references:last .oap_theref').append(' : <a href="' + link + '">' + link + '</a>');
-                }
-
-                // add a click event to the ref pointer that goes to the reference
-                var gotoref = function(event) {
-        	        event.preventDefault();
-                    var number = $(this).html().replace(/ref /,'');
-        	        window.scrollTo( 0, ($('.oap_tocite:contains(' + number + ')').offset().top - 60) )
-        	    }
-            	$(this).bind('click',gotoref);
+            // get all the references for this page
+            $.ajax({
+                'type':'GET',
+                'url': options.storage_url + '_search?q=*&size=10000',
+                'success': writerefs
             });
-
-            // add click event to the reftocite links so we can jump back to the reference
-            var backtocite = function(event) {
-                event.preventDefault();
-                window.scrollTo( 0, ($('a:contains(' + $(this).attr('href') + ')', obj).offset().top - 60) )
-            }
-            $('.oap_reftocite').bind('click',backtocite);
 
         }); // end of the function  
     };

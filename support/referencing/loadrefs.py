@@ -4,7 +4,7 @@ f = json.load(open('somephdrefs.json','r'))
 
 for ref in f:
     ref['id'] = ref['cid']
-    del ref['cid']
+    #del ref['cid']
     if 'url' in ref.keys():
         ref['link'] = [{"url":ref['url']}]
         del ref['url']
