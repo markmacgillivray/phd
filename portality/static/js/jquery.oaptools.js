@@ -207,10 +207,10 @@
                     data.identifier = [{'type':'doi','id':link.replace('http://dx.doi.org/','')}];
                 };
                 // post the ref to the index
-                if ( true /*options.index*/ ) {
+                if ( false /*options.index*/ ) {
                     $.ajax({
                         'type':'POST',
-                        'url':'/references/' + reference,
+                        'url':'/query/reference/' + reference,
                         "data":JSON.stringify(data),
                         "contentType":"application/json; charset=utf-8",
                         "processData":false
