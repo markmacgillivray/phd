@@ -217,22 +217,45 @@
 
         // the function that writes the reference to the page
         var writetopage = function(data,counter,obj) {
-        	// TODO: check to see if this counter already exists
-        	// if so should only point to the ref that is already there
-            // otherwise proceed to add a new counter
-        	obj.html('[' + counter + ']');
-
             // create the reference string
             if ( data.missing ) {
-                var reference = "NO FURTHER INFO IN STORAGE: ";
+                var reference = "? ";
                 if ( obj.attr('href') ) {
                     reference += '<a target="_blank" href="' + obj.attr("href") + '">' + obj.attr("href") + '</a>';
                 }
             } else {
-                var reference = counter + " ref here";
-                /*if ( link.length > 0 ) {
-                    reference += ' : <a href="' + link + '">' + link + '</a>';
-                }*/
+                var reference = "";
+                if ( data.author ) {
+                    for ( var i = 0; i < data.author.length; i++ ) {
+                        if ( i != 0 ) { reference += ", "; }
+                        reference += data.author[i].name;
+                    }
+                    reference += " ";
+                }
+                if ( data.year ) {
+                    reference += "(" + data.year + ") ";
+                }
+                if ( data.title ) {
+                    reference += '<i>' + data.title + '</i> ';
+                }
+                if ( data.journal ) {
+                    if ( data.journal.title ) {
+                        reference += ' in ' + data.journal.title;
+                    }
+                    if ( data.journal.name ) {
+                        reference += ' in ' + data.journal.name;
+                    }
+                }
+            }
+
+            // update the in-document reference link
+        	obj.html('[' + counter + ']');
+        	obj.attr('alt',data.id + ": " + reference);
+        	obj.attr('title',data.id + ": " + reference);
+
+            // add the link to the ref if possible
+            if ( data.link ) {
+                reference += ' : <a href="' + data.link[0].url + '">' + data.link[0].url + '</a>';
             }
 
         	// then append reference to the docdiv
