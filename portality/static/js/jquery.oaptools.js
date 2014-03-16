@@ -258,7 +258,7 @@
                     }
                 }
                 if ( data.publisher ) {
-                    if ( name in data.publisher ) {
+                    if ( "name" in data.publisher ) {
                         reference += '<br>' + data.publisher.name;
                     } else {
                         reference += '<br>' + data.publisher;
