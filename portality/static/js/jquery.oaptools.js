@@ -235,8 +235,9 @@
                 if ( data.year ) {
                     reference += "(" + data.year + ") ";
                 }
+                if ( reference.length > 0 ) { reference += '<br>'; }
                 if ( data.title ) {
-                    reference += '<b>' + data.title + '</b> ';
+                    reference += '<b>' + data.title + '</b><br>';
                 }
                 if ( data.journal ) {
                     if ( data.journal.title ) {
@@ -255,11 +256,11 @@
 
             // add the link to the ref if possible
             if ( data.link ) {
-                reference += ' : <a href="' + data.link[0].url + '">' + data.link[0].url + '</a>';
+                reference += '<br><a href="' + data.link[0].url + '">' + data.link[0].url + '</a>';
             }
 
         	// then append reference to the docdiv
-        	var reftab = '<tr class="oap_references">' + 
+        	var reftab = '<tr class="oap_references" style="border:none;">' + 
         	    '<td style="text-align:right;"><a class="oap_reftocite" href="' + counter + '">[' + counter + 
         	    ']</a></td><td class="oap_theref">' + reference + '</td></tr>';
             $('#oapreftable').append(reftab);
