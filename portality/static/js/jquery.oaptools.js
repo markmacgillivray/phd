@@ -245,7 +245,7 @@
                 if ( data.journal ) {
                     reference += '<br>';
                     if ( data.journal.title ) {
-                        reference += ' in ' + data.journal.title;
+                        reference += ' in <i>' + data.journal.title + '</i>';
                     }
                     if ( data.journal.name ) {
                         reference += ' in ' + data.journal.name;
@@ -256,6 +256,9 @@
                     if ( data.journal.issue ) {
                         reference += " (" + data.journal.issue + ')';
                     }
+                }
+                if ( data.publisher ) {
+                    reference += '<br>' + data.publisher;
                 }
             }
 
