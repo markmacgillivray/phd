@@ -263,7 +263,7 @@
         	// then append reference to the docdiv
         	var reftab = '<tr class="oap_references">' + 
         	    '<td style="text-align:right;border:none;"><a class="oap_reftocite" href="' + counter + '">[' + counter + 
-        	    ']</a></td><td class="oap_theref" style="border:none;>' + reference + '</td></tr>';
+        	    ']</a></td><td class="oap_theref" style="border:none;">' + reference + '</td></tr>';
             $('#oapreftable').append(reftab);
 
             // and attach click events
