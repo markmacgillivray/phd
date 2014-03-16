@@ -258,10 +258,10 @@
                     }
                 }
                 if ( data.publisher ) {
-                    if ( "name" in data.publisher ) {
-                        reference += '<br>' + data.publisher.name;
-                    } else {
+                    if ( typeof(data.publisher) == "string" ) {
                         reference += '<br>' + data.publisher;
+                    } else {
+                        reference += '<br>' + data.publisher.name;
                     }
                 }
             }
