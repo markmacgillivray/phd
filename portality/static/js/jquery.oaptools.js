@@ -227,8 +227,11 @@
                 var reference = "";
                 if ( data.author ) {
                     for ( var i = 0; i < data.author.length; i++ ) {
-                        if ( i != 0 ) { reference += ", "; }
-                        reference += data.author[i].name;
+                        var nm = data.author[0].name
+                        if ( nm ) {
+                            if ( i != 0 ) { reference += ", "; }
+                            reference += nm;
+                        }
                     }
                     reference += " ";
                 }
