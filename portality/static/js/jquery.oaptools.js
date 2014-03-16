@@ -216,7 +216,7 @@
         }
 
         // the function that writes the reference to the page
-        var writeref = function(data,counter,obj) {
+        var writeref = function(data,counter,ident,obj) {
             // create the reference string
             if ( data.missing ) {
                 var reference = "? ";
@@ -252,8 +252,8 @@
 
             // update the in-document reference link
         	obj.html('[' + counter + ']');
-        	obj.attr('alt','#' + data.id + ": " + data.title);
-        	obj.attr('title','#' + data.id + ": " + data.title);
+        	obj.attr('alt','#' + ident + ": " + data.title);
+        	obj.attr('title','#' + ident + ": " + data.title);
 
             // add the link to the ref if possible
             if ( data.link ) {
@@ -262,7 +262,8 @@
 
         	// then append reference to the docdiv
         	var reftab = '<tr class="oap_references">' + 
-        	    '<td style="text-align:right;border:none;"><a class="oap_reftocite" href="' + counter + '">[' + counter + 
+        	    '<td style="text-align:right;border:none;"><a class="oap_reftocite" alt="' + ident + 
+        	    '" title="' + ident + '" href="' + counter + '">[' + counter + 
         	    ']</a></td><td class="oap_theref" style="border:none;">' + reference + '</td></tr>';
             $('#oapreftable').append(reftab);
 
@@ -288,7 +289,7 @@
                     //var rec = storeref($(this))
                     var rec = {"missing":true};
                 }
-                writeref(rec,counter,$(this));
+                writeref(rec,counter,ident,$(this));
             });
         }
 
