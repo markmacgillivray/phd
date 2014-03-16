@@ -258,7 +258,7 @@
                     }
                 }
                 if ( data.publisher ) {
-                    reference += '<br>' + data.publisher;
+                    reference += '<br>' + data.publisher.name;
                 }
             }
 
