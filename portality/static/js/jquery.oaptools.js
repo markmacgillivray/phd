@@ -258,7 +258,11 @@
                     }
                 }
                 if ( data.publisher ) {
-                    reference += '<br>' + data.publisher.name;
+                    if ( name in data.publisher ) {
+                        reference += '<br>' + data.publisher.name;
+                    } else {
+                        reference += '<br>' + data.publisher;
+                    }
                 }
             }
 
