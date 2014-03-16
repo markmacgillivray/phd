@@ -233,12 +233,12 @@
                             reference += nm;
                         }
                     }
-                    reference += " ";
+                    reference.length > 0 ? reference += " " : false;
                 }
                 if ( data.year ) {
                     reference += "(" + data.year + ") ";
                 }
-                if ( reference.length > 0 ) { reference += '<br>'; }
+                reference.length > 0 ? reference += '<br>' : false;
                 if ( data.title ) {
                     reference += '<b>' + data.title + '</b>';
                 }
