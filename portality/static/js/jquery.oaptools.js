@@ -227,7 +227,7 @@
                 var reference = "";
                 if ( data.author ) {
                     for ( var i = 0; i < data.author.length; i++ ) {
-                        var nm = data.author[0].name
+                        var nm = data.author[i].name
                         if ( nm ) {
                             if ( i != 0 ) { reference += ", "; }
                             reference += nm;
