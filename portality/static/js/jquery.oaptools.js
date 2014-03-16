@@ -216,7 +216,7 @@
         }
 
         // the function that writes the reference to the page
-        var writetopage = function(data,counter,obj) {
+        var writeref = function(data,counter,obj) {
             // create the reference string
             if ( data.missing ) {
                 var reference = "? ";
@@ -236,7 +236,7 @@
                     reference += "(" + data.year + ") ";
                 }
                 if ( data.title ) {
-                    reference += '<i>' + data.title + '</i> ';
+                    reference += '<b>' + data.title + '</b> ';
                 }
                 if ( data.journal ) {
                     if ( data.journal.title ) {
@@ -250,8 +250,8 @@
 
             // update the in-document reference link
         	obj.html('[' + counter + ']');
-        	obj.attr('alt',data.id + ": " + reference);
-        	obj.attr('title',data.id + ": " + reference);
+        	obj.attr('alt','#' + data.id + ": " + data.title);
+        	obj.attr('title','#' + data.id + ": " + data.title);
 
             // add the link to the ref if possible
             if ( data.link ) {
@@ -259,10 +259,10 @@
             }
 
         	// then append reference to the docdiv
-        	var refdiv = '<div class="oap_references">' + 
-        	    '<a class="oap_reftocite" href="' + counter + '" style="width:50px;text-align:right;display:block;float:left;margin-right:5px;">[' + counter + ']</a>' + 
-        	    '<span class="oap_theref">' + reference + '</span></div>';
-            $(options.appendto).append(refdiv);
+        	var reftab = '<tr class="oap_references">' + 
+        	    '<td style="text-align:right;"><a class="oap_reftocite" href="' + counter + '">[' + counter + 
+        	    ']</a></td><td class="oap_theref">' + reference + '</td></tr>';
+            $('#oapreftable').append(reftab);
 
             // and attach click events
             $('.oap_reftocite').last().bind('click',backtocite);
@@ -270,6 +270,7 @@
         }
 
         writerefs = function(data) {
+            $(options.appendto).append('<table class="table" id="oapreftable"></table>');
             var refs = {};
             for ( var i = 0; i < data.hits.hits.length; i++ ) {
                 var d = data.hits.hits[i]['_source'];
@@ -285,7 +286,7 @@
                     //var rec = storeref($(this))
                     var rec = {"missing":true};
                 }
-                writetopage(rec,counter,$(this));
+                writeref(rec,counter,$(this));
             });
         }
 
