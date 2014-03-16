@@ -250,6 +250,12 @@
                     if ( data.journal.name ) {
                         reference += ' in ' + data.journal.name;
                     }
+                    if ( data.journal.volume ) {
+                        reference += " " + data.journal.volume;
+                    }
+                    if ( data.journal.issue ) {
+                        reference += " (" + data.journal.issue + ')';
+                    }
                 }
             }
 
