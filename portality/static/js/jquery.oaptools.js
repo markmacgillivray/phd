@@ -260,13 +260,13 @@
 
             // add the link to the ref if possible
             if ( data.link ) {
-                reference += '<br><a href="' + data.link[0].url + '">' + data.link[0].url + '</a>';
+                reference += '<br><a target="_blank" href="' + data.link[0].url + '">' + data.link[0].url + '</a>';
             }
 
         	// then append reference to the docdiv
         	var reftab = '<tr class="oap_references">' + 
-        	    '<td style="text-align:right;border:none;"><a class="oap_reftocite" alt="' + ident + 
-        	    '" title="' + ident + '" href="' + counter + '">[' + counter + 
+        	    '<td style="text-align:right;border:none;"><a class="oap_reftocite" alt="^ back to ' + ident + 
+        	    '" title="^ back to ' + ident + '" href="' + counter + '">[' + counter + 
         	    ']</a></td><td class="oap_theref" style="border:none;">' + reference + '</td></tr>';
             $('#oapreftable').append(reftab);
 
