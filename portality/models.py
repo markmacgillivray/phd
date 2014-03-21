@@ -36,6 +36,10 @@ class Lists(DomainObject):
     __type__ = 'lists'
 
 
+class Wellcome(DomainObject):
+    __type__ = 'wellcome'
+
+
 class Mission(DomainObject):
     __type__ = 'mission'
 
