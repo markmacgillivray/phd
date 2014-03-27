@@ -45,7 +45,7 @@ def root():
 @blueprint.route('/annotations')
 def index():
     # get all annotations and return them in a list
-    annotations = Annotation.all()
+    annotations = Annotation.getem()
     resp = make_response( json.dumps(annotations) )
     resp.mimetype = "application/json"
     return resp

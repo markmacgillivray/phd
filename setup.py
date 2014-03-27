@@ -11,7 +11,8 @@ setup(
         "Flask-WTF==0.8.3",
         "requests==1.1.0",
         "markdown",
-        "gitpython"
+        "topia.termextract"
+        #"gitpython"
         #"lxml"
     ],
     url = 'http://cottagelabs.com/',
