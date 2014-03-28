@@ -42,7 +42,7 @@ if exists.status_code != 200:
 # but links may not be that useful for vis anyway - they are just calculated from 
 # the ID columns 
 # also, need to strip pound signs from the values - done manually
-f = csv.DictReader(open('Wellcome Trust APCs 2012-13 - APCs 2012-13.csv'))
+f = csv.DictReader(open('wellcome.csv'))
 
 
 # for each line, process and load a record of it into the index
