@@ -205,7 +205,7 @@
         // a click event so the ref pointer goes to the reference in the list
         var gotoref = function(event) {
 	        event.preventDefault();
-            var number = $(this).html();
+            var number = $(this).html().replace('[','').replace(']','');
 	        window.scrollTo( 0, ($('.oap_reftocite:contains(' + number + ')').offset().top - options.refscrolloffset) )
 	    }
 
