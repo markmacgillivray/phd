@@ -271,7 +271,7 @@
         	obj.attr('alt','#' + ident + ": " + data.title);
         	obj.attr('title','#' + ident + ": " + data.title);
         	obj.addClass('hidden-print');
-        	obj.after('<span class="visible-print">[' + counter + ']</span>');
+        	obj.after('<span class="printref visible-print">[' + counter + ']</span>');
 
             // add the link to the ref if possible
             if ( data.link ) {
