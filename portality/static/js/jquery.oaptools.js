@@ -270,6 +270,8 @@
         	obj.html('[' + counter + ']');
         	obj.attr('alt','#' + ident + ": " + data.title);
         	obj.attr('title','#' + ident + ": " + data.title);
+        	obj.addClass('hidden-print');
+        	obj.after('<span class="visible-print">[' + counter + ']</span>');
 
             // add the link to the ref if possible
             if ( data.link ) {
@@ -279,8 +281,8 @@
         	// then append reference to the docdiv
         	var reftab = '<tr class="oap_references">' + 
         	    '<td style="text-align:right;border:none;"><a class="oap_reftocite" alt="^ back to ' + ident + 
-        	    '" title="^ back to ' + ident + '" href="' + counter + '">[' + counter + 
-        	    ']</a></td><td class="oap_theref" style="border:none;">' + reference + '</td></tr>';
+        	    '" title="^ back to ' + ident + '" href="' + counter + '">' + counter + 
+        	    '</a></td><td class="oap_theref" style="border:none;">' + reference + '</td></tr>';
             $('#oapreftable').append(reftab);
 
             // and attach click events
