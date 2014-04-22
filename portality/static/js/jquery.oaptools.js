@@ -329,3 +329,36 @@
 })(jQuery);
 
 
+/* ---------------------------------------------------------------------
+ * oap_figs()
+ *
+ * search for figures, and number then
+ * default refs are <span class="oap_fig"> tags
+ * ---------------------------------------------------------------------
+ */
+(function($){
+    $.fn.oap_figs = function(options) {
+        // specify the defaults
+        var defaults = {
+            identifier: '.oap_fig',
+            ignore: 'oap_ignore'
+        };
+        // and add in any overrides from the call
+        var options = $.extend(defaults, options);
+
+        // do the function
+        return this.each(function() {
+            // get this object
+            obj = $(this);
+
+            $(options.identifier).not(options.ignore).each(function(index) {
+                var counter = index + 1;
+                var content = "Figure " + counter + ": " + $(this).html();
+                $(this).html(content);
+            });
+
+        }); // end of the function  
+    };
+})(jQuery);
+
+
