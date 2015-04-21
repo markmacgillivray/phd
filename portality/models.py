@@ -20,6 +20,10 @@ from werkzeug import generate_password_hash, check_password_hash
 from flask.ext.login import UserMixin
 
 
+class Transcript(DomainObject):
+    __type__ = 'transcript'
+
+    
 class Reference(DomainObject):
     __type__ = 'reference'
 
