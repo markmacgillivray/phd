@@ -283,7 +283,7 @@
         	var reftab = '<tr class="oap_references">' + 
         	    '<td style="text-align:right;border:none;"><a class="hidden-print oap_reftocite" alt="^ back to ' + ident + 
         	    '" title="^ back to ' + ident + '" href="' + counter + '">' + counter + 
-        	    '</a><span class="printref">' + counter + '</span></td><td class="oap_theref" style="border:none;">' + reference + '</td></tr>';
+        	    '</a><span class="printref">' + counter + '</span></td><td class="oap_theref" style="border:none;"><p>' + reference + '</p></td></tr>';
             $('#oapreftable').append(reftab);
 
             // and attach click events
