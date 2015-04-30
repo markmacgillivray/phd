@@ -117,9 +117,9 @@
                     $(this).append('<a class="oap_anchor" name="' + anchorname + '"></a>');
                     var hdr = $(this).find('.oap_header').html();
                     hdr == null ? hdr = '' : hdr = hdr + ' ';
-                    $('#oap_TOC ul').append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
+                    $('#oap_TOC ul', obj).append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
                     if ( options.statictoo && d <= options.statictoodepth ) {
-                        $('#oap_nav ul').append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
+                        $('#oap_nav ul', obj).append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
                     }
                 };
             });
