@@ -80,6 +80,7 @@
         var options = $.extend(defaults, options);
         // do the function
         return this.each(function() {
+            var tid = 'oap_TOC_' + options.prependto.replace('#','');
             // get this object
             obj = $(this);
 
@@ -100,7 +101,7 @@
             };
 
             // add a TOC div to the page where required
-            $(options.prependto).prepend('<div id="oap_TOC"><ul style="list-style-type:none;"></ul></div>');
+            $(options.prependto).prepend('<div id="' + tid + '"><ul style="list-style-type:none;"></ul></div>');
 
             if ( options.statictoo ) {
                 // put a contents nav on the top that shows when contents is not in view
@@ -117,7 +118,7 @@
                     $(this).append('<a class="oap_anchor" name="' + anchorname + '"></a>');
                     var hdr = $(this).find('.oap_header').html();
                     hdr == null ? hdr = '' : hdr = hdr + ' ';
-                    $('#oap_TOC ul', obj).append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
+                    $('#' + tid + ' ul', obj).append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
                     if ( options.statictoo && d <= options.statictoodepth ) {
                         $('#oap_nav ul', obj).append('<li>' + $(this).oap_indent() + hdr + '<a href="#' + anchorname + '">' + $(this).oap_textonly() + '</a></li>');
                     }
@@ -126,8 +127,8 @@
 
             if ( options.statictoo ) {
                 // show the contents nav as appropriate, in expanded or collapsed form
-                var offtop = $('#oap_TOC').offset().top;
-                var offbottom = $('#oap_TOC').offset().top + $('#oap_TOC').height();
+                var offtop = $('#' + tid, obj).offset().top;
+                var offbottom = $('#' + tid, obj).offset().top + $('#' + tid, obj).height();
                 $(window).scroll(function() {
                     if ( (offtop < $(window).scrollTop() && $(window).scrollTop() < offbottom) || $(window).scrollTop() < 200 ) {
                         $('#oap_nav').hide();
