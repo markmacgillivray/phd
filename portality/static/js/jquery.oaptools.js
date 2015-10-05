@@ -277,7 +277,7 @@
             // add the link to the ref if possible
             if ( data.link ) {
                 reference += '<br><a class="hidden-print" target="_blank" href="' + data.link[0].url + '">' + data.link[0].url + '</a>';
-                reference += '<span class="printref">' + data.link[0].url + '</span>';
+                reference += '<span class="printref">' + data.link[0].url + '<br>(last accessed 30/09/2015)</span>';
             }
 
         	// then append reference to the docdiv
