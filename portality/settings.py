@@ -20,6 +20,7 @@ PUBLIC_REGISTER = False # Can people register publicly? If false, only the super
 ELASTIC_SEARCH_HOST = "http://127.0.0.1:9200" # remember the http:// or https://
 ELASTIC_SEARCH_DB = "phd"
 INITIALISE_INDEX = True # whether or not to try creating the index and required index types on startup
+INDEX_VERSION_GTONE = True
 NO_QUERY_VIA_API = ['account'] # list index types that should not be queryable via the API
 PUBLIC_ACCESSIBLE_JSON = True # can not logged in people get JSON versions of pages by querying for them?
 
@@ -65,15 +66,39 @@ MAPPINGS = {
                 }
             ]
         }
+    },
+    "pages" : {
+        "pages" : {
+            "properties": {
+                "content": {
+                    "type": "string"
+                }   
+            },
+            "dynamic_templates" : [
+                {
+                    "default" : {
+                        "match" : "*",
+                        "match_mapping_type": "string",
+                        "mapping" : {
+                            "type" : "multi_field",
+                            "fields" : {
+                                "{name}" : {"type" : "{dynamic_type}", "index" : "analyzed", "store" : "no"},
+                                "exact" : {"type" : "{dynamic_type}", "index" : "not_analyzed", "store" : "yes"}
+                            }
+                        }
+                    }
+                }
+            ]
+        }
     }
 }
 
-MAPPINGS['pages'] = {'pages':MAPPINGS['record']['record']}
 MAPPINGS['mission'] = {'mission':MAPPINGS['record']['record']}
 MAPPINGS['scholarship'] = {'scholarship':MAPPINGS['record']['record']}
 MAPPINGS['reference'] = {'reference':MAPPINGS['record']['record']}
 MAPPINGS['wikipedia'] = {'wikipedia':MAPPINGS['record']['record']}
 MAPPINGS['annotation'] = {'annotation':MAPPINGS['record']['record']}
-MAPPINGS['lists'] = {'lists':MAPPINGS['record']['record']}
+MAPPINGS['lists'] = {'lists':MAPPINGS['pages']['pages']}
 MAPPINGS['wellcome'] = {'wellcome':MAPPINGS['record']['record']}
 MAPPINGS['transcript'] = {'transcript':MAPPINGS['record']['record']}
+
